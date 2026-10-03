@@ -1,0 +1,20 @@
+{
+  "about": "Synthetic voices for the pre-rendered audio. Each is designed once from its description (scripts/audio/local_tts.py --design) and then reused through its reference clip, so a speaker sounds the same in every line. No real person's voice is cloned.",
+  "accent": "Native speaker of standard German (Hochdeutsch) from Germany, no foreign accent, natural relaxed everyday intonation.",
+  "referenceText": "Guten Tag! Ich erzähle Ihnen kurz von meinem Wochenende. Am Samstag war ich mit Freunden am See, und am Sonntag habe ich endlich mal wieder richtig ausgeschlafen.",
+  "voices": {
+    "f_young_0": "A young woman of about 24, bright and friendly voice, medium pitch, lively.",
+    "f_young_1": "A young woman of about 19, soft, slightly higher voice, a little shy but cheerful.",
+    "f_adult_0": "A woman of about 40, clear, warm and confident voice.",
+    "f_adult_1": "A woman of about 50, lower, slightly husky voice, brisk and practical.",
+    "f_senior_0": "An elderly woman of about 72, warm, slightly slower and softer voice.",
+    "f_senior_1": "An elderly woman of about 68, lively, clear voice with a friendly, energetic tone.",
+    "m_young_0": "A teenage boy of about 16, casual and lively voice.",
+    "m_young_1": "A young man of about 23, relaxed, medium-low voice, easygoing.",
+    "m_adult_0": "A man of about 45, calm, deep and friendly voice.",
+    "m_adult_1": "A man of about 35, brighter, energetic voice, speaks a little faster.",
+    "m_senior_0": "An elderly man of about 70, deep, slightly rough and calm voice.",
+    "m_senior_1": "An elderly man of about 75, gentle, slightly higher and thinner voice, unhurried.",
+    "narrator": "A man of about 50, very clear, neutral and calm voice of an exam announcer, steady pace."
+  }
+}

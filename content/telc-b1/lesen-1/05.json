@@ -6,65 +6,65 @@
   "topic": "freizeit",
   "difficulty": 2,
   "headlines": [
-    { "key": "a", "text": "Eine Nacht unter Sternen: Verein lädt zum Beobachten ein" },
-    { "key": "b", "text": "Umfrage: Spielen ohne Bildschirm liegt im Trend" },
-    { "key": "c", "text": "Sternschnuppen: In der Stadt am besten zu sehen" },
-    { "key": "d", "text": "Neues Geschäft verkauft gebrauchte Campingartikel" },
-    { "key": "e", "text": "Wiener Chor sucht erfahrene Sängerinnen und Sänger" },
-    { "key": "f", "text": "Neue Halle in Bern: Klettern ohne Seil" },
-    { "key": "g", "text": "Brettspiele: Vor allem Ältere spielen gern" },
-    { "key": "h", "text": "Singen ohne Noten: Ein Chor für alle" },
-    { "key": "i", "text": "Ausleihen statt kaufen: Zelt und Kajak fürs Wochenende" },
-    { "key": "j", "text": "Neue Kletterhalle: Kurse nur für Kinder" }
+    { "key": "a", "text": "Hobby-Astronomen laden zum Blick in den Himmel ein" },
+    { "key": "b", "text": "Würfel statt Handy: Ein altes Hobby kommt zurück" },
+    { "key": "c", "text": "Sternennacht in Bochum: Sternschnuppen am besten im Zentrum sehen" },
+    { "key": "d", "text": "Neuer Laden in Leipzig: Zelte und Kajaks günstig kaufen" },
+    { "key": "e", "text": "Chor in Wien: Neue Sänger müssen vorsingen" },
+    { "key": "f", "text": "Neu eröffnet: Klettern ohne Seil für jedes Niveau" },
+    { "key": "g", "text": "Umfrage: Brettspiele vor allem bei Älteren beliebt" },
+    { "key": "h", "text": "Keine Vorkenntnisse nötig: Ein Chor für alle" },
+    { "key": "i", "text": "Nicht kaufen, sondern leihen: Ausrüstung für Ausflüge" },
+    { "key": "j", "text": "Boulderhalle in Bern: Klettern nur für Kinder" }
   ],
   "texts": [
     {
       "n": 1,
       "text": "Brettspiele sind bei Erwachsenen so beliebt wie lange nicht. In einer Umfrage im Auftrag mehrerer Spieleverlage gaben 58 Prozent der Erwachsenen an, dass sie mindestens einmal im Monat mit Familie oder Freunden ein Brett- oder Kartenspiel spielen. Am häufigsten tun das junge Erwachsene zwischen 18 und 29 Jahren. Als wichtigsten Grund nennen die Befragten, dass man beim Spielen Zeit miteinander verbringt, ohne auf einen Bildschirm zu schauen. Viele treffen sich dafür regelmäßig zu Hause, aber auch Spielecafés werden immer beliebter. In vielen Städten gibt es inzwischen mehrere davon.",
       "answer": "b",
-      "explanation": "More than half of the adults play board or card games regularly, mainly to spend time together „ohne auf einen Bildschirm zu schauen“, so (b). Headline (g) names the wrong group: young adults between 18 and 29 play most often.",
-      "explanationDe": "Mehr als die Hälfte der Erwachsenen spielt regelmäßig Brett- oder Kartenspiele, vor allem, um Zeit miteinander zu verbringen, „ohne auf einen Bildschirm zu schauen“, also passt (b). Überschrift (g) nennt die falsche Gruppe: Am häufigsten spielen junge Erwachsene zwischen 18 und 29 Jahren.",
+      "explanation": "Board games are „so beliebt wie lange nicht“ – an old hobby is coming back – and people play them to spend time together „ohne auf einen Bildschirm zu schauen“, so (b). Headline (g) uses the text's words „Umfrage“ and „Brettspiele“, but names the wrong group: young adults between 18 and 29 play most often.",
+      "explanationDe": "Brettspiele sind „so beliebt wie lange nicht“ – ein altes Hobby kommt zurück –, und man spielt, um Zeit miteinander zu verbringen, „ohne auf einen Bildschirm zu schauen“. Also passt (b). Überschrift (g) benutzt die Wörter „Umfrage“ und „Brettspiele“ aus dem Text, nennt aber die falsche Gruppe: Am häufigsten spielen junge Erwachsene zwischen 18 und 29 Jahren.",
       "evidence": ["Brettspiele sind bei Erwachsenen so beliebt wie lange nicht", "ohne auf einen Bildschirm zu schauen"]
     },
     {
       "n": 2,
       "text": "Wer ein Zelt für ein Wochenende am See braucht, muss es nicht gleich kaufen. Im neuen „Leihladen“ im Leipziger Osten können sich Mitglieder Freizeitartikel für wenig Geld ausleihen. Im Angebot sind zum Beispiel Zelte, Schlafsäcke, Kajaks, Grills und sogar eine Musikanlage für Gartenpartys. Die Mitgliedschaft kostet 30 Euro im Jahr, dazu kommt eine kleine Gebühr pro Ausleihe. Geöffnet ist der Laden donnerstags und freitags von 15 bis 19 Uhr sowie samstags am Vormittag. Die Gründer hoffen, dass so weniger Dinge gekauft werden, die dann nur im Keller liegen.",
       "answer": "i",
-      "explanation": "In the new shop, members can borrow („ausleihen“) tents, kayaks and other leisure equipment instead of buying them, so (i). Headline (d) is a trap: the shop does not sell anything – you borrow things for a small fee.",
-      "explanationDe": "Im neuen Laden können Mitglieder Zelte, Kajaks und andere Freizeitartikel „ausleihen“, statt sie zu kaufen, also passt (i). Überschrift (d) ist eine Falle: Der Laden verkauft nichts – man leiht die Dinge gegen eine kleine Gebühr aus.",
+      "explanation": "In the new shop, members can borrow („ausleihen“) tents, kayaks and other leisure equipment instead of buying them, so (i). Headline (d) is a trap: it repeats „Laden“, „Leipzig“, „Zelte“ and „Kajaks“, but you cannot buy anything there – you borrow things for a small fee.",
+      "explanationDe": "Im neuen Laden können Mitglieder Zelte, Kajaks und andere Freizeitartikel „ausleihen“, statt sie zu kaufen, also passt (i). Überschrift (d) ist eine Falle: Sie wiederholt „Laden“, „Leipzig“, „Zelte“ und „Kajaks“, aber dort kann man nichts kaufen – man leiht die Dinge gegen eine kleine Gebühr aus.",
       "evidence": ["können sich Mitglieder Freizeitartikel für wenig Geld ausleihen"]
     },
     {
       "n": 3,
       "text": "Klettern ohne Seil – das ist Bouldern. In Bern hat jetzt die Boulderhalle „Griffig“ eröffnet. Auf 1.500 Quadratmetern gibt es Kletterwände in allen Schwierigkeitsstufen. Die Wände sind höchstens vier Meter hoch, unten liegen dicke Matten. Für Anfängerinnen und Anfänger gibt es jeden Mittwoch- und Sonntagabend einen Schnupperkurs, in dem sie die wichtigsten Regeln lernen. Kinder dürfen ab sechs Jahren mitmachen, wenn ein Erwachsener dabei ist. Die Halle ist täglich von 9 bis 23 Uhr geöffnet. Ein Tagesticket kostet 25 Franken.",
       "answer": "f",
-      "explanation": "A new bouldering hall – „Klettern ohne Seil“ – has opened in Bern, so (f). Headline (j) is wrong: the taster courses are for all beginners; children may only climb when an adult is with them.",
-      "explanationDe": "Eine neue Boulderhalle – „Klettern ohne Seil“ – hat in Bern eröffnet, also passt (f). Überschrift (j) ist falsch: Die Schnupperkurse sind für alle Anfänger; Kinder dürfen nur klettern, wenn ein Erwachsener dabei ist.",
-      "evidence": ["Klettern ohne Seil – das ist Bouldern", "In Bern hat jetzt die Boulderhalle „Griffig“ eröffnet"]
+      "explanation": "A new bouldering hall – „Klettern ohne Seil“ – has opened, with climbing walls „in allen Schwierigkeitsstufen“ (= for every level), so (f). Headline (j) is wrong: the hall is for everybody; children from six may only climb when an adult is with them.",
+      "explanationDe": "Eine neue Boulderhalle – „Klettern ohne Seil“ – hat eröffnet, mit Kletterwänden „in allen Schwierigkeitsstufen“ (= für jedes Niveau), also passt (f). Überschrift (j) ist falsch: Die Halle ist für alle; Kinder ab sechs Jahren dürfen nur klettern, wenn ein Erwachsener dabei ist.",
+      "evidence": ["Klettern ohne Seil – das ist Bouldern", "In Bern hat jetzt die Boulderhalle „Griffig“ eröffnet", "Kletterwände in allen Schwierigkeitsstufen"]
     },
     {
       "n": 4,
       "text": "In der Nacht vom 12. auf den 13. August kann man besonders viele Sternschnuppen sehen. Der Astronomie-Verein „Sternenblick“ lädt deshalb zu einer langen Sternennacht an seiner kleinen Sternwarte am Stadtrand von Bochum ein. Ab 21 Uhr erklären Hobby-Astronomen, was gerade am Himmel zu sehen ist, und man darf durch die großen Teleskope schauen. Weil es dort kaum Licht von Straßen und Häusern gibt, sind die Bedingungen ideal. Die Besucher sollten eine Decke und warme Kleidung mitbringen. Bei Regen fällt die Veranstaltung leider aus. Der Eintritt kostet 5 Euro, für Kinder ist er kostenlos.",
       "answer": "a",
-      "explanation": "An astronomy club invites people to a long night of watching shooting stars at its observatory, so (a). Headline (c) is the opposite: the conditions are ideal at the edge of town because there is „kaum Licht von Straßen und Häusern“.",
-      "explanationDe": "Ein Astronomie-Verein lädt zu einer langen Nacht an seiner Sternwarte ein: Man kann Sternschnuppen beobachten, also passt (a). Überschrift (c) sagt das Gegenteil: Die Bedingungen sind am Stadtrand ideal, weil es dort „kaum Licht von Straßen und Häusern“ gibt.",
-      "evidence": ["lädt deshalb zu einer langen Sternennacht", "kann man besonders viele Sternschnuppen sehen"]
+      "explanation": "Hobby astronomers invite people to their observatory to look at the sky through big telescopes, so (a). Headline (c) starts correctly, but then says the opposite: the conditions are ideal „am Stadtrand“ because there is „kaum Licht von Straßen und Häusern“ – not in the centre.",
+      "explanationDe": "Hobby-Astronomen laden zu ihrer Sternwarte ein, wo man durch große Teleskope in den Himmel schauen kann, also passt (a). Überschrift (c) beginnt richtig, sagt dann aber das Gegenteil: Die Bedingungen sind „am Stadtrand“ ideal, weil es dort „kaum Licht von Straßen und Häusern“ gibt – nicht im Zentrum.",
+      "evidence": ["lädt deshalb zu einer langen Sternennacht", "erklären Hobby-Astronomen, was gerade am Himmel zu sehen ist"]
     },
     {
       "n": 5,
       "text": "Viele Menschen sagen von sich: „Ich kann nicht singen.“ Genau für sie hat Martina Hofbauer in Wien den Chor „Mut zum Ton“ gegründet. Noten lesen muss dort niemand, und es gibt auch kein Vorsingen. Die Gruppe probt jeden Donnerstagabend in einem Pfarrsaal im 7. Bezirk. Gesungen werden einfache Lieder aus aller Welt. „Bei uns geht es um Spaß, nicht um Perfektion“, sagt die Chorleiterin. Inzwischen hat der Chor 35 Mitglieder zwischen 20 und 75 Jahren. Neue Sängerinnen und Sänger sind jederzeit willkommen.",
       "answer": "h",
-      "explanation": "The choir is for people who think they cannot sing: „Noten lesen muss dort niemand“ and there is no audition, so (h). Headline (e) is a trap: new singers are welcome, but they do not need any experience.",
-      "explanationDe": "Der Chor ist für Menschen, die glauben, dass sie nicht singen können: „Noten lesen muss dort niemand“, und es gibt kein Vorsingen, also passt (h). Überschrift (e) ist eine Falle: Neue Sängerinnen und Sänger sind willkommen, aber sie brauchen keine Erfahrung.",
+      "explanation": "The choir is for people who think they cannot sing: „Noten lesen muss dort niemand“ and there is no audition, so you need no previous knowledge – (h). Headline (e) is a trap: new singers are welcome, but there is „kein Vorsingen“.",
+      "explanationDe": "Der Chor ist für Menschen, die glauben, dass sie nicht singen können: „Noten lesen muss dort niemand“, und es gibt kein Vorsingen. Man braucht also keine Vorkenntnisse – (h). Überschrift (e) ist eine Falle: Neue Sängerinnen und Sänger sind willkommen, aber es gibt „kein Vorsingen“.",
       "evidence": ["Noten lesen muss dort niemand, und es gibt auch kein Vorsingen"]
     }
   ],
   "distractors": [
-    { "key": "c", "why": "Text 4 says the opposite: the observatory is at the edge of town because there is hardly any light from streets and houses there.", "whyDe": "Text 4 sagt das Gegenteil: Die Sternwarte liegt am Stadtrand, weil es dort kaum Licht von Straßen und Häusern gibt." },
-    { "key": "d", "why": "The shop in text 2 lends things („ausleihen“) to its members; it does not sell used camping equipment.", "whyDe": "Im Laden in Text 2 können Mitglieder Dinge „ausleihen“; er verkauft keine gebrauchten Campingartikel." },
-    { "key": "e", "why": "The choir in text 5 welcomes new singers, but it was founded for people without experience – no reading music, no audition.", "whyDe": "Der Chor in Text 5 freut sich über neue Sängerinnen und Sänger, aber er wurde für Menschen ohne Erfahrung gegründet – man muss keine Noten lesen, und es gibt kein Vorsingen." },
-    { "key": "g", "why": "According to text 1, young adults between 18 and 29 play most often, not older people.", "whyDe": "Laut Text 1 spielen junge Erwachsene zwischen 18 und 29 Jahren am häufigsten, nicht ältere Menschen." },
-    { "key": "j", "why": "In text 3 the taster courses are for all beginners; children from six may join if an adult is with them.", "whyDe": "In Text 3 sind die Schnupperkurse für alle Anfänger; Kinder ab sechs Jahren dürfen mitmachen, wenn ein Erwachsener dabei ist." }
+    { "key": "c", "why": "Text 4 is about a star night in Bochum, but it says the opposite about the place: the observatory is at the edge of town because there is hardly any light from streets and houses there.", "whyDe": "In Text 4 geht es um eine Sternennacht in Bochum, aber zum Ort sagt er das Gegenteil: Die Sternwarte liegt am Stadtrand, weil es dort kaum Licht von Straßen und Häusern gibt." },
+    { "key": "d", "why": "The shop in text 2 lends tents and kayaks („ausleihen“) to its members; you cannot buy them there – the text even says you do not have to buy a tent.", "whyDe": "Im Laden in Text 2 können Mitglieder Zelte und Kajaks „ausleihen“; kaufen kann man sie dort nicht – der Text sagt sogar, dass man ein Zelt nicht gleich kaufen muss." },
+    { "key": "e", "why": "The choir in text 5 in Vienna welcomes new singers, but there is „kein Vorsingen“ – it was founded for people without experience.", "whyDe": "Der Chor in Text 5 in Wien freut sich über neue Sängerinnen und Sänger, aber es gibt „kein Vorsingen“ – er wurde für Menschen ohne Erfahrung gegründet." },
+    { "key": "g", "why": "Text 1 is a survey about board games, but according to it young adults between 18 and 29 play most often, not older people.", "whyDe": "Text 1 ist eine Umfrage zu Brettspielen, aber laut Text spielen junge Erwachsene zwischen 18 und 29 Jahren am häufigsten, nicht ältere Menschen." },
+    { "key": "j", "why": "The bouldering hall in Bern (text 3) is for everybody, with taster courses for all beginners; children from six may only join if an adult is with them.", "whyDe": "Die Boulderhalle in Bern (Text 3) ist für alle, mit Schnupperkursen für alle Anfänger; Kinder ab sechs Jahren dürfen nur mitmachen, wenn ein Erwachsener dabei ist." }
   ],
   "glossary": [
     { "de": "das Brettspiel", "en": "board game" },
@@ -73,6 +73,7 @@
     { "de": "die Gebühr", "en": "fee" },
     { "de": "die Mitgliedschaft", "en": "membership" },
     { "de": "der Schnupperkurs", "en": "taster course" },
+    { "de": "die Ausrüstung", "en": "equipment, gear" },
     { "de": "die Sternschnuppe", "en": "shooting star" },
     { "de": "ausfallen", "en": "to be cancelled" },
     { "de": "proben", "en": "to rehearse" },

@@ -8,73 +8,73 @@
   "situations": [
     {
       "n": 1,
-      "text": "Ihr Mitbewohner braucht fürs Studium einen Laptop. Er möchte nicht viel bezahlen, will aber nach schlechten Erfahrungen auf keinen Fall ein Gerät ohne Garantie.",
+      "text": "Ihr Mitbewohner braucht für sein Studium einen Laptop. Er will wenig ausgeben, aber nach schlechten Erfahrungen nicht selbst bezahlen müssen, falls das Gerät in den ersten Monaten kaputtgeht.",
       "answer": "g",
-      "explanation": "„Laptops ab CHF 190“ and „12 Monate Garantie auf jedes Gerät“ – the shop for used electronics (g) is cheap and gives a guarantee. The Brockenhaus (c) also sells electrical devices, but „ohne Garantie“.",
-      "explanationDe": "„Laptops ab CHF 190“ und „12 Monate Garantie auf jedes Gerät“ – der Laden für gebrauchte Technik (g) ist günstig und gibt Garantie. Das Brockenhaus (c) verkauft auch Elektrogeräte, aber „ohne Garantie“."
+      "explanation": "„nicht selbst bezahlen müssen, falls das Gerät … kaputtgeht“ means he needs a guarantee. ReTech (g) gives „Ein Jahr Garantie – bei einem Defekt reparieren wir kostenlos“. The Brockenhaus (c) also sells „Laptops“, but „(ohne Garantie)“.",
+      "explanationDe": "„nicht selbst bezahlen müssen, falls das Gerät … kaputtgeht“ heißt: Er braucht eine Garantie. ReTech (g) gibt „Ein Jahr Garantie – bei einem Defekt reparieren wir kostenlos“. Das Brockenhaus (c) verkauft auch „Laptops“, aber „(ohne Garantie)“."
     },
     {
       "n": 2,
-      "text": "Sie möchten Ihre gut erhaltenen Markenkleider an ein Geschäft verkaufen. Das Geld brauchen Sie sofort, weil Sie nächste Woche die Kaution für Ihre neue Wohnung bezahlen müssen.",
+      "text": "Sie möchten Ihre kaum getragenen Designerkleider an ein Geschäft verkaufen. Das Geld brauchen Sie allerdings sofort, weil nächste Woche die Kaution für Ihre neue Wohnung fällig ist.",
       "answer": "x",
-      "explanation": "The vintage shop (e) takes designer clothes, but it sells them for you and pays „sobald Ihr Stück verkauft ist“ – not immediately. The antiquarian bookshop (d) pays cash at once („Barzahlung sofort“), but only for books, and the Brockenhaus (c) buys nothing. So the answer is x.",
-      "explanationDe": "Der Vintage-Laden (e) nimmt Designerkleidung an, aber er verkauft sie für dich und zahlt erst, „sobald Ihr Stück verkauft ist“ – nicht sofort. Das Antiquariat (d) zahlt sofort bar („Barzahlung sofort“), aber nur für Bücher, und das Brockenhaus (c) kauft nichts an. Die Lösung ist also x."
+      "explanation": "You need the money now. Zeitlos (e) takes designer clothes, but in commission: „Auszahlung, sobald Ihr Stück einen neuen Besitzer gefunden hat“ – that can take weeks. The Brockenhaus (c) only accepts donations: „kein Ankauf“. So x.",
+      "explanationDe": "Du brauchst das Geld sofort. Zeitlos (e) nimmt Designerkleider, aber in Kommission: „Auszahlung, sobald Ihr Stück einen neuen Besitzer gefunden hat“ – das kann Wochen dauern. Das Brockenhaus (c) nimmt nur Spenden: „kein Ankauf“. Also x."
     },
     {
       "n": 3,
-      "text": "Sie arbeiten unter der Woche von 7 bis 18 Uhr und schaffen es nie auf den Markt. Trotzdem möchten Sie jede Woche frisches Gemüse direkt vom Bauernhof essen.",
+      "text": "Sie arbeiten werktags von 7 bis 18 Uhr und schaffen es deshalb nie zum Markt. Trotzdem möchten Sie jede Woche frisches Gemüse von Bauern aus der Region essen.",
       "answer": "k",
-      "explanation": "„Gemüse-Abo vom Bauernhof“ and „Lieferung gratis bis vor Ihre Haustür …, auch abends bis 21 Uhr“ – the organic farm (k) brings the vegetables to you. The farmers' market (j) sells local vegetables, but only on Tuesday and Friday „6–11 Uhr“, when you are at work.",
-      "explanationDe": "„Gemüse-Abo vom Bauernhof“ und „Lieferung gratis bis vor Ihre Haustür …, auch abends bis 21 Uhr“ – der Biohof (k) bringt dir das Gemüse. Der Bauernmarkt (j) verkauft Gemüse aus der Region, aber nur dienstags und freitags „6–11 Uhr“, wenn du arbeitest."
+      "explanation": "You cannot go to a market, so the vegetables must come to you. Biohof Sonnhalde (k) delivers a box „Wöchentlich“ – „auch abends bis 21 Uhr“. The Bauernmarkt (j) has the same words („Frisch von Bauern aus der Region“, „Gemüse“), but it is a market on „Dienstag und Freitag, 8–12 Uhr“ – when you are at work.",
+      "explanationDe": "Du kannst nicht auf den Markt gehen, also muss das Gemüse zu dir kommen. Der Biohof Sonnhalde (k) liefert „Wöchentlich“ eine Kiste – „auch abends bis 21 Uhr“. Der Bauernmarkt (j) hat dieselben Wörter („Frisch von Bauern aus der Region“, „Gemüse“), aber er ist ein Markt am „Dienstag und Freitag, 8–12 Uhr“ – dann arbeitest du."
     },
     {
       "n": 4,
-      "text": "Sie möchten weniger Abfall produzieren. Deshalb wollen Sie Reis, Nudeln und Waschmittel in Ihre eigenen Gläser füllen, statt verpackte Ware zu kaufen.",
+      "text": "Sie möchten beim Einkaufen weniger Müll produzieren. Deshalb wollen Sie Grundnahrungsmittel wie Reis und Linsen und auch Ihr Waschpulver in mitgebrachte Behälter füllen.",
       "answer": "a",
-      "explanation": "„Reis, Nudeln … zum Abfüllen“, „Auch Waschmittel“ and „Bringen Sie Ihre eigenen Gläser … mit“ – the zero-waste shop (a) fits. At the market (j) you can buy loose vegetables, but no rice, pasta or washing powder.",
-      "explanationDe": "„Reis, Nudeln … zum Abfüllen“, „Auch Waschmittel“ und „Bringen Sie Ihre eigenen Gläser … mit“ – der Unverpackt-Laden (a) passt. Auf dem Markt (j) kannst du loses Gemüse kaufen, aber keinen Reis, keine Nudeln und kein Waschmittel."
+      "explanation": "You want to fill rice, lentils and washing powder into your own containers. The Unverpackt-Laden (a) sells „Reis, Nudeln, Hülsenfrüchte“ and „Wasch- und Putzmittel“ to fill into „eigene Gefäße“. The Bauernmarkt (j) also says „Weniger Müll: Bringen Sie eigene Taschen und Behälter mit!“, but it sells vegetables, cheese and eggs – no rice and no washing powder.",
+      "explanationDe": "Du willst Reis, Linsen und Waschpulver in eigene Behälter füllen. Der Unverpackt-Laden (a) verkauft „Reis, Nudeln, Hülsenfrüchte“ und „Wasch- und Putzmittel“ zum Abfüllen in „eigene Gefäße“. Der Bauernmarkt (j) schreibt auch „Weniger Müll: Bringen Sie eigene Taschen und Behälter mit!“, verkauft aber Gemüse, Käse und Eier – keinen Reis und kein Waschpulver."
     },
     {
       "n": 5,
-      "text": "Ihre Schwester erwartet ein Baby und möchte günstig gebrauchte Babysachen kaufen. Sie will vor den anderen Besuchern da sein, damit sie die beste Auswahl hat.",
+      "text": "Ihre Schwester ist schwanger und sucht einen gebrauchten Kinderwagen. Sie möchte auf einem Basar einkaufen, und zwar bevor der große Ansturm beginnt.",
       "answer": "f",
-      "explanation": "„Kleider für Babys“ and „Schwangere dürfen schon ab 8.30 Uhr einkaufen“ – at the children's clothes sale (f) your pregnant sister may come in before the others (opening is at 9 o'clock).",
-      "explanationDe": "„Kleider für Babys“ und „Schwangere dürfen schon ab 8.30 Uhr einkaufen“ – bei der Kinderkleiderbörse (f) darf deine schwangere Schwester vor den anderen hinein (Beginn ist um 9 Uhr)."
+      "explanation": "She is pregnant and wants to shop before the crowd. At the Kinderkleider- und Spielzeugbörse (f) there are „Kinderwagen“, and „Werdende Mütter dürfen schon ab 8.30 Uhr hinein“ – half an hour before everyone else. The Velo- und Kinderwagenbörse (b) also sells „gebrauchte Kinderwagen“, but nobody can come in earlier.",
+      "explanationDe": "Sie ist schwanger und will vor dem großen Andrang einkaufen. Bei der Kinderkleider- und Spielzeugbörse (f) gibt es „Kinderwagen“, und „Werdende Mütter dürfen schon ab 8.30 Uhr hinein“ – eine halbe Stunde vor allen anderen. Die Velo- und Kinderwagenbörse (b) verkauft auch „gebrauchte Kinderwagen“, aber dort darf niemand früher hinein."
     },
     {
       "n": 6,
-      "text": "Ihr Sohn (8) ist aus seinem Velo herausgewachsen. Sie möchten das alte Velo verkaufen und am gleichen Ort ein gebrauchtes, passendes Velo für ihn kaufen.",
+      "text": "Ihr Sohn (8) braucht ein größeres Velo. Sein altes möchten Sie dort abgeben, wo Sie auch ein gebrauchtes für ihn aussuchen können.",
       "answer": "b",
-      "explanation": "„Kaufen und verkaufen an einem Ort“ with „Annahme Ihrer Velos“ and „Velos für Kinder und Erwachsene“ – at the bike market (b) you can do both. The flea market (h) says „keine Velos“.",
-      "explanationDe": "„Kaufen und verkaufen an einem Ort“ mit „Annahme Ihrer Velos“ und „Velos für Kinder und Erwachsene“ – bei der Velobörse (b) kannst du beides machen. Beim Flohmarkt (h) steht: „keine Velos“."
+      "explanation": "You want to sell the old bike and buy a used one in the same place. The Velo- und Kinderwagenbörse (b) says „Kaufen und verkaufen an einem Ort“ and sells „Velos für Kinder und Erwachsene“. The flea market (h) is for „Gebrauchtes von privat“, but „kein Velo-Verkauf“.",
+      "explanationDe": "Du willst das alte Velo abgeben und am selben Ort ein gebrauchtes kaufen. Die Velo- und Kinderwagenbörse (b) schreibt „Kaufen und verkaufen an einem Ort“ und verkauft „Velos für Kinder und Erwachsene“. Der Flohmarkt (h) ist für „Gebrauchtes von privat“, aber dort steht „kein Velo-Verkauf“."
     },
     {
       "n": 7,
-      "text": "Ihr verstorbener Onkel hatte Hunderte von alten Büchern. Sie möchten die ganze Sammlung verkaufen, können die Kisten aber nicht selbst transportieren.",
+      "text": "Ihr verstorbener Onkel besaß Hunderte von alten Büchern. Sie möchten die ganze Sammlung verkaufen, haben aber kein Auto, um die schweren Kisten wegzubringen.",
       "answer": "d",
-      "explanation": "„Ankauf … ganzer Sammlungen“ and „kommen wir zu Ihnen nach Hause und holen alles ab“ – the antiquarian bookshop (d) buys and collects the books. The Brockenhaus (c) does not buy anything („kein Ankauf“), and you must bring books there yourself.",
-      "explanationDe": "„Ankauf … ganzer Sammlungen“ und „kommen wir zu Ihnen nach Hause und holen alles ab“ – das Antiquariat (d) kauft die Bücher und holt sie ab. Das Brockenhaus (c) kauft nichts an („kein Ankauf“), und Bücher musst du selbst hinbringen."
+      "explanation": "You want to sell the whole collection and cannot transport it. Antiquariat Bücherwurm (d) offers „Ankauf einzelner Titel und ganzer Bibliotheken“ and says „Größere Bestände holen wir kostenlos bei Ihnen ab“. The Brockenhaus (c) mentions „Bücher“ and „Kein Auto?“, but it does not buy anything („kein Ankauf“), and books must be brought „selbst“.",
+      "explanationDe": "Du willst die ganze Sammlung verkaufen und kannst sie nicht transportieren. Das Antiquariat Bücherwurm (d) bietet „Ankauf einzelner Titel und ganzer Bibliotheken“ an und schreibt „Größere Bestände holen wir kostenlos bei Ihnen ab“. Das Brockenhaus (c) nennt „Bücher“ und „Kein Auto?“, kauft aber nichts („kein Ankauf“), und Bücher muss man „selbst vorbeibringen“."
     },
     {
       "n": 8,
-      "text": "Sie suchen für Ihre Freundin ein handgemachtes Weihnachtsgeschenk, zum Beispiel eine Vase aus Keramik. Einkaufen können Sie nur am Wochenende.",
+      "text": "Sie suchen für Ihre Freundin ein Weihnachtsgeschenk, das jemand selbst hergestellt hat, zum Beispiel eine Vase. Zum Einkaufen haben Sie nur samstags und sonntags Zeit.",
       "answer": "i",
-      "explanation": "„Handgemachtes“, „Keramik“ and „An allen vier Adventswochenenden, Sa. und So.“ – the craft market (i) is right before Christmas and open at weekends. The flea market (h) is also on Saturdays, but only „von April bis Oktober“.",
-      "explanationDe": "„Handgemachtes“, „Keramik“ und „An allen vier Adventswochenenden, Sa. und So.“ – der Kunsthandwerksmarkt (i) ist direkt vor Weihnachten und am Wochenende geöffnet. Der Flohmarkt (h) ist auch samstags, aber nur „von April bis Oktober“."
+      "explanation": "The gift must be handmade, and you can only shop at the weekend. At „Kunsthandwerk im Advent“ (i) artists show „ihre eigenen Arbeiten“, for example „Keramik“, „Sa. und So.“. The flea market (h) is on Saturdays too, but it sells only second-hand things: „Gebrauchtes von privat – keine Neuware“.",
+      "explanationDe": "Das Geschenk soll handgemacht sein, und du kannst nur am Wochenende einkaufen. Bei „Kunsthandwerk im Advent“ (i) zeigen Künstler „ihre eigenen Arbeiten“, zum Beispiel „Keramik“, und zwar „Sa. und So.“. Der Flohmarkt (h) ist auch samstags, verkauft aber nur gebrauchte Sachen: „Gebrauchtes von privat – keine Neuware“."
     },
     {
       "n": 9,
-      "text": "Am Freitagabend entscheiden Sie spontan, am nächsten Tag auf einem Flohmarkt altes Geschirr und Bücher zu verkaufen.",
+      "text": "Am Freitagabend beschließen Sie spontan, am nächsten Morgen auf einem Flohmarkt altes Geschirr und Bücher anzubieten.",
       "answer": "x",
-      "explanation": "The flea market (h) takes place on Saturdays, but you must register „online bis Donnerstag, 18 Uhr“ – Friday evening is too late. The children's sale (f) only accepts children's things, and the sellers' numbers are „bereits ausgebucht“. So no ad fits: x.",
-      "explanationDe": "Der Flohmarkt (h) findet samstags statt, aber du musst dich „online bis Donnerstag, 18 Uhr“ anmelden – Freitagabend ist zu spät. Die Kinderbörse (f) nimmt nur Sachen für Kinder an, und die Nummern für Verkäufer sind „bereits ausgebucht“. Keine Anzeige passt also: x."
+      "explanation": "The flea market (h) is on Saturdays and even mentions „altes Geschirr, Bücher“, but you must register „online bis Donnerstag, 18 Uhr“ – on Friday evening it is too late. The Börse (b) accepts goods on Friday evening, but „nur Velos, Kinderwagen und Babyschalen“. So x.",
+      "explanationDe": "Der Flohmarkt (h) ist samstags und nennt sogar „altes Geschirr, Bücher“, aber es gilt: „Anmeldung online bis Donnerstag, 18 Uhr“ – am Freitagabend ist es zu spät. Die Börse (b) nimmt am Freitagabend Sachen an, aber „nur Velos, Kinderwagen und Babyschalen“. Also x."
     },
     {
       "n": 10,
-      "text": "Einige Ihrer Kleider passen Ihnen nicht mehr. Sie möchten sie gegen andere Kleidung tauschen, ohne dafür Geld auszugeben.",
+      "text": "Einige Ihrer Kleidungsstücke passen Ihnen nicht mehr. Sie möchten sie gegen etwas Passendes eintauschen, ohne dafür zu bezahlen.",
       "answer": "l",
-      "explanation": "„Kleidertausch“ and „Kein Geld nötig“ – at the clothes swap (l) you bring clothes and take others home. The vintage shop (e) and the Brockenhaus (c) take clothes, but they do not swap them.",
-      "explanationDe": "„Kleidertausch“ und „Kein Geld nötig“ – beim Kleidertausch (l) bringst du Kleidung mit und nimmst andere mit nach Hause. Der Vintage-Laden (e) und das Brockenhaus (c) nehmen Kleidung an, aber sie tauschen sie nicht."
+      "explanation": "You want to swap clothes without paying. At the Kleidertausch (l) you bring clothes and choose others – „Kein Geld nötig“. Zeitlos (e) starts with exactly your problem („Kleidungsstücke, die nicht mehr passen?“), but it sells them for money – you get nothing in exchange.",
+      "explanationDe": "Du willst Kleidung tauschen und nichts bezahlen. Beim Kleidertausch (l) bringst du Kleidung mit und suchst dir andere aus – „Kein Geld nötig“. Zeitlos (e) beginnt genau mit deinem Problem („Kleidungsstücke, die nicht mehr passen?“), verkauft sie aber gegen Geld – zum Tauschen bekommst du nichts."
     }
   ],
   "ads": [
@@ -83,20 +83,20 @@
       "heading": "Füllstation – der Unverpackt-Laden",
       "subheading": "Einkaufen ohne Abfall",
       "lines": [
-        "Reis, Nudeln, Nüsse, Gewürze, Öl und Essig zum Abfüllen",
-        "Auch Waschmittel und Putzmittel",
-        "Bringen Sie Ihre eigenen Gläser und Dosen mit – oder leihen Sie unsere.",
+        "Reis, Nudeln, Hülsenfrüchte, Gewürze, Öl und Essig zum Abfüllen",
+        "Auch Wasch- und Putzmittel",
+        "Bringen Sie eigene Gefäße mit – oder leihen Sie unsere.",
         "Mo.–Fr. 9–19 Uhr, Sa. 9–17 Uhr"
       ],
-      "footer": "Linsengasse 4, 8001 Zürich · www.ohne-abfall.ch"
+      "footer": "Spiegelgasse 4, 8001 Zürich · www.ohne-abfall.ch"
     },
     {
       "key": "b",
-      "heading": "Velobörse im Quartierzentrum",
+      "heading": "Velo- und Kinderwagenbörse im Quartierzentrum",
       "subheading": "Kaufen und verkaufen an einem Ort",
       "lines": [
-        "Annahme Ihrer Velos: Freitag, 4. April, 17–19 Uhr",
-        "Verkauf: Samstag, 5. April, 9–13 Uhr – Velos für Kinder und Erwachsene",
+        "Annahme: Freitag, 4. April, 17–19 Uhr – nur Velos, Kinderwagen und Babyschalen",
+        "Verkauf: Samstag, 5. April, 9–13 Uhr – gebrauchte Kinderwagen und Velos für Kinder und Erwachsene",
         "Sie bestimmen den Preis, wir behalten 15 % Gebühr.",
         "Probefahrt im Hof möglich"
       ],
@@ -107,11 +107,10 @@
       "heading": "Brockenhaus Limmattal",
       "subheading": "Secondhand mit gutem Zweck",
       "lines": [
-        "Möbel, Geschirr, Bücher, Kleider und Elektrogeräte (ohne Garantie)",
+        "Möbel, Geschirr, Bücher, Kleider, Laptops und andere Elektrogeräte (ohne Garantie)",
         "Wir nehmen gut erhaltene Sachen als Spende an – kein Ankauf.",
-        "Abholung von Möbeln gratis, Bücher und Kleider bitte vorbeibringen",
-        "Di.–Sa. 10–18 Uhr",
-        "Der Erlös geht an Projekte für Arbeitslose."
+        "Kein Auto? Möbel holen wir gratis ab – Bücher und Kleider bitte selbst vorbeibringen.",
+        "Di.–Sa. 10–18 Uhr – der Erlös geht an Projekte für Arbeitslose."
       ],
       "footer": "Badenerweg 210, 8048 Zürich · Tel. 044 431 77 02 · www.brocki-limmattal.ch"
     },
@@ -120,8 +119,8 @@
       "heading": "Antiquariat Bücherwurm",
       "subheading": "Alte, seltene und schöne Bücher",
       "lines": [
-        "Ankauf einzelner Bücher und ganzer Sammlungen",
-        "Für ganze Bibliotheken kommen wir zu Ihnen nach Hause und holen alles ab.",
+        "Ankauf einzelner Titel und ganzer Bibliotheken",
+        "Größere Bestände holen wir kostenlos bei Ihnen ab.",
         "Barzahlung sofort",
         "Mi.–Sa. 11–18.30 Uhr"
       ],
@@ -131,9 +130,10 @@
       "key": "e",
       "heading": "Zeitlos – Vintage & Designer-Secondhand",
       "lines": [
+        "Kleidungsstücke, die nicht mehr passen? Wir verkaufen sie für Sie!",
         "Markenkleider, Taschen und Schuhe aus zweiter Hand",
         "Wir verkaufen Ihre Kleider in Kommission: Sie erhalten 50 % des Verkaufspreises.",
-        "Auszahlung, sobald Ihr Stück verkauft ist",
+        "Auszahlung, sobald Ihr Stück einen neuen Besitzer gefunden hat",
         "Annahme nur Di. und Do. nach Terminvereinbarung"
       ],
       "footer": "Florhofweg 7, 8008 Zürich · Tel. 044 383 40 56"
@@ -144,7 +144,7 @@
       "lines": [
         "Samstag, 22. März, 9–12 Uhr, im Gemeinschaftszentrum",
         "Kleider für Babys und Kinder bis 12 Jahre, Spielsachen, Kinderwagen",
-        "Schwangere dürfen schon ab 8.30 Uhr einkaufen.",
+        "Werdende Mütter dürfen schon ab 8.30 Uhr hinein.",
         "Für Verkäuferinnen und Verkäufer: Alle Nummern sind bereits ausgebucht."
       ],
       "footer": "Elternverein Kreis 6 · www.kinderbazar-kreis6.ch"
@@ -156,7 +156,7 @@
       "lines": [
         "Laptops ab CHF 190, Smartphones ab CHF 120, Tablets ab CHF 150",
         "Alle Geräte von unseren Technikern geprüft und gereinigt",
-        "12 Monate Garantie auf jedes Gerät",
+        "Ein Jahr Garantie – bei einem Defekt reparieren wir kostenlos.",
         "Studierende erhalten 10 % Rabatt."
       ],
       "footer": "Technikumgasse 3, 8005 Zürich · www.retech-occasionen.ch"
@@ -166,16 +166,16 @@
       "heading": "Flohmarkt am Seeufer",
       "lines": [
         "Jeden Samstag von April bis Oktober, 7–16 Uhr",
-        "Nur private Verkäufer – keine Neuware, keine Velos",
+        "Gebrauchtes von privat – keine Neuware, kein Velo-Verkauf",
         "Standplatz CHF 40, Anmeldung online bis Donnerstag, 18 Uhr",
-        "Der Markt findet bei jedem Wetter statt."
+        "Schönes altes Geschirr, Bücher, Schallplatten – der Markt findet bei jedem Wetter statt."
       ],
       "footer": "www.flohmarkt-seeufer.ch"
     },
     {
       "key": "i",
       "heading": "Kunsthandwerk im Advent",
-      "subheading": "Handgemachtes von über 80 Ausstellern",
+      "subheading": "Über 80 Ausstellerinnen und Aussteller zeigen ihre eigenen Arbeiten",
       "lines": [
         "Keramik, Schmuck, Holzspielzeug, Kerzen und Wollsachen",
         "An allen vier Adventswochenenden, Sa. und So. 11–20 Uhr",
@@ -187,9 +187,11 @@
     {
       "key": "j",
       "heading": "Bauernmarkt am Lindenplatz",
+      "subheading": "Frisch von Bauern aus der Region",
       "lines": [
-        "Gemüse, Obst, Käse, Brot und Fleisch direkt von Bauernhöfen aus der Region",
-        "Jeden Dienstag und Freitag, 6–11 Uhr",
+        "Gemüse, Obst, Käse, Brot und Eier",
+        "Weniger Müll: Bringen Sie eigene Taschen und Behälter mit!",
+        "Jeden Dienstag und Freitag, 8–12 Uhr",
         "Tram 4, Haltestelle Lindenplatz"
       ],
       "footer": "Marktverein Lindenplatz"
@@ -197,10 +199,10 @@
     {
       "key": "k",
       "heading": "Biohof Sonnhalde",
-      "subheading": "Ihr Gemüse-Abo vom Bauernhof",
+      "subheading": "Ihr Abo direkt vom Hof",
       "lines": [
-        "Jede Woche eine Kiste mit frischem Bio-Gemüse der Saison",
-        "Lieferung gratis bis vor Ihre Haustür (Stadt Zürich), auch abends bis 21 Uhr",
+        "Wöchentlich eine Kiste mit Bio-Gemüse der Saison",
+        "Wir liefern gratis bis vor Ihre Haustür (Stadt Zürich), auch abends bis 21 Uhr.",
         "Kleine Kiste CHF 28, Familienkiste CHF 45",
         "Jederzeit kündbar"
       ],
@@ -211,7 +213,7 @@
       "heading": "Tauschen statt kaufen!",
       "subheading": "Kleidertausch im Quartiertreff",
       "lines": [
-        "Bringen Sie bis zu 10 saubere Kleidungsstücke mit und nehmen Sie andere mit nach Hause.",
+        "Bringen Sie bis zu 10 saubere Teile mit und suchen Sie sich andere aus.",
         "Kein Geld nötig",
         "Jeden letzten Sonntag im Monat, 14–17 Uhr",
         "Was übrig bleibt, geht an ein Brockenhaus."
@@ -223,14 +225,14 @@
     { "de": "das Brockenhaus (schweiz.)", "en": "charity second-hand shop" },
     { "de": "die Occasion (schweiz.)", "en": "second-hand item, used goods" },
     { "de": "das Velo (schweiz.)", "en": "bicycle" },
-    { "de": "das Tram (schweiz.)", "en": "tram" },
     { "de": "in Kommission verkaufen", "en": "to sell on behalf of the owner for a share of the price" },
     { "de": "die Auszahlung", "en": "payout" },
     { "de": "der Ankauf", "en": "purchase (a shop buying from customers)" },
-    { "de": "der Erlös", "en": "proceeds, takings" },
-    { "de": "der Standplatz", "en": "stall space (at a market)" },
+    { "de": "der Bestand", "en": "stock, collection" },
     { "de": "die Neuware", "en": "new goods" },
     { "de": "abfüllen", "en": "to fill (into a container)" },
-    { "de": "ausgebucht", "en": "fully booked" }
+    { "de": "die Hülsenfrüchte (Pl.)", "en": "pulses (lentils, beans, peas)" },
+    { "de": "werdende Mütter", "en": "expectant mothers" },
+    { "de": "der Ansturm", "en": "rush, crowd" }
   ]
 }

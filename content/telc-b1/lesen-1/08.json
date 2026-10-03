@@ -7,11 +7,11 @@
   "difficulty": 2,
   "headlines": [
     { "key": "a", "text": "Umfrage: Online-Kurse vor allem bei Rentnern beliebt" },
-    { "key": "b", "text": "Dresden: Lesekurse für Schulkinder mit Problemen" },
+    { "key": "b", "text": "Dresden: Kinder lernen abends lesen und schreiben" },
     { "key": "c", "text": "Professoren erklären Kindern die Welt" },
     { "key": "d", "text": "Schulpsychologin rät: Schulwechsel lieber vermeiden" },
     { "key": "e", "text": "Hilfe bei den Hausaufgaben – einfach anrufen" },
-    { "key": "f", "text": "Nie zu spät: Lesen und Schreiben lernen als Erwachsener" },
+    { "key": "f", "text": "Nie zu spät zum Lesenlernen: Kurse für Erwachsene" },
     { "key": "g", "text": "Pensionierte Lehrer lösen Aufgaben für Schüler" },
     { "key": "h", "text": "Welche Schule passt? Ein Buch hilft bei der Wahl" },
     { "key": "i", "text": "Umfrage: Weiterbildung immer öfter im Internet" },
@@ -54,14 +54,14 @@
       "n": 5,
       "text": "Rund sechs Millionen Erwachsene in Deutschland können nicht richtig lesen und schreiben. Viele schämen sich dafür und sprechen mit niemandem darüber. Ein Bildungsverein in Dresden bietet deshalb ab Februar Kurse an, in denen Erwachsene in kleinen Gruppen von höchstens sechs Personen lesen und schreiben lernen. Die Kurse finden abends statt, damit auch Berufstätige teilnehmen können. Für Menschen mit wenig Geld sind sie kostenlos. Wer Interesse hat, kann sich telefonisch beraten lassen – auf Wunsch auch ohne seinen Namen zu nennen.",
       "answer": "f",
-      "explanation": "Adults who cannot read and write well can learn it in small evening groups, so (f). Headline (b) names the wrong group: the courses are for adults, not for school children.",
-      "explanationDe": "Erwachsene, die nicht gut lesen und schreiben können, lernen es abends in kleinen Gruppen, also passt (f). Überschrift (b) nennt die falsche Gruppe: Die Kurse sind für Erwachsene, nicht für Schulkinder.",
+      "explanation": "Adults who cannot read and write well can learn it in small evening groups, so (f). Headline (b) repeats „Dresden“, „abends“ and „lesen und schreiben“, but names the wrong group: the courses are for adults, not for children.",
+      "explanationDe": "Erwachsene, die nicht gut lesen und schreiben können, lernen es abends in kleinen Gruppen, also passt (f). Überschrift (b) wiederholt „Dresden“, „abends“ und „lesen und schreiben“, nennt aber die falsche Gruppe: Die Kurse sind für Erwachsene, nicht für Kinder.",
       "evidence": ["in denen Erwachsene in kleinen Gruppen von höchstens sechs Personen lesen und schreiben lernen"]
     }
   ],
   "distractors": [
     { "key": "a", "why": "Text 1 is about working people („Berufstätige“, „Beschäftigten“). Pensioners are not mentioned.", "whyDe": "In Text 1 geht es um Menschen, die arbeiten („Berufstätige“, „Beschäftigten“). Rentner werden nicht erwähnt." },
-    { "key": "b", "why": "The courses in text 5 are for adults („Erwachsene“) who cannot read and write well, not for school children.", "whyDe": "Die Kurse in Text 5 sind für „Erwachsene“, die nicht gut lesen und schreiben können, nicht für Schulkinder." },
+    { "key": "b", "why": "The evening courses in Dresden (text 5) are for adults („Erwachsene“) who cannot read and write well, not for children.", "whyDe": "Die Abendkurse in Dresden (Text 5) sind für „Erwachsene“, die nicht gut lesen und schreiben können, nicht für Kinder." },
     { "key": "d", "why": "In text 3 the author says the opposite: even if you want to change school later, you have many possibilities.", "whyDe": "In Text 3 sagt die Autorin das Gegenteil: Auch wer später die Schule wechseln möchte, hat viele Möglichkeiten." },
     { "key": "g", "why": "In text 2 the retired teachers only explain the subject; the children must solve the tasks themselves.", "whyDe": "In Text 2 erklären die pensionierten Lehrer nur den Stoff; die Aufgaben müssen die Kinder selbst lösen." },
     { "key": "j", "why": "In text 4 parents have to stay outside and can have a coffee in the foyer during the lecture.", "whyDe": "In Text 4 müssen die Eltern draußen bleiben und können während der Vorlesung im Foyer einen Kaffee trinken." }

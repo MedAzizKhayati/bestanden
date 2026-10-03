@@ -8,73 +8,73 @@
   "situations": [
     {
       "n": 1,
-      "text": "Sie arbeiten im Schichtdienst und kommen oft erst gegen 23 Uhr nach Hause. Danach möchten Sie noch an Geräten trainieren.",
+      "text": "Sie arbeiten in der Spätschicht und kommen meistens erst weit nach Mitternacht nach Hause. Danach möchten Sie noch eine Stunde an Kraftgeräten trainieren.",
       "answer": "c",
-      "explanation": "„Rund um die Uhr geöffnet – 7 Tage die Woche“ – the gym (c) is open 24 hours, so you can train after 11 p.m. The women's gym (g) closes at „22 Uhr“.",
-      "explanationDe": "„Rund um die Uhr geöffnet – 7 Tage die Woche“ – das Fitnessstudio (c) ist 24 Stunden geöffnet, du kannst also auch nach 23 Uhr trainieren. Das Frauen-Fitnessstudio (g) schließt um „22 Uhr“."
+      "explanation": "You get home after midnight. Only FitPoint 24 (c) is open then: „Rund um die Uhr geöffnet“. Fitness Basis (k) sounds right („Trainieren bis Mitternacht“), but it is open „Täglich 6–24 Uhr“ – it closes at midnight.",
+      "explanationDe": "Du kommst erst nach Mitternacht nach Hause. Nur FitPoint 24 (c) hat dann offen: „Rund um die Uhr geöffnet“. Fitness Basis (k) klingt passend („Trainieren bis Mitternacht“), ist aber „Täglich 6–24 Uhr“ geöffnet – um Mitternacht ist Schluss."
     },
     {
       "n": 2,
-      "text": "Ihre Schwester möchte vormittags an Geräten trainieren – am liebsten nur unter Frauen. Ihr Sohn (2) soll in dieser Zeit betreut werden.",
+      "text": "Ihre Schwester möchte vormittags an Geräten trainieren, aber nicht zusammen mit Männern. Ihr zweijähriger Sohn soll in dieser Zeit gut betreut werden.",
       "answer": "g",
-      "explanation": "„nur für Frauen“ and „Kinderbetreuung Mo.–Fr. 9–12 Uhr“ – the women's gym (g) fits both wishes. The running school (h) has a group for mothers, but they run outside with the pram – there are no machines and no childcare.",
-      "explanationDe": "„nur für Frauen“ und „Kinderbetreuung Mo.–Fr. 9–12 Uhr“ – das Frauen-Fitnessstudio (g) erfüllt beide Wünsche. Die Laufschule (h) hat eine Gruppe für Mütter, aber die Mütter laufen draußen mit dem Kinderwagen – es gibt keine Geräte und keine Kinderbetreuung."
+      "explanation": "Three things: machines, only women, childcare in the morning. Studio Venus (g) is „Fitness nur für Frauen“ with „Moderne Geräte“ and „Kinderbetreuung Mo.–Fr. 9–12 Uhr“. The yoga studio (e) has „Mama-Yoga vormittags – mit Kinderbetreuung“, but yoga is not training on machines.",
+      "explanationDe": "Drei Dinge: Geräte, nur Frauen, Kinderbetreuung am Vormittag. Studio Venus (g) ist „Fitness nur für Frauen“ mit „Moderne Geräte“ und „Kinderbetreuung Mo.–Fr. 9–12 Uhr“. Das Yogastudio (e) hat „Mama-Yoga vormittags – mit Kinderbetreuung“, aber Yoga ist kein Training an Geräten."
     },
     {
       "n": 3,
-      "text": "Ihr Vater (56) hat oft Rückenschmerzen. Er sucht einen Kurs, bei dem die Krankenkasse einen Teil der Kosten übernimmt.",
+      "text": "Ihr Vater (56) hat seit Monaten Beschwerden im unteren Rücken. Er sucht einen Gesundheitskurs, dessen Gebühr zum größten Teil die Krankenkasse bezahlt.",
       "answer": "l",
-      "explanation": "„Für Erwachsene jeden Alters“ and „Ihre Krankenkasse übernimmt bis zu 80 % der Kosten“ – the back course (l) fits. The gymnastics for the back (j) is also paid partly by health insurers, but it is „Nur für Menschen ab 60 Jahren“.",
-      "explanationDe": "„Für Erwachsene jeden Alters“ und „Ihre Krankenkasse übernimmt bis zu 80 % der Kosten“ – der Rückenkurs (l) passt. Die Rückengymnastik (j) wird auch zum Teil von Krankenkassen bezahlt, aber sie ist „Nur für Menschen ab 60 Jahren“."
+      "explanation": "He is 56 and wants a course that the health insurance mostly pays for. The Rückenschule (l) is „Für Erwachsene jeden Alters“ and the insurance pays „80 % der Kosten“. „Fit ab 60“ (j) also has „Gesundheitskurse für Rücken“, but „Nur für Menschen ab 60 Jahren“.",
+      "explanationDe": "Er ist 56 und sucht einen Kurs, den die Krankenkasse größtenteils bezahlt. Die Rückenschule (l) ist „Für Erwachsene jeden Alters“, und die Kasse übernimmt „80 % der Kosten“. „Fit ab 60“ (j) hat auch „Gesundheitskurse für Rücken“, aber „Nur für Menschen ab 60 Jahren“."
     },
     {
       "n": 4,
-      "text": "Ihr Mitbewohner möchte ab sofort in einem Fitnessstudio trainieren. Weil er im Sommer in eine andere Stadt zieht, möchte er keinen langen Vertrag.",
+      "text": "Ihr Mitbewohner möchte ab sofort regelmäßig ins Fitnessstudio gehen. Weil er im Sommer in eine andere Stadt zieht, will er sich höchstens für drei Monate vertraglich verpflichten.",
       "answer": "x",
-      "explanation": "The 24-hour gym (c) requires a contract of at least a year („bei 12 Monaten Mindestlaufzeit“). The other gym (g) is „monatlich kündbar“, but only „für Frauen“. So no gym fits your flatmate: x.",
-      "explanationDe": "Das 24-Stunden-Fitnessstudio (c) verlangt einen Vertrag für mindestens ein Jahr („bei 12 Monaten Mindestlaufzeit“). Das andere Studio (g) ist „monatlich kündbar“, aber nur „für Frauen“. Für deinen Mitbewohner passt also kein Studio: x."
+      "explanation": "He wants a contract of three months at most. FitPoint 24 (c) has „12 Monaten Mindestlaufzeit“, Fitness Basis (k) „Mindestlaufzeit 6 Monate“. Studio Venus (g) is „Monatlich kündbar“, but it is „nur für Frauen“. So x.",
+      "explanationDe": "Er will sich höchstens für drei Monate binden. FitPoint 24 (c) hat „12 Monaten Mindestlaufzeit“, Fitness Basis (k) „Mindestlaufzeit 6 Monate“. Studio Venus (g) ist „Monatlich kündbar“, aber „nur für Frauen“. Also x."
     },
     {
       "n": 5,
-      "text": "Sie sind 35 und haben nie schwimmen gelernt. Jetzt möchten Sie es in einem Kurs lernen, der nach der Arbeit stattfindet.",
+      "text": "Sie sind 35 Jahre alt und haben bis heute nicht schwimmen gelernt. Das möchten Sie jetzt endlich nachholen – am liebsten in einem Kurs, der nach Feierabend stattfindet.",
       "answer": "i",
-      "explanation": "„Schwimmkurs für erwachsene Nichtschwimmer“, „donnerstags 20–21 Uhr“ – the swimming school (i) teaches adults in the evening. The water gymnastics (j) is for people over 60 and on Friday mornings.",
-      "explanationDe": "„Schwimmkurs für erwachsene Nichtschwimmer“, „donnerstags 20–21 Uhr“ – die Schwimmschule (i) unterrichtet Erwachsene am Abend. Die Wassergymnastik (j) ist für Menschen ab 60 und findet am Freitagvormittag statt."
+      "explanation": "You cannot swim and need an evening course. (i) is a „Schwimmkurs für erwachsene Nichtschwimmer“ on „donnerstags 20–21 Uhr“. „Fit ab 60“ (j) offers water exercise, but „Wassergymnastik für Schwimmer“ is in the morning and only for people over 60.",
+      "explanationDe": "Du kannst nicht schwimmen und brauchst einen Kurs am Abend. (i) ist ein „Schwimmkurs für erwachsene Nichtschwimmer“, und zwar „donnerstags 20–21 Uhr“. „Fit ab 60“ (j) hat zwar „Wassergymnastik für Schwimmer“, aber morgens und nur für Menschen ab 60."
     },
     {
       "n": 6,
-      "text": "Sie haben große Angst vor dem Zahnarzt, brauchen aber bald einen Termin. Unter der Woche geht es nicht, weil Sie Vollzeit arbeiten.",
-      "answer": "k",
-      "explanation": "„Angstpatienten sind bei uns in guten Händen“ and „Sa. 9–13 Uhr“ – the dentist (k) takes anxious patients and also works on Saturdays.",
-      "explanationDe": "„Angstpatienten sind bei uns in guten Händen“ und „Sa. 9–13 Uhr“ – die Zahnarztpraxis (k) behandelt Patienten mit Angst und hat auch samstags geöffnet."
+      "text": "Ihre Mutter (68) ist im Winter gestürzt und fühlt sich seitdem unsicher. Sie möchte sich vormittags gemeinsam mit Gleichaltrigen wieder mehr bewegen.",
+      "answer": "j",
+      "explanation": "Your mother (68) wants to exercise in the morning with people of her age. „Fit ab 60“ (j) offers „Training für mehr Sicherheit beim Gehen: freitags 9.30–10.30 Uhr“ for seniors. The Rückenschule (l) promises „bewegen Sie sich wieder ohne Schmerzen“, but it takes place in the evening („montags 18–19 Uhr“) and is for all ages.",
+      "explanationDe": "Deine Mutter (68) will sich vormittags mit Gleichaltrigen bewegen. „Fit ab 60“ (j) bietet für Senioren „Training für mehr Sicherheit beim Gehen: freitags 9.30–10.30 Uhr“ an. Die Rückenschule (l) schreibt „bewegen Sie sich wieder ohne Schmerzen“, aber der Kurs ist abends („montags 18–19 Uhr“) und für alle Altersgruppen."
     },
     {
       "n": 7,
-      "text": "Ihre Großmutter kann nicht mehr gut laufen. Sie möchte ihre Medikamente in Zukunft nach Hause gebracht bekommen.",
+      "text": "Ihre Großmutter kann nicht mehr gut laufen. Ihre Ärztin hat ihr neue Medikamente verschrieben, die man ihr noch am selben Tag nach Hause bringen soll.",
       "answer": "d",
-      "explanation": "„Kostenloser Botendienst“ and „Lieferung am selben Tag“ – the pharmacy (d) brings medicine to the customer's home. The physiotherapists (b) also visit people at home, but they do not deliver medicine.",
-      "explanationDe": "„Kostenloser Botendienst“ und „Lieferung am selben Tag“ – die Apotheke (d) bringt die Medikamente zu den Kunden nach Hause. Die Physiotherapeuten (b) kommen auch nach Hause, aber sie liefern keine Medikamente."
+      "explanation": "The medicine must arrive the same day. The Linden-Apotheke (d) has a „Botendienst“: „Bestellung per Telefon bis 12 Uhr – Lieferung am selben Tag“. MediPost (h) also brings medicine home, but „in 2–3 Werktagen per Post“ – too late.",
+      "explanationDe": "Die Medikamente sollen noch am selben Tag kommen. Die Linden-Apotheke (d) hat einen „Botendienst“: „Bestellung per Telefon bis 12 Uhr – Lieferung am selben Tag“. MediPost (h) bringt Medikamente auch nach Hause, aber „in 2–3 Werktagen per Post“ – zu spät."
     },
     {
       "n": 8,
-      "text": "Ihr Nachbar raucht seit 20 Jahren und möchte endlich aufhören. Er möchte es zusammen mit anderen in einem Abendkurs schaffen.",
+      "text": "Ihr Nachbar raucht seit zwanzig Jahren und möchte endlich ohne Zigaretten leben. Er glaubt, dass er das zusammen mit anderen Betroffenen eher schafft – abends, nach der Arbeit.",
       "answer": "f",
-      "explanation": "„Gruppenkurs für alle, die aufhören wollen“ and „dienstags 19–20.30 Uhr“ – (f) is an evening group course for smokers. The nutrition advice (a) mentions the „Rauchstopp“, but it helps people lose weight after they have stopped.",
-      "explanationDe": "„Gruppenkurs für alle, die aufhören wollen“ und „dienstags 19–20.30 Uhr“ – (f) ist ein Gruppenkurs am Abend für Raucher. Die Ernährungsberatung (a) nennt den „Rauchstopp“, aber sie hilft beim Abnehmen, nachdem man aufgehört hat."
+      "explanation": "He wants to stop smoking in a group in the evening. „Rauchfrei in 6 Wochen“ (f) is a „Gruppenkurs“ on „dienstags 19–20.30 Uhr“. The nutrition advice (a) mentions „Rauchstopp“, but it helps people lose weight after they have stopped – in individual appointments.",
+      "explanationDe": "Er will in einer Gruppe am Abend mit dem Rauchen aufhören. „Rauchfrei in 6 Wochen“ (f) ist ein „Gruppenkurs“, jeweils „dienstags 19–20.30 Uhr“. Die Ernährungsberatung (a) nennt den „Rauchstopp“, aber sie hilft beim Abnehmen nach dem Aufhören – und zwar in Einzelterminen."
     },
     {
       "n": 9,
-      "text": "Ihr Kollege möchte zum ersten Mal Yoga ausprobieren. Weil er unter der Woche lange arbeitet, hat er nur am Wochenende Zeit.",
+      "text": "Ihr Kollege möchte zum ersten Mal Yoga ausprobieren. Weil er werktags oft bis spät abends im Büro sitzt, kommt für ihn nur das Wochenende infrage.",
       "answer": "x",
-      "explanation": "The yoga studio (e) has beginners' classes only „Mo.–Fr.“, and the weekend workshops are „nur für Fortgeschrittene“. The women's gym (g) has yoga „auch am Wochenende“, but your colleague is a man. So the answer is x.",
-      "explanationDe": "Das Yogastudio (e) hat Kurse für Anfänger nur „Mo.–Fr.“, und die Workshops am Wochenende sind „nur für Fortgeschrittene“. Das Frauen-Fitnessstudio (g) hat Yoga „auch am Wochenende“, aber dein Kollege ist ein Mann. Die Lösung ist also x."
+      "explanation": "He is a beginner and only has time at the weekend. The yoga studio (e) has „Workshops am Wochenende“, but „nur für Fortgeschrittene“; its beginners' classes are „Mo.–Fr.“. Studio Venus (g) is open at the weekend, but only for women. So x.",
+      "explanationDe": "Er ist Anfänger und hat nur am Wochenende Zeit. Das Yogastudio (e) hat „Workshops am Wochenende“, aber „nur für Fortgeschrittene“; die Anfängerkurse sind „Mo.–Fr.“. Studio Venus (g) hat am Wochenende offen, aber nur für Frauen. Also x."
     },
     {
       "n": 10,
-      "text": "Ihr Onkel ist am Knie operiert worden und braucht jetzt Krankengymnastik. Er kann aber noch nicht aus dem Haus gehen.",
+      "text": "Ihr Onkel (67) ist am Knie operiert worden und braucht jetzt Krankengymnastik. Die Wohnung kann er in den nächsten Wochen aber noch nicht verlassen.",
       "answer": "b",
-      "explanation": "„Krankengymnastik“ and „Nach Operationen: Wir kommen auch zu Ihnen nach Hause!“ – the physiotherapy practice (b) makes home visits.",
-      "explanationDe": "„Krankengymnastik“ und „Nach Operationen: Wir kommen auch zu Ihnen nach Hause!“ – die Physiotherapie-Praxis (b) macht Hausbesuche."
+      "explanation": "He needs physiotherapy but cannot leave his flat. Physio mobil (b) treats patients „nach Unfällen und Operationen bei Ihnen zu Hause“. „Fit ab 60“ (j) fits his age and even mentions the „Knie“, but the course takes place at the sports club.",
+      "explanationDe": "Er braucht Krankengymnastik, kann aber die Wohnung nicht verlassen. Physio mobil (b) behandelt „nach Unfällen und Operationen bei Ihnen zu Hause“. „Fit ab 60“ (j) passt zu seinem Alter und nennt sogar das „Knie“, aber der Kurs findet im Turnverein statt."
     }
   ],
   "ads": [
@@ -84,22 +84,22 @@
       "subheading": "Gesund abnehmen – ohne Hungern",
       "lines": [
         "Persönliche Beratung und individueller Ernährungsplan",
-        "Spezialprogramm: Abnehmen nach dem Rauchstopp",
+        "Spezialprogramm für alle, die mit dem Rauchen aufgehört haben: Abnehmen nach dem Rauchstopp",
         "Viele Krankenkassen übernehmen einen Teil der Kosten.",
-        "Termine nach Vereinbarung, auch online"
+        "Einzeltermine nach Vereinbarung, auch abends"
       ],
       "footer": "Gartenstraße 19, 30161 Hannover · Tel. 0511 3348761"
     },
     {
       "key": "b",
-      "heading": "Physiotherapie Bewegungsraum",
+      "heading": "Physio mobil",
+      "subheading": "Therapie in Ihren eigenen vier Wänden",
       "lines": [
-        "Krankengymnastik, Massage, Lymphdrainage",
-        "Nach Operationen: Wir kommen auch zu Ihnen nach Hause!",
-        "Termine Mo.–Fr. 7–20 Uhr",
-        "Alle Kassen und privat"
+        "Wir behandeln Sie nach Unfällen und Operationen bei Ihnen zu Hause.",
+        "Mit ärztlicher Verordnung: alle Kassen",
+        "Termine Mo.–Fr. 7–20 Uhr"
       ],
-      "footer": "Ahornweg 5, 30171 Hannover · Tel. 0511 8806142 · www.bewegungsraum-hannover.de"
+      "footer": "Ahornweg 5, 30171 Hannover · Tel. 0511 8806142 · www.physio-mobil-hannover.de"
     },
     {
       "key": "c",
@@ -119,7 +119,7 @@
       "subheading": "Wir bringen Ihre Medikamente!",
       "lines": [
         "Kostenloser Botendienst im ganzen Stadtgebiet",
-        "Bestellung per Telefon oder App bis 12 Uhr – Lieferung am selben Tag",
+        "Bestellung per Telefon bis 12 Uhr – Lieferung am selben Tag",
         "Das Rezept geben Sie einfach unserem Boten mit.",
         "Mo.–Fr. 8–19 Uhr, Sa. 8.30–14 Uhr"
       ],
@@ -130,9 +130,9 @@
       "heading": "Yogastudio Lotusblüte",
       "lines": [
         "Hatha-Yoga für Anfänger: Mo.–Fr. 7 Uhr und 18.30 Uhr",
-        "Wochenend-Workshops (nur für Fortgeschrittene)",
-        "Probestunde kostenlos, 10er-Karte 120 €",
-        "Matten und Decken sind vorhanden."
+        "Mama-Yoga vormittags – mit Kinderbetreuung im Nebenraum",
+        "Workshops am Wochenende (nur für Fortgeschrittene)",
+        "Probestunde kostenlos, 10er-Karte 120 €"
       ],
       "footer": "Hinterhaus, Talstraße 14, 30169 Hannover · www.lotusbluete-yoga.de"
     },
@@ -150,30 +150,31 @@
     },
     {
       "key": "g",
-      "heading": "Studio Venus – Fitness für Frauen",
+      "heading": "Studio Venus",
+      "subheading": "Fitness nur für Frauen",
       "lines": [
-        "Geräte, Kurse und Sauna – nur für Frauen",
-        "Kurse: Pilates, Zumba und Yoga, auch am Wochenende",
+        "Moderne Geräte, Kurse und Sauna",
         "Kinderbetreuung Mo.–Fr. 9–12 Uhr",
-        "Mo.–Fr. 7–22 Uhr, Sa./So. 9–18 Uhr – monatlich kündbar"
+        "Geöffnet Mo.–Fr. 7–22 Uhr, Sa./So. 9–18 Uhr",
+        "Monatlich kündbar"
       ],
       "footer": "Rosenhof 8, 30159 Hannover · Tel. 0511 2269905"
     },
     {
       "key": "h",
-      "heading": "Laufschule Leinepfad",
-      "subheading": "Gemeinsam laufen macht mehr Spaß!",
+      "heading": "MediPost Versandapotheke",
+      "subheading": "Ihre Medikamente bequem nach Hause",
       "lines": [
-        "Anfängergruppe „Von 0 auf 5 km“: Di. und Do. 18.30 Uhr, 8 Wochen 49 €",
-        "Laufgruppe für Mütter mit Kinderwagen: Mo. und Mi. 10 Uhr",
-        "Treffpunkt: Parkplatz am Maschsee",
-        "Wir laufen bei jedem Wetter!"
+        "Bestellen Sie online oder per Telefon – auch nachts.",
+        "Heute bestellt – in 2–3 Werktagen per Post bei Ihnen",
+        "Ab 20 € Bestellwert versandkostenfrei",
+        "Rezept einfach im Umschlag an uns schicken"
       ],
-      "footer": "Tel. 0176 22845013 · www.laufschule-leinepfad.de"
+      "footer": "www.medipost-apotheke.de · Tel. 0800 4471230 (gebührenfrei)"
     },
     {
       "key": "i",
-      "heading": "Keine Angst vor dem Wasser!",
+      "heading": "Nie zu spät!",
       "subheading": "Schwimmkurs für erwachsene Nichtschwimmer",
       "lines": [
         "10 Termine, donnerstags 20–21 Uhr im Stadtbad Süd",
@@ -188,50 +189,50 @@
       "heading": "Fit ab 60",
       "subheading": "Bewegung für Seniorinnen und Senioren im Turnverein Südstadt",
       "lines": [
-        "Sanfte Gymnastik für Rücken und Gelenke: mittwochs 10–11 Uhr",
-        "Wassergymnastik: freitags 9–10 Uhr",
-        "Die Kurse werden von vielen Krankenkassen bezuschusst.",
-        "Nur für Menschen ab 60 Jahren"
+        "Gesundheitskurse für Rücken, Knie und Hüfte: mittwochs 10–11 Uhr",
+        "Training für mehr Sicherheit beim Gehen: freitags 9.30–10.30 Uhr",
+        "Wassergymnastik für Schwimmer: montags 9 Uhr",
+        "Die Kurse werden von vielen Krankenkassen bezuschusst. Nur für Menschen ab 60 Jahren."
       ],
       "footer": "Turnverein Südstadt 1898 e. V. · Tel. 0511 8193047"
     },
     {
       "key": "k",
-      "heading": "Zahnarztpraxis Dr. Elif Aydin",
-      "subheading": "Angstpatienten sind bei uns in guten Händen.",
+      "heading": "Fitness Basis",
+      "subheading": "Trainieren bis Mitternacht – günstig in der Nordstadt",
       "lines": [
-        "Behandlung mit viel Ruhe und Zeit, auf Wunsch mit Musik über Kopfhörer",
-        "Sprechzeiten: Mo.–Fr. 8–18 Uhr, Sa. 9–13 Uhr",
-        "Neue Patientinnen und Patienten willkommen",
-        "Barrierefreier Zugang"
+        "Kraft- und Ausdauergeräte auf 1.200 m²",
+        "Täglich 6–24 Uhr geöffnet",
+        "9,90 € im Monat, Mindestlaufzeit 6 Monate",
+        "Ohne Anmeldegebühr"
       ],
-      "footer": "Mühlenplatz 3, 30161 Hannover · Tel. 0511 7714480"
+      "footer": "Engelbosteler Damm 70, 30167 Hannover · www.fitness-basis.de"
     },
     {
       "key": "l",
       "heading": "Rückenschule Hannover",
-      "subheading": "Starker Rücken – weniger Schmerzen",
+      "subheading": "Starker Rücken – bewegen Sie sich wieder ohne Schmerzen",
       "lines": [
         "Präventionskurs: 10 Abende, montags 18–19 Uhr",
         "Für Erwachsene jeden Alters",
-        "Ihre Krankenkasse übernimmt bis zu 80 % der Kosten.",
+        "Ihre Krankenkasse übernimmt 80 % der Kosten.",
         "Kursgebühr 140 €"
       ],
       "footer": "Praxis am Stadtpark, Eingang Ostseite · Tel. 0511 5520936 · www.rs-hannover.de"
     }
   ],
   "glossary": [
-    { "de": "der Schichtdienst", "en": "shift work" },
+    { "de": "die Spätschicht", "en": "late shift" },
     { "de": "rund um die Uhr", "en": "around the clock, 24 hours" },
     { "de": "die Mindestlaufzeit", "en": "minimum contract period" },
+    { "de": "monatlich kündbar", "en": "can be cancelled every month" },
     { "de": "die Kinderbetreuung", "en": "childcare" },
     { "de": "die Krankengymnastik", "en": "physiotherapy exercises" },
     { "de": "der Botendienst", "en": "delivery service" },
-    { "de": "das Rezept", "en": "prescription" },
-    { "de": "der Angstpatient / die Angstpatientin", "en": "anxious patient" },
+    { "de": "die Versandapotheke", "en": "mail-order pharmacy" },
+    { "de": "die ärztliche Verordnung", "en": "doctor's prescription" },
     { "de": "bezuschussen", "en": "to subsidise, to pay part of the cost" },
     { "de": "erstatten", "en": "to refund" },
-    { "de": "der/die Fortgeschrittene", "en": "advanced learner" },
-    { "de": "der Nichtschwimmer", "en": "non-swimmer" }
+    { "de": "der/die Fortgeschrittene", "en": "advanced learner" }
   ]
 }

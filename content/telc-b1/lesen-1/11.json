@@ -12,7 +12,7 @@
     { "key": "d", "text": "Telefonfirma bringt schnelles Internet aufs Land" },
     { "key": "e", "text": "Ein Dorf baut sich sein Internet selbst" },
     { "key": "f", "text": "Ab sofort in ganz Österreich: Notruf per Chat" },
-    { "key": "g", "text": "Informatik-Camp für Mädchen mit Vorkenntnissen" },
+    { "key": "g", "text": "Code-Camp in Stuttgart: Nur für Mädchen mit Erfahrung" },
     { "key": "h", "text": "Hilfe im Notfall: Schreiben statt anrufen" },
     { "key": "i", "text": "Programmieren ausprobieren: Ein Camp für Mädchen" },
     { "key": "j", "text": "Sprachassistenten verstehen bald auch Schweizerdeutsch" }
@@ -46,8 +46,8 @@
       "n": 4,
       "text": "Ein ganzes Wochenende lang programmieren, ohne vorher Erfahrung zu haben? Genau das können Mädchen zwischen 12 und 16 Jahren beim „Code-Camp“ in einem Stuttgarter Jugendhaus ausprobieren. Vom 15. bis 17. März entwickeln sie in kleinen Teams eigene Apps oder einfache Computerspiele. Studentinnen der Informatik zeigen ihnen dabei die wichtigsten Schritte. Laptops gibt es vor Ort, man muss also kein eigenes Gerät mitbringen. Am Sonntagnachmittag präsentieren die Teams ihre Ergebnisse vor Eltern und Freunden. Die Organisatorinnen möchten mit dem Camp zeigen, dass Technik nicht nur etwas für Jungen ist. Die Teilnahme kostet 20 Euro inklusive Essen, die Zahl der Plätze ist begrenzt.",
       "answer": "i",
-      "explanation": "Girls aged 12 to 16 can try out programming for a whole weekend „ohne vorher Erfahrung zu haben“, so (i). Headline (g) is the opposite: no previous knowledge is needed.",
-      "explanationDe": "Mädchen zwischen 12 und 16 Jahren können ein ganzes Wochenende lang Programmieren ausprobieren, „ohne vorher Erfahrung zu haben“, also passt (i). Überschrift (g) sagt das Gegenteil: Man braucht keine Vorkenntnisse.",
+      "explanation": "Girls aged 12 to 16 can try out programming for a whole weekend „ohne vorher Erfahrung zu haben“, so (i). Headline (g) is only half right: the „Code-Camp“ in Stuttgart is for girls, but no previous experience is needed – the opposite of „mit Erfahrung“.",
+      "explanationDe": "Mädchen zwischen 12 und 16 Jahren können ein ganzes Wochenende lang Programmieren ausprobieren, „ohne vorher Erfahrung zu haben“, also passt (i). Überschrift (g) ist nur halb richtig: Das „Code-Camp“ in Stuttgart ist für Mädchen, aber man braucht keine Erfahrung – also das Gegenteil von „mit Erfahrung“.",
       "evidence": ["Ein ganzes Wochenende lang programmieren, ohne vorher Erfahrung zu haben?", "können Mädchen zwischen 12 und 16 Jahren"]
     },
     {
@@ -63,7 +63,7 @@
     { "key": "b", "why": "In text 3 the cheapest watch (49 euros) was one of the three that got „gut“ – a high price is not what protects the data.", "whyDe": "In Text 3 war die günstigste Uhr (49 Euro) eine von den drei Uhren mit der Note „gut“ – es ist also nicht der hohe Preis, der die Daten schützt." },
     { "key": "d", "why": "Text 5 says that the telephone companies did not want to build the network („lohnte sich der Ausbau … nicht“); the villagers did it themselves.", "whyDe": "Laut Text 5 wollten die Telefonfirmen das Netz nicht bauen („lohnte sich der Ausbau … nicht“); die Bewohner haben es selbst gemacht." },
     { "key": "f", "why": "The app in text 2 was launched in Styria („in der Steiermark“). The text does not say that it is available everywhere in Austria.", "whyDe": "Die App in Text 2 ist „in der Steiermark“ gestartet. Dass es sie überall in Österreich gibt, steht nicht im Text." },
-    { "key": "g", "why": "The camp in text 4 is for girls without experience („ohne vorher Erfahrung zu haben“).", "whyDe": "Das Camp in Text 4 ist für Mädchen ohne Erfahrung („ohne vorher Erfahrung zu haben“)." },
+    { "key": "g", "why": "The Code-Camp in Stuttgart (text 4) is indeed only for girls – but for girls without experience („ohne vorher Erfahrung zu haben“).", "whyDe": "Das Code-Camp in Stuttgart (Text 4) ist wirklich nur für Mädchen – aber für Mädchen ohne Erfahrung („ohne vorher Erfahrung zu haben“)." },
     { "key": "j", "why": "In text 1 the manufacturers have only announced improvements, and it is still open when they will come – so „bald“ is not in the text.", "whyDe": "In Text 1 haben die Hersteller Verbesserungen nur angekündigt, und es ist noch offen, wann sie kommen – „bald“ steht also nicht im Text." }
   ],
   "glossary": [

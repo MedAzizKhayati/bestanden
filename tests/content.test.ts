@@ -1,7 +1,12 @@
 import { describe, expect, test } from "bun:test";
 import { readFileSync } from "node:fs";
+import { difficultyIssues, measureText } from "@/lib/content/difficulty";
+import { getSet } from "@/lib/content/load";
 import { localize } from "@/lib/content/localize";
+import type { ExamSet } from "@/lib/content/schemas";
 import { checkTranslations } from "@/lib/content/translations";
+import { listMocks } from "@/lib/exam/mock-server";
+import { EXAMS } from "@/lib/exams";
 
 describe("content files", () => {
   test("every file validates, including all German translations", () => {
@@ -55,4 +60,23 @@ describe("translation checks", () => {
 test("German strategy texts really are German", () => {
   const file = JSON.parse(readFileSync("content/telc-b1/strategies.json", "utf8")) as { guides: { titleDe?: string }[] };
   expect(file.guides.every((g) => g.titleDe && !/\bthe\b/i.test(g.titleDe))).toBe(true);
+});
+
+describe("difficulty", () => {
+  test("measureText counts words, sentences, long words and LIX", () => {
+    const m = measureText("Die Stadtbibliothek öffnet morgen. Sie bleibt bis zwanzig Uhr geöffnet!");
+    expect(m).toEqual({ words: 10, sentences: 2, wordsPerSentence: 5, longWords: 30, lix: 35 });
+  });
+
+  test("exam-level sets below telc level are flagged, warm-ups are exempt", () => {
+    const set = { type: "gap-wordbank", difficulty: 2, text: "Liebe Ines,\n\nkurz [[1]] gesagt.\n\nGruß" } as unknown as ExamSet;
+    expect(difficultyIssues(set, "sprachbausteine-2")).toEqual([expect.stringContaining("below telc level")]);
+    expect(difficultyIssues({ ...set, difficulty: 1 } as ExamSet, "sprachbausteine-2")).toEqual([]);
+  });
+
+  test("mock exams never use warm-up sets", () => {
+    for (const exam of EXAMS)
+      for (const mock of listMocks(exam))
+        for (const [partId, number] of Object.entries(mock.numbers)) expect(getSet(exam.id, partId, number)?.difficulty).toBeGreaterThan(1);
+  });
 });

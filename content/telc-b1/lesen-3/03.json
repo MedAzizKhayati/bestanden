@@ -8,73 +8,73 @@
   "situations": [
     {
       "n": 1,
-      "text": "Sie haben einen großen Hund und suchen deshalb eine Wohnung, in der Haustiere erlaubt sind.",
+      "text": "Ihr Schäferhund ist sehr lebhaft und möchte möglichst oft draußen spielen. Sie suchen deshalb eine Mietwohnung, in der Hunde erlaubt sind und zu der ein eigener Garten gehört.",
       "answer": "c",
-      "explanation": "„Hund oder Katze? Kein Problem!“ – the flat with a garden (c) allows pets. The flat in Findorff (i) looks attractive, but it says „Keine Haustiere“.",
-      "explanationDe": "„Hund oder Katze? Kein Problem!“ – in der Wohnung mit Garten (c) sind Haustiere erlaubt. Die Wohnung in Findorff (i) sieht attraktiv aus, aber dort steht „Keine Haustiere“."
+      "explanation": "Two conditions: pets allowed and your own garden. The ad for the ground-floor flat (c) says „eigener Gartenanteil“ and „Haustiere willkommen“. The flat in Findorff (i) uses the same words („Hunde und Katzen erlaubt“), but it says „Kein Garten“ – a park across the road is not your own garden.",
+      "explanationDe": "Zwei Bedingungen: Haustiere erlaubt und ein eigener Garten. Bei der Erdgeschosswohnung (c) stehen „eigener Gartenanteil“ und „Haustiere willkommen“. Die Wohnung in Findorff (i) benutzt dieselben Wörter („Hunde und Katzen erlaubt“), aber dort steht „Kein Garten“ – ein Park gegenüber ist kein eigener Garten."
     },
     {
       "n": 2,
-      "text": "Ihre Familie zieht von Bremen nach Stuttgart. Sie suchen eine Firma, die auch das Einpacken übernimmt, weil Sie dafür keine Zeit haben.",
+      "text": "Ihre Familie zieht wegen einer neuen Arbeitsstelle von Bremen nach Leipzig. Weil Sie und Ihr Partner Vollzeit arbeiten, soll dieselbe Firma, die die Möbel transportiert, auch Geschirr, Bücher und Kleidung für Sie in Kartons packen.",
       "answer": "h",
-      "explanation": "„Umzüge in Bremen und in ganz Deutschland“ and „Ein- und Auspacken“ – the removal company (h) does long-distance moves and packs for you. The student helpers (l) only work „im Raum Bremen“ and have no vehicle.",
-      "explanationDe": "„Umzüge in Bremen und in ganz Deutschland“ und „Ein- und Auspacken“ – die Umzugsfirma (h) macht auch weite Umzüge und packt für dich ein. Die studentischen Helfer (l) arbeiten nur „im Raum Bremen“ und haben kein Fahrzeug."
+      "explanation": "One company must take your furniture to Leipzig and also pack for you. Weser-Umzüge (h) moves „in ganz Deutschland“ and offers „Ein- und Auspacken“. The student helpers (l) also pack boxes („Wir packen Ihre Kartons“), but they have „kein eigenes Fahrzeug“ and work „Nur im Raum Bremen“ – they cannot take your furniture to Leipzig.",
+      "explanationDe": "Eine einzige Firma soll die Möbel nach Leipzig bringen und auch für dich packen. Weser-Umzüge (h) zieht „in ganz Deutschland“ um und bietet „Ein- und Auspacken“ an. Die studentischen Helfer (l) packen auch („Wir packen Ihre Kartons“), aber sie haben „kein eigenes Fahrzeug“ und arbeiten „Nur im Raum Bremen“ – deine Möbel bringen sie also nicht nach Leipzig."
     },
     {
       "n": 3,
-      "text": "Sie möchten eine neue Waschmaschine kaufen. Das Geschäft soll das Gerät bringen, es anschließen und Ihre alte Maschine mitnehmen.",
+      "text": "Ihre Waschmaschine ist nach zwölf Jahren endgültig kaputt, und Sie möchten ein neues Gerät kaufen. Der Händler soll es anschließen und die alte Maschine gleich entsorgen.",
       "answer": "g",
-      "explanation": "„Lieferung … frei Haus“ and „Anschluss und Mitnahme Ihres Altgeräts“ – the electrical shop (g) offers all three services. The charity shop (k) also delivers, but it only sells used („gebrauchte“) appliances.",
-      "explanationDe": "„Lieferung … frei Haus“ und „Anschluss und Mitnahme Ihres Altgeräts“ – das Elektrogeschäft (g) bietet alle drei Leistungen an. Das Sozialkaufhaus (k) liefert auch, aber es verkauft nur „gebrauchte“ Geräte."
+      "explanation": "You want a new machine, installation and removal of the old one. Elektro Brinkmann (g) sells „Neugeräte“ and offers „Installation und Mitnahme Ihres Altgeräts“. The charity shop (k) mentions washing machines and connecting them („Gerät anschließen?“), but it only sells „gebrauchte“ goods.",
+      "explanationDe": "Du willst ein neues Gerät, den Anschluss und die Entsorgung der alten Maschine. Elektro Brinkmann (g) verkauft „Neugeräte“ und bietet „Installation und Mitnahme Ihres Altgeräts“ an. Das Sozialkaufhaus (k) nennt auch Waschmaschinen und das Anschließen („Gerät anschließen?“), aber es verkauft nur „gebrauchte“ Sachen."
     },
     {
       "n": 4,
-      "text": "Sie studieren in Bremen und haben sehr wenig Geld für die Miete. Dafür würden Sie gern einer älteren Person im Alltag helfen.",
+      "text": "Ihr Neffe beginnt im Oktober sein Studium und kann für ein Zimmer kaum etwas bezahlen. Er wäre aber bereit, einem älteren Menschen bei alltäglichen Aufgaben zu helfen.",
       "answer": "j",
-      "explanation": "„Statt Miete: etwa 20 Stunden Hilfe im Monat“ – in (j) a student pays no rent, only 90 € Nebenkosten, and helps an older lady. The shared flat (f) is for students too, but it costs „390 € warm“.",
-      "explanationDe": "„Statt Miete: etwa 20 Stunden Hilfe im Monat“ – bei (j) zahlen Studierende keine Miete, nur 90 € Nebenkosten, und helfen einer älteren Dame. Die WG (f) ist auch für Studierende, aber das Zimmer kostet „390 € warm“."
+      "explanation": "He has almost no money and wants to help an older person. In (j) a „Seniorin (81)“ offers a room to students „Statt Miete“ – he only pays 90 € for utilities and helps her. The shared flat (f) is „Perfekt für den Start ins Studium“, but it costs „390 € warm“ and there is no help instead of rent.",
+      "explanationDe": "Er hat fast kein Geld und will einem älteren Menschen helfen. Bei (j) bietet eine „Seniorin (81)“ Studierenden ein Zimmer an – „Statt Miete“ hilft man ihr und zahlt nur 90 € Nebenkosten. Die WG (f) ist „Perfekt für den Start ins Studium“, aber sie kostet „390 € warm“, und Hilfe statt Miete gibt es dort nicht."
     },
     {
       "n": 5,
-      "text": "Sie möchten Ihren Umzug am Samstag selbst machen und brauchen dafür einen großen Wagen. Sie haben nur einen normalen Führerschein für Autos.",
+      "text": "Sie möchten am Samstag ohne Umzugsfirma umziehen und brauchen dafür ein großes Fahrzeug. Ihr Führerschein gilt allerdings nur für Pkw.",
       "answer": "b",
-      "explanation": "„Fahren mit dem normalen Autoführerschein (Klasse B)“ and „Sa. 8–14 Uhr“ – you can hire a van at (b) on Saturday. The removal company (h) does the whole move for you – you cannot hire a vehicle there and drive it yourself.",
-      "explanationDe": "„Fahren mit dem normalen Autoführerschein (Klasse B)“ und „Sa. 8–14 Uhr“ – bei (b) kannst du am Samstag einen Transporter mieten. Die Umzugsfirma (h) macht den ganzen Umzug für dich – dort kannst du kein Fahrzeug mieten und selbst fahren."
+      "explanation": "Saturday and a normal car licence are decisive. Nordlicht (b) rents vans you can drive „mit dem ganz normalen Autoführerschein (Klasse B)“ and is open „Sa. 8–14 Uhr“. The storage company (e) even lends a „Umzugstransporter gratis“, but „nur Mo.–Fr.“ – not on Saturday.",
+      "explanationDe": "Entscheidend sind der Samstag und der normale Autoführerschein. Bei Nordlicht (b) fährst du den Transporter „mit dem ganz normalen Autoführerschein (Klasse B)“, und es ist „Sa. 8–14 Uhr“ geöffnet. Das Lager (e) verleiht sogar einen „Umzugstransporter gratis“, aber „nur Mo.–Fr.“ – also nicht am Samstag."
     },
     {
       "n": 6,
-      "text": "Ihre Cousine macht von April bis Juni ein Praktikum in Bremen. Für diese drei Monate sucht sie ein möbliertes Zimmer.",
+      "text": "Ihre Cousine macht von April bis Juni ein Praktikum bei einer Bremer Firma. Für diese drei Monate sucht sie ein Zimmer, das bereits eingerichtet ist.",
       "answer": "x",
-      "explanation": "The shared flat (f) has a furnished room from April, but „Mindestmietdauer 12 Monate“. The room in (j) is also for „mindestens ein Jahr“, and (c) and (i) are whole flats, not furnished rooms. So no ad fits: x.",
-      "explanationDe": "Die WG (f) hat ab April ein möbliertes Zimmer, aber „Mindestmietdauer 12 Monate“. Auch das Zimmer bei (j) gibt es nur für „mindestens ein Jahr“, und (c) und (i) sind ganze Wohnungen, keine möblierten Zimmer. Keine Anzeige passt also: x."
+      "explanation": "She needs a furnished room for only three months. The shared flat (f) is „möbliert“ and free „Ab 1. April“, but „Mindestmietdauer 12 Monate“. The room in (j) is also for „mindestens ein Jahr“, and (c) and (i) are whole flats. So no ad fits: x.",
+      "explanationDe": "Sie braucht ein möbliertes Zimmer für nur drei Monate. Das WG-Zimmer (f) ist „möbliert“ und frei „Ab 1. April“, aber es gilt „Mindestmietdauer 12 Monate“. Auch das Zimmer bei (j) gibt es nur für „mindestens ein Jahr“, und (c) und (i) sind ganze Wohnungen. Keine Anzeige passt also: x."
     },
     {
       "n": 7,
-      "text": "Sie arbeiten ab März sechs Monate in Kanada. Ihre Möbel möchten Sie so lange irgendwo unterbringen, aber nicht länger bezahlen als nötig.",
+      "text": "Sie arbeiten ab März ein halbes Jahr im Ausland. Für Ihre Möbel suchen Sie so lange einen sicheren Platz, möchten sich aber nicht für länger als nötig vertraglich binden.",
       "answer": "e",
-      "explanation": "„Monatlich kündbar – keine lange Vertragsbindung“ – at the storage company (e) you only pay for the months you need. The removal company (h) also stores furniture, but with a „Mindestlaufzeit 12 Monate“.",
-      "explanationDe": "„Monatlich kündbar – keine lange Vertragsbindung“ – bei der Lagerfirma (e) zahlst du nur für die Monate, die du brauchst. Die Umzugsfirma (h) lagert auch Möbel ein, aber mit „Mindestlaufzeit 12 Monate“."
+      "explanation": "You need storage for six months without a long contract. At Lagerraum Hafenkante (e) you can cancel „jederzeit zum Monatsende“. Weser-Umzüge (h) also stores furniture („Wir lagern Ihre Möbel sicher ein“), but with a „Mindestlaufzeit 12 Monate“.",
+      "explanationDe": "Du brauchst einen Lagerplatz für sechs Monate ohne langen Vertrag. Beim Lagerraum Hafenkante (e) ist die „Kündigung jederzeit zum Monatsende“ möglich. Weser-Umzüge (h) lagert auch Möbel ein („Wir lagern Ihre Möbel sicher ein“), aber mit „Mindestlaufzeit 12 Monate“."
     },
     {
       "n": 8,
-      "text": "Sie sind gerade nach Bremen gezogen und brauchen günstig einen Tisch und ein Regal. Ein Auto haben Sie nicht.",
+      "text": "Sie haben gerade Ihre erste eigene Wohnung bezogen und brauchen preiswert einen Esstisch und ein Bücherregal. Ein Auto, mit dem Sie die Sachen holen könnten, besitzen Sie nicht.",
       "answer": "k",
-      "explanation": "„gebrauchte Möbel … zu kleinen Preisen“ and „Lieferung innerhalb Bremens: 25 €“ – the charity shop (k) is cheap and delivers. The private sale (d) has a table and a shelf, but it says „Nur an Selbstabholer“ – you must collect them yourself.",
-      "explanationDe": "„gebrauchte Möbel … zu kleinen Preisen“ und „Lieferung innerhalb Bremens: 25 €“ – das Sozialkaufhaus (k) ist günstig und liefert. Beim Privatverkauf (d) gibt es einen Tisch und ein Regal, aber dort steht „Nur an Selbstabholer“ – du musst die Möbel selbst abholen."
+      "explanation": "Cheap furniture and delivery are decisive. The charity shop (k) sells used „Tische, Regale und Schränke“ – „alles zu kleinen Preisen“ – and says „Wir bringen alles zu Ihnen nach Hause“. The private sale (d) offers exactly the „Esstisch“ and „Bücherregal“ you need, but „Nur an Selbstabholer – kein Transport möglich“.",
+      "explanationDe": "Entscheidend sind günstige Möbel und die Lieferung. Das Sozialkaufhaus (k) verkauft gebrauchte „Tische, Regale und Schränke“ – „alles zu kleinen Preisen“ – und schreibt „Wir bringen alles zu Ihnen nach Hause“. Beim Privatverkauf (d) gibt es genau einen „Esstisch“ und ein „Bücherregal“, aber „Nur an Selbstabholer – kein Transport möglich“."
     },
     {
       "n": 9,
-      "text": "Ihr Vermieter möchte, dass Sie für das letzte Jahr 600 Euro Nebenkosten nachzahlen. Sie glauben, dass die Abrechnung falsch ist, und möchten sie von Fachleuten prüfen lassen.",
-      "answer": "a",
-      "explanation": "„Wir prüfen Ihre Nebenkostenabrechnung“ – the tenants' association (a) checks the bill. You must become a member, but you can join at any time („Eintritt jederzeit möglich“).",
-      "explanationDe": "„Wir prüfen Ihre Nebenkostenabrechnung“ – der Mieterverein (a) prüft die Abrechnung. Du musst Mitglied werden, aber das geht jederzeit („Eintritt jederzeit möglich“)."
+      "text": "Die Nachzahlung für Heizung und Wasser kommt Ihnen viel zu hoch vor. Sie möchten die Abrechnung von Fachleuten prüfen lassen, ohne deshalb Mitglied eines Vereins zu werden.",
+      "answer": "x",
+      "explanation": "The tenants' association (a) checks exactly this („Wir prüfen Ihre Nebenkostenabrechnung“), but „Beratung nur für Mitglieder“ – and you do not want to join an association. No other ad offers this kind of advice, so x.",
+      "explanationDe": "Der Mieterverein (a) prüft genau das („Wir prüfen Ihre Nebenkostenabrechnung“), aber es gilt „Beratung nur für Mitglieder“ – und du willst kein Mitglied in einem Verein werden. Keine andere Anzeige bietet so eine Beratung an, also x."
     },
     {
       "n": 10,
-      "text": "Ihr Freund zieht am Sonntag innerhalb von Bremen um. Einen Transporter hat er schon gemietet, aber er braucht noch Leute, die beim Tragen helfen.",
+      "text": "Ein Freund zieht am Sonntag innerhalb von Bremen um. Einen Transporter hat er schon gemietet, aber für die schweren Schränke fehlen ihm noch kräftige Helfer zum Tragen.",
       "answer": "l",
-      "explanation": "„Wir tragen Kisten und Möbel“ and „Auch samstags und sonntags“ – the student helpers (l) carry things and work on Sundays. The removal company (h) only has „Termine Mo.–Sa.“.",
-      "explanationDe": "„Wir tragen Kisten und Möbel“ und „Auch samstags und sonntags“ – die studentischen Helfer (l) tragen Sachen und arbeiten auch sonntags. Die Umzugsfirma (h) hat nur „Termine Mo.–Sa.“."
+      "explanation": "He needs people to carry things on a Sunday – he already has a van. Packen & Tragen (l) carry „Kisten und Möbel“ and are „Auch am Wochenende im Einsatz“; „kein eigenes Fahrzeug“ is no problem here. Weser-Umzüge (h) works „innerhalb Bremens“, but only on „Termine Mo.–Sa.“.",
+      "explanationDe": "Er braucht Leute zum Tragen an einem Sonntag – einen Transporter hat er schon. Packen & Tragen (l) tragen „Kisten und Möbel“ und sind „Auch am Wochenende im Einsatz“; „kein eigenes Fahrzeug“ ist hier kein Problem. Weser-Umzüge (h) arbeitet zwar „innerhalb Bremens“, aber es gibt nur „Termine Mo.–Sa.“."
     }
   ],
   "ads": [
@@ -84,7 +84,7 @@
       "subheading": "Ärger mit dem Vermieter?",
       "lines": [
         "Wir prüfen Ihre Nebenkostenabrechnung und Ihren Mietvertrag.",
-        "Rechtsberatung durch erfahrene Juristinnen und Juristen",
+        "Rechtsberatung durch erfahrene Fachleute",
         "Beratung nur für Mitglieder – Beitrag 7,50 € im Monat, Eintritt jederzeit möglich",
         "Sprechstunde: Di. und Do. 16–19 Uhr"
       ],
@@ -93,10 +93,10 @@
     {
       "key": "b",
       "heading": "Autovermietung Nordlicht",
-      "subheading": "Umzug selbst gemacht – mit unseren Transportern",
+      "subheading": "Selbst umziehen – mit unseren Transportern",
       "lines": [
         "Transporter bis 3,5 t: ab 59 € pro Tag inkl. 200 km",
-        "Fahren mit dem normalen Autoführerschein (Klasse B)",
+        "Fahren mit dem ganz normalen Autoführerschein (Klasse B)",
         "Sackkarre und Möbeldecken gratis dazu",
         "Mo.–Fr. 7–19 Uhr, Sa. 8–14 Uhr"
       ],
@@ -104,11 +104,11 @@
     },
     {
       "key": "c",
-      "heading": "3-Zimmer-Wohnung mit Garten in Schwachhausen",
+      "heading": "Erdgeschosswohnung in Schwachhausen",
       "lines": [
-        "75 m², Erdgeschoss, Terrasse und eigener Gartenanteil",
-        "Ruhige Lage, Bus und Straßenbahn in 5 Minuten",
-        "Hund oder Katze? Kein Problem!",
+        "3 Zimmer, 75 m², Terrasse und eigener Gartenanteil (ca. 120 m²)",
+        "Ruhige Seitenstraße, Straßenbahn in 5 Min.",
+        "Haustiere willkommen",
         "Kaltmiete 890 € + 210 € Nebenkosten, frei ab 1. Mai"
       ],
       "footer": "Immobilien Rademacher · Tel. 0421 2205476"
@@ -120,7 +120,7 @@
         "Esstisch aus Eiche mit 4 Stühlen: 120 €",
         "Bücherregal, weiß, 2 m hoch: 30 €",
         "Kommode und Schreibtisch je 40 €",
-        "Nur an Selbstabholer, Samstag 10–14 Uhr"
+        "Nur an Selbstabholer – kein Transport möglich, Sa. 10–14 Uhr"
       ],
       "footer": "Tel. 0176 51908824 (ab 18 Uhr)"
     },
@@ -130,9 +130,9 @@
       "subheading": "Platz für alles, was Sie gerade nicht brauchen",
       "lines": [
         "Lagerboxen von 1 bis 30 m², ab 29 € im Monat",
-        "Monatlich kündbar – keine lange Vertragsbindung",
+        "Kündigung jederzeit zum Monatsende",
         "Zugang täglich 6–22 Uhr, videoüberwacht",
-        "Trockene, saubere Räume mit sicheren Schlössern"
+        "Für Neukunden: Umzugstransporter gratis (nur Mo.–Fr.)"
       ],
       "footer": "Überseeweg 12, 28217 Bremen · Tel. 0421 9930570 · www.lagerraum-hafenkante.de"
     },
@@ -140,9 +140,10 @@
       "key": "f",
       "heading": "Zimmer in netter 3er-WG frei!",
       "lines": [
+        "Perfekt für den Start ins Studium!",
         "16 m², möbliert, mit Blick auf die Weser",
         "390 € warm inkl. Internet",
-        "Wir sind zwei Studentinnen (23 und 25), Nichtraucherinnen, keine Haustiere.",
+        "Wir sind zwei Studentinnen (23 und 25), Nichtraucherinnen.",
         "Ab 1. April, Mindestmietdauer 12 Monate"
       ],
       "footer": "Ruf einfach an: 0157 32044197"
@@ -152,9 +153,9 @@
       "heading": "Elektro Brinkmann",
       "subheading": "Ihr Fachgeschäft für Haushaltsgeräte seit 1965",
       "lines": [
-        "Waschmaschinen, Trockner, Kühlschränke und Herde – alle großen Marken",
+        "Neugeräte aller großen Marken: Waschen, Kühlen, Kochen",
         "Lieferung im Raum Bremen frei Haus",
-        "Anschluss und Mitnahme Ihres Altgeräts: nur 25 €",
+        "Aufstellen, Installation und Mitnahme Ihres Altgeräts: nur 25 €",
         "Mo.–Fr. 9–19 Uhr, Sa. 9–16 Uhr"
       ],
       "footer": "Marktweg 31, 28203 Bremen · Tel. 0421 7012388"
@@ -164,9 +165,9 @@
       "heading": "Weser-Umzüge",
       "subheading": "Wir machen Ihren Umzug – Sie lehnen sich zurück.",
       "lines": [
-        "Umzüge in Bremen und in ganz Deutschland",
+        "Umzüge innerhalb Bremens und in ganz Deutschland",
         "Auf Wunsch: Ein- und Auspacken, Möbelabbau und -aufbau",
-        "Möbeleinlagerung in unserem Lager (Mindestlaufzeit 12 Monate)",
+        "Wir lagern Ihre Möbel sicher ein (Mindestlaufzeit 12 Monate).",
         "Kostenlose Besichtigung und Festpreis-Angebot",
         "Termine Mo.–Sa."
       ],
@@ -176,21 +177,20 @@
       "key": "i",
       "heading": "Helle 2-Zimmer-Wohnung in Findorff",
       "lines": [
-        "58 m², 3. Stock (kein Aufzug), Balkon nach Süden",
-        "Neue Einbauküche, Bad mit Fenster",
-        "Kaltmiete 640 € + 160 € Nebenkosten, Kaution: zwei Monatsmieten",
-        "Keine Haustiere",
-        "Frei ab 1. April"
+        "58 m², 2. OG, großer Südbalkon",
+        "Hunde und Katzen erlaubt",
+        "Kein Garten – der Bürgerpark liegt direkt gegenüber.",
+        "Kaltmiete 640 € + 160 € NK, frei ab 1. April"
       ],
       "footer": "Hausverwaltung Petersen & Lohmann · Tel. 0421 4471209"
     },
     {
       "key": "j",
       "heading": "Wohnen für Hilfe",
-      "subheading": "Junge und ältere Menschen unter einem Dach",
+      "subheading": "Jung und Alt unter einem Dach",
       "lines": [
         "Seniorin (81) in Horn-Lehe bietet Studierenden ein möbliertes Zimmer mit eigenem Bad.",
-        "Statt Miete: etwa 20 Stunden Hilfe im Monat – Einkaufen, Gartenarbeit, Gesellschaft",
+        "Statt Miete: etwa 20 Stunden Unterstützung im Monat – Einkaufen, Gartenarbeit, Gesellschaft",
         "Sie zahlen nur 90 € Nebenkosten.",
         "Mietdauer: mindestens ein Jahr"
       ],
@@ -200,9 +200,9 @@
       "key": "k",
       "heading": "Sozialkaufhaus Fundgrube",
       "lines": [
-        "Gut erhaltene gebrauchte Möbel, Lampen und Haushaltsgeräte zu kleinen Preisen",
-        "Lieferung innerhalb Bremens: 25 €",
-        "Wir holen Ihre Möbelspenden kostenlos ab.",
+        "Gut erhaltene gebrauchte Möbel wie Tische, Regale und Schränke, dazu Lampen und Waschmaschinen – alles zu kleinen Preisen",
+        "Wir bringen alles zu Ihnen nach Hause: 25 € innerhalb Bremens.",
+        "Gerät anschließen? Machen wir gern!",
         "Mo.–Fr. 10–18 Uhr, Sa. 10–14 Uhr"
       ],
       "footer": "Am Speicher 4, 28237 Bremen · Tel. 0421 6193300"
@@ -212,25 +212,25 @@
       "heading": "Packen & Tragen",
       "subheading": "Studentische Umzugshelfer – stark und zuverlässig",
       "lines": [
-        "Wir tragen Kisten und Möbel – auch in den 5. Stock.",
+        "Wir packen Ihre Kartons und tragen Kisten und Möbel – auch in den 5. Stock.",
         "22 € pro Helfer und Stunde, mindestens 3 Stunden",
         "Nur im Raum Bremen, kein eigenes Fahrzeug",
-        "Auch samstags und sonntags"
+        "Auch am Wochenende im Einsatz"
       ],
       "footer": "Tel. 0421 2398815 · www.packen-und-tragen.de"
     }
   ],
   "glossary": [
     { "de": "die Nebenkosten (Pl.)", "en": "additional costs (heating, water, rubbish …)" },
-    { "de": "die Nebenkostenabrechnung", "en": "annual statement of additional costs" },
-    { "de": "die Kaltmiete", "en": "rent without heating and other costs" },
-    { "de": "die Kaution", "en": "deposit" },
+    { "de": "die Nachzahlung", "en": "additional payment (after a bill)" },
     { "de": "die Mindestmietdauer", "en": "minimum rental period" },
-    { "de": "monatlich kündbar", "en": "can be cancelled every month" },
+    { "de": "die Mindestlaufzeit", "en": "minimum contract period" },
     { "de": "möbliert", "en": "furnished" },
+    { "de": "der Gartenanteil", "en": "share of the garden that belongs to the flat" },
     { "de": "der Selbstabholer", "en": "buyer who collects the goods himself" },
     { "de": "das Altgerät", "en": "old appliance" },
-    { "de": "die Einlagerung", "en": "storage (of furniture, goods)" },
-    { "de": "die Besichtigung", "en": "viewing, inspection" }
+    { "de": "entsorgen", "en": "to dispose of" },
+    { "de": "sich vertraglich binden", "en": "to commit oneself by contract" },
+    { "de": "die Kündigung", "en": "cancellation, notice" }
   ]
 }

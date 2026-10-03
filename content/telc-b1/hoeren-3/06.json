@@ -6,98 +6,98 @@
   "topic": "kultur",
   "difficulty": 2,
   "speakers": [
-    { "id": "museum", "gender": "f", "age": "adult", "role": "Durchsage im Museum" },
+    { "id": "kino", "gender": "f", "age": "adult", "role": "Telefonansage des Kinos" },
     { "id": "radio", "gender": "m", "age": "adult", "role": "Radiomoderator" },
-    { "id": "jule", "name": "Jule", "gender": "f", "age": "young", "role": "Freundin" },
-    { "id": "konzerthaus", "gender": "m", "age": "adult", "role": "Durchsage im Konzerthaus" },
-    { "id": "bibliothek", "gender": "f", "age": "adult", "role": "Telefonansage" }
+    { "id": "theater", "gender": "m", "age": "senior", "role": "Durchsage im Theater" },
+    { "id": "greta", "name": "Greta", "gender": "f", "age": "young", "role": "Freundin" },
+    { "id": "markt", "gender": "m", "age": "young", "role": "Durchsage auf dem Weihnachtsmarkt" }
   ],
   "intro": [],
   "items": [
     {
       "n": 1,
-      "label": "Durchsage im Museum",
+      "label": "Telefonansage eines Kinos",
       "script": [
-        { "s": "museum", "t": "Sehr geehrte Besucherinnen und Besucher, in dreißig Minuten, um 17 Uhr 30, schließt unser Museum." },
-        { "s": "museum", "t": "Die Sonderausstellung im zweiten Stock ist bereits geschlossen. Bitte holen Sie Ihre Taschen und Jacken rechtzeitig an der Garderobe im Untergeschoss ab." },
-        { "s": "museum", "t": "Unser Museumsshop im Eingangsbereich ist heute noch bis 18 Uhr für Sie geöffnet. Wir danken für Ihren Besuch." }
+        { "s": "kino", "t": "Herzlich willkommen im Kino Kranich. Hier unser Programm für heute, Mittwoch: Im großen Saal zeigen wir um 17 Uhr den Familienfilm „Die Wolkenbande“ und um 20 Uhr 15 die Komödie „Ein Sommer in Grado“." },
+        { "s": "kino", "t": "Im kleinen Saal läuft um 19 Uhr der Dokumentarfilm „Gletscherzeit“, und zwar in der englischen Originalfassung mit deutschen Untertiteln." },
+        { "s": "kino", "t": "Mittwochs ist bei uns außerdem Kinotag: Statt 9 Euro 50 kosten alle Karten heute nur 6 Euro. Reservierte Karten holen Sie bitte spätestens eine halbe Stunde vor Beginn ab." }
       ],
-      "statement": "Der Museumsshop schließt heute später als das Museum.",
+      "statement": "Den Film im kleinen Saal hört man heute auf Englisch.",
       "answer": true,
-      "explanation": "The museum closes at 17 Uhr 30, but „Unser Museumsshop … ist heute noch bis 18 Uhr für Sie geöffnet“.",
-      "explanationDe": "Das Museum schließt um 17 Uhr 30, aber: „Unser Museumsshop … ist heute noch bis 18 Uhr für Sie geöffnet“.",
-      "evidence": "Unser Museumsshop im Eingangsbereich ist heute noch bis 18 Uhr für Sie geöffnet."
+      "explanation": "The documentary in the small cinema runs „in der englischen Originalfassung mit deutschen Untertiteln“ – you hear English and read German. Only the subtitles are German.",
+      "explanationDe": "Der Dokumentarfilm im kleinen Saal läuft „in der englischen Originalfassung mit deutschen Untertiteln“ – man hört also Englisch und liest Deutsch. Deutsch sind nur die Untertitel.",
+      "evidence": "in der englischen Originalfassung mit deutschen Untertiteln"
     },
     {
       "n": 2,
       "label": "Veranstaltungstipp im Radio",
       "script": [
-        { "s": "radio", "t": "Von Freitag bis Sonntag feiert die Altstadt ihr großes Sommerfest. Los geht es am Freitag um 18 Uhr mit einem Konzert auf dem Rathausplatz." },
-        { "s": "radio", "t": "Der Höhepunkt ist am Samstag: Um halb elf am Abend gibt es ein großes Feuerwerk über dem Fluss." },
-        { "s": "radio", "t": "Am Sonntag findet dann von 10 bis 17 Uhr ein Flohmarkt für Kinder statt. Der Eintritt zu allen Veranstaltungen ist frei." }
+        { "s": "radio", "t": "Am Samstag ist wieder Lange Nacht der Museen: Von 18 Uhr bis 1 Uhr nachts haben zwölf Museen in der Stadt geöffnet, viele mit Musik und Führungen." },
+        { "s": "radio", "t": "Das Ticket kostet im Vorverkauf 14 Euro, an der Abendkasse 17 Euro. Damit fahren Sie auch kostenlos mit den Shuttlebussen, die zwischen den Museen hin und her fahren." },
+        { "s": "radio", "t": "Für Familien lohnt sich besonders das Naturkundemuseum: Dort gibt es bis 21 Uhr ein eigenes Programm für Kinder. Kinder unter zwölf brauchen übrigens gar kein Ticket." }
       ],
-      "statement": "Das Feuerwerk über dem Fluss gibt es am Samstagabend.",
-      "answer": true,
-      "explanation": "„Der Höhepunkt ist am Samstag: Um halb elf am Abend gibt es ein großes Feuerwerk über dem Fluss.“ Friday starts with a concert.",
-      "explanationDe": "„Der Höhepunkt ist am Samstag: Um halb elf am Abend gibt es ein großes Feuerwerk über dem Fluss.“ Am Freitag beginnt das Fest mit einem Konzert.",
-      "evidence": "Der Höhepunkt ist am Samstag: Um halb elf am Abend gibt es ein großes Feuerwerk über dem Fluss."
+      "statement": "Im Naturkundemuseum können Kinder bis ein Uhr nachts mitmachen.",
+      "answer": false,
+      "explanation": "The children's programme in the natural history museum runs only „bis 21 Uhr“. 1 Uhr at night is when the whole museum night ends.",
+      "explanationDe": "Das Kinderprogramm im Naturkundemuseum gibt es nur „bis 21 Uhr“. Um 1 Uhr nachts endet die ganze Museumsnacht.",
+      "evidence": "Dort gibt es bis 21 Uhr ein eigenes Programm für Kinder."
     },
     {
       "n": 3,
-      "label": "Nachricht von einer Freundin",
+      "label": "Durchsage im Theater",
       "script": [
-        { "s": "jule", "t": "Hi Marie, hier ist Jule! Stell dir vor, ich hab noch zwei Karten für das Theaterstück bekommen, aber nicht für Freitag, sondern für Samstag." },
-        { "s": "jule", "t": "Die Vorstellung fängt um halb acht an. Wir treffen uns am besten schon um sieben vor dem Eingang, dann können wir vorher noch etwas trinken." },
-        { "s": "jule", "t": "Die Karte kostet für dich nur 12 Euro, weil ich den Studentenpreis bekommen habe. Ruf mich kurz zurück, ja?" }
+        { "s": "theater", "t": "Meine Damen und Herren, gleich beginnt die Pause. Sie dauert heute nicht fünfzehn Minuten, wie im Programmheft steht, sondern fünfundzwanzig, weil wir die Bühne für den zweiten Teil umbauen müssen." },
+        { "s": "theater", "t": "Getränke und kleine Snacks bekommen Sie an der Bar im ersten Rang. Die Bar im Foyer bleibt heute leider geschlossen." },
+        { "s": "theater", "t": "Die Vorstellung endet gegen zwanzig vor elf. Wer danach mit der letzten Straßenbahn nach Hause fahren möchte: Sie fährt um fünf nach elf vor dem Theater ab." }
       ],
-      "statement": "Jule möchte Marie um halb acht vor dem Theater treffen.",
-      "answer": false,
-      "explanation": "Half past seven is when the play starts. Jule wants to meet „schon um sieben vor dem Eingang“ to have a drink first.",
-      "explanationDe": "Um halb acht beginnt das Theaterstück. Jule möchte sich „schon um sieben vor dem Eingang“ treffen, um vorher noch etwas zu trinken.",
-      "evidence": "Wir treffen uns am besten schon um sieben vor dem Eingang, dann können wir vorher noch etwas trinken."
+      "statement": "Die Pause dauert heute zehn Minuten länger als angekündigt.",
+      "answer": true,
+      "explanation": "The interval lasts „nicht fünfzehn Minuten, wie im Programmheft steht, sondern fünfundzwanzig“ – ten minutes longer than printed in the programme.",
+      "explanationDe": "Die Pause dauert „nicht fünfzehn Minuten, wie im Programmheft steht, sondern fünfundzwanzig“ – also zehn Minuten länger als angekündigt.",
+      "evidence": "Sie dauert heute nicht fünfzehn Minuten, wie im Programmheft steht, sondern fünfundzwanzig"
     },
     {
       "n": 4,
-      "label": "Durchsage im Konzerthaus",
+      "label": "Nachricht auf der Mailbox",
       "script": [
-        { "s": "konzerthaus", "t": "Meine Damen und Herren, wir begrüßen Sie herzlich zu unserem heutigen Konzert. Leider müssen wir Ihnen eine Änderung mitteilen." },
-        { "s": "konzerthaus", "t": "Die Sängerin Anna Lorenz ist erkrankt. Für sie singt heute Abend Julia Brandner aus Wien." },
-        { "s": "konzerthaus", "t": "Das Konzert beginnt deshalb erst um 20 Uhr 15, also fünfzehn Minuten später." },
-        { "s": "konzerthaus", "t": "Die Pause dauert wie geplant zwanzig Minuten." },
-        { "s": "konzerthaus", "t": "Bitte schalten Sie jetzt Ihre Mobiltelefone aus." }
+        { "s": "greta", "t": "Hi Merle, Greta hier! Rate mal, was ich hab: zwei Karten für das Open-Air-Konzert im Stadtpark am Freitag!" },
+        { "s": "greta", "t": "Einlass ist ab sieben, um halb acht spielt eine Vorband, und die Band, wegen der wir eigentlich hingehen, kommt erst um neun auf die Bühne." },
+        { "s": "greta", "t": "Wollen wir uns um Viertel vor sieben am Parkeingang treffen? Dann stehen wir nicht so lange an." },
+        { "s": "greta", "t": "Und nimm eine Jacke mit, abends wird's da echt kalt. Sag mir kurz Bescheid, ja?" }
       ],
-      "statement": "Das Konzert beginnt heute pünktlich um 20 Uhr.",
+      "statement": "Greta möchte sich mit Merle um sieben Uhr am Eingang des Parks treffen.",
       "answer": false,
-      "explanation": "Because of the change of singer the concert begins „erst um 20 Uhr 15, also fünfzehn Minuten später“.",
-      "explanationDe": "Weil eine andere Sängerin singt, beginnt das Konzert „erst um 20 Uhr 15, also fünfzehn Minuten später“.",
-      "evidence": "Das Konzert beginnt deshalb erst um 20 Uhr 15, also fünfzehn Minuten später."
+      "explanation": "Greta suggests meeting „um Viertel vor sieben am Parkeingang“. Seven o'clock is when the gates open („Einlass ist ab sieben“).",
+      "explanationDe": "Greta schlägt vor, sich „um Viertel vor sieben am Parkeingang“ zu treffen. Um sieben beginnt nur der Einlass: „Einlass ist ab sieben“.",
+      "evidence": "Wollen wir uns um Viertel vor sieben am Parkeingang treffen?"
     },
     {
       "n": 5,
-      "label": "Telefonansage der Stadtbibliothek",
+      "label": "Durchsage auf dem Weihnachtsmarkt",
       "script": [
-        { "s": "bibliothek", "t": "Willkommen bei der Stadtbibliothek Am Wall. Wir haben dienstags bis freitags von 10 bis 19 Uhr und samstags von 10 bis 14 Uhr geöffnet. Montags ist die Bibliothek geschlossen." },
-        { "s": "bibliothek", "t": "Ausgeliehene Bücher und Filme können Sie aber jederzeit zurückgeben, auch nachts und am Wochenende. Unser Rückgabekasten befindet sich rechts neben dem Haupteingang." },
-        { "s": "bibliothek", "t": "Für Fragen zu Ihrem Leserausweis drücken Sie bitte die Taste eins." }
+        { "s": "markt", "t": "Liebe Besucherinnen und Besucher, eine kleine Programmänderung: Der Nikolaus kommt heute nicht um 17 Uhr, sondern schon um halb fünf zur Bühne am Brunnen." },
+        { "s": "markt", "t": "Der Kinderchor der Grundschule am Lindenhof singt dann wie geplant um 18 Uhr. Unsere Eisbahn ist heute Abend aber nur bis 20 Uhr geöffnet, weil sie danach für ein Turnier vorbereitet wird." },
+        { "s": "markt", "t": "Die Stände und Buden haben wie jeden Tag bis 21 Uhr für Sie geöffnet. Wir wünschen Ihnen einen schönen Abend!" }
       ],
-      "statement": "Bücher kann man auch zurückgeben, wenn die Bibliothek geschlossen ist.",
+      "statement": "Schlittschuhlaufen kann man heute nur bis acht Uhr abends.",
       "answer": true,
-      "explanation": "Books can be returned „jederzeit …, auch nachts und am Wochenende“ – in the returns box next to the main entrance.",
-      "explanationDe": "Bücher kann man „jederzeit …, auch nachts und am Wochenende“ zurückgeben – im Rückgabekasten neben dem Haupteingang.",
-      "evidence": "Ausgeliehene Bücher und Filme können Sie aber jederzeit zurückgeben, auch nachts und am Wochenende."
+      "explanation": "„Unsere Eisbahn ist heute Abend aber nur bis 20 Uhr geöffnet“ – the ice rink closes at eight. 21 Uhr is the closing time of the market stalls.",
+      "explanationDe": "„Unsere Eisbahn ist heute Abend aber nur bis 20 Uhr geöffnet“ – die Eisbahn schließt also um acht. Um 21 Uhr schließen die Stände.",
+      "evidence": "Unsere Eisbahn ist heute Abend aber nur bis 20 Uhr geöffnet"
     }
   ],
   "glossary": [
-    { "de": "die Sonderausstellung", "en": "special exhibition" },
-    { "de": "die Garderobe", "en": "cloakroom" },
-    { "de": "rechtzeitig", "en": "in time" },
-    { "de": "der Höhepunkt", "en": "highlight" },
-    { "de": "das Feuerwerk", "en": "fireworks" },
-    { "de": "die Vorstellung", "en": "performance, show" },
-    { "de": "erkrankt sein", "en": "to be ill" },
-    { "de": "eine Änderung mitteilen", "en": "to announce a change" },
-    { "de": "ausleihen", "en": "to borrow" },
-    { "de": "der Rückgabekasten", "en": "returns box" },
-    { "de": "der Leserausweis", "en": "library card" }
+    { "de": "die Originalfassung", "en": "original (undubbed) version" },
+    { "de": "der Untertitel", "en": "subtitle" },
+    { "de": "der Kinotag", "en": "cinema day (cheaper tickets)" },
+    { "de": "der Vorverkauf", "en": "advance sale" },
+    { "de": "die Abendkasse", "en": "box office on the evening itself" },
+    { "de": "die Führung", "en": "guided tour" },
+    { "de": "der Rang", "en": "circle, balcony (in a theatre)" },
+    { "de": "umbauen", "en": "to rebuild, to change (a stage set)" },
+    { "de": "der Einlass", "en": "admission (doors open)" },
+    { "de": "die Vorband", "en": "support band" },
+    { "de": "die Eisbahn", "en": "ice rink" },
+    { "de": "die Bude", "en": "market stall" }
   ]
 }

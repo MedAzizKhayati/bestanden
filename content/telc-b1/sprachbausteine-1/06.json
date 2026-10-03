@@ -6,7 +6,7 @@
   "topic": "einkaufen",
   "difficulty": 2,
   "textType": "letter-formal",
-  "text": "Sehr geehrte Damen und Herren,\n\nam 3. März habe ich in Ihrem Onlineshop eine Kaffeemaschine („Aroma Plus“) für 129,90 Euro bestellt. Leider [[1]] die Maschine erst nach drei Wochen geliefert, obwohl auf Ihrer Internetseite eine Lieferzeit von zwei bis drei Tagen angegeben war. [[2]] der langen Wartezeit war ich zunächst froh, als das Paket endlich ankam.\n\nBeim Auspacken habe ich [[3]] die Maschine genauer angesehen und einen [[4]] Riss im Gehäuse entdeckt. Außerdem [[5]] der Griff der Glaskanne abgebrochen.\n\n[[6]] zwei Wochen habe ich deshalb bei Ihrem Kundenservice angerufen. Der Mitarbeiter, [[7]] ich das Problem genau beschrieben habe, hat mir versprochen, dass ich schnell eine neue Maschine bekomme. Bis heute ist aber nichts passiert.\n\nIch kaufe seit Jahren bei Ihnen ein und war bisher immer sehr zufrieden [[8]] Ihrem Service. Diesmal bin ich aber sehr enttäuscht. Ich bitte Sie, mir bis zum 15. April eine neue Maschine [[9]] oder mir den Kaufpreis zurückzuzahlen. Andernfalls [[10]] ich mich an die Verbraucherzentrale wenden.\n\nMit freundlichen Grüßen\nJan Petersen",
+  "text": "Sehr geehrte Damen und Herren,\n\nam 3. März habe ich in Ihrem Onlineshop eine Kaffeemaschine („Aroma Plus“) für 129,90 Euro bestellt. Leider [[1]] die Maschine erst nach drei Wochen geliefert, obwohl auf Ihrer Internetseite eine Lieferzeit von zwei bis drei Tagen angegeben war. [[2]] der langen Wartezeit war ich zunächst nicht verärgert, sondern einfach froh, als das Paket endlich ankam.\n\nBeim Auspacken habe ich [[3]] die Maschine genauer angesehen und einen [[4]] Riss im Gehäuse entdeckt. Außerdem [[5]] der Griff der Glaskanne abgebrochen.\n\n[[6]] zwei Wochen habe ich deshalb bei Ihrem Kundenservice angerufen. Der Mitarbeiter, [[7]] ich das Problem genau beschrieben habe, hat mir versprochen, dass ich schnell eine neue Maschine bekomme. Bis heute ist aber nichts passiert.\n\nIch kaufe seit Jahren bei Ihnen ein und war bisher immer sehr zufrieden [[8]] Ihrem Service. Diesmal bin ich aber sehr enttäuscht. Ich bitte Sie, mir bis zum 15. April eine neue Maschine [[9]] oder mir den Kaufpreis zurückzuzahlen. Andernfalls werde ich mich an [[10]] Verbraucherzentrale wenden.\n\nMit freundlichen Grüßen\nJan Petersen",
   "gaps": [
     {
       "n": 1,
@@ -60,12 +60,12 @@
       "n": 5,
       "options": [
         { "key": "a", "text": "hat" },
-        { "key": "b", "text": "habe" },
+        { "key": "b", "text": "hatte" },
         { "key": "c", "text": "ist" }
       ],
       "answer": "c",
-      "explanation": "„abbrechen“ without an object (the handle broke off) is a change of state and forms the Perfekt with „sein“: „ist … abgebrochen“. „hat“ would need an object, and „habe“ does not agree with „der Griff“.",
-      "explanationDe": "„abbrechen“ ohne Objekt (der Griff ist einfach kaputtgegangen) ist eine Zustandsänderung und bildet das Perfekt mit „sein“: „ist … abgebrochen“. „hat“ bräuchte ein Objekt, und „habe“ passt nicht zu „der Griff“.",
+      "explanation": "„abbrechen“ without an object (the handle broke off) is a change of state and forms the Perfekt with „sein“: „ist … abgebrochen“. „hat“ and „hatte“ would only work with an object („Jemand hat den Griff abgebrochen“) – here „der Griff“ is the subject.",
+      "explanationDe": "„abbrechen“ ohne Objekt (der Griff ist einfach kaputtgegangen) ist eine Zustandsänderung und bildet das Perfekt mit „sein“: „ist … abgebrochen“. „hat“ und „hatte“ gehen nur mit einem Objekt („Jemand hat den Griff abgebrochen“) – hier ist „der Griff“ das Subjekt.",
       "grammar": "perfekt"
     },
     {
@@ -119,18 +119,17 @@
     {
       "n": 10,
       "options": [
-        { "key": "a", "text": "werde" },
-        { "key": "b", "text": "wird" },
-        { "key": "c", "text": "werden" }
+        { "key": "a", "text": "die" },
+        { "key": "b", "text": "der" },
+        { "key": "c", "text": "den" }
       ],
       "answer": "a",
-      "explanation": "The Futur I is „werden“ + infinitive („… wenden“). The subject is „ich“, so the form is „werde“. „wird“ is for er/sie/es, and „werden“ for wir/sie/Sie.",
-      "explanationDe": "Das Futur I bildet man mit „werden“ + Infinitiv („… wenden“). Das Subjekt ist „ich“, also heißt die Form „werde“. „wird“ ist für er/sie/es, und „werden“ für wir/sie/Sie.",
-      "grammar": "futur-1"
+      "explanation": "„sich an jemanden wenden“ (to contact, to turn to) is followed by the accusative: „an die Verbraucherzentrale“. „der“ would be the dative – that is the answer to „Wo?“, not to „An wen?“. „den“ is masculine.",
+      "explanationDe": "Nach „sich an jemanden wenden“ steht der Akkusativ: „an die Verbraucherzentrale“. „der“ wäre Dativ – das ist die Antwort auf „Wo?“, nicht auf „An wen?“. „den“ ist maskulin.",
+      "grammar": "verben-mit-praepositionen"
     }
   ],
   "glossary": [
-    { "de": "bestellen", "en": "to order" },
     { "de": "liefern", "en": "to deliver" },
     { "de": "die Lieferzeit", "en": "delivery time" },
     { "de": "der Riss", "en": "crack" },
@@ -141,6 +140,7 @@
     { "de": "enttäuscht", "en": "disappointed" },
     { "de": "der Kaufpreis", "en": "purchase price" },
     { "de": "andernfalls", "en": "otherwise" },
-    { "de": "die Verbraucherzentrale", "en": "consumer advice centre" }
+    { "de": "die Verbraucherzentrale", "en": "consumer advice centre" },
+    { "de": "sich an jemanden wenden", "en": "to contact, to turn to somebody" }
   ]
 }

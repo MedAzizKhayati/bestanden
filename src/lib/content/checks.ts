@@ -22,6 +22,7 @@ import type {
   VocabTheme,
   WritingSet,
 } from "./schemas";
+import { difficultyIssues } from "./difficulty";
 
 export interface Issue {
   level: "error" | "warning";
@@ -262,6 +263,7 @@ export function checkExamSet(set: ExamSet, partId: string): Issue[] {
       checkSpeakingLines(c, set);
       break;
   }
+  difficultyIssues(set, partId).forEach((m) => c.warn(m));
   return c.issues;
 }
 

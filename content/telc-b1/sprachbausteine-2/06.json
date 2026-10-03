@@ -16,102 +16,105 @@
       "Bewerbungen bitte per E-Mail an Frau Hoffmann"
     ]
   },
-  "text": "Sehr geehrte Frau Hoffmann,\n\nmit großem Interesse habe ich Ihre Anzeige gelesen und möchte mich [[1]] die Stelle als Aushilfe bewerben.\n\nMein Name ist Elena Petrova, ich bin 23 Jahre alt und studiere im vierten [[2]] Germanistik an der Universität Münster. Bücher sind schon immer meine große Leidenschaft. Ich lese sehr viel und kann Kunden deshalb gut [[3]].\n\nAuch Erfahrung im Verkauf habe ich schon: Während der Schulzeit hatte ich einen [[4]] in einem Schuhgeschäft. Dort habe ich auch oft an der Kasse gearbeitet. Meine damalige Chefin war mit meiner Arbeit immer sehr [[5]].\n\nSamstags habe ich keine Vorlesungen, [[6]] kann ich problemlos an allen Samstagen arbeiten. In den Weihnachtsferien hätte ich sogar Zeit, auch [[7]] der Woche zu arbeiten.\n\nIch bin freundlich und zuverlässig und arbeite gern im [[8]]. Im [[9]] finden Sie meinen Lebenslauf und ein Arbeitszeugnis aus dem Schuhgeschäft.\n\nÜber eine Einladung zu einem [[10]] würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nElena Petrova",
+  "text": "Sehr geehrte Frau Hoffmann,\n\nmit großem Interesse habe ich Ihre Anzeige gelesen und möchte mich [[1]] Ihnen als Aushilfe bewerben.\n\nMein Name ist Elena Petrova, ich bin 23 Jahre alt und studiere im vierten Semester Germanistik an der Universität Münster. Bücher sind schon immer meine große Leidenschaft. Ich lese fast jeden Abend und kann Kundinnen und Kunden gut beraten, besonders wenn es [[2]] Romane oder Krimis geht. Außerdem interessiere ich mich sehr [[3]] Kinderbücher, weil ich zwei kleine Nichten habe.\n\nErfahrung im Verkauf habe ich auch schon: Während der Schulzeit hatte ich zwei Jahre lang einen Nebenjob in einem Schuhgeschäft, wo ich oft an der Kasse gearbeitet habe. Meine damalige Chefin war mit meiner Arbeit immer sehr [[4]] und hat mir ein gutes Zeugnis geschrieben.\n\n[[5]] ich samstags nie Vorlesungen habe, kann ich problemlos an allen Samstagen arbeiten. In den Weihnachtsferien [[6]] ich sogar Zeit, auch unter der Woche zu kommen. Nur im Februar schreibe ich Prüfungen und wäre in dieser Zeit weniger flexibel.\n\nEine Frage habe ich noch: Könnte ich vor meinem ersten Arbeitstag einmal zur Probe mitarbeiten, [[7]] ich das Kassensystem und die Bestellungen schon kennenlerne? Ich lerne schnell und arbeite gern im [[8]].\n\nIm [[9]] finden Sie meinen Lebenslauf und das Zeugnis aus dem Schuhgeschäft. Über eine Einladung zu einem [[10]] würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nElena Petrova",
   "words": [
-    { "key": "a", "text": "Anhang" },
-    { "key": "b", "text": "Ausbildung" },
+    { "key": "a", "text": "an" },
+    { "key": "b", "text": "Anhang" },
     { "key": "c", "text": "bei" },
-    { "key": "d", "text": "beraten" },
-    { "key": "e", "text": "Bewerbung" },
-    { "key": "f", "text": "daher" },
-    { "key": "g", "text": "Nebenjob" },
-    { "key": "h", "text": "Semester" },
-    { "key": "i", "text": "stolz" },
-    { "key": "j", "text": "Team" },
-    { "key": "k", "text": "trotzdem" },
-    { "key": "l", "text": "um" },
-    { "key": "m", "text": "unter" },
+    { "key": "d", "text": "da" },
+    { "key": "e", "text": "damit" },
+    { "key": "f", "text": "für" },
+    { "key": "g", "text": "hatte" },
+    { "key": "h", "text": "hätte" },
+    { "key": "i", "text": "obwohl" },
+    { "key": "j", "text": "Praktikum" },
+    { "key": "k", "text": "stolz" },
+    { "key": "l", "text": "Team" },
+    { "key": "m", "text": "um" },
     { "key": "n", "text": "Vorstellungsgespräch" },
     { "key": "o", "text": "zufrieden" }
   ],
   "gaps": [
     {
       "n": 1,
-      "answer": "l",
-      "explanation": "„sich um eine Stelle bewerben“ means „to apply for a job“. „bei“ is used for the company („sich bei einer Firma bewerben“) and would need the dative.",
-      "explanationDe": "„sich um eine Stelle bewerben“ bedeutet: schriftlich um eine Arbeitsstelle bitten. „bei“ benutzt man für die Firma („sich bei einer Firma bewerben“), und danach stünde der Dativ.",
+      "answer": "c",
+      "explanation": "You apply to a person or company with „sich bei jemandem bewerben“ + dative: „möchte mich bei Ihnen als Aushilfe bewerben“. „um“ and „für“ are traps: they name the job („sich um eine Stelle bewerben“) and need the accusative, but „Ihnen“ is dative.",
+      "explanationDe": "Bei einer Person oder Firma bewirbst du dich mit „sich bei jemandem bewerben“ + Dativ: „möchte mich bei Ihnen als Aushilfe bewerben“. „um“ und „für“ sind Fallen: Sie nennen die Stelle („sich um eine Stelle bewerben“) und brauchen den Akkusativ – „Ihnen“ ist aber Dativ.",
       "grammar": "verben-mit-praepositionen"
     },
     {
       "n": 2,
-      "answer": "h",
-      "explanation": "„im vierten Semester studieren“ – students count their time at university in semesters.",
-      "explanationDe": "„im vierten Semester studieren“ – Studierende zählen ihre Zeit an der Universität in Semestern."
+      "answer": "m",
+      "explanation": "„es geht um etwas“ means „it is about something“: „besonders wenn es um Romane oder Krimis geht“. „für“ and „an“ do not combine with „es geht“.",
+      "explanationDe": "„es geht um etwas“ (= das Thema ist etwas): „besonders wenn es um Romane oder Krimis geht“. „für“ und „an“ passen nicht zu „es geht“.",
+      "grammar": "verben-mit-praepositionen"
     },
     {
       "n": 3,
-      "answer": "d",
-      "explanation": "„jemanden beraten“ means „to advise someone“: „kann Kunden deshalb gut beraten“. This matches the task „Kundenberatung“ in the ad.",
-      "explanationDe": "„jemanden beraten“ (= jemandem Tipps und Informationen geben): „kann Kunden deshalb gut beraten“. Das passt zur Aufgabe „Kundenberatung“ in der Anzeige."
+      "answer": "f",
+      "explanation": "„sich interessieren für“ + accusative: „interessiere ich mich sehr für Kinderbücher“. „an“ is the trap – it belongs to the noun („Interesse an“, compare „mit großem Interesse“ in the first line), not to the verb.",
+      "explanationDe": "„sich interessieren für“ + Akkusativ: „interessiere ich mich sehr für Kinderbücher“. „an“ ist die Falle – es gehört zum Nomen („Interesse an“, vgl. „mit großem Interesse“ in der ersten Zeile), nicht zum Verb.",
+      "grammar": "verben-mit-praepositionen"
     },
     {
       "n": 4,
-      "answer": "g",
-      "explanation": "„einen“ needs a masculine noun: „einen Nebenjob“ (a part-time job next to school). „Ausbildung“ is feminine („eine Ausbildung“), so it does not fit.",
-      "explanationDe": "Nach „einen“ braucht man ein maskulines Nomen: „einen Nebenjob“ (= eine Arbeit neben der Schule). „Ausbildung“ ist feminin („eine Ausbildung“) und passt deshalb nicht.",
-      "grammar": "kasus-und-artikel"
-    },
-    {
-      "n": 5,
       "answer": "o",
-      "explanation": "„mit etwas zufrieden sein“ means „to be satisfied with something“. „stolz“ goes with „auf“ („stolz auf meine Arbeit“).",
-      "explanationDe": "„mit etwas zufrieden sein“ bedeutet: etwas gut finden. „stolz“ steht mit „auf“ („stolz auf meine Arbeit“).",
+      "explanation": "„mit etwas zufrieden sein“ (to be satisfied with something): „war mit meiner Arbeit immer sehr zufrieden“. „stolz“ needs „auf“ („stolz auf …“), so it does not fit with „mit meiner Arbeit“.",
+      "explanationDe": "„mit etwas zufrieden sein“: „war mit meiner Arbeit immer sehr zufrieden“. „stolz“ braucht „auf“ („stolz auf …“) und passt deshalb nicht zu „mit meiner Arbeit“.",
       "grammar": "adjektive-mit-praepositionen"
     },
     {
+      "n": 5,
+      "answer": "d",
+      "explanation": "Having no lectures on Saturdays is the reason why she can work every Saturday. The verb „habe“ is at the end and the main clause starts with the verb („kann ich“), so you need the subordinating „Da“ (= weil). „Obwohl“ has the same word order but expresses a contrast; „Damit“ expresses a purpose.",
+      "explanationDe": "Dass sie samstags keine Vorlesungen hat, ist der Grund, warum sie jeden Samstag arbeiten kann. Das Verb „habe“ steht am Ende, und der Hauptsatz beginnt mit dem Verb („kann ich“) – du brauchst also „Da“ (= weil). „Obwohl“ hat dieselbe Wortstellung, drückt aber einen Gegensatz aus; „Damit“ nennt ein Ziel.",
+      "grammar": "kausale-konsekutive-saetze"
+    },
+    {
       "n": 6,
-      "answer": "f",
-      "explanation": "She has no lectures on Saturdays, so as a consequence she can work then: „daher kann ich … arbeiten“ (verb directly after „daher“). „trotzdem“ (nevertheless) gives the wrong logic.",
-      "explanationDe": "Samstags hat sie keine Vorlesungen; als Folge davon kann sie an diesen Tagen arbeiten: „daher kann ich … arbeiten“ (Verb direkt nach „daher“). „trotzdem“ (= dennoch) ergibt die falsche Logik.",
-      "grammar": "verbindungsadverbien"
+      "answer": "h",
+      "explanation": "She talks about the coming Christmas holidays and offers something that would be possible – Konjunktiv II: „hätte ich sogar Zeit“. „hatte“ (without umlaut) is the simple past and would mean last Christmas, which does not help the bookshop.",
+      "explanationDe": "Sie spricht über die kommenden Weihnachtsferien und bietet etwas an, das möglich wäre – also Konjunktiv II: „hätte ich sogar Zeit“. „hatte“ (ohne Umlaut) ist Präteritum und würde sich auf letztes Weihnachten beziehen – das hilft der Buchhandlung nicht.",
+      "grammar": "konjunktiv-2"
     },
     {
       "n": 7,
-      "answer": "m",
-      "explanation": "„unter der Woche“ (on weekdays, Monday to Friday) is a fixed expression.",
-      "explanationDe": "„unter der Woche“ (= an Werktagen, von Montag bis Freitag) ist eine feste Wendung.",
-      "grammar": "temporale-praepositionen"
+      "answer": "e",
+      "explanation": "The trial day has a purpose: she wants to get to know the till system before she starts – verb at the end: „damit ich … schon kennenlerne“. „da“ would give a reason (she works a trial day because she already knows the system), which makes no sense, and „um“ needs „zu“ + infinitive without its own subject („um … kennenzulernen“).",
+      "explanationDe": "Das Probearbeiten hat ein Ziel: Sie will das Kassensystem schon vor dem Start kennenlernen – das Verb steht am Ende: „damit ich … schon kennenlerne“. „da“ würde einen Grund nennen (sie arbeitet zur Probe, weil sie das System schon kennt) – das ergibt keinen Sinn, und „um“ braucht „zu“ + Infinitiv ohne eigenes Subjekt („um … kennenzulernen“).",
+      "grammar": "finale-saetze"
     },
     {
       "n": 8,
-      "answer": "j",
-      "explanation": "„gern im Team arbeiten“ (to like working in a team) is a typical phrase in job applications.",
-      "explanationDe": "„gern im Team arbeiten“ (= gern mit anderen zusammenarbeiten) ist eine typische Wendung in Bewerbungen."
+      "answer": "l",
+      "explanation": "„gern im Team arbeiten“ (to like working in a team) is a typical phrase in applications. „Praktikum“ fits the grammar („im Praktikum“), but „arbeite gern im Praktikum“ makes no sense – she is applying for a paid job.",
+      "explanationDe": "„gern im Team arbeiten“ ist eine typische Wendung in Bewerbungen. „Praktikum“ passt zwar grammatisch („im Praktikum“), aber „arbeite gern im Praktikum“ ergibt keinen Sinn – sie bewirbt sich um einen Job."
     },
     {
       "n": 9,
-      "answer": "a",
-      "explanation": "„im Anhang“ means „in the attachment“ of an e-mail: „Im Anhang finden Sie meinen Lebenslauf …“.",
-      "explanationDe": "„im Anhang“ (= als Datei mit der E-Mail mitgeschickt): „Im Anhang finden Sie meinen Lebenslauf …“."
+      "answer": "b",
+      "explanation": "„Im Anhang finden Sie …“ is the standard phrase for files attached to an e-mail. „Im Team“ or „Im Praktikum“ cannot contain a CV.",
+      "explanationDe": "„Im Anhang finden Sie …“ ist die feste Wendung für Dateien, die an einer E-Mail hängen. „Im Team“ oder „Im Praktikum“ kann kein Lebenslauf sein."
     },
     {
       "n": 10,
       "answer": "n",
-      "explanation": "„eine Einladung zu einem Vorstellungsgespräch“ is an invitation to a job interview. „Bewerbung“ is feminine and cannot follow „zu einem“ – and she is sending her application right now.",
-      "explanationDe": "„eine Einladung zu einem Vorstellungsgespräch“ bedeutet: Die Firma möchte die Bewerberin persönlich kennenlernen. „Bewerbung“ ist feminin und kann nicht nach „zu einem“ stehen – und ihre Bewerbung schickt sie ja gerade ab.",
-      "grammar": "kasus-und-artikel"
+      "explanation": "After an application you hope for „eine Einladung zu einem Vorstellungsgespräch“ (a job interview). „Praktikum“ also fits „zu einem …“, but she is applying for a job as a temporary assistant, not for an internship.",
+      "explanationDe": "Nach einer Bewerbung hoffst du auf „eine Einladung zu einem Vorstellungsgespräch“. „Praktikum“ passt auch zu „zu einem …“, aber sie bewirbt sich als Aushilfe und nicht um ein Praktikum."
     }
   ],
   "glossary": [
-    { "de": "die Aushilfe", "en": "temporary / part-time helper" },
-    { "de": "sich um eine Stelle bewerben", "en": "to apply for a job" },
+    { "de": "die Aushilfe", "en": "temporary assistant" },
+    { "de": "sich bei jemandem bewerben", "en": "to apply to someone (for a job)" },
+    { "de": "es geht um etwas", "en": "it is about something" },
     { "de": "jemanden beraten", "en": "to advise someone" },
-    { "de": "der Nebenjob", "en": "part-time job (next to school or university)" },
+    { "de": "der Nebenjob", "en": "part-time job, side job" },
     { "de": "mit etwas zufrieden sein", "en": "to be satisfied with something" },
+    { "de": "das Zeugnis", "en": "reference (from an employer)" },
     { "de": "unter der Woche", "en": "on weekdays" },
-    { "de": "im Anhang", "en": "in the attachment" },
+    { "de": "zur Probe mitarbeiten", "en": "to work for a trial period" },
+    { "de": "im Anhang", "en": "attached (to an e-mail)" },
     { "de": "der Lebenslauf", "en": "CV" },
-    { "de": "das Arbeitszeugnis", "en": "written reference from an employer" },
     { "de": "das Vorstellungsgespräch", "en": "job interview" }
   ]
 }

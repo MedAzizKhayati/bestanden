@@ -78,7 +78,7 @@
         { "s": "radio", "t": "Wer nicht mit dem Auto kommen möchte, kann an diesem Tag alle Busse und Straßenbahnen in der Stadt kostenlos benutzen." },
         { "s": "radio", "t": "Außerdem gibt es auf dem Marktplatz ab 14 Uhr Livemusik und ein Kinderkarussell." }
       ],
-      "statement": "Am Sonntag kann man kostenlos mit dem Bus in die Stadt fahren.",
+      "statement": "Am Sonntag kann man kostenlos mit dem Bus in der Stadt fahren.",
       "answer": true,
       "explanation": "On that Sunday you can use „alle Busse und Straßenbahnen in der Stadt kostenlos“ – free of charge.",
       "explanationDe": "An diesem Sonntag kann man „alle Busse und Straßenbahnen in der Stadt kostenlos“ benutzen – man muss also nichts bezahlen.",

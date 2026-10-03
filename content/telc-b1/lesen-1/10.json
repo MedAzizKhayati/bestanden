@@ -11,19 +11,19 @@
     { "key": "c", "text": "Augsburg: Neues Café für Sprachkurse eröffnet" },
     { "key": "d", "text": "Spielen erlaubt: Ein Klavier für alle Reisenden" },
     { "key": "e", "text": "Musik, Tanz und Essen aus vielen Ländern" },
-    { "key": "f", "text": "Wahre Geschichte: Hochzeitsgäste im Schnee gefangen" },
-    { "key": "g", "text": "Neu im Kino: Hochzeitschaos in den Bergen" },
+    { "key": "f", "text": "Wahre Geschichte: Gäste sitzen im Schneesturm auf Berghütte fest" },
+    { "key": "g", "text": "Neu im Kino: Eine Hochzeit mit Hindernissen" },
     { "key": "h", "text": "Theaterkarten gibt es nur noch per App" },
     { "key": "i", "text": "Musikschule gibt Klavierunterricht im Bahnhof" },
-    { "key": "j", "text": "Eintritt frei: Mehr junge Menschen im Museum" }
+    { "key": "j", "text": "Gratis ins Museum: Jugendliche nutzen das Angebot" }
   ],
   "texts": [
     {
       "n": 1,
       "text": "Seit einem Jahr müssen junge Menschen unter 26 Jahren in den städtischen Museen von Salzburg keinen Eintritt mehr bezahlen. Jetzt hat die Stadt Bilanz gezogen: Die Zahl der jungen Besucherinnen und Besucher ist um fast 40 Prozent gestiegen. Besonders oft kamen Studierende und Schulklassen. Viele junge Leute haben nach eigenen Angaben zum ersten Mal ein Museum besucht, ohne dass die Schule sie geschickt hat. Weil das Projekt so erfolgreich war, soll der freie Eintritt auch in den nächsten Jahren bleiben. Für alle anderen Besucher ändern sich die Preise nicht.",
       "answer": "j",
-      "explanation": "Since entry became free for people under 26, the number of young visitors „ist um fast 40 Prozent gestiegen“, so (j). Headline (a) is a trap: entry is only free for young people – „Für alle anderen Besucher ändern sich die Preise nicht“.",
-      "explanationDe": "Die Zahl der jungen Besucher „ist um fast 40 Prozent gestiegen“, seit Menschen unter 26 keinen Eintritt mehr bezahlen, also passt (j). Überschrift (a) ist eine Falle: Der Eintritt ist nur für junge Menschen frei – „Für alle anderen Besucher ändern sich die Preise nicht“.",
+      "explanation": "Since entry became free for people under 26, the number of young visitors „ist um fast 40 Prozent gestiegen“ – young people use the free offer, so (j). Headline (a) is a trap: it shares „Salzburg“, „Museen“ and „alle“ with the text, but entry is only free for young people – „Für alle anderen Besucher ändern sich die Preise nicht“.",
+      "explanationDe": "Die Zahl der jungen Besucher „ist um fast 40 Prozent gestiegen“, seit Menschen unter 26 keinen Eintritt mehr bezahlen – junge Leute nutzen das Gratis-Angebot, also passt (j). Überschrift (a) ist eine Falle: Sie hat „Salzburg“, „Museen“ und „alle“ mit dem Text gemeinsam, aber der Eintritt ist nur für junge Menschen frei – „Für alle anderen Besucher ändern sich die Preise nicht“.",
       "evidence": ["keinen Eintritt mehr bezahlen", "ist um fast 40 Prozent gestiegen"]
     },
     {
@@ -36,11 +36,11 @@
     },
     {
       "n": 3,
-      "text": "Neu im Kino: In der Komödie „Ja, ich will – vielleicht“ möchte die Münchner Ärztin Vera ihren Freund Jonas auf einer Berghütte in Südtirol heiraten. Doch kurz vor der Feier kommt ein Schneesturm, und die Gäste sitzen zwei Tage lang auf der Hütte fest – zusammen mit Veras chaotischer Familie und Jonas’ Ex-Freundin. Regisseurin Katja Brandl erzählt die Geschichte mit viel Humor und wunderschönen Bildern aus den Bergen. Die Hauptrollen spielen zwei bekannte Fernsehstars. Der Film ist ab sechs Jahren freigegeben und läuft ab Donnerstag in vielen Kinos.",
+      "text": "In der Komödie „Ja, ich will – vielleicht“ möchte die Münchner Ärztin Vera ihren Freund Jonas auf einer Berghütte in Südtirol heiraten. Doch kurz vor der Feier kommt ein Schneesturm, und die Gäste sitzen zwei Tage lang auf der Hütte fest – zusammen mit Veras chaotischer Familie und Jonas’ Ex-Freundin. Regisseurin Katja Brandl erzählt die Geschichte mit viel Humor und wunderschönen Bildern aus den Bergen. Die Hauptrollen spielen zwei bekannte Fernsehstars. Der Film ist ab sechs Jahren freigegeben und startet am Donnerstag in vielen Kinos.",
       "answer": "g",
-      "explanation": "The text presents a new comedy („Neu im Kino“) about a wedding in a mountain hut that turns into chaos because of a snowstorm, so (g). Headline (f) is a trap: the story is an invented comedy, not a true story.",
-      "explanationDe": "Der Text stellt eine neue Komödie vor („Neu im Kino“): Eine Hochzeit auf einer Berghütte wird wegen eines Schneesturms zum Chaos, also passt (g). Überschrift (f) ist eine Falle: Die Geschichte ist eine erfundene Komödie, keine wahre Geschichte.",
-      "evidence": ["Neu im Kino: In der Komödie", "Doch kurz vor der Feier kommt ein Schneesturm"]
+      "explanation": "The text presents a new comedy that „startet am Donnerstag in vielen Kinos“ – a wedding in a mountain hut runs into problems because of a snowstorm, so (g). Headline (f) is a trap: it repeats „Geschichte“, „Schneesturm“, „Gäste“ and „sitzen … fest“, but the story is an invented comedy, not a true event.",
+      "explanationDe": "Der Text stellt eine neue Komödie vor, die „am Donnerstag in vielen Kinos“ startet: Bei einer Hochzeit auf einer Berghütte gibt es wegen eines Schneesturms Probleme, also passt (g). Überschrift (f) ist eine Falle: Sie wiederholt „Geschichte“, „Schneesturm“, „Gäste“ und „sitzen … fest“, aber die Geschichte ist eine erfundene Komödie und kein wahres Ereignis.",
+      "evidence": ["startet am Donnerstag in vielen Kinos", "Doch kurz vor der Feier kommt ein Schneesturm"]
     },
     {
       "n": 4,
@@ -60,9 +60,9 @@
     }
   ],
   "distractors": [
-    { "key": "a", "why": "Text 1 says that only people under 26 do not have to pay; for all other visitors the prices stay the same.", "whyDe": "Laut Text 1 müssen nur Menschen unter 26 nichts bezahlen; für alle anderen Besucher bleiben die Preise gleich." },
+    { "key": "a", "why": "Text 1 is about the museums in Salzburg, but only people under 26 do not have to pay; for all other visitors the prices stay the same.", "whyDe": "In Text 1 geht es um die Museen in Salzburg, aber nur Menschen unter 26 müssen nichts bezahlen; für alle anderen Besucher bleiben die Preise gleich." },
     { "key": "c", "why": "In text 4 the „Sprachen-Café“ is part of the festival, where you can learn a few words. No new café has opened.", "whyDe": "In Text 4 ist das „Sprachen-Café“ ein Teil des Festes; dort kann man ein paar Wörter lernen. Es hat kein neues Café eröffnet." },
-    { "key": "f", "why": "Text 3 is about a new comedy in the cinema – the story is invented, not true.", "whyDe": "In Text 3 geht es um eine neue Komödie im Kino – die Geschichte ist erfunden, nicht wahr." },
+    { "key": "f", "why": "In text 3 the guests do sit in the mountain hut because of a snowstorm – but only in a new cinema comedy; the story is invented, not true.", "whyDe": "In Text 3 sitzen die Gäste wegen eines Schneesturms auf der Hütte fest – aber nur in einer neuen Kinokomödie; die Geschichte ist erfunden, nicht wahr." },
     { "key": "h", "why": "In text 2 the free app shows translations during the performance. Nothing is said about selling tickets only by app.", "whyDe": "In Text 2 zeigt die kostenlose App während der Vorstellung Übersetzungen. Dass Karten nur noch per App verkauft werden, steht nicht im Text." },
     { "key": "i", "why": "In text 5 the music school only donated the old piano. Anyone may play – there are no lessons.", "whyDe": "In Text 5 hat die Musikschule nur das alte Klavier gespendet. Jeder darf spielen – Unterricht gibt es nicht." }
   ],
@@ -73,6 +73,7 @@
     { "de": "die Übersetzung", "en": "translation" },
     { "de": "herunterladen", "en": "to download" },
     { "de": "festsitzen", "en": "to be stuck" },
+    { "de": "mit Hindernissen", "en": "with obstacles, not going smoothly" },
     { "de": "ab sechs Jahren freigegeben", "en": "suitable for ages six and over" },
     { "de": "sich verwandeln in", "en": "to turn into" },
     { "de": "auftreten", "en": "to perform (on stage)" },

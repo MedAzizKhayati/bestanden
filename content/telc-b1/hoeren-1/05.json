@@ -7,94 +7,99 @@
   "difficulty": 2,
   "speakers": [
     { "id": "mod", "gender": "f", "age": "adult", "role": "Moderatorin" },
-    { "id": "claudia", "name": "Claudia", "gender": "f", "age": "adult" },
-    { "id": "rainer", "name": "Rainer", "gender": "m", "age": "senior" },
-    { "id": "tim", "name": "Tim", "gender": "m", "age": "young" },
-    { "id": "anja", "name": "Anja", "gender": "f", "age": "adult" },
-    { "id": "joerg", "name": "Jörg", "gender": "m", "age": "adult" }
+    { "id": "paula", "name": "Paula", "gender": "f", "age": "adult" },
+    { "id": "wolfgang", "name": "Wolfgang", "gender": "m", "age": "senior" },
+    { "id": "greta", "name": "Greta", "gender": "f", "age": "young" },
+    { "id": "niklas", "name": "Niklas", "gender": "m", "age": "adult" },
+    { "id": "zeynep", "name": "Zeynep", "gender": "f", "age": "adult" }
   ],
   "intro": [
-    { "s": "mod", "t": "Heute geht es in unserer Umfrage um ein Thema, das viele Eltern beschäftigt." },
-    { "s": "mod", "t": "Wir haben gefragt: Ab welchem Alter sollte ein Kind ein eigenes Smartphone bekommen?" }
+    { "s": "mod", "t": "Spätestens in der vierten oder fünften Klasse kommt in vielen Familien die große Frage: Bekommt mein Kind jetzt ein eigenes Smartphone?" },
+    { "s": "mod", "t": "Wir haben Eltern, Großeltern und Jugendliche gefragt: Ab welchem Alter ist so ein Gerät für Kinder sinnvoll?" }
   ],
   "items": [
     {
       "n": 1,
       "script": [
-        { "s": "claudia", "t": "Unser Sohn ist neun und fährt jetzt allein mit dem Bus zur Schule. Deshalb hat er ein ganz einfaches Handy bekommen, damit er uns anrufen kann." },
-        { "s": "claudia", "t": "Damit kann man nur telefonieren und Nachrichten schreiben, kein Internet, keine Spiele. Er findet das natürlich total uncool." },
-        { "s": "claudia", "t": "Aber ein richtiges Smartphone bekommt er frühestens mit zwölf. Vorher ist er dafür einfach noch zu jung." }
+        { "s": "paula", "t": "Also, ich war da lange total streng. Ich hab immer gesagt: Vor vierzehn kommt mir so ein Ding nicht ins Haus." },
+        { "s": "paula", "t": "Tja, und dann kam meine Tochter in die fünfte Klasse. Plötzlich lief alles über den Klassenchat – Hausaufgaben, Einladungen, alles. Und sie war als Einzige nicht dabei." },
+        { "s": "paula", "t": "Sie war richtig unglücklich, und irgendwann hab ich gedacht: So geht's auch nicht." },
+        { "s": "paula", "t": "Jetzt hat sie eins, mit Kindersicherung und festen Zeiten. Ob das wirklich richtig war – ganz sicher bin ich nicht. Aber ich seh das heute schon anders als vor zwei Jahren." }
       ],
-      "statement": "Die Frau findet, dass ihr neunjähriger Sohn schon ein Smartphone haben sollte.",
-      "answer": false,
-      "explanation": "Her son only has „ein ganz einfaches Handy“ without internet. A real smartphone comes „frühestens mit zwölf“, because „Vorher ist er dafür einfach noch zu jung“.",
-      "explanationDe": "Ihr Sohn hat nur „ein ganz einfaches Handy“ ohne Internet. Ein richtiges Smartphone bekommt er „frühestens mit zwölf“. Der Grund: „Vorher ist er dafür einfach noch zu jung“.",
-      "evidence": "Vorher ist er dafür einfach noch zu jung."
+      "statement": "Die Frau hat ihre Meinung zum Smartphone für ihre Tochter geändert.",
+      "answer": true,
+      "explanation": "She used to say „Vor vierzehn kommt mir so ein Ding nicht ins Haus“, but because her daughter was left out of the class chat, the girl now has one (with parental controls). „ich seh das heute schon anders als vor zwei Jahren“ – her opinion has changed, even if she is not completely sure.",
+      "explanationDe": "Früher hat sie gesagt: „Vor vierzehn kommt mir so ein Ding nicht ins Haus“. Weil ihre Tochter im Klassenchat nicht dabei war, hat sie jetzt doch eins (mit Kindersicherung). „ich seh das heute schon anders als vor zwei Jahren“ – ihre Meinung hat sich geändert, auch wenn sie nicht ganz sicher ist.",
+      "evidence": "Aber ich seh das heute schon anders als vor zwei Jahren."
     },
     {
       "n": 2,
       "script": [
-        { "s": "rainer", "t": "Wenn meine Enkel zu Besuch kommen, sitzen sie die ganze Zeit mit dem Handy auf dem Sofa, sogar beim Essen. Da könnte ich mich jedes Mal aufregen." },
-        { "s": "rainer", "t": "Wir haben früher draußen gespielt, sind auf Bäume geklettert und erst nach Hause gekommen, wenn es dunkel wurde." },
-        { "s": "rainer", "t": "Ich finde, Kinder brauchen so ein Gerät überhaupt nicht. Mit vierzehn oder fünfzehn reicht das völlig." }
+        { "s": "wolfgang", "t": "Meine Enkel sind sieben und neun, und beide haben schon so ein Smartphone. Gut, ich geb zu, das hat auch was Schönes: Die rufen mich per Video an, und ich seh, wie sie wachsen." },
+        { "s": "wolfgang", "t": "Aber wenn sie bei mir zu Besuch sind, wischen sie nur auf dem Bildschirm herum. Ich kann reden, was ich will." },
+        { "s": "wolfgang", "t": "Ehrlich gesagt halte ich das für einen großen Fehler von meinem Sohn. Für die Anrufe reicht doch das Handy von den Eltern." },
+        { "s": "wolfgang", "t": "So mit dreizehn, vierzehn – meinetwegen. Aber doch nicht in der Grundschule!" }
       ],
-      "statement": "Der Mann ist der Meinung, dass Kinder kein Smartphone brauchen.",
-      "answer": true,
-      "explanation": "He gets annoyed when his grandchildren sit with their phones all the time and says: „Kinder brauchen so ein Gerät überhaupt nicht“ – fourteen or fifteen is early enough.",
-      "explanationDe": "Er ärgert sich, wenn seine Enkel die ganze Zeit mit dem Handy dasitzen, und sagt: „Kinder brauchen so ein Gerät überhaupt nicht“ – mit vierzehn oder fünfzehn ist es früh genug.",
-      "evidence": "Ich finde, Kinder brauchen so ein Gerät überhaupt nicht."
+      "statement": "Der Mann findet es richtig, dass seine Enkel schon ein Smartphone haben.",
+      "answer": false,
+      "explanation": "He likes the video calls, but he calls the phones „einen großen Fehler von meinem Sohn“ and says „doch nicht in der Grundschule“. He does not approve.",
+      "explanationDe": "Die Videoanrufe gefallen ihm, aber er nennt die Smartphones „einen großen Fehler von meinem Sohn“ und sagt: „doch nicht in der Grundschule“. Er findet es also nicht richtig.",
+      "evidence": "Ehrlich gesagt halte ich das für einen großen Fehler von meinem Sohn."
     },
     {
       "n": 3,
       "script": [
-        { "s": "tim", "t": "Ich hab mein erstes Smartphone mit zehn bekommen, wie fast alle in meiner Klasse. Ohne Handy bist du da echt raus, weil alles über den Klassenchat läuft." },
-        { "s": "tim", "t": "Klar, manchmal hänge ich zu lange am Handy, das gebe ich zu." },
-        { "s": "tim", "t": "Aber ich finde, ein Verbot ist der falsche Weg. Eltern sollten ihren Kindern lieber zeigen, wie man vernünftig damit umgeht." }
+        { "s": "greta", "t": "Ich hab mein Handy mit zwölf bekommen, und – ganz ehrlich – ich hab meine Eltern vorher jahrelang genervt. Damals fand ich die voll altmodisch." },
+        { "s": "greta", "t": "Aber jetzt seh ich meine kleine Schwester. Die ist acht, hat schon ein eigenes Smartphone und schaut abends im Bett heimlich Videos, bis Mitternacht oder so." },
+        { "s": "greta", "t": "Morgens ist sie dann total müde und schlecht gelaunt. Also, mit acht? Nee, das ist echt zu früh, auch wenn sie das natürlich anders sieht." },
+        { "s": "greta", "t": "Bei ihr waren meine Eltern irgendwie nicht mehr so streng wie bei mir." }
       ],
-      "statement": "Der Jugendliche meint, dass Eltern ihren Kindern Smartphones verbieten sollten.",
-      "answer": false,
-      "explanation": "He got his smartphone at ten and says „ein Verbot ist der falsche Weg“: parents „sollten ihren Kindern lieber zeigen, wie man vernünftig damit umgeht“.",
-      "explanationDe": "Er hat sein Smartphone mit zehn bekommen und sagt, „ein Verbot ist der falsche Weg“: Eltern „sollten ihren Kindern lieber zeigen, wie man vernünftig damit umgeht“.",
-      "evidence": "Aber ich finde, ein Verbot ist der falsche Weg."
+      "statement": "Die Jugendliche hält ihre Schwester für zu jung für ein eigenes Smartphone.",
+      "answer": true,
+      "explanation": "She once nagged her own parents for a phone, but about her eight-year-old sister she says „mit acht? Nee, das ist echt zu früh“ – the girl watches videos at night and is tired in the morning.",
+      "explanationDe": "Sie selbst hat ihre Eltern früher genervt, aber über ihre achtjährige Schwester sagt sie: „mit acht? Nee, das ist echt zu früh“. Die Kleine schaut nachts Videos und ist morgens müde.",
+      "evidence": "Nee, das ist echt zu früh, auch wenn sie das natürlich anders sieht."
     },
     {
       "n": 4,
       "script": [
-        { "s": "anja", "t": "Ich bin Lehrerin an einer Grundschule, und bei uns sind Handys seit letztem Jahr verboten, auch in der Pause." },
-        { "s": "anja", "t": "Am Anfang gab es viele Diskussionen mit den Eltern. Aber jetzt sehe ich, dass die Kinder in der Pause wieder miteinander spielen und reden, statt auf einen Bildschirm zu starren." },
-        { "s": "anja", "t": "Für mich war das die beste Entscheidung, die unsere Schule treffen konnte." }
+        { "s": "niklas", "t": "Ich bin Lehrer an einer Gesamtschule, und fast jede Woche gibt's Ärger im Klassenchat. Da werden Fotos rumgeschickt, Kinder ausgelacht – das ist schon heftig, das will ich gar nicht kleinreden." },
+        { "s": "niklas", "t": "Trotzdem halte ich von einem Handyverbot gar nichts. Die Kinder haben die Dinger ja sowieso, spätestens am Nachmittag." },
+        { "s": "niklas", "t": "Ich lass sie im Unterricht ganz bewusst damit arbeiten: im Internet recherchieren und dann prüfen, ob das überhaupt stimmt." },
+        { "s": "niklas", "t": "Verbieten ist bequem, sag ich mal. Aber zeigen, wie man vernünftig damit umgeht – das ist eigentlich unsere Aufgabe." }
       ],
-      "statement": "Die Lehrerin ist mit dem Handyverbot an ihrer Schule unzufrieden.",
+      "statement": "Der Lehrer findet, dass Handys an Schulen nicht erlaubt sein sollten.",
       "answer": false,
-      "explanation": "She calls the phone ban „die beste Entscheidung, die unsere Schule treffen konnte“, because the children play and talk again. There were discussions with parents only „am Anfang“.",
-      "explanationDe": "Sie nennt das Handyverbot „die beste Entscheidung, die unsere Schule treffen konnte“, weil die Kinder wieder miteinander spielen und reden. Diskussionen mit den Eltern gab es nur „am Anfang“.",
-      "evidence": "Für mich war das die beste Entscheidung, die unsere Schule treffen konnte."
+      "explanation": "He sees the problems in the class chat, but „Trotzdem halte ich von einem Handyverbot gar nichts“: schools should teach children to use phones sensibly. So he is against a ban.",
+      "explanationDe": "Er sieht die Probleme im Klassenchat, aber „Trotzdem halte ich von einem Handyverbot gar nichts“. Die Schule soll zeigen, wie man vernünftig mit dem Handy umgeht. Er ist also gegen ein Verbot.",
+      "evidence": "Trotzdem halte ich von einem Handyverbot gar nichts."
     },
     {
       "n": 5,
       "script": [
-        { "s": "joerg", "t": "Unsere Tochter hat mit elf ein Smartphone bekommen, weil sie aufs Gymnasium gewechselt ist." },
-        { "s": "joerg", "t": "Aber bei uns gibt es klare Regeln: höchstens eine Stunde am Tag, und abends bleibt das Handy in der Küche. Neue Apps darf sie nur mit uns zusammen herunterladen." },
-        { "s": "joerg", "t": "Ich glaube, das Alter ist gar nicht so entscheidend. Viel wichtiger ist, dass die Eltern Grenzen setzen und auch selbst ein gutes Vorbild sind." }
+        { "s": "zeynep", "t": "Mein Sohn fährt seit diesem Schuljahr mit dem Bus in die Stadt, und ich wollte einfach, dass er mich erreichen kann. Also hat er mit elf ein Smartphone bekommen." },
+        { "s": "zeynep", "t": "Klar, das beruhigt mich schon, ich seh immer, wo er gerade ist." },
+        { "s": "zeynep", "t": "Aber sonst … er hängt nur noch an diesen Spielen, zum Fußballtraining hat er plötzlich keine Lust mehr, und jeden Abend gibt's Streit ums Ausschalten." },
+        { "s": "zeynep", "t": "Wenn ich's noch mal entscheiden müsste – ehrlich, dann würd ich ihm ein ganz einfaches Handy kaufen, nur zum Telefonieren." }
       ],
-      "statement": "Für den Mann sind klare Regeln wichtiger als das Alter des Kindes.",
-      "answer": true,
-      "explanation": "„Das Alter ist gar nicht so entscheidend“ – for him it is more important that parents set limits, like one hour a day and no phone in the evening.",
-      "explanationDe": "„Das Alter ist gar nicht so entscheidend“ – wichtiger ist für ihn, dass die Eltern Grenzen setzen, zum Beispiel eine Stunde am Tag und abends kein Handy.",
-      "evidence": "Ich glaube, das Alter ist gar nicht so entscheidend."
+      "statement": "Die Frau ist mit ihrer Entscheidung für das Smartphone zufrieden.",
+      "answer": false,
+      "explanation": "Being able to reach him calms her, but he only plays games and they argue every evening. „Wenn ich's noch mal entscheiden müsste … dann würd ich ihm ein ganz einfaches Handy kaufen“ – she regrets the decision.",
+      "explanationDe": "Es beruhigt sie, dass sie ihn erreichen kann. Aber er spielt nur noch, und jeden Abend gibt es Streit. „Wenn ich's noch mal entscheiden müsste … dann würd ich ihm ein ganz einfaches Handy kaufen“ – sie bereut die Entscheidung.",
+      "evidence": "dann würd ich ihm ein ganz einfaches Handy kaufen, nur zum Telefonieren"
     }
   ],
   "glossary": [
-    { "de": "das Handy", "en": "mobile phone" },
-    { "de": "frühestens", "en": "at the earliest" },
-    { "de": "der Enkel", "en": "grandson; die Enkel: grandchildren" },
-    { "de": "sich aufregen", "en": "to get annoyed, worked up" },
-    { "de": "klettern", "en": "to climb" },
-    { "de": "verbieten", "en": "to forbid, to ban" },
-    { "de": "vernünftig mit etwas umgehen", "en": "to use something sensibly" },
+    { "de": "der Klassenchat", "en": "class group chat" },
+    { "de": "die Kindersicherung", "en": "parental controls" },
+    { "de": "meinetwegen", "en": "fine by me, if you like" },
+    { "de": "die Grundschule", "en": "primary school" },
+    { "de": "heimlich", "en": "secretly" },
+    { "de": "schlecht gelaunt", "en": "in a bad mood" },
+    { "de": "etwas kleinreden", "en": "to play something down" },
     { "de": "das Verbot", "en": "ban" },
-    { "de": "eine Entscheidung treffen", "en": "to make a decision" },
-    { "de": "Grenzen setzen", "en": "to set limits" },
-    { "de": "das Vorbild", "en": "role model" }
+    { "de": "vernünftig mit etwas umgehen", "en": "to use something sensibly" },
+    { "de": "jemanden beruhigen", "en": "to reassure someone" },
+    { "de": "jemanden erreichen", "en": "to reach someone (by phone)" }
   ]
 }

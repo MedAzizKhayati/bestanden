@@ -7,20 +7,20 @@
   "difficulty": 2,
   "headlines": [
     { "key": "a", "text": "Mehr Väter in Elternzeit – aber meist nur kurz" },
-    { "key": "b", "text": "Umfrage: Väter kochen nicht gern" },
+    { "key": "b", "text": "Kochkurs für Väter: Gesundes Essen ist kompliziert" },
     { "key": "c", "text": "Kaum Interesse an Leih-Großeltern" },
-    { "key": "d", "text": "Buchtipp für Kinder, die große Geschwister werden" },
+    { "key": "d", "text": "Lesetipp: Wenn plötzlich ein Geschwisterchen da ist" },
     { "key": "e", "text": "Bremen: Babysitter brauchen ab sofort einen Kurs" },
     { "key": "f", "text": "Freiburg sucht Leih-Omas und Leih-Opas" },
     { "key": "g", "text": "Väter bleiben länger zu Hause als Mütter" },
-    { "key": "h", "text": "Väter und Kinder gemeinsam am Herd" },
+    { "key": "h", "text": "Ein Samstag in der Küche mit Papa" },
     { "key": "i", "text": "Fit fürs Babysitten: Kurs für Jugendliche" },
-    { "key": "j", "text": "Neues Buch: Tipps für Eltern mit Baby" }
+    { "key": "j", "text": "Neues Bilderbuch: Ratgeber für Mama und Papa" }
   ],
   "texts": [
     {
       "n": 1,
-      "text": "Immer mehr Väter nehmen nach der Geburt eines Kindes Elternzeit. Laut einer neuen Statistik haben im vergangenen Jahr 47 Prozent der Väter für einige Zeit ihre Arbeit unterbrochen, um sich um ihr Baby zu kümmern. Vor zehn Jahren waren es nur 32 Prozent. Allerdings bleiben die meisten Männer nur zwei Monate zu Hause, während Mütter im Durchschnitt fast ein Jahr Elternzeit nehmen. Viele Väter sagen, dass sie gern länger bleiben würden. Sie haben aber Angst vor Nachteilen im Job oder können auf das volle Gehalt nicht verzichten.",
+      "text": "Immer mehr Väter nehmen nach der Geburt eines Kindes Elternzeit. Laut einer aktuellen Statistik haben im vergangenen Jahr 47 Prozent der Väter ihre Berufstätigkeit für einige Zeit unterbrochen, um sich um ihr Baby zu kümmern – vor zehn Jahren waren es erst 32 Prozent. Allerdings bleiben die meisten Männer nur zwei Monate zu Hause, während Mütter im Durchschnitt fast ein Jahr Elternzeit nehmen. Viele Väter würden nach eigenen Angaben gern länger bleiben, befürchten aber berufliche Nachteile oder können auf das volle Gehalt nicht verzichten.",
       "answer": "a",
       "explanation": "More fathers take parental leave (47 instead of 32 percent), but most of them stay at home for „nur zwei Monate“, so (a). Headline (g) is the opposite: mothers take almost a year on average – much longer than fathers.",
       "explanationDe": "Mehr Väter nehmen Elternzeit (47 statt 32 Prozent), aber die meisten bleiben „nur zwei Monate“ zu Hause, also passt (a). Überschrift (g) sagt das Gegenteil: Mütter nehmen im Durchschnitt fast ein Jahr – viel länger als Väter.",
@@ -28,7 +28,7 @@
     },
     {
       "n": 2,
-      "text": "Viele junge Familien in Freiburg haben keine Großeltern in der Nähe, die mal auf die Kinder aufpassen können. Gleichzeitig gibt es ältere Menschen, die gern Zeit mit Kindern verbringen würden. Das Familienbüro der Stadt bringt beide Seiten zusammen: Es vermittelt sogenannte Leih-Großeltern. Sie holen die Kinder zum Beispiel einmal pro Woche vom Kindergarten ab, lesen ihnen vor oder gehen mit ihnen auf den Spielplatz. Bezahlt werden sie nicht. Das Angebot ist so beliebt, dass inzwischen über 60 Familien auf der Warteliste stehen. Deshalb werden dringend weitere Seniorinnen und Senioren gesucht.",
+      "text": "Viele junge Familien in Freiburg haben keine Großeltern in der Nähe, die gelegentlich auf die Kinder aufpassen können. Gleichzeitig gibt es ältere Menschen, die gern Zeit mit Kindern verbringen würden. Das städtische Familienbüro bringt beide Seiten zusammen: Es vermittelt sogenannte Leih-Großeltern, die die Kinder zum Beispiel einmal pro Woche vom Kindergarten abholen, ihnen vorlesen oder mit ihnen auf den Spielplatz gehen. Eine Bezahlung bekommen sie dafür nicht. Das Angebot ist inzwischen so beliebt, dass über 60 Familien auf der Warteliste stehen. Deshalb werden dringend weitere Seniorinnen und Senioren gesucht.",
       "answer": "f",
       "explanation": "The family office arranges „Leih-Großeltern“, and because so many families are waiting, more seniors are urgently needed („dringend weitere Seniorinnen und Senioren gesucht“), so (f). Headline (c) is wrong: more than 60 families are on the waiting list.",
       "explanationDe": "Das Familienbüro vermittelt „Leih-Großeltern“, und weil so viele Familien warten, werden „dringend weitere Seniorinnen und Senioren gesucht“, also passt (f). Überschrift (c) ist falsch: Mehr als 60 Familien stehen auf der Warteliste.",
@@ -36,23 +36,23 @@
     },
     {
       "n": 3,
-      "text": "Wenn ein Baby kommt, verändert sich für ältere Geschwister sehr viel. Plötzlich haben Mama und Papa nicht mehr so viel Zeit für sie, und viele Kinder sind eifersüchtig. Das neue Bilderbuch „Ich bin jetzt groß!“ von Hanna Seidel erzählt die Geschichte der vierjährigen Mia, die einen kleinen Bruder bekommt. Am Anfang findet sie das Baby nur laut und langweilig, doch langsam merkt sie, dass sie als große Schwester wichtig ist. Mit lustigen Bildern und wenig Text ist das Buch ideal für Kinder zwischen drei und sechs Jahren. Es kostet 13 Euro.",
+      "text": "Wenn ein Baby kommt, verändert sich für ältere Geschwister sehr viel: Plötzlich haben Mama und Papa nicht mehr so viel Zeit für sie, und viele Kinder reagieren eifersüchtig. Das neue Bilderbuch „Ich bin jetzt groß!“ der Kinderbuchautorin Hanna Seidel erzählt die Geschichte der vierjährigen Mia, die einen kleinen Bruder bekommt. Am Anfang findet sie das Baby nur laut und langweilig, doch langsam merkt sie, dass sie als große Schwester wichtig ist. Mit lustigen Zeichnungen und wenig Text ist das Buch ideal für Kinder zwischen drei und sechs Jahren. Es kostet 13 Euro.",
       "answer": "d",
-      "explanation": "The picture book tells the story of a four-year-old girl who gets a baby brother, and it is meant for children aged three to six, so (d). Headline (j) names the wrong readers: the book is for children, not a guide for parents.",
-      "explanationDe": "Das Bilderbuch erzählt die Geschichte eines vierjährigen Mädchens, das einen kleinen Bruder bekommt, und ist für Kinder von drei bis sechs Jahren gedacht, also passt (d). Überschrift (j) nennt die falschen Leser: Das Buch ist für Kinder und kein Ratgeber für Eltern.",
-      "evidence": ["erzählt die Geschichte der vierjährigen Mia, die einen kleinen Bruder bekommt", "ideal für Kinder zwischen drei und sechs Jahren"]
+      "explanation": "The picture book tells the story of a four-year-old girl who suddenly gets a baby brother, and it is meant for children aged three to six, so (d). Headline (j) uses „Bilderbuch“, „Mama“ and „Papa“ from the text, but names the wrong readers: the book is a story for children, not a guide for parents.",
+      "explanationDe": "Das Bilderbuch erzählt die Geschichte eines vierjährigen Mädchens, das plötzlich einen kleinen Bruder bekommt, und ist für Kinder von drei bis sechs Jahren gedacht, also passt (d). Überschrift (j) benutzt „Bilderbuch“, „Mama“ und „Papa“ aus dem Text, nennt aber die falschen Leser: Das Buch ist eine Geschichte für Kinder und kein Ratgeber für Eltern.",
+      "evidence": ["erzählt die Geschichte der vierjährigen Mia, die einen kleinen Bruder bekommt", "das Buch ideal für Kinder zwischen drei und sechs Jahren"]
     },
     {
       "n": 4,
-      "text": "Einmal im Monat stehen im Innsbrucker Familienzentrum Väter mit ihren Kindern gemeinsam am Herd. Beim Kurs „Papa und ich kochen“ bereiten sie mithilfe einer Köchin einfache Gerichte zu, zum Beispiel Gemüsesuppe, Nudeln mit Tomatensauce oder Palatschinken. Die Kinder sollten zwischen sechs und zehn Jahren alt sein. Am Ende essen alle zusammen. „Die Väter sollen sehen, dass gesundes Kochen nicht kompliziert ist“, sagt Organisatorin Claudia Pichler. Die Rezepte bekommen alle zum Mitnehmen. Der Kurs findet samstags von 10 bis 13 Uhr statt und kostet 15 Euro pro Paar.",
+      "text": "Einmal im Monat stehen im Innsbrucker Familienzentrum Väter mit ihren Kindern gemeinsam am Herd. Beim Kurs „Papa und ich kochen“ bereiten sie unter Anleitung einer Köchin einfache Gerichte zu, zum Beispiel Gemüsesuppe, Nudeln mit Tomatensauce oder Palatschinken. Teilnehmen können Kinder zwischen sechs und zehn Jahren. Am Ende essen alle zusammen. „Die Väter sollen sehen, dass gesundes Kochen nicht kompliziert ist“, sagt Organisatorin Claudia Pichler. Die Rezepte bekommen alle zum Mitnehmen. Der Kurs findet samstags von 10 bis 13 Uhr statt und kostet 15 Euro pro Paar.",
       "answer": "h",
-      "explanation": "Once a month fathers and their children cook together („gemeinsam am Herd“), so (h). Headline (b) is a trap: there is no survey, and the text does not say that fathers do not like cooking.",
-      "explanationDe": "Einmal im Monat kochen Väter und ihre Kinder zusammen („gemeinsam am Herd“), also passt (h). Überschrift (b) ist eine Falle: Es gibt keine Umfrage, und im Text steht nicht, dass Väter nicht gern kochen.",
-      "evidence": ["stehen im Innsbrucker Familienzentrum Väter mit ihren Kindern gemeinsam am Herd"]
+      "explanation": "Once a month, on a Saturday, fathers and their children cook together („gemeinsam am Herd“), so (h). Headline (b) is a trap: it repeats „Kochkurs“, „Väter“, „gesund“ and „kompliziert“, but the organiser says the opposite – the fathers should see „dass gesundes Kochen nicht kompliziert ist“.",
+      "explanationDe": "Einmal im Monat, an einem Samstag, kochen Väter und ihre Kinder zusammen („gemeinsam am Herd“), also passt (h). Überschrift (b) ist eine Falle: Sie wiederholt „Kochkurs“, „Väter“, „gesund“ und „kompliziert“, aber die Organisatorin sagt das Gegenteil – die Väter sollen sehen, „dass gesundes Kochen nicht kompliziert ist“.",
+      "evidence": ["stehen im Innsbrucker Familienzentrum Väter mit ihren Kindern gemeinsam am Herd", "Der Kurs findet samstags von 10 bis 13 Uhr statt"]
     },
     {
       "n": 5,
-      "text": "Wie wickelt man ein Baby? Was tut man, wenn ein Kind nicht einschlafen will oder sich verletzt? Antworten darauf bekommen Jugendliche ab 14 Jahren beim Babysitter-Kurs eines Bremer Nachbarschaftsvereins. An zwei Samstagen lernen die Teilnehmenden alles Wichtige über Pflege, Ernährung und Spiele für Kinder in verschiedenen Altersstufen. Auch ein kleiner Erste-Hilfe-Kurs gehört dazu. Am Ende gibt es eine Bescheinigung, die man Eltern bei der Suche nach einem Babysitter-Job zeigen kann. Der Kurs kostet 40 Euro. Anmeldungen sind ab sofort möglich.",
+      "text": "Wie wickelt man ein Baby? Was tut man, wenn ein Kind nicht einschlafen will oder sich verletzt? Antworten darauf bekommen Jugendliche ab 14 Jahren beim Babysitter-Kurs eines Bremer Nachbarschaftsvereins. An zwei Samstagen lernen die Teilnehmenden alles Wichtige über Pflege, Ernährung und Beschäftigungsideen für Kinder in verschiedenen Altersstufen. Auch ein kleiner Erste-Hilfe-Kurs gehört dazu. Am Ende gibt es eine Bescheinigung, die man Eltern bei der Suche nach einem Babysitter-Job zeigen kann. Die Teilnahmegebühr beträgt 40 Euro, Anmeldungen sind ab sofort möglich.",
       "answer": "i",
       "explanation": "Young people from 14 learn everything important for looking after children and get a certificate, so (i). Headline (e) is a trap: the course is an offer, not an obligation – „ab sofort“ only refers to the registration.",
       "explanationDe": "Jugendliche ab 14 Jahren lernen alles Wichtige für die Betreuung von Kindern und bekommen eine Bescheinigung, also passt (i). Überschrift (e) ist eine Falle: Der Kurs ist ein Angebot und keine Pflicht – „ab sofort“ bezieht sich nur auf die Anmeldung.",
@@ -60,20 +60,20 @@
     }
   ],
   "distractors": [
-    { "key": "b", "why": "Text 4 presents a cooking course for fathers and children. It mentions no survey about whether fathers like cooking.", "whyDe": "Text 4 stellt einen Kochkurs für Väter und Kinder vor. Eine Umfrage darüber, ob Väter gern kochen, wird nicht erwähnt." },
+    { "key": "b", "why": "Text 4 presents a cooking course for fathers and children, but the organiser says the opposite: healthy cooking is „nicht kompliziert“.", "whyDe": "Text 4 stellt einen Kochkurs für Väter und Kinder vor, aber die Organisatorin sagt das Gegenteil: Gesundes Kochen ist „nicht kompliziert“." },
     { "key": "c", "why": "Text 2 says the opposite: the offer is so popular that more than 60 families are waiting.", "whyDe": "Text 2 sagt das Gegenteil: Das Angebot ist so beliebt, dass mehr als 60 Familien warten." },
     { "key": "e", "why": "In text 5 the course is voluntary. The certificate can help to find a babysitting job, but nobody has to have one; „ab sofort“ refers to the registration.", "whyDe": "In Text 5 ist der Kurs freiwillig. Die Bescheinigung kann bei der Suche nach einem Babysitter-Job helfen, aber niemand muss eine haben; „ab sofort“ bezieht sich auf die Anmeldung." },
     { "key": "g", "why": "According to text 1, most fathers stay at home for only two months, while mothers take almost a year.", "whyDe": "Laut Text 1 bleiben die meisten Väter nur zwei Monate zu Hause, Mütter dagegen fast ein Jahr." },
-    { "key": "j", "why": "The book in text 3 is a picture book for children aged three to six, not a guide with tips for parents.", "whyDe": "Das Buch in Text 3 ist ein Bilderbuch für Kinder von drei bis sechs Jahren, kein Ratgeber mit Tipps für Eltern." }
+    { "key": "j", "why": "The new picture book in text 3 tells a story for children aged three to six; it is not a guide with advice for mum and dad.", "whyDe": "Das neue Bilderbuch in Text 3 erzählt eine Geschichte für Kinder von drei bis sechs Jahren; es ist kein Ratgeber mit Tipps für Mama und Papa." }
   ],
   "glossary": [
     { "de": "die Elternzeit", "en": "parental leave" },
     { "de": "im Durchschnitt", "en": "on average" },
     { "de": "der Nachteil", "en": "disadvantage" },
-    { "de": "aufpassen auf", "en": "to look after" },
     { "de": "vermitteln", "en": "to arrange, to match (people)" },
     { "de": "die Warteliste", "en": "waiting list" },
     { "de": "die Geschwister (Pl.)", "en": "siblings" },
+    { "de": "befürchten", "en": "to fear, to be afraid of" },
     { "de": "eifersüchtig", "en": "jealous" },
     { "de": "am Herd stehen", "en": "to cook (lit. to stand at the stove)" },
     { "de": "die Palatschinke (österr.)", "en": "thin pancake" },

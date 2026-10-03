@@ -6,102 +6,105 @@
   "topic": "gesundheit",
   "difficulty": 2,
   "textType": "email-informal",
-  "text": "Lieber Paul,\n\nleider habe ich keine guten Nachrichten: Unsere Wanderung am Samstag muss ich [[1]]. Am Dienstag bin ich beim Joggen gestürzt und habe mir den Fuß verletzt.\n\nZuerst dachte ich, es ist nicht so schlimm, [[2]] am Abend war der Fuß ganz dick und hat sehr wehgetan. Meine Nachbarin hat mich dann ins Krankenhaus gefahren. Dort musste ich fast drei Stunden [[3]], bis ein Arzt Zeit für mich hatte. Zum [[4]] ist nichts gebrochen. Der Arzt meint aber, ich soll den Fuß [[5]] zwei Wochen nicht belasten.\n\nJetzt liege ich die meiste Zeit auf dem Sofa und langweile mich. Einkaufen kann ich im Moment auch nicht. Könntest du mir vielleicht einen [[6]] tun und mir ein paar Lebensmittel bringen? Das Geld gebe ich dir natürlich sofort zurück.\n\nDie Wanderung können wir ja [[7]], wenn ich wieder gesund bin. Ich [[8]] dir, dass wir dann die lange Tour zum Bergsee machen!\n\nSag mir doch kurz Bescheid, [[9]] du Zeit hast. Ich freue mich schon [[10]] deinen Besuch!\n\nViele Grüße\nTobias",
+  "text": "Lieber Paul,\n\nleider habe ich keine guten Nachrichten: Unsere Wanderung am Samstag muss ich [[1]]. Am Dienstag bin ich beim Joggen im Park gestürzt und habe mir den rechten Fuß verletzt.\n\nZuerst dachte ich, es ist nicht so schlimm, [[2]] am Abend war der Fuß ganz dick und tat furchtbar weh. Meine Nachbarin hat mich dann ins Krankenhaus gefahren. Dort musste ich fast drei Stunden [[3]] einen Arzt warten. Zum [[4]] ist nichts gebrochen. Der Arzt meint allerdings, ich soll den Fuß [[5]] zwei Wochen nicht belasten, besser sogar drei. Ich weiß also noch nicht, [[6]] ich bis zur Hochzeit meiner Schwester Ende Mai wieder richtig tanzen kann.\n\nJetzt liege ich die meiste Zeit auf dem Sofa, und einkaufen kann ich im Moment auch nicht. [[7]] du mir vielleicht einen Gefallen tun und mir ein paar Lebensmittel vorbeibringen? Das Geld gebe ich dir natürlich sofort zurück. Die Einkaufsliste schicke ich dir, [[8]] du Ja sagst.\n\nDie Wanderung können wir ja [[9]], sobald ich wieder fit bin. Ich verspreche dir, dass wir dann die lange Tour zum Bergsee machen – auch bei Regen!\n\nSag mir doch bitte kurz [[10]], wann du vorbeikommen kannst. Ich freue mich schon auf deinen Besuch!\n\nViele Grüße\nTobias",
   "words": [
     { "key": "a", "text": "aber" },
     { "key": "b", "text": "absagen" },
-    { "key": "c", "text": "an" },
-    { "key": "d", "text": "auf" },
+    { "key": "c", "text": "auf" },
+    { "key": "d", "text": "Bescheid" },
     { "key": "e", "text": "denn" },
-    { "key": "f", "text": "Gefallen" },
-    { "key": "g", "text": "Glück" },
-    { "key": "h", "text": "hoffe" },
-    { "key": "i", "text": "mindestens" },
-    { "key": "j", "text": "nachholen" },
-    { "key": "k", "text": "Pech" },
-    { "key": "l", "text": "seit" },
-    { "key": "m", "text": "verspreche" },
-    { "key": "n", "text": "warten" },
+    { "key": "f", "text": "Glück" },
+    { "key": "g", "text": "höchstens" },
+    { "key": "h", "text": "konntest" },
+    { "key": "i", "text": "könntest" },
+    { "key": "j", "text": "mindestens" },
+    { "key": "k", "text": "nachholen" },
+    { "key": "l", "text": "ob" },
+    { "key": "m", "text": "Pech" },
+    { "key": "n", "text": "wann" },
     { "key": "o", "text": "wenn" }
   ],
   "gaps": [
     {
       "n": 1,
       "answer": "b",
-      "explanation": "Tobias is injured, so the hike on Saturday cannot take place: „muss ich absagen“ (to cancel). „nachholen“ means doing something later that you missed – that fits gap 7.",
-      "explanationDe": "Tobias ist verletzt, deshalb kann die Wanderung am Samstag nicht stattfinden: „muss ich absagen“ (= sagen, dass etwas nicht stattfindet). „nachholen“ bedeutet, etwas Verpasstes später zu machen – das passt in Lücke 7.",
+      "explanation": "Because of the injury he cannot go on Saturday, so he has to cancel the hike: „muss ich absagen“. „nachholen“ (to do later what did not take place) is the trap – it belongs to the end of the letter, when he is fit again.",
+      "explanationDe": "Wegen der Verletzung kann er am Samstag nicht mitgehen, er muss die Wanderung also absagen: „muss ich absagen“. „nachholen“ (= etwas später machen, was ausgefallen ist) ist die Falle – das passt erst am Ende der E-Mail, wenn er wieder fit ist.",
       "grammar": "trennbare-verben"
     },
     {
       "n": 2,
       "answer": "a",
-      "explanation": "His first thought and what happened later are in contrast, and the clause has main-clause word order: „…, aber am Abend war der Fuß ganz dick“. „denn“ (because) makes no sense here.",
-      "explanationDe": "Sein erster Gedanke und das, was später passiert ist, bilden einen Gegensatz, und der Satz hat die Wortstellung eines Hauptsatzes: „…, aber am Abend war der Fuß ganz dick“. „denn“ (nennt einen Grund) ergibt hier keinen Sinn.",
+      "explanation": "First he thought it was not bad, but in the evening the foot was swollen – a contrast, so „aber“ (followed by normal main-clause order: „am Abend war …“). „denn“ has the same word order but gives a reason, and the swelling is not the reason for his first thought.",
+      "explanationDe": "Zuerst dachte er, es ist nicht so schlimm, aber am Abend war der Fuß dick – ein Gegensatz, also „aber“ (danach normale Hauptsatz-Stellung: „am Abend war …“). „denn“ hat dieselbe Wortstellung, nennt aber einen Grund – und der dicke Fuß ist nicht der Grund für seinen ersten Gedanken.",
       "grammar": "konnektoren-hauptsatz"
     },
     {
       "n": 3,
-      "answer": "n",
-      "explanation": "„drei Stunden warten, bis ein Arzt Zeit … hatte“ – he had to wait until a doctor was free.",
-      "explanationDe": "„drei Stunden warten, bis ein Arzt Zeit … hatte“ – er musste warten, bis ein Arzt frei war."
+      "answer": "c",
+      "explanation": "„auf jemanden warten“ + accusative: „Dort musste ich fast drei Stunden auf einen Arzt warten.“ „warten“ always takes „auf“.",
+      "explanationDe": "„auf jemanden warten“ + Akkusativ: „Dort musste ich fast drei Stunden auf einen Arzt warten.“ „warten“ steht immer mit „auf“.",
+      "grammar": "verben-mit-praepositionen"
     },
     {
       "n": 4,
-      "answer": "g",
-      "explanation": "„zum Glück“ (luckily) is a fixed expression – nothing broken is good news. „Pech“ (bad luck) cannot be used in this expression.",
-      "explanationDe": "„zum Glück“ (= glücklicherweise) ist eine feste Wendung – dass nichts gebrochen ist, ist eine gute Nachricht. „Pech“ (= Unglück) kann man in dieser Wendung nicht benutzen."
+      "answer": "f",
+      "explanation": "„zum Glück“ (luckily) introduces good news: nothing is broken. „Pech“ means bad luck, and „zum Pech“ is not a German expression.",
+      "explanationDe": "„zum Glück“ leitet eine gute Nachricht ein: Nichts ist gebrochen. „Pech“ ist das Gegenteil von Glück, und „zum Pech“ gibt es im Deutschen nicht."
     },
     {
       "n": 5,
-      "answer": "i",
-      "explanation": "„mindestens zwei Wochen“ means „at least two weeks“. „seit“ refers to a time that started in the past and cannot be used for the doctor's instruction about the coming weeks.",
-      "explanationDe": "„mindestens zwei Wochen“ bedeutet: zwei Wochen oder länger. „seit“ bezieht sich auf eine Zeit, die in der Vergangenheit begonnen hat, und passt nicht zur Anweisung des Arztes für die nächsten Wochen."
+      "answer": "j",
+      "explanation": "The doctor's advice continues with „besser sogar drei“ – so two weeks is the minimum: „mindestens zwei Wochen“. „höchstens“ (at most) contradicts „besser sogar drei“.",
+      "explanationDe": "Der Rat des Arztes geht weiter mit „besser sogar drei“ – zwei Wochen sind also das Minimum: „mindestens zwei Wochen“. „höchstens“ widerspricht „besser sogar drei“."
     },
     {
       "n": 6,
-      "answer": "f",
-      "explanation": "„jemandem einen Gefallen tun“ (to do someone a favour) is a fixed expression; „einen“ also shows that a masculine noun is needed.",
-      "explanationDe": "„jemandem einen Gefallen tun“ (= jemandem freundlich helfen) ist eine feste Wendung; „einen“ zeigt auch, dass ein maskulines Nomen nötig ist.",
-      "grammar": "nomen-verb-verbindungen"
+      "answer": "l",
+      "explanation": "„Ich weiß noch nicht, ob …“ – an indirect yes/no question: will he be able to dance by the wedding or not? „wann“ is tempting, but „bis zur Hochzeit“ already sets the time limit, so only „ob“ makes sense.",
+      "explanationDe": "„Ich weiß noch nicht, ob …“ – eine indirekte Ja-/Nein-Frage: Kann er bis zur Hochzeit wieder tanzen oder nicht? „wann“ ist verlockend, aber „bis zur Hochzeit“ nennt die Zeit schon – deshalb passt nur „ob“.",
+      "grammar": "indirekte-fragen"
     },
     {
       "n": 7,
-      "answer": "j",
-      "explanation": "„etwas nachholen“ means „to do something later that you missed“: they will do the hike when he is healthy again.",
-      "explanationDe": "„etwas nachholen“ bedeutet: etwas Verpasstes später machen. Sie machen die Wanderung, wenn er wieder gesund ist.",
-      "grammar": "trennbare-verben"
+      "answer": "i",
+      "explanation": "A polite request to a friend uses Konjunktiv II in the du-form: „Könntest du mir vielleicht einen Gefallen tun …?“ „Konntest“ (without umlaut) is the simple past and would ask whether Paul was able to do it in the past.",
+      "explanationDe": "Eine höfliche Bitte an einen Freund steht im Konjunktiv II in der du-Form: „Könntest du mir vielleicht einen Gefallen tun …?“ „Konntest“ (ohne Umlaut) ist Präteritum und würde fragen, ob Paul das früher machen konnte.",
+      "grammar": "konjunktiv-2"
     },
     {
       "n": 8,
-      "answer": "m",
-      "explanation": "„jemandem etwas versprechen“ (to promise someone something) takes the dative „dir“. „hoffen“ cannot have a dative object („Ich hoffe, dass …“ – without „dir“).",
-      "explanationDe": "„jemandem etwas versprechen“ (= jemandem sagen, dass man etwas sicher tun wird) steht mit dem Dativ „dir“. „hoffen“ kann kein Dativobjekt haben („Ich hoffe, dass …“ – ohne „dir“).",
-      "grammar": "verben-mit-dativ"
+      "answer": "o",
+      "explanation": "The clause is a condition: he will send the shopping list if Paul says yes – „wenn du Ja sagst“. „ob“ only follows verbs like „wissen“ or „fragen“, and „wann“ asks for a time; neither can introduce a condition.",
+      "explanationDe": "Der Nebensatz ist eine Bedingung: Er schickt die Liste, falls Paul Ja sagt – „wenn du Ja sagst“. „ob“ steht nur nach Verben wie „wissen“ oder „fragen“, und „wann“ fragt nach einer Zeit; beide leiten keine Bedingung ein.",
+      "grammar": "nebensaetze-grundlagen"
     },
     {
       "n": 9,
-      "answer": "o",
-      "explanation": "„wenn du Zeit hast“ (when/if you have time) – „wenn“ sends the verb to the end. „denn“ would need main-clause word order and gives no sense.",
-      "explanationDe": "„wenn du Zeit hast“ – nach „wenn“ steht das Verb am Ende. „denn“ bräuchte die Wortstellung eines Hauptsatzes und ergibt keinen Sinn.",
-      "grammar": "nebensaetze-grundlagen"
+      "answer": "k",
+      "explanation": "When he is fit again they can do the cancelled hike later: „Die Wanderung können wir ja nachholen, sobald ich wieder fit bin.“ „absagen“ makes no sense together with „sobald ich wieder fit bin“.",
+      "explanationDe": "Wenn er wieder fit ist, können sie die ausgefallene Wanderung später machen: „Die Wanderung können wir ja nachholen, sobald ich wieder fit bin.“ „absagen“ ergibt zusammen mit „sobald ich wieder fit bin“ keinen Sinn.",
+      "grammar": "trennbare-verben"
     },
     {
       "n": 10,
       "answer": "d",
-      "explanation": "„sich freuen auf“ + accusative is used for something in the future – Paul's visit has not happened yet. „an“ does not fit: „sich an etwas freuen“ takes the dative („an deinem …“) and means „to enjoy something you already have“.",
-      "explanationDe": "„sich freuen auf“ + Akkusativ benutzt man für etwas in der Zukunft – Pauls Besuch hat noch nicht stattgefunden. „an“ passt nicht: „sich an etwas freuen“ steht mit Dativ („an deinem …“) und bedeutet, dass man Freude an etwas hat, das man schon hat.",
-      "grammar": "verben-mit-praepositionen"
+      "explanation": "„jemandem Bescheid sagen“ (to let someone know) is a fixed expression: „Sag mir doch bitte kurz Bescheid, wann …“. „Glück“ and „Pech“ do not go with „sagen“.",
+      "explanationDe": "„jemandem Bescheid sagen“ (= jemanden informieren) ist eine feste Wendung: „Sag mir doch bitte kurz Bescheid, wann …“. „Glück“ und „Pech“ passen nicht zu „sagen“.",
+      "grammar": "nomen-verb-verbindungen"
     }
   ],
   "glossary": [
-    { "de": "stürzen", "en": "to fall (and hurt yourself)" },
-    { "de": "sich den Fuß verletzen", "en": "to injure your foot" },
+    { "de": "stürzen", "en": "to fall (and hurt oneself)" },
+    { "de": "sich den Fuß verletzen", "en": "to injure one's foot" },
     { "de": "wehtun", "en": "to hurt" },
+    { "de": "auf jemanden warten", "en": "to wait for someone" },
     { "de": "zum Glück", "en": "luckily" },
-    { "de": "den Fuß belasten", "en": "to put weight on your foot" },
+    { "de": "den Fuß belasten", "en": "to put weight on the foot" },
+    { "de": "mindestens", "en": "at least" },
     { "de": "jemandem einen Gefallen tun", "en": "to do someone a favour" },
     { "de": "etwas absagen", "en": "to cancel something" },
-    { "de": "etwas nachholen", "en": "to do something later that you missed" },
-    { "de": "jemandem etwas versprechen", "en": "to promise someone something" }
+    { "de": "etwas nachholen", "en": "to make up for something, to do it later" },
+    { "de": "jemandem Bescheid sagen", "en": "to let someone know" }
   ]
 }

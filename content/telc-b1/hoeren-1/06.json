@@ -7,94 +7,100 @@
   "difficulty": 2,
   "speakers": [
     { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
-    { "id": "melanie", "name": "Melanie", "gender": "f", "age": "adult" },
-    { "id": "patrick", "name": "Patrick", "gender": "m", "age": "young" },
-    { "id": "hildegard", "name": "Hildegard", "gender": "f", "age": "senior" },
-    { "id": "lukas", "name": "Lukas", "gender": "m", "age": "adult" },
-    { "id": "svenja", "name": "Svenja", "gender": "f", "age": "young" }
+    { "id": "bettina", "name": "Bettina", "gender": "f", "age": "adult" },
+    { "id": "dragan", "name": "Dragan", "gender": "m", "age": "adult" },
+    { "id": "hannelore", "name": "Hannelore", "gender": "f", "age": "senior" },
+    { "id": "luca", "name": "Luca", "gender": "m", "age": "young" },
+    { "id": "larissa", "name": "Larissa", "gender": "f", "age": "young" }
   ],
   "intro": [
-    { "s": "mod", "t": "Immer mehr Menschen ziehen in die großen Städte, andere suchen dagegen die Ruhe auf dem Land." },
-    { "s": "mod", "t": "Wir haben uns umgehört: Wo leben Sie lieber, in der Stadt oder auf dem Land, und warum?" }
+    { "s": "mod", "t": "Die Mieten in den Großstädten steigen und steigen, und gleichzeitig suchen viele Familien mehr Platz und mehr Grün." },
+    { "s": "mod", "t": "Wir haben uns umgehört: Wo leben Sie lieber – in der Stadt oder auf dem Land?" }
   ],
   "items": [
     {
       "n": 1,
       "script": [
-        { "s": "melanie", "t": "Wir haben zehn Jahre in München gewohnt, in einer kleinen Wohnung im vierten Stock. Vor zwei Jahren sind wir dann in ein Dorf in der Nähe von Landshut gezogen." },
-        { "s": "melanie", "t": "Jetzt haben wir ein Haus mit Garten, und die Kinder können draußen spielen, ohne dass ich ständig Angst wegen der Autos haben muss." },
-        { "s": "melanie", "t": "Die Stadt vermisse ich überhaupt nicht. Ich hätte nie gedacht, dass ich mich auf dem Land so wohlfühle." }
+        { "s": "bettina", "t": "Wir sind vor zwei Jahren aus Hamburg in ein Dorf an der Schlei gezogen. Haus mit Garten, die Kinder spielen draußen – das war genau unser Traum." },
+        { "s": "bettina", "t": "Und klar, der Garten ist herrlich, und die Luft ist besser, keine Frage." },
+        { "s": "bettina", "t": "Aber ohne Auto geht hier gar nichts. Ich bin nur noch Taxi für die Kinder – Sport, Musikschule, Freunde. Und mal spontan ins Kino? Vergiss es." },
+        { "s": "bettina", "t": "Ehrlich gesagt – noch mal würd ich das nicht machen. Wir überlegen schon, ob wir in eine Kleinstadt ziehen." }
       ],
-      "statement": "Die Frau ist froh, dass sie aus der Großstadt aufs Land gezogen ist.",
-      "answer": true,
-      "explanation": "After ten years in a small flat in Munich they moved to a village. „Die Stadt vermisse ich überhaupt nicht“ – she feels very comfortable in the country.",
-      "explanationDe": "Nach zehn Jahren in einer kleinen Wohnung in München sind sie in ein Dorf gezogen. „Die Stadt vermisse ich überhaupt nicht“ – sie fühlt sich auf dem Land sehr wohl.",
-      "evidence": "Die Stadt vermisse ich überhaupt nicht."
+      "statement": "Die Frau ist glücklich mit ihrem neuen Leben auf dem Dorf.",
+      "answer": false,
+      "explanation": "The garden and the air are great, but without a car nothing works and she is „nur noch Taxi für die Kinder“. „noch mal würd ich das nicht machen“ – they are even thinking about moving to a small town.",
+      "explanationDe": "Garten und Luft sind toll, aber ohne Auto geht nichts, und sie ist „nur noch Taxi für die Kinder“. „noch mal würd ich das nicht machen“ – sie überlegen sogar, in eine Kleinstadt zu ziehen.",
+      "evidence": "noch mal würd ich das nicht machen"
     },
     {
       "n": 2,
       "script": [
-        { "s": "patrick", "t": "Ich bin in einem kleinen Dorf in Thüringen aufgewachsen. Da fuhr der letzte Bus um sieben Uhr abends, und am Wochenende war absolut nichts los." },
-        { "s": "patrick", "t": "Jetzt studiere ich in Leipzig, und ich liebe es. Konzerte, Kneipen, Kino, alles kann ich mit dem Fahrrad erreichen." },
-        { "s": "patrick", "t": "Klar, die Wohnungen sind hier teurer und es ist lauter. Aber zurück aufs Dorf? Nein danke, auf keinen Fall." }
+        { "s": "dragan", "t": "Ich wohn mitten in Frankfurt, über einer Kneipe. Laut ist es, ja, und für meine kleine Wohnung zahl ich eine Miete, da wird Ihnen schwindlig." },
+        { "s": "dragan", "t": "Meine Kollegen fragen mich: „Warum ziehst du nicht raus? Da kriegst du für das Geld ein ganzes Haus.“" },
+        { "s": "dragan", "t": "Aber ich geh zu Fuß ins Theater, um die Ecke gibt's Essen aus der ganzen Welt, und zur Arbeit fahr ich zehn Minuten mit dem Rad." },
+        { "s": "dragan", "t": "Nee, raus aufs Land – das wär nichts für mich. Lieber zahl ich mehr und hab dafür das Leben vor der Haustür." }
       ],
-      "statement": "Der junge Mann kann sich nicht vorstellen, wieder auf dem Land zu leben.",
-      "answer": true,
-      "explanation": "In his home village „am Wochenende war absolut nichts los“. He loves Leipzig and says „zurück aufs Dorf? Nein danke, auf keinen Fall“ – even though flats in the city are more expensive.",
-      "explanationDe": "Über sein Heimatdorf erzählt er: „am Wochenende war absolut nichts los“. Er liebt Leipzig und sagt: „zurück aufs Dorf? Nein danke, auf keinen Fall“ – obwohl die Wohnungen in der Stadt teurer sind.",
-      "evidence": "Aber zurück aufs Dorf? Nein danke, auf keinen Fall."
+      "statement": "Wegen der hohen Kosten denkt der Mann darüber nach, aus der Stadt wegzuziehen.",
+      "answer": false,
+      "explanation": "His rent is very high and his colleagues tell him to move out, but „raus aufs Land – das wär nichts für mich“. He prefers to pay more and live in the middle of the city.",
+      "explanationDe": "Seine Miete ist sehr hoch, und seine Kollegen raten ihm, rauszuziehen. Aber „raus aufs Land – das wär nichts für mich“. Er zahlt lieber mehr und wohnt mitten in der Stadt.",
+      "evidence": "Nee, raus aufs Land – das wär nichts für mich."
     },
     {
       "n": 3,
       "script": [
-        { "s": "hildegard", "t": "Ich hab fast mein ganzes Leben auf einem Hof im Schwarzwald gewohnt. Als mein Mann gestorben ist, war mir das Haus einfach zu groß." },
-        { "s": "hildegard", "t": "Seit einem Jahr wohne ich jetzt in einer kleinen Wohnung in Freiburg. Der Arzt, die Apotheke und der Supermarkt sind gleich um die Ecke, und ich brauche kein Auto mehr." },
-        { "s": "hildegard", "t": "Natürlich denke ich manchmal an die Ruhe und die Wiesen. Aber hier bin ich viel selbstständiger, und das möchte ich nicht mehr hergeben." }
+        { "s": "hannelore", "t": "Ich hab fünfzig Jahre auf einem Bauernhof gelebt, mit Gemüsegarten. Letztes Frühjahr bin ich in eine kleine Wohnung in der Stadt gezogen – wegen der Knie, und weil ich nicht mehr Auto fahren darf." },
+        { "s": "hannelore", "t": "Die ersten Wochen waren schlimm. Ich hab jeden Abend geweint, mir hat der Garten so gefehlt." },
+        { "s": "hannelore", "t": "Aber jetzt – die Apotheke ist gegenüber, zum Arzt geh ich fünf Minuten, und donnerstags treff ich mich mit ein paar Damen aus dem Haus zum Kartenspielen." },
+        { "s": "hannelore", "t": "Meine Tomaten zieh ich halt jetzt auf dem Balkon. Also, ich hab mich eingelebt, wirklich." }
       ],
-      "statement": "Die Frau würde am liebsten wieder auf dem Land wohnen.",
-      "answer": false,
-      "explanation": "She sometimes thinks of the quiet countryside, but in the city she is „viel selbstständiger“, and she does not want to give that up („nicht mehr hergeben“).",
-      "explanationDe": "Manchmal denkt sie an die Ruhe auf dem Land, aber in der Stadt ist sie „viel selbstständiger“, und das will sie nicht mehr aufgeben („nicht mehr hergeben“).",
-      "evidence": "Aber hier bin ich viel selbstständiger, und das möchte ich nicht mehr hergeben."
+      "statement": "Nach einer schweren Anfangszeit fühlt sich die Frau in der Stadt jetzt wohl.",
+      "answer": true,
+      "explanation": "The first weeks were hard („Ich hab jeden Abend geweint“), but now she enjoys the short distances and her card games: „ich hab mich eingelebt, wirklich“.",
+      "explanationDe": "Die ersten Wochen waren schwer („Ich hab jeden Abend geweint“). Aber jetzt genießt sie die kurzen Wege und das Kartenspielen: „ich hab mich eingelebt, wirklich“.",
+      "evidence": "Also, ich hab mich eingelebt, wirklich."
     },
     {
       "n": 4,
       "script": [
-        { "s": "lukas", "t": "Für mich ist eine Kleinstadt die perfekte Lösung. Ich wohne in Buxtehude, und mit dem Zug bin ich in einer guten halben Stunde in Hamburg." },
-        { "s": "lukas", "t": "Wenn ich Lust auf Theater oder Shopping habe, fahre ich einfach rein. Und am Wochenende gehe ich direkt hinter dem Haus im Wald joggen." },
-        { "s": "lukas", "t": "Die Mieten sind auch noch bezahlbar. Ehrlich gesagt hab ich hier das Beste aus beiden Welten." }
+        { "s": "luca", "t": "Ich komm aus einem Dorf mit achthundert Leuten, und als Jugendlicher konnte ich's kaum erwarten, da wegzukommen. Jeder wusste alles über jeden, das hat mich genervt." },
+        { "s": "luca", "t": "Jetzt mach ich meine Ausbildung in Stuttgart und wohn mit zwei Kumpels zusammen. Zum Ausgehen ist die Stadt super." },
+        { "s": "luca", "t": "Aber im Haus kenn ich nicht mal die Nachbarn. Wenn ich am Wochenende bei meinen Eltern bin und beim Bäcker jeder hallo sagt, find ich das inzwischen richtig schön." },
+        { "s": "luca", "t": "Also, wenn ich mal Kinder hab, dann will ich, glaub ich, schon wieder zurück aufs Dorf." }
       ],
-      "statement": "Der Mann findet, dass seine Kleinstadt Vorteile von Stadt und Land verbindet.",
+      "statement": "Der junge Mann sieht seine Zukunft mit Familie eher auf dem Land.",
       "answer": true,
-      "explanation": "He can quickly get to Hamburg for theatre and shopping and goes jogging in the forest behind his house: „das Beste aus beiden Welten“.",
-      "explanationDe": "Er ist schnell in Hamburg, wenn er Lust auf Theater oder Shopping hat, und geht im Wald hinter seinem Haus joggen: „das Beste aus beiden Welten“.",
-      "evidence": "Ehrlich gesagt hab ich hier das Beste aus beiden Welten."
+      "explanation": "As a teenager he wanted to get away, and the city is great for going out. But now he likes it that everybody says hello in the village, and „wenn ich mal Kinder hab, dann will ich … schon wieder zurück aufs Dorf“.",
+      "explanationDe": "Als Jugendlicher wollte er nur weg, und zum Ausgehen ist die Stadt super. Aber jetzt findet er es schön, dass im Dorf jeder hallo sagt, und „wenn ich mal Kinder hab, dann will ich … schon wieder zurück aufs Dorf“.",
+      "evidence": "wenn ich mal Kinder hab, dann will ich, glaub ich, schon wieder zurück aufs Dorf"
     },
     {
       "n": 5,
       "script": [
-        { "s": "svenja", "t": "Ich hab letzten Herbst eine Stelle als Tierärztin in einem kleinen Dorf in der Eifel angenommen. Die Arbeit ist toll, aber sonst ist es echt schwierig." },
-        { "s": "svenja", "t": "Hier kennt jeder jeden, nur mich kennt keiner. Und wenn ich abends mal ins Kino will, muss ich vierzig Kilometer fahren." },
-        { "s": "svenja", "t": "Ich fühle mich ziemlich allein. Wenn ich eine Stelle in Köln finde, bin ich sofort weg." }
+        { "s": "larissa", "t": "Ich studier in Bremen, aber in der Stadt hab ich kein bezahlbares Zimmer gefunden. Jetzt wohn ich in einem kleinen Ort, eine halbe Stunde mit dem Zug." },
+        { "s": "larissa", "t": "Meine Freundinnen haben gesagt: „Du Arme, so weit draußen!“ Klar, um halb sechs aufstehen ist nicht immer lustig." },
+        { "s": "larissa", "t": "Aber im Zug schlaf ich noch ein bisschen oder lern für die Uni. Und abends ist es so still, da kann ich richtig abschalten." },
+        { "s": "larissa", "t": "Also, mir macht das Pendeln echt nichts aus. Ich glaub, ich bleib da auch nach dem Studium." }
       ],
-      "statement": "Die junge Frau fühlt sich in ihrem Dorf sehr wohl.",
+      "statement": "Die junge Frau findet die tägliche Fahrt in die Stadt sehr anstrengend.",
       "answer": false,
-      "explanation": "Only her job is great. Otherwise „Ich fühle mich ziemlich allein“, and she will leave as soon as she finds a job in Köln.",
-      "explanationDe": "Nur ihre Arbeit ist toll. Ansonsten sagt sie: „Ich fühle mich ziemlich allein“. Sobald sie eine Stelle in Köln findet, geht sie weg.",
-      "evidence": "Ich fühle mich ziemlich allein."
+      "explanation": "Getting up at half past five is „nicht immer lustig“, but she sleeps or studies on the train and enjoys the quiet in the evening: „mir macht das Pendeln echt nichts aus“.",
+      "explanationDe": "Um halb sechs aufstehen ist „nicht immer lustig“, aber im Zug schläft oder lernt sie, und abends genießt sie die Ruhe: „mir macht das Pendeln echt nichts aus“.",
+      "evidence": "Also, mir macht das Pendeln echt nichts aus."
     }
   ],
   "glossary": [
-    { "de": "aufwachsen", "en": "to grow up" },
-    { "de": "Da ist nichts los.", "en": "Nothing is going on there." },
+    { "de": "herrlich", "en": "wonderful" },
+    { "de": "spontan", "en": "on the spur of the moment" },
     { "de": "die Kneipe", "en": "pub, bar" },
-    { "de": "vermissen", "en": "to miss" },
-    { "de": "sich wohlfühlen", "en": "to feel comfortable, at home" },
-    { "de": "der Hof", "en": "farm" },
-    { "de": "selbstständig", "en": "independent" },
-    { "de": "hergeben", "en": "to give up, to give away" },
+    { "de": "schwindlig werden", "en": "to get dizzy" },
+    { "de": "vor der Haustür", "en": "on one's doorstep" },
+    { "de": "der Bauernhof", "en": "farm" },
+    { "de": "sich einleben", "en": "to settle in" },
+    { "de": "wegkommen (ugs.)", "en": "to get away" },
+    { "de": "der Kumpel", "en": "mate, buddy" },
     { "de": "bezahlbar", "en": "affordable" },
-    { "de": "das Beste aus beiden Welten", "en": "the best of both worlds" },
-    { "de": "eine Stelle annehmen", "en": "to accept a job" }
+    { "de": "abschalten", "en": "to switch off, to unwind" },
+    { "de": "jemandem nichts ausmachen", "en": "not to bother someone" }
   ]
 }

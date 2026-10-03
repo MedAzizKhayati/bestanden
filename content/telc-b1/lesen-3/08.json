@@ -8,73 +8,73 @@
   "situations": [
     {
       "n": 1,
-      "text": "Sie und Ihr Mann möchten am Samstagabend ins Theater gehen. In dieser Zeit soll jemand auf Ihre Tochter (3) aufpassen.",
+      "text": "Sie haben Konzertkarten für einen Abend am Wochenende. Für diese Stunden suchen Sie jemanden, der bei Ihnen zu Hause auf Ihre dreijährige Tochter aufpasst.",
       "answer": "e",
-      "explanation": "„Auch abends und am Wochenende“ – the babysitter agency (e) finds someone for Saturday evening. The project for „Leih-Großeltern“ (k) says „Kein Babysitter-Service für einzelne Abende“.",
-      "explanationDe": "„Auch abends und am Wochenende“ – die Babysitter-Börse (e) findet jemanden für den Samstagabend. Beim Projekt für „Leih-Großeltern“ (k) steht: „Kein Babysitter-Service für einzelne Abende“."
+      "explanation": "You need someone for one evening at the weekend. Babysitter-Börse Dreisam (e) offers babysitters „Auch abends und am Wochenende“. The Leih-Großeltern (k) also look after children, but they say „Kein Babysitter-Service für einzelne Abende“.",
+      "explanationDe": "Du brauchst jemanden für einen einzelnen Abend am Wochenende. Die Babysitter-Börse Dreisam (e) vermittelt Babysitter „Auch abends und am Wochenende“. Die Leih-Großeltern (k) kümmern sich auch um Kinder, schreiben aber „Kein Babysitter-Service für einzelne Abende“."
     },
     {
       "n": 2,
-      "text": "Ab September gehen Sie wieder arbeiten. Für Ihren Sohn (18 Monate) suchen Sie deshalb einen Betreuungsplatz bis 16 Uhr.",
+      "text": "Ab September sind Sie wieder voll berufstätig. Für Ihren Sohn, der dann anderthalb Jahre alt ist, brauchen Sie deshalb montags bis freitags einen Platz, an dem er bis 16 Uhr betreut wird.",
       "answer": "j",
-      "explanation": "„Freie Plätze ab 1. September für Kinder von 1 bis 3 Jahren“ and „Mo.–Fr. 7.30–16.30 Uhr“ – the nursery (j) fits your son and your working hours.",
-      "explanationDe": "„Freie Plätze ab 1. September für Kinder von 1 bis 3 Jahren“ und „Mo.–Fr. 7.30–16.30 Uhr“ – die Kinderkrippe (j) passt zu deinem Sohn und zu deinen Arbeitszeiten."
+      "explanation": "Your son needs care Monday to Friday until 4 pm from September. Kinderkrippe Löwenzahn (j) has places „ab 1. September“ with „Betreuung Mo.–Fr. 7.30–16.30 Uhr“. The Familienzentrum (c) also starts „ab September“ and mentions working parents, but its playgroup ends at 12 („Mo.–Fr. 8–12 Uhr“).",
+      "explanationDe": "Dein Sohn braucht ab September montags bis freitags eine Betreuung bis 16 Uhr. Die Kinderkrippe Löwenzahn (j) hat Plätze „ab 1. September“ mit „Betreuung Mo.–Fr. 7.30–16.30 Uhr“. Das Familienzentrum (c) startet auch „ab September“ und nennt berufstätige Eltern, aber die Spielgruppe endet um 12 Uhr („Mo.–Fr. 8–12 Uhr“)."
     },
     {
       "n": 3,
-      "text": "Sie sind mit Ihrem Baby (6 Monate) neu nach Freiburg gezogen und möchten andere Eltern mit kleinen Kindern kennenlernen. Es soll nichts kosten.",
+      "text": "Sie sind mit Ihrem sechs Monate alten Baby neu nach Freiburg gezogen. Jetzt suchen Sie Kontakt zu anderen Müttern und Vätern mit Babys, möchten dafür aber keine Gebühren bezahlen.",
       "answer": "c",
-      "explanation": "„Für Mütter und Väter mit Babys bis 1 Jahr“, „mit anderen Eltern austauschen“ and „Kostenlos“ – the playgroup (c) fits. Baby swimming (g) is also for babies, but it costs „95 €“.",
-      "explanationDe": "„Für Mütter und Väter mit Babys bis 1 Jahr“, „mit anderen Eltern austauschen“ und „Kostenlos“ – die Krabbelgruppe (c) passt. Das Babyschwimmen (g) ist auch für Babys, aber es kostet „95 €“."
+      "explanation": "You want to meet other parents and pay nothing. The Krabbelgruppe at the Familienzentrum (c) is for „Eltern mit Babys bis 1 Jahr“ and is „kostenlos, ohne Anmeldung“. Babyschwimmen (g) shares many words („Babys“, „andere Eltern kennen“), but it costs „95 €“.",
+      "explanationDe": "Du willst andere Eltern kennenlernen und nichts bezahlen. Die Krabbelgruppe im Familienzentrum (c) ist für „Eltern mit Babys bis 1 Jahr“ und „kostenlos, ohne Anmeldung“. Das Babyschwimmen (g) hat viele gleiche Wörter („Babys“, „andere Eltern kennen“), kostet aber „95 €“."
     },
     {
       "n": 4,
-      "text": "Ihr Sohn ist in der 4. Klasse und hat große Probleme in Mathematik. Sie suchen Nachhilfe, bei der eine Lehrkraft nur mit ihm allein arbeitet.",
+      "text": "Ihr Sohn ist neun und hat in der Grundschule große Schwierigkeiten in Mathematik. Sie wünschen sich, dass sich eine Lehrkraft ausschließlich um ihn kümmert.",
       "answer": "h",
-      "explanation": "„Nachhilfe in Mathe … für die Klassen 1–10“ and „Einzelunterricht“ – the tutoring studio (h) offers one-to-one lessons for a fourth-grader.",
-      "explanationDe": "„Nachhilfe in Mathe … für die Klassen 1–10“ und „Einzelunterricht“ – das Lernstudio (h) bietet einem Kind aus der 4. Klasse Unterricht allein mit einer Lehrkraft an."
+      "explanation": "A teacher should work with your son alone. Lernstudio Pfiffikus (h) offers maths tutoring with „Einzelunterricht: Ihr Kind lernt allein mit seiner Lehrerin oder seinem Lehrer“. The Familienzentrum (c) mentions „Grundschüler“, but its homework help is „in Gruppen“.",
+      "explanationDe": "Eine Lehrkraft soll allein mit deinem Sohn arbeiten. Das Lernstudio Pfiffikus (h) bietet Nachhilfe in Mathe mit „Einzelunterricht: Ihr Kind lernt allein mit seiner Lehrerin oder seinem Lehrer“. Das Familienzentrum (c) nennt zwar „Grundschüler“, aber die Hausaufgabenhilfe ist „in Gruppen“."
     },
     {
       "n": 5,
-      "text": "Sie müssen in den Sommerferien arbeiten. Für Ihre Tochter (8) suchen Sie eine Betreuung, die den ganzen Tag dauert.",
+      "text": "Sie müssen in den Sommerferien arbeiten. Für Ihre Tochter (8) suchen Sie deshalb eine Ferienbetreuung, die von morgens bis etwa 16 Uhr dauert.",
       "answer": "l",
-      "explanation": "„In allen sechs Wochen der Sommerferien, Mo.–Fr. 8–16 Uhr“ and „von 6 bis 12 Jahren“ – the forest holiday programme (l) lasts all day. The circus workshop (f) is in the summer holidays too, but only for three mornings („10–13 Uhr“).",
-      "explanationDe": "„In allen sechs Wochen der Sommerferien, Mo.–Fr. 8–16 Uhr“ und „von 6 bis 12 Jahren“ – das Ferienprogramm im Wald (l) dauert den ganzen Tag. Der Zirkus-Workshop (f) ist auch in den Sommerferien, aber nur an drei Vormittagen („10–13 Uhr“)."
+      "explanation": "You need care from morning until about 4 pm during the summer holidays. The Abenteuer-Sommer (l) runs „In allen sechs Wochen der Sommerferien, Mo.–Fr. 8–16 Uhr“ for children from 6 to 12. The circus (f) has a „Ferienworkshop“ in the summer holidays, but only for 3 days, „jeweils 10–13 Uhr“.",
+      "explanationDe": "Du brauchst in den Sommerferien eine Betreuung von morgens bis etwa 16 Uhr. Der Abenteuer-Sommer (l) läuft „In allen sechs Wochen der Sommerferien, Mo.–Fr. 8–16 Uhr“ für Kinder von 6 bis 12. Der Kinderzirkus (f) hat einen „Ferienworkshop“ in den Sommerferien, aber nur 3 Tage und „jeweils 10–13 Uhr“."
     },
     {
       "n": 6,
-      "text": "Ihre Tochter ist sechs Jahre alt und soll schwimmen lernen. Weil Sie unter der Woche arbeiten, kommt nur ein Kurs am Wochenende infrage.",
+      "text": "Ihre Tochter ist sechs Jahre alt und soll endlich schwimmen lernen. Da Sie unter der Woche berufstätig sind, kommt nur ein Kurs am Wochenende infrage.",
       "answer": "b",
-      "explanation": "„Seepferdchen-Kurse für Kinder ab 5 Jahren“ and „samstags“ – the swimming school (b) fits. Baby swimming (g) is also on Saturdays, but only for children up to 3 years.",
-      "explanationDe": "„Seepferdchen-Kurse für Kinder ab 5 Jahren“ und „samstags“ – die Schwimmschule (b) passt. Das Babyschwimmen (g) ist auch samstags, aber nur für Kinder bis 3 Jahre."
+      "explanation": "A six-year-old needs a swimming course at the weekend. Schwimmschule Wasserfloh (b) has „Seepferdchen-Kurse für Kinder ab 5 Jahren“ on „samstags“. „Schwimmen für die Kleinsten“ (g) is also on Saturday, but only for children „von 3 Monaten bis 3 Jahren“.",
+      "explanationDe": "Ein sechsjähriges Kind braucht einen Schwimmkurs am Wochenende. Die Schwimmschule Wasserfloh (b) hat „Seepferdchen-Kurse für Kinder ab 5 Jahren“, und zwar „samstags“. „Schwimmen für die Kleinsten“ (g) ist auch samstags, aber nur für Kinder „von 3 Monaten bis 3 Jahren“."
     },
     {
       "n": 7,
-      "text": "Sie und Ihr Partner streiten oft darüber, wie streng Sie mit Ihrem Sohn sein sollen. Sie möchten mit einer Fachperson darüber sprechen, aber es darf nichts kosten.",
+      "text": "Sie und Ihr Partner streiten häufig über die Erziehung Ihres Sohnes. Sie möchten sich deshalb von Fachleuten beraten lassen, die dafür keine Gebühren verlangen.",
       "answer": "a",
-      "explanation": "„Hilfe bei Erziehungsfragen, Streit in der Familie“ and „Kostenlos und vertraulich“ – the family counselling centre (a) is the right place.",
-      "explanationDe": "„Hilfe bei Erziehungsfragen, Streit in der Familie“ und „Kostenlos und vertraulich“ – die Beratungsstelle für Familien (a) ist der richtige Ort."
+      "explanation": "You want advice on bringing up your son, and it must be free. The Beratungsstelle (a) helps with „Erziehungsfragen“ and is „Kostenlos und vertraulich“. The Praxis für Paar- und Familienberatung (d) sounds very similar („Streit mit dem Partner?“), but it costs „90 € pro Sitzung“.",
+      "explanationDe": "Du willst eine Beratung zur Erziehung deines Sohnes, und sie soll nichts kosten. Die Beratungsstelle (a) hilft bei „Erziehungsfragen“ und ist „Kostenlos und vertraulich“. Die Praxis für Paar- und Familienberatung (d) klingt sehr ähnlich („Streit mit dem Partner?“), kostet aber „90 € pro Sitzung“."
     },
     {
       "n": 8,
-      "text": "Die Großeltern Ihrer Kinder wohnen weit weg. Sie wünschen sich eine ältere Person, die regelmäßig Zeit mit Ihren Kindern verbringt.",
+      "text": "Oma und Opa Ihrer Kinder leben in Spanien. Sie wünschen sich jemanden aus der älteren Generation, der regelmäßig etwas mit Ihren Kindern unternimmt.",
       "answer": "k",
-      "explanation": "„Ehrenamtliche Seniorinnen und Senioren werden Leih-Oma oder Leih-Opa“ and „Regelmäßige Treffen“ – project (k) finds substitute grandparents („Leih-Großeltern“) for your family. The babysitters (e) are not older people who come regularly.",
-      "explanationDe": "„Ehrenamtliche Seniorinnen und Senioren werden Leih-Oma oder Leih-Opa“ und „Regelmäßige Treffen“ – das Projekt (k) vermittelt „Leih-Großeltern“ für deine Familie. Die Babysitter (e) sind keine älteren Menschen, die regelmäßig kommen."
+      "explanation": "You want an older person who meets your children regularly. The Leih-Großeltern (k) arrange „Ehrenamtliche Seniorinnen und Senioren“ for „Feste Treffen, z. B. einmal pro Woche“. The Babysitter-Börse (e) even says „Wenn Oma und Opa nicht können“, but its babysitters are „Studentinnen und Studenten“ – young people.",
+      "explanationDe": "Du suchst eine ältere Person, die sich regelmäßig mit deinen Kindern trifft. Die Leih-Großeltern (k) vermitteln „Ehrenamtliche Seniorinnen und Senioren“ für „Feste Treffen, z. B. einmal pro Woche“. Die Babysitter-Börse (e) schreibt sogar „Wenn Oma und Opa nicht können“, aber ihre Babysitter sind „Studentinnen und Studenten“ – also junge Leute."
     },
     {
       "n": 9,
-      "text": "Ihr Sohn (10) war begeistert vom Zirkus und möchte jetzt selbst jonglieren und Akrobatik lernen – am liebsten jede Woche.",
+      "text": "Seit einem Zirkusbesuch möchte Ihr zehnjähriger Sohn unbedingt jonglieren und Akrobatik lernen – und zwar regelmäßig, jede Woche.",
       "answer": "f",
-      "explanation": "„Jonglieren, Akrobatik“, „von 5 bis 14 Jahren“ and „Training jeden Mittwoch“ – the children's circus (f) fits. The parent-and-child gymnastics (i) is only for children „von 1,5 bis 3 Jahren“.",
-      "explanationDe": "„Jonglieren, Akrobatik“, „von 5 bis 14 Jahren“ und „Training jeden Mittwoch“ – der Kinderzirkus (f) passt. Das Eltern-Kind-Turnen (i) ist nur für Kinder „von 1,5 bis 3 Jahren“."
+      "explanation": "He wants to practise every week. Kinderzirkus Purzelbaum (f) teaches „Jonglieren, Akrobatik“ with „Training jeden Mittwoch“. The Abenteuer-Sommer (l) also has „Zirkus“ and „jonglieren“ and even „Jede Woche ein anderes Thema“, but only during the summer holidays.",
+      "explanationDe": "Er möchte jede Woche üben. Der Kinderzirkus Purzelbaum (f) bietet „Jonglieren, Akrobatik“ mit „Training jeden Mittwoch“ an. Der Abenteuer-Sommer (l) hat auch „Zirkus“ und „jonglieren“ und sogar „Jede Woche ein anderes Thema“, aber nur in den Sommerferien."
     },
     {
       "n": 10,
-      "text": "Ihr Sohn ist 14 Monate alt. Sie möchten mit ihm zusammen einen Musikkurs besuchen.",
+      "text": "Sie suchen für sich und Ihren 14 Monate alten Sohn einen wöchentlichen Kurs, in dem Eltern und Kinder gemeinsam singen und musizieren.",
       "answer": "x",
-      "explanation": "The music garden (d) is a music course for small children with a parent, but only „von 18 Monaten bis 3 Jahren“. The playgroup (c) is only for babies up to one year and is not a music course. So the answer is x.",
-      "explanationDe": "Der Musikgarten (d) ist ein Musikkurs für kleine Kinder mit einem Elternteil, aber nur „von 18 Monaten bis 3 Jahren“. Die Krabbelgruppe (c) ist nur für Babys bis zu einem Jahr und kein Musikkurs. Die Lösung ist also x."
+      "explanation": "Musikgarten Klangwiese (i) is a weekly music course for a child with a parent, but only „Für Kinder von 18 Monaten bis 3 Jahren“ – your son is 14 months old. No other ad offers music, so x.",
+      "explanationDe": "Der Musikgarten Klangwiese (i) ist ein wöchentlicher Musikkurs für Kind und Elternteil, aber nur „Für Kinder von 18 Monaten bis 3 Jahren“ – dein Sohn ist erst 14 Monate alt. Keine andere Anzeige bietet Musik an, also x."
     }
   ],
   "ads": [
@@ -82,7 +82,7 @@
       "key": "a",
       "heading": "Beratungsstelle für Eltern, Kinder und Jugendliche",
       "lines": [
-        "Hilfe bei Erziehungsfragen, Streit in der Familie und Trennung",
+        "Hilfe bei Erziehungsfragen, Konflikten in der Familie und Trennung",
         "Kostenlos und vertraulich",
         "Termine Mo.–Fr. 8–18 Uhr, dienstags bis 20 Uhr",
         "Offene Sprechstunde ohne Termin: Do. 14–16 Uhr"
@@ -103,35 +103,35 @@
     },
     {
       "key": "c",
-      "heading": "Krabbelgruppe im Familienzentrum",
+      "heading": "Familienzentrum Wiehre",
+      "subheading": "Treffpunkt für Familien im Stadtteil",
       "lines": [
-        "Für Mütter und Väter mit Babys bis 1 Jahr",
-        "Spielen, Fragen stellen und sich mit anderen Eltern austauschen",
-        "Jeden Dienstag 10–11.30 Uhr",
-        "Kostenlos, ohne Anmeldung – einfach vorbeikommen!"
+        "Krabbelgruppe für Eltern mit Babys bis 1 Jahr: Di. 10–11.30 Uhr – kostenlos, ohne Anmeldung",
+        "Neu ab September: Spielgruppe für Kinder von 1 bis 3 Jahren, Mo.–Fr. 8–12 Uhr – ideal für Eltern, die vormittags berufstätig sind",
+        "Hausaufgabenhilfe für Grundschüler in Gruppen: Mo.–Do. 14–16 Uhr"
       ],
-      "footer": "Familienzentrum, Talweg 3, 79102 Freiburg"
+      "footer": "Talweg 3, 79102 Freiburg · Tel. 0761 7782140"
     },
     {
       "key": "d",
-      "heading": "Musikgarten Klangwiese",
-      "subheading": "Singen, tanzen, musizieren – für die Kleinsten",
+      "heading": "Praxis für Paar- und Familienberatung",
+      "subheading": "Streit mit dem Partner? Sorgen mit den Kindern?",
       "lines": [
-        "Für Kinder von 18 Monaten bis 3 Jahren mit einem Elternteil",
-        "Freitags 15.30–16.15 Uhr",
-        "10 Termine 85 €, Schnupperstunde kostenlos"
+        "Erfahrene Psychologin hilft Ihnen, wieder einig zu werden.",
+        "Termine auch abends und samstags",
+        "90 € pro Sitzung (60 Minuten), keine Kassenleistung"
       ],
-      "footer": "Musikschule am Schlossberg · Tel. 0761 3328806"
+      "footer": "Dr. Annette Wohlleben · Schwarzwaldstraße 41, 79117 Freiburg · Tel. 0761 6093318"
     },
     {
       "key": "e",
       "heading": "Babysitter-Börse Dreisam",
-      "subheading": "Zuverlässige Babysitter – auch kurzfristig",
+      "subheading": "Wenn Oma und Opa nicht können",
       "lines": [
-        "Alle Babysitter haben einen Erste-Hilfe-Kurs für Kinder gemacht.",
-        "Auch abends und am Wochenende",
-        "12 € pro Stunde, einmalige Vermittlungsgebühr 20 €",
-        "Telefonisch erreichbar Mo.–Fr. 9–17 Uhr"
+        "Zuverlässige Studentinnen und Studenten – auch kurzfristig",
+        "Alle haben einen Erste-Hilfe-Kurs für Kinder gemacht.",
+        "Auch abends und am Wochenende, 12 € pro Stunde",
+        "Einmalige Vermittlungsgebühr 20 €"
       ],
       "footer": "Tel. 0761 7006532 · www.babysitter-dreisam.de"
     },
@@ -148,10 +148,11 @@
     },
     {
       "key": "g",
-      "heading": "Babyschwimmen im Warmwasserbecken",
+      "heading": "Schwimmen für die Kleinsten",
+      "subheading": "Babyschwimmen im Warmwasserbecken",
       "lines": [
         "Für Babys und Kleinkinder von 3 Monaten bis 3 Jahren mit Mama oder Papa",
-        "Wassertemperatur 32 °C",
+        "Wassertemperatur 32 °C – lernen Sie dabei andere Eltern kennen!",
         "8 Termine, samstags 11 Uhr, 95 €"
       ],
       "footer": "Therapiezentrum Schwarzwald · Tel. 0761 6619043"
@@ -162,7 +163,7 @@
       "subheading": "Wieder Spaß an der Schule!",
       "lines": [
         "Nachhilfe in Mathe, Deutsch und Englisch für die Klassen 1–10",
-        "Einzelunterricht oder Kleingruppen (max. 3 Kinder)",
+        "Einzelunterricht: Ihr Kind lernt allein mit seiner Lehrerin oder seinem Lehrer.",
         "Kostenlose Probestunde",
         "Mo.–Fr. 13–19 Uhr"
       ],
@@ -170,14 +171,14 @@
     },
     {
       "key": "i",
-      "heading": "Eltern-Kind-Turnen",
-      "subheading": "Sportverein Wiesental",
+      "heading": "Musikgarten Klangwiese",
+      "subheading": "Singen, tanzen, musizieren – für die Kleinsten",
       "lines": [
-        "Klettern, rollen, balancieren – für Kinder von 1,5 bis 3 Jahren mit Begleitung",
-        "Donnerstags 16–17 Uhr in der Turnhalle der Grundschule",
-        "Mitgliedsbeitrag 6 € im Monat"
+        "Für Kinder von 18 Monaten bis 3 Jahren mit einem Elternteil",
+        "Einmal pro Woche: freitags 15.30–16.15 Uhr",
+        "10 Termine 85 €, Schnupperstunde kostenlos"
       ],
-      "footer": "Tel. 0761 4093318"
+      "footer": "Musikschule am Schlossberg · Tel. 0761 3328806"
     },
     {
       "key": "j",
@@ -192,11 +193,11 @@
     },
     {
       "key": "k",
-      "heading": "Oma und Opa auf Zeit",
-      "subheading": "Wir vermitteln Leih-Großeltern.",
+      "heading": "Leih-Großeltern",
+      "subheading": "Wir bringen Jung und Alt zusammen.",
       "lines": [
         "Ehrenamtliche Seniorinnen und Senioren werden Leih-Oma oder Leih-Opa für Ihre Familie.",
-        "Regelmäßige Treffen, z. B. einmal pro Woche am Nachmittag",
+        "Feste Treffen, z. B. einmal pro Woche am Nachmittag",
         "Kein Babysitter-Service für einzelne Abende",
         "Die Vermittlung ist kostenlos."
       ],
@@ -204,11 +205,11 @@
     },
     {
       "key": "l",
-      "heading": "Ferien im Wald",
-      "subheading": "Abenteuer-Tage für Kinder von 6 bis 12 Jahren",
+      "heading": "Abenteuer-Sommer im Wald",
+      "subheading": "Wald, Zirkus und Theater für Kinder von 6 bis 12 Jahren",
       "lines": [
         "In allen sechs Wochen der Sommerferien, Mo.–Fr. 8–16 Uhr",
-        "Hütten bauen, Tiere beobachten, am Feuer kochen",
+        "Jede Woche ein anderes Thema – Hütten bauen, jonglieren, Theater spielen",
         "Mittagessen inklusive, wochenweise buchbar: 120 € pro Woche",
         "Treffpunkt: Parkplatz am Waldspielplatz"
       ],
@@ -217,12 +218,12 @@
   ],
   "glossary": [
     { "de": "die Krippe", "en": "nursery, day care for children under 3" },
-    { "de": "der Betreuungsplatz", "en": "childcare place" },
     { "de": "die Krabbelgruppe", "en": "playgroup for babies" },
-    { "de": "sich austauschen", "en": "to share experiences, to talk" },
     { "de": "die Nachhilfe", "en": "private tutoring" },
+    { "de": "der Einzelunterricht", "en": "one-to-one lessons" },
     { "de": "die Erziehung", "en": "upbringing, parenting" },
     { "de": "vertraulich", "en": "confidential" },
+    { "de": "die Sitzung", "en": "session (with a therapist)" },
     { "de": "die Vermittlungsgebühr", "en": "agency fee" },
     { "de": "das Seepferdchen", "en": "first swimming badge for children (lit. seahorse)" },
     { "de": "die Leih-Oma / der Leih-Opa", "en": "substitute grandmother / grandfather" },

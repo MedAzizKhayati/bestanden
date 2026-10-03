@@ -8,6 +8,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { SpeakButton } from "@/components/vocab/word-bits";
 import { useLocale, useT } from "@/i18n/client";
 import type { PhraseBank } from "@/lib/content/schemas";
+import { spokenPhrase } from "@/lib/content/spoken";
 
 export function PhraseBrowser({ banks }: { banks: PhraseBank[] }) {
   const t = useT();
@@ -67,7 +68,7 @@ export function PhraseBrowser({ banks }: { banks: PhraseBank[] }) {
                               {p.note && <span className="ml-1 rounded bg-muted px-1 py-0.5">{p.note}</span>}
                             </div>
                           </div>
-                          <SpeakButton text={p.de.replace(/[…]/g, "")} className="size-7" />
+                          <SpeakButton text={spokenPhrase(p.de)} className="size-7" />
                           <button
                             type="button"
                             aria-label={labels.copyPhrase}

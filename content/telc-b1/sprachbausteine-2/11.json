@@ -6,105 +6,108 @@
   "topic": "behoerden",
   "difficulty": 3,
   "textType": "letter-formal",
-  "text": "Sehr geehrte Damen und Herren,\n\nam 1. Oktober bin ich innerhalb von Hannover [[1]] und muss mich deshalb ummelden. Für den 10. Oktober habe ich online einen Termin im Bürgeramt Mitte [[2]].\n\nDabei gibt es jedoch ein Problem: Für die Ummeldung brauche ich die Wohnungsgeberbestätigung meines neuen Vermieters. Ich habe ihn schon zweimal darum [[3]]. Leider ist er zurzeit im Urlaub und kommt erst Ende Oktober zurück. Ich habe zwar den Mietvertrag, [[4]] die Bestätigung fehlt mir noch.\n\nLaut Ihrer Internetseite muss man sich innerhalb von zwei Wochen nach dem Umzug ummelden. Diese [[5]] kann ich wahrscheinlich nicht einhalten. Ich möchte Sie daher fragen, [[6]] ich das Dokument auch später nachreichen kann. Falls nicht, wäre es dann möglich, meinen Termin auf Anfang November zu [[7]]?\n\nAußerdem habe ich eine Frage zu meinem Personalausweis: Muss ich die neue Adresse dort separat ändern [[8]], oder geschieht das automatisch bei der Ummeldung?\n\nIch hoffe, dass Sie [[9]] meine Situation Verständnis haben, und bitte Sie um eine kurze Rückmeldung. Sie erreichen mich per E-Mail [[10]] telefonisch unter 0511 3840627.\n\nMit freundlichen Grüßen\nDragan Petrović",
+  "text": "Sehr geehrte Damen und Herren,\n\nam 1. Oktober bin ich innerhalb von Hannover [[1]] und muss mich deshalb ummelden. Für den 10. Oktober habe ich online einen Termin im Bürgeramt Mitte [[2]].\n\nDabei gibt es jedoch ein Problem: Für die Ummeldung brauche ich die Wohnungsgeberbestätigung meines neuen Vermieters. Ich habe ihn schon zweimal [[3]] gebeten. Leider ist er zurzeit im Urlaub und kommt erst Ende Oktober zurück. Den Mietvertrag habe ich zwar schon, [[4]] die Bestätigung fehlt mir noch.\n\nLaut Ihrer Internetseite muss man sich innerhalb von zwei Wochen nach dem Umzug ummelden. Diese [[5]] kann ich also wahrscheinlich nicht einhalten. Ich möchte Sie daher fragen, [[6]] ich das Dokument auch später nachreichen kann. Falls nicht, [[7]] es dann möglich, meinen Termin auf Anfang November zu verschieben? Wegen meiner Schichtarbeit passen mir Termine am frühen Vormittag am besten.\n\nAußerdem [[8]] ich noch eine Frage zu meinem Personalausweis: Muss ich die neue Adresse dort separat ändern [[9]], oder geschieht das automatisch bei der Ummeldung? Und braucht meine sechsjährige Tochter, die mit mir umgezogen ist, einen eigenen Termin?\n\nIch hoffe, dass Sie [[10]] meine Situation Verständnis haben, und bitte Sie um eine kurze Rückmeldung. Sie erreichen mich per E-Mail oder telefonisch unter 0511 3840627.\n\nMit freundlichen Grüßen\nDragan Petrović",
   "words": [
     { "key": "a", "text": "aber" },
-    { "key": "b", "text": "erinnert" },
-    { "key": "c", "text": "Frist" },
-    { "key": "d", "text": "für" },
-    { "key": "e", "text": "gebeten" },
-    { "key": "f", "text": "gezogen" },
-    { "key": "g", "text": "lassen" },
-    { "key": "h", "text": "ob" },
-    { "key": "i", "text": "oder" },
-    { "key": "j", "text": "sondern" },
-    { "key": "k", "text": "Termin" },
-    { "key": "l", "text": "über" },
-    { "key": "m", "text": "umgezogen" },
-    { "key": "n", "text": "vereinbart" },
-    { "key": "o", "text": "verschieben" }
+    { "key": "b", "text": "dafür" },
+    { "key": "c", "text": "daran" },
+    { "key": "d", "text": "darum" },
+    { "key": "e", "text": "Frist" },
+    { "key": "f", "text": "für" },
+    { "key": "g", "text": "gezogen" },
+    { "key": "h", "text": "hätte" },
+    { "key": "i", "text": "lassen" },
+    { "key": "j", "text": "ob" },
+    { "key": "k", "text": "sondern" },
+    { "key": "l", "text": "umgezogen" },
+    { "key": "m", "text": "vereinbart" },
+    { "key": "n", "text": "wann" },
+    { "key": "o", "text": "wäre" }
   ],
   "gaps": [
     {
       "n": 1,
-      "answer": "m",
-      "explanation": "Moving to a new flat in the same city is „umziehen“, which forms the perfect with „sein“: „bin ich innerhalb von Hannover umgezogen“. „gezogen“ would need a destination („nach Hannover gezogen“).",
-      "explanationDe": "Der Wechsel in eine neue Wohnung in derselben Stadt heißt „umziehen“. Das Perfekt bildet man mit „sein“: „bin ich innerhalb von Hannover umgezogen“. „gezogen“ bräuchte ein Ziel („nach Hannover gezogen“).",
+      "answer": "l",
+      "explanation": "„umziehen“ means to move from one flat to another, here within the same city: „bin ich innerhalb von Hannover umgezogen“. „gezogen“ (from „ziehen“) is the trap: in the sense of „to move“ it always needs a direction („nach Hannover gezogen“), and there is none here.",
+      "explanationDe": "„umziehen“ bedeutet, von einer Wohnung in eine andere zu wechseln, hier in derselben Stadt: „bin ich innerhalb von Hannover umgezogen“. „gezogen“ (von „ziehen“) ist die Falle: In dieser Bedeutung braucht es immer eine Richtung („nach Hannover gezogen“) – und die fehlt hier.",
       "grammar": "perfekt"
     },
     {
       "n": 2,
-      "answer": "n",
-      "explanation": "„einen Termin vereinbaren“ (to make an appointment) is a typical noun–verb combination in formal letters; in the perfect: „habe ich … einen Termin vereinbart“.",
-      "explanationDe": "„einen Termin vereinbaren“ (= einen Termin ausmachen) ist eine typische Nomen-Verb-Verbindung in formellen Briefen; im Perfekt: „habe ich … einen Termin vereinbart“.",
+      "answer": "m",
+      "explanation": "„einen Termin vereinbaren“ (to make an appointment) is a fixed noun-verb combination: „habe ich online einen Termin … vereinbart“.",
+      "explanationDe": "„einen Termin vereinbaren“ ist eine feste Nomen-Verb-Verbindung: „habe ich online einen Termin … vereinbart“.",
       "grammar": "nomen-verb-verbindungen"
     },
     {
       "n": 3,
-      "answer": "e",
-      "explanation": "„jemanden um etwas bitten“ means „to ask someone for something“: „Ich habe ihn schon zweimal darum gebeten.“ „darum“ stands for „um die Bestätigung“. „erinnert“ is a trap: „jemanden an etwas erinnern“ (to remind) would need „daran“, not „darum“.",
-      "explanationDe": "„jemanden um etwas bitten“ (= sagen, dass man etwas von jemandem haben möchte): „Ich habe ihn schon zweimal darum gebeten.“ „darum“ steht für „um die Bestätigung“. „erinnert“ ist eine Falle: „jemanden an etwas erinnern“ (= dafür sorgen, dass jemand etwas nicht vergisst) bräuchte „daran“, nicht „darum“.",
+      "answer": "d",
+      "explanation": "„jemanden um etwas bitten“ → with a pronoun: „Ich habe ihn schon zweimal darum gebeten“ (= um die Bestätigung). „daran“ belongs to „erinnern an“ („daran erinnert“) and „dafür“ to „danken für“ – both are wrong with „bitten“.",
+      "explanationDe": "„jemanden um etwas bitten“ → mit Pronominaladverb: „Ich habe ihn schon zweimal darum gebeten“ (= um die Bestätigung). „daran“ gehört zu „erinnern an“ („daran erinnert“) und „dafür“ zu „danken für“ – beide passen nicht zu „bitten“.",
       "grammar": "verben-mit-praepositionen"
     },
     {
       "n": 4,
       "answer": "a",
-      "explanation": "„zwar …, aber …“ is a two-part connector: „Ich habe zwar den Mietvertrag, aber die Bestätigung fehlt mir noch.“ „sondern“ is only used after a negation.",
-      "explanationDe": "„zwar …, aber …“ ist ein zweiteiliger Konnektor: „Ich habe zwar den Mietvertrag, aber die Bestätigung fehlt mir noch.“ „sondern“ benutzt man nur nach einer Verneinung.",
+      "explanation": "„zwar …, aber …“: he does have the rental contract, but the confirmation is still missing. „sondern“ is only possible after a negation („nicht …, sondern …“), and there is none here.",
+      "explanationDe": "„zwar …, aber …“: Den Mietvertrag hat er schon, aber die Bestätigung fehlt noch. „sondern“ geht nur nach einer Verneinung („nicht …, sondern …“) – und die gibt es hier nicht.",
       "grammar": "zweiteilige-konnektoren"
     },
     {
       "n": 5,
-      "answer": "c",
-      "explanation": "„eine Frist einhalten“ means „to meet a deadline“ – here the two-week deadline from the website. „Termin“ is masculine and would need „Diesen“.",
-      "explanationDe": "„eine Frist einhalten“ bedeutet: etwas bis zu einem bestimmten Zeitpunkt erledigen – hier innerhalb der zwei Wochen, die auf der Internetseite stehen. „Termin“ ist maskulin und bräuchte „Diesen“.",
+      "answer": "e",
+      "explanation": "„eine Frist einhalten“ (to meet a deadline) refers to „innerhalb von zwei Wochen“. „Diese“ shows that a feminine noun is missing.",
+      "explanationDe": "„eine Frist einhalten“ (= etwas bis zu einem bestimmten Zeitpunkt erledigen) bezieht sich auf „innerhalb von zwei Wochen“. „Diese“ zeigt dir, dass ein feminines Nomen fehlt.",
       "grammar": "nomen-verb-verbindungen"
     },
     {
       "n": 6,
-      "answer": "h",
-      "explanation": "After „fragen“ a yes/no question becomes an indirect question with „ob“: „ob ich das Dokument auch später nachreichen kann“.",
-      "explanationDe": "Nach „fragen“ wird eine Ja-/Nein-Frage zu einer indirekten Frage mit „ob“: „ob ich das Dokument auch später nachreichen kann“.",
+      "answer": "j",
+      "explanation": "„Ich möchte Sie daher fragen, ob …“ – an indirect yes/no question. The next sentence starts with „Falls nicht“, which answers a yes/no question. „wann“ is tempting, but „Falls nicht“ would make no sense after a question about the time.",
+      "explanationDe": "„Ich möchte Sie daher fragen, ob …“ – eine indirekte Ja-/Nein-Frage. Der nächste Satz beginnt mit „Falls nicht“, und das passt nur zu einer Ja-/Nein-Frage. „wann“ ist verlockend, aber nach einer Frage nach der Zeit ergibt „Falls nicht“ keinen Sinn.",
       "grammar": "indirekte-fragen"
     },
     {
       "n": 7,
       "answer": "o",
-      "explanation": "„einen Termin auf … verschieben“ means „to postpone an appointment to …“; after „Wäre es möglich, …“ the infinitive comes with „zu“.",
-      "explanationDe": "„einen Termin auf … verschieben“ bedeutet: einen Termin auf einen späteren Zeitpunkt legen; nach „Wäre es möglich, …“ steht der Infinitiv mit „zu“.",
-      "grammar": "infinitiv-mit-zu"
+      "explanation": "„Wäre es möglich, … zu verschieben?“ is a polite question in Konjunktiv II of „sein“ – „möglich“ needs „sein“. „hätte“ is the Konjunktiv II of „haben“ and cannot be combined with „es … möglich“.",
+      "explanationDe": "„Wäre es möglich, … zu verschieben?“ ist eine höfliche Frage im Konjunktiv II von „sein“ – zu „möglich“ gehört „sein“. „hätte“ ist der Konjunktiv II von „haben“ und passt nicht zu „es … möglich“.",
+      "grammar": "konjunktiv-2"
     },
     {
       "n": 8,
-      "answer": "g",
-      "explanation": "„etwas ändern lassen“ means „to have something changed“ – the office changes the address on the ID card, not he himself.",
-      "explanationDe": "„etwas ändern lassen“ bedeutet: Jemand anderes ändert etwas – das Amt ändert die Adresse im Personalausweis, nicht er selbst.",
-      "grammar": "lassen"
+      "answer": "h",
+      "explanation": "„Ich hätte noch eine Frage“ is a polite Konjunktiv II of „haben“ with an object („eine Frage“). „wäre“ is wrong: you cannot say „eine Frage sein“ in this meaning.",
+      "explanationDe": "„Ich hätte noch eine Frage“ ist der höfliche Konjunktiv II von „haben“ mit einem Objekt („eine Frage“). „wäre“ ist falsch: „eine Frage sein“ kann man hier nicht sagen.",
+      "grammar": "konjunktiv-2"
     },
     {
       "n": 9,
-      "answer": "d",
-      "explanation": "„Verständnis für etwas haben“ (to understand, to be sympathetic to something) is a fixed combination. „über“ is not used with „Verständnis“.",
-      "explanationDe": "„Verständnis für etwas haben“ (= etwas verstehen und akzeptieren) ist eine feste Verbindung. „über“ benutzt man nicht mit „Verständnis“.",
-      "grammar": "nomen-verb-verbindungen"
+      "answer": "i",
+      "explanation": "„etwas ändern lassen“ means to have something changed by someone else – the authority changes the address on the ID card, not he himself. „lassen“ is the only infinitive that fits after „ändern“.",
+      "explanationDe": "„etwas ändern lassen“ (= jemand anderes ändert es) – die Behörde ändert die Adresse im Ausweis, nicht er selbst. „lassen“ ist der einzige Infinitiv, der nach „ändern“ passt.",
+      "grammar": "lassen"
     },
     {
       "n": 10,
-      "answer": "i",
-      "explanation": "He offers two alternative ways of contacting him: „per E-Mail oder telefonisch“.",
-      "explanationDe": "Er nennt zwei Möglichkeiten zur Wahl, wie man ihn erreichen kann: „per E-Mail oder telefonisch“."
+      "answer": "f",
+      "explanation": "„Verständnis für etwas haben“ (to understand / to be sympathetic to something): „dass Sie für meine Situation Verständnis haben“. „dafür“ cannot stand directly before a noun phrase like „meine Situation“.",
+      "explanationDe": "„Verständnis für etwas haben“: „dass Sie für meine Situation Verständnis haben“. „dafür“ kann nicht direkt vor einer Nomengruppe wie „meine Situation“ stehen.",
+      "grammar": "nomen-verb-verbindungen"
     }
   ],
   "glossary": [
     { "de": "sich ummelden", "en": "to register a change of address" },
-    { "de": "das Bürgeramt", "en": "citizens' office (registration office)" },
+    { "de": "das Bürgeramt", "en": "citizens' office" },
     { "de": "einen Termin vereinbaren", "en": "to make an appointment" },
-    { "de": "die Wohnungsgeberbestätigung", "en": "landlord's confirmation that you live in the flat" },
-    { "de": "der Vermieter", "en": "landlord" },
+    { "de": "die Wohnungsgeberbestätigung", "en": "landlord's confirmation of moving in" },
+    { "de": "jemanden um etwas bitten", "en": "to ask someone for something" },
     { "de": "eine Frist einhalten", "en": "to meet a deadline" },
     { "de": "etwas nachreichen", "en": "to hand something in later" },
     { "de": "einen Termin verschieben", "en": "to postpone an appointment" },
+    { "de": "die Schichtarbeit", "en": "shift work" },
     { "de": "etwas ändern lassen", "en": "to have something changed" },
-    { "de": "die Rückmeldung", "en": "reply, response" }
+    { "de": "Verständnis für etwas haben", "en": "to be understanding about something" },
+    { "de": "die Rückmeldung", "en": "reply, feedback" }
   ]
 }

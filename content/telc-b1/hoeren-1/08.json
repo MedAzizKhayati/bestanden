@@ -7,94 +7,100 @@
   "difficulty": 2,
   "speakers": [
     { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
-    { "id": "roswitha", "name": "Roswitha", "gender": "f", "age": "senior" },
-    { "id": "ahmed", "name": "Ahmed", "gender": "m", "age": "adult" },
-    { "id": "carina", "name": "Carina", "gender": "f", "age": "young" },
-    { "id": "joachim", "name": "Joachim", "gender": "m", "age": "adult" },
-    { "id": "natalia", "name": "Natalia", "gender": "f", "age": "adult" }
+    { "id": "edith", "name": "Edith", "gender": "f", "age": "senior" },
+    { "id": "holger", "name": "Holger", "gender": "m", "age": "adult" },
+    { "id": "annika", "name": "Annika", "gender": "f", "age": "young" },
+    { "id": "arne", "name": "Arne", "gender": "m", "age": "adult" },
+    { "id": "olena", "name": "Olena", "gender": "f", "age": "adult" }
   ],
   "intro": [
-    { "s": "mod", "t": "Man sagt ja: Was Hänschen nicht lernt, lernt Hans nimmermehr. Aber stimmt das auch für Sprachen?" },
-    { "s": "mod", "t": "Wir haben gefragt: Kann man als Erwachsener noch gut eine Fremdsprache lernen?" }
+    { "s": "mod", "t": "Viele Menschen glauben, dass man Sprachen nur als Kind richtig lernen kann. Aber stimmt das wirklich?" },
+    { "s": "mod", "t": "Wir haben gefragt: Kann man als Erwachsener noch gut eine Fremdsprache lernen – und wie haben Sie das gemacht?" }
   ],
   "items": [
     {
       "n": 1,
       "script": [
-        { "s": "roswitha", "t": "Ich hab mit achtundsechzig angefangen, Italienisch zu lernen, an der Volkshochschule. Mein Mann und ich fahren nämlich jedes Jahr an den Gardasee." },
-        { "s": "roswitha", "t": "Natürlich vergesse ich die Vokabeln schneller als früher in der Schule. Aber ich hab jetzt viel mehr Zeit und Geduld." },
-        { "s": "roswitha", "t": "Letzten Sommer konnte ich im Restaurant zum ersten Mal ganz allein bestellen. Da war ich richtig stolz!" }
+        { "s": "edith", "t": "Ich lerne seit einem Jahr Spanisch, mit einundsiebzig. Meine Enkelin lebt nämlich in Valencia, und ich will mich mit ihrem Mann auch mal richtig unterhalten können." },
+        { "s": "edith", "t": "Leicht ist das nicht, das muss ich zugeben. Die Vokabeln, die ich am Montag lerne, sind am Donnerstag oft schon wieder weg." },
+        { "s": "edith", "t": "Dann wiederhole ich sie eben ein drittes und ein viertes Mal. Ich hab ja Zeit!" },
+        { "s": "edith", "t": "Und letzten Monat hab ich am Telefon zum ersten Mal ein ganzes Gespräch geschafft. Also, zu alt ist man dafür nicht – man braucht nur ein bisschen länger." }
       ],
-      "statement": "Die Frau macht trotz ihres Alters Fortschritte beim Italienischlernen.",
-      "answer": true,
-      "explanation": "She started at 68. She forgets words faster, but has „mehr Zeit und Geduld“, and last summer she ordered in a restaurant „ganz allein“ – she was proud.",
-      "explanationDe": "Sie hat mit 68 angefangen. Sie vergisst Vokabeln schneller, hat aber „mehr Zeit und Geduld“, und letzten Sommer hat sie im Restaurant „ganz allein“ bestellt – darauf war sie stolz.",
-      "evidence": "Letzten Sommer konnte ich im Restaurant zum ersten Mal ganz allein bestellen."
+      "statement": "Die Frau zweifelt daran, dass sie in ihrem Alter noch Spanisch lernen kann.",
+      "answer": false,
+      "explanation": "She forgets words quickly, but she simply repeats them and recently managed a whole phone conversation. „zu alt ist man dafür nicht – man braucht nur ein bisschen länger“ – she has no doubts.",
+      "explanationDe": "Sie vergisst Wörter schnell, aber sie wiederholt sie einfach und hat neulich ein ganzes Telefongespräch geschafft. „zu alt ist man dafür nicht – man braucht nur ein bisschen länger“ – sie zweifelt also nicht.",
+      "evidence": "zu alt ist man dafür nicht – man braucht nur ein bisschen länger"
     },
     {
       "n": 2,
       "script": [
-        { "s": "ahmed", "t": "Ich bin mit fünfunddreißig nach Deutschland gekommen und konnte am Anfang kein einziges Wort Deutsch. Die Grammatik hat mich fast verrückt gemacht, besonders die Artikel." },
-        { "s": "ahmed", "t": "Aber ich hab jeden Tag gelernt und viel mit meinen Nachbarn gesprochen. Heute arbeite ich als Pfleger in einem Altenheim und spreche den ganzen Tag Deutsch." },
-        { "s": "ahmed", "t": "Ich bin der beste Beweis, dass man das auch als Erwachsener schaffen kann." }
+        { "s": "holger", "t": "Englisch hatte ich in der Schule neun Jahre. Trotzdem hab ich mich nie getraut, auch nur einen Satz zu sagen – ich hatte immer Angst, dass jemand lacht." },
+        { "s": "holger", "t": "Dann hat meine Firma einen Partner in Schweden bekommen, und plötzlich musste ich Videokonferenzen auf Englisch machen. Am Anfang war ich danach jedes Mal klatschnass." },
+        { "s": "holger", "t": "Inzwischen geht's richtig gut. Und ich hab gemerkt: Mein Wortschatz war nie das Problem – mein Alter auch nicht. Das Problem war hier oben, im Kopf." },
+        { "s": "holger", "t": "Seit ich keine Panik mehr vor Fehlern hab, lern ich viel schneller." }
       ],
-      "statement": "Der Mann glaubt, dass Erwachsene eine Fremdsprache kaum noch lernen können.",
-      "answer": false,
-      "explanation": "He arrived at 35 without any German and now works in German every day: „Ich bin der beste Beweis, dass man das auch als Erwachsener schaffen kann“.",
-      "explanationDe": "Er ist mit 35 ohne Deutschkenntnisse nach Deutschland gekommen und arbeitet heute jeden Tag auf Deutsch: „Ich bin der beste Beweis, dass man das auch als Erwachsener schaffen kann“.",
-      "evidence": "Ich bin der beste Beweis, dass man das auch als Erwachsener schaffen kann."
+      "statement": "Dem Mann hat beim Englischsprechen lange vor allem der Mut gefehlt.",
+      "answer": true,
+      "explanation": "He never dared to speak because he was afraid of being laughed at. „Mein Wortschatz war nie das Problem – mein Alter auch nicht. Das Problem war hier oben, im Kopf“ – what he lacked was courage.",
+      "explanationDe": "Er hat sich nie getraut zu sprechen, weil er Angst hatte, dass jemand lacht. „Mein Wortschatz war nie das Problem – mein Alter auch nicht. Das Problem war hier oben, im Kopf“ – ihm hat also der Mut gefehlt.",
+      "evidence": "Das Problem war hier oben, im Kopf."
     },
     {
       "n": 3,
       "script": [
-        { "s": "carina", "t": "Ich bin zweisprachig aufgewachsen, mein Vater ist Spanier. Deutsch und Spanisch hab ich als Kind einfach so gelernt, ganz ohne Mühe." },
-        { "s": "carina", "t": "Letztes Jahr wollte ich dann noch Französisch lernen, und das war plötzlich total schwer. Nach drei Monaten hab ich den Kurs abgebrochen." },
-        { "s": "carina", "t": "Ich glaube wirklich, als Kind lernt man Sprachen viel leichter. Später muss man sich dafür viel mehr anstrengen." }
+        { "s": "annika", "t": "Ich war letztes Jahr ein Semester in Lyon. Und ehrlich, ich dachte, ich komm zurück und spreche fließend Französisch – man lebt ja mitten in der Sprache, oder?" },
+        { "s": "annika", "t": "Tja. In meinem Wohnheim waren fast nur Austauschstudenten, wir haben die ganze Zeit Englisch geredet. Und in den Seminaren hab ich meistens nur zugehört." },
+        { "s": "annika", "t": "Klar, Einkaufen oder im Restaurant bestellen, das klappt jetzt. Aber richtig viel besser geworden bin ich eigentlich nicht." },
+        { "s": "annika", "t": "Also, nur im Ausland wohnen reicht nicht. Man muss sich schon selbst anstrengen." }
       ],
-      "statement": "Die junge Frau meint, dass Erwachsene Sprachen genauso leicht lernen wie Kinder.",
+      "statement": "Durch ihr Semester im Ausland spricht die junge Frau jetzt sehr gut Französisch.",
       "answer": false,
-      "explanation": "As a child she learned two languages easily, but French as an adult was „total schwer“. She believes „als Kind lernt man Sprachen viel leichter“.",
-      "explanationDe": "Als Kind hat sie zwei Sprachen ganz leicht gelernt, aber Französisch als Erwachsene war „total schwer“. Sie glaubt, „als Kind lernt man Sprachen viel leichter“.",
-      "evidence": "Ich glaube wirklich, als Kind lernt man Sprachen viel leichter."
+      "explanation": "She expected to come back fluent, but she spoke English with the other exchange students. Shopping works, but „richtig viel besser geworden bin ich eigentlich nicht“.",
+      "explanationDe": "Sie dachte, sie kommt fließend zurück, aber im Wohnheim hat sie Englisch geredet. Einkaufen klappt, aber „richtig viel besser geworden bin ich eigentlich nicht“.",
+      "evidence": "Aber richtig viel besser geworden bin ich eigentlich nicht."
     },
     {
       "n": 4,
       "script": [
-        { "s": "joachim", "t": "Meine Tochter lebt seit ein paar Jahren in Schweden, und ich möchte mich mit meinen Enkeln unterhalten können." },
-        { "s": "joachim", "t": "Deshalb lerne ich mit einer App Schwedisch, jeden Morgen in der Straßenbahn, eine Viertelstunde. Nicht mehr, aber auch nicht weniger." },
-        { "s": "joachim", "t": "Ich finde, das ist das Geheimnis: lieber jeden Tag ein bisschen als einmal in der Woche drei Stunden. Inzwischen verstehe ich schon ziemlich viel." }
+        { "s": "arne", "t": "Ich lerne seit fast zwei Jahren Italienisch mit einer App, jeden Tag zehn Minuten in der Straßenbahn. Ich hab keinen einzigen Tag ausgelassen – da bin ich schon ein bisschen stolz drauf." },
+        { "s": "arne", "t": "Vokabeln kann ich jede Menge, und lesen klappt auch ganz gut." },
+        { "s": "arne", "t": "Aber im Urlaub in Bologna hat mich ein Kellner was gefragt, und ich hab kein Wort rausgekriegt. Das war echt peinlich." },
+        { "s": "arne", "t": "Seitdem geh ich jeden Mittwoch zu einem italienischen Stammtisch. Die App ist ganz nett für zwischendurch, aber sprechen lernt man nur mit Menschen." }
       ],
-      "statement": "Der Mann findet es besser, jeden Tag kurz zu lernen als selten lange.",
-      "answer": true,
-      "explanation": "He learns for fifteen minutes every morning. His secret: „lieber jeden Tag ein bisschen als einmal in der Woche drei Stunden“.",
-      "explanationDe": "Er lernt jeden Morgen eine Viertelstunde. Sein Geheimnis: „lieber jeden Tag ein bisschen als einmal in der Woche drei Stunden“.",
-      "evidence": "lieber jeden Tag ein bisschen als einmal in der Woche drei Stunden"
+      "statement": "Für den Mann reicht eine Lern-App aus, um eine Sprache zu lernen.",
+      "answer": false,
+      "explanation": "He is proud of his daily app practice, but in Bologna he could not answer a waiter. Now he goes to a Stammtisch, because „sprechen lernt man nur mit Menschen“ – the app alone is not enough.",
+      "explanationDe": "Er ist stolz auf sein tägliches Lernen mit der App, aber in Bologna konnte er einem Kellner nicht antworten. Jetzt geht er zu einem Stammtisch, denn „sprechen lernt man nur mit Menschen“ – die App allein reicht nicht.",
+      "evidence": "aber sprechen lernt man nur mit Menschen"
     },
     {
       "n": 5,
       "script": [
-        { "s": "natalia", "t": "Ich hab zwei Jahre lang einen Portugiesischkurs besucht, aber sprechen konnte ich danach trotzdem kaum. Im Kurs haben wir ja fast nur Übungen im Buch gemacht." },
-        { "s": "natalia", "t": "Dann hab ich eine Tandempartnerin gefunden, Luiza aus Brasilien. Wir treffen uns jeden Donnerstag im Café und sprechen eine Stunde Deutsch und eine Stunde Portugiesisch." },
-        { "s": "natalia", "t": "Seitdem hab ich viel weniger Angst vor Fehlern. Das hat mir mehr gebracht als jeder Kurs." }
+        { "s": "olena", "t": "Ich bin mit vierunddreißig nach Deutschland gekommen und konnte kein Wort Deutsch. Am Anfang war das schrecklich – beim Arzt, auf dem Amt, überall hab ich mich wie ein kleines Kind gefühlt." },
+        { "s": "olena", "t": "Ich hab abends nach der Arbeit noch Kurse besucht, und manchmal wollte ich wirklich alles hinschmeißen." },
+        { "s": "olena", "t": "Jetzt arbeite ich als Erzieherin im Kindergarten. Die Kinder korrigieren mich manchmal noch – die sind sehr streng!" },
+        { "s": "olena", "t": "Also, ich glaube schon, dass es als Erwachsener geht. Man darf nur nicht nach drei Monaten aufgeben, wenn's frustrierend wird." }
       ],
-      "statement": "Die Frau hat im Tandem mehr gelernt als in ihrem Sprachkurs.",
+      "statement": "Die Frau meint, dass man auch als Erwachsener Erfolg hat, wenn man durchhält.",
       "answer": true,
-      "explanation": "After two years of a course she could hardly speak. Meeting her tandem partner every week „hat mir mehr gebracht als jeder Kurs“.",
-      "explanationDe": "Nach zwei Jahren Kurs konnte sie kaum sprechen. Sich jede Woche mit ihrer Tandempartnerin zu treffen, „hat mir mehr gebracht als jeder Kurs“.",
-      "evidence": "Das hat mir mehr gebracht als jeder Kurs."
+      "explanation": "It was hard and she sometimes wanted to give up, but today she works in a kindergarten. „ich glaube schon, dass es als Erwachsener geht. Man darf nur nicht … aufgeben“ – you succeed if you keep going.",
+      "explanationDe": "Es war schwer, und manchmal wollte sie alles hinschmeißen. Heute arbeitet sie im Kindergarten. „ich glaube schon, dass es als Erwachsener geht. Man darf nur nicht … aufgeben“ – wer durchhält, schafft es.",
+      "evidence": "Man darf nur nicht nach drei Monaten aufgeben"
     }
   ],
   "glossary": [
-    { "de": "Was Hänschen nicht lernt, lernt Hans nimmermehr.", "en": "proverb: what you don't learn when young, you never learn" },
-    { "de": "die Fremdsprache", "en": "foreign language" },
-    { "de": "die Volkshochschule", "en": "adult education centre" },
-    { "de": "die Geduld", "en": "patience" },
-    { "de": "stolz sein auf", "en": "to be proud of" },
-    { "de": "der Beweis", "en": "proof" },
-    { "de": "zweisprachig", "en": "bilingual" },
-    { "de": "einen Kurs abbrechen", "en": "to drop out of a course" },
+    { "de": "sich unterhalten", "en": "to have a conversation" },
+    { "de": "zugeben", "en": "to admit" },
+    { "de": "etwas schaffen", "en": "to manage something" },
+    { "de": "sich trauen", "en": "to dare" },
+    { "de": "der Wortschatz", "en": "vocabulary" },
+    { "de": "das Wohnheim", "en": "student residence" },
+    { "de": "der Austauschstudent / die Austauschstudentin", "en": "exchange student" },
     { "de": "sich anstrengen", "en": "to make an effort" },
-    { "de": "das Geheimnis", "en": "secret" },
-    { "de": "die Tandempartnerin", "en": "(female) language exchange partner" }
+    { "de": "auslassen", "en": "to skip" },
+    { "de": "der Stammtisch", "en": "regular get-together (here: conversation group)" },
+    { "de": "hinschmeißen (ugs.)", "en": "to chuck it in, to quit" },
+    { "de": "durchhalten", "en": "to keep going" }
   ]
 }

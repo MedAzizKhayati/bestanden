@@ -3,6 +3,7 @@
 import { Volume2 } from "lucide-react";
 import { useT } from "@/i18n/client";
 import type { VocabWord } from "@/lib/content/schemas";
+import { spokenWord } from "@/lib/content/spoken";
 import { speak } from "@/lib/audio/speech";
 import { useSettings } from "@/lib/store/settings";
 import { cn } from "@/lib/utils";
@@ -32,7 +33,7 @@ export function WordLabel({ word, className, hideArticle }: { word: VocabWord; c
 }
 
 export function spokenForm(word: VocabWord) {
-  return word.article ? `${word.article} ${word.de}` : word.de;
+  return spokenWord(word);
 }
 
 export function SpeakButton({ text, className, label }: { text: string; className?: string; label?: string }) {

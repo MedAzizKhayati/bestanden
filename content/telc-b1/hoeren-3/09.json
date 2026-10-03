@@ -7,10 +7,10 @@
   "difficulty": 3,
   "speakers": [
     { "id": "zug", "gender": "m", "age": "adult", "role": "Zugbegleiter" },
-    { "id": "flughafen", "gender": "f", "age": "adult", "role": "Lautsprecheransage" },
-    { "id": "verkehr", "gender": "m", "age": "adult", "role": "Radiosprecher" },
-    { "id": "vermietung", "name": "Frau Sommer", "gender": "f", "age": "young", "role": "Autovermietung Mobilo" },
-    { "id": "wetter", "gender": "m", "age": "senior", "role": "Wettermoderator" }
+    { "id": "fernbus", "gender": "f", "age": "adult", "role": "Durchsage am Busbahnhof" },
+    { "id": "verkehr", "gender": "m", "age": "senior", "role": "Radiosprecher" },
+    { "id": "camping", "name": "Frau Gstettner", "gender": "f", "age": "senior", "role": "Campingplatz Seerose" },
+    { "id": "wetter", "gender": "f", "age": "young", "role": "Wettermoderatorin" }
   ],
   "intro": [],
   "items": [
@@ -18,88 +18,85 @@
       "n": 1,
       "label": "Durchsage im Zug",
       "script": [
-        { "s": "zug", "t": "Sehr geehrte Fahrgäste, in wenigen Minuten erreichen wir Hamm in Westfalen. Bitte beachten Sie: In Hamm wird unser Zug geteilt." },
-        { "s": "zug", "t": "Die vorderen Wagen, also Wagen 1 bis 6, fahren weiter nach Münster und Bremen. Die hinteren Wagen 7 bis 12 fahren über Dortmund nach Köln." },
-        { "s": "zug", "t": "Fahrgäste, die nach Köln möchten und jetzt in einem der vorderen Wagen sitzen, steigen bitte in Hamm aus und gehen nach hinten. Der Aufenthalt dauert acht Minuten." }
+        { "s": "zug", "t": "Liebe Fahrgäste, wegen Bauarbeiten wird unser Intercity heute zwischen Göttingen und Fulda umgeleitet. Wir halten deshalb nicht in Kassel-Wilhelmshöhe und erreichen Fulda mit etwa vierzig Minuten Verspätung." },
+        { "s": "zug", "t": "Fahrgäste nach Kassel steigen bitte in Göttingen in den Regionalexpress von Gleis 5 um. Er fährt um 14 Uhr 12 ab und wartet auf uns. Ihre Fahrkarte gilt auch in diesem Zug." },
+        { "s": "zug", "t": "Ein Hinweis für alle mit Reservierung in Wagen 7: Dieser Wagen fehlt heute. Bitte setzen Sie sich in Wagen 9, dort ist genug Platz." }
       ],
-      "statement": "Ein Fahrgast nach Köln in Wagen 3 muss in Hamm in einen anderen Wagen gehen.",
-      "answer": true,
-      "explanation": "Carriages 1 to 6 continue to Münster and Bremen; only the rear carriages go to Köln. Passengers for Köln in a front carriage „steigen bitte in Hamm aus und gehen nach hinten“.",
-      "explanationDe": "Die Wagen 1 bis 6 fahren weiter nach Münster und Bremen; nur die hinteren Wagen fahren nach Köln. Fahrgäste nach Köln, die vorne sitzen, „steigen bitte in Hamm aus und gehen nach hinten“.",
-      "evidence": "Fahrgäste, die nach Köln möchten und jetzt in einem der vorderen Wagen sitzen, steigen bitte in Hamm aus und gehen nach hinten."
+      "statement": "Wer nach Kassel will, braucht für den Regionalexpress eine neue Fahrkarte.",
+      "answer": false,
+      "explanation": "Passengers for Kassel have to change in Göttingen, but „Ihre Fahrkarte gilt auch in diesem Zug“ – no new ticket is needed. Platform 5 and 14 Uhr 12 are only the details of the connecting train.",
+      "explanationDe": "Fahrgäste nach Kassel steigen in Göttingen in den Regionalexpress um, aber: „Ihre Fahrkarte gilt auch in diesem Zug.“ Eine neue Fahrkarte brauchen sie also nicht. Gleis 5 und 14 Uhr 12 sind nur die Angaben zum Anschlusszug.",
+      "evidence": "Ihre Fahrkarte gilt auch in diesem Zug."
     },
     {
       "n": 2,
-      "label": "Durchsage am Flughafen",
+      "label": "Durchsage am Busbahnhof",
       "script": [
-        { "s": "flughafen", "t": "Information für die Passagiere des Fluges nach Wien, der planmäßig um 13 Uhr 40 starten sollte." },
-        { "s": "flughafen", "t": "Ihr Flug startet heute nicht vom Flugsteig A 12, sondern vom Flugsteig C 3 aus." },
-        { "s": "flughafen", "t": "Der Abflug verschiebt sich auf 14 Uhr 25, Grund ist das späte Eintreffen der Maschine." },
-        { "s": "flughafen", "t": "Um 13 Uhr 55 beginnt das Einsteigen." },
-        { "s": "flughafen", "t": "Bitte begeben Sie sich rechtzeitig zum Flugsteig C 3, der Fußweg dauert etwa fünfzehn Minuten." }
+        { "s": "fernbus", "t": "Achtung, eine Information für die Fahrgäste des Fernbusses nach Prag mit der planmäßigen Abfahrt um 14 Uhr 15: Ihr Bus fährt heute nicht vom Bussteig 3, sondern vom Bussteig 8 ab, mit etwa fünfundzwanzig Minuten Verspätung." },
+        { "s": "fernbus", "t": "Wer nur bis Dresden fährt, nimmt bitte den zusätzlichen Bus, der pünktlich um 14 Uhr 30 vom Bussteig 3 abfährt." },
+        { "s": "fernbus", "t": "Fahrräder und Kinderwagen geben Sie bitte beim Fahrer ab. Pro Person ist ein Koffer im Preis enthalten, für jedes weitere Gepäckstück zahlen Sie 5 Euro." }
       ],
-      "statement": "Das Einsteigen in das Flugzeug nach Wien beginnt um 14 Uhr 25.",
+      "statement": "Fahrgäste nach Dresden steigen am selben Bussteig ein wie die Fahrgäste nach Prag.",
       "answer": false,
-      "explanation": "„Um 13 Uhr 55 beginnt das Einsteigen.“ 14 Uhr 25 is the new departure time, and 13 Uhr 40 was the original one.",
-      "explanationDe": "„Um 13 Uhr 55 beginnt das Einsteigen.“ Die neue Abflugzeit ist 14 Uhr 25, die ursprüngliche war 13 Uhr 40.",
-      "evidence": "Um 13 Uhr 55 beginnt das Einsteigen."
+      "explanation": "The bus to Prague leaves „nicht vom Bussteig 3, sondern vom Bussteig 8“, while passengers for Dresden take the extra bus „vom Bussteig 3“ – two different bus stands.",
+      "explanationDe": "Der Bus nach Prag fährt „nicht vom Bussteig 3, sondern vom Bussteig 8“ ab. Wer nach Dresden fährt, nimmt den zusätzlichen Bus „vom Bussteig 3“ – das sind zwei verschiedene Bussteige.",
+      "evidence": "der pünktlich um 14 Uhr 30 vom Bussteig 3 abfährt"
     },
     {
       "n": 3,
       "label": "Verkehrsfunk im Radio",
       "script": [
-        { "s": "verkehr", "t": "Die Verkehrslage: Auf der A 8 von Stuttgart in Richtung München ist zwischen Ulm und Augsburg nach einem Unfall die linke Spur gesperrt. Dort staut sich der Verkehr auf zwölf Kilometern." },
-        { "s": "verkehr", "t": "In der Gegenrichtung, also nach Stuttgart, fließt der Verkehr dagegen normal." },
-        { "s": "verkehr", "t": "Auf der A 9 bei Ingolstadt ist der Stau, den wir eben gemeldet haben, inzwischen aufgelöst. Dort können Sie wieder ohne Probleme fahren." }
+        { "s": "verkehr", "t": "Und jetzt die Verkehrslage. Auf der A 3 zwischen Würzburg und Nürnberg hat sich der Stau nach dem Unfall von heute Morgen fast aufgelöst, dort verlieren Sie nur noch etwa zehn Minuten." },
+        { "s": "verkehr", "t": "Auf der A 6 in Richtung Heilbronn ist dagegen bei Crailsheim wegen einer Baustelle nur eine Spur frei. Hier staut sich der Verkehr auf acht Kilometern." },
+        { "s": "verkehr", "t": "Und eine Vorwarnung für heute Nacht: Die Auffahrt Kitzingen in Richtung Würzburg ist von 22 bis 5 Uhr gesperrt. Eine Umleitung ist ausgeschildert." }
       ],
-      "statement": "Wer auf der A 8 nach Stuttgart fährt, kommt ohne Stau durch.",
+      "statement": "Heute Nacht kann man bei Kitzingen nicht in Richtung Würzburg auf die Autobahn fahren.",
       "answer": true,
-      "explanation": "The twelve-kilometre jam is in the direction of Munich. „In der Gegenrichtung, also nach Stuttgart, fließt der Verkehr dagegen normal.“",
-      "explanationDe": "Der Stau von zwölf Kilometern ist in Richtung München. „In der Gegenrichtung, also nach Stuttgart, fließt der Verkehr dagegen normal.“",
-      "evidence": "In der Gegenrichtung, also nach Stuttgart, fließt der Verkehr dagegen normal."
+      "explanation": "„Die Auffahrt Kitzingen in Richtung Würzburg ist von 22 bis 5 Uhr gesperrt“ – so tonight you cannot get onto the motorway there in that direction. The long jam is on the A 6, and the jam on the A 3 has almost cleared.",
+      "explanationDe": "„Die Auffahrt Kitzingen in Richtung Würzburg ist von 22 bis 5 Uhr gesperrt“ – heute Nacht kann man dort also nicht in diese Richtung auf die Autobahn fahren. Der lange Stau ist auf der A 6, und der Stau auf der A 3 hat sich fast aufgelöst.",
+      "evidence": "Die Auffahrt Kitzingen in Richtung Würzburg ist von 22 bis 5 Uhr gesperrt."
     },
     {
       "n": 4,
-      "label": "Nachricht von der Autovermietung",
+      "label": "Nachricht auf dem Anrufbeantworter",
       "script": [
-        { "s": "vermietung", "t": "Guten Tag, Herr Brenner, hier ist Sommer von der Autovermietung Mobilo am Flughafen. Es geht um Ihren Mietwagen für morgen." },
-        { "s": "vermietung", "t": "Ihr Auto steht nicht wie besprochen direkt vor dem Terminal, sondern im Parkhaus 3 auf der zweiten Ebene." },
-        { "s": "vermietung", "t": "Den Schlüssel bekommen Sie bei uns am Schalter in der Ankunftshalle." },
-        { "s": "vermietung", "t": "Bitte bringen Sie den Wagen am Freitag bis 18 Uhr zurück, und zwar vollgetankt. Sonst müssen wir Ihnen das Benzin extra berechnen." }
+        { "s": "camping", "t": "Grüß Gott, Herr Pfefferkorn, hier ist Gstettner vom Campingplatz Seerose. Sie kommen ja morgen, und leider gibt es eine Änderung." },
+        { "s": "camping", "t": "Ihr Platz direkt am Ufer ist noch bis Mittwoch belegt, weil die Gäste dort verlängert haben. Für die ersten zwei Nächte bekommen Sie deshalb den Platz 14 beim Spielplatz – nein, Entschuldigung, die 41, ganz hinten beim Waschhaus." },
+        { "s": "camping", "t": "Für diese zwei Nächte zahlen Sie nur den halben Preis. Die Rezeption ist bis 21 Uhr besetzt. Wer später kommt, parkt bitte vor der Schranke." }
       ],
-      "statement": "Herr Brenner bekommt den Schlüssel für das Auto im Parkhaus.",
+      "statement": "Herr Pfefferkorn steht in den ersten beiden Nächten in der Nähe des Spielplatzes.",
       "answer": false,
-      "explanation": "The car is in car park 3, but „Den Schlüssel bekommen Sie bei uns am Schalter in der Ankunftshalle“ – at the counter in the arrivals hall.",
-      "explanationDe": "Das Auto steht im Parkhaus 3, aber: „Den Schlüssel bekommen Sie bei uns am Schalter in der Ankunftshalle“ – also nicht im Parkhaus.",
-      "evidence": "Den Schlüssel bekommen Sie bei uns am Schalter in der Ankunftshalle."
+      "explanation": "Mrs Gstettner first says „Platz 14 beim Spielplatz“ but corrects herself: „nein, Entschuldigung, die 41, ganz hinten beim Waschhaus“. So he is near the wash house, not the playground.",
+      "explanationDe": "Frau Gstettner sagt zuerst „Platz 14 beim Spielplatz“, dann korrigiert sie sich: „nein, Entschuldigung, die 41, ganz hinten beim Waschhaus“. Er steht also beim Waschhaus, nicht beim Spielplatz.",
+      "evidence": "nein, Entschuldigung, die 41, ganz hinten beim Waschhaus"
     },
     {
       "n": 5,
       "label": "Wetterbericht",
       "script": [
-        { "s": "wetter", "t": "Und nun das Wetter für die Alpen. In den Tälern regnet es heute immer wieder, die Temperaturen liegen bei 8 Grad." },
-        { "s": "wetter", "t": "Oberhalb von 1500 Metern fällt dagegen Schnee, und zwar bis zu zwanzig Zentimeter. Auf den Passstraßen in Tirol brauchen Autofahrer ab heute Abend Schneeketten." },
-        { "s": "wetter", "t": "Morgen wird es von Westen her freundlicher, und am Nachmittag kommt sogar die Sonne heraus." }
+        { "s": "wetter", "t": "Und hier das Wetter für die Küste. An der Nordsee wird es ab heute Mittag stürmisch, mit Böen bis neunzig Kilometer pro Stunde. Die Fähren zu den Inseln fahren deshalb nur bis 12 Uhr, alle späteren Fahrten fallen aus." },
+        { "s": "wetter", "t": "An der Ostsee bleibt es dagegen ruhig. Dort scheint oft die Sonne, bei angenehmen 19 Grad." },
+        { "s": "wetter", "t": "Morgen lässt der Sturm im Norden langsam nach. Ab dem späten Vormittag fahren die Fähren dann wieder nach Plan." }
       ],
-      "statement": "In den Tälern fällt heute bis zu zwanzig Zentimeter Schnee.",
-      "answer": false,
-      "explanation": "„In den Tälern regnet es heute immer wieder.“ The snow of up to twenty centimetres falls only „oberhalb von 1500 Metern“.",
-      "explanationDe": "„In den Tälern regnet es heute immer wieder.“ Der Schnee – bis zu zwanzig Zentimeter – fällt nur „oberhalb von 1500 Metern“.",
-      "evidence": "Oberhalb von 1500 Metern fällt dagegen Schnee, und zwar bis zu zwanzig Zentimeter."
+      "statement": "Wer heute Vormittag auf eine Nordseeinsel möchte, kann noch mit der Fähre fahren.",
+      "answer": true,
+      "explanation": "„Die Fähren zu den Inseln fahren deshalb nur bis 12 Uhr“ – in the morning they still run; only the later crossings are cancelled. „Ab dem späten Vormittag“ refers to tomorrow, when the timetable is back to normal.",
+      "explanationDe": "„Die Fähren zu den Inseln fahren deshalb nur bis 12 Uhr“ – am Vormittag fahren sie also noch, erst die späteren Fahrten fallen aus. „Ab dem späten Vormittag“ gilt für morgen, dann fahren die Fähren wieder normal.",
+      "evidence": "Die Fähren zu den Inseln fahren deshalb nur bis 12 Uhr"
     }
   ],
   "glossary": [
-    { "de": "geteilt werden", "en": "to be split (train)" },
-    { "de": "der Wagen", "en": "carriage, coach; car" },
-    { "de": "das Eintreffen", "en": "arrival" },
-    { "de": "sich verschieben", "en": "to be postponed, to be moved" },
-    { "de": "sich begeben", "en": "to proceed, to go (formal)" },
-    { "de": "die Gegenrichtung", "en": "the opposite direction" },
+    { "de": "umleiten", "en": "to divert, to reroute" },
+    { "de": "die Verspätung", "en": "delay" },
+    { "de": "die Reservierung", "en": "seat reservation" },
+    { "de": "der Bussteig", "en": "bus stand, bay" },
+    { "de": "das Gepäckstück", "en": "piece of luggage" },
     { "de": "sich auflösen", "en": "to clear (of a traffic jam)" },
-    { "de": "der Mietwagen", "en": "rental car" },
-    { "de": "die Ankunftshalle", "en": "arrivals hall" },
-    { "de": "vollgetankt", "en": "with a full tank" },
-    { "de": "das Tal", "en": "valley" },
-    { "de": "die Schneekette", "en": "snow chain" }
+    { "de": "die Auffahrt", "en": "motorway slip road, on-ramp" },
+    { "de": "gesperrt", "en": "closed (to traffic)" },
+    { "de": "belegt", "en": "occupied, taken" },
+    { "de": "die Schranke", "en": "barrier" },
+    { "de": "die Böe", "en": "gust (of wind)" },
+    { "de": "nachlassen", "en": "to ease off, to die down" }
   ]
 }

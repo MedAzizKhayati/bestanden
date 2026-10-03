@@ -6,7 +6,7 @@
   "topic": "familie",
   "difficulty": 2,
   "textType": "email-informal",
-  "text": "Liebe Jana,\n\nschade, dass du am Samstag nicht dabei sein konntest! Ich muss dir unbedingt von der Überraschungsparty zum 30. Hochzeitstag meiner Eltern erzählen.\n\nWir hatten alles heimlich geplant. Meine Schwester hatte Mama und Papa zu einem Spaziergang eingeladen, und in der Zwischenzeit [[1]] der Garten mit Lichterketten und Blumen geschmückt. Als die beiden um sechs Uhr zurückkamen, [[2]] alle: „Überraschung!“ Mein Vater war so überrascht, [[3]] er zuerst gar nichts sagen konnte.\n\nEs kamen [[4]] Freunde als auch Nachbarn und Kollegen. Sogar Onkel Theo und Tante Gerda aus Innsbruck, mit [[5]] wir früher oft Urlaub gemacht haben, waren da. Wir haben bis zwei Uhr nachts gegessen, getanzt und gelacht. Das war bestimmt der schönste Abend [[6]] Jahres!\n\nAm [[7]] hat mir die Rede von Opa gefallen. Er hat erzählt, wie [[8]] meine Eltern vor 30 Jahren auf einem Volksfest kennengelernt haben.\n\nIm Anhang findest du ein paar Fotos, [[9]] Mama wollte unbedingt, dass du sie bekommst. Du [[10]] dich bestimmt auch über die Party gefreut. Hoffentlich bist du bald wieder gesund!\n\nLiebe Grüße\nFelix",
+  "text": "Liebe Jana,\n\nschade, dass du am Samstag nicht dabei sein konntest! Ich muss dir unbedingt von der Überraschungsparty zum 30. Hochzeitstag meiner Eltern erzählen.\n\nWir hatten alles heimlich geplant. Meine Schwester hatte Mama und Papa zu einem Spaziergang eingeladen, und in der Zwischenzeit [[1]] der Garten mit Lichterketten und Blumen geschmückt. Als die beiden um sechs Uhr [[2]], riefen alle: „Überraschung!“ Mein Vater war so überrascht, [[3]] er zuerst gar nichts sagen konnte.\n\nEs kamen [[4]] Freunde als auch Nachbarn und Kollegen. Sogar Onkel Theo und Tante Gerda aus Innsbruck, mit [[5]] wir früher oft Urlaub gemacht haben, waren da. Wir haben bis zwei Uhr nachts gegessen, getanzt und gelacht. Das war bestimmt der schönste Abend [[6]] Jahres!\n\nAm besten hat mir die Rede von Opa gefallen. Er hat ein [[7]] Gedicht vorgelesen und erzählt, wie [[8]] meine Eltern vor 30 Jahren auf einem Volksfest kennengelernt haben.\n\nIm Anhang findest du ein paar Fotos, [[9]] Mama wollte unbedingt, dass du sie bekommst. Du [[10]] dich bestimmt auch über die Party gefreut. Hoffentlich bist du bald wieder gesund!\n\nLiebe Grüße\nFelix",
   "gaps": [
     {
       "n": 1,
@@ -23,14 +23,14 @@
     {
       "n": 2,
       "options": [
-        { "key": "a", "text": "rief" },
-        { "key": "b", "text": "rieft" },
-        { "key": "c", "text": "riefen" }
+        { "key": "a", "text": "kamen zurück" },
+        { "key": "b", "text": "zurückkommen" },
+        { "key": "c", "text": "zurückkamen" }
       ],
       "answer": "c",
-      "explanation": "The subject „alle“ is plural, so the Präteritum of „rufen“ is „riefen“. „rief“ is singular (ich/er/sie/es), and „rieft“ is the form for ihr.",
-      "explanationDe": "Das Subjekt „alle“ ist Plural, also heißt das Präteritum von „rufen“ hier „riefen“. „rief“ ist Singular (ich/er/sie/es), und „rieft“ ist die Form für ihr.",
-      "grammar": "praeteritum"
+      "explanation": "„Als“ starts a subordinate clause, so the conjugated verb goes to the end – and a separable verb stays in one piece there: „Als die beiden … zurückkamen“. „kamen zurück“ is main-clause word order, and „zurückkommen“ is the present tense, but the story is in the past („riefen“).",
+      "explanationDe": "„Als“ leitet einen Nebensatz ein, deshalb steht das konjugierte Verb am Ende – und ein trennbares Verb bleibt dort zusammen: „Als die beiden … zurückkamen“. „kamen zurück“ ist die Wortstellung im Hauptsatz, und „zurückkommen“ ist Präsens, aber die Geschichte spielt in der Vergangenheit („riefen“).",
+      "grammar": "trennbare-verben"
     },
     {
       "n": 3,
@@ -83,14 +83,14 @@
     {
       "n": 7,
       "options": [
-        { "key": "a", "text": "gut" },
-        { "key": "b", "text": "besten" },
-        { "key": "c", "text": "besser" }
+        { "key": "a", "text": "lustigen" },
+        { "key": "b", "text": "lustiges" },
+        { "key": "c", "text": "lustige" }
       ],
       "answer": "b",
-      "explanation": "The superlative of „gut“ is irregular: „am besten“. „besser“ is the comparative and cannot follow „am“, and „am gut“ does not exist.",
-      "explanationDe": "Der Superlativ von „gut“ ist unregelmäßig: „am besten“. „besser“ ist der Komparativ und kann nicht nach „am“ stehen, und „am gut“ gibt es nicht.",
-      "grammar": "komparation"
+      "explanation": "„das Gedicht“ is neuter. After „ein“ (accusative, no ending) the adjective has to show the gender: „ein lustiges Gedicht“. „lustigen“ would follow „einen“ (masculine), „lustige“ would follow „eine“ (feminine).",
+      "explanationDe": "„das Gedicht“ ist neutral. Nach „ein“ (Akkusativ, ohne Endung) muss das Adjektiv das Genus zeigen: „ein lustiges Gedicht“. „lustigen“ passt nach „einen“ (maskulin), „lustige“ nach „eine“ (feminin).",
+      "grammar": "adjektivdeklination"
     },
     {
       "n": 8,
@@ -137,6 +137,7 @@
     { "de": "schmücken", "en": "to decorate" },
     { "de": "die Lichterkette", "en": "string of fairy lights" },
     { "de": "die Rede", "en": "speech" },
+    { "de": "das Gedicht", "en": "poem" },
     { "de": "das Volksfest", "en": "funfair, local festival" },
     { "de": "im Anhang", "en": "attached (to an e-mail)" },
     { "de": "sich kennenlernen", "en": "to meet (each other) for the first time" }

@@ -6,11 +6,11 @@
   "topic": "bildung",
   "difficulty": 2,
   "speakers": [
-    { "id": "schulleitung", "gender": "m", "age": "adult", "role": "Durchsage in der Schule" },
-    { "id": "vhs", "name": "Frau Engel", "gender": "f", "age": "adult", "role": "Volkshochschule" },
-    { "id": "bibliothek", "gender": "f", "age": "young", "role": "Durchsage in der Universitätsbibliothek" },
-    { "id": "radio", "gender": "f", "age": "adult", "role": "Radiomoderatorin" },
-    { "id": "lehrer", "name": "Herr Mahler", "gender": "m", "age": "adult", "role": "Klassenlehrer" }
+    { "id": "schule", "gender": "f", "age": "adult", "role": "Schulleitung" },
+    { "id": "vhs", "name": "Herr Quandt", "gender": "m", "age": "adult", "role": "Volkshochschule" },
+    { "id": "mensa", "gender": "m", "age": "young", "role": "Durchsage in der Mensa" },
+    { "id": "radio", "gender": "f", "age": "young", "role": "Radiomoderatorin" },
+    { "id": "fahrschule", "name": "Frau Achterberg", "gender": "f", "age": "senior", "role": "Fahrlehrerin" }
   ],
   "intro": [],
   "items": [
@@ -18,86 +18,86 @@
       "n": 1,
       "label": "Durchsage in der Schule",
       "script": [
-        { "s": "schulleitung", "t": "Liebe Schülerinnen und Schüler, hier spricht die Schulleitung. Wegen des starken Regens fällt unser Sportfest heute leider aus." },
-        { "s": "schulleitung", "t": "Wir holen es am nächsten Dienstag nach. Heute findet für alle Klassen ganz normaler Unterricht nach Stundenplan statt. Bitte vergesst nicht, eure Sportsachen am Dienstag wieder mitzubringen." },
-        { "s": "schulleitung", "t": "Die Preise für den Lesewettbewerb verteilen wir aber wie geplant am Freitag in der Aula." }
+        { "s": "schule", "t": "Liebe Schülerinnen und Schüler, hier spricht die Schulleitung. Wegen der großen Hitze endet der Unterricht heute früher: für die Klassen 5 bis 7 nach der vierten Stunde, für alle anderen nach der fünften." },
+        { "s": "schule", "t": "Für alle, die mit dem Bus fahren, gibt es um 11 Uhr 50 einen Extrabus. Die anderen Busse fahren nach dem normalen Fahrplan." },
+        { "s": "schule", "t": "Die Arbeitsgemeinschaften am Nachmittag fallen heute alle aus. Nur der Schulchor probt wie geplant um 14 Uhr in der kühlen Aula, weil am Samstag das Sommerfest ist." }
       ],
-      "statement": "Die Schule holt das Sportfest am kommenden Freitag nach.",
-      "answer": false,
-      "explanation": "„Wir holen es am nächsten Dienstag nach.“ Friday is the day for the prizes of the reading competition.",
-      "explanationDe": "„Wir holen es am nächsten Dienstag nach.“ Am Freitag werden die Preise für den Lesewettbewerb verteilt.",
-      "evidence": "Wir holen es am nächsten Dienstag nach."
+      "statement": "Der Schulchor übt heute Nachmittag trotz der Hitze.",
+      "answer": true,
+      "explanation": "All afternoon clubs („Arbeitsgemeinschaften“) are cancelled, but „Nur der Schulchor probt wie geplant um 14 Uhr“ – 2 p.m. is in the afternoon, and „proben“ means to rehearse, to practise. The early end of lessons is about the morning timetable.",
+      "explanationDe": "Alle Arbeitsgemeinschaften am Nachmittag fallen aus, aber: „Nur der Schulchor probt wie geplant um 14 Uhr“ – das ist am Nachmittag. „Proben“ heißt üben. Das frühe Ende gilt nur für den Unterricht am Vormittag.",
+      "evidence": "Nur der Schulchor probt wie geplant um 14 Uhr in der kühlen Aula"
     },
     {
       "n": 2,
       "label": "Nachricht von der Volkshochschule",
       "script": [
-        { "s": "vhs", "t": "Guten Tag, Herr Nowak, hier ist Engel von der Volkshochschule. Es geht um Ihren Spanischkurs für Anfänger." },
-        { "s": "vhs", "t": "Der Kurs beginnt leider nicht am dritten März, sondern erst eine Woche später, am zehnten März. Die Kursleiterin ist vorher im Urlaub." },
-        { "s": "vhs", "t": "Die Uhrzeit bleibt gleich, also mittwochs um 18 Uhr in Raum zwölf." },
-        { "s": "vhs", "t": "Das Kursbuch können Sie in der ersten Stunde bei der Kursleiterin kaufen." }
+        { "s": "vhs", "t": "Guten Tag, Frau Abebe, hier ist Quandt von der Volkshochschule. Es geht um Ihren Computerkurs für Einsteiger." },
+        { "s": "vhs", "t": "Der Kurs beginnt am Montag um 10 Uhr, aber nicht in Raum zwölf, sondern in Raum drei im Nebengebäude." },
+        { "s": "vhs", "t": "Wenn Sie einen eigenen Laptop haben, bringen Sie ihn gern mit. Sonst bekommen Sie im Kurs einen Computer von uns." },
+        { "s": "vhs", "t": "Und weil Sie Rentnerin sind, zahlen Sie nur 60 statt 85 Euro. Bitte zeigen Sie dafür in der ersten Stunde Ihren Rentenausweis." }
       ],
-      "statement": "Herr Nowak kann das Kursbuch in der ersten Kursstunde kaufen.",
-      "answer": true,
-      "explanation": "„Das Kursbuch können Sie in der ersten Stunde bei der Kursleiterin kaufen.“ Only the start date changes: 10 March instead of 3 March.",
-      "explanationDe": "„Das Kursbuch können Sie in der ersten Stunde bei der Kursleiterin kaufen.“ Nur der Kursbeginn ändert sich: 10. März statt 3. März.",
-      "evidence": "Das Kursbuch können Sie in der ersten Stunde bei der Kursleiterin kaufen."
+      "statement": "Frau Abebe muss für den Kurs einen eigenen Laptop mitbringen.",
+      "answer": false,
+      "explanation": "She may bring her own laptop („bringen Sie ihn gern mit“), but she doesn't have to: „Sonst bekommen Sie im Kurs einen Computer von uns.“ What she has to show is her pension card for the lower price.",
+      "explanationDe": "Sie darf ihren Laptop mitbringen („bringen Sie ihn gern mit“), aber sie muss nicht: „Sonst bekommen Sie im Kurs einen Computer von uns.“ Zeigen muss sie nur ihren Rentenausweis für den günstigeren Preis.",
+      "evidence": "Sonst bekommen Sie im Kurs einen Computer von uns."
     },
     {
       "n": 3,
-      "label": "Durchsage in der Universitätsbibliothek",
+      "label": "Durchsage in der Mensa",
       "script": [
-        { "s": "bibliothek", "t": "Liebe Besucherinnen und Besucher, bitte beachten Sie: Wegen einer Veranstaltung schließt die Bibliothek heute schon um 20 Uhr und nicht wie sonst um Mitternacht. Bitte nehmen Sie bis dahin alle Ihre Sachen aus den Schließfächern." },
-        { "s": "bibliothek", "t": "Der Lesesaal im Erdgeschoss bleibt aber bis 22 Uhr geöffnet. Bücher ausleihen können Sie dort allerdings nicht." },
-        { "s": "bibliothek", "t": "Ab morgen gelten wieder die normalen Öffnungszeiten." }
+        { "s": "mensa", "t": "Liebe Studierende, eine Information: Die Mensa im Hauptgebäude bleibt heute wegen eines Wasserschadens geschlossen. Das Mittagessen gibt es von halb zwölf bis 14 Uhr in der Cafeteria Nord." },
+        { "s": "mensa", "t": "Dort bieten wir zwei Gerichte an: einen Gemüseeintopf für 2 Euro 90 und Nudeln mit Hähnchen für 3 Euro 60 – für Gäste jeweils 2 Euro mehr." },
+        { "s": "mensa", "t": "Bitte denken Sie daran, dass Sie in der Cafeteria nur mit Ihrer Mensakarte bezahlen können. An der Kaffeebar im Eingangsbereich nehmen wir auch Bargeld an." }
       ],
-      "statement": "Heute kann man im Lesesaal bis 22 Uhr Bücher ausleihen.",
+      "statement": "Das Mittagessen in der Cafeteria Nord kann man heute auch bar bezahlen.",
       "answer": false,
-      "explanation": "The reading room is open until 22 Uhr, but „Bücher ausleihen können Sie dort allerdings nicht“. The library itself closes at 20 Uhr today.",
-      "explanationDe": "Der Lesesaal ist bis 22 Uhr geöffnet, aber „Bücher ausleihen können Sie dort allerdings nicht“. Die Bibliothek selbst schließt heute um 20 Uhr.",
-      "evidence": "Bücher ausleihen können Sie dort allerdings nicht."
+      "explanation": "In the cafeteria you can pay „nur mit Ihrer Mensakarte“ – not in cash. Cash is accepted only „An der Kaffeebar im Eingangsbereich“.",
+      "explanationDe": "In der Cafeteria zahlt man „nur mit Ihrer Mensakarte“ – Bargeld geht dort nicht. Bar bezahlen kann man nur „An der Kaffeebar im Eingangsbereich“.",
+      "evidence": "dass Sie in der Cafeteria nur mit Ihrer Mensakarte bezahlen können"
     },
     {
       "n": 4,
       "label": "Veranstaltungstipp im Radio",
       "script": [
-        { "s": "radio", "t": "Sie wissen noch nicht, was Sie nach der Schule machen wollen? Dann besuchen Sie doch am Samstag den Tag der offenen Tür an der Hochschule Talberg." },
-        { "s": "radio", "t": "Von 10 bis 15 Uhr können Sie dort mit Studierenden sprechen und sich über alle Studiengänge informieren. Führungen über den Campus gibt es um 11 und um 13 Uhr." },
-        { "s": "radio", "t": "Eine Anmeldung ist nicht nötig. Und für das Mittagessen in der Mensa bekommen Sie am Eingang einen Gutschein." }
+        { "s": "radio", "t": "Und hier ein Tipp für Kinder zwischen acht und zwölf: Im November lädt die Universität jeden Samstag um 11 Uhr zur Kinder-Uni ein. Dort erklären Professorinnen, warum der Himmel blau ist." },
+        { "s": "radio", "t": "Die Teilnahme ist kostenlos, Sie müssen Ihr Kind aber vorher im Internet anmelden. Weil der Hörsaal für den ersten Termin schon voll ist, gibt es um 13 Uhr eine zweite Vorlesung." },
+        { "s": "radio", "t": "Eltern dürfen übrigens nicht mit in den Hörsaal. Sie können in der Zeit im Café nebenan warten." }
       ],
-      "statement": "Besucher müssen sich für den Tag der offenen Tür nicht anmelden.",
-      "answer": true,
-      "explanation": "„Eine Anmeldung ist nicht nötig.“ You can simply come on Saturday between 10 and 15 Uhr.",
-      "explanationDe": "„Eine Anmeldung ist nicht nötig.“ Man kann am Samstag einfach zwischen 10 und 15 Uhr vorbeikommen.",
-      "evidence": "Eine Anmeldung ist nicht nötig."
+      "statement": "Mütter und Väter können die Vorlesung zusammen mit ihren Kindern besuchen.",
+      "answer": false,
+      "explanation": "„Eltern dürfen übrigens nicht mit in den Hörsaal.“ The parents only register their child online and wait in the café next door during the lecture.",
+      "explanationDe": "„Eltern dürfen übrigens nicht mit in den Hörsaal.“ Die Eltern melden ihr Kind nur im Internet an und warten während der Vorlesung im Café nebenan.",
+      "evidence": "Eltern dürfen übrigens nicht mit in den Hörsaal."
     },
     {
       "n": 5,
-      "label": "Nachricht vom Klassenlehrer",
+      "label": "Nachricht von der Fahrschule",
       "script": [
-        { "s": "lehrer", "t": "Guten Tag, Frau Becker, hier spricht Mahler, der Klassenlehrer Ihrer Tochter Lina. Ich rufe wegen der Klassenfahrt nach Hamburg an." },
-        { "s": "lehrer", "t": "Die Anmeldung muss bis spätestens Freitag bei mir sein. Bitte geben Sie Lina das unterschriebene Formular einfach mit in die Schule." },
-        { "s": "lehrer", "t": "Die 180 Euro für die Fahrt überweisen Sie bitte erst im nächsten Monat, die Kontonummer steht auf dem Formular. Vielen Dank!" }
+        { "s": "fahrschule", "t": "Hallo Ronja, hier ist Achterberg von der Fahrschule. Wir haben einen Termin für deine praktische Prüfung, und zwar am Donnerstag, dem zwölften März, um Viertel vor acht." },
+        { "s": "fahrschule", "t": "Wir treffen uns aber schon um Viertel nach sieben hier an der Fahrschule und fahren dann zusammen zum Prüfungsort. Am Dienstag machen wir vorher noch eine letzte Fahrstunde, um 16 Uhr wie immer." },
+        { "s": "fahrschule", "t": "Zur Prüfung brauchst du unbedingt deinen Personalausweis. Und wenn du beim Fahren eine Brille trägst, vergiss sie bitte nicht." }
       ],
-      "statement": "Frau Becker soll das Geld für die Klassenfahrt erst später überweisen.",
+      "statement": "Am Prüfungstag soll Ronja eine halbe Stunde vor der Prüfung an der Fahrschule sein.",
       "answer": true,
-      "explanation": "Only the signed form must be there by Friday. The 180 Euro „überweisen Sie bitte erst im nächsten Monat“.",
-      "explanationDe": "Nur das unterschriebene Formular muss bis Freitag da sein. Die 180 Euro „überweisen Sie bitte erst im nächsten Monat“.",
-      "evidence": "Die 180 Euro für die Fahrt überweisen Sie bitte erst im nächsten Monat, die Kontonummer steht auf dem Formular."
+      "explanation": "The test is „um Viertel vor acht“, but they meet „schon um Viertel nach sieben hier an der Fahrschule“ – half an hour earlier. 16 Uhr is the time of the last driving lesson on Tuesday.",
+      "explanationDe": "Die Prüfung ist „um Viertel vor acht“, aber sie treffen sich „schon um Viertel nach sieben hier an der Fahrschule“ – also eine halbe Stunde vorher. 16 Uhr ist die Zeit der letzten Fahrstunde am Dienstag.",
+      "evidence": "Wir treffen uns aber schon um Viertel nach sieben hier an der Fahrschule"
     }
   ],
   "glossary": [
-    { "de": "ausfallen", "en": "to be cancelled" },
-    { "de": "nachholen", "en": "to make up for, to hold later" },
-    { "de": "der Stundenplan", "en": "timetable" },
-    { "de": "der Wettbewerb", "en": "competition" },
-    { "de": "die Kursleiterin", "en": "(female) course teacher" },
-    { "de": "der Lesesaal", "en": "reading room" },
-    { "de": "das Schließfach", "en": "locker" },
-    { "de": "der Studiengang", "en": "degree programme" },
-    { "de": "die Führung", "en": "guided tour" },
-    { "de": "der Gutschein", "en": "voucher" },
-    { "de": "die Klassenfahrt", "en": "school trip" },
-    { "de": "überweisen", "en": "to transfer (money)" }
+    { "de": "die Hitze", "en": "heat" },
+    { "de": "die Arbeitsgemeinschaft", "en": "(school) club, after-school activity" },
+    { "de": "proben", "en": "to rehearse" },
+    { "de": "der Einsteiger", "en": "beginner" },
+    { "de": "das Nebengebäude", "en": "annex, side building" },
+    { "de": "der Rentenausweis", "en": "pensioner's card" },
+    { "de": "der Wasserschaden", "en": "water damage" },
+    { "de": "der Eintopf", "en": "stew" },
+    { "de": "das Bargeld", "en": "cash" },
+    { "de": "der Hörsaal", "en": "lecture hall" },
+    { "de": "die Vorlesung", "en": "lecture" },
+    { "de": "die praktische Prüfung", "en": "practical (driving) test" }
   ]
 }

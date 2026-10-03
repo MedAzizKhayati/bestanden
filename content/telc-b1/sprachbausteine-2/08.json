@@ -16,103 +16,106 @@
       "Abholung in Leipzig-Gohlis, Tel. 0341 9927164 (ab 18 Uhr)"
     ]
   },
-  "text": "Guten Tag,\n\nich habe Ihre Anzeige auf einem Online-Flohmarkt gesehen und interessiere mich für das Trekkingrad. Ich bin gerade nach Leipzig gezogen und [[1]] dringend ein Fahrrad für den Weg zur Arbeit.\n\nAllerdings habe ich noch ein paar Fragen. Ich bin 1,68 Meter groß. Meinen Sie, dass die Rahmenhöhe [[2]] mich passt? Und hat das Fahrrad irgendwelche Schäden? Es wäre [[3]], wenn Sie mir ein paar Fotos schicken könnten.\n\nDer Preis ist für mich ein bisschen zu [[4]]. Wären Sie auch mit 230 Euro [[5]]? Ich würde das Fahrrad bar bezahlen und könnte es schon am Wochenende [[6]].\n\nVorher möchte ich natürlich eine kleine Probefahrt machen. [[7]] es Ihnen passt, komme ich am Samstagvormittag vorbei. Ich wohne nicht weit [[8]] Gohlis entfernt.\n\nIn der Anzeige steht, dass Sie erst ab 18 Uhr telefonisch [[9]] sind. Deshalb schreibe ich Ihnen lieber eine E-Mail. Falls Sie das Fahrrad [[10]] verkauft haben, sagen Sie mir bitte kurz Bescheid.\n\nFreundliche Grüße\nAndreas Wolff",
+  "text": "Guten Tag,\n\nich habe Ihre Anzeige auf einem Online-Flohmarkt gesehen und interessiere mich [[1]] das Trekkingrad. Ich bin gerade nach Leipzig gezogen und brauche dringend ein Fahrrad für den Weg zur Arbeit, [[2]] die Straßenbahn morgens immer völlig überfüllt ist und ich deshalb schon zweimal zu spät gekommen bin.\n\nAllerdings habe ich noch ein paar Fragen. Ich bin 1,68 Meter groß. Meinen Sie, dass die Rahmenhöhe von 50 Zentimetern [[3]] meiner Körpergröße passt? Hat das Fahrrad außerdem irgendwelche Schäden, zum Beispiel Kratzer oder Rost? Es wäre sehr [[4]], wenn Sie mir ein paar Fotos schicken könnten. Und haben Sie für das Fahrradschloss, das laut Anzeige dabei ist, noch beide Schlüssel?\n\nDer Preis ist für mich ein bisschen zu [[5]]. Wären Sie auch [[6]] 230 Euro einverstanden? Ich kann bar bezahlen und das Fahrrad schon am Wochenende abholen.\n\nVorher [[7]] ich natürlich gern eine kleine Probefahrt machen. [[8]] es Ihnen passt, komme ich am Samstagvormittag vorbei. Ich wohne nur zehn Minuten von Gohlis entfernt.\n\nIn der Anzeige steht, dass Sie erst ab 18 Uhr telefonisch [[9]] sind. Deshalb schreibe ich Ihnen lieber eine E-Mail. Falls Sie das Fahrrad [[10]] verkauft haben, sagen Sie mir bitte kurz Bescheid.\n\nFreundliche Grüße\nAndreas Wolff",
   "words": [
-    { "key": "a", "text": "abholen" },
-    { "key": "b", "text": "bis" },
-    { "key": "c", "text": "brauche" },
-    { "key": "d", "text": "einverstanden" },
-    { "key": "e", "text": "erreichbar" },
-    { "key": "f", "text": "erreicht" },
-    { "key": "g", "text": "für" },
-    { "key": "h", "text": "hoch" },
-    { "key": "i", "text": "inzwischen" },
-    { "key": "j", "text": "nett" },
-    { "key": "k", "text": "niedrig" },
-    { "key": "l", "text": "ob" },
-    { "key": "m", "text": "verkaufen" },
-    { "key": "n", "text": "von" },
-    { "key": "o", "text": "wenn" }
+    { "key": "a", "text": "an" },
+    { "key": "b", "text": "damit" },
+    { "key": "c", "text": "erreichbar" },
+    { "key": "d", "text": "für" },
+    { "key": "e", "text": "hoch" },
+    { "key": "f", "text": "inzwischen" },
+    { "key": "g", "text": "mit" },
+    { "key": "h", "text": "nett" },
+    { "key": "i", "text": "niedrig" },
+    { "key": "j", "text": "obwohl" },
+    { "key": "k", "text": "sollte" },
+    { "key": "l", "text": "weil" },
+    { "key": "m", "text": "wenn" },
+    { "key": "n", "text": "würde" },
+    { "key": "o", "text": "zu" }
   ],
   "gaps": [
     {
       "n": 1,
-      "answer": "c",
-      "explanation": "He has just moved and has no bike, so he needs one urgently: „brauche dringend ein Fahrrad“. „verkaufen“ makes no sense for the buyer (and would need the form „verkaufe“).",
-      "explanationDe": "Er ist gerade umgezogen und hat kein Fahrrad, deshalb braucht er dringend eins: „brauche dringend ein Fahrrad“. „verkaufen“ ergibt für den Käufer keinen Sinn (und man bräuchte die Form „verkaufe“)."
+      "answer": "d",
+      "explanation": "„sich interessieren für“ + accusative: „interessiere mich für das Trekkingrad“. „an“ is the trap – it belongs to the noun („Interesse an“), not to the verb.",
+      "explanationDe": "„sich interessieren für“ + Akkusativ: „interessiere mich für das Trekkingrad“. „an“ ist die Falle – es gehört zum Nomen („Interesse an“), nicht zum Verb.",
+      "grammar": "verben-mit-praepositionen"
     },
     {
       "n": 2,
-      "answer": "g",
-      "explanation": "He asks whether the frame size is right for his height: „dass die Rahmenhöhe für mich passt“ – „für“ + accusative „mich“.",
-      "explanationDe": "Er fragt, ob die Rahmenhöhe zu seiner Körpergröße passt: „dass die Rahmenhöhe für mich passt“ – „für“ + Akkusativ „mich“.",
-      "grammar": "praepositionen-mit-kasus"
+      "answer": "l",
+      "explanation": "The full trams are the reason why he urgently needs a bike; the verbs are at the end („ist“, „gekommen bin“), so „weil“. „obwohl“ has the same word order but expresses a contrast, and „damit“ a purpose – the trams are not full so that he needs a bike.",
+      "explanationDe": "Die vollen Straßenbahnen sind der Grund, warum er dringend ein Fahrrad braucht; die Verben stehen am Ende („ist“, „gekommen bin“), also „weil“. „obwohl“ hat dieselbe Wortstellung, drückt aber einen Gegensatz aus, und „damit“ ein Ziel – die Bahnen sind nicht voll, damit er ein Fahrrad braucht.",
+      "grammar": "kausale-konsekutive-saetze"
     },
     {
       "n": 3,
-      "answer": "j",
-      "explanation": "„Es wäre nett, wenn Sie …“ (It would be kind if you …) is a polite way to ask for something.",
-      "explanationDe": "„Es wäre nett, wenn Sie …“ ist eine höfliche Art, um etwas zu bitten.",
-      "grammar": "konjunktiv-2"
+      "answer": "o",
+      "explanation": "„zu etwas passen“ + dative (to suit / to match): „dass die Rahmenhöhe … zu meiner Körpergröße passt“. „für“ would need the accusative („für meine Größe“), and „mit“ does not combine with „passen“ in this meaning.",
+      "explanationDe": "„zu etwas passen“ + Dativ: „dass die Rahmenhöhe … zu meiner Körpergröße passt“. „für“ bräuchte den Akkusativ („für meine Größe“), und „mit“ passt in dieser Bedeutung nicht zu „passen“.",
+      "grammar": "praepositionen-mit-kasus"
     },
     {
       "n": 4,
       "answer": "h",
-      "explanation": "In German a price is „hoch“ or „niedrig“. He wants to pay less (he offers 230 Euro), so the price is „zu hoch“ – „zu niedrig“ would mean the opposite.",
-      "explanationDe": "Im Deutschen ist ein Preis „hoch“ oder „niedrig“. Er möchte weniger bezahlen (er bietet 230 Euro), also ist der Preis „zu hoch“ – „zu niedrig“ würde das Gegenteil bedeuten."
+      "explanation": "„Es wäre sehr nett, wenn Sie …“ is a polite Konjunktiv II request. „hoch“ and „niedrig“ describe prices and amounts, not a favour.",
+      "explanationDe": "„Es wäre sehr nett, wenn Sie …“ ist eine höfliche Bitte im Konjunktiv II. „hoch“ und „niedrig“ beschreiben Preise und Mengen, keine Gefälligkeit.",
+      "grammar": "konjunktiv-2"
     },
     {
       "n": 5,
-      "answer": "d",
-      "explanation": "„mit etwas einverstanden sein“ means „to agree to something“: „Wären Sie auch mit 230 Euro einverstanden?“",
-      "explanationDe": "„mit etwas einverstanden sein“ (= etwas akzeptieren, Ja zu etwas sagen): „Wären Sie auch mit 230 Euro einverstanden?“",
-      "grammar": "adjektive-mit-praepositionen"
+      "answer": "e",
+      "explanation": "Prices are „hoch“ or „niedrig“. In the next sentence he offers 230 instead of 280 euros, so the price is too high for him: „ein bisschen zu hoch“. „niedrig“ is grammatically possible but contradicts his lower offer.",
+      "explanationDe": "Preise sind „hoch“ oder „niedrig“. Im nächsten Satz bietet er 230 statt 280 Euro an – der Preis ist ihm also zu hoch: „ein bisschen zu hoch“. „niedrig“ passt grammatisch, widerspricht aber seinem niedrigeren Angebot."
     },
     {
       "n": 6,
-      "answer": "a",
-      "explanation": "The ad says „Abholung in Leipzig-Gohlis“, so the buyer has to collect the bike: „könnte es schon am Wochenende abholen“.",
-      "explanationDe": "In der Anzeige steht „Abholung in Leipzig-Gohlis“. Der Käufer muss das Fahrrad also selbst holen: „könnte es schon am Wochenende abholen“.",
-      "grammar": "trennbare-verben"
+      "answer": "g",
+      "explanation": "„mit etwas einverstanden sein“ (to agree to something): „Wären Sie auch mit 230 Euro einverstanden?“ „für“ and „zu“ do not combine with „einverstanden“.",
+      "explanationDe": "„mit etwas einverstanden sein“ (= etwas akzeptieren): „Wären Sie auch mit 230 Euro einverstanden?“ „für“ und „zu“ passen nicht zu „einverstanden“.",
+      "grammar": "adjektive-mit-praepositionen"
     },
     {
       "n": 7,
-      "answer": "o",
-      "explanation": "„Wenn es Ihnen passt, …“ (If it suits you, …) expresses a condition. „ob“ only introduces indirect yes/no questions.",
-      "explanationDe": "„Wenn es Ihnen passt, …“ drückt eine Bedingung aus. „ob“ leitet nur indirekte Ja-/Nein-Fragen ein.",
-      "grammar": "nebensaetze-grundlagen"
+      "answer": "n",
+      "explanation": "„würde … gern“ + infinitive expresses a polite wish: „Vorher würde ich natürlich gern eine kleine Probefahrt machen.“ „sollte“ is grammatically possible, but it expresses a duty or advice and does not go with „gern“.",
+      "explanationDe": "„würde … gern“ + Infinitiv drückt einen höflichen Wunsch aus: „Vorher würde ich natürlich gern eine kleine Probefahrt machen.“ „sollte“ passt grammatisch, drückt aber eine Pflicht oder einen Rat aus und passt nicht zu „gern“.",
+      "grammar": "konjunktiv-2"
     },
     {
       "n": 8,
-      "answer": "n",
-      "explanation": "„nicht weit von … entfernt“ (not far from …) is a fixed structure with „von“ + dative.",
-      "explanationDe": "„nicht weit von … entfernt“ (= in der Nähe von …) ist eine feste Struktur mit „von“ + Dativ.",
-      "grammar": "lokale-praepositionen"
+      "answer": "m",
+      "explanation": "He does not know yet whether Saturday suits the seller, so the clause is a condition: „Wenn es Ihnen passt, komme ich … vorbei.“ „Obwohl“ and „Damit“ have the same word order but give a contrast or a purpose, which makes no sense here.",
+      "explanationDe": "Er weiß noch nicht, ob der Samstag dem Verkäufer passt – der Nebensatz ist also eine Bedingung: „Wenn es Ihnen passt, komme ich … vorbei.“ „Obwohl“ und „Damit“ haben dieselbe Wortstellung, nennen aber einen Gegensatz oder ein Ziel – das ergibt hier keinen Sinn.",
+      "grammar": "nebensaetze-grundlagen"
     },
     {
       "n": 9,
-      "answer": "e",
-      "explanation": "„telefonisch erreichbar sein“ means „to be reachable by phone“. The participle „erreicht“ does not fit here.",
-      "explanationDe": "„telefonisch erreichbar sein“ bedeutet: Man kann die Person am Telefon sprechen. Das Partizip „erreicht“ passt hier nicht.",
+      "answer": "c",
+      "explanation": "„telefonisch erreichbar sein“ means „can be reached by phone“ – the ad says „Tel. … (ab 18 Uhr)“. The adjective with „-bar“ expresses this possibility.",
+      "explanationDe": "„telefonisch erreichbar sein“ (= man kann jemanden anrufen) – in der Anzeige steht „Tel. … (ab 18 Uhr)“. Das Adjektiv mit „-bar“ drückt diese Möglichkeit aus.",
       "grammar": "wortbildung"
     },
     {
       "n": 10,
-      "answer": "i",
-      "explanation": "„inzwischen“ (in the meantime, by now): perhaps the bike has already been sold since the ad appeared.",
-      "explanationDe": "„inzwischen“ (= in der Zwischenzeit, bis jetzt): Vielleicht wurde das Fahrrad nach dem Erscheinen der Anzeige schon verkauft."
+      "answer": "f",
+      "explanation": "„inzwischen“ (in the meantime) refers to the time between the ad and his e-mail: maybe the bike has been sold already. No other word in the list fits between „das Fahrrad“ and „verkauft haben“.",
+      "explanationDe": "„inzwischen“ (= in der Zeit seit der Anzeige) – vielleicht ist das Fahrrad schon verkauft. Kein anderes Wort in der Liste passt zwischen „das Fahrrad“ und „verkauft haben“."
     }
   ],
   "glossary": [
     { "de": "der Flohmarkt", "en": "flea market" },
-    { "de": "VB (Verhandlungsbasis)", "en": "or nearest offer (price can be negotiated)" },
-    { "de": "dringend", "en": "urgently" },
+    { "de": "VB (Verhandlungsbasis)", "en": "or nearest offer" },
+    { "de": "überfüllt", "en": "overcrowded" },
     { "de": "die Rahmenhöhe", "en": "frame size (of a bike)" },
+    { "de": "zu etwas passen", "en": "to suit, to match something" },
     { "de": "der Schaden", "en": "damage" },
+    { "de": "der Kratzer", "en": "scratch" },
     { "de": "mit etwas einverstanden sein", "en": "to agree to something" },
-    { "de": "bar bezahlen", "en": "to pay cash" },
+    { "de": "bar bezahlen", "en": "to pay in cash" },
     { "de": "die Probefahrt", "en": "test ride" },
     { "de": "erreichbar", "en": "reachable" },
-    { "de": "inzwischen", "en": "in the meantime, by now" }
+    { "de": "inzwischen", "en": "in the meantime" }
   ]
 }

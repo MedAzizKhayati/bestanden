@@ -6,96 +6,98 @@
   "topic": "freizeit",
   "difficulty": 2,
   "speakers": [
-    { "id": "zoo", "gender": "f", "age": "adult", "role": "Durchsage im Tierpark" },
-    { "id": "basti", "name": "Basti", "gender": "m", "age": "young", "role": "Freund" },
     { "id": "schiff", "gender": "m", "age": "senior", "role": "Durchsage auf dem Schiff" },
-    { "id": "radio", "gender": "f", "age": "young", "role": "Radiomoderatorin" },
-    { "id": "kletterhalle", "gender": "m", "age": "adult", "role": "Telefonansage" }
+    { "id": "henrik", "name": "Henrik", "gender": "m", "age": "young", "role": "Freund" },
+    { "id": "kletterwald", "gender": "f", "age": "young", "role": "Telefonansage" },
+    { "id": "radio", "gender": "f", "age": "adult", "role": "Radiomoderatorin" },
+    { "id": "park", "gender": "m", "age": "adult", "role": "Durchsage im Freizeitpark" }
   ],
   "intro": [],
   "items": [
     {
       "n": 1,
-      "label": "Durchsage im Tierpark",
+      "label": "Durchsage auf dem Ausflugsschiff",
       "script": [
-        { "s": "zoo", "t": "Liebe Besucherinnen und Besucher, eine Information zur Fütterung der Seelöwen. Heute füttern wir die Tiere nicht wie sonst um 15 Uhr, sondern schon um halb drei." },
-        { "s": "zoo", "t": "Treffpunkt ist das große Becken gegenüber vom Spielplatz. Unsere Tierpflegerin erzählt dabei auch viel Interessantes über die Seelöwen." },
-        { "s": "zoo", "t": "Die Fütterung der Pinguine findet wie gewohnt um 16 Uhr statt." }
+        { "s": "schiff", "t": "Liebe Fahrgäste, in wenigen Minuten legen wir in Seewalden an. Wer hier aussteigen und die Burg besichtigen möchte: Das nächste Schiff zurück fährt um 15 Uhr 20, das letzte um Viertel vor sechs." },
+        { "s": "schiff", "t": "Eintrittskarten für die Burg bekommen Sie auch hier an Bord am Kiosk. Dort kosten sie 9 statt 12 Euro, allerdings nur, wenn Sie eine Rückfahrkarte für unser Schiff haben." },
+        { "s": "schiff", "t": "Alle anderen Fahrgäste bleiben bitte sitzen. Nach zehn Minuten fahren wir weiter zur Insel Rohrwerder, wo unsere Fahrt endet." }
       ],
-      "statement": "Die Seelöwen bekommen ihr Futter heute früher als sonst.",
-      "answer": true,
-      "explanation": "The sea lions are fed „nicht wie sonst um 15 Uhr, sondern schon um halb drei“ – earlier than usual. Only the penguins are fed at the usual time.",
-      "explanationDe": "Die Seelöwen werden „nicht wie sonst um 15 Uhr, sondern schon um halb drei“ gefüttert – also früher als sonst. Nur die Pinguine bekommen ihr Futter zur gewohnten Zeit.",
-      "evidence": "Heute füttern wir die Tiere nicht wie sonst um 15 Uhr, sondern schon um halb drei."
+      "statement": "Alle Fahrgäste bekommen die Karte für die Burg an Bord günstiger.",
+      "answer": false,
+      "explanation": "On board the tickets cost 9 instead of 12 Euro, but „nur, wenn Sie eine Rückfahrkarte für unser Schiff haben“ – so not for all passengers. The times 15 Uhr 20 and „Viertel vor sechs“ are the ships back.",
+      "explanationDe": "An Bord kosten die Karten 9 statt 12 Euro, aber „nur, wenn Sie eine Rückfahrkarte für unser Schiff haben“ – also nicht für alle Fahrgäste. 15 Uhr 20 und „Viertel vor sechs“ sind die Zeiten der Schiffe zurück.",
+      "evidence": "allerdings nur, wenn Sie eine Rückfahrkarte für unser Schiff haben"
     },
     {
       "n": 2,
-      "label": "Nachricht von einem Freund",
+      "label": "Nachricht auf dem Anrufbeantworter",
       "script": [
-        { "s": "basti", "t": "Hallo Carla, hier ist Basti. Es geht um unsere Wanderung am Sonntag. Wir treffen uns doch nicht bei mir, sondern um halb neun direkt am Bahnhof, am Fahrkartenautomaten." },
-        { "s": "basti", "t": "Die Fahrkarten für alle hab ich schon im Internet gekauft, darum musst du dich also nicht kümmern." },
-        { "s": "basti", "t": "Bring bitte eine Regenjacke und etwas zu essen mit, oben auf dem Berg gibt es nämlich keine Hütte. Bis Sonntag!" }
+        { "s": "henrik", "t": "Hallo Wiebke, Henrik hier. Kurz wegen Samstag: Wir fahren doch nicht mit den Rädern zum Baggersee, bei Torben ist nämlich das Fahrrad kaputt." },
+        { "s": "henrik", "t": "Wir nehmen also den Bus, und zwar den um zehn nach neun – nein, warte, der fährt am Wochenende gar nicht. Dann eben den um neun Uhr vierzig, ab Haltestelle Kirchplatz." },
+        { "s": "henrik", "t": "Getränke und was zum Grillen bring ich mit. Kannst du bitte an die Sonnencreme denken? Und an deine Badesachen!" },
+        { "s": "henrik", "t": "Wenn was ist, schreib mir einfach. Bis Samstag!" }
       ],
-      "statement": "Carla soll am Sonntag die Fahrkarten für alle kaufen.",
-      "answer": false,
-      "explanation": "Basti says „Die Fahrkarten für alle hab ich schon im Internet gekauft“, so Carla doesn't have to buy them. The ticket machine is only the meeting point.",
-      "explanationDe": "Basti sagt: „Die Fahrkarten für alle hab ich schon im Internet gekauft“, also muss Carla sie nicht kaufen. Der Fahrkartenautomat ist nur der Treffpunkt.",
-      "evidence": "Die Fahrkarten für alle hab ich schon im Internet gekauft, darum musst du dich also nicht kümmern."
+      "statement": "Wiebke soll sich um den Sonnenschutz für den Ausflug kümmern.",
+      "answer": true,
+      "explanation": "Henrik asks her: „Kannst du bitte an die Sonnencreme denken?“ – sun cream is sun protection. The drinks and the food for the barbecue are what Henrik brings himself.",
+      "explanationDe": "Henrik fragt sie: „Kannst du bitte an die Sonnencreme denken?“ – Sonnencreme ist Sonnenschutz. Getränke und Essen zum Grillen bringt Henrik selbst mit.",
+      "evidence": "Kannst du bitte an die Sonnencreme denken?"
     },
     {
       "n": 3,
-      "label": "Durchsage auf dem Schiff",
+      "label": "Telefonansage eines Kletterwalds",
       "script": [
-        { "s": "schiff", "t": "Meine Damen und Herren, in wenigen Minuten erreichen wir Meersburg. Hier haben Sie eine Stunde Aufenthalt." },
-        { "s": "schiff", "t": "Bitte seien Sie pünktlich wieder an Bord, denn um 16 Uhr 15 fahren wir weiter nach Konstanz." },
-        { "s": "schiff", "t": "Unser Restaurant auf dem Oberdeck ist noch bis 16 Uhr geöffnet. Wir wünschen Ihnen einen schönen Aufenthalt in Meersburg." }
+        { "s": "kletterwald", "t": "Herzlich willkommen beim Kletterwald Tannenhöhe! Von April bis Oktober haben wir täglich von 10 bis 19 Uhr geöffnet, der letzte Einlass ist zwei Stunden vor Schluss." },
+        { "s": "kletterwald", "t": "Kinder dürfen ab sechs Jahren mitmachen, bis zwölf Jahre aber nur zusammen mit einem Erwachsenen. Jugendliche ab dreizehn dürfen nach einer kurzen Einweisung auch allein klettern." },
+        { "s": "kletterwald", "t": "Bei Gewitter müssen wir den Park aus Sicherheitsgründen sofort schließen. Ihr Ticket können Sie dann an einem anderen Tag benutzen." }
       ],
-      "statement": "Die Fahrgäste haben in Meersburg zwei Stunden Zeit.",
+      "statement": "Ein zehnjähriges Kind darf im Kletterwald ohne Erwachsene klettern.",
       "answer": false,
-      "explanation": "„Hier haben Sie eine Stunde Aufenthalt.“ The ship continues to Konstanz at 16 Uhr 15.",
-      "explanationDe": "„Hier haben Sie eine Stunde Aufenthalt.“ Um 16 Uhr 15 fährt das Schiff weiter nach Konstanz.",
-      "evidence": "Hier haben Sie eine Stunde Aufenthalt."
+      "explanation": "Children may climb from six, but up to twelve „nur zusammen mit einem Erwachsenen“ – a ten-year-old needs an adult. Climbing alone is only allowed „ab dreizehn“.",
+      "explanationDe": "Kinder dürfen ab sechs Jahren mitmachen, bis zwölf Jahre aber „nur zusammen mit einem Erwachsenen“ – ein Kind mit zehn Jahren braucht also einen Erwachsenen. Allein klettern darf man erst „ab dreizehn“.",
+      "evidence": "bis zwölf Jahre aber nur zusammen mit einem Erwachsenen"
     },
     {
       "n": 4,
       "label": "Veranstaltungstipp im Radio",
       "script": [
-        { "s": "radio", "t": "Unser Freizeittipp für das Wochenende: Am Freitag und am Samstag gibt es wieder Kino unter freiem Himmel im Schlosspark." },
-        { "s": "radio", "t": "Die Filme beginnen, wenn es dunkel wird, also gegen halb zehn. Der Eintritt kostet 8 Euro, Kinder unter zwölf Jahren zahlen nichts." },
-        { "s": "radio", "t": "Bringen Sie am besten eine Decke mit. Und wenn es regnet, keine Sorge: Dann wird der Film in der Stadthalle gezeigt." }
+        { "s": "radio", "t": "Unser Ausflugstipp fürs Wochenende: Auf den Wiesen am Lerchenberg findet das große Drachenfest statt, am Samstag von 11 bis 18 Uhr und am Sonntag schon ab 10 Uhr." },
+        { "s": "radio", "t": "Der Eintritt ist frei, nur das Parken kostet 5 Euro. Bequemer ist sowieso der Shuttlebus: Er fährt alle zwanzig Minuten vom Bahnhof ab und ist für alle Besucher kostenlos." },
+        { "s": "radio", "t": "Und wer keinen eigenen Drachen hat, kann am Sonntag im Bastelzelt einen bauen. Das Material dafür kostet 3 Euro." }
       ],
-      "statement": "Bei Regen sehen die Zuschauer den Film in der Stadthalle.",
+      "statement": "Vom Bahnhof bis zum Festgelände fährt man gratis.",
       "answer": true,
-      "explanation": "„Und wenn es regnet, keine Sorge: Dann wird der Film in der Stadthalle gezeigt.“",
-      "explanationDe": "„Und wenn es regnet, keine Sorge: Dann wird der Film in der Stadthalle gezeigt.“",
-      "evidence": "Dann wird der Film in der Stadthalle gezeigt."
+      "explanation": "„gratis“ means „kostenlos“: the shuttle bus from the station „ist für alle Besucher kostenlos“. What costs money is parking (5 Euro) and the material for building a kite (3 Euro).",
+      "explanationDe": "„gratis“ bedeutet „kostenlos“: Der Shuttlebus vom Bahnhof „ist für alle Besucher kostenlos“. Geld kosten nur das Parken (5 Euro) und das Material für einen Drachen (3 Euro).",
+      "evidence": "ist für alle Besucher kostenlos"
     },
     {
       "n": 5,
-      "label": "Telefonansage einer Kletterhalle",
+      "label": "Durchsage im Freizeitpark",
       "script": [
-        { "s": "kletterhalle", "t": "Hallo und willkommen in der Kletterhalle Gipfelglück! Wir haben montags bis freitags von 14 bis 23 Uhr geöffnet, am Wochenende von 10 bis 22 Uhr." },
-        { "s": "kletterhalle", "t": "Für Anfänger bieten wir jeden Samstag um 11 Uhr einen Schnupperkurs an. Er dauert zwei Stunden und kostet 25 Euro, Leihschuhe inklusive." },
-        { "s": "kletterhalle", "t": "Bitte melden Sie sich dafür vorher auf unserer Internetseite an." }
+        { "s": "park", "t": "Liebe Gäste, herzlich willkommen im Freizeitpark Sonnental! Bitte beachten Sie: Unsere Wildwasserbahn ist wegen einer technischen Störung bis voraussichtlich 14 Uhr geschlossen." },
+        { "s": "park", "t": "Die große Parade beginnt heute ausnahmsweise nicht um 16 Uhr, sondern schon eine Stunde früher. Sie startet wie immer am Haupteingang und endet am Piratenschiff." },
+        { "s": "park", "t": "Die Abendshow am See findet dagegen wie geplant um 20 Uhr statt. Gute Plätze bekommen Sie dort aber meistens nur, wenn Sie eine halbe Stunde vorher da sind." }
       ],
-      "statement": "Anfänger können am Samstagvormittag einen Kurs zum Ausprobieren machen.",
-      "answer": true,
-      "explanation": "„Für Anfänger bieten wir jeden Samstag um 11 Uhr einen Schnupperkurs an“ – a taster course on Saturday morning.",
-      "explanationDe": "„Für Anfänger bieten wir jeden Samstag um 11 Uhr einen Schnupperkurs an“ – also ein Kurs zum Ausprobieren am Samstagvormittag.",
-      "evidence": "Für Anfänger bieten wir jeden Samstag um 11 Uhr einen Schnupperkurs an."
+      "statement": "Die Parade fängt heute zur gewohnten Zeit an.",
+      "answer": false,
+      "explanation": "The parade starts „nicht um 16 Uhr, sondern schon eine Stunde früher“ – at 15 Uhr, not at the usual time. Only the evening show at 20 Uhr takes place „wie geplant“.",
+      "explanationDe": "Die Parade beginnt „nicht um 16 Uhr, sondern schon eine Stunde früher“ – also um 15 Uhr und nicht wie sonst. Nur die Abendshow um 20 Uhr findet „wie geplant“ statt.",
+      "evidence": "nicht um 16 Uhr, sondern schon eine Stunde früher"
     }
   ],
   "glossary": [
-    { "de": "die Fütterung", "en": "feeding (of animals)" },
-    { "de": "der Seelöwe", "en": "sea lion" },
-    { "de": "der Treffpunkt", "en": "meeting point" },
-    { "de": "die Wanderung", "en": "hike" },
-    { "de": "sich um etwas kümmern", "en": "to take care of something" },
-    { "de": "der Aufenthalt", "en": "stop, stay" },
-    { "de": "an Bord", "en": "on board" },
-    { "de": "unter freiem Himmel", "en": "in the open air" },
-    { "de": "die Decke", "en": "blanket" },
-    { "de": "der Schnupperkurs", "en": "taster course" },
-    { "de": "sich anmelden", "en": "to register, to sign up" }
+    { "de": "anlegen", "en": "to dock, to moor (a ship)" },
+    { "de": "besichtigen", "en": "to visit, to look round" },
+    { "de": "die Rückfahrkarte", "en": "return ticket" },
+    { "de": "der Baggersee", "en": "lake in a former gravel pit" },
+    { "de": "der Einlass", "en": "admission, entry" },
+    { "de": "die Einweisung", "en": "briefing, introduction" },
+    { "de": "aus Sicherheitsgründen", "en": "for safety reasons" },
+    { "de": "der Drachen", "en": "kite" },
+    { "de": "das Festgelände", "en": "festival grounds" },
+    { "de": "basteln", "en": "to make (crafts)" },
+    { "de": "ausnahmsweise", "en": "exceptionally, for once" },
+    { "de": "voraussichtlich", "en": "probably, expected to" }
   ]
 }

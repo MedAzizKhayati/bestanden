@@ -7,95 +7,100 @@
   "difficulty": 2,
   "speakers": [
     { "id": "mod", "gender": "f", "age": "adult", "role": "Moderatorin" },
-    { "id": "daniela", "name": "Daniela", "gender": "f", "age": "adult" },
-    { "id": "florian", "name": "Florian", "gender": "m", "age": "young" },
-    { "id": "walter", "name": "Walter", "gender": "m", "age": "senior" },
-    { "id": "yvonne", "name": "Yvonne", "gender": "f", "age": "adult" },
-    { "id": "ursula", "name": "Ursula", "gender": "f", "age": "senior" }
+    { "id": "monika", "name": "Monika", "gender": "f", "age": "adult" },
+    { "id": "fabian", "name": "Fabian", "gender": "m", "age": "young" },
+    { "id": "guenter", "name": "Günter", "gender": "m", "age": "senior" },
+    { "id": "vanessa", "name": "Vanessa", "gender": "f", "age": "adult" },
+    { "id": "emre", "name": "Emre", "gender": "m", "age": "adult" }
   ],
   "intro": [
-    { "s": "mod", "t": "Gesund essen, das nehmen sich viele Menschen vor. Aber im Alltag ist das oft gar nicht so einfach." },
-    { "s": "mod", "t": "Wir haben deshalb gefragt: Wie wichtig ist Ihnen eine gesunde Ernährung?" }
+    { "s": "mod", "t": "Mehr Gemüse, weniger Zucker, öfter selbst kochen – das nehmen sich viele vor. Aber zwischen Arbeit, Kindern und Terminen bleibt davon oft nicht viel übrig." },
+    { "s": "mod", "t": "Wir haben gefragt: Wie wichtig ist Ihnen gesundes Essen, und klappt das im Alltag?" }
   ],
   "items": [
     {
       "n": 1,
       "script": [
-        { "s": "daniela", "t": "Bei uns wird jeden Abend frisch gekocht, das ist mir total wichtig. Fertiggerichte oder Tiefkühlpizza kommen bei mir nicht auf den Tisch." },
-        { "s": "daniela", "t": "Samstags gehe ich auf den Wochenmarkt und kaufe Gemüse und Obst von den Bauern aus der Region. Das schmeckt einfach besser." },
-        { "s": "daniela", "t": "Meine Kolleginnen fragen immer, wie ich das neben dem Job schaffe. Ich koche oft für zwei Tage, dann geht das ganz gut." }
+        { "s": "monika", "t": "Ich bin Krankenschwester und arbeite im Schichtdienst, auch nachts. Da ist die Versuchung natürlich groß – um drei Uhr morgens steht im Stationszimmer immer irgendwo eine Packung Kekse." },
+        { "s": "monika", "t": "Und ja, manchmal greif ich da auch zu, ich bin ja kein Roboter." },
+        { "s": "monika", "t": "Aber sonntags koch ich für die ganze Woche vor – Linsensuppe, Gemüsecurry, so was – und pack mir alles in Dosen. Dann hab ich bei der Arbeit was Richtiges dabei." },
+        { "s": "monika", "t": "Das ist ein bisschen Aufwand, klar. Aber ich merk einfach, dass ich mich viel fitter fühle." }
       ],
-      "statement": "Die Frau isst oft Fertiggerichte, weil sie wenig Zeit zum Kochen hat.",
-      "answer": false,
-      "explanation": "She cooks fresh food every evening: „Fertiggerichte oder Tiefkühlpizza kommen bei mir nicht auf den Tisch“. She saves time by cooking for two days.",
-      "explanationDe": "Sie kocht jeden Abend frisch: „Fertiggerichte oder Tiefkühlpizza kommen bei mir nicht auf den Tisch“. Zeit spart sie, indem sie für zwei Tage kocht.",
-      "evidence": "Fertiggerichte oder Tiefkühlpizza kommen bei mir nicht auf den Tisch."
+      "statement": "Trotz der Schichtarbeit achtet die Frau meistens auf ihre Ernährung.",
+      "answer": true,
+      "explanation": "She sometimes eats the biscuits on night shifts, but every Sunday „koch ich für die ganze Woche vor“ and takes proper food to work. Mostly she eats healthily.",
+      "explanationDe": "Im Nachtdienst isst sie manchmal Kekse, aber jeden Sonntag „koch ich für die ganze Woche vor“ und nimmt richtiges Essen mit zur Arbeit. Meistens isst sie also gesund.",
+      "evidence": "Aber sonntags koch ich für die ganze Woche vor"
     },
     {
       "n": 2,
       "script": [
-        { "s": "florian", "t": "Ganz ehrlich, gesund ist meine Ernährung im Moment nicht. Ich studiere und arbeite nebenbei noch in einem Lager, da bleibt kaum Zeit zum Kochen." },
-        { "s": "florian", "t": "Mittags esse ich in der Mensa, und abends gibt's oft Nudeln mit Tomatensoße oder einen Döner an der Ecke." },
-        { "s": "florian", "t": "Ich weiß, dass ich mehr Gemüse essen sollte. Vielleicht klappt das in den Semesterferien, dann hab ich mehr Zeit." }
+        { "s": "fabian", "t": "Ich war da früher richtig extrem. Ich hab jede Kalorie in einer App gezählt – kein Zucker, kein Weißbrot, nichts." },
+        { "s": "fabian", "t": "Klingt erst mal gesund, oder? War's aber irgendwie nicht. Ich hatte ständig ein schlechtes Gewissen, und wenn die Jungs Pizza bestellt haben, bin ich lieber zu Hause geblieben." },
+        { "s": "fabian", "t": "Irgendwann hab ich die App gelöscht. Jetzt ess ich unter der Woche ziemlich normal – viel Gemüse, wenig Fertigzeug – und am Wochenende eben auch mal einen Burger." },
+        { "s": "fabian", "t": "Mir geht's damit ehrlich gesagt viel besser. Essen soll ja auch Spaß machen." }
       ],
-      "statement": "Der junge Mann gibt zu, dass er sich zurzeit nicht gesund ernährt.",
+      "statement": "Der junge Mann nimmt das Thema Ernährung heute weniger streng als früher.",
       "answer": true,
-      "explanation": "He openly says „gesund ist meine Ernährung im Moment nicht“: canteen food, pasta or a kebab. He knows he should eat more vegetables.",
-      "explanationDe": "Er sagt ganz offen: „gesund ist meine Ernährung im Moment nicht“ – Mensaessen, Nudeln oder ein Döner. Er weiß, dass er mehr Gemüse essen sollte.",
-      "evidence": "Ganz ehrlich, gesund ist meine Ernährung im Moment nicht."
+      "explanation": "He used to count every calorie („richtig extrem“) and felt guilty all the time. He deleted the app: „Jetzt ess ich unter der Woche ziemlich normal“, with a burger at the weekend – he is more relaxed now.",
+      "explanationDe": "Früher hat er jede Kalorie gezählt („richtig extrem“) und hatte ständig ein schlechtes Gewissen. Dann hat er die App gelöscht: „Jetzt ess ich unter der Woche ziemlich normal“, am Wochenende auch mal einen Burger. Er ist heute lockerer.",
+      "evidence": "Jetzt ess ich unter der Woche ziemlich normal"
     },
     {
       "n": 3,
       "script": [
-        { "s": "walter", "t": "Früher gab es bei mir jeden Tag Fleisch, am liebsten Schweinebraten mit Knödeln. Dann hat mein Arzt gesagt, mein Blutdruck ist viel zu hoch." },
-        { "s": "walter", "t": "Seitdem kochen meine Frau und ich nur noch zweimal pro Woche Fleisch. Am Anfang fand ich das schrecklich, aber inzwischen schmecken mir die Gemüsegerichte richtig gut." },
-        { "s": "walter", "t": "Ich hab acht Kilo abgenommen und fühle mich viel fitter." }
+        { "s": "guenter", "t": "Ach, wissen Sie, dieses ganze Gerede über gesunde Ernährung – das geht mir auf die Nerven. Ich bin einundachtzig und hab mein Leben lang Butter, Wurst und Sahnetorte gegessen." },
+        { "s": "guenter", "t": "Jeden Tag steht was Neues in der Zeitung: Mal ist Kaffee schlecht, dann wieder gut, dann sind's die Eier." },
+        { "s": "guenter", "t": "Gut, das Gemüse aus meinem Garten ess ich natürlich gern, Bohnen, Gurken, Tomaten. Aber doch nicht wegen der Vitamine, sondern weil's einfach schmeckt!" },
+        { "s": "guenter", "t": "Nee, in meinem Alter ess ich, worauf ich Lust hab." }
       ],
-      "statement": "Der Mann isst heute noch genauso viel Fleisch wie früher.",
+      "statement": "Der Mann wählt sein Essen vor allem danach aus, was gesund ist.",
       "answer": false,
-      "explanation": "Meat every day was „früher“. Since his doctor's warning they cook meat „nur noch zweimal pro Woche“, and he now likes vegetable dishes.",
-      "explanationDe": "Fleisch jeden Tag – das war „früher“. Seit sein Arzt ihn gewarnt hat, kochen sie „nur noch zweimal pro Woche“ Fleisch, und inzwischen mag er Gemüsegerichte.",
-      "evidence": "Seitdem kochen meine Frau und ich nur noch zweimal pro Woche Fleisch."
+      "explanation": "He eats vegetables from his garden, but „nicht wegen der Vitamine, sondern weil's einfach schmeckt“. The talk about healthy eating annoys him – he eats what he likes.",
+      "explanationDe": "Er isst Gemüse aus seinem Garten, aber „nicht wegen der Vitamine, sondern weil's einfach schmeckt“. Das Gerede über gesundes Essen nervt ihn – er isst, worauf er Lust hat.",
+      "evidence": "Aber doch nicht wegen der Vitamine, sondern weil's einfach schmeckt!"
     },
     {
       "n": 4,
       "script": [
-        { "s": "yvonne", "t": "Ich kann diese ganzen Ernährungstrends nicht mehr hören. Jede Woche liest man etwas Neues, mal soll man kein Brot essen, mal keinen Zucker." },
-        { "s": "yvonne", "t": "Ich esse eigentlich alles, aber nicht zu viel. Und wenn ich Lust auf ein Stück Sahnetorte habe, dann esse ich das auch, ohne schlechtes Gewissen." },
-        { "s": "yvonne", "t": "Essen soll doch Spaß machen. Von strengen Diäten halte ich überhaupt nichts." }
+        { "s": "vanessa", "t": "Ich bin alleinerziehend mit zwei Kindern, und, na ja, das Geld ist bei uns immer knapp. Bio-Gemüse für vier Euro das Kilo – das kann ich mir echt nicht leisten." },
+        { "s": "vanessa", "t": "Aber ich hab gemerkt: Gesund heißt ja nicht automatisch teuer. Linsen, Haferflocken, Kartoffeln, Karotten – das kostet fast nichts." },
+        { "s": "vanessa", "t": "Ich geh samstags kurz vor Schluss auf den Wochenmarkt, da kriegt man das Obst oft zum halben Preis. Und dann koch ich große Portionen und frier was ein." },
+        { "s": "vanessa", "t": "Teurer als Fertigpizza ist das am Ende auch nicht, eher billiger." }
       ],
-      "statement": "Die Frau findet, dass strenge Diäten keinen Sinn haben.",
-      "answer": true,
-      "explanation": "She is tired of food trends, eats everything in moderation and says „Von strengen Diäten halte ich überhaupt nichts“.",
-      "explanationDe": "Sie hat genug von den Ernährungstrends, isst alles in Maßen und sagt: „Von strengen Diäten halte ich überhaupt nichts“.",
-      "evidence": "Von strengen Diäten halte ich überhaupt nichts."
+      "statement": "Die Frau findet, dass ihre Familie zu wenig Geld für gesunde Ernährung hat.",
+      "answer": false,
+      "explanation": "She cannot afford organic vegetables, but „Gesund heißt ja nicht automatisch teuer“: she buys cheap basics and market fruit at half price. So for her, money is no reason against healthy food.",
+      "explanationDe": "Bio-Gemüse kann sie sich nicht leisten, aber „Gesund heißt ja nicht automatisch teuer“. Sie kauft billige Grundnahrungsmittel und Obst zum halben Preis. Geld ist für sie also kein Grund gegen gesundes Essen.",
+      "evidence": "Gesund heißt ja nicht automatisch teuer."
     },
     {
       "n": 5,
       "script": [
-        { "s": "ursula", "t": "Viele Leute sagen, gesundes Essen ist zu teuer. Ich finde, das stimmt überhaupt nicht." },
-        { "s": "ursula", "t": "Ich hab einen kleinen Schrebergarten, und da wachsen Tomaten, Bohnen, Salat und Kartoffeln. Im Sommer muss ich fast kein Gemüse kaufen. Und was ich zu viel habe, verschenke ich an die Nachbarn." },
-        { "s": "ursula", "t": "Im Supermarkt nehme ich einfach das, was gerade Saison hat, das ist meistens günstig. Mit meiner kleinen Rente geht das wunderbar." }
+        { "s": "emre", "t": "Bei uns in der Firma hat die Kantine letztes Jahr komplett umgestellt. Jetzt gibt's jeden Tag zwei vegetarische Gerichte und nur noch einmal in der Woche Schnitzel." },
+        { "s": "emre", "t": "Ich war am Anfang echt sauer, das geb ich zu. Ich wollte mir schon wieder Brote von zu Hause mitnehmen." },
+        { "s": "emre", "t": "Aber dann hab ich's halt probiert, so ein Kichererbsencurry oder Gemüselasagne – und das war richtig lecker. Und nachmittags bin ich nicht mehr so müde." },
+        { "s": "emre", "t": "Also, inzwischen find ich das eine gute Sache, auch wenn ich mich aufs Schnitzel am Donnerstag immer noch freu." }
       ],
-      "statement": "Die Frau meint, dass man für gesundes Essen viel Geld braucht.",
-      "answer": false,
-      "explanation": "She disagrees with people who say healthy food is too expensive: „das stimmt überhaupt nicht“. She grows vegetables and buys what is in season – it works „mit meiner kleinen Rente“.",
-      "explanationDe": "Sie widerspricht Leuten, die sagen, gesundes Essen ist zu teuer: „das stimmt überhaupt nicht“. Sie baut selbst Gemüse an und kauft, was gerade Saison hat – das klappt „mit meiner kleinen Rente“.",
-      "evidence": "Viele Leute sagen, gesundes Essen ist zu teuer. Ich finde, das stimmt überhaupt nicht."
+      "statement": "Der Mann ist heute froh über die Veränderung in seiner Kantine.",
+      "answer": true,
+      "explanation": "At first he was „echt sauer“ about the new vegetarian dishes, but they taste good and he is less tired in the afternoon: „inzwischen find ich das eine gute Sache“.",
+      "explanationDe": "Am Anfang war er „echt sauer“ über die neuen vegetarischen Gerichte. Aber sie schmecken, und er ist nachmittags weniger müde: „inzwischen find ich das eine gute Sache“.",
+      "evidence": "inzwischen find ich das eine gute Sache"
     }
   ],
   "glossary": [
-    { "de": "die Ernährung", "en": "diet, nutrition" },
-    { "de": "sich gesund ernähren", "en": "to eat healthily" },
-    { "de": "das Fertiggericht", "en": "ready meal" },
-    { "de": "der Wochenmarkt", "en": "weekly market" },
-    { "de": "aus der Region", "en": "local, from the area" },
-    { "de": "die Mensa", "en": "university canteen" },
-    { "de": "der Blutdruck", "en": "blood pressure" },
-    { "de": "abnehmen", "en": "to lose weight" },
-    { "de": "von etwas nichts halten", "en": "to think little of something" },
-    { "de": "der Schrebergarten", "en": "allotment garden" },
-    { "de": "Saison haben", "en": "to be in season" },
-    { "de": "die Rente", "en": "pension" }
+    { "de": "der Schichtdienst", "en": "shift work" },
+    { "de": "die Versuchung", "en": "temptation" },
+    { "de": "zugreifen", "en": "to help oneself" },
+    { "de": "vorkochen", "en": "to cook in advance" },
+    { "de": "der Aufwand", "en": "effort" },
+    { "de": "ein schlechtes Gewissen haben", "en": "to feel guilty" },
+    { "de": "das Gerede", "en": "(idle) talk" },
+    { "de": "jemandem auf die Nerven gehen", "en": "to get on someone's nerves" },
+    { "de": "alleinerziehend", "en": "single (parent)" },
+    { "de": "sich etwas leisten können", "en": "to be able to afford something" },
+    { "de": "einfrieren", "en": "to freeze" },
+    { "de": "sauer sein (ugs.)", "en": "to be annoyed" }
   ]
 }

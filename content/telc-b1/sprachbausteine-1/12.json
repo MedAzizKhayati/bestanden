@@ -6,7 +6,7 @@
   "topic": "gesundheit",
   "difficulty": 3,
   "textType": "letter-formal",
-  "text": "Sehr geehrte Frau Dr. Weininger,\nsehr geehrtes Praxisteam,\n\nleider kann ich meinen Termin am Donnerstag, dem 14. November, nicht wahrnehmen. [[1]] einer kurzfristigen Dienstreise bin ich die ganze Woche in Frankfurt. Könnte der Termin auf die folgende Woche verschoben [[2]]? Am besten passt mir der Vormittag, [[3]] ich nachmittags oft Besprechungen habe.\n\nBei meinem letzten Besuch haben Sie meine Blutwerte im Labor untersuchen [[4]]. Liegen die Ergebnisse inzwischen vor? [[5]] etwas nicht in Ordnung ist, rufen Sie mich bitte auf meinem Handy an.\n\nAußerdem brauche ich ein neues Rezept. Die von Ihnen [[6]] Tabletten vertrage ich sehr gut, aber die Packung ist fast leer. Ich wäre Ihnen dankbar, wenn Sie das Rezept direkt an die Apotheke am Hauptplatz schicken [[7]]. Dann kann ich die Tabletten noch [[8]] meiner Abreise abholen.\n\nZum Schluss noch eine Frage: Meine Frau, mit [[9]] ich erst seit dem Sommer in Linz wohne, sucht eine Hausärztin. Sie hat bisher [[10]] in Linz noch in der Umgebung eine Praxis gefunden, die neue Patienten aufnimmt. Könnten Sie sie vielleicht als Patientin aufnehmen?\n\nMit freundlichen Grüßen\nGerhard Huber",
+  "text": "Sehr geehrte Frau Dr. Weininger,\nsehr geehrtes Praxisteam,\n\nleider kann ich meinen Termin am Donnerstag, dem 14. November, nicht wahrnehmen. [[1]] einer kurzfristigen Dienstreise bin ich die ganze Woche in Frankfurt. Könnte der Termin auf die folgende Woche verschoben [[2]]? Am besten passt mir der Vormittag, [[3]] ich nachmittags oft Besprechungen habe.\n\nBei meinem letzten Besuch haben Sie meine Blutwerte im Labor untersuchen [[4]]. Liegen die Ergebnisse inzwischen vor? [[5]] etwas nicht in Ordnung ist, rufen Sie [[6]] bitte auf meinem Handy an.\n\nAußerdem brauche ich ein neues Rezept. Die von Ihnen [[7]] Tabletten vertrage ich sehr gut, aber die Packung ist fast leer. Ich wäre Ihnen dankbar, wenn Sie das Rezept direkt an die Apotheke am Hauptplatz schicken [[8]]. Dann kann ich die Tabletten noch [[9]] meiner Abreise abholen.\n\nZum Schluss noch eine Frage: Meine Frau, mit [[10]] ich im Sommer nach Linz gezogen bin, sucht eine Hausärztin. Sie hat bisher weder in Linz noch in der Umgebung eine Praxis gefunden, die neue Patienten aufnimmt. Könnten Sie sie vielleicht als Patientin aufnehmen?\n\nMit freundlichen Grüßen\nGerhard Huber",
   "gaps": [
     {
       "n": 1,
@@ -71,6 +71,18 @@
     {
       "n": 6,
       "options": [
+        { "key": "a", "text": "mich" },
+        { "key": "b", "text": "mir" },
+        { "key": "c", "text": "Ihnen" }
+      ],
+      "answer": "a",
+      "explanation": "„anrufen“ takes the accusative (Wen rufen Sie an?): „rufen Sie mich … an“. „mir“ is a very common mistake – the dative does not fit „anrufen“. „Ihnen“ would mean the doctor herself, but Herr Huber wants to be called.",
+      "explanationDe": "Nach „anrufen“ steht der Akkusativ (Wen rufen Sie an?): „rufen Sie mich … an“. „mir“ ist ein sehr häufiger Fehler – der Dativ passt nicht zu „anrufen“. „Ihnen“ wäre die Ärztin selbst, aber Herr Huber möchte angerufen werden.",
+      "grammar": "pronomen"
+    },
+    {
+      "n": 7,
+      "options": [
         { "key": "a", "text": "verschriebenen" },
         { "key": "b", "text": "verschreibenden" },
         { "key": "c", "text": "verschrieben" }
@@ -81,7 +93,7 @@
       "grammar": "partizip-als-adjektiv"
     },
     {
-      "n": 7,
+      "n": 8,
       "options": [
         { "key": "a", "text": "werden" },
         { "key": "b", "text": "wurden" },
@@ -93,7 +105,7 @@
       "grammar": "konjunktiv-2"
     },
     {
-      "n": 8,
+      "n": 9,
       "options": [
         { "key": "a", "text": "seit" },
         { "key": "b", "text": "vor" },
@@ -105,7 +117,7 @@
       "grammar": "temporale-praepositionen"
     },
     {
-      "n": 9,
+      "n": 10,
       "options": [
         { "key": "a", "text": "der" },
         { "key": "b", "text": "die" },
@@ -115,18 +127,6 @@
       "explanation": "„mit“ takes the dative, and the relative pronoun refers to „meine Frau“ (feminine): „mit der“. „die“ is nominative/accusative, and „dem“ would be masculine or neuter.",
       "explanationDe": "Nach „mit“ steht der Dativ, und das Relativpronomen bezieht sich auf „meine Frau“ (feminin): „mit der“. „die“ ist Nominativ/Akkusativ, und „dem“ wäre maskulin oder neutral.",
       "grammar": "relativsaetze"
-    },
-    {
-      "n": 10,
-      "options": [
-        { "key": "a", "text": "sowohl" },
-        { "key": "b", "text": "entweder" },
-        { "key": "c", "text": "weder" }
-      ],
-      "answer": "c",
-      "explanation": "„weder … noch“ = neither … nor. The second part „noch in der Umgebung“ shows that the first part must be „weder“. „sowohl“ goes with „als auch“, and „entweder“ with „oder“.",
-      "explanationDe": "„weder … noch“ = nicht das eine und auch nicht das andere. Der zweite Teil „noch in der Umgebung“ zeigt, dass der erste Teil „weder“ sein muss. „sowohl“ gehört zu „als auch“, und „entweder“ zu „oder“.",
-      "grammar": "zweiteilige-konnektoren"
     }
   ],
   "glossary": [

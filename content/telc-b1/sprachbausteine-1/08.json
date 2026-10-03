@@ -6,7 +6,7 @@
   "topic": "technik",
   "difficulty": 2,
   "textType": "email-semiformal",
-  "text": "Sehr geehrter Herr Albrecht,\n\nich besuche seit September Ihren Kurs „Computer für Einsteiger“ an der Volkshochschule. Letzten Dienstag [[1]] ich leider nicht kommen, weil mein Sohn hohes Fieber hatte.\n\nEin [[2]] von mir, der auch in Ihrem Kurs ist, hat mir erzählt, dass an diesem Abend [[3]] wurde, wie man Fotos vom Handy auf den Computer überträgt. Könnten Sie mir vielleicht die Arbeitsblätter [[4]] letzten Stunde schicken? Ich möchte das Thema gern zu Hause wiederholen, [[5]] nächste Woche gut mitarbeiten zu können.\n\nAußerdem habe ich ein Problem mit meinem Laptop: Seit ich das neue Schreibprogramm installiert habe, startet [[6]] sehr langsam. Wissen Sie, [[7]] das liegen kann? [[8]] es möglich, dass ich den Laptop nächste Woche mitbringe und Sie ihn sich nach dem Unterricht kurz ansehen?\n\nMein Mann interessiert sich übrigens auch für einen [[9]] Kurs. Gibt es im Frühjahr wieder einen Anfängerkurs, an [[10]] er teilnehmen kann?\n\nVielen Dank im Voraus!\n\nMit freundlichen Grüßen\nEwa Nowak",
+  "text": "Sehr geehrter Herr Albrecht,\n\nich besuche seit September Ihren Kurs „Computer für Einsteiger“ an der Volkshochschule. Letzten Dienstag [[1]] ich leider nicht kommen, [[2]] mein Sohn hohes Fieber hatte.\n\nEin Kollege von mir, der auch in Ihrem Kurs ist, hat mir erzählt, dass an diesem Abend erklärt [[3]], wie man Fotos vom Handy auf den Computer überträgt. Könnten Sie mir vielleicht die Arbeitsblätter [[4]] letzten Stunde schicken? Ich möchte das Thema gern zu Hause wiederholen, [[5]] nächste Woche gut mitarbeiten zu können.\n\nAußerdem habe ich ein Problem mit meinem Laptop: Seit ich das neue Schreibprogramm installiert habe, startet [[6]] sehr langsam. Wissen Sie, [[7]] das liegen kann? [[8]] es möglich, dass ich den Laptop nächste Woche mitbringe und Sie ihn sich nach dem Unterricht kurz ansehen?\n\nMein Mann interessiert sich übrigens auch für einen [[9]] Kurs. Gibt es im Frühjahr wieder einen Anfängerkurs, an [[10]] er teilnehmen kann?\n\nVielen Dank im Voraus!\n\nMit freundlichen Grüßen\nEwa Nowak",
   "gaps": [
     {
       "n": 1,
@@ -23,25 +23,25 @@
     {
       "n": 2,
       "options": [
-        { "key": "a", "text": "Kollege" },
-        { "key": "b", "text": "Kollegen" },
-        { "key": "c", "text": "Kollegens" }
+        { "key": "a", "text": "denn" },
+        { "key": "b", "text": "weil" },
+        { "key": "c", "text": "deshalb" }
       ],
-      "answer": "a",
-      "explanation": "„Ein … von mir“ is the subject of the sentence (nominative singular). n-nouns like „der Kollege“ have no „-n“ only in the nominative singular: „ein Kollege“. „Kollegen“ would be accusative, dative, genitive or plural.",
-      "explanationDe": "„Ein … von mir“ ist das Subjekt des Satzes (Nominativ Singular). n-Nomen wie „der Kollege“ haben nur im Nominativ Singular kein „-n“: „ein Kollege“. „Kollegen“ wäre Akkusativ, Dativ, Genitiv oder Plural.",
-      "grammar": "n-deklination"
+      "answer": "b",
+      "explanation": "The verb „hatte“ is at the end of the clause, so you need the subordinating conjunction „weil“. „denn“ would need main-clause word order („denn mein Sohn hatte …“), and „deshalb“ would need the verb right after it – and it introduces a consequence, not a reason.",
+      "explanationDe": "Das Verb „hatte“ steht am Ende des Satzes. Du brauchst also die Konjunktion „weil“. Nach „denn“ käme die Wortstellung vom Hauptsatz („denn mein Sohn hatte …“), und nach „deshalb“ müsste das Verb direkt folgen – außerdem nennt „deshalb“ eine Folge, keinen Grund.",
+      "grammar": "kausale-konsekutive-saetze"
     },
     {
       "n": 3,
       "options": [
-        { "key": "a", "text": "erklären" },
-        { "key": "b", "text": "erklärte" },
-        { "key": "c", "text": "erklärt" }
+        { "key": "a", "text": "worden" },
+        { "key": "b", "text": "hat" },
+        { "key": "c", "text": "wurde" }
       ],
       "answer": "c",
-      "explanation": "Passiv = „werden“ + Partizip II. The participle of „erklären“ is „erklärt“ (no „ge-“ because of the prefix „er-“): „dass … erklärt wurde“. The infinitive and the Präteritum form cannot be combined with „wurde“.",
-      "explanationDe": "Passiv = „werden“ + Partizip II. Das Partizip II von „erklären“ heißt „erklärt“ (ohne „ge-“ wegen des Präfixes „er-“): „dass … erklärt wurde“. Der Infinitiv und die Präteritumform passen nicht zu „wurde“.",
+      "explanation": "Nobody is named who explained something – the sentence is in the Passiv: Präteritum of „werden“ + Partizip II, „dass … erklärt wurde“. „worden“ only works together with „ist“ („erklärt worden ist“), and „hat“ would need a subject who did the explaining.",
+      "explanationDe": "Es wird keine Person genannt, die etwas erklärt hat – der Satz steht im Passiv: Präteritum von „werden“ + Partizip II, „dass … erklärt wurde“. „worden“ geht nur zusammen mit „ist“ („erklärt worden ist“), und „hat“ bräuchte ein Subjekt, das etwas erklärt hat.",
       "grammar": "passiv"
     },
     {

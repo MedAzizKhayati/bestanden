@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test";
 import { audioKey } from "@/lib/audio/audio-key";
 import { spokenInstruction, withNarrator } from "@/lib/audio/narrator";
 import { assignVoices, speakerProfiles, voiceTier } from "@/lib/audio/speech";
+import { numberWords, spokenNumbers } from "@/lib/audio/spoken-numbers";
 import { neuralVoiceFor } from "@/lib/audio/voice-map";
 
 const voice = (name: string, localService = true) =>
@@ -77,5 +78,25 @@ describe("recordings and neural voices", () => {
     expect(neuralVoiceFor("openai", f(0))).not.toBe(neuralVoiceFor("openai", f(1)));
     expect(neuralVoiceFor("openai", f(0), { f: "sage" })).toBe("sage");
     expect(neuralVoiceFor("openai", f(1), { f: "sage" })).not.toBe("sage");
+  });
+});
+
+describe("spoken numbers for pre-rendered voices", () => {
+  test("number words", () => {
+    expect([0, 1, 16, 21, 30, 101, 199, 1001, 2026, 74250].map(numberWords)).toEqual([
+      "null", "eins", "sechzehn", "einundzwanzig", "dreißig", "einhunderteins", "einhundertneunundneunzig", "eintausendeins",
+      "zweitausendsechsundzwanzig", "vierundsiebzigtausendzweihundertfünfzig",
+    ]);
+  });
+
+  test("times, prices, phone numbers, ordinals, ranges and years", () => {
+    expect(spokenNumbers("Der Zug fährt um 18 Uhr 30 von Gleis 7.")).toBe("Der Zug fährt um achtzehn Uhr dreißig von Gleis sieben.");
+    expect(spokenNumbers("Abfahrt 9.05 Uhr, Ankunft 1:00")).toBe("Abfahrt neun Uhr fünf, Ankunft ein Uhr");
+    expect(spokenNumbers("Das kostet 12,50 Euro, die Tüte 0,20 €.")).toBe("Das kostet zwölf Euro fünfzig, die Tüte zwanzig Cent.");
+    expect(spokenNumbers("Rufen Sie 0 6 9 – 4 4 2 1 7 an.")).toBe("Rufen Sie null sechs neun – vier vier zwei eins sieben an.");
+    expect(spokenNumbers("Am 14. Dezember im 3. Stock, der 1. Preis")).toBe("Am vierzehnten Dezember im dritten Stock, der erste Preis");
+    expect(spokenNumbers("geöffnet 9–17 Uhr, seit 1998, 20 % billiger, 1.250 Gäste")).toBe(
+      "geöffnet neun bis siebzehn Uhr, seit neunzehnhundertachtundneunzig, zwanzig Prozent billiger, eintausendzweihundertfünfzig Gäste",
+    );
   });
 });

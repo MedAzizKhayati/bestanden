@@ -7,94 +7,100 @@
   "difficulty": 3,
   "speakers": [
     { "id": "mod", "gender": "f", "age": "adult", "role": "Moderatorin" },
-    { "id": "gabriele", "name": "Gabriele", "gender": "f", "age": "senior" },
-    { "id": "sven", "name": "Sven", "gender": "m", "age": "adult" },
-    { "id": "melissa", "name": "Melissa", "gender": "f", "age": "young" },
-    { "id": "heinz", "name": "Heinz", "gender": "m", "age": "senior" },
-    { "id": "johanna", "name": "Johanna", "gender": "f", "age": "adult" }
+    { "id": "irmgard", "name": "Irmgard", "gender": "f", "age": "senior" },
+    { "id": "matthias", "name": "Matthias", "gender": "m", "age": "adult" },
+    { "id": "nadine", "name": "Nadine", "gender": "f", "age": "young" },
+    { "id": "dieter", "name": "Dieter", "gender": "m", "age": "senior" },
+    { "id": "marion", "name": "Marion", "gender": "f", "age": "adult" }
   ],
   "intro": [
-    { "s": "mod", "t": "Ohne Ehrenamtliche würde in Deutschland vieles nicht funktionieren, vom Sportverein bis zur Feuerwehr." },
-    { "s": "mod", "t": "Wir wollten von Ihnen wissen: Engagieren Sie sich ehrenamtlich, und was bringt Ihnen das?" }
+    { "s": "mod", "t": "Sie trainieren Fußballmannschaften, sortieren Lebensmittel oder lesen im Altenheim vor – Millionen Menschen in Deutschland arbeiten ehrenamtlich, also ohne Bezahlung." },
+    { "s": "mod", "t": "Wir wollten wissen: Engagieren Sie sich freiwillig, und was bringt Ihnen das persönlich?" }
   ],
   "items": [
     {
       "n": 1,
       "script": [
-        { "s": "gabriele", "t": "Seit ich in Rente bin, bin ich Vorlesepatin in unserer Stadtbibliothek. Jeden Dienstagnachmittag sitze ich da mit einer Gruppe von Grundschulkindern und lese ihnen Geschichten vor." },
-        { "s": "gabriele", "t": "Ehrlich gesagt hab ich am Anfang nur mitgemacht, weil mir zu Hause die Decke auf den Kopf gefallen ist." },
-        { "s": "gabriele", "t": "Aber wenn die Kleinen mit großen Augen zuhören und hinterher Fragen stellen, das ist unbezahlbar. Ich bekomme da viel mehr zurück, als ich gebe." }
+        { "s": "irmgard", "t": "Ich bin jeden zweiten Samstag im Reparaturcafé im Stadtteilzentrum. Ich sitz da an der Nähmaschine – Hosen kürzen, Reißverschlüsse, solche Sachen." },
+        { "s": "irmgard", "t": "Angefangen hab ich, nachdem mein Mann gestorben ist. Da war die Wohnung plötzlich so still, und die Wochenenden waren ewig lang." },
+        { "s": "irmgard", "t": "Gut, manche Leute behandeln uns wie eine kostenlose Schneiderei, die sagen nicht mal danke. Da ärger ich mich schon." },
+        { "s": "irmgard", "t": "Aber ehrlich – ohne diese Samstage wüsste ich gar nicht, wofür ich am Freitagabend die Bluse bügle. Die Leute dort sind mir richtig ans Herz gewachsen." }
       ],
-      "statement": "Die Frau hat das Gefühl, dass sie mehr gibt, als sie zurückbekommt.",
-      "answer": false,
-      "explanation": "It is the other way round: „Ich bekomme da viel mehr zurück, als ich gebe.“ She started out of boredom, but now finds the reading sessions „unbezahlbar“.",
-      "explanationDe": "Es ist umgekehrt: „Ich bekomme da viel mehr zurück, als ich gebe.“ Angefangen hat sie aus Langeweile, aber jetzt findet sie die Vorlesestunden „unbezahlbar“.",
-      "evidence": "Ich bekomme da viel mehr zurück, als ich gebe."
+      "statement": "Trotz einiger unfreundlicher Besucher ist das Ehrenamt für die Frau sehr wertvoll.",
+      "answer": true,
+      "explanation": "Some visitors do not even say thank you, which annoys her. But „ohne diese Samstage wüsste ich gar nicht, wofür ich am Freitagabend die Bluse bügle“, and the people there are dear to her – the volunteer work means a lot to her.",
+      "explanationDe": "Manche Besucher sagen nicht mal danke, das ärgert sie. Aber „ohne diese Samstage wüsste ich gar nicht, wofür ich am Freitagabend die Bluse bügle“, und die Leute sind ihr „ans Herz gewachsen“. Das Ehrenamt ist für sie also sehr wertvoll.",
+      "evidence": "ohne diese Samstage wüsste ich gar nicht, wofür ich am Freitagabend die Bluse bügle"
     },
     {
       "n": 2,
       "script": [
-        { "s": "sven", "t": "Ich bin seit meinem sechzehnten Lebensjahr bei der Freiwilligen Feuerwehr in unserem Dorf. Bei uns gibt es keine Berufsfeuerwehr, also müssen wir das machen." },
-        { "s": "sven", "t": "Klar, wenn um drei Uhr nachts der Alarm kommt und ich am nächsten Morgen arbeiten muss, dann frag ich mich schon manchmal, warum ich mir das antue." },
-        { "s": "sven", "t": "Aber wenn wir dann jemandem helfen konnten, weiß ich wieder, warum. Solange ich gesund bin, mache ich auf jeden Fall weiter." }
+        { "s": "matthias", "t": "Ich trainier seit acht Jahren eine Jugendmannschaft im Fußballverein. Die Jungs sind toll – wenn die nach einem Sieg strahlen, das ist unbezahlbar." },
+        { "s": "matthias", "t": "Aber die Eltern … Jeder Vater weiß es besser, und nach jedem Spiel krieg ich Nachrichten, warum sein Sohn nur auf der Bank saß." },
+        { "s": "matthias", "t": "Früher hab ich gedacht, das gehört halt dazu. Inzwischen kostet mich das mehr Nerven als meine ganze Arbeitswoche." },
+        { "s": "matthias", "t": "Ich hab dem Vorstand schon Bescheid gesagt: Nach dieser Saison soll das jemand anders machen. Schade um die Kinder, aber so geht's nicht weiter." }
       ],
-      "statement": "Der Mann will wegen der Einsätze in der Nacht bald mit der Feuerwehr aufhören.",
+      "statement": "Der Mann will trotz der schwierigen Eltern weiter als Trainer arbeiten.",
       "answer": false,
-      "explanation": "Night alarms sometimes make him ask himself why he does it, but he clearly says: „Solange ich gesund bin, mache ich auf jeden Fall weiter.“",
-      "explanationDe": "Wenn nachts der Alarm kommt, fragt er sich manchmal, warum er das macht, aber er sagt ganz klar: „Solange ich gesund bin, mache ich auf jeden Fall weiter.“",
-      "evidence": "Solange ich gesund bin, mache ich auf jeden Fall weiter."
+      "explanation": "He loves the boys („unbezahlbar“), but the parents cost him too many nerves. He has told the club: „Nach dieser Saison soll das jemand anders machen“ – he is going to stop.",
+      "explanationDe": "Die Jungs findet er toll („unbezahlbar“), aber die Eltern kosten ihn zu viele Nerven. Er hat dem Vorstand gesagt: „Nach dieser Saison soll das jemand anders machen“ – er hört also auf.",
+      "evidence": "Nach dieser Saison soll das jemand anders machen."
     },
     {
       "n": 3,
       "script": [
-        { "s": "melissa", "t": "Letztes Jahr hab ich jeden Samstag im Tierheim geholfen, mit den Hunden spazieren gehen, Käfige sauber machen und so weiter. Das hat mir echt viel Spaß gemacht." },
-        { "s": "melissa", "t": "Aber dann kamen die Prüfungen an der Uni, und nebenbei jobbe ich ja noch im Café. Irgendwann ging das einfach nicht mehr." },
-        { "s": "melissa", "t": "Momentan schaffe ich es leider überhaupt nicht. Aber nach dem Bachelor will ich unbedingt wieder hin." }
+        { "s": "nadine", "t": "Ganz ehrlich? Angefangen hab ich bei der Hausaufgabenhilfe nur für meinen Lebenslauf. Das macht sich halt gut bei Bewerbungen." },
+        { "s": "nadine", "t": "Ich helf da zweimal die Woche Kindern aus geflüchteten Familien bei Mathe und Deutsch. Am Anfang war ich ziemlich unsicher." },
+        { "s": "nadine", "t": "Aber wenn dann ein Junge, der vorher kaum ein Wort Deutsch konnte, plötzlich eine Zwei im Diktat schreibt – da hab ich echt Gänsehaut gekriegt." },
+        { "s": "nadine", "t": "Eigentlich wollte ich ja Betriebswirtschaft studieren. Jetzt will ich Grundschullehrerin werden – das hätte ich mir vor zwei Jahren nie vorstellen können." }
       ],
-      "statement": "Die junge Frau hat zurzeit keine Zeit für ihr Ehrenamt im Tierheim.",
+      "statement": "Durch ihre freiwillige Arbeit hat die junge Frau ein neues berufliches Ziel gefunden.",
       "answer": true,
-      "explanation": "She helped at the animal shelter „letztes Jahr“. Because of exams and her job „Momentan schaffe ich es leider überhaupt nicht“ – she wants to go back after her bachelor's degree.",
-      "explanationDe": "Im Tierheim hat sie „letztes Jahr“ geholfen. Wegen der Prüfungen und ihres Jobs sagt sie: „Momentan schaffe ich es leider überhaupt nicht“ – nach dem Bachelor will sie wieder hingehen.",
-      "evidence": "Momentan schaffe ich es leider überhaupt nicht."
+      "explanation": "She started only for her CV, but helping the children moved her so much that she changed her plans: instead of business studies, „Jetzt will ich Grundschullehrerin werden“.",
+      "explanationDe": "Sie hat nur für ihren Lebenslauf angefangen. Aber die Arbeit mit den Kindern hat sie so berührt, dass sie ihre Pläne geändert hat: Statt Betriebswirtschaft – „Jetzt will ich Grundschullehrerin werden“.",
+      "evidence": "Jetzt will ich Grundschullehrerin werden"
     },
     {
       "n": 4,
       "script": [
-        { "s": "heinz", "t": "Ich sag Ihnen ganz ehrlich, ich sehe das kritisch. Ob bei den Tafeln, in Altenheimen oder bei der Hausaufgabenhilfe, überall machen Freiwillige die Arbeit, und zwar unbezahlt." },
-        { "s": "heinz", "t": "Das ist doch eigentlich die Aufgabe vom Staat. Der spart sich das Geld, und die Leute arbeiten umsonst." },
-        { "s": "heinz", "t": "Natürlich helfe ich meiner Nachbarin, wenn sie mal was aus der Apotheke braucht. Aber das ist für mich ganz normal und kein Ehrenamt." }
+        { "s": "dieter", "t": "Ich steh jeden Dienstag bei der Tafel und geb Lebensmittel aus. Die Arbeit mach ich gern, und man wird gebraucht – das tut gut." },
+        { "s": "dieter", "t": "Aber wissen Sie, was mich wütend macht? Die Schlange wird jedes Jahr länger. Da stehen Rentnerinnen, die vierzig Jahre gearbeitet haben, und Familien mit drei Kindern." },
+        { "s": "dieter", "t": "In so einem reichen Land dürfte es so was wie die Tafel eigentlich gar nicht geben. Das wäre Aufgabe der Politik, nicht von uns Freiwilligen." },
+        { "s": "dieter", "t": "Also, ich mach weiter, klar. Aber dass man uns überhaupt braucht, das ist eigentlich traurig." }
       ],
-      "statement": "Der Mann findet es gut, dass viele soziale Aufgaben von Freiwilligen gemacht werden.",
-      "answer": false,
-      "explanation": "He is critical („ich sehe das kritisch“): „Das ist doch eigentlich die Aufgabe vom Staat.“ Helping his neighbour is normal for him, not voluntary work.",
-      "explanationDe": "Er ist kritisch („ich sehe das kritisch“): „Das ist doch eigentlich die Aufgabe vom Staat.“ Seiner Nachbarin zu helfen, ist für ihn normal und kein Ehrenamt.",
-      "evidence": "Das ist doch eigentlich die Aufgabe vom Staat."
+      "statement": "Der Mann meint, dass sich eigentlich der Staat um die Menschen bei der Tafel kümmern müsste.",
+      "answer": true,
+      "explanation": "He enjoys the work, but he is angry that the queue keeps growing: „In so einem reichen Land dürfte es so was wie die Tafel eigentlich gar nicht geben. Das wäre Aufgabe der Politik“ – the state should look after these people.",
+      "explanationDe": "Die Arbeit macht ihm Spaß, aber es macht ihn wütend, dass die Schlange immer länger wird: „In so einem reichen Land dürfte es so was wie die Tafel eigentlich gar nicht geben. Das wäre Aufgabe der Politik“ – eigentlich müsste sich der Staat kümmern.",
+      "evidence": "Das wäre Aufgabe der Politik, nicht von uns Freiwilligen."
     },
     {
       "n": 5,
       "script": [
-        { "s": "johanna", "t": "Als ich vor drei Jahren nach Dresden gezogen bin, kannte ich hier niemanden. Eine Kollegin hat mich dann mal zur Tafel mitgenommen." },
-        { "s": "johanna", "t": "Dort sortieren wir jeden Freitag Lebensmittel, die die Supermärkte nicht mehr verkaufen, und geben sie an Menschen mit wenig Geld weiter." },
-        { "s": "johanna", "t": "Eigentlich wollte ich nur anderen helfen. Aber inzwischen sind ein paar Leute aus dem Team meine besten Freunde geworden." }
+        { "s": "marion", "t": "Hm, so ein richtiges Ehrenamt – Verein, feste Termine – hab ich eigentlich nicht. Ich arbeite Vollzeit und hab zwei Kinder." },
+        { "s": "marion", "t": "Aber ich bin in so einer Nachbarschaftsgruppe im Internet. Da schreibt mal jemand: „Wer kann für Frau Krüger einkaufen? Sie hat sich das Bein gebrochen.“ Und wenn's passt, mach ich das." },
+        { "s": "marion", "t": "Letzten Winter hab ich für einen älteren Herrn Schnee geschippt, und zum Dank hat er mir einen Kuchen gebacken." },
+        { "s": "marion", "t": "Ein Verein, wo ich jeden Dienstag antanzen muss, wär nichts für mich – auch nicht, wenn ich mehr Zeit hätte. Ich helf lieber spontan." }
       ],
-      "statement": "Durch ihr Ehrenamt hat die Frau in der neuen Stadt Freunde gefunden.",
-      "answer": true,
-      "explanation": "She knew nobody in Dresden. Through the food bank „sind ein paar Leute aus dem Team meine besten Freunde geworden“.",
-      "explanationDe": "In Dresden kannte sie niemanden. Durch die Tafel „sind ein paar Leute aus dem Team meine besten Freunde geworden“.",
-      "evidence": "Aber inzwischen sind ein paar Leute aus dem Team meine besten Freunde geworden."
+      "statement": "Der Frau fehlt nur die Zeit, um sich in einem Verein zu engagieren.",
+      "answer": false,
+      "explanation": "She mentions her full-time job and two children, but time is not the real reason: a club with fixed dates „wär nichts für mich – auch nicht, wenn ich mehr Zeit hätte“. She prefers to help spontaneously.",
+      "explanationDe": "Sie erwähnt ihren Vollzeitjob und zwei Kinder, aber die Zeit ist nicht der wahre Grund: Ein Verein mit festen Terminen „wär nichts für mich – auch nicht, wenn ich mehr Zeit hätte“. Sie hilft lieber spontan.",
+      "evidence": "wär nichts für mich – auch nicht, wenn ich mehr Zeit hätte"
     }
   ],
   "glossary": [
-    { "de": "das Ehrenamt", "en": "voluntary work" },
-    { "de": "sich ehrenamtlich engagieren", "en": "to do voluntary work" },
-    { "de": "die Vorlesepatin", "en": "volunteer who reads aloud to children" },
-    { "de": "Mir fällt die Decke auf den Kopf.", "en": "I'm going stir-crazy (bored at home)." },
+    { "de": "das Ehrenamt / ehrenamtlich", "en": "volunteer work / voluntary, unpaid" },
+    { "de": "sich engagieren", "en": "to get involved, to volunteer" },
+    { "de": "die Nähmaschine", "en": "sewing machine" },
+    { "de": "jemandem ans Herz wachsen", "en": "to become dear to someone" },
     { "de": "unbezahlbar", "en": "priceless" },
-    { "de": "die Freiwillige Feuerwehr", "en": "volunteer fire brigade" },
-    { "de": "sich etwas antun", "en": "to put yourself through something" },
-    { "de": "das Tierheim", "en": "animal shelter" },
-    { "de": "unbezahlt / umsonst", "en": "unpaid / for free" },
+    { "de": "der Vorstand", "en": "(club) committee, board" },
+    { "de": "Bescheid sagen", "en": "to let someone know" },
+    { "de": "der Lebenslauf", "en": "CV" },
+    { "de": "Gänsehaut bekommen", "en": "to get goosebumps" },
     { "de": "die Tafel", "en": "food bank" },
-    { "de": "der Einsatz", "en": "call-out, operation" }
+    { "de": "Schnee schippen", "en": "to shovel snow" },
+    { "de": "antanzen (ugs.)", "en": "to turn up (because you have to)" }
   ]
 }

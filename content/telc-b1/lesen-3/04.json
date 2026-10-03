@@ -8,83 +8,83 @@
   "situations": [
     {
       "n": 1,
-      "text": "Sie suchen für die Sommerferien eine Ferienwohnung auf dem Land. Ihre Kinder (3 und 6 Jahre) sollen dort Tiere aus der Nähe kennenlernen.",
+      "text": "Sie planen für die Sommerferien einen Urlaub auf dem Land mit Ihren Kindern (3 und 6 Jahre). Die beiden sollen dort miterleben, wie man täglich Tiere versorgt.",
       "answer": "d",
-      "explanation": "„Urlaub auf dem Bauernhof“, „Ferienwohnungen“ and „Kinder helfen beim Füttern“ – the farm (d) is ideal. The holiday flat by the sea (e) has no farm animals, and the guesthouse (b) is in the mountains, without animals.",
-      "explanationDe": "„Urlaub auf dem Bauernhof“, „Ferienwohnungen“ und „Kinder helfen beim Füttern“ – der Bauernhof (d) ist ideal. Die Ferienwohnung am Meer (e) hat keine Tiere wie auf einem Bauernhof, und die Pension (b) liegt in den Bergen, ohne Tiere."
+      "explanation": "The children should look after animals every day. On the farm (d) there are „Kühe, Ziegen und Ponys“ and „unsere kleinen Gäste helfen beim Füttern und Ausmisten“. Pension Bergkristall (b) shares many words („Familienurlaub“, „Sommer“, „Kinder bis 6 Jahre“), but it has no animals at all.",
+      "explanationDe": "Die Kinder sollen jeden Tag Tiere versorgen. Auf dem Ferienhof (d) gibt es „Kühe, Ziegen und Ponys“, und „unsere kleinen Gäste helfen beim Füttern und Ausmisten“. Die Pension Bergkristall (b) hat viele gleiche Wörter („Familienurlaub“, „Sommer“, „Kinder bis 6 Jahre“), aber dort gibt es gar keine Tiere."
     },
     {
       "n": 2,
-      "text": "Ihre Eltern möchten eine Schiffsreise auf der Donau machen. Ihr Vater sitzt seit einem Unfall im Rollstuhl.",
+      "text": "Ihre Eltern möchten eine Flussreise mit Ausflügen in mehrere Hauptstädte unternehmen. Ihr Vater ist seit einem Unfall auf den Rollstuhl angewiesen.",
       "answer": "x",
-      "explanation": "The river cruise (h) goes along the Danube, but „Das Schiff hat keinen Aufzug und ist für Rollstuhlfahrer leider nicht geeignet“. No other ad offers a boat trip, so the answer is x.",
-      "explanationDe": "Die Flussreise (h) fährt auf der Donau, aber in der Anzeige steht: „Das Schiff hat keinen Aufzug und ist für Rollstuhlfahrer leider nicht geeignet“. Keine andere Anzeige bietet eine Schiffsreise an, deshalb ist die Lösung x."
+      "explanation": "The river cruise (h) has excursions „in Wien und Bratislava“, but „Das Schiff hat keinen Aufzug und ist für Rollstuhlfahrer leider nicht geeignet“. No other ad offers a boat trip, so x.",
+      "explanationDe": "Die Flussreise (h) hat Ausflüge „in Wien und Bratislava“, aber „Das Schiff hat keinen Aufzug und ist für Rollstuhlfahrer leider nicht geeignet“. Keine andere Anzeige bietet eine Schiffsreise an, also x."
     },
     {
       "n": 3,
-      "text": "Sie möchten mit Ihrer Freundin ein paar Tage nach Wien. Sie wollen weder selbst fahren noch etwas selbst organisieren – Hotel und Stadtführung sollen dabei sein.",
+      "text": "Sie möchten mit Ihrer Freundin ein verlängertes Wochenende in Wien verbringen. Sie wollen weder selbst fahren noch die Unterkunft und das Besichtigungsprogramm selbst organisieren.",
       "answer": "i",
-      "explanation": "„Wien erleben – 4 Tage mit dem Reisebus“ with „3 Übernachtungen … inkl. Frühstück“ and „Stadtführung“ – the coach tour (i) organises everything. The long-distance bus (c) also goes to Vienna, but it only sells tickets.",
-      "explanationDe": "„Wien erleben – 4 Tage mit dem Reisebus“ mit „3 Übernachtungen … inkl. Frühstück“ und „Stadtführung“ – die Busreise (i) organisiert alles. Der Fernbus (c) fährt auch nach Wien, verkauft aber nur Fahrkarten."
+      "explanation": "You want a few days in Vienna where travel, hotel and sightseeing are organised for you. Frankenland-Reisen (i) offers a coach trip from Thursday to Sunday („Do. 12.–So. 15. Mai“) with „3 Übernachtungen im 4-Sterne-Hotel“ and „Stadtführung … inklusive“. The bus (c) says „Selbst fahren war gestern!“, but it only sells the journey – you would have to organise the rest yourself.",
+      "explanationDe": "Du willst ein paar Tage Wien, und Fahrt, Hotel und Besichtigungen sollen organisiert sein. Frankenland-Reisen (i) bietet eine Busreise von Donnerstag bis Sonntag („Do. 12.–So. 15. Mai“) mit „3 Übernachtungen im 4-Sterne-Hotel“ und „Stadtführung … inklusive“. Der Bus (c) schreibt „Selbst fahren war gestern!“, verkauft aber nur die Fahrt – den Rest müsstest du selbst organisieren."
     },
     {
       "n": 4,
-      "text": "Ihr Neffe studiert und möchte ein paar Tage in Dresden verbringen. Er möchte für die Übernachtung so wenig wie möglich bezahlen; ein eigenes Zimmer braucht er nicht.",
+      "text": "Ihr Neffe studiert Geschichte und möchte allein ein paar Tage lang Wien besichtigen. Für die Übernachtungen will er möglichst wenig ausgeben; ein Bett im Schlafsaal genügt ihm völlig.",
       "answer": "g",
-      "explanation": "„Betten im Mehrbettzimmer ab 22 €“ – the hostel in Dresden (g) is the cheapest option, and a bed in a shared room is fine for him.",
-      "explanationDe": "„Betten im Mehrbettzimmer ab 22 €“ – das Hostel in Dresden (g) ist die günstigste Möglichkeit, und ein Bett im Mehrbettzimmer ist für ihn in Ordnung."
+      "explanation": "The cheapest bed is decisive. Hostel Donaukanal (g) has „Betten im Mehrbettzimmer ab 22 €“. The Vienna trip (i) also mentions „Übernachtungen“ in Vienna, but in a „4-Sterne-Hotel“ from 349 € – far too expensive for him.",
+      "explanationDe": "Entscheidend ist das billigste Bett. Das Hostel Donaukanal (g) hat „Betten im Mehrbettzimmer ab 22 €“. Die Wienreise (i) nennt auch „Übernachtungen“ in Wien, aber im „4-Sterne-Hotel“ ab 349 € – viel zu teuer für ihn."
     },
     {
       "n": 5,
-      "text": "Sie möchten im Mai mit Ihrem Wohnmobil und Ihrem Hund an einen See in Italien fahren.",
-      "answer": "j",
-      "explanation": "„Gardasee“, „Wohnmobile“, „Hunde erlaubt“ and „Geöffnet 1. April – 15. Oktober“ – the campsite (j) fits all conditions. The holiday flat (e) also welcomes dogs, but it is on the North Sea.",
-      "explanationDe": "„Gardasee“, „Wohnmobile“, „Hunde erlaubt“ und „Geöffnet 1. April – 15. Oktober“ – der Campingplatz (j) erfüllt alle Bedingungen. In der Ferienwohnung (e) sind Hunde auch willkommen, aber sie liegt an der Nordsee."
+      "text": "Sie möchten im Oktober mit Ihrem Hund drei Nächte in einer Ferienwohnung verbringen. Morgens wollen Sie mit ihm direkt am Meer spazieren gehen.",
+      "answer": "e",
+      "explanation": "Dog, three nights in October and the sea are decisive. Ferienwohnung Seestern (e) is „Nur 300 m bis zum Nordseestrand“, welcomes „Vierbeiner“ and outside July/August you can stay „ab 2 Nächten“. The farm (d) also has holiday flats, accepts dogs and a „Mindestaufenthalt 3 Nächte“, but it is in the Allgäu – not by the sea.",
+      "explanationDe": "Entscheidend sind Hund, drei Nächte im Oktober und das Meer. Die Ferienwohnung Seestern (e) liegt „Nur 300 m bis zum Nordseestrand“, „Vierbeiner“ sind willkommen, und außerhalb von Juli und August geht es „ab 2 Nächten“. Der Ferienhof (d) hat auch Ferienwohnungen, Hunde und „Mindestaufenthalt 3 Nächte“, aber er liegt im Allgäu – nicht am Meer."
     },
     {
       "n": 6,
-      "text": "Sie möchten eine Woche mit dem Fahrrad an der Donau entlangfahren. Ihr Gepäck soll jeden Tag zum nächsten Hotel gebracht werden.",
+      "text": "Sie möchten eine Woche lang an der Donau entlangradeln und jede Nacht woanders schlafen. Ihr Reisegepäck wollen Sie unterwegs nicht selbst transportieren.",
       "answer": "a",
-      "explanation": "„Von Passau nach Wien“ and „Gepäcktransport von Hotel zu Hotel inklusive“ – the cycling tour (a) carries your luggage. The river cruise (h) also travels on the Danube, but by ship.",
-      "explanationDe": "„Von Passau nach Wien“ und „Gepäcktransport von Hotel zu Hotel inklusive“ – bei der Radreise (a) wird dein Gepäck transportiert. Die Flussreise (h) fährt auch auf der Donau, aber mit dem Schiff."
+      "explanation": "Your luggage must be taken to the next hotel. Radelwelt (a) goes „an der Donau entlang“ and offers exactly that: „Ihr Gepäck wartet jeden Abend schon im nächsten Hotel“. The bike station (k) is also „An der Donau entlang“, but says „Kein Gepäcktransport – Ihre Koffer müssen Sie selbst mitnehmen“.",
+      "explanationDe": "Dein Gepäck soll zum nächsten Hotel gebracht werden. Radelwelt (a) führt „an der Donau entlang“ und bietet genau das an: „Ihr Gepäck wartet jeden Abend schon im nächsten Hotel“. Die Radstation (k) ist auch „An der Donau entlang“, aber dort steht „Kein Gepäcktransport – Ihre Koffer müssen Sie selbst mitnehmen“."
     },
     {
       "n": 7,
-      "text": "Sie möchten im August mit Ihrem Hund ein langes Wochenende an der Nordsee verbringen. Dafür suchen Sie eine Ferienwohnung.",
+      "text": "Sie möchten Mitte August mit Ihrem Hund ein langes Wochenende an der Nordsee verbringen und suchen dafür eine Ferienwohnung.",
       "answer": "x",
-      "explanation": "The holiday flat (e) is on the North Sea and welcomes dogs, but in August there is a „Mindestaufenthalt 7 Nächte“. The beach hotel (k) welcomes dogs and has a weekend offer, but it is a hotel on the Baltic Sea („Ostsee“). So the answer is x.",
-      "explanationDe": "Die Ferienwohnung (e) liegt an der Nordsee, und Hunde sind willkommen, aber im August gilt „Mindestaufenthalt 7 Nächte“. Das Strandhotel (k) nimmt Hunde und hat ein Angebot fürs Wochenende, aber es ist ein Hotel an der „Ostsee“. Die Lösung ist also x."
+      "explanation": "Ferienwohnung Seestern (e) is at the North Sea and welcomes dogs, but in „Juli und August: Mindestaufenthalt 7 Nächte“ – too long for a weekend in mid-August. The farm (d) accepts dogs, but it is not at the North Sea. So x.",
+      "explanationDe": "Die Ferienwohnung Seestern (e) liegt an der Nordsee und nimmt Hunde, aber im „Juli und August: Mindestaufenthalt 7 Nächte“ – zu lang für ein Wochenende Mitte August. Der Ferienhof (d) nimmt Hunde, liegt aber nicht an der Nordsee. Also x."
     },
     {
       "n": 8,
-      "text": "Ihr Kollege möchte im Sommer in den Alpen wandern. Weil er die Berge nicht kennt, möchte er nicht allein gehen, sondern mit erfahrener Begleitung.",
+      "text": "Ihr Kollege plant im Juli eine Wanderwoche in den Alpen. Weil er die Wege in den Bergen überhaupt nicht kennt, möchte er nur in erfahrener Begleitung unterwegs sein.",
       "answer": "l",
-      "explanation": "„Geführte Wanderungen“ with „staatlich geprüften Bergführern“, „Juni–September“ – the mountain school (l) offers guided hikes in summer. The guesthouse (b) only gives „Wanderkarten und Tourentipps“, so he would walk alone.",
-      "explanationDe": "„Geführte Wanderungen“ mit „staatlich geprüften Bergführern“, „Juni–September“ – die Bergschule (l) bietet im Sommer geführte Wanderungen an. Die Pension (b) gibt nur „Wanderkarten und Tourentipps“, er würde also allein gehen."
+      "explanation": "He wants to hike in July with an experienced guide. Bergschule Gipfelwind (l) offers „Wanderwochen mit staatlich geprüften Bergführern“ from „Juni–September“. Pension Bergkristall (b) shares the words („Wanderkarten für alle Wege in den Bergen“), but it only gives maps – nobody goes with him.",
+      "explanationDe": "Er will im Juli mit einer erfahrenen Begleitung wandern. Die Bergschule Gipfelwind (l) bietet „Wanderwochen mit staatlich geprüften Bergführern“ von „Juni–September“ an. Die Pension Bergkristall (b) hat dieselben Wörter („Wanderkarten für alle Wege in den Bergen“), gibt aber nur Karten – niemand geht mit ihm."
     },
     {
       "n": 9,
-      "text": "Sie möchten in den Weihnachtsferien mit Ihren Kindern (4 und 7 Jahre) in die Berge fahren. Die Kinder sollen dort Skifahren lernen.",
+      "text": "Über Weihnachten möchten Sie mit Ihren Kindern (4 und 7 Jahre) in die Berge reisen. Die beiden sollen dort in einem Anfängerkurs das Skifahren lernen.",
       "answer": "b",
-      "explanation": "„Winter: Skikurse für Kinder ab 4 Jahren“ – the family guesthouse (b) is right for both children. The mountain school (l) is also in the Alps, but only open from June to September.",
-      "explanationDe": "„Winter: Skikurse für Kinder ab 4 Jahren“ – die Familienpension (b) passt für beide Kinder. Die Bergschule (l) ist auch in den Alpen, aber nur von Juni bis September geöffnet."
+      "explanation": "Both children (4 and 7) are beginners. Pension Bergkristall (b) has „Skikurse für Kinder ab 4 Jahren“ in winter. The Bergschule (l) mentions „Weihnachten“, but its ski tours are „für Geübte ab 16 Jahren“.",
+      "explanationDe": "Beide Kinder (4 und 7) sind Anfänger. Die Pension Bergkristall (b) hat im Winter „Skikurse für Kinder ab 4 Jahren“. Die Bergschule (l) nennt zwar „Weihnachten“, aber ihre Skitouren sind „für Geübte ab 16 Jahren“."
     },
     {
       "n": 10,
-      "text": "Sie haben überraschend ab nächster Woche Urlaub bekommen und möchten für wenig Geld in den sonnigen Süden fliegen.",
+      "text": "Sie haben überraschend ab nächster Woche Urlaub bekommen und möchten spontan und möglichst preiswert ans Mittelmeer fliegen.",
       "answer": "f",
-      "explanation": "„Last Minute“, „Flug + Hotel“ and „Abflug … in den nächsten 14 Tagen“ – the travel agency (f) has cheap flights to the south. The campsite (j) is in Italy, but there is no flight.",
-      "explanationDe": "„Last Minute“, „Flug + Hotel“ und „Abflug … in den nächsten 14 Tagen“ – das Reisebüro (f) hat günstige Flüge in den Süden. Der Campingplatz (j) liegt in Italien, aber ein Flug ist nicht dabei."
+      "explanation": "You want to fly next week. Reisebüro Fernweh (f) has „Last Minute“ offers „rund ums Mittelmeer“ with „Abflug … in den nächsten 14 Tagen“. Sonnenflug (j) also offers „Flüge ans Mittelmeer“ with a discount, but you must book „mindestens 3 Monate vor Abflug“.",
+      "explanationDe": "Du willst schon nächste Woche fliegen. Das Reisebüro Fernweh (f) hat „Last Minute“-Angebote „rund ums Mittelmeer“ mit „Abflug … in den nächsten 14 Tagen“. Sonnenflug (j) bietet auch „Flüge ans Mittelmeer“ mit Rabatt an, aber man muss „mindestens 3 Monate vor Abflug“ buchen."
     }
   ],
   "ads": [
     {
       "key": "a",
       "heading": "Radelwelt Reisen",
-      "subheading": "Von Passau nach Wien – 330 km am Fluss entlang",
+      "subheading": "Von Passau nach Wien – 330 km an der Donau entlang",
       "lines": [
         "8 Tage / 7 Nächte in guten Hotels inkl. Frühstück",
-        "Gepäcktransport von Hotel zu Hotel inklusive",
+        "Gepäckservice: Ihr Gepäck wartet jeden Abend schon im nächsten Hotel.",
         "Leihräder und E-Bikes gegen Aufpreis",
         "Start jeden Samstag von April bis Oktober, ab 749 € p. P. im DZ"
       ],
@@ -96,7 +96,7 @@
       "subheading": "Familienurlaub im Zillertal",
       "lines": [
         "Winter: Skikurse für Kinder ab 4 Jahren direkt am Haus, Skiverleih im Keller",
-        "Sommer: kostenlose Wanderkarten und Tourentipps an der Rezeption",
+        "Sommer: kostenlose Wanderkarten für alle Wege in den Bergen ringsum",
         "Familienzimmer mit Halbpension ab 140 € pro Nacht",
         "Kinder bis 6 Jahre übernachten gratis."
       ],
@@ -105,7 +105,7 @@
     {
       "key": "c",
       "heading": "GrenzLand-Bus",
-      "subheading": "Bequem und günstig ins Nachbarland",
+      "subheading": "Selbst fahren war gestern!",
       "lines": [
         "Nürnberg – Prag – Wien: täglich 4 Fahrten",
         "Nürnberg–Prag ab 15 €, Nürnberg–Wien ab 25 €",
@@ -120,9 +120,9 @@
       "subheading": "Urlaub auf dem Bauernhof im Allgäu",
       "lines": [
         "4 Ferienwohnungen für 2–6 Personen",
-        "Kühe, Ziegen, Hasen und Ponys – Kinder helfen beim Füttern.",
+        "Kühe, Ziegen und Ponys – unsere kleinen Gäste helfen beim Füttern und Ausmisten.",
         "Spielplatz, Trampolin, Brötchenservice",
-        "Ab 75 € pro Nacht, Mindestaufenthalt 3 Nächte"
+        "Ihr Hund ist willkommen – ab 75 € pro Nacht, Mindestaufenthalt 3 Nächte"
       ],
       "footer": "Hofweg 2, 87549 Rettenberg · Tel. 08327 93011 · www.ferienhof-rauchenberger.de"
     },
@@ -132,7 +132,7 @@
       "subheading": "Nur 300 m bis zum Nordseestrand",
       "lines": [
         "Für 2–4 Personen, 55 m², Balkon mit Meerblick",
-        "Hunde herzlich willkommen!",
+        "Vierbeiner herzlich willkommen!",
         "Juli und August: Mindestaufenthalt 7 Nächte, sonst ab 2 Nächten",
         "Ab 85 € pro Nacht"
       ],
@@ -143,7 +143,7 @@
       "heading": "Reisebüro Fernweh",
       "subheading": "Last Minute – jetzt noch schnell weg!",
       "lines": [
-        "Flug + Hotel: 1 Woche Mallorca ab 399 €, Kreta ab 449 €",
+        "Flug + Hotel rund ums Mittelmeer: 7 Nächte Mallorca ab 399 €, Kreta ab 449 €",
         "Abflug ab Nürnberg in den nächsten 14 Tagen",
         "Persönliche Beratung: Mo.–Fr. 9.30–18.30 Uhr, Sa. 10–14 Uhr"
       ],
@@ -151,14 +151,15 @@
     },
     {
       "key": "g",
-      "heading": "Hostel Elbufer Dresden",
+      "heading": "Hostel Donaukanal",
+      "subheading": "Schlafen in Wien – günstig und zentral",
       "lines": [
-        "Mitten in der Altstadt, 5 Minuten zum Hauptbahnhof",
+        "5 Minuten zur U-Bahn, 15 Minuten in die Altstadt",
         "Betten im Mehrbettzimmer ab 22 €, Doppelzimmer ab 58 €",
         "Gemeinschaftsküche, Frühstück 7 € extra",
         "Rezeption 24 Stunden geöffnet"
       ],
-      "footer": "Elbgasse 11, 01067 Dresden · www.hostel-elbufer.de"
+      "footer": "Obere Donaustraße 41, 1020 Wien · www.hostel-donaukanal.at"
     },
     {
       "key": "h",
@@ -180,43 +181,43 @@
         "Abfahrt Nürnberg Hbf, 3 Übernachtungen im 4-Sterne-Hotel inkl. Frühstück",
         "Stadtführung und ein Abend beim Heurigen inklusive",
         "Ab 349 € p. P. im Doppelzimmer, Einzelzimmerzuschlag 90 €",
-        "Termine: 12.–15. Mai und 6.–9. Oktober"
+        "Termine: Do. 12.–So. 15. Mai und Do. 6.–So. 9. Oktober"
       ],
       "footer": "Bahnhofsplatz 4, 90443 Nürnberg · Tel. 0911 4471023"
     },
     {
       "key": "j",
-      "heading": "Camping Lago Azzurro",
-      "subheading": "Direkt am Ostufer des Gardasees",
+      "heading": "Sonnenflug Frühbucher",
+      "subheading": "Schon jetzt an den nächsten Sommer denken!",
       "lines": [
-        "Stellplätze für Zelte, Wohnwagen und Wohnmobile",
-        "Mobilheime für 4 Personen ab 70 € pro Nacht",
-        "Pool, Pizzeria, Supermarkt – Hunde erlaubt (nicht am Strand)",
-        "Geöffnet 1. April – 15. Oktober"
+        "Flüge ans Mittelmeer: Spanien, Italien, Griechenland",
+        "Bis zu 30 % Rabatt – Buchung mindestens 3 Monate vor Abflug",
+        "Nur Abflüge zwischen Mai und September",
+        "Kostenlose Umbuchung bis 60 Tage vor Abflug"
       ],
-      "footer": "Bardolino, Italien · Tel. +39 045 6210887 · www.lago-azzurro-camping.it"
+      "footer": "www.sonnenflug-reisen.de · Tel. 0911 8803412"
     },
     {
       "key": "k",
-      "heading": "Strandhotel Möwennest",
-      "subheading": "Erholung an der Ostsee",
+      "heading": "Radstation Passau",
+      "subheading": "An der Donau entlang – auf eigene Faust",
       "lines": [
-        "Doppelzimmer mit Meerblick inkl. Frühstück ab 119 €",
-        "Wochenend-Special: 2 Nächte mit Abendessen ab 249 € pro Zimmer",
-        "Hunde willkommen (15 € pro Nacht)",
-        "Nur 50 m bis zum Strand"
+        "Leihräder und E-Bikes ab 15 € pro Tag",
+        "Rückgabe auch in Linz oder Wien möglich",
+        "Kein Gepäcktransport – Ihre Koffer müssen Sie selbst mitnehmen.",
+        "Täglich 8–19 Uhr, direkt am Bahnhof"
       ],
-      "footer": "Strandpromenade 12, 18225 Kühlungsborn · Tel. 038293 41870"
+      "footer": "Bahnhofstraße 29, 94032 Passau · Tel. 0851 4492207"
     },
     {
       "key": "l",
       "heading": "Bergschule Gipfelwind",
-      "subheading": "Geführte Wanderungen in den Tiroler Alpen",
+      "subheading": "Geführte Touren in den Tiroler Alpen",
       "lines": [
-        "Wanderwochen mit staatlich geprüften Bergführern",
+        "Sommer (Juni–September): Wanderwochen mit staatlich geprüften Bergführern",
         "Kleine Gruppen (max. 10 Personen), Übernachtung auf Berghütten",
-        "Auch für Einsteiger mit normaler Kondition",
-        "Juni–September, 7 Tage ab 680 € inkl. Halbpension"
+        "Weihnachten und Silvester: Skitouren für Geübte ab 16 Jahren",
+        "7 Tage ab 680 € inkl. Halbpension"
       ],
       "footer": "Innsbruck · Tel. +43 512 908844 · www.gipfelwind.at"
     }
@@ -226,13 +227,13 @@
     { "de": "die Halbpension / die Vollpension", "en": "half board / full board" },
     { "de": "der Gepäcktransport", "en": "luggage transfer" },
     { "de": "der Aufpreis", "en": "extra charge" },
-    { "de": "p. P. (pro Person)", "en": "per person" },
-    { "de": "der Einzelzimmerzuschlag", "en": "single room supplement" },
     { "de": "das Mehrbettzimmer", "en": "shared room, dormitory" },
-    { "de": "der Stellplatz", "en": "pitch (at a campsite)" },
     { "de": "der Rollstuhlfahrer", "en": "wheelchair user" },
+    { "de": "auf den Rollstuhl angewiesen sein", "en": "to depend on a wheelchair" },
     { "de": "der Bergführer", "en": "mountain guide" },
     { "de": "die Begleitung", "en": "company, guide (someone who goes with you)" },
-    { "de": "der Heurige (österr.)", "en": "Viennese wine tavern" }
+    { "de": "der Vierbeiner", "en": "four-legged friend (dog, cat)" },
+    { "de": "ausmisten", "en": "to muck out (a stable)" },
+    { "de": "der Frühbucher", "en": "early booker" }
   ]
 }

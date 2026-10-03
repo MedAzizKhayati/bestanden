@@ -7,10 +7,10 @@
   "difficulty": 3,
   "speakers": [
     { "id": "stadion", "gender": "m", "age": "adult", "role": "Stadionsprecher" },
-    { "id": "fitness", "name": "Leonie", "gender": "f", "age": "young", "role": "Fitnessstudio Vitalis" },
-    { "id": "radio", "gender": "m", "age": "adult", "role": "Radiomoderator" },
-    { "id": "eishalle", "gender": "f", "age": "adult", "role": "Telefonansage" },
-    { "id": "sportladen", "gender": "m", "age": "young", "role": "Durchsage im Sportgeschäft" }
+    { "id": "fitness", "name": "Fabian", "gender": "m", "age": "young", "role": "Fitnessstudio Kraftwerk" },
+    { "id": "radio", "gender": "f", "age": "adult", "role": "Radiomoderatorin" },
+    { "id": "freibad", "gender": "m", "age": "senior", "role": "Telefonansage des Freibads" },
+    { "id": "sportladen", "gender": "f", "age": "young", "role": "Durchsage im Sportgeschäft" }
   ],
   "intro": [],
   "items": [
@@ -18,85 +18,85 @@
       "n": 1,
       "label": "Durchsage im Stadion",
       "script": [
-        { "s": "stadion", "t": "Liebe Fußballfans, wegen des Gewitters beginnt das Spiel heute nicht um 15 Uhr 30, sondern erst um 16 Uhr. Bitte bleiben Sie bis dahin unter den Dächern der Tribünen." },
-        { "s": "stadion", "t": "Die Fans der Gastmannschaft werden gebeten, den Eingang Ost zu benutzen. Eingang Süd bleibt heute geschlossen." },
-        { "s": "stadion", "t": "Nach dem Spiel fahren die Straßenbahnen zum Hauptbahnhof alle fünf Minuten, und zwar von der Haltestelle Stadion Nord." }
+        { "s": "stadion", "t": "Liebe Fußballfreunde, ein paar Hinweise für die Zeit nach dem Spiel. Der Ausgang Nord bleibt wegen Bauarbeiten geschlossen, bitte benutzen Sie die Ausgänge West und Süd." },
+        { "s": "stadion", "t": "Die Sonderbahnen in Richtung Hauptbahnhof fahren an der Haltestelle Stadion West ab, und zwar bis eine Stunde nach Spielende alle fünf Minuten." },
+        { "s": "stadion", "t": "Die Busse für die Gästefans stehen auf Parkplatz vier bereit und warten bis spätestens halb sieben. Und denken Sie daran: Wer das Stadion in der Halbzeitpause verlässt, kann nicht wieder hinein." }
       ],
-      "statement": "Die Fans der Gastmannschaft sollen durch den Eingang Süd ins Stadion gehen.",
-      "answer": false,
-      "explanation": "„Die Fans der Gastmannschaft werden gebeten, den Eingang Ost zu benutzen.“ Entrance South is closed today.",
-      "explanationDe": "„Die Fans der Gastmannschaft werden gebeten, den Eingang Ost zu benutzen.“ Der Eingang Süd ist heute geschlossen.",
-      "evidence": "Die Fans der Gastmannschaft werden gebeten, den Eingang Ost zu benutzen."
+      "statement": "Die Busse für die Fans der Gastmannschaft fahren spätestens um halb sieben los.",
+      "answer": true,
+      "explanation": "The buses for the visiting fans „warten bis spätestens halb sieben“ – so they leave at half past six at the latest. „Alle fünf Minuten“ refers to the special trams, not to the buses.",
+      "explanationDe": "Die Busse für die Gästefans „warten bis spätestens halb sieben“ – sie fahren also spätestens um halb sieben ab. „Alle fünf Minuten“ fahren die Sonderbahnen, nicht die Busse.",
+      "evidence": "warten bis spätestens halb sieben"
     },
     {
       "n": 2,
       "label": "Nachricht vom Fitnessstudio",
       "script": [
-        { "s": "fitness", "t": "Hallo, Herr Rahimi, hier ist Leonie vom Fitnessstudio Vitalis. Sie haben sich ja für den Yogakurs am Donnerstagabend angemeldet." },
-        { "s": "fitness", "t": "Der Kurs findet ab nächster Woche nicht mehr um 19 Uhr statt, sondern schon um 18 Uhr 30, weil danach ein neuer Rückenkurs beginnt." },
-        { "s": "fitness", "t": "Der Raum bleibt derselbe. Und denken Sie bitte an Ihre eigene Matte, die Leihmatten werden gerade alle ausgetauscht." }
+        { "s": "fitness", "t": "Hallo Frau Szabó, hier ist Fabian vom Fitnessstudio Kraftwerk. Ich ruf an wegen Ihrer Frage zu den neuen Preisen ab Januar." },
+        { "s": "fitness", "t": "Also, der normale Monatsbeitrag steigt von 34 auf 39 Euro. Für Sie ändert sich aber erst mal nichts, weil Ihr Vertrag noch bis Ende Juni läuft, und bis dahin zahlen Sie den alten Preis." },
+        { "s": "fitness", "t": "Und wegen der Sauna: Die ist nur im Premiumtarif dabei, der kostet 49 Euro. Wechseln können Sie jederzeit, sagen Sie einfach an der Theke Bescheid." }
       ],
-      "statement": "Herr Rahimi soll zum Yogakurs eine eigene Matte mitbringen.",
-      "answer": true,
-      "explanation": "„Denken Sie bitte an Ihre eigene Matte“, because all the mats for hire are being replaced. The class also starts earlier now, at 18 Uhr 30.",
-      "explanationDe": "„Denken Sie bitte an Ihre eigene Matte“, weil gerade alle Leihmatten ausgetauscht werden. Der Kurs beginnt jetzt auch früher, um 18 Uhr 30.",
-      "evidence": "Und denken Sie bitte an Ihre eigene Matte, die Leihmatten werden gerade alle ausgetauscht."
+      "statement": "Für Frau Szabó wird das Training schon ab Januar teurer.",
+      "answer": false,
+      "explanation": "The new price applies from January, but Fabian says: „Für Sie ändert sich aber erst mal nichts“, because her contract runs „noch bis Ende Juni“ at the old price.",
+      "explanationDe": "Der neue Preis gilt zwar ab Januar, doch Fabian sagt: „Für Sie ändert sich aber erst mal nichts“. Ihr Vertrag läuft „noch bis Ende Juni“, und bis dahin zahlt sie den alten Preis.",
+      "evidence": "Für Sie ändert sich aber erst mal nichts, weil Ihr Vertrag noch bis Ende Juni läuft"
     },
     {
       "n": 3,
-      "label": "Veranstaltungstipp im Radio",
+      "label": "Sporttipp im Radio",
       "script": [
-        { "s": "radio", "t": "Am Sonntag in zwei Wochen ist es wieder so weit: Der Stadtlauf startet um 10 Uhr am Rathausplatz. Sie können zwischen fünf und zehn Kilometern wählen." },
-        { "s": "radio", "t": "Wer sich bis Mittwoch im Internet anmeldet, zahlt 15 Euro. Danach kostet die Anmeldung 20 Euro, auch am Lauftag selbst." },
-        { "s": "radio", "t": "Ihre Startnummer können Sie am Samstag vor dem Lauf in der Sporthalle am Stadtpark abholen." }
+        { "s": "radio", "t": "Unser Sporttipp: Am Sonntag findet der Seeuferlauf statt. Sie können zwischen fünf und zehn Kilometern wählen, der Start für beide Strecken ist um 10 Uhr am Bootshaus." },
+        { "s": "radio", "t": "Kinder bis vierzehn laufen schon um 9 Uhr zwei Kilometer, und zwar kostenlos. Erwachsene zahlen 12 Euro, wenn sie sich bis Freitag im Internet anmelden, danach 15 Euro." },
+        { "s": "radio", "t": "Ihre Startnummer holen Sie am Samstag zwischen 14 und 18 Uhr im Bootshaus ab oder am Sonntag bis spätestens halb zehn. Und Achtung, Autofahrer: Die Uferstraße ist am Sonntagvormittag gesperrt." }
       ],
-      "statement": "Wer sich erst am Lauftag anmeldet, muss 20 Euro bezahlen.",
+      "statement": "Die Startnummer kann man auch noch am Morgen des Laufs abholen.",
       "answer": true,
-      "explanation": "Registering online until Wednesday costs 15 Euro. „Danach kostet die Anmeldung 20 Euro, auch am Lauftag selbst.“",
-      "explanationDe": "Wer sich bis Mittwoch im Internet anmeldet, zahlt 15 Euro. „Danach kostet die Anmeldung 20 Euro, auch am Lauftag selbst.“",
-      "evidence": "Danach kostet die Anmeldung 20 Euro, auch am Lauftag selbst."
+      "explanation": "You can collect your number on Saturday from 14 to 18 Uhr „oder am Sonntag bis spätestens halb zehn“ – Sunday is the day of the run, so the morning of the race also works.",
+      "explanationDe": "Die Startnummer gibt es am Samstag von 14 bis 18 Uhr „oder am Sonntag bis spätestens halb zehn“. Der Sonntag ist der Tag des Laufs – am Morgen geht es also auch noch.",
+      "evidence": "oder am Sonntag bis spätestens halb zehn"
     },
     {
       "n": 4,
-      "label": "Telefonansage der Eishalle",
+      "label": "Telefonansage des Freibads",
       "script": [
-        { "s": "eishalle", "t": "Herzlich willkommen in der Eissporthalle am Westpark. Öffentliches Eislaufen ist montags bis freitags von 14 bis 17 Uhr und am Wochenende von 10 bis 18 Uhr möglich." },
-        { "s": "eishalle", "t": "Am kommenden Samstag ist die Halle allerdings wegen eines Eishockeyturniers den ganzen Tag geschlossen. Am Sonntag ist wieder normal geöffnet." },
-        { "s": "eishalle", "t": "Schlittschuhe können Sie an der Kasse für 4 Euro ausleihen. Für Kinder unter sechs Jahren ist der Eintritt frei." }
+        { "s": "freibad", "t": "Willkommen beim Freibad Am Erlenhain. Von Mai bis September haben wir täglich von 9 bis 20 Uhr geöffnet. Frühschwimmer können montags, mittwochs und freitags schon ab 7 Uhr ins Sportbecken." },
+        { "s": "freibad", "t": "Bei Gewitter und bei Temperaturen unter achtzehn Grad bleibt das Bad geschlossen. Ob wir geöffnet haben, sehen Sie jeden Morgen ab 8 Uhr auf unserer Internetseite." },
+        { "s": "freibad", "t": "Die Tageskarte kostet 4 Euro 50, ab 17 Uhr gibt es an der Kasse eine günstigere Abendkarte für 2 Euro 50 pro Person." }
       ],
-      "statement": "Am nächsten Samstag kann man von 10 bis 18 Uhr Schlittschuh laufen.",
+      "statement": "Dienstags kann man schon um sieben Uhr morgens schwimmen gehen.",
       "answer": false,
-      "explanation": "10 to 18 Uhr are the normal weekend hours, but „Am kommenden Samstag ist die Halle allerdings … den ganzen Tag geschlossen“ because of an ice hockey tournament.",
-      "explanationDe": "Am Wochenende ist normalerweise von 10 bis 18 Uhr geöffnet, aber: „Am kommenden Samstag ist die Halle allerdings … den ganzen Tag geschlossen“, weil ein Eishockeyturnier stattfindet.",
-      "evidence": "Am kommenden Samstag ist die Halle allerdings wegen eines Eishockeyturniers den ganzen Tag geschlossen."
+      "explanation": "Early swimming from 7 Uhr is only „montags, mittwochs und freitags“ – not on Tuesday. On the other days the pool opens at 9 Uhr.",
+      "explanationDe": "Frühschwimmen ab 7 Uhr gibt es nur „montags, mittwochs und freitags“ – nicht am Dienstag. An den anderen Tagen öffnet das Bad erst um 9 Uhr.",
+      "evidence": "Frühschwimmer können montags, mittwochs und freitags schon ab 7 Uhr ins Sportbecken."
     },
     {
       "n": 5,
       "label": "Durchsage im Sportgeschäft",
       "script": [
-        { "s": "sportladen", "t": "Liebe Kundinnen und Kunden, heute haben wir für Sie ein besonderes Angebot: Alle Laufschuhe im Untergeschoss sind um zwanzig Prozent reduziert." },
-        { "s": "sportladen", "t": "Fahrräder und Fahrradhelme im zweiten Stock bekommen Sie sogar zum halben Preis. Dieses Angebot gilt allerdings nur noch bis 16 Uhr." },
-        { "s": "sportladen", "t": "Wenn Sie Ihre neuen Laufschuhe gleich testen möchten: Auf unserem Laufband im Erdgeschoss können Sie sie kostenlos ausprobieren." }
+        { "s": "sportladen", "t": "Liebe Kundinnen und Kunden, bei uns ist Sommerschlussverkauf! Alle Wanderschuhe im ersten Stock sind um fünfundzwanzig Prozent reduziert, Badesachen sogar um die Hälfte." },
+        { "s": "sportladen", "t": "Bei Regenjacken gilt: Wer zwei kauft, bezahlt nur eine. Mit Ihrer Kundenkarte bekommen Sie an der Kasse noch einmal zehn Prozent, allerdings nicht auf Ware, die schon reduziert ist." },
+        { "s": "sportladen", "t": "Unsere Fahrradwerkstatt im Untergeschoss ist heute übrigens nur bis 16 Uhr geöffnet. Wir wünschen Ihnen viel Spaß beim Einkaufen!" }
       ],
-      "statement": "Das Laufband zum Ausprobieren der Schuhe steht im Erdgeschoss.",
-      "answer": true,
-      "explanation": "The running shoes are sold in the basement, but „Auf unserem Laufband im Erdgeschoss“ you can test them. Bikes and helmets are on the second floor.",
-      "explanationDe": "Die Laufschuhe gibt es im Untergeschoss, aber: „Auf unserem Laufband im Erdgeschoss“ kann man sie testen. Fahrräder und Helme sind im zweiten Stock.",
-      "evidence": "Auf unserem Laufband im Erdgeschoss können Sie sie kostenlos ausprobieren."
+      "statement": "Auf die reduzierten Wanderschuhe gibt es mit der Kundenkarte noch einmal Rabatt.",
+      "answer": false,
+      "explanation": "The extra ten percent with the customer card is „nicht auf Ware, die schon reduziert ist“ – and the hiking boots are already 25 percent off.",
+      "explanationDe": "Die zehn Prozent mit der Kundenkarte gibt es „nicht auf Ware, die schon reduziert ist“ – und die Wanderschuhe sind schon um fünfundzwanzig Prozent reduziert.",
+      "evidence": "allerdings nicht auf Ware, die schon reduziert ist"
     }
   ],
   "glossary": [
-    { "de": "die Tribüne", "en": "stand (in a stadium)" },
-    { "de": "die Gastmannschaft", "en": "visiting team" },
-    { "de": "die Haltestelle", "en": "stop (bus, tram)" },
-    { "de": "die Leihmatte", "en": "mat for hire" },
-    { "de": "austauschen", "en": "to replace" },
-    { "de": "die Anmeldung", "en": "registration" },
+    { "de": "der Ausgang", "en": "exit" },
+    { "de": "die Sonderbahn", "en": "extra tram (for an event)" },
+    { "de": "die Halbzeitpause", "en": "half-time break" },
+    { "de": "der Monatsbeitrag", "en": "monthly fee" },
+    { "de": "der Vertrag", "en": "contract" },
+    { "de": "der Tarif", "en": "price plan" },
     { "de": "die Startnummer", "en": "race number" },
-    { "de": "Schlittschuh laufen", "en": "to ice-skate" },
-    { "de": "das Turnier", "en": "tournament" },
-    { "de": "reduziert", "en": "reduced (in price)" },
-    { "de": "das Laufband", "en": "treadmill" },
-    { "de": "ausprobieren", "en": "to try out" }
+    { "de": "gesperrt", "en": "closed (to traffic)" },
+    { "de": "der Frühschwimmer", "en": "early-morning swimmer" },
+    { "de": "die Abendkarte", "en": "evening ticket" },
+    { "de": "der Sommerschlussverkauf", "en": "end-of-summer sale" },
+    { "de": "der Rabatt", "en": "discount" }
   ]
 }

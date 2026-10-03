@@ -6,7 +6,7 @@
   "topic": "essen",
   "difficulty": 2,
   "textType": "email-informal",
-  "text": "Liebe Lisa,\n\ndu hattest recht: Der Kochkurs, [[1]] du mir zum Geburtstag geschenkt hast, ist wirklich super! Wir sind zehn Leute, und unser Kursleiter Marco kommt aus Neapel. Er ist immer ruhig und freundlich geblieben, [[2]] wir am Anfang viele Fehler gemacht haben.\n\nAm ersten Abend haben wir frische Nudeln gemacht. Meine waren leider viel zu dick, aber sie [[3]] trotzdem gut geschmeckt. Letzte Woche gab es Lasagne. Ich habe meine in [[4]] Ofen geschoben und dann völlig vergessen. Natürlich ist sie angebrannt! Alle haben gelacht, und Marco hat gesagt, [[5]] das jedem Anfänger einmal passiert.\n\nAm schönsten finde ich das [[6]] Essen am Ende des Abends. [[7]] des Essens unterhalten wir uns über Gott und die Welt. Eine Teilnehmerin, Sophie, hat mich und [[8]] Freund Tim schon zu sich nach Hause eingeladen.\n\nIch merke: Je öfter ich koche, [[9]] mehr Spaß macht es mir. Wenn du nächsten Monat zu Besuch kommst, koche ich für dich. Was [[10]] du lieber essen: Lasagne oder Risotto?\n\nLiebe Grüße\nDaniel",
+  "text": "Liebe Lisa,\n\ndu hattest recht: Der Kochkurs, [[1]] du mir zum Geburtstag geschenkt hast, ist wirklich super! Wir sind zehn Leute, und unser Kursleiter Marco kommt aus Neapel. Er ist immer ruhig und freundlich geblieben, [[2]] wir am Anfang viele Fehler gemacht haben.\n\nAm ersten Abend haben wir frische Nudeln gemacht. Meine waren leider viel zu dick, aber sie [[3]] trotzdem gut geschmeckt. Letzte Woche gab es Lasagne. Ich habe meine in [[4]] Ofen geschoben und dann völlig vergessen. Natürlich ist sie angebrannt! Alle haben gelacht, und Marco hat gesagt, dass das [[5]] Anfänger einmal passiert.\n\nAm schönsten finde ich das [[6]] Essen am Ende des Abends. [[7]] des Essens unterhalten wir uns über Gott und die Welt. Eine Teilnehmerin, Sophie, hat mich und [[8]] Freund Tim schon zu sich nach Hause eingeladen.\n\nIch merke: Je öfter ich koche, desto mehr Spaß macht es mir. Wenn du nächsten Monat zu Besuch kommst, koche ich für [[9]]. Was [[10]] du lieber essen: Lasagne oder Risotto?\n\nLiebe Grüße\nDaniel",
   "gaps": [
     {
       "n": 1,
@@ -59,14 +59,14 @@
     {
       "n": 5,
       "options": [
-        { "key": "a", "text": "ob" },
-        { "key": "b", "text": "dass" },
-        { "key": "c", "text": "als" }
+        { "key": "a", "text": "jeden" },
+        { "key": "b", "text": "jedem" },
+        { "key": "c", "text": "jeder" }
       ],
       "answer": "b",
-      "explanation": "After „sagen“ a statement is introduced with „dass“: „Marco hat gesagt, dass …“. „ob“ introduces an indirect yes/no question, and „als“ a time clause or a comparison.",
-      "explanationDe": "Nach „sagen“ leitet man eine Aussage mit „dass“ ein: „Marco hat gesagt, dass …“. „ob“ leitet eine indirekte Ja-/Nein-Frage ein, und „als“ einen temporalen Nebensatz oder einen Vergleich.",
-      "grammar": "nebensaetze-grundlagen"
+      "explanation": "„passieren“ takes the dative (Wem passiert das?), and „das“ is the subject: „dass das jedem Anfänger einmal passiert“. „jeden“ is the accusative, „jeder“ the nominative – but „Anfänger“ is not the subject here.",
+      "explanationDe": "Nach „passieren“ steht der Dativ (Wem passiert das?), und „das“ ist das Subjekt: „dass das jedem Anfänger einmal passiert“. „jeden“ ist Akkusativ, „jeder“ Nominativ – aber „Anfänger“ ist hier nicht das Subjekt.",
+      "grammar": "verben-mit-dativ"
     },
     {
       "n": 6,
@@ -107,14 +107,14 @@
     {
       "n": 9,
       "options": [
-        { "key": "a", "text": "als" },
-        { "key": "b", "text": "desto" },
-        { "key": "c", "text": "so" }
+        { "key": "a", "text": "dir" },
+        { "key": "b", "text": "dich" },
+        { "key": "c", "text": "Sie" }
       ],
       "answer": "b",
-      "explanation": "„je + comparative …, desto + comparative …“ is a two-part connector: „Je öfter ich koche, desto mehr Spaß macht es mir.“ „als“ and „so“ cannot complete „je“.",
-      "explanationDe": "„je + Komparativ …, desto + Komparativ …“ ist ein zweiteiliger Konnektor: „Je öfter ich koche, desto mehr Spaß macht es mir.“ „als“ und „so“ passen nicht als zweiter Teil zu „je“.",
-      "grammar": "zweiteilige-konnektoren"
+      "explanation": "„für“ always takes the accusative: „für dich“. „dir“ is the dative (a common mistake), and „Sie“ is the polite form – but Daniel and Lisa are friends and say „du“ to each other.",
+      "explanationDe": "Nach „für“ steht immer der Akkusativ: „für dich“. „dir“ ist Dativ (ein häufiger Fehler), und „Sie“ ist die höfliche Form – aber Daniel und Lisa sind Freunde und sagen „du“ zueinander.",
+      "grammar": "pronomen"
     },
     {
       "n": 10,

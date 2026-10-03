@@ -6,18 +6,18 @@
   "topic": "sport",
   "difficulty": 2,
   "textType": "email-semiformal",
-  "text": "Sehr geehrte Damen und Herren,\n\nich möchte meinen Sohn Leon für einen Schwimmkurs anmelden. Leon ist neun Jahre alt und kann leider noch nicht schwimmen. Auf Ihrer Internetseite habe ich gelesen, dass in Ihrem Verein Anfängerkurse für Kinder [[1]] werden.\n\n[[2]] wir letzten Sommer am Meer waren, hat Leon beim Baden viel Salzwasser geschluckt. Seitdem hat er ein bisschen Angst vor dem Wasser. Für einen ängstlichen [[3]] wie ihn ist eine [[4]] Gruppe bestimmt besser. Wie viele Kinder sind denn in einem Kurs?\n\nLeon hat jeden Tag bis 15 Uhr Unterricht, deshalb kann er erst [[5]] 16 Uhr zum Schwimmkurs kommen. Dürfen die Eltern im Schwimmbad zuschauen? Ich glaube, es [[6]] Leon helfen, wenn ich in der Nähe bin.\n\nLeon hat übrigens einen Freund, [[7]] Eltern ihn auch gern anmelden möchten. Die beiden kennen [[8]] aus der Schule und würden gern zusammen schwimmen lernen. Bitte teilen Sie mir auch mit, [[9]] die Kinder zum Kurs mitbringen müssen.\n\nIch hoffe sehr, [[10]] noch Plätze frei sind.\n\nMit freundlichen Grüßen\nSabine Wolf",
+  "text": "Sehr geehrte Damen und Herren,\n\nich möchte meinen Sohn Leon für einen Schwimmkurs anmelden. Leon ist neun Jahre alt und kann leider noch nicht schwimmen. Auf Ihrer Internetseite habe ich gelesen, dass in Ihrem Verein Anfängerkurse für Kinder angeboten [[1]].\n\n[[2]] wir letzten Sommer am Meer waren, hat Leon beim Baden viel Salzwasser geschluckt. Seitdem hat er ein bisschen Angst vor dem Wasser. Für einen ängstlichen [[3]] wie ihn ist eine [[4]] Gruppe bestimmt besser. Wie viele Kinder sind denn in einem Kurs?\n\nLeon hat jeden Tag bis 15 Uhr Unterricht, deshalb kann er erst [[5]] 16 Uhr zum Schwimmkurs kommen. Dürfen die Eltern im Schwimmbad zuschauen? Ich glaube, es [[6]] Leon helfen, wenn ich in der Nähe bin.\n\nLeon hat übrigens einen Freund, [[7]] Eltern ihn auch gern anmelden möchten. Die beiden kennen sich aus der Schule, und Leon würde sehr gern mit [[8]] zusammen schwimmen lernen. Bitte teilen Sie mir auch mit, [[9]] die Kinder zum Kurs mitbringen müssen.\n\nIch hoffe sehr, dass noch Plätze frei sind, [[10]] bis zu den Sommerferien soll Leon sicher schwimmen können.\n\nMit freundlichen Grüßen\nSabine Wolf",
   "gaps": [
     {
       "n": 1,
       "options": [
-        { "key": "a", "text": "angeboten" },
-        { "key": "b", "text": "anbieten" },
-        { "key": "c", "text": "anbietet" }
+        { "key": "a", "text": "wird" },
+        { "key": "b", "text": "worden" },
+        { "key": "c", "text": "werden" }
       ],
-      "answer": "a",
-      "explanation": "The courses are offered by the club – Passiv: „werden“ + Partizip II → „angeboten werden“. „anbieten werden“ would be an active future without an object, and „anbietet“ is a conjugated verb form.",
-      "explanationDe": "Die Kurse werden vom Verein angeboten – also Passiv: „werden“ + Partizip II → „angeboten werden“. „anbieten werden“ wäre ein aktives Futur ohne Objekt, und „anbietet“ ist eine konjugierte Verbform.",
+      "answer": "c",
+      "explanation": "The courses are offered by the club – Passiv Präsens: „werden“ + Partizip II. The subject „Anfängerkurse“ is plural, so „angeboten werden“. „wird“ is singular, and „worden“ only appears in the Perfekt („angeboten worden sind“).",
+      "explanationDe": "Die Kurse werden vom Verein angeboten – also Passiv Präsens: „werden“ + Partizip II. Das Subjekt „Anfängerkurse“ ist Plural, also „angeboten werden“. „wird“ ist Singular, und „worden“ gibt es nur im Perfekt („angeboten worden sind“).",
       "grammar": "passiv"
     },
     {
@@ -95,14 +95,14 @@
     {
       "n": 8,
       "options": [
-        { "key": "a", "text": "sich" },
-        { "key": "b", "text": "ihnen" },
-        { "key": "c", "text": "ihr" }
+        { "key": "a", "text": "ihm" },
+        { "key": "b", "text": "ihn" },
+        { "key": "c", "text": "er" }
       ],
       "answer": "a",
-      "explanation": "„sich kennen“ = to know each other. With the subject „die beiden“ the reflexive pronoun is „sich“. „ihnen“ is a dative form, and „ihr“ is either a dative (to her) or a possessive article – neither can be the object of „kennen“, which needs an accusative.",
-      "explanationDe": "„sich kennen“ = einander kennen. Mit dem Subjekt „die beiden“ heißt das Reflexivpronomen „sich“. „ihnen“ ist eine Dativform, und „ihr“ ist entweder Dativ (= der Frau) oder ein Possessivartikel – beides kann nicht das Objekt von „kennen“ sein, denn „kennen“ braucht einen Akkusativ.",
-      "grammar": "reflexive-verben"
+      "explanation": "„mit“ always takes the dative. The pronoun stands for Leon's friend (masculine), so „mit ihm“. Don't copy the „ihn“ from the sentence before: there it is the accusative object of „anmelden“. „er“ is the nominative.",
+      "explanationDe": "Nach „mit“ steht immer der Dativ. Das Pronomen steht für Leons Freund (maskulin), also „mit ihm“. Kopier nicht das „ihn“ aus dem Satz davor: Dort ist es das Akkusativobjekt von „anmelden“. „er“ ist Nominativ.",
+      "grammar": "pronomen"
     },
     {
       "n": 9,
@@ -119,14 +119,14 @@
     {
       "n": 10,
       "options": [
-        { "key": "a", "text": "dass" },
-        { "key": "b", "text": "ob" },
-        { "key": "c", "text": "wenn" }
+        { "key": "a", "text": "weil" },
+        { "key": "b", "text": "denn" },
+        { "key": "c", "text": "deshalb" }
       ],
-      "answer": "a",
-      "explanation": "„hoffen“ is followed by a „dass“-clause: „Ich hoffe, dass …“. „ob“ (indirect question) and „wenn“ (condition) cannot be the object of „hoffen“.",
-      "explanationDe": "Nach „hoffen“ folgt ein „dass“-Satz: „Ich hoffe, dass …“. „ob“ (indirekte Frage) und „wenn“ (Bedingung) können nicht das Objekt von „hoffen“ sein.",
-      "grammar": "nebensaetze-grundlagen"
+      "answer": "b",
+      "explanation": "The gap gives a reason, and after it comes main-clause word order: „bis zu den Sommerferien“ in position 1, the verb „soll“ in position 2. That is only possible after „denn“. „weil“ would send the verb to the end, and „deshalb“ would need the verb directly after it and introduces a consequence.",
+      "explanationDe": "Die Lücke nennt einen Grund, und danach kommt die Wortstellung vom Hauptsatz: „bis zu den Sommerferien“ auf Position 1, das Verb „soll“ auf Position 2. Das geht nur nach „denn“. Nach „weil“ stünde das Verb am Ende, und nach „deshalb“ müsste das Verb direkt folgen – außerdem nennt „deshalb“ eine Folge.",
+      "grammar": "konnektoren-hauptsatz"
     }
   ],
   "glossary": [
@@ -139,6 +139,7 @@
     { "de": "zuschauen", "en": "to watch" },
     { "de": "in der Nähe", "en": "nearby" },
     { "de": "mitteilen", "en": "to let someone know" },
-    { "de": "Plätze sind frei", "en": "there are places available" }
+    { "de": "Plätze sind frei", "en": "there are places available" },
+    { "de": "die Sommerferien (Pl.)", "en": "summer holidays" }
   ]
 }

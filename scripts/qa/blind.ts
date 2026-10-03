@@ -29,7 +29,8 @@ const STRIP = new Set(["answer", "explanation", "evidence", "distractors", "glos
 function strip(value: unknown): unknown {
   if (Array.isArray(value)) return value.map(strip);
   if (value && typeof value === "object")
-    return Object.fromEntries(Object.entries(value).filter(([k]) => !STRIP.has(k)).map(([k, v]) => [k, strip(v)]));
+    // German twins (explanationDe, whyDe …) give the answer away just like the English fields.
+    return Object.fromEntries(Object.entries(value).filter(([k]) => !STRIP.has(k.replace(/De$/, ""))).map(([k, v]) => [k, strip(v)]));
   return value;
 }
 

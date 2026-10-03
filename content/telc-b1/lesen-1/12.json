@@ -7,7 +7,7 @@
   "difficulty": 3,
   "headlines": [
     { "key": "a", "text": "Helfen statt zahlen: Jung und Alt unter einem Dach" },
-    { "key": "b", "text": "Gästezimmer zum Teilen: Zwei Wohnungen für 200 Haushalte" },
+    { "key": "b", "text": "Zürich: Nachbarn nutzen Wohnungen für Besucher gemeinsam" },
     { "key": "c", "text": "Zürich: Neue Ferienwohnungen für Touristen" },
     { "key": "d", "text": "Holzhaus fertig: Vor dem Einzug dürfen alle schauen" },
     { "key": "e", "text": "Studierende übernehmen die Pflege von Senioren" },
@@ -54,8 +54,8 @@
       "n": 5,
       "text": "Wer Besuch bekommt, braucht ein Gästezimmer – doch das steht die meiste Zeit leer. In einer Wohnsiedlung in Zürich-Altstetten hat man deshalb eine andere Lösung gefunden: Die rund 200 Haushalte teilen sich zwei möblierte Gästewohnungen. Wenn Freunde oder Verwandte kommen, können die Bewohnerinnen und Bewohner eine davon über eine Internetseite reservieren. Eine Nacht kostet 40 Franken, die Reinigung ist inklusive. Weil kein eigenes Gästezimmer nötig ist, konnten die Wohnungen kleiner und damit günstiger gebaut werden. An Touristen werden die Gästewohnungen nicht vermietet. Die Idee ist so beliebt, dass die Wohnungen oft Wochen im Voraus ausgebucht sind.",
       "answer": "b",
-      "explanation": "The households of a housing estate share two furnished guest flats („teilen sich zwei möblierte Gästewohnungen“) for their visitors, so (b). Headline (c) is a trap: the flats are not rented out to tourists.",
-      "explanationDe": "Die Haushalte einer Wohnsiedlung „teilen sich zwei möblierte Gästewohnungen“ für ihren Besuch, also passt (b). Überschrift (c) ist eine Falle: Die Wohnungen werden nicht an Touristen vermietet.",
+      "explanation": "The households of a housing estate share two furnished guest flats („teilen sich zwei möblierte Gästewohnungen“) for their visitors – neighbours use them together, so (b). Headline (c) is a trap: it also starts with „Zürich“, but the flats are not rented out to tourists.",
+      "explanationDe": "Die Haushalte einer Wohnsiedlung „teilen sich zwei möblierte Gästewohnungen“ für ihren Besuch – die Nachbarn nutzen sie also gemeinsam, deshalb passt (b). Überschrift (c) ist eine Falle: Sie beginnt auch mit „Zürich“, aber die Wohnungen werden nicht an Touristen vermietet.",
       "evidence": ["Die rund 200 Haushalte teilen sich zwei möblierte Gästewohnungen"]
     }
   ],

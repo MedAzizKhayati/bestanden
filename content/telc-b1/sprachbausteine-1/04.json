@@ -6,7 +6,7 @@
   "topic": "bildung",
   "difficulty": 2,
   "textType": "email-semiformal",
-  "text": "Sehr geehrte Damen und Herren,\n\nIhre Sprachschule [[1]] mir von einem [[2]] empfohlen, der vor zwei Jahren bei Ihnen einen Deutschkurs gemacht hat. Ich interessiere mich besonders für [[3]] Vorbereitungskurs zur Prüfung telc Deutsch B1, der im Oktober beginnt.\n\nIch komme aus Portugal und lebe seit einem Jahr in Nürnberg. Ich arbeite als Koch in einem Hotel und habe abends oft Dienst, [[4]] kann ich nur vormittags lernen. Gibt es den Kurs auch am Vormittag? Außerdem möchte ich gern wissen, [[5]] ich vor Kursbeginn einen Einstufungstest machen muss oder nicht.\n\nLetztes Jahr [[6]] ich schon einen A2-Kurs an der Volkshochschule. Dort waren wir über zwanzig Leute, und die Lehrerin hatte kaum Zeit für einzelne Fragen. Diesmal hätte ich gern einen Kurs mit [[7]] Teilnehmern als damals.\n\nKönnen Sie mir auch sagen, wie viel der Kurs kostet? Gibt es vielleicht eine Ermäßigung für Teilnehmer, [[8]] Arbeitgeber einen Teil der Kosten übernimmt? Mein Chef hat mir nämlich angeboten, die Hälfte der Kursgebühr [[9]].\n\nIch [[10]] mich sehr freuen, wenn Sie mir bald antworten.\n\nMit freundlichen Grüßen\nCarlos Mendes",
+  "text": "Sehr geehrte Damen und Herren,\n\nIhre Sprachschule [[1]] mir von einem [[2]] empfohlen, der vor zwei Jahren bei Ihnen einen Deutschkurs gemacht hat. Ich interessiere mich besonders für [[3]] Vorbereitungskurs zur Prüfung telc Deutsch B1, der im Oktober beginnt.\n\nIch komme aus Portugal und lebe seit einem Jahr in Nürnberg. Ich arbeite als Koch in einem Hotel und habe abends oft Dienst, [[4]] kann ich nur vormittags lernen. Gibt es den Kurs auch am Vormittag? Außerdem möchte ich gern wissen, [[5]] ich vor Kursbeginn einen Einstufungstest machen muss.\n\nLetztes Jahr habe ich schon einen A2-Kurs an der Volkshochschule besucht. Dort waren wir über zwanzig Leute. Die Lehrerin war zwar sehr nett, aber in der großen Gruppe konnten wir [[6]] kaum Fragen stellen. Diesmal hätte ich gern einen Kurs mit [[7]] Teilnehmern als damals.\n\nKönnen Sie mir auch sagen, wie viel der Kurs kostet? Gibt es vielleicht eine Ermäßigung für Teilnehmer, [[8]] Arbeitgeber einen Teil der Kosten übernimmt? Mein Chef hat mir nämlich angeboten, die Hälfte der Kursgebühr [[9]].\n\nIch [[10]] mich sehr freuen, wenn Sie mir bald antworten.\n\nMit freundlichen Grüßen\nCarlos Mendes",
   "gaps": [
     {
       "n": 1,
@@ -23,14 +23,14 @@
     {
       "n": 2,
       "options": [
-        { "key": "a", "text": "Kollegen" },
-        { "key": "b", "text": "Kollege" },
-        { "key": "c", "text": "Kollegens" }
+        { "key": "a", "text": "Bekannten" },
+        { "key": "b", "text": "Bekannter" },
+        { "key": "c", "text": "Bekanntem" }
       ],
       "answer": "a",
-      "explanation": "„der Kollege“ is an n-noun: after „von einem“ (dative) it takes „-n“: „von einem Kollegen“. „Kollege“ is only the nominative singular, and „Kollegens“ does not exist.",
-      "explanationDe": "„der Kollege“ ist ein n-Nomen: Nach „von einem“ (Dativ) bekommt es ein „-n“: „von einem Kollegen“. „Kollege“ ist nur der Nominativ Singular, und „Kollegens“ gibt es nicht.",
-      "grammar": "n-deklination"
+      "explanation": "„der Bekannte“ is declined like an adjective. After „von einem“ (dative) the article already shows the case, so the ending is „-en“: „von einem Bekannten“. „Bekanntem“ copies the article ending – a typical trap; „Bekannter“ is the nominative („ein Bekannter“).",
+      "explanationDe": "„der Bekannte“ wird wie ein Adjektiv dekliniert. Nach „von einem“ (Dativ) zeigt schon der Artikel den Kasus, deshalb ist die Endung „-en“: „von einem Bekannten“. „Bekanntem“ kopiert die Endung vom Artikel – eine typische Falle; „Bekannter“ ist der Nominativ („ein Bekannter“).",
+      "grammar": "adjektivdeklination"
     },
     {
       "n": 3,
@@ -64,21 +64,21 @@
         { "key": "c", "text": "wenn" }
       ],
       "answer": "b",
-      "explanation": "„wissen möchten, ob …“ is an indirect yes/no question; the words „oder nicht“ at the end make this clear. „dass“ would introduce a fact, „wenn“ a condition.",
-      "explanationDe": "„wissen möchten, ob …“ ist eine indirekte Ja-/Nein-Frage; das zeigen auch die Wörter „oder nicht“ am Ende. „dass“ würde eine Tatsache einleiten, „wenn“ eine Bedingung.",
+      "explanation": "Carlos does not know the answer yet – he asks a yes/no question („Muss ich einen Einstufungstest machen?“). After „wissen möchten“ this becomes an indirect question with „ob“. „dass“ would introduce a fact he already knows, „wenn“ a condition or a time.",
+      "explanationDe": "Carlos kennt die Antwort noch nicht – er stellt eine Ja-/Nein-Frage („Muss ich einen Einstufungstest machen?“). Nach „wissen möchten“ wird daraus eine indirekte Frage mit „ob“. „dass“ würde eine Tatsache einleiten, die er schon kennt, „wenn“ eine Bedingung oder eine Zeit.",
       "grammar": "indirekte-fragen"
     },
     {
       "n": 6,
       "options": [
-        { "key": "a", "text": "besuchte" },
-        { "key": "b", "text": "besucht" },
-        { "key": "c", "text": "besuchen" }
+        { "key": "a", "text": "sie" },
+        { "key": "b", "text": "ihr" },
+        { "key": "c", "text": "ihm" }
       ],
-      "answer": "a",
-      "explanation": "„Letztes Jahr“ needs a past form for „ich“: the Präteritum „besuchte“. The participle „besucht“ would need „habe“, and „besuchen“ is the infinitive.",
-      "explanationDe": "„Letztes Jahr“ braucht eine Vergangenheitsform für „ich“: das Präteritum „besuchte“. Das Partizip „besucht“ bräuchte „habe“, und „besuchen“ ist der Infinitiv.",
-      "grammar": "praeteritum"
+      "answer": "b",
+      "explanation": "„jemandem eine Frage stellen“ takes the dative, and the person is „die Lehrerin“ (feminine): „konnten wir ihr kaum Fragen stellen“. „sie“ is the accusative, „ihm“ is masculine or neuter – it cannot refer to the teacher.",
+      "explanationDe": "„jemandem eine Frage stellen“ braucht den Dativ, und die Person ist „die Lehrerin“ (feminin): „konnten wir ihr kaum Fragen stellen“. „sie“ ist Akkusativ, „ihm“ ist maskulin oder neutral – es passt nicht zur Lehrerin.",
+      "grammar": "pronomen"
     },
     {
       "n": 7,
@@ -134,7 +134,8 @@
     { "de": "der Vorbereitungskurs", "en": "preparation course" },
     { "de": "Dienst haben", "en": "to be on duty, to work a shift" },
     { "de": "der Einstufungstest", "en": "placement test" },
-    { "de": "einzeln", "en": "individual" },
+    { "de": "der Bekannte", "en": "acquaintance" },
+    { "de": "jemandem eine Frage stellen", "en": "to ask somebody a question" },
     { "de": "die Ermäßigung", "en": "discount, reduced price" },
     { "de": "der Arbeitgeber", "en": "employer" },
     { "de": "die Kosten übernehmen", "en": "to cover the costs" },

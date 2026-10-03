@@ -8,73 +8,73 @@
   "situations": [
     {
       "n": 1,
-      "text": "Das Display Ihres Smartphones ist gebrochen. Sie brauchen das Handy unbedingt heute noch, weil Sie morgen früh verreisen.",
+      "text": "Über den Bildschirm Ihres Smartphones läuft ein langer Sprung, sodass Sie kaum noch etwas erkennen können. Weil Sie am Freitag früh verreisen, muss das Gerät unbedingt heute, am Donnerstag, wieder funktionieren.",
       "answer": "d",
-      "explanation": "„Displaytausch … in ca. 30 Minuten“ and „Ohne Termin – einfach vorbeikommen“ – at (d) your phone is repaired the same day. The PC-Doktor (h) also repairs phones, but it takes „2–3 Werktage“.",
-      "explanationDe": "„Displaytausch … in ca. 30 Minuten“ und „Ohne Termin – einfach vorbeikommen“ – bei (d) wird dein Handy noch am selben Tag repariert. Der PC-Doktor (h) repariert auch Handys, aber das dauert „2–3 Werktage“."
+      "explanation": "The screen must be repaired today, a Thursday. Handyklinik Dortmund (d) replaces displays „in ca. 30 Minuten“, you can come „Ohne Termin“, and it is open „Mo.–Sa. 10–19 Uhr“. The Repair-Café (j) also mentions „Smartphones“, but it only opens on the „ersten Samstag im Monat“ – and you have to repair the phone yourself.",
+      "explanationDe": "Der Bildschirm muss heute, am Donnerstag, repariert werden. Die Handyklinik Dortmund (d) tauscht Displays „in ca. 30 Minuten“, du kannst „Ohne Termin“ kommen, und sie hat „Mo.–Sa. 10–19 Uhr“ geöffnet. Das Repair-Café (j) nennt auch „Smartphones“, hat aber nur am „ersten Samstag im Monat“ geöffnet – und du musst selbst reparieren."
     },
     {
       "n": 2,
-      "text": "Sie haben sich am Sonntagabend ausgesperrt. Ihr Schlüssel liegt in der Wohnung.",
+      "text": "Sie haben am Sonntagabend die Wohnungstür hinter sich zugezogen, aber Ihr Schlüsselbund liegt noch drinnen auf dem Küchentisch.",
       "answer": "g",
-      "explanation": "„24 Stunden am Tag … auch an Sonn- und Feiertagen“ and „Türöffnung“ – the emergency locksmith (g) opens your door on Sunday evening. The key service (l) is closed on Sundays.",
-      "explanationDe": "„24 Stunden am Tag … auch an Sonn- und Feiertagen“ und „Türöffnung“ – der Schlüsselnotdienst (g) öffnet deine Tür auch am Sonntagabend. Der Schlüsselservice (l) hat sonntags geschlossen."
+      "explanation": "You are locked out on a Sunday evening. Schlüsselnotdienst Ruhr (g) comes „jederzeit – 365 Tage im Jahr, auch an Sonn- und Feiertagen“. Schlüsselservice Brandt (l) also works with keys, but it is a shop that is closed on Sundays („Mo.–Fr. 9–18 Uhr, Sa. 9–14 Uhr“).",
+      "explanationDe": "Du hast dich am Sonntagabend ausgesperrt. Der Schlüsselnotdienst Ruhr (g) kommt „jederzeit – 365 Tage im Jahr, auch an Sonn- und Feiertagen“. Der Schlüsselservice Brandt (l) hat auch mit Schlüsseln zu tun, ist aber ein Laden, der sonntags geschlossen ist („Mo.–Fr. 9–18 Uhr, Sa. 9–14 Uhr“)."
     },
     {
       "n": 3,
-      "text": "Ihre neue Mitbewohnerin braucht einen eigenen Schlüssel für die Wohnung. Deshalb möchten Sie einen zweiten Schlüssel machen lassen.",
+      "text": "Ihre neue Mitbewohnerin zieht nächste Woche ein. Damit sie jederzeit in die Wohnung kommt, möchten Sie einen weiteren Schlüssel anfertigen lassen.",
       "answer": "l",
-      "explanation": "„Schlüssel nachmachen in 5 Minuten“ – the shoe and key service (l) copies keys. The emergency service (g) only opens locked doors.",
-      "explanationDe": "„Schlüssel nachmachen in 5 Minuten“ – der Schuh- und Schlüsselservice (l) macht Schlüssel nach. Der Notdienst (g) öffnet nur verschlossene Türen."
+      "explanation": "You need a copy of your key. Schlüsselservice Brandt (l) offers „Schlüssel nachmachen in 5 Minuten“. The emergency service (g) shares many words („jederzeit“, „Wohnung“), but it only opens locked doors („Türöffnung“) – it does not copy keys.",
+      "explanationDe": "Du brauchst einen zweiten Schlüssel. Der Schlüsselservice Brandt (l) bietet „Schlüssel nachmachen in 5 Minuten“ an. Der Notdienst (g) hat viele gleiche Wörter („jederzeit“, „Wohnung“), aber er öffnet nur Türen („Türöffnung“) – Schlüssel macht er nicht nach."
     },
     {
       "n": 4,
-      "text": "Sie ziehen Ende des Monats aus. Die alte Wohnung muss bei der Übergabe perfekt sauber sein, aber Sie haben keine Zeit zum Putzen.",
+      "text": "Ende des Monats ziehen Sie aus Ihrer Mietwohnung aus. Bei der Übergabe an den Vermieter muss alles blitzsauber sein, aber für den Hausputz fehlt Ihnen die Zeit.",
       "answer": "f",
-      "explanation": "„Endreinigung beim Auszug – mit Abnahmegarantie“ – the cleaning company (f) cleans the flat for the handover. The painters (b) also help „vor dem Auszug“, but they paint – they do not clean.",
-      "explanationDe": "„Endreinigung beim Auszug – mit Abnahmegarantie“ – die Reinigungsfirma (f) putzt die Wohnung für die Übergabe. Der Malerbetrieb (b) hilft auch „vor dem Auszug“, aber er streicht – er putzt nicht."
+      "explanation": "The flat must be cleaned when you move out. Glanzwerk (f) offers „Endreinigung beim Auszug – mit Abnahmegarantie“. Malerbetrieb Hartmann (b) uses the same words („Übergabe an den Vermieter?“), but it paints the rooms – it does not clean them.",
+      "explanationDe": "Die Wohnung muss beim Auszug geputzt werden. Glanzwerk (f) bietet „Endreinigung beim Auszug – mit Abnahmegarantie“ an. Der Malerbetrieb Hartmann (b) benutzt dieselben Wörter („Übergabe an den Vermieter?“), aber er streicht die Räume – putzen tut er nicht."
     },
     {
       "n": 5,
-      "text": "Ihr Toaster funktioniert nicht mehr. Sie haben wenig Geld und möchten gern lernen, wie man ihn selbst repariert.",
+      "text": "Ihr Wasserkocher funktioniert nicht mehr. Sie möchten kein Geld für eine Werkstatt ausgeben, sondern lieber selbst herausfinden, wie man ihn wieder in Ordnung bringt.",
       "answer": "j",
-      "explanation": "„Ehrenamtliche Helfer zeigen Ihnen, wie Sie Toaster … selbst reparieren“ and „Kostenlos“ – the repair café (j) is free and you learn to do it yourself. The appliance service (i) repairs things for you and is not free.",
-      "explanationDe": "„Ehrenamtliche Helfer zeigen Ihnen, wie Sie Toaster … selbst reparieren“ und „Kostenlos“ – das Repair-Café (j) kostet nichts, und du lernst, es selbst zu machen. Der Hausgeräte-Service (i) repariert die Geräte für dich und ist nicht kostenlos."
+      "explanation": "You want to repair the kettle yourself and pay nothing. At the Repair-Café (j) volunteers show you „wie Sie kleine Elektrogeräte … selbst reparieren“, and it is „Kostenlos“. Hausgeräte-Service Becker (i) even names the „Wasserkocher“, but there a technician does the repair – and you pay for it.",
+      "explanationDe": "Du willst den Wasserkocher selbst reparieren und nichts bezahlen. Im Repair-Café (j) zeigen Ehrenamtliche dir, „wie Sie kleine Elektrogeräte … selbst reparieren“, und es ist „Kostenlos“. Der Hausgeräte-Service Becker (i) nennt sogar den „Wasserkocher“, aber dort repariert ein Techniker – und das kostet Geld."
     },
     {
       "n": 6,
-      "text": "Die Trommel Ihrer Waschmaschine dreht sich nicht mehr. Sie möchten, dass möglichst schnell ein Techniker zu Ihnen nach Hause kommt.",
+      "text": "Am Dienstagmorgen merken Sie, dass Ihre Waschmaschine nach dem Waschgang nicht mehr abpumpt. Ein Fachmann soll möglichst schon am Mittwoch vorbeikommen und das Gerät direkt in Ihrer Wohnung reparieren.",
       "answer": "i",
-      "explanation": "„Unsere Techniker kommen zu Ihnen – Termin meist innerhalb von 24 Stunden“ – the appliance service (i) repairs washing machines at your home. The repair café (j) says „keine Großgeräte wie Waschmaschinen“.",
-      "explanationDe": "„Unsere Techniker kommen zu Ihnen – Termin meist innerhalb von 24 Stunden“ – der Hausgeräte-Service (i) repariert Waschmaschinen bei dir zu Hause. Beim Repair-Café (j) steht: „keine Großgeräte wie Waschmaschinen“."
+      "explanation": "A technician should repair the washing machine at your home, ideally on Wednesday. Becker (i) repairs everything „vom Wasserkocher bis zur Waschmaschine“ at your home, with a „Termin garantiert am nächsten Werktag“ – after a Tuesday, that is Wednesday. The Repair-Café (j) mentions „Waschmaschinen“, but only to say: „Bitte keine … Großgeräte wie Waschmaschinen!“",
+      "explanationDe": "Ein Techniker soll die Waschmaschine bei dir zu Hause reparieren, am besten am Mittwoch. Becker (i) repariert alles „vom Wasserkocher bis zur Waschmaschine“ bei dir zu Hause, mit „Termin garantiert am nächsten Werktag“ – nach einem Dienstag ist das der Mittwoch. Das Repair-Café (j) nennt zwar „Waschmaschinen“, aber nur so: „Bitte keine … Großgeräte wie Waschmaschinen!“"
     },
     {
       "n": 7,
-      "text": "Am Samstagmorgen ist in Ihrem Bad ein Wasserrohr kaputtgegangen, und Wasser läuft auf den Boden. Sie brauchen sofort einen Handwerker.",
+      "text": "Am Samstagmorgen ist unter Ihrem Waschbecken ein Rohr geplatzt, und das Wasser läuft bereits über den Badezimmerboden. Sie brauchen sofort einen Installateur.",
       "answer": "x",
-      "explanation": "The plumber (e) repairs pipes, but only „Mo.–Fr. 7–17 Uhr“ and there is „kein Notdienst am Wochenende“. The electrician (k) has a weekend emergency service, but he does not repair water pipes. So the answer is x.",
-      "explanationDe": "Die Sanitärfirma (e) repariert Rohre, aber nur „Mo.–Fr. 7–17 Uhr“, und in der Anzeige steht: „kein Notdienst am Wochenende“. Der Elektriker (k) hat einen Notdienst am Wochenende, aber er repariert keine Wasserrohre. Die Lösung ist also x."
+      "explanation": "Sanitär Yilmaz (e) repairs „geplatzte Rohre“, but there is „Leider kein Notdienst am Wochenende“ – and it is Saturday morning. No other ad offers a plumber, so x.",
+      "explanationDe": "Sanitär Yilmaz (e) repariert „geplatzte Rohre“, aber es gibt „Leider kein Notdienst am Wochenende“ – und es ist Samstagmorgen. Keine andere Anzeige bietet einen Installateur an, also x."
     },
     {
       "n": 8,
-      "text": "Sie möchten Ihr Wohnzimmer neu streichen lassen, am besten schon nächste Woche. Vorher möchten Sie aber wissen, was das kostet.",
+      "text": "Ihr Wohnzimmer soll eine neue Farbe bekommen, am besten schon nächste Woche. Bevor Sie jemanden beauftragen, möchten Sie kostenlos erfahren, was die Arbeit kosten wird.",
       "answer": "b",
-      "explanation": "„Streichen“, „Kostenloser Kostenvoranschlag“ and „oft schon in der nächsten Woche“ – the painters (b) fit. The electrician (k) also offers a free estimate, but he does not paint walls.",
-      "explanationDe": "„Streichen“, „Kostenloser Kostenvoranschlag“ und „oft schon in der nächsten Woche“ – der Malerbetrieb (b) passt. Der Elektriker (k) macht auch einen kostenlosen Kostenvoranschlag, aber er streicht keine Wände."
+      "explanation": "Next week and a free quote are decisive. Malerbetrieb Hartmann (b) offers a „Kostenvoranschlag vor Ort – gratis“ and appointments „oft schon nach wenigen Tagen“. Malermeister Frenzel (h) seems perfect („Neue Farbe für Ihr Wohnzimmer?“, „Kostenlos“), but the ad says „nächste freie Termine erst in 6 Wochen“.",
+      "explanationDe": "Entscheidend sind die nächste Woche und ein kostenloses Angebot. Der Malerbetrieb Hartmann (b) bietet einen „Kostenvoranschlag vor Ort – gratis“ und Termine „oft schon nach wenigen Tagen“. Malermeister Frenzel (h) wirkt perfekt („Neue Farbe für Ihr Wohnzimmer?“, „Kostenlos“), aber dort steht: „nächste freie Termine erst in 6 Wochen“."
     },
     {
       "n": 9,
-      "text": "Für eine Hochzeit brauchen Sie Ihren Anzug frisch gereinigt. Weil Sie den ganzen Tag arbeiten, können Sie ihn nicht selbst zur Reinigung bringen.",
+      "text": "Für eine Hochzeit muss Ihr dunkler Anzug gereinigt werden. Da Sie den ganzen Tag arbeiten, schaffen Sie es nicht, ihn selbst ins Geschäft zu bringen.",
       "answer": "a",
-      "explanation": "„Anzüge 14,90 €“ and „Abhol- und Bringservice“ – the dry cleaner (a) collects the suit from your home and brings it back. The cleaning company (f) cleans flats and offices, not clothes.",
-      "explanationDe": "„Anzüge 14,90 €“ und „Abhol- und Bringservice“ – die Textilreinigung (a) holt den Anzug bei dir zu Hause ab und bringt ihn zurück. Die Reinigungsfirma (f) putzt Wohnungen und Büros, keine Kleidung."
+      "explanation": "You cannot take the suit to the shop yourself. Blitzblank (a) has an „Abhol- und Bringservice: Wir holen Ihre Kleidung bei Ihnen ab“. Reinigung Yıldız (k) promises „Ihr Anzug – in 24 Stunden gereinigt“, but says „Bitte im Laden abgeben – kein Abholservice“.",
+      "explanationDe": "Du kannst den Anzug nicht selbst ins Geschäft bringen. Blitzblank (a) hat einen „Abhol- und Bringservice: Wir holen Ihre Kleidung bei Ihnen ab“. Die Reinigung Yıldız (k) verspricht „Ihr Anzug – in 24 Stunden gereinigt“, schreibt aber „Bitte im Laden abgeben – kein Abholservice“."
     },
     {
       "n": 10,
-      "text": "Am Sonntagmorgen merken Sie, dass Ihr Fahrrad einen Platten hat. Es soll noch am selben Tag repariert werden, weil Sie eine Radtour machen möchten.",
+      "text": "Am Sonntagmorgen bemerken Sie, dass ein Reifen an Ihrem Fahrrad platt ist. Er soll noch am selben Tag geflickt werden, weil Sie nachmittags eine Radtour geplant haben.",
       "answer": "x",
-      "explanation": "The mobile bike service (c) comes to your door, but only „Mo.–Sa.“ – not on Sunday. The repair café (j) is on Saturdays and repairs „keine Fahrräder“. So no ad fits: x.",
-      "explanationDe": "Der mobile Fahrradservice (c) kommt bis vor deine Haustür, aber nur „Mo.–Sa.“ – nicht am Sonntag. Das Repair-Café (j) ist samstags und repariert „keine Fahrräder“. Keine Anzeige passt also: x."
+      "explanation": "Radservice mobil (c) repairs a „Platter Reifen“ „oft noch am selben Tag“, but only „Mo.–Sa.“ – not on Sunday. The Repair-Café (j) says „Bitte keine Fahrräder“. So x.",
+      "explanationDe": "Der Radservice mobil (c) repariert einen „Platter Reifen“ „oft noch am selben Tag“, aber nur „Mo.–Sa.“ – nicht am Sonntag. Das Repair-Café (j) schreibt „Bitte keine Fahrräder“. Also x."
     }
   ],
   "ads": [
@@ -84,9 +84,9 @@
       "subheading": "Sauber – schnell – zuverlässig",
       "lines": [
         "Hemden 2,80 €, Anzüge 14,90 €, Abendkleider ab 19 €",
-        "Abhol- und Bringservice – bequem von zu Hause aus bestellen",
-        "Fertig in 48 Stunden, Express am selben Tag (+5 €)",
-        "Änderungen und kleine Reparaturen"
+        "Abhol- und Bringservice: Wir holen Ihre Kleidung bei Ihnen ab und liefern sie sauber zurück.",
+        "Fertig in 48 Stunden",
+        "Online oder per Telefon bestellen"
       ],
       "footer": "Marienweg 14, 44135 Dortmund · Tel. 0231 5548210"
     },
@@ -95,9 +95,9 @@
       "heading": "Malerbetrieb Hartmann & Sohn",
       "lines": [
         "Streichen, Tapezieren, Bodenbeläge",
-        "Kostenloser Kostenvoranschlag vor Ort",
-        "Kurzfristige Termine – oft schon in der nächsten Woche",
-        "Renovierung vor dem Auszug? Fragen Sie uns!"
+        "Unverbindlicher Kostenvoranschlag vor Ort – gratis",
+        "Kurzfristige Termine – oft schon nach wenigen Tagen",
+        "Übergabe an den Vermieter? Wir streichen vorher alle Räume."
       ],
       "footer": "Tel. 0231 4479031 · www.maler-hartmann-dortmund.de"
     },
@@ -107,7 +107,7 @@
       "subheading": "Ihre Fahrradwerkstatt auf Rädern",
       "lines": [
         "Wir reparieren Ihr Fahrrad direkt vor Ihrer Haustür.",
-        "Platten, Bremsen, Gangschaltung, Licht",
+        "Platter Reifen, Bremsen, Gangschaltung, Licht – oft noch am selben Tag",
         "Mo.–Sa. 8–20 Uhr, Anfahrt im Stadtgebiet 10 €",
         "Termine online oder per SMS"
       ],
@@ -118,7 +118,7 @@
       "heading": "Handyklinik Dortmund",
       "subheading": "Display kaputt? Kein Problem!",
       "lines": [
-        "Displaytausch für alle gängigen Marken in ca. 30 Minuten",
+        "Displaytausch für alle gängigen Handymarken in ca. 30 Minuten",
         "Ohne Termin – einfach vorbeikommen",
         "Ab 49 €, 6 Monate Garantie auf jede Reparatur",
         "Mo.–Sa. 10–19 Uhr"
@@ -129,7 +129,7 @@
       "key": "e",
       "heading": "Sanitär Yilmaz GmbH",
       "lines": [
-        "Rohrverstopfung, tropfende Wasserhähne, kaputte Rohre, neue Bäder",
+        "Verstopfte Abflüsse, tropfende Wasserhähne, geplatzte Rohre, neue Bäder",
         "Faire Preise, saubere Arbeit",
         "Erreichbar Mo.–Fr. 7–17 Uhr",
         "Leider kein Notdienst am Wochenende"
@@ -141,7 +141,7 @@
       "heading": "Glanzwerk Reinigungsservice",
       "lines": [
         "Fenster, Treppenhäuser, Büros",
-        "Endreinigung beim Auszug – mit Abnahmegarantie: Ist Ihr Vermieter nicht zufrieden, kommen wir kostenlos noch einmal.",
+        "Endreinigung beim Auszug – mit Abnahmegarantie: Gibt es bei der Abnahme etwas zu beanstanden, kommen wir kostenlos noch einmal.",
         "Kostenlose Besichtigung",
         "Mo.–Sa. 7–20 Uhr"
       ],
@@ -150,32 +150,32 @@
     {
       "key": "g",
       "heading": "Schlüsselnotdienst Ruhr",
-      "subheading": "Tür zu – Schlüssel drinnen?",
+      "subheading": "Ausgesperrt? Wir helfen sofort!",
       "lines": [
-        "24 Stunden am Tag, 365 Tage im Jahr – auch an Sonn- und Feiertagen",
-        "In 30 Minuten bei Ihnen",
+        "Wir kommen jederzeit – 365 Tage im Jahr, auch an Sonn- und Feiertagen.",
+        "In 30 Minuten vor Ihrer Wohnung",
         "Türöffnung zum Festpreis: tagsüber 79 €, nachts und am Wochenende 119 €"
       ],
       "footer": "Tel. 0231 1000247"
     },
     {
       "key": "h",
-      "heading": "PC-Doktor Schulte",
-      "subheading": "Computerhilfe bei Ihnen zu Hause",
+      "heading": "Malermeister Frenzel",
+      "subheading": "Neue Farbe für Ihr Wohnzimmer?",
       "lines": [
-        "Viren entfernen, Drucker einrichten, Daten retten",
-        "Handy- und Tablet-Reparaturen in 2–3 Werktagen",
-        "Hausbesuche Mo.–Fr. 9–18 Uhr, 45 € pro Stunde",
-        "10 % Rabatt für Senioren"
+        "Wände streichen, Lackieren, Fassaden",
+        "Kostenlos: Farbberatung und Angebot zum Festpreis",
+        "Wegen großer Nachfrage: nächste freie Termine erst in 6 Wochen"
       ],
-      "footer": "Tel. 0231 7745186 · www.pc-doktor-schulte.de"
+      "footer": "Lindenhorster Straße 88, 44147 Dortmund · Tel. 0231 8170342"
     },
     {
       "key": "i",
       "heading": "Hausgeräte-Service Becker",
+      "subheading": "Ihr Gerät funktioniert nicht mehr?",
       "lines": [
-        "Reparatur von Waschmaschinen, Trocknern, Spülmaschinen und Herden",
-        "Unsere Techniker kommen zu Ihnen – Termin meist innerhalb von 24 Stunden.",
+        "Reparatur von Haushaltsgeräten aller Art – vom Wasserkocher bis zur Waschmaschine",
+        "Unsere Techniker reparieren bei Ihnen zu Hause – Termin garantiert am nächsten Werktag.",
         "Anfahrt im Stadtgebiet kostenlos",
         "Mo.–Fr. 8–18 Uhr"
       ],
@@ -187,22 +187,23 @@
       "subheading": "Reparieren statt wegwerfen!",
       "lines": [
         "Jeden ersten Samstag im Monat, 14–17 Uhr",
-        "Ehrenamtliche Helfer zeigen Ihnen, wie Sie Toaster, Lampen, Radios und Kleidung selbst reparieren.",
+        "Ehrenamtliche zeigen Ihnen, wie Sie kleine Elektrogeräte, Smartphones, Lampen und Kleidung selbst reparieren.",
         "Bitte keine Fahrräder und keine Großgeräte wie Waschmaschinen!",
-        "Kostenlos – über eine Spende freuen wir uns."
+        "Kostenlos – kommen Sie einfach vorbei, über eine Spende freuen wir uns."
       ],
       "footer": "Nachbarschaftshaus, Kirchweg 12, 44145 Dortmund"
     },
     {
       "key": "k",
-      "heading": "Elektro Kowalski",
-      "subheading": "Ihr Elektriker im Dortmunder Süden",
+      "heading": "Reinigung Yıldız",
+      "subheading": "Ihr Anzug – in 24 Stunden gereinigt",
       "lines": [
-        "Steckdosen, Lampen, Sicherungen, Elektroinstallation",
-        "Notdienst am Wochenende: Tel. 0171 4482013",
-        "Kostenvoranschlag kostenlos"
+        "Hemden, Anzüge, Kleider, Gardinen",
+        "Änderungen und kleine Reparaturen",
+        "Bitte im Laden abgeben – kein Abholservice",
+        "Mo.–Fr. 8–18.30 Uhr, Sa. 9–13 Uhr"
       ],
-      "footer": "Am Bahndamm 7, 44227 Dortmund · Tel. 0231 7039581"
+      "footer": "Brückstraße 5, 44135 Dortmund · Tel. 0231 2290561"
     },
     {
       "key": "l",
@@ -219,14 +220,15 @@
   "glossary": [
     { "de": "sich aussperren", "en": "to lock oneself out" },
     { "de": "der Notdienst", "en": "emergency service" },
-    { "de": "die Türöffnung", "en": "opening a locked door" },
+    { "de": "beanstanden", "en": "to find fault with, to complain about" },
     { "de": "einen Schlüssel nachmachen lassen", "en": "to have a key copied" },
     { "de": "der Kostenvoranschlag", "en": "cost estimate, quote" },
     { "de": "die Endreinigung", "en": "final cleaning (when moving out)" },
     { "de": "die Übergabe (der Wohnung)", "en": "handover (of the flat)" },
-    { "de": "der Platten (ugs.)", "en": "flat tyre" },
-    { "de": "der Werktag", "en": "working day" },
-    { "de": "die Spende", "en": "donation" },
-    { "de": "das Großgerät", "en": "large household appliance" }
+    { "de": "die Abnahme", "en": "inspection (when the landlord takes back the flat)" },
+    { "de": "ehrenamtlich", "en": "voluntary, unpaid" },
+    { "de": "das Großgerät", "en": "large household appliance" },
+    { "de": "platzen", "en": "to burst" },
+    { "de": "einen Reifen flicken", "en": "to mend a tyre" }
   ]
 }

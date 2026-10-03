@@ -6,103 +6,106 @@
   "topic": "wohnen",
   "difficulty": 2,
   "textType": "letter-formal",
-  "text": "Sehr geehrter Herr Lindner,\n\nich bin [[1]] drei Jahren Mieterin der Wohnung im zweiten Stock in der Gartenstraße 14. Leider muss ich mich heute mit einem Problem an Sie wenden.\n\nSeit letztem Montag funktioniert die Heizung in meiner Wohnung nicht mehr. Ich habe sie ganz aufgedreht, [[2]] bleiben alle Heizkörper kalt. Ich habe [[3]] mehrmals versucht, den Hausmeister anzurufen, aber er war leider nie zu [[4]].\n\nMeine Nachbarin im dritten Stock hat das gleiche Problem. Vielleicht liegt der Fehler also nicht in meiner Wohnung, [[5]] in der Heizungsanlage im Keller.\n\nIch bitte Sie deshalb, sich [[6]] schnell wie möglich um eine Reparatur zu kümmern. Im Moment heize ich mit einem kleinen Elektroheizer, [[7]] die Wohnung wird nicht richtig warm.\n\nVon Montag bis Freitag bin ich ab 16 Uhr zu Hause. Wenn der Techniker vormittags kommen muss, nehme ich mir gern einen Tag [[8]]. Bitte teilen Sie mir rechtzeitig den [[9]] mit.\n\nIch hoffe auf eine schnelle Lösung und danke Ihnen im Voraus für Ihre [[10]].\n\nMit freundlichen Grüßen\nKatharina Vogt",
+  "text": "Sehr geehrter Herr Lindner,\n\nich wohne [[1]] drei Jahren in Ihrem Haus in der Gartenstraße 14, im zweiten Stock links. Leider muss ich mich heute mit einem dringenden Problem an Sie wenden.\n\nSeit letztem Montag funktioniert die Heizung in meiner Wohnung nicht mehr. Ich habe alle Heizkörper ganz aufgedreht, [[2]] bleiben sie kalt. Den Hausmeister habe ich mehrmals angerufen, aber er war leider nie zu [[3]]. Meine Nachbarin im dritten Stock hat übrigens das gleiche Problem. Vielleicht liegt der Fehler also nicht in den einzelnen Wohnungen, [[4]] in der Heizungsanlage im Keller.\n\nFür uns ist die Situation besonders unangenehm, [[5]] meine Tochter erst vier Monate alt ist. Im Moment heize ich mit einem kleinen Elektroheizer, den mir eine Freundin geliehen hat. Das Kinderzimmer wird so aber nicht richtig warm, und der Strom ist teuer. Ich [[6]] Ihnen sehr dankbar, wenn Sie sich so schnell wie [[7]] um eine Reparatur kümmern könnten.\n\nVon Montag bis Freitag bin ich ab 16 Uhr zu Hause. Wenn der Techniker vormittags kommen muss, nehme ich mir gern einen Tag frei. Geben Sie mir bitte nur rechtzeitig [[8]], wann er kommt.\n\nAußerdem möchte ich Sie fragen, [[9]] Sie die zusätzlichen Stromkosten für den Heizer übernehmen oder ob ich sie selbst bezahlen muss.\n\nIch hoffe auf eine schnelle Lösung und danke Ihnen im Voraus [[10]] Ihre Hilfe.\n\nMit freundlichen Grüßen\nKatharina Vogt",
   "words": [
     { "key": "a", "text": "aber" },
-    { "key": "b", "text": "bereits" },
-    { "key": "c", "text": "erreichen" },
-    { "key": "d", "text": "frei" },
-    { "key": "e", "text": "Hilfe" },
-    { "key": "f", "text": "möglichst" },
-    { "key": "g", "text": "obwohl" },
-    { "key": "h", "text": "seit" },
-    { "key": "i", "text": "so" },
-    { "key": "j", "text": "sondern" },
-    { "key": "k", "text": "Termin" },
+    { "key": "b", "text": "Bescheid" },
+    { "key": "c", "text": "da" },
+    { "key": "d", "text": "damit" },
+    { "key": "e", "text": "deshalb" },
+    { "key": "f", "text": "erreichen" },
+    { "key": "g", "text": "für" },
+    { "key": "h", "text": "möglich" },
+    { "key": "i", "text": "ob" },
+    { "key": "j", "text": "seit" },
+    { "key": "k", "text": "sondern" },
     { "key": "l", "text": "trotzdem" },
-    { "key": "m", "text": "Uhrzeit" },
-    { "key": "n", "text": "Verständnis" },
-    { "key": "o", "text": "vor" }
+    { "key": "m", "text": "vor" },
+    { "key": "n", "text": "war" },
+    { "key": "o", "text": "wäre" }
   ],
   "gaps": [
     {
       "n": 1,
-      "answer": "h",
-      "explanation": "„seit“ + dative is used for something that started in the past and is still true now: „ich bin seit drei Jahren Mieterin“ (present tense). „vor drei Jahren“ would need a past tense.",
-      "explanationDe": "„seit“ + Dativ benutzt man für etwas, das in der Vergangenheit begonnen hat und jetzt noch gilt: „ich bin seit drei Jahren Mieterin“ (Präsens). „vor drei Jahren“ bräuchte eine Vergangenheitsform.",
+      "answer": "j",
+      "explanation": "She still lives there (present tense „wohne“), so the period that started three years ago and continues is expressed with „seit“: „ich wohne seit drei Jahren …“. „vor drei Jahren“ names a point in the past and needs a past tense („Vor drei Jahren bin ich eingezogen“).",
+      "explanationDe": "Sie wohnt immer noch dort (Präsens „wohne“). Einen Zeitraum, der vor drei Jahren begonnen hat und noch andauert, drückst du mit „seit“ aus: „ich wohne seit drei Jahren …“. „vor drei Jahren“ nennt einen Zeitpunkt in der Vergangenheit und braucht eine Vergangenheitsform („Vor drei Jahren bin ich eingezogen“).",
       "grammar": "temporale-praepositionen"
     },
     {
       "n": 2,
       "answer": "l",
-      "explanation": "The heating is turned up fully, but the radiators stay cold – an unexpected result, so „trotzdem“ (nevertheless). As an adverb it is followed directly by the verb: „trotzdem bleiben alle Heizkörper kalt“. „obwohl“ would need the verb at the end.",
-      "explanationDe": "Die Heizung ist ganz aufgedreht, aber die Heizkörper bleiben kalt – ein unerwartetes Ergebnis, also „trotzdem“ (= dennoch). Als Verbindungsadverb steht direkt danach das Verb: „trotzdem bleiben alle Heizkörper kalt“. Bei „obwohl“ müsste das Verb am Ende stehen.",
+      "explanation": "She turned the radiators up fully, and still they stay cold – a contrast, with the verb „bleiben“ right after the gap, so „trotzdem“. „deshalb“ has the same word order but would mean the radiators are cold because she turned them up. „aber“ would need normal word order („aber sie bleiben kalt“).",
+      "explanationDe": "Sie hat die Heizkörper ganz aufgedreht, und sie bleiben trotzdem kalt – ein Gegensatz. Das Verb „bleiben“ steht direkt nach der Lücke, also „trotzdem“. „deshalb“ hat dieselbe Wortstellung, würde aber bedeuten, dass die Heizkörper kalt sind, weil sie sie aufgedreht hat. Bei „aber“ bräuchtest du die normale Wortstellung („aber sie bleiben kalt“).",
       "grammar": "verbindungsadverbien"
     },
     {
       "n": 3,
-      "answer": "b",
-      "explanation": "„bereits“ (already): she has already tried several times to phone the caretaker – „Ich habe bereits mehrmals versucht …“.",
-      "explanationDe": "„bereits“ (= schon): Sie hat schon mehrmals versucht, den Hausmeister anzurufen – „Ich habe bereits mehrmals versucht …“."
+      "answer": "f",
+      "explanation": "„zu erreichen sein“ means „can be reached“ (by phone): „er war leider nie zu erreichen“. After „zu“ you need an infinitive, and „erreichen“ is the only verb in the list that fits the meaning.",
+      "explanationDe": "„zu erreichen sein“ (= man kann jemanden erreichen, z. B. am Telefon): „er war leider nie zu erreichen“. Nach „zu“ brauchst du einen Infinitiv, und „erreichen“ ist das einzige Verb in der Liste, das von der Bedeutung her passt.",
+      "grammar": "infinitiv-mit-zu"
     },
     {
       "n": 4,
-      "answer": "c",
-      "explanation": "„zu erreichen sein“ means „to be reachable (by phone)“: „er war leider nie zu erreichen“.",
-      "explanationDe": "„zu erreichen sein“ (= erreichbar sein, z. B. am Telefon): „er war leider nie zu erreichen“."
-    },
-    {
-      "n": 5,
-      "answer": "j",
-      "explanation": "After a negation („nicht in meiner Wohnung“) the correction is introduced by „sondern“: „nicht …, sondern in der Heizungsanlage“. „aber“ cannot be used for this kind of correction.",
-      "explanationDe": "Nach einer Verneinung („nicht in meiner Wohnung“) leitet „sondern“ die Korrektur ein: „nicht …, sondern in der Heizungsanlage“. „aber“ kann man für diese Art von Korrektur nicht benutzen.",
+      "answer": "k",
+      "explanation": "„nicht …, sondern …“ corrects a negated statement: the fault is not in the flats but in the heating system. „aber“ is the trap – after „nicht“ it only adds a restriction („nicht teuer, aber gut“) and cannot replace the wrong place with the right one.",
+      "explanationDe": "„nicht …, sondern …“ korrigiert eine verneinte Aussage: Der Fehler liegt nicht in den Wohnungen, sondern in der Heizungsanlage. „aber“ ist die Falle – nach „nicht“ schränkt es nur ein („nicht teuer, aber gut“) und kann den falschen Ort nicht durch den richtigen ersetzen.",
       "grammar": "zweiteilige-konnektoren"
     },
     {
+      "n": 5,
+      "answer": "c",
+      "explanation": "The clause gives the reason why the situation is so unpleasant (a baby in a cold flat), and the verb „ist“ is at the end – so the subordinating „da“ (= weil). „damit“ also sends the verb to the end, but it expresses a purpose: the situation is not unpleasant in order that the baby is four months old.",
+      "explanationDe": "Der Nebensatz nennt den Grund, warum die Situation so unangenehm ist (ein Baby in einer kalten Wohnung), und das Verb „ist“ steht am Ende – also „da“ (= weil). Auch bei „damit“ steht das Verb am Ende, aber es nennt ein Ziel: Die Situation ist nicht unangenehm, damit die Tochter vier Monate alt ist.",
+      "grammar": "kausale-konsekutive-saetze"
+    },
+    {
       "n": 6,
-      "answer": "i",
-      "explanation": "„so schnell wie möglich“ (as quickly as possible) is a fixed comparison. „möglichst“ is a trap: „möglichst schnell“ means the same, but it cannot be combined with „wie möglich“.",
-      "explanationDe": "„so schnell wie möglich“ (= so schnell, wie es geht) ist ein fester Vergleich. „möglichst“ ist eine Falle: „möglichst schnell“ bedeutet dasselbe, aber man kann es nicht mit „wie möglich“ kombinieren.",
-      "grammar": "komparation"
+      "answer": "o",
+      "explanation": "„Ich wäre Ihnen sehr dankbar, wenn …“ is the polite Konjunktiv II formula for a request; it matches „wenn Sie sich … kümmern könnten“. „war“ (without umlaut) is the simple past and would talk about the past, but she is asking for a repair that has not happened yet.",
+      "explanationDe": "„Ich wäre Ihnen sehr dankbar, wenn …“ ist die höfliche Bitte im Konjunktiv II; sie passt zu „wenn Sie sich … kümmern könnten“. „war“ (ohne Umlaut) ist Präteritum und spricht über die Vergangenheit – sie bittet aber um eine Reparatur, die noch nicht passiert ist.",
+      "grammar": "konjunktiv-2"
     },
     {
       "n": 7,
-      "answer": "a",
-      "explanation": "The second clause contrasts with the first (she uses an electric heater – the flat still does not get warm) and has main-clause word order, so „aber“ fits.",
-      "explanationDe": "Der zweite Satz bildet einen Gegensatz zum ersten (sie heizt mit einem Elektroheizer – die Wohnung wird immer noch nicht warm) und hat die Wortstellung eines Hauptsatzes. Deshalb passt „aber“.",
-      "grammar": "konnektoren-hauptsatz"
+      "answer": "h",
+      "explanation": "„so schnell wie möglich“ (as fast as possible) is a fixed expression. It is the only adjective in the list that completes „so … wie …“.",
+      "explanationDe": "„so schnell wie möglich“ (= sehr schnell, schneller geht es nicht) ist eine feste Wendung. „möglich“ ist das einzige Adjektiv in der Liste, das „so … wie …“ ergänzt.",
+      "grammar": "komparation"
     },
     {
       "n": 8,
-      "answer": "d",
-      "explanation": "„sich einen Tag freinehmen“ means „to take a day off work“. In a main clause the prefix goes to the end: „nehme ich mir gern einen Tag frei“.",
-      "explanationDe": "„sich einen Tag freinehmen“ bedeutet: einen Tag nicht zur Arbeit gehen. Im Hauptsatz steht das Präfix am Ende: „nehme ich mir gern einen Tag frei“.",
-      "grammar": "trennbare-verben"
+      "answer": "b",
+      "explanation": "„jemandem Bescheid geben“ (to let someone know) is a fixed expression: „Geben Sie mir bitte nur rechtzeitig Bescheid, wann er kommt.“ No other noun in the list goes with „geben“.",
+      "explanationDe": "„jemandem Bescheid geben“ (= jemanden informieren) ist eine feste Wendung: „Geben Sie mir bitte nur rechtzeitig Bescheid, wann er kommt.“ Kein anderes Nomen in der Liste passt zu „geben“.",
+      "grammar": "nomen-verb-verbindungen"
     },
     {
       "n": 9,
-      "answer": "k",
-      "explanation": "„den“ needs a masculine noun: „den Termin mitteilen“ (to tell someone the date of the appointment). „Uhrzeit“ would fit the meaning, but it is feminine („die Uhrzeit“).",
-      "explanationDe": "Nach „den“ braucht man ein maskulines Nomen: „den Termin mitteilen“ (= sagen, wann der Termin ist). „Uhrzeit“ würde inhaltlich passen, ist aber feminin („die Uhrzeit“).",
-      "grammar": "kasus-und-artikel"
+      "answer": "i",
+      "explanation": "After „fragen“ a yes/no question becomes an indirect question with „ob“; the second half „oder ob ich sie selbst bezahlen muss“ confirms it. „da“ and „damit“ also send the verb to the end, but they give a reason or a purpose and cannot introduce a question.",
+      "explanationDe": "Nach „fragen“ wird eine Ja-/Nein-Frage zur indirekten Frage mit „ob“; der zweite Teil „oder ob ich sie selbst bezahlen muss“ bestätigt das. Auch bei „da“ und „damit“ steht das Verb am Ende, aber sie nennen einen Grund oder ein Ziel und können keine Frage einleiten.",
+      "grammar": "indirekte-fragen"
     },
     {
       "n": 10,
-      "answer": "e",
-      "explanation": "„Ihre“ needs a feminine noun here: „danke Ihnen im Voraus für Ihre Hilfe“. „Verständnis“ is neuter („Ihr Verständnis“), so it does not fit.",
-      "explanationDe": "Nach „Ihre“ braucht man hier ein feminines Nomen: „danke Ihnen im Voraus für Ihre Hilfe“. „Verständnis“ ist neutral („Ihr Verständnis“) und passt deshalb nicht.",
-      "grammar": "kasus-und-artikel"
+      "answer": "g",
+      "explanation": "„jemandem für etwas danken“: „danke Ihnen im Voraus für Ihre Hilfe“. „vor“ is wrong – „im Voraus“ (in advance) is already there, and „danken“ never takes „vor“.",
+      "explanationDe": "„jemandem für etwas danken“: „danke Ihnen im Voraus für Ihre Hilfe“. „vor“ ist falsch – „im Voraus“ steht schon im Satz, und „danken“ steht nie mit „vor“.",
+      "grammar": "verben-mit-praepositionen"
     }
   ],
   "glossary": [
-    { "de": "die Mieterin", "en": "(female) tenant" },
-    { "de": "sich an jemanden wenden", "en": "to contact someone (with a problem or request)" },
-    { "de": "aufdrehen", "en": "to turn up (heating, tap)" },
+    { "de": "sich an jemanden wenden", "en": "to contact someone (about a problem)" },
     { "de": "der Heizkörper", "en": "radiator" },
+    { "de": "aufdrehen", "en": "to turn up (heating, tap)" },
     { "de": "der Hausmeister", "en": "caretaker" },
     { "de": "zu erreichen sein", "en": "to be reachable" },
     { "de": "die Heizungsanlage", "en": "heating system" },
+    { "de": "sich um etwas kümmern", "en": "to take care of something" },
     { "de": "sich einen Tag freinehmen", "en": "to take a day off" },
-    { "de": "rechtzeitig", "en": "in good time" }
+    { "de": "rechtzeitig", "en": "in good time" },
+    { "de": "die Kosten übernehmen", "en": "to pay the costs" }
   ]
 }

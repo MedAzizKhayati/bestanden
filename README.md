@@ -44,11 +44,31 @@ Writing correction, speaking feedback and the AI conversation partner run throug
 Every spoken line is resolved in this order (`src/lib/audio/speech.ts`):
 
 1. **Real recordings** from the content: `recording` on a Hören text/conversation (`/audio/...` files in `public/`).
-2. **Pre-rendered files**: `bun run audio:render -- --engine openai|elevenlabs|google` renders every line of the Hören sets, the level check and the model dialogues into `public/audio/tts/` (content-addressed, so re-runs only render new or changed lines). About 177 000 characters in total – a few dollars once.
+2. **Pre-rendered files** in `public/audio/tts/`, shipped with the site, so every visitor – phones included – hears the same natural voices without a key. `bun run audio:render` renders every line of the Hören sets, the level check, the model dialogues and the speak buttons (vocabulary, Redemittel, lists). Files are content-addressed, so re-runs only render new or changed lines. See [Pre-rendered voices](#pre-rendered-voices).
 3. **The user's neural voice** (Settings → Voices: OpenAI, ElevenLabs or Google Cloud with their key), synthesized via `/api/tts` and cached in the browser's Cache Storage.
 4. **Device voices** (Web Speech API), ranked natural → premium → standard; novelty voices are excluded and a voice that fails is replaced on the fly. The UI explains how to install better free voices.
 
 telc's own recordings are copyrighted and are not part of this project; licensed or self-produced recordings can be added per set via `recording`.
+
+### Pre-rendered voices
+
+The default engine is free and runs locally on Apple Silicon: [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) (Apache-2.0) through
+[mlx-audio](https://github.com/Blaizzy/mlx-audio); `voxcpm` ([VoxCPM2](https://github.com/OpenBMB/VoxCPM), Apache-2.0) works the same way.
+The voices are synthetic: `scripts/audio/cast.json` describes two voices per gender and age plus the exam announcer; each is
+designed once from its description and then reused through its reference clip in `scripts/audio/voices/<engine>/`, so a speaker
+sounds the same in every line. No real person's voice is cloned.
+
+```bash
+brew install ffmpeg
+uv venv .tts --python 3.12 && uv pip install --python .tts/bin/python mlx-audio soundfile
+.tts/bin/python scripts/audio/local_tts.py --design --engine qwen     # only if a voice in cast.json has no reference clip yet
+TTS_PYTHON=.tts/bin/python bun run audio:render -- --engine qwen --dry-run   # what would be rendered
+TTS_PYTHON=.tts/bin/python bun run audio:render -- --engine qwen --prune     # render (≈ real time on an M3), delete unused files
+```
+
+Numbers are spelled out before synthesis (`src/lib/audio/spoken-numbers.ts`); every take is checked for a plausible length and
+retried, falling back to sentence-by-sentence rendering. Cloud engines remain available: `--engine openai|elevenlabs|google` with
+`OPENAI_API_KEY`, `ELEVENLABS_API_KEY` or `GOOGLE_TTS_API_KEY`.
 
 ## Scripts
 
@@ -57,7 +77,7 @@ telc's own recordings are copyrighted and are not part of this project; licensed
 | `bun dev` / `bun run build` / `bun start` | develop, build (static generation of all ~260 pages), serve |
 | `bun run typecheck` / `bun run lint` | TypeScript and ESLint (React Compiler rules) |
 | `bun test` | unit and integration tests (scoring of every set, i18n parity, content validity, AI providers against a mock server, voice selection, level check, study plan) |
-| `bun run audio:render -- --engine openai [--only hoeren-2] [--dry-run]` | pre-render natural audio for all listening content |
+| `bun run audio:render -- [--engine qwen] [--only hoeren-2] [--dry-run] [--prune]` | pre-render natural audio for all spoken content (see Pre-rendered voices) |
 | `bun run content:validate [path]` | validate content against the schemas and consistency rules |
 | `bun run content:validate --i18n=de [path]` | additionally require the German version of every explanation |
 | `bun scripts/i18n/extract.ts <out.json> <paths>` / `bun scripts/i18n/apply.ts <files>` | collect English explanations that lack a German version / write translated worksheets back (keeps file formatting) |
@@ -127,7 +147,6 @@ All texts, recordings, tasks and answer keys are written for this project in the
 ## Roadmap ideas
 
 - Accounts and cloud sync (e.g. Auth.js + Postgres/Drizzle), teacher dashboards
-- Pre-rendered neural audio for all listening tasks
 - telc B2, C1 and DTZ content; more UI languages (Arabic, Turkish, Ukrainian …)
 - Studio recordings with voice actors for the most-used Hören sets
 - Full oral exam simulation (all three parts in sequence with the AI partner) and PWA/offline mode

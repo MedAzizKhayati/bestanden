@@ -8,73 +8,73 @@
   "situations": [
     {
       "n": 1,
-      "text": "Sie möchten am Sonntagvormittag mit Ihrer Familie gemütlich und reichlich frühstücken. Ihre Kinder sind vier und acht Jahre alt.",
+      "text": "Sie möchten am Sonntagvormittag mit Ihrer Familie ausgiebig frühstücken. Ihre Kinder (4 und 8) sollen sich dort beschäftigen können, während die Erwachsenen gemütlich sitzen bleiben.",
       "answer": "b",
-      "explanation": "„Sonntagsbrunch: großes Buffet 10–14 Uhr“, „Kinder bis 6 Jahre essen gratis, Spielecke vorhanden“ – the café (b) is perfect for a family breakfast on Sunday.",
-      "explanationDe": "„Sonntagsbrunch: großes Buffet 10–14 Uhr“, „Kinder bis 6 Jahre essen gratis, Spielecke vorhanden“ – das Café (b) ist perfekt für ein Familienfrühstück am Sonntag."
+      "explanation": "Sunday morning and something for the children are decisive. Café Morgenrot (b) has a „Sonntagsbrunch: großes Buffet 10–14 Uhr“ and a „Spielecke mit Betreuerin“. Konditorei Weizenlos (k) also serves breakfast, but „Frühstück nur Mi.–Sa.“ – not on Sunday.",
+      "explanationDe": "Entscheidend sind der Sonntagvormittag und ein Angebot für die Kinder. Das Café Morgenrot (b) hat einen „Sonntagsbrunch: großes Buffet 10–14 Uhr“ und eine „Spielecke mit Betreuerin“. Die Konditorei Weizenlos (k) bietet auch Frühstück an, aber es heißt „Frühstück nur Mi.–Sa.“ – also nicht am Sonntag."
     },
     {
       "n": 2,
-      "text": "Ihr Kollege lebt vegan. Sie möchten ihn am Samstagabend in ein Restaurant einladen.",
+      "text": "Ihr Kollege isst keinerlei tierische Produkte. Sie möchten ihn am Samstagabend zum Essen in ein Restaurant einladen.",
       "answer": "x",
-      "explanation": "The restaurant (f) is „100 % vegan“, but it is only open „Mo.–Fr. 11–16 Uhr“ – not on Saturday evening. No other ad offers vegan food, so the answer is x.",
-      "explanationDe": "Das Restaurant (f) ist „100 % vegan“, aber nur „Mo.–Fr. 11–16 Uhr“ geöffnet – nicht am Samstagabend. Keine andere Anzeige bietet veganes Essen an, deshalb ist die Lösung x."
+      "explanation": "Your colleague is vegan. Grünzeug (f) cooks „ganz ohne tierische Produkte“, but it is only open „Mo.–Fr. 11–16 Uhr“ – not on Saturday evening. Lunchbox (l) has vegetarian dishes, but delivers lunch to offices. So x.",
+      "explanationDe": "Dein Kollege lebt vegan. Grünzeug (f) kocht „ganz ohne tierische Produkte“, hat aber nur „Mo.–Fr. 11–16 Uhr“ geöffnet – nicht am Samstagabend. Lunchbox (l) hat vegetarische Gerichte, liefert aber Mittagessen ins Büro. Also x."
     },
     {
       "n": 3,
-      "text": "Ihre Gäste haben um halb elf am Abend noch Hunger. Sie möchten etwas zu essen in Ihre Wohnung im 3. Bezirk liefern lassen.",
+      "text": "Ihre Besucher bekommen gegen halb elf am Abend noch einmal Hunger. Sie möchten sich etwas Warmes in Ihre Wohnung im 3. Bezirk liefern lassen.",
       "answer": "h",
-      "explanation": "„Lieferung täglich 11–23 Uhr in den 2., 3. und 20. Bezirk“ – the pizzeria (h) still delivers at 10.30 p.m. The sushi service (c) delivers to all districts, but only until „22 Uhr“.",
-      "explanationDe": "„Lieferung täglich 11–23 Uhr in den 2., 3. und 20. Bezirk“ – die Pizzeria (h) liefert um 22.30 Uhr noch. Der Sushi-Lieferdienst (c) liefert in alle Bezirke, aber nur bis „22 Uhr“."
+      "explanation": "Delivery at half past ten in the evening to the 3rd district. Pizzeria Vesuvio (h) delivers „täglich 11–23 Uhr in den 2., 3. und 20. Bezirk“. The Sushi-Bote (c) sounds perfect („Hunger am Abend? Wir bringen Ihnen …“), but it only delivers „17–22 Uhr“.",
+      "explanationDe": "Lieferung um halb elf am Abend in den 3. Bezirk. Die Pizzeria Vesuvio (h) liefert „täglich 11–23 Uhr in den 2., 3. und 20. Bezirk“. Der Sushi-Bote (c) klingt perfekt („Hunger am Abend? Wir bringen Ihnen …“), liefert aber nur „17–22 Uhr“."
     },
     {
       "n": 4,
-      "text": "Ihre Freundin hat eine Glutenunverträglichkeit. Sie möchten mit ihr an einem Sonntagnachmittag Kaffee trinken und Kuchen essen.",
+      "text": "Ihre Freundin verträgt kein Gluten. Sie möchten sich mit ihr an einem Sonntagnachmittag auf Kaffee und Kuchen treffen.",
       "answer": "k",
-      "explanation": "„Torten und Kuchen – 100 % glutenfrei“ and „Mi.–So. 10–19 Uhr“ – the café (k) is open on Sunday afternoon and safe for your friend. Café Morgenrot (b) has home-made cakes, but the ad says nothing about gluten-free food.",
-      "explanationDe": "„Torten und Kuchen – 100 % glutenfrei“ und „Mi.–So. 10–19 Uhr“ – das Café (k) hat am Sonntagnachmittag geöffnet und ist sicher für deine Freundin. Das Café Morgenrot (b) hat hausgemachte Kuchen, aber in der Anzeige steht nichts über glutenfreies Essen."
+      "explanation": "The cake must be gluten-free, and it is Sunday afternoon. Konditorei Weizenlos (k) sells cakes that are „100 % glutenfrei“, serves „Kaffee und Kuchen im Café zu allen Öffnungszeiten“ and is open on Sundays too („So. 10–19 Uhr“). Café Morgenrot (b) has „Kaffee und Kuchen“ every day, but nothing gluten-free.",
+      "explanationDe": "Der Kuchen muss glutenfrei sein, und es ist Sonntagnachmittag. Die Konditorei Weizenlos (k) verkauft Kuchen, die „100 % glutenfrei“ sind, bietet „Kaffee und Kuchen im Café zu allen Öffnungszeiten“ und hat auch sonntags geöffnet („So. 10–19 Uhr“). Das Café Morgenrot (b) hat „Kaffee und Kuchen“, aber nichts Glutenfreies."
     },
     {
       "n": 5,
-      "text": "Sie feiern in drei Wochen Ihren 40. Geburtstag mit 30 Gästen in Ihrem Garten. An diesem Tag möchten Sie nicht selbst kochen.",
+      "text": "Zu Ihrem 40. Geburtstag erwarten Sie in drei Wochen 30 Gäste in Ihrem Garten. Am Festtag selbst möchten Sie auf keinen Fall in der Küche stehen.",
       "answer": "e",
-      "explanation": "„Buffets für 20 bis 200 Personen“ and „Lieferung, Geschirr und Besteck inklusive“ – the catering service (e) brings the food to your garden. The inn (a) has a room for groups, but then you would celebrate in the restaurant, not at home.",
-      "explanationDe": "„Buffets für 20 bis 200 Personen“ und „Lieferung, Geschirr und Besteck inklusive“ – der Partyservice (e) bringt das Essen in deinen Garten. Das Gasthaus (a) hat einen Raum für Gruppen, aber dann würdest du im Restaurant feiern, nicht zu Hause."
+      "explanation": "The party is at home in your garden, and you do not want to cook. Partyservice Festtafel (e) brings buffets „für 20 bis 200 Personen“; three weeks is enough, because you must order „mindestens 10 Tage vorher“. Gasthaus Zur Alten Mühle (a) mentions „Geburtstag“ and „40 Gäste“, but you would have to celebrate in its „Extrazimmer“, not at home.",
+      "explanationDe": "Die Feier ist bei dir im Garten, und du willst nicht kochen. Der Partyservice Festtafel (e) liefert Buffets „für 20 bis 200 Personen“; drei Wochen reichen, denn man muss „mindestens 10 Tage vorher“ bestellen. Das Gasthaus Zur Alten Mühle (a) nennt „Geburtstag“ und „40 Gäste“, aber dort feierst du im „Extrazimmer“, nicht zu Hause."
     },
     {
       "n": 6,
-      "text": "Ihre Großmutter hat Diabetes und kann nicht mehr selbst kochen. Sie braucht jeden Tag – auch samstags und sonntags – ein warmes Mittagessen.",
+      "text": "Ihre Großmutter ist zuckerkrank und kann sich nicht mehr selbst versorgen. Sie braucht deshalb an jedem Tag der Woche – also auch samstags und sonntags – ein warmes Mittagessen.",
       "answer": "d",
-      "explanation": "„auch am Wochenende und an Feiertagen“ and „Diabetiker- und Schonkost“ – the meal service (d) delivers suitable lunches every day. The lunch box service (l) only delivers „Mo.–Fr.“ and to offices.",
-      "explanationDe": "„auch am Wochenende und an Feiertagen“ und „Diabetiker- und Schonkost“ – der Essenslieferdienst (d) bringt jeden Tag ein passendes Mittagessen. Der Lunchbox-Service (l) liefert nur „Mo.–Fr.“ und nur in Büros."
+      "explanation": "She needs a hot lunch every day, including weekends, and food for diabetics. Menübote Wien (d) brings the food „mittags warm geliefert – auch am Wochenende und an Feiertagen“ and offers „Diabetiker- und Schonkost“. Lunchbox (l) has „Jeden Tag 4 warme Gerichte“, but „Lieferung Mo.–Fr.“ – and only to offices.",
+      "explanationDe": "Sie braucht jeden Tag, auch am Wochenende, ein warmes Mittagessen für Diabetiker. Beim Menüboten Wien (d) wird das Essen „mittags warm geliefert – auch am Wochenende und an Feiertagen“, und es gibt „Diabetiker- und Schonkost“. Lunchbox (l) hat „Jeden Tag 4 warme Gerichte“, aber „Lieferung Mo.–Fr.“ – und nur ins Büro."
     },
     {
       "n": 7,
-      "text": "Sie und sechs Kolleginnen und Kollegen haben morgen eine lange Besprechung. Sie möchten sich das Mittagessen ins Büro liefern lassen.",
+      "text": "Sie haben am Donnerstag mit sechs Kolleginnen und Kollegen eine ganztägige Besprechung. In der Mittagspause soll das Essen an Ihren Arbeitsplatz geliefert werden.",
       "answer": "l",
-      "explanation": "„Gesundes Mittagessen direkt ins Büro“ and „Für Firmen und Teams ab 5 Personen“ – (l) delivers lunch for your group of seven. The Indian restaurant (i) has a lunch buffet, but „keine Lieferung“.",
-      "explanationDe": "„Gesundes Mittagessen direkt ins Büro“ und „Für Firmen und Teams ab 5 Personen“ – (l) liefert Mittagessen für deine Gruppe von sieben Personen. Das indische Restaurant (i) hat ein Mittagsbuffet, aber „keine Lieferung“."
+      "explanation": "Seven people need lunch delivered to the office on Thursday. Lunchbox Wien (l) delivers „direkt ins Büro“ „Für Firmen und Teams ab 5 Personen“, and Thursday is covered by „Lieferung Mo.–Fr.“. Menübote Wien (d) also delivers lunch, but it is „Für ältere und kranke Menschen“ and brings it „bis an die Wohnungstür“.",
+      "explanationDe": "Sieben Personen brauchen am Donnerstag Mittagessen im Büro. Lunchbox Wien (l) liefert „direkt ins Büro“, und zwar „Für Firmen und Teams ab 5 Personen“. Mit „Lieferung Mo.–Fr.“ klappt das auch am Donnerstag. Der Menübote Wien (d) liefert auch Essen, aber „Für ältere und kranke Menschen“ und „bis an die Wohnungstür“."
     },
     {
       "n": 8,
-      "text": "Sie kommen um ein Uhr nachts aus einem Konzert und haben großen Hunger. Sie möchten unterwegs schnell noch eine Kleinigkeit essen.",
+      "text": "Nach einem Konzert stehen Sie um ein Uhr nachts auf der Straße und haben großen Hunger. Sie möchten unterwegs schnell noch eine Kleinigkeit essen.",
       "answer": "g",
-      "explanation": "„Täglich 18–4 Uhr früh geöffnet“ – the sausage stand (g) is still open at 1 a.m. The pizzeria (h) only delivers until 11 p.m.",
-      "explanationDe": "„Täglich 18–4 Uhr früh geöffnet“ – der Würstelstand (g) hat um 1 Uhr nachts noch geöffnet. Die Pizzeria (h) liefert nur bis 23 Uhr."
+      "explanation": "It is one o'clock at night. The Würstelstand (g) is open „Täglich 18–4 Uhr früh“. Masala (i) even addresses you directly („Nach Kino oder Konzert noch schnell etwas essen?“), but the kitchen closes at midnight, on Fridays and Saturdays at „0.30 Uhr“.",
+      "explanationDe": "Es ist ein Uhr nachts. Der Würstelstand (g) hat „Täglich 18–4 Uhr früh“ geöffnet. Masala (i) spricht dich sogar direkt an („Nach Kino oder Konzert noch schnell etwas essen?“), aber die Küche schließt um Mitternacht, freitags und samstags um „0.30 Uhr“."
     },
     {
       "n": 9,
-      "text": "Sie möchten an einem warmen Sommerabend typisch wienerisch essen – draußen und zusammen mit Ihrem Hund.",
+      "text": "Sie möchten an einem warmen Sommerabend traditionelle Wiener Gerichte essen – im Freien und zusammen mit Ihrem Hund.",
       "answer": "j",
-      "explanation": "„Echte Wiener Küche“, „Schanigarten“ and „Hunde sind bei uns herzlich willkommen!“ – the Beisl (j) fits all three conditions. The inn (a) also has Viennese food and a garden, but „Hunde bitte nicht mitbringen“.",
-      "explanationDe": "„Echte Wiener Küche“, „Schanigarten“ und „Hunde sind bei uns herzlich willkommen!“ – das Beisl (j) erfüllt alle drei Bedingungen. Das Gasthaus (a) hat auch Wiener Küche und einen Garten, aber: „Hunde bitte nicht mitbringen“."
+      "explanation": "Viennese food, outdoors, with a dog. Beisl Zum Fiaker (j) offers „Hausmannskost wie früher in Wien“, a „Schanigarten“ and says „Vierbeiner sind bei uns herzlich willkommen!“. Gasthaus Zur Alten Mühle (a) has „Wiener Küche“ and „Sommerabende im großen Gastgarten“, but „Hunde bitte nicht mitbringen“.",
+      "explanationDe": "Wiener Essen, draußen, mit Hund. Das Beisl Zum Fiaker (j) bietet „Hausmannskost wie früher in Wien“, einen „Schanigarten“ und schreibt „Vierbeiner sind bei uns herzlich willkommen!“. Das Gasthaus Zur Alten Mühle (a) hat „Wiener Küche“ und „Sommerabende im großen Gastgarten“, aber „Hunde bitte nicht mitbringen“."
     },
     {
       "n": 10,
-      "text": "Ihr Sportverein möchte nach der Jahresversammlung mit 35 Mitgliedern zusammen essen – in einem eigenen Raum, in dem man ungestört ist.",
+      "text": "Ihr Sportverein möchte nach der Jahresversammlung mit 35 Mitgliedern essen gehen. Dafür brauchen Sie einen abgetrennten Raum, in dem man ungestört feiern kann.",
       "answer": "a",
-      "explanation": "„Extrazimmer für Feiern und Gruppen bis 40 Personen“ – the inn (a) has a separate room for 35 people. The catering service (e) cooks for large groups, but it has no room.",
-      "explanationDe": "„Extrazimmer für Feiern und Gruppen bis 40 Personen“ – das Gasthaus (a) hat einen eigenen Raum für 35 Personen. Der Partyservice (e) kocht für große Gruppen, hat aber keinen Raum."
+      "explanation": "35 people need a separate room. Gasthaus Zur Alten Mühle (a) has an „Extrazimmer für bis zu 40 Gäste“, also for a „Vereinsfeier“. Beisl Zum Fiaker (j) mentions clubs („Vereinsabend?“), but its table is only „für bis zu 12 Mitglieder“.",
+      "explanationDe": "35 Personen brauchen einen eigenen Raum. Das Gasthaus Zur Alten Mühle (a) hat ein „Extrazimmer für bis zu 40 Gäste“, auch für eine „Vereinsfeier“. Das Beisl Zum Fiaker (j) spricht Vereine an („Vereinsabend?“), aber der Stammtisch ist nur „für bis zu 12 Mitglieder“."
     }
   ],
   "ads": [
@@ -84,8 +84,8 @@
       "subheading": "Wiener Küche seit 1902",
       "lines": [
         "Schnitzel, Tafelspitz und Mehlspeisen nach Großmutters Rezept",
-        "Extrazimmer für Feiern und Gruppen bis 40 Personen",
-        "Großer Gastgarten unter Kastanien",
+        "Geburtstag oder Vereinsfeier? Extrazimmer für bis zu 40 Gäste",
+        "Sommerabende im großen Gastgarten unter Kastanien",
         "Hunde bitte nicht mitbringen.",
         "Di.–So. 11–23 Uhr, Montag Ruhetag"
       ],
@@ -94,11 +94,11 @@
     {
       "key": "b",
       "heading": "Café Morgenrot",
-      "subheading": "Frühstück bis 15 Uhr",
+      "subheading": "Brunch, Kaffee und Kuchen",
       "lines": [
         "Sonntagsbrunch: großes Buffet 10–14 Uhr, 24,50 € pro Person",
-        "Kinder bis 6 Jahre essen gratis, Spielecke vorhanden",
-        "Hausgemachte Mehlspeisen und Torten",
+        "Kinder bis 6 Jahre gratis, Spielecke mit Betreuerin",
+        "Hausgemachte Mehlspeisen und Torten – Kuchen täglich frisch",
         "Reservierung empfohlen"
       ],
       "footer": "Sonnenweg 9, 1070 Wien · Tel. 01 5229047 · www.cafe-morgenrot.at"
@@ -107,24 +107,25 @@
       "key": "c",
       "heading": "Sushi-Bote Wien",
       "lines": [
-        "Frisches Sushi, Bowls und Suppen",
+        "Alles frisch zubereitet",
         "Lieferung täglich 17–22 Uhr in alle Bezirke",
         "Mindestbestellwert 25 €, Lieferung gratis",
         "Online bestellen und 10 % sparen"
       ],
-      "footer": "Tel. 01 2604411 · www.sushibote-wien.at"
+      "footer": "Tel. 01 2604411 · www.sushibote-wien.at",
+      "subheading": "Hunger am Abend? Wir bringen Ihnen Sushi, Bowls und warme Suppen."
     },
     {
       "key": "d",
-      "heading": "Mittagsbote",
-      "subheading": "Warmes Mittagessen für ältere und kranke Menschen",
+      "heading": "Menübote Wien",
+      "subheading": "Für ältere und kranke Menschen",
       "lines": [
-        "Täglich frisch gekocht und geliefert – auch am Wochenende und an Feiertagen",
+        "Täglich frisch gekocht und mittags warm geliefert – auch am Wochenende und an Feiertagen",
         "Jeden Tag 3 Menüs zur Auswahl, auch Diabetiker- und Schonkost",
-        "Lieferung direkt in Ihre Wohnung, ab 8,90 € pro Menü",
+        "Lieferung bis an die Wohnungstür, ab 8,90 € pro Menü",
         "Keine Mindestlaufzeit"
       ],
-      "footer": "Bestellung: Tel. 01 7409920 · www.mittagsbote.at"
+      "footer": "Bestellung: Tel. 01 7409920 · www.menuebote-wien.at"
     },
     {
       "key": "e",
@@ -141,7 +142,7 @@
     {
       "key": "f",
       "heading": "Grünzeug",
-      "subheading": "100 % vegane Küche",
+      "subheading": "100 % pflanzlich – ganz ohne tierische Produkte",
       "lines": [
         "Wechselnde Mittagsmenüs: Suppe und Hauptgericht 11,90 €",
         "Regionale Bio-Zutaten",
@@ -155,7 +156,7 @@
       "heading": "Würstelstand Gürtel-Eck",
       "lines": [
         "Würstel, Leberkäse und Pommes",
-        "Täglich 18–4 Uhr früh geöffnet",
+        "Täglich 18–4 Uhr früh",
         "Getränke, auch alkoholfrei",
         "Nur Barzahlung"
       ],
@@ -166,8 +167,8 @@
       "heading": "Pizzeria Vesuvio – Lieferservice",
       "lines": [
         "Pizza aus dem Holzofen, Pasta und Salate",
-        "Lieferung täglich 11–23 Uhr in den 2., 3. und 20. Bezirk",
-        "Lieferung frei Haus ab 15 € Bestellwert",
+        "Wir liefern täglich 11–23 Uhr in den 2., 3. und 20. Bezirk.",
+        "Frei Haus ab 15 € Bestellwert",
         "Jeden Dienstag: jede Pizza 7,50 €"
       ],
       "footer": "Tel. 01 7124488 · www.vesuvio-lieferservice.at"
@@ -175,9 +176,10 @@
     {
       "key": "i",
       "heading": "Masala – indisches Restaurant",
+      "subheading": "Nach Kino oder Konzert noch schnell etwas essen?",
       "lines": [
-        "Mittagsbuffet Mo.–Fr. 11.30–14.30 Uhr: so viel Sie wollen für 12,90 €",
-        "Abends à la carte – scharf oder mild",
+        "Kleine Gerichte und Currys – scharf oder mild",
+        "Küche geöffnet bis Mitternacht, Fr. und Sa. bis 0.30 Uhr",
         "Alle Speisen auch zum Abholen, keine Lieferung"
       ],
       "footer": "Praterweg 6, 1020 Wien · Tel. 01 2147730"
@@ -185,23 +187,25 @@
     {
       "key": "j",
       "heading": "Beisl Zum Fiaker",
-      "subheading": "Echte Wiener Küche in gemütlicher Atmosphäre",
+      "subheading": "Hausmannskost wie früher in Wien",
       "lines": [
-        "Gulasch, Wiener Schnitzel und Palatschinken",
+        "Gulasch, Schnitzel und Palatschinken",
         "Schanigarten von April bis Oktober",
-        "Hunde sind bei uns herzlich willkommen!",
+        "Vierbeiner sind bei uns herzlich willkommen!",
+        "Vereinsabend? Stammtisch für bis zu 12 Mitglieder",
         "Täglich 11.30–23 Uhr"
       ],
       "footer": "Kutschergasse 7, 1030 Wien · Tel. 01 7135590"
     },
     {
       "key": "k",
-      "heading": "Café Weizenlos",
+      "heading": "Konditorei Weizenlos",
       "subheading": "Torten und Kuchen – 100 % glutenfrei",
       "lines": [
-        "Für Menschen mit Zöliakie und alle, die lieber ohne Gluten essen",
+        "Für alle, die auf Weizen verzichten müssen",
         "Auch laktosefreie Kuchen",
-        "Mi.–So. 10–19 Uhr",
+        "Geöffnet Mi.–Sa. 9–19 Uhr, So. 10–19 Uhr",
+        "Kaffee und Kuchen im Café zu allen Öffnungszeiten, Frühstück nur Mi.–Sa. 9–11.30 Uhr",
         "Torten auf Bestellung"
       ],
       "footer": "Lindauergasse 2, 1160 Wien · www.weizenlos.at"
@@ -213,7 +217,7 @@
       "lines": [
         "Für Firmen und Teams ab 5 Personen",
         "Bis 10 Uhr bestellen – Lieferung zwischen 11.30 und 13 Uhr",
-        "Jeden Tag 4 Gerichte, davon 2 vegetarisch",
+        "Jeden Tag 4 warme Gerichte, davon 2 vegetarisch",
         "Lieferung Mo.–Fr. kostenlos"
       ],
       "footer": "Tel. 01 3349981 · www.lunchbox-wien.at"
@@ -223,13 +227,14 @@
     { "de": "das Beisl (österr.)", "en": "traditional Viennese pub-restaurant" },
     { "de": "der Schanigarten (österr.)", "en": "outdoor seating area of a café or restaurant" },
     { "de": "die Mehlspeise (österr.)", "en": "cake, pastry, sweet dish" },
-    { "de": "der Ruhetag", "en": "day on which a restaurant is closed" },
+    { "de": "die Hausmannskost", "en": "plain home-style cooking" },
     { "de": "das Extrazimmer", "en": "private room (for groups)" },
-    { "de": "der Mindestbestellwert", "en": "minimum order value" },
-    { "de": "die Glutenunverträglichkeit", "en": "gluten intolerance" },
+    { "de": "der Stammtisch", "en": "regulars' table (reserved for a group)" },
+    { "de": "zuckerkrank", "en": "diabetic" },
     { "de": "die Schonkost", "en": "light diet (for people who are ill)" },
-    { "de": "zum Mitnehmen / zum Abholen", "en": "to take away / for collection" },
-    { "de": "die Barzahlung", "en": "cash payment" },
+    { "de": "pflanzlich", "en": "plant-based" },
+    { "de": "vertragen", "en": "to tolerate (food)" },
+    { "de": "der Mindestbestellwert", "en": "minimum order value" },
     { "de": "ungestört", "en": "undisturbed, in private" }
   ]
 }

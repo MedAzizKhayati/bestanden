@@ -6,11 +6,11 @@
   "topic": "behoerden",
   "difficulty": 2,
   "speakers": [
-    { "id": "buergeramt", "gender": "f", "age": "adult", "role": "Telefonansage" },
-    { "id": "schule", "name": "Frau Wiegand", "gender": "f", "age": "senior", "role": "Sekretariat der Gesamtschule Nord" },
-    { "id": "amt", "gender": "m", "age": "adult", "role": "Durchsage im Bürgerbüro" },
-    { "id": "verkehr", "gender": "f", "age": "adult", "role": "Radiosprecherin" },
-    { "id": "verwaltung", "name": "Herr Albrecht", "gender": "m", "age": "adult", "role": "Hausverwaltung Rheinblick" }
+    { "id": "buergeramt", "gender": "f", "age": "adult", "role": "Telefonansage des Bürgeramts" },
+    { "id": "zulassung", "name": "Frau Kampmann", "gender": "f", "age": "senior", "role": "Zulassungsstelle" },
+    { "id": "verkehr", "gender": "f", "age": "young", "role": "Radiosprecherin" },
+    { "id": "abfall", "gender": "m", "age": "senior", "role": "Telefonansage der Abfallwirtschaft" },
+    { "id": "standesamt", "name": "Herr Dobrowolski", "gender": "m", "age": "adult", "role": "Standesamt" }
   ],
   "intro": [],
   "items": [
@@ -18,86 +18,87 @@
       "n": 1,
       "label": "Telefonansage des Bürgeramts",
       "script": [
-        { "s": "buergeramt", "t": "Guten Tag, Sie sind mit dem Bürgeramt Mitte verbunden. Wir sind umgezogen und befinden uns jetzt im Rathaus am Schillerplatz, im zweiten Stock." },
-        { "s": "buergeramt", "t": "Für einen neuen Reisepass oder eine Anmeldung brauchen Sie einen Termin. Termine vereinbaren Sie bitte nur über unsere Internetseite." },
-        { "s": "buergeramt", "t": "Ihren fertigen Personalausweis können Sie ohne Termin abholen, und zwar donnerstags von 8 bis 12 Uhr." }
+        { "s": "buergeramt", "t": "Willkommen beim Bürgeramt Weststadt. Bitte beachten Sie unsere neuen Öffnungszeiten: Von Montag bis Mittwoch bedienen wir Sie nur noch mit Termin, und zwar von 8 bis 15 Uhr." },
+        { "s": "buergeramt", "t": "Am Donnerstag gibt es von 14 bis 18 Uhr eine offene Sprechstunde, dafür brauchen Sie keinen Termin. Freitags bleibt das Bürgeramt geschlossen." },
+        { "s": "buergeramt", "t": "Wenn Sie einen neuen Reisepass beantragen möchten, bringen Sie bitte ein aktuelles Foto und Ihren alten Pass mit. Termine buchen Sie am einfachsten über unsere Internetseite." }
       ],
-      "statement": "Um den Personalausweis abzuholen, braucht man einen Termin.",
-      "answer": false,
-      "explanation": "„Ihren fertigen Personalausweis können Sie ohne Termin abholen“ on Thursdays from 8 to 12. An appointment is only needed for a passport or a registration.",
-      "explanationDe": "„Ihren fertigen Personalausweis können Sie ohne Termin abholen“, und zwar donnerstags von 8 bis 12 Uhr. Einen Termin braucht man nur für einen Reisepass oder eine Anmeldung.",
-      "evidence": "Ihren fertigen Personalausweis können Sie ohne Termin abholen, und zwar donnerstags von 8 bis 12 Uhr."
+      "statement": "Ohne Termin wird man im Bürgeramt nur am Donnerstagnachmittag bedient.",
+      "answer": true,
+      "explanation": "Monday to Wednesday is „nur noch mit Termin“ and Friday is closed. Only the open consultation on Thursday „von 14 bis 18 Uhr“ needs no appointment – that is Thursday afternoon.",
+      "explanationDe": "Von Montag bis Mittwoch geht es „nur noch mit Termin“, und am Freitag ist geschlossen. Nur für die offene Sprechstunde am Donnerstag „von 14 bis 18 Uhr“ brauchst du keinen Termin – das ist der Donnerstagnachmittag.",
+      "evidence": "Am Donnerstag gibt es von 14 bis 18 Uhr eine offene Sprechstunde, dafür brauchen Sie keinen Termin."
     },
     {
       "n": 2,
-      "label": "Nachricht vom Sekretariat der Schule",
+      "label": "Nachricht auf dem Anrufbeantworter",
       "script": [
-        { "s": "schule", "t": "Guten Tag, Herr Okafor, hier ist Wiegand aus dem Sekretariat der Gesamtschule Nord. Ich rufe wegen des Elternabends der Klasse 7 b an." },
-        { "s": "schule", "t": "Der Elternabend kann leider nicht wie geplant am Dienstag stattfinden. Er ist jetzt am Donnerstag, ebenfalls um 19 Uhr." },
-        { "s": "schule", "t": "Außerdem treffen wir uns nicht in der Aula, sondern in Raum 204 im Neubau. Vielen Dank und auf Wiederhören." }
+        { "s": "zulassung", "t": "Guten Tag, Herr Ofori, hier spricht Kampmann von der Zulassungsstelle. Es geht um die Unterlagen für Ihr Auto von heute Morgen." },
+        { "s": "zulassung", "t": "Den Fahrzeugbrief und Ihren Ausweis haben wir, das ist alles in Ordnung. Es fehlt aber noch die Bestätigung von Ihrer Versicherung." },
+        { "s": "zulassung", "t": "Die können Sie uns per E-Mail schicken, Sie müssen also nicht noch einmal vorbeikommen. Wenn wir sie bis Freitag haben, können Sie die Nummernschilder schon am Montag abholen." },
+        { "s": "zulassung", "t": "Bei Fragen erreichen Sie mich unter 0 7 3 1 – 4 0 5 2 2, am besten vormittags." }
       ],
-      "statement": "Der Elternabend findet in der Aula der Schule statt.",
+      "statement": "Herr Ofori muss den Fahrzeugbrief noch bei der Zulassungsstelle abgeben.",
       "answer": false,
-      "explanation": "The meeting is „nicht in der Aula, sondern in Raum 204 im Neubau“. The day has changed too: Thursday instead of Tuesday.",
-      "explanationDe": "Der Elternabend ist „nicht in der Aula, sondern in Raum 204 im Neubau“. Auch der Tag hat sich geändert: Donnerstag statt Dienstag.",
-      "evidence": "Außerdem treffen wir uns nicht in der Aula, sondern in Raum 204 im Neubau."
+      "explanation": "The office already has it: „Den Fahrzeugbrief und Ihren Ausweis haben wir“. What is missing is the confirmation from his insurance – and he can send that by e-mail.",
+      "explanationDe": "Den Fahrzeugbrief hat die Zulassungsstelle schon: „Den Fahrzeugbrief und Ihren Ausweis haben wir“. Es fehlt nur die Bestätigung von der Versicherung – und die kann er per E-Mail schicken.",
+      "evidence": "Den Fahrzeugbrief und Ihren Ausweis haben wir, das ist alles in Ordnung."
     },
     {
       "n": 3,
-      "label": "Durchsage im Bürgerbüro",
+      "label": "Verkehrsmeldung im Radio",
       "script": [
-        { "s": "amt", "t": "Die Wartenummer 134 bitte zu Schalter sechs." },
-        { "s": "amt", "t": "Die Nummer 134 bitte zu Schalter sechs." },
-        { "s": "amt", "t": "Wir bitten alle Wartenden um Beachtung: Wegen einer technischen Störung ist heute leider keine Kartenzahlung möglich. Bitte bezahlen Sie Ihre Gebühren bar." },
-        { "s": "amt", "t": "Einen Geldautomaten finden Sie im Erdgeschoss, gleich neben dem Aufzug." }
+        { "s": "verkehr", "t": "Eine Meldung für alle, die mit dem Bus in die Innenstadt fahren: Wegen Bauarbeiten am Rathausplatz wird die Haltestelle Rathaus ab Montag für etwa sechs Wochen nicht angefahren." },
+        { "s": "verkehr", "t": "Die Linien 4 und 7 halten stattdessen an einer Ersatzhaltestelle in der Schulstraße, ungefähr zweihundert Meter weiter. Die Linie 9 fährt in dieser Zeit eine Umleitung über den Bahnhof." },
+        { "s": "verkehr", "t": "Die Geschäfte und die Stadtbibliothek am Rathausplatz bleiben während der Bauarbeiten ganz normal geöffnet und sind zu Fuß gut erreichbar." }
       ],
-      "statement": "Heute kann man im Bürgerbüro nur mit Bargeld bezahlen.",
-      "answer": true,
-      "explanation": "Because of a technical fault „keine Kartenzahlung möglich“ – the fees have to be paid in cash („bar“). There is a cash machine on the ground floor.",
-      "explanationDe": "Wegen einer technischen Störung ist „keine Kartenzahlung möglich“ – die Gebühren muss man „bar“ bezahlen. Im Erdgeschoss gibt es einen Geldautomaten.",
-      "evidence": "Wegen einer technischen Störung ist heute leider keine Kartenzahlung möglich."
+      "statement": "Ab Montag hält die Linie 9 vorübergehend in der Schulstraße.",
+      "answer": false,
+      "explanation": "Only „Die Linien 4 und 7“ stop at the temporary stop in the Schulstraße. Line 9 „fährt in dieser Zeit eine Umleitung über den Bahnhof“.",
+      "explanationDe": "Nur „Die Linien 4 und 7“ halten an der Ersatzhaltestelle in der Schulstraße. Die Linie 9 „fährt in dieser Zeit eine Umleitung über den Bahnhof“.",
+      "evidence": "Die Linie 9 fährt in dieser Zeit eine Umleitung über den Bahnhof."
     },
     {
       "n": 4,
-      "label": "Verkehrsmeldung im Radio",
+      "label": "Telefonansage der Abfallwirtschaft",
       "script": [
-        { "s": "verkehr", "t": "Eine Verkehrsinformation für alle, die am Sonntag in die Innenstadt wollen. Wegen des Stadtmarathons sind viele Straßen im Zentrum von 8 bis 15 Uhr gesperrt." },
-        { "s": "verkehr", "t": "Die Buslinien 3 und 5 fahren in dieser Zeit eine Umleitung und halten nicht am Hauptbahnhof. Die Straßenbahnen fahren dagegen ganz normal." },
-        { "s": "verkehr", "t": "Am besten lassen Sie Ihr Auto zu Hause und nehmen die Straßenbahn." }
+        { "s": "abfall", "t": "Sie sind verbunden mit dem Servicetelefon der Abfallwirtschaft im Kreis Eschenau. Wegen des Feiertags am Montag verschiebt sich die Müllabfuhr in dieser Woche für alle Tonnen um einen Tag nach hinten." },
+        { "s": "abfall", "t": "Die Biotonne wird also am Dienstag geleert, der Restmüll am Mittwoch statt am Dienstag und das Altpapier erst am Samstag statt am Freitag." },
+        { "s": "abfall", "t": "Sperrmüll holen wir nur nach vorheriger Anmeldung ab. Dafür drücken Sie bitte die Taste zwei oder nutzen das Formular auf unserer Internetseite." }
       ],
-      "statement": "Am Sonntag fahren alle Busse wie gewohnt durch die Innenstadt.",
-      "answer": false,
-      "explanation": "Bus lines 3 and 5 „fahren in dieser Zeit eine Umleitung“ and do not stop at the main station. Only the trams run normally.",
-      "explanationDe": "Die Buslinien 3 und 5 „fahren in dieser Zeit eine Umleitung“ und halten nicht am Hauptbahnhof. Nur die Straßenbahnen fahren normal.",
-      "evidence": "Die Buslinien 3 und 5 fahren in dieser Zeit eine Umleitung und halten nicht am Hauptbahnhof."
+      "statement": "Das Altpapier wird in dieser Woche am Wochenende abgeholt.",
+      "answer": true,
+      "explanation": "All collections move one day later, so the waste paper is collected „erst am Samstag statt am Freitag“ – at the weekend. Tuesday and Wednesday are the new days for the organic and the residual waste.",
+      "explanationDe": "Alle Termine verschieben sich um einen Tag, deshalb wird das Altpapier „erst am Samstag statt am Freitag“ abgeholt – also am Wochenende. Dienstag und Mittwoch sind die neuen Tage für die Biotonne und den Restmüll.",
+      "evidence": "das Altpapier erst am Samstag statt am Freitag"
     },
     {
       "n": 5,
-      "label": "Nachricht von der Hausverwaltung",
+      "label": "Nachricht vom Standesamt",
       "script": [
-        { "s": "verwaltung", "t": "Guten Tag, Frau Hartwig, hier spricht Albrecht von der Hausverwaltung Rheinblick. Ich möchte Sie über Arbeiten in Ihrem Haus informieren." },
-        { "s": "verwaltung", "t": "Am Mittwoch werden die Wasserleitungen im Keller repariert. Deshalb gibt es von 9 bis 13 Uhr im ganzen Haus kein Wasser." },
-        { "s": "verwaltung", "t": "Am Nachmittag ist alles wieder normal. Der Hausmeister hängt dazu auch noch einen Zettel im Treppenhaus auf." }
+        { "s": "standesamt", "t": "Guten Tag, Frau Lehmkuhl, hier ist Dobrowolski vom Standesamt. Ich rufe wegen Ihrer Trauung am Samstag, dem achten Juni, an." },
+        { "s": "standesamt", "t": "Leider müssen wir die Uhrzeit ändern: Statt um 11 Uhr sind Sie jetzt erst um halb zwölf dran. Der Raum bleibt derselbe, also das Trauzimmer im alten Rathaus." },
+        { "s": "standesamt", "t": "Trauzeugen brauchen Sie nicht, Sie dürfen aber gern welche mitbringen. In den Raum passen allerdings höchstens zwanzig Gäste." },
+        { "s": "standesamt", "t": "Ihre Geburtsurkunden haben wir schon, bitte bringen Sie nur noch Ihre Ausweise mit." }
       ],
-      "statement": "Am Mittwochvormittag gibt es im Haus kein Wasser.",
-      "answer": true,
-      "explanation": "On Wednesday there is no water „von 9 bis 13 Uhr“ – that is in the morning. In the afternoon everything is normal again.",
-      "explanationDe": "Am Mittwoch gibt es „von 9 bis 13 Uhr“ kein Wasser – das ist am Vormittag. Am Nachmittag ist alles wieder normal.",
-      "evidence": "Deshalb gibt es von 9 bis 13 Uhr im ganzen Haus kein Wasser."
+      "statement": "Die Trauung beginnt eine halbe Stunde früher als geplant.",
+      "answer": false,
+      "explanation": "„Statt um 11 Uhr sind Sie jetzt erst um halb zwölf dran“ – the wedding is half an hour later, not earlier. Only the room („Der Raum bleibt derselbe“) does not change.",
+      "explanationDe": "„Statt um 11 Uhr sind Sie jetzt erst um halb zwölf dran“ – die Trauung ist also eine halbe Stunde später, nicht früher. Nur der Raum bleibt gleich: „Der Raum bleibt derselbe“.",
+      "evidence": "Statt um 11 Uhr sind Sie jetzt erst um halb zwölf dran."
     }
   ],
   "glossary": [
-    { "de": "das Bürgeramt", "en": "citizens' office (local authority)" },
-    { "de": "einen Termin vereinbaren", "en": "to make an appointment" },
-    { "de": "der Personalausweis", "en": "identity card" },
-    { "de": "der Elternabend", "en": "parents' evening" },
-    { "de": "die Aula", "en": "school assembly hall" },
-    { "de": "die Wartenummer", "en": "queue number" },
-    { "de": "der Schalter", "en": "counter" },
-    { "de": "die Gebühr", "en": "fee" },
-    { "de": "bar bezahlen", "en": "to pay in cash" },
-    { "de": "gesperrt", "en": "closed (road)" },
-    { "de": "die Hausverwaltung", "en": "property management company" },
-    { "de": "die Wasserleitung", "en": "water pipe" }
+    { "de": "jemanden bedienen", "en": "to serve someone (at a counter)" },
+    { "de": "die offene Sprechstunde", "en": "drop-in hours (no appointment needed)" },
+    { "de": "beantragen", "en": "to apply for" },
+    { "de": "der Fahrzeugbrief", "en": "vehicle registration document" },
+    { "de": "die Bestätigung", "en": "confirmation" },
+    { "de": "das Nummernschild", "en": "number plate" },
+    { "de": "die Ersatzhaltestelle", "en": "temporary (replacement) stop" },
+    { "de": "die Umleitung", "en": "diversion" },
+    { "de": "die Biotonne", "en": "organic waste bin" },
+    { "de": "der Sperrmüll", "en": "bulky waste (old furniture etc.)" },
+    { "de": "die Trauung", "en": "wedding ceremony" },
+    { "de": "der Trauzeuge", "en": "witness at a wedding" }
   ]
 }

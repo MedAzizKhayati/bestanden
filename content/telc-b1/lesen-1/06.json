@@ -7,15 +7,15 @@
   "difficulty": 2,
   "headlines": [
     { "key": "a", "text": "Hitze im Sommer: Viele Stadtbäume sterben" },
-    { "key": "b", "text": "Welcher Müll gehört wohin? Eine App hilft" },
-    { "key": "c", "text": "Blumen statt Rasen: Gemeinde hilft den Insekten" },
+    { "key": "b", "text": "Dortmund: Digitaler Helfer für Fragen rund um den Müll" },
+    { "key": "c", "text": "Bunte Wiesen statt kurzem Grün: Hier wird seltener gemäht" },
     { "key": "d", "text": "Kaputt? Gemeinsam reparieren statt wegwerfen" },
     { "key": "e", "text": "Vorarlberg: Rasenmähen im eigenen Garten bald verboten" },
-    { "key": "f", "text": "Basel: Wer Müll wegwirft, muss bald zahlen" },
+    { "key": "f", "text": "Basel: Wer Abfall am Rheinufer liegen lässt, zahlt" },
     { "key": "g", "text": "Studie: Wo Bäume stehen, ist es kühler" },
     { "key": "h", "text": "Würzburg: Kaputte Geräte werden kostenlos abgeholt" },
-    { "key": "i", "text": "Aufräumen am Rhein: Freiwillige gesucht" },
-    { "key": "j", "text": "Dortmund: Müllabfuhr kommt bald seltener" }
+    { "key": "i", "text": "Großes Aufräumen am Fluss: Helfer gesucht" },
+    { "key": "j", "text": "Dortmund: Biotonne wird bald seltener geleert" }
   ],
   "texts": [
     {
@@ -38,33 +38,33 @@
       "n": 3,
       "text": "Wann wird die Biotonne geleert? Und gehört ein Joghurtbecher in den gelben Sack oder in den Restmüll? Antworten auf solche Fragen gibt die neue kostenlose App „Müll-Kompass“ für Dortmund. Nach der Eingabe der eigenen Adresse zeigt sie alle Abholtermine für das ganze Jahr. Auf Wunsch erinnert das Handy am Abend vorher daran, die Tonne an die Straße zu stellen. Außerdem gibt es ein Abfall-Lexikon mit über 1.000 Begriffen von „Akku“ bis „Zahnbürste“. Die App zeigt auch, wo der nächste Glascontainer steht.",
       "answer": "b",
-      "explanation": "The app shows the collection dates and explains which waste goes where (an „Abfall-Lexikon mit über 1.000 Begriffen“), so (b). Headline (j) is a trap: the app reminds you of the dates, but the text does not say that rubbish will be collected less often.",
-      "explanationDe": "Die App zeigt die Abholtermine und erklärt, welcher Müll wohin gehört (ein „Abfall-Lexikon mit über 1.000 Begriffen“), also passt (b). Überschrift (j) ist eine Falle: Die App erinnert an die Termine, aber im Text steht nicht, dass der Müll seltener abgeholt wird.",
-      "evidence": ["zeigt sie alle Abholtermine für das ganze Jahr", "ein Abfall-Lexikon mit über 1.000 Begriffen"]
+      "explanation": "The new app answers everyday questions about rubbish: it shows „alle Abholtermine für das ganze Jahr“, reminds you to put the bin out and explains in an „Abfall-Lexikon“ what goes where, so (b). Headline (j) is a trap: it repeats „Dortmund“, „Biotonne“ and „geleert“, but the text only asks when the bin is emptied – it does not say that this will happen less often.",
+      "explanationDe": "Die neue App beantwortet Alltagsfragen zum Müll: Sie zeigt „alle Abholtermine für das ganze Jahr“, erinnert daran, die Tonne an die Straße zu stellen, und erklärt in einem „Abfall-Lexikon“, was wohin gehört, also passt (b). Überschrift (j) ist eine Falle: Sie wiederholt „Dortmund“, „Biotonne“ und „geleert“, aber der Text fragt nur, wann die Tonne geleert wird – dass das seltener passiert, steht nicht im Text.",
+      "evidence": ["Antworten auf solche Fragen gibt die neue kostenlose App", "zeigt sie alle Abholtermine für das ganze Jahr", "ein Abfall-Lexikon mit über 1.000 Begriffen"]
     },
     {
       "n": 4,
       "text": "Der Verein „Sauberer Rhein“ sucht für Samstag, den 22. April, wieder Freiwillige, die in Basel am Rheinufer und in den Parks Abfall einsammeln. Treffpunkt ist um 10 Uhr bei der Mittleren Brücke. Handschuhe, Zangen und Säcke bekommen alle vor Ort. Im letzten Jahr haben fast 400 Helferinnen und Helfer mitgemacht und dabei über zwei Tonnen Abfall gefunden – vor allem Flaschen, Verpackungen und Zigaretten. Nach der Aktion lädt der Verein alle Teilnehmenden zu einer warmen Suppe ein. Auch Familien mit Kindern sind herzlich willkommen.",
       "answer": "i",
-      "explanation": "A club is looking for volunteers („sucht … wieder Freiwillige“) who collect rubbish along the Rhine in Basel, so (i). Headline (f) is wrong: fines for people who drop litter are not mentioned.",
-      "explanationDe": "Ein Verein „sucht … wieder Freiwillige“, die in Basel am Rhein Müll sammeln, also passt (i). Überschrift (f) ist falsch: Strafen für Leute, die Müll wegwerfen, werden nicht erwähnt.",
+      "explanation": "A club is looking for volunteers („sucht … wieder Freiwillige“) who collect rubbish along the river, so (i). Headline (f) is wrong although it shares „Basel“, „Abfall“ and „Rheinufer“ with the text: fines for people who leave litter are not mentioned.",
+      "explanationDe": "Ein Verein „sucht … wieder Freiwillige“, die am Fluss Müll sammeln, also passt (i). Überschrift (f) ist falsch, obwohl sie „Basel“, „Abfall“ und „Rheinufer“ aus dem Text benutzt: Strafen für Leute, die Müll liegen lassen, werden nicht erwähnt.",
       "evidence": ["sucht für Samstag, den 22. April, wieder Freiwillige", "am Rheinufer und in den Parks Abfall einsammeln"]
     },
     {
       "n": 5,
       "text": "Wo früher kurzer Rasen war, wachsen in der Vorarlberger Gemeinde Bergach jetzt bunte Blumenwiesen. Auf über 30 Flächen – in Parks, an Straßenrändern und rund um die Schule – mähen die Gemeindearbeiter nur noch zweimal im Jahr. So finden Bienen, Schmetterlinge und andere Insekten wieder genug Nahrung. Am Anfang haben sich manche Bürger über das „Unkraut“ beschwert, inzwischen sind die meisten begeistert. Wer auch im eigenen Garten eine Blumenwiese anlegen möchte, kann im Gemeindeamt kostenlos Samen abholen. Kleine Schilder an den Wiesen erklären, welche Pflanzen dort wachsen.",
       "answer": "c",
-      "explanation": "The municipality now mows its green areas only twice a year, so that bees and butterflies find food, so (c). Headline (e) is a trap: nothing is forbidden in private gardens – people can even get free seeds for their own garden.",
-      "explanationDe": "Die Gemeinde mäht ihre Grünflächen nur noch zweimal im Jahr, damit Bienen und Schmetterlinge Nahrung finden, also passt (c). Überschrift (e) ist eine Falle: In privaten Gärten wird nichts verboten – man kann sogar kostenlos Samen für den eigenen Garten bekommen.",
-      "evidence": ["mähen die Gemeindearbeiter nur noch zweimal im Jahr", "So finden Bienen, Schmetterlinge und andere Insekten wieder genug Nahrung"]
+      "explanation": "Where there used to be short lawn, there are now colourful flower meadows: the municipality mows only twice a year, so (c). Headline (e) is a trap: nothing is forbidden in private gardens – people can even get free seeds for their own garden.",
+      "explanationDe": "Wo früher kurzer Rasen war, wachsen jetzt bunte Blumenwiesen: Die Gemeinde mäht nur noch zweimal im Jahr, also passt (c). Überschrift (e) ist eine Falle: In privaten Gärten wird nichts verboten – man kann sogar kostenlos Samen für den eigenen Garten bekommen.",
+      "evidence": ["Wo früher kurzer Rasen war, wachsen in der Vorarlberger Gemeinde Bergach jetzt bunte Blumenwiesen", "mähen die Gemeindearbeiter nur noch zweimal im Jahr"]
     }
   ],
   "distractors": [
     { "key": "a", "why": "Text 1 says that trees make streets cooler and recommends planting more of them. It does not say that trees are dying.", "whyDe": "Text 1 sagt, dass Bäume Straßen kühler machen, und empfiehlt, mehr davon zu pflanzen. Dass Bäume sterben, steht nicht im Text." },
     { "key": "e", "why": "Text 5 is about public areas such as parks and roadsides. For private gardens there is only an offer of free seeds, not a ban.", "whyDe": "In Text 5 geht es um öffentliche Flächen wie Parks und Straßenränder. Für private Gärten gibt es nur ein Angebot – kostenlose Samen –, aber kein Verbot." },
-    { "key": "f", "why": "Text 4 describes a clean-up day with volunteers in Basel. Fines are not mentioned.", "whyDe": "Text 4 beschreibt einen Aufräumtag mit Freiwilligen in Basel. Strafen werden nicht erwähnt." },
+    { "key": "f", "why": "Text 4 describes a clean-up day with volunteers on the Rhine bank in Basel. Fines for leaving litter are not mentioned.", "whyDe": "Text 4 beschreibt einen Aufräumtag mit Freiwilligen am Rheinufer in Basel. Strafen für Leute, die Abfall liegen lassen, werden nicht erwähnt." },
     { "key": "h", "why": "In text 2 people bring broken things to the Reparatur-Café and repair them together with volunteers. There is no collection service.", "whyDe": "In Text 2 bringen die Leute kaputte Dinge ins Reparatur-Café und reparieren sie zusammen mit Freiwilligen. Einen Abholservice gibt es nicht." },
-    { "key": "j", "why": "The app in text 3 shows the collection dates and reminds you of them; the text does not say that collections will change.", "whyDe": "Die App in Text 3 zeigt die Abholtermine und erinnert daran; dass sich die Abholung ändert, steht nicht im Text." }
+    { "key": "j", "why": "Text 3 only asks „Wann wird die Biotonne geleert?“ as an example question for the app; it does not say that the bin will be emptied less often.", "whyDe": "Text 3 fragt nur als Beispiel „Wann wird die Biotonne geleert?“; dass die Tonne seltener geleert wird, steht nicht im Text." }
   ],
   "glossary": [
     { "de": "die Klimaanlage", "en": "air conditioning" },
@@ -72,7 +72,7 @@
     { "de": "ehrenamtlich", "en": "voluntary, unpaid" },
     { "de": "das Ersatzteil", "en": "spare part" },
     { "de": "wegwerfen", "en": "to throw away" },
-    { "de": "die Müllabfuhr", "en": "rubbish collection" },
+    { "de": "die Biotonne", "en": "organic waste bin" },
     { "de": "der Restmüll", "en": "general (non-recyclable) waste" },
     { "de": "einsammeln", "en": "to collect, to pick up" },
     { "de": "die/der Freiwillige", "en": "volunteer" },

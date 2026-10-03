@@ -6,7 +6,7 @@
   "topic": "arbeit",
   "difficulty": 2,
   "textType": "email-informal",
-  "text": "Lieber Malte,\n\nentschuldige, dass ich mich so lange nicht gemeldet habe. Aber ich habe eine tolle Neuigkeit: Nachdem ich drei Monate lang Bewerbungen geschrieben [[1]], habe ich endlich eine Stelle gefunden! Seit dem 1. Juni arbeite ich in einem kleinen Reisebüro in Hamburg.\n\nMeine Chefin, [[2]] das Reisebüro vor zehn Jahren gegründet hat, ist sehr freundlich. Sie hat mir sogar einen eigenen Schlüssel gegeben, [[3]] ich morgens nicht vor der Tür warten muss. Die Arbeit ist manchmal ziemlich anstrengend, [[4]] macht sie großen Spaß. Meine Kolleginnen helfen [[5]] immer, wenn ich eine Frage habe.\n\nIch muss zwar jeden Tag um sechs Uhr aufstehen, aber das stört mich nicht, denn von [[6]] Schreibtisch aus kann ich die Schiffe auf der Elbe sehen. Gestern habe ich zum ersten Mal ganz allein eine Reise für eine [[7]] Familie gebucht – zwei Wochen Kanada mit vier Kindern!\n\nHast du im August schon etwas vor? Es [[8]] toll, wenn du mich in Hamburg besuchen könntest. Ich habe nämlich [[9]] dem 12. August eine Woche Urlaub. Dann zeige ich dir die Stadt, und wir machen zusammen eine Hafenrundfahrt.\n\nIch bin gespannt, [[10]] du dazu sagst!\n\nViele Grüße\nNadine",
+  "text": "Lieber Malte,\n\nentschuldige, dass ich mich so lange nicht gemeldet habe. Aber ich habe eine tolle Neuigkeit: Nachdem ich drei Monate lang Bewerbungen geschrieben [[1]], habe ich endlich eine Stelle gefunden! Seit dem 1. Juni arbeite ich in einem kleinen Reisebüro in Hamburg.\n\nMeine Chefin, [[2]] das Reisebüro vor zehn Jahren gegründet hat, ist sehr freundlich. Sie hat mir sogar einen eigenen Schlüssel gegeben, [[3]] ich morgens nicht vor der Tür warten muss. Die Arbeit ist manchmal ziemlich anstrengend, [[4]] macht sie großen Spaß. Meine Kolleginnen sind sehr nett, und wenn ich etwas nicht weiß, kann ich [[5]] jederzeit fragen.\n\nIch muss zwar jeden Tag um sechs Uhr aufstehen, aber das stört mich nicht, denn von [[6]] Schreibtisch aus kann ich die Schiffe auf der Elbe sehen. Gestern habe ich zum ersten Mal ganz allein eine Reise für eine [[7]] Familie gebucht – zwei Wochen Kanada mit vier Kindern!\n\nHast du im August schon etwas vor? Es [[8]] toll, wenn du mich in Hamburg besuchen könntest. Ich habe nämlich [[9]] dem 12. August eine Woche Urlaub. Dann zeige ich dir die Stadt, und wir machen zusammen eine Hafenrundfahrt.\n\nIch bin gespannt, [[10]] du dazu sagst!\n\nViele Grüße\nNadine",
   "gaps": [
     {
       "n": 1,
@@ -59,14 +59,14 @@
     {
       "n": 5,
       "options": [
-        { "key": "a", "text": "mich" },
-        { "key": "b", "text": "ich" },
-        { "key": "c", "text": "mir" }
+        { "key": "a", "text": "ihnen" },
+        { "key": "b", "text": "sie" },
+        { "key": "c", "text": "ihr" }
       ],
-      "answer": "c",
-      "explanation": "„helfen“ always takes the dative: „Meine Kolleginnen helfen mir“. „mich“ is accusative, and „ich“ is nominative.",
-      "explanationDe": "Nach „helfen“ steht immer der Dativ: „Meine Kolleginnen helfen mir“. „mich“ ist Akkusativ, und „ich“ ist Nominativ.",
-      "grammar": "verben-mit-dativ"
+      "answer": "b",
+      "explanation": "„fragen“ takes the accusative („jemanden fragen“) – a typical trap, because many learners use the dative here. The pronoun refers to „Meine Kolleginnen“ (plural): „kann ich sie jederzeit fragen“. „ihnen“ is the dative plural, „ihr“ the dative singular feminine.",
+      "explanationDe": "„fragen“ braucht den Akkusativ („jemanden fragen“) – eine typische Falle, weil viele Lernende hier den Dativ benutzen. Das Pronomen steht für „Meine Kolleginnen“ (Plural): „kann ich sie jederzeit fragen“. „ihnen“ ist Dativ Plural, „ihr“ Dativ Singular feminin.",
+      "grammar": "pronomen"
     },
     {
       "n": 6,

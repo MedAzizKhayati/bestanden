@@ -6,102 +6,106 @@
   "topic": "freizeit",
   "difficulty": 2,
   "textType": "email-informal",
-  "text": "Liebe Annika,\n\nwie geht es dir? Ich hoffe, du hast deinen Umzug gut [[1]]. Bei mir gibt es etwas Neues: Seit April mache ich bei einem Gemeinschaftsgarten in unserem Stadtteil [[2]].\n\nAuf einer alten Wiese hinter der Schule haben ein paar Nachbarn Beete angelegt. Dort bauen wir zusammen Gemüse, Kräuter und Blumen an. Jeder ist willkommen, egal [[3]] man schon Erfahrung hat oder nicht. Ich habe eigentlich keine [[4]] von Gartenarbeit, aber die anderen erklären mir alles.\n\nAm meisten Spaß machen mir die Tomaten. Ich gieße sie jeden Abend nach der Arbeit, [[5]] sie gut wachsen. Letzte Woche konnte ich zum ersten Mal ein paar Tomaten [[6]] – sie haben super geschmeckt!\n\nAußerdem lerne ich dort viele nette Leute kennen. Früher kannte ich in meiner Straße fast niemanden, und [[7]] grüßen mich alle.\n\nAm 2. September feiern wir ein Gartenfest mit Musik und einem großen Buffet. Ich würde mich riesig [[8]], wenn du kommen könntest. Du kannst gern bei mir [[9]], dann haben wir das ganze Wochenende Zeit füreinander.\n\nIch warte gespannt [[10]] deine Antwort!\n\nLiebe Grüße\nSelin",
+  "text": "Liebe Annika,\n\nwie geht es dir? Ich hoffe, du hast deinen Umzug nach Freiburg gut [[1]] und fühlst dich in der neuen Wohnung schon wohl. Bei mir gibt es etwas Neues: Seit April mache ich in einem Gemeinschaftsgarten bei uns im Stadtteil [[2]].\n\nAuf einer alten Wiese hinter der Grundschule haben ein paar Nachbarn Beete angelegt. Dort bauen wir zusammen Gemüse, Kräuter und Blumen an. Jeder ist willkommen, egal [[3]] man schon Erfahrung hat oder nicht. Ich hatte eigentlich keine [[4]] von Gartenarbeit, aber die anderen erklären mir alles mit viel Geduld.\n\nAm meisten Spaß machen mir die Tomaten. Ich gieße sie jeden Abend nach der Arbeit, [[5]] sie bei der Hitze nicht vertrocknen. Letzte Woche konnte ich zum ersten Mal ein paar Tomaten [[6]] – sie haben super geschmeckt! Nur die Schnecken ärgern mich, [[7]] sie fressen jede Nacht ein paar Salatblätter.\n\nAußerdem lerne ich dort viele nette Leute kennen. Als ich vor zwei Jahren hierhergezogen bin, kannte ich in meiner Straße fast niemanden. [[8]] grüßen mich alle, und manchmal trinken wir nach der Gartenarbeit noch zusammen einen Kaffee.\n\nAm 2. September feiern wir ein Gartenfest mit Musik und einem großen Buffet. Ich würde mich riesig freuen, wenn du kommen [[9]]. Du kannst gern bei mir übernachten, dann haben wir das ganze Wochenende Zeit füreinander.\n\nIch warte gespannt [[10]] deine Antwort!\n\nLiebe Grüße\nSelin",
   "words": [
     { "key": "a", "text": "Ahnung" },
     { "key": "b", "text": "auf" },
     { "key": "c", "text": "damals" },
     { "key": "d", "text": "damit" },
-    { "key": "e", "text": "deshalb" },
-    { "key": "f", "text": "ernten" },
-    { "key": "g", "text": "freuen" },
-    { "key": "h", "text": "für" },
-    { "key": "i", "text": "heute" },
+    { "key": "e", "text": "denn" },
+    { "key": "f", "text": "deshalb" },
+    { "key": "g", "text": "ernten" },
+    { "key": "h", "text": "heute" },
+    { "key": "i", "text": "könntest" },
     { "key": "j", "text": "Lust" },
     { "key": "k", "text": "mit" },
-    { "key": "l", "text": "ob" },
-    { "key": "m", "text": "pflanzen" },
-    { "key": "n", "text": "übernachten" },
+    { "key": "l", "text": "müsstest" },
+    { "key": "m", "text": "ob" },
+    { "key": "n", "text": "pflanzen" },
     { "key": "o", "text": "überstanden" }
   ],
   "gaps": [
     {
       "n": 1,
       "answer": "o",
-      "explanation": "„etwas gut überstehen“ means „to get through something (stressful) well“: „Ich hoffe, du hast deinen Umzug gut überstanden.“ The perfect with „hast“ needs the participle at the end.",
-      "explanationDe": "„etwas gut überstehen“ (= etwas Anstrengendes gut hinter sich bringen): „Ich hoffe, du hast deinen Umzug gut überstanden.“ Das Perfekt mit „hast“ braucht das Partizip am Ende.",
+      "explanation": "„etwas gut überstehen“ means to get through something stressful well. In the perfect tense: „du hast deinen Umzug gut überstanden“.",
+      "explanationDe": "„etwas gut überstehen“ (= eine anstrengende Situation gut hinter sich bringen). Im Perfekt: „du hast deinen Umzug gut überstanden“.",
       "grammar": "perfekt"
     },
     {
       "n": 2,
       "answer": "k",
-      "explanation": "„bei etwas mitmachen“ (to take part in something) is a separable verb, so the prefix goes to the end: „Seit April mache ich bei einem Gemeinschaftsgarten … mit.“",
-      "explanationDe": "„bei etwas mitmachen“ (= an etwas teilnehmen) ist ein trennbares Verb, deshalb steht das Präfix am Ende: „Seit April mache ich bei einem Gemeinschaftsgarten … mit.“",
+      "explanation": "„mitmachen“ (to take part, to join in) is a separable verb, so the prefix goes to the end: „Seit April mache ich in einem Gemeinschaftsgarten … mit.“ „auf“ would form „aufmachen“ (to open), which makes no sense.",
+      "explanationDe": "„mitmachen“ (= an etwas teilnehmen) ist ein trennbares Verb, das Präfix steht am Ende: „Seit April mache ich in einem Gemeinschaftsgarten … mit.“ Mit „auf“ entstünde „aufmachen“ (= öffnen) – das ergibt keinen Sinn.",
       "grammar": "trennbare-verben"
     },
     {
       "n": 3,
-      "answer": "l",
-      "explanation": "„egal ob … oder nicht“ means „no matter whether … or not“ – everyone is welcome, with or without experience.",
-      "explanationDe": "„egal ob … oder nicht“ bedeutet: Es spielt keine Rolle, ob … oder nicht – alle sind willkommen, mit oder ohne Erfahrung.",
+      "answer": "m",
+      "explanation": "„egal, ob … oder nicht“ (no matter whether … or not) is a fixed combination: „egal ob man schon Erfahrung hat oder nicht“. „damit“ and „denn“ cannot follow „egal“.",
+      "explanationDe": "„egal, ob … oder nicht“ ist eine feste Verbindung: „egal ob man schon Erfahrung hat oder nicht“. „damit“ und „denn“ können nicht nach „egal“ stehen.",
       "grammar": "indirekte-fragen"
     },
     {
       "n": 4,
       "answer": "a",
-      "explanation": "„keine Ahnung von etwas haben“ means „to know nothing about something“. „Lust“ is a trap: it goes with „auf“, and Selin clearly enjoys gardening.",
-      "explanationDe": "„keine Ahnung von etwas haben“ bedeutet: nichts über etwas wissen. „Lust“ ist eine Falle: Es steht mit „auf“, und Selin hat ja offensichtlich Spaß an der Gartenarbeit."
+      "explanation": "„keine Ahnung von etwas haben“ means to know nothing about something – the others explain everything to her. „Lust“ is the trap: it takes „auf“ („keine Lust auf Gartenarbeit“), not „von“, and she enjoys the garden.",
+      "explanationDe": "„keine Ahnung von etwas haben“ (= nichts über etwas wissen) – die anderen erklären ihr ja alles. „Lust“ ist die Falle: Es steht mit „auf“ („keine Lust auf Gartenarbeit“), nicht mit „von“, und die Gartenarbeit macht ihr Spaß.",
+      "grammar": "nomen-verb-verbindungen"
     },
     {
       "n": 5,
       "answer": "d",
-      "explanation": "„damit“ expresses a purpose: she waters the tomatoes so that they grow well. „deshalb“ would need the verb directly after it („deshalb wachsen sie …“).",
-      "explanationDe": "„damit“ drückt einen Zweck aus: Sie gießt die Tomaten, damit sie gut wachsen. Nach „deshalb“ müsste direkt das Verb stehen („deshalb wachsen sie …“).",
+      "explanation": "She waters the tomatoes so that they do not dry out – a purpose with its own subject („sie“) and the verb at the end: „damit sie … nicht vertrocknen“. „denn“ would need main-clause word order and gives a reason.",
+      "explanationDe": "Sie gießt die Tomaten, damit sie nicht vertrocknen – ein Ziel mit eigenem Subjekt („sie“), das Verb steht am Ende: „damit sie … nicht vertrocknen“. „denn“ bräuchte die Hauptsatz-Stellung und nennt einen Grund.",
       "grammar": "finale-saetze"
     },
     {
       "n": 6,
-      "answer": "f",
-      "explanation": "„ernten“ means „to harvest“: she picked her first tomatoes and ate them („sie haben super geschmeckt“). „pflanzen“ (to plant) does not fit – you cannot taste tomatoes you have just planted.",
-      "explanationDe": "„ernten“ bedeutet: reifes Obst oder Gemüse pflücken. Sie hat ihre ersten Tomaten gepflückt und gegessen („sie haben super geschmeckt“). „pflanzen“ (= in die Erde setzen) passt nicht – Tomaten, die man gerade gepflanzt hat, kann man nicht probieren."
+      "answer": "g",
+      "explanation": "„sie haben super geschmeckt“ shows that she picked ripe tomatoes: „ein paar Tomaten ernten“. „pflanzen“ (to plant) is grammatically possible, but you cannot taste tomatoes you have just planted.",
+      "explanationDe": "„sie haben super geschmeckt“ zeigt, dass sie reife Tomaten geholt hat: „ein paar Tomaten ernten“. „pflanzen“ passt grammatisch, aber Tomaten, die man gerade erst pflanzt, kann man nicht essen."
     },
     {
       "n": 7,
-      "answer": "i",
-      "explanation": "The text contrasts „früher“ (in the past) with „heute“ (today), and the verb „grüßen“ is in the present tense. „damals“ (back then) would need a past tense.",
-      "explanationDe": "Der Text stellt „früher“ (= in der Vergangenheit) und „heute“ (= jetzt) gegenüber, und das Verb „grüßen“ steht im Präsens. „damals“ (= zu jener Zeit in der Vergangenheit) bräuchte eine Vergangenheitsform."
+      "answer": "e",
+      "explanation": "The second clause gives the reason why the snails annoy her, and it has main-clause word order („sie fressen“) – so „denn“. „deshalb“ would need the verb directly after it („deshalb fressen sie“) and would reverse cause and effect; „damit“ needs the verb at the end.",
+      "explanationDe": "Der zweite Satz nennt den Grund, warum sie sich über die Schnecken ärgert, und hat Hauptsatz-Stellung („sie fressen“) – also „denn“. Bei „deshalb“ müsste das Verb direkt danach stehen („deshalb fressen sie“), und Grund und Folge wären vertauscht; bei „damit“ steht das Verb am Ende.",
+      "grammar": "konnektoren-hauptsatz"
     },
     {
       "n": 8,
-      "answer": "g",
-      "explanation": "„Ich würde mich riesig freuen, wenn …“ (I would be really happy if …) is a typical way to invite someone warmly.",
-      "explanationDe": "„Ich würde mich riesig freuen, wenn …“ ist eine typische Art, jemanden herzlich einzuladen.",
-      "grammar": "konjunktiv-2"
+      "answer": "h",
+      "explanation": "The sentence before talks about two years ago („kannte ich … fast niemanden“); now everybody greets her (present tense „grüßen“) – so „Heute“. „Damals“ refers to the past and contradicts the present tense; „Deshalb“ makes no sense, because knowing nobody is not the reason why everybody greets her.",
+      "explanationDe": "Der Satz davor spricht über die Zeit vor zwei Jahren („kannte ich … fast niemanden“); jetzt grüßen sie alle (Präsens „grüßen“) – also „Heute“. „Damals“ meint die Vergangenheit und passt nicht zum Präsens; „Deshalb“ ergibt keinen Sinn, denn dass sie niemanden kannte, ist nicht der Grund dafür, dass sie alle grüßen."
     },
     {
       "n": 9,
-      "answer": "n",
-      "explanation": "„bei jemandem übernachten“ means „to stay the night at someone's place“: Annika can sleep at Selin's flat.",
-      "explanationDe": "„bei jemandem übernachten“ bedeutet: bei jemandem zu Hause schlafen. Annika kann in Selins Wohnung schlafen."
+      "answer": "i",
+      "explanation": "After „Ich würde mich riesig freuen, wenn …“ you need Konjunktiv II in the du-form: „wenn du kommen könntest“. „müsstest“ is also Konjunktiv II but means an obligation – she invites her friend, she does not force her.",
+      "explanationDe": "Nach „Ich würde mich riesig freuen, wenn …“ brauchst du den Konjunktiv II in der du-Form: „wenn du kommen könntest“. „müsstest“ ist auch Konjunktiv II, drückt aber eine Pflicht aus – Selin lädt ihre Freundin ein, sie zwingt sie nicht.",
+      "grammar": "konjunktiv-2"
     },
     {
       "n": 10,
       "answer": "b",
-      "explanation": "„warten auf“ + accusative is a fixed combination: „Ich warte gespannt auf deine Antwort.“ „für“ is not possible with „warten“.",
-      "explanationDe": "„warten auf“ + Akkusativ ist eine feste Verbindung: „Ich warte gespannt auf deine Antwort.“ „für“ ist mit „warten“ nicht möglich.",
+      "explanation": "„auf etwas warten“ + accusative: „Ich warte gespannt auf deine Antwort!“ „mit“ does not combine with „warten“ in this meaning.",
+      "explanationDe": "„auf etwas warten“ + Akkusativ: „Ich warte gespannt auf deine Antwort!“ „mit“ passt in dieser Bedeutung nicht zu „warten“.",
       "grammar": "verben-mit-praepositionen"
     }
   ],
   "glossary": [
-    { "de": "etwas überstehen", "en": "to get through something (difficult)" },
-    { "de": "bei etwas mitmachen", "en": "to take part in something" },
+    { "de": "etwas überstehen", "en": "to get through something" },
+    { "de": "mitmachen", "en": "to take part, to join in" },
     { "de": "der Gemeinschaftsgarten", "en": "community garden" },
-    { "de": "das Beet", "en": "flower or vegetable bed" },
-    { "de": "anbauen", "en": "to grow (vegetables, herbs)" },
+    { "de": "das Beet", "en": "flower/vegetable bed" },
+    { "de": "anbauen", "en": "to grow (plants)" },
     { "de": "keine Ahnung von etwas haben", "en": "to know nothing about something" },
-    { "de": "gießen", "en": "to water (plants)" },
+    { "de": "gießen", "en": "to water" },
+    { "de": "vertrocknen", "en": "to dry out" },
     { "de": "ernten", "en": "to harvest" },
+    { "de": "die Schnecke", "en": "snail, slug" },
     { "de": "bei jemandem übernachten", "en": "to stay overnight at someone's place" },
-    { "de": "gespannt", "en": "curious, eager to know" }
+    { "de": "gespannt", "en": "eagerly, in suspense" }
   ]
 }

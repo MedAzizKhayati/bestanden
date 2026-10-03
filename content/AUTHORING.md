@@ -30,7 +30,7 @@ The schemas live in `src/lib/content/schemas.ts`, extra consistency rules in `sr
 
 - 1–3 short sentences, written for a B1 learner. Quote the decisive German words in „…“.
 - Say *why the answer is right* and, where useful, *why the most tempting distractor is wrong*.
-- Example: `„Ab sofort … auch für Radfahrer“ – the text announces a new brochure for cyclists who travel by train, so (d). Headline (g) is a trap: holidays by bike are mentioned, but not that they are getting more popular.`
+- Example: `„Ab Dezember … von Zürich nach Amsterdam“ – the text announces a new night train connection, so (d). Headline (b) is a trap: night trains are mentioned, but the text is about a new connection, not fewer ones.`
 - `glossary`: 5–12 useful words/phrases from the set with English meanings (lemma form for nouns with article: „die Ermäßigung“).
 
 ### German versions (German UI)
@@ -55,6 +55,13 @@ The loader shows the `…De` version in the German UI and falls back to English 
 medien, umwelt, behoerden, kultur, sport, technik, gesellschaft.
 
 `difficulty`: 1 = slightly easier than the exam, 2 = exam level (most sets), 3 = demanding exam level.
+
+**Telc level is measured.** `src/lib/content/difficulty.ts` holds target values measured on the passages of the
+official Übungstests (only the numbers: words, words per sentence, share of long words, LIX). The validator
+warns when a set tagged 2 or 3 is easier than that (`below telc level`); warm-ups (1) are exempt.
+`bun scripts/qa/difficulty.ts <partId>` prints the measures for every set of a part. Reach the targets the way
+real texts do (subordinate clauses and Nominalstil in articles, paraphrase, competing details, spontaneous
+speech in recordings) – never by stuffing sentences. Mock exams only use sets tagged 2 or 3.
 
 ## 4. File naming
 
@@ -100,7 +107,7 @@ medien, umwelt, behoerden, kultur, sport, technik, gesellschaft.
 ```json
 {
   "id": "lesen-2-01", "examId": "telc-b1", "type": "text-mc", "title": "…", "topic": "arbeit", "difficulty": 2,
-  "article": { "headline": "…", "lead": "…", "paragraphs": ["…", "…"], "source": "Rheinpfalz am Sonntag" },
+  "article": { "headline": "…", "lead": "…", "paragraphs": ["…", "…"], "source": "Mittelhessische Wochenpost" },
   "questions": [{
     "n": 1, "stem": "…",
     "options": [{ "key": "a", "text": "…" }, { "key": "b", "text": "…" }, { "key": "c", "text": "…" }],
@@ -145,7 +152,7 @@ medien, umwelt, behoerden, kultur, sport, technik, gesellschaft.
 {
   "id": "sprachbausteine-1-01", "examId": "telc-b1", "type": "gap-mc", "title": "…", "topic": "familie",
   "difficulty": 2, "textType": "email-informal",
-  "text": "Liebe Karin,\n\nnach meinem Praktikum [[1]] …\n\nLiebe Grüße\nFritz",
+  "text": "Liebe Svenja,\n\nseit zwei Wochen [[1]] …\n\nViele Grüße\nMalte",
   "gaps": [{ "n": 1, "options": [{ "key": "a", "text": "…" }, { "key": "b", "text": "…" }, { "key": "c", "text": "…" }],
              "answer": "a", "explanation": "…", "grammar": "verbindungsadverbien" }],
   "glossary": []
@@ -166,8 +173,8 @@ medien, umwelt, behoerden, kultur, sport, technik, gesellschaft.
 {
   "id": "sprachbausteine-2-01", "examId": "telc-b1", "type": "gap-wordbank", "title": "…", "topic": "reisen",
   "difficulty": 2, "textType": "email-semiformal",
-  "stimulus": { "heading": "Hotel-Pension …", "lines": ["…"] },
-  "text": "Sehr geehrte Frau …,\n\nich habe Ihre Anzeige gelesen und interessiere mich sehr [[1]] …",
+  "stimulus": { "heading": "Ferienhof Lindenberg", "lines": ["…"] },
+  "text": "Sehr geehrte Frau …,\n\nIhre Anzeige im Gemeindeblatt hat mich sehr [[1]] …",
   "words": [{ "key": "a", "text": "besonders" }, "… 15 total, a–o"],
   "gaps": [{ "n": 1, "answer": "h", "explanation": "…" }, "… 10 total, each word key at most once"],
   "glossary": []

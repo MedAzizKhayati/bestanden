@@ -6,99 +6,100 @@
   "topic": "gesundheit",
   "difficulty": 2,
   "speakers": [
-    { "id": "zahnarzt", "name": "Frau Brückner", "gender": "f", "age": "adult", "role": "Zahnarztpraxis Doktor Yilmaz" },
-    { "id": "apotheke", "gender": "m", "age": "adult", "role": "Telefonansage" },
-    { "id": "bad", "gender": "m", "age": "young", "role": "Durchsage im Hallenbad" },
-    { "id": "radio", "gender": "f", "age": "adult", "role": "Radiomoderatorin" },
-    { "id": "wetter", "gender": "m", "age": "adult", "role": "Wettermoderator" }
+    { "id": "praxis", "gender": "f", "age": "adult", "role": "Telefonansage der Hausarztpraxis" },
+    { "id": "radio", "gender": "m", "age": "young", "role": "Radiomoderator" },
+    { "id": "bad", "gender": "m", "age": "senior", "role": "Durchsage im Hallenbad" },
+    { "id": "paulina", "name": "Paulina", "gender": "f", "age": "young", "role": "Freundin" },
+    { "id": "wetter", "gender": "f", "age": "adult", "role": "Wettermoderatorin" }
   ],
   "intro": [],
   "items": [
     {
       "n": 1,
-      "label": "Nachricht von der Zahnarztpraxis",
+      "label": "Ansage auf dem Anrufbeantworter einer Arztpraxis",
       "script": [
-        { "s": "zahnarzt", "t": "Guten Morgen, Frau Schubert, hier ist die Zahnarztpraxis Doktor Yilmaz, mein Name ist Brückner." },
-        { "s": "zahnarzt", "t": "Ihr Termin am Montag um 14 Uhr muss leider ausfallen, weil Frau Doktor Yilmaz krank ist." },
-        { "s": "zahnarzt", "t": "Wir können Ihnen Mittwoch um 8 Uhr 15 oder Freitag um 16 Uhr 30 als neuen Termin anbieten." },
-        { "s": "zahnarzt", "t": "Bitte rufen Sie uns kurz zurück und sagen Sie uns, welcher Termin Ihnen besser passt." }
+        { "s": "praxis", "t": "Guten Tag, Sie sind mit der Hausarztpraxis Doktor Fendrich verbunden. Unsere Praxis bleibt wegen Urlaub bis einschließlich Freitag, den zwölften Juli, geschlossen." },
+        { "s": "praxis", "t": "In dringenden Fällen wenden Sie sich bitte an unsere Vertretung, die Praxis Doktor Saglam in der Gerbergasse. Dort ist montags bis freitags von 8 bis 12 Uhr Sprechstunde, nachmittags aber nur am Dienstag und am Donnerstag." },
+        { "s": "praxis", "t": "Bitte vergessen Sie dort Ihre Versichertenkarte nicht." },
+        { "s": "praxis", "t": "Ab Montag, dem fünfzehnten Juli, sind wir wieder wie gewohnt für Sie da." }
       ],
-      "statement": "Die Praxis bietet Frau Schubert einen neuen Termin am Mittwochnachmittag an.",
+      "statement": "Die Vertretungspraxis bietet auch am Mittwochnachmittag eine Sprechstunde an.",
       "answer": false,
-      "explanation": "The new options are „Mittwoch um 8 Uhr 15 oder Freitag um 16 Uhr 30“ – on Wednesday the appointment is in the morning. Monday at 14 Uhr is the cancelled appointment.",
-      "explanationDe": "Die neuen Termine sind „Mittwoch um 8 Uhr 15 oder Freitag um 16 Uhr 30“ – am Mittwoch ist der Termin also am Morgen. Montag um 14 Uhr ist der Termin, der ausfällt.",
-      "evidence": "Mittwoch um 8 Uhr 15 oder Freitag um 16 Uhr 30"
+      "explanation": "The substitute practice sees patients every weekday morning, but in the afternoon „nur am Dienstag und am Donnerstag“ – not on Wednesday. „Bis einschließlich Freitag“ is about Dr Fendrich's own practice, which is closed until then.",
+      "explanationDe": "Die Vertretung hat jeden Vormittag Sprechstunde, am Nachmittag aber „nur am Dienstag und am Donnerstag“ – also nicht am Mittwoch. „Bis einschließlich Freitag“ gilt für die Praxis Fendrich: So lange ist sie geschlossen.",
+      "evidence": "nachmittags aber nur am Dienstag und am Donnerstag"
     },
     {
       "n": 2,
-      "label": "Telefonansage einer Apotheke",
+      "label": "Veranstaltungstipp im Radio",
       "script": [
-        { "s": "apotheke", "t": "Sie sind verbunden mit der Rosen-Apotheke am Lindenplatz. Unsere Apotheke ist zurzeit geschlossen." },
-        { "s": "apotheke", "t": "Wir sind montags bis freitags von 8 bis 19 Uhr und samstags von 9 bis 14 Uhr für Sie da." },
-        { "s": "apotheke", "t": "Die Löwen-Apotheke in der Bahnhofstraße 12 hat heute Notdienst." },
-        { "s": "apotheke", "t": "Morgen, am Sonntag, ist die Stadt-Apotheke am Marktplatz für Sie geöffnet." }
+        { "s": "radio", "t": "Und jetzt ein Tipp für alle, die gern anderen helfen: Am Dienstag gibt es im Bürgerhaus Am Anger wieder eine Blutspende." },
+        { "s": "radio", "t": "Spenden können Sie von 15 Uhr bis halb acht am Abend. Wer zum ersten Mal dabei ist, sollte aber spätestens um 18 Uhr kommen, denn bei neuen Spendern dauert die Untersuchung länger." },
+        { "s": "radio", "t": "Mitbringen müssen Sie nur Ihren Personalausweis. Und ganz wichtig: Essen Sie vorher etwas, mit leerem Magen dürfen Sie nicht spenden." },
+        { "s": "radio", "t": "Danach gibt es für alle Spender einen kleinen Imbiss." }
       ],
-      "statement": "Heute hat die Löwen-Apotheke in der Bahnhofstraße Notdienst.",
+      "statement": "Wer noch nie Blut gespendet hat, sollte spätestens um sechs Uhr abends da sein.",
       "answer": true,
-      "explanation": "„Die Löwen-Apotheke in der Bahnhofstraße 12 hat heute Notdienst.“ The Stadt-Apotheke is the one on duty tomorrow, on Sunday.",
-      "explanationDe": "„Die Löwen-Apotheke in der Bahnhofstraße 12 hat heute Notdienst.“ Die Stadt-Apotheke hat erst morgen, am Sonntag, Notdienst.",
-      "evidence": "Die Löwen-Apotheke in der Bahnhofstraße 12 hat heute Notdienst."
+      "explanation": "„Wer zum ersten Mal dabei ist, sollte aber spätestens um 18 Uhr kommen“ – 18 Uhr is six in the evening, and „zum ersten Mal“ means the person has never donated before. „Halb acht“ is only the end of the session for people who have donated before.",
+      "explanationDe": "„Wer zum ersten Mal dabei ist, sollte aber spätestens um 18 Uhr kommen“ – 18 Uhr ist sechs Uhr abends, und „zum ersten Mal“ heißt: Die Person hat noch nie gespendet. „Halb acht“ ist nur das Ende der Blutspende für alle, die schon einmal gespendet haben.",
+      "evidence": "Wer zum ersten Mal dabei ist, sollte aber spätestens um 18 Uhr kommen"
     },
     {
       "n": 3,
       "label": "Durchsage im Hallenbad",
       "script": [
-        { "s": "bad", "t": "Liebe Badegäste, bitte beachten Sie: Ab 17 Uhr ist unser Sportbecken wegen einer Reinigung geschlossen. Bitte verlassen Sie bis spätestens 16 Uhr 50 das Becken." },
-        { "s": "bad", "t": "Das Nichtschwimmerbecken und die Sauna bleiben wie gewohnt bis 22 Uhr geöffnet." },
-        { "s": "bad", "t": "Der Aquafitness-Kurs um 18 Uhr findet heute deshalb im kleinen Becken neben dem Eingang statt. Wir danken für Ihr Verständnis." }
+        { "s": "bad", "t": "Liebe Badegäste, eine Information für alle, die um 11 Uhr zur Wassergymnastik möchten: Der Kurs findet heute nicht im Sportbecken statt, sondern im warmen Bewegungsbecken im Untergeschoss." },
+        { "s": "bad", "t": "Im Sportbecken trainiert bis 13 Uhr nämlich der Schwimmverein. Die Rutsche und das Kinderbecken können Sie aber wie gewohnt benutzen." },
+        { "s": "bad", "t": "Außerdem bitten wir unsere männlichen Gäste um Beachtung: Die Sauna ist heute bis 14 Uhr nur für Damen geöffnet. Danach steht sie wieder allen Gästen zur Verfügung." }
       ],
-      "statement": "Der Aquafitness-Kurs findet heute in einem anderen Becken statt.",
+      "statement": "Männer können die Sauna heute erst am Nachmittag benutzen.",
       "answer": true,
-      "explanation": "The sports pool closes at 17 Uhr, so the course at 18 Uhr takes place „heute deshalb im kleinen Becken neben dem Eingang“.",
-      "explanationDe": "Das Sportbecken schließt um 17 Uhr. Der Kurs um 18 Uhr findet „heute deshalb im kleinen Becken neben dem Eingang“ statt.",
-      "evidence": "Der Aquafitness-Kurs um 18 Uhr findet heute deshalb im kleinen Becken neben dem Eingang statt."
+      "explanation": "The sauna is „heute bis 14 Uhr nur für Damen geöffnet“ and open to everyone after that – so men can only use it in the afternoon. 11 Uhr (aqua gym) and 13 Uhr (swimming club) are about the pools.",
+      "explanationDe": "Die Sauna ist „heute bis 14 Uhr nur für Damen geöffnet“, danach dürfen alle hinein – Männer also erst am Nachmittag. 11 Uhr (Wassergymnastik) und 13 Uhr (Schwimmverein) gehören zu den Becken.",
+      "evidence": "Die Sauna ist heute bis 14 Uhr nur für Damen geöffnet."
     },
     {
       "n": 4,
-      "label": "Veranstaltungstipp im Radio",
+      "label": "Nachricht auf der Mailbox",
       "script": [
-        { "s": "radio", "t": "Am Samstag findet im Rathaus der Gesundheitstag statt, von 10 bis 16 Uhr. Der Eintritt ist frei." },
-        { "s": "radio", "t": "Sie können dort kostenlos Ihren Blutdruck und Ihren Blutzucker messen lassen. Um 11 Uhr spricht eine Ärztin über gesunden Schlaf." },
-        { "s": "radio", "t": "Und um 14 Uhr gibt es einen Vortrag über Rückenschmerzen, mit vielen Übungen zum Mitmachen. Bequeme Kleidung ist also eine gute Idee." }
+        { "s": "paulina", "t": "Hey Timo, hier ist Paulina. Du, ich hab mich jetzt für den Rückenkurs bei meiner Krankenkasse angemeldet." },
+        { "s": "paulina", "t": "Der ist am Dienstag – nein, Quatsch, am Mittwoch, dienstags ist ja der Kurs für Senioren. Also immer mittwochs um 18 Uhr, insgesamt zehn Termine." },
+        { "s": "paulina", "t": "Und das Beste: Wenn man mindestens achtmal da ist, bekommt man achtzig Prozent vom Preis zurück. Sonst zahlt man die vollen 120 Euro." },
+        { "s": "paulina", "t": "Hast du nicht Lust mitzumachen? Ruf mich doch heute Abend kurz zurück, ja?" }
       ],
-      "statement": "Der Vortrag über Rückenschmerzen beginnt um 11 Uhr.",
+      "statement": "Der Kurs, für den sich Paulina angemeldet hat, findet dienstags statt.",
       "answer": false,
-      "explanation": "At 11 Uhr a doctor talks about healthy sleep. The talk about back pain starts „um 14 Uhr“.",
-      "explanationDe": "Um 11 Uhr spricht eine Ärztin über gesunden Schlaf. Der Vortrag über Rückenschmerzen beginnt „um 14 Uhr“.",
-      "evidence": "Und um 14 Uhr gibt es einen Vortrag über Rückenschmerzen, mit vielen Übungen zum Mitmachen."
+      "explanation": "Paulina first says „am Dienstag“ but corrects herself: „nein, Quatsch, am Mittwoch“. The Tuesday course is the one for senior citizens.",
+      "explanationDe": "Paulina sagt zuerst „am Dienstag“, aber dann korrigiert sie sich: „nein, Quatsch, am Mittwoch“. Am Dienstag ist der Kurs für Senioren.",
+      "evidence": "nein, Quatsch, am Mittwoch"
     },
     {
       "n": 5,
       "label": "Wetterbericht",
       "script": [
-        { "s": "wetter", "t": "Die Hitze bleibt uns noch ein bisschen erhalten. Heute und morgen, also bis einschließlich Mittwoch, steigen die Temperaturen auf bis zu 34 Grad." },
-        { "s": "wetter", "t": "Ärzte raten, viel Wasser zu trinken und in der Mittagszeit in der Wohnung zu bleiben." },
-        { "s": "wetter", "t": "Erst am Donnerstag bringen Gewitter eine Abkühlung. Dann sind es nur noch angenehme 24 Grad." }
+        { "s": "wetter", "t": "Und nun noch das Gesundheitswetter für morgen. Für Allergiker wird es vor allem im Süden anstrengend: Bei Sonne und bis zu 25 Grad fliegen dort sehr viele Birkenpollen." },
+        { "s": "wetter", "t": "Im Norden bringt ein Tief dagegen schon in der kommenden Nacht kräftigen Regen, der die Pollen aus der Luft wäscht." },
+        { "s": "wetter", "t": "Im Süden kommt der Regen erst am Donnerstag an. Wer empfindlich reagiert, sollte bis dahin tagsüber die Fenster geschlossen lassen und lieber spät am Abend lüften." }
       ],
-      "statement": "Schon ab Mittwoch wird es wieder deutlich kühler.",
+      "statement": "Im Süden gibt es schon in der kommenden Nacht Regen, der die Luft reinigt.",
       "answer": false,
-      "explanation": "It stays hot „bis einschließlich Mittwoch“. „Erst am Donnerstag“ do thunderstorms bring cooler weather.",
-      "explanationDe": "Es bleibt heiß, und zwar „bis einschließlich Mittwoch“. „Erst am Donnerstag“ bringen Gewitter eine Abkühlung.",
-      "evidence": "Erst am Donnerstag bringen Gewitter eine Abkühlung."
+      "explanation": "Rain „schon in der kommenden Nacht“ is forecast for the north. For the south the forecast says: „Im Süden kommt der Regen erst am Donnerstag an.“",
+      "explanationDe": "Regen „schon in der kommenden Nacht“ gibt es nur im Norden. Für den Süden heißt es: „Im Süden kommt der Regen erst am Donnerstag an.“",
+      "evidence": "Im Süden kommt der Regen erst am Donnerstag an."
     }
   ],
   "glossary": [
-    { "de": "ausfallen", "en": "to be cancelled" },
-    { "de": "anbieten", "en": "to offer" },
-    { "de": "zurückrufen", "en": "to call back" },
-    { "de": "der Notdienst", "en": "emergency service (pharmacy on duty)" },
-    { "de": "das Becken", "en": "pool" },
-    { "de": "der Nichtschwimmer", "en": "non-swimmer" },
-    { "de": "etwas messen lassen", "en": "to have something measured" },
-    { "de": "der Vortrag", "en": "talk, lecture" },
-    { "de": "die Hitze", "en": "heat" },
     { "de": "einschließlich", "en": "including" },
-    { "de": "das Gewitter", "en": "thunderstorm" },
-    { "de": "die Abkühlung", "en": "cooling down" }
+    { "de": "die Vertretung", "en": "substitute (a practice covering for another)" },
+    { "de": "die Sprechstunde", "en": "consultation hours" },
+    { "de": "die Versichertenkarte", "en": "health insurance card" },
+    { "de": "die Blutspende", "en": "blood donation" },
+    { "de": "mit leerem Magen", "en": "on an empty stomach" },
+    { "de": "das Becken", "en": "pool" },
+    { "de": "zur Verfügung stehen", "en": "to be available" },
+    { "de": "die Krankenkasse", "en": "health insurance fund" },
+    { "de": "der Allergiker", "en": "allergy sufferer" },
+    { "de": "die Pollen (Pl.)", "en": "pollen" },
+    { "de": "lüften", "en": "to let fresh air in" }
   ]
 }

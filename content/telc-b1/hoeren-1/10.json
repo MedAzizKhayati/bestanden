@@ -7,95 +7,101 @@
   "difficulty": 3,
   "speakers": [
     { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
-    { "id": "oliver", "name": "Oliver", "gender": "m", "age": "adult" },
-    { "id": "renate", "name": "Renate", "gender": "f", "age": "senior" },
-    { "id": "selin", "name": "Selin", "gender": "f", "age": "young" },
-    { "id": "thomas", "name": "Thomas", "gender": "m", "age": "adult" },
-    { "id": "jannik", "name": "Jannik", "gender": "m", "age": "young" }
+    { "id": "timo", "name": "Timo", "gender": "m", "age": "adult" },
+    { "id": "gudrun", "name": "Gudrun", "gender": "f", "age": "senior" },
+    { "id": "mara", "name": "Mara", "gender": "f", "age": "young" },
+    { "id": "ulrich", "name": "Ulrich", "gender": "m", "age": "adult" },
+    { "id": "kai", "name": "Kai", "gender": "m", "age": "young" }
   ],
   "intro": [
-    { "s": "mod", "t": "Ein Klick, und morgen steht das Paket vor der Tür. Online einkaufen ist bequem, aber viele Innenstädte leiden darunter." },
-    { "s": "mod", "t": "Wir haben gefragt: Kaufen Sie lieber im Internet oder im Geschäft ein?" }
+    { "s": "mod", "t": "Ein Klick am Abend, und am nächsten Tag steht das Paket vor der Tür. Gleichzeitig machen in vielen Innenstädten Geschäfte zu." },
+    { "s": "mod", "t": "Wir haben gefragt: Wo kaufen Sie lieber ein – im Internet oder im Laden um die Ecke?" }
   ],
   "items": [
     {
       "n": 1,
       "script": [
-        { "s": "oliver", "t": "Ich arbeite im Schichtdienst im Krankenhaus, oft auch nachts und am Wochenende. Wenn ich frei habe, sind die Geschäfte meistens zu, oder ich bin einfach zu müde." },
-        { "s": "oliver", "t": "Deshalb bestelle ich fast alles im Internet, von Druckerpatronen bis zu Turnschuhen. Ich kann in Ruhe Preise vergleichen, und mein Nachbar nimmt die Pakete für mich an." },
-        { "s": "oliver", "t": "Nur Obst und Gemüse kaufe ich noch selbst im Laden, das will ich vorher sehen." }
+        { "s": "timo", "t": "Ich hab jahrelang wirklich alles online bestellt – Hemden, Druckerpatronen, sogar Katzenfutter. Ich dachte, bequemer geht's nicht." },
+        { "s": "timo", "t": "Nur: Ich bin tagsüber nie zu Hause. Also lagen meine Pakete bei irgendwelchen Nachbarn, oder ich stand samstags in der Schlange beim Paketshop." },
+        { "s": "timo", "t": "Und dann das Zurückschicken, wenn was nicht passt – Karton suchen, Etikett ausdrucken, wieder hinbringen …" },
+        { "s": "timo", "t": "Irgendwann hab ich mal nachgerechnet, wie viel Zeit mich das kostet. Seitdem geh ich wieder öfter in die Stadt – das ist am Ende ehrlich gesagt weniger Aufwand." }
       ],
-      "statement": "Der Mann kauft meistens im Internet, weil das gut zu seinen Arbeitszeiten passt.",
-      "answer": true,
-      "explanation": "He works shifts, so the shops are usually closed when he is free. „Deshalb bestelle ich fast alles im Internet“ – only fruit and vegetables he still buys in a shop.",
-      "explanationDe": "Er arbeitet im Schichtdienst. Wenn er frei hat, sind die Geschäfte meistens zu. „Deshalb bestelle ich fast alles im Internet“ – nur Obst und Gemüse kauft er noch im Laden.",
-      "evidence": "Deshalb bestelle ich fast alles im Internet, von Druckerpatronen bis zu Turnschuhen."
+      "statement": "Für den Mann ist das Bestellen im Internet immer noch die einfachste Lösung.",
+      "answer": false,
+      "explanation": "He used to think online shopping was the most convenient („bequemer geht's nicht“). But collecting parcels and sending things back cost him so much time that he now shops in town again: „das ist am Ende … weniger Aufwand“.",
+      "explanationDe": "Früher fand er Online-Shopping am bequemsten („bequemer geht's nicht“). Aber Pakete abholen und zurückschicken hat ihn so viel Zeit gekostet, dass er jetzt wieder in der Stadt einkauft: „das ist am Ende … weniger Aufwand“.",
+      "evidence": "das ist am Ende ehrlich gesagt weniger Aufwand"
     },
     {
       "n": 2,
       "script": [
-        { "s": "renate", "t": "Meine Enkelin hat mir gezeigt, wie man im Internet bestellt, das ist ja gar nicht so schwer. Aber ich mache es trotzdem nicht." },
-        { "s": "renate", "t": "Ich gehe lieber in die Buchhandlung oder ins Schuhgeschäft bei mir um die Ecke. Da kennt man mich, und ich bekomme eine richtig gute Beratung." },
-        { "s": "renate", "t": "Wenn alle nur noch online bestellen, gibt es in unserer Innenstadt bald nur noch leere Schaufenster. Das will ich nicht unterstützen." }
+        { "s": "gudrun", "t": "Ich bin achtundsiebzig, und mit meiner Hüfte komm ich kaum noch die Treppe runter. Mein Enkel hat mir letztes Jahr gezeigt, wie man im Internet bestellt." },
+        { "s": "gudrun", "t": "Erst dachte ich: Das lern ich nie. Aber jetzt kommen sogar die Wasserkisten bis vor die Wohnungstür – das ist für mich ein Segen." },
+        { "s": "gudrun", "t": "Natürlich fehlt mir was. Früher hab ich beim Metzger ein bisschen geplaudert, und die Verkäuferin im Schuhgeschäft wusste genau, was ich mag." },
+        { "s": "gudrun", "t": "Aber zurück? Nein, wirklich nicht. So bleib ich selbstständig und muss niemanden um Hilfe bitten." }
       ],
-      "statement": "Die Frau bestellt nicht im Internet, weil sie nicht weiß, wie das funktioniert.",
+      "statement": "Die Frau möchte am liebsten wieder selbst in den Geschäften einkaufen.",
       "answer": false,
-      "explanation": "She knows how it works – her granddaughter showed her and it is „gar nicht so schwer“. She does not order online because she wants good advice and does not want empty shop windows in town.",
-      "explanationDe": "Sie weiß, wie es geht – ihre Enkelin hat es ihr gezeigt, und es ist „gar nicht so schwer“. Sie bestellt nicht online, weil sie gute Beratung möchte und keine leeren Schaufenster in der Innenstadt will.",
-      "evidence": "Meine Enkelin hat mir gezeigt, wie man im Internet bestellt, das ist ja gar nicht so schwer."
+      "explanation": "She misses chatting in the shops, but because of her hip, ordering online is „ein Segen“ for her. „Aber zurück? Nein, wirklich nicht“ – she wants to stay independent.",
+      "explanationDe": "Das Plaudern in den Geschäften fehlt ihr, aber wegen ihrer Hüfte ist das Bestellen im Internet für sie „ein Segen“. „Aber zurück? Nein, wirklich nicht“ – sie will selbstständig bleiben.",
+      "evidence": "Aber zurück? Nein, wirklich nicht."
     },
     {
       "n": 3,
       "script": [
-        { "s": "selin", "t": "Früher hab ich meine Klamotten fast nur online bestellt. Aber die Hälfte musste ich immer wieder zurückschicken, weil die Größe nicht gepasst hat oder die Farbe ganz anders aussah." },
-        { "s": "selin", "t": "Ständig musste ich Pakete packen und zur Post bringen, das hat mich irgendwann total genervt." },
-        { "s": "selin", "t": "Deshalb gehe ich jetzt wieder in die Läden, wenn ich Kleidung brauche. Da kann ich alles anprobieren und weiß sofort, ob es passt." }
+        { "s": "mara", "t": "Neue Klamotten kauf ich fast gar nicht mehr. Ich find fast alles gebraucht, über so eine App, wo Leute ihre alten Sachen verkaufen." },
+        { "s": "mara", "t": "Klar, manchmal ist das ein Reinfall. Letztens kam eine Jacke, die sah auf dem Foto total anders aus – die hab ich weiterverkauft." },
+        { "s": "mara", "t": "Aber meistens find ich schöne Teile, die sonst keiner hat, und das für ein Drittel vom Preis. Und für die Umwelt ist es ja auch besser." },
+        { "s": "mara", "t": "Mit meinen Freundinnen geh ich zwar noch gern in die Stadt bummeln, aber kaufen tu ich da nichts mehr." }
       ],
-      "statement": "Kleidung kauft die junge Frau inzwischen wieder lieber im Geschäft.",
+      "statement": "Die junge Frau kauft vor allem Kleidung, die vorher jemand anderem gehört hat.",
       "answer": true,
-      "explanation": "Ordering clothes online was „früher“; sending half of it back annoyed her. Now: „Deshalb gehe ich jetzt wieder in die Läden, wenn ich Kleidung brauche.“",
-      "explanationDe": "Kleidung online bestellen – das war „früher“. Die Hälfte zurückzuschicken, hat sie genervt. Heute sagt sie: „Deshalb gehe ich jetzt wieder in die Läden, wenn ich Kleidung brauche.“",
-      "evidence": "Deshalb gehe ich jetzt wieder in die Läden, wenn ich Kleidung brauche."
+      "explanation": "„Neue Klamotten kauf ich fast gar nicht mehr“ – she buys almost everything second-hand through an app. Sometimes it goes wrong, and she still likes strolling through town, but she hardly buys anything in the shops.",
+      "explanationDe": "„Neue Klamotten kauf ich fast gar nicht mehr“ – sie kauft fast alles gebraucht über eine App. Manchmal ist das ein Reinfall, und bummeln geht sie noch gern, aber in den Geschäften kauft sie kaum etwas.",
+      "evidence": "Ich find fast alles gebraucht, über so eine App, wo Leute ihre alten Sachen verkaufen."
     },
     {
       "n": 4,
       "script": [
-        { "s": "thomas", "t": "Ich geb's zu, früher hab ich mich im Fachgeschäft beraten lassen und das Gerät dann im Internet bestellt, weil es dort zwanzig Euro billiger war." },
-        { "s": "thomas", "t": "Irgendwann hat mir ein Verkäufer erzählt, dass sein Laden wahrscheinlich bald schließen muss. Da hab ich mich richtig geschämt." },
-        { "s": "thomas", "t": "Seitdem kaufe ich dort, wo ich auch beraten werde. Dann zahle ich eben ein bisschen mehr, das ist es mir wert." }
+        { "s": "ulrich", "t": "Ich hab eine kleine Buchhandlung in der Altstadt. Und viele denken, ich muss das Internet hassen." },
+        { "s": "ulrich", "t": "Am Anfang hatte ich auch richtig Angst, das geb ich zu. Vor zehn Jahren dachte ich, in fünf Jahren mach ich den Laden zu." },
+        { "s": "ulrich", "t": "Aber dann hab ich einen eigenen Onlineshop aufgebaut. Die Leute bestellen abends auf dem Sofa und holen die Bücher am nächsten Tag bei mir ab – und dann quatschen wir noch zehn Minuten über Krimis." },
+        { "s": "ulrich", "t": "Ohne das Internet gäb's mein Geschäft heute wahrscheinlich gar nicht mehr. Für mich war das eine Chance." }
       ],
-      "statement": "Der Mann ist bereit, im Geschäft etwas mehr zu bezahlen.",
-      "answer": true,
-      "explanation": "He used to get advice in the shop and then order online. Now he buys where he gets advice: „Dann zahle ich eben ein bisschen mehr, das ist es mir wert.“",
-      "explanationDe": "Früher hat er sich im Geschäft beraten lassen und dann online bestellt. Jetzt kauft er dort, wo er beraten wird: „Dann zahle ich eben ein bisschen mehr, das ist es mir wert.“",
-      "evidence": "Dann zahle ich eben ein bisschen mehr, das ist es mir wert."
+      "statement": "Der Buchhändler sieht im Internet vor allem eine Gefahr für sein Geschäft.",
+      "answer": false,
+      "explanation": "At first he was afraid he would have to close. But with his own online shop, customers order at home and collect the books from him: „Ohne das Internet gäb's mein Geschäft heute wahrscheinlich gar nicht mehr“ – for him it was a chance, not mainly a danger.",
+      "explanationDe": "Am Anfang hatte er Angst, dass er schließen muss. Aber mit seinem eigenen Onlineshop bestellen die Kunden zu Hause und holen die Bücher bei ihm ab: „Ohne das Internet gäb's mein Geschäft heute wahrscheinlich gar nicht mehr“ – für ihn war es eine Chance.",
+      "evidence": "Ohne das Internet gäb's mein Geschäft heute wahrscheinlich gar nicht mehr."
     },
     {
       "n": 5,
       "script": [
-        { "s": "jannik", "t": "Neu kaufe ich eigentlich fast gar nichts mehr. Ich suche im Internet nach gebrauchten Sachen, auf diesen Flohmarkt-Apps, wo Leute verkaufen, was sie nicht mehr brauchen." },
-        { "s": "jannik", "t": "Mein Sofa, mein Fahrrad, sogar meine Winterjacke, alles gebraucht und total günstig. Und für die Umwelt ist das auch besser." },
-        { "s": "jannik", "t": "In ein Kaufhaus gehe ich höchstens mal mit meiner Freundin. Aber dann trinke ich da meistens nur einen Kaffee und warte auf sie." }
+        { "s": "kai", "t": "Ehrlich gesagt war ich da lange total faul. Ich hab fast alles online bestellt, sogar Lebensmittel – die bringt so ein Fahrradkurier in zwanzig Minuten." },
+        { "s": "kai", "t": "Dann hat letzten Winter bei uns in der Straße der kleine Laden zugemacht, wo ich immer meine Getränke geholt hab." },
+        { "s": "kai", "t": "Und da hab ich gedacht: Mist, das sind ja Leute wie ich, die das kaputt machen." },
+        { "s": "kai", "t": "Also, ganz ohne Internet geht's bei mir nicht, das wär gelogen. Aber Brot, Obst, Getränke – das hol ich jetzt bewusst wieder hier im Viertel, damit nicht noch mehr zumacht." }
       ],
-      "statement": "Der junge Mann kauft am liebsten neue Kleidung und Möbel im Kaufhaus.",
-      "answer": false,
-      "explanation": "„Neu kaufe ich eigentlich fast gar nichts mehr“ – he buys second-hand things online. In a department store he only has a coffee and waits for his girlfriend.",
-      "explanationDe": "„Neu kaufe ich eigentlich fast gar nichts mehr“ – er kauft gebrauchte Sachen im Internet. Im Kaufhaus trinkt er nur einen Kaffee und wartet auf seine Freundin.",
-      "evidence": "Neu kaufe ich eigentlich fast gar nichts mehr."
+      "statement": "Der junge Mann will die Geschäfte in seiner Nähe jetzt mehr unterstützen.",
+      "answer": true,
+      "explanation": "When the little shop in his street closed, he felt partly responsible („Leute wie ich, die das kaputt machen“). He still orders some things online, but everyday things „hol ich jetzt bewusst wieder hier im Viertel, damit nicht noch mehr zumacht“.",
+      "explanationDe": "Als der kleine Laden in seiner Straße zugemacht hat, hat er sich mitschuldig gefühlt („Leute wie ich, die das kaputt machen“). Manches bestellt er noch online, aber Sachen für jeden Tag „hol ich jetzt bewusst wieder hier im Viertel, damit nicht noch mehr zumacht“.",
+      "evidence": "das hol ich jetzt bewusst wieder hier im Viertel, damit nicht noch mehr zumacht"
     }
   ],
   "glossary": [
-    { "de": "bequem", "en": "convenient, comfortable" },
-    { "de": "der Schichtdienst", "en": "shift work" },
-    { "de": "Preise vergleichen", "en": "to compare prices" },
-    { "de": "ein Paket annehmen", "en": "to accept a parcel (for someone)" },
-    { "de": "die Beratung", "en": "advice (in a shop)" },
-    { "de": "das Schaufenster", "en": "shop window" },
-    { "de": "die Klamotten (Plural)", "en": "clothes (colloquial)" },
-    { "de": "zurückschicken", "en": "to send back" },
-    { "de": "anprobieren", "en": "to try on" },
-    { "de": "sich beraten lassen", "en": "to get advice" },
-    { "de": "sich schämen", "en": "to be ashamed" },
-    { "de": "gebraucht", "en": "second-hand, used" }
+    { "de": "die Druckerpatrone", "en": "printer cartridge" },
+    { "de": "der Paketshop", "en": "parcel shop" },
+    { "de": "der Aufwand", "en": "effort" },
+    { "de": "der Segen", "en": "blessing" },
+    { "de": "selbstständig", "en": "independent" },
+    { "de": "der Reinfall", "en": "flop, disappointment" },
+    { "de": "bummeln", "en": "to stroll, to go window-shopping" },
+    { "de": "die Buchhandlung", "en": "bookshop" },
+    { "de": "quatschen (ugs.)", "en": "to chat, to natter" },
+    { "de": "der Fahrradkurier", "en": "bike courier" },
+    { "de": "zumachen", "en": "to close (down)" },
+    { "de": "das Viertel", "en": "neighbourhood" },
+    { "de": "bewusst", "en": "deliberately, consciously" }
   ]
 }

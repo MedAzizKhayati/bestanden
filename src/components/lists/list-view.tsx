@@ -8,6 +8,7 @@ import { SpeakButton } from "@/components/vocab/word-bits";
 import { useT } from "@/i18n/client";
 import type { Messages } from "@/i18n/messages";
 import type { ReferenceList } from "@/lib/content/schemas";
+import { listSpeech } from "@/lib/content/spoken";
 import { useProgress } from "@/lib/store/progress";
 import { cn } from "@/lib/utils";
 import { answerMatches, seededShuffle } from "@/lib/utils/text";
@@ -15,20 +16,21 @@ import { answerMatches, seededShuffle } from "@/lib/utils/text";
 type Labels = Messages["lists"];
 
 function rows(list: ReferenceList, groups: Labels["groups"]): { key: string; cells: string[]; speak: string; search: string }[] {
+  const speech = listSpeech(list);
   switch (list.kind) {
     case "verb-preposition":
-      return list.items.map((i) => ({
+      return list.items.map((i, n) => ({
         key: `${i.verb}-${i.prep}`,
         cells: [`${i.verb} ${i.prep}`, i.case, i.en, i.example],
-        speak: i.example,
+        speak: speech[n],
         search: `${i.verb} ${i.prep} ${i.en}`,
       }));
     case "irregular-verbs":
-      return list.items.map((i) => ({ key: i.inf, cells: [i.inf, i.present, i.past, i.perfect, i.en], speak: `${i.inf}, ${i.past}, ${i.perfect}`, search: `${i.inf} ${i.en} ${i.past}` }));
+      return list.items.map((i, n) => ({ key: i.inf, cells: [i.inf, i.present, i.past, i.perfect, i.en], speak: speech[n], search: `${i.inf} ${i.en} ${i.past}` }));
     case "connectors":
-      return list.items.map((i) => ({ key: i.word, cells: [i.word, groups[i.group], i.meaning, i.example], speak: i.example, search: `${i.word} ${i.meaning}` }));
+      return list.items.map((i, n) => ({ key: i.word, cells: [i.word, groups[i.group], i.meaning, i.example], speak: speech[n], search: `${i.word} ${i.meaning}` }));
     case "phrases":
-      return list.items.map((i) => ({ key: i.de, cells: [i.de, i.en, i.example], speak: i.example, search: `${i.de} ${i.en}` }));
+      return list.items.map((i, n) => ({ key: i.de, cells: [i.de, i.en, i.example], speak: speech[n], search: `${i.de} ${i.en}` }));
   }
 }
 

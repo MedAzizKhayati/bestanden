@@ -7,94 +7,100 @@
   "difficulty": 2,
   "speakers": [
     { "id": "mod", "gender": "f", "age": "adult", "role": "Moderatorin" },
-    { "id": "franziska", "name": "Franziska", "gender": "f", "age": "adult" },
-    { "id": "dennis", "name": "Dennis", "gender": "m", "age": "young" },
-    { "id": "gisela", "name": "Gisela", "gender": "f", "age": "senior" },
-    { "id": "stefan", "name": "Stefan", "gender": "m", "age": "adult" },
-    { "id": "nora", "name": "Nora", "gender": "f", "age": "young" }
+    { "id": "henrike", "name": "Henrike", "gender": "f", "age": "adult" },
+    { "id": "malte", "name": "Malte", "gender": "m", "age": "young" },
+    { "id": "brigitte", "name": "Brigitte", "gender": "f", "age": "senior" },
+    { "id": "volker", "name": "Volker", "gender": "m", "age": "adult" },
+    { "id": "leonie", "name": "Leonie", "gender": "f", "age": "young" }
   ],
   "intro": [
-    { "s": "mod", "t": "Schönen guten Morgen! Gerade sind wieder Tausende Menschen auf dem Weg zur Arbeit, mit dem Auto, mit der Bahn oder mit dem Fahrrad." },
-    { "s": "mod", "t": "Wir haben Pendlerinnen und Pendler gefragt: Wie kommen Sie zur Arbeit, und wie zufrieden sind Sie damit?" }
+    { "s": "mod", "t": "Guten Morgen! Volle Züge, Stau auf der Autobahn, Baustellen auf dem Radweg – für viele von uns fängt der Arbeitstag schon mit Stress an." },
+    { "s": "mod", "t": "Wir haben deshalb Pendlerinnen und Pendler gefragt: Wie kommen Sie zur Arbeit, und wie zufrieden sind Sie damit?" }
   ],
   "items": [
     {
       "n": 1,
       "script": [
-        { "s": "franziska", "t": "Ich fahre jeden Tag mit dem Fahrrad ins Krankenhaus, das sind ungefähr acht Kilometer." },
-        { "s": "franziska", "t": "Und zwar das ganze Jahr, auch im Winter, wenn es dunkel und kalt ist. Meine Kolleginnen halten mich deswegen für ein bisschen verrückt." },
-        { "s": "franziska", "t": "Aber mit guter Regenkleidung ist das gar kein Problem. Ich bin fit, spare das Geld für ein Busticket, und nach der Arbeit bin ich auf dem Rad den ganzen Stress los." }
+        { "s": "henrike", "t": "Also, ich fahr seit ungefähr einem Jahr mit der Regionalbahn ins Büro. Vorher hab ich immer das Auto genommen – das war, sag ich mal, die bequemere Variante." },
+        { "s": "henrike", "t": "Klar, die Bahn ist nicht perfekt. Im Winter fällt auch mal ein Zug aus, und morgens kriegt man oft keinen Sitzplatz." },
+        { "s": "henrike", "t": "Aber ehrlich gesagt – im Zug kann ich lesen oder einfach mal die Augen zumachen. Und die ewige Parkplatzsuche, die vermiss ich überhaupt nicht." },
+        { "s": "henrike", "t": "Also, wieder jeden Tag ins Auto steigen? Nee, das kann ich mir echt nicht mehr vorstellen." }
       ],
-      "statement": "Die Frau fährt nur bei gutem Wetter mit dem Fahrrad zur Arbeit.",
-      "answer": false,
-      "explanation": "She cycles „das ganze Jahr, auch im Winter, wenn es dunkel und kalt ist“. With good rain gear, bad weather is „gar kein Problem“ for her.",
-      "explanationDe": "Sie fährt mit dem Fahrrad, und zwar „das ganze Jahr, auch im Winter, wenn es dunkel und kalt ist“. Mit guter Regenkleidung ist schlechtes Wetter für sie „gar kein Problem“.",
-      "evidence": "Und zwar das ganze Jahr, auch im Winter, wenn es dunkel und kalt ist."
+      "statement": "Die Frau ist mit ihrem Wechsel vom Auto zur Bahn zufrieden.",
+      "answer": true,
+      "explanation": "She admits that the train has problems (cancelled trains, no seat), but she can read and relax on it and does not miss looking for a parking space. Driving every day again? „Nee, das kann ich mir echt nicht mehr vorstellen“ – she is happy with the change.",
+      "explanationDe": "Sie gibt zu, dass die Bahn Probleme hat: Züge fallen aus, oft gibt es keinen Sitzplatz. Aber im Zug kann sie lesen und sich ausruhen, und die Parkplatzsuche vermisst sie nicht. Wieder jeden Tag Auto fahren? „Nee, das kann ich mir echt nicht mehr vorstellen“ – sie ist mit dem Wechsel zufrieden.",
+      "evidence": "Nee, das kann ich mir echt nicht mehr vorstellen."
     },
     {
       "n": 2,
       "script": [
-        { "s": "dennis", "t": "Ich mache eine Ausbildung zum Elektriker und wohne noch bei meinen Eltern auf dem Dorf." },
-        { "s": "dennis", "t": "Der Bus fährt bei uns nur einmal in der Stunde, und dann muss ich in der Stadt noch in den Zug umsteigen. Wenn der Bus Verspätung hat, ist der Zug weg." },
-        { "s": "dennis", "t": "Ich steh jeden Morgen um fünf Uhr auf, und das nervt total. Ich spare gerade für den Führerschein, dann ist dieses Theater endlich vorbei." }
+        { "s": "malte", "t": "Ich mach eine Ausbildung in einer Großbäckerei, und meine Schicht fängt um vier Uhr morgens an. Da fährt noch kein Bus, also hab ich mir ein gebrauchtes Auto gekauft." },
+        { "s": "malte", "t": "Am Anfang war das echt super. Endlich unabhängig, keiner nervt." },
+        { "s": "malte", "t": "Tja, und dann kamen die Rechnungen. Versicherung, Benzin, dann noch eine neue Batterie – da bleibt von meinem Lohn kaum was übrig." },
+        { "s": "malte", "t": "Ganz ehrlich, inzwischen ist das Auto für mich mehr Stress als Freiheit. Wenn's um die Uhrzeit einen Bus gäbe, würd ich die Kiste sofort verkaufen." }
       ],
-      "statement": "Der junge Mann ist mit seinem Weg zur Arbeit zufrieden.",
+      "statement": "Der junge Mann genießt es, mit dem eigenen Auto zur Arbeit zu fahren.",
       "answer": false,
-      "explanation": "His bus runs only once an hour, he has to change to the train and gets up at five: „das nervt total“. He is saving for a driving licence so that „dieses Theater“ ends.",
-      "explanationDe": "Sein Bus fährt nur einmal pro Stunde, er muss in den Zug umsteigen und steht um fünf Uhr auf: „das nervt total“. Er spart für den Führerschein, damit „dieses Theater“ aufhört.",
-      "evidence": "Ich steh jeden Morgen um fünf Uhr auf, und das nervt total."
+      "explanation": "At first the car was „echt super“, but the bills eat up his pay: „inzwischen ist das Auto für mich mehr Stress als Freiheit“. If there were a bus at that hour, he would sell it at once – he does not enjoy driving to work.",
+      "explanationDe": "Am Anfang fand er das Auto „echt super“. Aber die Rechnungen kosten fast seinen ganzen Lohn: „inzwischen ist das Auto für mich mehr Stress als Freiheit“. Mit einem Bus würde er es sofort verkaufen – er genießt die Fahrten also nicht.",
+      "evidence": "inzwischen ist das Auto für mich mehr Stress als Freiheit"
     },
     {
       "n": 3,
       "script": [
-        { "s": "gisela", "t": "Ich bin sechsundsechzig und arbeite noch an drei Vormittagen in der Woche in einer Apotheke. Zum Glück wohne ich gleich um die Ecke, ich brauche zu Fuß keine zehn Minuten." },
-        { "s": "gisela", "t": "Mein Mann sagt immer: „Nimm doch bei Regen das Auto!“ Aber ich gehe lieber, da treffe ich fast immer Bekannte und halte ein kleines Schwätzchen." },
-        { "s": "gisela", "t": "Für mich ist das der schönste Teil vom Tag." }
+        { "s": "brigitte", "t": "Ich bin siebenundsechzig und arbeite noch zweimal in der Woche an der Kasse im Stadtmuseum. Da fahr ich mit der Straßenbahn hin." },
+        { "s": "brigitte", "t": "Meine Tochter sagt dauernd: „Mama, ich bring dich hin, ich hol dich ab.“ Das ist lieb gemeint, aber – na ja, ich bin doch nicht krank." },
+        { "s": "brigitte", "t": "Gut, an manchen Haltestellen sind die Stufen ziemlich hoch, das merk ich in den Knien. Aber in der Bahn treff ich immer jemanden zum Plaudern, und mit der Seniorenkarte kostet das fast nichts." },
+        { "s": "brigitte", "t": "Also, so wie es ist, passt es für mich wunderbar." }
       ],
-      "statement": "Die Frau geht gern zu Fuß zu ihrer Arbeitsstelle.",
-      "answer": true,
-      "explanation": "Her husband suggests the car when it rains, but „ich gehe lieber“: on the way she meets people she knows, and the walk is „der schönste Teil vom Tag“.",
-      "explanationDe": "Ihr Mann schlägt bei Regen das Auto vor, aber „ich gehe lieber“: Unterwegs trifft sie Bekannte, und der Fußweg ist „der schönste Teil vom Tag“.",
-      "evidence": "Aber ich gehe lieber, da treffe ich fast immer Bekannte und halte ein kleines Schwätzchen."
+      "statement": "Die Frau möchte, dass ihre Tochter sie zur Arbeit fährt.",
+      "answer": false,
+      "explanation": "Her daughter keeps offering to drive her, but she says „Das ist lieb gemeint, aber … ich bin doch nicht krank“. Despite the high steps she likes the tram (chats, cheap ticket): „so wie es ist, passt es für mich wunderbar“.",
+      "explanationDe": "Ihre Tochter will sie immer fahren, aber sie sagt: „Das ist lieb gemeint, aber … ich bin doch nicht krank“. Trotz der hohen Stufen fährt sie gern Straßenbahn – sie trifft Leute, und es kostet fast nichts: „so wie es ist, passt es für mich wunderbar“.",
+      "evidence": "Das ist lieb gemeint, aber – na ja, ich bin doch nicht krank."
     },
     {
       "n": 4,
       "script": [
-        { "s": "stefan", "t": "Ich wohne in einem kleinen Ort im Westerwald und arbeite in Koblenz. Ohne Auto geht da gar nichts." },
-        { "s": "stefan", "t": "Mit der Bahn bräuchte ich fast zwei Stunden, weil es keine direkte Verbindung gibt. Mit dem Auto sind es vierzig Minuten, wenn kein Stau ist." },
-        { "s": "stefan", "t": "Natürlich ist das teuer, und für die Umwelt ist es auch nicht gut. Aber solange sich bei den Zügen nichts ändert, hab ich keine andere Wahl." }
+        { "s": "volker", "t": "Hm, schwierige Frage. Ich wohn auf dem Land und hab bis zur Firma fast neunzig Kilometer – an guten Tagen ist das eine Stunde, an schlechten auch mal zwei." },
+        { "s": "volker", "t": "Früher bin ich die Strecke jeden Tag gefahren. Das war, ehrlich gesagt, der reine Wahnsinn, abends war ich total kaputt." },
+        { "s": "volker", "t": "Seit letztem Jahr darf ich aber dreimal die Woche zu Hause arbeiten. Und die zwei Tage im Büro – also, die halt ich gut aus, da hör ich im Auto Hörbücher." },
+        { "s": "volker", "t": "Und umziehen kommt eh nicht in Frage." }
       ],
-      "statement": "Der Mann fährt mit dem Auto, weil die Zugverbindung zu schlecht ist.",
+      "statement": "Heute kommt der Mann mit seinem weiten Arbeitsweg gut zurecht.",
       "answer": true,
-      "explanation": "By train he would need „fast zwei Stunden“ because there is „keine direkte Verbindung“, so he has „keine andere Wahl“ than to drive.",
-      "explanationDe": "Mit der Bahn bräuchte er „fast zwei Stunden“, weil es „keine direkte Verbindung“ gibt. Deshalb hat er „keine andere Wahl“, als mit dem Auto zu fahren.",
-      "evidence": "Mit der Bahn bräuchte ich fast zwei Stunden, weil es keine direkte Verbindung gibt."
+      "explanation": "Driving every day used to be „der reine Wahnsinn“. Now he works from home three days a week, and the two office days „die halt ich gut aus“ – he listens to audiobooks in the car. So today he copes well.",
+      "explanationDe": "Jeden Tag zu fahren war früher „der reine Wahnsinn“. Jetzt arbeitet er dreimal pro Woche zu Hause, und die zwei Bürotage – „die halt ich gut aus“, er hört im Auto Hörbücher. Heute kommt er also gut zurecht.",
+      "evidence": "die halt ich gut aus, da hör ich im Auto Hörbücher"
     },
     {
       "n": 5,
       "script": [
-        { "s": "nora", "t": "Früher bin ich jeden Morgen allein mit meinem Auto ins Büro gefahren, und das war ganz schön teuer." },
-        { "s": "nora", "t": "Dann hat eine Kollegin vorgeschlagen, dass wir eine Fahrgemeinschaft gründen. Jetzt fahren wir zu viert, und jeder ist mal mit dem Fahren dran." },
-        { "s": "nora", "t": "Wir teilen das Benzingeld, und die Fahrt ist viel lustiger. Manchmal singen wir sogar zusammen, wenn im Radio ein gutes Lied läuft." }
+        { "s": "leonie", "t": "Ich studier und jobbe in einem Café am anderen Ende der Stadt. Mit dem Fahrrad bin ich da in zwölf Minuten, mit dem Bus brauch ich fast eine halbe Stunde." },
+        { "s": "leonie", "t": "Eigentlich ist das Rad also viel praktischer." },
+        { "s": "leonie", "t": "Aber im Frühjahr hat vor mir jemand die Autotür aufgemacht, und ich bin voll reingefahren. Zum Glück war's nur der Arm, aber seitdem – keine Ahnung, seitdem hab ich im Straßenverkehr einfach Angst." },
+        { "s": "leonie", "t": "Jetzt nehm ich halt meistens den Bus. Das Rad steht im Keller, nur sonntags dreh ich mal eine Runde im Park." }
       ],
-      "statement": "Die junge Frau fährt morgens immer allein mit dem Auto ins Büro.",
+      "statement": "Die junge Frau fährt weiterhin vor allem mit dem Fahrrad zu ihrem Job.",
       "answer": false,
-      "explanation": "That was „früher“. Now she has a car pool with colleagues: „Jetzt fahren wir zu viert“.",
-      "explanationDe": "Das war „früher“. Heute hat sie mit Kollegen eine Fahrgemeinschaft: „Jetzt fahren wir zu viert“.",
-      "evidence": "Jetzt fahren wir zu viert, und jeder ist mal mit dem Fahren dran."
+      "explanation": "The bike is faster and cheaper, but since an accident with a car door she is afraid in traffic: „Jetzt nehm ich halt meistens den Bus“. She only takes her bike out for a ride in the park on Sundays.",
+      "explanationDe": "Das Rad ist schneller und billiger, aber seit einem Unfall mit einer Autotür hat sie im Straßenverkehr Angst: „Jetzt nehm ich halt meistens den Bus“. Mit dem Rad fährt sie nur noch sonntags im Park.",
+      "evidence": "Jetzt nehm ich halt meistens den Bus."
     }
   ],
   "glossary": [
     { "de": "die Pendlerin / der Pendler", "en": "commuter" },
-    { "de": "verrückt", "en": "crazy" },
-    { "de": "die Regenkleidung", "en": "rain gear" },
-    { "de": "umsteigen", "en": "to change (trains, buses)" },
-    { "de": "die Verspätung", "en": "delay" },
-    { "de": "der Führerschein", "en": "driving licence" },
-    { "de": "ein Schwätzchen halten", "en": "to have a little chat" },
-    { "de": "die Verbindung", "en": "connection" },
-    { "de": "keine andere Wahl haben", "en": "to have no other choice" },
-    { "de": "die Fahrgemeinschaft", "en": "car pool" },
-    { "de": "dran sein", "en": "to be someone's turn" }
+    { "de": "der Sitzplatz", "en": "seat" },
+    { "de": "die Parkplatzsuche", "en": "looking for a parking space" },
+    { "de": "die Schicht", "en": "shift" },
+    { "de": "die Versicherung", "en": "insurance" },
+    { "de": "die Kiste (ugs.)", "en": "old car, banger (colloquial)" },
+    { "de": "lieb gemeint sein", "en": "to be kindly meant" },
+    { "de": "plaudern", "en": "to chat" },
+    { "de": "etwas aushalten", "en": "to put up with something" },
+    { "de": "mit etwas zurechtkommen", "en": "to cope with something" },
+    { "de": "nicht in Frage kommen", "en": "to be out of the question" },
+    { "de": "eine Runde drehen", "en": "to go for a quick ride" }
   ]
 }

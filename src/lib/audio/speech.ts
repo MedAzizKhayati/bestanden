@@ -272,29 +272,47 @@ function speakUtterance(text: string, a: Assignment, signal: Signal): Promise<"o
   });
 }
 
+/*
+ * One reusable <audio> element for all lines. iOS only lets an element play without a fresh tap once it
+ * has been started from a tap, and the lines of a recording follow each other without one.
+ */
+let sharedAudio: HTMLAudioElement | null = null;
+let audioUnlocked = false;
+const SILENCE = "data:audio/mpeg;base64,SUQzBAAAAAAAIlRTU0UAAAAOAAADTGF2ZjYzLjEuMTAyAAAAAAAAAAAAAAD/84TAAAAAAAAAAAAASW5mbwAAAA8AAAAHAAADYABVVVVVVVVVVVVVVVVVVXFxcXFxcXFxcXFxcXFxjo6Ojo6Ojo6Ojo6Ojo6qqqqqqqqqqqqqqqqqqqrHx8fHx8fHx8fHx8fHx+Pj4+Pj4+Pj4+Pj4+Pj//////////////////8AAAAATGF2YzYzLjEuAAAAAAAAAAAAAAAAJAQgAAAAAAAAA2BRL5eaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/80TEAAAAA0gAAAAATEFNRTQuMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVMQU1FNC7/80TEUwAAA0gAAAAAMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVMQU1FNC7/80TEpgAAA0gAAAAAMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVMQU1FNC7/80TErAAAA0gAAAAAMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVMQU1FNC7/80TErAAAA0gAAAAAMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX/80TErAAAA0gAAAAAVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX/80TErAAAA0gAAAAAVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVU=";
+
+function audioElement() {
+  sharedAudio ??= new Audio();
+  return sharedAudio;
+}
+
+/** Starts the shared element from the user's tap (playLines is called from click handlers). */
+function unlockAudio() {
+  if (typeof window === "undefined" || audioUnlocked) return;
+  const audio = audioElement();
+  audio.src = SILENCE;
+  void audio.play().then(() => (audioUnlocked = true), () => undefined);
+}
+
 function playUrl(url: string, rate: number, signal: Signal): Promise<"ok" | "failed"> {
   return new Promise((resolve) => {
-    const audio = new Audio(url);
+    const audio = audioElement();
+    const finish = (result: "ok" | "failed") => {
+      clearInterval(stopWatch);
+      audio.onended = audio.onerror = null;
+      resolve(result);
+    };
+    audio.onended = () => finish("ok");
+    audio.onerror = () => finish("failed");
+    audio.src = url;
+    audio.defaultPlaybackRate = rate;
     audio.playbackRate = rate;
     const stopWatch = setInterval(() => {
       if (signal.stopped) {
         audio.pause();
-        clearInterval(stopWatch);
-        resolve("ok");
+        finish("ok");
       }
     }, 100);
-    audio.onended = () => {
-      clearInterval(stopWatch);
-      resolve("ok");
-    };
-    audio.onerror = () => {
-      clearInterval(stopWatch);
-      resolve("failed");
-    };
-    audio.play().catch(() => {
-      clearInterval(stopWatch);
-      resolve("failed");
-    });
+    audio.play().then(() => (audioUnlocked = true), () => finish("failed"));
   });
 }
 
@@ -305,6 +323,7 @@ export function speechSupported() {
 /** Play a script line by line. Only one playback runs at a time on the page. */
 export function playLines(lines: VoiceLine[], opts: PlayOptions): PlaybackHandle {
   stopAll();
+  unlockAudio();
   const signal: Signal = { stopped: false, abort: new AbortController() };
   current = signal;
   const done = (async () => {
@@ -325,7 +344,11 @@ export function playLines(lines: VoiceLine[], opts: PlayOptions): PlaybackHandle
       if (resolver)
         for (const ahead of lines.slice(i + 1, i + 3)) {
           const who = people.get(ahead.s);
-          if (who) void resolver(ahead.t, who, signal.abort.signal).catch(() => null);
+          if (who)
+            void resolver(ahead.t, who, signal.abort.signal)
+              // Shipped files: fetch ahead so the next line starts without a gap (they are cached as immutable).
+              .then((url) => (url?.startsWith("/") ? fetch(url, { signal: signal.abort.signal }) : null))
+              .catch(() => null);
         }
 
       // 1. Recording supplied by the caller, 2. resolver (pre-rendered / neural), 3. browser voice.
@@ -378,6 +401,7 @@ export function stopAll() {
     current.abort.abort();
   }
   current = null;
+  sharedAudio?.pause();
   if (speechSupported()) window.speechSynthesis.cancel();
 }
 
