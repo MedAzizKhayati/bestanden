@@ -1,0 +1,233 @@
+{
+  "id": "praeteritum",
+  "level": "B1",
+  "category": "verben",
+  "order": 2,
+  "title": "Das Präteritum",
+  "titleEn": "The simple past",
+  "summary": "The past tense of written texts – and of sein, haben and the modal verbs in everyday speech: regular verbs add -te-, irregular verbs change their stem.",
+  "summaryDe": "Die Vergangenheitsform für geschriebene Texte – und im Alltag für sein, haben und die Modalverben: Regelmäßige Verben bekommen -te-, unregelmäßige Verben ändern ihren Stamm.",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben", "hoeren"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Regular verbs form the Präteritum with **-te-**: ich mach**te**, wir mach**ten**. Irregular verbs change their **stem**: ich **ging**, ich **fuhr**. The **ich** and **er/sie/es** forms are always the same: ich ging – er ging, ich machte – sie machte.",
+      "mdDe": "Regelmäßige Verben bilden das Präteritum mit **-te-**: ich mach**te**, wir mach**ten**. Unregelmäßige Verben ändern ihren **Stamm**: ich **ging**, ich **fuhr**. Die Formen für **ich** und **er/sie/es** sind immer gleich: ich ging – er ging, ich machte – sie machte."
+    },
+    {
+      "type": "text",
+      "heading": "When do you use the Präteritum?",
+      "headingDe": "Wann verwendest du das Präteritum?",
+      "md": "- In **written texts**: newspaper articles, reports, stories, biographies. You will read it a lot in **Lesen**.\n- In **speech and e-mails** only for a few very frequent verbs: **sein** (war), **haben** (hatte), the **modal verbs** (konnte, musste, wollte …) and often **es gab** and **wusste**: Ich **war** gestern krank und **musste** zu Hause bleiben.\n- For most other verbs, people use the Perfekt when they speak: Ich **habe** gestern Pizza **gegessen** (more natural than „Ich aß gestern Pizza“).",
+      "mdDe": "- In **geschriebenen Texten**: Zeitungsartikel, Berichte, Geschichten, Biografien. Im Teil **Lesen** liest du es sehr oft.\n- **Beim Sprechen und in E-Mails** nur bei ein paar sehr häufigen Verben: **sein** (war), **haben** (hatte), die **Modalverben** (konnte, musste, wollte …) und oft **es gab** und **wusste**: Ich **war** gestern krank und **musste** zu Hause bleiben.\n- Bei den meisten anderen Verben nimmt man beim Sprechen das Perfekt: Ich **habe** gestern Pizza **gegessen** (natürlicher als „Ich aß gestern Pizza“)."
+    },
+    {
+      "type": "table",
+      "heading": "Conjugation",
+      "headingDe": "Konjugation",
+      "columns": ["Person", "machen", "arbeiten", "fahren", "sein", "haben"],
+      "columnsDe": ["Person", "machen", "arbeiten", "fahren", "sein", "haben"],
+      "rows": [
+        ["ich", "machte", "arbeitete", "fuhr", "war", "hatte"],
+        ["du", "machtest", "arbeitetest", "fuhrst", "warst", "hattest"],
+        ["er/sie/es", "machte", "arbeitete", "fuhr", "war", "hatte"],
+        ["wir", "machten", "arbeiteten", "fuhren", "waren", "hatten"],
+        ["ihr", "machtet", "arbeitetet", "fuhrt", "wart", "hattet"],
+        ["sie/Sie", "machten", "arbeiteten", "fuhren", "waren", "hatten"]
+      ],
+      "note": "Regular verbs whose stem ends in -t or -d (arbeiten, warten, reden) or in a consonant + n/m (rechnen, öffnen, atmen) add an extra -e-: arbeitete, wartete, öffnete. Irregular verbs have no ending in the ich and er/sie/es forms: ich fuhr, er fuhr.",
+      "noteDe": "Regelmäßige Verben, deren Stamm auf -t oder -d endet (arbeiten, warten, reden) oder auf Konsonant + n/m (rechnen, öffnen, atmen), bekommen ein zusätzliches -e-: arbeitete, wartete, öffnete. Unregelmäßige Verben haben in der ich- und er/sie/es-Form keine Endung: ich fuhr, er fuhr."
+    },
+    {
+      "type": "table",
+      "heading": "Important irregular and mixed verbs",
+      "headingDe": "Wichtige unregelmäßige und gemischte Verben",
+      "columns": ["Infinitive", "Präteritum", "Perfekt"],
+      "columnsDe": ["Infinitiv", "Präteritum", "Perfekt"],
+      "rows": [
+        ["gehen", "ging", "ist gegangen"],
+        ["kommen", "kam", "ist gekommen"],
+        ["bleiben", "blieb", "ist geblieben"],
+        ["werden", "wurde", "ist geworden"],
+        ["sehen", "sah", "hat gesehen"],
+        ["geben", "gab", "hat gegeben"],
+        ["nehmen", "nahm", "hat genommen"],
+        ["finden", "fand", "hat gefunden"],
+        ["schreiben", "schrieb", "hat geschrieben"],
+        ["sprechen", "sprach", "hat gesprochen"],
+        ["treffen", "traf", "hat getroffen"],
+        ["bringen", "brachte", "hat gebracht"],
+        ["denken", "dachte", "hat gedacht"],
+        ["kennen", "kannte", "hat gekannt"],
+        ["wissen", "wusste", "hat gewusst"]
+      ],
+      "note": "Mixed verbs (bringen, denken, kennen, wissen, nennen, rennen) change the stem AND add -te: brachte, dachte, kannte, wusste.",
+      "noteDe": "Gemischte Verben (bringen, denken, kennen, wissen, nennen, rennen) ändern den Stamm UND bekommen -te: brachte, dachte, kannte, wusste."
+    },
+    {
+      "type": "text",
+      "heading": "Separable verbs",
+      "headingDe": "Trennbare Verben",
+      "md": "As in the present tense, the prefix goes to the **end** of the main clause: Der Zug **kam** um 18 Uhr **an**. Sie **rief** mich gestern **an**.\n\nIn a subordinate clause, the verb stays together at the end: Ich wartete schon, als der Zug **ankam**.",
+      "mdDe": "Wie im Präsens steht das Präfix im Hauptsatz **am Ende**: Der Zug **kam** um 18 Uhr **an**. Sie **rief** mich gestern **an**.\n\nIm Nebensatz bleibt das Verb zusammen und steht am Ende: Ich wartete schon, als der Zug **ankam**."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Als Kind **wohnte** ich in einem kleinen Dorf.", "en": "As a child I lived in a small village." },
+        { "de": "Gestern **war** ich beim Arzt, weil ich Kopfschmerzen **hatte**.", "en": "Yesterday I was at the doctor's because I had a headache." },
+        { "de": "Wir **mussten** eine Stunde auf den Bus warten.", "en": "We had to wait an hour for the bus." },
+        { "de": "Das Konzert **begann** um 20 Uhr und **dauerte** drei Stunden.", "en": "The concert began at 8 p.m. and lasted three hours." },
+        { "de": "Am Montag **eröffnete** die Bürgermeisterin die neue Stadtbibliothek.", "en": "On Monday the mayor opened the new city library." },
+        { "de": "Plötzlich **klingelte** das Telefon.", "en": "Suddenly the phone rang." },
+        { "de": "Sie **stand auf**, **zog** ihre Jacke **an** und **ging** hinaus.", "en": "She got up, put on her jacket and went out." },
+        { "de": "Früher **gab** es hier ein Kino.", "en": "There used to be a cinema here." },
+        { "de": "Er **wusste** nicht, wo der Bahnhof **war**.", "en": "He didn't know where the station was." },
+        { "de": "Leider **konnte** ich gestern nicht kommen.", "en": "Unfortunately I couldn't come yesterday." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Modal verbs lose their umlaut** in the Präteritum: können → **konnte**, müssen → **musste**, dürfen → **durfte**, mögen → **mochte**. With the umlaut it's a different form – the Konjunktiv II: „ich **könnte**“ = I could / would be able to; „ich **konnte**“ = I was able to. And irregular verbs never take -te: not „er gehte“, but „er **ging**“.",
+      "mdDe": "**Modalverben verlieren im Präteritum ihren Umlaut**: können → **konnte**, müssen → **musste**, dürfen → **durfte**, mögen → **mochte**. Mit Umlaut ist es eine andere Form – der Konjunktiv II: „ich **könnte**“ = es wäre möglich; „ich **konnte**“ = es war möglich. Und unregelmäßige Verben bekommen nie -te: nicht „er gehte“, sondern „er **ging**“."
+    },
+    {
+      "type": "tip",
+      "md": "In **Lesen Teil 1 and 2**, newspaper texts are full of Präteritum forms (eröffnete, stieg, fand statt, gab es) – if you recognise the infinitive, you understand the text faster. In **Sprachbausteine Teil 1** you may have to choose between „war / wäre / ist“ or „konnte / könnte / kann“: check time words like gestern, früher, letzte Woche.\n\nIn **Schreiben**, use **war**, **hatte** and the modal verbs in the Präteritum when you talk about the past: „Leider musste ich arbeiten“ sounds much more natural than „Leider habe ich arbeiten müssen“.",
+      "mdDe": "In **Lesen Teil 1 und 2** sind Zeitungstexte voller Präteritumformen (eröffnete, stieg, fand statt, gab es) – wenn du den Infinitiv erkennst, verstehst du den Text schneller. In **Sprachbausteine Teil 1** musst du vielleicht zwischen „war / wäre / ist“ oder „konnte / könnte / kann“ wählen: Achte auf Zeitangaben wie gestern, früher, letzte Woche.\n\nBeim **Schreiben** verwendest du **war**, **hatte** und die Modalverben im Präteritum, wenn du über die Vergangenheit sprichst: „Leider musste ich arbeiten“ klingt viel natürlicher als „Leider habe ich arbeiten müssen“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er gehte gestern früh nach Hause.",
+      "right": "Er ging gestern früh nach Hause.",
+      "why": "„gehen“ is irregular: no -te, but a new stem – „ging“.",
+      "whyDe": "„gehen“ ist unregelmäßig: kein -te, sondern ein neuer Stamm – „ging“."
+    },
+    {
+      "wrong": "Gestern müsste ich lange arbeiten.",
+      "right": "Gestern musste ich lange arbeiten.",
+      "why": "The Präteritum of modal verbs has no umlaut. „müsste“ is Konjunktiv II (would have to).",
+      "whyDe": "Das Präteritum der Modalverben hat keinen Umlaut. „müsste“ ist Konjunktiv II (= es wäre nötig)."
+    },
+    {
+      "wrong": "Sie arbeitte zehn Jahre bei einer Bank.",
+      "right": "Sie arbeitete zehn Jahre bei einer Bank.",
+      "why": "Stems ending in -t or -d need an extra -e-: „arbeit-e-te“.",
+      "whyDe": "Stämme auf -t oder -d brauchen ein zusätzliches -e-: „arbeit-e-te“."
+    },
+    {
+      "wrong": "Der Zug ankam um neun Uhr.",
+      "right": "Der Zug kam um neun Uhr an.",
+      "why": "In a main clause the prefix of a separable verb goes to the end – in the Präteritum too.",
+      "whyDe": "Im Hauptsatz steht das Präfix eines trennbaren Verbs am Ende – auch im Präteritum."
+    },
+    {
+      "wrong": "Er bringte mir Blumen mit.",
+      "right": "Er brachte mir Blumen mit.",
+      "why": "„bringen“ is a mixed verb: the stem changes AND it takes -te – „brachte“.",
+      "whyDe": "„bringen“ ist ein gemischtes Verb: Der Stamm ändert sich UND es bekommt -te – „brachte“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Als ich klein war, ___ ich jeden Sommer bei meinen Großeltern auf dem Land.",
+      "options": ["wurde", "war", "bin"],
+      "answer": 1,
+      "explanation": "„Als ich klein war“ refers to the past → Präteritum of „sein“: „ich war“. „wurde“ means became, „bin“ is the present tense.",
+      "explanationDe": "„Als ich klein war“ bezieht sich auf die Vergangenheit → Präteritum von „sein“: „ich war“. „wurde“ kommt von „werden“ (= sich verändern), „bin“ ist Präsens."
+    },
+    {
+      "type": "mc",
+      "prompt": "Leider ___ ich gestern nicht zu deiner Party kommen, weil ich krank war.",
+      "options": ["könnte", "kann", "konnte"],
+      "answer": 2,
+      "explanation": "„gestern“ → past: „konnte“, without an umlaut. „könnte“ is Konjunktiv II, „kann“ is the present tense.",
+      "explanationDe": "„gestern“ → Vergangenheit: „konnte“, ohne Umlaut. „könnte“ ist Konjunktiv II, „kann“ ist Präsens."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Film ___ um acht Uhr und war erst um elf zu Ende.",
+      "options": ["begann", "beginnte", "begonnen"],
+      "answer": 0,
+      "explanation": "„beginnen“ is irregular: „begann“. „begonnen“ is the participle and would need „hat“.",
+      "explanationDe": "„beginnen“ ist unregelmäßig: „begann“. „begonnen“ ist das Partizip und bräuchte „hat“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Früher ___ es in unserer Straße noch einen Bäcker und eine Metzgerei.",
+      "options": ["gibt", "gab", "gebte"],
+      "answer": 1,
+      "explanation": "„früher“ (in the past) → Präteritum of „es gibt“: „es gab“.",
+      "explanationDe": "„früher“ (= in der Vergangenheit) → Präteritum von „es gibt“: „es gab“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Am Samstag ___ wir den ganzen Tag im Garten und waren abends total müde.",
+      "options": ["arbeitete", "arbeitten", "arbeiteten"],
+      "answer": 2,
+      "explanation": "wir-form with the extra -e-: „arbeit-e-ten“. „arbeitete“ is the ich- or er/sie/es-form.",
+      "explanationDe": "Die wir-Form hat das zusätzliche -e-: „arbeit-e-ten“. „arbeitete“ ist die ich- oder er/sie/es-Form."
+    },
+    {
+      "type": "gap",
+      "prompt": "Gestern ___ ich keine Zeit, deshalb habe ich dich nicht angerufen.",
+      "answers": ["hatte"],
+      "hint": "(haben, Präteritum)",
+      "explanation": "Präteritum of „haben“, ich-form: „hatte“.",
+      "explanationDe": "Präteritum von „haben“, ich-Form: „hatte“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich ___ gar nicht, dass du wieder in Berlin wohnst!",
+      "answers": ["wusste"],
+      "hint": "(wissen, Präteritum)",
+      "explanation": "„wissen“ is a mixed verb: „wusste“ (I didn't know).",
+      "explanationDe": "„wissen“ ist ein gemischtes Verb: „wusste“ (= das war mir neu)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Am Bahnhof ___ ich zufällig meine alte Deutschlehrerin.",
+      "answers": ["traf"],
+      "hint": "(treffen, Präteritum)",
+      "explanation": "„treffen“ is irregular: „traf“ – no ending in the ich-form.",
+      "explanationDe": "„treffen“ ist unregelmäßig: „traf“ – in der ich-Form ohne Endung."
+    },
+    {
+      "type": "order",
+      "words": ["Tierärztin", "ich", "Als", "werden.", "Kind", "wollte"],
+      "answers": ["Als Kind wollte ich Tierärztin werden.", "Ich wollte als Kind Tierärztin werden."],
+      "explanation": "„wollte“ (Präteritum of „wollen“) is in position 2, and the infinitive „werden“ goes to the end.",
+      "explanationDe": "„wollte“ (Präteritum von „wollen“) steht auf Position 2, und der Infinitiv „werden“ steht am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["Verspätung", "an.", "Zug", "zwanzig", "kam", "Der", "Minuten", "mit"],
+      "answers": ["Der Zug kam mit zwanzig Minuten Verspätung an.", "Mit zwanzig Minuten Verspätung kam der Zug an."],
+      "explanation": "„ankommen“ is separable: „kam“ is in position 2, and the prefix „an“ goes to the end.",
+      "explanationDe": "„ankommen“ ist trennbar: „kam“ steht auf Position 2, und das Präfix „an“ steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the Präteritum.",
+      "instructionDe": "Schreibe den Satz im Präteritum.",
+      "prompt": "Lena hat ihren Koffer gepackt und ist zum Flughafen gefahren.",
+      "answers": ["Lena packte ihren Koffer und fuhr zum Flughafen."],
+      "explanation": "„packen“ is regular → „packte“; „fahren“ is irregular → „fuhr“. The auxiliaries „hat“ and „ist“ disappear.",
+      "explanationDe": "„packen“ ist regelmäßig → „packte“; „fahren“ ist unregelmäßig → „fuhr“. Die Hilfsverben „hat“ und „ist“ fallen weg."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the Präteritum.",
+      "instructionDe": "Schreibe den Satz im Präteritum.",
+      "prompt": "Ich bin müde, weil ich so viel arbeiten muss.",
+      "answers": ["Ich war müde, weil ich so viel arbeiten musste."],
+      "explanation": "„bin“ → „war“, „muss“ → „musste“ (no umlaut). In the weil-clause the modal verb stays at the end.",
+      "explanationDe": "„bin“ → „war“, „muss“ → „musste“ (ohne Umlaut). Im weil-Satz bleibt das Modalverb am Ende."
+    }
+  ],
+  "related": ["perfekt", "plusquamperfekt", "modalverben", "temporale-nebensaetze"]
+}

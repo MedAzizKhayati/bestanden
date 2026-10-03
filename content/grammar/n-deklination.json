@@ -1,0 +1,220 @@
+{
+  "id": "n-deklination",
+  "level": "B1",
+  "category": "nomen",
+  "order": 3,
+  "title": "Die n-Deklination",
+  "titleEn": "Weak masculine nouns",
+  "summary": "Some masculine nouns (der Kollege, der Kunde, der Student) take -n or -en in every case except the nominative singular.",
+  "summaryDe": "Einige maskuline Nomen (der Kollege, der Kunde, der Student) bekommen in jedem Kasus -n oder -en – außer im Nominativ Singular.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Some masculine nouns – mostly people and animals like der Kollege, der Student or der Nachbar – take **-n / -en in every case except the nominative singular**: der Kollege → den / dem / des **Kollegen**.",
+      "mdDe": "Einige maskuline Nomen – meistens Personen und Tiere wie der Kollege, der Student oder der Nachbar – bekommen **-n / -en in jedem Kasus außer im Nominativ Singular**: der Kollege → den / dem / des **Kollegen**."
+    },
+    {
+      "type": "text",
+      "heading": "Which nouns belong to the n-Deklination?",
+      "headingDe": "Welche Nomen gehören zur n-Deklination?",
+      "md": "Almost all of them are **masculine**, and most are **people or animals**:\n\n1. Masculine nouns ending in **-e**: der Kollege, der Kunde, der Junge, der Neffe, der Experte, der Zeuge, der Löwe, der Affe – and many nationalities: der Franzose, der Türke, der Pole, der Grieche, der Schwede.\n2. Masculine nouns from other languages ending in **-ent, -ant, -ist, -at, -oge** or **-graf**: der Student, der Patient, der Praktikant, der Polizist, der Tourist, der Kandidat, der Biologe, der Fotograf.\n3. A few others you just have to learn: der Mensch, der Herr, der Nachbar, der Bauer, der Held, der Bär.\n\n**Not** in this group: der Deutsche (it is declined like an adjective: ein Deutscher), feminine nouns like die Kollegin or die Studentin, and most other masculine nouns (der Lehrer, der Freund, der Arzt).",
+      "mdDe": "Fast alle sind **maskulin**, und die meisten sind **Personen oder Tiere**:\n\n1. Maskuline Nomen auf **-e**: der Kollege, der Kunde, der Junge, der Neffe, der Experte, der Zeuge, der Löwe, der Affe – und viele Nationalitäten: der Franzose, der Türke, der Pole, der Grieche, der Schwede.\n2. Maskuline Nomen aus anderen Sprachen auf **-ent, -ant, -ist, -at, -oge** oder **-graf**: der Student, der Patient, der Praktikant, der Polizist, der Tourist, der Kandidat, der Biologe, der Fotograf.\n3. Ein paar andere musst du einfach lernen: der Mensch, der Herr, der Nachbar, der Bauer, der Held, der Bär.\n\n**Nicht** in dieser Gruppe: der Deutsche (das Wort wird wie ein Adjektiv dekliniert: ein Deutscher), feminine Nomen wie die Kollegin oder die Studentin und die meisten anderen maskulinen Nomen (der Lehrer, der Freund, der Arzt)."
+    },
+    {
+      "type": "table",
+      "heading": "Declension",
+      "headingDe": "Deklination",
+      "columns": ["Kasus", "Singular", "Plural"],
+      "columnsDe": ["Kasus", "Singular", "Plural"],
+      "rows": [
+        ["Nominativ", "der Kollege · der Student", "die Kollegen · die Studenten"],
+        ["Akkusativ", "den Kollegen · den Studenten", "die Kollegen · die Studenten"],
+        ["Dativ", "dem Kollegen · dem Studenten", "den Kollegen · den Studenten"],
+        ["Genitiv", "des Kollegen · des Studenten", "der Kollegen · der Studenten"]
+      ],
+      "note": "Nouns ending in -e add -n (Kollege → Kollegen), most others add -en (Student → Studenten). Nachbar and Bauer only add -n (den Nachbarn, den Bauern). Herr: den Herrn in the singular, but die Herren in the plural.",
+      "noteDe": "Nomen auf -e bekommen -n (Kollege → Kollegen), die meisten anderen -en (Student → Studenten). Nachbar und Bauer bekommen nur -n (den Nachbarn, den Bauern). Herr: den Herrn im Singular, aber die Herren im Plural."
+    },
+    {
+      "type": "table",
+      "heading": "Common n-nouns (B1)",
+      "headingDe": "Häufige n-Nomen (B1)",
+      "columns": ["Gruppe", "Beispiele"],
+      "rows": [
+        ["-e (Personen, Tiere)", "der Kollege, der Kunde, der Junge, der Neffe, der Experte, der Löwe"],
+        ["Nationalitäten auf -e", "der Franzose, der Türke, der Pole, der Grieche, der Schwede"],
+        ["-ent / -ant", "der Student, der Patient, der Präsident, der Praktikant, der Elefant"],
+        ["-ist", "der Tourist, der Polizist, der Journalist, der Spezialist"],
+        ["-at / -oge / -graf", "der Kandidat, der Soldat, der Biologe, der Psychologe, der Fotograf"],
+        ["einzelne Wörter", "der Mensch, der Herr, der Nachbar, der Bauer, der Held, der Bär"],
+        ["Sonderfälle: Genitiv auf -ns", "der Name – des Namens, der Gedanke – des Gedankens, der Buchstabe – des Buchstabens"]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Herr in letters and addresses",
+      "headingDe": "Herr in Briefen und Adressen",
+      "md": "**Herr** is a very important n-noun for the exam:\n\n- Salutation = nominative: **Sehr geehrter Herr** Weber, … (never „Herrn“)\n- Address on an envelope or form = accusative: **Herrn** Thomas Weber, Gartenstraße 5 (short for „an Herrn …“)\n- Inside a sentence: Ich habe mit **Herrn** Weber gesprochen. Bitte rufen Sie **Herrn** Weber an.\n- Plural: Sehr geehrte Damen und **Herren**, …",
+      "mdDe": "**Herr** ist ein sehr wichtiges n-Nomen für die Prüfung:\n\n- Anrede = Nominativ: **Sehr geehrter Herr** Weber, … (nie „Herrn“)\n- Adresse auf einem Umschlag oder Formular = Akkusativ: **Herrn** Thomas Weber, Gartenstraße 5 (kurz für „an Herrn …“)\n- Im Satz: Ich habe mit **Herrn** Weber gesprochen. Bitte rufen Sie **Herrn** Weber an.\n- Plural: Sehr geehrte Damen und **Herren**, …"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich habe **den Kunden** sofort zurückgerufen.", "en": "I called the customer back straight away." },
+        { "de": "Kannst du **unserem Nachbarn** das Paket bringen?", "en": "Can you take the parcel to our neighbour?" },
+        { "de": "Die Ärztin spricht gerade mit **dem Patienten**.", "en": "The doctor is talking to the patient at the moment." },
+        { "de": "Wir haben **einen Franzosen** und **einen Polen** in unserem Kurs.", "en": "We have a Frenchman and a Pole in our course." },
+        { "de": "**Ein Tourist** hat **den Polizisten** nach dem Weg gefragt.", "en": "A tourist asked the police officer the way." },
+        { "de": "Sehr geehrter **Herr** Becker, vielen Dank für Ihre Nachricht.", "en": "Dear Mr Becker, thank you for your message." },
+        { "de": "Ich habe gestern mit **Herrn** Becker telefoniert.", "en": "I spoke to Mr Becker on the phone yesterday." },
+        { "de": "Wie ist der Name **des Jungen** auf dem Foto?", "en": "What's the name of the boy in the photo?" },
+        { "de": "Für **den neuen Praktikanten** ist noch alles fremd.", "en": "Everything is still unfamiliar to the new intern." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 1:** n-nouns hide in options like „dem Kollege / dem Kollegen / den Kollege“. If the article is not nominative singular (den, dem, des, einen, einem …), the noun needs -n or -en.\n- **Schreiben:** semi-formal e-mails often mention people – „Ich habe gestern mit Ihrem Kollegen, Herrn Schulz, telefoniert.“ The correct salutation and correct n-endings count for *formale Richtigkeit* (accuracy).\n- **Sprechen:** „Ich habe einen Nachbarn, der …“ – „Ich kenne einen Studenten aus Spanien.“",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 1:** n-Nomen verstecken sich in Optionen wie „dem Kollege / dem Kollegen / den Kollege“. Wenn der Artikel nicht Nominativ Singular ist (den, dem, des, einen, einem …), braucht das Nomen -n oder -en.\n- **Schreiben:** In halbformellen E-Mails geht es oft um Personen – „Ich habe gestern mit Ihrem Kollegen, Herrn Schulz, telefoniert.“ Die richtige Anrede und die richtigen n-Endungen zählen für die *formale Richtigkeit*.\n- **Sprechen:** „Ich habe einen Nachbarn, der …“ – „Ich kenne einen Studenten aus Spanien.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps**\n\n- Never add -n in the **nominative singular**: „Der Kollege ist nett.“ – not „Der Kollegen ist nett.“\n- „den Kollegen“ can be accusative singular **or** dative plural – look at the verb and the rest of the sentence.\n- Salutation: „Sehr geehrter **Herr** Krause“ (nominative) – but „Ich schreibe **Herrn** Krause eine E-Mail.“ (dative)",
+      "mdDe": "**Typische Fallen**\n\n- Häng im **Nominativ Singular** nie ein -n an: „Der Kollege ist nett.“ – nicht „Der Kollegen ist nett.“\n- „den Kollegen“ kann Akkusativ Singular **oder** Dativ Plural sein – schau auf das Verb und den Rest des Satzes.\n- Anrede: „Sehr geehrter **Herr** Krause“ (Nominativ) – aber „Ich schreibe **Herrn** Krause eine E-Mail.“ (Dativ)"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich frage morgen den Kollege.",
+      "right": "Ich frage morgen den Kollegen.",
+      "why": "Kollege belongs to the n-Deklination: the accusative singular is „den Kollegen“.",
+      "whyDe": "Kollege gehört zur n-Deklination: Der Akkusativ Singular ist „den Kollegen“."
+    },
+    {
+      "wrong": "Wir helfen unserem Nachbar im Garten.",
+      "right": "Wir helfen unserem Nachbarn im Garten.",
+      "why": "Nachbar is an n-noun: the dative singular is „Nachbarn“.",
+      "whyDe": "Nachbar ist ein n-Nomen: Der Dativ Singular ist „Nachbarn“."
+    },
+    {
+      "wrong": "Sehr geehrter Herrn Krause,",
+      "right": "Sehr geehrter Herr Krause,",
+      "why": "The salutation is in the nominative, so „Herr“ has no -n.",
+      "whyDe": "Die Anrede steht im Nominativ, deshalb hat „Herr“ kein -n."
+    },
+    {
+      "wrong": "Ich habe gestern einen Tourist geholfen.",
+      "right": "Ich habe gestern einem Touristen geholfen.",
+      "why": "helfen takes the dative („einem“), and Tourist is an n-noun („Touristen“).",
+      "whyDe": "helfen braucht den Dativ („einem“), und Tourist ist ein n-Nomen („Touristen“)."
+    },
+    {
+      "wrong": "Das ist das Handy des Jungens.",
+      "right": "Das ist das Handy des Jungen.",
+      "why": "n-nouns take -n or -en in the genitive (des Kollegen, des Studenten), not -s. Only a few nouns like „Name“ have -ns (des Namens).",
+      "whyDe": "n-Nomen bekommen im Genitiv -n oder -en (des Kollegen, des Studenten), kein -s. Nur wenige Nomen wie „Name“ haben -ns (des Namens)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich habe gestern lange mit ___ telefoniert.",
+      "options": ["dem Kunden", "dem Kunde", "den Kunde"],
+      "answer": 0,
+      "explanation": "mit takes the dative → „dem“. Kunde is an n-noun, so it needs -n: „dem Kunden“.",
+      "explanationDe": "Nach mit steht der Dativ → „dem“. Kunde ist ein n-Nomen und braucht deshalb -n: „dem Kunden“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Unsere Firma sucht ___ für das Online-Marketing.",
+      "options": ["einen Experten", "einen Experte", "einem Experten"],
+      "answer": 0,
+      "explanation": "suchen takes the accusative → „einen“. Experte is an n-noun → „Experten“.",
+      "explanationDe": "suchen braucht den Akkusativ → „einen“. Experte ist ein n-Nomen → „Experten“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das Zimmer ___ ist sehr klein.",
+      "options": ["des Studenten", "des Students", "dem Studenten"],
+      "answer": 0,
+      "explanation": "Whose room? → genitive „des“. n-nouns take -en, not -s: „des Studenten“.",
+      "explanationDe": "Wessen Zimmer? → Genitiv „des“. n-Nomen bekommen -en, kein -s: „des Studenten“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Sehr geehrter ___ Brandt, vielen Dank für Ihre schnelle Antwort.",
+      "options": ["Herr", "Herrn", "Herren"],
+      "answer": 0,
+      "explanation": "The salutation is nominative singular → „Herr“. „Herrn“ is accusative/dative singular, „Herren“ is the plural.",
+      "explanationDe": "Die Anrede ist Nominativ Singular → „Herr“. „Herrn“ ist Akkusativ/Dativ Singular, „Herren“ ist der Plural."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Arzt untersucht den ___.",
+      "answers": ["Patienten"],
+      "hint": "(Patient)",
+      "explanation": "untersuchen takes the accusative; Patient is an n-noun → „den Patienten“.",
+      "explanationDe": "untersuchen braucht den Akkusativ; Patient ist ein n-Nomen → „den Patienten“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir haben unserem ___ einen Kuchen gebracht.",
+      "answers": ["Nachbarn"],
+      "hint": "(Nachbar)",
+      "explanation": "„unserem“ shows the dative singular, so Nachbar gets -n: „unserem Nachbarn“.",
+      "explanationDe": "„unserem“ zeigt den Dativ Singular, deshalb bekommt Nachbar -n: „unserem Nachbarn“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Kannst du bitte ___ Yilmaz Bescheid sagen?",
+      "answers": ["Herrn"],
+      "hint": "(Herr)",
+      "explanation": "„jemandem Bescheid sagen“ takes the dative → „Herrn Yilmaz“. In the singular Herr only gets -n.",
+      "explanationDe": "„jemandem Bescheid sagen“ braucht den Dativ → „Herrn Yilmaz“. Im Singular bekommt Herr nur -n."
+    },
+    {
+      "type": "gap",
+      "prompt": "Im Zoo haben die Kinder den ___ fotografiert.",
+      "answers": ["Löwen"],
+      "hint": "(Löwe)",
+      "explanation": "fotografieren takes the accusative; Löwe is an n-noun ending in -e, so it adds -n: „den Löwen“.",
+      "explanationDe": "fotografieren braucht den Akkusativ; Löwe ist ein n-Nomen auf -e und bekommt deshalb -n: „den Löwen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wie ist der Name des neuen ___?",
+      "answers": ["Praktikanten"],
+      "hint": "(Praktikant)",
+      "explanation": "The genitive „des neuen …“ needs the n-ending: Praktikant + en → „des neuen Praktikanten“.",
+      "explanationDe": "Der Genitiv „des neuen …“ braucht die n-Endung: Praktikant + en → „des neuen Praktikanten“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence starting with „Ich kenne …“.",
+      "instructionDe": "Schreib den Satz neu. Beginne mit „Ich kenne …“.",
+      "prompt": "Das ist ein Journalist aus Wien.",
+      "answers": ["Ich kenne einen Journalisten aus Wien."],
+      "explanation": "kennen takes the accusative → „einen“. Journalist is an n-noun → „Journalisten“.",
+      "explanationDe": "kennen braucht den Akkusativ → „einen“. Journalist ist ein n-Nomen → „Journalisten“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „Freund“ with „Kollege“.",
+      "instructionDe": "Ersetze „Freund“ durch „Kollege“.",
+      "prompt": "Ich gehe heute mit meinem Freund essen.",
+      "answers": ["Ich gehe heute mit meinem Kollegen essen."],
+      "explanation": "mit takes the dative; Kollege is an n-noun → „meinem Kollegen“. Freund is a normal noun („meinem Freund“).",
+      "explanationDe": "Nach mit steht der Dativ; Kollege ist ein n-Nomen → „meinem Kollegen“. Freund ist ein normales Nomen („meinem Freund“)."
+    },
+    {
+      "type": "order",
+      "words": ["einen", "dem", "Verkäuferin", "gegeben.", "Rabatt", "hat", "Kunden", "Die"],
+      "answers": ["Die Verkäuferin hat dem Kunden einen Rabatt gegeben.", "Dem Kunden hat die Verkäuferin einen Rabatt gegeben."],
+      "explanation": "„dem Kunden“ is dative singular with the n-ending. With two nouns, the dative usually comes before the accusative („einen Rabatt“).",
+      "explanationDe": "„dem Kunden“ ist Dativ Singular mit n-Endung. Bei zwei Nomen steht der Dativ meistens vor dem Akkusativ („einen Rabatt“)."
+    }
+  ],
+  "related": ["kasus-und-artikel", "genitiv", "adjektivdeklination", "verben-mit-dativ"]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "schreiben-08",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Ausflug mit dem Deutschkurs",
+  "topic": "kultur",
+  "difficulty": 2,
+  "register": "semiformal",
+  "situation": "Ihre Kursleiterin, Frau Albrecht, hat allen Teilnehmenden folgende E-Mail geschickt:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Monika Albrecht, Volkshochschule Hannover",
+    "subject": "Kursausflug zum Semesterende",
+    "body": "Liebe Kursteilnehmerinnen und Kursteilnehmer,\n\nzum Ende unseres Kurses möchte ich gern einen Ausflug mit Ihnen machen. Ich habe zwei Ideen: Wir könnten das Museum für Stadtgeschichte besuchen und danach zusammen essen gehen. Oder wir machen eine Stadtführung durch die Altstadt mit anschließendem Picknick im Park. Als Termine kommen Freitag, der 27. Juni, oder Samstag, der 28. Juni, infrage.\n\nBitte schreiben Sie mir, welcher Vorschlag Ihnen besser gefällt und an welchem Tag Sie Zeit haben. Haben Sie vielleicht auch eigene Ideen?\n\nHerzliche Grüße\nMonika Albrecht"
+  },
+  "leitpunkte": [
+    "Was Sie bei der Organisation übernehmen können",
+    "Welcher Termin für Sie passt",
+    "Was Sie zusätzlich vorschlagen",
+    "Welcher Vorschlag Ihnen besser gefällt und warum"
+  ],
+  "model": {
+    "subject": "Kursausflug: Stadtführung am Freitag",
+    "text": "Liebe Frau Albrecht,\n\nvielen Dank für Ihre E-Mail und die schöne Idee mit dem Ausflug! Ich bin auf jeden Fall dabei.\n\nMir gefällt die Stadtführung besser als der Museumsbesuch. Bei einer Führung lernen wir nicht nur viel über die Geschichte von Hannover, sondern können auch draußen sein, wenn das Wetter schön ist. Außerdem ist ein Picknick viel günstiger als ein Essen im Restaurant, was für einige Teilnehmer wichtig ist.\n\nWas den Termin betrifft, passt mir der Freitag besser, weil ich samstags im Restaurant meines Onkels aushelfe. Falls die meisten den Samstag wählen, versuche ich aber, mir freizunehmen.\n\nDarf ich noch etwas vorschlagen? Jeder könnte zum Picknick eine Spezialität aus seinem Heimatland mitbringen. So hätten wir ein internationales Buffet und viel Gesprächsstoff.\n\nGern helfe ich auch bei der Organisation. Ich könnte zum Beispiel Decken und Teller besorgen oder eine Liste schreiben, wer was mitbringt.\n\nIch freue mich schon auf den Ausflug!\n\nHerzliche Grüße\nKenji Sato"
+  },
+  "modelNotes": [
+    "The answer moves from the main question (which option and why) to the date, an extra idea and an offer of help – an order the teacher can easily follow.",
+    "The preference is supported by several arguments, linked with „nicht nur … sondern auch“, „außerdem“ and the relative clause „was für einige Teilnehmer wichtig ist“.",
+    "„Was den Termin betrifft, …“ and „Darf ich noch etwas vorschlagen?“ introduce new points smoothly – typical upper-B1 phrases.",
+    "The Sie-form is combined with a friendly tone („Liebe Frau Albrecht“, „Herzliche Grüße“) that matches the teacher's own e-mail.",
+    "Konjunktiv II makes suggestions and offers polite: „Jeder könnte …“, „So hätten wir …“, „Ich könnte zum Beispiel …“."
+  ],
+  "modelNotesDe": [
+    "Die Antwort geht von der Hauptfrage (welcher Vorschlag und warum) zum Termin, zu einer zusätzlichen Idee und zu einem Hilfsangebot – eine Reihenfolge, der die Kursleiterin leicht folgen kann.",
+    "Der Schreiber begründet seine Wahl mit mehreren Argumenten und verbindet sie mit „nicht nur … sondern auch“, „außerdem“ und dem Relativsatz „was für einige Teilnehmer wichtig ist“.",
+    "„Was den Termin betrifft, …“ und „Darf ich noch etwas vorschlagen?“ leiten neue Punkte geschickt ein – typische Redemittel für das obere B1-Niveau.",
+    "Die Sie-Form ist mit einem freundlichen Ton verbunden („Liebe Frau Albrecht“, „Herzliche Grüße“), der zur E-Mail der Kursleiterin passt.",
+    "Der Konjunktiv II macht Vorschläge und Angebote höflich: „Jeder könnte …“, „So hätten wir …“, „Ich könnte zum Beispiel …“."
+  ],
+  "phrases": [
+    { "de": "Ich bin auf jeden Fall dabei.", "en": "Count me in." },
+    { "de": "Mir gefällt … besser als …", "en": "I like … better than …" },
+    { "de": "Was den Termin betrifft, …", "en": "As far as the date is concerned, …" },
+    { "de": "Falls die meisten …, versuche ich, …", "en": "If most people …, I'll try to …" },
+    { "de": "Darf ich noch etwas vorschlagen?", "en": "May I suggest something else?" },
+    { "de": "Jeder könnte … mitbringen.", "en": "Everyone could bring …" },
+    { "de": "Gern helfe ich bei der Organisation.", "en": "I'm happy to help with the organisation." }
+  ],
+  "glossary": [
+    { "de": "die Stadtführung", "en": "guided city tour" },
+    { "de": "anschließend", "en": "afterwards, following" },
+    { "de": "infrage kommen", "en": "to be possible, to be an option" },
+    { "de": "aushelfen", "en": "to help out" },
+    { "de": "sich freinehmen", "en": "to take time off" },
+    { "de": "besorgen", "en": "to get, to organise (things)" }
+  ]
+}

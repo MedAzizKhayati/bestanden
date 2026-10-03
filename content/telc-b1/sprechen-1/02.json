@@ -1,0 +1,127 @@
+{
+  "id": "sprechen-1-02",
+  "examId": "telc-b1",
+  "type": "speaking-intro",
+  "title": "Arbeit, Ausbildung und Studium",
+  "topic": "arbeit",
+  "difficulty": 3,
+  "points": [
+    "Name und Herkunft",
+    "Beruf oder Ausbildung im Heimatland",
+    "Arbeit, Ausbildung oder Studium in Deutschland",
+    "Arbeitszeiten und Arbeitsweg",
+    "Kolleginnen und Kollegen",
+    "Deutsch im Beruf",
+    "Berufliche Pläne"
+  ],
+  "extraTopics": ["Wohnort und Wohnung", "Familie", "Freizeit nach der Arbeit", "Sprachen"],
+  "questions": [
+    {
+      "point": "Name und Herkunft",
+      "items": [
+        "Wie heißen Sie? / Wie heißt du?",
+        "Woher kommen Sie? / Woher kommst du?",
+        "Seit wann sind Sie in Deutschland?"
+      ]
+    },
+    {
+      "point": "Beruf oder Ausbildung im Heimatland",
+      "items": [
+        "Was haben Sie in Ihrem Heimatland beruflich gemacht?",
+        "Haben Sie dort studiert oder eine Ausbildung gemacht?",
+        "Was hast du nach der Schule gemacht?"
+      ]
+    },
+    {
+      "point": "Arbeit, Ausbildung oder Studium in Deutschland",
+      "items": [
+        "Was machen Sie hier beruflich? / Was machst du hier?",
+        "Wie haben Sie Ihre Stelle gefunden?",
+        "Was studierst du? In welchem Semester bist du?"
+      ]
+    },
+    {
+      "point": "Arbeitszeiten und Arbeitsweg",
+      "items": [
+        "Wie sind Ihre Arbeitszeiten?",
+        "Arbeiten Sie auch am Wochenende oder im Schichtdienst?",
+        "Wie kommst du zur Arbeit? Wie lange brauchst du?"
+      ]
+    },
+    {
+      "point": "Kolleginnen und Kollegen",
+      "items": [
+        "Wie verstehen Sie sich mit Ihren Kollegen?",
+        "Arbeiten Sie in einem großen Team?",
+        "Machst du in der Pause etwas mit deinen Kollegen?"
+      ]
+    },
+    {
+      "point": "Deutsch im Beruf",
+      "items": [
+        "Brauchen Sie bei der Arbeit viel Deutsch?",
+        "Was ist für Sie bei der Arbeit sprachlich am schwierigsten?",
+        "Wo hast du Deutsch gelernt?"
+      ]
+    },
+    {
+      "point": "Berufliche Pläne",
+      "items": [
+        "Was möchten Sie in fünf Jahren beruflich machen?",
+        "Möchten Sie eine Weiterbildung machen?",
+        "Möchtest du später noch studieren?"
+      ]
+    }
+  ],
+  "speakers": [
+    { "id": "A", "name": "Lan Nguyen", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Karim Haddad", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "P", "t": "Guten Tag. Stellen Sie sich bitte zuerst gegenseitig vor. Sprechen Sie dann besonders über Ihre Arbeit oder Ausbildung." },
+    { "s": "B", "t": "Gern. Guten Tag, mein Name ist Karim Haddad. Ich komme aus dem Libanon, aus Beirut, und lebe seit drei Jahren in Leipzig." },
+    { "s": "A", "t": "Freut mich, Herr Haddad. Ich heiße Lan Nguyen und komme aus Hanoi in Vietnam. Ich wohne auch in Leipzig, schon seit zwei Jahren." },
+    { "s": "B", "t": "Ach, das ist ja schön. Was machen Sie hier in Leipzig, Frau Nguyen?" },
+    { "s": "A", "t": "Ich mache eine Ausbildung zur Pflegefachfrau an einem Krankenhaus. Jetzt bin ich im zweiten Ausbildungsjahr." },
+    { "s": "B", "t": "Das ist bestimmt ein anstrengender Beruf. Wie sind denn Ihre Arbeitszeiten?" },
+    { "s": "A", "t": "Ich arbeite im Schichtdienst, also manchmal ab sechs Uhr morgens und manchmal bis zehn Uhr abends. Außerdem habe ich immer wieder ein paar Wochen Unterricht in der Pflegeschule." },
+    { "s": "B", "t": "Und wie gefällt Ihnen die Arbeit?" },
+    { "s": "A", "t": "Sehr gut, auch wenn sie manchmal stressig ist. Meine Kolleginnen helfen mir viel, und die Patienten sind meistens sehr dankbar. Und was sind Sie von Beruf?" },
+    { "s": "B", "t": "Ich bin Bauingenieur. Im Libanon habe ich acht Jahre für eine große Baufirma gearbeitet. Hier arbeite ich seit einem Jahr in einem Ingenieurbüro und plane Brücken." },
+    { "s": "A", "t": "Brücken? Das ist ja spannend! Wie haben Sie die Stelle gefunden?" },
+    { "s": "B", "t": "Zuerst musste ich mein Diplom anerkennen lassen, und das hat fast ein Jahr gedauert. Dann habe ich in dem Büro ein Praktikum gemacht, und danach haben sie mir eine feste Stelle angeboten." },
+    { "s": "A", "t": "Herzlichen Glückwunsch! Und wie kommen Sie zur Arbeit?" },
+    { "s": "B", "t": "Mit der Straßenbahn, das dauert nur zwanzig Minuten. Sie müssen ja manchmal sehr früh anfangen. Fahren Sie dann auch mit der Bahn?" },
+    { "s": "A", "t": "Nein, so früh fährt bei mir noch keine Straßenbahn, deshalb nehme ich das Fahrrad. Im Winter ist das nicht so lustig!" },
+    { "s": "B", "t": "Das glaube ich. Wo haben Sie eigentlich Deutsch gelernt?" },
+    { "s": "A", "t": "Zuerst an einer Sprachschule in Hanoi, weil ich für die Ausbildung ein Sprachzertifikat gebraucht habe. Aber am meisten lerne ich hier bei der Arbeit. Im Krankenhaus gibt es so viele Fachwörter!" },
+    { "s": "B", "t": "Das kenne ich gut. Die Fachsprache im Büro verstehe ich inzwischen ganz gut, aber am Telefon ist es noch schwierig, weil manche Kunden sehr schnell sprechen." },
+    { "s": "A", "t": "Das geht mir genauso. Was sind denn Ihre Pläne für die Zukunft?" },
+    { "s": "B", "t": "Ich möchte mein Deutsch weiter verbessern und in ein paar Jahren vielleicht Projektleiter werden. Und Sie?" },
+    { "s": "A", "t": "Nach der Ausbildung möchte ich gern auf einer Kinderstation arbeiten. Vielleicht studiere ich später noch Pflege, aber das ist im Moment nur ein Traum." },
+    { "s": "B", "t": "Das klingt nach einem guten Plan. Ich drücke Ihnen die Daumen!" },
+    { "s": "A", "t": "Danke, Ihnen auch viel Erfolg!" }
+  ],
+  "phrases": [
+    { "de": "Freut mich, Herr … / Frau …", "en": "Nice to meet you, Mr … / Ms …" },
+    { "de": "Ich mache eine Ausbildung zur Pflegefachfrau / zum Mechatroniker.", "en": "I'm doing vocational training as a nurse / as a mechatronics technician." },
+    { "de": "Ich bin im zweiten Ausbildungsjahr / im dritten Semester.", "en": "I'm in my second year of training / in my third semester." },
+    { "de": "Ich arbeite im Schichtdienst / in Teilzeit / in Vollzeit.", "en": "I work shifts / part-time / full-time." },
+    { "de": "Ich musste mein Diplom anerkennen lassen.", "en": "I had to get my degree recognised." },
+    { "de": "Wie haben Sie die Stelle gefunden?", "en": "How did you find the job?" },
+    { "de": "Das geht mir genauso.", "en": "It's the same for me." },
+    { "de": "Ich drücke Ihnen die Daumen!", "en": "I'll keep my fingers crossed for you!" }
+  ],
+  "glossary": [
+    { "de": "die Pflegefachfrau", "en": "(qualified) nurse" },
+    { "de": "der Schichtdienst", "en": "shift work" },
+    { "de": "die Pflegeschule", "en": "nursing school (theory part of the training)" },
+    { "de": "das Ingenieurbüro", "en": "engineering office" },
+    { "de": "das Praktikum", "en": "internship" },
+    { "de": "die feste Stelle", "en": "permanent position" },
+    { "de": "das Fachwort", "en": "technical term" },
+    { "de": "die Kinderstation", "en": "children's ward" },
+    { "de": "der Projektleiter", "en": "project manager" }
+  ]
+}

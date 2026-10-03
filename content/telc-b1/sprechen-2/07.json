@@ -1,0 +1,101 @@
+{
+  "id": "sprechen-2-07",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Leben ohne Fleisch?",
+  "topic": "essen",
+  "difficulty": 2,
+  "theme": "Vegetarische Ernährung",
+  "medium": "in einer Zeitschrift",
+  "cardA": {
+    "name": "Lea Hoffmann",
+    "age": 23,
+    "job": "Studentin",
+    "quote": "Ich esse seit vier Jahren kein Fleisch mehr, und es geht mir richtig gut. Ich koche viel mit Gemüse, Linsen und Bohnen, und das ist auch billiger, als jeden Tag Fleisch zu kaufen. Außerdem möchte ich nicht, dass Tiere für mein Essen leiden. Und für das Klima ist weniger Fleisch auch besser."
+  },
+  "cardB": {
+    "name": "Bernd Krüger",
+    "age": 51,
+    "job": "Landwirt",
+    "quote": "Auf unserem Bauernhof halten wir Kühe und Schweine, und die Tiere haben viel Platz. Ich esse gern Fleisch, aber nicht jeden Tag, und ich kaufe es nur beim Metzger im Dorf. Ein Sonntagsbraten gehört für mich einfach dazu. Ich finde, jeder soll selbst entscheiden, was er isst, ohne dass andere ihm ein schlechtes Gewissen machen."
+  },
+  "ideas": {
+    "pro": [
+      "gesund: viel Gemüse und Obst",
+      "besser für Klima und Umwelt",
+      "Tiere müssen nicht für unser Essen leiden",
+      "oft günstiger als Fleisch",
+      "man lernt viele neue Rezepte kennen",
+      "große Auswahl an vegetarischen Produkten im Supermarkt"
+    ],
+    "contra": [
+      "Fleisch gehört für viele Menschen zur Tradition",
+      "man muss auf genug Eisen und Vitamine achten",
+      "im Restaurant oder bei Einladungen ist es manchmal schwierig",
+      "Fleischersatz aus dem Supermarkt ist oft teuer",
+      "Familie und Freunde verstehen es nicht immer",
+      "man kann auch wenig, aber gutes Fleisch essen"
+    ]
+  },
+  "questions": [
+    "Essen Sie gern Fleisch? Wie oft?",
+    "Wie ist das in Ihrem Heimatland? Gibt es dort viele Vegetarier?",
+    "Welche Gerichte ohne Fleisch kennen Sie aus Ihrem Land?",
+    "Sollten Kantinen und Schulen jeden Tag ein vegetarisches Essen anbieten?",
+    "Was ist für Sie gesunde Ernährung?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Priya Sharma", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Tomás García", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Bitte stellen Sie zuerst die Meinung auf Ihrem Blatt vor. Danach sprechen Sie bitte miteinander über das Thema vegetarische Ernährung." },
+    { "s": "B", "t": "Darf ich anfangen? Auf meinem Blatt äußert sich Bernd Krüger. Er ist 51 Jahre alt und Landwirt." },
+    { "s": "B", "t": "Herr Krüger hat einen Bauernhof mit Kühen und Schweinen, und er sagt, dass seine Tiere viel Platz haben. Er isst gern Fleisch, aber nicht jeden Tag, und er kauft es nur beim Metzger in seinem Dorf." },
+    { "s": "B", "t": "Für ihn gehört ein Sonntagsbraten einfach dazu. Er findet, dass jeder selbst entscheiden soll, was er isst, und dass andere ihm kein schlechtes Gewissen machen sollen." },
+    { "s": "A", "t": "Danke. Auf meinem Blatt steht fast das Gegenteil. Lea Hoffmann ist 23 und Studentin, und sie isst seit vier Jahren kein Fleisch mehr." },
+    { "s": "A", "t": "Frau Hoffmann sagt, dass es ihr damit richtig gut geht. Sie kocht viel mit Gemüse, Linsen und Bohnen, und das ist auch billiger als Fleisch." },
+    { "s": "A", "t": "Außerdem möchte sie nicht, dass Tiere für ihr Essen leiden, und sie meint, dass weniger Fleisch besser für das Klima ist." },
+    { "s": "B", "t": "Interessant. Und Sie, Frau Sharma? Essen Sie Fleisch?" },
+    { "s": "A", "t": "Nein, ich bin seit meiner Kindheit Vegetarierin. In meiner Familie in Indien isst niemand Fleisch, das hat bei uns religiöse Gründe. Für mich ist das also ganz normal." },
+    { "s": "B", "t": "Ach so. Gibt es in Indien viele Vegetarier?" },
+    { "s": "A", "t": "Ja, sehr viele. In manchen Restaurants gibt es sogar mehr Gerichte ohne Fleisch als mit Fleisch. Deshalb war das Essen in Deutschland für mich am Anfang eine große Umstellung." },
+    { "s": "B", "t": "Das kann ich mir vorstellen. Bei uns in Mexiko ist es genau umgekehrt: Fast jedes Gericht hat Fleisch, zum Beispiel Tacos mit Rindfleisch oder Hähnchen." },
+    { "s": "A", "t": "Und essen Sie jeden Tag Fleisch?" },
+    { "s": "B", "t": "Früher ja, aber seit ich in Deutschland bin, esse ich weniger. Ich koche oft mit Bohnen, wie meine Großmutter, und das schmeckt mir sehr gut. Da muss ich Frau Hoffmann recht geben, das ist auch billiger." },
+    { "s": "A", "t": "Das freut mich zu hören! Aber ich verstehe auch Herrn Krüger. Er möchte nicht, dass man ihm sagt, was er essen soll." },
+    { "s": "B", "t": "Genau. Ich finde es auch nicht gut, wenn Vegetarier anderen ständig ein schlechtes Gewissen machen. Jeder sollte selbst entscheiden." },
+    { "s": "A", "t": "Da bin ich ganz Ihrer Meinung. Ich sage meinen Freunden nie, dass sie kein Fleisch essen sollen. Aber wenn ich eingeladen bin, freue ich mich, wenn es etwas Vegetarisches gibt." },
+    { "s": "B", "t": "Ist das bei Einladungen manchmal schwierig?" },
+    { "s": "A", "t": "Am Anfang schon. Einmal war ich bei Kollegen zum Grillen, und es gab nur Würstchen und Steaks. Ich habe den ganzen Abend Brot und Salat gegessen!" },
+    { "s": "B", "t": "Oh nein! Heute gibt es zum Glück viel mehr vegetarische Produkte, sogar vegetarische Würstchen." },
+    { "s": "P", "t": "Sollten Kantinen und Schulen jeden Tag ein vegetarisches Essen anbieten?" },
+    { "s": "B", "t": "Ich finde, ja. Es ist doch kein Problem, ein Gericht ohne Fleisch zu kochen, und dann kann jeder wählen." },
+    { "s": "A", "t": "Das sehe ich genauso. Aber das Essen sollte auch gesund sein, also nicht jeden Tag nur Nudeln mit Tomatensoße." },
+    { "s": "B", "t": "Das stimmt. Ich glaube, am Ende ist eine gute Mischung am wichtigsten: viel Gemüse und, wenn man möchte, ab und zu gutes Fleisch." }
+  ],
+  "phrases": [
+    { "de": "Darf ich anfangen?", "en": "May I start?" },
+    { "de": "Auf meinem Blatt steht fast das Gegenteil.", "en": "My sheet says almost the opposite." },
+    { "de": "Er findet, dass jeder selbst entscheiden soll, …", "en": "He thinks that everyone should decide for themselves …" },
+    { "de": "Das kann ich mir vorstellen.", "en": "I can imagine that." },
+    { "de": "Bei uns in … ist es genau umgekehrt.", "en": "Where I come from, in …, it's exactly the other way round." },
+    { "de": "Das freut mich zu hören!", "en": "I'm glad to hear that!" },
+    { "de": "Ich finde es nicht gut, wenn …", "en": "I don't think it's good when …" },
+    { "de": "Das sehe ich genauso.", "en": "I see it exactly the same way." },
+    { "de": "Am Ende ist … am wichtigsten.", "en": "In the end, … is the most important thing." }
+  ],
+  "vocabulary": [
+    { "de": "die Ernährung", "en": "diet, nutrition" },
+    { "de": "der Vegetarier / die Vegetarierin", "en": "vegetarian" },
+    { "de": "die Linse / die Bohne", "en": "lentil / bean" },
+    { "de": "leiden", "en": "to suffer" },
+    { "de": "der Bauernhof", "en": "farm" },
+    { "de": "der Metzger", "en": "butcher" },
+    { "de": "der Sonntagsbraten", "en": "Sunday roast" },
+    { "de": "jemandem ein schlechtes Gewissen machen", "en": "to make someone feel guilty" },
+    { "de": "die Umstellung", "en": "change, adjustment" },
+    { "de": "die Kantine", "en": "canteen" }
+  ]
+}

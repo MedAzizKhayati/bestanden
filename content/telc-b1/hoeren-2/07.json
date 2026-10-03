@@ -1,0 +1,144 @@
+{
+  "id": "hoeren-2-07",
+  "examId": "telc-b1",
+  "type": "audio-long",
+  "title": "Ein Fest für das ganze Quartier",
+  "topic": "kultur",
+  "difficulty": 2,
+  "context": "Radiosendung „Bern am Mittag“: Gespräch über ein Quartierfest mit der Organisatorin und einem Nachbarn",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "moser", "name": "Frau Moser", "gender": "f", "age": "adult", "role": "Organisatorin des Quartierfests" },
+    { "id": "haddad", "name": "Herr Haddad", "gender": "m", "age": "adult", "role": "Nachbar mit einem Essensstand" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Grüezi miteinander und willkommen bei „Bern am Mittag“! Am letzten Samstag im August ist es wieder so weit: Im Talweg-Quartier gibt es das große Quartierfest, und zwar schon zum zehnten Mal." },
+    { "s": "mod", "t": "Bei mir im Studio sind Ursula Moser, die das Fest organisiert, und Samir Haddad, der seit Jahren dabei ist. Herzlich willkommen!" },
+    { "s": "moser", "t": "Grüezi, vielen Dank für die Einladung." },
+    { "s": "haddad", "t": "Guten Tag, ich freue mich sehr." },
+    { "s": "mod", "t": "Frau Moser, zehn Jahre Quartierfest! Wie hat das angefangen?" },
+    { "s": "moser", "t": "Ganz klein. Ich war damals neu im Talweg und kannte niemanden. Da habe ich an einem Sonntag einfach einen langen Tisch auf die Straße gestellt und alle Nachbarn zum Frühstück eingeladen." },
+    { "s": "moser", "t": "Es kamen ungefähr 30 Leute, und alle haben etwas mitgebracht. Am Ende haben wir bis zum Abend zusammengesessen." },
+    { "s": "mod", "t": "Und heute?" },
+    { "s": "moser", "t": "Heute kommen über zweitausend Besucher, auch aus anderen Quartieren. Die Straße ist dann von 8 Uhr morgens bis Mitternacht für Autos gesperrt." },
+    { "s": "mod", "t": "Was kann man denn alles erleben?" },
+    { "s": "moser", "t": "Am Vormittag gibt es einen Flohmarkt, bei dem nur Kinder verkaufen dürfen. Die Erwachsenen dürfen nur kaufen, und das finden die Kinder natürlich super." },
+    { "s": "moser", "t": "Ab Mittag gibt es Essen aus über 15 Ländern, und am Nachmittag spielen Bands aus dem Quartier auf einer kleinen Bühne." },
+    { "s": "mod", "t": "Herr Haddad, Sie haben einen der Essensstände. Wie sind Sie zum Fest gekommen?" },
+    { "s": "haddad", "t": "Ich bin vor neun Jahren aus Syrien nach Bern gekommen. Beim ersten Fest war ich nur Besucher, denn ich kannte kaum jemanden, und mein Deutsch war noch nicht so gut." },
+    { "s": "haddad", "t": "Dann hat meine Nachbarin gesagt: „Nächstes Jahr machst du deine Falafel für alle!“ Seitdem habe ich jedes Jahr einen Stand." },
+    { "s": "mod", "t": "Ihre Falafel sind inzwischen berühmt, habe ich gehört." },
+    { "s": "haddad", "t": "Na ja, berühmt. Letztes Jahr waren sie schon um vier Uhr ausverkauft, deshalb mache ich dieses Jahr die doppelte Menge." },
+    { "s": "haddad", "t": "Alle Stände geben übrigens zehn Prozent von ihren Einnahmen für einen neuen Spielplatz im Quartier. Das finde ich eine sehr gute Idee." },
+    { "s": "moser", "t": "Und Herr Haddad ist seit drei Jahren auch in unserem Organisationsteam. Ohne ihn würde vieles nicht funktionieren." },
+    { "s": "mod", "t": "So ein Fest kostet sicher viel Geld. Wer bezahlt das alles?" },
+    { "s": "moser", "t": "Insgesamt kostet das Fest ungefähr fünfzehntausend Franken, für die Bühne, die Toiletten und die Versicherung. Die Stadt gibt uns dreitausend Franken dazu." },
+    { "s": "moser", "t": "Den größten Teil bezahlen aber die Geschäfte hier im Quartier, zum Beispiel die Bäckerei, die Apotheke und das Velogeschäft. So bleibt der Eintritt frei." },
+    { "s": "mod", "t": "Gibt es auch Kritik? Ein Fest bis Mitternacht ist ja nicht gerade leise." },
+    { "s": "moser", "t": "Doch, ein paar Nachbarn haben sich über den Lärm beschwert. Deshalb ist mit der Musik seit zwei Jahren schon um 23 Uhr Schluss, danach sitzen die Leute nur noch zusammen und reden." },
+    { "s": "mod", "t": "Und was passiert, wenn es regnet?" },
+    { "s": "moser", "t": "Dann feiern wir trotzdem, wir haben genug Zelte. Nur bei Gewitter müssen wir abbrechen, aber das ist zum Glück noch nie passiert." },
+    { "s": "mod", "t": "Kann man noch mithelfen?" },
+    { "s": "moser", "t": "Sehr gern! Wir sind 60 Helferinnen und Helfer, aber für das Aufräumen am Sonntagmorgen fehlen uns noch Leute. Wir fangen um 9 Uhr an, und es gibt ein Frühstück für alle." },
+    { "s": "haddad", "t": "Mit Falafel, wenn noch welche übrig sind." },
+    { "s": "mod", "t": "Und wie meldet man sich an?" },
+    { "s": "moser", "t": "Im Quartierladen am Talweg liegt eine Liste, da kann man sich einfach eintragen. Wir haben es auch mal mit E-Mails versucht, aber auf Papier funktioniert es bei uns besser." },
+    { "s": "mod", "t": "Frau Moser, Herr Haddad, vielen Dank! Wir sehen uns am letzten Samstag im August." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Zum ersten Fest, einem Frühstück auf der Straße, kamen etwa 30 Leute.",
+      "answer": true,
+      "explanation": "Frau Moser invited all her neighbours to breakfast at a long table in the street, and „Es kamen ungefähr 30 Leute“.",
+      "explanationDe": "Frau Moser hat alle Nachbarn an einen langen Tisch auf der Straße zum Frühstück eingeladen. „Es kamen ungefähr 30 Leute“.",
+      "evidence": "Es kamen ungefähr 30 Leute, und alle haben etwas mitgebracht."
+    },
+    {
+      "n": 2,
+      "text": "Auf dem Flohmarkt verkaufen Kinder und Erwachsene ihre alten Sachen.",
+      "answer": false,
+      "explanation": "„bei dem nur Kinder verkaufen dürfen“ – adults are only allowed to buy at the flea market.",
+      "explanationDe": "„bei dem nur Kinder verkaufen dürfen“ – Erwachsene dürfen auf dem Flohmarkt nur kaufen.",
+      "evidence": "Am Vormittag gibt es einen Flohmarkt, bei dem nur Kinder verkaufen dürfen."
+    },
+    {
+      "n": 3,
+      "text": "Beim ersten Fest war Herr Haddad nur als Besucher dabei.",
+      "answer": true,
+      "explanation": "„Beim ersten Fest war ich nur Besucher“ – he has had his own stall only since the following year, after his neighbour encouraged him.",
+      "explanationDe": "„Beim ersten Fest war ich nur Besucher“ – einen eigenen Stand hat er erst seit dem folgenden Jahr. Seine Nachbarin hatte ihn dazu ermutigt.",
+      "evidence": "Beim ersten Fest war ich nur Besucher"
+    },
+    {
+      "n": 4,
+      "text": "Ein Teil der Einnahmen aller Stände ist für einen neuen Spielplatz.",
+      "answer": true,
+      "explanation": "„Alle Stände geben … zehn Prozent von ihren Einnahmen für einen neuen Spielplatz“ – ten percent of the takings go to the playground.",
+      "explanationDe": "„Alle Stände geben … zehn Prozent von ihren Einnahmen für einen neuen Spielplatz“ – zehn Prozent der Einnahmen sind für den Spielplatz.",
+      "evidence": "Alle Stände geben übrigens zehn Prozent von ihren Einnahmen für einen neuen Spielplatz im Quartier."
+    },
+    {
+      "n": 5,
+      "text": "Herr Haddad hilft inzwischen auch bei der Organisation des Festes.",
+      "answer": true,
+      "explanation": "Frau Moser says: „Herr Haddad ist seit drei Jahren auch in unserem Organisationsteam“.",
+      "explanationDe": "Frau Moser sagt: „Herr Haddad ist seit drei Jahren auch in unserem Organisationsteam“.",
+      "evidence": "Und Herr Haddad ist seit drei Jahren auch in unserem Organisationsteam."
+    },
+    {
+      "n": 6,
+      "text": "Den größten Teil der Kosten bezahlt die Stadt Bern.",
+      "answer": false,
+      "explanation": "The city only gives 3,000 of about 15,000 francs: „Den größten Teil bezahlen aber die Geschäfte hier im Quartier“.",
+      "explanationDe": "Die Stadt gibt nur 3.000 von ungefähr 15.000 Franken dazu: „Den größten Teil bezahlen aber die Geschäfte hier im Quartier“.",
+      "evidence": "Den größten Teil bezahlen aber die Geschäfte hier im Quartier"
+    },
+    {
+      "n": 7,
+      "text": "Wegen Beschwerden von Nachbarn hört die Musik schon um 23 Uhr auf.",
+      "answer": true,
+      "explanation": "Some neighbours complained about the noise. „Deshalb ist mit der Musik … schon um 23 Uhr Schluss“.",
+      "explanationDe": "Ein paar Nachbarn haben sich über den Lärm beschwert. „Deshalb ist mit der Musik … schon um 23 Uhr Schluss“.",
+      "evidence": "Deshalb ist mit der Musik seit zwei Jahren schon um 23 Uhr Schluss"
+    },
+    {
+      "n": 8,
+      "text": "Wenn es regnet, wird das Fest auf einen anderen Tag verschoben.",
+      "answer": false,
+      "explanation": "„Dann feiern wir trotzdem, wir haben genug Zelte“ – only a thunderstorm would stop the festival.",
+      "explanationDe": "„Dann feiern wir trotzdem, wir haben genug Zelte“ – nur bei einem Gewitter müssten sie das Fest abbrechen.",
+      "evidence": "Dann feiern wir trotzdem, wir haben genug Zelte."
+    },
+    {
+      "n": 9,
+      "text": "Für das Aufräumen am Sonntagmorgen werden noch Helfer gesucht.",
+      "answer": true,
+      "explanation": "„für das Aufräumen am Sonntagmorgen fehlen uns noch Leute“ – they start at 9 o'clock with breakfast for everyone.",
+      "explanationDe": "„für das Aufräumen am Sonntagmorgen fehlen uns noch Leute“ – sie fangen um 9 Uhr an, und es gibt ein Frühstück für alle.",
+      "evidence": "aber für das Aufräumen am Sonntagmorgen fehlen uns noch Leute"
+    },
+    {
+      "n": 10,
+      "text": "Wer mithelfen möchte, soll sich per E-Mail bei Frau Moser melden.",
+      "answer": false,
+      "explanation": "There is a list in the neighbourhood shop: „da kann man sich einfach eintragen“. They tried e-mails, but paper works better.",
+      "explanationDe": "Im Quartierladen liegt eine Liste: „da kann man sich einfach eintragen“. E-Mails haben sie schon ausprobiert, aber auf Papier funktioniert es besser.",
+      "evidence": "Im Quartierladen am Talweg liegt eine Liste, da kann man sich einfach eintragen."
+    }
+  ],
+  "glossary": [
+    { "de": "das Quartier (Schweiz)", "en": "neighbourhood, district" },
+    { "de": "gesperrt", "en": "closed (to traffic)" },
+    { "de": "der Flohmarkt", "en": "flea market" },
+    { "de": "die Bühne", "en": "stage" },
+    { "de": "der Stand", "en": "stall" },
+    { "de": "ausverkauft", "en": "sold out" },
+    { "de": "die Einnahmen", "en": "takings, income" },
+    { "de": "die Versicherung", "en": "insurance" },
+    { "de": "das Velo (Schweiz)", "en": "bicycle" },
+    { "de": "sich beschweren über", "en": "to complain about" },
+    { "de": "das Gewitter", "en": "thunderstorm" },
+    { "de": "sich eintragen", "en": "to put your name down" }
+  ]
+}

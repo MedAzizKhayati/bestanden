@@ -1,0 +1,167 @@
+{
+  "id": "schreiben-informell",
+  "order": 1,
+  "context": "schreiben",
+  "title": "Persönliche E-Mails",
+  "titleEn": "Informal e-mails",
+  "description": "Ready-made phrases for e-mails to friends, family and neighbours you say „du“ to – from the subject line to the sign-off. Combine them with your own sentences to cover all four Leitpunkte in a warm, natural tone.",
+  "descriptionDe": "Fertige Redemittel für E-Mails an Freunde, Familie und Nachbarn, zu denen du „du“ sagst – vom Betreff bis zur Grußformel. Kombiniere sie mit eigenen Sätzen, um alle vier Leitpunkte in einem herzlichen, natürlichen Ton zu bearbeiten.",
+  "groups": [
+    {
+      "title": "Betreff und Anrede",
+      "titleEn": "Subject line and greeting",
+      "register": "informal",
+      "phrases": [
+        { "de": "Betreff: Deine Einladung zur Geburtstagsfeier", "en": "Subject: Your invitation to the birthday party", "note": "Name the topic in a few words – no full sentence needed.", "noteDe": "Nenne das Thema in wenigen Wörtern – ein ganzer Satz ist nicht nötig." },
+        { "de": "Betreff: Leider keine Zeit am Samstag", "en": "Subject: Unfortunately no time on Saturday" },
+        { "de": "Betreff: Herzlichen Glückwunsch!", "en": "Subject: Congratulations!" },
+        { "de": "Liebe Anna,", "en": "Dear Anna,", "note": "„Liebe“ for a woman, „Lieber“ for a man. After the comma, the e-mail continues with a small letter: „vielen Dank …“.", "noteDe": "„Liebe“ für eine Frau, „Lieber“ für einen Mann. Nach dem Komma geht die E-Mail kleingeschrieben weiter: „vielen Dank …“." },
+        { "de": "Lieber Tobias,", "en": "Dear Tobias," },
+        { "de": "Liebe Sophie, lieber Jan,", "en": "Dear Sophie, dear Jan,", "note": "Two people: one adjective for each, with the right ending.", "noteDe": "Zwei Personen: für jede ein eigenes Adjektiv mit der richtigen Endung." },
+        { "de": "Hallo Mira,", "en": "Hi Mira,", "note": "Common and friendly – fine for anyone you say „du“ to.", "noteDe": "Üblich und freundlich – passt für alle, zu denen du „du“ sagst." },
+        { "de": "Hallo zusammen,", "en": "Hi everyone,", "note": "For a group, e.g. your friends, your course or your team.", "noteDe": "Für eine Gruppe, z. B. deine Freunde, deinen Kurs oder dein Team." }
+      ]
+    },
+    {
+      "title": "Einleitung",
+      "titleEn": "Opening lines",
+      "register": "informal",
+      "phrases": [
+        { "de": "Vielen Dank für deine E-Mail – ich habe mich sehr darüber gefreut.", "en": "Thanks a lot for your e-mail – I was really pleased to get it." },
+        { "de": "Schön, dass du dich mal wieder meldest!", "en": "Great to hear from you again!", "note": "sich melden = to get in touch", "noteDe": "sich melden = Kontakt aufnehmen, von sich hören lassen" },
+        { "de": "Entschuldige bitte, dass ich mich erst jetzt melde.", "en": "Sorry for only getting back to you now.", "note": "+ dass-clause, verb at the end", "noteDe": "+ dass-Satz, Verb am Ende" },
+        { "de": "Tut mir leid, dass ich so lange nicht geantwortet habe.", "en": "Sorry I haven't replied for so long." },
+        { "de": "Wie geht es dir? Mir geht es gut, aber ich habe gerade viel zu tun.", "en": "How are you? I'm fine, but I've got a lot to do at the moment." },
+        { "de": "Ich hoffe, es geht dir und deiner Familie gut.", "en": "I hope you and your family are well." },
+        { "de": "In deiner E-Mail hast du gefragt, ob ich im August Zeit habe.", "en": "In your e-mail you asked whether I'm free in August.", "note": "A smooth way to lead into one of the Leitpunkte. ob + verb at the end.", "noteDe": "Ein eleganter Übergang zu einem der Leitpunkte. ob + Verb am Ende." },
+        { "de": "Endlich komme ich dazu, dir zu antworten.", "en": "At last I've found the time to answer you.", "note": "Starts without „Ich“ – good for variety.", "noteDe": "Beginnt ohne „Ich“ – gut für die Abwechslung." }
+      ]
+    },
+    {
+      "title": "Sich freuen, gratulieren, Mitgefühl zeigen",
+      "titleEn": "Reacting: joy, congratulations, sympathy",
+      "register": "informal",
+      "phrases": [
+        { "de": "Herzlichen Glückwunsch zur bestandenen Prüfung!", "en": "Congratulations on passing your exam!", "note": "zu + dative: zum Geburtstag, zur Hochzeit, zum neuen Job", "noteDe": "zu + Dativ: zum Geburtstag, zur Hochzeit, zum neuen Job" },
+        { "de": "Ich freue mich riesig für dich!", "en": "I'm so happy for you!", "note": "„riesig“ = hugely (informal)", "noteDe": "„riesig“ = sehr (umgangssprachlich)" },
+        { "de": "Das ist ja eine tolle Nachricht!", "en": "That's great news!" },
+        { "de": "Es freut mich sehr, dass du eine neue Wohnung gefunden hast.", "en": "I'm really glad that you've found a new flat.", "note": "„Es freut mich, dass …“ avoids yet another sentence starting with „Ich“.", "noteDe": "Mit „Es freut mich, dass …“ vermeidest du einen weiteren Satz, der mit „Ich“ beginnt." },
+        { "de": "Das klingt ja wirklich spannend!", "en": "That sounds really exciting!" },
+        { "de": "Es tut mir sehr leid, dass es dir nicht gut geht.", "en": "I'm very sorry that you're not well." },
+        { "de": "Gute Besserung! Ich hoffe, du bist bald wieder fit.", "en": "Get well soon! I hope you'll be back on your feet soon." },
+        { "de": "Schade, dass es mit der Reise nicht geklappt hat.", "en": "What a pity the trip didn't work out.", "note": "klappen = to work out (informal)", "noteDe": "klappen = funktionieren, gelingen (umgangssprachlich)" },
+        { "de": "Ich kann mir gut vorstellen, wie du dich jetzt fühlst.", "en": "I can well imagine how you feel now.", "note": "sich etwas vorstellen = to imagine something", "noteDe": "sich etwas vorstellen = ein Bild davon im Kopf haben" }
+      ]
+    },
+    {
+      "title": "Zusagen und absagen",
+      "titleEn": "Accepting and declining",
+      "register": "informal",
+      "phrases": [
+        { "de": "Ich komme sehr gern zu deiner Party!", "en": "I'd love to come to your party!" },
+        { "de": "Natürlich bin ich dabei!", "en": "Of course I'm in!", "note": "dabei sein = to be there, to join in", "noteDe": "dabei sein = da sein, mitmachen" },
+        { "de": "Soll ich etwas mitbringen, zum Beispiel einen Salat oder Getränke?", "en": "Shall I bring something, for example a salad or drinks?" },
+        { "de": "Leider kann ich am Samstag nicht kommen, weil ich arbeiten muss.", "en": "Unfortunately I can't come on Saturday because I have to work.", "note": "weil + verb at the end. Always give a reason when you decline.", "noteDe": "weil + Verb am Ende. Nenne immer einen Grund, wenn du absagst." },
+        { "de": "Ich würde wirklich gern kommen, aber an dem Wochenende bin ich nicht da.", "en": "I'd really like to come, but I'm away that weekend." },
+        { "de": "Es tut mir echt leid, aber ich habe an dem Tag schon etwas vor.", "en": "I'm really sorry, but I've already got plans that day.", "note": "etwas vorhaben = to have plans; „echt“ is informal", "noteDe": "etwas vorhaben = etwas geplant haben; „echt“ ist umgangssprachlich" },
+        { "de": "Leider klappt es bei mir am Freitag nicht. Wie wäre es mit Sonntag?", "en": "Friday doesn't work for me, unfortunately. How about Sunday?", "note": "Decline and suggest an alternative in one go.", "noteDe": "Sag ab und schlag gleich eine Alternative vor." },
+        { "de": "Ich kann leider erst gegen acht Uhr kommen.", "en": "Unfortunately I can't come until about eight.", "note": "erst = not until (later than expected)", "noteDe": "erst = nicht früher als (später als erwartet)" }
+      ]
+    },
+    {
+      "title": "Sich entschuldigen und Gründe nennen",
+      "titleEn": "Apologising and giving reasons",
+      "register": "informal",
+      "phrases": [
+        { "de": "Es tut mir wirklich leid, dass ich deinen Geburtstag vergessen habe.", "en": "I'm really sorry that I forgot your birthday." },
+        { "de": "Entschuldige bitte, dass ich nicht zu deiner Feier kommen konnte.", "en": "Please forgive me for not being able to come to your party.", "note": "To someone you say „Sie“ to: „Entschuldigen Sie bitte, …“", "noteDe": "Wenn du „Sie“ sagst: „Entschuldigen Sie bitte, …“" },
+        { "de": "Ich hatte nämlich eine wichtige Prüfung.", "en": "You see, I had an important exam.", "note": "„nämlich“ adds a reason; it never comes first in the sentence.", "noteDe": "„nämlich“ nennt einen Grund; es steht nie am Satzanfang." },
+        { "de": "Der Grund ist, dass meine Eltern zu Besuch kommen.", "en": "The reason is that my parents are coming to visit.", "note": "+ dass-clause – another way to avoid starting with „Ich“", "noteDe": "+ dass-Satz – noch eine Möglichkeit, nicht mit „Ich“ anzufangen" },
+        { "de": "Leider ist mir etwas dazwischengekommen.", "en": "Unfortunately something came up.", "note": "In the exam, add the concrete reason as well.", "noteDe": "Nenne in der Prüfung auch den konkreten Grund." },
+        { "de": "Das war wirklich nicht meine Absicht.", "en": "That really wasn't my intention." },
+        { "de": "Ich hoffe, du bist mir nicht böse.", "en": "I hope you're not angry with me.", "note": "jemandem böse sein = to be angry with someone", "noteDe": "jemandem böse sein = auf jemanden wütend sein" },
+        { "de": "Darf ich dich als Entschuldigung zum Essen einladen?", "en": "May I take you out for a meal to make up for it?" }
+      ]
+    },
+    {
+      "title": "Vorschläge machen und sich verabreden",
+      "titleEn": "Making suggestions and arranging to meet",
+      "register": "informal",
+      "phrases": [
+        { "de": "Wie wäre es, wenn wir uns nächste Woche treffen?", "en": "How about meeting next week?", "note": "wenn + verb at the end", "noteDe": "wenn + Verb am Ende" },
+        { "de": "Wie wäre es mit einem Kaffee am Sonntagnachmittag?", "en": "How about a coffee on Sunday afternoon?", "note": "Wie wäre es mit + dative", "noteDe": "Wie wäre es mit + Dativ" },
+        { "de": "Hast du Lust, am Wochenende mit mir ins Kino zu gehen?", "en": "Do you fancy going to the cinema with me at the weekend?", "note": "Lust haben + zu + infinitive", "noteDe": "Lust haben + zu + Infinitiv" },
+        { "de": "Wir könnten zusammen einen Ausflug an den See machen.", "en": "We could go on a trip to the lake together." },
+        { "de": "Ich schlage vor, dass wir uns um 18 Uhr am Bahnhof treffen.", "en": "I suggest we meet at the station at 6 pm.", "note": "+ dass-clause, verb at the end", "noteDe": "+ dass-Satz, Verb am Ende" },
+        { "de": "Was hältst du davon, wenn ich dich am Samstag besuche?", "en": "What do you think about me visiting you on Saturday?" },
+        { "de": "Lass uns doch mal wieder zusammen kochen!", "en": "Let's cook together again sometime!", "note": "„Lass uns …“ = let's … (informal)", "noteDe": "„Lass uns …“ = Vorschlag, etwas gemeinsam zu tun (informell)" },
+        { "de": "Passt es dir am Freitagabend?", "en": "Does Friday evening suit you?", "note": "passen + dative: dir / Ihnen", "noteDe": "passen + Dativ: dir / Ihnen" },
+        { "de": "Sag mir einfach Bescheid, wann du Zeit hast.", "en": "Just let me know when you have time.", "note": "Bescheid sagen / geben = to let someone know", "noteDe": "Bescheid sagen / geben = jemanden informieren" }
+      ]
+    },
+    {
+      "title": "Um etwas bitten und nachfragen",
+      "titleEn": "Asking for favours and information",
+      "register": "informal",
+      "phrases": [
+        { "de": "Könntest du mir bitte einen Gefallen tun?", "en": "Could you do me a favour, please?" },
+        { "de": "Kannst du mir vielleicht beim Umzug helfen?", "en": "Could you maybe help me with the move?", "note": "helfen + dative; bei + dative", "noteDe": "helfen + Dativ; bei + Dativ" },
+        { "de": "Es wäre super, wenn du mir die Adresse schicken könntest.", "en": "It would be great if you could send me the address.", "note": "Konjunktiv II (wäre, könntest) sounds friendlier.", "noteDe": "Konjunktiv II (wäre, könntest) klingt freundlicher." },
+        { "de": "Hättest du am Samstag vielleicht Zeit, auf meine Katze aufzupassen?", "en": "Would you have time on Saturday to look after my cat?", "note": "aufpassen auf + accusative; „zu“ goes between prefix and verb", "noteDe": "aufpassen auf + Akkusativ; „zu“ steht zwischen Präfix und Verb" },
+        { "de": "Ich wollte dich fragen, ob du mir dein Fahrrad leihen könntest.", "en": "I wanted to ask you if you could lend me your bike.", "note": "ob + verb at the end", "noteDe": "ob + Verb am Ende" },
+        { "de": "Weißt du schon, wann du ankommst?", "en": "Do you already know when you'll arrive?", "note": "Indirect question: verb at the end", "noteDe": "Indirekte Frage: Verb am Ende" },
+        { "de": "Schreib mir doch bitte, was ich mitbringen soll.", "en": "Please let me know what I should bring." },
+        { "de": "Wie war denn eigentlich dein Urlaub in Portugal?", "en": "So how was your holiday in Portugal, by the way?", "note": "„denn“ and „eigentlich“ make questions sound natural and friendly.", "noteDe": "Mit „denn“ und „eigentlich“ klingen Fragen natürlich und freundlich." }
+      ]
+    },
+    {
+      "title": "Ratschläge geben",
+      "titleEn": "Giving advice",
+      "register": "informal",
+      "phrases": [
+        { "de": "An deiner Stelle würde ich zuerst mit deinem Chef sprechen.", "en": "If I were you, I'd talk to your boss first.", "note": "An deiner Stelle + würde … + infinitive at the end", "noteDe": "An deiner Stelle + würde … + Infinitiv am Ende" },
+        { "de": "Ich würde dir raten, dich früh genug zu bewerben.", "en": "I'd advise you to apply early enough.", "note": "raten + dative + zu-infinitive", "noteDe": "raten + Dativ + Infinitiv mit zu" },
+        { "de": "Du solltest unbedingt einen Sprachkurs machen.", "en": "You should definitely do a language course.", "note": "„solltest“ (Konjunktiv II of sollen) = friendly advice", "noteDe": "„solltest“ (Konjunktiv II von sollen) = freundlicher Rat" },
+        { "de": "Am besten fragst du mal bei deinen Nachbarn nach.", "en": "Your best bet is to ask your neighbours.", "note": "Starts without „Ich“ – verb in second position", "noteDe": "Beginnt ohne „Ich“ – Verb auf Position 2" },
+        { "de": "Hast du schon mal überlegt, mit dem Zug zu fahren?", "en": "Have you ever thought about taking the train?" },
+        { "de": "Es ist sicher eine gute Idee, dich vorher im Internet zu informieren.", "en": "It's certainly a good idea to look it up online first." },
+        { "de": "Wenn ich du wäre, würde ich die Wohnung nehmen.", "en": "If I were you, I'd take the flat.", "note": "Konjunktiv II: wäre … würde …", "noteDe": "Konjunktiv II: wäre … würde …" },
+        { "de": "Mein Tipp: Probier es einfach mal aus!", "en": "My tip: just give it a try!" },
+        { "de": "Mach dir keine Sorgen, das schaffst du schon!", "en": "Don't worry, you'll manage!" }
+      ]
+    },
+    {
+      "title": "Von sich erzählen und die Meinung sagen",
+      "titleEn": "Sharing news and opinions",
+      "register": "informal",
+      "phrases": [
+        { "de": "Bei mir gibt es auch Neuigkeiten: Ich habe eine neue Stelle gefunden.", "en": "I've got news too: I've found a new job." },
+        { "de": "Letzte Woche habe ich etwas Ähnliches erlebt.", "en": "Last week something similar happened to me.", "note": "Time expression first, then the verb, then the subject.", "noteDe": "Zuerst die Zeitangabe, dann das Verb, dann das Subjekt." },
+        { "de": "Seit einem Monat wohne ich in Leipzig und fühle mich hier sehr wohl.", "en": "I've been living in Leipzig for a month and I feel very much at home here.", "note": "seit + present tense", "noteDe": "seit + Präsens" },
+        { "de": "Zum Glück hat am Ende alles geklappt.", "en": "Luckily, everything worked out in the end." },
+        { "de": "Meiner Meinung nach ist das eine sehr gute Idee.", "en": "In my opinion that's a very good idea.", "note": "Verb directly after „Meiner Meinung nach“", "noteDe": "Verb direkt nach „Meiner Meinung nach“" },
+        { "de": "Ich finde es toll, dass du so viel Sport machst.", "en": "I think it's great that you do so much sport." },
+        { "de": "Ehrlich gesagt bin ich mir noch nicht sicher.", "en": "To be honest, I'm not sure yet.", "note": "Verb directly after „Ehrlich gesagt“", "noteDe": "Verb direkt nach „Ehrlich gesagt“" },
+        { "de": "Für mich wäre das nichts, weil ich lieber in der Stadt wohne.", "en": "That wouldn't be for me, because I prefer living in the city." },
+        { "de": "Am wichtigsten ist mir, dass ich genug Zeit für meine Familie habe.", "en": "What matters most to me is having enough time for my family." }
+      ]
+    },
+    {
+      "title": "Schluss und Grußformel",
+      "titleEn": "Closing and sign-off",
+      "register": "informal",
+      "phrases": [
+        { "de": "Ich freue mich schon auf dich!", "en": "I'm really looking forward to seeing you!", "note": "sich freuen auf + accusative = to look forward to something", "noteDe": "sich freuen auf + Akkusativ = auf etwas Zukünftiges gespannt sein" },
+        { "de": "Ich freue mich darauf, dich bald wiederzusehen.", "en": "I'm looking forward to seeing you again soon." },
+        { "de": "Schreib mir bald zurück!", "en": "Write back soon!" },
+        { "de": "Melde dich doch, wenn du Zeit hast.", "en": "Get in touch when you have time." },
+        { "de": "Grüß bitte deine Eltern von mir!", "en": "Please say hello to your parents for me!" },
+        { "de": "Bis bald!", "en": "See you soon!" },
+        { "de": "Liebe Grüße", "en": "Love / Best wishes", "note": "No comma after the closing formula; your first name goes on the next line.", "noteDe": "Nach der Grußformel kein Komma; dein Vorname steht in der nächsten Zeile." },
+        { "de": "Viele Grüße", "en": "Best wishes", "note": "Neutral – fine for friends and for colleagues you say „du“ to.", "noteDe": "Neutral – passt für Freunde und für Kollegen, zu denen du „du“ sagst." },
+        { "de": "Alles Liebe", "en": "All my love", "note": "Warm – for close friends and family.", "noteDe": "Herzlich – für gute Freunde und die Familie." },
+        { "de": "Dein Jonas / Deine Lisa", "en": "Yours, Jonas / Lisa", "note": "Optional before your name: „Dein“ if you are a man, „Deine“ if you are a woman.", "noteDe": "Optional vor deinem Namen: „Dein“, wenn du ein Mann bist, „Deine“, wenn du eine Frau bist." }
+      ]
+    }
+  ]
+}

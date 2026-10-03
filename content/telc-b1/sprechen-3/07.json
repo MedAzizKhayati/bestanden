@@ -1,0 +1,72 @@
+{
+  "id": "sprechen-3-07",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Grillfest im Hof",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "situation": "Sie wohnen im selben Mehrfamilienhaus. Im Sommer möchten Sie für alle Hausbewohner ein Grillfest im Hof organisieren, damit sich die Nachbarn besser kennenlernen. Planen Sie gemeinsam das Fest.",
+  "checklist": [
+    "Wann?",
+    "Erlaubnis von der Hausverwaltung?",
+    "Wie laden Sie die Nachbarn ein?",
+    "Essen und Getränke?",
+    "Grill, Tische und Stühle?",
+    "Rücksicht auf die Nachbarn?",
+    "Wer macht was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Jelena Marković", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Kwame Mensah", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Herr Mensah, schön, dass Sie Zeit haben. Ich finde es wirklich schade, dass sich viele Nachbarn in unserem Haus kaum kennen. Deshalb finde ich die Idee mit dem Grillfest super." },
+    { "s": "B", "t": "Ja, ich auch. Im Treppenhaus sagt man nur kurz Hallo, und das war's. Wann sollen wir das Fest machen?" },
+    { "s": "A", "t": "Ich schlage einen Samstag im Juli vor, vielleicht den zwölften. Da haben die Sommerferien noch nicht angefangen, und die meisten Familien sind noch zu Hause." },
+    { "s": "B", "t": "Gute Idee. Ich würde sagen, ab vier Uhr nachmittags, damit auch die Kinder etwas davon haben." },
+    { "s": "A", "t": "Einverstanden. Aber dürfen wir im Hof überhaupt grillen? Ich glaube, in der Hausordnung steht etwas darüber." },
+    { "s": "B", "t": "Da haben Sie recht, das müssen wir vorher klären. Ich rufe bei der Hausverwaltung an und frage nach einer Erlaubnis." },
+    { "s": "A", "t": "Sehr gut. Und wie laden wir die Nachbarn ein? Wir könnten einen Zettel im Treppenhaus aufhängen." },
+    { "s": "B", "t": "Ein Zettel ist gut, aber manche lesen ihn vielleicht nicht. Ich finde, wir sollten zusätzlich bei jeder Wohnung klingeln und die Leute persönlich einladen. Das ist freundlicher." },
+    { "s": "A", "t": "Das stimmt, aber das sind zwanzig Wohnungen. Das dauert sehr lange!" },
+    { "s": "B", "t": "Wir können uns die Arbeit teilen. Sie gehen in den ersten und zweiten Stock, und ich übernehme den dritten und vierten." },
+    { "s": "A", "t": "Gut, so machen wir es. Und was ist mit dem Essen? Ich finde, jeder sollte etwas mitbringen, dann wird es für niemanden zu teuer." },
+    { "s": "B", "t": "Ja, das finde ich auch. Aber die Würstchen und den Grillkäse sollten wir vielleicht zusammen kaufen. Sonst bringt jeder sein eigenes Fleisch mit, und am Ende gibt es Chaos am Grill." },
+    { "s": "A", "t": "Das ist ein guter Punkt. Wir könnten fünf Euro pro Erwachsenen einsammeln, und Kinder essen kostenlos. Wir sollten auch an die Nachbarn denken, die kein Schweinefleisch essen, und an die Vegetarier." },
+    { "s": "B", "t": "Genau. Die Salate und Kuchen bringen dann die Nachbarn mit. Und die Getränke?" },
+    { "s": "A", "t": "Ich kann mit meinem Auto Wasser, Saft und ein bisschen Bier kaufen. Aber wir brauchen auch einen Grill. Haben Sie einen?" },
+    { "s": "B", "t": "Ich habe nur einen kleinen. Aber Herr Schneider aus dem Erdgeschoss hat einen großen Grill, und ich frage ihn, ob er ihn uns leiht. Vielleicht grillt er sogar selbst, das macht er nämlich sehr gern." },
+    { "s": "A", "t": "Perfekt! Und Tische und Stühle? Im Keller stehen ein paar alte Gartenstühle, und vielleicht bringt jeder noch seinen eigenen Stuhl mit." },
+    { "s": "B", "t": "Gute Idee. Ich habe auch noch einen Klapptisch. Woran müssen wir noch denken?" },
+    { "s": "A", "t": "An die Ruhe. Im zweiten Stock wohnt Frau Klein, sie ist schon über achtzig. Wir sollten um zehn Uhr abends Schluss machen und die Musik nicht zu laut stellen." },
+    { "s": "B", "t": "Natürlich. Wir laden Frau Klein am besten persönlich ein, dann fühlt sie sich nicht gestört, sondern feiert vielleicht sogar mit." },
+    { "s": "A", "t": "Sehr schön. Also, zusammengefasst: Das Grillfest ist am zwölften Juli ab vier Uhr im Hof, und um zehn Uhr ist Schluss." },
+    { "s": "B", "t": "Ich rufe die Hausverwaltung an, frage Herrn Schneider wegen des Grills und lade die Nachbarn im dritten und vierten Stock ein." },
+    { "s": "A", "t": "Und ich schreibe den Zettel, lade die Nachbarn im ersten und zweiten Stock ein, sammle das Geld ein und kaufe die Würstchen und die Getränke." },
+    { "s": "B", "t": "Wunderbar. Vielleicht wird das Grillfest ja eine neue Tradition in unserem Haus." }
+  ],
+  "phrases": [
+    { "de": "Ich finde es schade, dass …", "en": "I think it's a pity that …" },
+    { "de": "Ich schlage einen Samstag im Juli vor.", "en": "I suggest a Saturday in July." },
+    { "de": "Das müssen wir vorher klären.", "en": "We need to clarify that first." },
+    { "de": "Ich finde, wir sollten zusätzlich …", "en": "I think we should also …" },
+    { "de": "Wir können uns die Arbeit teilen.", "en": "We can share the work." },
+    { "de": "Sie gehen …, und ich übernehme …", "en": "You go …, and I'll take on …" },
+    { "de": "Das ist ein guter Punkt.", "en": "That's a good point." },
+    { "de": "Woran müssen wir noch denken?", "en": "What else do we need to think of?" },
+    { "de": "Also, zusammengefasst: …", "en": "So, in summary: …" }
+  ],
+  "vocabulary": [
+    { "de": "das Grillfest", "en": "barbecue party" },
+    { "de": "der Hof", "en": "courtyard" },
+    { "de": "die Hausordnung", "en": "house rules" },
+    { "de": "die Hausverwaltung", "en": "property management" },
+    { "de": "die Erlaubnis", "en": "permission" },
+    { "de": "der Zettel", "en": "note, piece of paper" },
+    { "de": "klingeln", "en": "to ring the doorbell" },
+    { "de": "das Würstchen", "en": "sausage" },
+    { "de": "der Klapptisch", "en": "folding table" },
+    { "de": "jemandem etwas leihen", "en": "to lend someone something" },
+    { "de": "Schluss machen", "en": "to stop, to finish" }
+  ]
+}

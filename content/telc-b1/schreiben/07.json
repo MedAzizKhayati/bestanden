@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-07",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Einen Deutschkurs empfehlen",
+  "topic": "bildung",
+  "difficulty": 2,
+  "register": "informal",
+  "situation": "Sie haben von Ihrem Freund Diego folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Diego",
+    "subject": "Deutschkurs in Freiburg?",
+    "body": "Hallo,\n\nwie geht's dir? Ich habe eine tolle Nachricht: Ab September arbeite ich in einem Hotel in Freiburg! Leider ist mein Deutsch noch nicht so gut, deshalb möchte ich dort so schnell wie möglich einen Sprachkurs machen. Du hast doch in Freiburg auch einen Deutschkurs besucht. Wie hat er dir gefallen? Kannst du mir eine Sprachschule empfehlen? Wichtig ist, dass der Kurs abends stattfindet, weil ich tagsüber arbeite. Und hast du vielleicht ein paar Tipps, wie ich auch außerhalb des Kurses schneller Deutsch lernen kann?\n\nBis bald!\nDiego"
+  },
+  "leitpunkte": [
+    "Was Sie Diego zum Lernen außerhalb des Kurses raten",
+    "Wie Ihnen Ihr eigener Kurs gefallen hat",
+    "Was Sie ihm für die Zeit nach seiner Ankunft anbieten",
+    "Welche Sprachschule Sie empfehlen und warum"
+  ],
+  "model": {
+    "subject": "Deutschkurs in Freiburg – meine Tipps für dich",
+    "text": "Lieber Diego,\n\nwas für eine tolle Nachricht! Ich freue mich sehr, dass du bald in Freiburg arbeitest.\n\nMein Deutschkurs hat mir richtig gut gefallen. Die Gruppe war klein, und unsere Lehrerin hat viel mit uns gesprochen, statt nur Grammatik zu erklären. Dadurch habe ich schnell meine Angst vor dem Sprechen verloren.\n\nDeshalb kann ich dir meine Sprachschule „Lingua Viva“ in der Nähe vom Bahnhof empfehlen. Dort gibt es auch Abendkurse, und zwar montags bis donnerstags von 18:30 bis 20:45 Uhr. Die Kurse sind nicht billig, aber die Qualität ist wirklich gut.\n\nAußerdem rate ich dir, so oft wie möglich Deutsch zu sprechen, zum Beispiel mit deinen Kollegen im Hotel. Hilfreich sind auch deutsche Serien mit Untertiteln und ein Sprachtandem. Wenn du willst, stelle ich dir meine Tandempartnerin Ulrike vor.\n\nSobald du in Freiburg bist, zeige ich dir gern die Stadt. Dann können wir auch zusammen zur Sprachschule gehen und dich anmelden.\n\nIch freue mich auf dich!\n\nViele Grüße\nDeine Sofia"
+  },
+  "modelNotes": [
+    "The writer first reports her own experience and then uses it as the reason for the recommendation („Deshalb kann ich dir … empfehlen“) – the points are connected, not just listed.",
+    "The recommendation is concrete and meets Diego's condition: evening classes with days and times.",
+    "Advice is given with varied structures: „Ich rate dir, … zu …“, „Hilfreich sind auch …“, „Wenn du willst, …“.",
+    "Connectors and references: „statt … zu“, „dadurch“, „deshalb“, „und zwar“, „aber“, „außerdem“, „sobald“, „dann“."
+  ],
+  "modelNotesDe": [
+    "Die Schreiberin berichtet zuerst von ihrer eigenen Erfahrung und nutzt sie dann als Grund für die Empfehlung („Deshalb kann ich dir … empfehlen“) – die Leitpunkte sind miteinander verbunden, nicht nur aufgezählt.",
+    "Die Empfehlung ist konkret und erfüllt Diegos Bedingung: Abendkurse mit Tagen und Uhrzeiten.",
+    "Für ihre Ratschläge nutzt die Schreiberin verschiedene Strukturen: „Ich rate dir, … zu …“, „Hilfreich sind auch …“, „Wenn du willst, …“.",
+    "Konnektoren und Verweise: „statt … zu“, „dadurch“, „deshalb“, „und zwar“, „aber“, „außerdem“, „sobald“, „dann“."
+  ],
+  "phrases": [
+    { "de": "Mein Kurs hat mir richtig gut gefallen.", "en": "I really liked my course." },
+    { "de": "Deshalb kann ich dir … empfehlen.", "en": "That's why I can recommend … to you." },
+    { "de": "Dort gibt es auch Abendkurse, und zwar …", "en": "They also have evening classes, namely …" },
+    { "de": "Ich rate dir, so oft wie möglich … zu …", "en": "I advise you to … as often as possible." },
+    { "de": "Hilfreich sind auch …", "en": "… are also helpful." },
+    { "de": "Wenn du willst, stelle ich dir … vor.", "en": "If you like, I'll introduce you to …" },
+    { "de": "Sobald du in … bist, …", "en": "As soon as you're in …, …" }
+  ],
+  "glossary": [
+    { "de": "die Sprachschule", "en": "language school" },
+    { "de": "der Abendkurs", "en": "evening class" },
+    { "de": "außerhalb (+ Genitiv)", "en": "outside of" },
+    { "de": "der Untertitel", "en": "subtitle" },
+    { "de": "das Sprachtandem", "en": "language exchange with a partner" },
+    { "de": "sich anmelden", "en": "to register, to sign up" }
+  ]
+}

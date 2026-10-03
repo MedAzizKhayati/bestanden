@@ -1,0 +1,124 @@
+{
+  "id": "gespraechsstrategien",
+  "order": 6,
+  "context": "allgemein",
+  "title": "Gesprächsstrategien",
+  "titleEn": "Conversation strategies",
+  "description": "Phrases that keep you talking when German gets difficult: gain time to think, ask for repetition, explain a word you don't know, correct yourself and keep the conversation moving. telc rewards these strategies under task management (Aufgabenbewältigung) in all three parts of the oral exam.",
+  "descriptionDe": "Redemittel, mit denen du weitersprichst, wenn es auf Deutsch schwierig wird: Zeit zum Nachdenken gewinnen, um Wiederholung bitten, ein Wort erklären, das du nicht kennst, dich selbst korrigieren und das Gespräch in Gang halten. telc belohnt diese Strategien im Kriterium Aufgabenbewältigung – in allen drei Teilen der mündlichen Prüfung.",
+  "groups": [
+    {
+      "title": "Zeit gewinnen",
+      "titleEn": "Gaining time to think",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Das ist eine gute Frage.", "en": "That's a good question." },
+        { "de": "Moment, da muss ich kurz überlegen.", "en": "Just a moment, I need to think about that." },
+        { "de": "Wie soll ich sagen …", "en": "How shall I put it …" },
+        { "de": "Also, ich würde sagen, …", "en": "Well, I'd say …" },
+        { "de": "Das ist gar nicht so einfach zu beantworten.", "en": "That's not so easy to answer." },
+        { "de": "Lassen Sie mich kurz nachdenken.", "en": "Let me think for a moment.", "note": "du-form: „Lass mich kurz nachdenken.“", "noteDe": "du-Form: „Lass mich kurz nachdenken.“" },
+        { "de": "Darüber habe ich ehrlich gesagt noch nie nachgedacht.", "en": "To be honest, I've never thought about that.", "note": "nachdenken über + accusative", "noteDe": "nachdenken über + Akkusativ" },
+        { "de": "Na ja, das ist so eine Sache …", "en": "Well, that's a tricky one …", "note": "Informal", "noteDe": "Umgangssprachlich" }
+      ]
+    },
+    {
+      "title": "Um Wiederholung bitten",
+      "titleEn": "Asking for repetition",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Entschuldigung, das habe ich nicht verstanden.", "en": "Sorry, I didn't understand that." },
+        { "de": "Könnten Sie das bitte noch einmal sagen?", "en": "Could you say that again, please?", "note": "du-form: „Könntest du …?“", "noteDe": "du-Form: „Könntest du …?“" },
+        { "de": "Könnten Sie bitte etwas langsamer sprechen?", "en": "Could you speak a little more slowly, please?" },
+        { "de": "Wie bitte?", "en": "Pardon?", "note": "Short and polite – much better than „Was?“", "noteDe": "Kurz und höflich – viel besser als „Was?“" },
+        { "de": "Tut mir leid, ich habe die Frage nicht ganz verstanden.", "en": "I'm sorry, I didn't quite understand the question." },
+        { "de": "Was bedeutet das Wort „Nebenkosten“?", "en": "What does the word „Nebenkosten“ mean?" },
+        { "de": "Entschuldigung, können Sie die Aufgabe bitte noch einmal erklären?", "en": "Excuse me, could you explain the task again, please?", "note": "Useful with the examiner if you are unsure what to do.", "noteDe": "Nützlich im Gespräch mit den Prüfenden, wenn du nicht sicher bist, was du tun sollst." }
+      ]
+    },
+    {
+      "title": "Nachfragen, ob man richtig verstanden hat",
+      "titleEn": "Checking you've understood",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Habe ich dich richtig verstanden, dass du lieber am Sonntag fahren möchtest?", "en": "Have I understood you correctly that you'd rather go on Sunday?", "note": "Sie-form: „Habe ich Sie richtig verstanden, dass Sie …?“", "noteDe": "Sie-Form: „Habe ich Sie richtig verstanden, dass Sie …?“" },
+        { "de": "Meinst du damit, dass …?", "en": "Do you mean that …?" },
+        { "de": "Du meinst also, …", "en": "So you mean …" },
+        { "de": "Wie meinen Sie das genau?", "en": "What exactly do you mean by that?" },
+        { "de": "Ach so, jetzt verstehe ich.", "en": "Oh, I see now." },
+        { "de": "Sollen wir jetzt über den zweiten Punkt sprechen?", "en": "Should we talk about the second point now?" }
+      ]
+    },
+    {
+      "title": "Wörter umschreiben",
+      "titleEn": "Paraphrasing a word you don't know",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich weiß leider nicht, wie das auf Deutsch heißt.", "en": "Unfortunately I don't know what that's called in German." },
+        { "de": "Mir fällt das Wort gerade nicht ein.", "en": "The word escapes me at the moment.", "note": "einfallen + dative: mir fällt … ein", "noteDe": "einfallen + Dativ: mir fällt … ein" },
+        { "de": "Das ist ein Gerät, mit dem man …", "en": "It's a device that you use to …", "note": "Relative clause: verb at the end", "noteDe": "Relativsatz: Verb am Ende" },
+        { "de": "Das ist eine Person, die …", "en": "It's a person who …" },
+        { "de": "Das ist ein Ort, wo man …", "en": "It's a place where you …" },
+        { "de": "Es ist so ähnlich wie …", "en": "It's similar to …" },
+        { "de": "Das ist das Gegenteil von …", "en": "It's the opposite of …" },
+        { "de": "Wie sagt man noch mal, wenn …?", "en": "What's it called again when …?" }
+      ]
+    },
+    {
+      "title": "Sich korrigieren",
+      "titleEn": "Correcting yourself",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Entschuldigung, ich meine natürlich …", "en": "Sorry, of course I mean …" },
+        { "de": "Nein, Moment, ich wollte sagen: …", "en": "No, wait, what I wanted to say is: …" },
+        { "de": "Ich korrigiere mich: …", "en": "Let me correct myself: …" },
+        { "de": "Oder besser gesagt: …", "en": "Or rather: …" },
+        { "de": "Ich habe mich falsch ausgedrückt. Was ich sagen wollte, ist …", "en": "I put that badly. What I wanted to say is …" },
+        { "de": "Nicht am Montag, sondern am Dienstag.", "en": "Not on Monday, but on Tuesday.", "note": "nicht …, sondern … = not …, but (instead) …", "noteDe": "nicht …, sondern …: erst das Falsche, dann das Richtige" },
+        { "de": "Ich sage es noch einmal anders: …", "en": "Let me put it another way: …" }
+      ]
+    },
+    {
+      "title": "Das Gespräch in Gang halten",
+      "titleEn": "Keeping the conversation going",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Interessant! Und dann?", "en": "Interesting! And then?" },
+        { "de": "Das erinnert mich an …", "en": "That reminds me of …", "note": "erinnern an + accusative", "noteDe": "erinnern an + Akkusativ" },
+        { "de": "Übrigens habe ich gehört, dass …", "en": "By the way, I've heard that …" },
+        { "de": "Da fällt mir ein: …", "en": "That reminds me: …" },
+        { "de": "Um noch einmal auf … zurückzukommen: …", "en": "To come back to …: …" },
+        { "de": "Was ich noch sagen wollte: …", "en": "There's something else I wanted to say: …" },
+        { "de": "Wir haben noch nicht über … gesprochen.", "en": "We haven't talked about … yet.", "note": "Useful in Teil 3 to bring up a point from the sheet.", "noteDe": "Nützlich in Teil 3, um einen Punkt vom Aufgabenblatt anzusprechen." },
+        { "de": "Und was ist mit …?", "en": "And what about …?" }
+      ]
+    },
+    {
+      "title": "Das Wort ergreifen und höflich unterbrechen",
+      "titleEn": "Taking your turn and interrupting politely",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Darf ich kurz etwas dazu sagen?", "en": "May I say something about that?" },
+        { "de": "Entschuldigung, wenn ich dich kurz unterbreche, aber …", "en": "Sorry to interrupt you, but …", "note": "Sie-form: „… wenn ich Sie kurz unterbreche …“", "noteDe": "Sie-Form: „… wenn ich Sie kurz unterbreche …“" },
+        { "de": "Dazu möchte ich gern etwas ergänzen.", "en": "I'd like to add something to that." },
+        { "de": "Entschuldigung, sprich ruhig weiter.", "en": "Sorry, go ahead.", "note": "When you both start talking at once. Sie-form: „Sprechen Sie ruhig weiter.“", "noteDe": "Wenn ihr beide gleichzeitig zu sprechen anfangt. Sie-Form: „Sprechen Sie ruhig weiter.“" },
+        { "de": "Bitte, fang du an.", "en": "Please, you go first.", "note": "Sie-form: „Bitte, fangen Sie an.“", "noteDe": "Sie-Form: „Bitte, fangen Sie an.“" },
+        { "de": "Ich wollte gerade dasselbe sagen!", "en": "I was just about to say the same thing!" }
+      ]
+    },
+    {
+      "title": "Zeigen, dass man zuhört",
+      "titleEn": "Showing that you're listening",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ach so.", "en": "I see." },
+        { "de": "Genau.", "en": "Exactly." },
+        { "de": "Wirklich? Das wusste ich nicht.", "en": "Really? I didn't know that." },
+        { "de": "Echt? Das ist ja spannend!", "en": "Really? That's exciting!", "note": "„Echt?“ is informal.", "noteDe": "„Echt?“ ist umgangssprachlich." },
+        { "de": "Das kann ich gut verstehen.", "en": "I can understand that very well." },
+        { "de": "Oh, das tut mir leid.", "en": "Oh, I'm sorry to hear that." },
+        { "de": "Stimmt, daran habe ich nicht gedacht.", "en": "True, I didn't think of that." }
+      ]
+    }
+  ]
+}

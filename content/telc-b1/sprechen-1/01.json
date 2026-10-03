@@ -1,0 +1,127 @@
+{
+  "id": "sprechen-1-01",
+  "examId": "telc-b1",
+  "type": "speaking-intro",
+  "title": "Sich vorstellen: die Standardpunkte",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "points": [
+    "Name",
+    "Herkunft",
+    "Wohnort und Wohnung",
+    "Familie",
+    "Wo und wie lange Deutsch gelernt?",
+    "Beruf oder Ausbildung",
+    "Sprachen"
+  ],
+  "extraTopics": ["Hobbys und Freizeit", "Pläne für die Zukunft", "Reisen", "Lieblingsessen"],
+  "questions": [
+    {
+      "point": "Name",
+      "items": [
+        "Wie heißt du? / Wie ist Ihr Name?",
+        "Wie schreibt man deinen Nachnamen? / Können Sie Ihren Nachnamen bitte buchstabieren?",
+        "Hat dein Name eine besondere Bedeutung?"
+      ]
+    },
+    {
+      "point": "Herkunft",
+      "items": [
+        "Woher kommst du? / Woher kommen Sie?",
+        "Aus welcher Stadt kommst du genau?",
+        "Wie lange lebst du schon in Deutschland? / Seit wann leben Sie in Deutschland?"
+      ]
+    },
+    {
+      "point": "Wohnort und Wohnung",
+      "items": [
+        "Wo wohnst du jetzt? / Wo wohnen Sie?",
+        "Wohnst du in einer Wohnung oder in einem Haus?",
+        "Wie gefällt dir dein Stadtteil? / Wie gefällt es Ihnen dort?"
+      ]
+    },
+    {
+      "point": "Familie",
+      "items": [
+        "Bist du verheiratet? / Haben Sie Familie?",
+        "Hast du Kinder oder Geschwister?",
+        "Lebt deine Familie auch hier? / Wo lebt Ihre Familie?"
+      ]
+    },
+    {
+      "point": "Wo und wie lange Deutsch gelernt?",
+      "items": [
+        "Wo hast du Deutsch gelernt? / Wo haben Sie Deutsch gelernt?",
+        "Wie lange lernst du schon Deutsch?",
+        "Was findest du am Deutschen besonders schwierig?"
+      ]
+    },
+    {
+      "point": "Beruf oder Ausbildung",
+      "items": [
+        "Was bist du von Beruf? / Was machen Sie beruflich?",
+        "Arbeitest du schon hier in Deutschland?",
+        "Was möchtest du später beruflich machen?"
+      ]
+    },
+    {
+      "point": "Sprachen",
+      "items": [
+        "Welche Sprachen sprichst du? / Welche Sprachen sprechen Sie?",
+        "Welche Sprache sprecht ihr zu Hause?",
+        "Möchtest du noch eine Sprache lernen?"
+      ]
+    }
+  ],
+  "speakers": [
+    { "id": "A", "name": "Marisol Ortega", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Dariusz Kowalski", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Guten Tag. Im ersten Teil möchten wir Sie ein bisschen kennenlernen. Bitte unterhalten Sie sich über die Punkte auf Ihrem Blatt." },
+    { "s": "A", "t": "Gut, dann fange ich an. Ich heiße Marisol Ortega und komme aus Spanien, genauer gesagt aus Valencia. Sollen wir du sagen?" },
+    { "s": "B", "t": "Ja, gern. Ich bin Dariusz Kowalski und komme aus Polen, aus Breslau." },
+    { "s": "A", "t": "Ach, Breslau! Da war ich einmal im Urlaub, die Altstadt ist wunderschön. Wie lange lebst du schon in Deutschland?" },
+    { "s": "B", "t": "Seit fast vier Jahren. Ich wohne in Ludwigshafen, in einer kleinen Zweizimmerwohnung am Rhein. Und du?" },
+    { "s": "A", "t": "Ich wohne mit meiner Familie in Mannheim, also ganz in deiner Nähe. Unsere Wohnung ist im vierten Stock, leider ohne Aufzug." },
+    { "s": "B", "t": "Oh, das ist bestimmt anstrengend, besonders mit schweren Einkaufstaschen!" },
+    { "s": "A", "t": "Ja, aber ich sage immer: Das ist mein Fitnessstudio. Mein Mann und ich haben eine Tochter, sie ist sechs und geht seit Kurzem in die Schule. Hast du auch Familie hier?" },
+    { "s": "B", "t": "Nein, ich bin ledig. Meine Eltern leben in Polen, aber meine Schwester wohnt in Berlin. Wir besuchen uns ungefähr alle zwei Monate." },
+    { "s": "A", "t": "Das ist schön. Wo hast du Deutsch gelernt? Du sprichst schon sehr gut." },
+    { "s": "B", "t": "Danke! Ich hatte in der Schule ein bisschen Deutsch, aber ich habe fast alles vergessen. Jetzt mache ich seit einem Jahr einen Abendkurs an der Volkshochschule." },
+    { "s": "A", "t": "Nach der Arbeit? Respekt! Was machst du denn beruflich?" },
+    { "s": "B", "t": "Ich bin Elektriker und arbeite bei einer Firma, die Solaranlagen auf Dächern installiert. Dafür brauche ich gutes Deutsch, weil ich viel mit Kunden spreche. Und du?" },
+    { "s": "A", "t": "In Spanien war ich Grundschullehrerin. Hier muss mein Abschluss erst anerkannt werden, deshalb arbeite ich im Moment als Aushilfe in einem Kindergarten." },
+    { "s": "B", "t": "Interessant! Und gefällt dir die Arbeit?" },
+    { "s": "A", "t": "Sehr! Die Kinder korrigieren mein Deutsch sofort, sie sind meine besten Lehrer. Gelernt habe ich Deutsch zuerst an einer Sprachschule in Valencia und dann hier im Integrationskurs." },
+    { "s": "B", "t": "Welche Sprachen sprichst du außer Spanisch und Deutsch?" },
+    { "s": "A", "t": "Ich spreche auch Valencianisch, das ist die zweite Sprache in meiner Region, und ziemlich gut Englisch. Und du?" },
+    { "s": "B", "t": "Polnisch ist meine Muttersprache, und Englisch spreche ich ein bisschen. In der Schule habe ich auch Russisch gelernt, aber das habe ich leider fast vergessen." },
+    { "s": "P", "t": "Vielen Dank. Noch eine Frage an Sie beide: Was machen Sie gern in Ihrer Freizeit?" },
+    { "s": "B", "t": "Ich fahre gern Fahrrad, am Wochenende oft am Rhein entlang. Und ich spiele ein bisschen Gitarre." },
+    { "s": "A", "t": "Wirklich? Ich koche sehr gern, am liebsten Paella für Freunde. Vielleicht spielst du ja mal Gitarre und ich koche!" },
+    { "s": "B", "t": "Das ist eine super Idee! Abgemacht." }
+  ],
+  "phrases": [
+    { "de": "Gut, dann fange ich an.", "en": "Okay, then I'll start." },
+    { "de": "Sollen wir du sagen?", "en": "Shall we use the informal „du“?" },
+    { "de": "Ich komme aus …, genauer gesagt aus …", "en": "I come from …, to be more precise from …" },
+    { "de": "Wie lange lebst du schon in Deutschland?", "en": "How long have you been living in Germany?" },
+    { "de": "Ich mache seit einem Jahr einen Abendkurs an der Volkshochschule.", "en": "I have been doing an evening class at the adult education centre for a year." },
+    { "de": "Ich arbeite als … bei einer Firma, die …", "en": "I work as a … for a company that …" },
+    { "de": "Meine Muttersprache ist …", "en": "My mother tongue is …" },
+    { "de": "Und du? / Und Sie?", "en": "And you? (send the question back to your partner)" },
+    { "de": "Ach, interessant! / Respekt!", "en": "Oh, interesting! / Well done! (react to what your partner says)" }
+  ],
+  "glossary": [
+    { "de": "ledig", "en": "single, not married" },
+    { "de": "der Aufzug", "en": "lift, elevator" },
+    { "de": "der Abschluss", "en": "qualification, degree" },
+    { "de": "einen Abschluss anerkennen", "en": "to recognise a (foreign) qualification" },
+    { "de": "die Aushilfe", "en": "temporary helper, assistant" },
+    { "de": "der Integrationskurs", "en": "integration course (German and life in Germany)" },
+    { "de": "die Volkshochschule", "en": "adult education centre" },
+    { "de": "die Muttersprache", "en": "mother tongue" }
+  ]
+}

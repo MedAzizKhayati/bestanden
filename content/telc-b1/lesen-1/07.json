@@ -1,0 +1,83 @@
+{
+  "id": "lesen-1-07",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Rund ums Einkaufen",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Senioren bezahlen am liebsten mit dem Handy" },
+    { "key": "b", "text": "Einkaufen nach Feierabend: Neuer Markt am Abend" },
+    { "key": "c", "text": "Test: Gute Sonnencreme gibt es auch billig" },
+    { "key": "d", "text": "Mannheim: Kein Wochenmarkt mehr am Samstag" },
+    { "key": "e", "text": "Umfrage: Karte und Handy ersetzen immer öfter das Bargeld" },
+    { "key": "f", "text": "Test: Günstige Sonnencremes schützen kaum" },
+    { "key": "g", "text": "Tauschen statt kaufen: Kleiderparty in Hannover" },
+    { "key": "h", "text": "Neuer Dorfladen sucht Verkäuferinnen und Verkäufer" },
+    { "key": "i", "text": "Hannover: Gebrauchte Kleidung für einen Euro" },
+    { "key": "j", "text": "Einkaufen ohne Verkäufer – Tag und Nacht" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Bargeld wird beim Einkaufen immer unwichtiger. In einer Umfrage unter 3.000 Kundinnen und Kunden sagten 56 Prozent, dass sie meistens mit Karte oder Smartphone bezahlen. Vor zwei Jahren waren es erst 41 Prozent. Vor allem Jüngere zahlen inzwischen sogar kleine Beträge, zum Beispiel beim Bäcker, ohne Münzen und Scheine. Ganz anders sieht es bei Menschen über 65 aus: Mehr als zwei Drittel von ihnen bezahlen weiterhin am liebsten bar. So haben sie nach eigenen Worten einen besseren Überblick über ihre Ausgaben.",
+      "answer": "e",
+      "explanation": "56 percent of the customers now usually pay „mit Karte oder Smartphone“ – two years ago it was only 41 percent, so (e). Headline (a) is the opposite: most people over 65 still prefer to pay cash („am liebsten bar“).",
+      "explanationDe": "56 Prozent der Kundinnen und Kunden bezahlen heute meistens „mit Karte oder Smartphone“ – vor zwei Jahren waren es nur 41 Prozent, also passt (e). Überschrift (a) sagt das Gegenteil: Die meisten Menschen über 65 bezahlen weiterhin „am liebsten bar“.",
+      "evidence": ["dass sie meistens mit Karte oder Smartphone bezahlen", "Bargeld wird beim Einkaufen immer unwichtiger"]
+    },
+    {
+      "n": 2,
+      "text": "Im Dorf Lütjenhagen bei Schwerin gab es acht Jahre lang kein Lebensmittelgeschäft. Jetzt hat dort ein ganz besonderer Laden eröffnet: Der „Dorfladen 24“ ist rund um die Uhr geöffnet – und das ohne Verkäuferinnen und Verkäufer. Die Kundinnen und Kunden öffnen die Tür mit einer Karte oder einer App, scannen ihre Waren selbst und bezahlen am Automaten. Kameras sorgen für Sicherheit. Angeboten werden rund 800 Produkte, viele davon von Bauernhöfen aus der Umgebung. Einmal am Tag kommt eine Mitarbeiterin, um die Regale aufzufüllen.",
+      "answer": "j",
+      "explanation": "The village shop is open „rund um die Uhr“ and has no sales staff – customers scan and pay for their goods themselves, so (j). Headline (h) is a trap: the shop works without shop assistants; only one employee comes once a day to fill the shelves.",
+      "explanationDe": "Der Dorfladen ist „rund um die Uhr“ geöffnet und hat kein Verkaufspersonal – die Kunden scannen und bezahlen ihre Waren selbst, also passt (j). Überschrift (h) ist eine Falle: Der Laden funktioniert ohne Verkäufer; nur eine Mitarbeiterin kommt einmal am Tag und füllt die Regale auf.",
+      "evidence": ["ist rund um die Uhr geöffnet – und das ohne Verkäuferinnen und Verkäufer"]
+    },
+    {
+      "n": 3,
+      "text": "Eine gute Sonnencreme muss nicht teuer sein. Das ist das Ergebnis eines Tests der Verbraucherzeitschrift „Kaufklug“. Die Tester haben 20 Sonnencremes für Erwachsene und Kinder untersucht. Dabei bekamen mehrere günstige Produkte aus Drogerien und Supermärkten die Note „gut“. Sie kosten zum Teil weniger als 5 Euro pro Flasche. Zwei teure Markenprodukte für über 30 Euro schützten die Haut dagegen nicht so gut, wie es auf der Verpackung stand. Der Preis sagt also wenig über die Qualität aus, meinen die Tester.",
+      "answer": "c",
+      "explanation": "In the test, several cheap products from drugstores and supermarkets got the mark „gut“, so (c). Headline (f) says the opposite – it was two expensive products that did not protect as well as promised.",
+      "explanationDe": "Im Test bekamen mehrere günstige Produkte aus Drogerien und Supermärkten die Note „gut“, also passt (c). Überschrift (f) sagt das Gegenteil – es waren zwei teure Produkte, die nicht so gut geschützt haben wie versprochen.",
+      "evidence": ["Eine gute Sonnencreme muss nicht teuer sein", "mehrere günstige Produkte aus Drogerien und Supermärkten die Note „gut“"]
+    },
+    {
+      "n": 4,
+      "text": "Der Kleiderschrank ist voll, aber man hat trotzdem nichts zum Anziehen? Dann ist die Kleidertausch-Party in einem Jugendzentrum in Hannover-Linden genau das Richtige. Am Freitag, dem 10. November, können alle von 18 bis 22 Uhr bis zu zehn gut erhaltene Kleidungsstücke mitbringen und gegen andere tauschen. Bezahlt wird also mit Kleidung, nicht mit Geld: Für jedes Teil, das man abgibt, darf man ein anderes mitnehmen. Was am Ende übrig bleibt, wird an Menschen mit wenig Geld verschenkt. Der Eintritt ist frei, Getränke gibt es an der Bar.",
+      "answer": "g",
+      "explanation": "At the party people swap clothes instead of buying them: „Bezahlt wird also mit Kleidung, nicht mit Geld“, so (g). Headline (i) is wrong: nothing is sold for one euro – you give one piece and take another.",
+      "explanationDe": "Auf der Party tauschen die Leute Kleidung, statt sie zu kaufen: „Bezahlt wird also mit Kleidung, nicht mit Geld“, deshalb passt (g). Überschrift (i) ist falsch: Nichts wird für einen Euro verkauft – man gibt ein Teil ab und nimmt ein anderes mit.",
+      "evidence": ["gegen andere tauschen", "Bezahlt wird also mit Kleidung, nicht mit Geld"]
+    },
+    {
+      "n": 5,
+      "text": "Wer lange arbeitet, schafft es oft nicht auf den Wochenmarkt, denn der schließt meistens schon mittags. In Mannheim gibt es deshalb ab dem 4. Mai einen zusätzlichen Markt am Abend. Jeden Donnerstag von 16 bis 21 Uhr verkaufen rund 25 Händler auf dem Marktplatz Obst, Gemüse, Käse und Brot aus der Region. Außerdem gibt es Stände mit warmem Essen, und manchmal spielt eine Band. So kann man nach der Arbeit einkaufen und gleichzeitig Freunde treffen. Der Markt am Samstagvormittag findet weiterhin wie gewohnt statt.",
+      "answer": "b",
+      "explanation": "Because the normal market closes at midday, Mannheim gets an extra market on Thursday evenings for people who work, so (b). Headline (d) is a trap: the Saturday market „findet weiterhin wie gewohnt statt“.",
+      "explanationDe": "Weil der normale Wochenmarkt schon mittags schließt, bekommt Mannheim einen zusätzlichen Markt am Donnerstagabend für Menschen, die arbeiten, also passt (b). Überschrift (d) ist eine Falle: Der Markt am Samstag „findet weiterhin wie gewohnt statt“.",
+      "evidence": ["einen zusätzlichen Markt am Abend", "So kann man nach der Arbeit einkaufen"]
+    }
+  ],
+  "distractors": [
+    { "key": "a", "why": "Text 1 says that more than two thirds of the people over 65 still prefer cash. It is the younger people who pay by card or phone.", "whyDe": "Laut Text 1 bezahlen mehr als zwei Drittel der Menschen über 65 weiterhin am liebsten bar. Mit Karte oder Handy zahlen vor allem die Jüngeren." },
+    { "key": "d", "why": "Text 5 says clearly that the Saturday market continues as usual; the evening market is an additional one („zusätzlich“).", "whyDe": "In Text 5 steht klar, dass der Markt am Samstag wie gewohnt weiterläuft; der Abendmarkt kommt „zusätzlich“ dazu." },
+    { "key": "f", "why": "In text 3 several cheap sun creams were rated „gut“; the two problem products were expensive brands.", "whyDe": "In Text 3 bekamen mehrere günstige Sonnencremes die Note „gut“; die zwei Problemprodukte waren teure Marken." },
+    { "key": "h", "why": "The shop in text 2 works without shop assistants. The text does not say that it is looking for staff.", "whyDe": "Der Laden in Text 2 funktioniert ohne Verkäufer. Im Text steht nicht, dass er Personal sucht." },
+    { "key": "i", "why": "In text 4 people swap clothes – one piece for another. Nothing is sold, and the entrance is free.", "whyDe": "In Text 4 tauschen die Leute Kleidung – ein Teil gegen ein anderes. Nichts wird verkauft, und der Eintritt ist frei." }
+  ],
+  "glossary": [
+    { "de": "das Bargeld", "en": "cash" },
+    { "de": "der Betrag", "en": "amount (of money)" },
+    { "de": "die Münze", "en": "coin" },
+    { "de": "der Überblick", "en": "overview" },
+    { "de": "rund um die Uhr", "en": "around the clock" },
+    { "de": "die Ware", "en": "goods, product" },
+    { "de": "das Regal auffüllen", "en": "to restock the shelves" },
+    { "de": "die Verbraucherzeitschrift", "en": "consumer magazine" },
+    { "de": "gut erhalten", "en": "in good condition" },
+    { "de": "tauschen", "en": "to swap" },
+    { "de": "die Händlerin / der Händler", "en": "trader, stallholder" },
+    { "de": "der Stand", "en": "stall" }
+  ]
+}

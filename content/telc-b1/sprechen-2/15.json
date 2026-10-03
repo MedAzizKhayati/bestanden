@@ -1,0 +1,100 @@
+{
+  "id": "sprechen-2-15",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Arbeiten nach der Rente?",
+  "topic": "arbeit",
+  "difficulty": 3,
+  "theme": "Arbeiten im Alter",
+  "medium": "im Internet",
+  "cardA": {
+    "name": "Gerhard Sommer",
+    "age": 68,
+    "job": "Taxifahrer",
+    "quote": "Eigentlich bin ich schon seit drei Jahren in Rente, aber ich fahre immer noch dreimal pro Woche Taxi. Zu Hause würde mir die Decke auf den Kopf fallen. Bei der Arbeit treffe ich jeden Tag neue Menschen, und ich bleibe geistig fit. Das zusätzliche Geld ist natürlich auch schön, denn meine Rente ist nicht besonders hoch."
+  },
+  "cardB": {
+    "name": "Birgit Schulze",
+    "age": 57,
+    "job": "Altenpflegerin",
+    "quote": "Ich arbeite seit über dreißig Jahren in der Altenpflege, und mein Rücken tut jeden Tag weh. Für Menschen mit körperlich schweren Berufen ist es unmöglich, bis siebzig zu arbeiten. Ich freue mich darauf, mit 63 in Rente zu gehen und endlich Zeit für meine Enkel und meinen Garten zu haben. Nach so vielen Jahren habe ich mir das verdient."
+  },
+  "ideas": {
+    "pro": [
+      "man bleibt körperlich und geistig aktiv",
+      "Kontakt zu anderen Menschen",
+      "zusätzliches Geld zur Rente",
+      "Firmen brauchen die Erfahrung älterer Mitarbeiter",
+      "es fehlen in vielen Berufen Fachkräfte",
+      "junge Kollegen lernen von den Älteren"
+    ],
+    "contra": [
+      "in schweren Berufen ist der Körper müde",
+      "nach vielen Arbeitsjahren hat man sich die Rente verdient",
+      "mehr Zeit für Familie, Enkel und Hobbys",
+      "junge Leute brauchen auch Arbeitsplätze",
+      "im Alter gibt es mehr gesundheitliche Probleme",
+      "nicht jeder findet im Alter noch eine Stelle"
+    ]
+  },
+  "questions": [
+    "Bis wann möchten Sie selbst arbeiten?",
+    "Wie ist das in Ihrem Heimatland? Wann gehen die Menschen dort in Rente?",
+    "Kennen Sie ältere Menschen, die noch arbeiten? Warum tun sie das?",
+    "In welchen Berufen kann man gut bis ins Alter arbeiten?",
+    "Was möchten Sie machen, wenn Sie in Rente sind?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Rosa Martínez", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Bogdan Popa", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Gut, ich fange an. Ich habe die Meinung von Gerhard Sommer gelesen, er ist 68 Jahre alt und Taxifahrer. Obwohl er schon seit drei Jahren in Rente ist, fährt er immer noch dreimal pro Woche Taxi." },
+    { "s": "A", "t": "Herr Sommer sagt, dass ihm zu Hause die Decke auf den Kopf fallen würde. Bei der Arbeit trifft er jeden Tag neue Menschen und bleibt dadurch geistig fit." },
+    { "s": "A", "t": "Außerdem ist das zusätzliche Geld für ihn wichtig, weil seine Rente nicht besonders hoch ist." },
+    { "s": "B", "t": "Danke, Rosa. Auf meinem Blatt steht eine ganz andere Position. Birgit Schulze ist 57 und arbeitet seit über dreißig Jahren in der Altenpflege." },
+    { "s": "B", "t": "Sie erzählt, dass ihr der Rücken jeden Tag wehtut. Ihrer Meinung nach ist es für Menschen mit körperlich schweren Berufen unmöglich, bis siebzig zu arbeiten." },
+    { "s": "B", "t": "Frau Schulze freut sich darauf, mit 63 in Rente zu gehen und endlich Zeit für ihre Enkel und ihren Garten zu haben. Sie findet, dass sie sich das nach so vielen Jahren verdient hat." },
+    { "s": "A", "t": "Ich finde, beide haben gute Gründe. Es kommt wirklich auf den Beruf an. Ein Taxifahrer sitzt, aber eine Altenpflegerin muss Menschen heben und ist den ganzen Tag auf den Beinen." },
+    { "s": "B", "t": "Genau. Mein Vater war Bauarbeiter in Moldau, und mit sechzig konnte er kaum noch laufen. Für ihn wäre es unmöglich gewesen, noch länger zu arbeiten." },
+    { "s": "A", "t": "Das tut mir leid. Ist er jetzt in Rente?" },
+    { "s": "B", "t": "Ja, aber die Rente in Moldau ist sehr niedrig. Deshalb unterstütze ich meine Eltern jeden Monat mit etwas Geld." },
+    { "s": "A", "t": "Das verstehe ich, in Kolumbien ist es ähnlich. Viele ältere Menschen arbeiten weiter, nicht weil sie wollen, sondern weil sie müssen. Mein Onkel verkauft mit siebzig immer noch Obst auf dem Markt." },
+    { "s": "B", "t": "Das ist ein wichtiger Unterschied, finde ich. Wenn jemand freiwillig arbeitet wie Herr Sommer, ist das in Ordnung. Aber niemand sollte im Alter arbeiten müssen, nur weil die Rente nicht reicht." },
+    { "s": "A", "t": "Da gebe ich dir völlig recht. Trotzdem glaube ich, dass Arbeit für viele ältere Menschen auch gut ist. Meine Nachbarin ist 72 und hilft noch zweimal pro Woche in einer Bäckerei, und sie sagt, das hält sie jung." },
+    { "s": "B", "t": "Das kann ich mir vorstellen. Wenn man plötzlich gar nichts mehr zu tun hat, fühlt man sich vielleicht nutzlos." },
+    { "s": "A", "t": "Ja, und viele Firmen suchen dringend Mitarbeiter. Die Erfahrung der Älteren ist doch sehr wertvoll, oder?" },
+    { "s": "B", "t": "Auf jeden Fall. Aber man müsste die Arbeit an das Alter anpassen, zum Beispiel mit weniger Stunden oder leichteren Aufgaben." },
+    { "s": "A", "t": "Das finde ich eine gute Idee. Und bis wann möchtest du selbst arbeiten?" },
+    { "s": "B", "t": "Ehrlich gesagt, nicht bis siebzig! Ich bin Koch in einem Restaurant, und das ist körperlich anstrengend. Ich möchte mit 65 aufhören und dann viel reisen." },
+    { "s": "A", "t": "Ich bin Buchhalterin, deshalb könnte ich mir vorstellen, später noch ein bisschen in Teilzeit zu arbeiten. Aber nur, wenn ich gesund bin und Lust habe." },
+    { "s": "B", "t": "Dann bist du eher wie Herr Sommer, und ich bin wie Frau Schulze! Ich glaube, wichtig ist vor allem, dass jeder selbst wählen kann." },
+    { "s": "A", "t": "Genau. Flexible Lösungen sind am besten, weil jeder Mensch und jeder Beruf anders ist." }
+  ],
+  "phrases": [
+    { "de": "Obwohl er schon in Rente ist, …", "en": "Although he is already retired, …" },
+    { "de": "Auf meinem Blatt steht eine ganz andere Position.", "en": "My sheet presents a completely different position." },
+    { "de": "Ihrer Meinung nach ist es unmöglich, … zu …", "en": "In her opinion it is impossible to …" },
+    { "de": "Ich finde, beide haben gute Gründe.", "en": "I think both have good reasons." },
+    { "de": "Es kommt wirklich auf … an.", "en": "It really depends on …" },
+    { "de": "Das ist ein wichtiger Unterschied, finde ich.", "en": "That's an important difference, I think." },
+    { "de": "Da gebe ich dir völlig recht.", "en": "I completely agree with you there." },
+    { "de": "Auf jeden Fall.", "en": "Definitely." },
+    { "de": "Man müsste …", "en": "We would need to … / One should …" },
+    { "de": "Ich glaube, wichtig ist vor allem, dass …", "en": "I think the most important thing is that …" }
+  ],
+  "vocabulary": [
+    { "de": "in Rente gehen", "en": "to retire" },
+    { "de": "die Rente", "en": "pension; retirement" },
+    { "de": "die Altenpflege", "en": "care of the elderly" },
+    { "de": "körperlich schwer", "en": "physically demanding" },
+    { "de": "geistig fit bleiben", "en": "to stay mentally fit" },
+    { "de": "Mir fällt die Decke auf den Kopf.", "en": "I'm going stir-crazy (at home)." },
+    { "de": "sich etwas verdient haben", "en": "to have earned something" },
+    { "de": "unterstützen", "en": "to support" },
+    { "de": "nutzlos", "en": "useless" },
+    { "de": "wertvoll", "en": "valuable" },
+    { "de": "anpassen an (+ Akk.)", "en": "to adapt to" },
+    { "de": "in Teilzeit arbeiten", "en": "to work part-time" }
+  ]
+}

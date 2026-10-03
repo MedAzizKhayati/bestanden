@@ -1,0 +1,236 @@
+{
+  "id": "adjektivdeklination",
+  "level": "B1",
+  "category": "adjektive",
+  "order": 1,
+  "title": "Adjektivdeklination",
+  "titleEn": "Adjective endings",
+  "summary": "Which ending an adjective takes before a noun – after der/die/das, after ein/kein/mein, and without any article.",
+  "summaryDe": "Welche Endung ein Adjektiv vor einem Nomen bekommt – nach der/die/das, nach ein/kein/mein und ganz ohne Artikel.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "An adjective **directly before a noun** always takes an ending. The ending depends on the word in front of it (**der-word**, **ein-word** or **no article**), on the gender and number of the noun and on the case. After „sein“, „werden“ and „bleiben“ the adjective has **no ending**: „Der Kaffee ist **heiß**.“",
+      "mdDe": "Ein Adjektiv **direkt vor einem Nomen** bekommt immer eine Endung. Die Endung hängt vom Wort davor ab (**der-Wort**, **ein-Wort** oder **kein Artikel**), vom Genus des Nomens, von Singular oder Plural und vom Kasus. Nach „sein“, „werden“ und „bleiben“ hat das Adjektiv **keine Endung**: „Der Kaffee ist **heiß**.“"
+    },
+    {
+      "type": "text",
+      "heading": "The key idea: show the case once",
+      "headingDe": "Die Grundidee: den Kasus nur einmal zeigen",
+      "md": "German wants to see the gender and case of a noun phrase **once** – either in the article or in the adjective. That is why there are three patterns:\n\n1. **After der, die, das** (and dieser, jeder, welcher, alle): the article already shows the case, so the adjective only needs **-e** or **-en**: „der **neue** Tisch“, „mit dem **neuen** Tisch“.\n2. **After ein, kein and possessives** (mein, dein, sein, ihr, unser, euer, Ihr): the same as pattern 1 – except in the three places where „ein“ has no ending of its own (masculine nominative, neuter nominative and accusative). There the adjective takes over the signal: „ein **neuer** Tisch“ (-er as in *der*), „ein **neues** Bett“ (-es as in *das*).\n3. **No article** (also after numbers and after viele, einige, mehrere, wenige): the adjective takes the ending of the definite article: „**heißer** Kaffee“ (der), „**kaltes** Wasser“ (das), „**frische** Milch“ (die), „mit **gutem** Wein“ (dem).",
+      "mdDe": "Im Deutschen sollen Genus und Kasus einer Nominalgruppe **einmal** sichtbar sein – entweder im Artikel oder im Adjektiv. Deshalb gibt es drei Muster:\n\n1. **Nach der, die, das** (und dieser, jeder, welcher, alle): Der Artikel zeigt den Kasus schon, deshalb braucht das Adjektiv nur **-e** oder **-en**: „der **neue** Tisch“, „mit dem **neuen** Tisch“.\n2. **Nach ein, kein und Possessivartikeln** (mein, dein, sein, ihr, unser, euer, Ihr): wie Muster 1 – außer an den drei Stellen, an denen „ein“ keine eigene Endung hat (Nominativ maskulin, Nominativ und Akkusativ neutral). Dort übernimmt das Adjektiv das Signal: „ein **neuer** Tisch“ (-er wie bei *der*), „ein **neues** Bett“ (-es wie bei *das*).\n3. **Ohne Artikel** (auch nach Zahlen und nach viele, einige, mehrere, wenige): Das Adjektiv bekommt die Endung des bestimmten Artikels: „**heißer** Kaffee“ (der), „**kaltes** Wasser“ (das), „**frische** Milch“ (die), „mit **gutem** Wein“ (dem)."
+    },
+    {
+      "type": "table",
+      "heading": "Pattern 1: after der, die, das (also dieser, jeder, welcher, alle)",
+      "headingDe": "Muster 1: nach der, die, das (auch dieser, jeder, welcher, alle)",
+      "columns": ["Kasus", "Maskulin", "Neutrum", "Feminin", "Plural"],
+      "columnsDe": ["Kasus", "Maskulin", "Neutrum", "Feminin", "Plural"],
+      "rows": [
+        ["Nominativ", "der neue Tisch", "das neue Bett", "die neue Lampe", "die neuen Stühle"],
+        ["Akkusativ", "den neuen Tisch", "das neue Bett", "die neue Lampe", "die neuen Stühle"],
+        ["Dativ", "dem neuen Tisch", "dem neuen Bett", "der neuen Lampe", "den neuen Stühlen"],
+        ["Genitiv", "des neuen Tisches", "des neuen Bettes", "der neuen Lampe", "der neuen Stühle"]
+      ],
+      "note": "Only five forms end in -e: the three nominative singular forms and the feminine and neuter accusative. All other forms end in -en.",
+      "noteDe": "Nur fünf Formen enden auf -e: die drei Formen im Nominativ Singular und der Akkusativ feminin und neutral. Alle anderen Formen enden auf -en."
+    },
+    {
+      "type": "table",
+      "heading": "Pattern 2: after ein, kein and possessives (mein, dein, unser …)",
+      "headingDe": "Muster 2: nach ein, kein und Possessivartikeln (mein, dein, unser …)",
+      "columns": ["Kasus", "Maskulin", "Neutrum", "Feminin", "Plural"],
+      "columnsDe": ["Kasus", "Maskulin", "Neutrum", "Feminin", "Plural"],
+      "rows": [
+        ["Nominativ", "ein neuer Tisch", "ein neues Bett", "eine neue Lampe", "keine neuen Stühle"],
+        ["Akkusativ", "einen neuen Tisch", "ein neues Bett", "eine neue Lampe", "keine neuen Stühle"],
+        ["Dativ", "einem neuen Tisch", "einem neuen Bett", "einer neuen Lampe", "keinen neuen Stühlen"],
+        ["Genitiv", "eines neuen Tisches", "eines neuen Bettes", "einer neuen Lampe", "keiner neuen Stühle"]
+      ],
+      "note": "„ein“ has no plural, so the plural column uses „keine“ – „meine“, „unsere“ etc. work the same way. Only three forms differ from pattern 1: ein neuer (masculine nominative) and ein neues (neuter nominative and accusative).",
+      "noteDe": "„ein“ hat keinen Plural, deshalb steht in der Plural-Spalte „keine“ – „meine“, „unsere“ usw. funktionieren genauso. Nur drei Formen sind anders als bei Muster 1: ein neuer (Nominativ maskulin) und ein neues (Nominativ und Akkusativ neutral)."
+    },
+    {
+      "type": "table",
+      "heading": "Pattern 3: no article (also after numbers, viele, einige, mehrere, wenige)",
+      "headingDe": "Muster 3: ohne Artikel (auch nach Zahlen, viele, einige, mehrere, wenige)",
+      "columns": ["Kasus", "Maskulin", "Neutrum", "Feminin", "Plural"],
+      "columnsDe": ["Kasus", "Maskulin", "Neutrum", "Feminin", "Plural"],
+      "rows": [
+        ["Nominativ", "guter Kaffee", "gutes Brot", "gute Milch", "gute Freunde"],
+        ["Akkusativ", "guten Kaffee", "gutes Brot", "gute Milch", "gute Freunde"],
+        ["Dativ", "gutem Kaffee", "gutem Brot", "guter Milch", "guten Freunden"],
+        ["Genitiv", "guten Kaffees", "guten Brotes", "guter Milch", "guter Freunde"]
+      ],
+      "note": "The adjective shows the ending of the definite article (der → guter, das → gutes, dem → gutem …). The only exception is the masculine and neuter genitive, which ends in -en instead of -es (trotz guten Wetters) – this is rare at B1.",
+      "noteDe": "Das Adjektiv zeigt die Endung des bestimmten Artikels (der → guter, das → gutes, dem → gutem …). Die einzige Ausnahme ist der Genitiv maskulin und neutral: Er endet auf -en statt auf -es (trotz guten Wetters) – das ist auf B1 selten."
+    },
+    {
+      "type": "text",
+      "heading": "Special cases",
+      "headingDe": "Sonderfälle",
+      "md": "- Adjectives ending in **-el** lose the e: „dunkel“ → „ein **dunkles** Zimmer“. So do adjectives ending in **-er** after au/eu: „teuer“ → „ein **teures** Hotel“, „sauer“ → „**saure** Gurken“ (but: „ein **sauberes** Zimmer“).\n- „hoch“ loses the c: „ein **hohes** Haus“.\n- Several adjectives in a row all get the same ending: „ein **schöner, ruhiger** Garten“, „mit **netten, hilfsbereiten** Nachbarn“.\n- No ending at all: the colour words „lila“ and „rosa“ („ein **lila** Kleid“) and city adjectives in -er („der **Kölner** Dom“, „die **Wiener** Kaffeehäuser“).\n- After „etwas“, „nichts“, „viel“ and „wenig“ the adjective becomes a noun with **-es**: „etwas **Neues**“, „nichts **Besonderes**“. After „alles“ it takes **-e**: „alles **Gute**“.",
+      "mdDe": "- Adjektive auf **-el** verlieren das e: „dunkel“ → „ein **dunkles** Zimmer“. Das gilt auch für Adjektive auf **-er** nach au/eu: „teuer“ → „ein **teures** Hotel“, „sauer“ → „**saure** Gurken“ (aber: „ein **sauberes** Zimmer“).\n- „hoch“ verliert das c: „ein **hohes** Haus“.\n- Mehrere Adjektive hintereinander bekommen alle dieselbe Endung: „ein **schöner, ruhiger** Garten“, „mit **netten, hilfsbereiten** Nachbarn“.\n- Gar keine Endung: die Farbwörter „lila“ und „rosa“ („ein **lila** Kleid“) und Adjektive aus Städtenamen auf -er („der **Kölner** Dom“, „die **Wiener** Kaffeehäuser“).\n- Nach „etwas“, „nichts“, „viel“ und „wenig“ wird das Adjektiv zum Nomen mit **-es**: „etwas **Neues**“, „nichts **Besonderes**“. Nach „alles“ bekommt es **-e**: „alles **Gute**“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Wir haben **den alten** Schrank verkauft.", "en": "We sold the old wardrobe." },
+        { "de": "Ich suche **eine günstige** Wohnung in der Nähe des Bahnhofs.", "en": "I'm looking for a cheap flat near the station." },
+        { "de": "**Mein neuer** Kollege kommt aus Graz.", "en": "My new colleague comes from Graz." },
+        { "de": "Sie wohnt in **einem kleinen** Dorf an der Mosel.", "en": "She lives in a small village on the Moselle." },
+        { "de": "Zum Frühstück trinke ich **schwarzen** Tee.", "en": "I drink black tea for breakfast." },
+        { "de": "Bei **schönem** Wetter grillen wir im Garten.", "en": "When the weather is nice, we have a barbecue in the garden." },
+        { "de": "Im Kurs habe ich **viele nette** Leute kennengelernt.", "en": "I got to know a lot of nice people on the course." },
+        { "de": "Das ist das Auto **meines älteren** Bruders.", "en": "That is my older brother's car." },
+        { "de": "**Liebe** Frau Berger, **lieber** Herr Yilmaz, …", "en": "Dear Ms Berger, dear Mr Yilmaz, …" },
+        { "de": "Mit **freundlichen** Grüßen", "en": "Kind regards (standard closing of a formal letter)" }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**The masculine accusative is the classic trap:** „einen **neuen** Computer“, „den **alten** Schrank“ and, without an article, „Ich trinke **heißen** Kaffee.“ – always -en. The second trap is the **dative plural**: the adjective ends in -en and the noun gets an extra -n too: „mit den **neuen Freunden**“, „mit **kleinen Kindern**“.",
+      "mdDe": "**Der Akkusativ maskulin ist die klassische Falle:** „einen **neuen** Computer“, „den **alten** Schrank“ und ohne Artikel „Ich trinke **heißen** Kaffee.“ – immer -en. Die zweite Falle ist der **Dativ Plural**: Das Adjektiv endet auf -en, und auch das Nomen bekommt ein zusätzliches -n: „mit den **neuen Freunden**“, „mit **kleinen Kindern**“."
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 1** often asks you to choose between three forms of the same adjective, e.g. „nette / netten / netter“. Work in three steps:\n\n1. Find the noun and its gender.\n2. Find the case: subject → nominative, object of the verb → accusative, after mit, bei, von … → dative.\n3. Look at the word in front: der-word, ein-word or nothing?\n\n**Schreiben:** correct endings count for your grammar score, and the standard letter phrases already contain them – learn them as blocks: „**Liebe** Frau Weber“, „**Lieber** Herr Novak“, „Vielen Dank für Ihre **schnelle** Antwort“, „Mit **freundlichen** Grüßen“. **Sprechen:** adjectives make your descriptions richer. If you are unsure about an ending, put the adjective after „sein“, where it has none: „Die Wohnung ist **hell** und **ruhig**.“",
+      "mdDe": "In **Sprachbausteine Teil 1** musst du oft zwischen drei Formen desselben Adjektivs wählen, z. B. „nette / netten / netter“. Geh in drei Schritten vor:\n\n1. Finde das Nomen und sein Genus.\n2. Finde den Kasus: Subjekt → Nominativ, Objekt des Verbs → Akkusativ, nach mit, bei, von … → Dativ.\n3. Schau auf das Wort davor: der-Wort, ein-Wort oder nichts?\n\n**Schreiben:** Richtige Endungen zählen für die Bewertung deiner Grammatik, und die festen Wendungen für Briefe enthalten sie schon – lerne sie als feste Blöcke: „**Liebe** Frau Weber“, „**Lieber** Herr Novak“, „Vielen Dank für Ihre **schnelle** Antwort“, „Mit **freundlichen** Grüßen“. **Sprechen:** Mit Adjektiven werden deine Beschreibungen lebendiger. Wenn du bei einer Endung unsicher bist, stell das Adjektiv hinter „sein“ – dort hat es keine Endung: „Die Wohnung ist **hell** und **ruhig**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe einen neue Job gefunden.",
+      "right": "Ich habe einen neuen Job gefunden.",
+      "why": "„der Job“ is masculine and the object of „finden“ (accusative). After „einen“ the adjective always ends in -en.",
+      "whyDe": "„der Job“ ist maskulin und das Objekt von „finden“ (Akkusativ). Nach „einen“ endet das Adjektiv immer auf -en."
+    },
+    {
+      "wrong": "Das ist ein gutes Idee.",
+      "right": "Das ist eine gute Idee.",
+      "why": "„die Idee“ is feminine, so it is „eine gute Idee“. The -es ending after „ein“ only goes with neuter nouns („ein gutes Buch“).",
+      "whyDe": "„die Idee“ ist feminin, also heißt es „eine gute Idee“. Die Endung -es nach „ein“ passt nur zu neutralen Nomen („ein gutes Buch“)."
+    },
+    {
+      "wrong": "Wir wohnen in einem kleine Haus.",
+      "right": "Wir wohnen in einem kleinen Haus.",
+      "why": "„in einem“ is dative (Wo?). After „einem“ the adjective always ends in -en.",
+      "whyDe": "„in einem“ ist Dativ (Wo?). Nach „einem“ endet das Adjektiv immer auf -en."
+    },
+    {
+      "wrong": "Mit freundlichem Grüßen",
+      "right": "Mit freundlichen Grüßen",
+      "why": "„Grüße“ is plural, and „mit“ takes the dative: dative plural without an article → -en. Learn this closing by heart.",
+      "whyDe": "„Grüße“ ist Plural, und nach „mit“ steht der Dativ: Dativ Plural ohne Artikel → -en. Lerne diese Grußformel auswendig."
+    },
+    {
+      "wrong": "Der Film war sehr spannender.",
+      "right": "Der Film war sehr spannend.",
+      "why": "After „sein“ (and „werden“, „bleiben“) the adjective has no ending.",
+      "whyDe": "Nach „sein“ (und „werden“, „bleiben“) hat das Adjektiv keine Endung."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich wünsche dir einen ___ Geburtstag!",
+      "options": ["schöne", "schönen", "schöner"],
+      "answer": 1,
+      "explanation": "„der Geburtstag“ is masculine and the accusative object of „wünschen“. After „einen“ the adjective ends in -en: „einen schönen Geburtstag“.",
+      "explanationDe": "„der Geburtstag“ ist maskulin und das Akkusativobjekt von „wünschen“. Nach „einen“ endet das Adjektiv auf -en: „einen schönen Geburtstag“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Kennst du die ___ Nachbarin aus dem dritten Stock?",
+      "options": ["neue", "neuen", "neues"],
+      "answer": 0,
+      "explanation": "„die Nachbarin“ is feminine and the accusative object of „kennen“. The feminine accusative looks like the nominative, so after „die“ the ending is -e.",
+      "explanationDe": "„die Nachbarin“ ist feminin und das Akkusativobjekt von „kennen“. Der Akkusativ feminin sieht aus wie der Nominativ, deshalb ist die Endung nach „die“ -e."
+    },
+    {
+      "type": "mc",
+      "prompt": "Zum Abendessen gab es ___ Fisch mit Kartoffeln.",
+      "options": ["frischer", "frischen", "frisches"],
+      "answer": 1,
+      "explanation": "„es gibt“ takes the accusative, „der Fisch“ is masculine and there is no article – so the adjective takes the ending of „den“: „frischen Fisch“. „frischer“ would be nominative.",
+      "explanationDe": "Nach „es gibt“ steht der Akkusativ, „der Fisch“ ist maskulin, und es steht kein Artikel davor – also bekommt das Adjektiv die Endung von „den“: „frischen Fisch“. „frischer“ wäre Nominativ."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ Herr Krause, vielen Dank für Ihre schnelle Antwort.",
+      "options": ["Liebe", "Lieber", "Lieben"],
+      "answer": 1,
+      "explanation": "A salutation is nominative without an article, and „Herr“ is masculine, so the adjective shows -er: „Lieber Herr Krause“. For a woman you write „Liebe Frau …“.",
+      "explanationDe": "Eine Anrede steht im Nominativ ohne Artikel, und „Herr“ ist maskulin – deshalb zeigt das Adjektiv -er: „Lieber Herr Krause“. Für eine Frau schreibst du „Liebe Frau …“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das ist ein sehr ___ Restaurant.",
+      "hint": "(gemütlich)",
+      "answers": ["gemütliches"],
+      "explanation": "„das Restaurant“ is neuter. After „ein“ (nominative) the article has no ending, so the adjective shows the neuter signal -es.",
+      "explanationDe": "„das Restaurant“ ist neutral. Bei „ein“ (Nominativ) hat der Artikel keine Endung, deshalb zeigt das Adjektiv das Signal für neutral: -es."
+    },
+    {
+      "type": "gap",
+      "prompt": "Hast du schon den ___ Krimi im Fernsehen gesehen?",
+      "hint": "(neu)",
+      "answers": ["neuen"],
+      "explanation": "Masculine accusative after „den“ → -en. After der-words, -e only appears in the nominative singular and in the feminine and neuter accusative.",
+      "explanationDe": "Akkusativ maskulin nach „den“ → -en. Nach der-Wörtern gibt es -e nur im Nominativ Singular und im Akkusativ feminin und neutral."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bei ___ Wetter fahren wir mit dem Fahrrad zur Arbeit.",
+      "hint": "(gut)",
+      "answers": ["gutem"],
+      "explanation": "„bei“ takes the dative, „das Wetter“ is neuter and there is no article – so the adjective takes the ending of „dem“: „bei gutem Wetter“.",
+      "explanationDe": "Nach „bei“ steht der Dativ, „das Wetter“ ist neutral, und es steht kein Artikel davor – also bekommt das Adjektiv die Endung von „dem“: „bei gutem Wetter“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Am Wochenende war ich mit meiner ___ Schwester im Zoo.",
+      "hint": "(klein)",
+      "answers": ["kleinen"],
+      "explanation": "„mit“ takes the dative. After „meiner“ (feminine dative) the adjective ends in -en.",
+      "explanationDe": "Nach „mit“ steht der Dativ. Nach „meiner“ (Dativ feminin) endet das Adjektiv auf -en."
+    },
+    {
+      "type": "gap",
+      "prompt": "In unserem Viertel gibt es viele ___ Cafés.",
+      "hint": "(nett)",
+      "answers": ["nette"],
+      "explanation": "After „viele“ the adjective takes the ending it would have without an article. Plural accusative („es gibt“ + Akk.) → -e, as in „die“.",
+      "explanationDe": "Nach „viele“ bekommt das Adjektiv die Endung, die es auch ohne Artikel hätte. Akkusativ Plural („es gibt“ + Akk.) → -e, wie bei „die“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the two sentences into one by putting the adjective in front of the noun.",
+      "instructionDe": "Verbinde die zwei Sätze zu einem Satz: Stell das Adjektiv vor das Nomen.",
+      "prompt": "Ich habe ein Fahrrad gekauft. Das Fahrrad ist gebraucht.",
+      "answers": ["Ich habe ein gebrauchtes Fahrrad gekauft."],
+      "explanation": "After „sein“ the adjective has no ending („ist gebraucht“). In front of the noun it needs one: neuter accusative after „ein“ → „ein gebrauchtes Fahrrad“.",
+      "explanationDe": "Nach „sein“ hat das Adjektiv keine Endung („ist gebraucht“). Vor dem Nomen braucht es eine: Akkusativ neutral nach „ein“ → „ein gebrauchtes Fahrrad“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the definite articles with indefinite ones (der → ein, dem → einem) and adjust the adjective endings.",
+      "instructionDe": "Ersetze die bestimmten Artikel durch unbestimmte (der → ein, dem → einem) und pass die Adjektivendungen an.",
+      "prompt": "Der alte Mann wohnt neben dem großen Park.",
+      "answers": ["Ein alter Mann wohnt neben einem großen Park."],
+      "explanation": "Masculine nominative: „der alte“, but „ein alter“ – because „ein“ has no ending, the adjective takes over the -er signal. In the dative nothing changes: „dem großen“ → „einem großen“.",
+      "explanationDe": "Nominativ maskulin: „der alte“, aber „ein alter“ – weil „ein“ keine Endung hat, übernimmt das Adjektiv das Signal -er. Im Dativ ändert sich nichts: „dem großen“ → „einem großen“."
+    },
+    {
+      "type": "order",
+      "words": ["schönen", "Wohnung", "gefunden.", "haben", "mit", "große", "Wir", "einem", "Balkon", "eine"],
+      "answers": ["Wir haben eine große Wohnung mit einem schönen Balkon gefunden.", "Eine große Wohnung mit einem schönen Balkon haben wir gefunden."],
+      "explanation": "The verb „haben“ is in position 2 and the participle „gefunden“ goes to the end. Article, adjective and noun stay together: „eine große Wohnung“ (feminine accusative -e), „mit einem schönen Balkon“ (dative -en).",
+      "explanationDe": "Das Verb „haben“ steht auf Position 2, das Partizip II „gefunden“ am Ende. Artikel, Adjektiv und Nomen bleiben zusammen: „eine große Wohnung“ (Akkusativ feminin: -e), „mit einem schönen Balkon“ (Dativ: -en)."
+    }
+  ],
+  "related": ["kasus-und-artikel", "komparation", "partizip-als-adjektiv", "genitiv"]
+}

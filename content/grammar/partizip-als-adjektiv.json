@@ -1,0 +1,256 @@
+{
+  "id": "partizip-als-adjektiv",
+  "level": "B1",
+  "category": "adjektive",
+  "order": 3,
+  "title": "Partizip I und II als Adjektiv",
+  "titleEn": "Participles as adjectives",
+  "summary": "Use participles like adjectives: „das schlafende Kind“ (active, happening now) and „das reparierte Auto“ (passive or finished).",
+  "summaryDe": "Verwende Partizipien wie Adjektive: „das schlafende Kind“ (aktiv, passiert gerade) und „das reparierte Auto“ (passiv oder abgeschlossen).",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**Partizip I** (infinitive + **-d**: „lachend“) is active and describes something happening at the same time: „das **lachende** Kind“ = the child who is laughing. **Partizip II** („repariert“, „gestohlen“) is usually passive or finished: „das **reparierte** Fahrrad“ = the bike that has been repaired. Before a noun, both take the normal adjective endings.",
+      "mdDe": "**Partizip I** (Infinitiv + **-d**: „lachend“) ist aktiv und beschreibt etwas, das gleichzeitig passiert: „das **lachende** Kind“ = das Kind, das lacht. **Partizip II** („repariert“, „gestohlen“) ist meistens passiv oder abgeschlossen: „das **reparierte** Fahrrad“ = das Fahrrad, das repariert worden ist. Vor einem Nomen bekommen beide die normalen Adjektivendungen."
+    },
+    {
+      "type": "text",
+      "heading": "How to form them",
+      "headingDe": "So bildest du sie",
+      "md": "- **Partizip I:** infinitive + **-d**: „lachen → **lachend**“, „schlafen → **schlafend**“, „steigen → **steigend**“, „lächeln → **lächelnd**“.\n- **Partizip II:** the form you know from the Perfekt: „kochen → **gekocht**“, „stehlen → **gestohlen**“, „reparieren → **repariert**“, „unterschreiben → **unterschrieben**“.\n\nBefore a noun, add the adjective ending exactly as with any other adjective: „ein **lachendes** Kind“, „**steigende** Preise“, „mit **gekochten** Eiern“, „den **unterschriebenen** Vertrag“.",
+      "mdDe": "- **Partizip I:** Infinitiv + **-d**: „lachen → **lachend**“, „schlafen → **schlafend**“, „steigen → **steigend**“, „lächeln → **lächelnd**“.\n- **Partizip II:** die Form, die du aus dem Perfekt kennst: „kochen → **gekocht**“, „stehlen → **gestohlen**“, „reparieren → **repariert**“, „unterschreiben → **unterschrieben**“.\n\nVor einem Nomen hängst du die Adjektivendung an – genau wie bei jedem anderen Adjektiv: „ein **lachendes** Kind“, „**steigende** Preise“, „mit **gekochten** Eiern“, „den **unterschriebenen** Vertrag“."
+    },
+    {
+      "type": "table",
+      "heading": "Partizip I or Partizip II?",
+      "headingDe": "Partizip I oder Partizip II?",
+      "columns": ["Merkmal", "Partizip I", "Partizip II"],
+      "rows": [
+        ["Form", "infinitive + d: kochend, lesend", "Perfekt participle: gekocht, gelesen"],
+        ["Meaning", "active, happening right now", "passive (something was done to it) or finished"],
+        ["Example", "das kochende Wasser (the boiling water)", "das gekochte Wasser (the boiled water)"],
+        ["As a relative clause", "das Wasser, das kocht", "das Wasser, das gekocht wurde"]
+      ],
+      "rowsDe": [
+        ["Form", "Infinitiv + d: kochend, lesend", "Form wie im Perfekt: gekocht, gelesen"],
+        ["Bedeutung", "aktiv, passiert gerade", "passiv (mit der Sache wurde etwas gemacht) oder abgeschlossen"],
+        ["Beispiel", "das kochende Wasser (= es kocht gerade)", "das gekochte Wasser (= es wurde schon gekocht)"],
+        ["Als Relativsatz", "das Wasser, das kocht", "das Wasser, das gekocht wurde"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common participle adjectives at B1",
+      "headingDe": "Häufige Partizip-Adjektive auf B1-Niveau",
+      "columns": ["Adjektiv", "English", "Beispiel"],
+      "columnsDe": ["Adjektiv", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["spannend", "exciting", "ein spannender Krimi"],
+        ["überraschend", "surprising", "eine überraschende Nachricht"],
+        ["folgend", "following", "die folgenden Fragen"],
+        ["steigend", "rising", "steigende Mieten"],
+        ["dringend", "urgent", "ein dringender Termin"],
+        ["passend", "suitable, matching", "die passende Antwort"],
+        ["geöffnet", "open", "Die Apotheke ist bis 20 Uhr geöffnet."],
+        ["geschlossen", "closed", "bei geschlossenen Fenstern"],
+        ["verheiratet", "married", "ein verheiratetes Paar"],
+        ["begeistert", "enthusiastic, thrilled", "begeisterte Zuschauer"],
+        ["gebraucht", "used, second-hand", "ein gebrauchtes Fahrrad"],
+        ["reserviert", "reserved", "ein reservierter Tisch"],
+        ["ausgebildet", "trained, qualified", "eine gut ausgebildete Fachkraft"]
+      ],
+      "rowsDe": [
+        ["spannend", "macht neugierig, nicht langweilig", "ein spannender Krimi"],
+        ["überraschend", "unerwartet", "eine überraschende Nachricht"],
+        ["folgend", "was danach kommt", "die folgenden Fragen"],
+        ["steigend", "immer höher werdend", "steigende Mieten"],
+        ["dringend", "sehr eilig, sehr wichtig", "ein dringender Termin"],
+        ["passend", "geeignet, richtig", "die passende Antwort"],
+        ["geöffnet", "offen, auf", "Die Apotheke ist bis 20 Uhr geöffnet."],
+        ["geschlossen", "zu, nicht offen", "bei geschlossenen Fenstern"],
+        ["verheiratet", "in einer Ehe", "ein verheiratetes Paar"],
+        ["begeistert", "voller Freude, sehr positiv", "begeisterte Zuschauer"],
+        ["gebraucht", "nicht neu, aus zweiter Hand", "ein gebrauchtes Fahrrad"],
+        ["reserviert", "für jemanden freigehalten", "ein reservierter Tisch"],
+        ["ausgebildet", "mit Ausbildung, qualifiziert", "eine gut ausgebildete Fachkraft"]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Long participle phrases in reading texts",
+      "headingDe": "Lange Partizipgruppen in Lesetexten",
+      "md": "Newspapers and official texts like to put a whole phrase between the article and the noun:\n\n- „die **seit Jahren steigenden** Mieten“ = the rents that have been rising for years\n- „das **im Mai eröffnete** Museum“ = the museum that was opened in May\n\nRead such phrases like this: start with the article, **jump to the noun**, then read the words in between. You don't have to produce these phrases yourself, but you need to understand them in Lesen.",
+      "mdDe": "Zeitungen und offizielle Texte stellen gern eine ganze Wortgruppe zwischen Artikel und Nomen:\n\n- „die **seit Jahren steigenden** Mieten“ = die Mieten, die seit Jahren steigen\n- „das **im Mai eröffnete** Museum“ = das Museum, das im Mai eröffnet wurde\n\nSolche Ausdrücke liest du so: Fang beim Artikel an, **spring zum Nomen** und lies dann die Wörter dazwischen. Du musst solche Ausdrücke nicht selbst bilden, aber im Prüfungsteil Lesen musst du sie verstehen."
+    },
+    {
+      "type": "text",
+      "heading": "Participles as adverbs and nouns",
+      "headingDe": "Partizipien als Adverbien und Nomen",
+      "md": "Without an ending, Partizip I can say *how* somebody does something: „Sie kam **singend** in die Küche.“\n\nMany participles are also used as nouns and then take adjective endings: „der/die **Reisende**“ (traveller), „der/die **Verletzte**“ (injured person), „der/die **Auszubildende**“ (trainee), „ein **Angestellter** – die **Angestellten**“ (employee – employees).",
+      "mdDe": "Ohne Endung kann Partizip I sagen, *wie* jemand etwas macht: „Sie kam **singend** in die Küche.“\n\nViele Partizipien werden auch als Nomen verwendet und haben dann Adjektivendungen: „der/die **Reisende**“ (= Person, die reist), „der/die **Verletzte**“ (= Person mit einer Verletzung), „der/die **Auszubildende**“ (= Person in der Ausbildung), „ein **Angestellter** – die **Angestellten**“ (= Person, die bei einer Firma arbeitet; Singular – Plural)."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Vorsicht, **kochendes** Wasser!", "en": "Careful, boiling water!" },
+        { "de": "Die **steigenden** Preise sind für viele Familien ein Problem.", "en": "Rising prices are a problem for many families." },
+        { "de": "Bitte beantworten Sie die **folgenden** Fragen.", "en": "Please answer the following questions." },
+        { "de": "Wir haben ein **gebrauchtes** Auto gekauft.", "en": "We bought a used car." },
+        { "de": "Die **gestohlenen** Fahrräder wurden im Park gefunden.", "en": "The stolen bikes were found in the park." },
+        { "de": "Das war ein **spannendes** Spiel!", "en": "That was an exciting game!" },
+        { "de": "Auf dem Foto sieht man ein **lachendes** Kind.", "en": "In the photo you can see a laughing child." },
+        { "de": "Bitte schicken Sie uns den **ausgefüllten** Antrag bis Ende Mai zurück.", "en": "Please send the completed application form back to us by the end of May." },
+        { "de": "Die **im letzten Jahr renovierte** Bibliothek ist jetzt auch samstags geöffnet.", "en": "The library, which was renovated last year, is now also open on Saturdays." },
+        { "de": "Sie kam **singend** in die Küche.", "en": "She came into the kitchen singing." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Feeling words are the classic trap.** Partizip I describes the thing that **causes** a feeling, Partizip II describes the **person** who has the feeling – just like English *-ing* and *-ed*:\n\n- „Der Film ist **spannend**.“ (exciting) – „Ich bin **gespannt**.“ (eager to know what happens)\n- „Die Reise war **aufregend**.“ (exciting) – „Vor der Prüfung bin ich **aufgeregt**.“ (nervous)\n- „Die Nachricht ist **überraschend**.“ (surprising) – „Ich bin **überrascht**.“ (surprised)",
+      "mdDe": "**Gefühlswörter sind die klassische Falle.** Partizip I beschreibt die Sache, die ein Gefühl **auslöst**, Partizip II beschreibt die **Person**, die das Gefühl hat – genau wie *-ing* und *-ed* im Englischen:\n\n- „Der Film ist **spannend**.“ (= er macht neugierig) – „Ich bin **gespannt**.“ (= ich will wissen, was passiert)\n- „Die Reise war **aufregend**.“ (= sehr interessant, nicht langweilig) – „Vor der Prüfung bin ich **aufgeregt**.“ (= nervös)\n- „Die Nachricht ist **überraschend**.“ (= unerwartet) – „Ich bin **überrascht**.“ (= ich habe das nicht erwartet)"
+    },
+    {
+      "type": "tip",
+      "md": "**Lesen Teil 1 and 2:** long participle phrases are typical of newspaper style. Find the article, jump to the noun, then read the middle: „der **vor drei Jahren gegründete** Verein“ = the club that was founded three years ago.\n\n**Sprachbausteine Teil 1:** you may have to choose the ending („die folgenden / folgende / folgendes Fragen“) – participles follow exactly the same rules as other adjectives. In **Teil 2**, watch out for pairs like „spannend/gespannt“.\n\n**Schreiben:** a few participles make your letter precise and natural: „die **folgenden** Informationen“, „ein **dringender** Termin“, „Ich war von dem Kurs **begeistert**.“",
+      "mdDe": "**Lesen Teil 1 und 2:** Lange Partizipgruppen sind typisch für den Zeitungsstil. Such den Artikel, spring zum Nomen und lies dann die Mitte: „der **vor drei Jahren gegründete** Verein“ = der Verein, der vor drei Jahren gegründet wurde.\n\n**Sprachbausteine Teil 1:** Vielleicht musst du die Endung wählen („die folgenden / folgende / folgendes Fragen“) – Partizipien folgen genau denselben Regeln wie andere Adjektive. Achte in **Teil 2** auf Paare wie „spannend/gespannt“.\n\n**Schreiben:** Mit ein paar Partizipien wird dein Brief genau und natürlich: „die **folgenden** Informationen“, „ein **dringender** Termin“, „Ich war von dem Kurs **begeistert**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich bin sehr aufregend, morgen ist meine Prüfung.",
+      "right": "Ich bin sehr aufgeregt, morgen ist meine Prüfung.",
+      "why": "The person who has the feeling → Partizip II („aufgeregt“). „aufregend“ describes the thing that causes the feeling.",
+      "whyDe": "Es geht um die Person, die das Gefühl hat → Partizip II („aufgeregt“). „aufregend“ beschreibt die Sache, die das Gefühl auslöst."
+    },
+    {
+      "wrong": "Der Film war sehr gespannt.",
+      "right": "Der Film war sehr spannend.",
+      "why": "The film causes the feeling → Partizip I „spannend“. The viewers are „gespannt“.",
+      "whyDe": "Der Film löst das Gefühl aus → Partizip I „spannend“. Die Zuschauer sind „gespannt“."
+    },
+    {
+      "wrong": "Wir haben ein reparierendes Auto gekauft.",
+      "right": "Wir haben ein repariertes Auto gekauft.",
+      "why": "The car doesn't repair anything – somebody repaired it. Passive meaning → Partizip II.",
+      "whyDe": "Das Auto repariert nichts – jemand hat es repariert. Passive Bedeutung → Partizip II."
+    },
+    {
+      "wrong": "Die steigende Preise sind ein Problem.",
+      "right": "Die steigenden Preise sind ein Problem.",
+      "why": "Participles before a noun take normal adjective endings: plural after „die“ → -en.",
+      "whyDe": "Partizipien vor einem Nomen haben die normalen Adjektivendungen: Plural nach „die“ → -en."
+    },
+    {
+      "wrong": "Sie kam lachende ins Zimmer.",
+      "right": "Sie kam lachend ins Zimmer.",
+      "why": "Used as an adverb (how she came in), the participle has no ending.",
+      "whyDe": "Als Adverb (wie sie hereinkam) hat das Partizip keine Endung."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Der Film war wirklich ___. Bis zum Ende wusste niemand, wer der Täter war.",
+      "options": ["spannend", "gespannt", "spannende"],
+      "answer": 0,
+      "explanation": "The film creates the suspense → Partizip I „spannend“. After „sein“ there is no ending, so „spannende“ is wrong.",
+      "explanationDe": "Der Film erzeugt die Spannung → Partizip I „spannend“. Nach „sein“ gibt es keine Endung, also ist „spannende“ falsch."
+    },
+    {
+      "type": "mc",
+      "prompt": "Morgen bekomme ich mein Prüfungsergebnis. Ich bin schon sehr ___.",
+      "options": ["spannend", "gespannt", "spannende"],
+      "answer": 1,
+      "explanation": "The person who is waiting eagerly → Partizip II „gespannt“. „Ich bin spannend“ would mean that you yourself are exciting.",
+      "explanationDe": "Die Person wartet neugierig → Partizip II „gespannt“. „Ich bin spannend“ würde bedeuten, dass du selbst spannend bist."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir haben letzte Woche ein ___ Sofa im Internet gekauft.",
+      "options": ["gebrauchtes", "gebrauchendes", "gebraucht"],
+      "answer": 0,
+      "explanation": "Somebody used the sofa before → Partizip II. Before the noun it needs an ending: neuter accusative after „ein“ → „gebrauchtes“.",
+      "explanationDe": "Jemand hat das Sofa vorher benutzt → Partizip II. Vor dem Nomen braucht es eine Endung: Akkusativ neutral nach „ein“ → „gebrauchtes“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Im Restaurant hatten wir einen ___ Tisch am Fenster.",
+      "options": ["reservierten", "reservierenden", "reserviert"],
+      "answer": 0,
+      "explanation": "The table was reserved by somebody → Partizip II. Masculine accusative after „einen“ → „reservierten“.",
+      "explanationDe": "Der Tisch wurde von jemandem reserviert → Partizip II. Akkusativ maskulin nach „einen“ → „reservierten“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bitte lesen Sie den ___ Text und lösen Sie dann die Aufgaben.",
+      "hint": "(folgen, Partizip I)",
+      "answers": ["folgenden"],
+      "explanation": "Partizip I of „folgen“ is „folgend“. Masculine accusative after „den“ → „den folgenden Text“.",
+      "explanationDe": "Das Partizip I von „folgen“ ist „folgend“. Akkusativ maskulin nach „den“ → „den folgenden Text“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wegen der ___ Mieten ziehen viele Familien aus der Innenstadt weg.",
+      "hint": "(steigen, Partizip I)",
+      "answers": ["steigenden"],
+      "explanation": "The rents are rising now → Partizip I „steigend“. „wegen“ + genitive plural after „der“ → „steigenden“.",
+      "explanationDe": "Die Mieten steigen gerade → Partizip I „steigend“. „wegen“ + Genitiv Plural nach „der“ → „steigenden“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Leise, sonst weckst du das ___ Baby!",
+      "hint": "(schlafen, Partizip I)",
+      "answers": ["schlafende"],
+      "explanation": "The baby is sleeping right now → Partizip I „schlafend“. Neuter accusative after „das“ → „schlafende“.",
+      "explanationDe": "Das Baby schläft gerade → Partizip I „schlafend“. Akkusativ neutral nach „das“ → „schlafende“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Heute gibt es ___ Kartoffeln mit Quark.",
+      "hint": "(kochen, Partizip II)",
+      "answers": ["gekochte"],
+      "explanation": "The potatoes have been cooked → Partizip II „gekocht“. Plural accusative without an article → „gekochte“.",
+      "explanationDe": "Die Kartoffeln sind gekocht worden → Partizip II „gekocht“. Akkusativ Plural ohne Artikel → „gekochte“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Haben Sie den ___ Vertrag schon zurückgeschickt?",
+      "hint": "(unterschreiben, Partizip II)",
+      "answers": ["unterschriebenen"],
+      "explanation": "„unterschreiben“ has an inseparable prefix, so its Partizip II has no ge-: „unterschrieben“. Masculine accusative after „den“ → „unterschriebenen“.",
+      "explanationDe": "„unterschreiben“ hat ein untrennbares Präfix, deshalb hat sein Partizip II kein ge-: „unterschrieben“. Akkusativ maskulin nach „den“ → „unterschriebenen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the relative clause with a participle in front of the noun.",
+      "instructionDe": "Ersetze den Relativsatz durch ein Partizip vor dem Nomen.",
+      "prompt": "Das Kind, das weint, sucht seine Mutter.",
+      "answers": ["Das weinende Kind sucht seine Mutter."],
+      "explanation": "„das weint“ is active and happening now → Partizip I „weinend“; neuter nominative after „das“ → „das weinende Kind“.",
+      "explanationDe": "„das weint“ ist aktiv und passiert gerade → Partizip I „weinend“; Nominativ neutral nach „das“ → „das weinende Kind“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the relative clause with a participle in front of the noun.",
+      "instructionDe": "Ersetze den Relativsatz durch ein Partizip vor dem Nomen.",
+      "prompt": "Ich habe das Auto, das repariert wurde, abgeholt.",
+      "answers": ["Ich habe das reparierte Auto abgeholt."],
+      "explanation": "„das repariert wurde“ is passive → Partizip II „repariert“; neuter accusative after „das“ → „das reparierte Auto“.",
+      "explanationDe": "„das repariert wurde“ ist passiv → Partizip II „repariert“; Akkusativ neutral nach „das“ → „das reparierte Auto“."
+    },
+    {
+      "type": "order",
+      "words": ["beliebt.", "Bibliothek", "im", "sehr", "Die", "jungen", "eröffnete", "ist", "Mai", "Leuten", "bei"],
+      "answers": [
+        "Die im Mai eröffnete Bibliothek ist bei jungen Leuten sehr beliebt.",
+        "Bei jungen Leuten ist die im Mai eröffnete Bibliothek sehr beliebt."
+      ],
+      "explanation": "The participle phrase „im Mai eröffnete“ stands between the article „Die“ and the noun „Bibliothek“. Then the verb „ist“ follows in position 2.",
+      "explanationDe": "Die Partizipgruppe „im Mai eröffnete“ steht zwischen dem Artikel „Die“ und dem Nomen „Bibliothek“. Danach folgt das Verb „ist“ auf Position 2."
+    }
+  ],
+  "related": ["adjektivdeklination", "perfekt", "passiv", "relativsaetze"]
+}

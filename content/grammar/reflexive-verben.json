@@ -1,0 +1,252 @@
+{
+  "id": "reflexive-verben",
+  "level": "B1",
+  "category": "verben",
+  "order": 8,
+  "title": "Reflexive Verben (Akkusativ und Dativ)",
+  "titleEn": "Reflexive verbs",
+  "summary": "Verbs like „sich freuen“ and „sich etwas wünschen“: when the reflexive pronoun is accusative (mich, dich) and when it is dative (mir, dir).",
+  "summaryDe": "Verben wie „sich freuen“ und „sich etwas wünschen“: wann das Reflexivpronomen im Akkusativ steht (mich, dich) und wann im Dativ (mir, dir).",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The reflexive pronoun refers back to the subject and is normally **accusative**: Ich freue **mich**. If the sentence already has another accusative object, the pronoun becomes **dative**: Ich wasche **mir** die Hände.",
+      "mdDe": "Das Reflexivpronomen bezieht sich auf das Subjekt zurück und steht normalerweise im **Akkusativ**: Ich freue **mich**. Wenn der Satz schon ein anderes Akkusativobjekt hat, steht das Pronomen im **Dativ**: Ich wasche **mir** die Hände."
+    },
+    {
+      "type": "text",
+      "heading": "What is a reflexive verb?",
+      "headingDe": "Was ist ein reflexives Verb?",
+      "md": "With a reflexive verb the subject does something to itself, or the pronoun is simply a fixed part of the verb. The pronoun always matches the subject: ich → mich, du → dich, er/sie/es/man → sich, wir → uns, ihr → euch, sie/Sie → sich.\n\nThere are two groups:\n\n- **Always reflexive:** the verb is (practically) never used without the pronoun – sich beeilen, sich erholen, sich erkälten, sich kümmern um, sich verlieben, sich bedanken, sich irren.\n- **Reflexive or not:** the same verb can also have a normal object. Compare „Ich wasche **mich**.“ (myself) and „Ich wasche **das Auto**.“ (the car). Other verbs like this: anziehen, ärgern, treffen, vorstellen, setzen.",
+      "mdDe": "Bei einem reflexiven Verb macht das Subjekt etwas mit sich selbst, oder das Pronomen ist einfach ein fester Teil des Verbs. Das Pronomen passt immer zum Subjekt: ich → mich, du → dich, er/sie/es/man → sich, wir → uns, ihr → euch, sie/Sie → sich.\n\nEs gibt zwei Gruppen:\n\n- **Immer reflexiv:** Das Verb kommt (praktisch) nie ohne das Pronomen vor – sich beeilen, sich erholen, sich erkälten, sich kümmern um, sich verlieben, sich bedanken, sich irren.\n- **Reflexiv oder nicht:** Dasselbe Verb kann auch ein normales Objekt haben. Vergleiche „Ich wasche **mich**.“ (mich selbst) und „Ich wasche **das Auto**.“ (ein anderes Objekt). Weitere Verben dieser Art: anziehen, ärgern, treffen, vorstellen, setzen."
+    },
+    {
+      "type": "table",
+      "heading": "Reflexive pronouns",
+      "headingDe": "Reflexivpronomen",
+      "columns": ["Person", "Akkusativ", "Dativ", "Beispiel"],
+      "columnsDe": ["Person", "Akkusativ", "Dativ", "Beispiel"],
+      "rows": [
+        ["ich", "mich", "mir", "Ich ziehe mich an. / Ich ziehe mir die Jacke an."],
+        ["du", "dich", "dir", "Du ziehst dich an. / Du ziehst dir die Jacke an."],
+        ["er / sie / es / man", "sich", "sich", "Er zieht sich an. / Er zieht sich die Jacke an."],
+        ["wir", "uns", "uns", "Wir ziehen uns an. / Wir ziehen uns die Jacken an."],
+        ["ihr", "euch", "euch", "Ihr zieht euch an. / Ihr zieht euch die Jacken an."],
+        ["sie / Sie", "sich", "sich", "Sie ziehen sich an. / Sie ziehen sich die Jacken an."]
+      ],
+      "note": "Only ich and du have different forms in the accusative and the dative. For all other persons the form is the same in both cases.",
+      "noteDe": "Nur ich und du haben im Akkusativ und im Dativ verschiedene Formen. Bei allen anderen Personen ist die Form in beiden Kasus gleich."
+    },
+    {
+      "type": "text",
+      "heading": "Accusative or dative?",
+      "headingDe": "Akkusativ oder Dativ?",
+      "md": "Ask yourself: **Is there another accusative object in the sentence?**\n\n- **No** → accusative pronoun: Ich wasche **mich**. Ich ziehe **mich** an. Ich stelle **mich** vor. (= I introduce myself.)\n- **Yes** → dative pronoun: Ich wasche **mir** die Haare. Ich ziehe **mir** einen Pullover an. Ich stelle **mir** die Reise toll vor. (= I imagine the trip will be great.)\n\nTypical verbs with a dative pronoun + accusative object: sich etwas wünschen, sich etwas vorstellen (to imagine), sich etwas ansehen, sich etwas überlegen, sich etwas merken, sich etwas leisten (to afford), sich etwas kaufen, sich die Zähne putzen, sich das Bein brechen, sich Sorgen machen.",
+      "mdDe": "Frag dich: **Gibt es im Satz noch ein anderes Akkusativobjekt?**\n\n- **Nein** → Pronomen im Akkusativ: Ich wasche **mich**. Ich ziehe **mich** an. Ich stelle **mich** vor. (= Ich sage, wer ich bin.)\n- **Ja** → Pronomen im Dativ: Ich wasche **mir** die Haare. Ich ziehe **mir** einen Pullover an. Ich stelle **mir** die Reise toll vor. (= Ich denke, die Reise wird toll.)\n\nTypische Verben mit Dativpronomen + Akkusativobjekt: sich etwas wünschen, sich etwas vorstellen (= ein Bild im Kopf haben), sich etwas ansehen, sich etwas überlegen, sich etwas merken, sich etwas leisten (= genug Geld für etwas haben), sich etwas kaufen, sich die Zähne putzen, sich das Bein brechen, sich Sorgen machen."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich **freue mich** schon auf deinen Besuch.", "en": "I'm already looking forward to your visit." },
+        { "de": "**Hast du dich** schon für den Kurs **angemeldet**?", "en": "Have you registered for the course yet?" },
+        { "de": "Wir **haben uns** im Urlaub gut **erholt**.", "en": "We had a good rest on holiday." },
+        { "de": "Ich **wünsche mir** zum Geburtstag ein Fahrrad.", "en": "I'd like a bike for my birthday." },
+        { "de": "Ich kann **mir** gut **vorstellen**, im Ausland zu arbeiten.", "en": "I can easily imagine working abroad." },
+        { "de": "Darf ich **mich** kurz **vorstellen**? Mein Name ist Elif Aksoy.", "en": "May I briefly introduce myself? My name is Elif Aksoy." },
+        { "de": "Er **hat sich** beim Fußball das Bein **gebrochen**.", "en": "He broke his leg playing football." },
+        { "de": "**Beeilt euch**, der Zug fährt gleich ab!", "en": "Hurry up, everyone, the train is about to leave!" },
+        { "de": "Ich **mache mir** Sorgen um meinen Vater.", "en": "I'm worried about my father." },
+        { "de": "Wir **sehen uns** am Samstag die Wohnung **an**.", "en": "We're going to look at the flat on Saturday." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Reflexive verbs with a preposition",
+      "headingDe": "Reflexive Verben mit Präposition",
+      "columns": ["Verb", "+ Präposition", "Beispiel", "English"],
+      "columnsDe": ["Verb", "+ Präposition", "Beispiel", "Bedeutung"],
+      "rows": [
+        ["sich freuen", "auf + Akk.", "Ich freue mich auf das Wochenende.", "to look forward to"],
+        ["sich freuen", "über + Akk.", "Sie freut sich über die Blumen.", "to be pleased about"],
+        ["sich interessieren", "für + Akk.", "Interessierst du dich für Fußball?", "to be interested in"],
+        ["sich kümmern", "um + Akk.", "Wer kümmert sich um die Katze?", "to take care of"],
+        ["sich ärgern", "über + Akk.", "Er ärgert sich über den Stau.", "to be annoyed about"],
+        ["sich erinnern", "an + Akk.", "Ich erinnere mich gern an die Reise.", "to remember"],
+        ["sich gewöhnen", "an + Akk.", "Wir haben uns an das Klima gewöhnt.", "to get used to"],
+        ["sich bewerben", "um + Akk. / bei + Dat.", "Sie bewirbt sich um eine Stelle bei der Post.", "to apply for / to"],
+        ["sich beschweren", "über + Akk. / bei + Dat.", "Ich beschwere mich beim Vermieter über die Heizung.", "to complain about / to"],
+        ["sich entschuldigen", "für + Akk. / bei + Dat.", "Er entschuldigt sich bei ihr für die Verspätung.", "to apologise for / to"],
+        ["sich unterhalten", "mit + Dat. / über + Akk.", "Wir unterhalten uns mit den Nachbarn über den Garten.", "to chat with / about"],
+        ["sich verabreden", "mit + Dat.", "Ich verabrede mich mit Lena zum Kaffee.", "to arrange to meet"],
+        ["sich vorbereiten", "auf + Akk.", "Ich bereite mich auf die Prüfung vor.", "to prepare for"]
+      ],
+      "rowsDe": [
+        ["sich freuen", "auf + Akk.", "Ich freue mich auf das Wochenende.", "auf etwas Zukünftiges gespannt sein"],
+        ["sich freuen", "über + Akk.", "Sie freut sich über die Blumen.", "froh über etwas sein"],
+        ["sich interessieren", "für + Akk.", "Interessierst du dich für Fußball?", "Interesse an etwas haben"],
+        ["sich kümmern", "um + Akk.", "Wer kümmert sich um die Katze?", "für jemanden oder etwas sorgen"],
+        ["sich ärgern", "über + Akk.", "Er ärgert sich über den Stau.", "wütend über etwas sein"],
+        ["sich erinnern", "an + Akk.", "Ich erinnere mich gern an die Reise.", "an etwas zurückdenken"],
+        ["sich gewöhnen", "an + Akk.", "Wir haben uns an das Klima gewöhnt.", "etwas mit der Zeit normal finden"],
+        ["sich bewerben", "um + Akk. / bei + Dat.", "Sie bewirbt sich um eine Stelle bei der Post.", "offiziell um eine Stelle bitten"],
+        ["sich beschweren", "über + Akk. / bei + Dat.", "Ich beschwere mich beim Vermieter über die Heizung.", "sagen, dass man unzufrieden ist"],
+        ["sich entschuldigen", "für + Akk. / bei + Dat.", "Er entschuldigt sich bei ihr für die Verspätung.", "sagen, dass einem etwas leidtut"],
+        ["sich unterhalten", "mit + Dat. / über + Akk.", "Wir unterhalten uns mit den Nachbarn über den Garten.", "miteinander sprechen"],
+        ["sich verabreden", "mit + Dat.", "Ich verabrede mich mit Lena zum Kaffee.", "ein Treffen ausmachen"],
+        ["sich vorbereiten", "auf + Akk.", "Ich bereite mich auf die Prüfung vor.", "sich für etwas bereit machen"]
+      ],
+      "note": "More verbs with fixed prepositions: see the topic „Verben mit Präpositionen“.",
+      "noteDe": "Mehr Verben mit festen Präpositionen: siehe das Thema „Verben mit Präpositionen“."
+    },
+    {
+      "type": "text",
+      "heading": "Word order and Perfekt",
+      "headingDe": "Wortstellung und Perfekt",
+      "md": "- **Main clause:** the pronoun comes right after the conjugated verb – Ich **freue mich** sehr. If a subject pronoun follows the verb, the reflexive pronoun comes after it – Morgen **treffen wir uns** im Park.\n- **Subordinate clause:** the pronoun usually comes right after the subject – …, weil **ich mich** erkältet habe.\n- **Perfekt:** reflexive verbs always use **haben** – Ich **habe mich** beeilt. Wir **haben uns** gut erholt.\n- **Imperative:** the pronoun follows the verb – **Beeil dich!** **Beeilt euch!** **Beeilen Sie sich!**",
+      "mdDe": "- **Hauptsatz:** Das Pronomen steht direkt nach dem konjugierten Verb – Ich **freue mich** sehr. Wenn nach dem Verb ein Subjektpronomen steht, kommt das Reflexivpronomen danach – Morgen **treffen wir uns** im Park.\n- **Nebensatz:** Das Pronomen steht meistens direkt nach dem Subjekt – …, weil **ich mich** erkältet habe.\n- **Perfekt:** Reflexive Verben bilden das Perfekt immer mit **haben** – Ich **habe mich** beeilt. Wir **haben uns** gut erholt.\n- **Imperativ:** Das Pronomen steht nach dem Verb – **Beeil dich!** **Beeilt euch!** **Beeilen Sie sich!**"
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 1:** you often choose between „mich / mir / sich“ or „dich / dir“. Check the subject first, then look for another accusative object in the sentence.\n- **Sprachbausteine Teil 2:** the missing word is often the preposition after the verb: sich interessieren **für**, sich bewerben **um**, sich kümmern **um**.\n- **Schreiben:** reflexive verbs give you ready-made phrases for a better score: „Ich freue mich auf Ihre Antwort.“ – „Ich möchte mich herzlich für die Einladung bedanken.“ – „Leider muss ich mich über … beschweren.“\n- **Sprechen Teil 3:** „Wann treffen wir uns?“ – „Ich kümmere mich um die Getränke.“ – „Wir müssen uns noch überlegen, was wir mitbringen.“",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 1:** Oft wählst du zwischen „mich / mir / sich“ oder „dich / dir“. Prüfe zuerst das Subjekt und such dann nach einem anderen Akkusativobjekt im Satz.\n- **Sprachbausteine Teil 2:** Das fehlende Wort ist oft die Präposition nach dem Verb: sich interessieren **für**, sich bewerben **um**, sich kümmern **um**.\n- **Schreiben:** Reflexive Verben geben dir fertige Redemittel für eine bessere Bewertung: „Ich freue mich auf Ihre Antwort.“ – „Ich möchte mich herzlich für die Einladung bedanken.“ – „Leider muss ich mich über … beschweren.“\n- **Sprechen Teil 3:** „Wann treffen wir uns?“ – „Ich kümmere mich um die Getränke.“ – „Wir müssen uns noch überlegen, was wir mitbringen.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap: sich vorstellen.** „Ich stelle **mich** vor.“ means *I introduce myself* (no other object → accusative). „Ich stelle **mir** das vor.“ means *I imagine it* („das“ is the accusative object → dative). So it is always „Ich kann **mir** nicht vorstellen, dass …“ – never „mich“. And remember: „sich“ is never used with ich or du – „Ich freue sich“ is always wrong.",
+      "mdDe": "**Typische Falle: sich vorstellen.** „Ich stelle **mich** vor.“ bedeutet *ich sage meinen Namen und wer ich bin* (kein anderes Objekt → Akkusativ). „Ich stelle **mir** das vor.“ bedeutet *ich habe ein Bild davon im Kopf* („das“ ist das Akkusativobjekt → Dativ). Deshalb heißt es immer „Ich kann **mir** nicht vorstellen, dass …“ – nie „mich“. Und denk daran: „sich“ steht nie bei ich oder du – „Ich freue sich“ ist immer falsch."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich freue sich auf die Ferien.",
+      "right": "Ich freue mich auf die Ferien.",
+      "why": "„sich“ is only used for er/sie/es/man, sie (plural) and Sie. With „ich“ the pronoun is „mich“.",
+      "whyDe": "„sich“ verwendet man nur bei er/sie/es/man, sie (Plural) und Sie. Bei „ich“ heißt das Pronomen „mich“."
+    },
+    {
+      "wrong": "Ich putze mich die Zähne.",
+      "right": "Ich putze mir die Zähne.",
+      "why": "„die Zähne“ is already the accusative object, so the reflexive pronoun must be dative: „mir“.",
+      "whyDe": "„die Zähne“ ist schon das Akkusativobjekt, deshalb muss das Reflexivpronomen im Dativ stehen: „mir“."
+    },
+    {
+      "wrong": "Ich bin mich gestern erkältet.",
+      "right": "Ich habe mich gestern erkältet.",
+      "why": "Reflexive verbs always form the Perfekt with „haben“.",
+      "whyDe": "Reflexive Verben bilden das Perfekt immer mit „haben“."
+    },
+    {
+      "wrong": "Ich kann mich das gut vorstellen.",
+      "right": "Ich kann mir das gut vorstellen.",
+      "why": "„sich etwas vorstellen“ (to imagine) has an accusative object („das“), so the pronoun is dative: „mir“.",
+      "whyDe": "„sich etwas vorstellen“ (= ein Bild im Kopf haben) hat ein Akkusativobjekt („das“), deshalb steht das Pronomen im Dativ: „mir“."
+    },
+    {
+      "wrong": "Wir treffen morgen uns vor dem Kino.",
+      "right": "Wir treffen uns morgen vor dem Kino.",
+      "why": "The reflexive pronoun comes directly after the conjugated verb (or after a subject pronoun), before time expressions like „morgen“.",
+      "whyDe": "Das Reflexivpronomen steht direkt nach dem konjugierten Verb (oder nach einem Subjektpronomen), vor Zeitangaben wie „morgen“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich interessiere ___ sehr für Fotografie.",
+      "options": ["mich", "mir", "sich"],
+      "answer": 0,
+      "explanation": "There is no other accusative object, so the pronoun is accusative: „mich“. „sich“ is only for er/sie/es, sie and Sie.",
+      "explanationDe": "Es gibt kein anderes Akkusativobjekt, deshalb steht das Pronomen im Akkusativ: „mich“. „sich“ gibt es nur bei er/sie/es, sie und Sie."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich putze ___ nach jedem Essen die Zähne.",
+      "options": ["mich", "mir", "sich"],
+      "answer": 1,
+      "explanation": "„die Zähne“ is the accusative object, so the reflexive pronoun is dative: „mir“.",
+      "explanationDe": "„die Zähne“ ist das Akkusativobjekt, deshalb steht das Reflexivpronomen im Dativ: „mir“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Kannst du ___ vorstellen, wie teuer die Wohnungen in München sind?",
+      "options": ["dich", "dir", "sich"],
+      "answer": 1,
+      "explanation": "„sich etwas vorstellen“ = to imagine. What you imagine (here the „wie“-clause) is the accusative object, so the pronoun is dative: „dir“.",
+      "explanationDe": "„sich etwas vorstellen“ = ein Bild im Kopf haben. Das, was du dir vorstellst (hier der „wie“-Satz), ist das Akkusativobjekt, deshalb steht das Pronomen im Dativ: „dir“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mein Bruder hat ___ beim Skifahren den Arm gebrochen.",
+      "options": ["sich", "ihn", "mich"],
+      "answer": 0,
+      "explanation": "He broke his own arm, so the pronoun refers back to the subject „mein Bruder“: „sich“. It is dative here, because „den Arm“ is the accusative object.",
+      "explanationDe": "Er hat sich selbst den Arm gebrochen, also bezieht sich das Pronomen auf das Subjekt „mein Bruder“: „sich“. Hier ist es Dativ, weil „den Arm“ das Akkusativobjekt ist."
+    },
+    {
+      "type": "gap",
+      "prompt": "Beeil ___, der Film fängt gleich an!",
+      "answers": ["dich"],
+      "hint": "(du)",
+      "explanation": "Imperative for „du“: the reflexive pronoun follows the verb – „Beeil dich!“",
+      "explanationDe": "Imperativ für „du“: Das Reflexivpronomen steht nach dem Verb – „Beeil dich!“"
+    },
+    {
+      "type": "gap",
+      "prompt": "Habt ihr ___ schon für den Ausflug angemeldet?",
+      "answers": ["euch"],
+      "hint": "(reflexive pronoun)",
+      "hintDe": "(Reflexivpronomen)",
+      "explanation": "The subject is „ihr“, so the reflexive pronoun is „euch“ (same form in the accusative and the dative).",
+      "explanationDe": "Das Subjekt ist „ihr“, deshalb heißt das Reflexivpronomen „euch“ (gleiche Form im Akkusativ und im Dativ)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich muss ___ die neue PIN gut merken.",
+      "answers": ["mir"],
+      "explanation": "„sich etwas merken“: „die neue PIN“ is the accusative object, so „ich“ needs the dative pronoun „mir“.",
+      "explanationDe": "„sich etwas merken“: „die neue PIN“ ist das Akkusativobjekt, deshalb braucht „ich“ das Dativpronomen „mir“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Frau Krüger hat ___ beim Hausmeister über die kaputte Heizung beschwert.",
+      "answers": ["sich"],
+      "explanation": "The subject „Frau Krüger“ is 3rd person singular, so the reflexive pronoun is „sich“.",
+      "explanationDe": "Das Subjekt „Frau Krüger“ ist 3. Person Singular, deshalb heißt das Reflexivpronomen „sich“."
+    },
+    {
+      "type": "order",
+      "words": ["schon", "Ferien.", "mich", "Ich", "auf", "freue", "die"],
+      "answers": ["Ich freue mich schon auf die Ferien."],
+      "explanation": "„sich freuen auf“ + accusative is used for something in the future. The reflexive pronoun „mich“ comes right after the conjugated verb „freue“.",
+      "explanationDe": "„sich freuen auf“ + Akkusativ verwendest du für etwas in der Zukunft. Das Reflexivpronomen „mich“ steht direkt nach dem konjugierten Verb „freue“."
+    },
+    {
+      "type": "order",
+      "words": ["schon", "die", "angesehen?", "Hast", "dir", "Wohnung", "du"],
+      "answers": ["Hast du dir die Wohnung schon angesehen?", "Hast du dir schon die Wohnung angesehen?"],
+      "explanation": "„sich etwas ansehen“: „die Wohnung“ is the accusative object, so the pronoun is dative („dir“). It comes right after the subject „du“; the participle „angesehen“ goes to the end.",
+      "explanationDe": "„sich etwas ansehen“: „die Wohnung“ ist das Akkusativobjekt, deshalb steht das Pronomen im Dativ („dir“). Es steht direkt nach dem Subjekt „du“; das Partizip „angesehen“ steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „ich“ as the subject.",
+      "instructionDe": "Schreibe den Satz mit „ich“ als Subjekt.",
+      "prompt": "Er wäscht sich jeden Morgen die Haare.",
+      "answers": ["Ich wasche mir jeden Morgen die Haare."],
+      "explanation": "„die Haare“ is the accusative object, so with „ich“ the reflexive pronoun is dative: „mir“ – not „mich“.",
+      "explanationDe": "„die Haare“ ist das Akkusativobjekt, deshalb steht das Reflexivpronomen bei „ich“ im Dativ: „mir“ – nicht „mich“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the sentence into the Perfekt.",
+      "instructionDe": "Setze den Satz ins Perfekt.",
+      "prompt": "Wir verabreden uns für Samstag.",
+      "answers": ["Wir haben uns für Samstag verabredet."],
+      "explanation": "Reflexive verbs form the Perfekt with „haben“. The pronoun „uns“ stays right after the auxiliary verb, and the participle „verabredet“ goes to the end.",
+      "explanationDe": "Reflexive Verben bilden das Perfekt mit „haben“. Das Pronomen „uns“ bleibt direkt nach dem Hilfsverb, und das Partizip „verabredet“ steht am Ende."
+    }
+  ],
+  "related": ["verben-mit-praepositionen", "verben-mit-dativ", "pronomen", "perfekt", "imperativ"]
+}

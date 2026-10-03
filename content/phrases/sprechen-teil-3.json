@@ -1,0 +1,138 @@
+{
+  "id": "sprechen-teil-3",
+  "order": 5,
+  "context": "sprechen-3",
+  "title": "Gemeinsam etwas planen",
+  "titleEn": "Planning together",
+  "description": "Plan a party, a trip or a present with your partner: make and justify suggestions, react to your partner's ideas, find a compromise, share out the tasks and sum up the plan. The phrases use „du“ – the notes show the Sie-form where it changes.",
+  "descriptionDe": "Plane mit deinem Gegenüber eine Party, einen Ausflug oder ein Geschenk: Mach Vorschläge und begründe sie, reagiere auf die Ideen deines Gegenübers, finde einen Kompromiss, verteile die Aufgaben und fasse den Plan zusammen. Die Redemittel verwenden „du“ – die Hinweise zeigen die Sie-Form, wo sie anders ist.",
+  "groups": [
+    {
+      "title": "Das Gespräch beginnen",
+      "titleEn": "Getting started",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Wir sollen zusammen eine Abschiedsparty für unsere Kollegin planen.", "en": "We're supposed to plan a farewell party for our colleague together.", "note": "Start by saying what you are planning.", "noteDe": "Sag zuerst, was ihr plant." },
+        { "de": "Womit fangen wir an?", "en": "Where shall we start?" },
+        { "de": "Ich schlage vor, wir überlegen zuerst, wann die Party stattfinden soll.", "en": "I suggest we first think about when the party should take place." },
+        { "de": "Sollen wir zuerst über den Termin sprechen?", "en": "Shall we talk about the date first?" },
+        { "de": "Am besten gehen wir die Punkte der Reihe nach durch.", "en": "It's best if we go through the points one by one.", "note": "der Reihe nach = in order, one after the other", "noteDe": "der Reihe nach = nacheinander, eins nach dem anderen" },
+        { "de": "Was ist deiner Meinung nach am wichtigsten?", "en": "What do you think is the most important thing?", "note": "Sie-form: „Was ist Ihrer Meinung nach …?“", "noteDe": "Sie-Form: „Was ist Ihrer Meinung nach …?“" }
+      ]
+    },
+    {
+      "title": "Vorschläge machen",
+      "titleEn": "Making suggestions",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Wie wäre es mit Samstagnachmittag?", "en": "How about Saturday afternoon?", "note": "Wie wäre es mit + dative", "noteDe": "Wie wäre es mit + Dativ" },
+        { "de": "Ich schlage vor, dass wir im Gemeinschaftsraum feiern.", "en": "I suggest we have the party in the common room.", "note": "+ dass-clause, verb at the end", "noteDe": "+ dass-Satz, Verb am Ende" },
+        { "de": "Wir könnten doch einen Bus mieten.", "en": "We could hire a bus, couldn't we?", "note": "„doch“ makes the suggestion sound friendly.", "noteDe": "Mit „doch“ klingt der Vorschlag freundlich." },
+        { "de": "Was hältst du davon, wenn wir einen Gutschein kaufen?", "en": "What do you think about buying a voucher?", "note": "Sie-form: „Was halten Sie davon, …?“", "noteDe": "Sie-Form: „Was halten Sie davon, …?“" },
+        { "de": "Ich hätte eine Idee: Wir machen ein Picknick im Park.", "en": "I've got an idea: let's have a picnic in the park." },
+        { "de": "Lass uns doch eine Liste machen.", "en": "Let's make a list.", "note": "Sie-form: „Lassen Sie uns …“", "noteDe": "Sie-Form: „Lassen Sie uns …“" },
+        { "de": "Vielleicht sollten wir auch die anderen fragen.", "en": "Maybe we should ask the others too." },
+        { "de": "Wäre es nicht besser, früher anzufangen?", "en": "Wouldn't it be better to start earlier?" },
+        { "de": "Was meinst du, sollen wir Pizza bestellen?", "en": "What do you think – shall we order pizza?" }
+      ]
+    },
+    {
+      "title": "Vorschläge begründen",
+      "titleEn": "Giving reasons",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Samstag wäre gut, weil dann die meisten nicht arbeiten müssen.", "en": "Saturday would be good, because most people don't have to work then.", "note": "weil + verb at the end", "noteDe": "weil + Verb am Ende" },
+        { "de": "Das hat den Vorteil, dass wir nicht so viel Geld ausgeben.", "en": "That has the advantage that we don't spend so much money." },
+        { "de": "So müssen wir nicht alles allein organisieren.", "en": "That way we don't have to organise everything ourselves.", "note": "„So“ = that way; verb in second position", "noteDe": "„So“ = auf diese Weise; Verb auf Position 2" },
+        { "de": "Dann können auch die Kinder mitkommen.", "en": "Then the children can come along too." },
+        { "de": "Das ist am praktischsten, denn der Park liegt direkt neben der Schule.", "en": "That's the most practical option, because the park is right next to the school." },
+        { "de": "Außerdem ist das Wetter im Juni meistens schön.", "en": "Besides, the weather is usually nice in June." },
+        { "de": "Ich denke, das ist eine gute Lösung, weil es nicht viel kostet.", "en": "I think that's a good solution because it doesn't cost much." }
+      ]
+    },
+    {
+      "title": "Nach der Meinung fragen",
+      "titleEn": "Asking for your partner's opinion",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Was ist dir lieber: Freitag oder Samstag?", "en": "Which do you prefer: Friday or Saturday?", "note": "Sie-form: „Was ist Ihnen lieber …?“", "noteDe": "Sie-Form: „Was ist Ihnen lieber …?“" },
+        { "de": "Bist du damit einverstanden?", "en": "Are you okay with that?", "note": "einverstanden sein mit + dative", "noteDe": "einverstanden sein mit + Dativ" },
+        { "de": "Hast du vielleicht eine bessere Idee?", "en": "Do you have a better idea?" },
+        { "de": "Passt dir das?", "en": "Does that suit you?", "note": "Sie-form: „Passt Ihnen das?“", "noteDe": "Sie-Form: „Passt Ihnen das?“" },
+        { "de": "Was denkst du, wie viele Leute kommen?", "en": "How many people do you think will come?" },
+        { "de": "Wie findest du den Vorschlag?", "en": "What do you think of the suggestion?" }
+      ]
+    },
+    {
+      "title": "Zustimmen",
+      "titleEn": "Agreeing",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Gute Idee, das machen wir!", "en": "Good idea, let's do that!" },
+        { "de": "Einverstanden!", "en": "Agreed!" },
+        { "de": "Damit bin ich einverstanden.", "en": "I'm fine with that." },
+        { "de": "Ja, das passt mir gut.", "en": "Yes, that suits me well." },
+        { "de": "Klar, das ist kein Problem.", "en": "Sure, that's no problem." },
+        { "de": "Ja, so machen wir es.", "en": "Yes, let's do it like that." },
+        { "de": "Prima, daran habe ich gar nicht gedacht.", "en": "Great – I hadn't thought of that at all.", "note": "denken an + accusative", "noteDe": "denken an + Akkusativ" }
+      ]
+    },
+    {
+      "title": "Ablehnen und Gegenvorschläge machen",
+      "titleEn": "Declining and making counter-proposals",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Das ist keine schlechte Idee, aber ich fürchte, das ist zu teuer.", "en": "That's not a bad idea, but I'm afraid it's too expensive.", "note": "Start positively, then give your objection.", "noteDe": "Fang positiv an und nenne dann deinen Einwand." },
+        { "de": "Ich weiß nicht, ob das so gut ist. Wie wäre es stattdessen mit einem Grillfest?", "en": "I'm not sure that's such a good idea. How about a barbecue instead?" },
+        { "de": "Samstag passt mir leider nicht, da muss ich arbeiten. Geht es vielleicht am Sonntag?", "en": "Unfortunately Saturday doesn't suit me – I have to work then. Would Sunday work?" },
+        { "de": "Ich bin mir nicht sicher. Vielleicht wäre es besser, zu Hause zu feiern.", "en": "I'm not sure. Maybe it would be better to celebrate at home." },
+        { "de": "Das finde ich nicht so gut, weil viele Leute kein Auto haben.", "en": "I don't think that's such a good idea, because a lot of people don't have a car." },
+        { "de": "Ich habe einen anderen Vorschlag: Wir fahren mit dem Zug.", "en": "I have a different suggestion: let's go by train." },
+        { "de": "Das geht leider nicht, weil der Raum am Wochenende geschlossen ist.", "en": "Unfortunately that's not possible, because the room is closed at the weekend." },
+        { "de": "Gute Idee, aber das schaffen wir zeitlich nicht.", "en": "Good idea, but we won't manage it in the time we have." }
+      ]
+    },
+    {
+      "title": "Einen Kompromiss finden",
+      "titleEn": "Finding a compromise",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Wie wäre es mit einem Kompromiss?", "en": "How about a compromise?" },
+        { "de": "Okay, dann machen wir es so: Wir treffen uns um 15 Uhr, aber nur für zwei Stunden.", "en": "Okay, let's do it like this: we'll meet at 3 pm, but only for two hours." },
+        { "de": "Wir können ja beides machen: zuerst ein Picknick und dann ins Museum.", "en": "We could do both: first a picnic and then the museum." },
+        { "de": "Gut, dann nehmen wir deinen Vorschlag, und ich kümmere mich um die Getränke.", "en": "Fine, then we'll go with your suggestion, and I'll take care of the drinks." },
+        { "de": "Das ist ein guter Mittelweg.", "en": "That's a good middle way." },
+        { "de": "Gut, dann probieren wir es so.", "en": "Fine, then let's try it that way." },
+        { "de": "Wenn das Wetter schlecht ist, können wir immer noch drinnen feiern.", "en": "If the weather is bad, we can still celebrate indoors.", "note": "A plan B shows that you are thinking ahead.", "noteDe": "Ein Plan B zeigt, dass du vorausdenkst." }
+      ]
+    },
+    {
+      "title": "Aufgaben verteilen",
+      "titleEn": "Sharing out the tasks",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Wer kümmert sich um das Essen?", "en": "Who'll take care of the food?", "note": "sich kümmern um + accusative", "noteDe": "sich kümmern um + Akkusativ" },
+        { "de": "Ich kann die Einladungen schreiben, wenn du willst.", "en": "I can write the invitations if you like." },
+        { "de": "Kannst du dich um die Musik kümmern?", "en": "Can you take care of the music?" },
+        { "de": "Ich übernehme das Einkaufen.", "en": "I'll do the shopping.", "note": "übernehmen = to take on (a task)", "noteDe": "übernehmen = eine Aufgabe selbst machen" },
+        { "de": "Dann besorgst du die Getränke und ich das Geschenk.", "en": "Then you get the drinks and I'll get the present.", "note": "besorgen = to get, to buy", "noteDe": "besorgen = holen, kaufen" },
+        { "de": "Wer ruft im Restaurant an und reserviert einen Tisch?", "en": "Who'll call the restaurant and book a table?" },
+        { "de": "Das mache ich gern.", "en": "I'm happy to do that." },
+        { "de": "Sollen wir die Kosten teilen?", "en": "Shall we share the costs?" }
+      ]
+    },
+    {
+      "title": "Zusammenfassen und abschließen",
+      "titleEn": "Summing up and finishing",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Also, fassen wir zusammen: Die Party ist am Freitag um 18 Uhr im Kursraum.", "en": "So, let's sum up: the party is on Friday at 6 pm in the classroom." },
+        { "de": "Dann haben wir jetzt alles besprochen, oder?", "en": "So we've discussed everything now, haven't we?" },
+        { "de": "Gut, dann ist alles klar: Du kaufst ein und ich schreibe die Einladungen.", "en": "Good, then everything's clear: you do the shopping and I'll write the invitations." },
+        { "de": "Haben wir noch etwas vergessen?", "en": "Have we forgotten anything?" },
+        { "de": "Wir müssen nur noch klären, wie viel jeder bezahlt.", "en": "We just need to sort out how much everyone pays." },
+        { "de": "Super, ich glaube, das wird eine schöne Feier!", "en": "Great, I think it's going to be a lovely party!" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "hoeren-1-03",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Der Weg zur Arbeit",
+  "topic": "reisen",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "mod", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "franziska", "name": "Franziska", "gender": "f", "age": "adult" },
+    { "id": "dennis", "name": "Dennis", "gender": "m", "age": "young" },
+    { "id": "gisela", "name": "Gisela", "gender": "f", "age": "senior" },
+    { "id": "stefan", "name": "Stefan", "gender": "m", "age": "adult" },
+    { "id": "nora", "name": "Nora", "gender": "f", "age": "young" }
+  ],
+  "intro": [
+    { "s": "mod", "t": "Schönen guten Morgen! Gerade sind wieder Tausende Menschen auf dem Weg zur Arbeit, mit dem Auto, mit der Bahn oder mit dem Fahrrad." },
+    { "s": "mod", "t": "Wir haben Pendlerinnen und Pendler gefragt: Wie kommen Sie zur Arbeit, und wie zufrieden sind Sie damit?" }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "script": [
+        { "s": "franziska", "t": "Ich fahre jeden Tag mit dem Fahrrad ins Krankenhaus, das sind ungefähr acht Kilometer." },
+        { "s": "franziska", "t": "Und zwar das ganze Jahr, auch im Winter, wenn es dunkel und kalt ist. Meine Kolleginnen halten mich deswegen für ein bisschen verrückt." },
+        { "s": "franziska", "t": "Aber mit guter Regenkleidung ist das gar kein Problem. Ich bin fit, spare das Geld für ein Busticket, und nach der Arbeit bin ich auf dem Rad den ganzen Stress los." }
+      ],
+      "statement": "Die Frau fährt nur bei gutem Wetter mit dem Fahrrad zur Arbeit.",
+      "answer": false,
+      "explanation": "She cycles „das ganze Jahr, auch im Winter, wenn es dunkel und kalt ist“. With good rain gear, bad weather is „gar kein Problem“ for her.",
+      "explanationDe": "Sie fährt mit dem Fahrrad, und zwar „das ganze Jahr, auch im Winter, wenn es dunkel und kalt ist“. Mit guter Regenkleidung ist schlechtes Wetter für sie „gar kein Problem“.",
+      "evidence": "Und zwar das ganze Jahr, auch im Winter, wenn es dunkel und kalt ist."
+    },
+    {
+      "n": 2,
+      "script": [
+        { "s": "dennis", "t": "Ich mache eine Ausbildung zum Elektriker und wohne noch bei meinen Eltern auf dem Dorf." },
+        { "s": "dennis", "t": "Der Bus fährt bei uns nur einmal in der Stunde, und dann muss ich in der Stadt noch in den Zug umsteigen. Wenn der Bus Verspätung hat, ist der Zug weg." },
+        { "s": "dennis", "t": "Ich steh jeden Morgen um fünf Uhr auf, und das nervt total. Ich spare gerade für den Führerschein, dann ist dieses Theater endlich vorbei." }
+      ],
+      "statement": "Der junge Mann ist mit seinem Weg zur Arbeit zufrieden.",
+      "answer": false,
+      "explanation": "His bus runs only once an hour, he has to change to the train and gets up at five: „das nervt total“. He is saving for a driving licence so that „dieses Theater“ ends.",
+      "explanationDe": "Sein Bus fährt nur einmal pro Stunde, er muss in den Zug umsteigen und steht um fünf Uhr auf: „das nervt total“. Er spart für den Führerschein, damit „dieses Theater“ aufhört.",
+      "evidence": "Ich steh jeden Morgen um fünf Uhr auf, und das nervt total."
+    },
+    {
+      "n": 3,
+      "script": [
+        { "s": "gisela", "t": "Ich bin sechsundsechzig und arbeite noch an drei Vormittagen in der Woche in einer Apotheke. Zum Glück wohne ich gleich um die Ecke, ich brauche zu Fuß keine zehn Minuten." },
+        { "s": "gisela", "t": "Mein Mann sagt immer: „Nimm doch bei Regen das Auto!“ Aber ich gehe lieber, da treffe ich fast immer Bekannte und halte ein kleines Schwätzchen." },
+        { "s": "gisela", "t": "Für mich ist das der schönste Teil vom Tag." }
+      ],
+      "statement": "Die Frau geht gern zu Fuß zu ihrer Arbeitsstelle.",
+      "answer": true,
+      "explanation": "Her husband suggests the car when it rains, but „ich gehe lieber“: on the way she meets people she knows, and the walk is „der schönste Teil vom Tag“.",
+      "explanationDe": "Ihr Mann schlägt bei Regen das Auto vor, aber „ich gehe lieber“: Unterwegs trifft sie Bekannte, und der Fußweg ist „der schönste Teil vom Tag“.",
+      "evidence": "Aber ich gehe lieber, da treffe ich fast immer Bekannte und halte ein kleines Schwätzchen."
+    },
+    {
+      "n": 4,
+      "script": [
+        { "s": "stefan", "t": "Ich wohne in einem kleinen Ort im Westerwald und arbeite in Koblenz. Ohne Auto geht da gar nichts." },
+        { "s": "stefan", "t": "Mit der Bahn bräuchte ich fast zwei Stunden, weil es keine direkte Verbindung gibt. Mit dem Auto sind es vierzig Minuten, wenn kein Stau ist." },
+        { "s": "stefan", "t": "Natürlich ist das teuer, und für die Umwelt ist es auch nicht gut. Aber solange sich bei den Zügen nichts ändert, hab ich keine andere Wahl." }
+      ],
+      "statement": "Der Mann fährt mit dem Auto, weil die Zugverbindung zu schlecht ist.",
+      "answer": true,
+      "explanation": "By train he would need „fast zwei Stunden“ because there is „keine direkte Verbindung“, so he has „keine andere Wahl“ than to drive.",
+      "explanationDe": "Mit der Bahn bräuchte er „fast zwei Stunden“, weil es „keine direkte Verbindung“ gibt. Deshalb hat er „keine andere Wahl“, als mit dem Auto zu fahren.",
+      "evidence": "Mit der Bahn bräuchte ich fast zwei Stunden, weil es keine direkte Verbindung gibt."
+    },
+    {
+      "n": 5,
+      "script": [
+        { "s": "nora", "t": "Früher bin ich jeden Morgen allein mit meinem Auto ins Büro gefahren, und das war ganz schön teuer." },
+        { "s": "nora", "t": "Dann hat eine Kollegin vorgeschlagen, dass wir eine Fahrgemeinschaft gründen. Jetzt fahren wir zu viert, und jeder ist mal mit dem Fahren dran." },
+        { "s": "nora", "t": "Wir teilen das Benzingeld, und die Fahrt ist viel lustiger. Manchmal singen wir sogar zusammen, wenn im Radio ein gutes Lied läuft." }
+      ],
+      "statement": "Die junge Frau fährt morgens immer allein mit dem Auto ins Büro.",
+      "answer": false,
+      "explanation": "That was „früher“. Now she has a car pool with colleagues: „Jetzt fahren wir zu viert“.",
+      "explanationDe": "Das war „früher“. Heute hat sie mit Kollegen eine Fahrgemeinschaft: „Jetzt fahren wir zu viert“.",
+      "evidence": "Jetzt fahren wir zu viert, und jeder ist mal mit dem Fahren dran."
+    }
+  ],
+  "glossary": [
+    { "de": "die Pendlerin / der Pendler", "en": "commuter" },
+    { "de": "verrückt", "en": "crazy" },
+    { "de": "die Regenkleidung", "en": "rain gear" },
+    { "de": "umsteigen", "en": "to change (trains, buses)" },
+    { "de": "die Verspätung", "en": "delay" },
+    { "de": "der Führerschein", "en": "driving licence" },
+    { "de": "ein Schwätzchen halten", "en": "to have a little chat" },
+    { "de": "die Verbindung", "en": "connection" },
+    { "de": "keine andere Wahl haben", "en": "to have no other choice" },
+    { "de": "die Fahrgemeinschaft", "en": "car pool" },
+    { "de": "dran sein", "en": "to be someone's turn" }
+  ]
+}

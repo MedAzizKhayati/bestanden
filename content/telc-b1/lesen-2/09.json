@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-09",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Fußball ohne Rennen",
+  "topic": "sport",
+  "difficulty": 2,
+  "article": {
+    "headline": "Gehen statt Rennen: Walking Football begeistert Ältere",
+    "lead": "Beim Walking Football ist Rennen verboten. Für viele ältere Menschen ist das die Chance, wieder gegen den Ball zu treten – zum Beispiel beim SV Grün-Weiß Linden in Bochum.",
+    "paragraphs": [
+      "Dienstagvormittag auf dem Kunstrasenplatz in Bochum-Linden. Zwölf Männer und zwei Frauen spielen Fußball, und doch sieht es anders aus als sonst. Niemand rennt, und niemand kämpft hart um den Ball. Wer schneller als im Schritttempo läuft, bekommt einen Freistoß gegen sich. „Am Anfang ist das schwerer, als man denkt“, sagt Spielleiter Klaus Wiechert, 66. „Wenn der Ball vor einem liegt, will jeder sofort losrennen.“",
+      "Walking Football kommt ursprünglich aus England. Die Regeln sind einfach: Gespielt wird auf einem kleinen Feld mit kleinen Toren, ohne Torwart und meistens mit sechs Spielern pro Mannschaft. Der Ball darf nicht höher als bis zur Hüfte fliegen, und Körperkontakt ist verboten. So ist das Risiko, sich zu verletzen, viel kleiner als beim normalen Fußball.",
+      "Klaus Wiechert hat 40 Jahre lang im Verein gespielt, zuletzt bei den Alten Herren. Dann bekam er Probleme mit dem Knie, und sein Arzt riet ihm, mit dem Fußball aufzuhören. „Das war für mich wie ein Abschied von meinen Freunden“, erzählt er. Vor drei Jahren sah er im Fernsehen einen Bericht über Walking Football und stellte die Idee dem Vereinsvorstand vor. Der war sofort einverstanden.",
+      "Heute kommen jede Woche bis zu 20 Spielerinnen und Spieler. Die meisten sind zwischen 55 und 80 Jahre alt. Einige waren früher aktiv im Verein, andere haben vorher noch nie Fußball gespielt – wie Brigitte Lohmann, 71. „Mein Mann hat immer gespielt, und ich stand am Rand“, erzählt sie. „Jetzt ist es umgekehrt.“ Ihr Mann hat inzwischen eine künstliche Hüfte und schaut nur noch zu.",
+      "Dass diese Art von Bewegung gesund ist, bestätigt die Sportmedizinerin Dr. Ayşe Demir aus Essen. „Viele ältere Menschen bewegen sich zu wenig, weil sie Angst haben, sich zu verletzen“, sagt sie. „Beim Walking Football trainieren sie Ausdauer, Gleichgewicht und Koordination, ohne die Gelenke zu stark zu belasten.“ Genauso wichtig sei aber etwas anderes: der Kontakt zu anderen Menschen. Gerade nach dem Ende des Berufslebens fehle vielen eine feste Gruppe.",
+      "Nach dem Training sitzen die meisten noch im Vereinsheim zusammen. Bei Kaffee und belegten Brötchen sprechen sie über das Spiel, über ihre Enkel und über die Bundesliga. Einmal im Jahr fährt die Gruppe zu einem Turnier. Im letzten Sommer belegte sie in den Niederlanden den dritten Platz. „Den Pokal haben wir im Vereinsheim aufgestellt – direkt neben die Pokale der Jugendmannschaften“, erzählt Wiechert stolz.",
+      "Inzwischen bieten in der Region schon acht Vereine Walking Football an. Wiechert träumt von einer eigenen Liga. Und er hat noch einen Wunsch: „Mehr Frauen! Brigitte und Renate dürfen nicht die Einzigen bleiben.“"
+    ],
+    "source": "Revier-Sportblatt"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Beim Walking Football …",
+      "options": [
+        { "key": "a", "text": "spielt jede Mannschaft mit einem Torwart." },
+        { "key": "b", "text": "gibt es einen Freistoß, wenn ein Spieler stehen bleibt." },
+        { "key": "c", "text": "darf der Ball nicht höher als bis zur Hüfte gespielt werden." }
+      ],
+      "answer": "c",
+      "explanation": "„Der Ball darf nicht höher als bis zur Hüfte fliegen“, so (c). The teams play „ohne Torwart“ (a). A free kick is given when someone moves faster than walking pace – not when someone stands still (b).",
+      "explanationDe": "„Der Ball darf nicht höher als bis zur Hüfte fliegen“, also ist (c) richtig. Die Mannschaften spielen „ohne Torwart“ (a). Einen Freistoß gibt es, wenn jemand schneller als im Schritttempo läuft – nicht, wenn jemand stehen bleibt (b).",
+      "evidence": "Der Ball darf nicht höher als bis zur Hüfte fliegen"
+    },
+    {
+      "n": 2,
+      "stem": "Herr Wiechert hat das Walking Football in den Verein gebracht, nachdem …",
+      "options": [
+        { "key": "a", "text": "er im Fernsehen einen Bericht darüber gesehen hatte." },
+        { "key": "b", "text": "sein Arzt ihm Walking Football empfohlen hatte." },
+        { "key": "c", "text": "der Vereinsvorstand ihn um eine neue Idee gebeten hatte." }
+      ],
+      "answer": "a",
+      "explanation": "„Vor drei Jahren sah er im Fernsehen einen Bericht über Walking Football“ and then suggested it to the club, so (a). His doctor told him to stop playing football – he did not recommend walking football (b). Wiechert presented the idea himself; the board only agreed (c).",
+      "explanationDe": "„Vor drei Jahren sah er im Fernsehen einen Bericht über Walking Football“ und hat es dann dem Verein vorgeschlagen, also ist (a) richtig. Sein Arzt hat ihm geraten, mit dem Fußball aufzuhören – Walking Football hat er ihm nicht empfohlen (b). Wiechert hat die Idee selbst vorgestellt; der Vorstand hat nur zugestimmt (c).",
+      "evidence": "Vor drei Jahren sah er im Fernsehen einen Bericht über Walking Football und stellte die Idee dem Vereinsvorstand vor."
+    },
+    {
+      "n": 3,
+      "stem": "Brigitte Lohmann …",
+      "options": [
+        { "key": "a", "text": "hat früher zusammen mit ihrem Mann Fußball gespielt." },
+        { "key": "b", "text": "spielt heute in einer Mannschaft mit ihrem Mann." },
+        { "key": "c", "text": "hat vor dem Walking Football nie Fußball gespielt." }
+      ],
+      "answer": "c",
+      "explanation": "„andere haben vorher noch nie Fußball gespielt – wie Brigitte Lohmann“, so (c). In the past only her husband played and she watched (a). Today it is the other way round: she plays and he only watches (b).",
+      "explanationDe": "„andere haben vorher noch nie Fußball gespielt – wie Brigitte Lohmann“, also ist (c) richtig. Früher hat nur ihr Mann gespielt, und sie hat zugeschaut (a). Heute ist es umgekehrt: Sie spielt, und er schaut nur zu (b).",
+      "evidence": "andere haben vorher noch nie Fußball gespielt – wie Brigitte Lohmann, 71."
+    },
+    {
+      "n": 4,
+      "stem": "Nach Dr. Demir ist beim Walking Football genauso wichtig wie die Bewegung, dass …",
+      "options": [
+        { "key": "a", "text": "die Spieler keine Angst mehr vor Verletzungen haben." },
+        { "key": "b", "text": "die Spieler regelmäßig andere Menschen treffen." },
+        { "key": "c", "text": "die Spieler nach dem Berufsleben eine neue Arbeit finden." }
+      ],
+      "answer": "b",
+      "explanation": "„Genauso wichtig sei aber etwas anderes: der Kontakt zu anderen Menschen“, so (b). Fear of injuries is the reason why many older people move too little (a). After retirement many people miss a group – not a new job (c).",
+      "explanationDe": "„Genauso wichtig sei aber etwas anderes: der Kontakt zu anderen Menschen“, also ist (b) richtig. Die Angst vor Verletzungen ist der Grund, warum sich viele ältere Menschen zu wenig bewegen (a). Nach dem Berufsleben fehlt vielen eine Gruppe – keine neue Arbeit (c).",
+      "evidence": "Genauso wichtig sei aber etwas anderes: der Kontakt zu anderen Menschen."
+    },
+    {
+      "n": 5,
+      "stem": "Beim Turnier in den Niederlanden …",
+      "options": [
+        { "key": "a", "text": "hat die Gruppe den ersten Pokal für den Verein gewonnen." },
+        { "key": "b", "text": "ist die Mannschaft Dritte geworden." },
+        { "key": "c", "text": "hat die Gruppe gegen Jugendmannschaften gespielt." }
+      ],
+      "answer": "b",
+      "explanation": "„belegte sie … den dritten Platz“ – the team came third, so (b). The club already had cups from its youth teams, so it was not the first cup (a). The youth teams are only mentioned because their cups stand next to the new one (c).",
+      "explanationDe": "„belegte sie … den dritten Platz“ – die Mannschaft ist Dritte geworden, also ist (b) richtig. Der Verein hatte schon Pokale von seinen Jugendmannschaften, es war also nicht der erste Pokal (a). Die Jugendmannschaften werden nur erwähnt, weil ihre Pokale neben dem neuen stehen (c).",
+      "evidence": "Im letzten Sommer belegte sie in den Niederlanden den dritten Platz."
+    }
+  ],
+  "glossary": [
+    { "de": "der Kunstrasenplatz", "en": "artificial turf pitch" },
+    { "de": "das Schritttempo", "en": "walking pace" },
+    { "de": "der Freistoß", "en": "free kick" },
+    { "de": "die Hüfte", "en": "hip" },
+    { "de": "die Alten Herren (Pl.)", "en": "veterans' team in a football club" },
+    { "de": "der Vereinsvorstand", "en": "club committee, board" },
+    { "de": "umgekehrt", "en": "the other way round" },
+    { "de": "die Ausdauer", "en": "stamina, endurance" },
+    { "de": "das Gleichgewicht", "en": "balance" },
+    { "de": "die Gelenke belasten", "en": "to put strain on the joints" },
+    { "de": "den dritten Platz belegen", "en": "to come third" }
+  ]
+}

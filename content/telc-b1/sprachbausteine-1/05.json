@@ -1,0 +1,145 @@
+{
+  "id": "sprachbausteine-1-05",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Meine neue Stelle in Hamburg",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Lieber Malte,\n\nentschuldige, dass ich mich so lange nicht gemeldet habe. Aber ich habe eine tolle Neuigkeit: Nachdem ich drei Monate lang Bewerbungen geschrieben [[1]], habe ich endlich eine Stelle gefunden! Seit dem 1. Juni arbeite ich in einem kleinen Reisebüro in Hamburg.\n\nMeine Chefin, [[2]] das Reisebüro vor zehn Jahren gegründet hat, ist sehr freundlich. Sie hat mir sogar einen eigenen Schlüssel gegeben, [[3]] ich morgens nicht vor der Tür warten muss. Die Arbeit ist manchmal ziemlich anstrengend, [[4]] macht sie großen Spaß. Meine Kolleginnen helfen [[5]] immer, wenn ich eine Frage habe.\n\nIch muss zwar jeden Tag um sechs Uhr aufstehen, aber das stört mich nicht, denn von [[6]] Schreibtisch aus kann ich die Schiffe auf der Elbe sehen. Gestern habe ich zum ersten Mal ganz allein eine Reise für eine [[7]] Familie gebucht – zwei Wochen Kanada mit vier Kindern!\n\nHast du im August schon etwas vor? Es [[8]] toll, wenn du mich in Hamburg besuchen könntest. Ich habe nämlich [[9]] dem 12. August eine Woche Urlaub. Dann zeige ich dir die Stadt, und wir machen zusammen eine Hafenrundfahrt.\n\nIch bin gespannt, [[10]] du dazu sagst!\n\nViele Grüße\nNadine",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "war" },
+        { "key": "b", "text": "wurde" },
+        { "key": "c", "text": "hatte" }
+      ],
+      "answer": "c",
+      "explanation": "With „nachdem“ the earlier action is in the Plusquamperfekt when the main clause is in the past: „geschrieben hatte“. „schreiben“ forms its perfect tenses with „haben“, so „war“ is wrong, and „wurde“ would make the sentence passive.",
+      "explanationDe": "Wenn der Hauptsatz in der Vergangenheit steht, steht die frühere Handlung mit „nachdem“ im Plusquamperfekt: „geschrieben hatte“. „schreiben“ bildet die Perfektformen mit „haben“, deshalb ist „war“ falsch, und „wurde“ würde den Satz zum Passiv machen.",
+      "grammar": "plusquamperfekt"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "der" },
+        { "key": "b", "text": "die" },
+        { "key": "c", "text": "deren" }
+      ],
+      "answer": "b",
+      "explanation": "The relative pronoun refers to „meine Chefin“ (feminine) and is the subject of the relative clause – she founded the agency – so nominative „die“. „der“ would be masculine nominative or feminine dative, and „deren“ is genitive.",
+      "explanationDe": "Das Relativpronomen bezieht sich auf „meine Chefin“ (feminin) und ist das Subjekt im Relativsatz – sie hat das Reisebüro gegründet. Also Nominativ: „die“. „der“ wäre Nominativ maskulin oder Dativ feminin, und „deren“ ist Genitiv.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "damit" },
+        { "key": "b", "text": "um" },
+        { "key": "c", "text": "denn" }
+      ],
+      "answer": "a",
+      "explanation": "„damit“ introduces a purpose clause with its own subject and the verb at the end („… warten muss“). „um“ would need „zu“ + infinitive, and after „denn“ the verb would come in second position.",
+      "explanationDe": "„damit“ leitet einen Nebensatz ein, der einen Zweck nennt – mit eigenem Subjekt und dem Verb am Ende („… warten muss“). „um“ bräuchte „zu“ + Infinitiv, und nach „denn“ stünde das Verb auf Position 2.",
+      "grammar": "finale-saetze"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "trotzdem" },
+        { "key": "b", "text": "obwohl" },
+        { "key": "c", "text": "weil" }
+      ],
+      "answer": "a",
+      "explanation": "The verb comes directly after the gap („… macht sie“), so you need the adverb „trotzdem“, which also expresses the contrast with „anstrengend“. „obwohl“ and „weil“ would send the verb to the end of the clause.",
+      "explanationDe": "Direkt nach der Lücke kommt das Verb („… macht sie“). Du brauchst also das Verbindungsadverb „trotzdem“, das auch den Gegensatz zu „anstrengend“ ausdrückt. Mit „obwohl“ oder „weil“ müsste das Verb ans Satzende.",
+      "grammar": "konzessive-saetze"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "mich" },
+        { "key": "b", "text": "ich" },
+        { "key": "c", "text": "mir" }
+      ],
+      "answer": "c",
+      "explanation": "„helfen“ always takes the dative: „Meine Kolleginnen helfen mir“. „mich“ is accusative, and „ich“ is nominative.",
+      "explanationDe": "Nach „helfen“ steht immer der Dativ: „Meine Kolleginnen helfen mir“. „mich“ ist Akkusativ, und „ich“ ist Nominativ.",
+      "grammar": "verben-mit-dativ"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "meinen" },
+        { "key": "b", "text": "meinem" },
+        { "key": "c", "text": "meiner" }
+      ],
+      "answer": "b",
+      "explanation": "In „von … aus“ the preposition „von“ takes the dative. „der Schreibtisch“ is masculine, so „von meinem Schreibtisch aus“.",
+      "explanationDe": "In „von … aus“ steht nach der Präposition „von“ der Dativ. „der Schreibtisch“ ist maskulin, also „von meinem Schreibtisch aus“.",
+      "grammar": "praepositionen-mit-kasus"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "großen" },
+        { "key": "b", "text": "großer" },
+        { "key": "c", "text": "große" }
+      ],
+      "answer": "c",
+      "explanation": "„für“ takes the accusative, and „die Familie“ is feminine. After „eine“ in the feminine accusative the adjective ends in „-e“: „für eine große Familie“.",
+      "explanationDe": "Nach „für“ steht der Akkusativ, und „die Familie“ ist feminin. Nach „eine“ im Akkusativ feminin hat das Adjektiv die Endung „-e“: „für eine große Familie“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "würde" },
+        { "key": "b", "text": "wäre" },
+        { "key": "c", "text": "hätte" }
+      ],
+      "answer": "b",
+      "explanation": "„Es wäre toll, wenn …“ uses the Konjunktiv II of „sein“ to express a wish. „würde“ would need an infinitive, and „toll“ cannot be combined with „haben“.",
+      "explanationDe": "„Es wäre toll, wenn …“ drückt mit dem Konjunktiv II von „sein“ einen Wunsch aus. „würde“ bräuchte einen Infinitiv, und „toll“ passt nicht zu „haben“.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "ab" },
+        { "key": "b", "text": "seit" },
+        { "key": "c", "text": "bis" }
+      ],
+      "answer": "a",
+      "explanation": "„ab“ marks a starting point in the future: the holiday starts on 12 August. „seit“ is only for something that began in the past – but it is still before August. „bis“ marks an end point and would need „zum“ („bis zum 12. August“).",
+      "explanationDe": "„ab“ nennt einen Startpunkt in der Zukunft: Der Urlaub beginnt am 12. August. „seit“ steht nur für etwas, das in der Vergangenheit begonnen hat – aber jetzt ist es noch vor August. „bis“ nennt einen Endpunkt und bräuchte „zum“ („bis zum 12. August“).",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "dass" },
+        { "key": "b", "text": "ob" },
+        { "key": "c", "text": "was" }
+      ],
+      "answer": "c",
+      "explanation": "In this indirect question „was“ is the object of „sagen“: „Ich bin gespannt, was du dazu sagst“. With „dass“ or „ob“ the verb „sagen“ would have no object.",
+      "explanationDe": "In dieser indirekten Frage ist „was“ das Objekt von „sagen“: „Ich bin gespannt, was du dazu sagst“. Mit „dass“ oder „ob“ hätte das Verb „sagen“ kein Objekt.",
+      "grammar": "indirekte-fragen"
+    }
+  ],
+  "glossary": [
+    { "de": "sich melden", "en": "to get in touch" },
+    { "de": "die Neuigkeit", "en": "(a piece of) news" },
+    { "de": "die Bewerbung", "en": "job application" },
+    { "de": "die Stelle", "en": "job, position" },
+    { "de": "gründen", "en": "to found, to set up" },
+    { "de": "der Schlüssel", "en": "key" },
+    { "de": "Spaß machen", "en": "to be fun" },
+    { "de": "stören", "en": "to bother, to disturb" },
+    { "de": "buchen", "en": "to book" },
+    { "de": "die Hafenrundfahrt", "en": "boat tour of the harbour" },
+    { "de": "gespannt sein", "en": "to be curious, can't wait to hear" }
+  ]
+}

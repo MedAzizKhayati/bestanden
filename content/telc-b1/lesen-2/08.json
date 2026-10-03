@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-08",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Ohne Fahrer zum Arzt",
+  "topic": "technik",
+  "difficulty": 2,
+  "article": {
+    "headline": "Der Bus, der von allein fährt",
+    "lead": "Seit einem Jahr fährt in Lütjenwarf ein Kleinbus ohne Fahrer durch den Ort. Die Menschen im Dorf haben sich schneller daran gewöhnt, als viele dachten.",
+    "paragraphs": [
+      "Pünktlich um 9.12 Uhr hält der kleine weiße Bus an der Haltestelle „Dorfplatz“. Die Türen öffnen sich, und Gerda Lorenzen steigt mit ihrem Rollator ein. Ein Lenkrad gibt es nicht, einen Fahrer auch nicht. Nur ein junger Mann in einer gelben Weste sitzt auf einem Klappsitz. „Moin, Frau Lorenzen! Wieder zum Arzt?“, fragt er. Die 84-Jährige nickt. Seit es den Bus gibt, kann sie ihre Termine wieder allein erreichen.",
+      "Lütjenwarf hat knapp 2.000 Einwohner. Bis vor einem Jahr fuhr hier nur zweimal am Tag ein Linienbus in die nächste Stadt. Wer kein Auto hatte, brauchte Hilfe von Nachbarn oder musste ein teures Taxi nehmen. Das Pilotprojekt soll zeigen, ob selbstfahrende Busse auf dem Land eine Lösung sein können. Bezahlt wird es zum größten Teil aus einem Förderprogramm für ländliche Regionen.",
+      "Der Bus fährt höchstens 20 Kilometer pro Stunde. Mit Kameras und Sensoren erkennt er Autos, Radfahrer und Fußgänger. Die Strecke ist fest programmiert: Sie führt vom Bahnhof im Nachbarort über den Dorfplatz bis zum Ärztehaus und zum Supermarkt am Ortsrand. Fahrgäste können den Bus per App oder Telefon bestellen. Er fährt aber auch ohne Bestellung jede halbe Stunde.",
+      "Ganz allein ist der Bus trotzdem noch nicht unterwegs. Bei jeder Fahrt muss ein Begleiter dabei sein, so verlangt es im Moment noch das Gesetz. Einer von ihnen ist Malte Jensen, 26. „Ich muss nur selten selbst etwas tun“, erzählt er. „Meistens dann, wenn ein Auto falsch parkt und der Bus nicht weiß, wie er vorbeifahren soll.“ Dann steuert Jensen den Bus mit einem kleinen Gerät, das wie ein Controller für Videospiele aussieht.",
+      "Am Anfang waren viele im Dorf skeptisch. „Ich habe gedacht, das Ding fährt uns die Kinder um“, sagt Landwirt Hauke Thomsen. Heute nimmt er den Bus selbst, wenn er abends in der Dorfkneipe ein Bier trinken möchte. Bei einer Umfrage der Gemeinde waren drei von vier Befragten mit dem Bus zufrieden. Kritik gibt es vor allem am Tempo: Wer seinen Zug im Nachbarort erreichen muss, braucht viel Geduld.",
+      "Ob es den Bus auch in Zukunft gibt, ist noch nicht sicher. Das Projekt läuft bis Ende nächsten Jahres. „Die Technik funktioniert gut, aber sie ist noch sehr teuer“, sagt die Verkehrsforscherin Dr. Imke Rasmussen aus Kiel, die das Projekt wissenschaftlich begleitet. „Erst wenn kein Begleiter mehr mitfahren muss, wird so ein Bus für viele Gemeinden bezahlbar.“ Das könnte nach ihrer Einschätzung in fünf bis zehn Jahren der Fall sein.",
+      "Gerda Lorenzen hofft, dass der Bus bleibt. „Früher musste ich jedes Mal meinen Sohn anrufen, wenn ich zum Arzt wollte“, sagt sie. „Jetzt fahre ich, wann ich will. Und der junge Mann mit der Weste trägt mir sogar die Einkaufstaschen.“"
+    ],
+    "source": "Holsteiner Landbote"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Bevor es den neuen Bus gab, …",
+      "options": [
+        { "key": "a", "text": "gab es in Lütjenwarf nur wenige Busverbindungen." },
+        { "key": "b", "text": "fuhr der Linienbus zweimal pro Stunde in die Stadt." },
+        { "key": "c", "text": "konnte man in Lütjenwarf kein Taxi bekommen." }
+      ],
+      "answer": "a",
+      "explanation": "„nur zweimal am Tag ein Linienbus“ – very few connections, so (a). It was twice a day, not twice an hour (b). Taxis existed, but they were expensive („ein teures Taxi“), so (c) is wrong.",
+      "explanationDe": "„nur zweimal am Tag ein Linienbus“ – also sehr wenige Verbindungen, deshalb ist (a) richtig. Der Bus fuhr zweimal am Tag, nicht zweimal pro Stunde (b). Taxis gab es, aber sie waren teuer („ein teures Taxi“), deshalb ist (c) falsch.",
+      "evidence": "Bis vor einem Jahr fuhr hier nur zweimal am Tag ein Linienbus in die nächste Stadt."
+    },
+    {
+      "n": 2,
+      "stem": "Den Bus kann man …",
+      "options": [
+        { "key": "a", "text": "nur mit einer App bestellen." },
+        { "key": "b", "text": "auch ohne Bestellung jede halbe Stunde nehmen." },
+        { "key": "c", "text": "an jeder Stelle im Ort anhalten lassen." }
+      ],
+      "answer": "b",
+      "explanation": "„Er fährt aber auch ohne Bestellung jede halbe Stunde“, so (b). You can order it by app or by phone, so „nur mit einer App“ is wrong (a). The route is fixed („fest programmiert“), so it does not stop anywhere you like (c).",
+      "explanationDe": "„Er fährt aber auch ohne Bestellung jede halbe Stunde“, also ist (b) richtig. Man kann ihn per App oder Telefon bestellen, deshalb ist „nur mit einer App“ falsch (a). Die Strecke ist „fest programmiert“, deshalb hält der Bus nicht an jeder beliebigen Stelle (c).",
+      "evidence": "Er fährt aber auch ohne Bestellung jede halbe Stunde."
+    },
+    {
+      "n": 3,
+      "stem": "Malte Jensen muss den Bus selbst steuern, …",
+      "options": [
+        { "key": "a", "text": "wenn Fahrgäste den Bus per Telefon bestellen." },
+        { "key": "b", "text": "wenn ein falsch geparktes Auto im Weg steht." },
+        { "key": "c", "text": "bei jeder Fahrt, weil das Gesetz es verlangt." }
+      ],
+      "answer": "b",
+      "explanation": "He has to act „wenn ein Auto falsch parkt und der Bus nicht weiß, wie er vorbeifahren soll“, so (b). The law only says that an attendant must be on board – he does not have to steer on every trip: „Ich muss nur selten selbst etwas tun“ (c).",
+      "explanationDe": "Er muss etwas tun, „wenn ein Auto falsch parkt und der Bus nicht weiß, wie er vorbeifahren soll“, also ist (b) richtig. Das Gesetz sagt nur, dass ein Begleiter mitfahren muss – er muss nicht bei jeder Fahrt steuern: „Ich muss nur selten selbst etwas tun“ (c).",
+      "evidence": "Meistens dann, wenn ein Auto falsch parkt und der Bus nicht weiß, wie er vorbeifahren soll."
+    },
+    {
+      "n": 4,
+      "stem": "Was kritisieren manche Menschen im Dorf?",
+      "options": [
+        { "key": "a", "text": "Der Bus ist für Kinder gefährlich." },
+        { "key": "b", "text": "Der Bus fährt abends nicht." },
+        { "key": "c", "text": "Der Bus fährt sehr langsam." }
+      ],
+      "answer": "c",
+      "explanation": "„Kritik gibt es vor allem am Tempo“ – people who need to catch a train need patience, so (c). The fear for the children (a) was Herr Thomsen's opinion at the beginning, not today. He takes the bus in the evening himself, so (b) is wrong.",
+      "explanationDe": "„Kritik gibt es vor allem am Tempo“ – wer einen Zug erreichen muss, braucht Geduld, also ist (c) richtig. Die Angst um die Kinder (a) hatte Herr Thomsen am Anfang, heute nicht mehr. Er fährt abends selbst mit dem Bus, deshalb ist (b) falsch.",
+      "evidence": "Kritik gibt es vor allem am Tempo: Wer seinen Zug im Nachbarort erreichen muss, braucht viel Geduld."
+    },
+    {
+      "n": 5,
+      "stem": "Nach Dr. Rasmussen können viele Gemeinden solche Busse bezahlen, wenn …",
+      "options": [
+        { "key": "a", "text": "kein Begleiter mehr mitfahren muss." },
+        { "key": "b", "text": "das Projekt bis Ende nächsten Jahres läuft." },
+        { "key": "c", "text": "die Technik besser funktioniert." }
+      ],
+      "answer": "a",
+      "explanation": "„Erst wenn kein Begleiter mehr mitfahren muss, wird so ein Bus für viele Gemeinden bezahlbar“, so (a). She says the technology already works well, so (c) is wrong. The end of the project next year (b) has nothing to do with the price.",
+      "explanationDe": "„Erst wenn kein Begleiter mehr mitfahren muss, wird so ein Bus für viele Gemeinden bezahlbar“, also ist (a) richtig. Sie sagt, dass die Technik schon gut funktioniert, deshalb ist (c) falsch. Das Ende des Projekts im nächsten Jahr (b) hat nichts mit dem Preis zu tun.",
+      "evidence": "Erst wenn kein Begleiter mehr mitfahren muss, wird so ein Bus für viele Gemeinden bezahlbar."
+    }
+  ],
+  "glossary": [
+    { "de": "selbstfahrend", "en": "self-driving" },
+    { "de": "das Lenkrad", "en": "steering wheel" },
+    { "de": "der Rollator", "en": "wheeled walking frame" },
+    { "de": "Moin! (norddt.)", "en": "hello (northern German greeting)" },
+    { "de": "der Linienbus", "en": "regular (scheduled) bus" },
+    { "de": "das Förderprogramm", "en": "funding programme" },
+    { "de": "der Begleiter / die Begleiterin", "en": "attendant, person who goes along" },
+    { "de": "steuern", "en": "to steer" },
+    { "de": "skeptisch", "en": "sceptical" },
+    { "de": "die Geduld", "en": "patience" },
+    { "de": "bezahlbar", "en": "affordable" }
+  ]
+}

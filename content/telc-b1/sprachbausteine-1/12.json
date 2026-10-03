@@ -1,0 +1,146 @@
+{
+  "id": "sprachbausteine-1-12",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Terminabsage in der Arztpraxis",
+  "topic": "gesundheit",
+  "difficulty": 3,
+  "textType": "letter-formal",
+  "text": "Sehr geehrte Frau Dr. Weininger,\nsehr geehrtes Praxisteam,\n\nleider kann ich meinen Termin am Donnerstag, dem 14. November, nicht wahrnehmen. [[1]] einer kurzfristigen Dienstreise bin ich die ganze Woche in Frankfurt. Könnte der Termin auf die folgende Woche verschoben [[2]]? Am besten passt mir der Vormittag, [[3]] ich nachmittags oft Besprechungen habe.\n\nBei meinem letzten Besuch haben Sie meine Blutwerte im Labor untersuchen [[4]]. Liegen die Ergebnisse inzwischen vor? [[5]] etwas nicht in Ordnung ist, rufen Sie mich bitte auf meinem Handy an.\n\nAußerdem brauche ich ein neues Rezept. Die von Ihnen [[6]] Tabletten vertrage ich sehr gut, aber die Packung ist fast leer. Ich wäre Ihnen dankbar, wenn Sie das Rezept direkt an die Apotheke am Hauptplatz schicken [[7]]. Dann kann ich die Tabletten noch [[8]] meiner Abreise abholen.\n\nZum Schluss noch eine Frage: Meine Frau, mit [[9]] ich erst seit dem Sommer in Linz wohne, sucht eine Hausärztin. Sie hat bisher [[10]] in Linz noch in der Umgebung eine Praxis gefunden, die neue Patienten aufnimmt. Könnten Sie sie vielleicht als Patientin aufnehmen?\n\nMit freundlichen Grüßen\nGerhard Huber",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "Weil" },
+        { "key": "b", "text": "Wegen" },
+        { "key": "c", "text": "Deshalb" }
+      ],
+      "answer": "b",
+      "explanation": "Only a noun phrase follows („einer kurzfristigen Dienstreise“), so you need the preposition „wegen“ + genitive. „weil“ needs a clause with a verb, and „deshalb“ is an adverb that would be followed directly by the verb.",
+      "explanationDe": "Danach folgt nur eine Nomengruppe („einer kurzfristigen Dienstreise“). Du brauchst also die Präposition „wegen“ + Genitiv. „weil“ braucht einen Satz mit Verb, und „deshalb“ ist ein Verbindungsadverb, nach dem direkt das Verb käme.",
+      "grammar": "genitiv"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "worden" },
+        { "key": "b", "text": "wird" },
+        { "key": "c", "text": "werden" }
+      ],
+      "answer": "c",
+      "explanation": "Passiv with a modal verb: modal („könnte“) + Partizip II + „werden“ at the end: „Könnte der Termin … verschoben werden?“. „worden“ is only used in the perfect tenses of the passive, and the conjugated „wird“ cannot follow a modal verb.",
+      "explanationDe": "Passiv mit Modalverb: Modalverb („könnte“) + Partizip II + „werden“ am Ende: „Könnte der Termin … verschoben werden?“. „worden“ benutzt man nur in den Perfektformen des Passivs, und das konjugierte „wird“ kann nicht nach einem Modalverb stehen.",
+      "grammar": "passiv"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "denn" },
+        { "key": "b", "text": "deshalb" },
+        { "key": "c", "text": "da" }
+      ],
+      "answer": "c",
+      "explanation": "The verb is at the end („… Besprechungen habe“), so only the subordinating conjunction „da“ (= because, as) fits. „denn“ and „deshalb“ need main-clause word order („denn ich habe …“, „deshalb habe ich …“).",
+      "explanationDe": "Das Verb steht am Ende („… Besprechungen habe“). Deshalb passt nur „da“ (= weil), eine Konjunktion, die einen Nebensatz einleitet. „denn“ und „deshalb“ brauchen die Wortstellung eines Hauptsatzes („denn ich habe …“, „deshalb habe ich …“).",
+      "grammar": "kausale-konsekutive-saetze"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "lassen" },
+        { "key": "b", "text": "zu lassen" },
+        { "key": "c", "text": "ließen" }
+      ],
+      "answer": "a",
+      "explanation": "„etwas machen lassen“ = to have something done by someone else (the lab tested the blood). In the Perfekt with a second infinitive („untersuchen“), „lassen“ stays in the infinitive: „haben … untersuchen lassen“. „ließen“ is Präteritum and cannot follow „haben“, and „zu lassen“ belongs in an infinitive clause („Ich habe vor, das Blut untersuchen zu lassen“).",
+      "explanationDe": "„etwas machen lassen“ = jemand anderes macht etwas (das Labor hat das Blut untersucht). Im Perfekt mit einem zweiten Infinitiv („untersuchen“) bleibt „lassen“ im Infinitiv: „haben … untersuchen lassen“. „ließen“ ist Präteritum und kann nicht nach „haben“ stehen, und „zu lassen“ gehört in einen Infinitivsatz („Ich habe vor, das Blut untersuchen zu lassen“).",
+      "grammar": "lassen"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "Ob" },
+        { "key": "b", "text": "Falls" },
+        { "key": "c", "text": "Dass" }
+      ],
+      "answer": "b",
+      "explanation": "„falls“ (= if, in case) introduces a condition: in case something is wrong, please call me. „ob“ introduces an indirect question, and a „dass“-clause cannot express a condition.",
+      "explanationDe": "„falls“ (= wenn, für den Fall, dass) leitet eine Bedingung ein: Wenn etwas nicht in Ordnung ist, bittet er um einen Anruf. „ob“ leitet eine indirekte Frage ein, und ein „dass“-Satz kann keine Bedingung ausdrücken.",
+      "grammar": "nebensaetze-grundlagen"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "verschriebenen" },
+        { "key": "b", "text": "verschreibenden" },
+        { "key": "c", "text": "verschrieben" }
+      ],
+      "answer": "a",
+      "explanation": "The tablets were prescribed by the doctor (passive meaning), so you need the Partizip II used as an adjective, with an ending after „die“: „die von Ihnen verschriebenen Tabletten“. The Partizip I „verschreibenden“ would mean that the tablets prescribe something, and „verschrieben“ has no ending.",
+      "explanationDe": "Die Tabletten wurden von der Ärztin verschrieben (passive Bedeutung). Du brauchst also das Partizip II als Adjektiv, mit Endung nach „die“: „die von Ihnen verschriebenen Tabletten“. Das Partizip I „verschreibenden“ würde bedeuten, dass die Tabletten etwas verschreiben, und „verschrieben“ hat keine Endung.",
+      "grammar": "partizip-als-adjektiv"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "werden" },
+        { "key": "b", "text": "wurden" },
+        { "key": "c", "text": "würden" }
+      ],
+      "answer": "c",
+      "explanation": "After „Ich wäre Ihnen dankbar, wenn …“ the wenn-clause also uses Konjunktiv II: „schicken würden“. The future form „werden“ and the past form „wurden“ do not fit this polite, hypothetical request.",
+      "explanationDe": "Nach „Ich wäre Ihnen dankbar, wenn …“ steht auch im wenn-Satz der Konjunktiv II: „schicken würden“. Die Futurform „werden“ und die Vergangenheitsform „wurden“ passen nicht zu dieser höflichen, hypothetischen Bitte.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "seit" },
+        { "key": "b", "text": "vor" },
+        { "key": "c", "text": "bis" }
+      ],
+      "answer": "b",
+      "explanation": "„vor“ + dative = before: „noch vor meiner Abreise“. „seit“ refers to something that started in the past, but the trip is still in the future, and „bis“ would need „zu“ („bis zu meiner Abreise“).",
+      "explanationDe": "„vor“ + Dativ = früher als etwas: „noch vor meiner Abreise“. „seit“ bezieht sich auf etwas, das in der Vergangenheit begonnen hat, aber die Reise liegt noch in der Zukunft, und „bis“ bräuchte „zu“ („bis zu meiner Abreise“).",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "der" },
+        { "key": "b", "text": "die" },
+        { "key": "c", "text": "dem" }
+      ],
+      "answer": "a",
+      "explanation": "„mit“ takes the dative, and the relative pronoun refers to „meine Frau“ (feminine): „mit der“. „die“ is nominative/accusative, and „dem“ would be masculine or neuter.",
+      "explanationDe": "Nach „mit“ steht der Dativ, und das Relativpronomen bezieht sich auf „meine Frau“ (feminin): „mit der“. „die“ ist Nominativ/Akkusativ, und „dem“ wäre maskulin oder neutral.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "sowohl" },
+        { "key": "b", "text": "entweder" },
+        { "key": "c", "text": "weder" }
+      ],
+      "answer": "c",
+      "explanation": "„weder … noch“ = neither … nor. The second part „noch in der Umgebung“ shows that the first part must be „weder“. „sowohl“ goes with „als auch“, and „entweder“ with „oder“.",
+      "explanationDe": "„weder … noch“ = nicht das eine und auch nicht das andere. Der zweite Teil „noch in der Umgebung“ zeigt, dass der erste Teil „weder“ sein muss. „sowohl“ gehört zu „als auch“, und „entweder“ zu „oder“.",
+      "grammar": "zweiteilige-konnektoren"
+    }
+  ],
+  "glossary": [
+    { "de": "einen Termin wahrnehmen", "en": "to attend an appointment" },
+    { "de": "kurzfristig", "en": "at short notice" },
+    { "de": "die Dienstreise", "en": "business trip" },
+    { "de": "verschieben", "en": "to postpone, to move (an appointment)" },
+    { "de": "die Besprechung", "en": "meeting" },
+    { "de": "die Blutwerte", "en": "blood test results" },
+    { "de": "vorliegen", "en": "to be available, to be in" },
+    { "de": "das Rezept", "en": "prescription" },
+    { "de": "verschreiben", "en": "to prescribe" },
+    { "de": "vertragen", "en": "to tolerate (medicine)" },
+    { "de": "die Hausärztin", "en": "family doctor, GP (female)" },
+    { "de": "aufnehmen", "en": "to take on, to accept (patients)" }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "sprachbausteine-1-06",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Beschwerde über eine Lieferung",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "textType": "letter-formal",
+  "text": "Sehr geehrte Damen und Herren,\n\nam 3. März habe ich in Ihrem Onlineshop eine Kaffeemaschine („Aroma Plus“) für 129,90 Euro bestellt. Leider [[1]] die Maschine erst nach drei Wochen geliefert, obwohl auf Ihrer Internetseite eine Lieferzeit von zwei bis drei Tagen angegeben war. [[2]] der langen Wartezeit war ich zunächst froh, als das Paket endlich ankam.\n\nBeim Auspacken habe ich [[3]] die Maschine genauer angesehen und einen [[4]] Riss im Gehäuse entdeckt. Außerdem [[5]] der Griff der Glaskanne abgebrochen.\n\n[[6]] zwei Wochen habe ich deshalb bei Ihrem Kundenservice angerufen. Der Mitarbeiter, [[7]] ich das Problem genau beschrieben habe, hat mir versprochen, dass ich schnell eine neue Maschine bekomme. Bis heute ist aber nichts passiert.\n\nIch kaufe seit Jahren bei Ihnen ein und war bisher immer sehr zufrieden [[8]] Ihrem Service. Diesmal bin ich aber sehr enttäuscht. Ich bitte Sie, mir bis zum 15. April eine neue Maschine [[9]] oder mir den Kaufpreis zurückzuzahlen. Andernfalls [[10]] ich mich an die Verbraucherzentrale wenden.\n\nMit freundlichen Grüßen\nJan Petersen",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "wurde" },
+        { "key": "b", "text": "hat" },
+        { "key": "c", "text": "ist" }
+      ],
+      "answer": "a",
+      "explanation": "The machine does not deliver anything – it is delivered. That is the Passiv: „wurde … geliefert“. With „hat“ the machine would be the active subject, and „ist … geliefert“ would need „worden“.",
+      "explanationDe": "Die Maschine liefert nichts – sie wird geliefert. Das ist Passiv: „wurde … geliefert“. Mit „hat“ wäre die Maschine das aktive Subjekt, und „ist … geliefert“ bräuchte noch „worden“.",
+      "grammar": "passiv"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "Obwohl" },
+        { "key": "b", "text": "Trotzdem" },
+        { "key": "c", "text": "Trotz" }
+      ],
+      "answer": "c",
+      "explanation": "Only a noun phrase follows („der langen Wartezeit“), so you need the preposition „trotz“ + genitive. „obwohl“ needs a whole clause with a verb, and „trotzdem“ is an adverb.",
+      "explanationDe": "Danach folgt nur eine Nomengruppe („der langen Wartezeit“). Du brauchst also die Präposition „trotz“ + Genitiv. „obwohl“ braucht einen ganzen Satz mit Verb, und „trotzdem“ ist ein Verbindungsadverb.",
+      "grammar": "genitiv"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "mich" },
+        { "key": "b", "text": "mir" },
+        { "key": "c", "text": "sich" }
+      ],
+      "answer": "b",
+      "explanation": "„sich etwas ansehen“: when the verb already has an accusative object („die Maschine“), the reflexive pronoun is dative – „ich habe mir … angesehen“. „mich“ is accusative, and „sich“ does not fit the subject „ich“.",
+      "explanationDe": "„sich etwas ansehen“: Wenn das Verb schon ein Akkusativobjekt hat („die Maschine“), steht das Reflexivpronomen im Dativ – „ich habe mir … angesehen“. „mich“ ist Akkusativ, und „sich“ passt nicht zum Subjekt „ich“.",
+      "grammar": "reflexive-verben"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "lange" },
+        { "key": "b", "text": "langen" },
+        { "key": "c", "text": "langer" }
+      ],
+      "answer": "b",
+      "explanation": "„der Riss“ is masculine and the accusative object of „entdecken“. After „einen“ the adjective ends in „-en“: „einen langen Riss“.",
+      "explanationDe": "„der Riss“ ist maskulin und das Akkusativobjekt von „entdecken“. Nach „einen“ hat das Adjektiv die Endung „-en“: „einen langen Riss“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "hat" },
+        { "key": "b", "text": "habe" },
+        { "key": "c", "text": "ist" }
+      ],
+      "answer": "c",
+      "explanation": "„abbrechen“ without an object (the handle broke off) is a change of state and forms the Perfekt with „sein“: „ist … abgebrochen“. „hat“ would need an object, and „habe“ does not agree with „der Griff“.",
+      "explanationDe": "„abbrechen“ ohne Objekt (der Griff ist einfach kaputtgegangen) ist eine Zustandsänderung und bildet das Perfekt mit „sein“: „ist … abgebrochen“. „hat“ bräuchte ein Objekt, und „habe“ passt nicht zu „der Griff“.",
+      "grammar": "perfekt"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "Vor" },
+        { "key": "b", "text": "Seit" },
+        { "key": "c", "text": "Ab" }
+      ],
+      "answer": "a",
+      "explanation": "„vor“ + dative refers to a point in the past: „Vor zwei Wochen habe ich … angerufen“. „seit“ is for something that is still going on, and „ab“ marks a starting point.",
+      "explanationDe": "„vor“ + Dativ bezeichnet einen Zeitpunkt in der Vergangenheit: „Vor zwei Wochen habe ich … angerufen“. „seit“ steht für etwas, das noch andauert, und „ab“ nennt einen Startpunkt.",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "dem" },
+        { "key": "b", "text": "den" },
+        { "key": "c", "text": "der" }
+      ],
+      "answer": "a",
+      "explanation": "„jemandem etwas beschreiben“: the person is in the dative. „der Mitarbeiter“ is masculine, so the dative relative pronoun is „dem“. „das Problem“ is already the accusative object.",
+      "explanationDe": "„jemandem etwas beschreiben“: Die Person steht im Dativ. „der Mitarbeiter“ ist maskulin, also heißt das Relativpronomen im Dativ „dem“. „das Problem“ ist schon das Akkusativobjekt.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "über" },
+        { "key": "b", "text": "mit" },
+        { "key": "c", "text": "von" }
+      ],
+      "answer": "b",
+      "explanation": "„zufrieden sein mit“ + dative is a fixed combination: „zufrieden mit Ihrem Service“. „über“ and „von“ do not go with „zufrieden“.",
+      "explanationDe": "„zufrieden sein mit“ + Dativ ist eine feste Verbindung: „zufrieden mit Ihrem Service“. „über“ und „von“ passen nicht zu „zufrieden“.",
+      "grammar": "adjektive-mit-praepositionen"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "schicken" },
+        { "key": "b", "text": "geschickt" },
+        { "key": "c", "text": "zu schicken" }
+      ],
+      "answer": "c",
+      "explanation": "„jemanden bitten, etwas zu tun“: the infinitive group needs „zu“ – „eine neue Maschine zu schicken“, just like „zurückzuzahlen“ in the same sentence.",
+      "explanationDe": "„jemanden bitten, etwas zu tun“: Die Infinitivgruppe braucht „zu“ – „eine neue Maschine zu schicken“, genau wie „zurückzuzahlen“ im selben Satz.",
+      "grammar": "infinitiv-mit-zu"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "werde" },
+        { "key": "b", "text": "wird" },
+        { "key": "c", "text": "werden" }
+      ],
+      "answer": "a",
+      "explanation": "The Futur I is „werden“ + infinitive („… wenden“). The subject is „ich“, so the form is „werde“. „wird“ is for er/sie/es, and „werden“ for wir/sie/Sie.",
+      "explanationDe": "Das Futur I bildet man mit „werden“ + Infinitiv („… wenden“). Das Subjekt ist „ich“, also heißt die Form „werde“. „wird“ ist für er/sie/es, und „werden“ für wir/sie/Sie.",
+      "grammar": "futur-1"
+    }
+  ],
+  "glossary": [
+    { "de": "bestellen", "en": "to order" },
+    { "de": "liefern", "en": "to deliver" },
+    { "de": "die Lieferzeit", "en": "delivery time" },
+    { "de": "der Riss", "en": "crack" },
+    { "de": "das Gehäuse", "en": "casing, housing" },
+    { "de": "der Griff", "en": "handle" },
+    { "de": "abbrechen", "en": "to break off" },
+    { "de": "der Kundenservice", "en": "customer service" },
+    { "de": "enttäuscht", "en": "disappointed" },
+    { "de": "der Kaufpreis", "en": "purchase price" },
+    { "de": "andernfalls", "en": "otherwise" },
+    { "de": "die Verbraucherzentrale", "en": "consumer advice centre" }
+  ]
+}

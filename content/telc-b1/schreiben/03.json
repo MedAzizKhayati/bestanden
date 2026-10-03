@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-03",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Ein Freund zieht nach Leipzig",
+  "topic": "wohnen",
+  "difficulty": 1,
+  "register": "informal",
+  "situation": "Sie haben von Ihrem Freund Tobias folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Tobias",
+    "subject": "Ich komme nach Leipzig!",
+    "body": "Hallo,\n\nich habe tolle Neuigkeiten: Ich habe die Stelle in Leipzig bekommen und fange am 1. September an! Jetzt muss ich so schnell wie möglich eine Wohnung finden. Leider kenne ich die Stadt kaum. Welchen Stadtteil kannst du mir empfehlen? Ich möchte nicht zu viel Miete bezahlen, aber die Wohnung soll auch nicht zu weit vom Zentrum entfernt sein. Außerdem frage ich mich, wo man in Leipzig am besten nach Wohnungen sucht.\n\nEnde Juli komme ich für eine Woche zur Wohnungssuche. Vielleicht können wir uns dann sehen?\n\nViele Grüße\nTobias"
+  },
+  "leitpunkte": [
+    "Wo man in Leipzig am besten nach Wohnungen sucht",
+    "Wo Tobias Ende Juli übernachten kann",
+    "Was Sie zu seiner neuen Stelle sagen",
+    "Welchen Stadtteil Sie empfehlen und warum"
+  ],
+  "model": {
+    "subject": "Super Neuigkeiten – willkommen in Leipzig!",
+    "text": "Lieber Tobias,\n\nwas für eine schöne Überraschung! Herzlichen Glückwunsch zu deiner neuen Stelle! Ich freue mich riesig, dass du bald in meiner Stadt wohnst.\n\nFür dich passt meiner Meinung nach Plagwitz am besten. Dort sind die Mieten noch nicht so hoch wie im Zentrum, und mit der Straßenbahn bist du in zwanzig Minuten in der Innenstadt. Außerdem gibt es viele Cafés und einen schönen Kanal, an dem man joggen kann.\n\nWohnungen findest du am besten im Internet auf Wohnungsportalen. Schau aber auch in die Lokalzeitung und frag in deiner neuen Firma nach, denn manchmal suchen Kollegen einen Nachmieter. Wichtig ist, dass du schnell auf Anzeigen antwortest, weil gute Wohnungen nicht lange frei sind.\n\nWenn du Ende Juli kommst, kannst du natürlich bei mir übernachten. Mein Sofa ist zwar nicht sehr groß, aber dafür bezahlst du nichts. Abends zeige ich dir dann gern die Stadt.\n\nSag mir einfach, wann dein Zug ankommt!\n\nViele Grüße\nDein Marek"
+  },
+  "modelNotes": [
+    "Each paragraph deals with one guiding point, in the order of a real move: reaction to the job, district, flat search, place to stay.",
+    "The recommendation is backed up with reasons („Dort sind die Mieten …“, „mit der Straßenbahn bist du in zwanzig Minuten …“) – explaining a point makes it count fully.",
+    "Varied linking: „außerdem“, „denn“, „weil“, „zwar … aber“, „wenn“, „dann“ and a relative clause („an dem man joggen kann“).",
+    "Informal and friendly: „Lieber Tobias“, imperatives such as „Schau …“, „frag …“, „Sag mir …“, and the sign-off „Dein Marek“."
+  ],
+  "modelNotesDe": [
+    "Jeder Absatz behandelt einen Leitpunkt, und zwar in der Reihenfolge eines echten Umzugs: Reaktion auf die Stelle, Stadtteil, Wohnungssuche, Übernachtung.",
+    "Der Schreiber begründet seine Empfehlung („Dort sind die Mieten …“, „mit der Straßenbahn bist du in zwanzig Minuten …“) – wenn du einen Leitpunkt erklärst, zählt er voll.",
+    "Abwechslungsreiche Verbindungen: „außerdem“, „denn“, „weil“, „zwar … aber“, „wenn“, „dann“ und ein Relativsatz („an dem man joggen kann“).",
+    "Informell und freundlich: „Lieber Tobias“, Imperative wie „Schau …“, „frag …“, „Sag mir …“ und der Gruß „Dein Marek“."
+  ],
+  "phrases": [
+    { "de": "Herzlichen Glückwunsch zu deiner neuen Stelle!", "en": "Congratulations on your new job!" },
+    { "de": "Meiner Meinung nach passt … am besten.", "en": "In my opinion … suits you best." },
+    { "de": "Dort sind die Mieten nicht so hoch wie …", "en": "Rents there are not as high as …" },
+    { "de": "Wohnungen findest du am besten …", "en": "The best way to find a flat is …" },
+    { "de": "Wichtig ist, dass du schnell antwortest.", "en": "It's important that you reply quickly." },
+    { "de": "Du kannst natürlich bei mir übernachten.", "en": "Of course you can stay at my place." },
+    { "de": "Ich zeige dir gern die Stadt.", "en": "I'll gladly show you the city." }
+  ],
+  "glossary": [
+    { "de": "die Stelle", "en": "job, position" },
+    { "de": "der Stadtteil", "en": "district, part of town" },
+    { "de": "die Miete", "en": "rent" },
+    { "de": "die Wohnungssuche", "en": "flat hunting" },
+    { "de": "der Nachmieter", "en": "new tenant who takes over a flat" },
+    { "de": "übernachten", "en": "to stay overnight" }
+  ]
+}

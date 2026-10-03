@@ -1,0 +1,129 @@
+{
+  "id": "sprechen-1-03",
+  "examId": "telc-b1",
+  "type": "speaking-intro",
+  "title": "Freizeit und Alltag",
+  "topic": "freizeit",
+  "difficulty": 1,
+  "points": [
+    "Name und Herkunft",
+    "Wohnort",
+    "Tagesablauf",
+    "Hobbys",
+    "Wochenende",
+    "Sport",
+    "Essen und Kochen",
+    "Freunde und Kontakte"
+  ],
+  "extraTopics": ["Urlaub", "Feste im Heimatland", "Medien und Internet", "Haustiere"],
+  "questions": [
+    {
+      "point": "Name und Herkunft",
+      "items": ["Wie heißt du? / Wie heißen Sie?", "Woher kommst du? / Woher kommen Sie?"]
+    },
+    {
+      "point": "Wohnort",
+      "items": [
+        "Wo wohnst du? Seit wann?",
+        "Was gefällt dir an der Stadt? / Was gefällt Ihnen an Ihrem Wohnort?"
+      ]
+    },
+    {
+      "point": "Tagesablauf",
+      "items": [
+        "Wie sieht dein normaler Tag aus? / Wie sieht Ihr Alltag aus?",
+        "Wann stehst du normalerweise auf?",
+        "Was machst du nach der Arbeit?"
+      ]
+    },
+    {
+      "point": "Hobbys",
+      "items": [
+        "Was machst du gern in deiner Freizeit? / Haben Sie ein Hobby?",
+        "Wie bist du zu diesem Hobby gekommen?",
+        "Wie oft machst du das?"
+      ]
+    },
+    {
+      "point": "Wochenende",
+      "items": [
+        "Was hast du letztes Wochenende gemacht?",
+        "Was machen Sie normalerweise am Wochenende?"
+      ]
+    },
+    {
+      "point": "Sport",
+      "items": [
+        "Treibst du Sport? / Machen Sie Sport?",
+        "Bist du in einem Verein?",
+        "Welchen Sport kann man in deiner Stadt gut machen?"
+      ]
+    },
+    {
+      "point": "Essen und Kochen",
+      "items": [
+        "Kochst du gern? / Was essen Sie gern?",
+        "Was ist ein typisches Gericht aus deinem Land?",
+        "Gehst du oft ins Restaurant?"
+      ]
+    },
+    {
+      "point": "Freunde und Kontakte",
+      "items": [
+        "Hast du hier schon viele Freunde gefunden?",
+        "Wie haben Sie hier Leute kennengelernt?",
+        "Was machst du gern mit deinen Freunden?"
+      ]
+    }
+  ],
+  "speakers": [
+    { "id": "A", "name": "Giulia Romano", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Arjun Mehta", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Guten Tag. Bitte unterhalten Sie sich jetzt miteinander und lernen Sie sich ein bisschen kennen." },
+    { "s": "A", "t": "Hallo! Ich heiße Giulia Romano und komme aus Italien, aus Bologna. Wollen wir uns duzen?" },
+    { "s": "B", "t": "Ja, gern. Ich bin Arjun Mehta und komme aus Indien, aus Pune. Das ist eine große Stadt in der Nähe von Mumbai." },
+    { "s": "A", "t": "Und jetzt wohnst du hier in Graz?" },
+    { "s": "B", "t": "Ja, seit eineinhalb Jahren. Ich arbeite als Softwareentwickler bei einer Firma hier. Und du, wie lange bist du schon in Graz?" },
+    { "s": "A", "t": "Schon fünf Jahre. Ich wohne mit zwei Studentinnen in einer Wohngemeinschaft in der Nähe der Uni. Von Beruf bin ich Konditorin, ich mache in einer kleinen Konditorei Torten und Kuchen." },
+    { "s": "B", "t": "Wirklich? Ich liebe Kuchen! Wie sieht denn dein Tag aus?" },
+    { "s": "A", "t": "Ich fange sehr früh an, schon um fünf Uhr. Dafür bin ich am frühen Nachmittag fertig und habe viel Freizeit. Und bei dir?" },
+    { "s": "B", "t": "Bei mir ist es ganz anders. Ich arbeite von neun bis halb sechs, oft auch von zu Hause. Nach der Arbeit gehe ich zweimal pro Woche zum Kricket." },
+    { "s": "A", "t": "Kricket? Gibt es das in Graz?" },
+    { "s": "B", "t": "Ja, es gibt sogar einen kleinen Verein! Die meisten Spieler kommen aus Indien, Pakistan oder England. Das ist für mich auch eine gute Möglichkeit, Leute kennenzulernen." },
+    { "s": "A", "t": "Das ist ja toll. Ich mache keinen Teamsport, aber ich gehe gern wandern. Am Wochenende fahre ich oft mit Freunden in die Berge, zum Beispiel auf den Schöckl." },
+    { "s": "B", "t": "Den Schöckl kenne ich! Letzten Sommer war ich mit Kollegen oben. Aber ehrlich gesagt sind wir mit der Seilbahn gefahren." },
+    { "s": "A", "t": "Das zählt auch! Kochst du eigentlich gern?" },
+    { "s": "B", "t": "Ja, sehr gern, vor allem indische Gerichte mit vielen Gewürzen. Und du? Als Italienerin kochst du bestimmt jeden Tag Pasta." },
+    { "s": "A", "t": "Nicht jeden Tag, aber oft! Meine Mutter hat mir gezeigt, wie man Tortellini selbst macht. Das ist eine Spezialität aus Bologna." },
+    { "s": "B", "t": "Das möchte ich unbedingt mal probieren. Hast du hier in Graz schnell Freunde gefunden?" },
+    { "s": "A", "t": "Am Anfang war es schwer, weil ich noch wenig Deutsch gesprochen habe. Dann bin ich in einen Chor gegangen, und dort habe ich viele nette Leute kennengelernt." },
+    { "s": "B", "t": "Ein Chor? Was singt ihr denn da?" },
+    { "s": "A", "t": "Alles Mögliche, von alten Volksliedern bis zu Popmusik. Im Dezember geben wir immer ein großes Konzert." },
+    { "s": "P", "t": "Danke schön. Eine Frage noch an Sie beide: Wohin fahren Sie gern in den Urlaub?" },
+    { "s": "B", "t": "Meistens fliege ich nach Indien, weil meine Eltern dort leben. Aber nächstes Jahr möchte ich endlich einmal Venedig sehen." },
+    { "s": "A", "t": "Venedig ist wunderschön, aber im Sommer sehr voll! Ich fahre fast immer zu meiner Familie nach Bologna und dann noch ein paar Tage ans Meer." }
+  ],
+  "phrases": [
+    { "de": "Wollen wir uns duzen?", "en": "Shall we say „du“ to each other?" },
+    { "de": "Wie sieht dein Tag aus?", "en": "What does your day look like?" },
+    { "de": "Bei mir ist es ganz anders.", "en": "For me it's completely different." },
+    { "de": "In meiner Freizeit gehe ich gern wandern.", "en": "In my free time I like to go hiking." },
+    { "de": "Das ist eine gute Möglichkeit, Leute kennenzulernen.", "en": "It's a good way to meet people." },
+    { "de": "Ehrlich gesagt …", "en": "To be honest …" },
+    { "de": "Das möchte ich unbedingt mal probieren.", "en": "I'd really like to try that some time." },
+    { "de": "Am Anfang war es schwer, aber dann …", "en": "At the beginning it was hard, but then …" }
+  ],
+  "glossary": [
+    { "de": "die Wohngemeinschaft", "en": "shared flat" },
+    { "de": "die Konditorei", "en": "cake shop, patisserie" },
+    { "de": "die Konditorin", "en": "pastry chef (female)" },
+    { "de": "der Verein", "en": "club, association" },
+    { "de": "die Seilbahn", "en": "cable car" },
+    { "de": "das Gewürz", "en": "spice" },
+    { "de": "der Chor", "en": "choir" },
+    { "de": "das Volkslied", "en": "folk song" }
+  ]
+}

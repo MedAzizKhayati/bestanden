@@ -1,0 +1,56 @@
+{
+  "id": "schreiben-19",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Der geliehene Beamer",
+  "topic": "technik",
+  "difficulty": 2,
+  "register": "informal",
+  "situation": "Sie haben von Ihrer Freundin Nina folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Nina",
+    "subject": "Mein Beamer",
+    "body": "Hallo,\n\nwie war eigentlich euer Filmabend? Du hast meinen Beamer jetzt schon seit fast zwei Monaten. Das ist kein Problem, aber am Samstag in einer Woche feiere ich meinen Geburtstag und möchte mit meinen Gästen ein Fußballspiel auf der großen Leinwand anschauen. Könntest du mir den Beamer bis dahin zurückbringen? Unter der Woche bin ich ab 18 Uhr zu Hause.\n\nUnd übrigens: Natürlich bist du auch zu meiner Party eingeladen!\n\nLiebe Grüße\nNina"
+  },
+  "leitpunkte": [
+    "Ob Sie zur Party kommen",
+    "Was mit dem Beamer passiert ist",
+    "Wie der Filmabend war",
+    "Wann Sie den Beamer zurückbringen"
+  ],
+  "model": {
+    "subject": "Dein Beamer – Entschuldigung und gute Nachrichten",
+    "text": "Liebe Nina,\n\nentschuldige bitte, dass ich dir den Beamer so lange nicht zurückgegeben habe! Das war wirklich nicht in Ordnung.\n\nUnser Filmabend war übrigens super. Wir waren zu acht, haben Pizza gegessen und uns zwei alte Krimis angeschaut. An der großen Wand im Wohnzimmer sah das fast so aus wie im Kino!\n\nLeider muss ich dir aber auch etwas beichten: Am Ende des Abends ist mein Mitbewohner über das Kabel gestolpert, und die Fernbedienung ist auf den Boden gefallen. Seitdem funktioniert sie nicht mehr. Dem Beamer selbst ist zum Glück nichts passiert. Ich habe schon eine neue Fernbedienung bestellt, die am Mittwoch ankommen soll.\n\nDeshalb würde ich dir den Beamer am Donnerstag gegen 19 Uhr vorbeibringen. Passt dir das? Dann hast du ihn rechtzeitig vor deiner Party.\n\nVielen Dank auch für die Einladung! Ich komme sehr gern und bringe dir als kleine Entschuldigung einen selbst gemachten Kartoffelsalat mit.\n\nBis Donnerstag!\nViele Grüße\nDein Mateo"
+  },
+  "modelNotes": [
+    "The e-mail opens with an apology – the most important thing for Nina – before telling her about the film evening.",
+    "The problem is explained honestly in the past tense and followed at once by the solution („Ich habe schon … bestellt, die …“).",
+    "Connectors and references guide the reader: „übrigens“, „aber“, „seitdem“, „zum Glück“, „deshalb“, „dann“; a relative clause adds information.",
+    "Informal and warm: „Entschuldige bitte …“, „Passt dir das?“, „als kleine Entschuldigung“, „Bis Donnerstag!“."
+  ],
+  "modelNotesDe": [
+    "Die E-Mail beginnt mit einer Entschuldigung – das ist für Nina am wichtigsten –, bevor der Schreiber vom Filmabend erzählt.",
+    "Der Schreiber erklärt das Problem ehrlich in der Vergangenheit, und direkt danach kommt die Lösung („Ich habe schon … bestellt, die …“).",
+    "Konnektoren und Verweise führen die Leserin durch den Text: „übrigens“, „aber“, „seitdem“, „zum Glück“, „deshalb“, „dann“; ein Relativsatz ergänzt Informationen.",
+    "Informell und herzlich: „Entschuldige bitte …“, „Passt dir das?“, „als kleine Entschuldigung“, „Bis Donnerstag!“."
+  ],
+  "phrases": [
+    { "de": "Entschuldige bitte, dass ich … so lange …", "en": "Sorry that I … for so long." },
+    { "de": "Das war wirklich nicht in Ordnung.", "en": "That really wasn't OK." },
+    { "de": "Ich muss dir etwas beichten: …", "en": "I have to confess something: …" },
+    { "de": "Zum Glück ist nichts passiert.", "en": "Luckily nothing happened." },
+    { "de": "Ich habe schon … bestellt.", "en": "I have already ordered …" },
+    { "de": "Passt dir das?", "en": "Does that suit you?" },
+    { "de": "als kleine Entschuldigung", "en": "as a small apology" },
+    { "de": "Ich komme sehr gern!", "en": "I'd love to come!" }
+  ],
+  "glossary": [
+    { "de": "der Beamer", "en": "projector" },
+    { "de": "die Leinwand", "en": "screen" },
+    { "de": "beichten", "en": "to confess" },
+    { "de": "stolpern (über + Akkusativ)", "en": "to trip (over)" },
+    { "de": "die Fernbedienung", "en": "remote control" },
+    { "de": "rechtzeitig", "en": "in time" }
+  ]
+}

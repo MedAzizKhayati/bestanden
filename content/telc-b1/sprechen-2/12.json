@@ -1,0 +1,101 @@
+{
+  "id": "sprechen-2-12",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Alt und Jung unter einem Dach",
+  "topic": "gesellschaft",
+  "difficulty": 3,
+  "theme": "Mehrgenerationenhaus",
+  "medium": "im Internet",
+  "cardA": {
+    "name": "Elfriede Maier",
+    "age": 74,
+    "job": "Rentnerin",
+    "quote": "Seit zwei Jahren wohne ich in einem Mehrgenerationenhaus in Linz. Jeder hat seine eigene Wohnung, aber wir haben einen Gemeinschaftsraum und einen großen Garten. Ich lese den Kindern meiner Nachbarn manchmal etwas vor, und dafür tragen die jungen Leute meine Einkäufe in den dritten Stock. Seitdem fühle ich mich nicht mehr einsam."
+  },
+  "cardB": {
+    "name": "Jana Roth",
+    "age": 32,
+    "job": "Projektmanagerin",
+    "quote": "Die Idee klingt schön, aber für mich wäre das nichts. Nach einem langen Arbeitstag brauche ich meine Ruhe und möchte nicht noch über die Gartenarbeit oder den Putzplan diskutieren. In so einem Haus gibt es viele Regeln und Treffen und sicher auch oft Streit. Ich besuche meine Großeltern gern, aber ich möchte nicht mit Fremden zusammenwohnen."
+  },
+  "ideas": {
+    "pro": [
+      "Alt und Jung helfen sich gegenseitig",
+      "ältere Menschen sind weniger einsam",
+      "Kinder haben eine Art Großeltern in der Nähe",
+      "man teilt Garten, Räume und Geräte",
+      "gemeinsame Feste und Aktivitäten",
+      "Familien bekommen Hilfe bei der Kinderbetreuung"
+    ],
+    "contra": [
+      "weniger Ruhe und Privatsphäre",
+      "viele Regeln und lange Diskussionen",
+      "Streit über Lärm, Ordnung oder Putzen",
+      "man kann sich die Nachbarn nicht aussuchen",
+      "nicht in jeder Stadt gibt es solche Häuser",
+      "Junge und Alte haben einen anderen Tagesrhythmus"
+    ]
+  },
+  "questions": [
+    "Könnten Sie sich vorstellen, in einem Mehrgenerationenhaus zu wohnen?",
+    "Wie ist das in Ihrem Heimatland? Leben dort mehrere Generationen zusammen?",
+    "Wie leben ältere Menschen in Ihrem Heimatland?",
+    "Was können Jung und Alt voneinander lernen?",
+    "Welche Regeln braucht man, wenn viele Menschen zusammenwohnen?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Daria Smirnova", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Ahmed Hassan", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie haben im Internet Meinungen zum Thema Mehrgenerationenhaus gelesen. Bitte berichten Sie zuerst kurz, was auf Ihrem Blatt steht." },
+    { "s": "A", "t": "Gern. Auf meinem Blatt berichtet Elfriede Maier über ihre Erfahrungen, sie ist 74 Jahre alt. Frau Maier wohnt seit zwei Jahren in einem Mehrgenerationenhaus in Linz." },
+    { "s": "A", "t": "Dort hat jeder seine eigene Wohnung, aber es gibt einen Gemeinschaftsraum und einen großen Garten. Frau Maier liest den Kindern ihrer Nachbarn manchmal etwas vor, und dafür tragen die jungen Leute ihre Einkäufe in den dritten Stock." },
+    { "s": "A", "t": "Sie sagt, dass sie sich seitdem nicht mehr einsam fühlt." },
+    { "s": "B", "t": "Danke schön. Jana Roth, deren Meinung auf meinem Blatt steht, sieht das ganz anders. Sie ist 32 und Projektmanagerin." },
+    { "s": "B", "t": "Frau Roth findet die Idee zwar schön, aber für sie selbst wäre das nichts. Nach einem langen Arbeitstag braucht sie ihre Ruhe und möchte nicht noch über Gartenarbeit oder den Putzplan diskutieren." },
+    { "s": "B", "t": "Sie glaubt, dass es in so einem Haus viele Regeln und Treffen und sicher auch oft Streit gibt. Ihre Großeltern besucht sie gern, aber mit Fremden möchte sie nicht zusammenwohnen." },
+    { "s": "A", "t": "Ich kann beide Positionen nachvollziehen. Einerseits finde ich die Idee wunderbar, andererseits verstehe ich, dass man nach der Arbeit seine Ruhe haben möchte. Wie sehen Sie das, Herr Hassan?" },
+    { "s": "B", "t": "Für mich ist das eigentlich gar nicht so neu. In Ägypten leben viele Familien mit drei Generationen in einem Haus. Ich bin mit meinen Großeltern aufgewachsen, sie haben im Erdgeschoss gewohnt und wir im ersten Stock." },
+    { "s": "A", "t": "Und wie war das für Sie als Kind?" },
+    { "s": "B", "t": "Wunderbar! Meine Großmutter hat jeden Tag für alle gekocht, und mein Großvater hat mir Geschichten erzählt. Allerdings gab es natürlich auch Streit, zum Beispiel über die Erziehung der Kinder." },
+    { "s": "A", "t": "Das glaube ich. Aber im Mehrgenerationenhaus ist es ein bisschen anders, weil die Bewohner nicht verwandt sind. Man kann also selbst entscheiden, wie viel Kontakt man haben möchte." },
+    { "s": "B", "t": "Das ist ein guter Punkt. Trotzdem gebe ich Frau Roth teilweise recht. Je mehr Menschen zusammenwohnen, desto mehr Regeln braucht man." },
+    { "s": "A", "t": "Das stimmt wahrscheinlich. In Kasachstan leben ältere Menschen meistens bei ihren Kindern. Ein Altersheim gilt bei uns oft als schlechte Lösung, weil man die Eltern nicht allein lassen möchte." },
+    { "s": "B", "t": "Und hier in Deutschland? Was ist Ihre Erfahrung?" },
+    { "s": "A", "t": "Ich arbeite in einer Apotheke, und viele ältere Kunden erzählen mir, dass sie sich einsam fühlen. Manche bekommen wochenlang keinen Besuch. Für solche Menschen wäre ein Mehrgenerationenhaus eine echte Chance." },
+    { "s": "B", "t": "Das finde ich traurig. Ich glaube, auch junge Familien könnten davon profitieren. Wenn die Eltern arbeiten, könnte eine ältere Nachbarin vielleicht mal auf die Kinder aufpassen." },
+    { "s": "A", "t": "Genau, das ist ja das Prinzip: Man hilft sich gegenseitig, und jeder gibt, was er kann. Die Kinder lernen von den Älteren, und die Älteren bleiben aktiv." },
+    { "s": "P", "t": "Könnten Sie sich vorstellen, selbst in einem Mehrgenerationenhaus zu wohnen?" },
+    { "s": "B", "t": "Ehrlich gesagt, ja, aber erst später, wenn ich Kinder habe. Im Moment arbeite ich oft nachts und schlafe am Tag, da wären spielende Kinder im Garten vielleicht ein Problem." },
+    { "s": "A", "t": "Ich könnte es mir gut vorstellen, vor allem wegen der Gemeinschaft. Wichtig wäre für mich aber, dass ich trotzdem eine eigene Wohnung habe, in die ich mich zurückziehen kann." },
+    { "s": "B", "t": "Da sind wir uns einig: Gemeinschaft ja, aber mit genug Privatsphäre. Dann hat jeder etwas davon, so wie Frau Maier." }
+  ],
+  "phrases": [
+    { "de": "…, deren Meinung auf meinem Blatt steht, sieht das ganz anders.", "en": "…, whose opinion is on my sheet, sees it quite differently." },
+    { "de": "Sie findet die Idee zwar schön, aber …", "en": "She does think the idea is nice, but …" },
+    { "de": "Ich kann beide Positionen nachvollziehen.", "en": "I can understand both positions." },
+    { "de": "Einerseits …, andererseits …", "en": "On the one hand …, on the other hand …" },
+    { "de": "Wie sehen Sie das?", "en": "How do you see it?" },
+    { "de": "Trotzdem gebe ich … teilweise recht.", "en": "Still, I partly agree with …" },
+    { "de": "Je mehr …, desto mehr …", "en": "The more …, the more …" },
+    { "de": "Für solche Menschen wäre das eine echte Chance.", "en": "For people like that, it would be a real opportunity." },
+    { "de": "Ich könnte es mir gut vorstellen, …", "en": "I could well imagine …" }
+  ],
+  "vocabulary": [
+    { "de": "das Mehrgenerationenhaus", "en": "multi-generation house" },
+    { "de": "der Gemeinschaftsraum", "en": "common room" },
+    { "de": "die Gemeinschaft", "en": "community" },
+    { "de": "einsam", "en": "lonely" },
+    { "de": "vorlesen", "en": "to read aloud" },
+    { "de": "der Putzplan", "en": "cleaning rota" },
+    { "de": "verwandt sein", "en": "to be related" },
+    { "de": "das Altersheim", "en": "old people's home" },
+    { "de": "auf die Kinder aufpassen", "en": "to look after the children" },
+    { "de": "die Erziehung", "en": "upbringing, raising children" },
+    { "de": "sich zurückziehen", "en": "to withdraw, to have some time alone" },
+    { "de": "die Privatsphäre", "en": "privacy" }
+  ]
+}

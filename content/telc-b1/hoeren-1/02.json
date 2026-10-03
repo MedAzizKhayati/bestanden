@@ -1,0 +1,100 @@
+{
+  "id": "hoeren-1-02",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Homeoffice oder Büro?",
+  "topic": "arbeit",
+  "difficulty": 1,
+  "speakers": [
+    { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "markus", "name": "Markus", "gender": "m", "age": "adult" },
+    { "id": "jana", "name": "Jana", "gender": "f", "age": "young" },
+    { "id": "klaus", "name": "Klaus", "gender": "m", "age": "senior" },
+    { "id": "petra", "name": "Petra", "gender": "f", "age": "adult" },
+    { "id": "mehmet", "name": "Mehmet", "gender": "m", "age": "adult" }
+  ],
+  "intro": [
+    { "s": "mod", "t": "Guten Tag, liebe Hörerinnen und Hörer! Viele Menschen arbeiten heute nicht mehr jeden Tag im Büro, sondern auch zu Hause." },
+    { "s": "mod", "t": "Wir haben deshalb gefragt: Arbeiten Sie lieber im Homeoffice oder lieber in der Firma?" }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "script": [
+        { "s": "markus", "t": "Für mich ist Homeoffice das Beste, was passieren konnte. Früher war ich jeden Tag fast zwei Stunden im Auto unterwegs, hin und zurück." },
+        { "s": "markus", "t": "Diese Zeit hab ich jetzt für meine Familie oder für Sport. Ich arbeite zu Hause auch viel konzentrierter, weil mich keiner ständig stört." },
+        { "s": "markus", "t": "Ins Büro fahre ich nur noch, wenn wir ein wichtiges Treffen haben, also vielleicht zweimal im Monat." }
+      ],
+      "statement": "Der Mann möchte am liebsten wieder jeden Tag ins Büro fahren.",
+      "answer": false,
+      "explanation": "He calls working from home „das Beste, was passieren konnte“ and goes to the office only „vielleicht zweimal im Monat“.",
+      "explanationDe": "Er nennt das Homeoffice „das Beste, was passieren konnte“ und fährt nur noch „vielleicht zweimal im Monat“ ins Büro.",
+      "evidence": "Für mich ist Homeoffice das Beste, was passieren konnte."
+    },
+    {
+      "n": 2,
+      "script": [
+        { "s": "jana", "t": "Ich mache gerade eine Ausbildung bei einer Versicherung, und ich bin echt froh, dass ich jeden Tag ins Büro gehen kann." },
+        { "s": "jana", "t": "Wenn ich eine Frage habe, kann ich einfach meine Kollegin am Schreibtisch nebenan fragen. Zu Hause sitze ich allein vor dem Laptop und warte ewig auf eine Antwort." },
+        { "s": "jana", "t": "Und ehrlich gesagt, die Mittagspause mit den anderen würde mir sonst auch fehlen." }
+      ],
+      "statement": "Die junge Frau ist lieber im Büro als im Homeoffice.",
+      "answer": true,
+      "explanation": "She is „echt froh“ that she can go to the office every day: she can ask colleagues and enjoys the lunch break with them. At home she waits „ewig auf eine Antwort“.",
+      "explanationDe": "Sie ist „echt froh“, dass sie jeden Tag ins Büro gehen kann: Dort kann sie Kollegen fragen und genießt die Mittagspause mit ihnen. Zu Hause wartet sie „ewig auf eine Antwort“.",
+      "evidence": "ich bin echt froh, dass ich jeden Tag ins Büro gehen kann"
+    },
+    {
+      "n": 3,
+      "script": [
+        { "s": "klaus", "t": "Homeoffice, das ist für mich überhaupt kein Thema. Ich bin Busfahrer, und meinen Bus kann ich ja schlecht mit nach Hause nehmen." },
+        { "s": "klaus", "t": "Manchmal ärgert mich das schon ein bisschen, wenn meine Nachbarn mit dem Laptop im Garten sitzen. Aber eigentlich mag ich meinen Beruf." },
+        { "s": "klaus", "t": "Ich bin unter Menschen, und kein Tag ist wie der andere. In zwei Jahren gehe ich sowieso in Rente." }
+      ],
+      "statement": "Der Mann kann in seinem Beruf nicht von zu Hause aus arbeiten.",
+      "answer": true,
+      "explanation": "He is a bus driver: „meinen Bus kann ich ja schlecht mit nach Hause nehmen“. Home office is „überhaupt kein Thema“ for him.",
+      "explanationDe": "Er ist Busfahrer: „meinen Bus kann ich ja schlecht mit nach Hause nehmen“. Homeoffice ist für ihn „überhaupt kein Thema“.",
+      "evidence": "meinen Bus kann ich ja schlecht mit nach Hause nehmen"
+    },
+    {
+      "n": 4,
+      "script": [
+        { "s": "petra", "t": "Ich arbeite zwei Tage pro Woche zu Hause, und das klingt erst mal toll. Aber wenn meine beiden Kinder krank sind oder Ferien haben, ist es das reine Chaos." },
+        { "s": "petra", "t": "Der Kleine will spielen, die Große braucht Hilfe bei den Hausaufgaben, und ich sitze in einer Videokonferenz." },
+        { "s": "petra", "t": "Ehrlich, an solchen Tagen bin ich abends total fertig. Im Büro hab ich wenigstens meine Ruhe." }
+      ],
+      "statement": "Für die Frau ist das Homeoffice mit ihren Kindern entspannt.",
+      "answer": false,
+      "explanation": "When the children are at home it is „das reine Chaos“ and she is „total fertig“ in the evening. She says she has more peace in the office.",
+      "explanationDe": "Wenn die Kinder zu Hause sind, ist es „das reine Chaos“, und abends ist sie „total fertig“. Sie sagt, dass sie im Büro mehr Ruhe hat.",
+      "evidence": "Ehrlich, an solchen Tagen bin ich abends total fertig."
+    },
+    {
+      "n": 5,
+      "script": [
+        { "s": "mehmet", "t": "Am Anfang fand ich Homeoffice super: kein Stau, keine langen Meetings, Jogginghose statt Anzug." },
+        { "s": "mehmet", "t": "Aber nach ein paar Monaten hab ich gemerkt, dass ich ziemlich einsam bin. Ich hab manchmal den ganzen Tag mit niemandem gesprochen." },
+        { "s": "mehmet", "t": "Deshalb fahre ich jetzt wieder dreimal in der Woche in die Firma. Das tut mir richtig gut, auch wenn ich früher aufstehen muss." }
+      ],
+      "statement": "Der Mann sieht das Homeoffice heute anders als am Anfang.",
+      "answer": true,
+      "explanation": "„Am Anfang fand ich Homeoffice super“, but later he felt „ziemlich einsam“ and now goes back to the office three times a week – his opinion has changed.",
+      "explanationDe": "„Am Anfang fand ich Homeoffice super“, aber später hat er sich „ziemlich einsam“ gefühlt. Jetzt fährt er wieder dreimal pro Woche ins Büro – seine Meinung hat sich geändert.",
+      "evidence": "Aber nach ein paar Monaten hab ich gemerkt, dass ich ziemlich einsam bin."
+    }
+  ],
+  "glossary": [
+    { "de": "das Homeoffice", "en": "working from home" },
+    { "de": "konzentriert", "en": "focused, with concentration" },
+    { "de": "die Ausbildung", "en": "vocational training, apprenticeship" },
+    { "de": "die Versicherung", "en": "insurance company" },
+    { "de": "ewig warten", "en": "to wait forever" },
+    { "de": "in Rente gehen", "en": "to retire" },
+    { "de": "die Videokonferenz", "en": "video call" },
+    { "de": "das reine Chaos", "en": "total chaos" },
+    { "de": "total fertig sein", "en": "to be completely exhausted" },
+    { "de": "der Stau", "en": "traffic jam" },
+    { "de": "einsam", "en": "lonely" }
+  ]
+}

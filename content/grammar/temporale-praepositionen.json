@@ -1,0 +1,257 @@
+{
+  "id": "temporale-praepositionen",
+  "level": "B1",
+  "category": "praepositionen",
+  "order": 3,
+  "title": "Temporale Präpositionen",
+  "titleEn": "Prepositions of time",
+  "summary": "am Montag, im Mai, um 8 Uhr, seit einem Jahr, vor zwei Tagen, in einer Woche, während der Ferien – which preposition and which case for time.",
+  "summaryDe": "am Montag, im Mai, um 8 Uhr, seit einem Jahr, vor zwei Tagen, in einer Woche, während der Ferien – welche Präposition und welcher Kasus bei Zeitangaben?",
+  "examRelevance": ["sprachbausteine", "hoeren", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Time prepositions answer **Wann?**, **Seit wann?**, **Wie lange?** and **Bis wann?**. Most of them take the **dative** („**am** Montag“, „**seit einem** Jahr“, „**vor zwei** Tagen“); **um**, **gegen**, **für**, **bis** and **über** take the accusative, **während** and **innerhalb** the genitive.",
+      "mdDe": "Temporale Präpositionen antworten auf **Wann?**, **Seit wann?**, **Wie lange?** und **Bis wann?**. Die meisten stehen mit **Dativ** („**am** Montag“, „**seit einem** Jahr“, „**vor zwei** Tagen“). **um**, **gegen**, **für**, **bis** und **über** stehen mit Akkusativ, **während** und **innerhalb** mit Genitiv."
+    },
+    {
+      "type": "table",
+      "heading": "Wann? – points in time",
+      "headingDe": "Wann? – Zeitpunkte",
+      "columns": ["Zeitangabe", "Präposition", "Beispiele"],
+      "rows": [
+        ["clock time", "um", "um 8 Uhr, um halb neun, um Mitternacht"],
+        ["approximate time", "gegen", "gegen 18 Uhr"],
+        ["part of the day", "am (but: in der Nacht)", "am Morgen, am Nachmittag, am Abend, in der Nacht"],
+        ["day, date", "am", "am Freitag, am 24. Dezember"],
+        ["weekend", "am", "am Wochenende"],
+        ["week", "in (+ Dativ)", "in dieser Woche, in der nächsten Woche"],
+        ["month, season", "im", "im Juli, im Winter"],
+        ["year", "no preposition or im Jahr", "2024 / im Jahr 2024 (not: in 2024)"],
+        ["public holiday", "an or zu", "an Ostern (southern Germany, Austria), zu Ostern (northern Germany)"]
+      ],
+      "rowsDe": [
+        ["Uhrzeit", "um", "um 8 Uhr, um halb neun, um Mitternacht"],
+        ["ungefähre Uhrzeit", "gegen", "gegen 18 Uhr"],
+        ["Tageszeit", "am (aber: in der Nacht)", "am Morgen, am Nachmittag, am Abend, in der Nacht"],
+        ["Tag, Datum", "am", "am Freitag, am 24. Dezember"],
+        ["Wochenende", "am", "am Wochenende"],
+        ["Woche", "in (+ Dativ)", "in dieser Woche, in der nächsten Woche"],
+        ["Monat, Jahreszeit", "im", "im Juli, im Winter"],
+        ["Jahr", "keine Präposition oder im Jahr", "2024 / im Jahr 2024 (nicht: in 2024)"],
+        ["Feiertag", "an oder zu", "an Ostern (Süddeutschland, Österreich), zu Ostern (Norddeutschland)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Periods and relations in time",
+      "headingDe": "Zeiträume und zeitliche Beziehungen",
+      "columns": ["Präposition", "Kasus", "English", "Beispiel"],
+      "columnsDe": ["Präposition", "Kasus", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["vor", "Dat", "ago; before", "vor drei Jahren, vor dem Frühstück"],
+        ["nach", "Dat", "after", "nach der Arbeit, nach dem Kurs"],
+        ["seit", "Dat", "since; for (until now)", "seit 2019, seit einem Monat"],
+        ["ab", "Dat", "from … on", "ab Montag, ab dem 1. Juli"],
+        ["in", "Dat", "in (time from now)", "in zwei Wochen, in einer Stunde"],
+        ["von … bis", "Dat (von)", "from … to", "von 9 bis 17 Uhr, vom 3. bis zum 7. Mai"],
+        ["bis", "Akk", "until; by (deadline)", "bis Freitag, bis nächsten Montag, bis zum Wochenende"],
+        ["für", "Akk", "for (a planned period)", "für zwei Wochen"],
+        ["über", "Akk", "over (a period)", "übers Wochenende, über Nacht"],
+        ["zwischen", "Dat", "between", "zwischen 12 und 14 Uhr"],
+        ["während", "Gen", "during", "während des Urlaubs"],
+        ["innerhalb", "Gen", "within", "innerhalb einer Woche"],
+        ["außerhalb", "Gen", "outside", "außerhalb der Öffnungszeiten"]
+      ],
+      "rowsDe": [
+        ["vor", "Dat", "von jetzt aus zurückgerechnet; früher als", "vor drei Jahren, vor dem Frühstück"],
+        ["nach", "Dat", "später als", "nach der Arbeit, nach dem Kurs"],
+        ["seit", "Dat", "Beginn in der Vergangenheit, dauert bis jetzt", "seit 2019, seit einem Monat"],
+        ["ab", "Dat", "von … an", "ab Montag, ab dem 1. Juli"],
+        ["in", "Dat", "von jetzt an gerechnet (Zukunft)", "in zwei Wochen, in einer Stunde"],
+        ["von … bis", "Dat (von)", "Anfang und Ende", "von 9 bis 17 Uhr, vom 3. bis zum 7. Mai"],
+        ["bis", "Akk", "Endpunkt; spätester Termin (Frist)", "bis Freitag, bis nächsten Montag, bis zum Wochenende"],
+        ["für", "Akk", "geplante Dauer", "für zwei Wochen"],
+        ["über", "Akk", "einen ganzen Zeitraum lang", "übers Wochenende, über Nacht"],
+        ["zwischen", "Dat", "im Zeitraum von … bis …", "zwischen 12 und 14 Uhr"],
+        ["während", "Gen", "in der Zeit von", "während des Urlaubs"],
+        ["innerhalb", "Gen", "in diesem Zeitraum, nicht später", "innerhalb einer Woche"],
+        ["außerhalb", "Gen", "nicht in diesem Zeitraum", "außerhalb der Öffnungszeiten"]
+      ],
+      "note": "With dates you read the ordinal number with a dative ending: „am 3. Mai“ = „am dritten Mai“, „ab dem 1. Juli“ = „ab dem ersten Juli“.",
+      "noteDe": "Bei Daten liest du die Ordinalzahl mit Dativ-Endung: „am 3. Mai“ = „am dritten Mai“, „ab dem 1. Juli“ = „ab dem ersten Juli“."
+    },
+    {
+      "type": "text",
+      "heading": "The tricky ones: vor, seit, in, für, nach",
+      "headingDe": "Die schwierigen Fälle: vor, seit, in, für, nach",
+      "md": "- **vor** + Dativ = *ago*: a finished point in the past, used with the Perfekt or Präteritum: „Ich bin **vor zwei Jahren** nach Graz gezogen.“\n- **seit** + Dativ = *since/for*: it started in the past and is **still true now**, so German uses the **present tense**: „Ich wohne **seit zwei Jahren** in Graz.“\n- **in** + Dativ = *in (time from now)*: future: „**In zwei Wochen** habe ich Urlaub.“\n- **für** + Akkusativ = a planned period: „Ich fahre **für drei Tage** nach Wien.“\n- **nach** + Dativ = *after an event*: „**nach dem** Kurs“. With a period of time, „nach“ is used for the past: „**Nach zwei Wochen** hatte ich eine Wohnung gefunden.“ For the future, use „in“.",
+      "mdDe": "- **vor** + Dativ = *von jetzt aus zurückgerechnet*: ein abgeschlossener Zeitpunkt in der Vergangenheit, mit Perfekt oder Präteritum: „Ich bin **vor zwei Jahren** nach Graz gezogen.“\n- **seit** + Dativ = etwas hat in der Vergangenheit begonnen und gilt **immer noch**. Deshalb steht im Deutschen das **Präsens**: „Ich wohne **seit zwei Jahren** in Graz.“\n- **in** + Dativ = *von jetzt an gerechnet*, also Zukunft: „**In zwei Wochen** habe ich Urlaub.“\n- **für** + Akkusativ = ein geplanter Zeitraum: „Ich fahre **für drei Tage** nach Wien.“\n- **nach** + Dativ = *nach einem Ereignis*: „**nach dem** Kurs“. Mit einem Zeitraum benutzt man „nach“ für die Vergangenheit: „**Nach zwei Wochen** hatte ich eine Wohnung gefunden.“ Für die Zukunft nimmst du „in“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Der Kurs beginnt **am** Montag **um** 9 Uhr.", "en": "The course starts on Monday at 9 o'clock." },
+        { "de": "**Im** Sommer fahren wir an die Ostsee.", "en": "In summer we go to the Baltic Sea." },
+        { "de": "Ich lerne **seit** einem Jahr Deutsch.", "en": "I have been learning German for a year." },
+        { "de": "**Vor** drei Monaten habe ich eine neue Stelle gefunden.", "en": "Three months ago I found a new job." },
+        { "de": "**In** zehn Minuten fährt der Zug ab.", "en": "The train leaves in ten minutes." },
+        { "de": "Das Büro ist **von** Montag **bis** Freitag geöffnet.", "en": "The office is open from Monday to Friday." },
+        { "de": "Bitte schicken Sie mir die Unterlagen **bis** Ende Mai.", "en": "Please send me the documents by the end of May." },
+        { "de": "**Während** der Ferien ist die Bibliothek geschlossen.", "en": "During the holidays the library is closed." },
+        { "de": "**Ab** dem 1. März arbeite ich nur noch vier Tage pro Woche.", "en": "From 1 March I'll only work four days a week." },
+        { "de": "**Nach** dem Frühstück gehen wir spazieren.", "en": "After breakfast we're going for a walk." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**English *for* has three German equivalents:** „**seit**“ when it is still going on („Ich wohne **seit** drei Jahren hier.“), „**für**“ for a planned period („Ich fahre **für** drei Tage weg.“) and often **no preposition** for a finished period („Ich habe drei Jahre in Bern gewohnt.“). And never say „in 2023“ – it is „2023“ or „im Jahr 2023“.",
+      "mdDe": "**Für das englische „for“ gibt es im Deutschen drei Möglichkeiten:** „**seit**“, wenn etwas noch andauert („Ich wohne **seit** drei Jahren hier.“), „**für**“ für einen geplanten Zeitraum („Ich fahre **für** drei Tage weg.“) und oft **keine Präposition** für einen abgeschlossenen Zeitraum („Ich habe drei Jahre in Bern gewohnt.“). Und sag nie „in 2023“ – es heißt „2023“ oder „im Jahr 2023“."
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 1:** „seit“, „vor“, „für“, „in“ and „nach“ are often the three options. Check the tense: present + still true → „seit“; past (Perfekt) → „vor“; future → „in“. **Hören Teil 3** and **Lesen Teil 3** are full of „ab“, „bis“ and „von … bis“ (opening hours, deadlines, special offers) – these small words often decide the answer.\n\n**Schreiben** and **Sprechen Teil 3:** precise time expressions make your proposals clear: „Hätten Sie **am** Donnerstag **zwischen** 14 und 16 Uhr Zeit?“, „Ich kann Ihnen die Unterlagen **bis** Freitag schicken.“, „Wollen wir uns **gegen** sieben treffen?“",
+      "mdDe": "**Sprachbausteine Teil 1:** Die drei Optionen kommen oft aus dieser Gruppe: „seit“, „vor“, „für“, „in“ und „nach“. Prüf die Zeitform: Präsens + gilt noch → „seit“; Vergangenheit (Perfekt) → „vor“; Zukunft → „in“. In **Hören Teil 3** und **Lesen Teil 3** gibt es sehr viele „ab“, „bis“ und „von … bis“ (Öffnungszeiten, Fristen, Sonderangebote) – diese kleinen Wörter entscheiden oft über die Lösung.\n\n**Schreiben** und **Sprechen Teil 3:** Mit genauen Zeitangaben werden deine Vorschläge klar: „Hätten Sie **am** Donnerstag **zwischen** 14 und 16 Uhr Zeit?“, „Ich kann Ihnen die Unterlagen **bis** Freitag schicken.“, „Wollen wir uns **gegen** sieben treffen?“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich wohne hier für drei Jahre.",
+      "right": "Ich wohne seit drei Jahren hier.",
+      "why": "It is still true now → „seit“ + dative + present tense.",
+      "whyDe": "Es gilt jetzt noch → „seit“ + Dativ + Präsens."
+    },
+    {
+      "wrong": "Ich bin seit zwei Jahren nach Deutschland gekommen.",
+      "right": "Ich bin vor zwei Jahren nach Deutschland gekommen.",
+      "why": "Arriving is a finished event in the past → „vor“ (= *ago*).",
+      "whyDe": "Das Ankommen ist ein abgeschlossenes Ereignis in der Vergangenheit → „vor“ (= *von jetzt aus zurückgerechnet*)."
+    },
+    {
+      "wrong": "Wir treffen uns in Montag.",
+      "right": "Wir treffen uns am Montag.",
+      "why": "Days and dates always take „am“.",
+      "whyDe": "Bei Tagen und Daten steht immer „am“."
+    },
+    {
+      "wrong": "Ich bin in 2020 nach Wien gezogen.",
+      "right": "Ich bin 2020 nach Wien gezogen.",
+      "why": "Years have no preposition in German – or use „im Jahr 2020“.",
+      "whyDe": "Vor Jahreszahlen steht im Deutschen keine Präposition – oder du sagst „im Jahr 2020“."
+    },
+    {
+      "wrong": "Ich rufe dich nach einer Stunde an.",
+      "right": "Ich rufe dich in einer Stunde an.",
+      "why": "A time from now (future) → „in“. „nach“ + a period of time is used for the past.",
+      "whyDe": "Eine Zeit von jetzt an gerechnet (Zukunft) → „in“. „nach“ + Zeitraum benutzt man für die Vergangenheit."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Wir haben uns ___ fünf Jahren auf einer Party kennengelernt.",
+      "options": ["vor", "seit", "in"],
+      "answer": 0,
+      "explanation": "Meeting someone is a finished event in the past (Perfekt) → „vor“ = *ago*.",
+      "explanationDe": "Das Kennenlernen ist ein abgeschlossenes Ereignis in der Vergangenheit (Perfekt) → „vor“ = *von jetzt aus zurückgerechnet*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich arbeite ___ 2021 bei einer Versicherung in Linz.",
+      "options": ["seit", "vor", "für"],
+      "answer": 0,
+      "explanation": "Present tense and still true → „seit“. „vor 2021“ would mean *before 2021* and doesn't fit the present tense.",
+      "explanationDe": "Präsens, und es gilt noch → „seit“. „vor 2021“ würde *früher als 2021* bedeuten und passt nicht zum Präsens."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Arzt hat ___ Mittwochnachmittag keine Sprechstunde.",
+      "options": ["am", "im", "um"],
+      "answer": 0,
+      "explanation": "Days and parts of the day take „am“ – also when they are combined: „am Mittwochnachmittag“.",
+      "explanationDe": "Bei Tagen und Tageszeiten steht „am“ – auch wenn sie zusammengesetzt sind: „am Mittwochnachmittag“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Praxis ist ___ 8 ___ 12 Uhr geöffnet.",
+      "options": ["von … bis", "seit … bis", "ab … zu"],
+      "answer": 0,
+      "explanation": "Opening hours have a start and an end: „von 8 bis 12 Uhr“.",
+      "explanationDe": "Öffnungszeiten haben einen Anfang und ein Ende: „von 8 bis 12 Uhr“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Kannst du mir das Buch ___ Freitag zurückgeben?",
+      "options": ["bis", "um", "seit"],
+      "answer": 0,
+      "explanation": "A deadline in the future → „bis“ (= *by*). „um“ is only for clock times, „seit“ refers to the past.",
+      "explanationDe": "Eine Frist in der Zukunft → „bis“ (= *spätestens*). „um“ gibt es nur bei Uhrzeiten, „seit“ bezieht sich auf die Vergangenheit."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Film beginnt pünktlich ___ Viertel nach acht.",
+      "answers": ["um"],
+      "explanation": "An exact clock time takes „um“. („gegen“ means *around* and doesn't go with „pünktlich“.)",
+      "explanationDe": "Bei einer genauen Uhrzeit steht „um“. („gegen“ bedeutet *ungefähr* und passt nicht zu „pünktlich“.)"
+    },
+    {
+      "type": "gap",
+      "prompt": "Mein Urlaub beginnt ___ zwei Wochen – ich freue mich schon!",
+      "answers": ["in"],
+      "explanation": "The holiday starts two weeks from now (future) → „in zwei Wochen“.",
+      "explanationDe": "Der Urlaub beginnt zwei Wochen später als jetzt (Zukunft) → „in zwei Wochen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich lerne schon ___ drei Jahren Gitarre.",
+      "answers": ["seit"],
+      "explanation": "Present tense, started in the past and still going on → „seit“ + dative („drei Jahren“).",
+      "explanationDe": "Präsens: Es hat in der Vergangenheit begonnen und dauert noch an → „seit“ + Dativ („drei Jahren“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe ___ des Urlaubs keine E-Mails gelesen.",
+      "hint": "(during)",
+      "hintDe": "(in der Zeit von)",
+      "answers": ["während"],
+      "explanation": "„während“ + genitive = *during*: „während des Urlaubs“.",
+      "explanationDe": "„während“ + Genitiv = *in der Zeit von*: „während des Urlaubs“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the information as one sentence with „seit“. Use the present tense.",
+      "instructionDe": "Schreib die Informationen als einen Satz mit „seit“. Benutze das Präsens.",
+      "prompt": "Ich habe vor sechs Monaten angefangen, in Leipzig zu arbeiten. Ich arbeite immer noch dort.",
+      "answers": [
+        "Ich arbeite seit sechs Monaten in Leipzig.",
+        "Seit sechs Monaten arbeite ich in Leipzig.",
+        "Ich arbeite schon seit sechs Monaten in Leipzig.",
+        "Seit sechs Monaten arbeite ich schon in Leipzig."
+      ],
+      "explanation": "Something that started in the past and is still true → „seit“ + dative + present tense („arbeite“), not the Perfekt.",
+      "explanationDe": "Etwas hat in der Vergangenheit begonnen und gilt noch → „seit“ + Dativ + Präsens („arbeite“), nicht das Perfekt."
+    },
+    {
+      "type": "transform",
+      "instruction": "Answer the question with „vor“ and the information in brackets.",
+      "instructionDe": "Beantworte die Frage mit „vor“ und der Information in Klammern.",
+      "prompt": "Wann bist du nach Basel gezogen? (drei Jahre)",
+      "answers": ["Ich bin vor drei Jahren nach Basel gezogen.", "Vor drei Jahren bin ich nach Basel gezogen.", "Vor drei Jahren."],
+      "explanation": "„vor“ takes the dative: „drei Jahre“ becomes „vor drei Jahren“ (dative plural -n).",
+      "explanationDe": "„vor“ steht mit Dativ: Aus „drei Jahre“ wird „vor drei Jahren“ (Dativ Plural -n)."
+    },
+    {
+      "type": "order",
+      "words": ["Kino.", "uns", "um", "Samstag", "vor", "treffen", "elf", "dem", "Am", "wir", "Uhr"],
+      "answers": [
+        "Am Samstag treffen wir uns um elf Uhr vor dem Kino.",
+        "Wir treffen uns am Samstag um elf Uhr vor dem Kino."
+      ],
+      "explanation": "The verb „treffen“ stays in position 2. Time comes before place: „am Samstag um elf Uhr“ before „vor dem Kino“.",
+      "explanationDe": "Das Verb „treffen“ bleibt auf Position 2. Zeit kommt vor Ort: „am Samstag um elf Uhr“ vor „vor dem Kino“."
+    }
+  ],
+  "related": ["praepositionen-mit-kasus", "temporale-nebensaetze", "wechselpraepositionen", "genitiv"]
+}

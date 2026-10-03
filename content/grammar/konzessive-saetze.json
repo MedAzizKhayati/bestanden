@@ -1,0 +1,221 @@
+{
+  "id": "konzessive-saetze",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 5,
+  "title": "Gegensätze: obwohl, trotzdem, trotz",
+  "titleEn": "Concessive clauses",
+  "summary": "Express an unexpected result: obwohl starts a subordinate clause, trotzdem is an adverb, and trotz is a preposition with the genitive.",
+  "summaryDe": "Ein unerwartetes Ergebnis ausdrücken: obwohl leitet einen Nebensatz ein, trotzdem ist ein Adverb und trotz eine Präposition mit Genitiv.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "To say that something happens *although* you'd expect the opposite, use **obwohl** + subordinate clause (verb at the end), **trotzdem** + main clause (verb straight after it) or **trotz** + a noun in the genitive.",
+      "mdDe": "Wenn du sagen willst, dass etwas passiert, *obwohl* man das Gegenteil erwartet, nimm **obwohl** + Nebensatz (Verb am Ende), **trotzdem** + Hauptsatz (Verb direkt danach) oder **trotz** + Nomen im Genitiv."
+    },
+    {
+      "type": "text",
+      "heading": "One idea – three structures",
+      "headingDe": "Eine Idee – drei Strukturen",
+      "md": "Compare: „Es regnet. Wir gehen spazieren.“ – you'd expect people to stay at home, but they go out anyway. This unexpected result is called a *concession*. German gives you three ways to express it:\n\n- „**Obwohl** es regnet, gehen wir spazieren.“ (subordinate clause)\n- „Es regnet. **Trotzdem** gehen wir spazieren.“ (adverb)\n- „**Trotz** des Regens gehen wir spazieren.“ (preposition)\n\nNote where the words stand: **obwohl** belongs to the clause with the *obstacle* (the rain), **trotzdem** to the clause with the *unexpected result* (the walk).",
+      "mdDe": "Vergleiche: „Es regnet. Wir gehen spazieren.“ – Man erwartet, dass die Leute zu Hause bleiben, aber sie gehen trotzdem raus. Dieses unerwartete Ergebnis heißt *Konzession*. Im Deutschen gibt es drei Möglichkeiten, es auszudrücken:\n\n- „**Obwohl** es regnet, gehen wir spazieren.“ (Nebensatz)\n- „Es regnet. **Trotzdem** gehen wir spazieren.“ (Adverb)\n- „**Trotz** des Regens gehen wir spazieren.“ (Präposition)\n\nAchte darauf, wo die Wörter stehen: **obwohl** gehört zum Satz mit dem *Hindernis* (dem Regen), **trotzdem** zum Satz mit dem *unerwarteten Ergebnis* (dem Spaziergang)."
+    },
+    {
+      "type": "table",
+      "heading": "obwohl – trotzdem – trotz",
+      "headingDe": "obwohl – trotzdem – trotz",
+      "columns": ["Word", "Word type", "Word order / case", "Example"],
+      "columnsDe": ["Wort", "Wortart", "Wortstellung / Kasus", "Beispiel"],
+      "rows": [
+        ["obwohl", "subordinating conjunction", "verb at the end of its clause", "Ich gehe zur Arbeit, obwohl ich erkältet bin."],
+        ["Obwohl … (first)", "subordinating conjunction", "the main clause then starts with the verb", "Obwohl ich erkältet bin, gehe ich zur Arbeit."],
+        ["trotzdem (position 1)", "adverb", "verb right after it, then the subject", "Ich bin erkältet. Trotzdem gehe ich zur Arbeit."],
+        ["trotzdem (middle field)", "adverb", "after the verb (and subject)", "Ich bin erkältet, aber ich gehe trotzdem zur Arbeit."],
+        ["trotz", "preposition", "+ genitive", "Trotz meiner Erkältung gehe ich zur Arbeit."]
+      ],
+      "rowsDe": [
+        ["obwohl", "unterordnende Konjunktion", "Verb am Ende des Nebensatzes", "Ich gehe zur Arbeit, obwohl ich erkältet bin."],
+        ["Obwohl … (am Anfang)", "unterordnende Konjunktion", "der Hauptsatz beginnt dann mit dem Verb", "Obwohl ich erkältet bin, gehe ich zur Arbeit."],
+        ["trotzdem (Position 1)", "Adverb", "Verb direkt danach, dann das Subjekt", "Ich bin erkältet. Trotzdem gehe ich zur Arbeit."],
+        ["trotzdem (Mittelfeld)", "Adverb", "nach dem Verb (und dem Subjekt)", "Ich bin erkältet, aber ich gehe trotzdem zur Arbeit."],
+        ["trotz", "Präposition", "+ Genitiv", "Trotz meiner Erkältung gehe ich zur Arbeit."]
+      ],
+      "note": "In everyday speech you will also hear „trotz“ with the dative („trotz dem Regen“). In the exam and in letters, use the genitive: „trotz des Regens“, „trotz der Kälte“.",
+      "noteDe": "In der Umgangssprache hörst du „trotz“ auch mit Dativ („trotz dem Regen“). In der Prüfung und in Briefen nimmst du den Genitiv: „trotz des Regens“, „trotz der Kälte“."
+    },
+    {
+      "type": "text",
+      "heading": "Other ways to express a contrast",
+      "headingDe": "Andere Möglichkeiten, einen Gegensatz auszudrücken",
+      "md": "**aber** (position 0) also expresses a contrast, but it is less precise: „Es regnet, **aber** wir gehen spazieren.“ You can make it stronger with **trotzdem**: „…, aber wir gehen **trotzdem** spazieren.“\n\n**auch wenn** ('even if') works like „obwohl“, with the verb at the end: „**Auch wenn** es regnet, gehen wir spazieren.“\n\nDon't mix up the logic: **weil / deshalb** = the result you expect; **obwohl / trotzdem** = the result you don't expect.",
+      "mdDe": "Auch **aber** (Position 0) drückt einen Gegensatz aus, ist aber weniger genau: „Es regnet, **aber** wir gehen spazieren.“ Mit **trotzdem** machst du ihn stärker: „…, aber wir gehen **trotzdem** spazieren.“\n\n**auch wenn** (= selbst wenn) funktioniert wie „obwohl“, mit dem Verb am Ende: „**Auch wenn** es regnet, gehen wir spazieren.“\n\nVerwechsle die Logik nicht: **weil / deshalb** = das Ergebnis, das man erwartet; **obwohl / trotzdem** = das Ergebnis, das man nicht erwartet."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Obwohl** das Hotel teuer **war**, waren wir nicht zufrieden.", "en": "Although the hotel was expensive, we weren't satisfied." },
+        { "de": "Jana hat die Prüfung bestanden, **obwohl** sie wenig gelernt **hat**.", "en": "Jana passed the exam although she didn't study much." },
+        { "de": "Der Film hatte gute Kritiken. **Trotzdem hat** er mir nicht gefallen.", "en": "The film had good reviews. Even so, I didn't like it." },
+        { "de": "Ich war sehr müde, aber ich habe **trotzdem** bis zum Ende gefeiert.", "en": "I was very tired, but I still partied until the end." },
+        { "de": "**Trotz** des schlechten Wetters **fand** das Konzert im Park **statt**.", "en": "Despite the bad weather, the concert took place in the park." },
+        { "de": "**Trotz** seiner Rückenschmerzen spielt Herr Novak jeden Sonntag Fußball.", "en": "Despite his back pain, Mr Novak plays football every Sunday." },
+        { "de": "**Obwohl** wir uns beeilt **haben**, **haben** wir den Zug verpasst.", "en": "Although we hurried, we missed the train." },
+        { "de": "Die Wohnung liegt direkt an einer Hauptstraße. **Trotzdem ist** sie sehr ruhig.", "en": "The flat is right on a main road. Nevertheless, it's very quiet." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In Sprachbausteine Teil 1 a typical item is „obwohl / trotzdem / weil“. First check the **logic** (expected or unexpected result?), then the **word order**: verb at the end → „obwohl“; verb directly after the gap → „trotzdem“; a noun in the genitive → „trotz“.\n\nIn **Schreiben** you often have to complain, refuse or disagree politely – concessive sentences are perfect for that: „Obwohl mir der Kurs gut gefallen hat, möchte ich mich über die Organisation beschweren.“ / „Ich habe am Samstag leider keine Zeit. Trotzdem möchte ich dir gern helfen.“ In **Sprechen** Teil 2 they help you give a balanced opinion: „Obwohl Homeoffice praktisch ist, fehlt mir der Kontakt zu den Kollegen.“",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 ist „obwohl / trotzdem / weil“ eine typische Aufgabe. Prüfe zuerst die **Logik** (erwartetes oder unerwartetes Ergebnis?), dann die **Wortstellung**: Verb am Ende → „obwohl“; Verb direkt nach der Lücke → „trotzdem“; ein Nomen im Genitiv → „trotz“.\n\nIm **Schreiben** musst du dich oft beschweren, etwas ablehnen oder höflich widersprechen – dafür sind konzessive Sätze perfekt: „Obwohl mir der Kurs gut gefallen hat, möchte ich mich über die Organisation beschweren.“ / „Ich habe am Samstag leider keine Zeit. Trotzdem möchte ich dir gern helfen.“ In **Sprechen** Teil 2 helfen sie dir, eine ausgewogene Meinung zu äußern: „Obwohl Homeoffice praktisch ist, fehlt mir der Kontakt zu den Kollegen.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** using English word order after „trotzdem“. „Ich bin krank, trotzdem ich gehe zur Arbeit“ is wrong – after „trotzdem“ in position 1 the verb comes next: „Ich bin krank, **trotzdem gehe ich** zur Arbeit.“\n\nAnd „trotzdem“ can't start a subordinate clause: „Trotzdem ich krank bin, …“ is not accepted in standard German → „**Obwohl** ich krank bin, …“.",
+      "mdDe": "**Typische Falle:** die Wortstellung wie im Englischen nach „trotzdem“. „Ich bin krank, trotzdem ich gehe zur Arbeit“ ist falsch – nach „trotzdem“ auf Position 1 kommt direkt das Verb: „Ich bin krank, **trotzdem gehe ich** zur Arbeit.“\n\nUnd „trotzdem“ kann keinen Nebensatz einleiten: „Trotzdem ich krank bin, …“ gilt im Standarddeutschen nicht als korrekt → „**Obwohl** ich krank bin, …“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Obwohl es kalt ist, ich trage keine Jacke.",
+      "right": "Obwohl es kalt ist, trage ich keine Jacke.",
+      "why": "The obwohl clause is position 1, so the main clause starts with the verb.",
+      "whyDe": "Der obwohl-Satz ist Position 1, deshalb beginnt der Hauptsatz mit dem Verb."
+    },
+    {
+      "wrong": "Er ist müde, trotzdem er arbeitet weiter.",
+      "right": "Er ist müde, trotzdem arbeitet er weiter.",
+      "why": "„trotzdem“ takes position 1, so the verb comes directly after it.",
+      "whyDe": "„trotzdem“ steht auf Position 1, deshalb kommt das Verb direkt danach."
+    },
+    {
+      "wrong": "Trotz es regnet, gehen wir joggen.",
+      "right": "Obwohl es regnet, gehen wir joggen.",
+      "why": "„trotz“ is a preposition and needs a noun („trotz des Regens“). Before a clause with subject and verb, use „obwohl“.",
+      "whyDe": "„trotz“ ist eine Präposition und braucht ein Nomen („trotz des Regens“). Vor einem Satz mit Subjekt und Verb nimmst du „obwohl“."
+    },
+    {
+      "wrong": "Ich gehe spazieren, obwohl ich habe keine Zeit.",
+      "right": "Ich gehe spazieren, obwohl ich keine Zeit habe.",
+      "why": "After „obwohl“ the conjugated verb goes to the end.",
+      "whyDe": "Nach „obwohl“ steht das konjugierte Verb am Ende."
+    },
+    {
+      "wrong": "Weil das Essen kalt war, haben wir alles aufgegessen.",
+      "right": "Obwohl das Essen kalt war, haben wir alles aufgegessen.",
+      "why": "Cold food is a reason not to eat everything – so this is an unexpected result: „obwohl“, not „weil“.",
+      "whyDe": "Kaltes Essen ist ein Grund, nicht alles zu essen – das ist also ein unerwartetes Ergebnis: „obwohl“, nicht „weil“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "___ ich viel gelernt habe, habe ich die Prüfung nicht bestanden.",
+      "options": ["Weil", "Obwohl", "Trotzdem"],
+      "answer": 1,
+      "explanation": "Studying a lot and still failing is an unexpected result, and the verb „habe“ is at the end of the first clause → „Obwohl“.",
+      "explanationDe": "Viel lernen und trotzdem durchfallen ist ein unerwartetes Ergebnis, und das Verb „habe“ steht am Ende des ersten Satzes → „Obwohl“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das Restaurant war voll. ___ haben wir noch einen Tisch bekommen.",
+      "options": ["Obwohl", "Deshalb", "Trotzdem"],
+      "answer": 2,
+      "explanation": "Unexpected result + verb „haben“ directly after the gap → „Trotzdem“. „Deshalb“ would mean that the full restaurant was the reason for getting a table.",
+      "explanationDe": "Unerwartetes Ergebnis + Verb „haben“ direkt nach der Lücke → „Trotzdem“. „Deshalb“ würde bedeuten, dass das volle Restaurant der Grund dafür war, dass wir einen Tisch bekommen haben."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ des Staus sind wir pünktlich angekommen.",
+      "options": ["Trotz", "Obwohl", "Trotzdem"],
+      "answer": 0,
+      "explanation": "A noun in the genitive follows („des Staus“) → the preposition „Trotz“.",
+      "explanationDe": "Danach folgt ein Nomen im Genitiv („des Staus“) → die Präposition „Trotz“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mein Opa fährt noch jeden Tag Fahrrad, obwohl ___.",
+      "options": ["er ist schon 85 Jahre alt", "ist er schon 85 Jahre alt", "er schon 85 Jahre alt ist"],
+      "answer": 2,
+      "explanation": "After „obwohl“ the conjugated verb „ist“ goes to the end of the clause.",
+      "explanationDe": "Nach „obwohl“ steht das konjugierte Verb „ist“ am Ende des Satzes."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich gehe heute Abend aus, ___ ich morgen früh arbeiten muss.",
+      "hint": "(although)",
+      "hintDe": "(Gegengrund, Verb am Ende)",
+      "answers": ["obwohl", "auch wenn", "obgleich"],
+      "explanation": "Going out is unexpected because of the early start, and the verb „muss“ is at the end → „obwohl“ („auch wenn“ is also possible).",
+      "explanationDe": "Ausgehen ist wegen des frühen Arbeitsbeginns unerwartet, und das Verb „muss“ steht am Ende → „obwohl“ („auch wenn“ geht auch)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Jacke war sehr teuer. Ich habe sie ___ gekauft.",
+      "hint": "(nevertheless)",
+      "hintDe": "(Gegengrund, Adverb)",
+      "answers": ["trotzdem", "dennoch"],
+      "explanation": "The price is a reason not to buy it – you bought it anyway → „trotzdem“, here in the middle field after „Ich habe sie“.",
+      "explanationDe": "Der Preis ist ein Grund, sie nicht zu kaufen – du hast sie aber trotzdem gekauft → „trotzdem“, hier im Mittelfeld nach „Ich habe sie“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Trotz ___ Regens haben wir im Garten gegrillt.",
+      "hint": "(der Regen – genitive article)",
+      "hintDe": "(der Regen – Artikel im Genitiv)",
+      "answers": ["des"],
+      "explanation": "„trotz“ takes the genitive: der Regen → „des Regens“.",
+      "explanationDe": "„trotz“ steht mit Genitiv: der Regen → „des Regens“."
+    },
+    {
+      "type": "order",
+      "words": ["Film", "habe", "war,", "ich", "Obwohl", "müde", "den", "gesehen.", "ich", "zu", "Ende"],
+      "answers": ["Obwohl ich müde war, habe ich den Film zu Ende gesehen."],
+      "explanation": "The obwohl clause comes first with „war“ at the end. Then the main clause starts with the verb „habe“.",
+      "explanationDe": "Der obwohl-Satz steht zuerst, mit „war“ am Ende. Dann beginnt der Hauptsatz mit dem Verb „habe“."
+    },
+    {
+      "type": "order",
+      "words": ["kalt,", "schwimmen", "trotzdem", "Es", "gegangen.", "sehr", "wir", "sind", "war"],
+      "answers": ["Es war sehr kalt, trotzdem sind wir schwimmen gegangen.", "Es war sehr kalt, wir sind trotzdem schwimmen gegangen."],
+      "explanation": "„trotzdem“ in position 1 is followed directly by the verb „sind“. It can also stand in the middle field: „wir sind trotzdem …“.",
+      "explanationDe": "Nach „trotzdem“ auf Position 1 folgt direkt das Verb „sind“. Es kann auch im Mittelfeld stehen: „wir sind trotzdem …“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „obwohl“. Start with „Obwohl“.",
+      "instructionDe": "Verbinde die Sätze mit „obwohl“. Beginne mit „Obwohl“.",
+      "prompt": "Die Wohnung ist klein. Wir fühlen uns dort sehr wohl.",
+      "answers": ["Obwohl die Wohnung klein ist, fühlen wir uns dort sehr wohl."],
+      "explanation": "„obwohl“ goes with the obstacle („klein“); its verb „ist“ goes to the end. The main clause then starts with the verb „fühlen“.",
+      "explanationDe": "„obwohl“ gehört zum Hindernis („klein“); sein Verb „ist“ steht am Ende. Der Hauptsatz beginnt dann mit dem Verb „fühlen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence as two main clauses with „trotzdem“.",
+      "instructionDe": "Schreib den Satz als zwei Hauptsätze mit „trotzdem“.",
+      "prompt": "Obwohl Lukas Vegetarier ist, kocht er für seine Familie oft Fleisch.",
+      "answers": [
+        "Lukas ist Vegetarier, trotzdem kocht er für seine Familie oft Fleisch.",
+        "Lukas ist Vegetarier. Trotzdem kocht er für seine Familie oft Fleisch.",
+        "Lukas ist Vegetarier, aber trotzdem kocht er für seine Familie oft Fleisch.",
+        "Lukas ist Vegetarier, aber er kocht trotzdem für seine Familie oft Fleisch.",
+        "Lukas ist Vegetarier, er kocht trotzdem für seine Familie oft Fleisch."
+      ],
+      "explanation": "„trotzdem“ goes into the clause with the unexpected result (cooking meat). In position 1 it is followed directly by the verb: „trotzdem kocht er“.",
+      "explanationDe": "„trotzdem“ kommt in den Satz mit dem unerwarteten Ergebnis (er kocht Fleisch). Auf Position 1 folgt direkt das Verb: „trotzdem kocht er“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the obwohl clause with „trotz“ + genitive.",
+      "instructionDe": "Ersetze den obwohl-Satz durch „trotz“ + Genitiv.",
+      "prompt": "Obwohl die Miete hoch ist, bleiben wir in unserer Wohnung.",
+      "answers": ["Trotz der hohen Miete bleiben wir in unserer Wohnung.", "Wir bleiben trotz der hohen Miete in unserer Wohnung."],
+      "explanation": "die Miete → genitive „der Miete“; the adjective after „der“ ends in -en: „der hohen Miete“. If „Trotz der hohen Miete“ is position 1, the verb „bleiben“ follows directly.",
+      "explanationDe": "die Miete → Genitiv „der Miete“; das Adjektiv nach „der“ endet auf -en: „der hohen Miete“. Wenn „Trotz der hohen Miete“ auf Position 1 steht, folgt direkt das Verb „bleiben“."
+    }
+  ],
+  "related": ["kausale-konsekutive-saetze", "verbindungsadverbien", "nebensaetze-grundlagen", "konnektoren-hauptsatz", "genitiv", "praepositionen-mit-kasus"]
+}

@@ -1,0 +1,229 @@
+{
+  "id": "imperativ",
+  "level": "A2",
+  "category": "verben",
+  "order": 12,
+  "title": "Der Imperativ",
+  "titleEn": "The imperative",
+  "summary": "How to give instructions, requests and advice with du, ihr and Sie – and how to make them sound polite.",
+  "summaryDe": "So gibst du Anweisungen, Bitten und Ratschläge mit du, ihr und Sie – und so klingen sie höflich.",
+  "examRelevance": ["sprachbausteine", "hoeren", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The imperative puts the verb **first** and has three forms: **du** – the du-form without -st and du (Komm!), **ihr** – the ihr-form without ihr (Kommt!) and **Sie** – the infinitive + Sie (Kommen Sie!). A separable prefix goes to the end: **Ruf** mich **an**!",
+      "mdDe": "Beim Imperativ steht das Verb **am Anfang**. Es gibt drei Formen: **du** – die du-Form ohne -st (Komm!), **ihr** – die ihr-Form ohne ihr (Kommt!) und **Sie** – der Infinitiv + Sie (Kommen Sie!). Ein trennbares Präfix steht am Ende: **Ruf** mich **an**!"
+    },
+    {
+      "type": "text",
+      "heading": "How to form the imperative",
+      "headingDe": "So bildest du den Imperativ",
+      "md": "**du-form:** start from the du-form of the present tense and drop **-st** and **du**.\n\n- du kommst → **Komm!** · du machst → **Mach!**\n- Verbs with e → i/ie keep the change: du nimmst → **Nimm!** · du gibst → **Gib!** · du liest → **Lies!** · du isst → **Iss!** · du hilfst → **Hilf!**\n- Verbs with a → ä lose the umlaut: du fährst → **Fahr!** · du schläfst → **Schlaf!** · du läufst → **Lauf!**\n- Verbs whose stem ends in -t, -d or a consonant + n add **-e**: **Warte!** · **Finde!** · **Öffne!** · **Rechne!** Also: **Entschuldige!**\n\n**ihr-form:** the normal present tense form without ihr: ihr kommt → **Kommt!** · ihr nehmt → **Nehmt!** · ihr wartet → **Wartet!**\n\n**Sie-form:** infinitive + Sie: **Kommen Sie!** · **Nehmen Sie!** · **Warten Sie!**\n\n**wir-form** (a suggestion): infinitive + wir: **Gehen wir!** = Let's go! (also: Lass uns gehen!)",
+      "mdDe": "**du-Form:** Nimm die du-Form im Präsens und lass **-st** und **du** weg.\n\n- du kommst → **Komm!** · du machst → **Mach!**\n- Verben mit e → i/ie behalten den Wechsel: du nimmst → **Nimm!** · du gibst → **Gib!** · du liest → **Lies!** · du isst → **Iss!** · du hilfst → **Hilf!**\n- Verben mit a → ä verlieren den Umlaut: du fährst → **Fahr!** · du schläfst → **Schlaf!** · du läufst → **Lauf!**\n- Verben, deren Stamm auf -t, -d oder Konsonant + n endet, bekommen **-e**: **Warte!** · **Finde!** · **Öffne!** · **Rechne!** Auch: **Entschuldige!**\n\n**ihr-Form:** die normale Präsensform ohne ihr: ihr kommt → **Kommt!** · ihr nehmt → **Nehmt!** · ihr wartet → **Wartet!**\n\n**Sie-Form:** Infinitiv + Sie: **Kommen Sie!** · **Nehmen Sie!** · **Warten Sie!**\n\n**wir-Form** (ein Vorschlag): Infinitiv + wir: **Gehen wir!** (auch: Lass uns gehen!)"
+    },
+    {
+      "type": "table",
+      "heading": "Imperative forms",
+      "headingDe": "Imperativformen",
+      "columns": ["Infinitiv", "du", "ihr", "Sie"],
+      "rows": [
+        ["kommen", "Komm!", "Kommt!", "Kommen Sie!"],
+        ["warten", "Warte!", "Wartet!", "Warten Sie!"],
+        ["fahren", "Fahr!", "Fahrt!", "Fahren Sie!"],
+        ["nehmen", "Nimm!", "Nehmt!", "Nehmen Sie!"],
+        ["lesen", "Lies!", "Lest!", "Lesen Sie!"],
+        ["essen", "Iss!", "Esst!", "Essen Sie!"],
+        ["anrufen", "Ruf … an!", "Ruft … an!", "Rufen Sie … an!"],
+        ["sich beeilen", "Beeil dich!", "Beeilt euch!", "Beeilen Sie sich!"],
+        ["sein", "Sei!", "Seid!", "Seien Sie!"],
+        ["haben", "Hab!", "Habt!", "Haben Sie!"],
+        ["werden", "Werde!", "Werdet!", "Werden Sie!"]
+      ],
+      "note": "sein is irregular: „Sei!“ and „Seien Sie!“ don't follow the normal rules. Careful: „Seid!“ (ihr) is written with d – „seit“ with t is a preposition (seit drei Jahren). In the du-form an -e is possible with most verbs (Komme!, Mache!), but it sounds old-fashioned.",
+      "noteDe": "sein ist unregelmäßig: „Sei!“ und „Seien Sie!“ folgen nicht den normalen Regeln. Achtung: „Seid!“ (ihr) schreibt man mit d – „seit“ mit t ist eine Präposition (seit drei Jahren). In der du-Form ist bei den meisten Verben ein -e möglich (Komme!, Mache!), aber das klingt altmodisch."
+    },
+    {
+      "type": "text",
+      "heading": "Friendly or polite?",
+      "headingDe": "Freundlich oder höflich?",
+      "md": "An imperative can sound strong. These small words make it friendlier:\n\n- **bitte:** Komm **bitte** pünktlich! / **Bitte** warten Sie hier.\n- **mal** (casual): Komm **mal** her! Schau **mal**!\n- **doch** (encouraging advice): Nimm **doch** den Bus! Probier **doch mal** den Kuchen!\n\nIn formal situations a polite question is often better than an imperative: **Könnten Sie** bitte das Fenster schließen? **Würden Sie** mir bitte helfen?\n\nSigns and recipes often use the infinitive instead: Bitte nicht rauchen! Die Zwiebeln klein schneiden.",
+      "mdDe": "Ein Imperativ kann sehr direkt klingen. Diese kleinen Wörter machen ihn freundlicher:\n\n- **bitte:** Komm **bitte** pünktlich! / **Bitte** warten Sie hier.\n- **mal** (locker): Komm **mal** her! Schau **mal**!\n- **doch** (ermutigender Rat): Nimm **doch** den Bus! Probier **doch mal** den Kuchen!\n\nIn formellen Situationen ist eine höfliche Frage oft besser als ein Imperativ: **Könnten Sie** bitte das Fenster schließen? **Würden Sie** mir bitte helfen?\n\nAuf Schildern und in Rezepten steht oft stattdessen der Infinitiv: Bitte nicht rauchen! Die Zwiebeln klein schneiden."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Ruf** mich bitte heute Abend **an**!", "en": "Please call me tonight!" },
+        { "de": "**Nimm** doch einen Regenschirm **mit**!", "en": "Why don't you take an umbrella with you!" },
+        { "de": "Kinder, **seid** bitte leise, das Baby schläft.", "en": "Children, please be quiet, the baby is sleeping." },
+        { "de": "**Füllen Sie** bitte dieses Formular **aus**.", "en": "Please fill in this form." },
+        { "de": "**Lies** die Aufgabe genau, bevor du antwortest.", "en": "Read the task carefully before you answer." },
+        { "de": "**Seien Sie** bitte pünktlich, der Bus wartet nicht.", "en": "Please be on time, the bus won't wait." },
+        { "de": "**Fahr** vorsichtig, die Straßen sind glatt!", "en": "Drive carefully, the roads are icy!" },
+        { "de": "**Hab** keine Angst, der Hund ist ganz lieb.", "en": "Don't be afraid, the dog is really friendly." },
+        { "de": "**Entschuldigen Sie**, wie komme ich zum Bahnhof?", "en": "Excuse me, how do I get to the station?" },
+        { "de": "**Melde dich**, wenn du in Köln bist!", "en": "Get in touch when you're in Cologne!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Schreiben (informal):** imperatives make an e-mail to a friend lively – „Schreib mir bald!“ – „Melde dich, wenn du Zeit hast!“ – „Grüß deine Eltern von mir!“\n- **Schreiben (semi-formal):** prefer polite questions – „Könnten Sie mir bitte … schicken?“ – or „Bitte teilen Sie mir mit, ob …“. Never mix du- and Sie-forms in one e-mail.\n- **Sprechen Teil 3:** „Lass uns …“ – „Komm, wir machen …“ – „Bring du doch die Getränke mit!“ – „Frag doch mal deinen Bruder!“\n- **Hören Teil 3 and Lesen:** announcements and instructions use the Sie-imperative – „Bitte steigen Sie hinten ein.“ – „Beachten Sie die neuen Öffnungszeiten.“ The imperative tells you what to do, and that is often exactly what the task asks about.\n- **Sprachbausteine Teil 1:** typical options are „Nimm / Nehm / Nehmt“ or „Sei / Seid / Seien“.",
+      "mdDe": "**In der Prüfung**\n\n- **Schreiben (informell):** Imperative machen eine E-Mail an Freunde lebendig – „Schreib mir bald!“ – „Melde dich, wenn du Zeit hast!“ – „Grüß deine Eltern von mir!“\n- **Schreiben (halbformell):** Nimm lieber höfliche Fragen – „Könnten Sie mir bitte … schicken?“ – oder „Bitte teilen Sie mir mit, ob …“. Misch nie du- und Sie-Formen in einer E-Mail.\n- **Sprechen Teil 3:** „Lass uns …“ – „Komm, wir machen …“ – „Bring du doch die Getränke mit!“ – „Frag doch mal deinen Bruder!“\n- **Hören Teil 3 und Lesen:** Durchsagen und Anweisungen benutzen den Sie-Imperativ – „Bitte steigen Sie hinten ein.“ – „Beachten Sie die neuen Öffnungszeiten.“ Der Imperativ sagt dir, was du tun sollst – und genau danach fragt die Aufgabe oft.\n- **Sprachbausteine Teil 1:** Typische Antwortmöglichkeiten sind „Nimm / Nehm / Nehmt“ oder „Sei / Seid / Seien“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** e → i stays, a → ä goes. „du nimmst“ → „**Nimm!**“ (not „Nehm!“), but „du fährst“ → „**Fahr!**“ (not „Fähr!“). And don't confuse „**seid**“ (ihr-imperative: Seid leise!) with „**seit**“ (since).",
+      "mdDe": "**Typische Falle:** e → i bleibt, a → ä verschwindet. „du nimmst“ → „**Nimm!**“ (nicht „Nehm!“), aber „du fährst“ → „**Fahr!**“ (nicht „Fähr!“). Und verwechsle „**seid**“ (ihr-Imperativ: Seid leise!) nicht mit „**seit**“ (Präposition der Zeit)."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Nehm bitte den Bus!",
+      "right": "Nimm bitte den Bus!",
+      "why": "Verbs with e → i/ie in the du-form keep this change in the imperative: du nimmst → Nimm!",
+      "whyDe": "Verben mit e → i/ie in der du-Form behalten diesen Wechsel im Imperativ: du nimmst → Nimm!"
+    },
+    {
+      "wrong": "Fährst langsam!",
+      "right": "Fahr langsam!",
+      "why": "Drop the ending -st – and the umlaut of the du-form disappears: du fährst → Fahr!",
+      "whyDe": "Lass die Endung -st weg – und der Umlaut der du-Form verschwindet: du fährst → Fahr!"
+    },
+    {
+      "wrong": "Seid bitte pünktlich, Herr Lang!",
+      "right": "Seien Sie bitte pünktlich, Herr Lang!",
+      "why": "For a person you call Sie, use „Seien Sie“. „Seid“ is the ihr-form.",
+      "whyDe": "Für eine Person, die du siezt, nimmst du „Seien Sie“. „Seid“ ist die ihr-Form."
+    },
+    {
+      "wrong": "Anrufen Sie mich bitte!",
+      "right": "Rufen Sie mich bitte an!",
+      "why": "The verb comes first and the separable prefix goes to the end, as in other main clauses.",
+      "whyDe": "Das Verb steht am Anfang und das trennbare Präfix am Ende – wie in anderen Hauptsätzen."
+    },
+    {
+      "wrong": "Du warte hier!",
+      "right": "Warte hier!",
+      "why": "The du-imperative is normally used without the pronoun „du“.",
+      "whyDe": "Den du-Imperativ benutzt man normalerweise ohne das Pronomen „du“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Paul, ___ bitte das Fenster, es ist kalt!",
+      "options": ["schließ", "schließt", "schließen"],
+      "answer": 0,
+      "explanation": "You talk to one person you call du, so you need the du-imperative: „Schließ!“. „schließt“ is the ihr-imperative (or the normal du-form in a statement).",
+      "explanationDe": "Du sprichst mit einer Person, die du duzt, also brauchst du den du-Imperativ: „Schließ!“. „schließt“ ist der ihr-Imperativ (oder die normale du-Form in einem Aussagesatz)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Herr Demir, ___ Sie bitte einen Moment Platz!",
+      "options": ["nehmen", "nimm", "nehmt"],
+      "answer": 0,
+      "explanation": "Sie-imperative = infinitive + Sie: „Nehmen Sie …!“",
+      "explanationDe": "Sie-Imperativ = Infinitiv + Sie: „Nehmen Sie …!“"
+    },
+    {
+      "type": "mc",
+      "prompt": "Kinder, ___ bitte nicht so laut!",
+      "options": ["seid", "seit", "sei"],
+      "answer": 0,
+      "explanation": "„Kinder“ = ihr → „Seid!“. „seit“ (with t) is a preposition, and „sei“ is the du-form.",
+      "explanationDe": "„Kinder“ = ihr → „Seid!“. „seit“ (mit t) ist eine Präposition, und „sei“ ist die du-Form."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ doch mal den Apfelkuchen, er ist super!",
+      "options": ["Probier", "Probierst", "Probieren"],
+      "answer": 0,
+      "explanation": "du-imperative: „du probierst“ without -st → „Probier!“. „doch mal“ makes it friendly advice.",
+      "explanationDe": "du-Imperativ: „du probierst“ ohne -st → „Probier!“. Mit „doch mal“ wird daraus ein freundlicher Rat."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bitte ___ mir mal das Salz!",
+      "answers": ["gib"],
+      "hint": "(geben, du)",
+      "explanation": "geben has e → i in the du-form (du gibst), so the imperative is „Gib!“.",
+      "explanationDe": "geben hat in der du-Form e → i (du gibst), deshalb heißt der Imperativ „Gib!“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bitte ___ Sie vorsichtig, der Boden ist nass!",
+      "answers": ["seien"],
+      "hint": "(sein, Sie)",
+      "explanation": "sein is irregular: the Sie-imperative is „Seien Sie …!“.",
+      "explanationDe": "sein ist unregelmäßig: Der Sie-Imperativ heißt „Seien Sie …!“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Leute, bitte ___ das Geschirr nach dem Essen in die Spülmaschine!",
+      "answers": ["stellt"],
+      "hint": "(stellen, ihr)",
+      "explanation": "ihr-imperative = the ihr-form without „ihr“: „Stellt …!“",
+      "explanationDe": "ihr-Imperativ = die ihr-Form ohne „ihr“: „Stellt …!“"
+    },
+    {
+      "type": "gap",
+      "prompt": "Du siehst müde aus – ___ doch heute früher ins Bett!",
+      "answers": ["geh", "gehe"],
+      "hint": "(gehen, du)",
+      "explanation": "du-imperative of gehen: „Geh!“ („Gehe!“ is also correct but sounds old-fashioned).",
+      "explanationDe": "du-Imperativ von gehen: „Geh!“ („Gehe!“ ist auch richtig, klingt aber altmodisch)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the question into a du-imperative.",
+      "instructionDe": "Mach aus der Frage einen du-Imperativ.",
+      "prompt": "Kannst du das Licht ausmachen?",
+      "answers": [
+        "Mach das Licht aus!",
+        "Mach das Licht aus.",
+        "Mache das Licht aus!",
+        "Mache das Licht aus.",
+        "Mach bitte das Licht aus!",
+        "Bitte mach das Licht aus!",
+        "Mache bitte das Licht aus!",
+        "Bitte mache das Licht aus!"
+      ],
+      "explanation": "The verb comes first, „du“ disappears, and the separable prefix „aus“ goes to the end.",
+      "explanationDe": "Das Verb steht am Anfang, „du“ fällt weg, und das trennbare Präfix „aus“ steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the sentence into an ihr-imperative.",
+      "instructionDe": "Mach aus dem Satz einen ihr-Imperativ.",
+      "prompt": "Ihr müsst eure Hausaufgaben machen.",
+      "answers": ["Macht eure Hausaufgaben!", "Macht eure Hausaufgaben.", "Macht bitte eure Hausaufgaben!", "Bitte macht eure Hausaufgaben!"],
+      "explanation": "ihr-imperative = the ihr-form without „ihr“: „Macht …!“",
+      "explanationDe": "ihr-Imperativ = die ihr-Form ohne „ihr“: „Macht …!“"
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the sentence into a Sie-imperative.",
+      "instructionDe": "Mach aus dem Satz einen Sie-Imperativ.",
+      "prompt": "Sie müssen hier unterschreiben.",
+      "answers": [
+        "Unterschreiben Sie hier!",
+        "Unterschreiben Sie hier.",
+        "Unterschreiben Sie bitte hier!",
+        "Unterschreiben Sie bitte hier.",
+        "Bitte unterschreiben Sie hier!",
+        "Bitte unterschreiben Sie hier."
+      ],
+      "explanation": "Sie-imperative = infinitive + Sie. „unterschreiben“ is inseparable, so the verb stays in one piece.",
+      "explanationDe": "Sie-Imperativ = Infinitiv + Sie. „unterschreiben“ ist untrennbar, deshalb bleibt das Verb zusammen."
+    },
+    {
+      "type": "order",
+      "words": ["heute", "an!", "mich", "Ruf", "Abend", "bitte"],
+      "answers": ["Ruf mich bitte heute Abend an!", "Ruf mich heute Abend bitte an!", "Bitte ruf mich heute Abend an!"],
+      "explanation": "The imperative „Ruf“ comes first, the pronoun „mich“ follows directly, and the prefix „an“ goes to the end.",
+      "explanationDe": "Der Imperativ „Ruf“ steht am Anfang, das Pronomen „mich“ folgt direkt, und das Präfix „an“ steht am Ende."
+    }
+  ],
+  "related": ["trennbare-verben", "lassen", "konjunktiv-2", "modalverben", "reflexive-verben"]
+}

@@ -1,0 +1,239 @@
+{
+  "id": "pronomen",
+  "level": "B1",
+  "category": "nomen",
+  "order": 4,
+  "title": "Pronomen: Personal-, Reflexiv- und Indefinitpronomen",
+  "titleEn": "Pronouns",
+  "summary": "Personal pronouns in all cases (ich – mich – mir), reflexive pronouns, and indefinite pronouns like man, jemand, niemand, etwas, nichts and einer/keiner.",
+  "summaryDe": "Personalpronomen in allen Kasus (ich – mich – mir), Reflexivpronomen und Indefinitpronomen wie man, jemand, niemand, etwas, nichts und einer/keiner.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "A pronoun replaces a noun and takes its **gender** and the **case** the sentence needs: Ich sehe den Film → Ich sehe **ihn**. Indefinite pronouns like **man, jemand, niemand, etwas, nichts** and **einer / keiner** refer to people or things that are not specific.",
+      "mdDe": "Ein Pronomen ersetzt ein Nomen. Es übernimmt sein **Genus** und steht in dem **Kasus**, den der Satz braucht: Ich sehe den Film → Ich sehe **ihn**. Indefinitpronomen wie **man, jemand, niemand, etwas, nichts** und **einer / keiner** stehen für Personen oder Sachen, die nicht genau bestimmt sind."
+    },
+    {
+      "type": "text",
+      "heading": "Personal pronouns",
+      "headingDe": "Personalpronomen",
+      "md": "The pronoun follows the **grammatical gender** of the noun, not its meaning: der Tisch → **er**, die Lampe → **sie**, das Bett → **es**.\n\n- Wo ist **der Schlüssel**? – **Er** liegt auf dem Tisch.\n- Wie findest du **die Jacke**? – Ich finde **sie** schön.\n- Wem gehört **das Fahrrad**? – **Es** gehört meinem Bruder.\n\nThen choose the case that the verb or preposition needs: Ich helfe **ihm** (Dat.). Ich besuche **ihn** (Akk.). Ich gehe mit **ihr** ins Kino (Dat.).",
+      "mdDe": "Das Pronomen richtet sich nach dem **grammatischen Genus** des Nomens, nicht nach seiner Bedeutung: der Tisch → **er**, die Lampe → **sie**, das Bett → **es**.\n\n- Wo ist **der Schlüssel**? – **Er** liegt auf dem Tisch.\n- Wie findest du **die Jacke**? – Ich finde **sie** schön.\n- Wem gehört **das Fahrrad**? – **Es** gehört meinem Bruder.\n\nDann wählst du den Kasus, den das Verb oder die Präposition braucht: Ich helfe **ihm** (Dat.). Ich besuche **ihn** (Akk.). Ich gehe mit **ihr** ins Kino (Dat.)."
+    },
+    {
+      "type": "table",
+      "heading": "Personal and reflexive pronouns",
+      "headingDe": "Personal- und Reflexivpronomen",
+      "columns": ["Nominativ", "Akkusativ", "Dativ", "Reflexiv"],
+      "rows": [
+        ["ich", "mich", "mir", "mich / mir"],
+        ["du", "dich", "dir", "dich / dir"],
+        ["er", "ihn", "ihm", "sich"],
+        ["sie", "sie", "ihr", "sich"],
+        ["es", "es", "ihm", "sich"],
+        ["wir", "uns", "uns", "uns"],
+        ["ihr", "euch", "euch", "euch"],
+        ["sie (Plural)", "sie", "ihnen", "sich"],
+        ["Sie (formell)", "Sie", "Ihnen", "sich"]
+      ],
+      "rowsDe": [
+        ["ich", "mich", "mir", "mich / mir"],
+        ["du", "dich", "dir", "dich / dir"],
+        ["er", "ihn", "ihm", "sich"],
+        ["sie", "sie", "ihr", "sich"],
+        ["es", "es", "ihm", "sich"],
+        ["wir", "uns", "uns", "uns"],
+        ["ihr", "euch", "euch", "euch"],
+        ["sie (Plural)", "sie", "ihnen", "sich"],
+        ["Sie (formell)", "Sie", "Ihnen", "sich"]
+      ],
+      "note": "The formal Sie is written with a capital letter in all its forms: Sie, Ihnen – and the possessive Ihr. The reflexive pronoun sich stays lower case: Setzen Sie sich bitte.",
+      "noteDe": "Das höfliche Sie schreibt man in allen Formen groß: Sie, Ihnen – und den Possessivartikel Ihr. Das Reflexivpronomen sich bleibt klein: Setzen Sie sich bitte."
+    },
+    {
+      "type": "text",
+      "heading": "Two pronouns in one sentence",
+      "headingDe": "Zwei Pronomen in einem Satz",
+      "md": "- Pronouns come early in the sentence, before nouns: Ich gebe **ihr** das Buch.\n- With two pronouns, the **accusative comes before the dative**: Ich gebe **es ihr**. Kannst du **ihn mir** leihen?",
+      "mdDe": "- Pronomen stehen früh im Satz, vor Nomen: Ich gebe **ihr** das Buch.\n- Bei zwei Pronomen steht der **Akkusativ vor dem Dativ**: Ich gebe **es ihr**. Kannst du **ihn mir** leihen?"
+    },
+    {
+      "type": "text",
+      "heading": "Indefinite pronouns",
+      "headingDe": "Indefinitpronomen",
+      "md": "- **man** = people in general (*you, one*). The verb is in the er/sie/es-form: In Deutschland **trennt man** den Müll.\n- **jemand** (someone) ↔ **niemand** (no one): Hat **jemand** angerufen? – Nein, **niemand**.\n- **etwas** (something) ↔ **nichts** (nothing): Möchtest du **etwas** trinken? – Nein danke, **nichts**. With an adjective: **etwas Neues**, **nichts Besonderes**.\n- **alle** (everyone, plural verb) and **alles** (everything, singular verb): **Alle sind** da. **Alles ist** fertig.\n- **einer / eine / eins** and **keiner / keine / keins** replace a noun with ein or kein; **welche** replaces a plural noun without an article: Ich brauche einen Stift. Hast du **einen**? – Nein, ich habe **keinen**. / Brauchen wir Eier? – Nein, wir haben noch **welche**.",
+      "mdDe": "- **man** = die Leute allgemein (*jeder, alle*). Das Verb steht in der er/sie/es-Form: In Deutschland **trennt man** den Müll.\n- **jemand** (= eine Person) ↔ **niemand** (= keine Person): Hat **jemand** angerufen? – Nein, **niemand**.\n- **etwas** (= eine Sache) ↔ **nichts** (= keine Sache): Möchtest du **etwas** trinken? – Nein danke, **nichts**. Mit Adjektiv: **etwas Neues**, **nichts Besonderes**.\n- **alle** (= alle Personen, Verb im Plural) und **alles** (= alle Sachen, Verb im Singular): **Alle sind** da. **Alles ist** fertig.\n- **einer / eine / eins** und **keiner / keine / keins** ersetzen ein Nomen mit ein oder kein; **welche** ersetzt ein Nomen im Plural ohne Artikel: Ich brauche einen Stift. Hast du **einen**? – Nein, ich habe **keinen**. / Brauchen wir Eier? – Nein, wir haben noch **welche**."
+    },
+    {
+      "type": "table",
+      "heading": "einer / keiner as pronouns",
+      "headingDe": "einer / keiner als Pronomen",
+      "columns": ["Kasus", "maskulin", "feminin", "neutral", "Plural"],
+      "columnsDe": ["Kasus", "maskulin", "feminin", "neutral", "Plural"],
+      "rows": [
+        ["Nominativ", "einer / keiner", "eine / keine", "eins / keins", "welche / keine"],
+        ["Akkusativ", "einen / keinen", "eine / keine", "eins / keins", "welche / keine"],
+        ["Dativ", "einem / keinem", "einer / keiner", "einem / keinem", "welchen / keinen"]
+      ],
+      "note": "Unlike the article, the pronoun always has an ending: ein Stift → einer, ein Auto → eins (also: eines). Hast du ein Auto? – Ja, ich habe eins.",
+      "noteDe": "Anders als der Artikel hat das Pronomen immer eine Endung: ein Stift → einer, ein Auto → eins (auch: eines). Hast du ein Auto? – Ja, ich habe eins."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Kennst du **den neuen Lehrer**? – Ja, ich finde **ihn** sehr nett.", "en": "Do you know the new teacher? – Yes, I think he's very nice." },
+        { "de": "Wo ist **die Fernbedienung**? – **Sie** liegt auf dem Sofa.", "en": "Where's the remote control? – It's on the sofa." },
+        { "de": "Wie geht es **Ihnen**, Frau Kaya?", "en": "How are you, Mrs Kaya?" },
+        { "de": "Das Buch ist super. Ich leihe **es dir** gern.", "en": "The book is great. I'm happy to lend it to you." },
+        { "de": "**Man** darf hier nicht parken.", "en": "You're not allowed to park here." },
+        { "de": "Hat **jemand** meinen Regenschirm gesehen?", "en": "Has anyone seen my umbrella?" },
+        { "de": "**Niemand** hat mir Bescheid gesagt.", "en": "Nobody told me." },
+        { "de": "Ich habe heute **etwas Interessantes** gelesen.", "en": "I read something interesting today." },
+        { "de": "Gibt es hier in der Nähe ein Café? – Nein, leider gibt es hier **keins**.", "en": "Is there a café near here? – No, unfortunately there isn't one." },
+        { "de": "Brauchen wir noch Tomaten? – Nein, wir haben noch **welche**.", "en": "Do we still need tomatoes? – No, we still have some." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 1:** a classic gap is the right pronoun – „ihn / ihm / ihr“ or „sie / ihnen / Ihnen“. Find the noun the pronoun refers to (gender!) and check the verb (accusative or dative?).\n- **Sprachbausteine Teil 2:** indefinite pronouns like „jemand“, „niemand“, „etwas“, „nichts“ or „man“ often appear in the word list. Read the whole sentence to see whether the meaning is positive or negative.\n- **Schreiben:** pronouns connect your sentences and avoid repetition, which helps your score for *Kommunikative Gestaltung*: „Ich habe einen Kurs gefunden. **Er** beginnt im Mai, und ich finde **ihn** sehr interessant.“ In a semi-formal e-mail, write **Sie, Ihnen, Ihr** with a capital letter every time.",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 1:** Eine klassische Lücke ist das richtige Pronomen – „ihn / ihm / ihr“ oder „sie / ihnen / Ihnen“. Such das Nomen, auf das sich das Pronomen bezieht (Genus!), und prüfe das Verb (Akkusativ oder Dativ?).\n- **Sprachbausteine Teil 2:** Indefinitpronomen wie „jemand“, „niemand“, „etwas“, „nichts“ oder „man“ stehen oft in der Wortliste. Lies den ganzen Satz, um zu sehen, ob die Bedeutung positiv oder negativ ist.\n- **Schreiben:** Pronomen verbinden deine Sätze und vermeiden Wiederholungen – das bringt dir Punkte beim Kriterium *Kommunikative Gestaltung*: „Ich habe einen Kurs gefunden. **Er** beginnt im Mai, und ich finde **ihn** sehr interessant.“ In einer halbformellen E-Mail schreibst du **Sie, Ihnen, Ihr** jedes Mal groß."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** „ihnen“ (them) and „Ihnen“ (formal you) differ only in the capital letter – in a letter, this changes the meaning! „Ich danke **Ihnen**“ = thank you (formal); „Ich danke **ihnen**“ = I thank them. Also remember that the pronoun follows the grammatical gender: „der Film … **er**“, not „es“.",
+      "mdDe": "**Typische Falle:** „ihnen“ (= sie, Plural) und „Ihnen“ (= höfliche Anrede) unterscheiden sich nur durch den großen Anfangsbuchstaben – in einem Brief ändert das die Bedeutung! „Ich danke **Ihnen**“ = Dank an die Person, die du siezt; „Ich danke **ihnen**“ = Dank an andere Leute (sie, Plural). Denk auch daran, dass sich das Pronomen nach dem grammatischen Genus richtet: „der Film … **er**“, nicht „es“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe den Film gesehen. Es war super.",
+      "right": "Ich habe den Film gesehen. Er war super.",
+      "why": "The pronoun takes the gender of the noun: der Film → er.",
+      "whyDe": "Das Pronomen übernimmt das Genus des Nomens: der Film → er."
+    },
+    {
+      "wrong": "Ich sehe ihm morgen im Büro.",
+      "right": "Ich sehe ihn morgen im Büro.",
+      "why": "sehen takes the accusative → „ihn“. „ihm“ is the dative.",
+      "whyDe": "Das Verb sehen braucht den Akkusativ → „ihn“. „ihm“ ist Dativ."
+    },
+    {
+      "wrong": "Vielen Dank für ihre Hilfe, Herr Roth!",
+      "right": "Vielen Dank für Ihre Hilfe, Herr Roth!",
+      "why": "When you address someone with Sie, all the forms are capitalised: Sie, Ihnen, Ihr.",
+      "whyDe": "Wenn du jemanden mit Sie ansprichst, schreibst du alle Formen groß: Sie, Ihnen, Ihr."
+    },
+    {
+      "wrong": "Hast du ein Fahrrad? – Ja, ich habe ein.",
+      "right": "Hast du ein Fahrrad? – Ja, ich habe eins.",
+      "why": "As a pronoun, ein needs an ending: eins (neuter), einen (masculine), eine (feminine).",
+      "whyDe": "Das Wort ein braucht als Pronomen eine Endung: eins (neutral), einen (maskulin), eine (feminin)."
+    },
+    {
+      "wrong": "Ich habe nicht etwas gegessen.",
+      "right": "Ich habe nichts gegessen.",
+      "why": "German uses „nichts“ for ‘not anything’.",
+      "whyDe": "Statt „nicht etwas“ sagt man im Deutschen „nichts“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Der Kaffee ist kalt. Ich trinke ___ nicht mehr.",
+      "options": ["ihn", "ihm", "es"],
+      "answer": 0,
+      "explanation": "„der Kaffee“ is masculine, and trinken takes the accusative → „ihn“.",
+      "explanationDe": "„der Kaffee“ ist maskulin, und trinken braucht den Akkusativ → „ihn“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Frau Novak, kann ich ___ helfen?",
+      "options": ["Ihnen", "Sie", "Ihr"],
+      "answer": 0,
+      "explanation": "helfen takes the dative. Frau Novak is addressed with Sie, so the dative is „Ihnen“.",
+      "explanationDe": "Das Verb helfen braucht den Dativ. Frau Novak wird mit Sie angesprochen, also heißt der Dativ „Ihnen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Hast du einen Regenschirm für mich? – Nein, leider habe ich ___.",
+      "options": ["keinen", "keiner", "kein"],
+      "answer": 0,
+      "explanation": "„der Regenschirm“ is masculine, and haben takes the accusative → „keinen“.",
+      "explanationDe": "„der Regenschirm“ ist maskulin, und haben braucht den Akkusativ → „keinen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe zweimal geklingelt, aber ___ hat die Tür aufgemacht. Wahrscheinlich ist keiner zu Hause.",
+      "options": ["niemand", "jemand", "nichts"],
+      "answer": 0,
+      "explanation": "Nobody is at home, so nobody opened the door → „niemand“. „nichts“ is used for things, not people.",
+      "explanationDe": "Niemand ist zu Hause, also hat niemand die Tür aufgemacht → „niemand“. „nichts“ verwendet man für Sachen, nicht für Personen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Meine Eltern besuchen mich am Wochenende. Ich zeige ___ dann die Altstadt.",
+      "answers": ["ihnen"],
+      "explanation": "„meine Eltern“ is plural, and zeigen takes the dative for the person → „ihnen“ (lower case = them).",
+      "explanationDe": "„meine Eltern“ ist Plural, und zeigen braucht für die Person den Dativ → „ihnen“ (kleingeschrieben = sie, Plural)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wo ist mein Handy? Hast du ___ gesehen?",
+      "answers": ["es"],
+      "explanation": "„das Handy“ is neuter → accusative „es“.",
+      "explanationDe": "„das Handy“ ist neutral → Akkusativ „es“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe Tom lange nicht gesehen. Ich schreibe ___ heute eine Nachricht.",
+      "answers": ["ihm"],
+      "explanation": "schreiben takes the dative for the person (Tom = er) → „ihm“.",
+      "explanationDe": "Das Verb schreiben braucht für die Person den Dativ (Tom = er) → „ihm“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe Hunger. Gibt es noch ___ zu essen?",
+      "answers": ["etwas", "was"],
+      "explanation": "„etwas“ = something. In spoken German you also hear the short form „was“.",
+      "explanationDe": "„etwas“ = irgendeine Sache. In der gesprochenen Sprache hörst du auch die Kurzform „was“."
+    },
+    {
+      "type": "gap",
+      "prompt": "In der Bibliothek darf ___ nicht laut telefonieren.",
+      "answers": ["man"],
+      "hint": "(people in general)",
+      "hintDe": "(Leute allgemein)",
+      "explanation": "„man“ = people in general. The verb is in the er/sie/es-form („darf“).",
+      "explanationDe": "„man“ = die Leute allgemein. Das Verb steht in der er/sie/es-Form („darf“)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace both objects in brackets with pronouns.",
+      "instructionDe": "Ersetze beide Objekte in Klammern durch Pronomen.",
+      "prompt": "Ich leihe (meinem Bruder) (das Auto).",
+      "answers": ["Ich leihe es ihm."],
+      "explanation": "„das Auto“ → „es“ (Akk.), „meinem Bruder“ → „ihm“ (Dat.). With two pronouns the accusative comes first.",
+      "explanationDe": "„das Auto“ → „es“ (Akk.), „meinem Bruder“ → „ihm“ (Dat.). Bei zwei Pronomen steht der Akkusativ zuerst."
+    },
+    {
+      "type": "transform",
+      "instruction": "Answer with „Ja“ and replace the noun with a pronoun (einer, eine, eins …).",
+      "instructionDe": "Antworte mit „Ja“ und ersetze das Nomen durch ein Pronomen (einer, eine, eins …).",
+      "prompt": "Brauchst du eine Tüte?",
+      "answers": ["Ja, ich brauche eine.", "Ja, ich brauche eine!"],
+      "explanation": "„die Tüte“ is feminine, and brauchen takes the accusative → „eine“.",
+      "explanationDe": "„die Tüte“ ist feminin, und brauchen hat ein Akkusativobjekt → „eine“."
+    },
+    {
+      "type": "order",
+      "words": ["mir", "Kannst", "zurückgeben?", "es", "du", "morgen"],
+      "answers": ["Kannst du es mir morgen zurückgeben?"],
+      "explanation": "Two pronouns: the accusative „es“ comes before the dative „mir“. The infinitive „zurückgeben“ goes to the end.",
+      "explanationDe": "Zwei Pronomen: Der Akkusativ „es“ steht vor dem Dativ „mir“. Der Infinitiv „zurückgeben“ steht am Ende."
+    }
+  ],
+  "related": ["kasus-und-artikel", "reflexive-verben", "verben-mit-dativ", "negation"]
+}

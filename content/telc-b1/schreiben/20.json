@@ -1,0 +1,54 @@
+{
+  "id": "schreiben-20",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Ein Kochkurs in Bern",
+  "topic": "essen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "situation": "Sie haben in einer Zeitschrift folgende Anzeige gelesen:",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Kochstudio Thymian, Bern\nKochen lernen mit Spaß – in kleinen Gruppen (max. 10 Personen)\n\nUnsere Kurse im Herbst:\n– Schweizer Klassiker: dienstags, 18:30–21:30 Uhr, ab 7. Oktober (4 Abende)\n– Vegetarisch genießen: Samstag, 18. Oktober, 10–15 Uhr\n– Brot backen wie früher: Samstag, 8. November, 9–13 Uhr\n\nPreise inkl. Zutaten und Getränke: ab 95 Franken\nGutscheine erhältlich!\n\nInfos und Anmeldung: Reto Zürcher, kurse@kochstudio-thymian.ch"
+  },
+  "leitpunkte": [
+    "Was Sie wegen Ihrer Allergie wissen möchten",
+    "Für wen Sie einen Gutschein kaufen möchten",
+    "Welche Erfahrungen Sie beim Kochen haben",
+    "Welcher Kurs Sie interessiert und warum"
+  ],
+  "model": {
+    "subject": "Anfrage zum Kurs „Schweizer Klassiker“ und zu einem Gutschein",
+    "text": "Sehr geehrter Herr Zürcher,\n\nin einer Zeitschrift habe ich Ihre Anzeige gelesen und interessiere mich für den Kurs „Schweizer Klassiker“ ab dem 7. Oktober. Seit einem Jahr lebe ich in Bern, und meine Kollegen erzählen oft von typischen Gerichten wie Rösti oder Älplermagronen. Deshalb möchte ich lernen, sie selbst zu kochen.\n\nZu Hause koche ich zwar fast jeden Tag, aber meistens Gerichte aus meiner Heimat Ghana. Mit der Schweizer Küche habe ich noch keine Erfahrung.\n\nAllerdings habe ich eine Frage: Ich bin allergisch gegen Nüsse. Ist es möglich, die Rezepte im Kurs ohne Nüsse zu kochen? Sonst müsste ich leider auf die Teilnahme verzichten.\n\nAußerdem möchte ich meiner Schwester zum Geburtstag einen Gutschein für den Kurs „Brot backen wie früher“ schenken, weil sie sehr gern backt. Können Sie mir den Gutschein per Post schicken, oder muss ich ihn im Kochstudio abholen?\n\nVielen Dank im Voraus für Ihre Antwort.\n\nFreundliche Grüße\nSamuel Mensah"
+  },
+  "modelNotes": [
+    "The introduction names the source of the ad and the course with its start date, so the reader knows immediately which offer the e-mail is about.",
+    "The reason for the choice is personal and concrete (living in Bern, colleagues talk about Swiss dishes); the experience paragraph connects to it with „zwar … aber“.",
+    "Questions are announced with signal words („Allerdings habe ich eine Frage“, „Außerdem …“), and a condition is stated politely in Konjunktiv II („Sonst müsste ich leider …“).",
+    "„Freundliche Grüße“ is a slightly less formal but fully acceptable alternative to „Mit freundlichen Grüßen“."
+  ],
+  "modelNotesDe": [
+    "Die Einleitung nennt, wo die Anzeige stand, und den Kurs mit seinem Starttermin – so weiß der Leser sofort, um welches Angebot es geht.",
+    "Der Grund für die Wahl ist persönlich und konkret (Leben in Bern, Kollegen erzählen von Schweizer Gerichten); der Absatz zur Erfahrung schließt mit „zwar … aber“ daran an.",
+    "Der Schreiber kündigt Fragen mit Signalwörtern an („Allerdings habe ich eine Frage“, „Außerdem …“) und formuliert eine Bedingung höflich im Konjunktiv II („Sonst müsste ich leider …“).",
+    "„Freundliche Grüße“ ist etwas weniger formell, aber eine völlig akzeptable Alternative zu „Mit freundlichen Grüßen“."
+  ],
+  "phrases": [
+    { "de": "Ich interessiere mich für den Kurs … ab dem …", "en": "I'm interested in the … course starting on …" },
+    { "de": "Deshalb möchte ich lernen, … selbst zu kochen.", "en": "That's why I want to learn to cook … myself." },
+    { "de": "Mit … habe ich noch keine Erfahrung.", "en": "I don't have any experience with … yet." },
+    { "de": "Ich bin allergisch gegen …", "en": "I'm allergic to …" },
+    { "de": "Ist es möglich, … ohne … zu kochen?", "en": "Is it possible to cook … without …?" },
+    { "de": "Sonst müsste ich leider auf die Teilnahme verzichten.", "en": "Otherwise I would unfortunately have to miss out." },
+    { "de": "Ich möchte meiner Schwester einen Gutschein schenken.", "en": "I'd like to give my sister a voucher." },
+    { "de": "Können Sie mir den Gutschein per Post schicken?", "en": "Could you send me the voucher by post?" }
+  ],
+  "glossary": [
+    { "de": "die Zutat", "en": "ingredient" },
+    { "de": "inkl. (inklusive)", "en": "including" },
+    { "de": "der Gutschein", "en": "voucher, gift card" },
+    { "de": "erhältlich", "en": "available" },
+    { "de": "allergisch gegen (+ Akkusativ)", "en": "allergic to" },
+    { "de": "verzichten auf (+ Akkusativ)", "en": "to do without, to give up" }
+  ]
+}

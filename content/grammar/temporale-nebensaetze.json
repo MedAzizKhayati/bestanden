@@ -1,0 +1,229 @@
+{
+  "id": "temporale-nebensaetze",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 7,
+  "title": "Temporale Nebensätze: als, wenn, während, bevor, nachdem, seit, bis",
+  "titleEn": "Time clauses",
+  "summary": "Time connectors start subordinate clauses with the verb at the end. The trickiest choices: als vs. wenn, and the tenses after nachdem.",
+  "summaryDe": "Temporale Konnektoren leiten Nebensätze mit dem Verb am Ende ein. Am schwierigsten: als oder wenn – und die Zeitformen bei nachdem.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen", "hoeren"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Time clauses start with a connector such as **als, wenn, während, bevor, nachdem, seit** or **bis** and have the **verb at the end**. For one single event in the past use **als**; for repeated events, the present and the future use **wenn**.",
+      "mdDe": "Temporalsätze beginnen mit einem Konnektor wie **als, wenn, während, bevor, nachdem, seit** oder **bis**, und das **Verb steht am Ende**. Für ein einmaliges Ereignis in der Vergangenheit nimmst du **als**. Für wiederholte Ereignisse, für die Gegenwart und für die Zukunft nimmst du **wenn**."
+    },
+    {
+      "type": "table",
+      "heading": "Time connectors at a glance",
+      "headingDe": "Temporale Konnektoren im Überblick",
+      "columns": ["Connector", "Meaning", "Example"],
+      "columnsDe": ["Konnektor", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["als", "when – one event or period in the past", "Als ich klein war, wohnten wir in Graz."],
+        ["wenn", "when(ever) – repeated; present or future", "Wenn ich nach Hause komme, koche ich zuerst Tee."],
+        ["während", "while – at the same time", "Während die Kinder schlafen, räumt Ben die Küche auf."],
+        ["bevor", "before", "Bevor du gehst, mach bitte das Fenster zu."],
+        ["nachdem", "after – first one action, then the other", "Nachdem wir gegessen hatten, gingen wir spazieren."],
+        ["seit / seitdem", "since – from a point in the past until now", "Seit sie in Leipzig wohnt, fährt sie nur noch Fahrrad."],
+        ["bis", "until", "Warte hier, bis ich zurückkomme."],
+        ["sobald", "as soon as", "Ich melde mich, sobald ich mehr weiß."]
+      ],
+      "rowsDe": [
+        ["als", "einmalig – ein Ereignis oder Zeitraum in der Vergangenheit", "Als ich klein war, wohnten wir in Graz."],
+        ["wenn", "jedes Mal – wiederholt; Gegenwart oder Zukunft", "Wenn ich nach Hause komme, koche ich zuerst Tee."],
+        ["während", "gleichzeitig – zur selben Zeit", "Während die Kinder schlafen, räumt Ben die Küche auf."],
+        ["bevor", "früher als etwas anderes", "Bevor du gehst, mach bitte das Fenster zu."],
+        ["nachdem", "zuerst die eine Handlung, dann die andere", "Nachdem wir gegessen hatten, gingen wir spazieren."],
+        ["seit / seitdem", "von einem Zeitpunkt in der Vergangenheit bis jetzt", "Seit sie in Leipzig wohnt, fährt sie nur noch Fahrrad."],
+        ["bis", "Endpunkt – bis zu diesem Zeitpunkt", "Warte hier, bis ich zurückkomme."],
+        ["sobald", "sofort, wenn …", "Ich melde mich, sobald ich mehr weiß."]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "als or wenn?",
+      "headingDe": "als oder wenn?",
+      "md": "This is the classic B1 question. Ask yourself: **past + only once?** → „als“. **Repeated** (also in the past), **present** or **future** → „wenn“.\n\n- „**Als** ich 2019 in Wien war, habe ich die Staatsoper besucht.“ (once)\n- „**Wenn** ich in Wien war, habe ich immer meine Tante besucht.“ (every time)\n- „**Wenn** ich nächstes Jahr in Wien bin, besuche ich dich.“ (future)\n\nTip: if you can add „immer“ or „jedes Mal“ ('every time'), use „wenn“.",
+      "mdDe": "Das ist die klassische B1-Frage. Frag dich: **Vergangenheit + nur einmal?** → „als“. **Wiederholt** (auch in der Vergangenheit), **Gegenwart** oder **Zukunft** → „wenn“.\n\n- „**Als** ich 2019 in Wien war, habe ich die Staatsoper besucht.“ (einmal)\n- „**Wenn** ich in Wien war, habe ich immer meine Tante besucht.“ (jedes Mal)\n- „**Wenn** ich nächstes Jahr in Wien bin, besuche ich dich.“ (Zukunft)\n\nTipp: Wenn du „immer“ oder „jedes Mal“ ergänzen kannst, nimm „wenn“."
+    },
+    {
+      "type": "text",
+      "heading": "nachdem: one step back in time",
+      "headingDe": "nachdem: ein Schritt zurück in der Zeit",
+      "md": "„nachdem“ describes the action that happened **first**. That's why the nachdem clause is one tense further in the past than the main clause:\n\n- main clause in the **Präsens** → nachdem clause in the **Perfekt**: „**Nachdem** ich die Hausaufgaben **gemacht habe**, **treffe** ich mich mit Freunden.“\n- main clause in the **Präteritum** or **Perfekt** → nachdem clause in the **Plusquamperfekt**: „**Nachdem** sie die Prüfung **bestanden hatte**, **feierte** sie mit ihren Freunden.“\n\nWith „bevor“ both clauses normally have the same tense: „**Bevor** ich zur Arbeit **fahre**, **trinke** ich einen Kaffee.“",
+      "mdDe": "„nachdem“ beschreibt die Handlung, die **zuerst** passiert ist. Deshalb steht der nachdem-Satz eine Zeitform weiter in der Vergangenheit als der Hauptsatz:\n\n- Hauptsatz im **Präsens** → nachdem-Satz im **Perfekt**: „**Nachdem** ich die Hausaufgaben **gemacht habe**, **treffe** ich mich mit Freunden.“\n- Hauptsatz im **Präteritum** oder **Perfekt** → nachdem-Satz im **Plusquamperfekt**: „**Nachdem** sie die Prüfung **bestanden hatte**, **feierte** sie mit ihren Freunden.“\n\nBei „bevor“ haben beide Sätze normalerweise dieselbe Zeitform: „**Bevor** ich zur Arbeit **fahre**, **trinke** ich einen Kaffee.“"
+    },
+    {
+      "type": "text",
+      "heading": "während, seit, bis",
+      "headingDe": "während, seit, bis",
+      "md": "**während** = two actions at the same time: „**Während** ich koche, deckt mein Sohn den Tisch.“ (Careful: „während“ + genitive is also a preposition: „während des Urlaubs“.)\n\n**seit / seitdem** = something started in the past and is still true now – the main clause is usually in the present: „**Seit** ich Sport mache, schlafe ich besser.“\n\n**bis** = up to a point in time: „Ich warte, **bis** du fertig bist.“",
+      "mdDe": "**während** = zwei Handlungen zur gleichen Zeit: „**Während** ich koche, deckt mein Sohn den Tisch.“ (Achtung: „während“ + Genitiv ist auch eine Präposition: „während des Urlaubs“.)\n\n**seit / seitdem** = etwas hat in der Vergangenheit begonnen und gilt immer noch – der Hauptsatz steht meistens im Präsens: „**Seit** ich Sport mache, schlafe ich besser.“\n\n**bis** = bis zu einem bestimmten Zeitpunkt: „Ich warte, **bis** du fertig bist.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Als** wir in Berlin **ankamen**, regnete es.", "en": "When we arrived in Berlin, it was raining." },
+        { "de": "**Wenn** ich Stress **habe**, gehe ich joggen.", "en": "When(ever) I'm stressed, I go jogging." },
+        { "de": "Jedes Mal, **wenn** meine Schwester uns **besucht**, bringt sie Kuchen mit.", "en": "Every time my sister visits us, she brings cake." },
+        { "de": "Ich höre oft Podcasts, **während** ich **koche**.", "en": "I often listen to podcasts while I'm cooking." },
+        { "de": "**Bevor** Sie den Vertrag **unterschreiben**, lesen Sie ihn bitte genau.", "en": "Before you sign the contract, please read it carefully." },
+        { "de": "**Nachdem** er sein Studium **beendet hatte**, zog er nach Zürich.", "en": "After he had finished his degree, he moved to Zurich." },
+        { "de": "**Seit** wir einen Hund **haben**, gehen wir jeden Tag spazieren.", "en": "Since we've had a dog, we go for a walk every day." },
+        { "de": "Bleib bitte im Bett, **bis** das Fieber weg **ist**.", "en": "Please stay in bed until the fever has gone." },
+        { "de": "Ich rufe Sie zurück, **sobald** ich die Unterlagen **habe**.", "en": "I'll call you back as soon as I have the documents." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** „als / wenn / wann“ is a favourite in Sprachbausteine Teil 1. Remember: „wann“ is only for questions (also indirect ones: „Ich weiß nicht, wann der Kurs beginnt.“) – it never introduces a time clause. In Lesen and Hören, time connectors tell you the order of events, which matters for richtig/falsch statements with „vorher“ and „danach“.\n\nIn **Schreiben**, time clauses make your e-mail sound natural and well organised: „Als ich Ihre Anzeige gelesen habe, …“, „Bevor ich mich anmelde, möchte ich wissen, …“, „Sobald ich die Unterlagen habe, melde ich mich.“ In **Sprechen** Teil 1 they help you tell your story: „Als ich nach Deutschland kam, …“.",
+      "mdDe": "**In der Prüfung:** „als / wenn / wann“ kommt in Sprachbausteine Teil 1 sehr oft vor. Merk dir: „wann“ gibt es nur in Fragen (auch in indirekten: „Ich weiß nicht, wann der Kurs beginnt.“) – es leitet nie einen Temporalsatz ein. In Lesen und Hören zeigen dir temporale Konnektoren die Reihenfolge der Ereignisse. Das ist wichtig für Richtig/Falsch-Aussagen mit „vorher“ und „danach“.\n\nIm Teil **Schreiben** klingt deine E-Mail mit Temporalsätzen natürlich und gut gegliedert: „Als ich Ihre Anzeige gelesen habe, …“, „Bevor ich mich anmelde, möchte ich wissen, …“, „Sobald ich die Unterlagen habe, melde ich mich.“ In **Sprechen** Teil 1 helfen sie dir, deine Geschichte zu erzählen: „Als ich nach Deutschland kam, …“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** using „wenn“ for a single event in the past. „Wenn ich gestern nach Hause kam, …“ is wrong → „**Als** ich gestern nach Hause kam, …“. And never use „wann“ as a connector: „Wann ich Zeit habe, rufe ich dich an“ is wrong → „**Wenn** ich Zeit habe, …“.",
+      "mdDe": "**Typische Falle:** „wenn“ für ein einmaliges Ereignis in der Vergangenheit. „Wenn ich gestern nach Hause kam, …“ ist falsch → „**Als** ich gestern nach Hause kam, …“. Und nimm „wann“ nie als Konnektor: „Wann ich Zeit habe, rufe ich dich an“ ist falsch → „**Wenn** ich Zeit habe, …“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wenn ich ein Kind war, habe ich in Polen gewohnt.",
+      "right": "Als ich ein Kind war, habe ich in Polen gewohnt.",
+      "why": "Childhood is one period in the past → „als“.",
+      "whyDe": "Die Kindheit ist ein einmaliger Zeitraum in der Vergangenheit → „als“."
+    },
+    {
+      "wrong": "Wann ich müde bin, trinke ich Kaffee.",
+      "right": "Wenn ich müde bin, trinke ich Kaffee.",
+      "why": "„wann“ is a question word. For 'when(ever)' in a time clause, use „wenn“.",
+      "whyDe": "„wann“ ist ein Fragewort. Wenn du im Temporalsatz „jedes Mal“ meinst, nimm „wenn“."
+    },
+    {
+      "wrong": "Nachdem ich gefrühstückt hatte, gehe ich zur Arbeit.",
+      "right": "Nachdem ich gefrühstückt habe, gehe ich zur Arbeit.",
+      "why": "Main clause in the present → nachdem clause in the Perfekt, not the Plusquamperfekt.",
+      "whyDe": "Hauptsatz im Präsens → nachdem-Satz im Perfekt, nicht im Plusquamperfekt."
+    },
+    {
+      "wrong": "Als ich nach Hause komme, rufe ich dich an.",
+      "right": "Wenn ich nach Hause komme, rufe ich dich an.",
+      "why": "For the future, use „wenn“ – „als“ is only for the past.",
+      "whyDe": "Für die Zukunft nimmst du „wenn“ – „als“ gibt es nur für die Vergangenheit."
+    },
+    {
+      "wrong": "Bevor ich esse, ich wasche mir die Hände.",
+      "right": "Bevor ich esse, wasche ich mir die Hände.",
+      "why": "The time clause is position 1 → the main clause starts with the verb.",
+      "whyDe": "Der Temporalsatz steht auf Position 1 → der Hauptsatz beginnt mit dem Verb."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "___ ich zum ersten Mal in Hamburg war, habe ich eine Hafenrundfahrt gemacht.",
+      "options": ["Wenn", "Als", "Wann"],
+      "answer": 1,
+      "explanation": "„zum ersten Mal“ – one single event in the past → „Als“.",
+      "explanationDe": "„zum ersten Mal“ – ein einmaliges Ereignis in der Vergangenheit → „Als“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ ich im Urlaub bin, lese ich jeden Tag ein Buch.",
+      "options": ["Wenn", "Als", "Wann"],
+      "answer": 0,
+      "explanation": "A repeated situation in the present → „Wenn“. „Als“ is only for the past.",
+      "explanationDe": "Eine wiederholte Situation in der Gegenwart → „Wenn“. „Als“ gibt es nur für die Vergangenheit."
+    },
+    {
+      "type": "mc",
+      "prompt": "Weißt du, ___ der Supermarkt heute schließt?",
+      "options": ["wenn", "als", "wann"],
+      "answer": 2,
+      "explanation": "This is an indirect question ('at what time?') → the question word „wann“.",
+      "explanationDe": "Das ist eine indirekte Frage („zu welcher Zeit?“) → das Fragewort „wann“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ wir die Wohnung renoviert hatten, gaben wir eine große Party.",
+      "options": ["Bevor", "Während", "Nachdem"],
+      "answer": 2,
+      "explanation": "The renovation came first (Plusquamperfekt „renoviert hatten“), then the party (Präteritum „gaben“) → „Nachdem“.",
+      "explanationDe": "Zuerst kam die Renovierung (Plusquamperfekt „renoviert hatten“), dann die Party (Präteritum „gaben“) → „Nachdem“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe Musik gehört, ___ ich die Wohnung geputzt habe.",
+      "options": ["während", "nachdem", "seit"],
+      "answer": 0,
+      "explanation": "Both actions happened at the same time and both clauses are in the same tense → „während“. „nachdem“ would need the Plusquamperfekt.",
+      "explanationDe": "Beide Handlungen passierten zur gleichen Zeit, und beide Sätze stehen in derselben Zeitform → „während“. Bei „nachdem“ bräuchte man das Plusquamperfekt."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ ich ein Kind war, wollte ich Pilotin werden.",
+      "hint": "(when – one period in the past)",
+      "hintDe": "(ein Zeitraum in der Vergangenheit)",
+      "answers": ["Als", "als"],
+      "explanation": "Childhood is one period in the past → „Als“. The main clause then starts with the verb „wollte“.",
+      "explanationDe": "Die Kindheit ist ein einmaliger Zeitraum in der Vergangenheit → „Als“. Der Hauptsatz beginnt dann mit dem Verb „wollte“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich warte hier, ___ du zurückkommst.",
+      "answers": ["bis"],
+      "explanation": "I wait up to the moment you come back → „bis“ ('until').",
+      "explanationDe": "Ich warte bis zu dem Moment, in dem du zurückkommst → „bis“."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ Paula in München wohnt, fährt sie jeden Tag mit der U-Bahn.",
+      "hint": "(since)",
+      "hintDe": "(Beginn in der Vergangenheit, gilt bis jetzt)",
+      "answers": ["Seit", "Seitdem", "seit", "seitdem"],
+      "explanation": "She moved to Munich in the past and still lives there → „Seit“ (or „Seitdem“), with the main clause in the present.",
+      "explanationDe": "Sie ist früher nach München gezogen und wohnt immer noch dort → „Seit“ (oder „Seitdem“), mit dem Hauptsatz im Präsens."
+    },
+    {
+      "type": "order",
+      "words": ["schon", "nach", "Als", "weg.", "kam,", "war", "ich", "meine", "Hause", "Mitbewohnerin"],
+      "answers": ["Als ich nach Hause kam, war meine Mitbewohnerin schon weg."],
+      "explanation": "One event in the past → „Als“. Its verb „kam“ goes to the end, then the main clause starts with the verb „war“.",
+      "explanationDe": "Ein einmaliges Ereignis in der Vergangenheit → „Als“. Im als-Satz steht das Verb „kam“ am Ende, dann beginnt der Hauptsatz mit dem Verb „war“."
+    },
+    {
+      "type": "order",
+      "words": ["noch", "Bett", "lese", "Bevor", "ein", "gehe,", "ich", "ins", "bisschen.", "ich"],
+      "answers": ["Bevor ich ins Bett gehe, lese ich noch ein bisschen."],
+      "explanation": "The bevor clause has its verb „gehe“ at the end. The main clause follows with the verb „lese“ first.",
+      "explanationDe": "Im bevor-Satz steht das Verb „gehe“ am Ende. Danach folgt der Hauptsatz, und er beginnt mit dem Verb „lese“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine with „nachdem“. The first sentence happened first; keep the main clause in the Präteritum.",
+      "instructionDe": "Verbinde die Sätze mit „nachdem“. Der erste Satz ist zuerst passiert. Lass den Hauptsatz im Präteritum.",
+      "prompt": "Wir sahen den Film. Danach gingen wir noch in eine Bar.",
+      "answers": ["Nachdem wir den Film gesehen hatten, gingen wir noch in eine Bar.", "Wir gingen noch in eine Bar, nachdem wir den Film gesehen hatten."],
+      "explanation": "Main clause in the Präteritum („gingen“) → nachdem clause in the Plusquamperfekt („gesehen hatten“), with „hatten“ at the end.",
+      "explanationDe": "Hauptsatz im Präteritum („gingen“) → nachdem-Satz im Plusquamperfekt („gesehen hatten“), mit „hatten“ am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „als“ or „wenn“ – choose the right one. Start with the connector.",
+      "instructionDe": "Verbinde die Sätze mit „als“ oder „wenn“ – wähle das richtige Wort. Beginne mit dem Konnektor.",
+      "prompt": "Ich war 18. Ich habe den Führerschein gemacht.",
+      "answers": [
+        "Als ich 18 war, habe ich den Führerschein gemacht.",
+        "Als ich 18 Jahre alt war, habe ich den Führerschein gemacht.",
+        "Als ich achtzehn war, habe ich den Führerschein gemacht.",
+        "Als ich achtzehn Jahre alt war, habe ich den Führerschein gemacht."
+      ],
+      "explanation": "Being 18 is one period in the past → „Als“. Its verb „war“ goes to the end, and the main clause starts with the verb „habe“.",
+      "explanationDe": "Das Alter von 18 Jahren ist ein einmaliger Zeitraum in der Vergangenheit → „Als“. Im als-Satz steht das Verb „war“ am Ende, und der Hauptsatz beginnt mit dem Verb „habe“."
+    }
+  ],
+  "related": ["nebensaetze-grundlagen", "plusquamperfekt", "praeteritum", "perfekt", "temporale-praepositionen", "indirekte-fragen"]
+}

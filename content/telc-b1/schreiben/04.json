@@ -1,0 +1,54 @@
+{
+  "id": "schreiben-04",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Badminton im Verein",
+  "topic": "sport",
+  "difficulty": 1,
+  "register": "semiformal",
+  "situation": "Sie haben in der Zeitung folgende Anzeige gelesen:",
+  "stimulus": {
+    "kind": "ad",
+    "body": "TV Eintracht Kassel – Abteilung Badminton\n\nNEU: Badminton für Erwachsene\nAnfänger und Wiedereinsteiger herzlich willkommen!\n\nTraining: dienstags und donnerstags, 19:30–21:00 Uhr, Sporthalle der Goetheschule\nSchläger können am Anfang ausgeliehen werden.\nKostenloses Probetraining nach Anmeldung\nMonatsbeitrag: 15 Euro (Familien und Studierende ermäßigt)\n\nInfos und Anmeldung bei Petra Engel: badminton@tv-eintracht-kassel.de"
+  },
+  "leitpunkte": [
+    "Was Sie über den Monatsbeitrag wissen möchten",
+    "Warum Sie sich für das Angebot interessieren",
+    "Wann Sie zum Probetraining kommen möchten",
+    "Welche Erfahrungen Sie mit Badminton haben"
+  ],
+  "model": {
+    "subject": "Anfrage: Badminton für Erwachsene und Probetraining",
+    "text": "Sehr geehrte Frau Engel,\n\nich habe Ihre Anzeige in der Zeitung gelesen und interessiere mich sehr für Ihr Badmintonangebot für Erwachsene. Seit ich im Büro arbeite, sitze ich fast den ganzen Tag. Deshalb suche ich einen Sport, bei dem ich mich regelmäßig bewege und neue Leute kennenlerne.\n\nAls Jugendliche habe ich in meiner Heimatstadt Beirut ein paar Jahre Badminton gespielt, aber seitdem leider nicht mehr. Ich bin also eher eine Wiedereinsteigerin. Einen eigenen Schläger habe ich noch nicht, darum finde ich es toll, dass man am Anfang einen ausleihen kann.\n\nGern würde ich zu einem Probetraining kommen. Wäre das schon am nächsten Donnerstag möglich? Dienstags besuche ich abends leider noch bis Dezember einen Deutschkurs.\n\nZum Schluss habe ich noch eine Frage zum Beitrag: Mein Mann möchte vielleicht auch mitspielen. Gilt der ermäßigte Familienbeitrag auch für Ehepaare ohne Kinder?\n\nÜber eine kurze Antwort würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nNadia Haddad"
+  },
+  "modelNotes": [
+    "The introduction names the ad and the reason for writing in one sentence – a typical opening for a reply to an advertisement.",
+    "The points follow a logical path: motivation, experience, trial session, question about the fee. The experience paragraph also refers back to the ad („Wiedereinsteigerin“, borrowing rackets).",
+    "Polite requests in Konjunktiv II: „Gern würde ich …“, „Wäre das … möglich?“, „Über eine kurze Antwort würde ich mich sehr freuen.“",
+    "Connectors such as „seit“, „deshalb“, „aber“, „also“ and „darum“, plus inversion („Einen eigenen Schläger habe ich noch nicht“), vary the sentence openings."
+  ],
+  "modelNotesDe": [
+    "Die Einleitung nennt in einem Satz die Anzeige und den Grund für die E-Mail – ein typischer Anfang für eine Antwort auf eine Anzeige.",
+    "Die Leitpunkte folgen einer logischen Reihenfolge: Motivation, Erfahrung, Probetraining, Frage zum Beitrag. Der Absatz zur Erfahrung bezieht sich auch auf die Anzeige („Wiedereinsteigerin“, Schläger ausleihen).",
+    "Höfliche Bitten im Konjunktiv II: „Gern würde ich …“, „Wäre das … möglich?“, „Über eine kurze Antwort würde ich mich sehr freuen.“",
+    "Konnektoren wie „seit“, „deshalb“, „aber“, „also“ und „darum“ sowie die Umstellung im Satz („Einen eigenen Schläger habe ich noch nicht“) sorgen für abwechslungsreiche Satzanfänge."
+  ],
+  "phrases": [
+    { "de": "Ich habe Ihre Anzeige gelesen und interessiere mich sehr für …", "en": "I read your ad and I'm very interested in …" },
+    { "de": "Ich suche einen Sport, bei dem …", "en": "I'm looking for a sport in which …" },
+    { "de": "Ich habe ein paar Jahre … gespielt, aber seitdem nicht mehr.", "en": "I played … for a few years, but not since then." },
+    { "de": "Gern würde ich zu einem Probetraining kommen.", "en": "I'd like to come to a trial session." },
+    { "de": "Wäre das schon am nächsten … möglich?", "en": "Would that be possible as early as next …?" },
+    { "de": "Ich habe noch eine Frage zum Beitrag.", "en": "I have another question about the fee." },
+    { "de": "Gilt … auch für …?", "en": "Does … also apply to …?" },
+    { "de": "Über eine kurze Antwort würde ich mich sehr freuen.", "en": "I'd be very glad to receive a short reply." }
+  ],
+  "glossary": [
+    { "de": "der Wiedereinsteiger / die Wiedereinsteigerin", "en": "someone taking up an activity again" },
+    { "de": "der Schläger", "en": "racket" },
+    { "de": "ausleihen", "en": "to borrow" },
+    { "de": "das Probetraining", "en": "trial session" },
+    { "de": "der Monatsbeitrag", "en": "monthly fee" },
+    { "de": "ermäßigt", "en": "reduced (price)" }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": "zweiteilige-konnektoren",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 9,
+  "title": "Zweiteilige Konnektoren: sowohl … als auch, weder … noch, je … desto",
+  "titleEn": "Two-part connectors",
+  "summary": "Two-part connectors link two pieces of information: both … and, neither … nor, either … or, not only … but also – and je … desto for 'the more …, the more …'.",
+  "summaryDe": "Zweiteilige Konnektoren verbinden zwei Informationen: sowohl … als auch, weder … noch, entweder … oder, nicht nur … sondern auch – und je … desto, wenn sich zwei Dinge gemeinsam verändern.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Two-part connectors always come in fixed pairs: **sowohl … als auch, weder … noch, entweder … oder, nicht nur … sondern auch, zwar … aber** and **je … desto**. With **je … desto**, both parts need a comparative, and the je part has the verb at the end.",
+      "mdDe": "Zweiteilige Konnektoren gibt es immer als feste Paare: **sowohl … als auch, weder … noch, entweder … oder, nicht nur … sondern auch, zwar … aber** und **je … desto**. Bei **je … desto** brauchen beide Teile einen Komparativ, und im je-Teil steht das Verb am Ende."
+    },
+    {
+      "type": "table",
+      "heading": "The pairs at a glance",
+      "headingDe": "Die Paare im Überblick",
+      "columns": ["Connector", "Meaning", "Example"],
+      "columnsDe": ["Konnektor", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["sowohl … als auch", "both … and", "Ich spreche sowohl Englisch als auch Spanisch."],
+        ["weder … noch", "neither … nor", "Er trinkt weder Kaffee noch Tee."],
+        ["entweder … oder", "either … or", "Wir fahren entweder mit dem Zug oder mit dem Bus."],
+        ["nicht nur … sondern auch", "not only … but also", "Das Hotel ist nicht nur schön, sondern auch günstig."],
+        ["zwar … aber", "it's true … but", "Die Wohnung ist zwar klein, aber sehr hell."],
+        ["je … desto / umso", "the … the (+ comparative)", "Je länger ich in Wien wohne, desto besser gefällt es mir."]
+      ],
+      "rowsDe": [
+        ["sowohl … als auch", "das eine und auch das andere", "Ich spreche sowohl Englisch als auch Spanisch."],
+        ["weder … noch", "nicht das eine und nicht das andere", "Er trinkt weder Kaffee noch Tee."],
+        ["entweder … oder", "nur eins von beiden", "Wir fahren entweder mit dem Zug oder mit dem Bus."],
+        ["nicht nur … sondern auch", "das eine und dazu noch das andere", "Das Hotel ist nicht nur schön, sondern auch günstig."],
+        ["zwar … aber", "das stimmt schon, aber …", "Die Wohnung ist zwar klein, aber sehr hell."],
+        ["je … desto / umso", "zwei Dinge verändern sich gemeinsam (+ Komparativ)", "Je länger ich in Wien wohne, desto besser gefällt es mir."]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Word order: mostly simple",
+      "headingDe": "Wortstellung: meistens einfach",
+      "md": "Most pairs connect two words or phrases, and the word order doesn't change: „Ich mag **sowohl** Hunde **als auch** Katzen.“ When they connect whole clauses, remember:\n\n- **entweder** can stand in position 0 or in position 1: „**Entweder** du kommst mit, **oder** du bleibst hier.“ / „**Entweder** kommst du mit, **oder** …“ – both are correct. „oder“ is always position 0.\n- **zwar** usually stands in the middle field: „Die Wohnung ist **zwar** klein, **aber** sie ist hell.“ If it takes position 1, the verb follows: „**Zwar ist** die Wohnung klein, aber …“\n- **weder … noch** usually connects two parts inside one clause: „Er hat **weder** angerufen **noch** geschrieben.“\n- In „nicht nur …, sondern auch …“ the word „sondern“ is position 0, just like in a normal sondern clause.",
+      "mdDe": "Die meisten Paare verbinden zwei Wörter oder Wortgruppen, und die Wortstellung ändert sich nicht: „Ich mag **sowohl** Hunde **als auch** Katzen.“ Wenn sie ganze Sätze verbinden, merk dir:\n\n- **entweder** kann auf Position 0 oder auf Position 1 stehen: „**Entweder** du kommst mit, **oder** du bleibst hier.“ / „**Entweder** kommst du mit, **oder** …“ – beides ist richtig. „oder“ steht immer auf Position 0.\n- **zwar** steht meistens im Mittelfeld: „Die Wohnung ist **zwar** klein, **aber** sie ist hell.“ Steht es auf Position 1, folgt das Verb: „**Zwar ist** die Wohnung klein, aber …“\n- **weder … noch** verbindet meistens zwei Teile in einem Satz: „Er hat **weder** angerufen **noch** geschrieben.“\n- In „nicht nur …, sondern auch …“ steht „sondern“ auf Position 0 – genau wie in einem normalen sondern-Satz."
+    },
+    {
+      "type": "text",
+      "heading": "je … desto: the special word order",
+      "headingDe": "je … desto: die besondere Wortstellung",
+      "md": "This pair is special: the **je** part is a **subordinate clause** (verb at the end), the **desto / umso** part is a **main clause** with the verb right after the comparative:\n\n„**Je** mehr ich **übe**, **desto** sicherer **werde** ich.“\n\nPattern: *Je + comparative + … + verb, desto + comparative + verb + subject …* Both parts always need a comparative (mehr, besser, länger, schneller …). „umso“ means the same as „desto“.",
+      "mdDe": "Dieses Paar ist besonders: Der **je**-Teil ist ein **Nebensatz** (Verb am Ende), der **desto / umso**-Teil ist ein **Hauptsatz** mit dem Verb direkt nach dem Komparativ:\n\n„**Je** mehr ich **übe**, **desto** sicherer **werde** ich.“\n\nMuster: *Je + Komparativ + … + Verb, desto + Komparativ + Verb + Subjekt …* Beide Teile brauchen immer einen Komparativ (mehr, besser, länger, schneller …). „umso“ bedeutet dasselbe wie „desto“."
+    },
+    {
+      "type": "table",
+      "heading": "je … desto – word order",
+      "headingDe": "je … desto – Wortstellung",
+      "columns": ["je + comparative", "… verb at the end,", "desto / umso + comparative", "verb", "subject + rest"],
+      "columnsDe": ["je + Komparativ", "… Verb am Ende,", "desto / umso + Komparativ", "Verb", "Subjekt + Rest"],
+      "rows": [
+        ["Je früher", "wir losfahren,", "desto weniger Stau", "haben", "wir."],
+        ["Je länger", "ich Deutsch lerne,", "desto leichter", "wird", "es."],
+        ["Je mehr", "du schläfst,", "umso fitter", "bist", "du."],
+        ["Je älter", "mein Opa wird,", "desto lieber", "erzählt", "er von früher."]
+      ]
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Im Kurs lernen wir **sowohl** Grammatik **als auch** Aussprache.", "en": "In the course we learn both grammar and pronunciation." },
+        { "de": "Ich habe **weder** Zeit **noch** Lust auf eine Party.", "en": "I have neither the time nor the desire for a party." },
+        { "de": "Wir treffen uns **entweder** am Samstag **oder** am Sonntag.", "en": "We'll meet either on Saturday or on Sunday." },
+        { "de": "Die Stelle ist **nicht nur** interessant, **sondern auch** gut bezahlt.", "en": "The job is not only interesting but also well paid." },
+        { "de": "Das Auto ist **zwar** alt, **aber** es fährt noch sehr gut.", "en": "The car is old, it's true, but it still runs very well." },
+        { "de": "**Je** mehr Leute **kommen**, **desto** lustiger **wird** die Party.", "en": "The more people come, the more fun the party will be." },
+        { "de": "**Je** früher Sie **buchen**, **umso** günstiger **ist** der Flug.", "en": "The earlier you book, the cheaper the flight." },
+        { "de": "In unserem Dorf gibt es **weder** einen Supermarkt **noch** eine Apotheke.", "en": "In our village there is neither a supermarket nor a pharmacy." },
+        { "de": "Man kann **sowohl** bar **als auch** mit Karte bezahlen.", "en": "You can pay both in cash and by card." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In Sprachbausteine Teil 1 you usually see one half of the pair and have to choose the other: „sowohl … ___“ → „als auch“, „weder … ___“ → „noch“, „je … ___“ → „desto“. So always read the whole sentence before you decide! In Sprachbausteine Teil 2, „noch“, „sondern“ or „desto“ can be in the word bank.\n\nIn **Schreiben** and **Sprechen**, these connectors make your language richer at very little risk: „Ich habe sowohl im Büro als auch im Verkauf gearbeitet.“ / „Je länger ich darüber nachdenke, desto besser gefällt mir die Idee.“ In **Sprechen** Teil 2, „zwar … aber“ is perfect for a balanced opinion: „Homeoffice ist zwar praktisch, aber man ist oft allein.“",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 siehst du meistens eine Hälfte des Paares und musst die andere wählen: „sowohl … ___“ → „als auch“, „weder … ___“ → „noch“, „je … ___“ → „desto“. Lies also immer den ganzen Satz, bevor du entscheidest! In Sprachbausteine Teil 2 können „noch“, „sondern“ oder „desto“ im Wortkasten stehen.\n\nIn den Teilen **Schreiben** und **Sprechen** machen diese Konnektoren deine Sprache reicher – mit sehr wenig Risiko: „Ich habe sowohl im Büro als auch im Verkauf gearbeitet.“ / „Je länger ich darüber nachdenke, desto besser gefällt mir die Idee.“ In **Sprechen** Teil 2 passt „zwar … aber“ perfekt für eine ausgewogene Meinung: „Homeoffice ist zwar praktisch, aber man ist oft allein.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** mixing up the partners. „sowohl … und“, „weder … oder“ and „entweder … noch“ are all wrong – the pairs are fixed: **sowohl – als auch**, **weder – noch**, **entweder – oder**.\n\nAnd „weder … noch“ is already negative, so don't add „nicht“ or „kein“: „Ich habe weder keine Zeit noch Geld“ is wrong → „Ich habe **weder** Zeit **noch** Geld.“",
+      "mdDe": "**Typische Falle:** die Partner verwechseln. „sowohl … und“, „weder … oder“ und „entweder … noch“ sind alle falsch – die Paare sind fest: **sowohl – als auch**, **weder – noch**, **entweder – oder**.\n\nUnd „weder … noch“ ist schon negativ, deshalb kommt kein „nicht“ oder „kein“ dazu: „Ich habe weder keine Zeit noch Geld“ ist falsch → „Ich habe **weder** Zeit **noch** Geld.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich spreche sowohl Deutsch und Englisch.",
+      "right": "Ich spreche sowohl Deutsch als auch Englisch.",
+      "why": "„sowohl“ always goes with „als auch“.",
+      "whyDe": "Zu „sowohl“ gehört immer „als auch“."
+    },
+    {
+      "wrong": "Er hat weder Zeit oder Geld.",
+      "right": "Er hat weder Zeit noch Geld.",
+      "why": "„weder“ always goes with „noch“.",
+      "whyDe": "Zu „weder“ gehört immer „noch“."
+    },
+    {
+      "wrong": "Je mehr ich lerne, desto mehr ich weiß.",
+      "right": "Je mehr ich lerne, desto mehr weiß ich.",
+      "why": "After „desto“ + comparative, the verb comes next – then the subject.",
+      "whyDe": "Nach „desto“ + Komparativ kommt das Verb – dann das Subjekt."
+    },
+    {
+      "wrong": "Je ich mehr übe, desto besser spreche ich.",
+      "right": "Je mehr ich übe, desto besser spreche ich.",
+      "why": "The comparative follows „je“ directly.",
+      "whyDe": "Der Komparativ steht direkt nach „je“."
+    },
+    {
+      "wrong": "Ich habe weder keinen Hunger noch Durst.",
+      "right": "Ich habe weder Hunger noch Durst.",
+      "why": "„weder … noch“ already means 'not … and not' – no extra „kein“ or „nicht“.",
+      "whyDe": "„weder … noch“ bedeutet schon „nicht … und nicht“ – also kein zusätzliches „kein“ oder „nicht“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Das Hotel hat sowohl ein Schwimmbad ___ eine Sauna.",
+      "options": ["als auch", "noch", "oder"],
+      "answer": 0,
+      "explanation": "„sowohl“ always goes with „als auch“ ('both … and').",
+      "explanationDe": "Zu „sowohl“ gehört immer „als auch“ (= das eine und auch das andere)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Leider habe ich weder am Montag ___ am Dienstag Zeit.",
+      "options": ["oder", "noch", "und"],
+      "answer": 1,
+      "explanation": "„weder“ always goes with „noch“ ('neither … nor').",
+      "explanationDe": "Zu „weder“ gehört immer „noch“ (= nicht das eine und nicht das andere)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Je öfter ich mit Muttersprachlern spreche, ___ wird mein Deutsch.",
+      "options": ["besser", "desto besser", "so gut"],
+      "answer": 1,
+      "explanation": "„je“ + comparative is answered by „desto“ (or „umso“) + comparative: „desto besser“.",
+      "explanationDe": "Auf „je“ + Komparativ antwortet „desto“ (oder „umso“) + Komparativ: „desto besser“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Du kannst mich ___ heute Abend oder morgen früh anrufen.",
+      "options": ["sowohl", "weder", "entweder"],
+      "answer": 2,
+      "explanation": "The partner in the sentence is „oder“ → „entweder … oder“ ('either … or').",
+      "explanationDe": "Der Partner im Satz ist „oder“ → „entweder … oder“ (= nur eins von beiden)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Wohnung ist ___ klein, aber sehr gemütlich.",
+      "options": ["zwar", "sowohl", "weder"],
+      "answer": 0,
+      "explanation": "The partner is „aber“ → „zwar … aber“: you admit a weak point and then give a stronger positive one.",
+      "explanationDe": "Der Partner ist „aber“ → „zwar … aber“: Du gibst einen Nachteil zu und nennst dann einen stärkeren positiven Punkt."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der neue Kollege ist nicht nur freundlich, ___ auch sehr hilfsbereit.",
+      "answers": ["sondern"],
+      "explanation": "„nicht nur … sondern auch“ ('not only … but also') is a fixed pair.",
+      "explanationDe": "„nicht nur … sondern auch“ ist ein festes Paar."
+    },
+    {
+      "type": "gap",
+      "prompt": "Je mehr Sport ich mache, ___ besser schlafe ich.",
+      "answers": ["desto", "umso"],
+      "explanation": "„je“ + comparative … „desto“ (or „umso“) + comparative. The verb „schlafe“ follows the comparative.",
+      "explanationDe": "„je“ + Komparativ … „desto“ (oder „umso“) + Komparativ. Das Verb „schlafe“ steht nach dem Komparativ."
+    },
+    {
+      "type": "gap",
+      "prompt": "In meinem Dorf gibt es weder ein Kino ___ ein Theater.",
+      "answers": ["noch"],
+      "explanation": "„weder“ is answered by „noch“: there is no cinema and no theatre.",
+      "explanationDe": "Auf „weder“ antwortet „noch“: Es gibt kein Kino und kein Theater."
+    },
+    {
+      "type": "order",
+      "words": ["Stadt.", "gefällt", "Je", "besser", "länger", "mir", "ich", "desto", "wohne,", "in", "Basel", "die"],
+      "answers": ["Je länger ich in Basel wohne, desto besser gefällt mir die Stadt."],
+      "explanation": "„Je länger“ + verb at the end („wohne“), then „desto besser“ + verb („gefällt“) + the rest.",
+      "explanationDe": "„Je länger“ + Verb am Ende („wohne“), dann „desto besser“ + Verb („gefällt“) + der Rest."
+    },
+    {
+      "type": "order",
+      "words": ["Gitarre", "als", "kann", "sowohl", "Ich", "auch", "spielen.", "Klavier"],
+      "answers": ["Ich kann sowohl Klavier als auch Gitarre spielen.", "Ich kann sowohl Gitarre als auch Klavier spielen."],
+      "explanation": "„sowohl … als auch“ connects the two instruments in the middle field; the infinitive „spielen“ stays at the end.",
+      "explanationDe": "„sowohl … als auch“ verbindet die beiden Instrumente im Mittelfeld; der Infinitiv „spielen“ bleibt am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „weder … noch“.",
+      "instructionDe": "Verbinde die Sätze mit „weder … noch“.",
+      "prompt": "Ich habe kein Auto. Ich habe auch kein Fahrrad.",
+      "answers": ["Ich habe weder ein Auto noch ein Fahrrad."],
+      "explanation": "„weder … noch“ is already negative, so „kein“ becomes „ein“: „weder ein Auto noch ein Fahrrad“.",
+      "explanationDe": "„weder … noch“ ist schon negativ, deshalb wird aus „kein“ „ein“: „weder ein Auto noch ein Fahrrad“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite with „je … desto“. Use the comparatives „mehr“ and „besser“.",
+      "instructionDe": "Schreib die Sätze mit „je … desto“ um. Benutze die Komparative „mehr“ und „besser“.",
+      "prompt": "Du übst viel. Du sprichst gut.",
+      "answers": ["Je mehr du übst, desto besser sprichst du.", "Je mehr du übst, umso besser sprichst du."],
+      "explanation": "Je part: comparative + verb at the end („übst“). Desto part: comparative + verb + subject („besser sprichst du“).",
+      "explanationDe": "Je-Teil: Komparativ + Verb am Ende („übst“). Desto-Teil: Komparativ + Verb + Subjekt („besser sprichst du“)."
+    }
+  ],
+  "related": ["konnektoren-hauptsatz", "verbindungsadverbien", "komparation", "nebensaetze-grundlagen", "negation"]
+}

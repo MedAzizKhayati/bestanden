@@ -1,0 +1,101 @@
+{
+  "id": "lesen-2-06",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Oma auf Zeit",
+  "topic": "familie",
+  "difficulty": 2,
+  "article": {
+    "headline": "Eine Oma für Mia",
+    "lead": "Viele junge Familien leben weit weg von den eigenen Eltern. Ein Verein in Kassel bringt Kinder mit älteren Menschen zusammen, deren Enkel weit weg wohnen – oder die gar keine haben.",
+    "paragraphs": [
+      "Jeden Donnerstag um halb drei klingelt es bei Familie Okonkwo-Schneider. Vor der Tür steht Helga Brandt, 68, mit einer Tasche voller Bilderbücher. Die fünfjährige Mia rennt ihr entgegen und ruft: „Oma Helga ist da!“ Verwandt sind die beiden nicht. Helga Brandt ist eine sogenannte Leihoma – und für Mia trotzdem ein sehr wichtiger Mensch.",
+      "Mias Eltern sind vor vier Jahren aus beruflichen Gründen nach Kassel gezogen. Ihre Mutter arbeitet als Ärztin im Schichtdienst, ihr Vater ist Lehrer. Die Großeltern wohnen in Hamburg und in Lagos. „Wir haben sie oft vermisst, besonders wenn Mia krank war und wir beide arbeiten mussten“, erzählt Mias Vater Tobias Schneider. Durch eine Kollegin erfuhr er schließlich von dem Verein „Generationenbrücke“.",
+      "Den Verein gibt es seit 2015. Er bringt ältere Menschen und Familien zusammen, die Unterstützung brauchen. Für die Vereinsleiterin Petra Röder ist dabei eines besonders wichtig: „Unsere Leihgroßeltern sind keine Babysitter. Es geht nicht darum, möglichst viele Stunden zu helfen, sondern um eine echte Beziehung.“ Deshalb sollen sich Familie und Leihoma oder Leihopa mindestens ein Jahr lang regelmäßig treffen. Geld bekommen die Seniorinnen und Senioren nicht, nur die Fahrtkosten übernimmt der Verein.",
+      "Bevor jemand Leihoma oder Leihopa werden kann, gibt es ein ausführliches Gespräch im Verein. Außerdem müssen alle einen Erste-Hilfe-Kurs für Notfälle bei Kindern besuchen und ein polizeiliches Führungszeugnis zeigen. „Das ist wichtig, damit die Eltern Vertrauen haben können“, erklärt Röder. Dann lernen sich beide Seiten bei einem ersten Treffen im Vereinsbüro kennen. Erst wenn alle ein gutes Gefühl haben, geht es los.",
+      "Helga Brandt hat selbst zwei erwachsene Söhne. Einer lebt in Kanada, der andere hat keine Kinder. „Als ich in Rente gegangen bin, hatte ich plötzlich so viel Zeit – und niemanden, mit dem ich sie verbringen konnte“, sagt die frühere Buchhändlerin. Mit Mia geht sie auf den Spielplatz, backt Plätzchen oder liest ihr vor. „Ich bekomme mindestens so viel zurück, wie ich gebe. Mia hält mich jung.“",
+      "Ganz ohne Probleme läuft es nicht immer. Manchmal passen Familie und Leihgroßeltern nicht zusammen, zum Beispiel wenn sie sehr unterschiedliche Vorstellungen von Erziehung haben. „Dann suchen wir gemeinsam eine neue Lösung“, sagt Röder. Das größte Problem ist aber ein anderes: Auf der Warteliste stehen zurzeit über 60 Familien, doch es gibt nur 25 Leihgroßeltern. Besonders Männer melden sich selten.",
+      "Mia ist das alles egal. Sie hat schon genau geplant, was sie am nächsten Donnerstag mit Oma Helga machen will: Pfannkuchen backen und danach im Park die Enten füttern. Und wenn ihre Oma aus Hamburg das nächste Mal zu Besuch kommt, will sie ihr Oma Helga unbedingt vorstellen."
+    ],
+    "source": "Familienleben – Das Magazin für Nordhessen"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Familie Okonkwo-Schneider wollte eine Leihoma, weil …",
+      "options": [
+        { "key": "a", "text": "Mias Großeltern keine Zeit für sie haben." },
+        { "key": "b", "text": "Mias Mutter lange in Lagos arbeiten muss." },
+        { "key": "c", "text": "Mias Großeltern weit weg von Kassel wohnen." }
+      ],
+      "answer": "c",
+      "explanation": "„Die Großeltern wohnen in Hamburg und in Lagos“ – far away from Kassel, so (c). The text does not say that the grandparents have no time (a). Mia's mother works as a doctor in Kassel; Lagos is where one set of grandparents lives (b).",
+      "explanationDe": "„Die Großeltern wohnen in Hamburg und in Lagos“ – weit weg von Kassel, also ist (c) richtig. Im Text steht nicht, dass die Großeltern keine Zeit haben (a). Mias Mutter arbeitet als Ärztin in Kassel; in Lagos wohnt ein Großelternpaar (b).",
+      "evidence": "Die Großeltern wohnen in Hamburg und in Lagos."
+    },
+    {
+      "n": 2,
+      "stem": "Für Frau Röder ist besonders wichtig, dass …",
+      "options": [
+        { "key": "a", "text": "Kinder und Leihgroßeltern eine echte Beziehung aufbauen." },
+        { "key": "b", "text": "die Leihgroßeltern möglichst viele Stunden helfen." },
+        { "key": "c", "text": "die Familien den Leihgroßeltern die Fahrtkosten bezahlen." }
+      ],
+      "answer": "a",
+      "explanation": "„Es geht nicht darum, möglichst viele Stunden zu helfen, sondern um eine echte Beziehung“, so (a) – and (b) is exactly what she rejects. The travel costs are paid by the association, not by the families (c).",
+      "explanationDe": "„Es geht nicht darum, möglichst viele Stunden zu helfen, sondern um eine echte Beziehung“, also ist (a) richtig – und genau (b) lehnt sie ab. Die Fahrtkosten bezahlt der Verein, nicht die Familien (c).",
+      "evidence": "Es geht nicht darum, möglichst viele Stunden zu helfen, sondern um eine echte Beziehung."
+    },
+    {
+      "n": 3,
+      "stem": "Bevor die Leihgroßeltern eine Familie zu Hause besuchen, …",
+      "options": [
+        { "key": "a", "text": "müssen sie einen Babysitter-Kurs machen." },
+        { "key": "b", "text": "treffen sie die Familie zuerst im Büro des Vereins." },
+        { "key": "c", "text": "führen die Eltern ein langes Gespräch mit der Polizei." }
+      ],
+      "answer": "b",
+      "explanation": "„Dann lernen sich beide Seiten bei einem ersten Treffen im Vereinsbüro kennen“, so (b). The course they need is a first-aid course for emergencies with children, not a babysitter course (a). The long talk takes place at the association, and the police only issue the certificate of good conduct (c).",
+      "explanationDe": "„Dann lernen sich beide Seiten bei einem ersten Treffen im Vereinsbüro kennen“, also ist (b) richtig. Die Leihgroßeltern brauchen einen Erste-Hilfe-Kurs für Notfälle bei Kindern, keinen Babysitter-Kurs (a). Das lange Gespräch findet im Verein statt, und die Polizei stellt nur das Führungszeugnis aus (c).",
+      "evidence": "Dann lernen sich beide Seiten bei einem ersten Treffen im Vereinsbüro kennen."
+    },
+    {
+      "n": 4,
+      "stem": "Frau Brandt ist Leihoma geworden, weil …",
+      "options": [
+        { "key": "a", "text": "sie nach dem Ende ihres Berufslebens viel freie Zeit hatte." },
+        { "key": "b", "text": "ihre Söhne sie darum gebeten haben." },
+        { "key": "c", "text": "sie als Buchhändlerin viel mit Kindern zu tun hatte." }
+      ],
+      "answer": "a",
+      "explanation": "„Als ich in Rente gegangen bin, hatte ich plötzlich so viel Zeit“ – after retiring she had lots of free time, so (a). Her sons are mentioned, but they did not ask her (b). Her former job as a bookseller is not given as a reason (c).",
+      "explanationDe": "„Als ich in Rente gegangen bin, hatte ich plötzlich so viel Zeit“ – nach dem Ende ihres Berufslebens hatte sie viel freie Zeit, also ist (a) richtig. Frau Brandts Söhne werden erwähnt, aber sie haben sie nicht darum gebeten (b). Den früheren Beruf als Buchhändlerin nennt sie nicht als Grund (c).",
+      "evidence": "Als ich in Rente gegangen bin, hatte ich plötzlich so viel Zeit"
+    },
+    {
+      "n": 5,
+      "stem": "Das größte Problem des Vereins ist, dass …",
+      "options": [
+        { "key": "a", "text": "viele Familien ganz andere Ideen von Erziehung haben." },
+        { "key": "b", "text": "es viel mehr Familien als Leihgroßeltern gibt." },
+        { "key": "c", "text": "sich zu viele Männer als Leihopa melden." }
+      ],
+      "answer": "b",
+      "explanation": "Over 60 families are waiting, but there are only 25 volunteer grandparents, so (b). Different ideas about raising children are a problem only „manchmal“, and the text says „Das größte Problem ist aber ein anderes“ (a). Men rarely volunteer – the opposite of (c).",
+      "explanationDe": "Über 60 Familien warten, aber es gibt nur 25 Leihgroßeltern, also ist (b) richtig. Unterschiedliche Vorstellungen von Erziehung sind nur „manchmal“ ein Problem, und im Text steht: „Das größte Problem ist aber ein anderes“ (a). Männer melden sich selten – das Gegenteil von (c).",
+      "evidence": "Auf der Warteliste stehen zurzeit über 60 Familien, doch es gibt nur 25 Leihgroßeltern."
+    }
+  ],
+  "glossary": [
+    { "de": "die Leihoma / der Leihopa", "en": "volunteer grandmother / grandfather (literally: borrowed grandma)" },
+    { "de": "verwandt sein", "en": "to be related" },
+    { "de": "der Schichtdienst", "en": "shift work" },
+    { "de": "jemanden vermissen", "en": "to miss someone" },
+    { "de": "die Fahrtkosten (Pl.)", "en": "travel costs" },
+    { "de": "ausführlich", "en": "detailed, thorough" },
+    { "de": "das polizeiliche Führungszeugnis", "en": "certificate of good conduct (criminal record check)" },
+    { "de": "das Vertrauen", "en": "trust" },
+    { "de": "die Erziehung", "en": "upbringing, raising children" },
+    { "de": "die Warteliste", "en": "waiting list" }
+  ]
+}

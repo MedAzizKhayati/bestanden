@@ -1,0 +1,144 @@
+{
+  "id": "sprachbausteine-1-04",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Anfrage an eine Sprachschule",
+  "topic": "bildung",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "text": "Sehr geehrte Damen und Herren,\n\nIhre Sprachschule [[1]] mir von einem [[2]] empfohlen, der vor zwei Jahren bei Ihnen einen Deutschkurs gemacht hat. Ich interessiere mich besonders für [[3]] Vorbereitungskurs zur Prüfung telc Deutsch B1, der im Oktober beginnt.\n\nIch komme aus Portugal und lebe seit einem Jahr in Nürnberg. Ich arbeite als Koch in einem Hotel und habe abends oft Dienst, [[4]] kann ich nur vormittags lernen. Gibt es den Kurs auch am Vormittag? Außerdem möchte ich gern wissen, [[5]] ich vor Kursbeginn einen Einstufungstest machen muss oder nicht.\n\nLetztes Jahr [[6]] ich schon einen A2-Kurs an der Volkshochschule. Dort waren wir über zwanzig Leute, und die Lehrerin hatte kaum Zeit für einzelne Fragen. Diesmal hätte ich gern einen Kurs mit [[7]] Teilnehmern als damals.\n\nKönnen Sie mir auch sagen, wie viel der Kurs kostet? Gibt es vielleicht eine Ermäßigung für Teilnehmer, [[8]] Arbeitgeber einen Teil der Kosten übernimmt? Mein Chef hat mir nämlich angeboten, die Hälfte der Kursgebühr [[9]].\n\nIch [[10]] mich sehr freuen, wenn Sie mir bald antworten.\n\nMit freundlichen Grüßen\nCarlos Mendes",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "hat" },
+        { "key": "b", "text": "wurde" },
+        { "key": "c", "text": "ist" }
+      ],
+      "answer": "b",
+      "explanation": "The school does not act – somebody recommends it („von einem …“). That is the Passiv: „wurde … empfohlen“ (werden + Partizip II). With „hat“ the school would be the active subject, and „ist … empfohlen“ is incomplete without „worden“.",
+      "explanationDe": "Die Schule handelt nicht selbst – jemand empfiehlt sie („von einem …“). Das ist Passiv: „wurde … empfohlen“ (werden + Partizip II). Mit „hat“ wäre die Schule das aktive Subjekt, und „ist … empfohlen“ ist ohne „worden“ unvollständig.",
+      "grammar": "passiv"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "Kollegen" },
+        { "key": "b", "text": "Kollege" },
+        { "key": "c", "text": "Kollegens" }
+      ],
+      "answer": "a",
+      "explanation": "„der Kollege“ is an n-noun: after „von einem“ (dative) it takes „-n“: „von einem Kollegen“. „Kollege“ is only the nominative singular, and „Kollegens“ does not exist.",
+      "explanationDe": "„der Kollege“ ist ein n-Nomen: Nach „von einem“ (Dativ) bekommt es ein „-n“: „von einem Kollegen“. „Kollege“ ist nur der Nominativ Singular, und „Kollegens“ gibt es nicht.",
+      "grammar": "n-deklination"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "Ihrem" },
+        { "key": "b", "text": "Ihr" },
+        { "key": "c", "text": "Ihren" }
+      ],
+      "answer": "c",
+      "explanation": "„sich interessieren für“ is followed by the accusative. „der Vorbereitungskurs“ is masculine, so „für Ihren Vorbereitungskurs“. „Ihrem“ is dative, „Ihr“ neuter.",
+      "explanationDe": "Nach „sich interessieren für“ steht der Akkusativ. „der Vorbereitungskurs“ ist maskulin, also „für Ihren Vorbereitungskurs“. „Ihrem“ ist Dativ, „Ihr“ neutral.",
+      "grammar": "kasus-und-artikel"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "weil" },
+        { "key": "b", "text": "denn" },
+        { "key": "c", "text": "deshalb" }
+      ],
+      "answer": "c",
+      "explanation": "The verb follows directly („kann ich“), so you need the adverb „deshalb“ in position 1. After „weil“ the verb goes to the end, and after „denn“ the subject comes first („denn ich kann …“).",
+      "explanationDe": "Das Verb folgt direkt („kann ich“). Du brauchst also das Verbindungsadverb „deshalb“ auf Position 1. Nach „weil“ steht das Verb am Ende, und nach „denn“ kommt zuerst das Subjekt („denn ich kann …“).",
+      "grammar": "verbindungsadverbien"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "dass" },
+        { "key": "b", "text": "ob" },
+        { "key": "c", "text": "wenn" }
+      ],
+      "answer": "b",
+      "explanation": "„wissen möchten, ob …“ is an indirect yes/no question; the words „oder nicht“ at the end make this clear. „dass“ would introduce a fact, „wenn“ a condition.",
+      "explanationDe": "„wissen möchten, ob …“ ist eine indirekte Ja-/Nein-Frage; das zeigen auch die Wörter „oder nicht“ am Ende. „dass“ würde eine Tatsache einleiten, „wenn“ eine Bedingung.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "besuchte" },
+        { "key": "b", "text": "besucht" },
+        { "key": "c", "text": "besuchen" }
+      ],
+      "answer": "a",
+      "explanation": "„Letztes Jahr“ needs a past form for „ich“: the Präteritum „besuchte“. The participle „besucht“ would need „habe“, and „besuchen“ is the infinitive.",
+      "explanationDe": "„Letztes Jahr“ braucht eine Vergangenheitsform für „ich“: das Präteritum „besuchte“. Das Partizip „besucht“ bräuchte „habe“, und „besuchen“ ist der Infinitiv.",
+      "grammar": "praeteritum"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "wenig" },
+        { "key": "b", "text": "weniger" },
+        { "key": "c", "text": "wenigsten" }
+      ],
+      "answer": "b",
+      "explanation": "„als damals“ shows a comparison, so you need the comparative „weniger“ (from „wenig“). „wenigsten“ is a superlative form and cannot be combined with „als“.",
+      "explanationDe": "„als damals“ zeigt einen Vergleich. Du brauchst also den Komparativ „weniger“ (von „wenig“). „wenigsten“ ist eine Superlativform und passt nicht zu „als“.",
+      "grammar": "komparation"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "denen" },
+        { "key": "b", "text": "die" },
+        { "key": "c", "text": "deren" }
+      ],
+      "answer": "c",
+      "explanation": "„deren“ is the genitive relative pronoun for plural nouns: „Teilnehmer, deren Arbeitgeber …“ = participants whose employer …. „denen“ (dative) and „die“ (nominative/accusative) cannot express possession.",
+      "explanationDe": "„deren“ ist das Relativpronomen im Genitiv für Nomen im Plural: „Teilnehmer, deren Arbeitgeber …“ = der Arbeitgeber dieser Teilnehmer …. „denen“ (Dativ) und „die“ (Nominativ/Akkusativ) können keinen Besitz ausdrücken.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "zu bezahlen" },
+        { "key": "b", "text": "bezahlen" },
+        { "key": "c", "text": "bezahlt" }
+      ],
+      "answer": "a",
+      "explanation": "„anbieten, etwas zu tun“: the infinitive group after „hat … angeboten“ needs „zu“: „die Hälfte der Kursgebühr zu bezahlen“.",
+      "explanationDe": "„anbieten, etwas zu tun“: Die Infinitivgruppe nach „hat … angeboten“ braucht „zu“: „die Hälfte der Kursgebühr zu bezahlen“.",
+      "grammar": "infinitiv-mit-zu"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "wäre" },
+        { "key": "b", "text": "würde" },
+        { "key": "c", "text": "hätte" }
+      ],
+      "answer": "b",
+      "explanation": "„Ich würde mich freuen, wenn …“ is the polite Konjunktiv II formula: „würde“ + infinitive („freuen“ at the end). „wäre“ and „hätte“ cannot be combined with an infinitive here.",
+      "explanationDe": "„Ich würde mich freuen, wenn …“ ist die höfliche Formel mit Konjunktiv II: „würde“ + Infinitiv („freuen“ am Ende). „wäre“ und „hätte“ passen hier nicht zu einem Infinitiv.",
+      "grammar": "konjunktiv-2"
+    }
+  ],
+  "glossary": [
+    { "de": "empfehlen", "en": "to recommend" },
+    { "de": "der Vorbereitungskurs", "en": "preparation course" },
+    { "de": "Dienst haben", "en": "to be on duty, to work a shift" },
+    { "de": "der Einstufungstest", "en": "placement test" },
+    { "de": "einzeln", "en": "individual" },
+    { "de": "die Ermäßigung", "en": "discount, reduced price" },
+    { "de": "der Arbeitgeber", "en": "employer" },
+    { "de": "die Kosten übernehmen", "en": "to cover the costs" },
+    { "de": "die Kursgebühr", "en": "course fee" },
+    { "de": "anbieten", "en": "to offer" }
+  ]
+}

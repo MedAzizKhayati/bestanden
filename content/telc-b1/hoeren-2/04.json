@@ -1,0 +1,149 @@
+{
+  "id": "hoeren-2-04",
+  "examId": "telc-b1",
+  "type": "audio-long",
+  "title": "75 Jahre TSV Hohenbach",
+  "topic": "sport",
+  "difficulty": 2,
+  "context": "Radiosendung „Sport am Wochenende“: Gespräch zum 75. Geburtstag eines Sportvereins",
+  "speakers": [
+    { "id": "mod", "name": "Moderator", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "albrecht", "name": "Frau Albrecht", "gender": "f", "age": "adult", "role": "Vorsitzende des Vereins" },
+    { "id": "kowalski", "name": "Herr Kowalski", "gender": "m", "age": "senior", "role": "Vereinsmitglied seit 1956" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Hallo und herzlich willkommen bei „Sport am Wochenende“! Heute feiern wir einen runden Geburtstag: Der TSV Hohenbach wird 75 Jahre alt." },
+    { "s": "mod", "t": "Bei mir sind zwei Gäste: Claudia Albrecht, die Vorsitzende des Vereins, und Herbert Kowalski, eines der ältesten Mitglieder. Schön, dass Sie da sind!" },
+    { "s": "albrecht", "t": "Hallo, wir freuen uns sehr über die Einladung." },
+    { "s": "kowalski", "t": "Ja, guten Tag zusammen." },
+    { "s": "mod", "t": "Frau Albrecht, wie hat denn alles angefangen?" },
+    { "s": "albrecht", "t": "Gegründet wurde der Verein 1951 von zwölf jungen Männern aus dem Ort. Sie wollten nach dem Krieg einfach wieder zusammen Fußball spielen." },
+    { "s": "albrecht", "t": "Einen richtigen Sportplatz gab es damals nicht. Ein Bauer hat ihnen dann eine Wiese gegeben, auf der vorher seine Kühe standen." },
+    { "s": "mod", "t": "Einfach so?" },
+    { "s": "albrecht", "t": "Fast. Miete wollte er keine, aber die Spieler mussten ihm jeden Sommer bei der Heuernte helfen." },
+    { "s": "mod", "t": "Herr Kowalski, Sie sind schon sehr lange dabei. Seit wann genau?" },
+    { "s": "kowalski", "t": "Ich bin 1956 eingetreten, da war ich sieben Jahre alt. Mein Vater hat mich einfach mitgenommen, er war einer der Gründer." },
+    { "s": "kowalski", "t": "Dann habe ich über 30 Jahre Fußball gespielt, immer hier in Hohenbach. Danach habe ich 25 Jahre lang die Kleinsten trainiert, also die Sechs- bis Achtjährigen." },
+    { "s": "mod", "t": "Warum nicht die erste Mannschaft?" },
+    { "s": "kowalski", "t": "Das wollte ich nie. Mit den Kleinen macht es einfach mehr Spaß, die freuen sich über jedes Tor, auch wenn es ins eigene Netz geht." },
+    { "s": "mod", "t": "Frau Albrecht, wie groß ist der Verein heute?" },
+    { "s": "albrecht", "t": "Wir haben über elfhundert Mitglieder in zwölf Abteilungen. Fußball ist natürlich immer noch wichtig, aber die größte Abteilung ist inzwischen Turnen und Fitness mit fast 400 Mitgliedern." },
+    { "s": "albrecht", "t": "Dazu gehören zum Beispiel Yoga, Gymnastik für Senioren und Kinderturnen." },
+    { "s": "mod", "t": "Sie sind seit 2019 Vorsitzende. Ist das in einem Sportverein noch etwas Besonderes?" },
+    { "s": "albrecht", "t": "In Hohenbach schon. Ich bin die erste Frau an der Spitze des Vereins, vor mir waren es 68 Jahre lang nur Männer." },
+    { "s": "kowalski", "t": "Und ich muss sagen: Sie macht das besser als die meisten Männer vor ihr." },
+    { "s": "albrecht", "t": "Danke, Herbert, das hast du schön gesagt." },
+    { "s": "mod", "t": "Welche Probleme hat der Verein im Moment?" },
+    { "s": "albrecht", "t": "Das größte Problem sind die Trainer. Es ist schwer, Leute zu finden, die jede Woche ehrenamtlich mit Kindern trainieren." },
+    { "s": "albrecht", "t": "Bei den Schwimmkursen haben wir deshalb im Moment eine Warteliste mit über 60 Kindern. Das tut mir wirklich leid für die Familien." },
+    { "s": "mod", "t": "Und das Vereinsheim? Ich habe gehört, es braucht ein neues Dach." },
+    { "s": "albrecht", "t": "Ja, leider. Das kostet ungefähr achtzigtausend Euro. Die Hälfte bezahlt die Gemeinde, den Rest wollen wir mit Spenden und einem Spendenlauf im Herbst sammeln." },
+    { "s": "mod", "t": "Wie viel kostet es eigentlich, Mitglied zu werden?" },
+    { "s": "albrecht", "t": "Erwachsene bezahlen 8 Euro im Monat, Kinder die Hälfte. Und für Familien gibt es einen Preis von 15 Euro, egal wie viele Kinder mitmachen." },
+    { "s": "mod", "t": "Das ist wirklich günstig. Und jetzt zum Fest: Was erwartet die Besucher?" },
+    { "s": "albrecht", "t": "Am letzten Samstag im Juni feiern wir den ganzen Tag auf dem Sportplatz, und der Eintritt ist frei. Am Nachmittag gibt es eine Kinderolympiade, und abends spielt eine Band im Festzelt." },
+    { "s": "albrecht", "t": "Höhepunkt ist um 17 Uhr ein Fußballspiel: unsere erste Mannschaft gegen ehemalige Spieler." },
+    { "s": "mod", "t": "Herr Kowalski, spielen Sie da auch mit?" },
+    { "s": "kowalski", "t": "Nein, nein, dafür sind meine Knie zu alt. Aber ich bin der Schiedsrichter, und ich verspreche, dass ich fair pfeife." },
+    { "s": "mod", "t": "Gibt es noch etwas, worauf Sie sich besonders freuen?" },
+    { "s": "kowalski", "t": "Ja, auf unsere Ausstellung. Ich habe in den letzten Monaten alte Fotos von Mitgliedern gesammelt, über 300 Stück." },
+    { "s": "kowalski", "t": "Die kann man ab Montag im Rathaus sehen. Im Vereinsheim war leider kein Platz dafür." },
+    { "s": "mod", "t": "Frau Albrecht, Herr Kowalski, vielen Dank und alles Gute zum Geburtstag!" },
+    { "s": "albrecht", "t": "Danke schön, und kommen Sie alle vorbei!" }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Für den ersten Sportplatz musste der Verein dem Bauern Miete bezahlen.",
+      "answer": false,
+      "explanation": "„Miete wollte er keine“ – the farmer did not want rent; the players only had to help him with the hay harvest every summer.",
+      "explanationDe": "„Miete wollte er keine“ – der Bauer wollte keine Miete; die Spieler mussten ihm nur jeden Sommer bei der Heuernte helfen.",
+      "evidence": "Miete wollte er keine, aber die Spieler mussten ihm jeden Sommer bei der Heuernte helfen."
+    },
+    {
+      "n": 2,
+      "text": "Herr Kowalski ist durch seinen Vater in den Verein gekommen.",
+      "answer": true,
+      "explanation": "„Mein Vater hat mich einfach mitgenommen, er war einer der Gründer“ – his father, one of the founders, brought him to the club.",
+      "explanationDe": "„Mein Vater hat mich einfach mitgenommen, er war einer der Gründer“ – sein Vater, einer der Gründer, hat ihn in den Verein gebracht.",
+      "evidence": "Mein Vater hat mich einfach mitgenommen, er war einer der Gründer."
+    },
+    {
+      "n": 3,
+      "text": "Herr Kowalski hat viele Jahre die erste Mannschaft trainiert.",
+      "answer": false,
+      "explanation": "He coached „die Kleinsten …, also die Sechs- bis Achtjährigen“. About the first team he says „Das wollte ich nie“.",
+      "explanationDe": "Er hat „die Kleinsten …, also die Sechs- bis Achtjährigen“ trainiert. Über die erste Mannschaft sagt er: „Das wollte ich nie“.",
+      "evidence": "Danach habe ich 25 Jahre lang die Kleinsten trainiert"
+    },
+    {
+      "n": 4,
+      "text": "Fußball ist heute die größte Abteilung des Vereins.",
+      "answer": false,
+      "explanation": "Football is still important, but „die größte Abteilung ist inzwischen Turnen und Fitness“.",
+      "explanationDe": "Fußball ist immer noch wichtig, aber „die größte Abteilung ist inzwischen Turnen und Fitness“.",
+      "evidence": "aber die größte Abteilung ist inzwischen Turnen und Fitness mit fast 400 Mitgliedern"
+    },
+    {
+      "n": 5,
+      "text": "Vor Frau Albrecht hat nie eine Frau den Verein geleitet.",
+      "answer": true,
+      "explanation": "„Ich bin die erste Frau an der Spitze des Vereins“ – before her, only men led the club for 68 years.",
+      "explanationDe": "„Ich bin die erste Frau an der Spitze des Vereins“ – vor ihr haben 68 Jahre lang nur Männer den Verein geleitet.",
+      "evidence": "Ich bin die erste Frau an der Spitze des Vereins"
+    },
+    {
+      "n": 6,
+      "text": "Weil Trainer fehlen, warten viele Kinder auf einen Platz im Schwimmkurs.",
+      "answer": true,
+      "explanation": "It is hard to find volunteer coaches, „deshalb“ more than 60 children are on the waiting list for swimming courses.",
+      "explanationDe": "Es ist schwer, ehrenamtliche Trainer zu finden, „deshalb“ stehen über 60 Kinder auf der Warteliste für die Schwimmkurse.",
+      "evidence": "Bei den Schwimmkursen haben wir deshalb im Moment eine Warteliste mit über 60 Kindern."
+    },
+    {
+      "n": 7,
+      "text": "Die Gemeinde bezahlt die Hälfte der Kosten für das neue Dach.",
+      "answer": true,
+      "explanation": "„Die Hälfte bezahlt die Gemeinde“ – the rest is to come from donations and a sponsored run in autumn.",
+      "explanationDe": "„Die Hälfte bezahlt die Gemeinde“ – der Rest soll durch Spenden und einen Spendenlauf im Herbst zusammenkommen.",
+      "evidence": "Die Hälfte bezahlt die Gemeinde"
+    },
+    {
+      "n": 8,
+      "text": "Für Kinder kostet die Mitgliedschaft 8 Euro im Monat.",
+      "answer": false,
+      "explanation": "8 euros is the price for adults; „Kinder die Hälfte“ – children pay 4 euros a month.",
+      "explanationDe": "Erwachsene bezahlen 8 Euro; „Kinder die Hälfte“ – Kinder zahlen also 4 Euro im Monat.",
+      "evidence": "Erwachsene bezahlen 8 Euro im Monat, Kinder die Hälfte."
+    },
+    {
+      "n": 9,
+      "text": "Beim Fußballspiel am Jubiläumstag spielt Herr Kowalski selbst mit.",
+      "answer": false,
+      "explanation": "„Nein, nein, dafür sind meine Knie zu alt“ – he will not play: „Aber ich bin der Schiedsrichter“.",
+      "explanationDe": "„Nein, nein, dafür sind meine Knie zu alt“ – er spielt nicht mit: „Aber ich bin der Schiedsrichter“.",
+      "evidence": "Aber ich bin der Schiedsrichter"
+    },
+    {
+      "n": 10,
+      "text": "Die alten Fotos von Mitgliedern kann man im Rathaus sehen.",
+      "answer": true,
+      "explanation": "„Die kann man ab Montag im Rathaus sehen“ – there was no room for the exhibition in the clubhouse.",
+      "explanationDe": "„Die kann man ab Montag im Rathaus sehen“ – im Vereinsheim war für die Ausstellung kein Platz.",
+      "evidence": "Die kann man ab Montag im Rathaus sehen."
+    }
+  ],
+  "glossary": [
+    { "de": "der/die Vorsitzende", "en": "chairperson" },
+    { "de": "gründen", "en": "to found" },
+    { "de": "die Wiese", "en": "meadow" },
+    { "de": "die Heuernte", "en": "hay harvest" },
+    { "de": "in einen Verein eintreten", "en": "to join a club" },
+    { "de": "die Abteilung", "en": "section, department" },
+    { "de": "an der Spitze", "en": "at the head, in charge" },
+    { "de": "die Warteliste", "en": "waiting list" },
+    { "de": "das Vereinsheim", "en": "clubhouse" },
+    { "de": "der Spendenlauf", "en": "sponsored run" },
+    { "de": "der Schiedsrichter", "en": "referee" }
+  ]
+}

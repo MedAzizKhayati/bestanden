@@ -1,0 +1,101 @@
+{
+  "id": "hoeren-3-02",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Einkaufen und Erledigungen",
+  "topic": "einkaufen",
+  "difficulty": 1,
+  "speakers": [
+    { "id": "markt", "gender": "m", "age": "adult", "role": "Durchsage im Supermarkt" },
+    { "id": "kaufhaus", "gender": "f", "age": "adult", "role": "Durchsage im Kaufhaus" },
+    { "id": "werkstatt", "name": "Kemal Demir", "gender": "m", "age": "adult", "role": "Autowerkstatt Kessler" },
+    { "id": "reinigung", "gender": "f", "age": "adult", "role": "Telefonansage" },
+    { "id": "radio", "gender": "m", "age": "young", "role": "Radiomoderator" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage im Supermarkt",
+      "script": [
+        { "s": "markt", "t": "Liebe Kundinnen und Kunden, in fünfzehn Minuten schließt unser Markt. Bitte gehen Sie langsam zu den Kassen." },
+        { "s": "markt", "t": "Unsere Frischetheke mit Wurst und Käse ist bereits geschlossen. Brot und Brötchen aus unserer Bäckerei bekommen Sie heute zum halben Preis." },
+        { "s": "markt", "t": "Wir danken für Ihren Einkauf und wünschen Ihnen einen schönen Abend." }
+      ],
+      "statement": "Brot aus der Bäckerei kostet heute nur die Hälfte.",
+      "answer": true,
+      "explanation": "„Brot und Brötchen aus unserer Bäckerei bekommen Sie heute zum halben Preis.“ Only the counter with sausage and cheese is already closed.",
+      "explanationDe": "„Brot und Brötchen aus unserer Bäckerei bekommen Sie heute zum halben Preis.“ Nur die Theke mit Wurst und Käse ist schon geschlossen.",
+      "evidence": "Brot und Brötchen aus unserer Bäckerei bekommen Sie heute zum halben Preis."
+    },
+    {
+      "n": 2,
+      "label": "Durchsage im Kaufhaus",
+      "script": [
+        { "s": "kaufhaus", "t": "Achtung, eine wichtige Durchsage: Die kleine Emma, vier Jahre alt, sucht ihre Mama und ihren Papa." },
+        { "s": "kaufhaus", "t": "Eine Kollegin hat Emma in der Spielzeugabteilung im dritten Stock gefunden. Jetzt wartet sie an der Information im Erdgeschoss, direkt neben dem Haupteingang." },
+        { "s": "kaufhaus", "t": "Emma trägt eine rote Jacke und hat einen kleinen Stoffhasen dabei. Die Eltern werden gebeten, ihre Tochter dort abzuholen." }
+      ],
+      "statement": "Die Eltern sollen Emma in der Spielzeugabteilung abholen.",
+      "answer": false,
+      "explanation": "Emma was found in the toy department, but „Jetzt wartet sie an der Information im Erdgeschoss“. Her parents must go there.",
+      "explanationDe": "Man hat Emma in der Spielzeugabteilung gefunden, aber: „Jetzt wartet sie an der Information im Erdgeschoss“. Dorthin müssen ihre Eltern gehen.",
+      "evidence": "Jetzt wartet sie an der Information im Erdgeschoss, direkt neben dem Haupteingang."
+    },
+    {
+      "n": 3,
+      "label": "Nachricht von der Autowerkstatt",
+      "script": [
+        { "s": "werkstatt", "t": "Guten Tag, Frau Lindner, hier ist Kemal Demir von der Autowerkstatt Kessler. Ihr Wagen ist fertig, Sie können ihn abholen." },
+        { "s": "werkstatt", "t": "Leider wird es etwas teurer als besprochen. Wir mussten auch die Bremsen erneuern, deshalb kostet die Reparatur jetzt 380 Euro statt 290 Euro." },
+        { "s": "werkstatt", "t": "Wir haben heute bis 18 Uhr geöffnet und morgen, am Samstag, von 8 bis 12 Uhr. Bis dann!" }
+      ],
+      "statement": "Frau Lindner kann ihr Auto auch am Samstagvormittag abholen.",
+      "answer": true,
+      "explanation": "The workshop is open „morgen, am Samstag, von 8 bis 12 Uhr“, so she can collect the car on Saturday morning.",
+      "explanationDe": "Die Werkstatt hat „morgen, am Samstag, von 8 bis 12 Uhr“ geöffnet, also kann sie das Auto am Samstagvormittag abholen.",
+      "evidence": "Wir haben heute bis 18 Uhr geöffnet und morgen, am Samstag, von 8 bis 12 Uhr."
+    },
+    {
+      "n": 4,
+      "label": "Telefonansage einer Reinigung",
+      "script": [
+        { "s": "reinigung", "t": "Herzlich willkommen bei der Textilreinigung Blitzblank. Leider rufen Sie außerhalb unserer Öffnungszeiten an." },
+        { "s": "reinigung", "t": "Wir sind montags bis freitags von 8 bis 18 Uhr für Sie da. Am Samstag bleibt unser Geschäft diese Woche wegen Renovierung geschlossen." },
+        { "s": "reinigung", "t": "Ihre fertige Wäsche können Sie aber am Samstag von 9 bis 13 Uhr in unserer Filiale in der Goethestraße abholen. Vielen Dank für Ihren Anruf." }
+      ],
+      "statement": "Am Samstag kann man seine Wäsche bis 18 Uhr abholen.",
+      "answer": false,
+      "explanation": "On Saturday the laundry can be collected in the branch only „von 9 bis 13 Uhr“. 18 Uhr is the closing time from Monday to Friday.",
+      "explanationDe": "Am Samstag kann man die Wäsche nur „von 9 bis 13 Uhr“ in der Filiale abholen. Um 18 Uhr schließt das Geschäft von Montag bis Freitag.",
+      "evidence": "Ihre fertige Wäsche können Sie aber am Samstag von 9 bis 13 Uhr in unserer Filiale in der Goethestraße abholen."
+    },
+    {
+      "n": 5,
+      "label": "Veranstaltungstipp im Radio",
+      "script": [
+        { "s": "radio", "t": "Und noch ein Tipp für Sonntag: In der Innenstadt ist verkaufsoffener Sonntag. Die Geschäfte haben von 13 bis 18 Uhr geöffnet." },
+        { "s": "radio", "t": "Wer nicht mit dem Auto kommen möchte, kann an diesem Tag alle Busse und Straßenbahnen in der Stadt kostenlos benutzen." },
+        { "s": "radio", "t": "Außerdem gibt es auf dem Marktplatz ab 14 Uhr Livemusik und ein Kinderkarussell." }
+      ],
+      "statement": "Am Sonntag kann man kostenlos mit dem Bus in die Stadt fahren.",
+      "answer": true,
+      "explanation": "On that Sunday you can use „alle Busse und Straßenbahnen in der Stadt kostenlos“ – free of charge.",
+      "explanationDe": "An diesem Sonntag kann man „alle Busse und Straßenbahnen in der Stadt kostenlos“ benutzen – man muss also nichts bezahlen.",
+      "evidence": "Wer nicht mit dem Auto kommen möchte, kann an diesem Tag alle Busse und Straßenbahnen in der Stadt kostenlos benutzen."
+    }
+  ],
+  "glossary": [
+    { "de": "die Frischetheke", "en": "fresh food counter" },
+    { "de": "zum halben Preis", "en": "at half price" },
+    { "de": "die Spielzeugabteilung", "en": "toy department" },
+    { "de": "das Erdgeschoss", "en": "ground floor" },
+    { "de": "die Bremse", "en": "brake" },
+    { "de": "erneuern", "en": "to replace, to renew" },
+    { "de": "die Reinigung", "en": "dry cleaner's" },
+    { "de": "außerhalb der Öffnungszeiten", "en": "outside opening hours" },
+    { "de": "die Filiale", "en": "branch (of a shop)" },
+    { "de": "der verkaufsoffene Sonntag", "en": "Sunday when shops are allowed to open" },
+    { "de": "kostenlos", "en": "free of charge" }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "trennbare-verben",
+  "level": "A2",
+  "category": "verben",
+  "order": 10,
+  "title": "Trennbare und untrennbare Verben",
+  "titleEn": "Separable and inseparable verbs",
+  "summary": "Prefixes like an-, auf- and ein- split off and go to the end of the sentence; be-, ver- and er- never do. Learn where the prefix goes and how to form the Perfekt.",
+  "summaryDe": "Präfixe wie an-, auf- und ein- trennen sich ab und stehen am Satzende – be-, ver- und er- nie. Lerne, wo das Präfix steht und wie du das Perfekt bildest.",
+  "examRelevance": ["lesen", "hoeren", "sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**Separable prefixes** (an-, auf-, aus-, ein-, mit-, zurück- …) are stressed and go to the end of a main clause: Ich **rufe** dich morgen **an**. **Inseparable prefixes** (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-) are unstressed, never separate and take no ge- in the Perfekt: Ich habe **bezahlt**.",
+      "mdDe": "**Trennbare Präfixe** (an-, auf-, aus-, ein-, mit-, zurück- …) sind betont und stehen im Hauptsatz am Ende: Ich **rufe** dich morgen **an**. **Untrennbare Präfixe** (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-) sind unbetont, trennen sich nie und bekommen im Perfekt kein ge-: Ich habe **bezahlt**."
+    },
+    {
+      "type": "text",
+      "heading": "Where does the prefix go?",
+      "headingDe": "Wo steht das Präfix?",
+      "md": "The position of a separable verb depends on the type of sentence:\n\n- **Main clause (Präsens, Präteritum):** the verb is in position 2, the prefix at the very end – Der Zug **kommt** um 9 Uhr **an**. / Der Zug **kam** pünktlich **an**.\n- **With a modal verb or werden:** the verb stays in one piece at the end – Ich **muss** morgen früh **aufstehen**.\n- **Subordinate clause:** the verb goes to the end and is written as one word – Ich weiß nicht, wann der Zug **ankommt**.\n- **Perfekt:** -ge- goes between prefix and stem – **eingekauft** (ein + ge + kauft), **angerufen**, **aufgestanden**.\n- **zu + infinitive:** zu goes between prefix and verb, all in one word – Vergiss nicht, mich **anzurufen**.\n- **Imperative:** the prefix goes to the end – **Ruf** mich bitte **an**!",
+      "mdDe": "Wo ein trennbares Verb steht, hängt vom Satztyp ab:\n\n- **Hauptsatz (Präsens, Präteritum):** Das Verb steht auf Position 2, das Präfix ganz am Ende – Der Zug **kommt** um 9 Uhr **an**. / Der Zug **kam** pünktlich **an**.\n- **Mit Modalverb oder werden:** Das Verb bleibt zusammen und steht am Ende – Ich **muss** morgen früh **aufstehen**.\n- **Nebensatz:** Das Verb steht am Ende und wird zusammengeschrieben – Ich weiß nicht, wann der Zug **ankommt**.\n- **Perfekt:** -ge- steht zwischen Präfix und Stamm – **eingekauft** (ein + ge + kauft), **angerufen**, **aufgestanden**.\n- **zu + Infinitiv:** zu steht zwischen Präfix und Verb, alles in einem Wort – Vergiss nicht, mich **anzurufen**.\n- **Imperativ:** Das Präfix steht am Ende – **Ruf** mich bitte **an**!"
+    },
+    {
+      "type": "table",
+      "heading": "Common separable verbs",
+      "headingDe": "Häufige trennbare Verben",
+      "columns": ["Präfix", "Verb", "Präsens", "Perfekt"],
+      "rows": [
+        ["ab-", "abholen", "Ich hole dich am Bahnhof ab.", "Ich habe dich am Bahnhof abgeholt."],
+        ["an-", "anrufen", "Er ruft seine Mutter an.", "Er hat seine Mutter angerufen."],
+        ["auf-", "aufstehen", "Sie steht um sechs Uhr auf.", "Sie ist um sechs Uhr aufgestanden."],
+        ["aus-", "aussteigen", "Wir steigen am Rathaus aus.", "Wir sind am Rathaus ausgestiegen."],
+        ["ein-", "einkaufen", "Ich kaufe samstags ein.", "Ich habe am Samstag eingekauft."],
+        ["mit-", "mitbringen", "Bringst du Brot mit?", "Hast du Brot mitgebracht?"],
+        ["vor-", "vorbereiten", "Wir bereiten das Fest vor.", "Wir haben das Fest vorbereitet."],
+        ["zu-", "zumachen", "Machst du bitte das Fenster zu?", "Hast du das Fenster zugemacht?"],
+        ["zurück-", "zurückgeben", "Ich gebe dir das Buch morgen zurück.", "Ich habe dir das Buch zurückgegeben."],
+        ["statt-", "stattfinden", "Das Fest findet im Park statt.", "Das Fest hat im Park stattgefunden."],
+        ["teil-", "teilnehmen", "Sie nimmt an einem Kurs teil.", "Sie hat an einem Kurs teilgenommen."],
+        ["fern-", "fernsehen", "Wir sehen abends fern.", "Wir haben gestern ferngesehen."]
+      ],
+      "note": "Other separable prefixes: bei-, fest-, her-, hin-, los-, nach-, weg-, weiter-, zusammen-. Note: vorbereiten has no ge- (vorbereitet), because bereiten already has the inseparable prefix be-.",
+      "noteDe": "Weitere trennbare Präfixe: bei-, fest-, her-, hin-, los-, nach-, weg-, weiter-, zusammen-. Achtung: vorbereiten hat kein ge- (vorbereitet), weil bereiten schon das untrennbare Präfix be- hat."
+    },
+    {
+      "type": "table",
+      "heading": "Inseparable verbs",
+      "headingDe": "Untrennbare Verben",
+      "columns": ["Präfix", "Verb", "Präsens", "Perfekt"],
+      "rows": [
+        ["be-", "bezahlen", "Ich bezahle mit Karte.", "Ich habe mit Karte bezahlt."],
+        ["emp-", "empfehlen", "Der Kellner empfiehlt den Fisch.", "Der Kellner hat den Fisch empfohlen."],
+        ["ent-", "entscheiden", "Die Chefin entscheidet morgen.", "Die Chefin hat noch nicht entschieden."],
+        ["er-", "erzählen", "Opa erzählt eine Geschichte.", "Opa hat eine Geschichte erzählt."],
+        ["ge-", "gefallen", "Die Stadt gefällt mir.", "Die Stadt hat mir gefallen."],
+        ["ver-", "vergessen", "Ich vergesse oft meinen Schlüssel.", "Ich habe meinen Schlüssel vergessen."],
+        ["zer-", "zerstören", "Der Sturm zerstört viele Bäume.", "Der Sturm hat viele Bäume zerstört."]
+      ],
+      "note": "Inseparable verbs have no ge- in the Partizip II, and zu is a separate word before the verb: zu bezahlen, zu erzählen.",
+      "noteDe": "Untrennbare Verben haben im Partizip II kein ge-, und zu steht als eigenes Wort vor dem Verb: zu bezahlen, zu erzählen."
+    },
+    {
+      "type": "text",
+      "heading": "Stress – and prefixes that can be both",
+      "headingDe": "Betonung – und Präfixe, die beides sein können",
+      "md": "You can hear the difference: separable prefixes are **stressed** (ANrufen, EINkaufen), inseparable prefixes are **unstressed** (beZAHlen, verSTEhen).\n\nThe prefixes **über-, um-, unter-, wieder-** and **durch-** can be separable or inseparable. Learn these common B1 verbs with their forms:\n\n- **umziehen** (to move house) – separable: Wir **ziehen** im Mai **um**. → Wir sind **umgezogen**.\n- **übersetzen** (to translate) – inseparable: Sie **übersetzt** den Brief. → Sie hat ihn **übersetzt**.\n- **unterschreiben** (to sign) – inseparable: Bitte **unterschreiben** Sie hier. → Ich habe **unterschrieben**.\n- **überweisen** (to transfer money) – inseparable: Ich **überweise** die Miete. → Ich habe die Miete **überwiesen**.\n- **wiederholen** (to repeat) – inseparable: Können Sie das bitte **wiederholen**? → Er hat die Prüfung **wiederholt**.",
+      "mdDe": "Du kannst den Unterschied hören: Trennbare Präfixe sind **betont** (ANrufen, EINkaufen), untrennbare Präfixe sind **unbetont** (beZAHlen, verSTEhen).\n\nDie Präfixe **über-, um-, unter-, wieder-** und **durch-** können trennbar oder untrennbar sein. Lerne diese häufigen B1-Verben mit ihren Formen:\n\n- **umziehen** (= in eine neue Wohnung ziehen) – trennbar: Wir **ziehen** im Mai **um**. → Wir sind **umgezogen**.\n- **übersetzen** (= in eine andere Sprache bringen) – untrennbar: Sie **übersetzt** den Brief. → Sie hat ihn **übersetzt**.\n- **unterschreiben** (= seinen Namen daruntersetzen) – untrennbar: Bitte **unterschreiben** Sie hier. → Ich habe **unterschrieben**.\n- **überweisen** (= Geld auf ein Konto schicken) – untrennbar: Ich **überweise** die Miete. → Ich habe die Miete **überwiesen**.\n- **wiederholen** (= noch einmal machen oder sagen) – untrennbar: Können Sie das bitte **wiederholen**? → Er hat die Prüfung **wiederholt**."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Der Kurs **fängt** am Montag um 18 Uhr **an**.", "en": "The course starts on Monday at 6 pm." },
+        { "de": "Kannst du mich bitte vom Bahnhof **abholen**?", "en": "Can you pick me up from the station, please?" },
+        { "de": "Ich glaube, dass der Film um 20 Uhr **anfängt**.", "en": "I think the film starts at 8 pm." },
+        { "de": "Wir **sind** letztes Jahr nach Graz **umgezogen**.", "en": "We moved to Graz last year." },
+        { "de": "Hast du die Miete schon **überwiesen**?", "en": "Have you transferred the rent yet?" },
+        { "de": "Vergiss nicht, die Heizung **auszumachen**!", "en": "Don't forget to turn off the heating!" },
+        { "de": "Die Ärztin **hat** mir ein Medikament **verschrieben**.", "en": "The doctor prescribed me some medicine." },
+        { "de": "**Bring** bitte etwas zu trinken **mit**!", "en": "Please bring something to drink!" },
+        { "de": "Der Zug **fuhr** mit zehn Minuten Verspätung **ab**.", "en": "The train left ten minutes late." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Lesen and Hören:** the meaning of a separable verb is only complete at the end of the sentence. „Frau Klein ruft Sie morgen …“ – only the last word tells you whether she will call you (**an**) or call you back (**zurück**).\n- **Sprachbausteine Teil 1:** you may have to choose between forms like „angerufen / anrufen / anruft“. Check the sentence: Perfekt → Partizip II, subordinate clause → verb in one piece at the end.\n- **Schreiben and Sprechen:** use separable verbs correctly in the Perfekt and in requests – „Ich habe gestern bei Ihnen angerufen, aber niemand ist ans Telefon gegangen.“ – „Könnten Sie mich bitte zurückrufen?“ – „Wer holt die Getränke ab?“",
+      "mdDe": "**In der Prüfung**\n\n- **Lesen und Hören:** Die Bedeutung eines trennbaren Verbs ist erst am Satzende komplett. „Frau Klein ruft Sie morgen …“ – erst das letzte Wort zeigt dir, ob sie dich anruft (**an**) oder zurückruft (**zurück**).\n- **Sprachbausteine Teil 1:** Vielleicht musst du zwischen Formen wie „angerufen / anrufen / anruft“ wählen. Prüf den Satz: Perfekt → Partizip II, Nebensatz → Verb zusammen am Ende.\n- **Schreiben und Sprechen:** Benutze trennbare Verben im Perfekt und in Bitten richtig – „Ich habe gestern bei Ihnen angerufen, aber niemand ist ans Telefon gegangen.“ – „Könnten Sie mich bitte zurückrufen?“ – „Wer holt die Getränke ab?“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** don't forget the prefix at the end of a long sentence, and put -ge- and zu in the right place: „Ich habe **eingekauft**“ (not „geeinkauft“), „Ich habe keine Lust, **einzukaufen**“ (not „zu einkaufen“). Inseparable verbs never get -ge-: „Ich habe **bezahlt**“ (not „gebezahlt“).",
+      "mdDe": "**Typische Falle:** Vergiss das Präfix am Ende eines langen Satzes nicht, und setz -ge- und zu an die richtige Stelle: „Ich habe **eingekauft**“ (nicht „geeinkauft“), „Ich habe keine Lust, **einzukaufen**“ (nicht „zu einkaufen“). Untrennbare Verben bekommen nie -ge-: „Ich habe **bezahlt**“ (nicht „gebezahlt“)."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich rufe an dich morgen.",
+      "right": "Ich rufe dich morgen an.",
+      "why": "In a main clause the separable prefix goes to the very end.",
+      "whyDe": "Im Hauptsatz steht das trennbare Präfix ganz am Ende."
+    },
+    {
+      "wrong": "Wir haben gestern geeinkauft.",
+      "right": "Wir haben gestern eingekauft.",
+      "why": "-ge- goes between the prefix and the stem: ein + ge + kauft.",
+      "whyDe": "-ge- steht zwischen Präfix und Stamm: ein + ge + kauft."
+    },
+    {
+      "wrong": "Ich habe die Rechnung gebezahlt.",
+      "right": "Ich habe die Rechnung bezahlt.",
+      "why": "Inseparable verbs (be-, ver-, er- …) have no ge- in the Partizip II.",
+      "whyDe": "Untrennbare Verben (be-, ver-, er- …) haben im Partizip II kein ge-."
+    },
+    {
+      "wrong": "Ich weiß nicht, wann der Zug kommt an.",
+      "right": "Ich weiß nicht, wann der Zug ankommt.",
+      "why": "In a subordinate clause the verb goes to the end and the prefix joins it again.",
+      "whyDe": "Im Nebensatz steht das Verb am Ende, und das Präfix ist wieder mit dem Verb verbunden."
+    },
+    {
+      "wrong": "Ich versuche, dich zu anrufen.",
+      "right": "Ich versuche, dich anzurufen.",
+      "why": "With separable verbs „zu“ goes between prefix and verb, written as one word.",
+      "whyDe": "Bei trennbaren Verben steht „zu“ zwischen Präfix und Verb – alles in einem Wort."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Der Zug ___ um 14:30 Uhr in Leipzig an.",
+      "options": ["kommt", "ankommt", "angekommen"],
+      "answer": 0,
+      "explanation": "Main clause: the conjugated verb „kommt“ is in position 2, and the prefix „an“ is already at the end.",
+      "explanationDe": "Hauptsatz: Das konjugierte Verb „kommt“ steht auf Position 2, und das Präfix „an“ steht schon am Ende."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe dich gestern dreimal ___, aber du warst nicht zu Hause.",
+      "options": ["angerufen", "geanrufen", "anrufen"],
+      "answer": 0,
+      "explanation": "Perfekt of a separable verb: -ge- goes between prefix and stem → „angerufen“.",
+      "explanationDe": "Perfekt eines trennbaren Verbs: -ge- steht zwischen Präfix und Stamm → „angerufen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Kellner hat uns die Gemüsesuppe ___.",
+      "options": ["empfohlen", "geempfohlen", "empfehlt"],
+      "answer": 0,
+      "explanation": "„empfehlen“ has the inseparable prefix emp-, so the Partizip II has no ge-: „empfohlen“.",
+      "explanationDe": "„empfehlen“ hat das untrennbare Präfix emp-, deshalb hat das Partizip II kein ge-: „empfohlen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Weißt du, wann der Film ___?",
+      "options": ["anfängt", "fängt an", "angefangen"],
+      "answer": 0,
+      "explanation": "An indirect question is a subordinate clause: the verb goes to the end and is written as one word – „anfängt“.",
+      "explanationDe": "Eine indirekte Frage ist ein Nebensatz: Das Verb steht am Ende und wird zusammengeschrieben – „anfängt“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Mein Wecker klingelt um sechs, aber ich stehe erst um halb sieben ___.",
+      "answers": ["auf"],
+      "explanation": "„aufstehen“ is separable – the prefix „auf“ goes to the end of the main clause.",
+      "explanationDe": "„aufstehen“ ist trennbar – das Präfix „auf“ steht am Ende des Hauptsatzes."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir sind letzten Monat in eine größere Wohnung ___.",
+      "answers": ["umgezogen"],
+      "hint": "(umziehen)",
+      "explanation": "„umziehen“ (to move house) is separable: Partizip II „umgezogen“, Perfekt with „sein“.",
+      "explanationDe": "„umziehen“ (= in eine neue Wohnung ziehen) ist trennbar: Partizip II „umgezogen“, Perfekt mit „sein“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bitte vergessen Sie nicht, das Formular ___.",
+      "answers": ["zu unterschreiben"],
+      "hint": "(unterschreiben, with zu)",
+      "hintDe": "(unterschreiben, mit zu)",
+      "explanation": "„unterschreiben“ is inseparable, so „zu“ is a separate word before the verb: „zu unterschreiben“.",
+      "explanationDe": "„unterschreiben“ ist untrennbar, deshalb steht „zu“ als eigenes Wort vor dem Verb: „zu unterschreiben“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich bin so müde. Ich habe keine Lust, heute noch ___.",
+      "answers": ["einzukaufen"],
+      "hint": "(einkaufen, with zu)",
+      "hintDe": "(einkaufen, mit zu)",
+      "explanation": "„einkaufen“ is separable, so „zu“ goes between prefix and verb, all in one word: „einzukaufen“.",
+      "explanationDe": "„einkaufen“ ist trennbar, deshalb steht „zu“ zwischen Präfix und Verb, alles in einem Wort: „einzukaufen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Hast du die Stromrechnung schon ___?",
+      "answers": ["bezahlt"],
+      "hint": "(bezahlen)",
+      "explanation": "be- is an inseparable prefix, so there is no ge- in the Partizip II: „bezahlt“.",
+      "explanationDe": "be- ist ein untrennbares Präfix, deshalb hat das Partizip II kein ge-: „bezahlt“."
+    },
+    {
+      "type": "order",
+      "words": ["zumachen?", "das", "du", "Kannst", "bitte", "Fenster"],
+      "answers": ["Kannst du das Fenster bitte zumachen?", "Kannst du bitte das Fenster zumachen?"],
+      "explanation": "With a modal verb the separable verb stays together as an infinitive at the end: „zumachen“.",
+      "explanationDe": "Mit einem Modalverb bleibt das trennbare Verb als Infinitiv zusammen und steht am Ende: „zumachen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the sentence into the Perfekt.",
+      "instructionDe": "Setz den Satz ins Perfekt.",
+      "prompt": "Das Sommerfest findet im Stadtpark statt.",
+      "answers": ["Das Sommerfest hat im Stadtpark stattgefunden."],
+      "explanation": "„stattfinden“ is separable: Partizip II „stattgefunden“, Perfekt with „haben“.",
+      "explanationDe": "„stattfinden“ ist trennbar: Partizip II „stattgefunden“, Perfekt mit „haben“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Start the sentence with „Ich weiß, dass …“.",
+      "instructionDe": "Beginne den Satz mit „Ich weiß, dass …“.",
+      "prompt": "Der Deutschkurs fängt um 18 Uhr an.",
+      "answers": ["Ich weiß, dass der Deutschkurs um 18 Uhr anfängt."],
+      "explanation": "In the „dass“-clause the verb goes to the end and the prefix joins it again: „anfängt“.",
+      "explanationDe": "Im „dass“-Satz steht das Verb am Ende, und das Präfix ist wieder mit dem Verb verbunden: „anfängt“."
+    }
+  ],
+  "related": ["perfekt", "satzbau-hauptsatz", "nebensaetze-grundlagen", "infinitiv-mit-zu", "imperativ"]
+}

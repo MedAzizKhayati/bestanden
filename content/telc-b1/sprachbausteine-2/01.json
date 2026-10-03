@@ -1,0 +1,116 @@
+{
+  "id": "sprachbausteine-2-01",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Ferienwohnung an der Ostsee",
+  "topic": "reisen",
+  "difficulty": 1,
+  "textType": "email-semiformal",
+  "stimulus": {
+    "heading": "Ferienwohnung „Seeblick“ in Warnemünde",
+    "lines": [
+      "2-Zimmer-Wohnung für 2–4 Personen, nur 200 m zum Strand",
+      "Balkon mit Meerblick, voll ausgestattete Küche, WLAN",
+      "Fahrräder kostenlos, Haustiere auf Anfrage",
+      "ab 85 Euro pro Nacht, Mindestaufenthalt 3 Nächte",
+      "Familie Brandt, Tel. 0381 552749"
+    ]
+  },
+  "text": "Sehr geehrte Frau Brandt,\n\nich habe Ihre Anzeige im Internet gelesen und interessiere mich sehr [[1]] Ihre Ferienwohnung in Warnemünde. Mein Mann und ich möchten im Sommer mit unserer Tochter eine Woche an der Ostsee verbringen. Wäre die Wohnung [[2]] 12. bis 19. Juli noch frei?\n\nIch habe noch einige Fragen. In der Anzeige steht, dass Haustiere nur auf Anfrage erlaubt sind. Wir haben einen kleinen Hund, der sehr ruhig ist. [[3]] wir ihn mitbringen? Außerdem würde ich gern wissen, [[4]] es in der Nähe einen Supermarkt gibt. Wir möchten nämlich meistens selbst kochen.\n\nDie kostenlosen Fahrräder sind für uns ideal, [[5]] wir gern Ausflüge in die Umgebung machen. Gibt es auch ein Kinderrad? Unsere Tochter ist acht Jahre [[6]].\n\nKönnten Sie mir bitte auch [[7]], wie viel die ganze Woche kostet? Muss man die Endreinigung [[8]] bezahlen?\n\nIch würde mich über eine [[9]] Antwort freuen. Für Ihre Mühe danke ich Ihnen schon im [[10]].\n\nMit freundlichen Grüßen\nSabine Kaltenbach",
+  "words": [
+    { "key": "a", "text": "alt" },
+    { "key": "b", "text": "an" },
+    { "key": "c", "text": "baldige" },
+    { "key": "d", "text": "dass" },
+    { "key": "e", "text": "dürfen" },
+    { "key": "f", "text": "für" },
+    { "key": "g", "text": "mitteilen" },
+    { "key": "h", "text": "müssen" },
+    { "key": "i", "text": "ob" },
+    { "key": "j", "text": "obwohl" },
+    { "key": "k", "text": "vom" },
+    { "key": "l", "text": "Voraus" },
+    { "key": "m", "text": "weil" },
+    { "key": "n", "text": "zum" },
+    { "key": "o", "text": "zusätzlich" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "f",
+      "explanation": "„sich interessieren für“ + accusative is a fixed combination: „interessiere mich sehr für Ihre Ferienwohnung“. „an“ is a trap – it belongs to the noun („Interesse an“), not to the verb.",
+      "explanationDe": "„sich interessieren für“ + Akkusativ ist eine feste Verbindung: „interessiere mich sehr für Ihre Ferienwohnung“. „an“ ist eine Falle – es gehört zum Nomen („Interesse an“), nicht zum Verb.",
+      "grammar": "verben-mit-praepositionen"
+    },
+    {
+      "n": 2,
+      "answer": "k",
+      "explanation": "A period between two dates is expressed with „vom … bis …“: „vom 12. bis 19. Juli“. „zum“ cannot be combined with „bis“ here.",
+      "explanationDe": "Einen Zeitraum zwischen zwei Daten drückt man mit „vom … bis …“ aus: „vom 12. bis 19. Juli“. „zum“ kann man hier nicht mit „bis“ kombinieren.",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 3,
+      "answer": "e",
+      "explanation": "Pets are only allowed „auf Anfrage“, so the writer asks for permission: „Dürfen wir ihn mitbringen?“ „müssen“ would ask whether they are obliged to bring the dog, which makes no sense.",
+      "explanationDe": "Haustiere sind nur „auf Anfrage“ erlaubt. Die Schreiberin fragt also um Erlaubnis: „Dürfen wir ihn mitbringen?“ Mit „müssen“ würde sie fragen, ob die Familie den Hund mitbringen muss – das ergibt keinen Sinn.",
+      "grammar": "modalverben"
+    },
+    {
+      "n": 4,
+      "answer": "i",
+      "explanation": "After „gern wissen“ a yes/no question becomes an indirect question with „ob“: „ob es in der Nähe einen Supermarkt gibt“. „dass“ would state a fact instead of asking.",
+      "explanationDe": "Nach „gern wissen“ wird eine Ja-/Nein-Frage zu einer indirekten Frage mit „ob“: „ob es in der Nähe einen Supermarkt gibt“. „dass“ würde eine Tatsache nennen, statt zu fragen.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 5,
+      "answer": "m",
+      "explanation": "The clause gives the reason why the free bikes are ideal, and the verb „machen“ is at the end, so you need „weil“. „obwohl“ also sends the verb to the end, but it expresses a contrast, which makes no sense here.",
+      "explanationDe": "Der Satz nennt den Grund, warum die kostenlosen Fahrräder ideal sind, und das Verb „machen“ steht am Ende. Du brauchst also „weil“. Auch bei „obwohl“ steht das Verb am Ende, aber es drückt einen Gegensatz aus – das ergibt hier keinen Sinn.",
+      "grammar": "kausale-konsekutive-saetze"
+    },
+    {
+      "n": 6,
+      "answer": "a",
+      "explanation": "Age is given with „… Jahre alt“: „Unsere Tochter ist acht Jahre alt.“",
+      "explanationDe": "Das Alter gibt man mit „… Jahre alt“ an: „Unsere Tochter ist acht Jahre alt.“"
+    },
+    {
+      "n": 7,
+      "answer": "g",
+      "explanation": "„jemandem etwas mitteilen“ means „to let someone know“: „Könnten Sie mir bitte auch mitteilen, wie viel …“. It is the only verb in the list that fits with „mir“ and a question clause.",
+      "explanationDe": "„jemandem etwas mitteilen“ (= jemanden über etwas informieren): „Könnten Sie mir bitte auch mitteilen, wie viel …“. Es ist das einzige Verb in der Liste, das zu „mir“ und einem Fragesatz passt."
+    },
+    {
+      "n": 8,
+      "answer": "o",
+      "explanation": "The writer wants to know whether the final cleaning costs extra on top of the price: „die Endreinigung zusätzlich bezahlen“.",
+      "explanationDe": "Die Schreiberin möchte wissen, ob sie für die Endreinigung zum Preis noch extra bezahlen muss: „die Endreinigung zusätzlich bezahlen“."
+    },
+    {
+      "n": 9,
+      "answer": "c",
+      "explanation": "„eine baldige Antwort“ (an early reply) is a typical phrase at the end of formal letters; the ending „-e“ matches „eine … Antwort“.",
+      "explanationDe": "„eine baldige Antwort“ (= eine Antwort, die bald kommt) ist eine typische Wendung am Ende formeller Briefe; die Endung „-e“ passt zu „eine … Antwort“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 10,
+      "answer": "l",
+      "explanation": "„im Voraus“ (in advance) is a fixed expression: „danke ich Ihnen schon im Voraus“.",
+      "explanationDe": "„im Voraus“ (= schon vorher) ist eine feste Wendung: „danke ich Ihnen schon im Voraus“."
+    }
+  ],
+  "glossary": [
+    { "de": "die Ferienwohnung", "en": "holiday flat" },
+    { "de": "auf Anfrage", "en": "on request" },
+    { "de": "sich interessieren für", "en": "to be interested in" },
+    { "de": "die Umgebung", "en": "surrounding area" },
+    { "de": "jemandem etwas mitteilen", "en": "to let someone know something" },
+    { "de": "die Endreinigung", "en": "final cleaning (when you leave)" },
+    { "de": "zusätzlich", "en": "additionally, extra" },
+    { "de": "eine baldige Antwort", "en": "an early reply" },
+    { "de": "im Voraus", "en": "in advance" }
+  ]
+}

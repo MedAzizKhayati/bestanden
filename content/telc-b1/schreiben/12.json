@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-12",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Eine Bitte der Nachbarin",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "register": "semiformal",
+  "situation": "Sie haben von Ihrer Nachbarin, Frau Gruber, folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Hannelore Gruber",
+    "subject": "Eine große Bitte",
+    "body": "Lieber Herr Rahimi,\n\nentschuldigen Sie bitte, dass ich Sie störe, aber ich habe eine große Bitte. Ich muss nächste Woche für eine Operation ins Krankenhaus und bleibe voraussichtlich bis zum 18. Mai dort. Könnten Sie in dieser Zeit meine Blumen auf dem Balkon gießen? Außerdem erwarte ich ein Paket mit Medikamenten. Wäre es möglich, dass Sie es für mich annehmen? Meinen Schlüssel würde ich Ihnen am Sonntag vorbeibringen.\n\nIch weiß, das ist viel verlangt. Natürlich möchte ich mich bei Ihnen bedanken, wenn ich wieder zu Hause bin.\n\nHerzliche Grüße\nHannelore Gruber"
+  },
+  "leitpunkte": [
+    "Wie Sie das Problem mit dem Paket lösen",
+    "Wann Frau Gruber den Schlüssel bringen kann",
+    "Was Sie ihr für die Operation wünschen",
+    "Was Sie zu den Blumen wissen möchten"
+  ],
+  "model": {
+    "subject": "Ihre Bitte – natürlich helfe ich Ihnen gern",
+    "text": "Liebe Frau Gruber,\n\nSie stören überhaupt nicht! Es tut mir leid, dass Sie operiert werden müssen. Ich wünsche Ihnen, dass alles gut geht und Sie bald wieder gesund sind.\n\nIhre Blumen gieße ich natürlich gern. Damit ich alles richtig mache, habe ich aber noch eine Frage: Wie oft brauchen die Pflanzen Wasser? Bei dem warmen Wetter vielleicht jeden Abend?\n\nMit dem Paket ist es leider etwas schwieriger, weil ich tagsüber arbeite und erst gegen 18 Uhr nach Hause komme. Mein Sohn Darius ist aber nachmittags meistens zu Hause. Ich sage ihm Bescheid, dann kann er das Paket für Sie annehmen.\n\nAm Sonntag sind wir bis zum späten Nachmittag bei Verwandten. Könnten Sie mir den Schlüssel deshalb lieber am Samstag oder am Sonntag nach 18 Uhr bringen? Dann können Sie mir auch gleich die Pflanzen zeigen.\n\nBitte machen Sie sich keine Gedanken wegen eines Dankeschöns. Unter Nachbarn hilft man sich doch gern!\n\nHerzliche Grüße\nHamid Rahimi"
+  },
+  "modelNotes": [
+    "The writer first reacts to the personal news (the operation) – polite and expected before turning to the practical points.",
+    "Every request gets a clear answer: yes to the plants (with a follow-up question), a solution for the parcel and a new time for the key.",
+    "Problems are explained and solved in the same paragraph: „Mit dem Paket ist es leider etwas schwieriger, weil … Mein Sohn … ist aber …“.",
+    "Sie-forms with a warm tone („Sie stören überhaupt nicht!“, „Unter Nachbarn hilft man sich doch gern!“) – semi-formal, but not stiff."
+  ],
+  "modelNotesDe": [
+    "Der Schreiber reagiert zuerst auf die persönliche Nachricht (die Operation) – das ist höflich und wird erwartet, bevor man zu den praktischen Punkten kommt.",
+    "Jede Bitte bekommt eine klare Antwort: Ja zu den Pflanzen (mit einer Rückfrage), eine Lösung für das Paket und eine neue Zeit für den Schlüssel.",
+    "Der Schreiber erklärt Probleme und löst sie im selben Absatz: „Mit dem Paket ist es leider etwas schwieriger, weil … Mein Sohn … ist aber …“.",
+    "Sie-Formen mit einem herzlichen Ton („Sie stören überhaupt nicht!“, „Unter Nachbarn hilft man sich doch gern!“) – halbformell, aber nicht steif."
+  ],
+  "phrases": [
+    { "de": "Sie stören überhaupt nicht!", "en": "You're not disturbing me at all!" },
+    { "de": "Ich wünsche Ihnen, dass alles gut geht.", "en": "I hope everything goes well for you." },
+    { "de": "Damit ich alles richtig mache, habe ich noch eine Frage.", "en": "So that I do everything right, I have one more question." },
+    { "de": "Mit … ist es leider etwas schwieriger, weil …", "en": "… is a bit more difficult, unfortunately, because …" },
+    { "de": "Könnten Sie mir den Schlüssel lieber am … bringen?", "en": "Could you bring me the key on … instead?" },
+    { "de": "Bitte machen Sie sich keine Gedanken.", "en": "Please don't worry about it." },
+    { "de": "Unter Nachbarn hilft man sich doch gern.", "en": "Neighbours are always happy to help each other." }
+  ],
+  "glossary": [
+    { "de": "gießen", "en": "to water (plants)" },
+    { "de": "voraussichtlich", "en": "probably, expected to" },
+    { "de": "ein Paket annehmen", "en": "to take in a parcel" },
+    { "de": "Das ist viel verlangt.", "en": "That's a lot to ask." },
+    { "de": "operiert werden", "en": "to have an operation" },
+    { "de": "die Verwandten (Pl.)", "en": "relatives" }
+  ]
+}

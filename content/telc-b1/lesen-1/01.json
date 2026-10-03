@@ -1,0 +1,81 @@
+{
+  "id": "lesen-1-01",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Unterwegs im Urlaub",
+  "topic": "reisen",
+  "difficulty": 1,
+  "headlines": [
+    { "key": "a", "text": "Buchtipp: Gemütliche Radtouren im Norden" },
+    { "key": "b", "text": "Nachtzüge: Ab Dezember weniger Verbindungen" },
+    { "key": "c", "text": "Studie: Österreicher machen weniger Urlaub" },
+    { "key": "d", "text": "Neue Verbindung: Über Nacht in die Niederlande" },
+    { "key": "e", "text": "Neues Buch: Die schönsten Bergtouren für Radfahrer" },
+    { "key": "f", "text": "Urlaubsort schenkt Gästen freie Fahrt" },
+    { "key": "g", "text": "Schwarzwald: Gäste parken ab Mai kostenlos" },
+    { "key": "h", "text": "Umfrage: Urlaub im eigenen Land immer beliebter" },
+    { "key": "i", "text": "Ärzte raten: Ältere Menschen sollten nicht mehr fliegen" },
+    { "key": "j", "text": "Ärztin erklärt: So bleiben Sie auf langen Flügen fit" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Ab dem 14. Dezember können Reisende im Schlaf von Zürich nach Amsterdam fahren. Der neue Nachtzug startet dreimal pro Woche um 20.15 Uhr in Zürich und kommt am nächsten Morgen um 9.30 Uhr in Amsterdam an. Unterwegs hält er unter anderem in Basel, Köln und Utrecht. Fahrgäste können zwischen einem normalen Sitzplatz, einem Platz im Liegewagen und einem Schlafabteil mit eigener Dusche wählen. Die günstigsten Tickets kosten 49 Euro. Auch Fahrräder können mitgenommen werden, man muss dafür aber rechtzeitig einen Platz reservieren.",
+      "answer": "d",
+      "explanation": "„Der neue Nachtzug“ travels overnight („im Schlaf“) from Zürich to Amsterdam, a city in the Netherlands, so (d). Headline (b) is a trap: the connection is new – the text does not say that there will be fewer trains.",
+      "explanationDe": "„Der neue Nachtzug“ fährt über Nacht („im Schlaf“) von Zürich nach Amsterdam. Amsterdam liegt in den Niederlanden, also passt (d). Überschrift (b) ist eine Falle: Die Verbindung ist neu – im Text steht nicht, dass es weniger Züge geben wird.",
+      "evidence": ["im Schlaf von Zürich nach Amsterdam fahren", "Der neue Nachtzug startet dreimal pro Woche"]
+    },
+    {
+      "n": 2,
+      "text": "Immer mehr Österreicherinnen und Österreicher verbringen ihren Sommerurlaub im eigenen Land. Das zeigt eine Umfrage des Grazer Instituts für Freizeitforschung. Insgesamt 41 Prozent der Befragten wollen in diesem Jahr in Österreich Urlaub machen, zum Beispiel an einem See in Kärnten oder in den Tiroler Bergen – im letzten Jahr waren es nur 33 Prozent. Als Gründe nennen viele die kürzere Anreise und die niedrigeren Kosten. Außerdem sagen die Befragten, dass sie im Inland weniger Stress haben, weil sie die Sprache sprechen und sich gut auskennen.",
+      "answer": "h",
+      "explanation": "The survey shows that more and more Austrians spend their summer holidays at home: „verbringen ihren Sommerurlaub im eigenen Land“ (41 instead of 33 percent), so (h). Headline (c) is wrong: people do not take less holiday, they simply stay in Austria.",
+      "explanationDe": "Die Umfrage zeigt, dass immer mehr Menschen in Österreich zu Hause Urlaub machen – sie „verbringen ihren Sommerurlaub im eigenen Land“ (41 statt 33 Prozent), also passt (h). Überschrift (c) ist falsch: Die Leute machen nicht weniger Urlaub, sie bleiben einfach in Österreich.",
+      "evidence": ["verbringen ihren Sommerurlaub im eigenen Land", "im letzten Jahr waren es nur 33 Prozent"]
+    },
+    {
+      "n": 3,
+      "text": "Wer gern Rad fährt, aber keine Lust auf steile Berge hat, findet im neuen Buch „Flach und schön“ von Jana Petersen viele Ideen. Die Autorin aus Lübeck stellt 25 Radtouren in Schleswig-Holstein und Niedersachsen vor. Die Strecken sind zwischen 20 und 60 Kilometer lang und führen meistens an Flüssen, Seen oder an der Küste entlang. Zu jeder Tour gibt es eine Karte und Tipps für Cafés und Badestellen. Das Buch ist besonders für Familien mit Kindern und für Anfänger gedacht. Es kostet 16,90 Euro.",
+      "answer": "a",
+      "explanation": "The book presents easy, flat bike tours in northern Germany („keine Lust auf steile Berge“, „Schleswig-Holstein und Niedersachsen“), so (a). Headline (e) says the opposite: the tours are not in the mountains.",
+      "explanationDe": "Das Buch stellt leichte, flache Radtouren in Norddeutschland vor („keine Lust auf steile Berge“, „Schleswig-Holstein und Niedersachsen“), also passt (a). Überschrift (e) sagt das Gegenteil: Die Touren führen nicht in die Berge.",
+      "evidence": ["keine Lust auf steile Berge", "stellt 25 Radtouren in Schleswig-Holstein und Niedersachsen vor"]
+    },
+    {
+      "n": 4,
+      "text": "Wer in der Gemeinde Lindenhain im Schwarzwald Urlaub macht, kann ab Mai sein Auto stehen lassen. Alle Gäste, die mindestens zwei Nächte in einem Hotel oder einer Ferienwohnung bleiben, bekommen die neue „Lindenhain-Karte“. Damit dürfen sie in der ganzen Region kostenlos Busse und Regionalzüge benutzen. Außerdem gibt es mit der Karte Ermäßigungen im Hallenbad und im Heimatmuseum. Die Gemeinde möchte so den Verkehr in den kleinen Orten reduzieren. Die Karte bekommen die Gäste direkt bei ihrer Unterkunft.",
+      "answer": "f",
+      "explanation": "With the new card, guests can use buses and regional trains „kostenlos“ – the holiday village gives them free travel, so (f). Headline (g) is a trap: the village wants people to leave their cars („sein Auto stehen lassen“); free parking is not mentioned.",
+      "explanationDe": "Mit der neuen Karte dürfen Gäste Busse und Regionalzüge „kostenlos“ benutzen – der Urlaubsort schenkt ihnen also freie Fahrt, deshalb passt (f). Überschrift (g) ist eine Falle: Der Ort möchte, dass die Gäste ihr Auto nicht benutzen („sein Auto stehen lassen“); kostenloses Parken wird nicht erwähnt.",
+      "evidence": ["kostenlos Busse und Regionalzüge benutzen", "kann ab Mai sein Auto stehen lassen"]
+    },
+    {
+      "n": 5,
+      "text": "Wer viele Stunden im Flugzeug sitzt, sollte auf seine Gesundheit achten. Das rät die Ärztin Dr. Miriam Lechner vom Reisemedizinischen Zentrum in Frankfurt. Ihr wichtigster Tipp: viel Wasser trinken und auf Alkohol und Kaffee möglichst verzichten. Außerdem sollten Passagiere ungefähr jede Stunde aufstehen und ein paar Schritte gehen. Auch auf dem Sitz kann man die Füße bewegen und so die Beine fit halten. Bequeme Kleidung und spezielle Strümpfe helfen zusätzlich. Besonders ältere Menschen sollten diese Tipps ernst nehmen.",
+      "answer": "j",
+      "explanation": "A doctor gives tips for long flights: drink water, stand up every hour, move your feet, so (j). Headline (i) exaggerates: older people should take the tips seriously („ernst nehmen“), not stop flying.",
+      "explanationDe": "Eine Ärztin gibt Tipps für lange Flüge: Wasser trinken, jede Stunde aufstehen, die Füße bewegen – also passt (j). Überschrift (i) übertreibt: Ältere Menschen sollen die Tipps „ernst nehmen“, aber nicht mit dem Fliegen aufhören.",
+      "evidence": ["viel Wasser trinken", "jede Stunde aufstehen und ein paar Schritte gehen"]
+    }
+  ],
+  "distractors": [
+    { "key": "b", "why": "Text 1 announces a new night train from Zürich to Amsterdam. Nothing is said about fewer connections – there is one more.", "whyDe": "Text 1 kündigt einen neuen Nachtzug von Zürich nach Amsterdam an. Von weniger Verbindungen ist keine Rede – es gibt sogar eine Verbindung mehr." },
+    { "key": "c", "why": "Text 2 is about where Austrians spend their holidays (more at home), not about taking less holiday. „weniger“ only appears in „weniger Stress“.", "whyDe": "In Text 2 geht es darum, wo die Menschen in Österreich Urlaub machen (öfter zu Hause), nicht darum, dass sie weniger Urlaub machen. „weniger“ kommt nur in „weniger Stress“ vor." },
+    { "key": "e", "why": "The book in text 3 is for people who do not want mountains: the tours are flat and meant for families and beginners.", "whyDe": "Das Buch in Text 3 ist für Menschen, die keine Berge wollen: Die Touren sind flach und für Familien und Anfänger gedacht." },
+    { "key": "g", "why": "Text 4 is about free buses and trains with the guest card. Parking is not mentioned – the idea is to use the car less.", "whyDe": "In Text 4 geht es um kostenlose Busse und Züge mit der Gästekarte. Parken wird nicht erwähnt – die Idee ist, das Auto weniger zu benutzen." },
+    { "key": "i", "why": "Text 5 says older people should take the tips seriously („diese Tipps ernst nehmen“), not that they should stop flying.", "whyDe": "In Text 5 steht, dass ältere Menschen „diese Tipps ernst nehmen“ sollen – nicht, dass sie mit dem Fliegen aufhören sollen." }
+  ],
+  "glossary": [
+    { "de": "der Nachtzug", "en": "night train" },
+    { "de": "das Schlafabteil", "en": "sleeping compartment" },
+    { "de": "rechtzeitig", "en": "in good time" },
+    { "de": "die Anreise", "en": "journey (to your destination)" },
+    { "de": "sich auskennen", "en": "to know your way around" },
+    { "de": "steil", "en": "steep" },
+    { "de": "die Unterkunft", "en": "accommodation" },
+    { "de": "die Ermäßigung", "en": "discount, reduction" },
+    { "de": "das Auto stehen lassen", "en": "to leave the car (parked / at home)" },
+    { "de": "auf etwas verzichten", "en": "to do without something" }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-11",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Ein Baby ist da!",
+  "topic": "familie",
+  "difficulty": 2,
+  "register": "informal",
+  "situation": "Sie haben von Ihrer Freundin Sophie folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Sophie",
+    "subject": "Emil ist da!",
+    "body": "Hallo,\n\nendlich ist es so weit: Am Dienstag ist unser Sohn Emil auf die Welt gekommen! Er wiegt 3400 Gramm und ist 51 Zentimeter groß. Uns beiden geht es gut, nur schlafen wir im Moment sehr wenig.\n\nFlorian hat zwei Wochen Urlaub genommen und kümmert sich um alles. Am Wochenende kommen meine Eltern aus Graz, um ihren ersten Enkel kennenzulernen. Wann hast du Zeit, uns in Wien zu besuchen? Ich würde mich sehr freuen!\n\nÜbrigens: Du hast doch selbst zwei Kinder. Hast du vielleicht ein paar Tipps, wie man als junge Eltern genug Schlaf bekommt?\n\nLiebe Grüße\nSophie"
+  },
+  "leitpunkte": [
+    "Welche Tipps Sie für die ersten Wochen haben",
+    "Wann Sie zu Besuch kommen können",
+    "Was Sie dem Baby schenken möchten",
+    "Ihre Glückwünsche zur Geburt"
+  ],
+  "model": {
+    "subject": "Herzlichen Glückwunsch zur Geburt von Emil!",
+    "text": "Liebe Sophie,\n\nwas für eine wunderbare Nachricht! Herzlichen Glückwunsch zur Geburt von Emil! Ich freue mich riesig für euch und hoffe, dass ihr die ersten Tage zu dritt genießt.\n\nNatürlich gebe ich dir gern ein paar Tipps. Am wichtigsten ist: Schlaf, wenn Emil schläft – auch tagsüber! Die Hausarbeit kann warten. Außerdem solltet ihr euch nachts abwechseln, damit wenigstens einer von euch ein paar Stunden durchschlafen kann. Bei uns hat das sehr gut funktioniert.\n\nDa deine Eltern am Wochenende kommen, möchte ich euch nicht stören. Wie wäre es mit dem übernächsten Samstag? Ich könnte nach dem Mittagessen vorbeikommen und einen Kuchen mitbringen, dann müsst ihr nichts vorbereiten.\n\nFür Emil habe ich schon ein Geschenk gefunden: eine weiche Decke und ein Bilderbuch aus Stoff. Meine Kinder haben so ein Buch geliebt, als sie klein waren.\n\nGib Emil einen dicken Kuss von mir! Ich kann es kaum erwarten, ihn kennenzulernen.\n\nAlles Liebe\nDeine Amira"
+  },
+  "modelNotes": [
+    "Warm congratulations open the e-mail; the tips answer Sophie's question directly; the visit and the present follow – a natural order for this occasion.",
+    "The writer reacts to a detail in Sophie's e-mail (the grandparents' visit), which makes the date proposal logical: „Da deine Eltern am Wochenende kommen, …“.",
+    "Advice is varied: an imperative („Schlaf, wenn …“), „Am wichtigsten ist …“, „solltet ihr …“ and „damit“ for the purpose.",
+    "Emotional informal phrases suit the occasion: „Ich freue mich riesig für euch“, „Gib Emil einen dicken Kuss von mir!“, „Alles Liebe“."
+  ],
+  "modelNotesDe": [
+    "Herzliche Glückwünsche eröffnen die E-Mail; die Tipps beantworten direkt Sophies Frage; danach folgen der Besuch und das Geschenk – eine natürliche Reihenfolge für diesen Anlass.",
+    "Die Schreiberin reagiert auf ein Detail aus Sophies E-Mail (den Besuch der Großeltern). Dadurch wird der Terminvorschlag logisch: „Da deine Eltern am Wochenende kommen, …“.",
+    "Die Ratschläge sind abwechslungsreich: ein Imperativ („Schlaf, wenn …“), „Am wichtigsten ist …“, „solltet ihr …“ und „damit“ für den Zweck.",
+    "Gefühlvolle informelle Redemittel passen zum Anlass: „Ich freue mich riesig für euch“, „Gib Emil einen dicken Kuss von mir!“, „Alles Liebe“."
+  ],
+  "phrases": [
+    { "de": "Herzlichen Glückwunsch zur Geburt von …!", "en": "Congratulations on the birth of …!" },
+    { "de": "Ich freue mich riesig für euch.", "en": "I'm so happy for you." },
+    { "de": "Am wichtigsten ist: …", "en": "The most important thing is: …" },
+    { "de": "Ihr solltet euch nachts abwechseln.", "en": "You should take turns at night." },
+    { "de": "Wie wäre es mit dem übernächsten Samstag?", "en": "How about Saturday after next?" },
+    { "de": "Ich könnte nach dem Mittagessen vorbeikommen.", "en": "I could drop by after lunch." },
+    { "de": "Ich kann es kaum erwarten, ihn kennenzulernen.", "en": "I can't wait to meet him." }
+  ],
+  "glossary": [
+    { "de": "auf die Welt kommen", "en": "to be born" },
+    { "de": "der Enkel", "en": "grandson" },
+    { "de": "sich abwechseln", "en": "to take turns" },
+    { "de": "durchschlafen", "en": "to sleep through" },
+    { "de": "vorbeikommen", "en": "to drop by" },
+    { "de": "übernächster Samstag", "en": "Saturday after next" }
+  ]
+}

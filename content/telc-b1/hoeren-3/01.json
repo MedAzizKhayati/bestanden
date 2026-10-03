@@ -1,0 +1,103 @@
+{
+  "id": "hoeren-3-01",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Unterwegs in den Ferien",
+  "topic": "reisen",
+  "difficulty": 1,
+  "speakers": [
+    { "id": "bahnhof", "gender": "f", "age": "adult", "role": "Lautsprecheransage" },
+    { "id": "flughafen", "gender": "m", "age": "adult", "role": "Lautsprecheransage" },
+    { "id": "verkehr", "gender": "m", "age": "adult", "role": "Radiosprecher" },
+    { "id": "pension", "name": "Margot Hollerbach", "gender": "f", "age": "senior", "role": "Pension Seeblick" },
+    { "id": "wetter", "gender": "f", "age": "adult", "role": "Wettermoderatorin" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage am Bahnhof",
+      "script": [
+        { "s": "bahnhof", "t": "Achtung an Gleis 4! Bitte beachten Sie eine Gleisänderung." },
+        { "s": "bahnhof", "t": "Der Intercity nach Berlin Hauptbahnhof, planmäßige Abfahrt 10 Uhr 52, fährt heute nicht von Gleis 4, sondern von Gleis 7 ab." },
+        { "s": "bahnhof", "t": "Der Zug hat etwa zehn Minuten Verspätung. Grund dafür ist eine technische Störung. Wir bitten um Entschuldigung." },
+        { "s": "bahnhof", "t": "Reisende mit Fahrrad steigen bitte in den letzten Wagen ein." }
+      ],
+      "statement": "Der Intercity nach Berlin fährt heute von Gleis 4 ab.",
+      "answer": false,
+      "explanation": "The train leaves „nicht von Gleis 4, sondern von Gleis 7“. Gleis 4 was only the planned platform.",
+      "explanationDe": "Der Zug fährt „nicht von Gleis 4, sondern von Gleis 7“ ab. Gleis 4 war nur das geplante Gleis.",
+      "evidence": "fährt heute nicht von Gleis 4, sondern von Gleis 7 ab"
+    },
+    {
+      "n": 2,
+      "label": "Durchsage am Flughafen",
+      "script": [
+        { "s": "flughafen", "t": "Meine Damen und Herren, für den Flug nach Palma de Mallorca, planmäßiger Abflug 11 Uhr 15, beginnt jetzt am Flugsteig B 14 das Einsteigen." },
+        { "s": "flughafen", "t": "Wir bitten zuerst Familien mit kleinen Kindern und Fluggäste, die Hilfe brauchen, zum Flugsteig zu kommen. Alle anderen Fluggäste werden in etwa zehn Minuten aufgerufen." },
+        { "s": "flughafen", "t": "Bitte halten Sie Ihre Bordkarte und Ihren Ausweis bereit." }
+      ],
+      "statement": "Familien mit kleinen Kindern dürfen als Erste einsteigen.",
+      "answer": true,
+      "explanation": "„Wir bitten zuerst Familien mit kleinen Kindern …“ to come to the gate. All other passengers are called about ten minutes later.",
+      "explanationDe": "„Wir bitten zuerst Familien mit kleinen Kindern …“, zum Flugsteig zu kommen. Alle anderen Fluggäste werden etwa zehn Minuten später aufgerufen.",
+      "evidence": "Wir bitten zuerst Familien mit kleinen Kindern und Fluggäste, die Hilfe brauchen, zum Flugsteig zu kommen."
+    },
+    {
+      "n": 3,
+      "label": "Verkehrsfunk im Radio",
+      "script": [
+        { "s": "verkehr", "t": "Und jetzt die Verkehrsmeldungen. Auf der A 7 zwischen Hamburg und Hannover gibt es nach einem Unfall acht Kilometer Stau." },
+        { "s": "verkehr", "t": "Die Polizei bittet, die Unfallstelle großräumig zu umfahren. Eine Umleitung ist über die Bundesstraße 3 ausgeschildert." },
+        { "s": "verkehr", "t": "Und Achtung auf der A 1 bei Bremen: Dort ist wegen einer Baustelle nur eine Spur frei, es kommt aber bisher kaum zu Verzögerungen." }
+      ],
+      "statement": "Auf der A 7 staut sich der Verkehr wegen einer Baustelle.",
+      "answer": false,
+      "explanation": "The traffic jam on the A 7 is there „nach einem Unfall“ – after an accident. The roadworks („Baustelle“) are on the A 1 near Bremen.",
+      "explanationDe": "Den Stau auf der A 7 gibt es „nach einem Unfall“ – also wegen eines Unfalls. Die „Baustelle“ ist auf der A 1 bei Bremen.",
+      "evidence": "Auf der A 7 zwischen Hamburg und Hannover gibt es nach einem Unfall acht Kilometer Stau."
+    },
+    {
+      "n": 4,
+      "label": "Nachricht auf dem Anrufbeantworter",
+      "script": [
+        { "s": "pension", "t": "Guten Tag, Herr Rinke, hier ist Margot Hollerbach von der Pension Seeblick in Lindau. Ich rufe wegen Ihrer Ankunft am Freitag an." },
+        { "s": "pension", "t": "Ihr Zimmer ist ab 15 Uhr fertig. Unsere Rezeption ist aber nur bis 20 Uhr besetzt." },
+        { "s": "pension", "t": "Wenn Sie später kommen, finden Sie Ihren Schlüssel in dem kleinen Kasten neben der Haustür. Mit dem Code 4 7 1 1 können Sie ihn öffnen." },
+        { "s": "pension", "t": "Frühstück gibt es von halb acht bis zehn. Gute Reise!" }
+      ],
+      "statement": "Wenn Herr Rinke nach 20 Uhr ankommt, holt er den Schlüssel aus einem Kasten.",
+      "answer": true,
+      "explanation": "The reception is staffed only until 20 Uhr. „Wenn Sie später kommen, finden Sie Ihren Schlüssel in dem kleinen Kasten neben der Haustür.“",
+      "explanationDe": "Die Rezeption ist nur bis 20 Uhr besetzt. „Wenn Sie später kommen, finden Sie Ihren Schlüssel in dem kleinen Kasten neben der Haustür.“",
+      "evidence": "Wenn Sie später kommen, finden Sie Ihren Schlüssel in dem kleinen Kasten neben der Haustür."
+    },
+    {
+      "n": 5,
+      "label": "Wetterbericht",
+      "script": [
+        { "s": "wetter", "t": "Und hier das Reisewetter für das Wochenende. Im Norden scheint am Samstag und am Sonntag meistens die Sonne, bei Temperaturen bis 23 Grad." },
+        { "s": "wetter", "t": "Im Süden dagegen bleibt es grau. Vor allem in den Alpen regnet es immer wieder, und es wird nicht wärmer als 15 Grad." },
+        { "s": "wetter", "t": "Erst ab Montag wird es dann auch dort freundlicher." }
+      ],
+      "statement": "Im Süden wird das Wetter am Wochenende sonnig.",
+      "answer": false,
+      "explanation": "The sun is forecast for the north. „Im Süden dagegen bleibt es grau“, with rain in the Alps – it only gets better from Monday.",
+      "explanationDe": "Laut Wetterbericht scheint die Sonne im Norden. „Im Süden dagegen bleibt es grau“, in den Alpen regnet es – besser wird es erst ab Montag.",
+      "evidence": "Im Süden dagegen bleibt es grau."
+    }
+  ],
+  "glossary": [
+    { "de": "die Gleisänderung", "en": "platform change" },
+    { "de": "planmäßig", "en": "scheduled" },
+    { "de": "die Störung", "en": "fault, disruption" },
+    { "de": "der Flugsteig", "en": "gate (at an airport)" },
+    { "de": "die Bordkarte", "en": "boarding pass" },
+    { "de": "die Umleitung", "en": "diversion, detour" },
+    { "de": "umfahren", "en": "to drive around, to avoid" },
+    { "de": "die Spur", "en": "lane" },
+    { "de": "die Ankunft", "en": "arrival" },
+    { "de": "besetzt sein", "en": "to be staffed; to be occupied" },
+    { "de": "der Kasten", "en": "box" }
+  ]
+}

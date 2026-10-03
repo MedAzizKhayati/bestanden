@@ -1,0 +1,226 @@
+{
+  "id": "kausale-konsekutive-saetze",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 4,
+  "title": "Gründe und Folgen: weil, da, denn, deshalb, sodass",
+  "titleEn": "Reasons and consequences",
+  "summary": "Give a reason with weil, da or denn – and a consequence with deshalb or sodass. Each connector has its own word order.",
+  "summaryDe": "Einen Grund nennst du mit weil, da oder denn – eine Folge mit deshalb oder sodass. Jeder Konnektor hat seine eigene Wortstellung.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Give a **reason** with **weil / da** (verb at the end) or **denn** (verb in position 2). Give a **consequence** with **deshalb / deswegen / darum / daher** (verb straight after them) or **sodass** (verb at the end).",
+      "mdDe": "Einen **Grund** nennst du mit **weil / da** (Verb am Ende) oder **denn** (Verb auf Position 2). Eine **Folge** nennst du mit **deshalb / deswegen / darum / daher** (Verb direkt danach) oder **sodass** (Verb am Ende)."
+    },
+    {
+      "type": "table",
+      "heading": "Reason or consequence – and where does the verb go?",
+      "headingDe": "Grund oder Folge – und wo steht das Verb?",
+      "columns": ["Connector", "Meaning", "Type", "Word order", "Example"],
+      "columnsDe": ["Konnektor", "Bedeutung", "Art", "Wortstellung", "Beispiel"],
+      "rows": [
+        ["weil", "because", "reason", "verb at the end", "Ich bleibe zu Hause, weil ich krank bin."],
+        ["da", "since, as", "reason (often already known)", "verb at the end", "Da der Zug ausfällt, nehmen wir den Bus."],
+        ["denn", "because, for", "reason", "position 0 – verb in position 2", "Ich bleibe zu Hause, denn ich bin krank."],
+        ["deshalb / deswegen / darum / daher", "that's why, so", "consequence", "position 1 – verb right after it", "Ich bin krank, deshalb bleibe ich zu Hause."],
+        ["sodass / so …, dass", "so that, with the result that", "consequence", "verb at the end", "Es hat stark geregnet, sodass das Spiel ausfallen musste."],
+        ["wegen (+ genitive)", "because of", "reason (preposition)", "followed by a noun, no verb", "Wegen des Regens ist das Spiel ausgefallen."]
+      ],
+      "rowsDe": [
+        ["weil", "aus dem Grund, dass …", "Grund", "Verb am Ende", "Ich bleibe zu Hause, weil ich krank bin."],
+        ["da", "weil", "Grund (oft schon bekannt)", "Verb am Ende", "Da der Zug ausfällt, nehmen wir den Bus."],
+        ["denn", "weil", "Grund", "Position 0 – Verb auf Position 2", "Ich bleibe zu Hause, denn ich bin krank."],
+        ["deshalb / deswegen / darum / daher", "aus diesem Grund", "Folge", "Position 1 – Verb direkt danach", "Ich bin krank, deshalb bleibe ich zu Hause."],
+        ["sodass / so …, dass", "mit der Folge, dass …", "Folge", "Verb am Ende", "Es hat stark geregnet, sodass das Spiel ausfallen musste."],
+        ["wegen (+ Genitiv)", "aufgrund", "Grund (Präposition)", "danach ein Nomen, kein Verb", "Wegen des Regens ist das Spiel ausgefallen."]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Reason: weil, da, denn",
+      "headingDe": "Grund: weil, da, denn",
+      "md": "**weil** is the most common way to give a reason – and the only one that can answer a „Warum?“ question on its own: „Warum kommst du nicht?“ – „**Weil** ich arbeiten muss.“\n\n**da** means the same, but it sounds more formal and usually stands at the **beginning** of the sentence, often for a reason the reader already knows: „**Da** Sie Ihr Paket nicht abgeholt haben, schicken wir es zurück.“\n\n**denn** connects two main clauses: the verb stays in position 2, and the denn clause always comes **after** the first clause.",
+      "mdDe": "**weil** ist die häufigste Art, einen Grund zu nennen – und die einzige, die allein auf eine „Warum?“-Frage antworten kann: „Warum kommst du nicht?“ – „**Weil** ich arbeiten muss.“\n\n**da** bedeutet dasselbe, klingt aber formeller und steht meistens am **Anfang** des Satzes, oft für einen Grund, der schon bekannt ist: „**Da** Sie Ihr Paket nicht abgeholt haben, schicken wir es zurück.“\n\n**denn** verbindet zwei Hauptsätze: Das Verb bleibt auf Position 2, und der denn-Satz steht immer **nach** dem ersten Satz."
+    },
+    {
+      "type": "text",
+      "heading": "Consequence: deshalb & co. and sodass",
+      "headingDe": "Folge: deshalb & Co. und sodass",
+      "md": "**deshalb, deswegen, darum** and **daher** all mean 'that's why / so'. They are adverbs: in position 1 the verb follows immediately and the subject comes after it: „Mein Auto ist kaputt. **Deshalb fahre ich** mit dem Bus.“ They can also stand in the middle field: „Ich fahre **deshalb** mit dem Bus.“\n\n**sodass** (also written **so dass**) starts a subordinate clause with the verb at the end: „Der Bus kam nicht, **sodass** wir ein Taxi nehmen **mussten**.“ With an adjective or adverb, you split it: „Ich war **so** müde, **dass** ich sofort eingeschlafen **bin**.“",
+      "mdDe": "**deshalb, deswegen, darum** und **daher** bedeuten alle ‚aus diesem Grund‘. Sie sind Verbindungsadverbien: Auf Position 1 folgt sofort das Verb, und das Subjekt kommt danach: „Mein Auto ist kaputt. **Deshalb fahre ich** mit dem Bus.“ Sie können auch im Mittelfeld stehen: „Ich fahre **deshalb** mit dem Bus.“\n\n**sodass** (auch **so dass** geschrieben) leitet einen Nebensatz mit dem Verb am Ende ein: „Der Bus kam nicht, **sodass** wir ein Taxi nehmen **mussten**.“ Mit einem Adjektiv oder Adverb teilst du es: „Ich war **so** müde, **dass** ich sofort eingeschlafen **bin**.“"
+    },
+    {
+      "type": "text",
+      "heading": "One idea – four sentences",
+      "headingDe": "Eine Idee – vier Sätze",
+      "md": "The same idea can be expressed in several ways – a great way to vary your sentences in Schreiben. Idea: *Ich habe Fieber. → Ich gehe nicht zur Arbeit.*\n\n- „**Weil** ich Fieber habe, gehe ich nicht zur Arbeit.“\n- „Ich gehe nicht zur Arbeit, **denn** ich habe Fieber.“\n- „Ich habe Fieber, **deshalb** gehe ich nicht zur Arbeit.“\n- „Ich habe **so** hohes Fieber, **dass** ich nicht zur Arbeit gehen kann.“",
+      "mdDe": "Dieselbe Idee kannst du auf verschiedene Arten ausdrücken – so bringst du im Schreiben Abwechslung in deine Sätze. Idee: *Ich habe Fieber. → Ich gehe nicht zur Arbeit.*\n\n- „**Weil** ich Fieber habe, gehe ich nicht zur Arbeit.“\n- „Ich gehe nicht zur Arbeit, **denn** ich habe Fieber.“\n- „Ich habe Fieber, **deshalb** gehe ich nicht zur Arbeit.“\n- „Ich habe **so** hohes Fieber, **dass** ich nicht zur Arbeit gehen kann.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Wir sind zu Fuß gegangen, **weil** das Wetter so schön **war**.", "en": "We walked because the weather was so nice." },
+        { "de": "**Da** die Heizung kaputt **ist**, bleibt das Büro heute geschlossen.", "en": "As the heating is broken, the office is closed today." },
+        { "de": "Ich gehe heute früh schlafen, **denn** ich **habe** morgen eine Prüfung.", "en": "I'm going to bed early today because I have an exam tomorrow." },
+        { "de": "Der Zug hatte Verspätung, **deshalb habe** ich den Anschluss verpasst.", "en": "The train was late, so I missed my connection." },
+        { "de": "Mia spart für eine Reise nach Kanada. **Darum arbeitet** sie am Wochenende im Café.", "en": "Mia is saving for a trip to Canada. That's why she works in a café at weekends." },
+        { "de": "Es hat die ganze Nacht geschneit, **sodass** viele Straßen gesperrt **waren**.", "en": "It snowed all night, so many roads were closed." },
+        { "de": "Der Film war **so** spannend, **dass** wir die Zeit ganz **vergessen haben**.", "en": "The film was so exciting that we completely forgot the time." },
+        { "de": "**Wegen** des Streiks fahren heute keine Busse.", "en": "Because of the strike, there are no buses today." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** Reasons and consequences are among the most frequently tested points in Sprachbausteine Teil 1. The three options are often „weil / denn / deshalb“ – and only the word order decides: verb at the end → „weil“; subject + verb → „denn“; verb right after the gap → „deshalb“. In Sprachbausteine Teil 2, „deshalb“, „darum“ or „wegen“ may be in the word bank – decide by meaning and by what follows (a noun after „wegen“).\n\nIn **Schreiben**, give a reason for your guiding points („Leider kann ich nicht kommen, weil …“) and use at least two different connectors. In **Sprechen** Teil 2, always support your opinion: „Ich bin dagegen, denn …“ / „Deshalb finde ich …“.",
+      "mdDe": "**In der Prüfung:** Gründe und Folgen gehören in Sprachbausteine Teil 1 zu den Themen, die am häufigsten geprüft werden. Die drei Möglichkeiten sind oft „weil / denn / deshalb“ – und nur die Wortstellung entscheidet: Verb am Ende → „weil“; Subjekt + Verb → „denn“; Verb direkt nach der Lücke → „deshalb“. In Sprachbausteine Teil 2 können „deshalb“, „darum“ oder „wegen“ im Kasten stehen – entscheide nach der Bedeutung und danach, was folgt (nach „wegen“ ein Nomen).\n\nNenn im **Schreiben** bei den Leitpunkten Gründe („Leider kann ich nicht kommen, weil …“) und verwende mindestens zwei verschiedene Konnektoren. Begründe in **Sprechen** Teil 2 immer deine Meinung: „Ich bin dagegen, denn …“ / „Deshalb finde ich …“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** „deshalb“ introduces the **consequence**, not the reason. „Ich bin müde, deshalb ich habe schlecht geschlafen“ is wrong twice: the logic is reversed and the verb is in the wrong place. Correct: „Ich habe schlecht geschlafen, **deshalb bin ich** müde.“ or „Ich bin müde, **weil** ich schlecht geschlafen **habe**.“",
+      "mdDe": "**Typische Falle:** „deshalb“ leitet die **Folge** ein, nicht den Grund. „Ich bin müde, deshalb ich habe schlecht geschlafen“ ist doppelt falsch: Die Logik ist umgedreht, und das Verb steht an der falschen Stelle. Richtig: „Ich habe schlecht geschlafen, **deshalb bin ich** müde.“ oder „Ich bin müde, **weil** ich schlecht geschlafen **habe**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe keinen Hunger, deshalb ich habe schon gegessen.",
+      "right": "Ich habe schon gegessen, deshalb habe ich keinen Hunger.",
+      "why": "„deshalb“ introduces the consequence (no hunger), not the reason – and the verb comes directly after it.",
+      "whyDe": "„deshalb“ leitet die Folge ein (kein Hunger), nicht den Grund – und das Verb steht direkt danach."
+    },
+    {
+      "wrong": "Es regnet, deshalb wir bleiben zu Hause.",
+      "right": "Es regnet, deshalb bleiben wir zu Hause.",
+      "why": "„deshalb“ takes position 1, so the verb must follow immediately.",
+      "whyDe": "„deshalb“ steht auf Position 1, also muss das Verb sofort folgen."
+    },
+    {
+      "wrong": "Ich lerne viel, denn ich eine gute Note bekommen will.",
+      "right": "Ich lerne viel, denn ich will eine gute Note bekommen.",
+      "why": "After „denn“ you use main-clause word order: verb in position 2.",
+      "whyDe": "Nach „denn“ kommt die Wortstellung des Hauptsatzes: Verb auf Position 2."
+    },
+    {
+      "wrong": "Denn der Bus nicht kam, bin ich zu Fuß gegangen.",
+      "right": "Da der Bus nicht kam, bin ich zu Fuß gegangen.",
+      "why": "A clause with „denn“ can't come first. To start with the reason, use „Da“ or „Weil“ (verb at the end).",
+      "whyDe": "Ein Satz mit „denn“ kann nicht am Anfang stehen. Wenn du mit dem Grund beginnen willst, nimm „Da“ oder „Weil“ (Verb am Ende)."
+    },
+    {
+      "wrong": "Wegen ich krank war, bin ich nicht gekommen.",
+      "right": "Weil ich krank war, bin ich nicht gekommen.",
+      "why": "„wegen“ is a preposition and needs a noun („wegen meiner Krankheit“). Before a clause with subject and verb, use „weil“.",
+      "whyDe": "„wegen“ ist eine Präposition und braucht ein Nomen („wegen meiner Krankheit“). Vor einem Satz mit Subjekt und Verb nimmst du „weil“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich habe meinen Schlüssel vergessen, ___ musste ich bei den Nachbarn klingeln.",
+      "options": ["weil", "denn", "deshalb"],
+      "answer": 2,
+      "explanation": "The verb „musste“ comes directly after the gap, so you need an adverb in position 1: „deshalb“. It introduces the consequence.",
+      "explanationDe": "Das Verb „musste“ steht direkt nach der Lücke, also brauchst du ein Adverb auf Position 1: „deshalb“. Es leitet die Folge ein."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich kann dir heute leider nicht helfen, ___ ich habe einen Arzttermin.",
+      "options": ["denn", "weil", "deshalb"],
+      "answer": 0,
+      "explanation": "Subject + verb in position 2 („ich habe“) → „denn“. With „weil“ the verb would be at the end; „deshalb“ would need the verb right after it.",
+      "explanationDe": "Subjekt + Verb auf Position 2 („ich habe“) → „denn“. Mit „weil“ müsste das Verb am Ende stehen; nach „deshalb“ müsste das Verb direkt folgen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich ziehe nach München, ___ ich dort eine neue Stelle gefunden habe.",
+      "options": ["denn", "darum", "weil"],
+      "answer": 2,
+      "explanation": "The conjugated verb „habe“ is at the end, so you need a subordinating connector: „weil“.",
+      "explanationDe": "Das konjugierte Verb „habe“ steht am Ende, also brauchst du einen Konnektor, der einen Nebensatz einleitet: „weil“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Vortrag war so langweilig, ___ einige Zuhörer eingeschlafen sind.",
+      "options": ["deshalb", "dass", "weil"],
+      "answer": 1,
+      "explanation": "„so + adjective …, dass“ expresses a consequence, and the verb goes to the end. „weil“ would reverse the logic.",
+      "explanationDe": "„so + Adjektiv …, dass“ drückt eine Folge aus, und das Verb steht am Ende. „weil“ würde die Logik umdrehen."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ des schlechten Wetters wurde das Stadtfest abgesagt.",
+      "options": ["Weil", "Wegen", "Deshalb"],
+      "answer": 1,
+      "explanation": "A noun in the genitive follows („des schlechten Wetters“) and there is no verb in this part → the preposition „Wegen“.",
+      "explanationDe": "Danach kommt ein Nomen im Genitiv („des schlechten Wetters“), und in diesem Teil gibt es kein Verb → die Präposition „Wegen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Kühlschrank war leer, ___ sind wir essen gegangen.",
+      "hint": "(consequence)",
+      "hintDe": "(Folge)",
+      "answers": ["deshalb", "deswegen", "darum", "daher", "also"],
+      "explanation": "The verb „sind“ follows directly, so you need a linking adverb for the consequence: „deshalb“ (or „deswegen“, „darum“, „daher“, „also“).",
+      "explanationDe": "Das Verb „sind“ folgt direkt, also brauchst du ein Verbindungsadverb für die Folge: „deshalb“ (oder „deswegen“, „darum“, „daher“, „also“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Martin geht nicht zur Party, ___ er morgen früh aufstehen muss.",
+      "hint": "(reason, verb at the end)",
+      "hintDe": "(Grund, Verb am Ende)",
+      "answers": ["weil", "da"],
+      "explanation": "The clause gives the reason and has the verb „muss“ at the end → „weil“ (also possible: „da“).",
+      "explanationDe": "Der Nebensatz nennt den Grund und hat das Verb „muss“ am Ende → „weil“ (auch möglich: „da“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Paket war sehr schwer, ___ ich es nicht allein tragen konnte.",
+      "hint": "(consequence, verb at the end)",
+      "hintDe": "(Folge, Verb am Ende)",
+      "answers": ["sodass", "so dass", "weshalb", "weswegen"],
+      "explanation": "The second clause is the consequence and has the verb at the end → „sodass“ (also written „so dass“).",
+      "explanationDe": "Der zweite Satz ist die Folge und hat das Verb am Ende → „sodass“ (auch „so dass“ geschrieben)."
+    },
+    {
+      "type": "order",
+      "words": ["übernachten", "Flug", "deshalb", "Unser", "Frankfurt.", "wir", "gestrichen,", "wurde", "in"],
+      "answers": ["Unser Flug wurde gestrichen, deshalb übernachten wir in Frankfurt.", "Unser Flug wurde gestrichen, wir übernachten deshalb in Frankfurt."],
+      "explanation": "After the comma comes the consequence. If „deshalb“ is in position 1, the verb „übernachten“ follows directly and the subject „wir“ comes after it.",
+      "explanationDe": "Nach dem Komma kommt die Folge. Wenn „deshalb“ auf Position 1 steht, folgt direkt das Verb „übernachten“, und danach kommt das Subjekt „wir“."
+    },
+    {
+      "type": "order",
+      "words": ["gekommen.", "habe,", "ich", "Weil", "bin", "verschlafen", "zu", "ich", "spät"],
+      "answers": ["Weil ich verschlafen habe, bin ich zu spät gekommen."],
+      "explanation": "The weil clause comes first with its verb „habe“ at the end. Then the main clause starts with the verb „bin“.",
+      "explanationDe": "Der weil-Satz steht zuerst, mit seinem Verb „habe“ am Ende. Dann beginnt der Hauptsatz mit dem Verb „bin“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „deshalb“.",
+      "instructionDe": "Verbinde die Sätze mit „deshalb“.",
+      "prompt": "Ich habe meinen Bus verpasst. Ich komme zu spät zur Arbeit.",
+      "answers": [
+        "Ich habe meinen Bus verpasst, deshalb komme ich zu spät zur Arbeit.",
+        "Ich habe meinen Bus verpasst. Deshalb komme ich zu spät zur Arbeit.",
+        "Ich habe meinen Bus verpasst, ich komme deshalb zu spät zur Arbeit.",
+        "Ich habe meinen Bus verpasst und komme deshalb zu spät zur Arbeit."
+      ],
+      "explanation": "Missing the bus is the reason, coming late the consequence. „deshalb“ in position 1 is followed directly by the verb: „deshalb komme ich“.",
+      "explanationDe": "Den Bus verpassen ist der Grund, zu spät kommen die Folge. Nach „deshalb“ auf Position 1 folgt direkt das Verb: „deshalb komme ich“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „weil“ instead of „denn“.",
+      "instructionDe": "Schreib den Satz mit „weil“ statt „denn“.",
+      "prompt": "Wir machen eine Pause, denn wir sind schon seit drei Stunden unterwegs.",
+      "answers": ["Wir machen eine Pause, weil wir schon seit drei Stunden unterwegs sind.", "Weil wir schon seit drei Stunden unterwegs sind, machen wir eine Pause."],
+      "explanation": "With „weil“ the conjugated verb „sind“ moves to the end of the clause.",
+      "explanationDe": "Mit „weil“ rückt das konjugierte Verb „sind“ ans Ende des Satzes."
+    }
+  ],
+  "related": ["nebensaetze-grundlagen", "konnektoren-hauptsatz", "verbindungsadverbien", "konzessive-saetze", "finale-saetze", "genitiv"]
+}

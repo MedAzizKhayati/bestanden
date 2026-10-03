@@ -1,0 +1,56 @@
+{
+  "id": "schreiben-13",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Mein neuer Job",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "register": "informal",
+  "situation": "Sie haben von Ihrem Freund Ben folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Ben",
+    "subject": "Wie ist der neue Job?",
+    "body": "Hallo,\n\nlange nichts von dir gehört! Du hast doch vor einem Monat deine neue Stelle in Basel angefangen. Wie gefällt es dir dort? Was genau machst du jetzt eigentlich den ganzen Tag? Und wie sind deine Kollegen – nett oder eher anstrengend? Ich hoffe, du musst nicht zu viele Überstunden machen.\n\nBei mir gibt es auch Neuigkeiten, aber das erzähle ich dir lieber persönlich. Wann hast du mal wieder Zeit, mich in Zürich zu besuchen?\n\nViele Grüße\nBen"
+  },
+  "leitpunkte": [
+    "Wie Ihre Kollegen sind",
+    "Wann Sie sich treffen können",
+    "Was Ihre Aufgaben sind",
+    "Wie Ihre Arbeitszeiten sind"
+  ],
+  "model": {
+    "subject": "Mein neuer Job im Krankenhaus",
+    "text": "Lieber Ben,\n\nschön, von dir zu hören! Entschuldige, dass ich mich so lange nicht gemeldet habe, aber der erste Monat im neuen Job war ziemlich anstrengend. Trotzdem kann ich sagen: Es gefällt mir sehr gut!\n\nWie du weißt, arbeite ich jetzt als Pflegefachmann in einem Krankenhaus. Ich kümmere mich um sechs bis acht Patienten, messe den Blutdruck, verteile Medikamente und trage alles in den Computer ein. Am schönsten finde ich die Gespräche mit den Patienten.\n\nMeine Kollegen sind zum Glück sehr nett. Im Team arbeiten Leute aus acht Ländern, und alle helfen sich gegenseitig. Besonders meine Kollegin Regula erklärt mir viel, wenn ich etwas nicht weiß.\n\nWeniger toll sind die Arbeitszeiten, denn ich arbeite im Schichtdienst. Die Frühschicht beginnt schon um 6 Uhr, und manchmal habe ich auch Nachtdienst. Überstunden mache ich aber nur selten.\n\nUnd jetzt bin ich wirklich neugierig auf deine Neuigkeiten! Am letzten Juniwochenende habe ich frei. Wollen wir uns am Samstag bei dir in Zürich treffen? Ich könnte mittags mit dem Zug kommen.\n\nViele Grüße\nDein Arjun"
+  },
+  "modelNotes": [
+    "The introduction apologises for the late reply and gives an overall impression – a natural start when a friend asks how things are going.",
+    "Each guiding point has its own paragraph with details and a personal evaluation („Am schönsten finde ich …“, „Weniger toll sind …“).",
+    "Linking words and phrases: „trotzdem“, „wie du weißt“, „zum Glück“, „wenn“, „denn“, „aber“.",
+    "The ending reacts to Ben's hint about his news and makes a concrete proposal, so the closing grows out of the content."
+  ],
+  "modelNotesDe": [
+    "In der Einleitung entschuldigt sich der Schreiber für die späte Antwort und gibt einen Gesamteindruck – ein natürlicher Anfang, wenn ein Freund fragt, wie es läuft.",
+    "Jeder Leitpunkt hat einen eigenen Absatz mit Details und einer persönlichen Bewertung („Am schönsten finde ich …“, „Weniger toll sind …“).",
+    "Konnektoren und verbindende Ausdrücke: „trotzdem“, „wie du weißt“, „zum Glück“, „wenn“, „denn“, „aber“.",
+    "Der Schluss reagiert auf Bens Andeutung über seine Neuigkeiten und macht einen konkreten Vorschlag – so ergibt sich das Ende aus dem Inhalt."
+  ],
+  "phrases": [
+    { "de": "Entschuldige, dass ich mich so lange nicht gemeldet habe.", "en": "Sorry I haven't been in touch for so long." },
+    { "de": "Wie du weißt, arbeite ich jetzt als …", "en": "As you know, I now work as …" },
+    { "de": "Ich kümmere mich um …", "en": "I take care of …" },
+    { "de": "Am schönsten finde ich …", "en": "What I like best is …" },
+    { "de": "Weniger toll sind die Arbeitszeiten.", "en": "The working hours are not so great." },
+    { "de": "Ich arbeite im Schichtdienst.", "en": "I work shifts." },
+    { "de": "Ich bin neugierig auf deine Neuigkeiten!", "en": "I'm curious to hear your news!" },
+    { "de": "Wollen wir uns am … treffen?", "en": "Shall we meet on …?" }
+  ],
+  "glossary": [
+    { "de": "der Pflegefachmann / die Pflegefachfrau", "en": "qualified nurse" },
+    { "de": "den Blutdruck messen", "en": "to take someone's blood pressure" },
+    { "de": "eintragen", "en": "to enter (data), to write down" },
+    { "de": "sich gegenseitig helfen", "en": "to help each other" },
+    { "de": "die Frühschicht", "en": "early shift" },
+    { "de": "der Nachtdienst", "en": "night shift" }
+  ]
+}

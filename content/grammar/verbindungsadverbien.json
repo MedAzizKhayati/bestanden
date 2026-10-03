@@ -1,0 +1,246 @@
+{
+  "id": "verbindungsadverbien",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 6,
+  "title": "Verbindungsadverbien: deshalb, trotzdem, außerdem, sonst",
+  "titleEn": "Linking adverbs",
+  "summary": "Linking adverbs such as deshalb, trotzdem, außerdem and sonst connect two main clauses. In position 1 they are followed directly by the verb.",
+  "summaryDe": "Verbindungsadverbien wie deshalb, trotzdem, außerdem und sonst verbinden zwei Hauptsätze. Stehen sie auf Position 1, folgt direkt danach das Verb.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Linking adverbs like **deshalb, trotzdem, außerdem** and **sonst** take **position 1** of the second main clause. So the **verb comes right after them**, and the subject follows the verb.",
+      "mdDe": "Verbindungsadverbien wie **deshalb, trotzdem, außerdem** und **sonst** stehen auf **Position 1** des zweiten Hauptsatzes. Deshalb **kommt das Verb direkt danach**, und das Subjekt folgt nach dem Verb."
+    },
+    {
+      "type": "text",
+      "heading": "Adverbs, not conjunctions",
+      "headingDe": "Adverbien, keine Konjunktionen",
+      "md": "Unlike „und, aber, denn“ (position 0), a linking adverb is a real **part of the sentence**. That's why it pushes the subject behind the verb – exactly like „morgen“ or „leider“ in position 1: „…, **außerdem habe ich** keine Zeit.“\n\nA linking adverb can also stand in the **middle field**, after the verb: „Ich habe **außerdem** keine Zeit.“ The meaning stays the same – choose whichever sounds better in your text.",
+      "mdDe": "Anders als „und, aber, denn“ (Position 0) ist ein Verbindungsadverb ein echtes **Satzglied**. Deshalb schiebt es das Subjekt hinter das Verb – genau wie „morgen“ oder „leider“ auf Position 1: „…, **außerdem habe ich** keine Zeit.“\n\nEin Verbindungsadverb kann auch im **Mittelfeld** stehen, nach dem Verb: „Ich habe **außerdem** keine Zeit.“ Die Bedeutung bleibt gleich – nimm die Variante, die in deinem Text besser klingt."
+    },
+    {
+      "type": "table",
+      "heading": "The most important linking adverbs",
+      "headingDe": "Die wichtigsten Verbindungsadverbien",
+      "columns": ["Adverb", "Meaning", "Example"],
+      "columnsDe": ["Adverb", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["deshalb / deswegen / darum / daher", "that's why, so – consequence", "Es ist spät, deshalb nehme ich ein Taxi."],
+        ["trotzdem / dennoch", "nevertheless, still – unexpected result", "Es ist spät, trotzdem gehe ich zu Fuß."],
+        ["außerdem / zudem", "besides, in addition", "Die Wohnung ist hell, außerdem hat sie einen Balkon."],
+        ["sonst", "otherwise – what happens if not", "Beeil dich, sonst verpassen wir den Zug."],
+        ["dann / danach / anschließend", "then, afterwards – sequence", "Wir essen zuerst, danach gehen wir ins Kino."],
+        ["also", "so, therefore (not English 'also'!)", "Der Laden ist zu, also kaufen wir morgen ein."],
+        ["stattdessen", "instead", "Wir fahren nicht weg, stattdessen renovieren wir die Wohnung."],
+        ["allerdings", "however, but", "Das Zimmer ist schön, allerdings ist es etwas laut."]
+      ],
+      "rowsDe": [
+        ["deshalb / deswegen / darum / daher", "aus diesem Grund – Folge", "Es ist spät, deshalb nehme ich ein Taxi."],
+        ["trotzdem / dennoch", "trotz allem – unerwartete Folge", "Es ist spät, trotzdem gehe ich zu Fuß."],
+        ["außerdem / zudem", "auch noch, zusätzlich", "Die Wohnung ist hell, außerdem hat sie einen Balkon."],
+        ["sonst", "andernfalls – was passiert, wenn nicht", "Beeil dich, sonst verpassen wir den Zug."],
+        ["dann / danach / anschließend", "später, als Nächstes – Reihenfolge", "Wir essen zuerst, danach gehen wir ins Kino."],
+        ["also", "folglich, deshalb (nicht das englische „also“!)", "Der Laden ist zu, also kaufen wir morgen ein."],
+        ["stattdessen", "anstelle davon", "Wir fahren nicht weg, stattdessen renovieren wir die Wohnung."],
+        ["allerdings", "aber, jedoch", "Das Zimmer ist schön, allerdings ist es etwas laut."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Two possible positions",
+      "headingDe": "Zwei mögliche Positionen",
+      "columns": ["Clause 1", "Position 1", "Verb", "Rest of the clause"],
+      "columnsDe": ["Satz 1", "Position 1", "Verb", "Rest des Satzes"],
+      "rows": [
+        ["Ich bin erkältet,", "deshalb", "bleibe", "ich heute zu Hause."],
+        ["Ich bin erkältet,", "ich", "bleibe", "deshalb heute zu Hause."],
+        ["Der Kurs ist günstig,", "außerdem", "ist", "er ganz in der Nähe."],
+        ["Nimm einen Regenschirm mit,", "sonst", "wirst", "du nass."],
+        ["Wir gehen zuerst einkaufen,", "dann", "kochen", "wir zusammen."]
+      ],
+      "note": "Between the two clauses you need a full stop, a comma or „und“: „Die Wohnung ist hell und außerdem ruhig.“",
+      "noteDe": "Zwischen den beiden Sätzen brauchst du einen Punkt, ein Komma oder „und“: „Die Wohnung ist hell und außerdem ruhig.“"
+    },
+    {
+      "type": "text",
+      "heading": "Watch the false friends",
+      "headingDe": "Achtung, falsche Freunde",
+      "md": "**also** means 'so / therefore', not 'also' (that's „auch“): „Das Museum ist montags geschlossen, **also** gehen wir am Dienstag.“\n\n**sonst** means 'otherwise' – it says what happens if something is **not** done: „Wir müssen jetzt los, **sonst** kommen wir zu spät.“\n\n**dann** is for a sequence or a consequence: „Erst arbeite ich, **dann** mache ich Pause.“ / „Wenn du müde bist, **dann** geh schlafen.“",
+      "mdDe": "**also** bedeutet „deshalb / folglich“ – nicht wie das englische *also* (das heißt auf Deutsch „auch“): „Das Museum ist montags geschlossen, **also** gehen wir am Dienstag.“\n\n**sonst** bedeutet „andernfalls“ – es sagt, was passiert, wenn etwas **nicht** gemacht wird: „Wir müssen jetzt los, **sonst** kommen wir zu spät.“\n\n**dann** steht für eine Reihenfolge oder eine Folge: „Erst arbeite ich, **dann** mache ich Pause.“ / „Wenn du müde bist, **dann** geh schlafen.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Das Wetter ist schlecht, **deshalb fahren** wir nicht an den See.", "en": "The weather is bad, so we're not going to the lake." },
+        { "de": "Die Fahrt dauert acht Stunden. **Trotzdem nehmen** wir lieber den Zug.", "en": "The journey takes eight hours. Even so, we'd rather take the train." },
+        { "de": "Das Fitnessstudio ist billig, **außerdem hat** es lange Öffnungszeiten.", "en": "The gym is cheap; besides, it has long opening hours." },
+        { "de": "Melde dich bis Freitag an, **sonst bekommst** du keinen Platz mehr.", "en": "Register by Friday, otherwise you won't get a place." },
+        { "de": "Zuerst habe ich gefrühstückt, **dann bin** ich zur Arbeit gefahren.", "en": "First I had breakfast, then I drove to work." },
+        { "de": "Herr Lindner war im Urlaub, **also konnte** er nicht an der Sitzung teilnehmen.", "en": "Mr Lindner was on holiday, so he couldn't attend the meeting." },
+        { "de": "Wir haben kein Auto, **stattdessen benutzen** wir Carsharing.", "en": "We don't have a car; instead we use car sharing." },
+        { "de": "Die Wohnung ist schön. **Allerdings ist** die Miete ziemlich hoch.", "en": "The flat is nice. However, the rent is quite high." },
+        { "de": "Ich habe **außerdem** noch eine Frage zur Anmeldung.", "en": "I also have a question about the registration." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In Sprachbausteine Teil 1 you often get options like „deshalb / trotzdem / obwohl“. The word order after the gap helps: if the **verb comes right after the gap**, you need an adverb („deshalb“, „trotzdem“), not „obwohl“ or „weil“. Then decide by meaning. In Sprachbausteine Teil 2, „außerdem“, „sonst“ and „deshalb“ are popular word-bank items.\n\nIn **Schreiben**, linking adverbs are the easiest way to connect your four guiding points: „Außerdem möchte ich fragen, …“, „Deshalb schlage ich vor, …“, „Trotzdem würde ich gern …“. They also stop you from starting every sentence with „Ich“ – both count for „Kommunikative Gestaltung“.",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 bekommst du oft Optionen wie „deshalb / trotzdem / obwohl“. Die Wortstellung nach der Lücke hilft: Wenn das **Verb direkt nach der Lücke kommt**, brauchst du ein Adverb („deshalb“, „trotzdem“), nicht „obwohl“ oder „weil“. Dann entscheidest du nach der Bedeutung. In Sprachbausteine Teil 2 sind „außerdem“, „sonst“ und „deshalb“ beliebte Wörter im Wortkasten.\n\nIm Teil **Schreiben** kannst du mit Verbindungsadverbien am leichtesten deine vier Leitpunkte verbinden: „Außerdem möchte ich fragen, …“, „Deshalb schlage ich vor, …“, „Trotzdem würde ich gern …“. So beginnst du auch nicht jeden Satz mit „Ich“ – beides zählt für „Kommunikative Gestaltung“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** keeping English word order after the adverb. „Außerdem ich habe eine Frage.“ is wrong – the verb comes first: „Außerdem **habe ich** eine Frage.“ And check the logic: **deshalb** = expected result, **trotzdem** = unexpected result, **sonst** = what happens if not.",
+      "mdDe": "**Typische Falle:** nach dem Adverb die englische Wortstellung benutzen. „Außerdem ich habe eine Frage.“ ist falsch – zuerst kommt das Verb: „Außerdem **habe ich** eine Frage.“ Und prüf die Logik: **deshalb** = erwartete Folge, **trotzdem** = unerwartete Folge, **sonst** = was passiert, wenn nicht."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe Hunger, deshalb ich mache mir ein Brot.",
+      "right": "Ich habe Hunger, deshalb mache ich mir ein Brot.",
+      "why": "„deshalb“ is in position 1 – the verb must come next.",
+      "whyDe": "„deshalb“ steht auf Position 1 – danach muss das Verb kommen."
+    },
+    {
+      "wrong": "Das Hotel ist zentral, außerdem es hat einen Pool.",
+      "right": "Das Hotel ist zentral, außerdem hat es einen Pool.",
+      "why": "After „außerdem“ in position 1: verb first, then the subject.",
+      "whyDe": "Nach „außerdem“ auf Position 1: zuerst das Verb, dann das Subjekt."
+    },
+    {
+      "wrong": "Ich spreche Englisch und also ein bisschen Französisch.",
+      "right": "Ich spreche Englisch und auch ein bisschen Französisch.",
+      "why": "German „also“ means 'so / therefore'. For English 'also', use „auch“.",
+      "whyDe": "Das deutsche „also“ bedeutet „deshalb / folglich“. Für das englische *also* nimmst du „auch“."
+    },
+    {
+      "wrong": "Zieh dich warm an, deshalb erkältest du dich.",
+      "right": "Zieh dich warm an, sonst erkältest du dich.",
+      "why": "The second clause says what happens if you do not follow the advice – that's „sonst“ ('otherwise').",
+      "whyDe": "Der zweite Satz sagt, was passiert, wenn du den Rat nicht befolgst – das ist „sonst“ (= andernfalls)."
+    },
+    {
+      "wrong": "Es war schon spät, trotzdem wir haben weitergearbeitet.",
+      "right": "Es war schon spät, trotzdem haben wir weitergearbeitet.",
+      "why": "„trotzdem“ in position 1 → the verb „haben“ follows directly.",
+      "whyDe": "„trotzdem“ auf Position 1 → das Verb „haben“ folgt direkt."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Der Kurs ist sehr gut, ___ findet er ganz in meiner Nähe statt.",
+      "options": ["sonst", "außerdem", "trotzdem"],
+      "answer": 1,
+      "explanation": "The second clause adds another positive point → „außerdem“ ('besides'). There is no contrast, so „trotzdem“ doesn't fit.",
+      "explanationDe": "Der zweite Satz nennt noch einen positiven Punkt → „außerdem“ (= zusätzlich). Es gibt keinen Gegensatz, deshalb passt „trotzdem“ nicht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Du musst jetzt losgehen, ___ verpasst du den Bus.",
+      "options": ["deshalb", "außerdem", "sonst"],
+      "answer": 2,
+      "explanation": "If you don't leave now, you'll miss the bus → „sonst“ ('otherwise').",
+      "explanationDe": "Wenn du jetzt nicht losgehst, verpasst du den Bus → „sonst“ (= andernfalls)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich hatte keine Zeit zum Kochen, ___ habe ich eine Pizza bestellt.",
+      "options": ["deshalb", "trotzdem", "sonst"],
+      "answer": 0,
+      "explanation": "Having no time to cook is the reason for ordering a pizza → the consequence adverb „deshalb“.",
+      "explanationDe": "Keine Zeit zum Kochen ist der Grund für die Pizza-Bestellung → das Adverb für die Folge: „deshalb“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mein Handy ist schon acht Jahre alt. ___ funktioniert es noch perfekt.",
+      "options": ["Deshalb", "Trotzdem", "Außerdem"],
+      "answer": 1,
+      "explanation": "You'd expect an old phone to have problems, but it still works → unexpected result: „Trotzdem“.",
+      "explanationDe": "Bei einem alten Handy erwartet man Probleme, aber es funktioniert noch → unerwartete Folge: „Trotzdem“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Wohnung ist zu klein, außerdem ___.",
+      "options": ["liegt sie an einer lauten Straße", "sie liegt an einer lauten Straße", "sie an einer lauten Straße liegt"],
+      "answer": 0,
+      "explanation": "„außerdem“ takes position 1, so the verb „liegt“ comes directly after it, followed by the subject „sie“.",
+      "explanationDe": "„außerdem“ steht auf Position 1, deshalb kommt das Verb „liegt“ direkt danach, dann das Subjekt „sie“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich muss morgen früh aufstehen, ___ gehe ich heute nicht mit ins Kino.",
+      "hint": "(consequence)",
+      "hintDe": "(Folge)",
+      "answers": ["deshalb", "deswegen", "darum", "daher", "also"],
+      "explanation": "Getting up early is the reason, staying at home the consequence → „deshalb“ (or „deswegen“, „darum“, „daher“, „also“). The verb „gehe“ follows directly.",
+      "explanationDe": "Früh aufstehen ist der Grund, zu Hause bleiben die Folge → „deshalb“ (oder „deswegen“, „darum“, „daher“, „also“). Das Verb „gehe“ folgt direkt."
+    },
+    {
+      "type": "gap",
+      "prompt": "Zieh eine Jacke an, ___ frierst du.",
+      "answers": ["sonst", "andernfalls"],
+      "explanation": "The second clause says what happens if you don't put on a jacket → „sonst“.",
+      "explanationDe": "Der zweite Satz sagt, was passiert, wenn du keine Jacke anziehst → „sonst“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir haben zuerst den Dom besichtigt, ___ sind wir am Rhein spazieren gegangen.",
+      "hint": "(afterwards)",
+      "hintDe": "(der nächste Schritt)",
+      "answers": ["danach", "dann", "anschließend", "später"],
+      "explanation": "„zuerst“ is followed by the next step → „danach“ (or „dann“, „anschließend“). The verb „sind“ comes right after the adverb.",
+      "explanationDe": "Nach „zuerst“ kommt der nächste Schritt → „danach“ (oder „dann“, „anschließend“). Das Verb „sind“ steht direkt nach dem Adverb."
+    },
+    {
+      "type": "order",
+      "words": ["mich", "klein,", "trotzdem", "Das", "fühle", "wohl.", "ich", "dort", "Zimmer", "ist"],
+      "answers": [
+        "Das Zimmer ist klein, trotzdem fühle ich mich dort wohl.",
+        "Das Zimmer ist klein, ich fühle mich dort trotzdem wohl.",
+        "Das Zimmer ist klein, ich fühle mich trotzdem dort wohl.",
+        "Das Zimmer ist klein, dort fühle ich mich trotzdem wohl."
+      ],
+      "explanation": "„trotzdem“ in position 1 → verb „fühle“, then the subject „ich“. In the middle field, „trotzdem“ comes after „ich fühle mich“.",
+      "explanationDe": "„trotzdem“ auf Position 1 → Verb „fühle“, dann das Subjekt „ich“. Im Mittelfeld steht „trotzdem“ nach „ich fühle mich“."
+    },
+    {
+      "type": "order",
+      "words": ["viel.", "keinen", "lesen", "Wir", "stattdessen", "abends", "haben", "wir", "Fernseher,"],
+      "answers": [
+        "Wir haben keinen Fernseher, stattdessen lesen wir abends viel.",
+        "Wir haben keinen Fernseher, wir lesen stattdessen abends viel.",
+        "Wir haben keinen Fernseher, wir lesen abends stattdessen viel.",
+        "Wir haben keinen Fernseher, abends lesen wir stattdessen viel."
+      ],
+      "explanation": "„stattdessen“ ('instead') in position 1 is followed by the verb „lesen“ and then the subject „wir“.",
+      "explanationDe": "Nach „stattdessen“ (= anstelle davon) auf Position 1 folgt das Verb „lesen“, dann das Subjekt „wir“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences. Start the second part with „außerdem“.",
+      "instructionDe": "Verbinde die Sätze. Beginne den zweiten Teil mit „außerdem“.",
+      "prompt": "Ich möchte an dem Kochkurs teilnehmen. Ich habe eine Frage zu den Kosten.",
+      "answers": [
+        "Ich möchte an dem Kochkurs teilnehmen, außerdem habe ich eine Frage zu den Kosten.",
+        "Ich möchte an dem Kochkurs teilnehmen. Außerdem habe ich eine Frage zu den Kosten."
+      ],
+      "explanation": "„außerdem“ adds a second point. In position 1 it is followed by the verb „habe“ and then the subject „ich“.",
+      "explanationDe": "„außerdem“ nennt einen zweiten Punkt. Auf Position 1 folgt direkt das Verb „habe“, dann das Subjekt „ich“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „sonst“. Start with „Du musst pünktlich sein, …“.",
+      "instructionDe": "Schreib den Satz mit „sonst“ um. Beginne mit „Du musst pünktlich sein, …“.",
+      "prompt": "Wenn du nicht pünktlich bist, fängt der Film ohne dich an.",
+      "answers": ["Du musst pünktlich sein, sonst fängt der Film ohne dich an."],
+      "explanation": "„sonst“ = 'if not'. It takes position 1, so the verb „fängt“ follows; the prefix „an“ stays at the end.",
+      "explanationDe": "„sonst“ = „wenn nicht“. Es steht auf Position 1, deshalb folgt das Verb „fängt“; das Präfix „an“ bleibt am Ende."
+    }
+  ],
+  "related": ["satzbau-hauptsatz", "konnektoren-hauptsatz", "kausale-konsekutive-saetze", "konzessive-saetze", "temporale-nebensaetze", "zweiteilige-konnektoren"]
+}

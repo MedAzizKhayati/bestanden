@@ -1,0 +1,51 @@
+export const settings = {
+  page: {
+    metaTitle: "Settings",
+    title: "Einstellungen",
+    description: "Language, timing, voices, goals and your data.",
+  },
+  language: {
+    title: "Language / Sprache",
+    hint: "Menus, buttons and explanations appear in this language. Exam texts and tasks always stay in German.",
+    showEnglish: "Show English translations",
+    showEnglishHint: "Show the English translation of German instructions, words and example sentences right away.",
+  },
+  timing: {
+    title: "Exam timing",
+    strict: "Strict timing",
+    strictHint:
+      "Timers auto-submit at zero and Hören runs as an uninterruptible exam simulation. Turn off to keep working after time is up (overtime is recorded).",
+  },
+  goals: {
+    title: "Goals",
+    examDate: "Exam date",
+    examDateHint: "Used for the countdown and your study plan.",
+    daily: "Daily goal",
+    dailyHint: "Practice minutes per day.",
+  },
+  voices: {
+    title: "Voices for listening tasks",
+    none: "No German voices found. Install one in your operating system (macOS: Settings → Accessibility → Spoken Content → System voice → Manage voices; Windows: Settings → Time & language → Speech) and reload. Chrome and Edge also offer high-quality online voices.",
+    female: "Female speakers",
+    male: "Male speakers",
+    auto: "Automatic (best available)",
+    online: "online",
+    test: "Test voice",
+    rate: (rate: string) => `Speech rate · ${rate}×`,
+    rateHint: "The real exam uses natural speed – train at 1.0× before your exam.",
+  },
+  data: {
+    title: "Your data",
+    hint: "Progress is stored in this browser only. Export it regularly or to move to another device.",
+    export: "Export progress",
+    import: "Import",
+    reset: "Reset everything",
+    resetTitle: "Delete all progress?",
+    resetText: "Attempts, mistakes, writing, flashcards and streaks will be deleted from this browser. Export first if you want a backup.",
+    delete: "Delete",
+    imported: "Progress imported",
+    deleted: "All progress deleted",
+    notExport: "Not a Bestanden export file",
+    unreadable: "This file could not be read.",
+  },
+};

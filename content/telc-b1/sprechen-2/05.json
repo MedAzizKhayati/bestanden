@@ -1,0 +1,99 @@
+{
+  "id": "sprechen-2-05",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Mit der Gruppe oder allein reisen?",
+  "topic": "reisen",
+  "difficulty": 2,
+  "theme": "Gruppenreisen oder Individualreisen",
+  "medium": "in einer Zeitung",
+  "cardA": {
+    "name": "Gisela Wendt",
+    "age": 67,
+    "job": "Rentnerin",
+    "quote": "Seit ich in Rente bin, reise ich zweimal im Jahr mit einer Reisegruppe. Ich muss mich um nichts kümmern: Hotel, Bus und Ausflüge sind schon organisiert, und die Reiseleiterin erklärt uns alles über das Land. Am schönsten finde ich aber, dass ich auf jeder Reise nette Menschen kennenlerne. Allein würde ich mich nicht in ein fremdes Land trauen."
+  },
+  "cardB": {
+    "name": "Tim Kessler",
+    "age": 25,
+    "job": "Student",
+    "quote": "Gruppenreisen sind für mich nichts. Ich plane meine Reisen lieber selbst und entscheide jeden Tag spontan, wohin ich fahre und wie lange ich bleibe. Letzten Sommer war ich mit dem Rucksack in Portugal und habe in kleinen Pensionen übernachtet. So lerne ich die Menschen und das echte Leben im Land kennen, nicht nur die Sehenswürdigkeiten."
+  },
+  "ideas": {
+    "pro": [
+      "alles ist organisiert, man hat keinen Stress",
+      "eine Reiseleitung erklärt Geschichte und Kultur",
+      "man lernt neue Leute kennen",
+      "oft günstiger durch Gruppenpreise",
+      "man fühlt sich in fremden Ländern sicherer",
+      "gut für Menschen, die die Sprache nicht sprechen"
+    ],
+    "contra": [
+      "fester Zeitplan, wenig Freiheit",
+      "man ist immer mit vielen Leuten zusammen",
+      "wenig Kontakt zu den Menschen im Land",
+      "man muss auf unpünktliche Mitreisende warten",
+      "man sieht nur die bekannten Sehenswürdigkeiten",
+      "man kann nicht spontan entscheiden"
+    ]
+  },
+  "questions": [
+    "Wie reisen Sie am liebsten? Warum?",
+    "Haben Sie schon einmal eine Gruppenreise gemacht? Wie war das?",
+    "Wie reisen die Menschen in Ihrem Heimatland?",
+    "Für wen sind Gruppenreisen besonders geeignet?",
+    "Was war Ihre schönste Reise?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Fernanda Lima", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Goran Petrović", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "A", "t": "Gut, dann fange ich an. Auf meinem Blatt berichtet Gisela Wendt über ihre Erfahrungen, sie ist 67 Jahre alt und Rentnerin." },
+    { "s": "A", "t": "Seit sie in Rente ist, reist sie zweimal im Jahr mit einer Reisegruppe. Sie findet es super, dass sie sich um nichts kümmern muss, weil Hotel, Bus und Ausflüge schon organisiert sind." },
+    { "s": "A", "t": "Außerdem erklärt die Reiseleiterin alles über das Land, und Frau Wendt lernt auf jeder Reise nette Menschen kennen. Allein würde sie sich nicht in ein fremdes Land trauen." },
+    { "s": "B", "t": "Vielen Dank. Mein Text ist von Tim Kessler, einem 25-jährigen Studenten. Für ihn sind Gruppenreisen gar nichts." },
+    { "s": "B", "t": "Herr Kessler plant seine Reisen lieber selbst und entscheidet spontan, wohin er fährt und wie lange er bleibt. Letzten Sommer war er zum Beispiel mit dem Rucksack in Portugal und hat in kleinen Pensionen übernachtet." },
+    { "s": "B", "t": "Er meint, dass er so die Menschen und das echte Leben im Land kennenlernt und nicht nur die Sehenswürdigkeiten." },
+    { "s": "A", "t": "Ich muss sagen, als ich jung war, habe ich genauso gedacht wie Herr Kessler. Ich bin mit einer Freundin ohne Plan mit dem Bus durch ganz Südamerika gereist. Wie reisen Sie denn am liebsten, Herr Petrović?" },
+    { "s": "B", "t": "Meistens allein oder mit meiner Frau, also ohne Gruppe. Ich mag es nicht, wenn mir jemand sagt, dass ich um sieben Uhr frühstücken und um acht im Bus sitzen muss." },
+    { "s": "A", "t": "Das verstehe ich gut. Aber haben Sie schon einmal eine Gruppenreise gemacht?" },
+    { "s": "B", "t": "Ja, einmal, eine Busreise nach Rom mit meinen Kollegen. Das Programm war sehr voll, und wir hatten kaum Zeit für uns. Aber ich muss zugeben, dass die Führungen sehr interessant waren." },
+    { "s": "A", "t": "Sehen Sie, das ist der Vorteil. Allein weiß man oft nicht so viel über die Geschichte eines Ortes." },
+    { "s": "B", "t": "Das stimmt. Wie ist das in Brasilien? Machen die Leute dort oft Gruppenreisen?" },
+    { "s": "A", "t": "Ja, ziemlich oft, besonders ältere Leute und Familien. Es gibt viele Busreisen zu den Stränden im Nordosten. Meine Eltern machen jedes Jahr so eine Reise und sind immer begeistert." },
+    { "s": "B", "t": "In Serbien ist das ähnlich. Meine Eltern sprechen keine Fremdsprachen, deshalb fahren sie nur mit einer Gruppe ins Ausland. Dann gibt es immer jemanden, der übersetzt." },
+    { "s": "A", "t": "Das ist ein wichtiger Punkt. Wenn man die Sprache nicht spricht, ist eine Gruppe eine große Hilfe. Ich glaube, deshalb fühlt sich auch Frau Wendt in der Gruppe sicher." },
+    { "s": "B", "t": "Da gebe ich Ihnen recht. Trotzdem finde ich, dass man bei einer Gruppenreise das Land oft nur durch das Busfenster sieht." },
+    { "s": "A", "t": "Teilweise ja. Aber es gibt auch kleine Gruppen, zum Beispiel Wanderreisen mit zehn Personen. Da hat man mehr Kontakt zu den Menschen und trotzdem keinen Stress mit der Organisation." },
+    { "s": "B", "t": "Das klingt gar nicht schlecht. So etwas würde ich vielleicht auch einmal ausprobieren." },
+    { "s": "P", "t": "Für wen sind Gruppenreisen Ihrer Meinung nach besonders geeignet?" },
+    { "s": "B", "t": "Ich denke, für Menschen, die allein sind und gern neue Leute kennenlernen wollen. Und für ältere Menschen, die nicht alles selbst organisieren möchten." },
+    { "s": "A", "t": "Und für alle, die wenig Zeit haben. Wer nur eine Woche Urlaub hat, möchte nicht zwei Tage lang Hotels und Züge suchen." },
+    { "s": "B", "t": "Genau. Am Ende kommt es darauf an, was man im Urlaub sucht: Erholung oder Abenteuer." }
+  ],
+  "phrases": [
+    { "de": "Auf meinem Blatt berichtet … über ihre Erfahrungen.", "en": "On my sheet, … talks about her experiences." },
+    { "de": "Für ihn sind Gruppenreisen gar nichts.", "en": "Group tours are not for him at all." },
+    { "de": "Ich muss sagen, …", "en": "I must say …" },
+    { "de": "Sehen Sie, das ist der Vorteil.", "en": "You see, that's the advantage." },
+    { "de": "Da gebe ich Ihnen recht.", "en": "I agree with you there." },
+    { "de": "Trotzdem finde ich, dass …", "en": "Nevertheless, I think that …" },
+    { "de": "Das klingt gar nicht schlecht.", "en": "That doesn't sound bad at all." },
+    { "de": "Am Ende kommt es darauf an, was …", "en": "In the end, it depends on what …" }
+  ],
+  "vocabulary": [
+    { "de": "die Gruppenreise", "en": "group tour, package tour" },
+    { "de": "die Reiseleiterin", "en": "tour guide (female)" },
+    { "de": "die Führung", "en": "guided tour" },
+    { "de": "die Sehenswürdigkeit", "en": "sight, tourist attraction" },
+    { "de": "die Pension", "en": "guesthouse" },
+    { "de": "sich um etwas kümmern", "en": "to take care of something" },
+    { "de": "sich trauen", "en": "to dare" },
+    { "de": "spontan", "en": "spontaneously" },
+    { "de": "übersetzen", "en": "to translate" },
+    { "de": "die Erholung", "en": "rest, relaxation" },
+    { "de": "das Abenteuer", "en": "adventure" }
+  ]
+}

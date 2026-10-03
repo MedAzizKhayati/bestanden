@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-07",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Das Kino im Dorf",
+  "topic": "kultur",
+  "difficulty": 2,
+  "article": {
+    "headline": "Film ab – dank 40 Freiwilligen",
+    "lead": "Vor fünf Jahren sollte das einzige Kino in Rabensdorf schließen. Heute wird es von Freiwilligen geführt – und ist öfter ausverkauft als früher.",
+    "paragraphs": [
+      "Das Lichtspielhaus Rabensdorf gibt es seit 1956. Generationen von Kindern haben hier ihre ersten Filme gesehen, viele Paare hatten im Kinosaal ihr erstes Rendezvous. Doch vor fünf Jahren wollte der damalige Besitzer, Franz Fasching, aufhören. Er war über 70, und das Kino brachte kaum noch Geld. „Die Leute sind lieber nach Wien in die großen Kinos gefahren oder haben die Filme zu Hause im Internet angeschaut“, erinnert er sich.",
+      "Dass es das Kino heute noch gibt, ist vor allem Elena Hofbauer zu verdanken. Die 31-jährige Grafikerin ist in Rabensdorf aufgewachsen und war gerade aus Wien zurückgekommen, als sie von den Plänen hörte. „Ich konnte mir das Dorf ohne Kino einfach nicht vorstellen“, sagt sie. Sie hängte im Gemeindeamt, in der Bäckerei und beim Arzt Zettel auf und lud zu einem Treffen ein. Sie hatte mit zehn Leuten gerechnet – es kamen über hundert.",
+      "Noch im selben Jahr gründeten die Freiwilligen einen Verein und mieteten das Kino von Herrn Fasching. Zuerst musste der Saal renoviert werden: Die alten Sitze waren kaputt, und die Technik war nicht mehr modern. Das Geld dafür kam zum größten Teil von den Bewohnerinnen und Bewohnern selbst. Wer 100 Euro spendete, durfte sich einen Sitz aussuchen, an dem heute ein kleines Schild mit seinem Namen hängt. Die Gemeinde übernimmt nur die Heizkosten.",
+      "Heute arbeiten rund 40 Freiwillige im Kino – an der Kasse, an der Bar oder im Vorführraum. Filme gibt es an vier Abenden pro Woche. Welche Filme gezeigt werden, entscheidet eine Gruppe, bei der jeder mitmachen kann. „Wir zeigen nicht nur Hollywood-Filme, sondern auch österreichische Produktionen und Dokumentarfilme“, erklärt Hofbauer. Am Sonntagnachmittag gibt es außerdem ein eigenes Programm für Kinder.",
+      "Besonders beliebt sind die Abende mit Gästen. Regelmäßig kommen Regisseurinnen oder Schauspieler aus Wien und sprechen nach dem Film mit dem Publikum. Einmal im Monat gibt es außerdem einen Heurigen-Kinoabend: Zuerst läuft ein Film, danach serviert ein Winzer aus dem Ort Wein und eine kleine Jause. Diese Abende sind fast immer ausverkauft.",
+      "Ganz ohne Sorgen ist der Verein trotzdem nicht. Viele Freiwillige haben Familie und Beruf und können nicht jede Woche helfen. „Wir brauchen dringend mehr junge Leute, die sich um die Technik kümmern“, sagt Hofbauer. Außerdem muss in den nächsten Jahren ein neuer Projektor gekauft werden. Er kostet rund 60.000 Euro.",
+      "Franz Fasching kommt übrigens immer noch regelmäßig ins Kino – als Gast. Er sitzt immer in der letzten Reihe, auf dem Platz, an dem die Freiwilligen ihm zum Dank ein Schild mit seinem Namen angebracht haben. „Ich habe gedacht, das Kino stirbt mit mir“, sagt er. „Jetzt ist hier mehr los als zu meiner Zeit.“"
+    ],
+    "source": "Der Weinviertler Bote"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Der frühere Besitzer wollte das Kino schließen, weil …",
+      "options": [
+        { "key": "a", "text": "er selbst lieber in Wien arbeiten wollte." },
+        { "key": "b", "text": "er zu alt war und das Kino zu wenig Geld brachte." },
+        { "key": "c", "text": "in Wien ein neues, großes Kino eröffnet worden war." }
+      ],
+      "answer": "b",
+      "explanation": "„Er war über 70, und das Kino brachte kaum noch Geld“, so (b). Vienna is mentioned because the audience preferred the big cinemas there – not because he wanted to work there (a) or because a new cinema had opened (c).",
+      "explanationDe": "„Er war über 70, und das Kino brachte kaum noch Geld“, also ist (b) richtig. Wien wird erwähnt, weil das Publikum lieber in die großen Kinos dort gefahren ist – nicht, weil er dort arbeiten wollte (a) oder weil ein neues Kino eröffnet hatte (c).",
+      "evidence": "Er war über 70, und das Kino brachte kaum noch Geld."
+    },
+    {
+      "n": 2,
+      "stem": "Zum ersten Treffen …",
+      "options": [
+        { "key": "a", "text": "hat der Bürgermeister alle Bewohner eingeladen." },
+        { "key": "b", "text": "kamen ungefähr zehn Personen." },
+        { "key": "c", "text": "kamen viel mehr Menschen, als Frau Hofbauer erwartet hatte." }
+      ],
+      "answer": "c",
+      "explanation": "„Sie hatte mit zehn Leuten gerechnet – es kamen über hundert“, so (c). Ten was only the number she expected (b). Frau Hofbauer invited people herself by putting up notes (one of them in the Gemeindeamt) – a mayor is not mentioned (a).",
+      "explanationDe": "„Sie hatte mit zehn Leuten gerechnet – es kamen über hundert“, also ist (c) richtig. Zehn war nur die Zahl, die sie erwartet hatte (b). Frau Hofbauer hat die Leute selbst mit Zetteln eingeladen (einer davon hing im Gemeindeamt) – ein Bürgermeister wird nicht erwähnt (a).",
+      "evidence": "Sie hatte mit zehn Leuten gerechnet – es kamen über hundert."
+    },
+    {
+      "n": 3,
+      "stem": "Die Renovierung wurde vor allem bezahlt …",
+      "options": [
+        { "key": "a", "text": "von den Menschen aus dem Ort." },
+        { "key": "b", "text": "vom früheren Besitzer des Kinos." },
+        { "key": "c", "text": "von der Gemeinde Rabensdorf." }
+      ],
+      "answer": "a",
+      "explanation": "„Das Geld dafür kam zum größten Teil von den Bewohnerinnen und Bewohnern selbst“, so (a). The municipality only pays the heating costs (c), and Herr Fasching rents the cinema to the association – he did not pay for the renovation (b).",
+      "explanationDe": "„Das Geld dafür kam zum größten Teil von den Bewohnerinnen und Bewohnern selbst“, also ist (a) richtig. Die Gemeinde zahlt nur die Heizkosten (c), und Herr Fasching vermietet das Kino an den Verein – die Renovierung hat er nicht bezahlt (b).",
+      "evidence": "Das Geld dafür kam zum größten Teil von den Bewohnerinnen und Bewohnern selbst."
+    },
+    {
+      "n": 4,
+      "stem": "Welche Filme im Kino laufen, …",
+      "options": [
+        { "key": "a", "text": "entscheidet Frau Hofbauer allein." },
+        { "key": "b", "text": "bestimmt eine Gruppe, die für alle offen ist." },
+        { "key": "c", "text": "wählen am Sonntag die Kinder aus." }
+      ],
+      "answer": "b",
+      "explanation": "„entscheidet eine Gruppe, bei der jeder mitmachen kann“, so (b). Frau Hofbauer only describes the programme (a). On Sunday afternoon there is a programme for children, but the children do not choose the films (c).",
+      "explanationDe": "Welche Filme laufen, „entscheidet eine Gruppe, bei der jeder mitmachen kann“, also ist (b) richtig. Frau Hofbauer beschreibt nur das Programm (a). Am Sonntagnachmittag gibt es ein Programm für Kinder, aber die Kinder wählen die Filme nicht aus (c).",
+      "evidence": "Welche Filme gezeigt werden, entscheidet eine Gruppe, bei der jeder mitmachen kann."
+    },
+    {
+      "n": 5,
+      "stem": "Was ist im Moment ein Problem für den Verein?",
+      "options": [
+        { "key": "a", "text": "Es fehlen junge Helferinnen und Helfer für die Technik." },
+        { "key": "b", "text": "Die Abende mit Gästen sind selten ausverkauft." },
+        { "key": "c", "text": "Der neue Projektor hat 60.000 Euro gekostet." }
+      ],
+      "answer": "a",
+      "explanation": "„Wir brauchen dringend mehr junge Leute, die sich um die Technik kümmern“, so (a). The special evenings are „fast immer ausverkauft“ (b). The new projector has not been bought yet – it must be bought „in den nächsten Jahren“ (c).",
+      "explanationDe": "„Wir brauchen dringend mehr junge Leute, die sich um die Technik kümmern“, also ist (a) richtig. Die besonderen Abende sind „fast immer ausverkauft“ (b). Der neue Projektor ist noch nicht gekauft – er muss „in den nächsten Jahren“ gekauft werden (c).",
+      "evidence": "Wir brauchen dringend mehr junge Leute, die sich um die Technik kümmern"
+    }
+  ],
+  "glossary": [
+    { "de": "das Lichtspielhaus (veraltet)", "en": "cinema (old-fashioned word)" },
+    { "de": "der Besitzer / die Besitzerin", "en": "owner" },
+    { "de": "jemandem etwas zu verdanken haben", "en": "to owe something to someone" },
+    { "de": "der Zettel", "en": "note, small sheet of paper" },
+    { "de": "mit etwas rechnen", "en": "to expect something" },
+    { "de": "spenden", "en": "to donate" },
+    { "de": "der Vorführraum", "en": "projection room" },
+    { "de": "der Heurige (österr.)", "en": "wine tavern serving local wine" },
+    { "de": "der Winzer", "en": "winemaker" },
+    { "de": "die Jause (österr.)", "en": "snack, light meal" },
+    { "de": "ausverkauft", "en": "sold out" }
+  ]
+}

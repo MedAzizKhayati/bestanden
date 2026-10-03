@@ -1,0 +1,258 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-geist-sans);
+  --font-reading: var(--font-literata);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+
+  /* Feedback */
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-gold: var(--gold);
+
+  /* Exam sections */
+  --color-lesen: var(--lesen);
+  --color-sprachbausteine: var(--sprachbausteine);
+  --color-hoeren: var(--hoeren);
+  --color-schreiben: var(--schreiben);
+  --color-sprechen: var(--sprechen);
+
+  /* Noun genders */
+  --color-der: var(--der);
+  --color-die: var(--die);
+  --color-das: var(--das);
+
+  /* Paper for exam texts */
+  --color-paper: var(--paper);
+  --color-paper-foreground: var(--paper-foreground);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+
+  --animate-pulse-ring: pulse-ring 1.6s cubic-bezier(0.2, 0.6, 0.4, 1) infinite;
+  --animate-bar: bar 0.9s ease-in-out infinite alternate;
+
+  @keyframes pulse-ring {
+    0% {
+      transform: scale(0.9);
+      opacity: 0.7;
+    }
+    100% {
+      transform: scale(1.6);
+      opacity: 0;
+    }
+  }
+  @keyframes bar {
+    0% {
+      transform: scaleY(0.25);
+    }
+    100% {
+      transform: scaleY(1);
+    }
+  }
+}
+
+:root {
+  --radius: 0.7rem;
+
+  --background: oklch(0.985 0.004 265);
+  --foreground: oklch(0.21 0.025 268);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.21 0.025 268);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.21 0.025 268);
+  --primary: oklch(0.51 0.21 270);
+  --primary-foreground: oklch(0.99 0.005 270);
+  --secondary: oklch(0.955 0.012 268);
+  --secondary-foreground: oklch(0.3 0.06 268);
+  --muted: oklch(0.962 0.008 265);
+  --muted-foreground: oklch(0.52 0.025 268);
+  --accent: oklch(0.95 0.03 270);
+  --accent-foreground: oklch(0.38 0.16 270);
+  --destructive: oklch(0.58 0.215 25);
+  --border: oklch(0.915 0.01 265);
+  --input: oklch(0.9 0.012 265);
+  --ring: oklch(0.6 0.19 270);
+
+  --success: oklch(0.6 0.15 152);
+  --success-foreground: oklch(0.99 0.01 152);
+  --warning: oklch(0.76 0.16 70);
+  --warning-foreground: oklch(0.3 0.08 60);
+  --gold: oklch(0.79 0.15 82);
+
+  --lesen: oklch(0.57 0.17 248);
+  --sprachbausteine: oklch(0.55 0.2 300);
+  --hoeren: oklch(0.6 0.12 192);
+  --schreiben: oklch(0.67 0.17 52);
+  --sprechen: oklch(0.6 0.2 12);
+
+  --der: oklch(0.55 0.17 250);
+  --die: oklch(0.58 0.2 15);
+  --das: oklch(0.57 0.14 152);
+
+  --paper: oklch(0.995 0.006 85);
+  --paper-foreground: oklch(0.22 0.02 60);
+
+  --chart-1: oklch(0.51 0.21 270);
+  --chart-2: oklch(0.6 0.12 192);
+  --chart-3: oklch(0.67 0.17 52);
+  --chart-4: oklch(0.6 0.2 12);
+  --chart-5: oklch(0.55 0.2 300);
+
+  --sidebar: oklch(0.975 0.006 265);
+  --sidebar-foreground: oklch(0.25 0.025 268);
+  --sidebar-primary: oklch(0.51 0.21 270);
+  --sidebar-primary-foreground: oklch(0.99 0.005 270);
+  --sidebar-accent: oklch(0.93 0.03 270);
+  --sidebar-accent-foreground: oklch(0.32 0.14 270);
+  --sidebar-border: oklch(0.915 0.01 265);
+  --sidebar-ring: oklch(0.6 0.19 270);
+}
+
+.dark {
+  --background: oklch(0.165 0.015 268);
+  --foreground: oklch(0.955 0.006 265);
+  --card: oklch(0.205 0.018 268);
+  --card-foreground: oklch(0.955 0.006 265);
+  --popover: oklch(0.215 0.02 268);
+  --popover-foreground: oklch(0.955 0.006 265);
+  --primary: oklch(0.7 0.16 272);
+  --primary-foreground: oklch(0.17 0.04 270);
+  --secondary: oklch(0.26 0.022 268);
+  --secondary-foreground: oklch(0.92 0.01 265);
+  --muted: oklch(0.245 0.02 268);
+  --muted-foreground: oklch(0.7 0.02 265);
+  --accent: oklch(0.29 0.05 272);
+  --accent-foreground: oklch(0.88 0.06 272);
+  --destructive: oklch(0.68 0.19 22);
+  --border: oklch(1 0 0 / 9%);
+  --input: oklch(1 0 0 / 14%);
+  --ring: oklch(0.66 0.15 272);
+
+  --success: oklch(0.7 0.15 152);
+  --success-foreground: oklch(0.18 0.04 152);
+  --warning: oklch(0.8 0.14 75);
+  --warning-foreground: oklch(0.22 0.05 60);
+  --gold: oklch(0.82 0.14 85);
+
+  --lesen: oklch(0.7 0.14 248);
+  --sprachbausteine: oklch(0.7 0.16 300);
+  --hoeren: oklch(0.74 0.11 192);
+  --schreiben: oklch(0.76 0.14 58);
+  --sprechen: oklch(0.72 0.16 12);
+
+  --der: oklch(0.72 0.14 250);
+  --die: oklch(0.72 0.16 15);
+  --das: oklch(0.74 0.13 152);
+
+  --paper: oklch(0.2 0.012 75);
+  --paper-foreground: oklch(0.93 0.012 85);
+
+  --chart-1: oklch(0.7 0.16 272);
+  --chart-2: oklch(0.74 0.11 192);
+  --chart-3: oklch(0.76 0.14 58);
+  --chart-4: oklch(0.72 0.16 12);
+  --chart-5: oklch(0.7 0.16 300);
+
+  --sidebar: oklch(0.185 0.016 268);
+  --sidebar-foreground: oklch(0.93 0.008 265);
+  --sidebar-primary: oklch(0.7 0.16 272);
+  --sidebar-primary-foreground: oklch(0.17 0.04 270);
+  --sidebar-accent: oklch(0.27 0.04 272);
+  --sidebar-accent-foreground: oklch(0.92 0.04 272);
+  --sidebar-border: oklch(1 0 0 / 8%);
+  --sidebar-ring: oklch(0.66 0.15 272);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "cv11", "ss01";
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  ::selection {
+    background: color-mix(in oklch, var(--primary) 22%, transparent);
+  }
+}
+
+@layer components {
+  /* Long-form exam texts (articles, letters, e-mails): a calm, book-like reading face. */
+  .reading {
+    font-family: var(--font-literata), Georgia, serif;
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    font-optical-sizing: auto;
+    hyphens: auto;
+    overflow-wrap: break-word;
+  }
+  .reading p + p {
+    margin-top: 0.85em;
+  }
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+  /* Evidence highlight in review mode */
+  mark.evidence {
+    background: color-mix(in oklch, var(--warning) 38%, transparent);
+    color: inherit;
+    border-radius: 0.2em;
+    padding: 0 0.1em;
+    box-decoration-break: clone;
+  }
+  .scrollbar-thin {
+    scrollbar-width: thin;
+  }
+}

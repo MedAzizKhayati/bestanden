@@ -1,0 +1,248 @@
+{
+  "id": "adjektive-mit-praepositionen",
+  "level": "B1",
+  "category": "adjektive",
+  "order": 4,
+  "title": "Adjektive mit Präpositionen",
+  "titleEn": "Adjectives with prepositions",
+  "summary": "Many adjectives need a fixed preposition – stolz auf, zufrieden mit, verantwortlich für – and the preposition decides the case.",
+  "summaryDe": "Viele Adjektive brauchen eine feste Präposition – stolz auf, zufrieden mit, verantwortlich für –, und die Präposition bestimmt den Kasus.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Some adjectives are always used with a **fixed preposition**: „Ich bin **stolz auf** meine Tochter.“ Learn adjective + preposition + case as one unit – the preposition is often different from English (proud **of** → stolz **auf**).",
+      "mdDe": "Manche Adjektive stehen immer mit einer **festen Präposition**: „Ich bin **stolz auf** meine Tochter.“ Lerne Adjektiv + Präposition + Kasus als eine Einheit – die Präposition ist oft anders als im Englischen (proud **of** → stolz **auf**)."
+    },
+    {
+      "type": "text",
+      "heading": "Which case?",
+      "headingDe": "Welcher Kasus?",
+      "md": "The preposition decides the case:\n\n- **mit, von, zu** always take the **dative**: „zufrieden **mit dem** Service“, „begeistert **von der** Idee“.\n- **für** and **gegen** always take the **accusative**: „verantwortlich **für den** Kurs“, „allergisch **gegen** Nüsse“.\n- With the two-way prepositions **auf, an, über, in** the fixed expression decides – it has nothing to do with Wo?/Wohin?. Most expressions with **auf** and **über** take the accusative („stolz **auf den** Sohn“, „froh **über die** Nachricht“). „interessiert **an**“ takes the dative, „gewöhnt **an**“ the accusative.\n\nThe prepositional phrase usually comes **before** the adjective at the end of the sentence: „Ich bin **mit der Wohnung** sehr **zufrieden**.“",
+      "mdDe": "Die Präposition bestimmt den Kasus:\n\n- Nach **mit, von, zu** steht immer der **Dativ**: „zufrieden **mit dem** Service“, „begeistert **von der** Idee“.\n- Nach **für** und **gegen** steht immer der **Akkusativ**: „verantwortlich **für den** Kurs“, „allergisch **gegen** Nüsse“.\n- Bei den Wechselpräpositionen **auf, an, über, in** entscheidet der feste Ausdruck – mit Wo?/Wohin? hat das nichts zu tun. Die meisten Ausdrücke mit **auf** und **über** haben den Akkusativ („stolz **auf den** Sohn“, „froh **über die** Nachricht“). Bei „interessiert **an**“ steht der Dativ, bei „gewöhnt **an**“ der Akkusativ.\n\nDer Ausdruck mit der Präposition steht meistens **vor** dem Adjektiv am Satzende: „Ich bin **mit der Wohnung** sehr **zufrieden**.“"
+    },
+    {
+      "type": "table",
+      "heading": "The most important adjectives with prepositions",
+      "headingDe": "Die wichtigsten Adjektive mit Präpositionen",
+      "columns": ["Adjektiv + Präposition", "Kasus", "English", "Beispiel"],
+      "columnsDe": ["Adjektiv + Präposition", "Kasus", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["abhängig von", "Dat", "dependent on", "Der Preis ist abhängig von der Saison."],
+        ["allergisch gegen", "Akk", "allergic to", "Mein Sohn ist allergisch gegen Nüsse."],
+        ["begeistert von", "Dat", "enthusiastic about", "Alle waren von dem Konzert begeistert."],
+        ["bekannt für", "Akk", "famous for", "Die Stadt ist für ihren Weihnachtsmarkt bekannt."],
+        ["bereit zu", "Dat", "ready for, willing to", "Wir sind zu einem Kompromiss bereit."],
+        ["böse auf", "Akk", "angry with", "Bist du noch böse auf mich?"],
+        ["dankbar für", "Akk", "grateful for", "Ich bin dir für deine Hilfe sehr dankbar."],
+        ["einverstanden mit", "Dat", "in agreement with, OK with", "Bist du mit dem Termin einverstanden?"],
+        ["enttäuscht von", "Dat", "disappointed with", "Ich bin von dem Hotel enttäuscht."],
+        ["fertig mit", "Dat", "finished with", "Bist du schon mit den Hausaufgaben fertig?"],
+        ["freundlich zu", "Dat", "friendly towards", "Die Verkäuferin war sehr freundlich zu uns."],
+        ["froh über", "Akk", "glad about", "Wir sind froh über die gute Nachricht."],
+        ["gewöhnt an", "Akk", "used to", "Ich bin noch nicht an das kalte Wetter gewöhnt."],
+        ["gut in", "Dat", "good at (a subject)", "Meine Tochter ist gut in Mathe."],
+        ["interessiert an", "Dat", "interested in", "Ich bin an dem Kurs sehr interessiert."],
+        ["neugierig auf", "Akk", "curious about", "Ich bin neugierig auf deine neue Wohnung."],
+        ["stolz auf", "Akk", "proud of", "Die Eltern sind stolz auf ihren Sohn."],
+        ["traurig über", "Akk", "sad about", "Sie ist traurig über den Abschied."],
+        ["typisch für", "Akk", "typical of", "Das ist typisch für ihn."],
+        ["überzeugt von", "Dat", "convinced of", "Ich bin von der Idee überzeugt."],
+        ["verantwortlich für", "Akk", "responsible for", "Herr Weber ist für die Planung verantwortlich."],
+        ["verheiratet mit", "Dat", "married to", "Sie ist mit einem Schweizer verheiratet."],
+        ["verliebt in", "Akk", "in love with", "Er ist in seine Kollegin verliebt."],
+        ["zufrieden mit", "Dat", "satisfied with", "Wir sind mit der Wohnung sehr zufrieden."],
+        ["zuständig für", "Akk", "in charge of", "Wer ist hier für die Anmeldung zuständig?"]
+      ],
+      "rowsDe": [
+        ["abhängig von", "Dat", "hängt von etwas ab", "Der Preis ist abhängig von der Saison."],
+        ["allergisch gegen", "Akk", "hat eine Allergie gegen etwas", "Mein Sohn ist allergisch gegen Nüsse."],
+        ["begeistert von", "Dat", "findet etwas toll", "Alle waren von dem Konzert begeistert."],
+        ["bekannt für", "Akk", "ist berühmt wegen etwas", "Die Stadt ist für ihren Weihnachtsmarkt bekannt."],
+        ["bereit zu", "Dat", "ist vorbereitet; will etwas tun", "Wir sind zu einem Kompromiss bereit."],
+        ["böse auf", "Akk", "ist wütend auf jemanden", "Bist du noch böse auf mich?"],
+        ["dankbar für", "Akk", "möchte für etwas Danke sagen", "Ich bin dir für deine Hilfe sehr dankbar."],
+        ["einverstanden mit", "Dat", "findet etwas in Ordnung, ist dafür", "Bist du mit dem Termin einverstanden?"],
+        ["enttäuscht von", "Dat", "hatte mehr erwartet von", "Ich bin von dem Hotel enttäuscht."],
+        ["fertig mit", "Dat", "hat etwas beendet", "Bist du schon mit den Hausaufgaben fertig?"],
+        ["freundlich zu", "Dat", "ist nett zu jemandem", "Die Verkäuferin war sehr freundlich zu uns."],
+        ["froh über", "Akk", "freut sich über etwas", "Wir sind froh über die gute Nachricht."],
+        ["gewöhnt an", "Akk", "findet etwas normal, kennt es gut", "Ich bin noch nicht an das kalte Wetter gewöhnt."],
+        ["gut in", "Dat", "ist stark in einem (Schul-)Fach", "Meine Tochter ist gut in Mathe."],
+        ["interessiert an", "Dat", "findet etwas interessant", "Ich bin an dem Kurs sehr interessiert."],
+        ["neugierig auf", "Akk", "möchte etwas bald sehen oder wissen", "Ich bin neugierig auf deine neue Wohnung."],
+        ["stolz auf", "Akk", "freut sich über eine Leistung", "Die Eltern sind stolz auf ihren Sohn."],
+        ["traurig über", "Akk", "ist unglücklich wegen etwas", "Sie ist traurig über den Abschied."],
+        ["typisch für", "Akk", "passt genau zu jemandem oder etwas", "Das ist typisch für ihn."],
+        ["überzeugt von", "Dat", "glaubt fest an etwas", "Ich bin von der Idee überzeugt."],
+        ["verantwortlich für", "Akk", "muss sich um etwas kümmern", "Herr Weber ist für die Planung verantwortlich."],
+        ["verheiratet mit", "Dat", "ist Ehemann oder Ehefrau von", "Sie ist mit einem Schweizer verheiratet."],
+        ["verliebt in", "Akk", "liebt jemanden", "Er ist in seine Kollegin verliebt."],
+        ["zufrieden mit", "Dat", "findet etwas gut so", "Wir sind mit der Wohnung sehr zufrieden."],
+        ["zuständig für", "Akk", "kümmert sich beruflich um etwas", "Wer ist hier für die Anmeldung zuständig?"]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Questions and short answers: worauf? – darauf",
+      "headingDe": "Fragen und kurze Antworten: worauf? – darauf",
+      "md": "- To ask about a **thing**, use **wo(r)- + preposition**: „**Worauf** bist du stolz?“ – „Auf meine Prüfung.“, „**Womit** sind Sie nicht zufrieden?“\n- To ask about a **person**, use preposition + question word: „**Auf wen** bist du böse?“, „**Mit wem** ist sie verheiratet?“\n- To refer back to a **thing**, use **da(r)- + preposition**: „Bist du mit dem Hotel zufrieden?“ – „Ja, ich bin sehr zufrieden **damit**.“\n- To refer back to a **person**, use preposition + pronoun: „Bist du stolz auf deinen Sohn?“ – „Ja, sehr stolz **auf ihn**.“\n\nAn **-r-** is added when the preposition starts with a vowel: dar-auf, wor-über, dar-an. A da-word can also announce a dass-clause or an infinitive: „Ich bin **dafür** verantwortlich, **dass** alle Gäste ein Zimmer bekommen.“, „Ich bin **daran** gewöhnt, früh aufzustehen.“",
+      "mdDe": "- Nach einer **Sache** fragst du mit **wo(r)- + Präposition**: „**Worauf** bist du stolz?“ – „Auf meine Prüfung.“, „**Womit** sind Sie nicht zufrieden?“\n- Nach einer **Person** fragst du mit Präposition + Fragewort: „**Auf wen** bist du böse?“, „**Mit wem** ist sie verheiratet?“\n- Auf eine **Sache** verweist du mit **da(r)- + Präposition** zurück: „Bist du mit dem Hotel zufrieden?“ – „Ja, ich bin sehr zufrieden **damit**.“\n- Auf eine **Person** verweist du mit Präposition + Pronomen zurück: „Bist du stolz auf deinen Sohn?“ – „Ja, sehr stolz **auf ihn**.“\n\nEin **-r-** kommt dazu, wenn die Präposition mit einem Vokal beginnt: dar-auf, wor-über, dar-an. Ein da-Wort kann auch einen dass-Satz oder einen Infinitiv ankündigen: „Ich bin **dafür** verantwortlich, **dass** alle Gäste ein Zimmer bekommen.“, „Ich bin **daran** gewöhnt, früh aufzustehen.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Wir sind **mit** unserer neuen Wohnung sehr **zufrieden**.", "en": "We are very satisfied with our new flat." },
+        { "de": "Meine Eltern sind sehr **stolz auf** mich.", "en": "My parents are very proud of me." },
+        { "de": "Ich bin Ihnen sehr **dankbar für** Ihre schnelle Hilfe.", "en": "I am very grateful to you for your quick help." },
+        { "de": "Frau Schulz ist **für** die neuen Mitarbeiter **verantwortlich**.", "en": "Ms Schulz is responsible for the new employees." },
+        { "de": "Bist du **an** einem Sprachkurs im Sommer **interessiert**?", "en": "Are you interested in a language course in the summer?" },
+        { "de": "Ich bin immer noch nicht **an** die frühen Arbeitszeiten **gewöhnt**.", "en": "I'm still not used to the early working hours." },
+        { "de": "Ich bin schon **neugierig auf** dein neues Auto.", "en": "I'm already curious about your new car." },
+        { "de": "**Worüber** bist du so **froh**? – Ich habe die Prüfung bestanden!", "en": "What are you so happy about? – I passed the exam!" },
+        { "de": "Er ist **damit einverstanden**, dass wir später kommen.", "en": "He is OK with us coming later." },
+        { "de": "Köln ist **für** seinen Karneval **bekannt**.", "en": "Cologne is famous for its carnival." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Don't translate the English preposition:** proud **of** = stolz **auf** (not „von“), interested **in** = interessiert **an** (not „in“), married **to** = verheiratet **mit** (not „zu“), angry **with** = böse **auf**. And compare the adjective with the reflexive verb – they use different prepositions: „Ich bin **an** Kunst interessiert.“ = „Ich interessiere mich **für** Kunst.“",
+      "mdDe": "**Übersetze die englische Präposition nicht:** proud **of** = stolz **auf** (nicht „von“), interested **in** = interessiert **an** (nicht „in“), married **to** = verheiratet **mit** (nicht „zu“), angry **with** = böse **auf**. Und vergleiche das Adjektiv mit dem reflexiven Verb – sie haben verschiedene Präpositionen: „Ich bin **an** Kunst interessiert.“ = „Ich interessiere mich **für** Kunst.“"
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 2** often gaps the preposition or the adjective of a fixed expression: „Ich bin Ihnen sehr dankbar **für** …“, „Ich bin **an** Ihrem Angebot interessiert.“ A word in the box may fit grammatically but not as a partner – only the fixed preposition is correct. **Sprachbausteine Teil 1** tests the case after the preposition: „zufrieden mit **dem / den / der** Service“.\n\n**Schreiben:** these phrases make semi-formal letters sound natural: „Ich bin **an** Ihrem Angebot sehr **interessiert**.“, „Leider bin ich **mit** der Reparatur nicht **zufrieden**.“, „Wer ist **für** die Rückzahlung **zuständig**?“ **Sprechen:** use them to give opinions and talk about experiences: „Ich bin **davon überzeugt**, dass …“",
+      "mdDe": "In **Sprachbausteine Teil 2** fehlt oft die Präposition oder das Adjektiv eines festen Ausdrucks: „Ich bin Ihnen sehr dankbar **für** …“, „Ich bin **an** Ihrem Angebot interessiert.“ Ein Wort im Kasten passt vielleicht grammatisch, aber nicht als Partner – richtig ist nur die feste Präposition. **Sprachbausteine Teil 1** prüft den Kasus nach der Präposition: „zufrieden mit **dem / den / der** Service“.\n\n**Schreiben:** Mit diesen Ausdrücken klingen halbformelle Briefe natürlich: „Ich bin **an** Ihrem Angebot sehr **interessiert**.“, „Leider bin ich **mit** der Reparatur nicht **zufrieden**.“, „Wer ist **für** die Rückzahlung **zuständig**?“ **Sprechen:** Damit kannst du deine Meinung sagen und über Erfahrungen sprechen: „Ich bin **davon überzeugt**, dass …“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich bin stolz von meinem Sohn.",
+      "right": "Ich bin stolz auf meinen Sohn.",
+      "why": "The fixed preposition is „auf“ + accusative – not „von“, even though English says *proud of*.",
+      "whyDe": "Die feste Präposition ist „auf“ + Akkusativ – nicht „von“, auch wenn man im Englischen *proud of* sagt."
+    },
+    {
+      "wrong": "Ich bin interessiert in dem Kurs.",
+      "right": "Ich bin an dem Kurs interessiert.",
+      "why": "„interessiert“ goes with „an“ + dative. The prepositional phrase usually comes before the adjective.",
+      "whyDe": "„interessiert“ steht mit „an“ + Dativ. Der Ausdruck mit der Präposition steht meistens vor dem Adjektiv."
+    },
+    {
+      "wrong": "Sie ist verheiratet zu einem Arzt.",
+      "right": "Sie ist mit einem Arzt verheiratet.",
+      "why": "The fixed preposition is „mit“ + dative.",
+      "whyDe": "Die feste Präposition ist „mit“ + Dativ."
+    },
+    {
+      "wrong": "Wir sind mit den Service zufrieden.",
+      "right": "Wir sind mit dem Service zufrieden.",
+      "why": "„mit“ always takes the dative: „der Service“ → „mit dem Service“.",
+      "whyDe": "Nach „mit“ steht immer der Dativ: „der Service“ → „mit dem Service“."
+    },
+    {
+      "wrong": "Das Konzert war super. Ich bin begeistert von es.",
+      "right": "Das Konzert war super. Ich bin begeistert davon.",
+      "why": "For things, use da(r)- + preposition („davon“, „darauf“, „damit“) instead of preposition + pronoun.",
+      "whyDe": "Bei Sachen nimmst du da(r)- + Präposition („davon“, „darauf“, „damit“) statt Präposition + Pronomen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Wir sind mit dem Hotel sehr ___.",
+      "options": ["zufrieden", "stolz", "interessiert"],
+      "answer": 0,
+      "explanation": "Only „zufrieden“ goes with „mit“. „stolz“ needs „auf“, „interessiert“ needs „an“.",
+      "explanationDe": "Nur „zufrieden“ passt zu „mit“. „stolz“ braucht „auf“, „interessiert“ braucht „an“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich bin Ihnen sehr dankbar ___ Ihre Unterstützung.",
+      "options": ["für", "über", "auf"],
+      "answer": 0,
+      "explanation": "The fixed expression is „dankbar für“ + accusative – a very common phrase in letters.",
+      "explanationDe": "Der feste Ausdruck ist „dankbar für“ + Akkusativ – eine sehr häufige Wendung in Briefen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich bin sehr stolz ___ meine Tochter.",
+      "options": ["von", "auf", "über"],
+      "answer": 1,
+      "explanation": "„stolz auf“ + accusative. „von“ is the English-style trap (*proud of*).",
+      "explanationDe": "„stolz auf“ + Akkusativ. „von“ ist die Falle aus dem Englischen (*proud of*)."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ bist du so enttäuscht? – Von dem Film. Ich hatte mehr erwartet.",
+      "options": ["Wovon", "Worauf", "Womit"],
+      "answer": 0,
+      "explanation": "„enttäuscht von“: the question word for a thing is wo- + preposition → „Wovon?“. The answer „Von dem Film“ confirms the preposition.",
+      "explanationDe": "„enttäuscht von“: Das Fragewort für eine Sache ist wo- + Präposition → „Wovon?“. Die Antwort „Von dem Film“ bestätigt die Präposition."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wer ist in Ihrer Firma ___ die Ausbildung zuständig?",
+      "answers": ["für"],
+      "explanation": "„zuständig für“ + accusative = in charge of.",
+      "explanationDe": "„zuständig für“ + Akkusativ (= verantwortlich für eine Aufgabe)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich bin noch nicht ___ das frühe Aufstehen gewöhnt.",
+      "answers": ["an"],
+      "explanation": "„gewöhnt an“ + accusative: „an das frühe Aufstehen“.",
+      "explanationDe": "„gewöhnt an“ + Akkusativ: „an das frühe Aufstehen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Sie ist seit fünf Jahren ___ einem Österreicher verheiratet.",
+      "answers": ["mit"],
+      "explanation": "„verheiratet mit“ + dative – not „zu“ (English *married to*).",
+      "explanationDe": "„verheiratet mit“ + Dativ – nicht „zu“ (englisch *married to*)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Kinder waren sehr froh ___ die langen Sommerferien.",
+      "answers": ["über"],
+      "explanation": "„froh über“ + accusative: „über die langen Sommerferien“.",
+      "explanationDe": "„froh über“ + Akkusativ: „über die langen Sommerferien“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bist du mit ___ Ergebnis deiner Prüfung zufrieden?",
+      "hint": "(das)",
+      "answers": ["dem"],
+      "explanation": "„zufrieden mit“: „mit“ always takes the dative, and „das Ergebnis“ is neuter → „mit dem Ergebnis“.",
+      "explanationDe": "„zufrieden mit“: Nach „mit“ steht immer der Dativ, und „das Ergebnis“ ist neutral → „mit dem Ergebnis“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „mit meinem neuen Job“ with a da-word.",
+      "instructionDe": "Ersetze „mit meinem neuen Job“ durch ein da-Wort.",
+      "prompt": "Ich bin mit meinem neuen Job sehr zufrieden.",
+      "answers": ["Ich bin damit sehr zufrieden.", "Ich bin sehr zufrieden damit.", "Damit bin ich sehr zufrieden."],
+      "explanation": "„der Job“ is a thing, so „mit + ihm“ becomes „damit“.",
+      "explanationDe": "„der Job“ ist eine Sache, deshalb wird aus „mit + ihm“ „damit“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Ask a question about the part „auf meine gute Note“. Start with a wo-word.",
+      "instructionDe": "Frag nach dem Teil „auf meine gute Note“. Beginne mit einem wo-Wort.",
+      "prompt": "Ich bin stolz auf meine gute Note.",
+      "answers": ["Worauf bist du stolz?", "Worauf sind Sie stolz?"],
+      "explanation": "For things, the question word is wo(r)- + preposition. „auf“ starts with a vowel, so you add -r-: „Worauf?“.",
+      "explanationDe": "Bei Sachen ist das Fragewort wo(r)- + Präposition. „auf“ beginnt mit einem Vokal, deshalb kommt -r- dazu: „Worauf?“."
+    },
+    {
+      "type": "order",
+      "words": ["Platz", "interessiert.", "an", "Ihrem", "bin", "einem", "Deutschkurs", "Ich", "in"],
+      "answers": ["Ich bin an einem Platz in Ihrem Deutschkurs interessiert.", "An einem Platz in Ihrem Deutschkurs bin ich interessiert."],
+      "explanation": "Verb „bin“ in position 2; the phrase with „an“ + dative („an einem Platz in Ihrem Deutschkurs“) comes before the adjective, which stands at the end.",
+      "explanationDe": "Das Verb „bin“ steht auf Position 2. Der Ausdruck mit „an“ + Dativ („an einem Platz in Ihrem Deutschkurs“) steht vor dem Adjektiv, und das Adjektiv steht am Ende."
+    }
+  ],
+  "related": ["verben-mit-praepositionen", "praepositionen-mit-kasus", "nomen-verb-verbindungen"]
+}

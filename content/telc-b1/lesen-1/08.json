@@ -1,0 +1,82 @@
+{
+  "id": "lesen-1-08",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Lernen in jedem Alter",
+  "topic": "bildung",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Umfrage: Online-Kurse vor allem bei Rentnern beliebt" },
+    { "key": "b", "text": "Dresden: Lesekurse für Schulkinder mit Problemen" },
+    { "key": "c", "text": "Professoren erklären Kindern die Welt" },
+    { "key": "d", "text": "Schulpsychologin rät: Schulwechsel lieber vermeiden" },
+    { "key": "e", "text": "Hilfe bei den Hausaufgaben – einfach anrufen" },
+    { "key": "f", "text": "Nie zu spät: Lesen und Schreiben lernen als Erwachsener" },
+    { "key": "g", "text": "Pensionierte Lehrer lösen Aufgaben für Schüler" },
+    { "key": "h", "text": "Welche Schule passt? Ein Buch hilft bei der Wahl" },
+    { "key": "i", "text": "Umfrage: Weiterbildung immer öfter im Internet" },
+    { "key": "j", "text": "Kinder-Uni: Eltern dürfen mit in den Hörsaal" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Immer mehr Berufstätige bilden sich im Internet weiter. Das zeigt eine Umfrage unter 2.500 Beschäftigten: Fast die Hälfte hat im letzten Jahr mindestens einen Online-Kurs besucht – doppelt so viele wie vor fünf Jahren. Besonders beliebt sind Kurse zu Computerprogrammen, Fremdsprachen und Projektmanagement. Als größten Vorteil nennen die Befragten, dass sie selbst bestimmen können, wann und wo sie lernen. Viele vermissen aber den Kontakt zu anderen Teilnehmenden. Ein Drittel sagt außerdem, dass es schwierig ist, nach einem langen Arbeitstag noch die Motivation zum Lernen zu finden.",
+      "answer": "i",
+      "explanation": "Almost half of the employees took at least one online course last year – „doppelt so viele wie vor fünf Jahren“, so (i). Headline (a) names the wrong group: the survey asked working people („Berufstätige“), not pensioners.",
+      "explanationDe": "Fast die Hälfte der Beschäftigten hat im letzten Jahr mindestens einen Online-Kurs besucht – „doppelt so viele wie vor fünf Jahren“, also passt (i). Überschrift (a) nennt die falsche Gruppe: Befragt wurden Menschen, die arbeiten („Berufstätige“), keine Rentner.",
+      "evidence": ["Immer mehr Berufstätige bilden sich im Internet weiter", "doppelt so viele wie vor fünf Jahren"]
+    },
+    {
+      "n": 2,
+      "text": "Wenn die Mathe-Aufgabe einfach nicht klappt und die Eltern auch nicht weiterwissen, können Wiener Schulkinder jetzt zum Telefon greifen. Beim „Lern-Telefon“ helfen pensionierte Lehrerinnen und Lehrer ehrenamtlich bei den Hausaufgaben. Die Hotline ist von Montag bis Freitag zwischen 14 und 18 Uhr erreichbar und für alle Kinder von der ersten bis zur achten Schulstufe gedacht. Der Anruf ist gratis. Die Helfer erklären den Stoff Schritt für Schritt, die Aufgaben lösen müssen die Kinder aber selbst. Gestartet wurde das Projekt von einem Wiener Seniorenverein.",
+      "answer": "e",
+      "explanation": "Children can call a free hotline where retired teachers help with homework („helfen … bei den Hausaufgaben“), so (e). Headline (g) is wrong: the helpers explain step by step, but „die Aufgaben lösen müssen die Kinder aber selbst“.",
+      "explanationDe": "Kinder können kostenlos eine Hotline anrufen. Dort helfen pensionierte Lehrer bei den Hausaufgaben („helfen … bei den Hausaufgaben“), also passt (e). Überschrift (g) ist falsch: Die Helfer erklären alles Schritt für Schritt – „die Aufgaben lösen müssen die Kinder aber selbst“.",
+      "evidence": ["helfen pensionierte Lehrerinnen und Lehrer ehrenamtlich bei den Hausaufgaben", "Der Anruf ist gratis"]
+    },
+    {
+      "n": 3,
+      "text": "Gymnasium, Realschule oder Gesamtschule? Nach der vierten Klasse müssen viele Familien eine schwierige Entscheidung treffen. Der neue Ratgeber „Der richtige Weg nach der Grundschule“ von der Schulpsychologin Dr. Anke Reimers soll ihnen dabei helfen. Sie erklärt verständlich, welche Schulformen es gibt und welche Abschlüsse man dort machen kann. Mit Fragebögen können Eltern herausfinden, welche Schule zu den Stärken und Interessen ihres Kindes passt. Die Autorin betont außerdem: Auch wer später wechseln möchte, hat viele Möglichkeiten. Das Buch kostet 14,95 Euro.",
+      "answer": "h",
+      "explanation": "The guidebook helps parents find out „welche Schule zu den Stärken und Interessen ihres Kindes passt“, so (h). Headline (d) contradicts the text: the author stresses that there are many possibilities for changing school later.",
+      "explanationDe": "Der Ratgeber hilft Eltern herauszufinden, „welche Schule zu den Stärken und Interessen ihres Kindes passt“, deshalb ist (h) richtig. Überschrift (d) widerspricht dem Text: Die Autorin betont, dass es viele Möglichkeiten gibt, später die Schule zu wechseln.",
+      "evidence": ["welche Schule zu den Stärken und Interessen ihres Kindes passt"]
+    },
+    {
+      "n": 4,
+      "text": "Warum ist das Meer salzig? Und wie kommt der Strom in die Steckdose? Solche Fragen beantworten Professorinnen und Professoren einer Kieler Hochschule ab Oktober wieder bei der Kinder-Uni. Jeden zweiten Samstag um 11 Uhr gibt es im großen Hörsaal eine 45-minütige Vorlesung speziell für Kinder zwischen acht und zwölf Jahren. Die Kinder dürfen jederzeit Fragen stellen. Eltern müssen draußen bleiben – für sie gibt es in der Zeit Kaffee im Foyer. Wer bei mindestens fünf Vorlesungen war, bekommt am Ende einen „Studentenausweis“. Die Teilnahme ist kostenlos.",
+      "answer": "c",
+      "explanation": "At the Kinder-Uni, professors give lectures for children aged eight to twelve and answer questions about the world, so (c). Headline (j) is the opposite: „Eltern müssen draußen bleiben“.",
+      "explanationDe": "Bei der Kinder-Uni halten Professorinnen und Professoren Vorlesungen für Kinder von acht bis zwölf Jahren und beantworten Fragen über die Welt, also passt (c). Überschrift (j) sagt das Gegenteil: „Eltern müssen draußen bleiben“.",
+      "evidence": ["eine 45-minütige Vorlesung speziell für Kinder zwischen acht und zwölf Jahren"]
+    },
+    {
+      "n": 5,
+      "text": "Rund sechs Millionen Erwachsene in Deutschland können nicht richtig lesen und schreiben. Viele schämen sich dafür und sprechen mit niemandem darüber. Ein Bildungsverein in Dresden bietet deshalb ab Februar Kurse an, in denen Erwachsene in kleinen Gruppen von höchstens sechs Personen lesen und schreiben lernen. Die Kurse finden abends statt, damit auch Berufstätige teilnehmen können. Für Menschen mit wenig Geld sind sie kostenlos. Wer Interesse hat, kann sich telefonisch beraten lassen – auf Wunsch auch ohne seinen Namen zu nennen.",
+      "answer": "f",
+      "explanation": "Adults who cannot read and write well can learn it in small evening groups, so (f). Headline (b) names the wrong group: the courses are for adults, not for school children.",
+      "explanationDe": "Erwachsene, die nicht gut lesen und schreiben können, lernen es abends in kleinen Gruppen, also passt (f). Überschrift (b) nennt die falsche Gruppe: Die Kurse sind für Erwachsene, nicht für Schulkinder.",
+      "evidence": ["in denen Erwachsene in kleinen Gruppen von höchstens sechs Personen lesen und schreiben lernen"]
+    }
+  ],
+  "distractors": [
+    { "key": "a", "why": "Text 1 is about working people („Berufstätige“, „Beschäftigten“). Pensioners are not mentioned.", "whyDe": "In Text 1 geht es um Menschen, die arbeiten („Berufstätige“, „Beschäftigten“). Rentner werden nicht erwähnt." },
+    { "key": "b", "why": "The courses in text 5 are for adults („Erwachsene“) who cannot read and write well, not for school children.", "whyDe": "Die Kurse in Text 5 sind für „Erwachsene“, die nicht gut lesen und schreiben können, nicht für Schulkinder." },
+    { "key": "d", "why": "In text 3 the author says the opposite: even if you want to change school later, you have many possibilities.", "whyDe": "In Text 3 sagt die Autorin das Gegenteil: Auch wer später die Schule wechseln möchte, hat viele Möglichkeiten." },
+    { "key": "g", "why": "In text 2 the retired teachers only explain the subject; the children must solve the tasks themselves.", "whyDe": "In Text 2 erklären die pensionierten Lehrer nur den Stoff; die Aufgaben müssen die Kinder selbst lösen." },
+    { "key": "j", "why": "In text 4 parents have to stay outside and can have a coffee in the foyer during the lecture.", "whyDe": "In Text 4 müssen die Eltern draußen bleiben und können während der Vorlesung im Foyer einen Kaffee trinken." }
+  ],
+  "glossary": [
+    { "de": "sich weiterbilden", "en": "to do further training" },
+    { "de": "vermissen", "en": "to miss" },
+    { "de": "pensioniert (österr.)", "en": "retired" },
+    { "de": "die Schulstufe (österr.)", "en": "school year, grade" },
+    { "de": "der Stoff", "en": "subject matter" },
+    { "de": "der Ratgeber", "en": "guidebook" },
+    { "de": "der Abschluss", "en": "(school) qualification" },
+    { "de": "der Hörsaal", "en": "lecture hall" },
+    { "de": "die Vorlesung", "en": "lecture" },
+    { "de": "sich schämen", "en": "to be ashamed" },
+    { "de": "sich beraten lassen", "en": "to get advice" }
+  ]
+}

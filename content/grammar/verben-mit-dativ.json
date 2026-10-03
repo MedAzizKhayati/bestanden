@@ -1,0 +1,250 @@
+{
+  "id": "verben-mit-dativ",
+  "level": "B1",
+  "category": "verben",
+  "order": 13,
+  "title": "Verben mit Dativ und Verben mit zwei Objekten",
+  "titleEn": "Dative verbs and two objects",
+  "summary": "Some verbs take a dative object instead of an accusative (helfen, gefallen, gehören); others have two objects – a person in the dative and a thing in the accusative.",
+  "summaryDe": "Manche Verben haben ein Dativobjekt statt eines Akkusativobjekts (helfen, gefallen, gehören). Andere haben zwei Objekte – eine Person im Dativ und eine Sache im Akkusativ.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Verbs like **helfen, danken, gefallen** and **gehören** take a **dative** object: Ich **helfe dir**. Verbs of giving and telling often have two objects – the person in the **dative**, the thing in the **accusative**: Ich schenke **meiner Mutter einen Schal**.",
+      "mdDe": "Verben wie **helfen, danken, gefallen** und **gehören** haben ein Objekt im **Dativ**: Ich **helfe dir**. Verben des Gebens und Sagens haben oft zwei Objekte – die Person im **Dativ**, die Sache im **Akkusativ**: Ich schenke **meiner Mutter einen Schal**."
+    },
+    {
+      "type": "text",
+      "heading": "Verbs with a dative object",
+      "headingDe": "Verben mit Dativobjekt",
+      "md": "With these verbs the object is in the dative, although in English it looks like a normal direct object: to help **me** = **mir** helfen, to thank **you** = **dir / Ihnen** danken, to follow **him** = **ihm** folgen.\n\nWith **gefallen, schmecken, passen, gehören, fehlen** and **wehtun** the *thing* is the subject and the *person* is in the dative. Compare:\n\n- English: **I** like the flat. → German: Die Wohnung gefällt **mir**.\n- English: **My** back hurts. → German: **Mir** tut der Rücken weh.",
+      "mdDe": "Bei diesen Verben steht das Objekt im Dativ, obwohl es im Englischen wie ein normales direktes Objekt aussieht: to help **me** = **mir** helfen, to thank **you** = **dir / Ihnen** danken, to follow **him** = **ihm** folgen.\n\nBei **gefallen, schmecken, passen, gehören, fehlen** und **wehtun** ist die *Sache* das Subjekt, und die *Person* steht im Dativ. Vergleiche:\n\n- Englisch: „**I** like the flat.“ → Deutsch: Die Wohnung gefällt **mir**.\n- Englisch: „**My** back hurts.“ → Deutsch: **Mir** tut der Rücken weh."
+    },
+    {
+      "type": "table",
+      "heading": "Important verbs with a dative object",
+      "headingDe": "Wichtige Verben mit Dativobjekt",
+      "columns": ["Verb", "Beispiel", "English"],
+      "columnsDe": ["Verb", "Beispiel", "Bedeutung"],
+      "rows": [
+        ["helfen", "Kannst du mir helfen?", "to help"],
+        ["danken", "Ich danke Ihnen für die Einladung.", "to thank"],
+        ["antworten", "Bitte antworten Sie mir bis Freitag.", "to answer, to reply to"],
+        ["gefallen", "Die neue Wohnung gefällt uns sehr.", "to like (literally: to please)"],
+        ["gehören", "Wem gehört dieses Fahrrad?", "to belong to"],
+        ["gratulieren", "Wir gratulieren dir zum Geburtstag!", "to congratulate"],
+        ["schmecken", "Schmeckt dir die Suppe?", "to taste good, to like (food)"],
+        ["passen", "Passt Ihnen der Termin am Montag?", "to suit; to fit"],
+        ["fehlen", "Du fehlst mir.", "to miss (literally: to be missing)"],
+        ["glauben", "Ich glaube dir.", "to believe (a person)"],
+        ["zuhören", "Hör mir bitte zu!", "to listen to"],
+        ["wehtun", "Mir tut der Kopf weh.", "to hurt"],
+        ["leidtun", "Das tut mir leid.", "to be sorry"],
+        ["stehen", "Die Farbe steht dir gut.", "to suit (clothes, colours)"],
+        ["vertrauen", "Ich vertraue meiner Kollegin.", "to trust"],
+        ["folgen", "Bitte folgen Sie mir.", "to follow"]
+      ],
+      "rowsDe": [
+        ["helfen", "Kannst du mir helfen?", "Hilfe geben"],
+        ["danken", "Ich danke Ihnen für die Einladung.", "Danke sagen"],
+        ["antworten", "Bitte antworten Sie mir bis Freitag.", "eine Antwort geben"],
+        ["gefallen", "Die neue Wohnung gefällt uns sehr.", "gut finden (Subjekt ist die Sache)"],
+        ["gehören", "Wem gehört dieses Fahrrad?", "Eigentum von jemandem sein"],
+        ["gratulieren", "Wir gratulieren dir zum Geburtstag!", "Glückwünsche sagen"],
+        ["schmecken", "Schmeckt dir die Suppe?", "lecker sein; gut finden (Essen)"],
+        ["passen", "Passt Ihnen der Termin am Montag?", "recht sein; die richtige Größe haben"],
+        ["fehlen", "Du fehlst mir.", "vermisst werden (wörtlich: nicht da sein)"],
+        ["glauben", "Ich glaube dir.", "für wahr halten, was eine Person sagt"],
+        ["zuhören", "Hör mir bitte zu!", "aufmerksam hören"],
+        ["wehtun", "Mir tut der Kopf weh.", "Schmerzen machen"],
+        ["leidtun", "Das tut mir leid.", "bedauern"],
+        ["stehen", "Die Farbe steht dir gut.", "gut aussehen (Kleidung, Farben)"],
+        ["vertrauen", "Ich vertraue meiner Kollegin.", "sich verlassen auf"],
+        ["folgen", "Bitte folgen Sie mir.", "hinterhergehen"]
+      ],
+      "note": "Careful – these verbs take the accusative, not the dative: anrufen, fragen, besuchen, kennen, treffen, unterstützen. Ich rufe dich an. Ich frage dich.",
+      "noteDe": "Achtung – diese Verben stehen mit Akkusativ, nicht mit Dativ: anrufen, fragen, besuchen, kennen, treffen, unterstützen. Ich rufe dich an. Ich frage dich."
+    },
+    {
+      "type": "text",
+      "heading": "Verbs with two objects",
+      "headingDe": "Verben mit zwei Objekten",
+      "md": "Many verbs have a dative object – usually a **person** (who gets something?) – and an accusative object – usually a **thing** (what?):\n\ngeben, schenken, schicken, bringen, zeigen, erklären, erzählen, empfehlen, leihen, kaufen, schreiben, sagen, wünschen, anbieten, mitbringen, zurückgeben\n\n- Ich schicke **dem Vermieter** (Dat.) **die Unterlagen** (Akk.).\n- Kannst du **mir** (Dat.) **das Wort** (Akk.) erklären?",
+      "mdDe": "Viele Verben haben ein Dativobjekt – meistens eine **Person** (Wer bekommt etwas?) – und ein Akkusativobjekt – meistens eine **Sache** (Was?):\n\ngeben, schenken, schicken, bringen, zeigen, erklären, erzählen, empfehlen, leihen, kaufen, schreiben, sagen, wünschen, anbieten, mitbringen, zurückgeben\n\n- Ich schicke **dem Vermieter** (Dat.) **die Unterlagen** (Akk.).\n- Kannst du **mir** (Dat.) **das Wort** (Akk.) erklären?"
+    },
+    {
+      "type": "table",
+      "heading": "Word order with two objects",
+      "headingDe": "Wortstellung bei zwei Objekten",
+      "columns": ["Objekte", "Reihenfolge", "Beispiel"],
+      "rows": [
+        ["Nomen + Nomen", "Dativ – Akkusativ", "Ich zeige meinem Freund die Stadt."],
+        ["Pronomen + Nomen", "Pronomen zuerst", "Ich zeige ihm die Stadt."],
+        ["Nomen + Pronomen", "Pronomen zuerst", "Ich zeige sie meinem Freund."],
+        ["Pronomen + Pronomen", "Akkusativ – Dativ", "Ich zeige sie ihm."]
+      ],
+      "note": "Memory aid: two nouns – dative first; two pronouns – accusative first; a pronoun always comes before a noun.",
+      "noteDe": "Merkhilfe: zwei Nomen – Dativ zuerst; zwei Pronomen – Akkusativ zuerst; ein Pronomen steht immer vor einem Nomen."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Kannst du **mir** bitte beim Umzug **helfen**?", "en": "Can you help me with the move, please?" },
+        { "de": "Der Film hat **meinem Mann** nicht **gefallen**.", "en": "My husband didn't like the film." },
+        { "de": "**Wem gehört** der schwarze Koffer?", "en": "Who does the black suitcase belong to?" },
+        { "de": "Ich **gratuliere dir** herzlich zur bestandenen Prüfung!", "en": "Congratulations on passing your exam!" },
+        { "de": "Die Verkäuferin hat **mir einen günstigeren Tarif** empfohlen.", "en": "The shop assistant recommended a cheaper plan to me." },
+        { "de": "Ich schicke **Ihnen die Unterlagen** morgen per E-Mail.", "en": "I'll send you the documents by e-mail tomorrow." },
+        { "de": "Hast du **deiner Oma die Fotos** gezeigt? – Ja, ich habe **sie ihr** gestern gezeigt.", "en": "Have you shown Grandma the photos? – Yes, I showed them to her yesterday." },
+        { "de": "**Mir** tut seit gestern der Hals **weh**.", "en": "My throat has been hurting since yesterday." },
+        { "de": "Wir **danken Ihnen** für Ihr Verständnis.", "en": "Thank you for your understanding." },
+        { "de": "Das Kleid **steht dir** wirklich gut!", "en": "That dress really suits you!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 1:** the gap is often a pronoun or article after one of these verbs – „Ich möchte ___ (Ihnen / Sie) für Ihre Hilfe danken.“ – „Wie gefällt ___ (dir / dich) die neue Stelle?“ First check the verb: does it take the dative?\n- **Schreiben:** standard phrases with dative verbs – „Ich danke Ihnen für …“ – „Könnten Sie mir bitte … schicken?“ – „Leider passt mir der Termin nicht.“ – „Ich wünsche dir viel Erfolg!“ – „Es tut mir leid, dass …“\n- **Sprechen:** „Mir gefällt die Idee.“ – „Das passt mir gut.“ – „Da gebe ich dir recht.“",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 1:** In der Lücke fehlt oft ein Pronomen oder Artikel nach einem dieser Verben – „Ich möchte ___ (Ihnen / Sie) für Ihre Hilfe danken.“ – „Wie gefällt ___ (dir / dich) die neue Stelle?“ Prüf zuerst das Verb: Steht es mit Dativ?\n- **Schreiben:** feste Redemittel mit Dativ-Verben – „Ich danke Ihnen für …“ – „Könnten Sie mir bitte … schicken?“ – „Leider passt mir der Termin nicht.“ – „Ich wünsche dir viel Erfolg!“ – „Es tut mir leid, dass …“\n- **Sprechen:** „Mir gefällt die Idee.“ – „Das passt mir gut.“ – „Da gebe ich dir recht.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** helfen, danken and gratulieren take the **dative**, even though in English the person looks like a direct object: „Ich helfe **dir**“, never „Ich helfe dich“. On the other hand, **anrufen, fragen** and **besuchen** take the **accusative**: „Ich rufe **dich** an.“ – not „Ich rufe dir an“.",
+      "mdDe": "**Typische Falle:** helfen, danken und gratulieren stehen mit **Dativ**, auch wenn die Person im Englischen wie ein direktes Objekt aussieht: „Ich helfe **dir**“, nie „Ich helfe dich“. Dagegen stehen **anrufen, fragen** und **besuchen** mit **Akkusativ**: „Ich rufe **dich** an.“ – nicht „Ich rufe dir an“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich helfe dich gern.",
+      "right": "Ich helfe dir gern.",
+      "why": "helfen always takes the dative: mir, dir, ihm, ihr …",
+      "whyDe": "helfen steht immer mit Dativ: mir, dir, ihm, ihr …"
+    },
+    {
+      "wrong": "Ich gefalle die neue Wohnung.",
+      "right": "Die neue Wohnung gefällt mir.",
+      "why": "With gefallen, the thing you like is the subject and the person is in the dative.",
+      "whyDe": "Bei gefallen ist die Sache, die dir gefällt, das Subjekt. Die Person steht im Dativ."
+    },
+    {
+      "wrong": "Ich rufe dir morgen an.",
+      "right": "Ich rufe dich morgen an.",
+      "why": "anrufen takes the accusative, like fragen and besuchen.",
+      "whyDe": "anrufen steht mit Akkusativ, genauso wie fragen und besuchen."
+    },
+    {
+      "wrong": "Ich habe ihr es gegeben.",
+      "right": "Ich habe es ihr gegeben.",
+      "why": "With two pronouns, the accusative pronoun („es“) comes before the dative pronoun („ihr“).",
+      "whyDe": "Bei zwei Pronomen steht das Akkusativ-Pronomen („es“) vor dem Dativ-Pronomen („ihr“)."
+    },
+    {
+      "wrong": "Ich danke dich für deine Hilfe.",
+      "right": "Ich danke dir für deine Hilfe.",
+      "why": "danken takes the dative.",
+      "whyDe": "danken steht mit Dativ."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Wie hat ___ das Konzert gestern gefallen?",
+      "options": ["dir", "dich", "du"],
+      "answer": 0,
+      "explanation": "With gefallen the person is in the dative: „dir“. The subject of the sentence is „das Konzert“.",
+      "explanationDe": "Bei gefallen steht die Person im Dativ: „dir“. Das Subjekt des Satzes ist „das Konzert“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Entschuldigung, ___ gehört diese Tasche?",
+      "options": ["wem", "wen", "wer"],
+      "answer": 0,
+      "explanation": "gehören takes the dative, so the question word is „wem“.",
+      "explanationDe": "gehören steht mit Dativ, deshalb heißt das Fragewort „wem“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich rufe ___ heute Abend an, okay?",
+      "options": ["dich", "dir", "du"],
+      "answer": 0,
+      "explanation": "anrufen takes the accusative: „dich“. Don't let dative verbs like helfen or danken confuse you.",
+      "explanationDe": "anrufen steht mit Akkusativ: „dich“. Lass dich nicht von Dativ-Verben wie helfen oder danken verwirren."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe deine Urlaubsfotos noch nicht gesehen. Kannst du ___ zeigen?",
+      "options": ["sie mir", "mir sie", "mich sie"],
+      "answer": 0,
+      "explanation": "Two pronouns: the accusative („sie“ = the photos) comes before the dative („mir“).",
+      "explanationDe": "Zwei Pronomen: Der Akkusativ („sie“ = die Fotos) steht vor dem Dativ („mir“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir gratulieren ___ herzlich zum Geburtstag, Frau Kühn!",
+      "answers": ["Ihnen"],
+      "hint": "(Sie)",
+      "explanation": "gratulieren takes the dative. Frau Kühn is addressed with Sie, so the dative is „Ihnen“ – with a capital I.",
+      "explanationDe": "gratulieren steht mit Dativ. Frau Kühn wird mit Sie angesprochen, deshalb heißt der Dativ „Ihnen“ – mit großem I."
+    },
+    {
+      "type": "gap",
+      "prompt": "Kannst du ___ Bruder beim Umzug helfen?",
+      "answers": ["deinem"],
+      "hint": "(dein)",
+      "explanation": "helfen takes the dative; „der Bruder“ is masculine → „deinem Bruder“.",
+      "explanationDe": "helfen steht mit Dativ; „der Bruder“ ist maskulin → „deinem Bruder“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe ___ Nachbarin einen Kuchen gebracht.",
+      "answers": ["unserer"],
+      "hint": "(unser)",
+      "explanation": "bringen has two objects: the person in the dative („unserer Nachbarin“, feminine) and the thing in the accusative („einen Kuchen“).",
+      "explanationDe": "bringen hat zwei Objekte: die Person im Dativ („unserer Nachbarin“, feminin) und die Sache im Akkusativ („einen Kuchen“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Schuhe passen ___ nicht, sie sind zu klein.",
+      "answers": ["mir"],
+      "hint": "(ich)",
+      "explanation": "passen takes the dative: „mir“. The subject is „die Schuhe“.",
+      "explanationDe": "passen steht mit Dativ: „mir“. Das Subjekt ist „die Schuhe“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Kellner bringt ___ Gästen die Speisekarte.",
+      "answers": ["den"],
+      "hint": "(die)",
+      "explanation": "The guests receive the menu, so they are in the dative plural: „den Gästen“ (the noun also gets -n).",
+      "explanationDe": "Die Gäste bekommen die Speisekarte, deshalb stehen sie im Dativ Plural: „den Gästen“ (auch das Nomen bekommt -n)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace both objects with pronouns.",
+      "instructionDe": "Ersetze beide Objekte durch Pronomen.",
+      "prompt": "Ich gebe meiner Kollegin den Schlüssel.",
+      "answers": ["Ich gebe ihn ihr."],
+      "explanation": "„den Schlüssel“ → „ihn“ (Akk.), „meiner Kollegin“ → „ihr“ (Dat.). With two pronouns the accusative comes first.",
+      "explanationDe": "„den Schlüssel“ → „ihn“ (Akk.), „meiner Kollegin“ → „ihr“ (Dat.). Bei zwei Pronomen kommt der Akkusativ zuerst."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the dative object with a pronoun.",
+      "instructionDe": "Ersetze das Dativobjekt durch ein Pronomen.",
+      "prompt": "Wir schenken unseren Eltern eine Reise nach Wien.",
+      "answers": ["Wir schenken ihnen eine Reise nach Wien."],
+      "explanation": "„unseren Eltern“ is dative plural → „ihnen“. The pronoun comes before the noun object „eine Reise“.",
+      "explanationDe": "„unseren Eltern“ ist Dativ Plural → „ihnen“. Das Pronomen steht vor dem Objekt „eine Reise“, das ein Nomen ist."
+    },
+    {
+      "type": "order",
+      "words": ["die", "noch", "Ich", "Aufgabe", "dir", "einmal.", "erkläre"],
+      "answers": ["Ich erkläre dir die Aufgabe noch einmal."],
+      "explanation": "The dative pronoun „dir“ comes right after the verb, before the noun object „die Aufgabe“.",
+      "explanationDe": "Das Dativ-Pronomen „dir“ steht direkt nach dem Verb, vor dem Objekt „die Aufgabe“, das ein Nomen ist."
+    }
+  ],
+  "related": ["kasus-und-artikel", "pronomen", "satzbau-hauptsatz", "verben-mit-praepositionen"]
+}

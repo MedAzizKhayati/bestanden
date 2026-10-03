@@ -1,0 +1,251 @@
+{
+  "id": "modalverben",
+  "level": "A2",
+  "category": "verben",
+  "order": 5,
+  "title": "Modalverben in Präsens und Präteritum",
+  "titleEn": "Modal verbs",
+  "summary": "können, müssen, dürfen, sollen, wollen, mögen and möchten: forms, meanings and word order in the present and the simple past.",
+  "summaryDe": "können, müssen, dürfen, sollen, wollen, mögen und möchten: Formen, Bedeutungen und Wortstellung im Präsens und im Präteritum.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen", "hoeren"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The modal verb is conjugated and stands in **position 2**; the main verb goes to the **end** as an **infinitive without zu**: Ich **muss** heute länger **arbeiten**. In the Präteritum, modal verbs add **-te** and **lose their umlaut**: ich konnte, ich musste, ich durfte.",
+      "mdDe": "Das Modalverb ist konjugiert und steht auf **Position 2**; das Vollverb steht als **Infinitiv ohne zu** am **Ende**: Ich **muss** heute länger **arbeiten**. Im Präteritum bekommen Modalverben **-te** und **verlieren ihren Umlaut**: ich konnte, ich musste, ich durfte."
+    },
+    {
+      "type": "table",
+      "heading": "Präsens",
+      "headingDe": "Präsens",
+      "columns": ["Person", "können", "müssen", "dürfen", "sollen", "wollen", "mögen", "möchten"],
+      "columnsDe": ["Person", "können", "müssen", "dürfen", "sollen", "wollen", "mögen", "möchten"],
+      "rows": [
+        ["ich", "kann", "muss", "darf", "soll", "will", "mag", "möchte"],
+        ["du", "kannst", "musst", "darfst", "sollst", "willst", "magst", "möchtest"],
+        ["er/sie/es", "kann", "muss", "darf", "soll", "will", "mag", "möchte"],
+        ["wir", "können", "müssen", "dürfen", "sollen", "wollen", "mögen", "möchten"],
+        ["ihr", "könnt", "müsst", "dürft", "sollt", "wollt", "mögt", "möchtet"],
+        ["sie/Sie", "können", "müssen", "dürfen", "sollen", "wollen", "mögen", "möchten"]
+      ],
+      "note": "ich and er/sie/es have the same form and no ending: ich kann, er kann. Most modal verbs change their vowel in the singular (können → kann, dürfen → darf).",
+      "noteDe": "ich und er/sie/es haben die gleiche Form und keine Endung: ich kann, er kann. Die meisten Modalverben ändern im Singular ihren Vokal (können → kann, dürfen → darf)."
+    },
+    {
+      "type": "table",
+      "heading": "Präteritum",
+      "headingDe": "Präteritum",
+      "columns": ["Person", "können", "müssen", "dürfen", "sollen", "wollen", "mögen"],
+      "columnsDe": ["Person", "können", "müssen", "dürfen", "sollen", "wollen", "mögen"],
+      "rows": [
+        ["ich", "konnte", "musste", "durfte", "sollte", "wollte", "mochte"],
+        ["du", "konntest", "musstest", "durftest", "solltest", "wolltest", "mochtest"],
+        ["er/sie/es", "konnte", "musste", "durfte", "sollte", "wollte", "mochte"],
+        ["wir", "konnten", "mussten", "durften", "sollten", "wollten", "mochten"],
+        ["ihr", "konntet", "musstet", "durftet", "solltet", "wolltet", "mochtet"],
+        ["sie/Sie", "konnten", "mussten", "durften", "sollten", "wollten", "mochten"]
+      ],
+      "note": "„möchten“ has no Präteritum of its own – use „wollte“: Heute möchte ich ins Kino. → Gestern wollte ich ins Kino.",
+      "noteDe": "„möchten“ hat kein eigenes Präteritum – nimm „wollte“: Heute möchte ich ins Kino. → Gestern wollte ich ins Kino."
+    },
+    {
+      "type": "table",
+      "heading": "What do they mean?",
+      "headingDe": "Was bedeuten sie?",
+      "columns": ["Modal verb", "Meaning", "Example"],
+      "columnsDe": ["Modalverb", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["können", "ability, possibility", "Ich kann gut kochen. Hier kann man parken."],
+        ["müssen", "necessity, obligation", "Ich muss morgen früh aufstehen."],
+        ["nicht müssen", "not necessary (= nicht brauchen zu)", "Du musst nicht kommen. = Du brauchst nicht zu kommen."],
+        ["dürfen", "permission", "Hier darf man grillen."],
+        ["nicht dürfen", "prohibition", "Hier darf man nicht parken."],
+        ["sollen", "advice or instruction from another person, a rule", "Der Arzt sagt, ich soll weniger Kaffee trinken."],
+        ["wollen", "wish, plan, firm intention", "Wir wollen im Sommer nach Italien fahren."],
+        ["möchten", "polite wish", "Ich möchte einen Termin vereinbaren."],
+        ["mögen", "to like (mostly with a noun)", "Ich mag keine Tomaten."]
+      ],
+      "rowsDe": [
+        ["können", "Fähigkeit, Möglichkeit", "Ich kann gut kochen. Hier kann man parken."],
+        ["müssen", "Notwendigkeit, Pflicht", "Ich muss morgen früh aufstehen."],
+        ["nicht müssen", "nicht nötig (= nicht brauchen zu)", "Du musst nicht kommen. = Du brauchst nicht zu kommen."],
+        ["dürfen", "Erlaubnis", "Hier darf man grillen."],
+        ["nicht dürfen", "Verbot", "Hier darf man nicht parken."],
+        ["sollen", "Rat oder Auftrag von einer anderen Person, eine Regel", "Der Arzt sagt, ich soll weniger Kaffee trinken."],
+        ["wollen", "Wunsch, Plan, feste Absicht", "Wir wollen im Sommer nach Italien fahren."],
+        ["möchten", "höflicher Wunsch", "Ich möchte einen Termin vereinbaren."],
+        ["mögen", "gern haben (meistens mit Nomen)", "Ich mag keine Tomaten."]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Word order",
+      "headingDe": "Wortstellung",
+      "md": "- **Main clause:** modal verb in position 2, infinitive at the end: Am Wochenende **will** ich endlich mein Zimmer **streichen**.\n- **Question:** **Kannst** du mir **helfen**?\n- **Subordinate clause:** the modal verb goes to the very end: Ich weiß nicht, ob ich morgen **kommen kann**.\n- **Separable verbs** stay together in the infinitive: Ich **muss** morgen früh **aufstehen**.\n- A modal verb can stand **alone** when the meaning is clear: Ich **kann** gut Englisch. **Möchtest** du einen Kaffee?",
+      "mdDe": "- **Hauptsatz:** Modalverb auf Position 2, Infinitiv am Ende: Am Wochenende **will** ich endlich mein Zimmer **streichen**.\n- **Frage:** **Kannst** du mir **helfen**?\n- **Nebensatz:** Das Modalverb steht ganz am Ende: Ich weiß nicht, ob ich morgen **kommen kann**.\n- **Trennbare Verben** bleiben im Infinitiv zusammen: Ich **muss** morgen früh **aufstehen**.\n- Ein Modalverb kann auch **allein** stehen, wenn die Bedeutung klar ist: Ich **kann** gut Englisch. **Möchtest** du einen Kaffee?"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Kannst** du mich morgen zum Flughafen **bringen**?", "en": "Can you take me to the airport tomorrow?" },
+        { "de": "In der Bibliothek **darf** man nicht laut **telefonieren**.", "en": "You're not allowed to make loud phone calls in the library." },
+        { "de": "Ich **muss** heute leider länger **arbeiten**.", "en": "Unfortunately I have to work longer today." },
+        { "de": "Meine Chefin sagt, ich **soll** den Bericht bis Freitag **schicken**.", "en": "My boss says I'm supposed to send the report by Friday." },
+        { "de": "Wir **wollen** im Herbst eine Radtour **machen**.", "en": "We want to go on a cycling tour in the autumn." },
+        { "de": "Ich **möchte** gern ein Doppelzimmer für zwei Nächte **reservieren**.", "en": "I'd like to book a double room for two nights." },
+        { "de": "Als Kind **konnte** ich schon gut **schwimmen**.", "en": "As a child I could already swim well." },
+        { "de": "Gestern **musste** ich zwei Stunden auf den Techniker **warten**.", "en": "Yesterday I had to wait two hours for the technician." },
+        { "de": "Früher **durften** wir abends nicht lange **fernsehen**.", "en": "When we were younger, we weren't allowed to watch TV late in the evening." },
+        { "de": "Du **musst** nicht **kommen**, wenn du keine Zeit hast.", "en": "You don't have to come if you don't have time." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**nicht müssen ≠ nicht dürfen**\n\n- Du **musst** das **nicht** machen. = It isn't necessary. (You don't have to.)\n- Du **darfst** das **nicht** machen. = It's forbidden. (You mustn't.)\n\nCareful, English speakers: *must not* = **nicht dürfen**! And „ich **will**“ means I *want* – the future is „ich **werde**“.",
+      "mdDe": "**nicht müssen ≠ nicht dürfen**\n\n- Du **musst** das **nicht** machen. = Es ist nicht nötig. (Du brauchst das nicht zu machen.)\n- Du **darfst** das **nicht** machen. = Es ist verboten. (Das ist nicht erlaubt.)\n\nAchtung, wenn du Englisch sprichst: *must not* = **nicht dürfen**! Und „ich **will**“ drückt einen *Wunsch* aus – das Futur ist „ich **werde**“."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1** you often choose between different forms of the same modal verb: „musste / müsste / muss“, „konnte / könnte / kann“. Look for time words (gestern, früher) and for politeness (Könnten Sie …?). In **Sprachbausteine Teil 2**, the meaning decides: „darf“ (permission) or „muss“ (obligation)?\n\nIn **Schreiben** and **Sprechen Teil 3**, modal verbs are your main tool: „Leider kann ich am Samstag nicht.“ – „Sollen wir uns um acht treffen?“ – „Wir müssen noch klären, wer die Getränke kauft.“ For the past, use the Präteritum: „Ich konnte leider nicht kommen.“",
+      "mdDe": "In **Sprachbausteine Teil 1** wählst du oft zwischen verschiedenen Formen desselben Modalverbs: „musste / müsste / muss“, „konnte / könnte / kann“. Achte auf Zeitangaben (gestern, früher) und auf Höflichkeit (Könnten Sie …?). In **Sprachbausteine Teil 2** entscheidet die Bedeutung: „darf“ (Erlaubnis) oder „muss“ (Pflicht)?\n\nIm **Schreiben** und in **Sprechen Teil 3** sind Modalverben dein wichtigstes Werkzeug: „Leider kann ich am Samstag nicht.“ – „Sollen wir uns um acht treffen?“ – „Wir müssen noch klären, wer die Getränke kauft.“ Für die Vergangenheit nimmst du das Präteritum: „Ich konnte leider nicht kommen.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich kann gut zu schwimmen.",
+      "right": "Ich kann gut schwimmen.",
+      "why": "After a modal verb the infinitive has no „zu“.",
+      "whyDe": "Nach einem Modalverb steht der Infinitiv ohne „zu“."
+    },
+    {
+      "wrong": "Er kannt sehr gut kochen.",
+      "right": "Er kann sehr gut kochen.",
+      "why": "With modal verbs, ich and er/sie/es have no ending: er kann, sie muss, es darf.",
+      "whyDe": "Bei Modalverben haben ich und er/sie/es keine Endung: er kann, sie muss, es darf."
+    },
+    {
+      "wrong": "Hier musst du nicht rauchen, das ist verboten.",
+      "right": "Hier darfst du nicht rauchen, das ist verboten.",
+      "why": "A prohibition is „nicht dürfen“. „nicht müssen“ only means that something is not necessary.",
+      "whyDe": "Ein Verbot ist „nicht dürfen“. „nicht müssen“ bedeutet nur, dass etwas nicht nötig ist."
+    },
+    {
+      "wrong": "Gestern müsste ich lange auf den Bus warten.",
+      "right": "Gestern musste ich lange auf den Bus warten.",
+      "why": "The Präteritum of modal verbs has no umlaut: „musste“. „müsste“ is Konjunktiv II.",
+      "whyDe": "Das Präteritum der Modalverben hat keinen Umlaut: „musste“. „müsste“ ist Konjunktiv II."
+    },
+    {
+      "wrong": "Ich weiß nicht, ob ich kann morgen kommen.",
+      "right": "Ich weiß nicht, ob ich morgen kommen kann.",
+      "why": "In a subordinate clause the modal verb goes to the very end, after the infinitive.",
+      "whyDe": "Im Nebensatz steht das Modalverb ganz am Ende, nach dem Infinitiv."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "In diesem Park ___ man keine Hunde mitbringen. Das steht auf dem Schild am Eingang.",
+      "options": ["muss", "will", "darf"],
+      "answer": 2,
+      "explanation": "A sign at the entrance states a rule: dogs are not allowed → „dürfen“ + „kein“ = prohibition. „muss“ would only say what is (not) necessary; „will“ means wants.",
+      "explanationDe": "Ein Schild am Eingang nennt eine Regel: Hunde sind nicht erlaubt → „dürfen“ + „kein“ = Verbot. „muss“ würde nur sagen, was (nicht) nötig ist; „will“ drückt einen Wunsch aus."
+    },
+    {
+      "type": "mc",
+      "prompt": "Du ___ morgen nicht so früh kommen. Schlaf ruhig aus, der Kurs beginnt erst um zehn.",
+      "options": ["darfst", "musst", "willst"],
+      "answer": 1,
+      "explanation": "„Schlaf ruhig aus“ shows that it isn't necessary to come early → „nicht müssen“. „nicht dürfen“ would mean that it is forbidden.",
+      "explanationDe": "„Schlaf ruhig aus“ zeigt: Es ist nicht nötig, früh zu kommen → „nicht müssen“. „nicht dürfen“ würde bedeuten, dass es verboten ist."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mein Arzt sagt, ich ___ mehr Wasser trinken.",
+      "options": ["soll", "will", "mag"],
+      "answer": 0,
+      "explanation": "Advice or an instruction from another person → „sollen“: Der Arzt sagt, ich soll …",
+      "explanationDe": "Rat oder Auftrag von einer anderen Person → „sollen“: Der Arzt sagt, ich soll …"
+    },
+    {
+      "type": "mc",
+      "prompt": "Entschuldigung, ___ ich hier kurz mein Fahrrad abstellen?",
+      "options": ["will", "darf", "mag"],
+      "answer": 1,
+      "explanation": "You are asking for permission → „dürfen“: „Darf ich …?“",
+      "explanationDe": "Du bittest um Erlaubnis → „dürfen“: „Darf ich …?“"
+    },
+    {
+      "type": "gap",
+      "prompt": "___ du mir bitte das Salz geben?",
+      "answers": ["Kannst", "kannst", "Könntest", "könntest"],
+      "hint": "(können)",
+      "explanation": "du-form of können: „kannst“. In a question it comes first. „Könntest“ (Konjunktiv II) is even more polite.",
+      "explanationDe": "du-Form von können: „kannst“. In einer Frage steht es am Anfang. „Könntest“ (Konjunktiv II) ist noch höflicher."
+    },
+    {
+      "type": "gap",
+      "prompt": "Gestern ___ wir leider nicht zum Training gehen, weil es so stark geregnet hat.",
+      "answers": ["konnten"],
+      "hint": "(können, Präteritum)",
+      "explanation": "Präteritum of „können“ without an umlaut: „konnten“ (wir-form).",
+      "explanationDe": "Präteritum von „können“ ohne Umlaut: „konnten“ (wir-Form)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Als Kind ___ ich überhaupt keinen Spinat.",
+      "answers": ["mochte"],
+      "hint": "(mögen, Präteritum)",
+      "explanation": "„mögen“ → Präteritum „mochte“ (no umlaut, and g becomes ch). Here it stands alone as a full verb.",
+      "explanationDe": "„mögen“ → Präteritum „mochte“ (kein Umlaut, und aus g wird ch). Hier steht es allein als Vollverb."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ihr ___ hier nicht Fußball spielen, das ist der Garten der Nachbarn!",
+      "answers": ["dürft"],
+      "hint": "(dürfen)",
+      "explanation": "A prohibition → „nicht dürfen“; ihr-form: „dürft“.",
+      "explanationDe": "Ein Verbot → „nicht dürfen“; ihr-Form: „dürft“."
+    },
+    {
+      "type": "order",
+      "words": ["leider", "kommen.", "Freitag", "kann", "nicht", "Ich", "am"],
+      "answers": [
+        "Ich kann am Freitag leider nicht kommen.",
+        "Am Freitag kann ich leider nicht kommen.",
+        "Leider kann ich am Freitag nicht kommen.",
+        "Ich kann leider am Freitag nicht kommen."
+      ],
+      "explanation": "The modal verb „kann“ is in position 2, the infinitive „kommen“ at the end, and „nicht“ directly before it.",
+      "explanationDe": "Das Modalverb „kann“ steht auf Position 2, der Infinitiv „kommen“ am Ende und „nicht“ direkt davor."
+    },
+    {
+      "type": "order",
+      "words": ["müssen?", "wir", "Weißt", "arbeiten", "ob", "morgen", "du,"],
+      "answers": ["Weißt du, ob wir morgen arbeiten müssen?"],
+      "explanation": "In the ob-clause, the modal verb „müssen“ goes to the very end, after the infinitive „arbeiten“.",
+      "explanationDe": "Im ob-Satz steht das Modalverb „müssen“ ganz am Ende, nach dem Infinitiv „arbeiten“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with a modal verb. Use „man“.",
+      "instructionDe": "Schreib den Satz mit einem Modalverb neu. Benutze „man“.",
+      "prompt": "Es ist verboten, hier zu parken.",
+      "answers": ["Hier darf man nicht parken.", "Man darf hier nicht parken."],
+      "explanation": "„verboten“ = not allowed → „nicht dürfen“: „Man darf hier nicht parken.“",
+      "explanationDe": "„verboten“ = nicht erlaubt → „nicht dürfen“: „Man darf hier nicht parken.“"
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the sentence into the Präteritum.",
+      "instructionDe": "Setz den Satz ins Präteritum.",
+      "prompt": "Ich muss am Wochenende arbeiten und kann deshalb nicht mitkommen.",
+      "answers": ["Ich musste am Wochenende arbeiten und konnte deshalb nicht mitkommen."],
+      "explanation": "„muss“ → „musste“, „kann“ → „konnte“: modal verbs lose their umlaut in the Präteritum.",
+      "explanationDe": "„muss“ → „musste“, „kann“ → „konnte“: Modalverben verlieren im Präteritum ihren Umlaut."
+    }
+  ],
+  "related": ["praeteritum", "konjunktiv-2", "infinitiv-mit-zu", "passiv", "satzbau-hauptsatz"]
+}

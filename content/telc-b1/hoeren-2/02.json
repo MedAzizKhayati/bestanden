@@ -1,0 +1,140 @@
+{
+  "id": "hoeren-2-02",
+  "examId": "telc-b1",
+  "type": "audio-long",
+  "title": "Reparieren statt wegwerfen",
+  "topic": "technik",
+  "difficulty": 1,
+  "context": "Radiosendung „Treffpunkt Graz“: Gespräch mit dem Gründer eines Reparatur-Cafés",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "pichler", "name": "Herr Pichler", "gender": "m", "age": "senior", "role": "Gründer des Reparatur-Cafés" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Hallo und herzlich willkommen bei „Treffpunkt Graz“! In unserer Stadt gibt es einen Ort, an dem kaputte Dinge eine zweite Chance bekommen." },
+    { "s": "mod", "t": "Der Mann, der diesen Ort gegründet hat, ist heute bei mir im Studio: Herr Pichler. Grüß Gott, Herr Pichler!" },
+    { "s": "pichler", "t": "Grüß Gott! Danke schön für die Einladung." },
+    { "s": "mod", "t": "Herr Pichler, Sie haben vor vier Jahren ein Reparatur-Café gegründet. Was haben Sie vorher gemacht?" },
+    { "s": "pichler", "t": "Ich war über 40 Jahre Elektriker, zuerst in einer großen Firma und später mit einem eigenen kleinen Betrieb. Dann bin ich in Pension gegangen." },
+    { "s": "mod", "t": "Und wie ist die Idee entstanden?" },
+    { "s": "pichler", "t": "Kurz nach meiner Pensionierung hat meine Nachbarin ihren Staubsauger in den Müll geworfen. Er war erst drei Jahre alt und hat plötzlich nicht mehr funktioniert." },
+    { "s": "pichler", "t": "Ich habe ihn wieder herausgeholt und mir angeschaut. Das Kabel war kaputt, und nach zehn Minuten lief er wieder." },
+    { "s": "pichler", "t": "Da habe ich mir gedacht: Wie viele Geräte landen eigentlich im Müll, nur weil eine Kleinigkeit kaputt ist?" },
+    { "s": "mod", "t": "Wann und wo kann man denn zu Ihnen kommen?" },
+    { "s": "pichler", "t": "Wir treffen uns an jedem ersten Samstag im Monat im Stadtteilzentrum, gleich hinter dem Bahnhof. Wir sind immer von 10 bis 15 Uhr da." },
+    { "s": "mod", "t": "Und wer repariert die Sachen? Machen Sie das alles allein?" },
+    { "s": "pichler", "t": "Nein, um Gottes willen! Wir sind inzwischen ein Team von 14 Leuten, und alle arbeiten ehrenamtlich. Da sind Elektriker dabei, ein Fahrradmechaniker und ein Student, der sich gut mit Computern auskennt." },
+    { "s": "pichler", "t": "Außerdem haben wir eine Schneiderin. Sie repariert Hosen, Jacken und Reißverschlüsse, und bei ihr ist die Schlange oft am längsten." },
+    { "s": "mod", "t": "Wie läuft so ein Besuch ab? Bringe ich einfach meinen Toaster vorbei und hole ihn später wieder ab?" },
+    { "s": "pichler", "t": "Genau das nicht. Wer etwas bringt, bleibt dabei und repariert zusammen mit uns." },
+    { "s": "pichler", "t": "Wir sind keine Werkstatt. Wir wollen den Leuten zeigen, dass sie vieles selbst können." },
+    { "s": "mod", "t": "Und was kostet das?" },
+    { "s": "pichler", "t": "Die Reparatur selbst kostet nichts. Nur wenn wir ein Ersatzteil brauchen, muss man das selbst bezahlen." },
+    { "s": "pichler", "t": "Und wer möchte, kann eine Spende in unsere Kasse werfen. Davon kaufen wir Werkzeug und natürlich auch Kaffee und Kuchen." },
+    { "s": "mod", "t": "Klappt die Reparatur denn meistens?" },
+    { "s": "pichler", "t": "Ziemlich oft, ja. Ungefähr 70 Prozent der Sachen können wir wieder reparieren, vor allem Lampen, Kaffeemaschinen und Fahrräder." },
+    { "s": "pichler", "t": "Schwierig sind Handys. Da sind viele Teile geklebt, und ohne Spezialwerkzeug kommt man nicht hinein." },
+    { "s": "mod", "t": "Gibt es eine Reparatur, an die Sie sich besonders gern erinnern?" },
+    { "s": "pichler", "t": "Oh ja. Einmal ist eine ältere Dame mit einem Radio aus den Sechzigerjahren gekommen. Es hat ihrem verstorbenen Mann gehört, und sie wollte es unbedingt behalten." },
+    { "s": "pichler", "t": "Wir haben zwei Stunden daran gearbeitet, und dann hat es wieder gespielt. Die Dame hat vor Freude geweint, und ich ehrlich gesagt auch ein bisschen." },
+    { "s": "mod", "t": "Das ist wirklich schön. Wie geht es mit dem Reparatur-Café weiter?" },
+    { "s": "pichler", "t": "Wir haben so viele Besucher, dass manche zwei Stunden warten müssen. Deshalb öffnen wir ab Mai zusätzlich an jedem dritten Donnerstag im Monat, und zwar am Abend von 17 bis 20 Uhr." },
+    { "s": "pichler", "t": "Dafür suchen wir aber noch Helfer, am liebsten junge Leute. Die können bei uns viel lernen, und wir lernen von ihnen, wie die neuen Geräte funktionieren." },
+    { "s": "mod", "t": "Herr Pichler, herzlichen Dank für das Gespräch und weiterhin viel Erfolg!" },
+    { "s": "pichler", "t": "Danke schön! Und vielleicht sehen wir uns ja einmal bei uns im Café." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Herr Pichler hat mehr als 40 Jahre als Elektriker gearbeitet.",
+      "answer": true,
+      "explanation": "„Ich war über 40 Jahre Elektriker“ – „über“ means more than 40 years, first in a company and then in his own business.",
+      "explanationDe": "„Ich war über 40 Jahre Elektriker“ – „über“ heißt hier: mehr als 40 Jahre, zuerst in einer Firma und dann im eigenen Betrieb.",
+      "evidence": "Ich war über 40 Jahre Elektriker"
+    },
+    {
+      "n": 2,
+      "text": "Herr Pichler hat seinen eigenen Staubsauger in den Müll geworfen.",
+      "answer": false,
+      "explanation": "It was his neighbour: „hat meine Nachbarin ihren Staubsauger in den Müll geworfen“. Herr Pichler took it out again and repaired it.",
+      "explanationDe": "Es war seine Nachbarin: „hat meine Nachbarin ihren Staubsauger in den Müll geworfen“. Herr Pichler hat ihn wieder herausgeholt und repariert.",
+      "evidence": "Kurz nach meiner Pensionierung hat meine Nachbarin ihren Staubsauger in den Müll geworfen."
+    },
+    {
+      "n": 3,
+      "text": "Das Reparatur-Café ist jeden Samstag von 10 bis 15 Uhr geöffnet.",
+      "answer": false,
+      "explanation": "The times are right, but the café opens only „an jedem ersten Samstag im Monat“ – once a month, not every Saturday.",
+      "explanationDe": "Die Uhrzeiten stimmen, aber das Café ist nur „an jedem ersten Samstag im Monat“ geöffnet – also einmal im Monat, nicht jeden Samstag.",
+      "evidence": "Wir treffen uns an jedem ersten Samstag im Monat im Stadtteilzentrum"
+    },
+    {
+      "n": 4,
+      "text": "Zum Team des Reparatur-Cafés gehört auch eine Schneiderin.",
+      "answer": true,
+      "explanation": "„Außerdem haben wir eine Schneiderin“ – she repairs trousers, jackets and zips.",
+      "explanationDe": "„Außerdem haben wir eine Schneiderin“ – sie repariert Hosen, Jacken und Reißverschlüsse.",
+      "evidence": "Außerdem haben wir eine Schneiderin."
+    },
+    {
+      "n": 5,
+      "text": "Man kann ein kaputtes Gerät abgeben und später wieder abholen.",
+      "answer": false,
+      "explanation": "„Wer etwas bringt, bleibt dabei und repariert zusammen mit uns“ – visitors stay and help; „Wir sind keine Werkstatt“.",
+      "explanationDe": "„Wer etwas bringt, bleibt dabei und repariert zusammen mit uns“ – die Besucher bleiben und helfen mit; „Wir sind keine Werkstatt“.",
+      "evidence": "Wer etwas bringt, bleibt dabei und repariert zusammen mit uns."
+    },
+    {
+      "n": 6,
+      "text": "Für Ersatzteile müssen die Besucher selbst bezahlen, die Reparatur ist kostenlos.",
+      "answer": true,
+      "explanation": "„Die Reparatur selbst kostet nichts“, but for a spare part „muss man das selbst bezahlen“.",
+      "explanationDe": "„Die Reparatur selbst kostet nichts“, aber wenn ein Ersatzteil nötig ist, „muss man das selbst bezahlen“.",
+      "evidence": "Nur wenn wir ein Ersatzteil brauchen, muss man das selbst bezahlen."
+    },
+    {
+      "n": 7,
+      "text": "Das Team kann ungefähr die Hälfte der Sachen wieder reparieren.",
+      "answer": false,
+      "explanation": "„Ungefähr 70 Prozent“ – that is about seven out of ten things, clearly more than half.",
+      "explanationDe": "„Ungefähr 70 Prozent“ – das sind etwa sieben von zehn Sachen, also deutlich mehr als die Hälfte.",
+      "evidence": "Ungefähr 70 Prozent der Sachen können wir wieder reparieren"
+    },
+    {
+      "n": 8,
+      "text": "Handys sind für das Team besonders schwer zu reparieren.",
+      "answer": true,
+      "explanation": "„Schwierig sind Handys“ – many parts are glued, and you need special tools to open them.",
+      "explanationDe": "„Schwierig sind Handys“ – viele Teile sind geklebt, und man braucht Spezialwerkzeug, um sie zu öffnen.",
+      "evidence": "Schwierig sind Handys."
+    },
+    {
+      "n": 9,
+      "text": "Das alte Radio hat früher dem Mann der Besucherin gehört.",
+      "answer": true,
+      "explanation": "„Es hat ihrem verstorbenen Mann gehört“ – the radio belonged to the lady's late husband.",
+      "explanationDe": "„Es hat ihrem verstorbenen Mann gehört“ – das Radio hat dem verstorbenen Mann der Dame gehört.",
+      "evidence": "Es hat ihrem verstorbenen Mann gehört"
+    },
+    {
+      "n": 10,
+      "text": "Ab Mai ist das Reparatur-Café zusätzlich an einem Mittwochabend geöffnet.",
+      "answer": false,
+      "explanation": "The extra date is „an jedem dritten Donnerstag im Monat“ in the evening – Thursday, not Wednesday.",
+      "explanationDe": "Der zusätzliche Termin ist abends „an jedem dritten Donnerstag im Monat“ – also Donnerstag, nicht Mittwoch.",
+      "evidence": "Deshalb öffnen wir ab Mai zusätzlich an jedem dritten Donnerstag im Monat"
+    }
+  ],
+  "glossary": [
+    { "de": "in Pension gehen (österreichisch)", "en": "to retire" },
+    { "de": "der Staubsauger", "en": "vacuum cleaner" },
+    { "de": "ehrenamtlich", "en": "voluntary, unpaid" },
+    { "de": "sich auskennen mit", "en": "to know a lot about" },
+    { "de": "die Schneiderin", "en": "tailor, dressmaker" },
+    { "de": "der Reißverschluss", "en": "zip" },
+    { "de": "das Ersatzteil", "en": "spare part" },
+    { "de": "die Spende", "en": "donation" },
+    { "de": "das Werkzeug", "en": "tools" },
+    { "de": "verstorben", "en": "late, deceased" }
+  ]
+}

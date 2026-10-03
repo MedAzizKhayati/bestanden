@@ -1,0 +1,243 @@
+{
+  "id": "perfekt",
+  "level": "A2",
+  "category": "verben",
+  "order": 1,
+  "title": "Das Perfekt: haben oder sein?",
+  "titleEn": "The present perfect",
+  "summary": "Talk about the past in conversations and e-mails: haben or sein + past participle at the end – and know which verbs take sein.",
+  "summaryDe": "Sprich im Gespräch und in E-Mails über die Vergangenheit: haben oder sein + Partizip II am Ende – und lerne, welche Verben sein brauchen.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "hoeren"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Perfekt = **haben** or **sein** (conjugated, in position 2) + **past participle** (at the end). Most verbs take **haben**. Verbs of **movement from A to B** and **change of state** take **sein** – and so do **sein, bleiben, werden** and **passieren**.",
+      "mdDe": "Perfekt = **haben** oder **sein** (konjugiert, auf Position 2) + **Partizip II** (am Ende). Die meisten Verben bilden das Perfekt mit **haben**. Verben der **Bewegung von A nach B** und der **Zustandsänderung** bilden es mit **sein** – und auch **sein, bleiben, werden** und **passieren**."
+    },
+    {
+      "type": "text",
+      "heading": "When do you use the Perfekt?",
+      "headingDe": "Wann verwendest du das Perfekt?",
+      "md": "The Perfekt is the normal past tense in **spoken German**, in **e-mails** and in personal letters: Ich **habe** gestern lange **gearbeitet**. Was **ist** denn **passiert**?\n\nIn written reports and stories you often find the Präteritum instead. And even in speech, people prefer the Präteritum of **sein**, **haben** and the **modal verbs**: Ich **war** müde. Wir **hatten** keine Zeit. Ich **musste** arbeiten.",
+      "mdDe": "Das Perfekt ist die normale Vergangenheitsform in der **gesprochenen Sprache**, in **E-Mails** und in persönlichen Briefen: Ich **habe** gestern lange **gearbeitet**. Was **ist** denn **passiert**?\n\nIn geschriebenen Berichten und Geschichten findest du dagegen oft das Präteritum. Und auch beim Sprechen nimmt man bei **sein**, **haben** und den **Modalverben** lieber das Präteritum: Ich **war** müde. Wir **hatten** keine Zeit. Ich **musste** arbeiten."
+    },
+    {
+      "type": "table",
+      "heading": "The past participle",
+      "headingDe": "Das Partizip II",
+      "columns": ["Verb type", "Pattern", "Examples"],
+      "columnsDe": ["Verbtyp", "Muster", "Beispiele"],
+      "rows": [
+        ["regular", "ge- + stem + -(e)t", "machen → gemacht, kaufen → gekauft, arbeiten → gearbeitet"],
+        ["irregular", "ge- + stem (often changed) + -en", "fahren → gefahren, schreiben → geschrieben, trinken → getrunken"],
+        ["mixed", "ge- + changed stem + -t", "bringen → gebracht, denken → gedacht, wissen → gewusst"],
+        ["separable", "prefix + ge- + stem + -(e)t / -en", "einkaufen → eingekauft, anrufen → angerufen, aufstehen → aufgestanden"],
+        ["inseparable prefix (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-)", "no ge-", "besuchen → besucht, erzählen → erzählt, verstehen → verstanden"],
+        ["ending in -ieren", "no ge-, ending -t", "studieren → studiert, telefonieren → telefoniert, reparieren → repariert"]
+      ],
+      "rowsDe": [
+        ["regelmäßig", "ge- + Stamm + -(e)t", "machen → gemacht, kaufen → gekauft, arbeiten → gearbeitet"],
+        ["unregelmäßig", "ge- + Stamm (oft verändert) + -en", "fahren → gefahren, schreiben → geschrieben, trinken → getrunken"],
+        ["gemischt", "ge- + veränderter Stamm + -t", "bringen → gebracht, denken → gedacht, wissen → gewusst"],
+        ["trennbar", "Präfix + ge- + Stamm + -(e)t / -en", "einkaufen → eingekauft, anrufen → angerufen, aufstehen → aufgestanden"],
+        ["untrennbares Präfix (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-)", "kein ge-", "besuchen → besucht, erzählen → erzählt, verstehen → verstanden"],
+        ["Verben auf -ieren", "kein ge-, Endung -t", "studieren → studiert, telefonieren → telefoniert, reparieren → repariert"]
+      ],
+      "note": "Irregular participles must be learnt by heart. Learn three forms together: fahren – fuhr – ist gefahren.",
+      "noteDe": "Unregelmäßige Partizipien musst du auswendig lernen. Lerne immer drei Formen zusammen: fahren – fuhr – ist gefahren."
+    },
+    {
+      "type": "table",
+      "heading": "haben or sein?",
+      "headingDe": "haben oder sein?",
+      "columns": ["Auxiliary", "Which verbs?", "Examples"],
+      "columnsDe": ["Hilfsverb", "Welche Verben?", "Beispiele"],
+      "rows": [
+        ["haben", "most verbs, all verbs with an accusative object", "Ich habe einen Kuchen gebacken. Wir haben viel gelacht."],
+        ["haben", "reflexive verbs", "Sie hat sich beeilt. Ich habe mich sehr gefreut."],
+        ["haben", "anfangen, beginnen, aufhören", "Der Kurs hat um neun angefangen."],
+        ["sein", "movement from A to B (no accusative object)", "Wir sind nach Graz gefahren. Er ist ins Kino gegangen."],
+        ["sein", "change of state", "Ich bin früh aufgewacht. Opa ist eingeschlafen. Das Eis ist geschmolzen."],
+        ["sein", "sein, bleiben, werden, passieren, geschehen, gelingen", "Ich bin zu Hause geblieben. Was ist passiert?"]
+      ],
+      "rowsDe": [
+        ["haben", "die meisten Verben, alle Verben mit Akkusativobjekt", "Ich habe einen Kuchen gebacken. Wir haben viel gelacht."],
+        ["haben", "reflexive Verben", "Sie hat sich beeilt. Ich habe mich sehr gefreut."],
+        ["haben", "anfangen, beginnen, aufhören", "Der Kurs hat um neun angefangen."],
+        ["sein", "Bewegung von A nach B (ohne Akkusativobjekt)", "Wir sind nach Graz gefahren. Er ist ins Kino gegangen."],
+        ["sein", "Zustandsänderung", "Ich bin früh aufgewacht. Opa ist eingeschlafen. Das Eis ist geschmolzen."],
+        ["sein", "sein, bleiben, werden, passieren, geschehen, gelingen", "Ich bin zu Hause geblieben. Was ist passiert?"]
+      ],
+      "note": "A movement verb with an accusative object takes haben: Ich bin nach Hause gefahren – but: Ich habe meine Freundin nach Hause gefahren.",
+      "noteDe": "Ein Bewegungsverb mit Akkusativobjekt bildet das Perfekt mit haben: Ich bin nach Hause gefahren – aber: Ich habe meine Freundin nach Hause gefahren."
+    },
+    {
+      "type": "text",
+      "heading": "Word order",
+      "headingDe": "Wortstellung",
+      "md": "The auxiliary is the conjugated verb in **position 2**; the participle goes to the **end**. In a subordinate clause the auxiliary moves to the very end, after the participle:\n\n- Ich **habe** gestern meine Großeltern **besucht**.\n- Ich bin müde, weil ich schlecht **geschlafen habe**.\n- Weißt du, wann der Zug **angekommen ist**?",
+      "mdDe": "Das Hilfsverb ist das konjugierte Verb auf **Position 2**; das Partizip steht **am Ende**. Im Nebensatz geht das Hilfsverb ganz ans Ende, nach dem Partizip:\n\n- Ich **habe** gestern meine Großeltern **besucht**.\n- Ich bin müde, weil ich schlecht **geschlafen habe**.\n- Weißt du, wann der Zug **angekommen ist**?"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Wir **haben** am Wochenende einen Ausflug **gemacht**.", "en": "We went on a trip at the weekend." },
+        { "de": "**Hast** du schon **gegessen**?", "en": "Have you eaten yet?" },
+        { "de": "Meine Tochter **ist** letztes Jahr nach Basel **gezogen**.", "en": "My daughter moved to Basel last year." },
+        { "de": "Der Zug **ist** pünktlich **angekommen**.", "en": "The train arrived on time." },
+        { "de": "Ich **bin** gestern zu Hause **geblieben**.", "en": "I stayed at home yesterday." },
+        { "de": "Was **ist** denn **passiert**?", "en": "What happened?" },
+        { "de": "Ich **habe** dich gestern dreimal **angerufen**.", "en": "I called you three times yesterday." },
+        { "de": "Er **hat** in Leipzig Informatik **studiert**.", "en": "He studied computer science in Leipzig." },
+        { "de": "Wir **sind** um sechs Uhr **aufgestanden**.", "en": "We got up at six o'clock." },
+        { "de": "Sie **hat** mir die ganze Stadt **gezeigt**.", "en": "She showed me the whole town." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "Some verbs can take both auxiliaries – the meaning decides:\n\n- **fahren:** Ich **bin** nach Köln gefahren (movement). – Ich **habe** das Auto in die Garage gefahren (accusative object).\n- **umziehen:** Wir **sind** umgezogen (moved house). – Ich **habe** mich umgezogen (changed clothes).\n\nAnd note: **anfangen** and **beginnen** take **haben** (Der Film **hat** angefangen), but **aufstehen** and **einschlafen** take **sein**. In southern Germany, Austria and Switzerland people also say „ich bin gesessen / gestanden / gelegen“ – correct there, but „ich habe gesessen“ is the safe choice for the exam.",
+      "mdDe": "Manche Verben können beide Hilfsverben haben – die Bedeutung entscheidet:\n\n- **fahren:** Ich **bin** nach Köln gefahren (Bewegung). – Ich **habe** das Auto in die Garage gefahren (Akkusativobjekt).\n- **umziehen:** Wir **sind** umgezogen (= in eine neue Wohnung gezogen). – Ich **habe** mich umgezogen (= andere Kleidung angezogen).\n\nUnd beachte: **anfangen** und **beginnen** bilden das Perfekt mit **haben** (Der Film **hat** angefangen), **aufstehen** und **einschlafen** aber mit **sein**. In Süddeutschland, Österreich und der Schweiz sagt man auch „ich bin gesessen / gestanden / gelegen“ – dort ist das richtig, aber „ich habe gesessen“ ist für die Prüfung die sichere Wahl."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1** a typical gap is the auxiliary: „Wir ___ letzten Sommer nach Kroatien gefahren.“ – „sind / haben / hatten“. Look at the participle at the end: Is it a movement or a change of state? Is there an accusative object?\n\nIn **Schreiben**, you almost always report something in the past (a trip, a problem, a party). Use the Perfekt correctly and combine it with „war“ and „hatte“ – that sounds natural. In **Sprechen Teil 1**, use it to talk about your life: „Ich bin vor drei Jahren nach Deutschland gekommen.“ – „Ich habe in Ankara Wirtschaft studiert.“",
+      "mdDe": "In **Sprachbausteine Teil 1** ist eine typische Lücke das Hilfsverb: „Wir ___ letzten Sommer nach Kroatien gefahren.“ – „sind / haben / hatten“. Schau auf das Partizip am Ende: Ist es eine Bewegung oder eine Zustandsänderung? Gibt es ein Akkusativobjekt?\n\nBeim **Schreiben** berichtest du fast immer über etwas in der Vergangenheit (eine Reise, ein Problem, eine Party). Verwende das Perfekt richtig und kombiniere es mit „war“ und „hatte“ – das klingt natürlich. Nutze es in **Sprechen Teil 1**, um über dein Leben zu sprechen: „Ich bin vor drei Jahren nach Deutschland gekommen.“ – „Ich habe in Ankara Wirtschaft studiert.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe nach Hamburg gefahren.",
+      "right": "Ich bin nach Hamburg gefahren.",
+      "why": "„fahren“ without an accusative object is a movement from A to B → sein.",
+      "whyDe": "„fahren“ ohne Akkusativobjekt ist eine Bewegung von A nach B → sein."
+    },
+    {
+      "wrong": "Ich habe am Wochenende zu Hause geblieben.",
+      "right": "Ich bin am Wochenende zu Hause geblieben.",
+      "why": "„bleiben“ always takes sein, although there is no movement.",
+      "whyDe": "„bleiben“ braucht immer sein, obwohl es keine Bewegung ist."
+    },
+    {
+      "wrong": "Der Kurs ist um neun Uhr angefangen.",
+      "right": "Der Kurs hat um neun Uhr angefangen.",
+      "why": "„anfangen“ and „beginnen“ take haben in the Perfekt.",
+      "whyDe": "„anfangen“ und „beginnen“ bilden das Perfekt mit haben."
+    },
+    {
+      "wrong": "Wir haben den Film schon geseht.",
+      "right": "Wir haben den Film schon gesehen.",
+      "why": "„sehen“ is irregular: its participle ends in -en – „gesehen“.",
+      "whyDe": "„sehen“ ist unregelmäßig: Sein Partizip endet auf -en – „gesehen“."
+    },
+    {
+      "wrong": "Sie hat ihre Oma gebesucht.",
+      "right": "Sie hat ihre Oma besucht.",
+      "why": "Verbs with an inseparable prefix (be-, ver-, er- …) have no ge- in the participle.",
+      "whyDe": "Verben mit untrennbarem Präfix (be-, ver-, er- …) haben im Partizip kein ge-."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Letzten Sommer ___ wir mit dem Zug nach Wien gefahren.",
+      "options": ["haben", "sind", "hatten"],
+      "answer": 1,
+      "explanation": "„fahren“ + destination („nach Wien“) without an accusative object → movement from A to B → sein: „sind … gefahren“.",
+      "explanationDe": "„fahren“ + Ziel („nach Wien“) ohne Akkusativobjekt → Bewegung von A nach B → sein: „sind … gefahren“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich ___ gestern den ganzen Abend ferngesehen.",
+      "options": ["bin", "war", "habe"],
+      "answer": 2,
+      "explanation": "„fernsehen“ is neither a movement nor a change of state → haben: „habe … ferngesehen“.",
+      "explanationDe": "„fernsehen“ ist weder eine Bewegung noch eine Zustandsänderung → haben: „habe … ferngesehen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Hast du ___, dass Lara im Juni heiratet?",
+      "options": ["gewusst", "gewisst", "geweißt"],
+      "answer": 0,
+      "explanation": "„wissen“ is a mixed verb: changed stem + -t → „gewusst“.",
+      "explanationDe": "„wissen“ ist ein gemischtes Verb: veränderter Stamm + -t → „gewusst“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mein Bruder ___ letzte Woche 30 Jahre alt geworden.",
+      "options": ["hat", "wird", "ist"],
+      "answer": 2,
+      "explanation": "„werden“ always takes sein in the Perfekt: „ist … geworden“.",
+      "explanationDe": "„werden“ bildet das Perfekt immer mit sein: „ist … geworden“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wann ___ du heute Morgen aufgestanden?",
+      "answers": ["bist"],
+      "explanation": "„aufstehen“ is a change of position → sein; with „du“: „bist“.",
+      "explanationDe": "„aufstehen“ ist eine Änderung der Position → sein; mit „du“: „bist“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir haben im Urlaub sehr viel ___.",
+      "answers": ["fotografiert"],
+      "hint": "(fotografieren)",
+      "explanation": "Verbs ending in -ieren form the participle without ge-: „fotografiert“.",
+      "explanationDe": "Verben auf -ieren bilden das Partizip ohne ge-: „fotografiert“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Habt ihr das Paket bei der Post schon ___?",
+      "answers": ["abgeholt"],
+      "hint": "(abholen)",
+      "explanation": "„abholen“ is separable: -ge- goes between the prefix and the stem → „abgeholt“.",
+      "explanationDe": "„abholen“ ist trennbar: -ge- steht zwischen Präfix und Stamm → „abgeholt“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Leider habe ich meinen Termin beim Friseur ___.",
+      "answers": ["vergessen"],
+      "hint": "(vergessen)",
+      "explanation": "„vergessen“ has the inseparable prefix ver- → no ge-. The participle looks exactly like the infinitive: „vergessen“.",
+      "explanationDe": "„vergessen“ hat das untrennbare Präfix ver- → kein ge-. Das Partizip sieht genauso aus wie der Infinitiv: „vergessen“."
+    },
+    {
+      "type": "order",
+      "words": ["Kino", "sind", "gegangen.", "Samstag", "Wir", "ins", "am"],
+      "answers": ["Wir sind am Samstag ins Kino gegangen.", "Am Samstag sind wir ins Kino gegangen."],
+      "explanation": "„sind“ is in position 2 and the participle „gegangen“ at the end. The time („am Samstag“) comes before the place („ins Kino“).",
+      "explanationDe": "„sind“ steht auf Position 2 und das Partizip „gegangen“ am Ende. Die Zeit („am Samstag“) steht vor dem Ort („ins Kino“)."
+    },
+    {
+      "type": "order",
+      "words": ["schon", "E-Mail", "du", "gelesen?", "Hast", "die"],
+      "answers": ["Hast du die E-Mail schon gelesen?", "Hast du schon die E-Mail gelesen?"],
+      "explanation": "In a yes/no question the auxiliary „Hast“ comes first; the participle „gelesen“ stays at the end.",
+      "explanationDe": "In einer Ja/Nein-Frage steht das Hilfsverb „Hast“ am Anfang; das Partizip „gelesen“ bleibt am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the sentence into the Perfekt.",
+      "instructionDe": "Setze den Satz ins Perfekt.",
+      "prompt": "Am Abend trifft Lea ihre Freundinnen in der Stadt.",
+      "answers": [
+        "Am Abend hat Lea ihre Freundinnen in der Stadt getroffen.",
+        "Lea hat am Abend ihre Freundinnen in der Stadt getroffen.",
+        "Lea hat ihre Freundinnen am Abend in der Stadt getroffen."
+      ],
+      "explanation": "„treffen“ has an accusative object („ihre Freundinnen“) → haben. The participle is irregular: „getroffen“.",
+      "explanationDe": "„treffen“ hat ein Akkusativobjekt („ihre Freundinnen“) → haben. Das Partizip ist unregelmäßig: „getroffen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the sentence into the Perfekt.",
+      "instructionDe": "Setze den Satz ins Perfekt.",
+      "prompt": "Ich steige am Hauptbahnhof aus.",
+      "answers": ["Ich bin am Hauptbahnhof ausgestiegen.", "Am Hauptbahnhof bin ich ausgestiegen."],
+      "explanation": "„aussteigen“ is a movement → sein. It is separable, so -ge- goes in the middle: „aus-ge-stiegen“.",
+      "explanationDe": "„aussteigen“ ist eine Bewegung → sein. Es ist trennbar, deshalb steht -ge- in der Mitte: „aus-ge-stiegen“."
+    }
+  ],
+  "related": ["praeteritum", "plusquamperfekt", "trennbare-verben", "satzbau-hauptsatz", "nebensaetze-grundlagen"]
+}

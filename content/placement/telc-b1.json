@@ -1,0 +1,539 @@
+{
+  "examId": "telc-b1",
+  "version": 1,
+  "minutes": 20,
+  "sections": [
+    {
+      "skill": "grammatik",
+      "items": [
+        {
+          "id": "g-a2-perfekt-umzug",
+          "level": "A2",
+          "type": "mc",
+          "prompt": "Vor drei Jahren ___ ich von Köln nach Graz umgezogen.",
+          "options": ["habe", "ist", "bin"],
+          "answer": 2,
+          "explanation": "„umziehen“ (to move house) is a change of place, so its Perfekt is formed with „sein“: „ich bin … umgezogen“. „habe“ is the wrong auxiliary, and „ist“ does not go with „ich“.",
+          "explanationDe": "„umziehen“ ist ein Ortswechsel, deshalb bildest du das Perfekt mit „sein“: „ich bin … umgezogen“. „habe“ ist das falsche Hilfsverb, und „ist“ passt nicht zu „ich“.",
+          "grammar": "perfekt"
+        },
+        {
+          "id": "g-a2-praeposition-zu",
+          "level": "A2",
+          "type": "mc",
+          "prompt": "Morgen Nachmittag gehe ich zu ___ Zahnarzt.",
+          "options": ["meinem", "meinen", "mein"],
+          "answer": 0,
+          "explanation": "„zu“ always takes the dative. „der Zahnarzt“ is masculine, so the dative form is „zu meinem Zahnarzt“.",
+          "explanationDe": "Nach „zu“ steht immer der Dativ. „der Zahnarzt“ ist maskulin, also heißt es „zu meinem Zahnarzt“.",
+          "grammar": "praepositionen-mit-kasus"
+        },
+        {
+          "id": "g-a2-nebensatz-dass",
+          "level": "A2",
+          "type": "mc",
+          "prompt": "Meine Kollegin hat mir erzählt, ___.",
+          "options": [
+            "dass sie hat eine neue Wohnung gefunden",
+            "dass sie eine neue Wohnung gefunden hat",
+            "dass hat sie eine neue Wohnung gefunden"
+          ],
+          "answer": 1,
+          "explanation": "„dass“ starts a subordinate clause, so the conjugated verb „hat“ moves to the very end: „dass sie eine neue Wohnung gefunden hat“.",
+          "explanationDe": "„dass“ leitet einen Nebensatz ein. Deshalb steht das konjugierte Verb „hat“ ganz am Ende: „dass sie eine neue Wohnung gefunden hat“.",
+          "grammar": "nebensaetze-grundlagen"
+        },
+        {
+          "id": "g-a2-modalverb-arbeit",
+          "level": "A2",
+          "type": "mc",
+          "prompt": "Letzte Woche ___ ich jeden Tag länger arbeiten, weil zwei Kollegen krank waren.",
+          "options": ["muss", "müsste", "musste"],
+          "answer": 2,
+          "explanation": "„Letzte Woche“ refers to the past, so you need the Präteritum of „müssen“: „musste“ (without umlaut). „müsste“ is Konjunktiv II, and „muss“ is present tense.",
+          "explanationDe": "„Letzte Woche“ zeigt die Vergangenheit. Du brauchst also das Präteritum von „müssen“: „musste“ (ohne Umlaut) – „müsste“ ist Konjunktiv II, und „muss“ ist Präsens.",
+          "grammar": "modalverben"
+        },
+        {
+          "id": "g-b1-temporalsatz",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "___ ich vor zwei Jahren nach Deutschland kam, sprach ich kaum Deutsch.",
+          "options": ["Als", "Wenn", "Wann"],
+          "answer": 0,
+          "explanation": "„als“ is used for a single event in the past – you came to Germany only once („vor zwei Jahren … kam“). „wenn“ is for repeated events or the present and future, and „wann“ is a question word.",
+          "explanationDe": "„als“ benutzt du für ein einmaliges Ereignis in der Vergangenheit – du bist nur einmal nach Deutschland gekommen („vor zwei Jahren … kam“). „wenn“ steht bei Wiederholungen oder in Gegenwart und Zukunft, und „wann“ ist ein Fragewort.",
+          "grammar": "temporale-nebensaetze"
+        },
+        {
+          "id": "g-b1-relativsatz-nachbar",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Der Mann, ___ du gestern im Treppenhaus getroffen hast, ist mein neuer Nachbar.",
+          "options": ["der", "den", "dem"],
+          "answer": 1,
+          "explanation": "In the relative clause the man is the direct object („du hast den Mann getroffen“), so you need the masculine accusative „den“. „der“ would be the subject, and „treffen“ does not take a dative („dem“).",
+          "explanationDe": "Im Relativsatz ist der Mann das Akkusativobjekt („du hast den Mann getroffen“). Du brauchst also „den“ – „der“ wäre das Subjekt, und „treffen“ steht nicht mit Dativ („dem“).",
+          "grammar": "relativsaetze"
+        },
+        {
+          "id": "g-b1-infinitivsatz",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Vergiss bitte nicht, heute Abend deine Mutter ___!",
+          "options": ["anzurufen", "anrufen", "zu anrufen"],
+          "answer": 0,
+          "explanation": "„vergessen“ is followed by an infinitive with „zu“. With separable verbs, „zu“ goes between the prefix and the verb: „anzurufen“.",
+          "explanationDe": "Nach „vergessen“ folgt ein Infinitiv mit „zu“. Bei trennbaren Verben steht „zu“ zwischen Vorsilbe und Verb: „anzurufen“.",
+          "grammar": "infinitiv-mit-zu"
+        },
+        {
+          "id": "g-b1-modalverb-balkon",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Wenn unsere Wohnung einen Balkon hätte, ___ wir im Sommer draußen frühstücken.",
+          "options": ["können", "könnten", "konnten"],
+          "answer": 1,
+          "explanation": "The condition is unreal – „hätte“ shows that the flat has no balcony – so the main clause needs Konjunktiv II too: „könnten“. „können“ is indicative and „konnten“ is Präteritum.",
+          "explanationDe": "Die Bedingung ist nicht real – „hätte“ zeigt: Die Wohnung hat keinen Balkon. Deshalb steht auch im Hauptsatz der Konjunktiv II: „könnten“ („können“ ist Indikativ, „konnten“ Präteritum).",
+          "grammar": "konjunktiv-2"
+        },
+        {
+          "id": "g-b1-adjektivendung-dorf",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Wir haben zehn Jahre in einem ___ Dorf in der Nähe von Basel gewohnt.",
+          "options": ["kleines", "kleinem", "kleinen"],
+          "answer": 2,
+          "explanation": "„in“ answers „wo?“ here, so it takes the dative: „in einem Dorf“. After „einem“ the adjective ends in „-en“: „in einem kleinen Dorf“.",
+          "explanationDe": "„in“ beantwortet hier die Frage „Wo?“ und steht deshalb mit Dativ: „in einem Dorf“. Nach „einem“ endet das Adjektiv auf „-en“: „in einem kleinen Dorf“.",
+          "grammar": "adjektivdeklination"
+        },
+        {
+          "id": "g-b1-verbform-formular",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Das Formular muss von beiden Eltern ___ werden.",
+          "options": ["unterschreiben", "zu unterschreiben", "unterschrieben"],
+          "answer": 2,
+          "explanation": "This is the passive with a modal verb: the participle II and „werden“ go to the end („muss … unterschrieben werden“). „von beiden Eltern“ says who does the action.",
+          "explanationDe": "Das ist Passiv mit Modalverb: Am Ende stehen das Partizip II und „werden“ („muss … unterschrieben werden“). „von beiden Eltern“ sagt, wer etwas tut.",
+          "grammar": "passiv"
+        },
+        {
+          "id": "g-b2-je-desto",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Je weniger ich schlafe, desto ___.",
+          "options": [
+            "schlechter ich mich konzentrieren kann",
+            "schlechter kann ich mich konzentrieren",
+            "ich kann mich schlechter konzentrieren"
+          ],
+          "answer": 1,
+          "explanation": "In the „desto“ part the comparative comes first and the conjugated verb follows directly: „desto schlechter kann ich …“. Only the „je“ part has the verb at the end („schlafe“).",
+          "explanationDe": "Im Teil mit „desto“ steht zuerst der Komparativ und direkt danach das konjugierte Verb: „desto schlechter kann ich …“. Nur im Teil mit „je“ steht das Verb am Ende („schlafe“).",
+          "grammar": "zweiteilige-konnektoren"
+        },
+        {
+          "id": "g-b2-trotz-proteste",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Trotz ___ Proteste der Anwohner wurde der alte Spielplatz geschlossen.",
+          "options": ["zahlreiche", "zahlreichen", "zahlreicher"],
+          "answer": 2,
+          "explanation": "„trotz“ takes the genitive, and without an article the adjective itself shows the case – in the genitive plural it ends in „-er“: „trotz zahlreicher Proteste“. „-en“ would only be right after an article („trotz der zahlreichen Proteste“).",
+          "explanationDe": "Nach „trotz“ steht der Genitiv, und ohne Artikel zeigt das Adjektiv selbst den Kasus – im Genitiv Plural endet es auf „-er“: „trotz zahlreicher Proteste“. „-en“ wäre nur mit Artikel richtig („trotz der zahlreichen Proteste“).",
+          "grammar": "genitiv"
+        },
+        {
+          "id": "g-b2-nebensatz-wohnung",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Wir haben die Wohnung bekommen, ___ wir überhaupt nicht gerechnet hatten.",
+          "options": ["womit", "damit", "mit dem"],
+          "answer": 0,
+          "explanation": "The clause refers to the whole statement („Wir haben die Wohnung bekommen“), not to a noun, so with „rechnen mit“ it starts with „wo-“ + preposition: „womit“. „damit“ would mean „so that“ here, and „mit dem“ would need a masculine or neuter noun.",
+          "explanationDe": "Der Nebensatz bezieht sich auf die ganze Aussage („Wir haben die Wohnung bekommen“), nicht auf ein Nomen – deshalb beginnt er bei „rechnen mit“ mit „wo-“ + Präposition: „womit“. „damit“ würde hier „mit dem Ziel, dass“ bedeuten, und „mit dem“ bräuchte ein maskulines oder neutrales Nomen.",
+          "grammar": "relativsaetze"
+        },
+        {
+          "id": "g-b2-modalverb-vorwurf",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Du hättest mir früher Bescheid sagen ___!",
+          "options": ["gesollt", "sollen", "sollte"],
+          "answer": 1,
+          "explanation": "In the Konjunktiv II past with a modal verb, the modal stays in the infinitive at the end, so there are two infinitives: „hättest … sagen sollen“. „gesollt“ is only used when there is no other verb.",
+          "explanationDe": "Im Konjunktiv II der Vergangenheit mit Modalverb steht das Modalverb im Infinitiv am Ende – es gibt also zwei Infinitive: „hättest … sagen sollen“. „gesollt“ benutzt man nur, wenn kein anderes Verb im Satz steht.",
+          "grammar": "konjunktiv-2"
+        }
+      ]
+    },
+    {
+      "skill": "wortschatz",
+      "items": [
+        {
+          "id": "w-a2-bus",
+          "level": "A2",
+          "type": "mc",
+          "prompt": "Entschuldige, dass ich so spät komme – mein Bus hatte ___.",
+          "options": ["Abfahrt", "Verspätung", "Haltestelle"],
+          "answer": 1,
+          "explanation": "A bus that comes late has „Verspätung“ (a delay). „Abfahrt“ is the departure, and the „Haltestelle“ is the bus stop.",
+          "explanationDe": "Ein Bus, der zu spät kommt, hat „Verspätung“. Die „Abfahrt“ ist der Moment, in dem der Bus losfährt, und an der „Haltestelle“ wartest du auf den Bus."
+        },
+        {
+          "id": "w-a2-schuhe",
+          "level": "A2",
+          "type": "mc",
+          "prompt": "Die Schuhe sind mir leider zu klein, ich brauche eine Nummer ___.",
+          "options": ["größer", "länger", "höher"],
+          "answer": 0,
+          "explanation": "Shoe and clothing sizes are also called „Nummer“: if something is too small, you need „eine Nummer größer“.",
+          "explanationDe": "Die Größe von Schuhen und Kleidung heißt auch „Nummer“. Wenn etwas zu klein ist, brauchst du „eine Nummer größer“."
+        },
+        {
+          "id": "w-a2-apotheke",
+          "level": "A2",
+          "type": "mc",
+          "prompt": "Mit dem ___ vom Arzt bekommst du die Tabletten in der Apotheke.",
+          "options": ["Pflaster", "Zeugnis", "Rezept"],
+          "answer": 2,
+          "explanation": "A „Rezept“ (prescription) is the paper from the doctor that you take to the „Apotheke“ to get medicine. A „Pflaster“ is a plaster, and a „Zeugnis“ is a school or work certificate.",
+          "explanationDe": "Ein „Rezept“ bekommst du vom Arzt, und damit holst du Medikamente in der „Apotheke“. Ein „Pflaster“ klebst du auf eine kleine Wunde, und ein „Zeugnis“ bekommst du in der Schule oder von deiner Firma."
+        },
+        {
+          "id": "w-b1-chef",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Mein Chef ist sehr zufrieden mit mir, deshalb bekomme ich ab Januar mehr ___.",
+          "options": ["Gehalt", "Rente", "Gebühr"],
+          "answer": 0,
+          "explanation": "„das Gehalt“ is the money you earn in your job every month. „die Rente“ is what retired people get, and a „Gebühr“ is a fee you have to pay.",
+          "explanationDe": "„das Gehalt“ ist das Geld, das du jeden Monat für deine Arbeit bekommst. Die „Rente“ bekommen Menschen, die nicht mehr arbeiten, und eine „Gebühr“ musst du bezahlen."
+        },
+        {
+          "id": "w-b1-operation",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Nach der Operation muss ich mich noch zwei Wochen zu Hause ___.",
+          "options": ["ernähren", "erholen", "erinnern"],
+          "answer": 1,
+          "explanation": "„sich erholen“ means to rest until you are well again – exactly what you do after an operation. „sich ernähren“ is about what you eat, and „sich erinnern“ (to remember) needs „an“.",
+          "explanationDe": "„sich erholen“ heißt: sich ausruhen, bis man wieder gesund ist – genau das macht man nach einer Operation. Bei „sich ernähren“ geht es um das Essen, und „sich erinnern“ braucht „an“."
+        },
+        {
+          "id": "w-b1-hotel",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Ich habe mich an der Rezeption ___ das schmutzige Bad in meinem Zimmer beschwert.",
+          "options": ["auf", "gegen", "über"],
+          "answer": 2,
+          "explanation": "The verb is „sich beschweren über“ + accusative: you complain about something („über das schmutzige Bad“). The person you complain to comes with „bei“.",
+          "explanationDe": "Das Verb heißt „sich beschweren über“ + Akkusativ: Du beschwerst dich über etwas („über das schmutzige Bad“). Die Person, bei der du dich beschwerst, steht mit „bei“.",
+          "grammar": "verben-mit-praepositionen"
+        },
+        {
+          "id": "w-b1-miete",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Die Miete beträgt 650 Euro, dazu kommen noch 180 Euro ___ für Heizung und Wasser.",
+          "options": ["Kaution", "Nebenkosten", "Provision"],
+          "answer": 1,
+          "explanation": "„Nebenkosten“ are the extra monthly costs on top of the rent, e.g. for heating and water. A „Kaution“ is a deposit you pay once, and a „Provision“ is the fee for an estate agent.",
+          "explanationDe": "„Nebenkosten“ zahlst du jeden Monat zusätzlich zur Miete, z. B. für Heizung und Wasser. Die „Kaution“ zahlst du nur einmal als Sicherheit, und die „Provision“ bekommt ein Makler."
+        },
+        {
+          "id": "w-b1-reisepass",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Für einen neuen Reisepass müssen Sie im Bürgeramt einen Antrag ___.",
+          "options": ["stellen", "legen", "setzen"],
+          "answer": 0,
+          "explanation": "„einen Antrag stellen“ (to submit an application) is a fixed noun–verb combination. „legen“ and „setzen“ are not used with „Antrag“.",
+          "explanationDe": "„einen Antrag stellen“ ist eine feste Verbindung aus Nomen und Verb. „legen“ und „setzen“ passen nicht zu „Antrag“.",
+          "grammar": "nomen-verb-verbindungen"
+        },
+        {
+          "id": "w-b2-studium",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Viele Studierende nehmen die kostenlose Studienberatung ihrer Universität in ___.",
+          "options": ["Kauf", "Betracht", "Anspruch"],
+          "answer": 2,
+          "explanation": "„etwas in Anspruch nehmen“ means to make use of a service or an offer. „etwas in Kauf nehmen“ means to accept a disadvantage, and „Betracht“ goes with „ziehen“, not „nehmen“.",
+          "explanationDe": "„etwas in Anspruch nehmen“ heißt: ein Angebot oder einen Service nutzen. „etwas in Kauf nehmen“ bedeutet, einen Nachteil zu akzeptieren, und zu „Betracht“ gehört „ziehen“, nicht „nehmen“.",
+          "grammar": "nomen-verb-verbindungen"
+        },
+        {
+          "id": "w-b2-grossvater",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Seit seinem Unfall ist mein Großvater im Alltag ___ die Hilfe seiner Nachbarn angewiesen.",
+          "options": ["an", "von", "auf"],
+          "answer": 2,
+          "explanation": "„angewiesen sein auf“ + accusative means to depend on someone or something: „auf die Hilfe … angewiesen“.",
+          "explanationDe": "„angewiesen sein auf“ + Akkusativ bedeutet: etwas oder jemanden unbedingt brauchen – hier „auf die Hilfe … angewiesen“.",
+          "grammar": "adjektive-mit-praepositionen"
+        }
+      ]
+    },
+    {
+      "skill": "lesen",
+      "texts": [
+        {
+          "id": "l-a2-baeckerei",
+          "level": "A2",
+          "title": "Wir machen Urlaub!",
+          "paragraphs": [
+            "Liebe Kundinnen und Kunden,",
+            "vom 5. bis 18. August machen wir Urlaub. Unser Geschäft in der Goethestraße ist in dieser Zeit geschlossen.",
+            "Brot und Brötchen bekommen Sie aber in unserer Filiale am Bahnhof. Sie ist wie immer von Montag bis Samstag von 6 bis 18 Uhr geöffnet, am Sonntag von 7 bis 11 Uhr.",
+            "Ab dem 19. August sind wir wieder für Sie da. An diesem Tag gibt es zu jedem Einkauf einen Kaffee gratis!",
+            "Ihr Team der Bäckerei Arnold"
+          ],
+          "items": [
+            {
+              "id": "l-a2-baeckerei-1",
+              "level": "A2",
+              "type": "tf",
+              "statement": "Das Geschäft in der Goethestraße ist im August zwei Wochen geschlossen.",
+              "answer": true,
+              "explanation": "The shop in the Goethestraße is closed „vom 5. bis 18. August“ – that is two weeks.",
+              "explanationDe": "Das Geschäft in der Goethestraße ist „vom 5. bis 18. August“ geschlossen – das sind zwei Wochen."
+            },
+            {
+              "id": "l-a2-baeckerei-2",
+              "level": "A2",
+              "type": "mc",
+              "prompt": "Wo bekommt man vom 5. bis 18. August Brot und Brötchen?",
+              "options": [
+                "Nur in der Goethestraße, aber nicht am Sonntag.",
+                "In keinem Geschäft, denn beide machen Urlaub.",
+                "Am Bahnhof, dort hat die Bäckerei noch ein Geschäft."
+              ],
+              "answer": 2,
+              "explanation": "During the holiday you get bread „in unserer Filiale am Bahnhof“ – a „Filiale“ is another shop of the same bakery. Only the shop in the Goethestraße is closed.",
+              "explanationDe": "Im Urlaub bekommst du Brot „in unserer Filiale am Bahnhof“ – eine „Filiale“ ist ein weiteres Geschäft derselben Bäckerei. Nur das Geschäft in der Goethestraße ist geschlossen."
+            },
+            {
+              "id": "l-a2-baeckerei-3",
+              "level": "A2",
+              "type": "tf",
+              "statement": "Die Filiale am Bahnhof ist am Sonntag den ganzen Tag geöffnet.",
+              "answer": false,
+              "explanation": "On Sundays the branch is only open „von 7 bis 11 Uhr“, not all day.",
+              "explanationDe": "Am Sonntag ist die Filiale nur „von 7 bis 11 Uhr“ geöffnet, nicht den ganzen Tag."
+            }
+          ]
+        },
+        {
+          "id": "l-b1-wohnungstausch",
+          "level": "B1",
+          "title": "Große Wohnung gegen kleine Wohnung",
+          "paragraphs": [
+            "Viele ältere Menschen wohnen allein in großen Wohnungen, weil ihre Kinder schon lange ausgezogen sind. Gleichzeitig suchen junge Familien oft jahrelang nach mehr Platz. Die Wohnungsgesellschaft Sonnenfeld in Nürnberg bringt diese Menschen jetzt zusammen: Seit dem letzten Frühjahr können Mieterinnen und Mieter der Gesellschaft ihre Wohnungen tauschen.",
+            "Das funktioniert so: Wer Interesse hat, meldet sich im Kundenbüro und füllt einen kurzen Fragebogen aus. Danach sucht die Gesellschaft einen passenden Tauschpartner. Wichtig ist: Nach dem Tausch ist die Miete pro Quadratmeter nicht höher als vorher. Außerdem zahlt die Gesellschaft jedem Haushalt 500 Euro für den Umzug.",
+            "Renate Ostermann (73) hat ihre Vierzimmerwohnung im Herbst an eine Familie mit zwei Kindern abgegeben. Sie wohnt jetzt in einer Zweizimmerwohnung im selben Haus. „Am Anfang war es schwer, so viele Sachen wegzugeben“, sagt sie. „Aber jetzt muss ich viel weniger putzen, und meine Miete ist auch niedriger.“ Auch Familie Duarte ist froh: Die beiden Kinder haben jetzt endlich eigene Zimmer. Bisher haben 40 Haushalte getauscht, und die Gesellschaft hofft, dass es bald mehr werden."
+          ],
+          "items": [
+            {
+              "id": "l-b1-wohnungstausch-1",
+              "level": "B1",
+              "type": "mc",
+              "prompt": "Warum bietet die Wohnungsgesellschaft den Wohnungstausch an?",
+              "options": [
+                "Weil viele Ältere zu viel und viele Familien zu wenig Platz haben.",
+                "Weil viele ältere Menschen lieber in der Nähe ihrer Kinder wohnen möchten.",
+                "Weil die Mieten in Nürnberg für junge Familien zu hoch geworden sind."
+              ],
+              "answer": 0,
+              "explanation": "Older people often live alone „in großen Wohnungen“, while young families look „jahrelang nach mehr Platz“ – the company „bringt diese Menschen … zusammen“. The text says nothing about older people moving closer to their children or about rents being too high.",
+              "explanationDe": "Ältere Menschen wohnen oft allein „in großen Wohnungen“, und junge Familien suchen „jahrelang nach mehr Platz“ – die Gesellschaft „bringt diese Menschen … zusammen“. Dass Ältere näher bei ihren Kindern wohnen wollen oder dass die Mieten zu hoch sind, steht nicht im Text."
+            },
+            {
+              "id": "l-b1-wohnungstausch-2",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Nach dem Tausch zahlen die Mieter pro Quadratmeter mehr Miete als vorher.",
+              "answer": false,
+              "explanation": "The text says the opposite: „Nach dem Tausch ist die Miete pro Quadratmeter nicht höher als vorher.“",
+              "explanationDe": "Im Text steht das Gegenteil: „Nach dem Tausch ist die Miete pro Quadratmeter nicht höher als vorher.“"
+            },
+            {
+              "id": "l-b1-wohnungstausch-3",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Die Wohnungsgesellschaft unterstützt die Mieter beim Umzug auch finanziell.",
+              "answer": true,
+              "explanation": "„Außerdem zahlt die Gesellschaft jedem Haushalt 500 Euro für den Umzug“ – so the company also helps with money.",
+              "explanationDe": "„Außerdem zahlt die Gesellschaft jedem Haushalt 500 Euro für den Umzug.“ Sie hilft also auch mit Geld."
+            },
+            {
+              "id": "l-b1-wohnungstausch-4",
+              "level": "B1",
+              "type": "mc",
+              "prompt": "Wie findet Frau Ostermann den Tausch heute?",
+              "options": [
+                "Sie ist unglücklich, weil sie viele Sachen weggeben musste.",
+                "Sie ist zufrieden, weil sie weniger Arbeit und Kosten hat.",
+                "Sie findet ihn gut, aber ihre neue Miete ist zu hoch."
+              ],
+              "answer": 1,
+              "explanation": "Giving things away was hard only „Am Anfang“. Now she has to clean „viel weniger“ and her rent is „niedriger“, so she is happy with the swap.",
+              "explanationDe": "Schwer war es nur „Am Anfang“. Jetzt muss sie „viel weniger putzen“, und ihre Miete ist „niedriger“ – sie ist also zufrieden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill": "hoeren",
+      "recordings": [
+        {
+          "id": "h-a2-bahnhof",
+          "level": "A2",
+          "context": "Durchsage am Bahnhof",
+          "speakers": [{ "id": "bahnhof", "gender": "m", "age": "adult", "role": "Lautsprecheransage" }],
+          "script": [
+            { "s": "bahnhof", "t": "Achtung, eine wichtige Information für alle Fahrgäste der S-Bahn-Linie drei!" },
+            { "s": "bahnhof", "t": "Wegen Bauarbeiten fahren heute zwischen Hauptbahnhof und Flughafen keine S-Bahnen." },
+            { "s": "bahnhof", "t": "Bitte nehmen Sie die Busse vor dem Ausgang Nord. Die Busse fahren alle zehn Minuten." },
+            { "s": "bahnhof", "t": "Ihre Fahrkarte gilt auch im Bus. Ab morgen fahren die S-Bahnen wieder normal." }
+          ],
+          "items": [
+            {
+              "id": "h-a2-bahnhof-1",
+              "level": "A2",
+              "type": "tf",
+              "statement": "Die S-Bahnen zum Flughafen fahren heute alle zehn Minuten.",
+              "answer": false,
+              "explanation": "Today „fahren … keine S-Bahnen“ between the main station and the airport. Only the buses run „alle zehn Minuten“.",
+              "explanationDe": "Heute „fahren … keine S-Bahnen“ zwischen Hauptbahnhof und Flughafen. „alle zehn Minuten“ fahren nur die Busse."
+            },
+            {
+              "id": "h-a2-bahnhof-2",
+              "level": "A2",
+              "type": "tf",
+              "statement": "Für die Fahrt mit dem Bus braucht man eine neue Fahrkarte.",
+              "answer": false,
+              "explanation": "No new ticket is needed: „Ihre Fahrkarte gilt auch im Bus.“",
+              "explanationDe": "Du brauchst keine neue Fahrkarte: „Ihre Fahrkarte gilt auch im Bus.“"
+            }
+          ]
+        },
+        {
+          "id": "h-b1-mailbox",
+          "level": "B1",
+          "context": "Nachricht auf der Mailbox",
+          "speakers": [
+            { "id": "werkstatt", "name": "Paul Köhler", "gender": "m", "age": "adult", "role": "Fahrradwerkstatt Ziegler" }
+          ],
+          "script": [
+            { "s": "werkstatt", "t": "Guten Tag, Frau Marquardt, hier ist Paul Köhler von der Fahrradwerkstatt Ziegler. Es geht um Ihr Fahrrad, das Sie am Montag bei uns abgegeben haben." },
+            { "s": "werkstatt", "t": "Die Bremsen haben wir schon repariert, das war ja Ihr Auftrag. Dabei haben wir aber gesehen, dass auch das Licht hinten kaputt ist." },
+            { "s": "werkstatt", "t": "Ein neues Licht würde noch einmal fünfzehn Euro kosten. Bitte rufen Sie uns kurz zurück und sagen Sie uns, ob wir das auch machen sollen." },
+            { "s": "werkstatt", "t": "Abholen können Sie das Rad dann ab Donnerstag. Wir haben montags bis freitags von neun bis achtzehn Uhr geöffnet, samstags ist die Werkstatt geschlossen." },
+            { "s": "werkstatt", "t": "Vielen Dank und einen schönen Tag noch!" }
+          ],
+          "items": [
+            {
+              "id": "h-b1-mailbox-1",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Bei der Reparatur hat die Werkstatt noch einen anderen Schaden gefunden.",
+              "answer": true,
+              "explanation": "While repairing the brakes they saw „dass auch das Licht hinten kaputt ist“ – a second problem that was not part of the order.",
+              "explanationDe": "Bei der Reparatur der Bremsen haben sie gesehen, „dass auch das Licht hinten kaputt ist“. Das ist ein zweites Problem, das nicht im Auftrag war."
+            },
+            {
+              "id": "h-b1-mailbox-2",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Frau Marquardt kann ihr Fahrrad frühestens am Donnerstag abholen.",
+              "answer": true,
+              "explanation": "„Abholen können Sie das Rad dann ab Donnerstag“ – Thursday is the earliest day. Monday is only the day she brought the bike in.",
+              "explanationDe": "„Abholen können Sie das Rad dann ab Donnerstag“ – früher geht es also nicht. Am Montag hat sie das Fahrrad nur abgegeben."
+            }
+          ]
+        },
+        {
+          "id": "h-b1-dialog",
+          "level": "B1",
+          "context": "Gespräch in einem Bekleidungsgeschäft",
+          "speakers": [
+            { "id": "kundin", "gender": "f", "age": "adult", "role": "Kundin" },
+            { "id": "verkaeufer", "gender": "m", "age": "young", "role": "Verkäufer" }
+          ],
+          "script": [
+            { "s": "kundin", "t": "Guten Tag, ich habe diese Jacke letzte Woche hier gekauft. Leider ist der Reißverschluss schon kaputt." },
+            { "s": "verkaeufer", "t": "Oh, das tut mir leid. Haben Sie den Kassenbon dabei?" },
+            { "s": "kundin", "t": "Ja, hier ist er. Ich hätte gern mein Geld zurück." },
+            { "s": "verkaeufer", "t": "Das geht leider nur, wenn wir die Jacke nicht umtauschen können. Wir haben das gleiche Modell aber noch in Ihrer Größe da." },
+            { "s": "kundin", "t": "Na gut, dann nehme ich eben die neue Jacke. Aber diesmal probiere ich sie lieber gleich hier an." },
+            { "s": "verkaeufer", "t": "Natürlich, die Umkleidekabinen sind dort hinten links." }
+          ],
+          "items": [
+            {
+              "id": "h-b1-dialog-1",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Die Kundin bekommt am Ende ihr Geld zurück.",
+              "answer": false,
+              "explanation": "She asks for her money back, but that is only possible if the shop cannot exchange the jacket. In the end she says „dann nehme ich eben die neue Jacke“.",
+              "explanationDe": "Die Kundin möchte zuerst ihr Geld zurück, aber das geht nur, wenn das Geschäft die Jacke nicht umtauschen kann. Am Ende sagt sie: „dann nehme ich eben die neue Jacke“."
+            },
+            {
+              "id": "h-b1-dialog-2",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Die Kundin möchte im Geschäft prüfen, ob ihr die neue Jacke passt.",
+              "answer": true,
+              "explanation": "She says „diesmal probiere ich sie lieber gleich hier an“ – she wants to try the new jacket on in the shop, and the assistant points her to the changing rooms.",
+              "explanationDe": "Sie sagt: „diesmal probiere ich sie lieber gleich hier an“. Sie will die neue Jacke also im Geschäft anprobieren, und der Verkäufer zeigt ihr die Umkleidekabinen."
+            }
+          ]
+        },
+        {
+          "id": "h-b2-radio",
+          "level": "B2",
+          "context": "Radiointerview mit einer Hausärztin",
+          "speakers": [
+            { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
+            { "id": "haas", "name": "Johanna Haas", "gender": "f", "age": "adult", "role": "Hausärztin" }
+          ],
+          "script": [
+            { "s": "mod", "t": "Frau Haas, Sie haben vor zwei Jahren eine Hausarztpraxis in einem kleinen Dorf in Brandenburg übernommen. Viele junge Ärzte wollen lieber in der Stadt arbeiten – warum Sie nicht?" },
+            { "s": "haas", "t": "Ich bin selbst auf dem Land aufgewachsen, und ein großes Krankenhaus war nie mein Traum. Hier kenne ich meine Patienten, oft sogar die ganze Familie – genau das macht für mich diesen Beruf aus." },
+            { "s": "mod", "t": "Das klingt fast ein bisschen romantisch." },
+            { "s": "haas", "t": "Na ja, romantisch ist es nicht immer. Ich arbeite oft mehr als fünfzig Stunden pro Woche, und für einen einzigen Hausbesuch fahre ich manchmal eine halbe Stunde." },
+            { "s": "mod", "t": "Was müsste sich denn ändern, damit mehr junge Ärztinnen und Ärzte aufs Land gehen? Mehr Geld?" },
+            { "s": "haas", "t": "Geld schadet natürlich nie. Aber wer abends noch zwei Stunden an Formularen sitzt, den lockt man auch mit einem höheren Honorar nicht aufs Land." },
+            { "s": "haas", "t": "Viel mehr würde es helfen, wenn man eine Praxis leichter zu zweit führen könnte. Dann hätte man auch mal ein freies Wochenende." }
+          ],
+          "items": [
+            {
+              "id": "h-b2-radio-1",
+              "level": "B2",
+              "type": "tf",
+              "statement": "Frau Haas glaubt, dass man junge Ärzte vor allem mit mehr Geld aufs Land holen kann.",
+              "answer": false,
+              "explanation": "She admits „Geld schadet natürlich nie“, but adds: „wer abends noch zwei Stunden an Formularen sitzt, den lockt man auch mit einem höheren Honorar nicht aufs Land“. In her view, sharing a practice would help much more.",
+              "explanationDe": "Sie sagt zwar „Geld schadet natürlich nie“, aber: „wer abends noch zwei Stunden an Formularen sitzt, den lockt man auch mit einem höheren Honorar nicht aufs Land“. Viel mehr würde ihrer Meinung nach eine Praxis zu zweit helfen."
+            },
+            {
+              "id": "h-b2-radio-2",
+              "level": "B2",
+              "type": "tf",
+              "statement": "Laut Frau Haas könnten Gemeinschaftspraxen die Arbeit auf dem Land attraktiver machen.",
+              "answer": true,
+              "explanation": "Asked what would bring more young doctors to the countryside, she says it would help much more „wenn man eine Praxis leichter zu zweit führen könnte“ – then doctors would have „auch mal ein freies Wochenende“.",
+              "explanationDe": "Auf die Frage, was mehr junge Ärzte aufs Land bringen würde, sagt sie: Es würde viel mehr helfen, „wenn man eine Praxis leichter zu zweit führen könnte“. Dann hätte man „auch mal ein freies Wochenende“."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

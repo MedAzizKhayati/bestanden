@@ -1,0 +1,71 @@
+{
+  "id": "sprechen-3-02",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Überraschung für Tobias",
+  "topic": "freizeit",
+  "difficulty": 1,
+  "situation": "Ihr gemeinsamer Freund Tobias wird nächsten Monat 30 Jahre alt. Sie möchten für ihn eine Überraschungsparty organisieren. Planen Sie gemeinsam, was Sie machen möchten, und wer welche Aufgabe übernimmt.",
+  "checklist": [
+    "Wann?",
+    "Wo?",
+    "Wen einladen?",
+    "Essen und Getränke?",
+    "Musik?",
+    "Geschenk?",
+    "Wer macht was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Katarzyna Lewandowska", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Ali Rezaei", "gender": "m", "age": "young", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Hallo Ali! Tobias hat ja bald Geburtstag, und er wird dreißig. Wollen wir eine Überraschungsparty für ihn machen?" },
+    { "s": "B", "t": "Ja, super Idee! Sein Geburtstag ist an einem Donnerstag, aber ich finde, wir sollten am Samstag feiern. Dann müssen die Gäste am nächsten Tag nicht arbeiten." },
+    { "s": "A", "t": "Das finde ich auch. Und wo feiern wir? Bei mir ist es leider zu klein, ich habe nur ein Zimmer." },
+    { "s": "B", "t": "Bei mir geht es auch nicht, weil sich meine Nachbarn immer beschweren, wenn es laut ist. Wie wäre es mit dem Partyraum im Café Lindenblatt? Den kann man für einen Abend mieten." },
+    { "s": "A", "t": "Das klingt gut, aber ist das nicht teuer?" },
+    { "s": "B", "t": "Nein, ich glaube, er kostet nur fünfzig Euro, wenn man die Getränke dort kauft. Ich kann morgen anrufen und fragen, ob der Raum noch frei ist." },
+    { "s": "A", "t": "Super, mach das bitte. Wen laden wir ein? Tobias hat ja sehr viele Freunde." },
+    { "s": "B", "t": "Ich würde seine Freunde aus dem Fußballverein, seine Kollegen und natürlich seine Schwester einladen. Das sind vielleicht dreißig Leute." },
+    { "s": "A", "t": "Dreißig sind ein bisschen viel für den Partyraum, oder? Vielleicht laden wir nur die engsten Freunde ein, so ungefähr zwanzig Personen." },
+    { "s": "B", "t": "Du hast recht, sonst wird es zu eng. Seine Schwester Anna kann uns sicher helfen, sie kennt alle seine Freunde." },
+    { "s": "A", "t": "Gute Idee, ich schreibe ihr heute Abend. Sie kann die Einladungen in einer Chatgruppe verschicken, aber Tobias darf natürlich nichts merken!" },
+    { "s": "B", "t": "Genau, es soll ja eine Überraschung sein. Aber wie bekommen wir ihn ins Café?" },
+    { "s": "A", "t": "Ich könnte ihn zum Essen einladen und sagen, dass wir nur zu zweit sind. Wenn wir reinkommen, sind schon alle da und rufen: Überraschung!" },
+    { "s": "B", "t": "Perfekt! Beim Essen schlage ich vor, dass wir Pizza bestellen, weil das einfach ist und alle Pizza mögen." },
+    { "s": "A", "t": "Pizza ist okay, aber Tobias isst seit einem Jahr kein Fleisch mehr. Vielleicht machen wir lieber ein Buffet mit Salaten und Gemüsepizza?" },
+    { "s": "B", "t": "Stimmt, das hatte ich vergessen. Dann bestellen wir vegetarische Pizza und machen noch zwei Salate. Und einen Geburtstagskuchen brauchen wir natürlich auch!" },
+    { "s": "A", "t": "Den Kuchen backe ich, ich mache einen polnischen Käsekuchen. Das ist sein Lieblingskuchen." },
+    { "s": "B", "t": "Lecker! Dann kümmere ich mich um die Musik. Ich mache eine Playlist mit seinen Lieblingsliedern, und mein Bruder bringt seine Musikanlage mit." },
+    { "s": "A", "t": "Toll. Und was schenken wir ihm? Er sagt seit Jahren, dass er gern einmal einen Ballonflug machen möchte." },
+    { "s": "B", "t": "Ein Ballonflug ist bestimmt toll, aber auch sehr teuer. Vielleicht können alle Gäste etwas Geld dazugeben. Dann kostet es für jeden nur zehn oder fünfzehn Euro." },
+    { "s": "A", "t": "Gute Idee, so machen wir es. Ich sammle das Geld auf der Party, und Anna fragt vorher alle Gäste." },
+    { "s": "B", "t": "Okay. Also, fassen wir zusammen: Wir feiern am Samstag im Partyraum vom Café Lindenblatt mit ungefähr zwanzig Gästen. Ich rufe im Café an, bestelle die Pizza und kümmere mich um die Musik." },
+    { "s": "A", "t": "Und ich schreibe Anna wegen der Einladungen, backe den Käsekuchen, mache die Salate und sammle das Geld für den Ballonflug. Außerdem bringe ich Tobias ins Café!" },
+    { "s": "B", "t": "Super, das wird eine tolle Party. Tobias wird sich bestimmt freuen!" }
+  ],
+  "phrases": [
+    { "de": "Wollen wir … machen?", "en": "Shall we do …?" },
+    { "de": "Ich finde, wir sollten …", "en": "I think we should …" },
+    { "de": "Bei mir geht es leider nicht, weil …", "en": "Unfortunately it doesn't work at my place, because …" },
+    { "de": "Das klingt gut, aber …", "en": "That sounds good, but …" },
+    { "de": "Du hast recht, sonst …", "en": "You're right, otherwise …" },
+    { "de": "Stimmt, das hatte ich vergessen.", "en": "True, I'd forgotten that." },
+    { "de": "Dann kümmere ich mich um …", "en": "Then I'll take care of …" },
+    { "de": "Gute Idee, so machen wir es.", "en": "Good idea, let's do it that way." },
+    { "de": "Also, fassen wir zusammen: …", "en": "So, let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Überraschungsparty", "en": "surprise party" },
+    { "de": "der Partyraum", "en": "party room" },
+    { "de": "mieten", "en": "to rent" },
+    { "de": "die engsten Freunde", "en": "closest friends" },
+    { "de": "die Einladung verschicken", "en": "to send out the invitation" },
+    { "de": "etwas merken", "en": "to notice something" },
+    { "de": "der Käsekuchen", "en": "cheesecake" },
+    { "de": "die Musikanlage", "en": "sound system" },
+    { "de": "Geld dazugeben", "en": "to chip in" },
+    { "de": "der Ballonflug", "en": "hot-air balloon ride" }
+  ]
+}

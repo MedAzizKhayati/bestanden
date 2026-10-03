@@ -1,0 +1,148 @@
+{
+  "id": "hoeren-2-10",
+  "examId": "telc-b1",
+  "type": "audio-long",
+  "title": "Neustart mit 50",
+  "topic": "arbeit",
+  "difficulty": 3,
+  "context": "Radiosendung „Lebenswege“: Interview mit einer Frau, die mit 50 Jahren einen neuen Beruf gelernt hat",
+  "speakers": [
+    { "id": "mod", "name": "Moderator", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "hinrichs", "name": "Frau Hinrichs", "gender": "f", "age": "adult", "role": "Tischlerin" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Guten Abend und willkommen bei „Lebenswege“. Mein Gast heute hat mit 50 Jahren etwas getan, wovon viele nur träumen: Sie hat beruflich noch einmal ganz von vorn angefangen." },
+    { "s": "mod", "t": "Monika Hinrichs war 27 Jahre lang Bankkauffrau, heute ist sie Tischlerin in Bremen. Herzlich willkommen, Frau Hinrichs!" },
+    { "s": "hinrichs", "t": "Guten Abend, und vielen Dank für die Einladung." },
+    { "s": "mod", "t": "Frau Hinrichs, wie kam es zu diesem großen Schritt?" },
+    { "s": "hinrichs", "t": "Vor fünf Jahren hat meine Bank die Filiale geschlossen, in der ich so lange gearbeitet hatte. Man hat mir dann eine Stelle in der Zentrale angeboten, aber ich habe abgelehnt." },
+    { "s": "mod", "t": "Sie hätten also bleiben können?" },
+    { "s": "hinrichs", "t": "Ja, und viele haben mich für verrückt erklärt. Aber eigentlich wusste ich schon seit Jahren, dass ich etwas anderes machen wollte. Die Schließung war nur der letzte Anstoß." },
+    { "s": "mod", "t": "Und warum ausgerechnet Tischlerin?" },
+    { "s": "hinrichs", "t": "Mein Vater hatte eine kleine Tischlerei, und als Kind habe ich jeden Nachmittag in seiner Werkstatt verbracht. Den Geruch von Holz habe ich nie vergessen." },
+    { "s": "hinrichs", "t": "Später habe ich in meiner Freizeit Regale und kleine Tische gebaut, aber nur für mich und meine Familie." },
+    { "s": "mod", "t": "War es schwer, mit 50 einen Ausbildungsplatz zu finden?" },
+    { "s": "hinrichs", "t": "Sehr schwer. Ich habe 23 Bewerbungen geschrieben, und die meisten Betriebe haben nicht einmal geantwortet." },
+    { "s": "hinrichs", "t": "Am Ende hat mich ein Tischlermeister genommen, der zwölf Jahre jünger ist als ich. Er hat gesagt: „Wer mit 50 so etwas anfängt, der meint es wirklich ernst.“" },
+    { "s": "mod", "t": "Wie lange hat die Ausbildung gedauert?" },
+    { "s": "hinrichs", "t": "Normalerweise dauert sie drei Jahre. Weil ich aber schon eine abgeschlossene Ausbildung hatte, durfte ich sie um ein halbes Jahr verkürzen." },
+    { "s": "mod", "t": "Und wie haben Sie das finanziell geschafft? Als Auszubildende verdient man ja nicht viel." },
+    { "s": "hinrichs", "t": "Ungefähr 800 Euro im Monat, das stimmt. Mein Mann und ich hatten zum Glück etwas gespart, und unser zweites Auto haben wir verkauft." },
+    { "s": "hinrichs", "t": "Bei der Agentur für Arbeit habe ich mich beraten lassen, und das war sehr hilfreich. Geld habe ich von dort aber keins bekommen, weil ich ja nicht arbeitslos war." },
+    { "s": "mod", "t": "Was hat Ihre Familie gesagt?" },
+    { "s": "hinrichs", "t": "Meine Tochter war sofort begeistert, sie hat sogar meine Bewerbungen Korrektur gelesen. Meine Mutter dagegen hat sich große Sorgen gemacht." },
+    { "s": "hinrichs", "t": "Sie hat immer gesagt: „Kind, du hattest doch so einen sicheren Job!“ Inzwischen erzählt sie aber allen Nachbarinnen stolz von mir." },
+    { "s": "mod", "t": "Wie war es in der Berufsschule, zusammen mit lauter jungen Leuten?" },
+    { "s": "hinrichs", "t": "Am Anfang war es komisch, die meisten waren siebzehn oder achtzehn. Drei Wochen lang haben sie mich gesiezt, dann war ich einfach die Moni." },
+    { "s": "hinrichs", "t": "In Mathe konnte ich ihnen oft helfen. Dafür haben die Jüngeren mir am Computer gezeigt, wie man mit dem Programm die Pläne für Möbel zeichnet." },
+    { "s": "mod", "t": "Und körperlich? Tischlern ist ja auch harte Arbeit." },
+    { "s": "hinrichs", "t": "In den ersten Monaten hatte ich abends oft Rückenschmerzen, weil die Holzplatten so schwer sind. Inzwischen bin ich so fit wie noch nie." },
+    { "s": "mod", "t": "Und dann kam die Abschlussprüfung." },
+    { "s": "hinrichs", "t": "Ja, und ich war wahnsinnig nervös. Am Ende war ich die Zweitbeste in meinem Jahrgang, nur ein junger Mann war noch ein bisschen besser." },
+    { "s": "hinrichs", "t": "Mein Prüfungsstück, ein Schrank aus Kirschholz, steht jetzt bei uns im Wohnzimmer." },
+    { "s": "mod", "t": "Und was machen Sie heute?" },
+    { "s": "hinrichs", "t": "Ich arbeite in genau dem Betrieb, in dem ich gelernt habe. Mein Chef wollte mich eigentlich jeden Tag haben, aber wir haben uns auf vier Tage pro Woche geeinigt." },
+    { "s": "hinrichs", "t": "Ich repariere vor allem alte Möbel, und ich mache die Beratung für die Kunden. Da hilft mir meine Erfahrung aus der Bank sehr." },
+    { "s": "mod", "t": "Haben Sie noch weitere Pläne?" },
+    { "s": "hinrichs", "t": "Vielleicht mache ich noch die Meisterprüfung. Aber das entscheide ich erst im Frühjahr, im Moment genieße ich einfach meine Arbeit." },
+    { "s": "mod", "t": "Bereuen Sie etwas?" },
+    { "s": "hinrichs", "t": "Nur eins: dass ich nicht zehn Jahre früher angefangen habe. Mein Rat an alle, die so etwas planen: gut rechnen, aber nicht zu lange überlegen." },
+    { "s": "mod", "t": "Frau Hinrichs, vielen Dank für dieses Gespräch und weiterhin viel Freude in der Werkstatt!" }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Nach der Schließung der Filiale hat die Bank Frau Hinrichs gekündigt.",
+      "answer": false,
+      "explanation": "She was not dismissed: „Man hat mir dann eine Stelle in der Zentrale angeboten, aber ich habe abgelehnt“ – she turned down the new job herself.",
+      "explanationDe": "Die Bank hat ihr nicht gekündigt: „Man hat mir dann eine Stelle in der Zentrale angeboten, aber ich habe abgelehnt“ – sie selbst hat die neue Stelle abgelehnt.",
+      "evidence": "Man hat mir dann eine Stelle in der Zentrale angeboten, aber ich habe abgelehnt."
+    },
+    {
+      "n": 2,
+      "text": "Frau Hinrichs wollte schon vor der Schließung beruflich etwas anderes machen.",
+      "answer": true,
+      "explanation": "„eigentlich wusste ich schon seit Jahren, dass ich etwas anderes machen wollte“ – the closure was „nur der letzte Anstoß“ (only the final push).",
+      "explanationDe": "„eigentlich wusste ich schon seit Jahren, dass ich etwas anderes machen wollte“ – die Schließung war „nur der letzte Anstoß“ (= nur noch der letzte Grund, es wirklich zu tun).",
+      "evidence": "Aber eigentlich wusste ich schon seit Jahren, dass ich etwas anderes machen wollte."
+    },
+    {
+      "n": 3,
+      "text": "Frau Hinrichs musste viele Bewerbungen schreiben, bis sie einen Ausbildungsplatz bekam.",
+      "answer": true,
+      "explanation": "„Ich habe 23 Bewerbungen geschrieben“, and most companies did not even answer before a master carpenter took her.",
+      "explanationDe": "„Ich habe 23 Bewerbungen geschrieben“, und die meisten Betriebe haben nicht einmal geantwortet, bevor ein Tischlermeister sie genommen hat.",
+      "evidence": "Ich habe 23 Bewerbungen geschrieben, und die meisten Betriebe haben nicht einmal geantwortet."
+    },
+    {
+      "n": 4,
+      "text": "Die Ausbildung von Frau Hinrichs hat drei Jahre gedauert.",
+      "answer": false,
+      "explanation": "Three years is the normal length, but she „durfte … sie um ein halbes Jahr verkürzen“ – so her apprenticeship took two and a half years.",
+      "explanationDe": "Normalerweise dauert die Ausbildung drei Jahre, aber sie „durfte … sie um ein halbes Jahr verkürzen“ – ihre Ausbildung hat also zweieinhalb Jahre gedauert.",
+      "evidence": "durfte ich sie um ein halbes Jahr verkürzen"
+    },
+    {
+      "n": 5,
+      "text": "Während der Ausbildung hat die Agentur für Arbeit Frau Hinrichs finanziell unterstützt.",
+      "answer": false,
+      "explanation": "The job centre only gave her advice: „Geld habe ich von dort aber keins bekommen“, because she was not unemployed. The couple lived on their savings.",
+      "explanationDe": "Die Agentur für Arbeit hat sie nur beraten: „Geld habe ich von dort aber keins bekommen“, weil sie nicht arbeitslos war. Das Ehepaar hat von seinen Ersparnissen gelebt.",
+      "evidence": "Geld habe ich von dort aber keins bekommen, weil ich ja nicht arbeitslos war."
+    },
+    {
+      "n": 6,
+      "text": "Die Tochter von Frau Hinrichs fand die Idee ihrer Mutter von Anfang an gut.",
+      "answer": true,
+      "explanation": "„Meine Tochter war sofort begeistert“ – it was her mother who was worried („hat sich große Sorgen gemacht“).",
+      "explanationDe": "„Meine Tochter war sofort begeistert“ – besorgt war dagegen ihre Mutter („hat sich große Sorgen gemacht“).",
+      "evidence": "Meine Tochter war sofort begeistert"
+    },
+    {
+      "n": 7,
+      "text": "In der Berufsschule haben jüngere Mitschüler Frau Hinrichs am Computer geholfen.",
+      "answer": true,
+      "explanation": "She helped the others in maths, and in return „haben die Jüngeren mir am Computer gezeigt“, how to draw plans for furniture.",
+      "explanationDe": "Sie hat den anderen in Mathe geholfen, und dafür „haben die Jüngeren mir am Computer gezeigt“, wie man Pläne für Möbel zeichnet.",
+      "evidence": "Dafür haben die Jüngeren mir am Computer gezeigt, wie man mit dem Programm die Pläne für Möbel zeichnet."
+    },
+    {
+      "n": 8,
+      "text": "Bei der Abschlussprüfung hatte Frau Hinrichs das beste Ergebnis ihres Jahrgangs.",
+      "answer": false,
+      "explanation": "„Am Ende war ich die Zweitbeste in meinem Jahrgang“ – one young man was a little better.",
+      "explanationDe": "„Am Ende war ich die Zweitbeste in meinem Jahrgang“ – ein junger Mann war noch ein bisschen besser.",
+      "evidence": "Am Ende war ich die Zweitbeste in meinem Jahrgang"
+    },
+    {
+      "n": 9,
+      "text": "Heute arbeitet Frau Hinrichs an vier Tagen pro Woche in der Tischlerei.",
+      "answer": true,
+      "explanation": "Her boss wanted her every day, „aber wir haben uns auf vier Tage pro Woche geeinigt“.",
+      "explanationDe": "Ihr Chef wollte sie jeden Tag haben, „aber wir haben uns auf vier Tage pro Woche geeinigt“.",
+      "evidence": "aber wir haben uns auf vier Tage pro Woche geeinigt"
+    },
+    {
+      "n": 10,
+      "text": "Frau Hinrichs hat schon entschieden, dass sie die Meisterprüfung macht.",
+      "answer": false,
+      "explanation": "„Vielleicht mache ich noch die Meisterprüfung. Aber das entscheide ich erst im Frühjahr“ – she has not decided yet.",
+      "explanationDe": "„Vielleicht mache ich noch die Meisterprüfung. Aber das entscheide ich erst im Frühjahr“ – sie hat sich noch nicht entschieden.",
+      "evidence": "Aber das entscheide ich erst im Frühjahr"
+    }
+  ],
+  "glossary": [
+    { "de": "die Filiale", "en": "branch (of a bank or shop)" },
+    { "de": "die Zentrale", "en": "head office" },
+    { "de": "ablehnen", "en": "to turn down" },
+    { "de": "der Anstoß", "en": "push, impulse" },
+    { "de": "die Tischlerei", "en": "carpenter's workshop" },
+    { "de": "die Bewerbung", "en": "application" },
+    { "de": "verkürzen", "en": "to shorten" },
+    { "de": "sich beraten lassen", "en": "to get advice" },
+    { "de": "jemanden siezen", "en": "to address somebody formally with „Sie“" },
+    { "de": "der Jahrgang", "en": "year group" },
+    { "de": "sich einigen auf", "en": "to agree on" },
+    { "de": "bereuen", "en": "to regret" }
+  ]
+}

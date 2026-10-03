@@ -1,0 +1,101 @@
+{
+  "id": "hoeren-1-01",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Wer macht die Hausarbeit?",
+  "topic": "familie",
+  "difficulty": 1,
+  "speakers": [
+    { "id": "mod", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "sabine", "name": "Sabine", "gender": "f", "age": "adult" },
+    { "id": "torsten", "name": "Torsten", "gender": "m", "age": "adult" },
+    { "id": "lea", "name": "Lea", "gender": "f", "age": "young" },
+    { "id": "herbert", "name": "Herbert", "gender": "m", "age": "senior" },
+    { "id": "aylin", "name": "Aylin", "gender": "f", "age": "adult" }
+  ],
+  "intro": [
+    { "s": "mod", "t": "Hallo und herzlich willkommen bei Radio Weserwelle! In unserer Straßenumfrage geht es heute um ein Thema, das in vielen Familien für Streit sorgt." },
+    { "s": "mod", "t": "Wir wollten wissen: Wer macht bei Ihnen zu Hause eigentlich die Hausarbeit?" }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "script": [
+        { "s": "sabine", "t": "Bei uns gibt es einen Plan, der hängt in der Küche am Kühlschrank. Da steht genau drauf, wer in dieser Woche was machen muss." },
+        { "s": "sabine", "t": "Mein Mann kocht meistens, ich kümmere mich um die Wäsche, und die Kinder müssen staubsaugen und den Müll rausbringen." },
+        { "s": "sabine", "t": "Am Anfang haben die beiden natürlich protestiert. Aber jetzt klappt das richtig gut, und keiner muss alles allein machen." }
+      ],
+      "statement": "In der Familie der Frau teilen sich alle die Hausarbeit.",
+      "answer": true,
+      "explanation": "There is a plan on the fridge: the husband cooks, she does the washing and the children vacuum and take out the rubbish. „Keiner muss alles allein machen“ – everybody helps.",
+      "explanationDe": "Am Kühlschrank hängt ein Plan: Ihr Mann kocht, sie kümmert sich um die Wäsche, und die Kinder saugen Staub und bringen den Müll raus. „Keiner muss alles allein machen“ – alle helfen mit.",
+      "evidence": "keiner muss alles allein machen"
+    },
+    {
+      "n": 2,
+      "script": [
+        { "s": "torsten", "t": "Ehrlich gesagt macht bei uns meine Frau fast die ganze Hausarbeit. Ich bin beruflich viel unterwegs und komme oft erst spät nach Hause." },
+        { "s": "torsten", "t": "Das ist natürlich keine gute Ausrede, das weiß ich selbst. Meine Frau arbeitet ja auch, nur eben halbtags." },
+        { "s": "torsten", "t": "Seit ein paar Wochen koche ich wenigstens am Wochenende und gehe samstags einkaufen. Aber gerecht ist das noch lange nicht." }
+      ],
+      "statement": "Der Mann und seine Frau machen gleich viel im Haushalt.",
+      "answer": false,
+      "explanation": "He admits that „meine Frau fast die ganze Hausarbeit“ does. He now cooks at the weekend, but says „gerecht ist das noch lange nicht“ – so the work is not shared equally.",
+      "explanationDe": "Er gibt zu, dass „meine Frau fast die ganze Hausarbeit“ macht. Am Wochenende kocht er jetzt zwar, aber „gerecht ist das noch lange nicht“, sagt er – die Arbeit ist also nicht gleich verteilt.",
+      "evidence": "macht bei uns meine Frau fast die ganze Hausarbeit"
+    },
+    {
+      "n": 3,
+      "script": [
+        { "s": "lea", "t": "Ich wohne mit drei anderen Studenten in einer Wohngemeinschaft. Wir haben einen Putzplan, aber ehrlich gesagt hält sich kaum jemand daran." },
+        { "s": "lea", "t": "Das Geschirr steht oft tagelang in der Spüle, und das Bad putze am Ende meistens ich. Wir hatten deswegen schon richtig Streit." },
+        { "s": "lea", "t": "Nächsten Monat ziehe ich aus, in eine kleine Wohnung nur für mich. Dann weiß ich wenigstens, wer schuld ist, wenn es dreckig ist." }
+      ],
+      "statement": "Die junge Frau findet, dass das Putzen in ihrer Wohngemeinschaft gut klappt.",
+      "answer": false,
+      "explanation": "There is a cleaning plan, but „kaum jemand“ follows it, they have had arguments and she is moving out. Don't be fooled by the word „Putzplan“.",
+      "explanationDe": "Es gibt zwar einen Putzplan, aber „kaum jemand“ hält sich daran, es gab schon Streit, und sie zieht aus. Lass dich vom Wort „Putzplan“ nicht täuschen.",
+      "evidence": "Wir haben einen Putzplan, aber ehrlich gesagt hält sich kaum jemand daran."
+    },
+    {
+      "n": 4,
+      "script": [
+        { "s": "herbert", "t": "Früher hat bei uns meine Frau den Haushalt gemacht, ich war ja den ganzen Tag in der Firma. Aber seit ich in Rente bin, hat sich das total geändert." },
+        { "s": "herbert", "t": "Jetzt koche ich jeden Mittag, und ich hab sogar gelernt, wie man Hemden bügelt. Das macht mir richtig Spaß, ehrlich!" },
+        { "s": "herbert", "t": "Meine Frau sagt immer, ich hätte das schon vor vierzig Jahren lernen sollen." }
+      ],
+      "statement": "Seit der Mann Rentner ist, macht er gern Arbeiten im Haushalt.",
+      "answer": true,
+      "explanation": "„Seit ich in Rente bin, hat sich das total geändert“: he cooks every day, irons shirts and says „Das macht mir richtig Spaß“.",
+      "explanationDe": "„Seit ich in Rente bin, hat sich das total geändert“ – er kocht jeden Tag, bügelt Hemden und sagt: „Das macht mir richtig Spaß“.",
+      "evidence": "Das macht mir richtig Spaß, ehrlich!"
+    },
+    {
+      "n": 5,
+      "script": [
+        { "s": "aylin", "t": "Mein Mann und ich arbeiten beide Vollzeit, und abends haben wir einfach keine Lust mehr zu putzen. Deshalb kommt alle zwei Wochen eine Putzhilfe zu uns." },
+        { "s": "aylin", "t": "Am Anfang hatte ich ein schlechtes Gewissen, weil meine Mutter immer alles selbst gemacht hat." },
+        { "s": "aylin", "t": "Aber ganz ehrlich, das ist das beste Geld, das ich im Monat ausgebe. So haben wir am Wochenende mehr Zeit für die Kinder." }
+      ],
+      "statement": "Die Frau findet, dass eine Putzhilfe zu viel Geld kostet.",
+      "answer": false,
+      "explanation": "She calls the cleaner „das beste Geld, das ich im Monat ausgebe“. She only felt guilty at the beginning – she does not think it is too expensive.",
+      "explanationDe": "Sie nennt die Putzhilfe „das beste Geld, das ich im Monat ausgebe“. Nur am Anfang hatte sie ein schlechtes Gewissen – zu teuer findet sie es nicht.",
+      "evidence": "das ist das beste Geld, das ich im Monat ausgebe"
+    }
+  ],
+  "glossary": [
+    { "de": "die Hausarbeit", "en": "housework" },
+    { "de": "der Haushalt", "en": "household; housework" },
+    { "de": "die Wäsche", "en": "laundry, washing" },
+    { "de": "staubsaugen", "en": "to vacuum" },
+    { "de": "den Müll rausbringen", "en": "to take out the rubbish" },
+    { "de": "die Ausrede", "en": "excuse" },
+    { "de": "gerecht", "en": "fair" },
+    { "de": "die Wohngemeinschaft", "en": "shared flat" },
+    { "de": "sich an etwas halten", "en": "to stick to something" },
+    { "de": "bügeln", "en": "to iron" },
+    { "de": "die Putzhilfe", "en": "cleaner, cleaning help" },
+    { "de": "ein schlechtes Gewissen haben", "en": "to feel guilty" }
+  ]
+}

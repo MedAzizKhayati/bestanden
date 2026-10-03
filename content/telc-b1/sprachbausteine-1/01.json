@@ -1,0 +1,142 @@
+{
+  "id": "sprachbausteine-1-01",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Eine Woche in Wien",
+  "topic": "reisen",
+  "difficulty": 1,
+  "textType": "email-informal",
+  "text": "Liebe Selin,\n\nseit Sonntag bin ich wieder zu Hause in Freiburg. Die Woche in Wien mit meinem Bruder war toll, [[1]] das Wetter nicht immer gut war. Wir haben in einem kleinen Hotel gewohnt, [[2]] direkt neben dem Naschmarkt liegt. Jeden Morgen haben wir in einem anderen Café gefrühstückt.\n\nAm Dienstag [[3]] wir mit dem Schiff auf der Donau gefahren. Das war mein Lieblingstag! Am Mittwoch hat es leider den ganzen Tag geregnet, [[4]] haben wir das Kunsthistorische Museum besucht. Dort gibt es so viele Bilder, dass ein Tag gar nicht reicht.\n\nDer Höhepunkt war aber der Prater. Mein Bruder hatte zuerst ein bisschen Angst, aber am Ende hat [[5]] die Fahrt mit dem Riesenrad sehr gut gefallen. Von oben hatten wir einen [[6]] Blick über die ganze Stadt.\n\nIch habe [[7]] auch ein kleines Geschenk mitgebracht: eine Packung Mozartkugeln. Wann hast du Zeit? Vielleicht können wir uns am Wochenende treffen. Dann kannst du auch die Fotos sehen, die ich mit [[8]] neuen Kamera gemacht habe.\n\nIm Sommer möchte ich wieder nach Österreich fahren, dieses Mal in die Berge. Mein Bruder hat dann aber leider keinen Urlaub. [[9]] du Lust, mitzukommen? Zu zweit ist so eine Reise bestimmt viel [[10]] als allein!\n\nLiebe Grüße\nLukas",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "trotzdem" },
+        { "key": "b", "text": "obwohl" },
+        { "key": "c", "text": "deshalb" }
+      ],
+      "answer": "b",
+      "explanation": "„obwohl“ starts a subordinate clause with the verb at the end („… nicht immer gut war“) and expresses a contrast: the week was great in spite of the weather. In standard German „trotzdem“ and „deshalb“ are adverbs and need the verb directly after them („trotzdem war …“).",
+      "explanationDe": "„obwohl“ leitet einen Nebensatz mit dem Verb am Ende ein („… nicht immer gut war“) und drückt einen Gegensatz aus: Die Woche war trotz des Wetters toll. Im Standarddeutschen sind „trotzdem“ und „deshalb“ Verbindungsadverbien – direkt danach kommt das Verb („trotzdem war …“).",
+      "grammar": "konzessive-saetze"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "das" },
+        { "key": "b", "text": "der" },
+        { "key": "c", "text": "die" }
+      ],
+      "answer": "a",
+      "explanation": "The relative pronoun refers to „das Hotel“ (neuter) and is the subject of the relative clause, so nominative „das“. „der“ would be masculine, „die“ feminine or plural.",
+      "explanationDe": "Das Relativpronomen bezieht sich auf „das Hotel“ (neutral) und ist das Subjekt im Relativsatz – also Nominativ: „das“. „der“ wäre maskulin, „die“ feminin oder Plural.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "haben" },
+        { "key": "b", "text": "sind" },
+        { "key": "c", "text": "ist" }
+      ],
+      "answer": "b",
+      "explanation": "„fahren“ in the sense of travelling from A to B (no direct object) forms the Perfekt with „sein“: „wir sind … gefahren“. „haben“ is the wrong auxiliary, and „ist“ does not agree with „wir“.",
+      "explanationDe": "„fahren“ als Ortswechsel von A nach B (ohne Akkusativobjekt) bildet das Perfekt mit „sein“: „wir sind … gefahren“. „haben“ ist das falsche Hilfsverb, und „ist“ passt nicht zu „wir“.",
+      "grammar": "perfekt"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "deshalb" },
+        { "key": "b", "text": "weil" },
+        { "key": "c", "text": "obwohl" }
+      ],
+      "answer": "a",
+      "explanation": "The verb „haben“ comes directly after the gap, so you need an adverb in position 1: „deshalb haben wir …“. „weil“ and „obwohl“ would send the verb to the end of the clause.",
+      "explanationDe": "Direkt nach der Lücke kommt das Verb „haben“. Du brauchst also ein Verbindungsadverb auf Position 1: „deshalb haben wir …“. Mit „weil“ oder „obwohl“ müsste das Verb ans Satzende.",
+      "grammar": "verbindungsadverbien"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "er" },
+        { "key": "b", "text": "ihn" },
+        { "key": "c", "text": "ihm" }
+      ],
+      "answer": "c",
+      "explanation": "„gefallen“ takes a dative: „jemandem gefällt etwas“. The subject is „die Fahrt“, so the brother must be in the dative: „ihm“.",
+      "explanationDe": "„gefallen“ steht mit Dativ: „jemandem gefällt etwas“. Das Subjekt ist „die Fahrt“, also muss der Bruder im Dativ stehen: „ihm“.",
+      "grammar": "verben-mit-dativ"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "wunderbare" },
+        { "key": "b", "text": "wunderbaren" },
+        { "key": "c", "text": "wunderbarer" }
+      ],
+      "answer": "b",
+      "explanation": "„der Blick“ is masculine and here in the accusative („einen“), so the adjective ends in „-en“: „einen wunderbaren Blick“.",
+      "explanationDe": "„der Blick“ ist maskulin und steht hier im Akkusativ („einen“). Deshalb hat das Adjektiv die Endung „-en“: „einen wunderbaren Blick“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "dich" },
+        { "key": "b", "text": "du" },
+        { "key": "c", "text": "dir" }
+      ],
+      "answer": "c",
+      "explanation": "„jemandem etwas mitbringen“: the person who gets the present is in the dative, so „dir“. „dich“ is accusative and „du“ nominative.",
+      "explanationDe": "„jemandem etwas mitbringen“: Die Person, die das Geschenk bekommt, steht im Dativ – also „dir“. „dich“ ist Akkusativ und „du“ Nominativ.",
+      "grammar": "pronomen"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "meine" },
+        { "key": "b", "text": "meinem" },
+        { "key": "c", "text": "meiner" }
+      ],
+      "answer": "c",
+      "explanation": "„mit“ always takes the dative. „die Kamera“ is feminine, so „mit meiner neuen Kamera“. „meinem“ would be masculine or neuter.",
+      "explanationDe": "Nach „mit“ steht immer der Dativ. „die Kamera“ ist feminin, also „mit meiner neuen Kamera“. „meinem“ wäre maskulin oder neutral.",
+      "grammar": "praepositionen-mit-kasus"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "Würdest" },
+        { "key": "b", "text": "Hättest" },
+        { "key": "c", "text": "Wärst" }
+      ],
+      "answer": "b",
+      "explanation": "The expression is „Lust haben“, so the polite Konjunktiv II of „haben“ is needed: „Hättest du Lust …?“. „Würdest“ would need an infinitive at the end, and „Lust sein“ does not exist.",
+      "explanationDe": "Der Ausdruck heißt „Lust haben“. Du brauchst also den höflichen Konjunktiv II von „haben“: „Hättest du Lust …?“. „Würdest“ bräuchte einen Infinitiv am Ende, und „Lust sein“ gibt es nicht.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "schöner" },
+        { "key": "b", "text": "schön" },
+        { "key": "c", "text": "am schönsten" }
+      ],
+      "answer": "a",
+      "explanation": "„als allein“ shows a comparison between two things, so you need the comparative „schöner“. „schön“ is the basic form and „am schönsten“ the superlative.",
+      "explanationDe": "„als allein“ zeigt einen Vergleich zwischen zwei Dingen. Du brauchst also den Komparativ „schöner“. „schön“ ist die Grundform und „am schönsten“ der Superlativ.",
+      "grammar": "komparation"
+    }
+  ],
+  "glossary": [
+    { "de": "der Höhepunkt", "en": "highlight" },
+    { "de": "das Riesenrad", "en": "Ferris wheel" },
+    { "de": "der Blick über die Stadt", "en": "view over the city" },
+    { "de": "die Packung", "en": "packet, box" },
+    { "de": "zuerst", "en": "at first" },
+    { "de": "Lust haben, etwas zu tun", "en": "to feel like doing something" },
+    { "de": "mitkommen", "en": "to come along" },
+    { "de": "zu zweit", "en": "as a pair, the two of us" }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "schreiben-01",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Absage zur Hochzeit",
+  "topic": "familie",
+  "difficulty": 1,
+  "register": "informal",
+  "situation": "Sie haben von Ihrer Freundin Jana folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Jana",
+    "subject": "Wir heiraten!",
+    "body": "Hallo,\n\nstell dir vor: Malte und ich heiraten! Die Hochzeit ist am Samstag, dem 20. Juni, in Lüneburg. Zuerst sind wir um 11 Uhr im Standesamt, danach feiern wir im Garten von Maltes Eltern. Es wäre wunderschön, wenn du dabei sein könntest! Du kannst gern auch deinen Partner oder deine Partnerin mitbringen. Bitte sag mir bis Ende Mai Bescheid, ob du kommst, damit wir genug Essen bestellen können.\n\nÜbrigens: Wir wünschen uns keine Geschenke, sondern einen kleinen Beitrag für unsere Hochzeitsreise nach Norwegen.\n\nIch freue mich auf deine Antwort!\nLiebe Grüße\nJana"
+  },
+  "leitpunkte": [
+    "Geschenk für die Hochzeitsreise",
+    "Vorschlag für ein späteres Treffen",
+    "Glückwünsche zur Hochzeit",
+    "Grund für Ihre Absage"
+  ],
+  "model": {
+    "subject": "Herzlichen Glückwunsch – leider kann ich nicht kommen",
+    "text": "Liebe Jana,\n\nvielen Dank für deine E-Mail und die schöne Einladung! Was für eine tolle Nachricht! Dir und Malte gratuliere ich von ganzem Herzen und wünsche euch alles Gute für eure gemeinsame Zukunft.\n\nLeider muss ich dir aber absagen. Genau an diesem Wochenende feiert meine Schwester in Izmir ihren Studienabschluss, und ich habe den Flug schon vor Monaten gebucht. Du kannst dir sicher vorstellen, wie traurig ich bin, dass ich ausgerechnet bei eurer Hochzeit nicht dabei sein kann.\n\nNatürlich möchte ich trotzdem gern etwas zu eurer Hochzeitsreise beitragen. Deshalb überweise ich euch nächste Woche etwas für die Reise nach Norwegen. Ich hoffe, ihr habt dort eine wunderbare Zeit!\n\nWie wäre es, wenn wir uns nach eurer Rückkehr treffen? Ich lade euch beide gern zum Essen zu mir ein, zum Beispiel an einem Samstag im Juli. Dann könnt ihr mir alles von der Feier erzählen und die Fotos zeigen.\n\nIch wünsche euch einen wunderschönen Tag!\n\nGanz liebe Grüße\nDeine Elif"
+  },
+  "modelNotes": [
+    "The order follows the logic of a reply, not the task sheet: congratulations first, then the reason for declining, the present and finally the proposal to meet.",
+    "The refusal is polite because the reason is concrete (sister's graduation, flight already booked) and regret is expressed: „Du kannst dir sicher vorstellen, wie traurig ich bin …“.",
+    "Paragraphs are linked with „aber“, „trotzdem“, „deshalb“ and „dann“; „an diesem Wochenende“ refers back to the date in Jana's e-mail.",
+    "Informal register throughout: „Liebe Jana“, „du/dir/euch“, „Ganz liebe Grüße – Deine Elif“.",
+    "Varied sentence beginnings („Leider …“, „Genau an diesem Wochenende …“, „Natürlich …“, „Wie wäre es …“) avoid a chain of sentences starting with „Ich“."
+  ],
+  "modelNotesDe": [
+    "Die Reihenfolge folgt der Logik einer Antwort, nicht dem Aufgabenblatt: zuerst die Glückwünsche, dann der Grund für die Absage, das Geschenk und zum Schluss der Vorschlag für ein Treffen.",
+    "Die Absage ist höflich, weil der Grund konkret ist (Studienabschluss der Schwester, Flug schon gebucht) und weil die Schreiberin ihr Bedauern zeigt: „Du kannst dir sicher vorstellen, wie traurig ich bin …“.",
+    "Die Absätze sind mit „aber“, „trotzdem“, „deshalb“ und „dann“ verbunden; „an diesem Wochenende“ verweist auf das Datum in Janas E-Mail.",
+    "Durchgehend informelles Register: „Liebe Jana“, „du/dir/euch“, „Ganz liebe Grüße – Deine Elif“.",
+    "Abwechslungsreiche Satzanfänge („Leider …“, „Genau an diesem Wochenende …“, „Natürlich …“, „Wie wäre es …“) verhindern, dass viele Sätze hintereinander mit „Ich“ beginnen."
+  ],
+  "phrases": [
+    { "de": "Ich gratuliere euch von ganzem Herzen!", "en": "Warmest congratulations to you both!" },
+    { "de": "Ich wünsche euch alles Gute für eure gemeinsame Zukunft.", "en": "I wish you all the best for your future together." },
+    { "de": "Leider muss ich dir absagen.", "en": "Unfortunately I have to decline." },
+    { "de": "Ausgerechnet an diesem Wochenende …", "en": "On that very weekend, of all times …" },
+    { "de": "Schade, dass ich nicht dabei sein kann.", "en": "What a pity I can't be there." },
+    { "de": "Ich möchte gern etwas zu eurer Hochzeitsreise beitragen.", "en": "I'd like to contribute something to your honeymoon." },
+    { "de": "Wie wäre es, wenn wir uns … treffen?", "en": "How about meeting …?" },
+    { "de": "Dann könnt ihr mir alles erzählen.", "en": "Then you can tell me all about it." }
+  ],
+  "glossary": [
+    { "de": "das Standesamt", "en": "registry office" },
+    { "de": "die Hochzeitsreise", "en": "honeymoon" },
+    { "de": "der Beitrag", "en": "contribution" },
+    { "de": "Bescheid sagen", "en": "to let someone know" },
+    { "de": "der Studienabschluss", "en": "university degree, graduation" },
+    { "de": "überweisen", "en": "to transfer (money)" }
+  ]
+}

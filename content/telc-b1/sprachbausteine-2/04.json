@@ -1,0 +1,119 @@
+{
+  "id": "sprachbausteine-2-04",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Probetraining im Fitnessstudio",
+  "topic": "sport",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "stimulus": {
+    "heading": "FitWerk Dresden – Training für alle",
+    "lines": [
+      "Moderne Geräte und über 40 Kurse pro Woche: Yoga, Pilates, Rückentraining …",
+      "Geöffnet: Mo.–Fr. 6–23 Uhr, Sa. und So. 8–20 Uhr",
+      "Kostenloses Probetraining mit persönlicher Beratung",
+      "Mitgliedschaft ab 39 Euro im Monat – für Studierende 20 % günstiger",
+      "Tel. 0351 4128830"
+    ]
+  },
+  "text": "Sehr geehrte Damen und Herren,\n\ndurch eine Kollegin bin ich auf Ihr Fitnessstudio [[1]] geworden und habe mir Ihre Anzeige genau angesehen.\n\nIch bin 41 Jahre alt und sitze bei der Arbeit fast den ganzen Tag am Computer. [[2]] einigen Monaten habe ich oft Schmerzen im Rücken. Mein Arzt hat mir deshalb [[3]], regelmäßig Sport zu treiben. Besonders interessant finde ich Ihr Rückentraining. Wie oft und zu welchen Uhrzeiten [[4]] dieser Kurs statt?\n\nZuerst würde ich gern das kostenlose Probetraining machen. Ist es [[5]], dafür auch am Samstagvormittag einen Termin zu bekommen?\n\nIn Ihrer Anzeige steht, dass Studierende 20 Prozent [[6]] bezahlen. Gilt das auch für Auszubildende? Mein Sohn macht gerade eine Ausbildung und hätte auch [[7]], bei Ihnen zu trainieren.\n\nAußerdem würde ich gern wissen, [[8]] man den Vertrag jederzeit kündigen kann.\n\nBitte geben Sie mir [[9]], wann ich zum Probetraining vorbeikommen kann. Ich freue mich [[10]] Ihre Antwort.\n\nMit freundlichen Grüßen\nMurat Demir",
+  "words": [
+    { "key": "a", "text": "auf" },
+    { "key": "b", "text": "aufmerksam" },
+    { "key": "c", "text": "bekannt" },
+    { "key": "d", "text": "Bescheid" },
+    { "key": "e", "text": "findet" },
+    { "key": "f", "text": "geraten" },
+    { "key": "g", "text": "Lust" },
+    { "key": "h", "text": "mehr" },
+    { "key": "i", "text": "möglich" },
+    { "key": "j", "text": "nötig" },
+    { "key": "k", "text": "ob" },
+    { "key": "l", "text": "seit" },
+    { "key": "m", "text": "vor" },
+    { "key": "n", "text": "wann" },
+    { "key": "o", "text": "weniger" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "b",
+      "explanation": "„auf etwas aufmerksam werden“ means „to notice / to hear about something“: „bin ich auf Ihr Fitnessstudio aufmerksam geworden“. „bekannt werden“ cannot be combined with „auf“.",
+      "explanationDe": "„auf etwas aufmerksam werden“ (= etwas bemerken, von etwas hören): „bin ich auf Ihr Fitnessstudio aufmerksam geworden“. „bekannt werden“ kann man nicht mit „auf“ verbinden.",
+      "grammar": "adjektive-mit-praepositionen"
+    },
+    {
+      "n": 2,
+      "answer": "l",
+      "explanation": "The back pain started some months ago and still continues (present tense „habe“), so you need „seit“. „vor einigen Monaten“ would need a past tense („Vor einigen Monaten hatte ich …“).",
+      "explanationDe": "Die Rückenschmerzen haben vor einigen Monaten begonnen und dauern noch an (Präsens „habe“). Du brauchst also „seit“. „vor einigen Monaten“ bräuchte eine Vergangenheitsform („Vor einigen Monaten hatte ich …“).",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 3,
+      "answer": "f",
+      "explanation": "„jemandem raten, etwas zu tun“ means „to advise someone to do something“. In the perfect tense: „Mein Arzt hat mir geraten, regelmäßig Sport zu treiben.“",
+      "explanationDe": "„jemandem raten, etwas zu tun“ (= jemandem empfehlen, etwas zu tun). Im Perfekt: „Mein Arzt hat mir geraten, regelmäßig Sport zu treiben.“",
+      "grammar": "infinitiv-mit-zu"
+    },
+    {
+      "n": 4,
+      "answer": "e",
+      "explanation": "„stattfinden“ (to take place) is a separable verb. The prefix „statt“ is already at the end of the question, so only the conjugated form „findet“ is missing.",
+      "explanationDe": "„stattfinden“ (= veranstaltet werden) ist ein trennbares Verb. Das Präfix „statt“ steht schon am Ende der Frage, es fehlt also nur die konjugierte Form „findet“.",
+      "grammar": "trennbare-verben"
+    },
+    {
+      "n": 5,
+      "answer": "i",
+      "explanation": "„Ist es möglich, … zu bekommen?“ politely asks whether something can be done. „nötig“ (necessary) makes no sense: he wants a Saturday appointment, he does not ask whether he needs one.",
+      "explanationDe": "Mit „Ist es möglich, … zu bekommen?“ fragt man höflich, ob etwas geht. „nötig“ (= notwendig) ergibt keinen Sinn: Er möchte einen Termin am Samstag und fragt nicht, ob er einen braucht.",
+      "grammar": "infinitiv-mit-zu"
+    },
+    {
+      "n": 6,
+      "answer": "o",
+      "explanation": "The ad says membership is „für Studierende 20 % günstiger“, so students pay less: „20 Prozent weniger bezahlen“. „mehr“ contradicts the ad.",
+      "explanationDe": "In der Anzeige steht, dass die Mitgliedschaft „für Studierende 20 % günstiger“ ist. Studierende zahlen also weniger: „20 Prozent weniger bezahlen“. „mehr“ widerspricht der Anzeige.",
+      "grammar": "komparation"
+    },
+    {
+      "n": 7,
+      "answer": "g",
+      "explanation": "„Lust haben, etwas zu tun“ means „to feel like doing something“: „hätte auch Lust, bei Ihnen zu trainieren“.",
+      "explanationDe": "„Lust haben, etwas zu tun“ (= etwas gern tun wollen): „hätte auch Lust, bei Ihnen zu trainieren“."
+    },
+    {
+      "n": 8,
+      "answer": "k",
+      "explanation": "After „gern wissen“ a yes/no question becomes an indirect question with „ob“. „wann“ does not fit because of „jederzeit“ (at any time).",
+      "explanationDe": "Nach „gern wissen“ wird eine Ja-/Nein-Frage zu einer indirekten Frage mit „ob“. „wann“ passt nicht, weil schon „jederzeit“ (= zu jeder Zeit) im Satz steht.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 9,
+      "answer": "d",
+      "explanation": "„jemandem Bescheid geben“ (to let someone know) is a fixed expression: „Bitte geben Sie mir Bescheid, wann …“.",
+      "explanationDe": "„jemandem Bescheid geben“ (= jemanden informieren) ist eine feste Wendung: „Bitte geben Sie mir Bescheid, wann …“.",
+      "grammar": "nomen-verb-verbindungen"
+    },
+    {
+      "n": 10,
+      "answer": "a",
+      "explanation": "„sich freuen auf“ + accusative is used for something in the future, such as a reply you are waiting for: „Ich freue mich auf Ihre Antwort.“",
+      "explanationDe": "„sich freuen auf“ + Akkusativ benutzt man für etwas in der Zukunft, z. B. eine Antwort, auf die man wartet: „Ich freue mich auf Ihre Antwort.“",
+      "grammar": "verben-mit-praepositionen"
+    }
+  ],
+  "glossary": [
+    { "de": "auf etwas aufmerksam werden", "en": "to notice something, to hear about something" },
+    { "de": "jemandem raten, etwas zu tun", "en": "to advise someone to do something" },
+    { "de": "stattfinden", "en": "to take place" },
+    { "de": "das Probetraining", "en": "free trial workout" },
+    { "de": "günstiger", "en": "cheaper" },
+    { "de": "der/die Auszubildende", "en": "trainee, apprentice" },
+    { "de": "Lust haben, etwas zu tun", "en": "to feel like doing something" },
+    { "de": "einen Vertrag kündigen", "en": "to cancel a contract" },
+    { "de": "jemandem Bescheid geben", "en": "to let someone know" }
+  ]
+}

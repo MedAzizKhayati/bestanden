@@ -1,0 +1,110 @@
+{
+  "id": "sprachbausteine-2-11",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Ummeldung beim Bürgeramt",
+  "topic": "behoerden",
+  "difficulty": 3,
+  "textType": "letter-formal",
+  "text": "Sehr geehrte Damen und Herren,\n\nam 1. Oktober bin ich innerhalb von Hannover [[1]] und muss mich deshalb ummelden. Für den 10. Oktober habe ich online einen Termin im Bürgeramt Mitte [[2]].\n\nDabei gibt es jedoch ein Problem: Für die Ummeldung brauche ich die Wohnungsgeberbestätigung meines neuen Vermieters. Ich habe ihn schon zweimal darum [[3]]. Leider ist er zurzeit im Urlaub und kommt erst Ende Oktober zurück. Ich habe zwar den Mietvertrag, [[4]] die Bestätigung fehlt mir noch.\n\nLaut Ihrer Internetseite muss man sich innerhalb von zwei Wochen nach dem Umzug ummelden. Diese [[5]] kann ich wahrscheinlich nicht einhalten. Ich möchte Sie daher fragen, [[6]] ich das Dokument auch später nachreichen kann. Falls nicht, wäre es dann möglich, meinen Termin auf Anfang November zu [[7]]?\n\nAußerdem habe ich eine Frage zu meinem Personalausweis: Muss ich die neue Adresse dort separat ändern [[8]], oder geschieht das automatisch bei der Ummeldung?\n\nIch hoffe, dass Sie [[9]] meine Situation Verständnis haben, und bitte Sie um eine kurze Rückmeldung. Sie erreichen mich per E-Mail [[10]] telefonisch unter 0511 3840627.\n\nMit freundlichen Grüßen\nDragan Petrović",
+  "words": [
+    { "key": "a", "text": "aber" },
+    { "key": "b", "text": "erinnert" },
+    { "key": "c", "text": "Frist" },
+    { "key": "d", "text": "für" },
+    { "key": "e", "text": "gebeten" },
+    { "key": "f", "text": "gezogen" },
+    { "key": "g", "text": "lassen" },
+    { "key": "h", "text": "ob" },
+    { "key": "i", "text": "oder" },
+    { "key": "j", "text": "sondern" },
+    { "key": "k", "text": "Termin" },
+    { "key": "l", "text": "über" },
+    { "key": "m", "text": "umgezogen" },
+    { "key": "n", "text": "vereinbart" },
+    { "key": "o", "text": "verschieben" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "m",
+      "explanation": "Moving to a new flat in the same city is „umziehen“, which forms the perfect with „sein“: „bin ich innerhalb von Hannover umgezogen“. „gezogen“ would need a destination („nach Hannover gezogen“).",
+      "explanationDe": "Der Wechsel in eine neue Wohnung in derselben Stadt heißt „umziehen“. Das Perfekt bildet man mit „sein“: „bin ich innerhalb von Hannover umgezogen“. „gezogen“ bräuchte ein Ziel („nach Hannover gezogen“).",
+      "grammar": "perfekt"
+    },
+    {
+      "n": 2,
+      "answer": "n",
+      "explanation": "„einen Termin vereinbaren“ (to make an appointment) is a typical noun–verb combination in formal letters; in the perfect: „habe ich … einen Termin vereinbart“.",
+      "explanationDe": "„einen Termin vereinbaren“ (= einen Termin ausmachen) ist eine typische Nomen-Verb-Verbindung in formellen Briefen; im Perfekt: „habe ich … einen Termin vereinbart“.",
+      "grammar": "nomen-verb-verbindungen"
+    },
+    {
+      "n": 3,
+      "answer": "e",
+      "explanation": "„jemanden um etwas bitten“ means „to ask someone for something“: „Ich habe ihn schon zweimal darum gebeten.“ „darum“ stands for „um die Bestätigung“. „erinnert“ is a trap: „jemanden an etwas erinnern“ (to remind) would need „daran“, not „darum“.",
+      "explanationDe": "„jemanden um etwas bitten“ (= sagen, dass man etwas von jemandem haben möchte): „Ich habe ihn schon zweimal darum gebeten.“ „darum“ steht für „um die Bestätigung“. „erinnert“ ist eine Falle: „jemanden an etwas erinnern“ (= dafür sorgen, dass jemand etwas nicht vergisst) bräuchte „daran“, nicht „darum“.",
+      "grammar": "verben-mit-praepositionen"
+    },
+    {
+      "n": 4,
+      "answer": "a",
+      "explanation": "„zwar …, aber …“ is a two-part connector: „Ich habe zwar den Mietvertrag, aber die Bestätigung fehlt mir noch.“ „sondern“ is only used after a negation.",
+      "explanationDe": "„zwar …, aber …“ ist ein zweiteiliger Konnektor: „Ich habe zwar den Mietvertrag, aber die Bestätigung fehlt mir noch.“ „sondern“ benutzt man nur nach einer Verneinung.",
+      "grammar": "zweiteilige-konnektoren"
+    },
+    {
+      "n": 5,
+      "answer": "c",
+      "explanation": "„eine Frist einhalten“ means „to meet a deadline“ – here the two-week deadline from the website. „Termin“ is masculine and would need „Diesen“.",
+      "explanationDe": "„eine Frist einhalten“ bedeutet: etwas bis zu einem bestimmten Zeitpunkt erledigen – hier innerhalb der zwei Wochen, die auf der Internetseite stehen. „Termin“ ist maskulin und bräuchte „Diesen“.",
+      "grammar": "nomen-verb-verbindungen"
+    },
+    {
+      "n": 6,
+      "answer": "h",
+      "explanation": "After „fragen“ a yes/no question becomes an indirect question with „ob“: „ob ich das Dokument auch später nachreichen kann“.",
+      "explanationDe": "Nach „fragen“ wird eine Ja-/Nein-Frage zu einer indirekten Frage mit „ob“: „ob ich das Dokument auch später nachreichen kann“.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 7,
+      "answer": "o",
+      "explanation": "„einen Termin auf … verschieben“ means „to postpone an appointment to …“; after „Wäre es möglich, …“ the infinitive comes with „zu“.",
+      "explanationDe": "„einen Termin auf … verschieben“ bedeutet: einen Termin auf einen späteren Zeitpunkt legen; nach „Wäre es möglich, …“ steht der Infinitiv mit „zu“.",
+      "grammar": "infinitiv-mit-zu"
+    },
+    {
+      "n": 8,
+      "answer": "g",
+      "explanation": "„etwas ändern lassen“ means „to have something changed“ – the office changes the address on the ID card, not he himself.",
+      "explanationDe": "„etwas ändern lassen“ bedeutet: Jemand anderes ändert etwas – das Amt ändert die Adresse im Personalausweis, nicht er selbst.",
+      "grammar": "lassen"
+    },
+    {
+      "n": 9,
+      "answer": "d",
+      "explanation": "„Verständnis für etwas haben“ (to understand, to be sympathetic to something) is a fixed combination. „über“ is not used with „Verständnis“.",
+      "explanationDe": "„Verständnis für etwas haben“ (= etwas verstehen und akzeptieren) ist eine feste Verbindung. „über“ benutzt man nicht mit „Verständnis“.",
+      "grammar": "nomen-verb-verbindungen"
+    },
+    {
+      "n": 10,
+      "answer": "i",
+      "explanation": "He offers two alternative ways of contacting him: „per E-Mail oder telefonisch“.",
+      "explanationDe": "Er nennt zwei Möglichkeiten zur Wahl, wie man ihn erreichen kann: „per E-Mail oder telefonisch“."
+    }
+  ],
+  "glossary": [
+    { "de": "sich ummelden", "en": "to register a change of address" },
+    { "de": "das Bürgeramt", "en": "citizens' office (registration office)" },
+    { "de": "einen Termin vereinbaren", "en": "to make an appointment" },
+    { "de": "die Wohnungsgeberbestätigung", "en": "landlord's confirmation that you live in the flat" },
+    { "de": "der Vermieter", "en": "landlord" },
+    { "de": "eine Frist einhalten", "en": "to meet a deadline" },
+    { "de": "etwas nachreichen", "en": "to hand something in later" },
+    { "de": "einen Termin verschieben", "en": "to postpone an appointment" },
+    { "de": "etwas ändern lassen", "en": "to have something changed" },
+    { "de": "die Rückmeldung", "en": "reply, response" }
+  ]
+}

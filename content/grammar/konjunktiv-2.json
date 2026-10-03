@@ -1,0 +1,224 @@
+{
+  "id": "konjunktiv-2",
+  "level": "B1",
+  "category": "verben",
+  "order": 6,
+  "title": "Konjunktiv II: Wünsche, Ratschläge, Höflichkeit, irreale Bedingungen",
+  "titleEn": "Subjunctive II",
+  "summary": "würde + infinitive and the forms wäre, hätte, könnte, sollte: for polite requests, wishes, advice, suggestions and unreal conditions.",
+  "summaryDe": "würde + Infinitiv und die Formen wäre, hätte, könnte, sollte: für höfliche Bitten, Wünsche, Ratschläge, Vorschläge und irreale Bedingungen.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The Konjunktiv II is used for things that are **not real** (wishes, dreams, unreal conditions), for **advice** and to make requests **more polite**. Most verbs use **würde + infinitive**. **sein, haben** and the **modal verbs** have their own forms: **wäre, hätte, könnte, müsste, dürfte, sollte**.",
+      "mdDe": "Den Konjunktiv II benutzt du für Dinge, die **nicht real** sind (Wünsche, Träume, irreale Bedingungen), für **Ratschläge** und um Bitten **höflicher** zu machen. Die meisten Verben bilden ihn mit **würde + Infinitiv**. **sein, haben** und die **Modalverben** haben eigene Formen: **wäre, hätte, könnte, müsste, dürfte, sollte**."
+    },
+    {
+      "type": "table",
+      "heading": "The most important forms",
+      "headingDe": "Die wichtigsten Formen",
+      "columns": ["Person", "werden → würde", "sein → wäre", "haben → hätte", "können → könnte"],
+      "columnsDe": ["Person", "werden → würde", "sein → wäre", "haben → hätte", "können → könnte"],
+      "rows": [
+        ["ich", "würde", "wäre", "hätte", "könnte"],
+        ["du", "würdest", "wärst", "hättest", "könntest"],
+        ["er/sie/es", "würde", "wäre", "hätte", "könnte"],
+        ["wir", "würden", "wären", "hätten", "könnten"],
+        ["ihr", "würdet", "wärt", "hättet", "könntet"],
+        ["sie/Sie", "würden", "wären", "hätten", "könnten"]
+      ],
+      "note": "The other modal verbs work like könnte: müsste, dürfte, sollte, wollte (sollte and wollte look exactly like the Präteritum). Some other verbs also have common one-word forms: wüsste (wissen), gäbe (es gibt), käme (kommen), ginge (gehen).",
+      "noteDe": "Die anderen Modalverben funktionieren wie könnte: müsste, dürfte, sollte, wollte (sollte und wollte sehen genauso aus wie im Präteritum). Auch einige andere Verben haben gebräuchliche Formen aus nur einem Wort: wüsste (wissen), gäbe (es gibt), käme (kommen), ginge (gehen)."
+    },
+    {
+      "type": "text",
+      "heading": "Five uses",
+      "headingDe": "Fünf Verwendungen",
+      "md": "1. **Polite requests:** **Könnten** Sie mir bitte helfen? **Würden** Sie bitte das Fenster schließen? Ich **hätte** gern ein Kilo Tomaten.\n2. **Wishes:** Ich **würde** gern in Wien **wohnen**. Ich **wäre** jetzt gern am Meer. Wenn ich doch mehr Zeit **hätte**!\n3. **Advice:** Du **solltest** mehr schlafen. An deiner Stelle **würde** ich zum Arzt **gehen**.\n4. **Suggestions:** Wir **könnten** am Samstag ins Kino gehen. Wie **wäre** es mit einem Picknick?\n5. **Unreal conditions:** **Wenn** ich mehr Geld **hätte**, **würde** ich ein Haus **kaufen**. (But I don't have more money.)",
+      "mdDe": "1. **Höfliche Bitten:** **Könnten** Sie mir bitte helfen? **Würden** Sie bitte das Fenster schließen? Ich **hätte** gern ein Kilo Tomaten.\n2. **Wünsche:** Ich **würde** gern in Wien **wohnen**. Ich **wäre** jetzt gern am Meer. Wenn ich doch mehr Zeit **hätte**!\n3. **Ratschläge:** Du **solltest** mehr schlafen. An deiner Stelle **würde** ich zum Arzt **gehen**.\n4. **Vorschläge:** Wir **könnten** am Samstag ins Kino gehen. Wie **wäre** es mit einem Picknick?\n5. **Irreale Bedingungen:** **Wenn** ich mehr Geld **hätte**, **würde** ich ein Haus **kaufen**. (In Wirklichkeit habe ich aber nicht so viel Geld.)"
+    },
+    {
+      "type": "table",
+      "heading": "Real or unreal?",
+      "headingDe": "Real oder irreal?",
+      "columns": ["Real (possible)", "Unreal (Konjunktiv II)"],
+      "columnsDe": ["Real (möglich)", "Irreal (Konjunktiv II)"],
+      "rows": [
+        ["Wenn ich Zeit habe, komme ich.", "Wenn ich Zeit hätte, würde ich kommen."],
+        ["Wenn das Wetter schön ist, gehen wir schwimmen.", "Wenn das Wetter schön wäre, würden wir schwimmen gehen."],
+        ["Wenn der Bus pünktlich ist, erreichen wir den Zug.", "Wenn der Bus pünktlich wäre, würden wir den Zug erreichen."]
+      ],
+      "note": "In an unreal condition both clauses are in the Konjunktiv II. You can also leave out wenn – then the verb comes first: Hätte ich Zeit, würde ich kommen.",
+      "noteDe": "In einer irrealen Bedingung stehen beide Sätze im Konjunktiv II. Du kannst wenn auch weglassen – dann steht das Verb am Anfang: Hätte ich Zeit, würde ich kommen."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Könnten** Sie mir bitte sagen, wo der Bahnhof ist?", "en": "Could you please tell me where the station is?" },
+        { "de": "Ich **hätte** gern einen Termin am Donnerstag.", "en": "I'd like an appointment on Thursday." },
+        { "de": "**Würden** Sie mir die Unterlagen per E-Mail **schicken**?", "en": "Would you send me the documents by e-mail?" },
+        { "de": "Wenn ich mehr Zeit **hätte**, **würde** ich Gitarre **lernen**.", "en": "If I had more time, I would learn the guitar." },
+        { "de": "Du **solltest** dich warm anziehen, es ist sehr kalt.", "en": "You should dress warmly, it's very cold." },
+        { "de": "An deiner Stelle **würde** ich die Wohnung sofort **nehmen**.", "en": "If I were you, I'd take the flat straight away." },
+        { "de": "Es **wäre** schön, wenn wir uns bald wiedersehen **könnten**.", "en": "It would be nice if we could see each other again soon." },
+        { "de": "Ich **wäre** jetzt gern am Meer.", "en": "I'd love to be at the seaside now." },
+        { "de": "Wir **könnten** am Sonntag einen Ausflug an den Bodensee **machen**.", "en": "We could go on a trip to Lake Constance on Sunday." },
+        { "de": "Wenn ich du **wäre**, **würde** ich mit ihm **reden**.", "en": "If I were you, I'd talk to him." }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Looking back: the past",
+      "headingDe": "Rückblick: die Vergangenheit",
+      "md": "For unreal situations in the **past**, use **hätte** or **wäre** + past participle (the same choice as in the Perfekt):\n\n- Wenn ich das **gewusst hätte**, **wäre** ich früher **gekommen**.\n- Ich **hätte** gern länger **geschlafen**.\n\nAt B1 it's enough to understand these forms; if you use them correctly in Schreiben, that's a bonus.",
+      "mdDe": "Für irreale Situationen in der **Vergangenheit** nimmst du **hätte** oder **wäre** + Partizip II (die gleiche Wahl wie im Perfekt):\n\n- Wenn ich das **gewusst hätte**, **wäre** ich früher **gekommen**.\n- Ich **hätte** gern länger **geschlafen**.\n\nAuf B1-Niveau reicht es, diese Formen zu verstehen. Wenn du sie im Schreiben richtig benutzt, ist das ein Plus."
+    },
+    {
+      "type": "warning",
+      "md": "One pair of dots changes everything:\n\n- **konnte** (could, was able to – past) ≠ **könnte** (could, would be able to)\n- **wurde** (became / passive past) ≠ **würde** (would)\n- **hatte** (had) ≠ **hätte** (would have)\n- **war** (was) ≠ **wäre** (would be)\n\nAnd with sein and haben, use **wäre** and **hätte** – „ich würde sein“ and „ich würde haben“ sound clumsy.",
+      "mdDe": "Zwei kleine Punkte ändern alles:\n\n- **konnte** (Präteritum von können) ≠ **könnte** (Konjunktiv II von können)\n- **wurde** (Präteritum von werden, auch im Passiv) ≠ **würde** (Konjunktiv II von werden)\n- **hatte** (Präteritum von haben) ≠ **hätte** (Konjunktiv II von haben)\n- **war** (Präteritum von sein) ≠ **wäre** (Konjunktiv II von sein)\n\nUnd bei sein und haben nimmst du **wäre** und **hätte** – „ich würde sein“ und „ich würde haben“ klingen ungeschickt."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1** these forms are classics: „würde / wurde / werde“, „hätte / hatte / habe“, „könnten / konnten / können“. Look for politeness (Sie, bitte), wishes (gern) and unreal wenn-sentences.\n\nIn **Schreiben**, polite forms improve semi-formal e-mails: „Könnten Sie mir bitte mitteilen, …?“ – „Ich wäre Ihnen sehr dankbar, wenn …“ – „Es wäre schön, wenn …“. In **Sprechen Teil 3**, use them for suggestions and polite disagreement: „Wir könnten …“ – „Wie wäre es, wenn …?“ – „Ich würde lieber …“.",
+      "mdDe": "In **Sprachbausteine Teil 1** sind diese Formen Klassiker: „würde / wurde / werde“, „hätte / hatte / habe“, „könnten / konnten / können“. Achte auf Höflichkeit (Sie, bitte), Wünsche (gern) und irreale wenn-Sätze.\n\nIm **Schreiben** machen höfliche Formen deine halbformellen E-Mails besser: „Könnten Sie mir bitte mitteilen, …?“ – „Ich wäre Ihnen sehr dankbar, wenn …“ – „Es wäre schön, wenn …“. In **Sprechen Teil 3** benutzt du sie für Vorschläge und höflichen Widerspruch: „Wir könnten …“ – „Wie wäre es, wenn …?“ – „Ich würde lieber …“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wenn ich reich bin, würde ich eine Weltreise machen.",
+      "right": "Wenn ich reich wäre, würde ich eine Weltreise machen.",
+      "why": "In an unreal condition both clauses need the Konjunktiv II: „wäre … würde“.",
+      "whyDe": "In einer irrealen Bedingung brauchen beide Sätze den Konjunktiv II: „wäre … würde“."
+    },
+    {
+      "wrong": "Konnten Sie mir bitte helfen?",
+      "right": "Könnten Sie mir bitte helfen?",
+      "why": "A polite request needs the Konjunktiv II with umlaut: „könnten“. „konnten“ is the simple past.",
+      "whyDe": "Eine höfliche Bitte braucht den Konjunktiv II mit Umlaut: „könnten“. „konnten“ ist Präteritum."
+    },
+    {
+      "wrong": "Wenn ich Zeit hätte, ich würde mitkommen.",
+      "right": "Wenn ich Zeit hätte, würde ich mitkommen.",
+      "why": "After a wenn-clause, the main clause starts with the verb: „…, würde ich …“.",
+      "whyDe": "Nach einem wenn-Satz beginnt der Hauptsatz mit dem Verb: „…, würde ich …“."
+    },
+    {
+      "wrong": "Du würdest mehr Sport machen.",
+      "right": "Du solltest mehr Sport machen.",
+      "why": "For advice, use „solltest“ (should). „Du würdest …“ only says what you would do – it is not advice.",
+      "whyDe": "Für einen Ratschlag nimmst du „solltest“. „Du würdest …“ sagt nur, was du tun würdest – das ist kein Ratschlag."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "___ Sie mir bitte sagen, wann der nächste Bus nach Freiburg fährt?",
+      "options": ["Konnten", "Könnten", "Hätten"],
+      "answer": 1,
+      "explanation": "A polite question → Konjunktiv II „Könnten“. „Konnten“ is the simple past; „Hätten“ doesn't go with the infinitive „sagen“.",
+      "explanationDe": "Eine höfliche Frage → Konjunktiv II „Könnten“. „Konnten“ ist Präteritum; „Hätten“ passt nicht zum Infinitiv „sagen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wenn ich mehr Zeit ___, würde ich öfter meine Eltern besuchen.",
+      "options": ["hatte", "habe", "hätte"],
+      "answer": 2,
+      "explanation": "Unreal condition (I don't have more time) → both parts in the Konjunktiv II: „hätte … würde“.",
+      "explanationDe": "Irreale Bedingung (in Wirklichkeit habe ich nicht so viel Zeit) → beide Teile im Konjunktiv II: „hätte … würde“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe schon wieder Kopfschmerzen. – Du ___ wirklich mal zum Arzt gehen.",
+      "options": ["solltest", "durftest", "würdest"],
+      "answer": 0,
+      "explanation": "Advice → „solltest“ (you should). „durftest“ (were allowed) is past, and „Du würdest …“ only says what you would do – it isn't advice.",
+      "explanationDe": "Ratschlag → „solltest“. „durftest“ (= es war erlaubt) ist Vergangenheit, und „Du würdest …“ sagt nur, was du tun würdest – das ist kein Ratschlag."
+    },
+    {
+      "type": "mc",
+      "prompt": "Es ___ schön, wenn du am Samstag zu meiner Party kommen könntest.",
+      "options": ["war", "wäre", "würde"],
+      "answer": 1,
+      "explanation": "A wish → „Es wäre schön, wenn …“. „war“ is the simple past, and „würde“ would need an infinitive.",
+      "explanationDe": "Ein Wunsch → „Es wäre schön, wenn …“. „war“ ist Präteritum, und „würde“ bräuchte einen Infinitiv."
+    },
+    {
+      "type": "mc",
+      "prompt": "An deiner Stelle ___ ich nicht so viel Geld für ein neues Handy ausgeben.",
+      "options": ["wurde", "werde", "würde"],
+      "answer": 2,
+      "explanation": "„An deiner Stelle“ (if I were you) introduces advice in the Konjunktiv II: „würde … ausgeben“.",
+      "explanationDe": "„An deiner Stelle“ (= wenn ich du wäre) leitet einen Ratschlag im Konjunktiv II ein: „würde … ausgeben“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Guten Tag, ich ___ gern ein Einzelzimmer für zwei Nächte.",
+      "answers": ["hätte"],
+      "hint": "(haben – polite)",
+      "hintDe": "(haben – höflich)",
+      "explanation": "Polite wish: „Ich hätte gern …“ (= I would like …).",
+      "explanationDe": "Höflicher Wunsch: „Ich hätte gern …“ (= Ich möchte …)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wenn ich du ___, würde ich die Stelle in Hamburg annehmen.",
+      "answers": ["wäre"],
+      "hint": "(sein)",
+      "explanation": "„Wenn ich du wäre“ (if I were you) – Konjunktiv II of „sein“.",
+      "explanationDe": "„Wenn ich du wäre“ (= an deiner Stelle) – Konjunktiv II von „sein“."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ ihr Lust, am Sonntag mit uns im Park zu grillen?",
+      "answers": ["Hättet", "hättet"],
+      "hint": "(haben – Konjunktiv II)",
+      "explanation": "ihr-form of „hätte“: „hättet“. It makes the invitation sound friendly and polite.",
+      "explanationDe": "ihr-Form von „hätte“: „hättet“. So klingt die Einladung freundlich und höflich."
+    },
+    {
+      "type": "order",
+      "words": ["kaufen.", "Geld", "ich", "hätte,", "Wenn", "würde", "Auto", "mehr", "ein", "ich"],
+      "answers": ["Wenn ich mehr Geld hätte, würde ich ein Auto kaufen."],
+      "explanation": "„hätte“ goes to the end of the wenn-clause; the main clause starts with „würde“, and the infinitive „kaufen“ comes last.",
+      "explanationDe": "„hätte“ steht am Ende des wenn-Satzes; der Hauptsatz beginnt mit „würde“, und der Infinitiv „kaufen“ steht ganz am Schluss."
+    },
+    {
+      "type": "order",
+      "words": ["schicken?", "Rechnung", "Sie", "die", "Könnten", "bitte", "mir"],
+      "answers": ["Könnten Sie mir bitte die Rechnung schicken?", "Könnten Sie mir die Rechnung bitte schicken?"],
+      "explanation": "A polite question: „Könnten“ first, then the subject „Sie“; the infinitive „schicken“ goes to the end.",
+      "explanationDe": "Eine höfliche Frage: zuerst „Könnten“, dann das Subjekt „Sie“; der Infinitiv „schicken“ steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Make the request more polite. Use the Konjunktiv II.",
+      "instructionDe": "Mach die Bitte höflicher. Benutze den Konjunktiv II.",
+      "prompt": "Rufen Sie mich bitte zurück!",
+      "answers": [
+        "Könnten Sie mich bitte zurückrufen?",
+        "Würden Sie mich bitte zurückrufen?",
+        "Könnten Sie mich zurückrufen?",
+        "Würden Sie mich zurückrufen?"
+      ],
+      "explanation": "„Könnten Sie …?“ or „Würden Sie …?“ + infinitive at the end. The separable verb stays together: „zurückrufen“.",
+      "explanationDe": "„Könnten Sie …?“ oder „Würden Sie …?“ + Infinitiv am Ende. Das trennbare Verb bleibt zusammen: „zurückrufen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the facts into an unreal condition with „wenn“.",
+      "instructionDe": "Mach aus den Fakten eine irreale Bedingung mit „wenn“.",
+      "prompt": "Ich habe kein Auto. Deshalb kann ich dich nicht besuchen.",
+      "answers": [
+        "Wenn ich ein Auto hätte, könnte ich dich besuchen.",
+        "Wenn ich ein Auto hätte, würde ich dich besuchen."
+      ],
+      "explanation": "Unreal condition: „Wenn ich ein Auto hätte“ (but I don't), then the main clause with „könnte“ or „würde“ + infinitive. The negation disappears because you imagine the opposite.",
+      "explanationDe": "Irreale Bedingung: „Wenn ich ein Auto hätte“ (aber ich habe keins), dann der Hauptsatz mit „könnte“ oder „würde“ + Infinitiv. Die Verneinung fällt weg, weil du dir das Gegenteil vorstellst."
+    }
+  ],
+  "related": ["modalverben", "futur-1", "praeteritum", "nebensaetze-grundlagen"]
+}

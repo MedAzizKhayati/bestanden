@@ -1,0 +1,56 @@
+{
+  "id": "schreiben-10",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Inventur am Samstag",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "register": "semiformal",
+  "situation": "Sie arbeiten im Möbelhaus Lindemann. Im Pausenraum hängt folgender Aushang:",
+  "stimulus": {
+    "kind": "notice",
+    "body": "Möbelhaus Lindemann – Filiale Dortmund\n\nAn alle Mitarbeiterinnen und Mitarbeiter\n\nINVENTUR AM SAMSTAG, 11. OKTOBER\n\nAm Samstag, dem 11. Oktober, bleibt unser Haus für Kunden geschlossen, weil wir die Inventur machen. Die Teilnahme ist für alle Mitarbeiterinnen und Mitarbeiter Pflicht. Arbeitsbeginn ist um 7 Uhr, das Ende ist für etwa 17 Uhr geplant. Für Frühstück und Mittagessen ist gesorgt. Die Stunden werden als Überstunden bezahlt oder können als Freizeit genommen werden.\n\nWer an diesem Tag aus einem wichtigen Grund nicht kommen kann, meldet sich bitte bis zum 26. September schriftlich bei Herrn Kröger.\n\nThomas Kröger, Filialleitung"
+  },
+  "leitpunkte": [
+    "Was Sie stattdessen anbieten",
+    "Worum Sie Herrn Kröger bitten",
+    "Was Sie über die Bezahlung wissen möchten",
+    "Aus welchem Grund Sie an diesem Tag nicht kommen können"
+  ],
+  "model": {
+    "subject": "Inventur am 11. Oktober – Bitte um einen freien Tag",
+    "text": "Sehr geehrter Herr Kröger,\n\nich habe den Aushang zur Inventur am Samstag, dem 11. Oktober, gelesen und möchte Sie bitten, mir an diesem Tag freizugeben.\n\nDer Grund ist meine Deutschprüfung: Genau an diesem Samstag lege ich an der Volkshochschule die Prüfung „Zertifikat Deutsch B1“ ab. Für den Termin habe ich mich schon im Juli angemeldet, und die nächste Prüfung findet erst im Februar statt. Da ich das Zertifikat für meine Einbürgerung brauche, ist mir dieser Termin sehr wichtig.\n\nNatürlich möchte ich meine Kolleginnen und Kollegen trotzdem unterstützen. Deshalb könnte ich am Freitag nach Ladenschluss zwei oder drei Stunden länger bleiben und schon die Waren im Lager zählen. Auch am Montag nach der Inventur helfe ich gern beim Aufräumen.\n\nAußerdem habe ich noch eine Frage: Werden die zusätzlichen Stunden am Freitag ebenfalls als Überstunden bezahlt, oder kann ich sie als Freizeit nehmen?\n\nIch hoffe auf Ihr Verständnis und danke Ihnen im Voraus für Ihre Antwort.\n\nMit freundlichen Grüßen\nPiotr Nowak"
+  },
+  "modelNotes": [
+    "The first sentence names the notice and the request, so the manager knows at once what the e-mail is about.",
+    "The reason is strong and concrete (exam date, registration in July, next exam only in February) – essential when you ask an employer for a day off.",
+    "The writer shows goodwill and offers alternatives: „Natürlich … trotzdem …“, „Deshalb könnte ich …“, „Auch am Montag …“.",
+    "Formal elements: „Ich möchte Sie bitten, …“, a passive question („Werden … bezahlt?“), „Ich hoffe auf Ihr Verständnis“, „Mit freundlichen Grüßen“.",
+    "Connectors: „da“, „trotzdem“, „deshalb“, „außerdem“, „oder“."
+  ],
+  "modelNotesDe": [
+    "Der erste Satz nennt den Aushang und die Bitte – so weiß der Filialleiter sofort, worum es in der E-Mail geht.",
+    "Der Grund ist überzeugend und konkret (Prüfungstermin, Anmeldung im Juli, nächste Prüfung erst im Februar) – das brauchst du unbedingt, wenn du deinen Arbeitgeber um einen freien Tag bittest.",
+    "Der Schreiber zeigt guten Willen und bietet Alternativen an: „Natürlich … trotzdem …“, „Deshalb könnte ich …“, „Auch am Montag …“.",
+    "Formelle Elemente: „Ich möchte Sie bitten, …“, eine Frage im Passiv („Werden … bezahlt?“), „Ich hoffe auf Ihr Verständnis“, „Mit freundlichen Grüßen“.",
+    "Konnektoren: „da“, „trotzdem“, „deshalb“, „außerdem“, „oder“."
+  ],
+  "phrases": [
+    { "de": "Ich möchte Sie bitten, mir am … freizugeben.", "en": "I would like to ask you to give me … off." },
+    { "de": "Der Grund ist …", "en": "The reason is …" },
+    { "de": "Genau an diesem Tag …", "en": "On exactly that day …" },
+    { "de": "Da ich … brauche, ist mir dieser Termin sehr wichtig.", "en": "As I need …, this date is very important to me." },
+    { "de": "Deshalb könnte ich … länger bleiben.", "en": "So I could stay longer …" },
+    { "de": "Werden die Stunden als Überstunden bezahlt?", "en": "Will the hours be paid as overtime?" },
+    { "de": "Ich hoffe auf Ihr Verständnis.", "en": "I hope for your understanding." }
+  ],
+  "glossary": [
+    { "de": "die Inventur", "en": "stocktaking" },
+    { "de": "der Aushang", "en": "notice (on a board)" },
+    { "de": "Die Teilnahme ist Pflicht.", "en": "Attendance is compulsory." },
+    { "de": "die Überstunde", "en": "hour of overtime" },
+    { "de": "eine Prüfung ablegen", "en": "to take an exam" },
+    { "de": "die Einbürgerung", "en": "naturalisation (getting citizenship)" },
+    { "de": "der Ladenschluss", "en": "shop closing time" }
+  ]
+}

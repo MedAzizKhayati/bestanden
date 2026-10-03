@@ -1,0 +1,98 @@
+{
+  "id": "sprechen-2-11",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Hausaufgaben: ja oder nein?",
+  "topic": "bildung",
+  "difficulty": 2,
+  "theme": "Hausaufgaben in der Schule",
+  "medium": "in einer Zeitung",
+  "cardA": {
+    "name": "Helmut Frank",
+    "age": 59,
+    "job": "Gymnasiallehrer",
+    "quote": "Ich unterrichte seit über dreißig Jahren Mathematik, und ich bin sicher: Ohne Übung lernt man nichts. In der Schule haben wir oft nicht genug Zeit, deshalb sind Hausaufgaben wichtig. Die Schüler lernen dabei auch, selbstständig zu arbeiten und sich die Zeit einzuteilen. Das brauchen sie später in der Ausbildung oder im Studium."
+  },
+  "cardB": {
+    "name": "Sarah Winter",
+    "age": 37,
+    "job": "Verkäuferin, Mutter von drei Kindern",
+    "quote": "Meine Kinder sind nach acht Stunden Schule müde, und dann sitzen sie noch zwei Stunden an den Hausaufgaben. Für Sport, Freunde oder einfach zum Spielen bleibt kaum Zeit. Ich arbeite bis sechs Uhr und kann ihnen oft nicht helfen. Andere Eltern helfen mehr oder bezahlen Nachhilfe, und das finde ich ungerecht. Lernen sollte in der Schule stattfinden."
+  },
+  "ideas": {
+    "pro": [
+      "man wiederholt und übt den Stoff",
+      "Schüler lernen, selbstständig zu arbeiten",
+      "Eltern sehen, was ihre Kinder in der Schule lernen",
+      "gute Vorbereitung auf Klassenarbeiten und Prüfungen",
+      "man lernt, sich die Zeit einzuteilen"
+    ],
+    "contra": [
+      "Kinder haben zu wenig Freizeit",
+      "Stress und Streit in der Familie",
+      "nicht alle Eltern können helfen, das ist ungerecht",
+      "Nachhilfe ist teuer",
+      "nach einem langen Schultag sind Kinder müde",
+      "in Ganztagsschulen kann man in der Schule üben"
+    ]
+  },
+  "questions": [
+    "Wie war das mit den Hausaufgaben in Ihrer Schulzeit?",
+    "Wie ist das in Ihrem Heimatland? Bekommen Kinder dort viele Hausaufgaben?",
+    "Wie viele Hausaufgaben sind Ihrer Meinung nach sinnvoll?",
+    "Sollten Eltern bei den Hausaufgaben helfen?",
+    "Was halten Sie von Ganztagsschulen?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Leila Rahimi", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Diego Fernández", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange an. Auf meinem Blatt steht die Meinung von Helmut Frank. Er ist 59 und unterrichtet seit über dreißig Jahren Mathematik an einem Gymnasium." },
+    { "s": "A", "t": "Herr Frank ist sicher, dass man ohne Übung nichts lernt. Weil es in der Schule oft nicht genug Zeit gibt, findet er Hausaufgaben sehr wichtig." },
+    { "s": "A", "t": "Außerdem lernen die Schüler dabei, selbstständig zu arbeiten und sich die Zeit einzuteilen. Das brauchen sie später in der Ausbildung oder im Studium, sagt er." },
+    { "s": "B", "t": "Danke. Auf meinem Blatt ist die Meinung ganz anders. Sarah Winter ist 37, Verkäuferin und Mutter von drei Kindern." },
+    { "s": "B", "t": "Sie erzählt, dass ihre Kinder nach acht Stunden Schule müde sind und dann noch zwei Stunden Hausaufgaben machen. Für Sport, Freunde oder Spielen bleibt kaum Zeit." },
+    { "s": "B", "t": "Frau Winter arbeitet bis sechs Uhr und kann ihren Kindern oft nicht helfen. Sie findet es ungerecht, dass andere Eltern mehr helfen oder Nachhilfe bezahlen, und meint, dass Lernen in der Schule stattfinden sollte." },
+    { "s": "A", "t": "Ich kann Frau Winter gut verstehen. Mein Sohn ist in der vierten Klasse, und manchmal weint er bei den Hausaufgaben, weil er so müde ist." },
+    { "s": "B", "t": "Oh, das tut mir leid. Wie viel Zeit braucht er denn?" },
+    { "s": "A", "t": "Normalerweise eine Stunde, aber vor einer Klassenarbeit auch mal zwei. Und bei Deutsch kann ich ihm nicht immer helfen, weil ich die Sprache selbst noch lerne." },
+    { "s": "B", "t": "Das ist genau das Problem, das Frau Winter beschreibt. Kinder, deren Eltern gut Deutsch sprechen, haben einen Vorteil." },
+    { "s": "A", "t": "Ja, genau. Aber ich muss sagen, dass Herr Frank auch recht hat. Mathe lernt man nur, wenn man viel übt." },
+    { "s": "B", "t": "Das sehe ich auch so. Als ich in Spanien zur Schule gegangen bin, hatten wir sehr viele Hausaufgaben. Das war anstrengend, aber ich habe viel gelernt." },
+    { "s": "A", "t": "Wirklich? Wie viele Stunden waren das?" },
+    { "s": "B", "t": "In der Oberstufe oft zwei oder drei Stunden pro Tag. Heute gibt es in Spanien aber eine große Diskussion darüber, und viele Eltern wollen weniger Hausaufgaben." },
+    { "s": "A", "t": "Im Iran war es ähnlich, da hatten wir auch sehr viele Aufgaben. Wir haben fast jeden Nachmittag gelernt, auch am Wochenende. Ehrlich gesagt hatte ich kaum Freizeit." },
+    { "s": "B", "t": "Das ist zu viel, finde ich. Kinder brauchen auch Zeit zum Spielen und für Sport." },
+    { "s": "P", "t": "Was halten Sie von Ganztagsschulen, in denen die Kinder die Aufgaben in der Schule machen?" },
+    { "s": "B", "t": "Das finde ich eine gute Lösung. Dort helfen Lehrer oder Betreuer, und zu Hause hat die Familie dann wirklich Freizeit." },
+    { "s": "A", "t": "Ich finde die Idee auch gut. Mein Sohn geht ab nächstem Jahr in eine Ganztagsschule, und ich hoffe, dass es dann weniger Stress gibt." },
+    { "s": "B", "t": "Das hoffe ich auch für euch. Vielleicht ist ein Kompromiss am besten: wenige, kurze Hausaufgaben, die die Kinder allein schaffen." },
+    { "s": "A", "t": "Genau. Dann üben die Kinder trotzdem, wie Herr Frank sagt, aber sie haben noch genug Freizeit." }
+  ],
+  "phrases": [
+    { "de": "Er ist sicher, dass …", "en": "He is sure that …" },
+    { "de": "…, sagt er.", "en": "…, he says." },
+    { "de": "Ich kann … gut verstehen.", "en": "I can understand … well." },
+    { "de": "Oh, das tut mir leid.", "en": "Oh, I'm sorry to hear that." },
+    { "de": "Das ist genau das Problem, das … beschreibt.", "en": "That's exactly the problem … describes." },
+    { "de": "Aber ich muss sagen, dass … auch recht hat.", "en": "But I have to say that … is right too." },
+    { "de": "Was halten Sie von …?", "en": "What do you think of …?" },
+    { "de": "Das finde ich eine gute Lösung.", "en": "I think that's a good solution." },
+    { "de": "Vielleicht ist ein Kompromiss am besten: …", "en": "Maybe a compromise is best: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Hausaufgaben (Pl.)", "en": "homework" },
+    { "de": "üben", "en": "to practise" },
+    { "de": "selbstständig", "en": "independently" },
+    { "de": "sich die Zeit einteilen", "en": "to plan one's time" },
+    { "de": "die Nachhilfe", "en": "private tutoring" },
+    { "de": "ungerecht", "en": "unfair" },
+    { "de": "die Klassenarbeit", "en": "class test" },
+    { "de": "die Ganztagsschule", "en": "all-day school" },
+    { "de": "der Betreuer / die Betreuerin", "en": "supervisor, carer" },
+    { "de": "der Kompromiss", "en": "compromise" },
+    { "de": "das Gymnasium", "en": "academic secondary school" }
+  ]
+}

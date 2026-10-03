@@ -1,0 +1,103 @@
+{
+  "id": "hoeren-3-06",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Kultur und Feste",
+  "topic": "kultur",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "museum", "gender": "f", "age": "adult", "role": "Durchsage im Museum" },
+    { "id": "radio", "gender": "m", "age": "adult", "role": "Radiomoderator" },
+    { "id": "jule", "name": "Jule", "gender": "f", "age": "young", "role": "Freundin" },
+    { "id": "konzerthaus", "gender": "m", "age": "adult", "role": "Durchsage im Konzerthaus" },
+    { "id": "bibliothek", "gender": "f", "age": "adult", "role": "Telefonansage" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage im Museum",
+      "script": [
+        { "s": "museum", "t": "Sehr geehrte Besucherinnen und Besucher, in dreißig Minuten, um 17 Uhr 30, schließt unser Museum." },
+        { "s": "museum", "t": "Die Sonderausstellung im zweiten Stock ist bereits geschlossen. Bitte holen Sie Ihre Taschen und Jacken rechtzeitig an der Garderobe im Untergeschoss ab." },
+        { "s": "museum", "t": "Unser Museumsshop im Eingangsbereich ist heute noch bis 18 Uhr für Sie geöffnet. Wir danken für Ihren Besuch." }
+      ],
+      "statement": "Der Museumsshop schließt heute später als das Museum.",
+      "answer": true,
+      "explanation": "The museum closes at 17 Uhr 30, but „Unser Museumsshop … ist heute noch bis 18 Uhr für Sie geöffnet“.",
+      "explanationDe": "Das Museum schließt um 17 Uhr 30, aber: „Unser Museumsshop … ist heute noch bis 18 Uhr für Sie geöffnet“.",
+      "evidence": "Unser Museumsshop im Eingangsbereich ist heute noch bis 18 Uhr für Sie geöffnet."
+    },
+    {
+      "n": 2,
+      "label": "Veranstaltungstipp im Radio",
+      "script": [
+        { "s": "radio", "t": "Von Freitag bis Sonntag feiert die Altstadt ihr großes Sommerfest. Los geht es am Freitag um 18 Uhr mit einem Konzert auf dem Rathausplatz." },
+        { "s": "radio", "t": "Der Höhepunkt ist am Samstag: Um halb elf am Abend gibt es ein großes Feuerwerk über dem Fluss." },
+        { "s": "radio", "t": "Am Sonntag findet dann von 10 bis 17 Uhr ein Flohmarkt für Kinder statt. Der Eintritt zu allen Veranstaltungen ist frei." }
+      ],
+      "statement": "Das Feuerwerk über dem Fluss gibt es am Samstagabend.",
+      "answer": true,
+      "explanation": "„Der Höhepunkt ist am Samstag: Um halb elf am Abend gibt es ein großes Feuerwerk über dem Fluss.“ Friday starts with a concert.",
+      "explanationDe": "„Der Höhepunkt ist am Samstag: Um halb elf am Abend gibt es ein großes Feuerwerk über dem Fluss.“ Am Freitag beginnt das Fest mit einem Konzert.",
+      "evidence": "Der Höhepunkt ist am Samstag: Um halb elf am Abend gibt es ein großes Feuerwerk über dem Fluss."
+    },
+    {
+      "n": 3,
+      "label": "Nachricht von einer Freundin",
+      "script": [
+        { "s": "jule", "t": "Hi Marie, hier ist Jule! Stell dir vor, ich hab noch zwei Karten für das Theaterstück bekommen, aber nicht für Freitag, sondern für Samstag." },
+        { "s": "jule", "t": "Die Vorstellung fängt um halb acht an. Wir treffen uns am besten schon um sieben vor dem Eingang, dann können wir vorher noch etwas trinken." },
+        { "s": "jule", "t": "Die Karte kostet für dich nur 12 Euro, weil ich den Studentenpreis bekommen habe. Ruf mich kurz zurück, ja?" }
+      ],
+      "statement": "Jule möchte Marie um halb acht vor dem Theater treffen.",
+      "answer": false,
+      "explanation": "Half past seven is when the play starts. Jule wants to meet „schon um sieben vor dem Eingang“ to have a drink first.",
+      "explanationDe": "Um halb acht beginnt das Theaterstück. Jule möchte sich „schon um sieben vor dem Eingang“ treffen, um vorher noch etwas zu trinken.",
+      "evidence": "Wir treffen uns am besten schon um sieben vor dem Eingang, dann können wir vorher noch etwas trinken."
+    },
+    {
+      "n": 4,
+      "label": "Durchsage im Konzerthaus",
+      "script": [
+        { "s": "konzerthaus", "t": "Meine Damen und Herren, wir begrüßen Sie herzlich zu unserem heutigen Konzert. Leider müssen wir Ihnen eine Änderung mitteilen." },
+        { "s": "konzerthaus", "t": "Die Sängerin Anna Lorenz ist erkrankt. Für sie singt heute Abend Julia Brandner aus Wien." },
+        { "s": "konzerthaus", "t": "Das Konzert beginnt deshalb erst um 20 Uhr 15, also fünfzehn Minuten später." },
+        { "s": "konzerthaus", "t": "Die Pause dauert wie geplant zwanzig Minuten." },
+        { "s": "konzerthaus", "t": "Bitte schalten Sie jetzt Ihre Mobiltelefone aus." }
+      ],
+      "statement": "Das Konzert beginnt heute pünktlich um 20 Uhr.",
+      "answer": false,
+      "explanation": "Because of the change of singer the concert begins „erst um 20 Uhr 15, also fünfzehn Minuten später“.",
+      "explanationDe": "Weil eine andere Sängerin singt, beginnt das Konzert „erst um 20 Uhr 15, also fünfzehn Minuten später“.",
+      "evidence": "Das Konzert beginnt deshalb erst um 20 Uhr 15, also fünfzehn Minuten später."
+    },
+    {
+      "n": 5,
+      "label": "Telefonansage der Stadtbibliothek",
+      "script": [
+        { "s": "bibliothek", "t": "Willkommen bei der Stadtbibliothek Am Wall. Wir haben dienstags bis freitags von 10 bis 19 Uhr und samstags von 10 bis 14 Uhr geöffnet. Montags ist die Bibliothek geschlossen." },
+        { "s": "bibliothek", "t": "Ausgeliehene Bücher und Filme können Sie aber jederzeit zurückgeben, auch nachts und am Wochenende. Unser Rückgabekasten befindet sich rechts neben dem Haupteingang." },
+        { "s": "bibliothek", "t": "Für Fragen zu Ihrem Leserausweis drücken Sie bitte die Taste eins." }
+      ],
+      "statement": "Bücher kann man auch zurückgeben, wenn die Bibliothek geschlossen ist.",
+      "answer": true,
+      "explanation": "Books can be returned „jederzeit …, auch nachts und am Wochenende“ – in the returns box next to the main entrance.",
+      "explanationDe": "Bücher kann man „jederzeit …, auch nachts und am Wochenende“ zurückgeben – im Rückgabekasten neben dem Haupteingang.",
+      "evidence": "Ausgeliehene Bücher und Filme können Sie aber jederzeit zurückgeben, auch nachts und am Wochenende."
+    }
+  ],
+  "glossary": [
+    { "de": "die Sonderausstellung", "en": "special exhibition" },
+    { "de": "die Garderobe", "en": "cloakroom" },
+    { "de": "rechtzeitig", "en": "in time" },
+    { "de": "der Höhepunkt", "en": "highlight" },
+    { "de": "das Feuerwerk", "en": "fireworks" },
+    { "de": "die Vorstellung", "en": "performance, show" },
+    { "de": "erkrankt sein", "en": "to be ill" },
+    { "de": "eine Änderung mitteilen", "en": "to announce a change" },
+    { "de": "ausleihen", "en": "to borrow" },
+    { "de": "der Rückgabekasten", "en": "returns box" },
+    { "de": "der Leserausweis", "en": "library card" }
+  ]
+}

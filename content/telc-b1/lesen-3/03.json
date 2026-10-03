@@ -1,0 +1,236 @@
+{
+  "id": "lesen-3-03",
+  "examId": "telc-b1",
+  "type": "ad-matching",
+  "title": "Rund ums Wohnen in Bremen",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Sie haben einen großen Hund und suchen deshalb eine Wohnung, in der Haustiere erlaubt sind.",
+      "answer": "c",
+      "explanation": "„Hund oder Katze? Kein Problem!“ – the flat with a garden (c) allows pets. The flat in Findorff (i) looks attractive, but it says „Keine Haustiere“.",
+      "explanationDe": "„Hund oder Katze? Kein Problem!“ – in der Wohnung mit Garten (c) sind Haustiere erlaubt. Die Wohnung in Findorff (i) sieht attraktiv aus, aber dort steht „Keine Haustiere“."
+    },
+    {
+      "n": 2,
+      "text": "Ihre Familie zieht von Bremen nach Stuttgart. Sie suchen eine Firma, die auch das Einpacken übernimmt, weil Sie dafür keine Zeit haben.",
+      "answer": "h",
+      "explanation": "„Umzüge in Bremen und in ganz Deutschland“ and „Ein- und Auspacken“ – the removal company (h) does long-distance moves and packs for you. The student helpers (l) only work „im Raum Bremen“ and have no vehicle.",
+      "explanationDe": "„Umzüge in Bremen und in ganz Deutschland“ und „Ein- und Auspacken“ – die Umzugsfirma (h) macht auch weite Umzüge und packt für dich ein. Die studentischen Helfer (l) arbeiten nur „im Raum Bremen“ und haben kein Fahrzeug."
+    },
+    {
+      "n": 3,
+      "text": "Sie möchten eine neue Waschmaschine kaufen. Das Geschäft soll das Gerät bringen, es anschließen und Ihre alte Maschine mitnehmen.",
+      "answer": "g",
+      "explanation": "„Lieferung … frei Haus“ and „Anschluss und Mitnahme Ihres Altgeräts“ – the electrical shop (g) offers all three services. The charity shop (k) also delivers, but it only sells used („gebrauchte“) appliances.",
+      "explanationDe": "„Lieferung … frei Haus“ und „Anschluss und Mitnahme Ihres Altgeräts“ – das Elektrogeschäft (g) bietet alle drei Leistungen an. Das Sozialkaufhaus (k) liefert auch, aber es verkauft nur „gebrauchte“ Geräte."
+    },
+    {
+      "n": 4,
+      "text": "Sie studieren in Bremen und haben sehr wenig Geld für die Miete. Dafür würden Sie gern einer älteren Person im Alltag helfen.",
+      "answer": "j",
+      "explanation": "„Statt Miete: etwa 20 Stunden Hilfe im Monat“ – in (j) a student pays no rent, only 90 € Nebenkosten, and helps an older lady. The shared flat (f) is for students too, but it costs „390 € warm“.",
+      "explanationDe": "„Statt Miete: etwa 20 Stunden Hilfe im Monat“ – bei (j) zahlen Studierende keine Miete, nur 90 € Nebenkosten, und helfen einer älteren Dame. Die WG (f) ist auch für Studierende, aber das Zimmer kostet „390 € warm“."
+    },
+    {
+      "n": 5,
+      "text": "Sie möchten Ihren Umzug am Samstag selbst machen und brauchen dafür einen großen Wagen. Sie haben nur einen normalen Führerschein für Autos.",
+      "answer": "b",
+      "explanation": "„Fahren mit dem normalen Autoführerschein (Klasse B)“ and „Sa. 8–14 Uhr“ – you can hire a van at (b) on Saturday. The removal company (h) does the whole move for you – you cannot hire a vehicle there and drive it yourself.",
+      "explanationDe": "„Fahren mit dem normalen Autoführerschein (Klasse B)“ und „Sa. 8–14 Uhr“ – bei (b) kannst du am Samstag einen Transporter mieten. Die Umzugsfirma (h) macht den ganzen Umzug für dich – dort kannst du kein Fahrzeug mieten und selbst fahren."
+    },
+    {
+      "n": 6,
+      "text": "Ihre Cousine macht von April bis Juni ein Praktikum in Bremen. Für diese drei Monate sucht sie ein möbliertes Zimmer.",
+      "answer": "x",
+      "explanation": "The shared flat (f) has a furnished room from April, but „Mindestmietdauer 12 Monate“. The room in (j) is also for „mindestens ein Jahr“, and (c) and (i) are whole flats, not furnished rooms. So no ad fits: x.",
+      "explanationDe": "Die WG (f) hat ab April ein möbliertes Zimmer, aber „Mindestmietdauer 12 Monate“. Auch das Zimmer bei (j) gibt es nur für „mindestens ein Jahr“, und (c) und (i) sind ganze Wohnungen, keine möblierten Zimmer. Keine Anzeige passt also: x."
+    },
+    {
+      "n": 7,
+      "text": "Sie arbeiten ab März sechs Monate in Kanada. Ihre Möbel möchten Sie so lange irgendwo unterbringen, aber nicht länger bezahlen als nötig.",
+      "answer": "e",
+      "explanation": "„Monatlich kündbar – keine lange Vertragsbindung“ – at the storage company (e) you only pay for the months you need. The removal company (h) also stores furniture, but with a „Mindestlaufzeit 12 Monate“.",
+      "explanationDe": "„Monatlich kündbar – keine lange Vertragsbindung“ – bei der Lagerfirma (e) zahlst du nur für die Monate, die du brauchst. Die Umzugsfirma (h) lagert auch Möbel ein, aber mit „Mindestlaufzeit 12 Monate“."
+    },
+    {
+      "n": 8,
+      "text": "Sie sind gerade nach Bremen gezogen und brauchen günstig einen Tisch und ein Regal. Ein Auto haben Sie nicht.",
+      "answer": "k",
+      "explanation": "„gebrauchte Möbel … zu kleinen Preisen“ and „Lieferung innerhalb Bremens: 25 €“ – the charity shop (k) is cheap and delivers. The private sale (d) has a table and a shelf, but it says „Nur an Selbstabholer“ – you must collect them yourself.",
+      "explanationDe": "„gebrauchte Möbel … zu kleinen Preisen“ und „Lieferung innerhalb Bremens: 25 €“ – das Sozialkaufhaus (k) ist günstig und liefert. Beim Privatverkauf (d) gibt es einen Tisch und ein Regal, aber dort steht „Nur an Selbstabholer“ – du musst die Möbel selbst abholen."
+    },
+    {
+      "n": 9,
+      "text": "Ihr Vermieter möchte, dass Sie für das letzte Jahr 600 Euro Nebenkosten nachzahlen. Sie glauben, dass die Abrechnung falsch ist, und möchten sie von Fachleuten prüfen lassen.",
+      "answer": "a",
+      "explanation": "„Wir prüfen Ihre Nebenkostenabrechnung“ – the tenants' association (a) checks the bill. You must become a member, but you can join at any time („Eintritt jederzeit möglich“).",
+      "explanationDe": "„Wir prüfen Ihre Nebenkostenabrechnung“ – der Mieterverein (a) prüft die Abrechnung. Du musst Mitglied werden, aber das geht jederzeit („Eintritt jederzeit möglich“)."
+    },
+    {
+      "n": 10,
+      "text": "Ihr Freund zieht am Sonntag innerhalb von Bremen um. Einen Transporter hat er schon gemietet, aber er braucht noch Leute, die beim Tragen helfen.",
+      "answer": "l",
+      "explanation": "„Wir tragen Kisten und Möbel“ and „Auch samstags und sonntags“ – the student helpers (l) carry things and work on Sundays. The removal company (h) only has „Termine Mo.–Sa.“.",
+      "explanationDe": "„Wir tragen Kisten und Möbel“ und „Auch samstags und sonntags“ – die studentischen Helfer (l) tragen Sachen und arbeiten auch sonntags. Die Umzugsfirma (h) hat nur „Termine Mo.–Sa.“."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Mieterhilfe Weserland e. V.",
+      "subheading": "Ärger mit dem Vermieter?",
+      "lines": [
+        "Wir prüfen Ihre Nebenkostenabrechnung und Ihren Mietvertrag.",
+        "Rechtsberatung durch erfahrene Juristinnen und Juristen",
+        "Beratung nur für Mitglieder – Beitrag 7,50 € im Monat, Eintritt jederzeit möglich",
+        "Sprechstunde: Di. und Do. 16–19 Uhr"
+      ],
+      "footer": "Lindenhofstraße 22, 28195 Bremen · Tel. 0421 3378120 · www.mieterhilfe-weserland.de"
+    },
+    {
+      "key": "b",
+      "heading": "Autovermietung Nordlicht",
+      "subheading": "Umzug selbst gemacht – mit unseren Transportern",
+      "lines": [
+        "Transporter bis 3,5 t: ab 59 € pro Tag inkl. 200 km",
+        "Fahren mit dem normalen Autoführerschein (Klasse B)",
+        "Sackkarre und Möbeldecken gratis dazu",
+        "Mo.–Fr. 7–19 Uhr, Sa. 8–14 Uhr"
+      ],
+      "footer": "Gewerbering 9, 28219 Bremen · Tel. 0421 6449033 · www.nordlicht-vermietung.de"
+    },
+    {
+      "key": "c",
+      "heading": "3-Zimmer-Wohnung mit Garten in Schwachhausen",
+      "lines": [
+        "75 m², Erdgeschoss, Terrasse und eigener Gartenanteil",
+        "Ruhige Lage, Bus und Straßenbahn in 5 Minuten",
+        "Hund oder Katze? Kein Problem!",
+        "Kaltmiete 890 € + 210 € Nebenkosten, frei ab 1. Mai"
+      ],
+      "footer": "Immobilien Rademacher · Tel. 0421 2205476"
+    },
+    {
+      "key": "d",
+      "heading": "Umzug ins Ausland – alles muss raus!",
+      "lines": [
+        "Esstisch aus Eiche mit 4 Stühlen: 120 €",
+        "Bücherregal, weiß, 2 m hoch: 30 €",
+        "Kommode und Schreibtisch je 40 €",
+        "Nur an Selbstabholer, Samstag 10–14 Uhr"
+      ],
+      "footer": "Tel. 0176 51908824 (ab 18 Uhr)"
+    },
+    {
+      "key": "e",
+      "heading": "Lagerraum Hafenkante",
+      "subheading": "Platz für alles, was Sie gerade nicht brauchen",
+      "lines": [
+        "Lagerboxen von 1 bis 30 m², ab 29 € im Monat",
+        "Monatlich kündbar – keine lange Vertragsbindung",
+        "Zugang täglich 6–22 Uhr, videoüberwacht",
+        "Trockene, saubere Räume mit sicheren Schlössern"
+      ],
+      "footer": "Überseeweg 12, 28217 Bremen · Tel. 0421 9930570 · www.lagerraum-hafenkante.de"
+    },
+    {
+      "key": "f",
+      "heading": "Zimmer in netter 3er-WG frei!",
+      "lines": [
+        "16 m², möbliert, mit Blick auf die Weser",
+        "390 € warm inkl. Internet",
+        "Wir sind zwei Studentinnen (23 und 25), Nichtraucherinnen, keine Haustiere.",
+        "Ab 1. April, Mindestmietdauer 12 Monate"
+      ],
+      "footer": "Ruf einfach an: 0157 32044197"
+    },
+    {
+      "key": "g",
+      "heading": "Elektro Brinkmann",
+      "subheading": "Ihr Fachgeschäft für Haushaltsgeräte seit 1965",
+      "lines": [
+        "Waschmaschinen, Trockner, Kühlschränke und Herde – alle großen Marken",
+        "Lieferung im Raum Bremen frei Haus",
+        "Anschluss und Mitnahme Ihres Altgeräts: nur 25 €",
+        "Mo.–Fr. 9–19 Uhr, Sa. 9–16 Uhr"
+      ],
+      "footer": "Marktweg 31, 28203 Bremen · Tel. 0421 7012388"
+    },
+    {
+      "key": "h",
+      "heading": "Weser-Umzüge",
+      "subheading": "Wir machen Ihren Umzug – Sie lehnen sich zurück.",
+      "lines": [
+        "Umzüge in Bremen und in ganz Deutschland",
+        "Auf Wunsch: Ein- und Auspacken, Möbelabbau und -aufbau",
+        "Möbeleinlagerung in unserem Lager (Mindestlaufzeit 12 Monate)",
+        "Kostenlose Besichtigung und Festpreis-Angebot",
+        "Termine Mo.–Sa."
+      ],
+      "footer": "Tel. 0421 5560890 · www.weser-umzug.de"
+    },
+    {
+      "key": "i",
+      "heading": "Helle 2-Zimmer-Wohnung in Findorff",
+      "lines": [
+        "58 m², 3. Stock (kein Aufzug), Balkon nach Süden",
+        "Neue Einbauküche, Bad mit Fenster",
+        "Kaltmiete 640 € + 160 € Nebenkosten, Kaution: zwei Monatsmieten",
+        "Keine Haustiere",
+        "Frei ab 1. April"
+      ],
+      "footer": "Hausverwaltung Petersen & Lohmann · Tel. 0421 4471209"
+    },
+    {
+      "key": "j",
+      "heading": "Wohnen für Hilfe",
+      "subheading": "Junge und ältere Menschen unter einem Dach",
+      "lines": [
+        "Seniorin (81) in Horn-Lehe bietet Studierenden ein möbliertes Zimmer mit eigenem Bad.",
+        "Statt Miete: etwa 20 Stunden Hilfe im Monat – Einkaufen, Gartenarbeit, Gesellschaft",
+        "Sie zahlen nur 90 € Nebenkosten.",
+        "Mietdauer: mindestens ein Jahr"
+      ],
+      "footer": "Vermittlung: Generationen-Netzwerk Bremen · Tel. 0421 8862043"
+    },
+    {
+      "key": "k",
+      "heading": "Sozialkaufhaus Fundgrube",
+      "lines": [
+        "Gut erhaltene gebrauchte Möbel, Lampen und Haushaltsgeräte zu kleinen Preisen",
+        "Lieferung innerhalb Bremens: 25 €",
+        "Wir holen Ihre Möbelspenden kostenlos ab.",
+        "Mo.–Fr. 10–18 Uhr, Sa. 10–14 Uhr"
+      ],
+      "footer": "Am Speicher 4, 28237 Bremen · Tel. 0421 6193300"
+    },
+    {
+      "key": "l",
+      "heading": "Packen & Tragen",
+      "subheading": "Studentische Umzugshelfer – stark und zuverlässig",
+      "lines": [
+        "Wir tragen Kisten und Möbel – auch in den 5. Stock.",
+        "22 € pro Helfer und Stunde, mindestens 3 Stunden",
+        "Nur im Raum Bremen, kein eigenes Fahrzeug",
+        "Auch samstags und sonntags"
+      ],
+      "footer": "Tel. 0421 2398815 · www.packen-und-tragen.de"
+    }
+  ],
+  "glossary": [
+    { "de": "die Nebenkosten (Pl.)", "en": "additional costs (heating, water, rubbish …)" },
+    { "de": "die Nebenkostenabrechnung", "en": "annual statement of additional costs" },
+    { "de": "die Kaltmiete", "en": "rent without heating and other costs" },
+    { "de": "die Kaution", "en": "deposit" },
+    { "de": "die Mindestmietdauer", "en": "minimum rental period" },
+    { "de": "monatlich kündbar", "en": "can be cancelled every month" },
+    { "de": "möbliert", "en": "furnished" },
+    { "de": "der Selbstabholer", "en": "buyer who collects the goods himself" },
+    { "de": "das Altgerät", "en": "old appliance" },
+    { "de": "die Einlagerung", "en": "storage (of furniture, goods)" },
+    { "de": "die Besichtigung", "en": "viewing, inspection" }
+  ]
+}

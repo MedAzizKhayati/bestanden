@@ -1,0 +1,100 @@
+{
+  "id": "sprechen-2-03",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Stadt oder Land?",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "theme": "Leben auf dem Land oder in der Stadt",
+  "medium": "im Internet",
+  "cardA": {
+    "name": "Lukas Gruber",
+    "age": 29,
+    "job": "Grafiker",
+    "quote": "Ich bin in einem kleinen Dorf in der Steiermark aufgewachsen und vor fünf Jahren nach Wien gezogen. Hier kann ich alles zu Fuß oder mit der U-Bahn erreichen, ein Auto brauche ich nicht. Am Abend gehe ich ins Kino oder treffe Freunde in einem Lokal. Auf dem Land würde ich mich heute langweilen."
+  },
+  "cardB": {
+    "name": "Theresa Huber",
+    "age": 41,
+    "job": "Physiotherapeutin",
+    "quote": "Vor drei Jahren sind wir mit unseren Kindern von München in ein Dorf am Chiemsee gezogen. Für das gleiche Geld wie früher für eine kleine Stadtwohnung haben wir jetzt ein Haus mit Garten. Die Kinder spielen draußen, und die Nachbarn kennen sich und helfen sich gegenseitig. Dass ich zur Arbeit eine halbe Stunde fahren muss, stört mich kaum."
+  },
+  "ideas": {
+    "pro": [
+      "auf dem Land: mehr Platz und niedrigere Mieten",
+      "Ruhe, frische Luft und Natur",
+      "Kinder können sicher draußen spielen",
+      "die Nachbarn kennen sich und helfen sich",
+      "weniger Verkehr und Lärm"
+    ],
+    "contra": [
+      "auf dem Land braucht man fast immer ein Auto",
+      "lange Wege zur Arbeit, zum Arzt und zur Schule",
+      "wenige Geschäfte, Kinos und Restaurants",
+      "schlechte Busverbindungen, besonders am Abend",
+      "weniger Arbeitsplätze",
+      "jeder weiß alles über jeden"
+    ]
+  },
+  "questions": [
+    "Wo leben Sie lieber, auf dem Land oder in der Stadt? Warum?",
+    "Wie haben Sie in Ihrem Heimatland gewohnt?",
+    "Wo sollten Kinder Ihrer Meinung nach aufwachsen?",
+    "Was fehlt Ihnen an Ihrem Wohnort?",
+    "Ziehen in Ihrem Heimatland viele junge Leute in die Städte?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Maria Ionescu", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Yusuf Ahmadi", "gender": "m", "age": "young", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Bitte berichten Sie zuerst über die Meinung auf Ihrem Blatt. Danach unterhalten Sie sich über das Thema." },
+    { "s": "A", "t": "Ich habe die Meinung von Lukas Gruber gelesen. Er ist 29 Jahre alt und arbeitet als Grafiker in Wien." },
+    { "s": "A", "t": "Herr Gruber ist in einem kleinen Dorf aufgewachsen, aber vor fünf Jahren ist er nach Wien gezogen. Er findet es toll, dass er in der Stadt alles zu Fuß oder mit der U-Bahn erreichen kann und kein Auto braucht." },
+    { "s": "A", "t": "Abends geht er ins Kino oder trifft Freunde. Er sagt, dass er sich auf dem Land heute langweilen würde." },
+    { "s": "B", "t": "Auf meinem Blatt ist es genau umgekehrt. Theresa Huber ist 41 und Physiotherapeutin. Sie ist vor drei Jahren mit ihren Kindern von München in ein Dorf am Chiemsee gezogen." },
+    { "s": "B", "t": "Sie erzählt, dass sie dort für das gleiche Geld ein Haus mit Garten hat und nicht nur eine kleine Wohnung. Ihre Kinder spielen draußen, und die Nachbarn helfen sich gegenseitig." },
+    { "s": "B", "t": "Frau Huber muss zwar eine halbe Stunde zur Arbeit fahren, aber das stört sie kaum." },
+    { "s": "A", "t": "Zwei ganz verschiedene Meinungen! Wo wohnst du denn, Yusuf, in der Stadt oder auf dem Land?" },
+    { "s": "B", "t": "Ich wohne in Hannover, mitten in der Stadt. Aber in Afghanistan bin ich in einem Dorf in den Bergen aufgewachsen. Deshalb kann ich beide Seiten gut verstehen." },
+    { "s": "A", "t": "Und was gefällt dir besser?" },
+    { "s": "B", "t": "Im Moment die Stadt, weil ich hier studiere und abends arbeite. Ohne Busse und Straßenbahnen wäre das gar nicht möglich. Aber manchmal vermisse ich die Ruhe und die frische Luft in meinem Dorf." },
+    { "s": "A", "t": "Das verstehe ich. Bei mir ist es umgekehrt: Ich komme aus Bukarest, also aus einer Millionenstadt, und jetzt wohne ich mit meinem Mann in einem kleinen Ort bei Hannover." },
+    { "s": "B", "t": "Wirklich? Warum seid ihr aufs Land gezogen?" },
+    { "s": "A", "t": "Aus ähnlichen Gründen wie Frau Huber. Die Mieten in der Stadt waren uns zu hoch, und wir wollten mehr Platz, weil wir ein Baby bekommen haben." },
+    { "s": "B", "t": "Und vermisst du die Stadt nicht?" },
+    { "s": "A", "t": "Doch, manchmal schon. Bei uns gibt es nur einen Supermarkt und einen Bäcker, und am Wochenende fährt der Bus nur alle zwei Stunden. Ohne Auto geht fast nichts." },
+    { "s": "B", "t": "Das ist für mich der größte Nachteil. Ich habe kein Auto, und ich möchte auch keins, weil es so teuer ist." },
+    { "s": "P", "t": "Und wo sollten Kinder Ihrer Meinung nach aufwachsen?" },
+    { "s": "A", "t": "Ich finde, auf dem Land. Die Kinder können draußen spielen, ohne dass man immer Angst vor dem Verkehr haben muss. Ich bin in Bukarest in einem Hochhaus groß geworden, und unser Spielplatz war ein Parkplatz." },
+    { "s": "B", "t": "Für kleine Kinder ist das Land sicher schöner, da hast du recht. Aber wenn die Kinder älter sind, wollen sie in die Stadt, weil dort die Schulen, die Freunde und die Freizeitangebote sind." },
+    { "s": "A", "t": "Das ist ein wichtiger Punkt. Dann müssen die Eltern sie überall mit dem Auto hinbringen." },
+    { "s": "B", "t": "Genau! Mein Cousin wohnt in einem Dorf in Niedersachsen, und er sagt, er ist jeden Nachmittag Taxifahrer für seine Kinder." },
+    { "s": "A", "t": "Das glaube ich sofort. Vielleicht ist eine Kleinstadt die beste Lösung: nicht zu groß und nicht zu klein." },
+    { "s": "B", "t": "Ja, das finde ich auch. Da gibt es Natur, aber auch einen Bahnhof, Schulen und ein paar Geschäfte." }
+  ],
+  "phrases": [
+    { "de": "Ich habe die Meinung von … gelesen.", "en": "I read the opinion of …" },
+    { "de": "Auf meinem Blatt ist es genau umgekehrt.", "en": "On my sheet it's exactly the opposite." },
+    { "de": "Er findet es toll, dass …", "en": "He thinks it's great that …" },
+    { "de": "Ich kann beide Seiten gut verstehen.", "en": "I can understand both sides well." },
+    { "de": "Bei mir ist es umgekehrt.", "en": "For me it's the other way round." },
+    { "de": "Aus ähnlichen Gründen wie …", "en": "For similar reasons as …" },
+    { "de": "Das ist für mich der größte Nachteil.", "en": "For me that's the biggest disadvantage." },
+    { "de": "Das ist ein wichtiger Punkt.", "en": "That's an important point." },
+    { "de": "Vielleicht ist … die beste Lösung.", "en": "Maybe … is the best solution." }
+  ],
+  "vocabulary": [
+    { "de": "aufwachsen", "en": "to grow up" },
+    { "de": "das Dorf", "en": "village" },
+    { "de": "die Kleinstadt", "en": "small town" },
+    { "de": "die Millionenstadt", "en": "city with over a million inhabitants" },
+    { "de": "die Miete", "en": "rent" },
+    { "de": "der Vorteil / der Nachteil", "en": "advantage / disadvantage" },
+    { "de": "die Busverbindung", "en": "bus connection" },
+    { "de": "das Freizeitangebot", "en": "leisure facilities, things to do" },
+    { "de": "vermissen", "en": "to miss" },
+    { "de": "das Hochhaus", "en": "high-rise building" }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "sprachbausteine-2-08",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Ein gebrauchtes Fahrrad",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "stimulus": {
+    "heading": "Zu verkaufen: Trekkingrad",
+    "lines": [
+      "28 Zoll, 21 Gänge, Rahmenhöhe 50 cm, Farbe Dunkelblau",
+      "3 Jahre alt, wenig gefahren, neue Bremsen",
+      "mit Gepäckträger, Licht und Fahrradschloss",
+      "Preis: 280 Euro (VB)",
+      "Abholung in Leipzig-Gohlis, Tel. 0341 9927164 (ab 18 Uhr)"
+    ]
+  },
+  "text": "Guten Tag,\n\nich habe Ihre Anzeige auf einem Online-Flohmarkt gesehen und interessiere mich für das Trekkingrad. Ich bin gerade nach Leipzig gezogen und [[1]] dringend ein Fahrrad für den Weg zur Arbeit.\n\nAllerdings habe ich noch ein paar Fragen. Ich bin 1,68 Meter groß. Meinen Sie, dass die Rahmenhöhe [[2]] mich passt? Und hat das Fahrrad irgendwelche Schäden? Es wäre [[3]], wenn Sie mir ein paar Fotos schicken könnten.\n\nDer Preis ist für mich ein bisschen zu [[4]]. Wären Sie auch mit 230 Euro [[5]]? Ich würde das Fahrrad bar bezahlen und könnte es schon am Wochenende [[6]].\n\nVorher möchte ich natürlich eine kleine Probefahrt machen. [[7]] es Ihnen passt, komme ich am Samstagvormittag vorbei. Ich wohne nicht weit [[8]] Gohlis entfernt.\n\nIn der Anzeige steht, dass Sie erst ab 18 Uhr telefonisch [[9]] sind. Deshalb schreibe ich Ihnen lieber eine E-Mail. Falls Sie das Fahrrad [[10]] verkauft haben, sagen Sie mir bitte kurz Bescheid.\n\nFreundliche Grüße\nAndreas Wolff",
+  "words": [
+    { "key": "a", "text": "abholen" },
+    { "key": "b", "text": "bis" },
+    { "key": "c", "text": "brauche" },
+    { "key": "d", "text": "einverstanden" },
+    { "key": "e", "text": "erreichbar" },
+    { "key": "f", "text": "erreicht" },
+    { "key": "g", "text": "für" },
+    { "key": "h", "text": "hoch" },
+    { "key": "i", "text": "inzwischen" },
+    { "key": "j", "text": "nett" },
+    { "key": "k", "text": "niedrig" },
+    { "key": "l", "text": "ob" },
+    { "key": "m", "text": "verkaufen" },
+    { "key": "n", "text": "von" },
+    { "key": "o", "text": "wenn" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "c",
+      "explanation": "He has just moved and has no bike, so he needs one urgently: „brauche dringend ein Fahrrad“. „verkaufen“ makes no sense for the buyer (and would need the form „verkaufe“).",
+      "explanationDe": "Er ist gerade umgezogen und hat kein Fahrrad, deshalb braucht er dringend eins: „brauche dringend ein Fahrrad“. „verkaufen“ ergibt für den Käufer keinen Sinn (und man bräuchte die Form „verkaufe“)."
+    },
+    {
+      "n": 2,
+      "answer": "g",
+      "explanation": "He asks whether the frame size is right for his height: „dass die Rahmenhöhe für mich passt“ – „für“ + accusative „mich“.",
+      "explanationDe": "Er fragt, ob die Rahmenhöhe zu seiner Körpergröße passt: „dass die Rahmenhöhe für mich passt“ – „für“ + Akkusativ „mich“.",
+      "grammar": "praepositionen-mit-kasus"
+    },
+    {
+      "n": 3,
+      "answer": "j",
+      "explanation": "„Es wäre nett, wenn Sie …“ (It would be kind if you …) is a polite way to ask for something.",
+      "explanationDe": "„Es wäre nett, wenn Sie …“ ist eine höfliche Art, um etwas zu bitten.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 4,
+      "answer": "h",
+      "explanation": "In German a price is „hoch“ or „niedrig“. He wants to pay less (he offers 230 Euro), so the price is „zu hoch“ – „zu niedrig“ would mean the opposite.",
+      "explanationDe": "Im Deutschen ist ein Preis „hoch“ oder „niedrig“. Er möchte weniger bezahlen (er bietet 230 Euro), also ist der Preis „zu hoch“ – „zu niedrig“ würde das Gegenteil bedeuten."
+    },
+    {
+      "n": 5,
+      "answer": "d",
+      "explanation": "„mit etwas einverstanden sein“ means „to agree to something“: „Wären Sie auch mit 230 Euro einverstanden?“",
+      "explanationDe": "„mit etwas einverstanden sein“ (= etwas akzeptieren, Ja zu etwas sagen): „Wären Sie auch mit 230 Euro einverstanden?“",
+      "grammar": "adjektive-mit-praepositionen"
+    },
+    {
+      "n": 6,
+      "answer": "a",
+      "explanation": "The ad says „Abholung in Leipzig-Gohlis“, so the buyer has to collect the bike: „könnte es schon am Wochenende abholen“.",
+      "explanationDe": "In der Anzeige steht „Abholung in Leipzig-Gohlis“. Der Käufer muss das Fahrrad also selbst holen: „könnte es schon am Wochenende abholen“.",
+      "grammar": "trennbare-verben"
+    },
+    {
+      "n": 7,
+      "answer": "o",
+      "explanation": "„Wenn es Ihnen passt, …“ (If it suits you, …) expresses a condition. „ob“ only introduces indirect yes/no questions.",
+      "explanationDe": "„Wenn es Ihnen passt, …“ drückt eine Bedingung aus. „ob“ leitet nur indirekte Ja-/Nein-Fragen ein.",
+      "grammar": "nebensaetze-grundlagen"
+    },
+    {
+      "n": 8,
+      "answer": "n",
+      "explanation": "„nicht weit von … entfernt“ (not far from …) is a fixed structure with „von“ + dative.",
+      "explanationDe": "„nicht weit von … entfernt“ (= in der Nähe von …) ist eine feste Struktur mit „von“ + Dativ.",
+      "grammar": "lokale-praepositionen"
+    },
+    {
+      "n": 9,
+      "answer": "e",
+      "explanation": "„telefonisch erreichbar sein“ means „to be reachable by phone“. The participle „erreicht“ does not fit here.",
+      "explanationDe": "„telefonisch erreichbar sein“ bedeutet: Man kann die Person am Telefon sprechen. Das Partizip „erreicht“ passt hier nicht.",
+      "grammar": "wortbildung"
+    },
+    {
+      "n": 10,
+      "answer": "i",
+      "explanation": "„inzwischen“ (in the meantime, by now): perhaps the bike has already been sold since the ad appeared.",
+      "explanationDe": "„inzwischen“ (= in der Zwischenzeit, bis jetzt): Vielleicht wurde das Fahrrad nach dem Erscheinen der Anzeige schon verkauft."
+    }
+  ],
+  "glossary": [
+    { "de": "der Flohmarkt", "en": "flea market" },
+    { "de": "VB (Verhandlungsbasis)", "en": "or nearest offer (price can be negotiated)" },
+    { "de": "dringend", "en": "urgently" },
+    { "de": "die Rahmenhöhe", "en": "frame size (of a bike)" },
+    { "de": "der Schaden", "en": "damage" },
+    { "de": "mit etwas einverstanden sein", "en": "to agree to something" },
+    { "de": "bar bezahlen", "en": "to pay cash" },
+    { "de": "die Probefahrt", "en": "test ride" },
+    { "de": "erreichbar", "en": "reachable" },
+    { "de": "inzwischen", "en": "in the meantime, by now" }
+  ]
+}

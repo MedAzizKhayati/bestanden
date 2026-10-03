@@ -1,0 +1,261 @@
+{
+  "id": "wortbildung",
+  "level": "B1",
+  "category": "wortschatz",
+  "order": 1,
+  "title": "Wortbildung: Nomen und Adjektive bilden",
+  "titleEn": "Word formation",
+  "summary": "Build new words from ones you know: nouns with -ung, -heit, -keit, -er, -in, adjectives with -lich, -ig, -bar, -los, un- – and compound nouns.",
+  "summaryDe": "Bilde neue Wörter aus Wörtern, die du schon kennst: Nomen mit -ung, -heit, -keit, -er, -in, Adjektive mit -lich, -ig, -bar, -los, un- – und zusammengesetzte Nomen.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "German builds new words from known ones: suffixes turn verbs and adjectives into **nouns** (-ung, -heit, -keit, -er, -in …) or nouns and verbs into **adjectives** (-lich, -ig, -isch, -bar, -los …). Two words can also form one **compound noun** – its **last part** decides the meaning and the gender: „die Tür + **der** Schlüssel → **der** Türschlüssel“.",
+      "mdDe": "Im Deutschen entstehen neue Wörter aus bekannten Wörtern: Endungen (Suffixe) machen aus Verben und Adjektiven **Nomen** (-ung, -heit, -keit, -er, -in …) oder aus Nomen und Verben **Adjektive** (-lich, -ig, -isch, -bar, -los …). Zwei Wörter können auch ein **zusammengesetztes Nomen** bilden – sein **letzter Teil** bestimmt die Bedeutung und das Genus: „die Tür + **der** Schlüssel → **der** Türschlüssel“."
+    },
+    {
+      "type": "table",
+      "heading": "Noun endings and their gender",
+      "headingDe": "Nomen-Endungen und ihr Genus",
+      "columns": ["Endung", "Genus", "made from", "Beispiele"],
+      "columnsDe": ["Endung", "Genus", "Basis", "Beispiele"],
+      "rows": [
+        ["-ung", "die", "verbs", "wohnen → die Wohnung, bestellen → die Bestellung, erfahren → die Erfahrung"],
+        ["-heit", "die", "adjectives", "frei → die Freiheit, gesund → die Gesundheit, krank → die Krankheit"],
+        ["-keit", "die", "adjectives in -ig, -lich, -bar, -sam", "möglich → die Möglichkeit, pünktlich → die Pünktlichkeit, einsam → die Einsamkeit"],
+        ["-schaft", "die", "nouns", "der Freund → die Freundschaft, der Nachbar → die Nachbarschaft"],
+        ["-ion", "die", "international words", "die Information, die Situation, die Diskussion"],
+        ["-tät", "die", "international words", "die Universität, die Qualität"],
+        ["-er", "der", "verbs (person or machine)", "lehren → der Lehrer, fahren → der Fahrer, drucken → der Drucker"],
+        ["-in", "die", "female form of a person", "die Lehrerin, die Ärztin, die Köchin"],
+        ["-chen", "das", "small things (often with umlaut)", "das Häuschen, das Brötchen, das Kätzchen"],
+        ["-ment", "das", "international words", "das Dokument, das Medikament"],
+        ["-nis", "das (some die)", "verbs", "das Ergebnis, das Erlebnis, die Erlaubnis"],
+        ["infinitive", "das", "verbs", "das Essen, das Schwimmen, das Lernen"],
+        ["verb stem", "der (mostly)", "verbs", "anrufen → der Anruf, besuchen → der Besuch, beginnen → der Beginn"]
+      ],
+      "rowsDe": [
+        ["-ung", "die", "Verben", "wohnen → die Wohnung, bestellen → die Bestellung, erfahren → die Erfahrung"],
+        ["-heit", "die", "Adjektive", "frei → die Freiheit, gesund → die Gesundheit, krank → die Krankheit"],
+        ["-keit", "die", "Adjektive auf -ig, -lich, -bar, -sam", "möglich → die Möglichkeit, pünktlich → die Pünktlichkeit, einsam → die Einsamkeit"],
+        ["-schaft", "die", "Nomen", "der Freund → die Freundschaft, der Nachbar → die Nachbarschaft"],
+        ["-ion", "die", "internationale Wörter", "die Information, die Situation, die Diskussion"],
+        ["-tät", "die", "internationale Wörter", "die Universität, die Qualität"],
+        ["-er", "der", "Verben (Person oder Gerät)", "lehren → der Lehrer, fahren → der Fahrer, drucken → der Drucker"],
+        ["-in", "die", "weibliche Form einer Person", "die Lehrerin, die Ärztin, die Köchin"],
+        ["-chen", "das", "kleine Dinge (oft mit Umlaut)", "das Häuschen, das Brötchen, das Kätzchen"],
+        ["-ment", "das", "internationale Wörter", "das Dokument, das Medikament"],
+        ["-nis", "das (manche: die)", "Verben", "das Ergebnis, das Erlebnis, die Erlaubnis"],
+        ["Infinitiv", "das", "Verben", "das Essen, das Schwimmen, das Lernen"],
+        ["Verbstamm", "der (meistens)", "Verben", "anrufen → der Anruf, besuchen → der Besuch, beginnen → der Beginn"]
+      ],
+      "note": "Nouns ending in -ung, -heit, -keit, -schaft, -ion and -tät are feminine (rare exceptions like „das Stadion“) – a quick way to find the right article in the exam.",
+      "noteDe": "Nomen mit -ung, -heit, -keit, -schaft, -ion und -tät sind feminin (seltene Ausnahmen wie „das Stadion“) – so findest du in der Prüfung schnell den richtigen Artikel."
+    },
+    {
+      "type": "table",
+      "heading": "Adjective endings and the prefix un-",
+      "headingDe": "Adjektiv-Endungen und die Vorsilbe un-",
+      "columns": ["Endung / Vorsilbe", "Meaning", "Beispiele"],
+      "columnsDe": ["Endung / Vorsilbe", "Bedeutung", "Beispiele"],
+      "rows": [
+        ["-lich", "with this quality; regularly", "der Freund → freundlich, der Tag → täglich, die Gefahr → gefährlich"],
+        ["-ig", "having, full of", "die Lust → lustig, der Schmutz → schmutzig, die Sonne → sonnig"],
+        ["-isch", "belonging to, typical of", "Italien → italienisch, der Typ → typisch, die Politik → politisch"],
+        ["-bar", "can be done", "trinken → trinkbar, waschen → waschbar, erreichen → erreichbar"],
+        ["-los", "without", "die Arbeit → arbeitslos, die Kosten → kostenlos, die Hilfe → hilflos"],
+        ["-voll", "full of", "die Liebe → liebevoll, der Wert → wertvoll"],
+        ["-reich", "rich in, with a lot of", "der Erfolg → erfolgreich, die Hilfe → hilfreich"],
+        ["-frei", "free from", "der Alkohol → alkoholfrei, die Barriere → barrierefrei"],
+        ["un-", "the opposite", "freundlich → unfreundlich, möglich → unmöglich, pünktlich → unpünktlich"]
+      ],
+      "rowsDe": [
+        ["-lich", "mit dieser Eigenschaft; regelmäßig", "der Freund → freundlich, der Tag → täglich, die Gefahr → gefährlich"],
+        ["-ig", "mit etwas, voll von etwas", "die Lust → lustig, der Schmutz → schmutzig, die Sonne → sonnig"],
+        ["-isch", "gehört zu, typisch für", "Italien → italienisch, der Typ → typisch, die Politik → politisch"],
+        ["-bar", "kann gemacht werden", "trinken → trinkbar, waschen → waschbar, erreichen → erreichbar"],
+        ["-los", "ohne", "die Arbeit → arbeitslos, die Kosten → kostenlos, die Hilfe → hilflos"],
+        ["-voll", "voll von", "die Liebe → liebevoll, der Wert → wertvoll"],
+        ["-reich", "reich an, mit viel", "der Erfolg → erfolgreich, die Hilfe → hilfreich"],
+        ["-frei", "frei von", "der Alkohol → alkoholfrei, die Barriere → barrierefrei"],
+        ["un-", "das Gegenteil", "freundlich → unfreundlich, möglich → unmöglich, pünktlich → unpünktlich"]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Compound nouns (Komposita)",
+      "headingDe": "Zusammengesetzte Nomen (Komposita)",
+      "md": "Two or more words can form one noun. The **last** word is the main word: it gives the basic meaning **and** the gender. The words in front describe it.\n\n- noun + noun: „das Haus + die Tür → **die Haustür**“ (a kind of door)\n- with a linking **-s-**, especially after -ung, -heit, -keit, -ion, -tät and after „Arbeit“ or „Geburt“: „die Wohnung + die Tür → **die Wohnungstür**“, „die Arbeit + der Platz → **der Arbeitsplatz**“, „die Geburt + der Tag → **der Geburtstag**“\n- with a linking **-n-** or **-en-**: „die Straße + die Bahn → **die Straßenbahn**“, „die Blume + der Laden → **der Blumenladen**“\n- verb stem + noun: „schreiben + der Tisch → **der Schreibtisch**“, „waschen + die Maschine → **die Waschmaschine**“\n- adjective + noun: „groß + die Stadt → **die Großstadt**“, „hoch + das Haus → **das Hochhaus**“",
+      "mdDe": "Zwei oder mehr Wörter können ein Nomen bilden. Das **letzte** Wort ist das Grundwort: Es gibt die Grundbedeutung **und** das Genus. Die Wörter davor beschreiben es genauer.\n\n- Nomen + Nomen: „das Haus + die Tür → **die Haustür**“ (eine Art Tür)\n- mit einem verbindenden **-s-** (Fugen-s), besonders nach -ung, -heit, -keit, -ion, -tät und nach „Arbeit“ oder „Geburt“: „die Wohnung + die Tür → **die Wohnungstür**“, „die Arbeit + der Platz → **der Arbeitsplatz**“, „die Geburt + der Tag → **der Geburtstag**“\n- mit einem verbindenden **-n-** oder **-en-**: „die Straße + die Bahn → **die Straßenbahn**“, „die Blume + der Laden → **der Blumenladen**“\n- Verbstamm + Nomen: „schreiben + der Tisch → **der Schreibtisch**“, „waschen + die Maschine → **die Waschmaschine**“\n- Adjektiv + Nomen: „groß + die Stadt → **die Großstadt**“, „hoch + das Haus → **das Hochhaus**“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Wir suchen eine **Wohnung** mit Balkon.", "en": "We are looking for a flat with a balcony." },
+        { "de": "Vielen Dank für Ihre **Freundlichkeit**.", "en": "Thank you very much for your kindness." },
+        { "de": "Für Kinder ist der Eintritt **kostenlos**.", "en": "Admission is free for children." },
+        { "de": "Das Leitungswasser in Deutschland ist **trinkbar**.", "en": "Tap water in Germany is safe to drink." },
+        { "de": "Ich habe leider keine **Erfahrung** in diesem Bereich.", "en": "Unfortunately I have no experience in this field." },
+        { "de": "Die Verkäuferin war sehr **unfreundlich**.", "en": "The shop assistant was very unfriendly." },
+        { "de": "Mein Bruder ist seit drei Monaten **arbeitslos**.", "en": "My brother has been unemployed for three months." },
+        { "de": "Die **Haustür** ist kaputt.", "en": "The front door is broken." },
+        { "de": "Für die **Anmeldung** brauchen Sie Ihren Pass.", "en": "You need your passport for the registration." },
+        { "de": "Zum Geburtstag hat sie einen **Blumenstrauß** bekommen.", "en": "She got a bunch of flowers for her birthday." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Two classic traps:**\n\n1. **Not every verb makes a noun with -ung.** Many nouns are just the verb stem and masculine: „anrufen → **der Anruf**“ (not „die Anrufung“), „besuchen → **der Besuch**“, „beginnen → **der Beginn**“, „kaufen → **der Kauf**“.\n2. **The gender of a compound comes from the last word**, not the first: „das Haus + die Tür → **die** Haustür“, „die Tür + der Schlüssel → **der** Türschlüssel“.",
+      "mdDe": "**Zwei typische Fallen:**\n\n1. **Nicht jedes Verb bildet ein Nomen mit -ung.** Viele Nomen sind einfach der Verbstamm und maskulin: „anrufen → **der Anruf**“ (nicht „die Anrufung“), „besuchen → **der Besuch**“, „beginnen → **der Beginn**“, „kaufen → **der Kauf**“.\n2. **Das Genus eines zusammengesetzten Nomens kommt vom letzten Wort**, nicht vom ersten: „das Haus + die Tür → **die** Haustür“, „die Tür + der Schlüssel → **der** Türschlüssel“."
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 2** often tests the right **word type**. Look at the gap first: after an article or a preposition + article you need a noun („für die **Bestellung**“); between an article and a noun, or after „sein“, you need an adjective („ein **gefährlicher** Weg“, „Der Eintritt ist **kostenlos**.“). Then choose the word with the right meaning – „kostenlos“ and „kostbar“ look similar but mean *free* and *precious*.\n\n**Lesen:** word formation helps you guess new words: „unverständlich“ = un + verstehen + lich = *impossible to understand*. **Schreiben:** nouns make semi-formal letters sound precise: „**nach der Anmeldung**“ instead of „nachdem ich mich angemeldet habe“, „Ich bitte um eine schnelle **Rückmeldung**.“",
+      "mdDe": "In **Sprachbausteine Teil 2** wird oft die richtige **Wortart** getestet. Schau zuerst auf die Lücke: Nach einem Artikel oder nach Präposition + Artikel brauchst du ein Nomen („für die **Bestellung**“). Zwischen Artikel und Nomen oder nach „sein“ brauchst du ein Adjektiv („ein **gefährlicher** Weg“, „Der Eintritt ist **kostenlos**.“). Dann wählst du das Wort mit der richtigen Bedeutung – „kostenlos“ und „kostbar“ sehen ähnlich aus, aber sie bedeuten *ohne Kosten* und *sehr wertvoll*.\n\n**Lesen:** Mit Wortbildung kannst du neue Wörter erraten: „unverständlich“ = un + verstehen + lich = *man kann es nicht verstehen*. **Schreiben:** Mit Nomen klingen halbformelle Briefe präzise: „**nach der Anmeldung**“ statt „nachdem ich mich angemeldet habe“, „Ich bitte um eine schnelle **Rückmeldung**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich brauche Informationen über das Anmeldung.",
+      "right": "Ich brauche Informationen über die Anmeldung.",
+      "why": "Nouns ending in -ung are always feminine.",
+      "whyDe": "Nomen mit -ung sind immer feminin."
+    },
+    {
+      "wrong": "Der Haustür ist offen.",
+      "right": "Die Haustür ist offen.",
+      "why": "In a compound the last word decides the gender: „die Tür“ → „die Haustür“.",
+      "whyDe": "Bei zusammengesetzten Nomen bestimmt das letzte Wort das Genus: „die Tür“ → „die Haustür“."
+    },
+    {
+      "wrong": "Danke für deine Besuchung.",
+      "right": "Danke für deinen Besuch.",
+      "why": "„besuchen“ becomes „der Besuch“ (verb stem, masculine) – there is no -ung noun.",
+      "whyDe": "Aus „besuchen“ wird „der Besuch“ (Verbstamm, maskulin) – ein Nomen mit -ung gibt es nicht."
+    },
+    {
+      "wrong": "Das Wasser ist nicht trinkenbar.",
+      "right": "Das Wasser ist nicht trinkbar.",
+      "why": "-bar is added to the verb stem: trink- + -bar.",
+      "whyDe": "-bar kommt an den Verbstamm: trink- + -bar."
+    },
+    {
+      "wrong": "Ich suche einen neuen Arbeitplatz.",
+      "right": "Ich suche einen neuen Arbeitsplatz.",
+      "why": "After „Arbeit“ (and after -ung, -heit, -keit, -ion) German adds a linking -s- in compounds.",
+      "whyDe": "Nach „Arbeit“ (und nach -ung, -heit, -keit, -ion) steht in zusammengesetzten Nomen ein verbindendes -s- (Fugen-s)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Vielen Dank für die schnelle ___ meiner Frage.",
+      "options": ["Beantwortung", "Beantworten", "Beantworter"],
+      "answer": 0,
+      "explanation": "After „die schnelle“ you need a feminine noun. „beantworten“ + -ung → „die Beantwortung“. „das Beantworten“ is neuter, „der Beantworter“ masculine.",
+      "explanationDe": "Nach „die schnelle“ brauchst du ein feminines Nomen. „beantworten“ + -ung → „die Beantwortung“. „das Beantworten“ ist neutral, „der Beantworter“ maskulin."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe leider nur wenig ___ mit kleinen Kindern.",
+      "options": ["Erfahrung", "erfahren", "erfährt"],
+      "answer": 0,
+      "explanation": "„haben“ needs an object, and after „wenig“ that must be a noun: „erfahren“ + -ung → „die Erfahrung“ (experience). „erfahren“ and „erfährt“ are verb forms.",
+      "explanationDe": "„haben“ braucht ein Objekt, und nach „wenig“ muss das ein Nomen sein: „erfahren“ + -ung → „die Erfahrung“. „erfahren“ und „erfährt“ sind Verbformen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Für Kinder unter sechs Jahren ist der Eintritt ___.",
+      "options": ["kostenlos", "kostbar", "köstlich"],
+      "answer": 0,
+      "explanation": "„die Kosten“ + -los (without) → „kostenlos“ = free of charge. „kostbar“ means *precious*, „köstlich“ means *delicious*.",
+      "explanationDe": "„die Kosten“ + -los (ohne) → „kostenlos“ = man muss nichts bezahlen. „kostbar“ bedeutet *sehr wertvoll*, „köstlich“ bedeutet *sehr lecker*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Nach dem Unfall war sie ganz ___ und wusste nicht, was sie tun sollte.",
+      "options": ["hilflos", "hilfreich", "hilfsbereit"],
+      "answer": 0,
+      "explanation": "„wusste nicht, was sie tun sollte“ → she was without help: „hilflos“. „hilfreich“ = helpful (a tip), „hilfsbereit“ = willing to help (a person).",
+      "explanationDe": "„wusste nicht, was sie tun sollte“ → sie war ohne Hilfe: „hilflos“. „hilfreich“ = nützlich (ein Tipp), „hilfsbereit“ = hilft gern anderen (eine Person)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die ___ für den Sprachkurs ist bis zum 15. März möglich.",
+      "hint": "(anmelden)",
+      "answers": ["Anmeldung"],
+      "explanation": "After „Die“ you need a noun: „anmelden“ + -ung → „die Anmeldung“ (registration).",
+      "explanationDe": "Nach „Die“ brauchst du ein Nomen: „anmelden“ + -ung → „die Anmeldung“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Viele ältere Menschen leiden unter ___.",
+      "hint": "(einsam)",
+      "answers": ["Einsamkeit"],
+      "explanation": "Adjectives ending in -sam form nouns with -keit: „einsam“ → „die Einsamkeit“ (loneliness).",
+      "explanationDe": "Adjektive auf -sam bilden Nomen mit -keit: „einsam“ → „die Einsamkeit“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Wasser aus diesem Brunnen ist nicht ___.",
+      "hint": "(trinken)",
+      "answers": ["trinkbar"],
+      "explanation": "-bar means *can be done*: verb stem „trink-“ + -bar → „trinkbar“ (drinkable).",
+      "explanationDe": "-bar bedeutet *kann gemacht werden*: Verbstamm „trink-“ + -bar → „trinkbar“ (= man kann es trinken)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Verkäufer war sehr ___ und hat uns überhaupt nicht geholfen.",
+      "hint": "(the opposite of freundlich)",
+      "hintDe": "(das Gegenteil von freundlich)",
+      "answers": ["unfreundlich"],
+      "explanation": "The prefix un- makes the opposite: „freundlich“ → „unfreundlich“.",
+      "explanationDe": "Die Vorsilbe un- macht das Gegenteil: „freundlich“ → „unfreundlich“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir brauchen eine neue ___, die alte wäscht nicht mehr richtig.",
+      "hint": "(waschen + die Maschine)",
+      "answers": ["Waschmaschine"],
+      "explanation": "Verb stem + noun: „wasch-“ + „Maschine“ → „die Waschmaschine“. The last word gives the gender.",
+      "explanationDe": "Verbstamm + Nomen: „wasch-“ + „Maschine“ → „die Waschmaschine“. Das letzte Wort bestimmt das Genus."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the nachdem-clause with „nach“ + a noun ending in -ung.",
+      "instructionDe": "Ersetze den nachdem-Satz durch „nach“ + ein Nomen mit -ung.",
+      "prompt": "Nachdem ich mich angemeldet habe, bekomme ich eine E-Mail.",
+      "answers": [
+        "Nach der Anmeldung bekomme ich eine E-Mail.",
+        "Ich bekomme nach der Anmeldung eine E-Mail.",
+        "Nach meiner Anmeldung bekomme ich eine E-Mail.",
+        "Ich bekomme nach meiner Anmeldung eine E-Mail."
+      ],
+      "explanation": "„sich anmelden“ → „die Anmeldung“; „nach“ + dative → „nach der Anmeldung“ (or „nach meiner Anmeldung“). This nominal style sounds more formal.",
+      "explanationDe": "„sich anmelden“ → „die Anmeldung“; „nach“ + Dativ → „nach der Anmeldung“ (oder „nach meiner Anmeldung“). Dieser Nominalstil klingt formeller."
+    },
+    {
+      "type": "transform",
+      "instruction": "Make one compound noun from the two words and give its article.",
+      "instructionDe": "Bilde aus den zwei Wörtern ein zusammengesetztes Nomen und nenne seinen Artikel.",
+      "prompt": "die Wohnung + der Schlüssel",
+      "answers": ["der Wohnungsschlüssel"],
+      "explanation": "After -ung a linking -s- is added: „Wohnungs-schlüssel“. The last word („der Schlüssel“) decides the gender → „der Wohnungsschlüssel“.",
+      "explanationDe": "Nach -ung kommt ein Fugen-s dazu: „Wohnungs-schlüssel“. Das letzte Wort („der Schlüssel“) bestimmt das Genus → „der Wohnungsschlüssel“."
+    },
+    {
+      "type": "order",
+      "words": ["kostenlos.", "den", "Anmeldung", "ist", "Die", "Kochkurs", "für"],
+      "answers": [
+        "Die Anmeldung für den Kochkurs ist kostenlos.",
+        "Für den Kochkurs ist die Anmeldung kostenlos."
+      ],
+      "explanation": "„die Anmeldung“ (anmelden + -ung) is the subject, „kostenlos“ (Kosten + -los) the adjective after „sein“ – so it has no ending.",
+      "explanationDe": "„die Anmeldung“ (anmelden + -ung) ist das Subjekt, „kostenlos“ (Kosten + -los) das Adjektiv nach „sein“ – deshalb hat es keine Endung."
+    }
+  ],
+  "related": ["nomen-verb-verbindungen", "adjektivdeklination", "partizip-als-adjektiv", "trennbare-verben"]
+}

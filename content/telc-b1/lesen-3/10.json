@@ -1,0 +1,237 @@
+{
+  "id": "lesen-3-10",
+  "examId": "telc-b1",
+  "type": "ad-matching",
+  "title": "Kulturprogramm in Köln",
+  "topic": "kultur",
+  "difficulty": 3,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ihre Nichte (22) studiert in Köln. Sie möchte am Freitagabend ein Sinfoniekonzert besuchen, hat aber wenig Geld und kauft Karten am liebsten erst kurz vorher.",
+      "answer": "i",
+      "explanation": "„Mi.–Sa. jeweils 20 Uhr“ and „Restkarten für Schüler und Studierende unter 27: 10 € – nur an der Abendkasse“ – the concert hall (i) has cheap last-minute tickets for her. The theatre (e) also has student prices, but it shows a play, not a concert.",
+      "explanationDe": "„Mi.–Sa. jeweils 20 Uhr“ und „Restkarten für Schüler und Studierende unter 27: 10 € – nur an der Abendkasse“ – das Konzerthaus (i) hat für sie günstige Karten kurz vor Beginn. Das Theater (e) hat auch Preise für Studierende, aber es zeigt ein Theaterstück, kein Konzert."
+    },
+    {
+      "n": 2,
+      "text": "Ihr Kollege spielt seit Jahren Saxofon, hat aber keine Band. Er würde gern einfach einmal mit anderen Musikern zusammen spielen.",
+      "answer": "f",
+      "explanation": "„Jeden Mittwoch Jam-Session: Instrument mitbringen und einfach mitspielen!“ – at the jazz club (f) he can play with others without a band. At the street festival (g) only bands can apply („Bands können sich … bewerben“).",
+      "explanationDe": "„Jeden Mittwoch Jam-Session: Instrument mitbringen und einfach mitspielen!“ – im Jazzkeller (f) kann er ohne Band mit anderen zusammen spielen. Beim Straßenfest (g) können sich nur Bands bewerben („Bands können sich … bewerben“)."
+    },
+    {
+      "n": 3,
+      "text": "Sie möchten am Sonntagnachmittag mit Ihren Kindern (5 und 7) ein Theaterstück ansehen, das für dieses Alter geeignet ist.",
+      "answer": "a",
+      "explanation": "„für Kinder von 4 bis 8 Jahren“ and „Familienvorstellungen: Sa. und So. 15 Uhr“ – the puppet theatre (a) fits both children and the time. The street festival (g) also has a puppet show, but on a Saturday.",
+      "explanationDe": "„für Kinder von 4 bis 8 Jahren“ und „Familienvorstellungen: Sa. und So. 15 Uhr“ – das Figurentheater (a) passt zu beiden Kindern und zur Uhrzeit. Das Straßenfest (g) hat auch ein Puppentheater, aber an einem Samstag."
+    },
+    {
+      "n": 4,
+      "text": "Eine Freundin von Ihnen ist gehörlos. Sie interessiert sich sehr für die Geschichte der Stadt und möchte gern an einer Führung teilnehmen.",
+      "answer": "h",
+      "explanation": "„2000 Jahre Leben am Rhein“ and „Führungen in Deutscher Gebärdensprache“ – the city history museum (h) offers tours your deaf friend can follow. The museum night (b) also has tours, but nothing in sign language.",
+      "explanationDe": "„2000 Jahre Leben am Rhein“ und „Führungen in Deutscher Gebärdensprache“ – das Museum für Stadtgeschichte (h) bietet Führungen an, denen deine gehörlose Freundin folgen kann. Die Museumsnacht (b) hat auch Führungen, aber keine in Gebärdensprache."
+    },
+    {
+      "n": 5,
+      "text": "Sie singen gern, haben aber nie gelernt, Noten zu lesen. Trotzdem möchten Sie Mitglied in einem Chor werden.",
+      "answer": "c",
+      "explanation": "„Notenkenntnisse nicht nötig – wir lernen alle Lieder nach Gehör“ – the gospel choir (c) welcomes singers who cannot read music.",
+      "explanationDe": "„Notenkenntnisse nicht nötig – wir lernen alle Lieder nach Gehör“ – der Gospelchor (c) freut sich über Sängerinnen und Sänger, die keine Noten lesen können."
+    },
+    {
+      "n": 6,
+      "text": "Ihr Sohn ist 16. Er möchte im Sommer mit Freunden, aber ohne Erwachsene, zu einem Rockfestival fahren und dort zelten.",
+      "answer": "x",
+      "explanation": "The rock festival (d) has camping and lets in people „ab 16 Jahren“, but „unter 18 nur in Begleitung eines Erziehungsberechtigten“ – your son cannot go without an adult. So no ad fits: x.",
+      "explanationDe": "Das Rockfestival (d) hat einen Campingplatz und lässt Leute „ab 16 Jahren“ hinein, aber „unter 18 nur in Begleitung eines Erziehungsberechtigten“ – dein Sohn kann nicht ohne Erwachsene hin. Keine Anzeige passt also: x."
+    },
+    {
+      "n": 7,
+      "text": "Ihre Mutter liest am liebsten Krimis. Sie würde gern einmal eine Autorin persönlich erleben, die aus ihrem Buch vorliest.",
+      "answer": "l",
+      "explanation": "„Lesung“ – in the bookshop (l) the author reads from her new crime novel and signs books. The crime dinner (j) is about a crime story too, but actors play it – no author reads.",
+      "explanationDe": "„Lesung“ – in der Buchhandlung (l) liest die Autorin aus ihrem neuen Krimi vor und signiert Bücher. Beim Krimi-Dinner (j) geht es auch um einen Kriminalfall, aber Schauspieler spielen ihn – keine Autorin liest vor."
+    },
+    {
+      "n": 8,
+      "text": "Sie sind Lehrerin und möchten mit Ihrer Klasse (24 Jugendliche) ein klassisches Theaterstück sehen. Danach sollen die Jugendlichen mit den Schauspielern sprechen können.",
+      "answer": "e",
+      "explanation": "„Faust“, „Schulklassen 6 € pro Person“ and „nach der Vorstellung Gespräch mit dem Ensemble“ – the theatre (e) fits. The crime dinner (j) welcomes groups, but only „Ab 18 Jahren“, and the puppet theatre (a) is for primary school classes („Grundschulklassen“).",
+      "explanationDe": "„Faust“, „Schulklassen 6 € pro Person“ und „nach der Vorstellung Gespräch mit dem Ensemble“ – das Theater (e) passt. Beim Krimi-Dinner (j) sind Gruppen willkommen, aber nur „Ab 18 Jahren“, und das Figurentheater (a) ist für Klassen aus der Grundschule („Grundschulklassen“)."
+    },
+    {
+      "n": 9,
+      "text": "Sie möchten im nächsten Karneval bei einem Umzug mitlaufen. Ein Kostüm haben Sie nicht, und Sie wollen auch keins kaufen.",
+      "answer": "k",
+      "explanation": "„neue Mitglieder, die … im Zug mitlaufen“ and „Kostüme werden von uns gestellt“ – the carnival club (k) gives you a costume.",
+      "explanationDe": "„neue Mitglieder, die … im Zug mitlaufen“ und „Kostüme werden von uns gestellt“ – der Karnevalsverein (k) gibt dir ein Kostüm."
+    },
+    {
+      "n": 10,
+      "text": "Sie möchten an einem einzigen Abend so viele Museen wie möglich besuchen, ohne überall einzeln Eintritt zu bezahlen.",
+      "answer": "b",
+      "explanation": "„40 Museen – ein Ticket“, „18–2 Uhr“ and „Kostenlose Shuttlebusse“ – the museum night (b) is perfect. The city history museum (h) is free on the first Thursday of the month, but it is only one museum.",
+      "explanationDe": "„40 Museen – ein Ticket“, „18–2 Uhr“ und „Kostenlose Shuttlebusse“ – die Museumsnacht (b) ist perfekt. Das Museum für Stadtgeschichte (h) ist am ersten Donnerstag im Monat kostenlos, aber es ist nur ein Museum."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Figurentheater Wunderkiste",
+      "subheading": "Theater mit Puppen für Kinder von 4 bis 8 Jahren",
+      "lines": [
+        "Aktuell: „Der kleine Drache Funkelschuppe“",
+        "Familienvorstellungen: Sa. und So. 15 Uhr",
+        "Vormittags für Kitas und Grundschulklassen: Di.–Fr. 10 Uhr",
+        "Kinder 7 €, Erwachsene 9 €"
+      ],
+      "footer": "Kesselgasse 12, 50667 Köln · Tel. 0221 2581934 · www.figurentheater-wunderkiste.de"
+    },
+    {
+      "key": "b",
+      "heading": "Nacht der offenen Museen",
+      "subheading": "40 Museen – ein Ticket",
+      "lines": [
+        "Samstag, 8. November, 18–2 Uhr",
+        "Führungen, Workshops und Aktionen für Kinder in allen Häusern",
+        "Kostenlose Shuttlebusse zwischen den Museen",
+        "Ticket 22 €, im Vorverkauf 19 €"
+      ],
+      "footer": "Infos und Tickets: www.nacht-der-museen-koeln.de"
+    },
+    {
+      "key": "c",
+      "heading": "Gospelchor Joyful Voices",
+      "subheading": "Wir suchen dich!",
+      "lines": [
+        "Neue Sängerinnen und Sänger jeden Alters willkommen",
+        "Notenkenntnisse nicht nötig – wir lernen alle Lieder nach Gehör.",
+        "Probe: montags 19.30–21.30 Uhr im Gemeindesaal",
+        "Zwei Konzerte im Jahr"
+      ],
+      "footer": "Infos bei Chorleiter Samuel Owusu · Tel. 0221 9370452"
+    },
+    {
+      "key": "d",
+      "heading": "Rheinwiesen Rock",
+      "subheading": "3 Tage Rock und Pop am Fluss",
+      "lines": [
+        "25.–27. Juli, über 30 Bands auf zwei Bühnen",
+        "Campingplatz direkt am Festivalgelände",
+        "Einlass ab 16 Jahren – unter 18 nur in Begleitung eines Erziehungsberechtigten",
+        "3-Tages-Ticket inkl. Camping: 129 €"
+      ],
+      "footer": "Tickets: www.rheinwiesen-rock.de"
+    },
+    {
+      "key": "e",
+      "heading": "Schauspiel am Ring",
+      "subheading": "Im Mai: „Faust – Der Tragödie erster Teil“",
+      "lines": [
+        "Vorstellungen Di.–So. 19.30 Uhr",
+        "Studierende 8 €, Schulklassen 6 € pro Person",
+        "Für Schulklassen: nach der Vorstellung Gespräch mit dem Ensemble – bitte bei der Buchung angeben",
+        "Theaterkasse Mo.–Sa. 11–18 Uhr"
+      ],
+      "footer": "Theaterplatz 1, 50674 Köln · Tel. 0221 4402277"
+    },
+    {
+      "key": "f",
+      "heading": "Jazzkeller Blaue Stunde",
+      "lines": [
+        "Live-Jazz Di.–Sa. ab 20.30 Uhr",
+        "Jeden Mittwoch Jam-Session: Instrument mitbringen und einfach mitspielen!",
+        "Eintritt 12 €, mittwochs frei",
+        "Kleine Speisen und Kölsch vom Fass"
+      ],
+      "footer": "Kellergasse 3, 50672 Köln · www.blaue-stunde-jazz.de"
+    },
+    {
+      "key": "g",
+      "heading": "Veedelsfest Ehrenfeld",
+      "subheading": "Unser Viertel feiert!",
+      "lines": [
+        "Samstag, 14. Juni, 12–22 Uhr, rund um den Marktplatz",
+        "Live-Musik von Bands aus dem Viertel – Bands können sich bis 1. Mai für einen Auftritt bewerben.",
+        "Kinderprogramm mit Puppentheater um 14 Uhr",
+        "Eintritt frei"
+      ],
+      "footer": "Nachbarschaftsverein Ehrenfeld e. V."
+    },
+    {
+      "key": "h",
+      "heading": "Museum für Kölner Alltagsgeschichte",
+      "subheading": "2000 Jahre Leben am Rhein",
+      "lines": [
+        "Führungen in Deutscher Gebärdensprache: jeden ersten Sonntag im Monat, 11 Uhr",
+        "Audioguides in 8 Sprachen",
+        "Di.–So. 10–18 Uhr, Do. bis 22 Uhr",
+        "Eintritt 9 €, am ersten Donnerstag im Monat frei"
+      ],
+      "footer": "Am Alten Hafen 5, 50678 Köln · www.alltagsmuseum-koeln.de"
+    },
+    {
+      "key": "i",
+      "heading": "Konzerthaus am Rhein",
+      "subheading": "Diese Woche: Sinfoniekonzerte mit dem Rheinischen Kammerorchester",
+      "lines": [
+        "Mi.–Sa. jeweils 20 Uhr, Karten ab 25 €",
+        "Restkarten für Schüler und Studierende unter 27: 10 € – nur an der Abendkasse, ab 19 Uhr",
+        "Kostenlose Konzerteinführung um 19.15 Uhr"
+      ],
+      "footer": "Rheinufer 20, 50679 Köln · Tel. 0221 7790010 · www.konzerthaus-am-rhein.de"
+    },
+    {
+      "key": "j",
+      "heading": "Krimi-Dinner im Brauhaus Zum Ritter",
+      "lines": [
+        "Ein Mord beim Abendessen: Schauspieler spielen zwischen den Gängen einen spannenden Kriminalfall – und Sie raten mit!",
+        "4-Gänge-Menü und Show: 69 € pro Person",
+        "Gruppen ab 10 Personen erhalten 10 % Rabatt.",
+        "Ab 18 Jahren"
+      ],
+      "footer": "Heumarktgasse 6, 50667 Köln · Tel. 0221 2588463"
+    },
+    {
+      "key": "k",
+      "heading": "Karnevalsfreunde Nippes 1987 e. V.",
+      "subheading": "Mitlaufen im Veedelszug?",
+      "lines": [
+        "Wir suchen neue Mitglieder, die am Karnevalssonntag im Zug mitlaufen.",
+        "Kostüme werden von uns gestellt.",
+        "Treffen und Vorbereitung ab November jeden zweiten Freitag",
+        "Jahresbeitrag 30 €"
+      ],
+      "footer": "Tel. 0221 7406618 · www.karnevalsfreunde-nippes.de"
+    },
+    {
+      "key": "l",
+      "heading": "Buchhandlung Leselust lädt ein",
+      "subheading": "Lesung: Henrike Albers stellt ihren neuen Krimi „Tod am Rheinufer“ vor",
+      "lines": [
+        "Donnerstag, 20. März, 19.30 Uhr",
+        "Die Autorin liest aus ihrem Buch und beantwortet Fragen.",
+        "Anschließend signiert sie ihre Bücher.",
+        "Eintritt 8 €, Reservierung empfohlen"
+      ],
+      "footer": "Kirchgasse 8, 50676 Köln · Tel. 0221 3317092"
+    }
+  ],
+  "glossary": [
+    { "de": "die Abendkasse", "en": "box office (on the evening of the performance)" },
+    { "de": "die Restkarte", "en": "remaining ticket, last-minute ticket" },
+    { "de": "der/die Erziehungsberechtigte", "en": "parent or legal guardian" },
+    { "de": "gehörlos", "en": "deaf" },
+    { "de": "die Gebärdensprache", "en": "sign language" },
+    { "de": "nach Gehör", "en": "by ear" },
+    { "de": "die Lesung", "en": "(author's) reading" },
+    { "de": "signieren", "en": "to sign (books)" },
+    { "de": "das Ensemble", "en": "cast, company of actors" },
+    { "de": "das Veedel (Kölsch)", "en": "neighbourhood, district" },
+    { "de": "der Veedelszug (Kölsch)", "en": "carnival parade of a district" },
+    { "de": "gestellt werden", "en": "to be provided" }
+  ]
+}

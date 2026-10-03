@@ -1,0 +1,218 @@
+{
+  "id": "lassen",
+  "level": "B1",
+  "category": "verben",
+  "order": 11,
+  "title": "Das Verb „lassen“",
+  "titleEn": "The verb lassen",
+  "summary": "lassen + infinitive means having something done by someone else or allowing something; on its own it means to leave something somewhere.",
+  "summaryDe": "lassen + Infinitiv bedeutet: Jemand anderes macht etwas für dich – oder du erlaubst etwas. Allein bedeutet es: etwas irgendwo zurücklassen.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**lassen** + infinitive (without zu) means *to have something done* – Ich **lasse** mein Auto **reparieren**. – or *to allow* – Sie **lässt** mich **gehen**. With a second verb the Perfekt uses the infinitive „lassen“, not „gelassen“: Ich **habe** mein Auto **reparieren lassen**.",
+      "mdDe": "**lassen** + Infinitiv (ohne zu) bedeutet *jemand anderes macht etwas für dich* – Ich **lasse** mein Auto **reparieren**. – oder *erlauben* – Sie **lässt** mich **gehen**. Mit einem zweiten Verb steht im Perfekt der Infinitiv „lassen“, nicht „gelassen“: Ich **habe** mein Auto **reparieren lassen**."
+    },
+    {
+      "type": "text",
+      "heading": "What can lassen mean?",
+      "headingDe": "Was kann lassen bedeuten?",
+      "md": "1. **Have something done:** you don't do it yourself – a professional or another person does it. Ich **lasse** mir die Haare **schneiden**. Wir **lassen** die Wohnung **renovieren**.\n2. **Allow, let:** Die Lehrerin **lässt** uns heute früher **gehen**. **Lass** mich mal **probieren**!\n3. **Leave, not take:** Ich **lasse** das Auto heute zu Hause. **Lass** mich in Ruhe!\n4. **Suggestion (let's …):** **Lass uns** ins Kino gehen! / **Lasst uns** anfangen! / **Lassen Sie uns** einen Termin finden.\n5. **Something can be done (sich lassen):** Das Fenster **lässt sich** nicht öffnen. = Man kann das Fenster nicht öffnen.",
+      "mdDe": "1. **Etwas machen lassen:** Du machst es nicht selbst – ein Profi oder eine andere Person macht es. Ich **lasse** mir die Haare **schneiden**. Wir **lassen** die Wohnung **renovieren**.\n2. **Erlauben:** Die Lehrerin **lässt** uns heute früher **gehen**. **Lass** mich mal **probieren**!\n3. **Zurücklassen, nicht mitnehmen:** Ich **lasse** das Auto heute zu Hause. **Lass** mich in Ruhe!\n4. **Vorschlag (= Wollen wir …?):** **Lass uns** ins Kino gehen! / **Lasst uns** anfangen! / **Lassen Sie uns** einen Termin finden.\n5. **Etwas kann man machen (sich lassen):** Das Fenster **lässt sich** nicht öffnen. = Man kann das Fenster nicht öffnen."
+    },
+    {
+      "type": "table",
+      "heading": "Forms of lassen",
+      "headingDe": "Formen von lassen",
+      "columns": ["Person", "Präsens", "Präteritum"],
+      "columnsDe": ["Person", "Präsens", "Präteritum"],
+      "rows": [
+        ["ich", "lasse", "ließ"],
+        ["du", "lässt", "ließest / ließt"],
+        ["er / sie / es", "lässt", "ließ"],
+        ["wir", "lassen", "ließen"],
+        ["ihr", "lasst", "ließt"],
+        ["sie / Sie", "lassen", "ließen"]
+      ],
+      "note": "Imperativ: Lass! – Lasst! – Lassen Sie! · Perfekt: „Ich habe den Schlüssel im Auto gelassen.“ (lassen alone) – but „Ich habe das Auto waschen lassen.“ (with a second infinitive).",
+      "noteDe": "Imperativ: Lass! – Lasst! – Lassen Sie! · Perfekt: „Ich habe den Schlüssel im Auto gelassen.“ (lassen allein) – aber „Ich habe das Auto waschen lassen.“ (mit einem zweiten Infinitiv)."
+    },
+    {
+      "type": "text",
+      "heading": "Word order and Perfekt",
+      "headingDe": "Wortstellung und Perfekt",
+      "md": "- **Main clause:** lassen is the conjugated verb, the infinitive goes to the end – Ich **lasse** meine Jacke **reinigen**.\n- **No zu:** like a modal verb, lassen is followed by an infinitive without zu – Er **lässt** mich **gehen**.\n- **With a modal verb:** both infinitives go to the end, lassen comes last – Ich **muss** meine Jacke **reinigen lassen**.\n- **Perfekt with a second verb:** haben + infinitive + **lassen** – Ich **habe** meine Jacke **reinigen lassen**.\n- **Perfekt without a second verb:** normal Partizip II **gelassen** – Ich **habe** meine Jacke im Büro **gelassen**.\n- **Who gets the service?** Use a dative, often a reflexive pronoun – Ich lasse **mir** die Haare schneiden. Er lässt **sich** einen Anzug machen.\n- **Who does the job?** Use von + dative – Ich lasse das Fahrrad **von meinem Nachbarn** reparieren.\n\nIn a subordinate clause the Perfekt is complicated („…, weil ich das Auto habe reparieren lassen“). At B1 you can simply use the Präteritum: „…, weil ich das Auto reparieren ließ.“",
+      "mdDe": "- **Hauptsatz:** lassen ist das konjugierte Verb, der Infinitiv steht am Ende – Ich **lasse** meine Jacke **reinigen**.\n- **Kein zu:** Wie nach einem Modalverb steht nach lassen ein Infinitiv ohne zu – Er **lässt** mich **gehen**.\n- **Mit Modalverb:** Beide Infinitive stehen am Ende, lassen kommt zuletzt – Ich **muss** meine Jacke **reinigen lassen**.\n- **Perfekt mit zweitem Verb:** haben + Infinitiv + **lassen** – Ich **habe** meine Jacke **reinigen lassen**.\n- **Perfekt ohne zweites Verb:** normales Partizip II **gelassen** – Ich **habe** meine Jacke im Büro **gelassen**.\n- **Für wen wird es gemacht?** Nimm einen Dativ, oft ein Reflexivpronomen – Ich lasse **mir** die Haare schneiden. Er lässt **sich** einen Anzug machen.\n- **Wer macht die Arbeit?** Nimm von + Dativ – Ich lasse das Fahrrad **von meinem Nachbarn** reparieren.\n\nIm Nebensatz ist das Perfekt kompliziert („…, weil ich das Auto habe reparieren lassen“). Auf B1-Niveau kannst du einfach das Präteritum nehmen: „…, weil ich das Auto reparieren ließ.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich **lasse** mein Fahrrad in der Werkstatt **reparieren**.", "en": "I'm having my bike repaired at the workshop." },
+        { "de": "Wo **lässt** du dir die Haare **schneiden**?", "en": "Where do you get your hair cut?" },
+        { "de": "Wir **haben** die Küche neu **streichen lassen**.", "en": "We had the kitchen repainted." },
+        { "de": "Meine Eltern **lassen** mich am Wochenende lange **schlafen**.", "en": "My parents let me sleep in at the weekend." },
+        { "de": "**Lass uns** am Samstag zusammen **kochen**!", "en": "Let's cook together on Saturday!" },
+        { "de": "Ich **habe** meinen Schlüssel zu Hause **gelassen**.", "en": "I left my key at home." },
+        { "de": "**Lassen Sie** mich bitte kurz **ausreden**!", "en": "Please let me finish what I'm saying." },
+        { "de": "Das Fenster **lässt sich** nicht **öffnen**.", "en": "The window won't open." },
+        { "de": "Wir **lassen** uns das Essen nach Hause **liefern**.", "en": "We're having the food delivered to our home." },
+        { "de": "Kannst du mich bitte in Ruhe **lassen**?", "en": "Can you please leave me alone?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 1:** typical options are „lassen / gelassen / zu lassen“ or „lässt / lasst / lassen“. Look for a second infinitive: if there is one, the Perfekt needs „lassen“, not „gelassen“.\n- **Schreiben:** lassen is very useful in complaints and requests – „Ich habe die Waschmaschine schon zweimal reparieren lassen.“ – „Könnten Sie die Heizung bitte überprüfen lassen?“ – „Lassen Sie mich bitte wissen, ob …“\n- **Sprechen Teil 3:** make suggestions with „Lass uns …“ / „Lassen Sie uns …“ and organise things: „Wir könnten das Essen liefern lassen.“",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 1:** Typische Antwortmöglichkeiten sind „lassen / gelassen / zu lassen“ oder „lässt / lasst / lassen“. Such nach einem zweiten Infinitiv: Wenn es einen gibt, braucht das Perfekt „lassen“, nicht „gelassen“.\n- **Schreiben:** lassen ist sehr nützlich in Beschwerden und Bitten – „Ich habe die Waschmaschine schon zweimal reparieren lassen.“ – „Könnten Sie die Heizung bitte überprüfen lassen?“ – „Lassen Sie mich bitte wissen, ob …“\n- **Sprechen Teil 3:** Mach Vorschläge mit „Lass uns …“ / „Lassen Sie uns …“ und organisiere Dinge: „Wir könnten das Essen liefern lassen.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** after lassen there is **no zu** – „Er lässt mich **gehen**“, not „zu gehen“. And in the Perfekt with a second verb, use the infinitive: „Ich habe mein Handy **reparieren lassen**“ – not „reparieren gelassen“. Only when lassen stands alone is the Partizip „gelassen“: „Ich habe mein Handy im Auto **gelassen**.“",
+      "mdDe": "**Typische Falle:** Nach lassen steht **kein zu** – „Er lässt mich **gehen**“, nicht „zu gehen“. Und im Perfekt mit einem zweiten Verb nimmst du den Infinitiv: „Ich habe mein Handy **reparieren lassen**“ – nicht „reparieren gelassen“. Nur wenn lassen allein steht, heißt das Partizip „gelassen“: „Ich habe mein Handy im Auto **gelassen**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe mein Auto reparieren gelassen.",
+      "right": "Ich habe mein Auto reparieren lassen.",
+      "why": "When lassen has a second infinitive, standard German uses the infinitive „lassen“ in the Perfekt, not „gelassen“.",
+      "whyDe": "Wenn lassen einen zweiten Infinitiv hat, steht im Standarddeutschen im Perfekt der Infinitiv „lassen“, nicht „gelassen“."
+    },
+    {
+      "wrong": "Er lasst seine Wohnung renovieren.",
+      "right": "Er lässt seine Wohnung renovieren.",
+      "why": "du and er/sie/es have an umlaut: du lässt, er lässt. „lasst“ is the ihr-form.",
+      "whyDe": "du und er/sie/es haben einen Umlaut: du lässt, er lässt. „lasst“ ist die ihr-Form."
+    },
+    {
+      "wrong": "Meine Chefin lässt mich früher zu gehen.",
+      "right": "Meine Chefin lässt mich früher gehen.",
+      "why": "lassen is followed by an infinitive without „zu“, just like a modal verb.",
+      "whyDe": "Nach lassen steht ein Infinitiv ohne „zu“, genau wie nach einem Modalverb."
+    },
+    {
+      "wrong": "Ich schneide meine Haare beim Friseur.",
+      "right": "Ich lasse mir die Haare beim Friseur schneiden.",
+      "why": "If someone else does the job for you, use lassen. Without it, the sentence says that you cut your hair yourself.",
+      "whyDe": "Wenn jemand anderes die Arbeit für dich macht, nimm lassen. Ohne lassen sagt der Satz, dass du dir die Haare selbst schneidest."
+    },
+    {
+      "wrong": "Lass uns gehen ins Kino!",
+      "right": "Lass uns ins Kino gehen!",
+      "why": "In „Lass uns …“ the infinitive goes to the very end of the sentence.",
+      "whyDe": "Bei „Lass uns …“ steht der Infinitiv ganz am Ende des Satzes."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich ___ meine Schuhe beim Schuster reparieren.",
+      "options": ["lasse", "lässt", "lassen"],
+      "answer": 0,
+      "explanation": "The subject is „ich“, so the form is „lasse“. „lässt“ is for du and er/sie/es.",
+      "explanationDe": "Das Subjekt ist „ich“, also heißt die Form „lasse“. „lässt“ ist für du und er/sie/es."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir haben unsere Wohnung neu streichen ___.",
+      "options": ["lassen", "gelassen", "zu lassen"],
+      "answer": 0,
+      "explanation": "There is a second infinitive („streichen“), so the Perfekt uses the infinitive „lassen“ – not „gelassen“.",
+      "explanationDe": "Es gibt einen zweiten Infinitiv („streichen“), deshalb steht im Perfekt der Infinitiv „lassen“ – nicht „gelassen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe mein Handy zu Hause ___.",
+      "options": ["gelassen", "lassen", "gelasst"],
+      "answer": 0,
+      "explanation": "Here lassen stands alone (no second verb) and means ‘to leave’, so the Partizip II is „gelassen“.",
+      "explanationDe": "Hier steht lassen allein (kein zweites Verb) und bedeutet ‚nicht mitnehmen‘, deshalb heißt das Partizip II „gelassen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ du deine Kinder allein mit dem Bus fahren?",
+      "options": ["Lässt", "Lasst", "Lassen"],
+      "answer": 0,
+      "explanation": "The subject is „du“, so the form is „lässt“ with umlaut. „Lasst“ is the ihr-form.",
+      "explanationDe": "Das Subjekt ist „du“, also heißt die Form „lässt“ mit Umlaut. „Lasst“ ist die ihr-Form."
+    },
+    {
+      "type": "gap",
+      "prompt": "Meine Haare sind zu lang. Ich lasse ___ morgen die Haare schneiden.",
+      "answers": ["mir"],
+      "explanation": "The person who gets the service is in the dative. Here it is the subject itself, so you need the reflexive dative „mir“.",
+      "explanationDe": "Die Person, für die etwas gemacht wird, steht im Dativ. Hier ist das das Subjekt selbst, also brauchst du den reflexiven Dativ „mir“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Herr Wolf, bitte ___ Sie mich kurz ausreden!",
+      "answers": ["lassen"],
+      "explanation": "Imperative with Sie = infinitive + Sie: „Lassen Sie …!“",
+      "explanationDe": "Imperativ mit Sie = Infinitiv + Sie: „Lassen Sie …!“"
+    },
+    {
+      "type": "gap",
+      "prompt": "Kinder, bitte ___ den Hund in Ruhe!",
+      "answers": ["lasst"],
+      "hint": "(lassen)",
+      "explanation": "You speak to several children (ihr), so the imperative is the ihr-form without „ihr“: „Lasst …!“",
+      "explanationDe": "Du sprichst mit mehreren Kindern (ihr), deshalb ist der Imperativ die ihr-Form ohne „ihr“: „Lasst …!“"
+    },
+    {
+      "type": "gap",
+      "prompt": "Früher ___ mich meine Eltern nie lange fernsehen.",
+      "answers": ["ließen"],
+      "hint": "(lassen, Präteritum)",
+      "explanation": "Präteritum of lassen: ich ließ, wir/sie ließen. The subject „meine Eltern“ is plural.",
+      "explanationDe": "Präteritum von lassen: ich ließ, wir/sie ließen. Das Subjekt „meine Eltern“ ist Plural."
+    },
+    {
+      "type": "transform",
+      "instruction": "Someone else does the job. Rewrite the sentence with „Ich lasse …“.",
+      "instructionDe": "Jemand anderes macht die Arbeit. Schreib den Satz neu mit „Ich lasse …“.",
+      "prompt": "Ein Fotograf macht meine Bewerbungsfotos.",
+      "answers": [
+        "Ich lasse meine Bewerbungsfotos machen.",
+        "Ich lasse meine Bewerbungsfotos von einem Fotografen machen.",
+        "Ich lasse meine Bewerbungsfotos bei einem Fotografen machen.",
+        "Ich lasse mir meine Bewerbungsfotos machen.",
+        "Ich lasse mir meine Bewerbungsfotos von einem Fotografen machen.",
+        "Ich lasse einen Fotografen meine Bewerbungsfotos machen."
+      ],
+      "explanation": "lassen + infinitive at the end: you don't do it yourself. If you name the person, use „von“ + dative: „von einem Fotografen“ (n-Deklination) – or make the person the accusative object: „Ich lasse einen Fotografen meine Bewerbungsfotos machen.“",
+      "explanationDe": "lassen + Infinitiv am Ende: Du machst es nicht selbst. Wenn du die Person nennst, nimm „von“ + Dativ: „von einem Fotografen“ (n-Deklination) – oder mach die Person zum Akkusativobjekt: „Ich lasse einen Fotografen meine Bewerbungsfotos machen.“"
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the sentence into the Perfekt.",
+      "instructionDe": "Setz den Satz ins Perfekt.",
+      "prompt": "Wir lassen die Heizung reparieren.",
+      "answers": ["Wir haben die Heizung reparieren lassen."],
+      "explanation": "Perfekt with a second verb: haben + infinitive + „lassen“ at the end (double infinitive).",
+      "explanationDe": "Perfekt mit zweitem Verb: haben + Infinitiv + „lassen“ am Ende (doppelter Infinitiv)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the question into a suggestion with „Lass uns …“.",
+      "instructionDe": "Mach aus der Frage einen Vorschlag mit „Lass uns …“.",
+      "prompt": "Wollen wir heute Abend Pizza bestellen?",
+      "answers": ["Lass uns heute Abend Pizza bestellen!", "Lass uns heute Abend Pizza bestellen."],
+      "explanation": "„Lass uns“ + infinitive at the end = let's … You use it with a person you call „du“.",
+      "explanationDe": "„Lass uns“ + Infinitiv am Ende = ein Vorschlag (wie ‚Wollen wir …?‘). Du benutzt es bei einer Person, die du mit „du“ ansprichst."
+    },
+    {
+      "type": "order",
+      "words": ["Haare", "mir", "Ich", "schneiden.", "am", "die", "lasse", "Freitag"],
+      "answers": [
+        "Ich lasse mir am Freitag die Haare schneiden.",
+        "Am Freitag lasse ich mir die Haare schneiden.",
+        "Ich lasse mir die Haare am Freitag schneiden."
+      ],
+      "explanation": "„lasse“ is in position 2 and the infinitive „schneiden“ goes to the end. The dative pronoun „mir“ comes early, right after the verb or the subject.",
+      "explanationDe": "„lasse“ steht auf Position 2, und der Infinitiv „schneiden“ steht am Ende. Das Dativpronomen „mir“ kommt früh, direkt nach dem Verb oder dem Subjekt."
+    }
+  ],
+  "related": ["modalverben", "perfekt", "imperativ", "reflexive-verben", "passiv"]
+}

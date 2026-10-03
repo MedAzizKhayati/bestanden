@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-05",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Lachen ohne Grund",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "article": {
+    "headline": "Ho-ho, ha-ha-ha: Lachyoga wird immer beliebter",
+    "lead": "Einmal pro Woche treffen sich in Zürich Menschen, um gemeinsam zu lachen – ganz ohne Witze. Was komisch klingt, hat einen ernsthaften Hintergrund.",
+    "paragraphs": [
+      "Mittwochabend, 19 Uhr, in einem Gemeinschaftsraum in Zürich-Oerlikon. Fünfzehn Frauen und Männer stehen im Kreis, klatschen in die Hände und rufen: „Ho-ho, ha-ha-ha!“ Dann tun alle so, als ob sie heiße Suppe essen würden, und lachen dabei laut. Nach ein paar Minuten lacht der ganze Raum – und niemand weiß mehr genau, warum.",
+      "Die Gruppe leitet Corinne Wyss. Die 52-jährige Pflegefachfrau hat Lachyoga vor sieben Jahren in einer schwierigen Zeit entdeckt. „Ich hatte damals viel Stress im Beruf und habe schlecht geschlafen“, erzählt sie. Eine Freundin nahm sie zu einer Lachgruppe in Bern mit. „Nach der ersten Stunde war ich völlig erschöpft, aber so entspannt wie seit Monaten nicht mehr.“ Später machte Wyss eine Ausbildung zur Lachyoga-Leiterin. Heute bietet sie drei Gruppen pro Woche an.",
+      "Das Prinzip ist einfach: Man lacht zuerst ohne Grund, wie bei einer Turnübung. „Der Körper merkt nicht, ob das Lachen echt ist oder nicht“, erklärt Wyss. Weil man sich dabei in die Augen schaut, wird aus dem künstlichen Lachen meistens schnell ein echtes. Witze sind in ihren Kursen übrigens verboten. „Nicht jeder findet denselben Witz lustig. Und man muss dabei nachdenken – genau das wollen wir hier nicht.“",
+      "Und was sagt die Medizin dazu? „Lachen ist ein kleines Training für den Körper“, sagt Dr. Martin Keller, Hausarzt in Luzern. „Man atmet tiefer, danach entspannen sich die Muskeln, und viele Menschen fühlen sich besser.“ Dass Lachyoga Krankheiten heilen kann, glaubt Keller aber nicht. „Wer starke Rückenschmerzen oder eine Depression hat, sollte zum Arzt gehen. Lachyoga kann eine Therapie ergänzen, aber nicht ersetzen.“",
+      "Die Teilnehmerinnen und Teilnehmer in Oerlikon sind zwischen 25 und 81 Jahre alt. Viele kommen direkt nach der Arbeit, um abzuschalten. Der 34-jährige Bankangestellte Luca Bernasconi ist seit einem Jahr dabei. „Am Anfang fand ich das total peinlich“, gibt er zu. „Meine Freunde wissen bis heute nicht, wohin ich am Mittwochabend gehe.“ Trotzdem kommt er jede Woche. „Danach schlafe ich viel besser, und im Büro bleibe ich ruhiger, wenn es Probleme gibt.“",
+      "Auch Firmen interessieren sich inzwischen für das Lachen. Wyss wird immer öfter von Unternehmen eingeladen, die ihren Mitarbeitenden etwas gegen Stress anbieten möchten. „Am Anfang stehen die Leute oft mit verschränkten Armen da“, erzählt sie. „Aber nach zehn Minuten lacht meistens sogar der Chef.“ Und seit diesem Jahr bezahlt eine Krankenkasse in der Ostschweiz ihren Versicherten einen Teil der Kurskosten.",
+      "Für Corinne Wyss ist es das schönste Kompliment, wenn jemand nach der Stunde sagt, dass er schon lange nicht mehr so gelacht hat. „Man sagt, dass Kinder bis zu 400-mal am Tag lachen, Erwachsene nur etwa 15-mal“, meint sie. „Wir haben das Lachen nicht verlernt. Wir haben nur vergessen, wie gut es uns tut.“"
+    ],
+    "source": "Gesund & Munter – Das Schweizer Gesundheitsmagazin"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Frau Wyss hat Lachyoga kennengelernt, …",
+      "options": [
+        { "key": "a", "text": "als sie im Beruf großen Stress hatte." },
+        { "key": "b", "text": "weil sie in Bern eine Ausbildung gemacht hat." },
+        { "key": "c", "text": "weil sie als Pflegefachfrau eine Gruppe leiten sollte." }
+      ],
+      "answer": "a",
+      "explanation": "„Ich hatte damals viel Stress im Beruf“ – she discovered laughter yoga in a stressful time, so (a). In Bern she went to a laughter group with a friend; the training came later („Später machte Wyss eine Ausbildung“), so (b) is wrong. Nobody asked her to lead a group (c).",
+      "explanationDe": "„Ich hatte damals viel Stress im Beruf“ – sie hat Lachyoga in einer stressigen Zeit entdeckt, also ist (a) richtig. In Bern war sie mit einer Freundin in einer Lachgruppe; die Ausbildung kam erst später („Später machte Wyss eine Ausbildung“), deshalb ist (b) falsch. Niemand hat sie gebeten, eine Gruppe zu leiten (c).",
+      "evidence": "Ich hatte damals viel Stress im Beruf und habe schlecht geschlafen"
+    },
+    {
+      "n": 2,
+      "stem": "In den Kursen von Frau Wyss …",
+      "options": [
+        { "key": "a", "text": "erzählen die Teilnehmenden am Anfang Witze." },
+        { "key": "b", "text": "lacht man zuerst, ohne dass es einen Grund gibt." },
+        { "key": "c", "text": "soll man darüber nachdenken, warum man lacht." }
+      ],
+      "answer": "b",
+      "explanation": "„Man lacht zuerst ohne Grund, wie bei einer Turnübung“, so (b). Jokes are forbidden („Witze sind … verboten“), so (a) is wrong. Thinking is exactly what she does not want: „genau das wollen wir hier nicht“ (c).",
+      "explanationDe": "„Man lacht zuerst ohne Grund, wie bei einer Turnübung“, also ist (b) richtig. „Witze sind … verboten“, deshalb ist (a) falsch. Nachdenken ist genau das, was sie nicht will: „genau das wollen wir hier nicht“ (c).",
+      "evidence": "Man lacht zuerst ohne Grund, wie bei einer Turnübung."
+    },
+    {
+      "n": 3,
+      "stem": "Dr. Keller meint, dass Lachyoga …",
+      "options": [
+        { "key": "a", "text": "Krankheiten wie Depressionen heilen kann." },
+        { "key": "b", "text": "für Menschen mit Rückenschmerzen gefährlich ist." },
+        { "key": "c", "text": "dem Körper guttut, aber keine Therapie ersetzt." }
+      ],
+      "answer": "c",
+      "explanation": "Laughing is „ein kleines Training für den Körper“, but „Lachyoga kann eine Therapie ergänzen, aber nicht ersetzen“, so (c). He does not believe that it can cure illnesses (a). He says people with strong back pain should see a doctor – not that laughter yoga is dangerous for them (b).",
+      "explanationDe": "Lachen ist „ein kleines Training für den Körper“, aber „Lachyoga kann eine Therapie ergänzen, aber nicht ersetzen“, also ist (c) richtig. Er glaubt nicht, dass Lachyoga Krankheiten heilen kann (a). Er sagt, dass Menschen mit starken Rückenschmerzen zum Arzt gehen sollen – nicht, dass Lachyoga für sie gefährlich ist (b).",
+      "evidence": "Lachyoga kann eine Therapie ergänzen, aber nicht ersetzen."
+    },
+    {
+      "n": 4,
+      "stem": "Luca Bernasconi …",
+      "options": [
+        { "key": "a", "text": "hat seinen Freunden nichts von dem Kurs erzählt." },
+        { "key": "b", "text": "kommt zusammen mit seinen Freunden in den Kurs." },
+        { "key": "c", "text": "geht nur dann zum Kurs, wenn er im Büro Probleme hat." }
+      ],
+      "answer": "a",
+      "explanation": "„Meine Freunde wissen bis heute nicht, wohin ich am Mittwochabend gehe“ – he has not told them, so (a) and not (b). He comes „jede Woche“, not only when there are problems at work (c).",
+      "explanationDe": "„Meine Freunde wissen bis heute nicht, wohin ich am Mittwochabend gehe“ – er hat es ihnen nicht erzählt, also ist (a) richtig und nicht (b). Er kommt „jede Woche“, nicht nur dann, wenn es im Büro Probleme gibt (c).",
+      "evidence": "Meine Freunde wissen bis heute nicht, wohin ich am Mittwochabend gehe."
+    },
+    {
+      "n": 5,
+      "stem": "Seit diesem Jahr …",
+      "options": [
+        { "key": "a", "text": "bietet Frau Wyss spezielle Kurse für Chefs an." },
+        { "key": "b", "text": "sind die Kurse von Frau Wyss für alle kostenlos." },
+        { "key": "c", "text": "gibt eine Krankenkasse Geld für die Kurse dazu." }
+      ],
+      "answer": "c",
+      "explanation": "„seit diesem Jahr bezahlt eine Krankenkasse … einen Teil der Kurskosten“ – it pays part of the costs, so (c). Only part is paid, so the courses are not free (b). The boss is mentioned only as someone who laughs in company workshops – there are no special courses for bosses (a).",
+      "explanationDe": "„seit diesem Jahr bezahlt eine Krankenkasse … einen Teil der Kurskosten“ – sie zahlt einen Teil der Kosten, also ist (c) richtig. Weil nur ein Teil bezahlt wird, sind die Kurse nicht kostenlos (b). Der Chef wird nur erwähnt, weil er bei Kursen in Firmen mitlacht – spezielle Kurse für Chefs gibt es nicht (a).",
+      "evidence": "seit diesem Jahr bezahlt eine Krankenkasse in der Ostschweiz ihren Versicherten einen Teil der Kurskosten"
+    }
+  ],
+  "glossary": [
+    { "de": "klatschen", "en": "to clap" },
+    { "de": "so tun, als ob …", "en": "to pretend that …" },
+    { "de": "die Pflegefachfrau (schweiz.)", "en": "qualified nurse" },
+    { "de": "erschöpft", "en": "exhausted" },
+    { "de": "künstlich", "en": "artificial" },
+    { "de": "ergänzen", "en": "to add to, to complement" },
+    { "de": "ersetzen", "en": "to replace" },
+    { "de": "abschalten", "en": "to switch off, to relax" },
+    { "de": "peinlich", "en": "embarrassing" },
+    { "de": "mit verschränkten Armen", "en": "with arms folded" },
+    { "de": "die Krankenkasse", "en": "health insurance company" }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "schreiben-17",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Endlich wieder Sport",
+  "topic": "sport",
+  "difficulty": 2,
+  "register": "informal",
+  "situation": "Sie haben von Ihrem Freund Ole folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Ole",
+    "subject": "Ich brauche deinen Rat",
+    "body": "Hallo,\n\nich muss etwas ändern: Seit ich im Homeoffice arbeite, bewege ich mich kaum noch und habe schon fünf Kilo zugenommen. Außerdem schlafe ich schlecht. Deshalb möchte ich endlich wieder Sport machen. Du bist doch so sportlich! Welchen Sport kannst du mir empfehlen? Ins Fitnessstudio möchte ich eigentlich nicht, das finde ich langweilig. Und viel Geld kann ich im Moment auch nicht ausgeben.\n\nHast du vielleicht Lust mitzumachen? Zusammen ist es bestimmt leichter, regelmäßig zu trainieren.\n\nViele Grüße\nOle"
+  },
+  "leitpunkte": [
+    "Was Ole für den Anfang braucht",
+    "Wann und wie oft Sie zusammen trainieren könnten",
+    "Welche Erfahrungen Sie selbst mit diesem Sport gemacht haben",
+    "Welchen Sport Sie empfehlen und warum"
+  ],
+  "model": {
+    "subject": "Mein Tipp: Joggen – und ich mache mit!",
+    "text": "Lieber Ole,\n\ndanke für deine E-Mail! Gut, dass du etwas ändern willst. So geht es übrigens vielen Leuten, die zu Hause arbeiten.\n\nIch empfehle dir Joggen. Dafür brauchst du kein Fitnessstudio und musst fast kein Geld ausgeben. Außerdem bist du an der frischen Luft, was gut für den Schlaf ist. Und langweilig wird es auch nicht, weil man immer wieder neue Strecken ausprobieren kann.\n\nIch jogge selbst seit drei Jahren. Am Anfang konnte ich keine zehn Minuten am Stück laufen, aber nach ein paar Wochen ging es schon viel besser. Heute schlafe ich tiefer und fühle mich viel fitter.\n\nFür den Anfang brauchst du eigentlich nur gute Laufschuhe. Lass dich am besten in einem Sportgeschäft beraten, denn billige Schuhe sind schlecht für die Knie.\n\nNatürlich mache ich gern mit! Wie wäre es mit dreimal pro Woche, zum Beispiel dienstags und donnerstags nach der Arbeit und sonntags morgens? Wir könnten an der Kiellinie anfangen, da ist es besonders schön.\n\nIch freue mich schon auf unser erstes Training!\n\nSportliche Grüße\nDeine Hana"
+  },
+  "modelNotes": [
+    "The recommendation is justified with arguments that pick up Ole's own conditions: no gym, little money, not boring, better sleep.",
+    "Personal experience makes the advice convincing and is told in the past: „Am Anfang konnte ich …, aber nach ein paar Wochen ging es …“.",
+    "Typical advice structures: „Ich empfehle dir …“, „Lass dich am besten … beraten“, „brauchst du eigentlich nur …“.",
+    "Connectors and references: „außerdem“, „was“ referring to the whole clause, „weil“, „aber“, „denn“, „dafür“; the closing proposal is concrete (days, place)."
+  ],
+  "modelNotesDe": [
+    "Die Schreiberin begründet ihre Empfehlung mit Argumenten, die Oles eigene Bedingungen aufgreifen: kein Fitnessstudio, wenig Geld, nicht langweilig, besserer Schlaf.",
+    "Die eigene Erfahrung macht den Rat überzeugend und wird in der Vergangenheit erzählt: „Am Anfang konnte ich …, aber nach ein paar Wochen ging es …“.",
+    "Typische Strukturen für Ratschläge: „Ich empfehle dir …“, „Lass dich am besten … beraten“, „brauchst du eigentlich nur …“.",
+    "Konnektoren und Verweise: „außerdem“, „was“ (bezieht sich auf den ganzen Satz), „weil“, „aber“, „denn“, „dafür“; der Vorschlag am Schluss ist konkret (Tage, Ort)."
+  ],
+  "phrases": [
+    { "de": "Gut, dass du etwas ändern willst.", "en": "Good that you want to change something." },
+    { "de": "Ich empfehle dir …, weil …", "en": "I'd recommend … because …" },
+    { "de": "Dafür brauchst du kein …", "en": "For that you don't need a …" },
+    { "de": "Am Anfang konnte ich …, aber nach ein paar Wochen …", "en": "At first I couldn't …, but after a few weeks …" },
+    { "de": "Für den Anfang brauchst du nur …", "en": "To start with, all you need is …" },
+    { "de": "Lass dich am besten beraten.", "en": "It's best to get some advice." },
+    { "de": "Natürlich mache ich gern mit!", "en": "Of course I'll join in!" },
+    { "de": "Wie wäre es mit dreimal pro Woche?", "en": "How about three times a week?" }
+  ],
+  "glossary": [
+    { "de": "zunehmen", "en": "to put on weight" },
+    { "de": "sich bewegen", "en": "to move, to get exercise" },
+    { "de": "am Stück", "en": "in one go, without a break" },
+    { "de": "die Strecke", "en": "route, distance" },
+    { "de": "sich beraten lassen", "en": "to get advice" },
+    { "de": "die Laufschuhe (Pl.)", "en": "running shoes" }
+  ]
+}

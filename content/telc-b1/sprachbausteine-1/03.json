@@ -1,0 +1,144 @@
+{
+  "id": "sprachbausteine-1-03",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Mein Umzug nach Leipzig",
+  "topic": "wohnen",
+  "difficulty": 1,
+  "textType": "letter-informal",
+  "text": "Liebe Oma,\n\nvielen Dank für deinen lieben Brief! Ich wohne jetzt schon drei Wochen in Leipzig, und es gefällt mir hier sehr gut.\n\nDer Umzug war allerdings ziemlich anstrengend. [[1]] ich am Samstag mit dem vollen Auto ankam, regnete es in Strömen. Zum Glück haben mir mein Freund Jakob und [[2]] Bruder geholfen. Die Wohnung liegt im dritten Stock, und es gibt keinen Aufzug. Am Abend [[3]] wir alle sehr müde.\n\nMeine Wohnung ist klein, aber sehr hell. Sie hat einen [[4]] Balkon, auf [[5]] ich jeden Morgen frühstücke. Gestern habe ich auch meinen [[6]] kennengelernt. Er heißt Herr Lorenz, ist schon über achtzig und hat mir gleich ein Stück Kuchen gebracht. Er hat mir erzählt, [[7]] er früher Mathematiklehrer war.\n\nBis zur Universität sind es nur zehn Minuten. Ich fahre jeden Tag mit dem Fahrrad, [[8]] Geld für die Straßenbahn zu sparen. [[9]] des schlechten Wetters habe ich die Stadt aber noch nicht richtig gesehen.\n\nNächsten Monat kommst du mich ja besuchen. Dann zeige ich dir das Zentrum, und wir gehen zusammen ins Café. Ich freue mich schon sehr [[10]] deinen Besuch!\n\nViele liebe Grüße, auch an Opa\nDeine Hannah",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "Wenn" },
+        { "key": "b", "text": "Wann" },
+        { "key": "c", "text": "Als" }
+      ],
+      "answer": "c",
+      "explanation": "„als“ is used for a single event in the past („am Samstag … ankam“). „wenn“ is for repeated events or the present/future, and „wann“ is a question word.",
+      "explanationDe": "„als“ benutzt man für ein einmaliges Ereignis in der Vergangenheit („am Samstag … ankam“). „wenn“ steht für wiederholte Ereignisse oder für Gegenwart und Zukunft, und „wann“ ist ein Fragewort.",
+      "grammar": "temporale-nebensaetze"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "seinen" },
+        { "key": "b", "text": "sein" },
+        { "key": "c", "text": "seine" }
+      ],
+      "answer": "b",
+      "explanation": "„… und sein Bruder“ is part of the subject together with „mein Freund Jakob“, so it is nominative. Masculine nominative has no ending: „sein Bruder“. „seinen“ is accusative, „seine“ feminine or plural.",
+      "explanationDe": "„… und sein Bruder“ gehört zusammen mit „mein Freund Jakob“ zum Subjekt. Es steht also im Nominativ. Im Nominativ maskulin gibt es keine Endung: „sein Bruder“. „seinen“ ist Akkusativ, „seine“ feminin oder Plural.",
+      "grammar": "kasus-und-artikel"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "war" },
+        { "key": "b", "text": "wart" },
+        { "key": "c", "text": "waren" }
+      ],
+      "answer": "c",
+      "explanation": "The subject is „wir“, so the Präteritum of „sein“ is „waren“. „war“ is for ich/er/sie/es, and „wart“ is for ihr.",
+      "explanationDe": "Das Subjekt ist „wir“, also heißt das Präteritum von „sein“ hier „waren“. „war“ ist für ich/er/sie/es, und „wart“ ist für ihr.",
+      "grammar": "praeteritum"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "schönen" },
+        { "key": "b", "text": "schöner" },
+        { "key": "c", "text": "schönes" }
+      ],
+      "answer": "a",
+      "explanation": "„der Balkon“ is masculine and the accusative object of „hat“. After „einen“ the adjective ends in „-en“: „einen schönen Balkon“.",
+      "explanationDe": "„der Balkon“ ist maskulin und das Akkusativobjekt von „hat“. Nach „einen“ hat das Adjektiv die Endung „-en“: „einen schönen Balkon“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "dem" },
+        { "key": "b", "text": "den" },
+        { "key": "c", "text": "der" }
+      ],
+      "answer": "a",
+      "explanation": "The relative pronoun refers to „der Balkon“. „frühstücken“ is not a movement – „auf“ answers „Wo?“ and takes the dative: „auf dem“. „auf den“ would mean a direction.",
+      "explanationDe": "Das Relativpronomen bezieht sich auf „der Balkon“. „frühstücken“ ist keine Bewegung – „auf“ antwortet hier auf „Wo?“ und steht mit Dativ: „auf dem“. „auf den“ würde eine Richtung bedeuten.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "Nachbar" },
+        { "key": "b", "text": "Nachbarn" },
+        { "key": "c", "text": "Nachbars" }
+      ],
+      "answer": "b",
+      "explanation": "„der Nachbar“ belongs to the n-declension: it takes „-n“ in every case except the nominative singular. Here it is the accusative object of „kennenlernen“: „meinen Nachbarn“.",
+      "explanationDe": "„der Nachbar“ gehört zur n-Deklination: Das Nomen bekommt in jedem Kasus ein „-n“, außer im Nominativ Singular. Hier ist es das Akkusativobjekt von „kennenlernen“: „meinen Nachbarn“.",
+      "grammar": "n-deklination"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "ob" },
+        { "key": "b", "text": "was" },
+        { "key": "c", "text": "dass" }
+      ],
+      "answer": "c",
+      "explanation": "„erzählen, dass …“ reports a statement. „ob“ introduces an indirect yes/no question, and „was“ only works when something is missing in the clause (e.g. „was er früher gemacht hat“).",
+      "explanationDe": "Mit „erzählen, dass …“ gibt man eine Aussage wieder. „ob“ leitet eine indirekte Ja-/Nein-Frage ein, und „was“ funktioniert nur, wenn im Satz etwas fehlt (z. B. „was er früher gemacht hat“).",
+      "grammar": "nebensaetze-grundlagen"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "damit" },
+        { "key": "b", "text": "um" },
+        { "key": "c", "text": "weil" }
+      ],
+      "answer": "b",
+      "explanation": "„um … zu“ + infinitive expresses a purpose: „um Geld … zu sparen“. „damit“ and „weil“ need their own subject and a conjugated verb, not an infinitive with „zu“.",
+      "explanationDe": "„um … zu“ + Infinitiv drückt einen Zweck aus: „um Geld … zu sparen“. „damit“ und „weil“ brauchen ein eigenes Subjekt und ein konjugiertes Verb, keinen Infinitiv mit „zu“.",
+      "grammar": "finale-saetze"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "Wegen" },
+        { "key": "b", "text": "Seit" },
+        { "key": "c", "text": "Mit" }
+      ],
+      "answer": "a",
+      "explanation": "„wegen“ gives a reason and is followed by the genitive: „wegen des schlechten Wetters“. „seit“ and „mit“ take the dative („seit dem …“, „mit dem …“), so they cannot stand before „des“.",
+      "explanationDe": "„wegen“ nennt einen Grund, danach steht der Genitiv: „wegen des schlechten Wetters“. Nach „seit“ und „mit“ steht der Dativ („seit dem …“, „mit dem …“), deshalb können sie nicht vor „des“ stehen.",
+      "grammar": "genitiv"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "für" },
+        { "key": "b", "text": "mit" },
+        { "key": "c", "text": "auf" }
+      ],
+      "answer": "c",
+      "explanation": "„sich freuen auf“ + accusative means to look forward to something in the future – the visit is next month. „sich freuen für“ is only used with people („Ich freue mich für dich“), and „mit“ does not combine with „sich freuen“ here.",
+      "explanationDe": "„sich freuen auf“ + Akkusativ bedeutet: auf etwas Zukünftiges gespannt sein – der Besuch ist nächsten Monat. „sich freuen für“ benutzt man nur mit Personen („Ich freue mich für dich“), und „mit“ passt hier nicht zu „sich freuen“.",
+      "grammar": "verben-mit-praepositionen"
+    }
+  ],
+  "glossary": [
+    { "de": "der Umzug", "en": "move (to a new home)" },
+    { "de": "anstrengend", "en": "exhausting, tiring" },
+    { "de": "in Strömen regnen", "en": "to pour with rain" },
+    { "de": "der Aufzug", "en": "lift, elevator" },
+    { "de": "hell", "en": "bright, light" },
+    { "de": "kennenlernen", "en": "to get to know, to meet" },
+    { "de": "der Nachbar", "en": "neighbour" },
+    { "de": "sparen", "en": "to save (money)" },
+    { "de": "die Straßenbahn", "en": "tram" },
+    { "de": "sich freuen auf", "en": "to look forward to" }
+  ]
+}

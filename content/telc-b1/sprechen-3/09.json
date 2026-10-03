@@ -1,0 +1,70 @@
+{
+  "id": "sprechen-3-09",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Sommerfest im Tischtennisverein",
+  "topic": "sport",
+  "difficulty": 2,
+  "situation": "Sie sind beide Mitglieder in einem Tischtennisverein. Im Sommer feiert der Verein ein Fest, zu dem auch Gäste kommen sollen, die nicht im Verein sind. Sie beide sind dieses Jahr für die Organisation verantwortlich. Planen Sie gemeinsam das Sommerfest.",
+  "checklist": [
+    "Wann und wo?",
+    "Programm für Kinder und Erwachsene?",
+    "Essen und Getränke?",
+    "Werbung für das Fest?",
+    "Helferinnen und Helfer?",
+    "Was tun bei Regen?",
+    "Wer übernimmt was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Zeynep Arslan", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Andrés Morales", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Andrés, wir sind dieses Jahr für das Sommerfest verantwortlich. Hast du schon eine Idee, wann wir feiern sollen?" },
+    { "s": "B", "t": "Ich dachte an den ersten Samstag im Juli. Da ist unsere Saison zu Ende, und alle haben Zeit zum Feiern." },
+    { "s": "A", "t": "Gute Idee. Und wo feiern wir, auf dem Platz vor der Sporthalle oder im Park?" },
+    { "s": "B", "t": "Ich finde, vor der Sporthalle ist es am praktischsten. Wir haben dort Strom und Toiletten, und wenn es regnet, können wir einfach in die Halle gehen." },
+    { "s": "A", "t": "Stimmt, das ist ein wichtiger Vorteil. Was für ein Programm machen wir? Ich schlage ein Tischtennisturnier für alle vor, auch für Leute, die nicht im Verein sind." },
+    { "s": "B", "t": "Das ist super, so können wir neue Mitglieder gewinnen. Vielleicht ein Turnier für Kinder am Nachmittag und eins für Erwachsene am Abend?" },
+    { "s": "A", "t": "Ja, genau. Für die kleinen Kinder brauchen wir aber noch etwas anderes. Wie wäre es mit einer Hüpfburg?" },
+    { "s": "B", "t": "Eine Hüpfburg ist toll, aber die Miete ist ziemlich teuer, ich glaube, über zweihundert Euro. Wir könnten doch lieber Kinderschminken und ein paar Spiele anbieten, das kostet fast nichts." },
+    { "s": "A", "t": "Das stimmt, und Kinderschminken lieben alle Kinder. Meine Schwester ist Erzieherin, sie kann das bestimmt gut. Ich frage sie, ob sie Lust hat." },
+    { "s": "B", "t": "Prima. Und beim Essen würde ich einen Grill und ein Kuchenbuffet machen. Die Mitglieder können Kuchen backen und mitbringen." },
+    { "s": "A", "t": "Einverstanden. Beim Grillen sollten wir aber auch an die Vegetarier denken, zum Beispiel mit Maiskolben und Gemüsespießen." },
+    { "s": "B", "t": "Gute Idee. Die Getränke verkaufen wir am besten selbst. Mit dem Geld können wir neue Tischtennisplatten für den Verein kaufen." },
+    { "s": "A", "t": "Super. Und wie machen wir Werbung für das Fest? Wenn wir neue Mitglieder wollen, müssen viele Leute davon erfahren." },
+    { "s": "B", "t": "Ich kann Plakate gestalten und in den Geschäften im Stadtteil aufhängen, zum Beispiel in der Bäckerei und im Supermarkt." },
+    { "s": "A", "t": "Sehr gut. Und ich schreibe einen kurzen Text für die Internetseite des Vereins und für die Lokalzeitung. Vielleicht kommt sogar ein Journalist." },
+    { "s": "B", "t": "Das wäre toll! Wir brauchen auch genug Helfer. Wer steht am Grill, wer verkauft Getränke, und wer baut am Ende ab?" },
+    { "s": "A", "t": "Ich mache eine Liste und schicke sie an alle Mitglieder. Jeder soll mindestens zwei Stunden helfen, dann ist es für niemanden zu viel." },
+    { "s": "B", "t": "Das ist fair. Wenn das Wetter schlecht ist, machen wir alles in der Halle. Aber wir müssen den Hausmeister fragen, ob das geht." },
+    { "s": "A", "t": "Den kenne ich gut, ich frage ihn morgen beim Training. Also, fassen wir zusammen: Das Sommerfest ist am ersten Samstag im Juli vor der Sporthalle, und bei Regen feiern wir in der Halle." },
+    { "s": "B", "t": "Genau. Es gibt Turniere für Kinder und Erwachsene, Kinderschminken, einen Grill und ein Kuchenbuffet. Ich gestalte die Plakate und organisiere den Grill." },
+    { "s": "A", "t": "Und ich frage meine Schwester wegen des Kinderschminkens, schreibe den Text für die Zeitung, mache die Helferliste und spreche mit dem Hausmeister." },
+    { "s": "B", "t": "Perfekt! Ich glaube, das wird ein schönes Fest, und vielleicht haben wir danach ein paar neue Mitglieder." }
+  ],
+  "phrases": [
+    { "de": "Wir sind dieses Jahr für … verantwortlich.", "en": "This year we're responsible for …" },
+    { "de": "Ich dachte an …", "en": "I was thinking of …" },
+    { "de": "Ich finde, … ist am praktischsten.", "en": "I think … is the most practical." },
+    { "de": "Das ist ein wichtiger Vorteil.", "en": "That's an important advantage." },
+    { "de": "So können wir …", "en": "That way we can …" },
+    { "de": "Wir könnten doch lieber …", "en": "We could … instead." },
+    { "de": "Wir müssen … fragen, ob das geht.", "en": "We need to ask … whether that's possible." },
+    { "de": "Das ist fair.", "en": "That's fair." },
+    { "de": "Also, fassen wir zusammen: …", "en": "So, let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "das Sommerfest", "en": "summer party" },
+    { "de": "das Turnier", "en": "tournament" },
+    { "de": "neue Mitglieder gewinnen", "en": "to attract new members" },
+    { "de": "die Hüpfburg", "en": "bouncy castle" },
+    { "de": "das Kinderschminken", "en": "face painting for children" },
+    { "de": "das Kuchenbuffet", "en": "cake buffet" },
+    { "de": "der Gemüsespieß", "en": "vegetable skewer" },
+    { "de": "die Tischtennisplatte", "en": "table-tennis table" },
+    { "de": "ein Plakat gestalten", "en": "to design a poster" },
+    { "de": "die Lokalzeitung", "en": "local newspaper" },
+    { "de": "abbauen", "en": "to take down, to dismantle" }
+  ]
+}

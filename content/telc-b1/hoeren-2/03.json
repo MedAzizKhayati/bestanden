@@ -1,0 +1,144 @@
+{
+  "id": "hoeren-2-03",
+  "examId": "telc-b1",
+  "type": "audio-long",
+  "title": "Wenn andere schlafen",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "context": "Radiosendung „Gesund durch den Alltag“: Interview mit einem Krankenpfleger über Schichtarbeit",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "demir", "name": "Herr Demir", "gender": "m", "age": "adult", "role": "Krankenpfleger" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Guten Abend und willkommen bei „Gesund durch den Alltag“. Heute sprechen wir über ein Thema, das viele Menschen betrifft: Arbeit in Schichten, also auch am Abend und in der Nacht." },
+    { "s": "mod", "t": "Mein Gast ist Murat Demir. Er arbeitet als Krankenpfleger in einem großen Krankenhaus hier in Köln. Herzlich willkommen, Herr Demir!" },
+    { "s": "demir", "t": "Guten Abend, vielen Dank für die Einladung." },
+    { "s": "mod", "t": "Herr Demir, wollten Sie eigentlich schon immer Krankenpfleger werden?" },
+    { "s": "demir", "t": "Nein, gar nicht. Als Junge wollte ich unbedingt Koch werden, weil ich so gern gekocht habe." },
+    { "s": "demir", "t": "Aber nach der Schule habe ich ein Praktikum im Krankenhaus gemacht, und das hat mir so gut gefallen, dass ich geblieben bin. Das ist jetzt 18 Jahre her." },
+    { "s": "mod", "t": "Und Sie arbeiten in drei Schichten?" },
+    { "s": "demir", "t": "Genau. Der Frühdienst beginnt um 6 Uhr, der Spätdienst um halb zwei, und der Nachtdienst geht von halb zehn abends bis halb sieben am Morgen." },
+    { "s": "demir", "t": "Die Nachtdienste machen wir immer in Blöcken, meistens sieben Nächte hintereinander. Danach habe ich sechs Tage frei." },
+    { "s": "mod", "t": "Sieben Nächte hintereinander, das klingt anstrengend. Wie ist die Arbeit in der Nacht?" },
+    { "s": "demir", "t": "Ganz anders als am Tag. Nachts sind wir nur zu zweit für 30 Patienten da, es gibt keine Besucher, und das Telefon klingelt kaum." },
+    { "s": "demir", "t": "Ehrlich gesagt mag ich die Nachtdienste am liebsten. Ich habe mehr Ruhe, und manchmal kann ich mich mit einem Patienten, der nicht schlafen kann, länger unterhalten." },
+    { "s": "mod", "t": "Viele Menschen haben ja Probleme, am Tag zu schlafen. Wie machen Sie das?" },
+    { "s": "demir", "t": "Mein Schlafzimmer ist komplett dunkel, ich habe Ohrstöpsel, und das Handy ist aus. An der Wohnungstür hängt ein Zettel: „Bitte nicht klingeln!“" },
+    { "s": "demir", "t": "Am schwierigsten ist aber der Wechsel zurück. Nach der letzten Nacht schlafe ich nur bis zum Mittag, damit ich abends wieder müde bin." },
+    { "s": "mod", "t": "Und was essen Sie in der Nacht? Um drei Uhr morgens hat man ja nicht unbedingt Lust auf ein Mittagessen." },
+    { "s": "demir", "t": "Das stimmt. Ich bringe mir meistens eine Suppe oder einen Salat mit, dazu Obst. Schweres Essen macht nachts nur müde." },
+    { "s": "demir", "t": "Und beim Kaffee muss man aufpassen. Meinen letzten Kaffee trinke ich spätestens um zwei Uhr nachts, sonst kann ich am Morgen nicht einschlafen." },
+    { "s": "mod", "t": "Sie haben Familie, oder? Wie funktioniert das mit den Schichten?" },
+    { "s": "demir", "t": "Meine Frau ist Lehrerin, und wir haben zwei Kinder, acht und elf Jahre alt. Ehrlich gesagt sind die Nächte gar nicht das größte Problem." },
+    { "s": "demir", "t": "Besonders schlimm finde ich es, wenn mich die Station an einem freien Tag anruft, weil ein Kollege krank ist. Dann fällt ein Ausflug mit der Familie eben aus." },
+    { "s": "mod", "t": "Gibt es auch Vorteile?" },
+    { "s": "demir", "t": "Auf jeden Fall. Nach den Nachtdiensten habe ich unter der Woche frei, dann hole ich die Kinder von der Schule ab und koche für alle." },
+    { "s": "demir", "t": "Das hätte ich mit einem Bürojob nicht. Und mein alter Traum vom Kochen ist so auch ein bisschen wahr geworden." },
+    { "s": "mod", "t": "Hat die Schichtarbeit Ihrer Gesundheit geschadet?" },
+    { "s": "demir", "t": "In den ersten Jahren schon ein bisschen. Ich habe schlecht geschlafen und nachts viel Schokolade gegessen, so habe ich acht Kilo zugenommen." },
+    { "s": "demir", "t": "Dann habe ich etwas geändert. Joggen hat mir nie Spaß gemacht, deshalb gehe ich jetzt zweimal pro Woche schwimmen, und das tut mir richtig gut." },
+    { "s": "mod", "t": "Bekommt man für die Nachtarbeit eigentlich mehr Geld?" },
+    { "s": "demir", "t": "Ja, es gibt einen Zuschlag für jede Stunde in der Nacht. Aber reich wird man davon nicht, das kann ich Ihnen sagen." },
+    { "s": "mod", "t": "Und wie sieht Ihre Zukunft aus? Wollen Sie noch lange in Schichten arbeiten?" },
+    { "s": "demir", "t": "Erst mal ja. Ab Januar mache ich eine Weiterbildung, danach darf ich die Auszubildenden auf unserer Station betreuen. Darauf freue ich mich sehr." },
+    { "s": "demir", "t": "Junge Leute für den Beruf zu begeistern, ist mir wichtig. Wir brauchen nämlich dringend mehr Pflegekräfte." },
+    { "s": "mod", "t": "Herr Demir, vielen Dank, dass Sie heute bei uns waren, und alles Gute für Ihre nächsten Nachtdienste!" },
+    { "s": "demir", "t": "Danke schön! Und an alle, die heute Nacht arbeiten müssen: Halten Sie durch!" }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Herr Demir wollte schon als Kind Krankenpfleger werden.",
+      "answer": false,
+      "explanation": "„Als Junge wollte ich unbedingt Koch werden“ – as a boy he wanted to be a cook; he only discovered nursing during an internship after school.",
+      "explanationDe": "„Als Junge wollte ich unbedingt Koch werden“ – als Kind war Koch sein Traumberuf; die Krankenpflege hat er erst bei einem Praktikum nach der Schule entdeckt.",
+      "evidence": "Als Junge wollte ich unbedingt Koch werden, weil ich so gern gekocht habe."
+    },
+    {
+      "n": 2,
+      "text": "In der Nacht sind nur zwei Pflegekräfte für 30 Patienten da.",
+      "answer": true,
+      "explanation": "„Nachts sind wir nur zu zweit für 30 Patienten da“ – „zu zweit“ means two people.",
+      "explanationDe": "„Nachts sind wir nur zu zweit für 30 Patienten da“ – „zu zweit“ bedeutet: zwei Personen.",
+      "evidence": "Nachts sind wir nur zu zweit für 30 Patienten da"
+    },
+    {
+      "n": 3,
+      "text": "Herr Demir arbeitet am liebsten im Frühdienst oder im Spätdienst.",
+      "answer": false,
+      "explanation": "„Ehrlich gesagt mag ich die Nachtdienste am liebsten“ – he prefers night shifts because they are calmer.",
+      "explanationDe": "„Ehrlich gesagt mag ich die Nachtdienste am liebsten“ – er arbeitet am liebsten nachts, weil es dann ruhiger ist.",
+      "evidence": "Ehrlich gesagt mag ich die Nachtdienste am liebsten."
+    },
+    {
+      "n": 4,
+      "text": "Nach dem letzten Nachtdienst schläft Herr Demir nur bis zum Mittag.",
+      "answer": true,
+      "explanation": "„Nach der letzten Nacht schlafe ich nur bis zum Mittag“ – so that he is tired again in the evening.",
+      "explanationDe": "„Nach der letzten Nacht schlafe ich nur bis zum Mittag“ – damit er abends wieder müde ist.",
+      "evidence": "Nach der letzten Nacht schlafe ich nur bis zum Mittag, damit ich abends wieder müde bin."
+    },
+    {
+      "n": 5,
+      "text": "Im Nachtdienst trinkt Herr Demir überhaupt keinen Kaffee.",
+      "answer": false,
+      "explanation": "He does drink coffee, but carefully: „Meinen letzten Kaffee trinke ich spätestens um zwei Uhr nachts“.",
+      "explanationDe": "Er trinkt durchaus Kaffee, aber vorsichtig: „Meinen letzten Kaffee trinke ich spätestens um zwei Uhr nachts“.",
+      "evidence": "Meinen letzten Kaffee trinke ich spätestens um zwei Uhr nachts"
+    },
+    {
+      "n": 6,
+      "text": "Herr Demir ärgert sich, wenn die Station ihn an freien Tagen anruft.",
+      "answer": true,
+      "explanation": "„Besonders schlimm finde ich es, wenn mich die Station an einem freien Tag anruft“ – for him these calls are worse than the nights.",
+      "explanationDe": "„Besonders schlimm finde ich es, wenn mich die Station an einem freien Tag anruft“ – diese Anrufe findet er schlimmer als die Nächte.",
+      "evidence": "Besonders schlimm finde ich es, wenn mich die Station an einem freien Tag anruft, weil ein Kollege krank ist."
+    },
+    {
+      "n": 7,
+      "text": "An seinen freien Tagen holt Herr Demir die Kinder von der Schule ab.",
+      "answer": true,
+      "explanation": "On free weekdays after his night shifts: „dann hole ich die Kinder von der Schule ab und koche für alle“.",
+      "explanationDe": "Nach den Nachtdiensten hat er unter der Woche frei, und „dann hole ich die Kinder von der Schule ab und koche für alle“.",
+      "evidence": "dann hole ich die Kinder von der Schule ab und koche für alle"
+    },
+    {
+      "n": 8,
+      "text": "In seinen ersten Berufsjahren hat Herr Demir abgenommen.",
+      "answer": false,
+      "explanation": "The opposite: „so habe ich acht Kilo zugenommen“ – he gained weight because he ate a lot of chocolate at night.",
+      "explanationDe": "Im Gegenteil: „so habe ich acht Kilo zugenommen“ – er hat zugenommen, weil er nachts viel Schokolade gegessen hat.",
+      "evidence": "so habe ich acht Kilo zugenommen"
+    },
+    {
+      "n": 9,
+      "text": "Um fit zu bleiben, geht Herr Demir heute regelmäßig joggen.",
+      "answer": false,
+      "explanation": "„Joggen hat mir nie Spaß gemacht“ – instead he goes swimming twice a week.",
+      "explanationDe": "„Joggen hat mir nie Spaß gemacht“ – stattdessen geht er zweimal pro Woche schwimmen.",
+      "evidence": "Joggen hat mir nie Spaß gemacht, deshalb gehe ich jetzt zweimal pro Woche schwimmen"
+    },
+    {
+      "n": 10,
+      "text": "Nach seiner Weiterbildung kann Herr Demir Auszubildende auf seiner Station betreuen.",
+      "answer": true,
+      "explanation": "„Ab Januar mache ich eine Weiterbildung, danach darf ich die Auszubildenden … betreuen“ – he will look after the trainees on his ward.",
+      "explanationDe": "„Ab Januar mache ich eine Weiterbildung, danach darf ich die Auszubildenden … betreuen“ – er wird die Auszubildenden auf seiner Station betreuen.",
+      "evidence": "danach darf ich die Auszubildenden auf unserer Station betreuen"
+    }
+  ],
+  "glossary": [
+    { "de": "die Schichtarbeit", "en": "shift work" },
+    { "de": "der Frühdienst / der Spätdienst / der Nachtdienst", "en": "early / late / night shift" },
+    { "de": "hintereinander", "en": "in a row" },
+    { "de": "der Ohrstöpsel", "en": "earplug" },
+    { "de": "der Wechsel", "en": "change, switch" },
+    { "de": "ausfallen", "en": "to be cancelled" },
+    { "de": "zunehmen", "en": "to put on weight" },
+    { "de": "der Zuschlag", "en": "extra pay, bonus" },
+    { "de": "die Weiterbildung", "en": "further training" },
+    { "de": "betreuen", "en": "to look after, to supervise" },
+    { "de": "die Pflegekraft", "en": "nurse, care worker" }
+  ]
+}

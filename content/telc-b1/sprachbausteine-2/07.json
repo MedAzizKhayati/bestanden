@@ -1,0 +1,107 @@
+{
+  "id": "sprachbausteine-2-07",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Ein Unfall beim Joggen",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Lieber Paul,\n\nleider habe ich keine guten Nachrichten: Unsere Wanderung am Samstag muss ich [[1]]. Am Dienstag bin ich beim Joggen gestürzt und habe mir den Fuß verletzt.\n\nZuerst dachte ich, es ist nicht so schlimm, [[2]] am Abend war der Fuß ganz dick und hat sehr wehgetan. Meine Nachbarin hat mich dann ins Krankenhaus gefahren. Dort musste ich fast drei Stunden [[3]], bis ein Arzt Zeit für mich hatte. Zum [[4]] ist nichts gebrochen. Der Arzt meint aber, ich soll den Fuß [[5]] zwei Wochen nicht belasten.\n\nJetzt liege ich die meiste Zeit auf dem Sofa und langweile mich. Einkaufen kann ich im Moment auch nicht. Könntest du mir vielleicht einen [[6]] tun und mir ein paar Lebensmittel bringen? Das Geld gebe ich dir natürlich sofort zurück.\n\nDie Wanderung können wir ja [[7]], wenn ich wieder gesund bin. Ich [[8]] dir, dass wir dann die lange Tour zum Bergsee machen!\n\nSag mir doch kurz Bescheid, [[9]] du Zeit hast. Ich freue mich schon [[10]] deinen Besuch!\n\nViele Grüße\nTobias",
+  "words": [
+    { "key": "a", "text": "aber" },
+    { "key": "b", "text": "absagen" },
+    { "key": "c", "text": "an" },
+    { "key": "d", "text": "auf" },
+    { "key": "e", "text": "denn" },
+    { "key": "f", "text": "Gefallen" },
+    { "key": "g", "text": "Glück" },
+    { "key": "h", "text": "hoffe" },
+    { "key": "i", "text": "mindestens" },
+    { "key": "j", "text": "nachholen" },
+    { "key": "k", "text": "Pech" },
+    { "key": "l", "text": "seit" },
+    { "key": "m", "text": "verspreche" },
+    { "key": "n", "text": "warten" },
+    { "key": "o", "text": "wenn" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "b",
+      "explanation": "Tobias is injured, so the hike on Saturday cannot take place: „muss ich absagen“ (to cancel). „nachholen“ means doing something later that you missed – that fits gap 7.",
+      "explanationDe": "Tobias ist verletzt, deshalb kann die Wanderung am Samstag nicht stattfinden: „muss ich absagen“ (= sagen, dass etwas nicht stattfindet). „nachholen“ bedeutet, etwas Verpasstes später zu machen – das passt in Lücke 7.",
+      "grammar": "trennbare-verben"
+    },
+    {
+      "n": 2,
+      "answer": "a",
+      "explanation": "His first thought and what happened later are in contrast, and the clause has main-clause word order: „…, aber am Abend war der Fuß ganz dick“. „denn“ (because) makes no sense here.",
+      "explanationDe": "Sein erster Gedanke und das, was später passiert ist, bilden einen Gegensatz, und der Satz hat die Wortstellung eines Hauptsatzes: „…, aber am Abend war der Fuß ganz dick“. „denn“ (nennt einen Grund) ergibt hier keinen Sinn.",
+      "grammar": "konnektoren-hauptsatz"
+    },
+    {
+      "n": 3,
+      "answer": "n",
+      "explanation": "„drei Stunden warten, bis ein Arzt Zeit … hatte“ – he had to wait until a doctor was free.",
+      "explanationDe": "„drei Stunden warten, bis ein Arzt Zeit … hatte“ – er musste warten, bis ein Arzt frei war."
+    },
+    {
+      "n": 4,
+      "answer": "g",
+      "explanation": "„zum Glück“ (luckily) is a fixed expression – nothing broken is good news. „Pech“ (bad luck) cannot be used in this expression.",
+      "explanationDe": "„zum Glück“ (= glücklicherweise) ist eine feste Wendung – dass nichts gebrochen ist, ist eine gute Nachricht. „Pech“ (= Unglück) kann man in dieser Wendung nicht benutzen."
+    },
+    {
+      "n": 5,
+      "answer": "i",
+      "explanation": "„mindestens zwei Wochen“ means „at least two weeks“. „seit“ refers to a time that started in the past and cannot be used for the doctor's instruction about the coming weeks.",
+      "explanationDe": "„mindestens zwei Wochen“ bedeutet: zwei Wochen oder länger. „seit“ bezieht sich auf eine Zeit, die in der Vergangenheit begonnen hat, und passt nicht zur Anweisung des Arztes für die nächsten Wochen."
+    },
+    {
+      "n": 6,
+      "answer": "f",
+      "explanation": "„jemandem einen Gefallen tun“ (to do someone a favour) is a fixed expression; „einen“ also shows that a masculine noun is needed.",
+      "explanationDe": "„jemandem einen Gefallen tun“ (= jemandem freundlich helfen) ist eine feste Wendung; „einen“ zeigt auch, dass ein maskulines Nomen nötig ist.",
+      "grammar": "nomen-verb-verbindungen"
+    },
+    {
+      "n": 7,
+      "answer": "j",
+      "explanation": "„etwas nachholen“ means „to do something later that you missed“: they will do the hike when he is healthy again.",
+      "explanationDe": "„etwas nachholen“ bedeutet: etwas Verpasstes später machen. Sie machen die Wanderung, wenn er wieder gesund ist.",
+      "grammar": "trennbare-verben"
+    },
+    {
+      "n": 8,
+      "answer": "m",
+      "explanation": "„jemandem etwas versprechen“ (to promise someone something) takes the dative „dir“. „hoffen“ cannot have a dative object („Ich hoffe, dass …“ – without „dir“).",
+      "explanationDe": "„jemandem etwas versprechen“ (= jemandem sagen, dass man etwas sicher tun wird) steht mit dem Dativ „dir“. „hoffen“ kann kein Dativobjekt haben („Ich hoffe, dass …“ – ohne „dir“).",
+      "grammar": "verben-mit-dativ"
+    },
+    {
+      "n": 9,
+      "answer": "o",
+      "explanation": "„wenn du Zeit hast“ (when/if you have time) – „wenn“ sends the verb to the end. „denn“ would need main-clause word order and gives no sense.",
+      "explanationDe": "„wenn du Zeit hast“ – nach „wenn“ steht das Verb am Ende. „denn“ bräuchte die Wortstellung eines Hauptsatzes und ergibt keinen Sinn.",
+      "grammar": "nebensaetze-grundlagen"
+    },
+    {
+      "n": 10,
+      "answer": "d",
+      "explanation": "„sich freuen auf“ + accusative is used for something in the future – Paul's visit has not happened yet. „an“ does not fit: „sich an etwas freuen“ takes the dative („an deinem …“) and means „to enjoy something you already have“.",
+      "explanationDe": "„sich freuen auf“ + Akkusativ benutzt man für etwas in der Zukunft – Pauls Besuch hat noch nicht stattgefunden. „an“ passt nicht: „sich an etwas freuen“ steht mit Dativ („an deinem …“) und bedeutet, dass man Freude an etwas hat, das man schon hat.",
+      "grammar": "verben-mit-praepositionen"
+    }
+  ],
+  "glossary": [
+    { "de": "stürzen", "en": "to fall (and hurt yourself)" },
+    { "de": "sich den Fuß verletzen", "en": "to injure your foot" },
+    { "de": "wehtun", "en": "to hurt" },
+    { "de": "zum Glück", "en": "luckily" },
+    { "de": "den Fuß belasten", "en": "to put weight on your foot" },
+    { "de": "jemandem einen Gefallen tun", "en": "to do someone a favour" },
+    { "de": "etwas absagen", "en": "to cancel something" },
+    { "de": "etwas nachholen", "en": "to do something later that you missed" },
+    { "de": "jemandem etwas versprechen", "en": "to promise someone something" }
+  ]
+}

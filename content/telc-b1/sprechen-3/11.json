@@ -1,0 +1,73 @@
+{
+  "id": "sprechen-3-11",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Internationaler Kochabend",
+  "topic": "essen",
+  "difficulty": 2,
+  "situation": "Sie wohnen im selben Haus. Sie möchten zusammen mit einigen Nachbarn einen internationalen Kochabend machen, bei dem Gerichte aus verschiedenen Ländern gekocht werden. Planen Sie gemeinsam den Abend.",
+  "checklist": [
+    "Wann?",
+    "Wo?",
+    "Wer wird eingeladen?",
+    "Welche Gerichte?",
+    "Einkaufen und Kosten?",
+    "Getränke und Geschirr?",
+    "Wer übernimmt was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Linh Hoang", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Emeka Obi", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "P", "t": "Bitte planen Sie jetzt gemeinsam den Kochabend mit Ihren Nachbarn." },
+    { "s": "A", "t": "Herr Obi, ich finde es toll, dass wir einen Kochabend machen. In unserem Haus wohnen Menschen aus so vielen Ländern! Wann sollen wir den Abend machen?" },
+    { "s": "B", "t": "Ich schlage einen Freitag vor, weil die meisten am nächsten Tag nicht früh aufstehen müssen. Vielleicht Freitag in zwei Wochen?" },
+    { "s": "A", "t": "Freitag ist gut. Und wo kochen wir? Meine Küche ist leider sehr klein, da passen höchstens drei Personen hinein." },
+    { "s": "B", "t": "Bei mir ist mehr Platz. Ich habe eine große Wohnküche mit einem langen Tisch. Dort können wir zusammen kochen und dann auch essen." },
+    { "s": "A", "t": "Wunderbar, vielen Dank. Wen laden wir ein? Ich dachte an Familie Seidel aus dem Erdgeschoss und an die beiden Studentinnen aus dem dritten Stock." },
+    { "s": "B", "t": "Gute Idee. Und Herr Brehm aus dem ersten Stock? Er wohnt allein und freut sich bestimmt über Gesellschaft." },
+    { "s": "A", "t": "Ja, unbedingt. Dann sind wir mit uns beiden ungefähr neun Personen. Das ist genug, sonst wird es in der Küche zu eng." },
+    { "s": "B", "t": "Einverstanden. Jetzt zu den Gerichten: Ich koche gern Jollof-Reis, das ist ein typisches Gericht aus Nigeria." },
+    { "s": "A", "t": "Das klingt lecker! Ist das sehr scharf? Ich glaube, die Kinder von Familie Seidel mögen kein scharfes Essen." },
+    { "s": "B", "t": "Normalerweise schon, aber ich kann eine milde Version machen und die scharfe Soße extra auf den Tisch stellen. Dann kann jeder selbst entscheiden." },
+    { "s": "A", "t": "Perfekt. Ich mache vietnamesische Frühlingsrollen als Vorspeise. Die kann man gut zusammen machen, und das macht auch den Kindern Spaß." },
+    { "s": "B", "t": "Sehr schön. Und als Nachtisch? Vielleicht fragen wir Familie Seidel, ob sie einen deutschen Kuchen backen möchte." },
+    { "s": "A", "t": "Gute Idee, ich frage Frau Seidel morgen. Wir sollten auch alle fragen, ob jemand eine Allergie hat oder kein Fleisch isst." },
+    { "s": "B", "t": "Richtig, daran habe ich nicht gedacht. Das können wir in die Einladung schreiben. Ich mache eine Einladung und werfe sie in die Briefkästen." },
+    { "s": "A", "t": "Danke. Und das Einkaufen? Für die Frühlingsrollen brauche ich Reispapier und frische Kräuter aus dem Asialaden." },
+    { "s": "B", "t": "Und ich gehe in den Afroshop am Bahnhof, dort bekomme ich die Gewürze. Die Kosten teilen wir am Ende durch alle Personen, oder?" },
+    { "s": "A", "t": "Ich finde, die Gäste sollten nichts bezahlen müssen. Wie wäre es, wenn jeder Gast einfach Getränke mitbringt?" },
+    { "s": "B", "t": "Das ist eine gute Lösung, dann teilen wir zwei die Kosten für das Essen. Ach ja, ich habe nicht genug Teller und Gläser für neun Personen." },
+    { "s": "A", "t": "Kein Problem, ich bringe meine Teller, Gläser und mein Besteck mit. Und ich habe noch eine Idee: Jeder schreibt sein Rezept auf eine Karte, dann können alle zu Hause nachkochen." },
+    { "s": "B", "t": "Das ist eine schöne Idee! Also, fassen wir zusammen: Der Kochabend ist am Freitag in zwei Wochen um achtzehn Uhr in meiner Wohnung, und wir laden sieben Nachbarn ein." },
+    { "s": "A", "t": "Genau. Ich kaufe im Asialaden ein, mache die Frühlingsrollen und bringe das Geschirr mit. Außerdem frage ich Frau Seidel wegen des Kuchens." },
+    { "s": "B", "t": "Und ich schreibe die Einladung, kaufe im Afroshop ein und koche den Jollof-Reis. Die Getränke bringen die Gäste mit." },
+    { "s": "A", "t": "Ich freue mich schon. Das wird bestimmt ein lustiger Abend!" }
+  ],
+  "phrases": [
+    { "de": "Ich schlage einen Freitag vor, weil …", "en": "I suggest a Friday, because …" },
+    { "de": "Bei mir ist mehr Platz.", "en": "There's more room at my place." },
+    { "de": "Das klingt lecker! Ist das sehr …?", "en": "That sounds delicious! Is it very …?" },
+    { "de": "Dann kann jeder selbst entscheiden.", "en": "Then everyone can decide for themselves." },
+    { "de": "Richtig, daran habe ich nicht gedacht.", "en": "Right, I didn't think of that." },
+    { "de": "Ich finde, … sollten nichts bezahlen müssen.", "en": "I think … shouldn't have to pay anything." },
+    { "de": "Wie wäre es, wenn …?", "en": "How about if …?" },
+    { "de": "Das ist eine gute Lösung.", "en": "That's a good solution." },
+    { "de": "Und ich habe noch eine Idee: …", "en": "And I have another idea: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Wohnküche", "en": "kitchen-diner, open-plan kitchen" },
+    { "de": "die Gesellschaft", "en": "company (other people)" },
+    { "de": "scharf / mild", "en": "spicy / mild" },
+    { "de": "die Vorspeise", "en": "starter" },
+    { "de": "der Nachtisch", "en": "dessert" },
+    { "de": "die Allergie", "en": "allergy" },
+    { "de": "das Reispapier", "en": "rice paper" },
+    { "de": "die Kräuter (Pl.)", "en": "herbs" },
+    { "de": "das Besteck", "en": "cutlery" },
+    { "de": "nachkochen", "en": "to cook a recipe yourself" },
+    { "de": "die Kosten teilen", "en": "to share the costs" }
+  ]
+}

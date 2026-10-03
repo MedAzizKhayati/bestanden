@@ -1,0 +1,232 @@
+{
+  "id": "genitiv",
+  "level": "B1",
+  "category": "nomen",
+  "order": 2,
+  "title": "Der Genitiv",
+  "titleEn": "The genitive",
+  "summary": "The genitive shows possession (das Auto meines Vaters) and follows prepositions like wegen, während and trotz – very common in written and formal German.",
+  "summaryDe": "Der Genitiv zeigt Besitz (das Auto meines Vaters) und steht nach Präpositionen wie wegen, während und trotz – sehr häufig in geschriebenem und formellem Deutsch.",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The genitive answers **wessen?** (whose?): masculine and neuter nouns take **des** + -(e)s (das Auto **des Vaters**), feminine and plural nouns take **der** (die Tasche **der Lehrerin**). The prepositions **wegen, trotz, während, statt, innerhalb** and **außerhalb** also take the genitive.",
+      "mdDe": "Der Genitiv antwortet auf die Frage **wessen?**: Maskuline und neutrale Nomen bekommen **des** + -(e)s (das Auto **des Vaters**), feminine Nomen und Nomen im Plural bekommen **der** (die Tasche **der Lehrerin**). Auch nach den Präpositionen **wegen, trotz, während, statt, innerhalb** und **außerhalb** steht der Genitiv."
+    },
+    {
+      "type": "text",
+      "heading": "Forms",
+      "headingDe": "Formen",
+      "md": "- **Masculine and neuter:** article **des / eines / meines**, and the noun gets **-s** or **-es**: des Vaters, eines Freundes, meines Bruders. **-es** is typical for short nouns (des Mannes, des Tages) and necessary after -s, -ß, -x and -z (des Hauses, des Fußes, des Satzes).\n- **Feminine and plural:** article **der / einer / meiner**, and the noun has no ending: der Stadt, meiner Freundin, der Kinder.\n- **n-Deklination:** -n or -en instead of -s: des Kollegen, des Kunden, des Nachbarn.\n- **Names:** add -s without an apostrophe: Annas Fahrrad, Peters Wohnung. After s, ß, x or z use only an apostrophe: Klaus’ Auto, Max’ Schwester.\n- **Adjectives** after the article always end in **-en**: des neuen Kollegen, der alten Stadt.",
+      "mdDe": "- **Maskulin und neutral:** Artikel **des / eines / meines**, und das Nomen bekommt **-s** oder **-es**: des Vaters, eines Freundes, meines Bruders. **-es** ist typisch für kurze Nomen (des Mannes, des Tages) und nötig nach -s, -ß, -x und -z (des Hauses, des Fußes, des Satzes).\n- **Feminin und Plural:** Artikel **der / einer / meiner**, und das Nomen hat keine Endung: der Stadt, meiner Freundin, der Kinder.\n- **n-Deklination:** -n oder -en statt -s: des Kollegen, des Kunden, des Nachbarn.\n- **Namen:** -s ohne Apostroph: Annas Fahrrad, Peters Wohnung. Nach s, ß, x oder z steht nur ein Apostroph: Klaus’ Auto, Max’ Schwester.\n- **Adjektive** nach dem Artikel enden immer auf **-en**: des neuen Kollegen, der alten Stadt."
+    },
+    {
+      "type": "table",
+      "heading": "Genitive forms",
+      "headingDe": "Genitivformen",
+      "columns": ["Artikel", "maskulin", "feminin", "neutral", "Plural"],
+      "columnsDe": ["Artikel", "maskulin", "feminin", "neutral", "Plural"],
+      "rows": [
+        ["bestimmt", "des Freundes", "der Freundin", "des Kindes", "der Kinder"],
+        ["unbestimmt", "eines Freundes", "einer Freundin", "eines Kindes", "– (von + Dativ: von Kindern)"],
+        ["Possessivartikel", "meines Freundes", "meiner Freundin", "meines Kindes", "meiner Kinder"],
+        ["mit Adjektiv", "des alten Freundes", "der alten Freundin", "des kleinen Kindes", "der kleinen Kinder"]
+      ],
+      "note": "Question word: wessen? – Wessen Jacke ist das? – Das ist die Jacke meiner Schwester.",
+      "noteDe": "Fragewort: wessen? – Wessen Jacke ist das? – Das ist die Jacke meiner Schwester."
+    },
+    {
+      "type": "table",
+      "heading": "Prepositions with the genitive",
+      "headingDe": "Präpositionen mit Genitiv",
+      "columns": ["Präposition", "English", "Beispiel"],
+      "columnsDe": ["Präposition", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["wegen", "because of", "Wegen des Regens bleiben wir zu Hause."],
+        ["trotz", "despite", "Trotz des schlechten Wetters gehen wir spazieren."],
+        ["während", "during", "Während des Unterrichts sind Handys verboten."],
+        ["statt / anstatt", "instead of", "Statt eines Briefes schreibe ich eine E-Mail."],
+        ["innerhalb", "within", "Bitte zahlen Sie innerhalb einer Woche."],
+        ["außerhalb", "outside", "Das Hotel liegt außerhalb der Stadt."],
+        ["aufgrund", "due to", "Aufgrund einer Störung fällt der Zug aus."]
+      ],
+      "rowsDe": [
+        ["wegen", "Grund (wie weil)", "Wegen des Regens bleiben wir zu Hause."],
+        ["trotz", "Gegengrund (wie obwohl)", "Trotz des schlechten Wetters gehen wir spazieren."],
+        ["während", "in der Zeit von", "Während des Unterrichts sind Handys verboten."],
+        ["statt / anstatt", "an Stelle von", "Statt eines Briefes schreibe ich eine E-Mail."],
+        ["innerhalb", "im Zeitraum von, im Bereich von", "Bitte zahlen Sie innerhalb einer Woche."],
+        ["außerhalb", "draußen, nicht im Bereich von", "Das Hotel liegt außerhalb der Stadt."],
+        ["aufgrund", "Grund, formeller als wegen", "Aufgrund einer Störung fällt der Zug aus."]
+      ],
+      "note": "In spoken German you often hear wegen, trotz and während with the dative (wegen dem Regen). In the exam and in written German, use the genitive.",
+      "noteDe": "In der gesprochenen Sprache hörst du wegen, trotz und während oft mit Dativ (wegen dem Regen). In der Prüfung und in geschriebenen Texten nimmst du den Genitiv."
+    },
+    {
+      "type": "text",
+      "heading": "Genitive or von + dative?",
+      "headingDe": "Genitiv oder von + Dativ?",
+      "md": "In everyday speech people often replace the genitive with **von + dative**:\n\n- written: das Auto **meines Vaters** – spoken: das Auto **von meinem Vater**\n- written: die Wohnung **meiner Eltern** – spoken: die Wohnung **von meinen Eltern**\n\nBoth are correct, but in formal letters, articles and announcements the genitive sounds better. **von + dative** is necessary when there is no article: die Preise **von** Lebensmitteln, die Mutter **von** zwei Kindern.\n\n**Word order:** the genitive usually comes **after** the noun it describes: das Ende **des Films**. Only names come before: **Lauras** Mann, **Deutschlands** größte Stadt.",
+      "mdDe": "Im Alltag ersetzen viele Leute den Genitiv durch **von + Dativ**:\n\n- geschrieben: das Auto **meines Vaters** – gesprochen: das Auto **von meinem Vater**\n- geschrieben: die Wohnung **meiner Eltern** – gesprochen: die Wohnung **von meinen Eltern**\n\nBeides ist richtig, aber in formellen Briefen, Artikeln und Durchsagen klingt der Genitiv besser. **von + Dativ** ist nötig, wenn kein Artikel da ist: die Preise **von** Lebensmitteln, die Mutter **von** zwei Kindern.\n\n**Wortstellung:** Der Genitiv steht meistens **nach** dem Nomen, das er beschreibt: das Ende **des Films**. Nur Namen stehen davor: **Lauras** Mann, **Deutschlands** größte Stadt."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Das ist die Wohnung **meiner Eltern**.", "en": "That's my parents' flat." },
+        { "de": "Das Ende **des Films** war ziemlich traurig.", "en": "The end of the film was quite sad." },
+        { "de": "**Wegen des Streiks** fahren heute keine Busse.", "en": "Because of the strike, there are no buses today." },
+        { "de": "**Trotz der Kälte** sind wir an den See gefahren.", "en": "Despite the cold, we drove to the lake." },
+        { "de": "**Während der Ferien** arbeite ich in einem Café.", "en": "During the holidays I work in a café." },
+        { "de": "Bitte schicken Sie uns die Unterlagen **innerhalb einer Woche**.", "en": "Please send us the documents within one week." },
+        { "de": "**Julias** Bruder studiert in Wien.", "en": "Julia's brother is studying in Vienna." },
+        { "de": "Die Meinung **unserer Kunden** ist uns wichtig.", "en": "Our customers' opinion is important to us." },
+        { "de": "Die Zahl **der Teilnehmer** ist begrenzt.", "en": "The number of participants is limited." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Lesen:** newspaper texts and official announcements use the genitive a lot – „aufgrund einer Baustelle“, „während der Öffnungszeiten“, „die Zahl der Besucher“. Recognising it helps you understand who or what is meant.\n- **Sprachbausteine Teil 1:** a typical gap is the article after wegen, trotz or während – „wegen ___ Unfalls“ (des / dem / den). In the exam the genitive is the correct answer.\n- **Sprachbausteine Teil 2:** don't confuse prepositions and connectors – **trotz / wegen** + noun, but **obwohl / weil** + clause.\n- **Schreiben:** a genitive phrase makes your sentences more varied – „Wegen einer Erkältung kann ich leider nicht kommen.“ – „Trotz des schlechten Wetters hatten wir viel Spaß.“",
+      "mdDe": "**In der Prüfung**\n\n- **Lesen:** Zeitungstexte und offizielle Mitteilungen benutzen oft den Genitiv – „aufgrund einer Baustelle“, „während der Öffnungszeiten“, „die Zahl der Besucher“. Wenn du ihn erkennst, verstehst du besser, wer oder was gemeint ist.\n- **Sprachbausteine Teil 1:** Eine typische Lücke ist der Artikel nach wegen, trotz oder während – „wegen ___ Unfalls“ (des / dem / den). In der Prüfung ist der Genitiv die richtige Antwort.\n- **Sprachbausteine Teil 2:** Verwechsle Präpositionen und Konnektoren nicht – **trotz / wegen** + Nomen, aber **obwohl / weil** + Nebensatz.\n- **Schreiben:** Mit einem Ausdruck im Genitiv werden deine Sätze abwechslungsreicher – „Wegen einer Erkältung kann ich leider nicht kommen.“ – „Trotz des schlechten Wetters hatten wir viel Spaß.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:** don't forget the **-s** on masculine and neuter nouns („des Vaters“, not „des Vater“) – and never add it to feminine nouns („der Mutter“, not „der Mutters“). With names, don't put an apostrophe before the s: „Peters Auto“, not „Peter's Auto“.",
+      "mdDe": "**Typische Fallen:** Vergiss das **-s** bei maskulinen und neutralen Nomen nicht („des Vaters“, nicht „des Vater“) – und häng es nie an feminine Nomen („der Mutter“, nicht „der Mutters“). Bei Namen steht kein Apostroph vor dem s: „Peters Auto“, nicht „Peter's Auto“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Das ist das Zimmer meines Bruder.",
+      "right": "Das ist das Zimmer meines Bruders.",
+      "why": "Masculine and neuter nouns get -s or -es in the genitive.",
+      "whyDe": "Maskuline und neutrale Nomen bekommen im Genitiv -s oder -es."
+    },
+    {
+      "wrong": "Wegen dem Regen fällt das Fest aus.",
+      "right": "Wegen des Regens fällt das Fest aus.",
+      "why": "In written and exam German, „wegen“ takes the genitive. „wegen dem“ is colloquial.",
+      "whyDe": "In geschriebenen Texten und in der Prüfung steht nach „wegen“ der Genitiv. „wegen dem“ ist Umgangssprache."
+    },
+    {
+      "wrong": "Trotz es regnet, gehen wir spazieren.",
+      "right": "Obwohl es regnet, gehen wir spazieren.",
+      "why": "„trotz“ is a preposition and needs a noun (trotz des Regens). For a clause you need the connector „obwohl“.",
+      "whyDe": "„trotz“ ist eine Präposition und braucht ein Nomen (trotz des Regens). Für einen Nebensatz brauchst du den Konnektor „obwohl“."
+    },
+    {
+      "wrong": "Während des Woche habe ich wenig Zeit.",
+      "right": "Während der Woche habe ich wenig Zeit.",
+      "why": "„die Woche“ is feminine, so the genitive article is „der“ – and the noun gets no -s.",
+      "whyDe": "„die Woche“ ist feminin, deshalb ist der Artikel im Genitiv „der“ – und das Nomen bekommt kein -s."
+    },
+    {
+      "wrong": "Peter's Wohnung ist sehr groß.",
+      "right": "Peters Wohnung ist sehr groß.",
+      "why": "The genitive -s of names is normally written without an apostrophe.",
+      "whyDe": "Das Genitiv-s bei Namen schreibt man normalerweise ohne Apostroph."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Wegen ___ Baustelle ist die Straße gesperrt.",
+      "options": ["der", "des", "die"],
+      "answer": 0,
+      "explanation": "wegen takes the genitive; „die Baustelle“ is feminine → „der Baustelle“.",
+      "explanationDe": "wegen braucht den Genitiv; „die Baustelle“ ist feminin → „der Baustelle“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das ist das Fahrrad ___ Nachbarn.",
+      "options": ["meines", "meinem", "meinen"],
+      "answer": 0,
+      "explanation": "Whose bike? → genitive masculine „meines“. „Nachbar“ belongs to the n-Deklination, so it ends in -n instead of -s.",
+      "explanationDe": "Wessen Fahrrad? → Genitiv maskulin „meines“. „Nachbar“ gehört zur n-Deklination, deshalb endet es auf -n statt auf -s."
+    },
+    {
+      "type": "mc",
+      "prompt": "Trotz ___ Wetters haben wir draußen gegessen.",
+      "options": ["des schlechten", "dem schlechten", "das schlechte"],
+      "answer": 0,
+      "explanation": "trotz takes the genitive: „des schlechten Wetters“ – article „des“, adjective with -en, noun with -s.",
+      "explanationDe": "trotz braucht den Genitiv: „des schlechten Wetters“ – Artikel „des“, Adjektiv mit -en, Nomen mit -s."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ es stark regnet, machen wir einen Ausflug.",
+      "options": ["Obwohl", "Trotz", "Wegen"],
+      "answer": 0,
+      "explanation": "A clause with the verb at the end („regnet“) follows, so you need the connector „obwohl“. „trotz“ and „wegen“ need a noun.",
+      "explanationDe": "Danach kommt ein Satz mit dem Verb am Ende („regnet“), deshalb brauchst du den Konnektor „obwohl“. „trotz“ und „wegen“ brauchen ein Nomen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Während ___ Fahrt darf man nicht mit dem Busfahrer sprechen.",
+      "answers": ["der"],
+      "hint": "(die)",
+      "explanation": "während takes the genitive; „die Fahrt“ is feminine → „der Fahrt“.",
+      "explanationDe": "während braucht den Genitiv; „die Fahrt“ ist feminin → „der Fahrt“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Preis ___ Hotels war uns zu hoch.",
+      "answers": ["des"],
+      "hint": "(das)",
+      "explanation": "„das Hotel“ is neuter → genitive „des Hotels“ (with -s on the noun).",
+      "explanationDe": "„das Hotel“ ist neutral → Genitiv „des Hotels“ (mit -s am Nomen)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das ist das Büro meines ___.",
+      "answers": ["Chefs"],
+      "hint": "(Chef)",
+      "explanation": "A masculine noun in the genitive gets -s: „meines Chefs“.",
+      "explanationDe": "Ein maskulines Nomen bekommt im Genitiv -s: „meines Chefs“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Mitarbeiter ___ Firma bekommen ein Weihnachtsgeld.",
+      "answers": ["unserer"],
+      "hint": "(unser)",
+      "explanation": "„die Firma“ is feminine → genitive „unserer Firma“.",
+      "explanationDe": "„die Firma“ ist feminin → Genitiv „unserer Firma“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bitte bezahlen Sie die Rechnung innerhalb ___ Woche.",
+      "answers": ["einer"],
+      "hint": "(ein)",
+      "explanation": "innerhalb takes the genitive; „die Woche“ is feminine → „einer Woche“.",
+      "explanationDe": "innerhalb braucht den Genitiv; „die Woche“ ist feminin → „einer Woche“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Use the genitive instead of „von“ + dative.",
+      "instructionDe": "Nimm den Genitiv statt „von“ + Dativ.",
+      "prompt": "Das ist das Auto von meinem Onkel.",
+      "answers": ["Das ist das Auto meines Onkels."],
+      "explanation": "von meinem Onkel → meines Onkels: masculine genitive article „meines“ and -s on the noun.",
+      "explanationDe": "von meinem Onkel → meines Onkels: Genitiv-Artikel maskulin „meines“ und -s am Nomen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the „weil“-clause with „wegen“ + genitive.",
+      "instructionDe": "Ersetze den „weil“-Satz durch „wegen“ + Genitiv.",
+      "prompt": "Wir bleiben zu Hause, weil das Wetter schlecht ist.",
+      "answers": ["Wegen des schlechten Wetters bleiben wir zu Hause.", "Wir bleiben wegen des schlechten Wetters zu Hause."],
+      "explanation": "„das schlechte Wetter“ → genitive „des schlechten Wetters“. If the sentence starts with „Wegen …“, the verb comes next.",
+      "explanationDe": "„das schlechte Wetter“ → Genitiv „des schlechten Wetters“. Wenn der Satz mit „Wegen …“ beginnt, kommt danach direkt das Verb."
+    },
+    {
+      "type": "order",
+      "words": ["ist", "Sommerferien", "die", "geschlossen.", "der", "Bibliothek", "Während"],
+      "answers": ["Während der Sommerferien ist die Bibliothek geschlossen.", "Die Bibliothek ist während der Sommerferien geschlossen."],
+      "explanation": "„während der Sommerferien“ is genitive plural. When it starts the sentence, the verb „ist“ comes in position 2.",
+      "explanationDe": "„während der Sommerferien“ ist Genitiv Plural. Wenn es am Satzanfang steht, kommt das Verb „ist“ auf Position 2."
+    }
+  ],
+  "related": ["kasus-und-artikel", "n-deklination", "praepositionen-mit-kasus", "adjektivdeklination", "konzessive-saetze", "kausale-konsekutive-saetze"]
+}

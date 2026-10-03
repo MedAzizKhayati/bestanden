@@ -1,0 +1,144 @@
+{
+  "id": "sprachbausteine-1-07",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Die Überraschungsparty",
+  "topic": "familie",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Liebe Jana,\n\nschade, dass du am Samstag nicht dabei sein konntest! Ich muss dir unbedingt von der Überraschungsparty zum 30. Hochzeitstag meiner Eltern erzählen.\n\nWir hatten alles heimlich geplant. Meine Schwester hatte Mama und Papa zu einem Spaziergang eingeladen, und in der Zwischenzeit [[1]] der Garten mit Lichterketten und Blumen geschmückt. Als die beiden um sechs Uhr zurückkamen, [[2]] alle: „Überraschung!“ Mein Vater war so überrascht, [[3]] er zuerst gar nichts sagen konnte.\n\nEs kamen [[4]] Freunde als auch Nachbarn und Kollegen. Sogar Onkel Theo und Tante Gerda aus Innsbruck, mit [[5]] wir früher oft Urlaub gemacht haben, waren da. Wir haben bis zwei Uhr nachts gegessen, getanzt und gelacht. Das war bestimmt der schönste Abend [[6]] Jahres!\n\nAm [[7]] hat mir die Rede von Opa gefallen. Er hat erzählt, wie [[8]] meine Eltern vor 30 Jahren auf einem Volksfest kennengelernt haben.\n\nIm Anhang findest du ein paar Fotos, [[9]] Mama wollte unbedingt, dass du sie bekommst. Du [[10]] dich bestimmt auch über die Party gefreut. Hoffentlich bist du bald wieder gesund!\n\nLiebe Grüße\nFelix",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "hat" },
+        { "key": "b", "text": "wurde" },
+        { "key": "c", "text": "wurden" }
+      ],
+      "answer": "b",
+      "explanation": "The garden does not decorate anything – someone decorated it. So you need the Passiv Präteritum: „wurde … geschmückt“. „wurden“ is plural, but „der Garten“ is singular; „hat … geschmückt“ would make the garden the active subject.",
+      "explanationDe": "Der Garten schmückt nichts – jemand hat ihn geschmückt. Du brauchst also das Passiv Präteritum: „wurde … geschmückt“. „wurden“ ist Plural, aber „der Garten“ ist Singular; mit „hat … geschmückt“ wäre der Garten das aktive Subjekt.",
+      "grammar": "passiv"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "rief" },
+        { "key": "b", "text": "rieft" },
+        { "key": "c", "text": "riefen" }
+      ],
+      "answer": "c",
+      "explanation": "The subject „alle“ is plural, so the Präteritum of „rufen“ is „riefen“. „rief“ is singular (ich/er/sie/es), and „rieft“ is the form for ihr.",
+      "explanationDe": "Das Subjekt „alle“ ist Plural, also heißt das Präteritum von „rufen“ hier „riefen“. „rief“ ist Singular (ich/er/sie/es), und „rieft“ ist die Form für ihr.",
+      "grammar": "praeteritum"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "dass" },
+        { "key": "b", "text": "damit" },
+        { "key": "c", "text": "ob" }
+      ],
+      "answer": "a",
+      "explanation": "„so + adjective …, dass …“ expresses a consequence: he was so surprised that he could not say anything. „damit“ expresses a purpose, and „ob“ introduces an indirect question.",
+      "explanationDe": "„so + Adjektiv …, dass …“ drückt eine Folge aus: Der Vater war so überrascht, dass er nichts sagen konnte. „damit“ drückt einen Zweck aus, und „ob“ leitet eine indirekte Frage ein.",
+      "grammar": "kausale-konsekutive-saetze"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "sowohl" },
+        { "key": "b", "text": "weder" },
+        { "key": "c", "text": "entweder" }
+      ],
+      "answer": "a",
+      "explanation": "„sowohl … als auch“ means „both … and“ – look for „als auch“ later in the sentence. „weder“ goes with „noch“, and „entweder“ with „oder“.",
+      "explanationDe": "„sowohl … als auch“ bedeutet: das eine und auch das andere. Achte auf „als auch“ weiter hinten im Satz. „weder“ gehört zu „noch“, und „entweder“ zu „oder“.",
+      "grammar": "zweiteilige-konnektoren"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "die" },
+        { "key": "b", "text": "denen" },
+        { "key": "c", "text": "den" }
+      ],
+      "answer": "b",
+      "explanation": "„mit“ takes the dative, and the relative pronoun refers to two people („Onkel Theo und Tante Gerda“). The dative plural relative pronoun is „denen“. „den“ and „die“ are not dative plural relative pronouns.",
+      "explanationDe": "Nach „mit“ steht der Dativ, und das Relativpronomen bezieht sich auf zwei Personen („Onkel Theo und Tante Gerda“). Das Relativpronomen im Dativ Plural heißt „denen“. „den“ und „die“ sind keine Relativpronomen im Dativ Plural.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "dem" },
+        { "key": "b", "text": "der" },
+        { "key": "c", "text": "des" }
+      ],
+      "answer": "c",
+      "explanation": "„der schönste Abend des Jahres“ – the genitive shows what the evening belongs to. „das Jahr“ is neuter, so the genitive is „des Jahres“ (note the „-es“ ending on the noun).",
+      "explanationDe": "„der schönste Abend des Jahres“ – der Genitiv zeigt, wozu der Abend gehört. „das Jahr“ ist neutral, also heißt der Genitiv „des Jahres“ (achte auf die Endung „-es“ am Nomen).",
+      "grammar": "genitiv"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "gut" },
+        { "key": "b", "text": "besten" },
+        { "key": "c", "text": "besser" }
+      ],
+      "answer": "b",
+      "explanation": "The superlative of „gut“ is irregular: „am besten“. „besser“ is the comparative and cannot follow „am“, and „am gut“ does not exist.",
+      "explanationDe": "Der Superlativ von „gut“ ist unregelmäßig: „am besten“. „besser“ ist der Komparativ und kann nicht nach „am“ stehen, und „am gut“ gibt es nicht.",
+      "grammar": "komparation"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "sich" },
+        { "key": "b", "text": "ihnen" },
+        { "key": "c", "text": "ihr" }
+      ],
+      "answer": "a",
+      "explanation": "„sich kennenlernen“ (to meet each other) is reflexive. For the subject „meine Eltern“ the reflexive pronoun is „sich“. „ihnen“ and „ihr“ are not reflexive pronouns and do not fit „kennenlernen“ here.",
+      "explanationDe": "„sich kennenlernen“ (= sich zum ersten Mal treffen) ist reflexiv. Für das Subjekt „meine Eltern“ heißt das Reflexivpronomen „sich“. „ihnen“ und „ihr“ sind keine Reflexivpronomen und passen hier nicht zu „kennenlernen“.",
+      "grammar": "reflexive-verben"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "weil" },
+        { "key": "b", "text": "damit" },
+        { "key": "c", "text": "denn" }
+      ],
+      "answer": "c",
+      "explanation": "The clause has main-clause word order (subject + verb: „Mama wollte …“), so only „denn“ fits. In written German the verb must go to the end after „weil“ and „damit“ („weil Mama unbedingt wollte, …“).",
+      "explanationDe": "Der Satz hat die Wortstellung eines Hauptsatzes (Subjekt + Verb: „Mama wollte …“). Deshalb passt nur „denn“. Im geschriebenen Deutsch muss das Verb nach „weil“ und „damit“ am Ende stehen („weil Mama unbedingt wollte, …“).",
+      "grammar": "konnektoren-hauptsatz"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "wärst" },
+        { "key": "b", "text": "hättest" },
+        { "key": "c", "text": "würdest" }
+      ],
+      "answer": "b",
+      "explanation": "Konjunktiv II of the past = „hätte/wäre“ + Partizip II. „sich freuen“ forms its perfect tenses with „haben“, so „Du hättest dich … gefreut“. „würdest“ cannot be combined with a participle.",
+      "explanationDe": "Konjunktiv II der Vergangenheit = „hätte/wäre“ + Partizip II. „sich freuen“ bildet die Perfektformen mit „haben“, also: „Du hättest dich … gefreut“. „würdest“ passt nicht zu einem Partizip.",
+      "grammar": "konjunktiv-2"
+    }
+  ],
+  "glossary": [
+    { "de": "dabei sein", "en": "to be there, to take part" },
+    { "de": "der Hochzeitstag", "en": "wedding anniversary" },
+    { "de": "heimlich", "en": "secretly" },
+    { "de": "in der Zwischenzeit", "en": "in the meantime" },
+    { "de": "schmücken", "en": "to decorate" },
+    { "de": "die Lichterkette", "en": "string of fairy lights" },
+    { "de": "die Rede", "en": "speech" },
+    { "de": "das Volksfest", "en": "funfair, local festival" },
+    { "de": "im Anhang", "en": "attached (to an e-mail)" },
+    { "de": "sich kennenlernen", "en": "to meet (each other) for the first time" }
+  ]
+}

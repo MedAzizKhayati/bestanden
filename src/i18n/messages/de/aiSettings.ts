@@ -1,0 +1,73 @@
+import type { Messages } from "../en";
+
+export const aiSettings: Messages["aiSettings"] = {
+  ai: {
+    title: "KI-Feedback",
+    intro: "Die Korrektur beim Schreiben, das Feedback zum Sprechen und der Gesprächspartner funktionieren mit jedem dieser KI-Anbieter.",
+    provider: "Anbieter",
+    server: "KI dieser Website",
+    serverActive: (label) => `Aktiv: ${label}`,
+    serverNone: "Auf diesem Server ist keine KI eingerichtet – wähle unten einen Anbieter und trag deinen eigenen Schlüssel ein.",
+    providers: {
+      anthropic: "Anthropic (Claude)",
+      openai: "OpenAI",
+      google: "Google Gemini",
+      compatible: "OpenAI-kompatibel (OpenRouter, Ollama, LM Studio, Mistral, Groq …)",
+    },
+    key: "API-Schlüssel",
+    keyPlaceholder: "Schlüssel einfügen",
+    keyOptional: "API-Schlüssel (bei lokalen Servern optional)",
+    show: "Anzeigen",
+    hide: "Verbergen",
+    model: "Modell",
+    modelHint: (fallback) =>
+      fallback ? `Leer lassen für ${fallback}. Jede Modell-ID des Anbieters funktioniert.` : "Trag die Modell-ID ein, die dein Server anbietet.",
+    baseUrl: "Serveradresse (Base URL)",
+    baseUrlHint: "Zum Beispiel https://openrouter.ai/api/v1 oder http://localhost:11434/v1",
+    test: "Verbindung testen",
+    testing: "Wird getestet …",
+    testOk: (label) => `Verbunden: ${label}`,
+    testFailed: "Die Verbindung hat nicht geklappt.",
+    privacy:
+      "Dein Schlüssel wird nur in diesem Browser gespeichert. Er wird mit deinen eigenen Anfragen direkt an den Anbieter geschickt – über den Server dieser Website, der ihn nie speichert.",
+    forget: "Alle Schlüssel löschen",
+    forgotten: "Alle Schlüssel wurden aus diesem Browser entfernt.",
+  },
+  voices: {
+    title: "Stimmen für die Hörtexte",
+    engine: "Sprachausgabe",
+    engines: {
+      browser: "Stimmen dieses Geräts",
+      openai: "OpenAI-Stimmen",
+      elevenlabs: "ElevenLabs-Stimmen",
+      google: "Google-Cloud-Stimmen",
+    },
+    engineHints: {
+      browser: "Kostenlos und offline. Die Qualität hängt von Gerät und Browser ab.",
+      openai: "Natürliche Stimmen. Braucht einen OpenAI-API-Schlüssel; ein ganzer Hörtext kostet etwa einen Cent.",
+      elevenlabs: "Die natürlichsten Stimmen. Braucht einen ElevenLabs-API-Schlüssel.",
+      google: "Deutsche Muttersprachler-Stimmen (Chirp 3 HD). Braucht einen Google-Cloud-Schlüssel mit aktivierter Text-to-Speech-API.",
+    },
+    recordings: "Übungen mit echten Aufnahmen oder Studioaufnahmen nutzen immer diese – die Stimmen hier gelten nur, wo es keine Aufnahme gibt.",
+    cached: "Jeder Satz wird nur einmal erzeugt und dann auf diesem Gerät gespeichert. Erneutes Abspielen kostet nichts.",
+    key: (engine) => `API-Schlüssel für ${engine}`,
+    sharedKey: "Es wird derselbe Schlüssel wie für das KI-Feedback verwendet.",
+    female: "Sprecherinnen",
+    male: "Sprecher",
+    auto: "Automatisch (beste verfügbare)",
+    test: "Stimme testen",
+    testFailed: "Diese Stimme ließ sich nicht abspielen. Prüfe den Schlüssel und die Stimme.",
+    customVoice: "Andere Stimmen-ID …",
+    customVoicePlaceholder: "Stimmen-ID",
+    tier: { natural: "natürlich", premium: "Premium", standard: "Standard" },
+    onlyFemale:
+      "Dieses Gerät hat keine gute männliche deutsche Stimme. Sprecher nutzen deshalb eine natürliche Stimme mit tieferer Tonlage. Für verschiedene, natürliche Stimmen wähle oben eine Cloud-Stimme oder installiere eine Premium-Stimme.",
+    installTitle: "Bessere Stimmen auf diesem Gerät (kostenlos)",
+    install: {
+      mac: "macOS: Systemeinstellungen → Bedienungshilfen → Gesprochene Inhalte → Systemstimme → Stimmen verwalten → Deutsch → „Anna (Premium)“ und „Yannick (Premium)“ oder „Markus (erweitert)“ laden, dann diese Seite neu laden.",
+      windows: "Windows: Microsoft Edge hat natürliche Online-Stimmen (Katja, Conrad, Amala, Killian). Öffne diese Website in Edge, um sie zu nutzen.",
+      mobile: "Android: Einstellungen → Google Sprachausgabe → deutsche Sprachdaten installieren. iPhone/iPad: Einstellungen → Bedienungshilfen → Gesprochene Inhalte → Stimmen → Deutsch.",
+    },
+    none: "Auf diesem Gerät gibt es keine deutschen Stimmen. Wähle oben eine Cloud-Stimme oder installiere eine deutsche Stimme und lade die Seite neu.",
+  },
+};

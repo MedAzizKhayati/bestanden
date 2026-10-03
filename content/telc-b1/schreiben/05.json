@@ -1,0 +1,56 @@
+{
+  "id": "schreiben-05",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Ein Wochenende am Bodensee",
+  "topic": "reisen",
+  "difficulty": 1,
+  "register": "informal",
+  "situation": "Sie haben von Ihrer Freundin Mira folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Mira",
+    "subject": "Wochenende im Mai?",
+    "body": "Hallo,\n\nwie geht's dir? Ich brauche dringend mal eine Pause vom Alltag! Hast du Lust, mit mir ein Wochenende an den Bodensee zu fahren? Ich dachte an das lange Wochenende im Mai. Wir könnten mit dem Auto fahren oder den Zug nehmen – was ist dir lieber? Eine Freundin hat mir eine kleine Pension in Konstanz empfohlen, aber auch ein Campingplatz wäre für mich okay. Und was möchtest du dort gern machen? Ich habe gelesen, dass man mit dem Schiff auf die Insel Mainau fahren kann.\n\nSchreib mir bald!\nLiebe Grüße\nMira"
+  },
+  "leitpunkte": [
+    "Was Sie am Bodensee unternehmen möchten",
+    "Ob der Termin für Sie passt",
+    "Wo Sie lieber übernachten möchten",
+    "Wie Sie reisen möchten und warum"
+  ],
+  "model": {
+    "subject": "Bodensee? Ich bin dabei!",
+    "text": "Liebe Mira,\n\ndanke für deine E-Mail! Deine Idee finde ich super, denn ich brauche auch dringend ein paar freie Tage.\n\nDas lange Wochenende im Mai passt mir sehr gut. Am Freitag muss ich zwar bis 14 Uhr arbeiten, aber danach können wir sofort losfahren.\n\nIch würde lieber mit dem Zug fahren. Erstens ist das entspannter, weil niemand stundenlang am Steuer sitzen muss, und zweitens müssen wir in Konstanz keinen Parkplatz suchen. Außerdem gibt es oft günstige Wochenendtickets.\n\nBei der Unterkunft bin ich für die Pension. Zum Campen ist es mir im Mai noch zu kalt, besonders nachts. Wenn du willst, rufe ich morgen dort an und frage, ob noch ein Zimmer für zwei Personen frei ist.\n\nDie Fahrt mit dem Schiff zur Insel Mainau möchte ich auf jeden Fall machen! Am Sonntag könnten wir dann Fahrräder leihen und ein Stück am See entlangfahren.\n\nIch freue mich schon riesig auf unseren Ausflug!\n\nLiebe Grüße\nDein Luca"
+  },
+  "modelNotes": [
+    "A short introduction reacts to Mira's idea and gives a reason („denn ich brauche auch dringend …“).",
+    "Each guiding point gets its own paragraph, ordered like a real plan: date, travel, accommodation, activities.",
+    "Preferences and reasons are clearly structured: „lieber“, „Erstens … zweitens …“, „außerdem“, „Ich bin für …“.",
+    "„zwar … aber“, „weil“, „wenn“, „ob“ and „dann“ link the ideas, and the offer to phone the guesthouse shows initiative."
+  ],
+  "modelNotesDe": [
+    "Eine kurze Einleitung reagiert auf Miras Idee und nennt einen Grund („denn ich brauche auch dringend …“).",
+    "Jeder Leitpunkt bekommt einen eigenen Absatz, geordnet wie bei einer echten Planung: Termin, Reise, Unterkunft, Aktivitäten.",
+    "Vorlieben und Gründe sind klar gegliedert: „lieber“, „Erstens … zweitens …“, „außerdem“, „Ich bin für …“.",
+    "„zwar … aber“, „weil“, „wenn“, „ob“ und „dann“ verbinden die Gedanken, und das Angebot, in der Pension anzurufen, zeigt Eigeninitiative."
+  ],
+  "phrases": [
+    { "de": "Deine Idee finde ich super!", "en": "I think your idea is great!" },
+    { "de": "Das Wochenende passt mir sehr gut.", "en": "The weekend suits me very well." },
+    { "de": "Ich würde lieber mit dem Zug fahren, weil …", "en": "I'd rather go by train because …" },
+    { "de": "Erstens …, zweitens …", "en": "Firstly …, secondly …" },
+    { "de": "Bei der Unterkunft bin ich für …", "en": "As for accommodation, I'm in favour of …" },
+    { "de": "Wenn du willst, rufe ich dort an.", "en": "If you like, I'll give them a call." },
+    { "de": "… möchte ich auf jeden Fall machen.", "en": "I definitely want to do …" },
+    { "de": "Ich freue mich schon riesig auf …", "en": "I'm really looking forward to …" }
+  ],
+  "glossary": [
+    { "de": "die Pension", "en": "guesthouse" },
+    { "de": "der Campingplatz", "en": "campsite" },
+    { "de": "die Unterkunft", "en": "accommodation" },
+    { "de": "am Steuer sitzen", "en": "to be behind the wheel" },
+    { "de": "entspannt", "en": "relaxed" },
+    { "de": "Fahrräder leihen", "en": "to rent bikes" }
+  ]
+}

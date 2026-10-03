@@ -1,0 +1,58 @@
+{
+  "id": "schreiben-16",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Ärger mit einer Bestellung",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "situation": "Sie haben im Internet eine Kaffeemaschine bestellt und danach folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Küchenwelt Direkt – Kundenservice",
+    "subject": "Wie zufrieden sind Sie mit Ihrer Bestellung Nr. 48213?",
+    "body": "Sehr geehrte Frau Kovač,\n\nvor Kurzem haben Sie bei uns die Kaffeemaschine „Barista Plus“ in der Farbe Rot bestellt. Wir hoffen, dass Sie mit Ihrem Einkauf zufrieden sind.\n\nIhre Meinung ist uns wichtig! Bitte schreiben Sie uns, wie Ihnen das Produkt gefällt und wie die Lieferung geklappt hat. Wenn es ein Problem gibt, antworten Sie einfach auf diese E-Mail. Unser Kundenservice meldet sich dann innerhalb von zwei Werktagen bei Ihnen.\n\nMit freundlichen Grüßen\nIhr Team von Küchenwelt Direkt"
+  },
+  "leitpunkte": [
+    "Was Sie jetzt von der Firma erwarten",
+    "Was bei der Lieferung nicht in Ordnung war",
+    "Was Sie bisher unternommen haben",
+    "Was mit dem Gerät nicht stimmt"
+  ],
+  "model": {
+    "subject": "Bestellung Nr. 48213 – Beschwerde über Lieferung und Gerät",
+    "text": "Sehr geehrte Damen und Herren,\n\nvielen Dank für Ihre E-Mail. Leider bin ich mit meiner Bestellung Nr. 48213 überhaupt nicht zufrieden.\n\nZuerst hat die Lieferung viel zu lange gedauert. Auf Ihrer Internetseite stand „Lieferung in zwei bis drei Tagen“, aber das Paket ist erst nach zwölf Tagen angekommen. Außerdem war der Karton an einer Ecke stark beschädigt.\n\nNoch ärgerlicher ist das Gerät selbst: Ich habe eine rote Kaffeemaschine bestellt, bekommen habe ich aber eine schwarze. Zudem fehlt der Milchaufschäumer, obwohl er laut Beschreibung zum Lieferumfang gehört.\n\nIch habe bereits zweimal bei Ihrer Hotline angerufen, aber beide Male musste ich über zwanzig Minuten warten, und danach wurde die Verbindung unterbrochen.\n\nDeshalb erwarte ich, dass Sie mir innerhalb einer Woche eine rote Kaffeemaschine mit vollständigem Zubehör schicken und die falsche Maschine kostenlos abholen lassen. Sollte das nicht möglich sein, möchte ich vom Kauf zurücktreten und mein Geld zurückbekommen.\n\nMit freundlichen Grüßen\nMarta Kovač"
+  },
+  "modelNotes": [
+    "The opening states the purpose at once: dissatisfaction with a specific order (the order number appears in the subject and the text).",
+    "The complaints are organised with „Zuerst …“, „Außerdem …“, „Noch ärgerlicher …“ and „Zudem …“ – an escalating structure that is easy to follow.",
+    "Facts instead of emotions: the quoted delivery promise, twelve days, the wrong colour, the missing part. A complaint is strongest when it is precise.",
+    "The demand is polite but firm, with a deadline and an alternative („Sollte das nicht möglich sein, …“) – typical formal upper-B1 language.",
+    "„Sehr geehrte Damen und Herren“ is the right salutation because no contact person is named."
+  ],
+  "modelNotesDe": [
+    "Der Anfang nennt sofort den Zweck: Unzufriedenheit mit einer bestimmten Bestellung (die Bestellnummer steht im Betreff und im Text).",
+    "Die Beschwerdepunkte sind mit „Zuerst …“, „Außerdem …“, „Noch ärgerlicher …“ und „Zudem …“ geordnet – eine Steigerung, der man leicht folgen kann.",
+    "Fakten statt Gefühle: das zitierte Lieferversprechen, zwölf Tage, die falsche Farbe, das fehlende Teil. Eine Beschwerde wirkt am stärksten, wenn sie genau ist.",
+    "Die Forderung ist höflich, aber bestimmt, mit einer Frist und einer Alternative („Sollte das nicht möglich sein, …“) – typisch für formelle Sprache auf oberem B1-Niveau.",
+    "„Sehr geehrte Damen und Herren“ ist die richtige Anrede, weil keine Ansprechperson genannt ist."
+  ],
+  "phrases": [
+    { "de": "Leider bin ich mit meiner Bestellung überhaupt nicht zufrieden.", "en": "Unfortunately I'm not at all satisfied with my order." },
+    { "de": "Die Lieferung hat viel zu lange gedauert.", "en": "The delivery took far too long." },
+    { "de": "Ich habe … bestellt, bekommen habe ich aber …", "en": "I ordered …, but what I received was …" },
+    { "de": "Außerdem fehlt …, obwohl …", "en": "In addition, … is missing, although …" },
+    { "de": "Ich habe bereits zweimal angerufen, aber …", "en": "I have already called twice, but …" },
+    { "de": "Deshalb erwarte ich, dass Sie …", "en": "I therefore expect you to …" },
+    { "de": "Sollte das nicht möglich sein, möchte ich …", "en": "Should that not be possible, I would like to …" },
+    { "de": "Ich möchte mein Geld zurückbekommen.", "en": "I would like to get my money back." }
+  ],
+  "glossary": [
+    { "de": "der Werktag", "en": "working day" },
+    { "de": "beschädigt", "en": "damaged" },
+    { "de": "der Milchaufschäumer", "en": "milk frother" },
+    { "de": "der Lieferumfang", "en": "items included in the delivery" },
+    { "de": "das Zubehör", "en": "accessories" },
+    { "de": "vom Kauf zurücktreten", "en": "to withdraw from a purchase" }
+  ]
+}

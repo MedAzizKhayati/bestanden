@@ -1,0 +1,81 @@
+{
+  "id": "lesen-1-03",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Medien im Alltag",
+  "topic": "medien",
+  "difficulty": 1,
+  "headlines": [
+    { "key": "a", "text": "Täglich Nachrichten – leicht verständlich" },
+    { "key": "b", "text": "Jugendliche lesen fast nur noch E-Books" },
+    { "key": "c", "text": "Studie: Kinder verbringen immer mehr Zeit am Handy" },
+    { "key": "d", "text": "Tag der offenen Tür im Fernsehstudio" },
+    { "key": "e", "text": "Ältere Menschen helfen Schülern bei den Hausaufgaben" },
+    { "key": "f", "text": "Umfrage: Junge Leute greifen wieder öfter zum Buch" },
+    { "key": "g", "text": "Junge Helfer für ältere Handy-Nutzer" },
+    { "key": "h", "text": "Fernsehsender sucht neue Nachrichtensprecher" },
+    { "key": "i", "text": "Neue App: Gemeinsam weniger am Handy" },
+    { "key": "j", "text": "Radiosender startet Deutschkurs für Anfänger" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Jugendliche lesen wieder mehr gedruckte Bücher. Das ist das Ergebnis einer Umfrage des Dresdner Vereins „Bücherbrücke“ unter 2.000 Jungen und Mädchen zwischen 12 und 17 Jahren. Fast die Hälfte von ihnen liest mindestens einmal pro Woche in einem Buch – vor fünf Jahren war es nur ein Drittel. Viele Jugendliche bekommen ihre Buchtipps aus kurzen Videos im Internet, in denen andere junge Leute ihre Lieblingsbücher vorstellen. Besonders beliebt sind Fantasy-Romane und Liebesgeschichten. E-Books spielen dagegen nur eine kleine Rolle.",
+      "answer": "f",
+      "explanation": "Almost half of the young people now read a book every week – more than five years ago („Jugendliche lesen wieder mehr gedruckte Bücher“), so (f). Headline (b) is wrong: e-books „spielen dagegen nur eine kleine Rolle“.",
+      "explanationDe": "Fast die Hälfte der Jugendlichen liest heute jede Woche ein Buch – mehr als vor fünf Jahren („Jugendliche lesen wieder mehr gedruckte Bücher“), also passt (f). Überschrift (b) ist falsch: E-Books „spielen dagegen nur eine kleine Rolle“.",
+      "evidence": ["Jugendliche lesen wieder mehr gedruckte Bücher", "vor fünf Jahren war es nur ein Drittel"]
+    },
+    {
+      "n": 2,
+      "text": "Der Stuttgarter Lokalsender Radio Sonnenwelle hat ein neues Angebot: Ab Montag gibt es jeden Tag um 17 Uhr einen kurzen Nachrichten-Podcast in einfacher Sprache. In zehn Minuten erfahren die Hörerinnen und Hörer, was in der Stadt und in der Welt passiert ist. Die Sprecher benutzen kurze Sätze und sprechen langsam. Schwierige Wörter werden erklärt. Das Angebot ist vor allem für Menschen gedacht, die gerade Deutsch lernen, aber auch für ältere Menschen und Kinder. Man kann den Podcast kostenlos auf der Internetseite des Senders hören.",
+      "answer": "a",
+      "explanation": "The station offers a daily news podcast „in einfacher Sprache“ – easy-to-understand news, so (a). Headline (j) is a trap: the podcast is meant for people who are learning German, but it is a news programme, not a language course.",
+      "explanationDe": "Der Sender bietet jeden Tag einen Nachrichten-Podcast „in einfacher Sprache“ an – also leicht verständliche Nachrichten, deshalb passt (a). Überschrift (j) ist eine Falle: Der Podcast ist für Menschen gedacht, die Deutsch lernen, aber er ist eine Nachrichtensendung und kein Sprachkurs.",
+      "evidence": ["jeden Tag um 17 Uhr einen kurzen Nachrichten-Podcast in einfacher Sprache"]
+    },
+    {
+      "n": 3,
+      "text": "Viele Eltern ärgern sich, weil ihre Kinder zu viel Zeit am Smartphone verbringen. Die neue App „Familienzeit“ soll helfen. Mit ihr kann die ganze Familie gemeinsam handyfreie Zeiten festlegen, zum Beispiel beim Abendessen oder nach 21 Uhr. In dieser Zeit funktionieren auf den Handys nur noch Anrufe und die Wecker-Funktion. Wer sich an die Regeln hält, sammelt Punkte – auch die Eltern. Für die Punkte kann sich die Familie dann selbst Belohnungen ausdenken, zum Beispiel einen Kinoabend. Die App kostet einmalig 2,99 Euro.",
+      "answer": "i",
+      "explanation": "With the app, the whole family agrees on phone-free times („gemeinsam handyfreie Zeiten festlegen“), so (i). Headline (c) is a trap: the text starts with the problem, but it does not mention any study.",
+      "explanationDe": "Mit der App legt die ganze Familie Zeiten ohne Handy fest („gemeinsam handyfreie Zeiten festlegen“), also passt (i). Überschrift (c) ist eine Falle: Der Text beginnt mit dem Problem, aber er nennt keine Studie.",
+      "evidence": ["kann die ganze Familie gemeinsam handyfreie Zeiten festlegen"]
+    },
+    {
+      "n": 4,
+      "text": "Wie entstehen eigentlich Fernsehnachrichten? Das können Interessierte am kommenden Sonntag beim Regionalsender Ostseekanal in Rostock erfahren. Zwischen 11 und 17 Uhr öffnet der Sender seine Türen für alle. Die Besucher können die Studios besichtigen und mit Reportern und Kameraleuten sprechen. Wer mutig ist, darf sich selbst an den Nachrichtentisch setzen und einen kurzen Text in die Kamera sprechen. Das Video bekommt man anschließend per E-Mail. Führungen beginnen jede halbe Stunde. Der Besuch ist kostenlos.",
+      "answer": "d",
+      "explanation": "On Sunday the TV station „öffnet … seine Türen für alle“ and visitors can look around the studios, so (d). Headline (h) is a trap: visitors may read a short text into the camera for fun, but the station is not looking for new newsreaders.",
+      "explanationDe": "Der Fernsehsender „öffnet … seine Türen für alle“: Am Sonntag können Besucher die Studios besichtigen, also passt (d). Überschrift (h) ist eine Falle: Besucher dürfen zum Spaß einen kurzen Text in die Kamera sprechen, aber der Sender sucht keine neuen Nachrichtensprecher.",
+      "evidence": ["öffnet der Sender seine Türen für alle", "Die Besucher können die Studios besichtigen"]
+    },
+    {
+      "n": 5,
+      "text": "Wie schreibe ich eine Nachricht auf dem Smartphone? Wie mache ich einen Videoanruf mit meinen Enkeln? Bei solchen Fragen helfen in einer Grazer Stadtteilbücherei ab Oktober Schülerinnen und Schüler eines Gymnasiums aus der Nachbarschaft. Jeden Dienstag sitzen sie von 15 bis 17 Uhr im Lesecafé der Bücherei und erklären älteren Menschen geduldig ihre Handys und Tablets. Die Seniorinnen und Senioren bringen dafür ihre eigenen Geräte mit. Das Angebot ist kostenlos. Auch die Jugendlichen haben Spaß daran: „Wir lernen dabei selbst eine Menge“, sagt die 16-jährige Lea.",
+      "answer": "g",
+      "explanation": "School students explain smartphones and tablets to older people („erklären älteren Menschen geduldig ihre Handys und Tablets“), so (g). Headline (e) swaps the roles – and the text is not about homework.",
+      "explanationDe": "Schülerinnen und Schüler „erklären älteren Menschen geduldig ihre Handys und Tablets“, also passt (g). Überschrift (e) vertauscht die Rollen – und um Hausaufgaben geht es im Text auch nicht.",
+      "evidence": ["erklären älteren Menschen geduldig ihre Handys und Tablets"]
+    }
+  ],
+  "distractors": [
+    { "key": "b", "why": "Text 1 says that young people read more printed books; e-books only play a small role („nur eine kleine Rolle“).", "whyDe": "Laut Text 1 lesen Jugendliche mehr gedruckte Bücher; E-Books spielen „nur eine kleine Rolle“." },
+    { "key": "c", "why": "Text 3 presents an app for families. It says that parents are annoyed about their children's phone use, but there is no study about more and more time on the phone.", "whyDe": "Text 3 stellt eine App für Familien vor. Dort steht, dass sich Eltern über die Handynutzung ihrer Kinder ärgern, aber es gibt keine Studie darüber, dass Kinder immer mehr Zeit am Handy verbringen." },
+    { "key": "e", "why": "In text 5 it is the other way round: young people help older people – with smartphones and tablets, not with homework.", "whyDe": "In Text 5 ist es umgekehrt: Junge Leute helfen älteren Menschen – bei Smartphones und Tablets, nicht bei Hausaufgaben." },
+    { "key": "h", "why": "In text 4 visitors can try reading a text in front of the camera on the open day, but the station is not looking for new staff.", "whyDe": "In Text 4 können Besucher am Tag der offenen Tür ausprobieren, einen Text in die Kamera zu sprechen, aber der Sender sucht keine neuen Mitarbeiter." },
+    { "key": "j", "why": "Text 2 is about a news podcast in simple language for learners of German and others. It is not a German course.", "whyDe": "In Text 2 geht es um einen Nachrichten-Podcast in einfacher Sprache für Deutschlernende und andere Menschen. Es ist kein Deutschkurs." }
+  ],
+  "glossary": [
+    { "de": "gedruckt", "en": "printed" },
+    { "de": "die Hälfte", "en": "half" },
+    { "de": "das Drittel", "en": "third" },
+    { "de": "in einfacher Sprache", "en": "in plain, easy language" },
+    { "de": "festlegen", "en": "to fix, to agree on" },
+    { "de": "die Belohnung", "en": "reward" },
+    { "de": "besichtigen", "en": "to look around, to visit" },
+    { "de": "geduldig", "en": "patient(ly)" },
+    { "de": "das Gerät", "en": "device" },
+    { "de": "zum Buch greifen", "en": "to pick up a book" }
+  ]
+}

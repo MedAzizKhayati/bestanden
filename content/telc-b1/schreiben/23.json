@@ -1,0 +1,58 @@
+{
+  "id": "schreiben-23",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Ein Smartphone für Paula?",
+  "topic": "medien",
+  "difficulty": 3,
+  "register": "informal",
+  "situation": "Sie haben von Ihrem Freund Moritz folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Moritz",
+    "subject": "Brauche deine Meinung",
+    "body": "Hallo,\n\nich brauche mal deinen Rat. Paula wird im März elf und wünscht sich zum Geburtstag unbedingt ein Smartphone. Sie sagt, alle in ihrer Klasse haben schon eins, und ohne Handy gehört sie nicht mehr dazu. Svenja findet, dass Paula noch zu jung ist. Ich bin mir nicht sicher: Einerseits mache ich mir Sorgen, dass sie zu viel Zeit vor dem Bildschirm verbringt. Andererseits wäre es praktisch, wenn wir sie unterwegs erreichen könnten.\n\nWie war das bei deinem Sohn? Und was würdest du an unserer Stelle machen?\n\nViele Grüße\nMoritz"
+  },
+  "leitpunkte": [
+    "Welche Regeln Sie vorschlagen",
+    "Welche Erfahrungen Sie mit Ihrem Sohn gemacht haben",
+    "Was Sie an seiner Stelle tun würden",
+    "Was Sie über die Vor- und Nachteile denken"
+  ],
+  "model": {
+    "subject": "Smartphone für Paula – meine Erfahrungen",
+    "text": "Lieber Moritz,\n\ndanke für dein Vertrauen! Ich verstehe gut, dass ihr euch nicht einig seid, denn die Frage ist wirklich nicht leicht. Einerseits ist ein Smartphone praktisch und wichtig für den Kontakt mit Freunden. Andererseits kann man schnell süchtig danach werden.\n\nBei Can war es ähnlich. Er hat sein erstes Handy mit zwölf bekommen, und in den ersten Monaten hat er fast nur noch gespielt. Seine Noten wurden schlechter, und er hat kaum noch gelesen. Erst als wir feste Regeln eingeführt haben, wurde es besser.\n\nAn eurer Stelle würde ich Paula das Smartphone schenken, aber nur unter bestimmten Bedingungen. Wenn sie als Einzige keins hat, fühlt sie sich vielleicht wirklich ausgeschlossen.\n\nWichtig sind klare Regeln von Anfang an: höchstens eine Stunde pro Tag, kein Handy beim Essen und nachts kein Handy im Kinderzimmer. Außerdem solltet ihr eine Kinderschutz-App installieren, damit Paula nur passende Apps herunterladen kann. Am besten schreibt ihr die Regeln zusammen mit ihr auf, dann akzeptiert sie sie leichter.\n\nIch hoffe, meine Tipps helfen euch ein bisschen. Grüß Svenja und Paula von mir!\n\nLiebe Grüße\nDeine Leyla"
+  },
+  "modelNotes": [
+    "The introduction shows understanding and weighs both sides with „Einerseits … Andererseits …“ – a classic structure for giving an opinion.",
+    "Personal experience (her son Can) is told in the past and leads logically to the advice: „Erst als wir feste Regeln eingeführt haben, wurde es besser.“",
+    "The recommendation uses Konjunktiv II („An eurer Stelle würde ich …“) and is qualified („aber nur unter bestimmten Bedingungen“) – a nuanced opinion, typical for upper B1.",
+    "The rules are concrete and explained with „damit …“ and „dann …“; the e-mail ends with a friendly closing and greetings to the family.",
+    "What makes the task demanding: Moritz asks for an opinion on a question with no simple answer, so arguments and experience have to be combined."
+  ],
+  "modelNotesDe": [
+    "Die Einleitung zeigt Verständnis und wägt mit „Einerseits … Andererseits …“ beide Seiten ab – eine klassische Struktur, um eine Meinung zu äußern.",
+    "Die eigene Erfahrung (ihr Sohn Can) wird in der Vergangenheit erzählt und führt logisch zum Rat: „Erst als wir feste Regeln eingeführt haben, wurde es besser.“",
+    "Die Empfehlung steht im Konjunktiv II („An eurer Stelle würde ich …“) und wird eingeschränkt („aber nur unter bestimmten Bedingungen“) – eine differenzierte Meinung, typisch für das obere B1-Niveau.",
+    "Die Regeln sind konkret und werden mit „damit …“ und „dann …“ erklärt; die E-Mail endet mit einem freundlichen Schluss und Grüßen an die Familie.",
+    "Das Schwierige an der Aufgabe: Moritz fragt nach einer Meinung zu einer Frage ohne einfache Antwort. Deshalb musst du Argumente und Erfahrungen verbinden."
+  ],
+  "phrases": [
+    { "de": "Ich verstehe gut, dass …", "en": "I understand very well that …" },
+    { "de": "Einerseits …, andererseits …", "en": "On the one hand …, on the other hand …" },
+    { "de": "Bei … war es ähnlich.", "en": "It was similar with …" },
+    { "de": "Erst als …, wurde es besser.", "en": "Only when … did things get better." },
+    { "de": "An eurer Stelle würde ich …", "en": "If I were you, I would …" },
+    { "de": "…, aber nur unter bestimmten Bedingungen.", "en": "…, but only under certain conditions." },
+    { "de": "Wichtig sind klare Regeln von Anfang an.", "en": "Clear rules from the start are important." },
+    { "de": "Ich hoffe, meine Tipps helfen euch.", "en": "I hope my tips help you." }
+  ],
+  "glossary": [
+    { "de": "dazugehören", "en": "to belong, to fit in" },
+    { "de": "der Bildschirm", "en": "screen" },
+    { "de": "sich einig sein", "en": "to agree" },
+    { "de": "süchtig (nach + Dativ)", "en": "addicted (to)" },
+    { "de": "ausgeschlossen", "en": "excluded, left out" },
+    { "de": "die Bedingung", "en": "condition" }
+  ]
+}

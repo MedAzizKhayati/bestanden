@@ -1,0 +1,145 @@
+{
+  "id": "sprachbausteine-1-08",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Frage an den Kursleiter",
+  "topic": "technik",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "text": "Sehr geehrter Herr Albrecht,\n\nich besuche seit September Ihren Kurs „Computer für Einsteiger“ an der Volkshochschule. Letzten Dienstag [[1]] ich leider nicht kommen, weil mein Sohn hohes Fieber hatte.\n\nEin [[2]] von mir, der auch in Ihrem Kurs ist, hat mir erzählt, dass an diesem Abend [[3]] wurde, wie man Fotos vom Handy auf den Computer überträgt. Könnten Sie mir vielleicht die Arbeitsblätter [[4]] letzten Stunde schicken? Ich möchte das Thema gern zu Hause wiederholen, [[5]] nächste Woche gut mitarbeiten zu können.\n\nAußerdem habe ich ein Problem mit meinem Laptop: Seit ich das neue Schreibprogramm installiert habe, startet [[6]] sehr langsam. Wissen Sie, [[7]] das liegen kann? [[8]] es möglich, dass ich den Laptop nächste Woche mitbringe und Sie ihn sich nach dem Unterricht kurz ansehen?\n\nMein Mann interessiert sich übrigens auch für einen [[9]] Kurs. Gibt es im Frühjahr wieder einen Anfängerkurs, an [[10]] er teilnehmen kann?\n\nVielen Dank im Voraus!\n\nMit freundlichen Grüßen\nEwa Nowak",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "kann" },
+        { "key": "b", "text": "konnte" },
+        { "key": "c", "text": "könnte" }
+      ],
+      "answer": "b",
+      "explanation": "„Letzten Dienstag“ refers to the past, so you need the Präteritum of „können“: „konnte“. „kann“ is present tense, and „könnte“ (Konjunktiv II) describes something hypothetical, not a past fact.",
+      "explanationDe": "„Letzten Dienstag“ bezieht sich auf die Vergangenheit. Du brauchst also das Präteritum von „können“: „konnte“. „kann“ ist Präsens, und „könnte“ (Konjunktiv II) beschreibt etwas Hypothetisches, keine Tatsache aus der Vergangenheit.",
+      "grammar": "modalverben"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "Kollege" },
+        { "key": "b", "text": "Kollegen" },
+        { "key": "c", "text": "Kollegens" }
+      ],
+      "answer": "a",
+      "explanation": "„Ein … von mir“ is the subject of the sentence (nominative singular). n-nouns like „der Kollege“ have no „-n“ only in the nominative singular: „ein Kollege“. „Kollegen“ would be accusative, dative, genitive or plural.",
+      "explanationDe": "„Ein … von mir“ ist das Subjekt des Satzes (Nominativ Singular). n-Nomen wie „der Kollege“ haben nur im Nominativ Singular kein „-n“: „ein Kollege“. „Kollegen“ wäre Akkusativ, Dativ, Genitiv oder Plural.",
+      "grammar": "n-deklination"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "erklären" },
+        { "key": "b", "text": "erklärte" },
+        { "key": "c", "text": "erklärt" }
+      ],
+      "answer": "c",
+      "explanation": "Passiv = „werden“ + Partizip II. The participle of „erklären“ is „erklärt“ (no „ge-“ because of the prefix „er-“): „dass … erklärt wurde“. The infinitive and the Präteritum form cannot be combined with „wurde“.",
+      "explanationDe": "Passiv = „werden“ + Partizip II. Das Partizip II von „erklären“ heißt „erklärt“ (ohne „ge-“ wegen des Präfixes „er-“): „dass … erklärt wurde“. Der Infinitiv und die Präteritumform passen nicht zu „wurde“.",
+      "grammar": "passiv"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "der" },
+        { "key": "b", "text": "die" },
+        { "key": "c", "text": "den" }
+      ],
+      "answer": "a",
+      "explanation": "„die Arbeitsblätter der letzten Stunde“ – the genitive tells you which lesson the worksheets belong to. „die Stunde“ is feminine, so the genitive article is „der“.",
+      "explanationDe": "„die Arbeitsblätter der letzten Stunde“ – der Genitiv sagt dir, zu welcher Unterrichtsstunde die Arbeitsblätter gehören. „die Stunde“ ist feminin, also heißt der Artikel im Genitiv „der“.",
+      "grammar": "genitiv"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "damit" },
+        { "key": "b", "text": "um" },
+        { "key": "c", "text": "weil" }
+      ],
+      "answer": "b",
+      "explanation": "The clause ends with „zu können“ and has no subject of its own, so it must be „um … zu“. „damit“ and „weil“ would need a subject and a conjugated verb („damit ich … mitarbeiten kann“).",
+      "explanationDe": "Der Satzteil endet mit „zu können“ und hat kein eigenes Subjekt, also muss es „um … zu“ sein. „damit“ und „weil“ bräuchten ein Subjekt und ein konjugiertes Verb („damit ich … mitarbeiten kann“).",
+      "grammar": "finale-saetze"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "ihn" },
+        { "key": "b", "text": "ihm" },
+        { "key": "c", "text": "er" }
+      ],
+      "answer": "c",
+      "explanation": "The pronoun replaces „der Laptop“ and is the subject of „startet“, so it must be nominative: „er“. „ihn“ is accusative and „ihm“ dative – the sentence would have no subject.",
+      "explanationDe": "Das Pronomen ersetzt „der Laptop“ und ist das Subjekt von „startet“. Es muss also im Nominativ stehen: „er“. „ihn“ ist Akkusativ und „ihm“ Dativ – dann hätte der Satz kein Subjekt.",
+      "grammar": "pronomen"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "woran" },
+        { "key": "b", "text": "worauf" },
+        { "key": "c", "text": "wovon" }
+      ],
+      "answer": "a",
+      "explanation": "„an etwas liegen“ means „to be caused by something“ („Das liegt an dem Programm“). The question word is „wo(r)-“ + the preposition: „woran“.",
+      "explanationDe": "„an etwas liegen“ bedeutet: Etwas ist der Grund oder die Ursache („Das liegt an dem Programm“). Das Fragewort bildet man mit „wo(r)-“ + Präposition: „woran“.",
+      "grammar": "verben-mit-praepositionen"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "Würde" },
+        { "key": "b", "text": "Hätte" },
+        { "key": "c", "text": "Wäre" }
+      ],
+      "answer": "c",
+      "explanation": "„Wäre es möglich, dass …?“ is a polite question with the Konjunktiv II of „sein“ („es ist möglich“). „Würde“ would need an infinitive, and „möglich“ does not combine with „haben“.",
+      "explanationDe": "„Wäre es möglich, dass …?“ ist eine höfliche Frage mit dem Konjunktiv II von „sein“ („es ist möglich“). „Würde“ bräuchte einen Infinitiv, und „möglich“ passt nicht zu „haben“.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "ähnlicher" },
+        { "key": "b", "text": "ähnlichen" },
+        { "key": "c", "text": "ähnliches" }
+      ],
+      "answer": "b",
+      "explanation": "„für“ takes the accusative, and „der Kurs“ is masculine. After „einen“ the adjective ends in „-en“: „für einen ähnlichen Kurs“.",
+      "explanationDe": "Nach „für“ steht der Akkusativ, und „der Kurs“ ist maskulin. Nach „einen“ hat das Adjektiv die Endung „-en“: „für einen ähnlichen Kurs“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "dem" },
+        { "key": "b", "text": "den" },
+        { "key": "c", "text": "der" }
+      ],
+      "answer": "a",
+      "explanation": "„teilnehmen an“ is followed by the dative. The relative pronoun refers to „der Anfängerkurs“ (masculine), so „an dem“. „den“ is accusative, and „der“ would be feminine.",
+      "explanationDe": "Nach „teilnehmen an“ steht der Dativ. Das Relativpronomen bezieht sich auf „der Anfängerkurs“ (maskulin), also „an dem“. „den“ ist Akkusativ, und „der“ wäre feminin.",
+      "grammar": "relativsaetze"
+    }
+  ],
+  "glossary": [
+    { "de": "der Einsteiger", "en": "beginner" },
+    { "de": "hohes Fieber", "en": "high temperature, fever" },
+    { "de": "übertragen", "en": "to transfer" },
+    { "de": "das Arbeitsblatt", "en": "worksheet" },
+    { "de": "wiederholen", "en": "to revise, to go over again" },
+    { "de": "mitarbeiten", "en": "to take an active part (in class)" },
+    { "de": "das Schreibprogramm", "en": "word processor" },
+    { "de": "an etwas liegen", "en": "to be caused by something" },
+    { "de": "sich etwas ansehen", "en": "to have a look at something" },
+    { "de": "teilnehmen an", "en": "to take part in" },
+    { "de": "das Frühjahr", "en": "spring" }
+  ]
+}

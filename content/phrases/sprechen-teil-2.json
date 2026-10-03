@@ -1,0 +1,147 @@
+{
+  "id": "sprechen-teil-2",
+  "order": 4,
+  "context": "sprechen-2",
+  "title": "Über ein Thema sprechen",
+  "titleEn": "Discussing a topic",
+  "description": "Report the opinion on your sheet, give and justify your own view, agree and disagree politely, and bring in your own experiences and your home country. The phrases use „du“ – switch to „Sie“ if that is what you agreed with your partner (the notes show the Sie-form where it changes).",
+  "descriptionDe": "Berichte über die Meinung auf deinem Blatt, sag deine eigene Meinung und begründe sie, stimm höflich zu oder widersprich, und bring deine eigenen Erfahrungen und dein Heimatland ein. Die Redemittel verwenden „du“ – wechsle zu „Sie“, wenn du das mit deinem Gegenüber so vereinbart hast (die Hinweise zeigen die Sie-Form, wo sie anders ist).",
+  "groups": [
+    {
+      "title": "Über die Meinung auf dem Blatt berichten",
+      "titleEn": "Reporting the opinion on your sheet",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Auf meinem Blatt geht es um das Thema „Homeoffice“.", "en": "My sheet is about working from home.", "note": "Start by naming the topic.", "noteDe": "Nenne zuerst das Thema." },
+        { "de": "Das ist Herr Becker. Er ist 52 Jahre alt und arbeitet als Busfahrer.", "en": "This is Mr Becker. He's 52 and works as a bus driver.", "note": "Then introduce the person: name, age, job.", "noteDe": "Stell dann die Person vor: Name, Alter, Beruf." },
+        { "de": "Er ist der Meinung, dass Kinder kein eigenes Smartphone brauchen.", "en": "He is of the opinion that children don't need their own smartphone.", "note": "+ dass-clause, verb at the end", "noteDe": "+ dass-Satz, Verb am Ende" },
+        { "de": "Sie meint, dass man auf dem Land ruhiger und gesünder lebt.", "en": "She thinks that people live a quieter and healthier life in the countryside." },
+        { "de": "Seiner Meinung nach ist Online-Shopping bequem, aber schlecht für die Umwelt.", "en": "In his opinion, online shopping is convenient but bad for the environment.", "note": "For a woman: „Ihrer Meinung nach …“ – verb directly after „nach“", "noteDe": "Bei einer Frau: „Ihrer Meinung nach …“ – Verb direkt nach „nach“" },
+        { "de": "Für sie ist es wichtig, dass man im Urlaub flexibel ist.", "en": "For her, it's important to be flexible on holiday." },
+        { "de": "Er findet, dass die Stadt mehr Geld für Busse und Bahnen ausgeben sollte.", "en": "He thinks the city should spend more money on buses and trains." },
+        { "de": "Als Grund nennt sie, dass sie im Büro mehr Kontakt zu Kollegen hat.", "en": "As a reason, she says that she has more contact with colleagues in the office." },
+        { "de": "Außerdem erzählt er, dass er selbst schlechte Erfahrungen gemacht hat.", "en": "He also says that he has had bad experiences himself." },
+        { "de": "Kurz gesagt: Sie ist für mehr Homeoffice.", "en": "In short, she's in favour of more working from home.", "note": "für / gegen + accusative", "noteDe": "für / gegen + Akkusativ" }
+      ]
+    },
+    {
+      "title": "Die eigene Meinung sagen",
+      "titleEn": "Giving your own opinion",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich bin der Meinung, dass …", "en": "I'm of the opinion that …", "note": "+ verb at the end", "noteDe": "+ Verb am Ende" },
+        { "de": "Meiner Meinung nach hat Frau Lang recht.", "en": "In my opinion, Ms Lang is right.", "note": "Verb directly after „Meiner Meinung nach“", "noteDe": "Verb direkt nach „Meiner Meinung nach“" },
+        { "de": "Ich finde, dass Kinder früh lernen sollten, mit Geld umzugehen.", "en": "I think children should learn early how to handle money." },
+        { "de": "Ich persönlich sehe das so: …", "en": "Personally, I see it like this: …", "note": "Makes it clear that you are now giving your own view, not the one on the sheet.", "noteDe": "Damit zeigst du klar, dass jetzt deine eigene Meinung kommt – nicht die vom Blatt." },
+        { "de": "Für mich ist das Wichtigste, dass …", "en": "For me, the most important thing is that …" },
+        { "de": "Ich bin eher dagegen, weil …", "en": "I'm rather against it because …", "note": "dafür / dagegen sein = to be for / against it", "noteDe": "dafür / dagegen sein = eine Sache unterstützen / ablehnen" },
+        { "de": "Ich bin auf jeden Fall dafür, denn …", "en": "I'm definitely in favour, because …", "note": "denn + normal word order (verb in second position)", "noteDe": "denn + normale Wortstellung (Verb auf Position 2)" },
+        { "de": "Das kommt darauf an, wie alt die Kinder sind.", "en": "That depends on how old the children are." },
+        { "de": "Ich bin mir nicht ganz sicher, aber ich glaube, dass …", "en": "I'm not quite sure, but I think that …" }
+      ]
+    },
+    {
+      "title": "Zustimmen",
+      "titleEn": "Agreeing",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Da hast du völlig recht.", "en": "You're absolutely right there.", "note": "Sie-form: „Da haben Sie völlig recht.“", "noteDe": "Sie-Form: „Da haben Sie völlig recht.“" },
+        { "de": "Das sehe ich genauso.", "en": "I see it exactly the same way." },
+        { "de": "Da bin ich ganz deiner Meinung.", "en": "I completely agree with you there.", "note": "Sie-form: „… ganz Ihrer Meinung.“", "noteDe": "Sie-Form: „… ganz Ihrer Meinung.“" },
+        { "de": "Genau, das finde ich auch.", "en": "Exactly, I think so too." },
+        { "de": "Das stimmt, und außerdem …", "en": "That's true, and what's more …", "note": "Add an argument of your own – that shows range.", "noteDe": "Ergänze ein eigenes Argument – so zeigst du, was du sprachlich kannst." },
+        { "de": "Ich stimme dir zu, weil …", "en": "I agree with you because …", "note": "zustimmen + dative (dir / Ihnen)", "noteDe": "zustimmen + Dativ (dir / Ihnen)" },
+        { "de": "Das ist ein gutes Argument.", "en": "That's a good point." },
+        { "de": "Ja, das ist auch meine Erfahrung.", "en": "Yes, that's my experience too." }
+      ]
+    },
+    {
+      "title": "Widersprechen",
+      "titleEn": "Disagreeing politely",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Da bin ich anderer Meinung.", "en": "I see that differently." },
+        { "de": "Das sehe ich ein bisschen anders.", "en": "I see that a bit differently." },
+        { "de": "Ich verstehe dein Argument, aber …", "en": "I understand your point, but …", "note": "Sie-form: „Ich verstehe Ihr Argument, aber …“", "noteDe": "Sie-Form: „Ich verstehe Ihr Argument, aber …“" },
+        { "de": "Das stimmt schon, aber man darf nicht vergessen, dass …", "en": "That's true, but we mustn't forget that …" },
+        { "de": "Da muss ich dir leider widersprechen.", "en": "I'm afraid I have to disagree with you there.", "note": "widersprechen + dative", "noteDe": "widersprechen + Dativ" },
+        { "de": "Ich bin nicht so sicher, ob das wirklich stimmt.", "en": "I'm not so sure that's really true." },
+        { "de": "Ich glaube nicht, dass das für alle gilt.", "en": "I don't think that applies to everyone." },
+        { "de": "Das ist ein interessanter Punkt, aber meiner Erfahrung nach ist es oft anders.", "en": "That's an interesting point, but in my experience it's often different.", "note": "Not „in meiner Erfahrung“ – in German it's „meiner Erfahrung nach“.", "noteDe": "Nicht „in meiner Erfahrung“ – auf Deutsch sagt man „meiner Erfahrung nach“." }
+      ]
+    },
+    {
+      "title": "Vor- und Nachteile abwägen",
+      "titleEn": "Weighing up pros and cons",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Einerseits ist das praktisch, andererseits kostet es viel Geld.", "en": "On the one hand it's practical, on the other hand it costs a lot of money.", "note": "Verb directly after „einerseits“ and „andererseits“", "noteDe": "Verb direkt nach „einerseits“ und „andererseits“" },
+        { "de": "Ein großer Vorteil ist, dass man viel Zeit spart.", "en": "One big advantage is that you save a lot of time." },
+        { "de": "Ein Nachteil ist aber, dass man weniger Kontakt zu anderen Menschen hat.", "en": "One disadvantage, though, is that you have less contact with other people." },
+        { "de": "Das hat Vor- und Nachteile.", "en": "That has advantages and disadvantages." },
+        { "de": "Es ist zwar bequem, aber nicht immer gesund.", "en": "It may be convenient, but it isn't always healthy.", "note": "zwar … aber = admittedly …, but", "noteDe": "zwar … aber = es stimmt schon, aber …" },
+        { "de": "Auf der einen Seite …, auf der anderen Seite …", "en": "On the one hand …, on the other hand …" },
+        { "de": "Ich kann beide Meinungen gut verstehen.", "en": "I can understand both opinions well." },
+        { "de": "Es kommt immer auf die Situation an.", "en": "It always depends on the situation.", "note": "ankommen auf + accusative (separable verb)", "noteDe": "ankommen auf + Akkusativ (trennbares Verb)" }
+      ]
+    },
+    {
+      "title": "Von eigenen Erfahrungen erzählen",
+      "titleEn": "Talking about your own experiences",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich habe damit gute Erfahrungen gemacht.", "en": "I've had good experiences with it.", "note": "Erfahrungen machen mit + dative", "noteDe": "Erfahrungen machen mit + Dativ" },
+        { "de": "Als ich nach Deutschland gekommen bin, hatte ich auch kein Auto.", "en": "When I came to Germany, I didn't have a car either.", "note": "als = when (a single time in the past), verb at the end", "noteDe": "als = Zeit (ein einmaliges Ereignis in der Vergangenheit), Verb am Ende" },
+        { "de": "Ich kann aus eigener Erfahrung sagen, dass …", "en": "I can say from my own experience that …" },
+        { "de": "Bei mir war das ganz anders.", "en": "For me it was completely different." },
+        { "de": "Vor zwei Jahren habe ich selbst einen Online-Kurs gemacht.", "en": "Two years ago I did an online course myself." },
+        { "de": "Mein Bruder zum Beispiel arbeitet nur noch von zu Hause.", "en": "My brother, for example, only works from home now." },
+        { "de": "Bei uns in der Familie ist es so, dass jeder ein eigenes Smartphone hat.", "en": "In our family, everyone has their own smartphone." },
+        { "de": "Ich erinnere mich noch gut daran, wie schwierig das am Anfang war.", "en": "I still remember well how difficult it was at the beginning.", "note": "sich erinnern an + accusative", "noteDe": "sich erinnern an + Akkusativ" }
+      ]
+    },
+    {
+      "title": "Beispiele aus dem Heimatland",
+      "titleEn": "Examples from your home country",
+      "register": "neutral",
+      "phrases": [
+        { "de": "In meinem Heimatland ist das ganz anders.", "en": "In my home country it's completely different." },
+        { "de": "Bei uns in Brasilien ist es üblich, dass die ganze Familie zusammen isst.", "en": "In Brazil it's usual for the whole family to eat together." },
+        { "de": "In Polen ist das ähnlich wie in Deutschland.", "en": "In Poland it's similar to Germany." },
+        { "de": "In meiner Heimat wohnen viele junge Leute noch bei ihren Eltern.", "en": "In my home country, many young people still live with their parents." },
+        { "de": "Im Vergleich zu Deutschland sind die Mieten in meiner Heimatstadt viel niedriger.", "en": "Compared to Germany, rents in my home town are much lower." },
+        { "de": "Früher war das bei uns nicht so, aber inzwischen hat sich viel verändert.", "en": "It didn't use to be like that back home, but a lot has changed since then." },
+        { "de": "Ich glaube, in meinem Land würden die meisten Leute das anders sehen.", "en": "I think most people in my country would see it differently." },
+        { "de": "Das hängt bei uns stark davon ab, ob man in der Stadt oder auf dem Land lebt.", "en": "Back home, it depends a lot on whether you live in the city or in the countryside.", "note": "abhängen von + dative: davon ab, ob …", "noteDe": "abhängen von + Dativ: davon ab, ob …" }
+      ]
+    },
+    {
+      "title": "Nachfragen und das Wort weitergeben",
+      "titleEn": "Asking questions and handing over",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Was meinst du dazu?", "en": "What do you think about it?", "note": "Sie-form: „Was meinen Sie dazu?“", "noteDe": "Sie-Form: „Was meinen Sie dazu?“" },
+        { "de": "Wie siehst du das?", "en": "How do you see it?" },
+        { "de": "Hast du damit schon Erfahrungen gemacht?", "en": "Have you had any experience with it?" },
+        { "de": "Wie ist das in deinem Heimatland?", "en": "What's it like in your home country?" },
+        { "de": "Was würdest du in dieser Situation machen?", "en": "What would you do in this situation?" },
+        { "de": "Wie meinst du das genau?", "en": "What exactly do you mean?" },
+        { "de": "Kannst du ein Beispiel nennen?", "en": "Can you give an example?" },
+        { "de": "Bist du auch der Meinung, dass …?", "en": "Do you also think that …?" }
+      ]
+    },
+    {
+      "title": "Das Gespräch abschließen",
+      "titleEn": "Wrapping up the discussion",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Wir sind uns also einig, dass …", "en": "So we agree that …", "note": "sich einig sein = to agree", "noteDe": "sich einig sein = die gleiche Meinung haben" },
+        { "de": "Wir haben zwar unterschiedliche Meinungen, aber in einem Punkt sind wir uns einig: …", "en": "We may have different opinions, but we agree on one point: …" },
+        { "de": "Zusammenfassend kann man sagen, dass es Vor- und Nachteile gibt.", "en": "To sum up, you could say that there are advantages and disadvantages." },
+        { "de": "Am Ende muss das jeder selbst entscheiden.", "en": "In the end, everyone has to decide that for themselves." },
+        { "de": "Du hast mich fast überzeugt!", "en": "You've almost convinced me!" },
+        { "de": "Ich sehe das jetzt ein bisschen anders als am Anfang.", "en": "I see it a bit differently now than at the beginning." }
+      ]
+    }
+  ]
+}

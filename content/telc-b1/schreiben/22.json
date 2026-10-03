@@ -1,0 +1,57 @@
+{
+  "id": "schreiben-22",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Neue Regeln für den Müll",
+  "topic": "umwelt",
+  "difficulty": 3,
+  "register": "semiformal",
+  "situation": "Im Treppenhaus Ihres Wohnhauses hängt folgende Mitteilung der Hausverwaltung:",
+  "stimulus": {
+    "kind": "notice",
+    "body": "Hausverwaltung Sonnenhof GmbH · Nürnberg\n\nAn alle Mieterinnen und Mieter der Wohnanlage Lindenstraße 12–16\n\nNEUE REGELN FÜR DIE MÜLLTRENNUNG AB 1. MÄRZ\n\nLeider wird der Müll in unserer Wohnanlage oft nicht richtig getrennt. Die Stadt hat uns deshalb schon zweimal eine Strafgebühr berechnet. Ab dem 1. März gilt daher:\n– Die Müllräume sind nur noch von 7 bis 20 Uhr geöffnet.\n– Sperrmüll darf nicht mehr im Hof abgestellt werden.\n– Neben den Containern wird eine Kamera angebracht.\n– Weitere Strafgebühren werden auf alle Mieterinnen und Mieter verteilt.\n\nFragen und Anregungen bitte an Frau Schuster: schuster@hv-sonnenhof.de"
+  },
+  "leitpunkte": [
+    "Was Sie über die Verteilung der Kosten wissen möchten",
+    "Was Sie stattdessen vorschlagen",
+    "Was Sie an den neuen Regeln gut finden",
+    "Welche Regel Sie kritisieren und warum"
+  ],
+  "model": {
+    "subject": "Ihre Mitteilung zur Mülltrennung – Meinung und Vorschläge",
+    "text": "Sehr geehrte Frau Schuster,\n\nich habe Ihre Mitteilung zur Mülltrennung im Treppenhaus gelesen und möchte Ihnen gern meine Meinung dazu schreiben.\n\nZunächst finde ich es richtig, dass Sperrmüll nicht mehr im Hof abgestellt werden darf. Alte Möbel und Matratzen haben dort monatelang gestanden, und unsere Kinder konnten nicht mehr sicher spielen.\n\nDie Kamera neben den Containern halte ich dagegen für keine gute Idee. Niemand möchte jedes Mal gefilmt werden, wenn er seinen Müll wegbringt. Außerdem bin ich nicht sicher, ob das wegen des Datenschutzes überhaupt erlaubt ist.\n\nStatt die Mieter zu kontrollieren, sollte man ihnen lieber mehr Informationen geben. Viele wissen wahrscheinlich gar nicht genau, was in welche Tonne gehört. Deshalb schlage ich vor, an den Containern große Schilder mit Bildern anzubringen und ein Infoblatt in mehreren Sprachen zu verteilen.\n\nZum Schluss habe ich noch eine Frage zu den Kosten: Nach welchem System sollen weitere Strafgebühren verteilt werden? Zahlt jede Wohnung gleich viel, oder hängt der Betrag von der Wohnungsgröße ab?\n\nIch würde mich über eine Antwort freuen.\n\nMit freundlichen Grüßen\nGiorgos Papadakis"
+  },
+  "modelNotes": [
+    "A balanced opinion: the writer first agrees with one rule and then criticises another („dagegen“) – this sounds fair and convincing.",
+    "Every opinion is backed up with a reason or an example (old furniture in the courtyard, being filmed, data protection).",
+    "The criticism leads to a constructive suggestion („Statt … zu …, sollte man lieber …“, „Deshalb schlage ich vor, … zu …“) – typical upper-B1 argumentation.",
+    "Formal structures add range: „Zunächst …“, „halte ich für …“, the passive („abgestellt werden darf“, „gefilmt werden“) and an indirect question with „ob“.",
+    "What makes the task demanding: you must give and justify opinions, not just ask for information."
+  ],
+  "modelNotesDe": [
+    "Eine ausgewogene Meinung: Der Schreiber stimmt zuerst einer Regel zu und kritisiert dann eine andere („dagegen“) – das klingt fair und überzeugend.",
+    "Der Schreiber stützt jede Meinung mit einem Grund oder einem Beispiel (alte Möbel im Hof, gefilmt werden, Datenschutz).",
+    "Aus der Kritik wird ein konstruktiver Vorschlag („Statt … zu …, sollte man lieber …“, „Deshalb schlage ich vor, … zu …“) – typisch für Argumentation auf oberem B1-Niveau.",
+    "Formelle Strukturen sorgen für Vielfalt: „Zunächst …“, „halte ich für …“, das Passiv („abgestellt werden darf“, „gefilmt werden“) und eine indirekte Frage mit „ob“.",
+    "Das Schwierige an der Aufgabe: Du musst Meinungen äußern und begründen, nicht nur nach Informationen fragen."
+  ],
+  "phrases": [
+    { "de": "Ich möchte Ihnen gern meine Meinung dazu schreiben.", "en": "I would like to tell you my opinion on this." },
+    { "de": "Zunächst finde ich es richtig, dass …", "en": "First of all, I think it's right that …" },
+    { "de": "… halte ich dagegen für keine gute Idee.", "en": "On the other hand, I don't think … is a good idea." },
+    { "de": "Ich bin nicht sicher, ob das überhaupt erlaubt ist.", "en": "I'm not sure whether that is allowed at all." },
+    { "de": "Statt …, sollte man lieber …", "en": "Instead of …, it would be better to …" },
+    { "de": "Deshalb schlage ich vor, … zu …", "en": "I therefore suggest …" },
+    { "de": "Nach welchem System werden die Kosten verteilt?", "en": "On what basis are the costs shared out?" },
+    { "de": "Ich würde mich über eine Antwort freuen.", "en": "I would appreciate a reply." }
+  ],
+  "glossary": [
+    { "de": "die Hausverwaltung", "en": "property management company" },
+    { "de": "die Mülltrennung", "en": "waste separation" },
+    { "de": "der Sperrmüll", "en": "bulky waste (old furniture etc.)" },
+    { "de": "die Strafgebühr", "en": "penalty fee, fine" },
+    { "de": "anbringen", "en": "to put up, to install" },
+    { "de": "der Datenschutz", "en": "data protection, privacy" },
+    { "de": "die Anregung", "en": "suggestion" }
+  ]
+}

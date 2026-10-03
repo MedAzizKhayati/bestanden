@@ -1,0 +1,103 @@
+{
+  "id": "hoeren-3-08",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Schule, Kurs und Studium",
+  "topic": "bildung",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "schulleitung", "gender": "m", "age": "adult", "role": "Durchsage in der Schule" },
+    { "id": "vhs", "name": "Frau Engel", "gender": "f", "age": "adult", "role": "Volkshochschule" },
+    { "id": "bibliothek", "gender": "f", "age": "young", "role": "Durchsage in der Universitätsbibliothek" },
+    { "id": "radio", "gender": "f", "age": "adult", "role": "Radiomoderatorin" },
+    { "id": "lehrer", "name": "Herr Mahler", "gender": "m", "age": "adult", "role": "Klassenlehrer" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage in der Schule",
+      "script": [
+        { "s": "schulleitung", "t": "Liebe Schülerinnen und Schüler, hier spricht die Schulleitung. Wegen des starken Regens fällt unser Sportfest heute leider aus." },
+        { "s": "schulleitung", "t": "Wir holen es am nächsten Dienstag nach. Heute findet für alle Klassen ganz normaler Unterricht nach Stundenplan statt. Bitte vergesst nicht, eure Sportsachen am Dienstag wieder mitzubringen." },
+        { "s": "schulleitung", "t": "Die Preise für den Lesewettbewerb verteilen wir aber wie geplant am Freitag in der Aula." }
+      ],
+      "statement": "Die Schule holt das Sportfest am kommenden Freitag nach.",
+      "answer": false,
+      "explanation": "„Wir holen es am nächsten Dienstag nach.“ Friday is the day for the prizes of the reading competition.",
+      "explanationDe": "„Wir holen es am nächsten Dienstag nach.“ Am Freitag werden die Preise für den Lesewettbewerb verteilt.",
+      "evidence": "Wir holen es am nächsten Dienstag nach."
+    },
+    {
+      "n": 2,
+      "label": "Nachricht von der Volkshochschule",
+      "script": [
+        { "s": "vhs", "t": "Guten Tag, Herr Nowak, hier ist Engel von der Volkshochschule. Es geht um Ihren Spanischkurs für Anfänger." },
+        { "s": "vhs", "t": "Der Kurs beginnt leider nicht am dritten März, sondern erst eine Woche später, am zehnten März. Die Kursleiterin ist vorher im Urlaub." },
+        { "s": "vhs", "t": "Die Uhrzeit bleibt gleich, also mittwochs um 18 Uhr in Raum zwölf." },
+        { "s": "vhs", "t": "Das Kursbuch können Sie in der ersten Stunde bei der Kursleiterin kaufen." }
+      ],
+      "statement": "Herr Nowak kann das Kursbuch in der ersten Kursstunde kaufen.",
+      "answer": true,
+      "explanation": "„Das Kursbuch können Sie in der ersten Stunde bei der Kursleiterin kaufen.“ Only the start date changes: 10 March instead of 3 March.",
+      "explanationDe": "„Das Kursbuch können Sie in der ersten Stunde bei der Kursleiterin kaufen.“ Nur der Kursbeginn ändert sich: 10. März statt 3. März.",
+      "evidence": "Das Kursbuch können Sie in der ersten Stunde bei der Kursleiterin kaufen."
+    },
+    {
+      "n": 3,
+      "label": "Durchsage in der Universitätsbibliothek",
+      "script": [
+        { "s": "bibliothek", "t": "Liebe Besucherinnen und Besucher, bitte beachten Sie: Wegen einer Veranstaltung schließt die Bibliothek heute schon um 20 Uhr und nicht wie sonst um Mitternacht. Bitte nehmen Sie bis dahin alle Ihre Sachen aus den Schließfächern." },
+        { "s": "bibliothek", "t": "Der Lesesaal im Erdgeschoss bleibt aber bis 22 Uhr geöffnet. Bücher ausleihen können Sie dort allerdings nicht." },
+        { "s": "bibliothek", "t": "Ab morgen gelten wieder die normalen Öffnungszeiten." }
+      ],
+      "statement": "Heute kann man im Lesesaal bis 22 Uhr Bücher ausleihen.",
+      "answer": false,
+      "explanation": "The reading room is open until 22 Uhr, but „Bücher ausleihen können Sie dort allerdings nicht“. The library itself closes at 20 Uhr today.",
+      "explanationDe": "Der Lesesaal ist bis 22 Uhr geöffnet, aber „Bücher ausleihen können Sie dort allerdings nicht“. Die Bibliothek selbst schließt heute um 20 Uhr.",
+      "evidence": "Bücher ausleihen können Sie dort allerdings nicht."
+    },
+    {
+      "n": 4,
+      "label": "Veranstaltungstipp im Radio",
+      "script": [
+        { "s": "radio", "t": "Sie wissen noch nicht, was Sie nach der Schule machen wollen? Dann besuchen Sie doch am Samstag den Tag der offenen Tür an der Hochschule Talberg." },
+        { "s": "radio", "t": "Von 10 bis 15 Uhr können Sie dort mit Studierenden sprechen und sich über alle Studiengänge informieren. Führungen über den Campus gibt es um 11 und um 13 Uhr." },
+        { "s": "radio", "t": "Eine Anmeldung ist nicht nötig. Und für das Mittagessen in der Mensa bekommen Sie am Eingang einen Gutschein." }
+      ],
+      "statement": "Besucher müssen sich für den Tag der offenen Tür nicht anmelden.",
+      "answer": true,
+      "explanation": "„Eine Anmeldung ist nicht nötig.“ You can simply come on Saturday between 10 and 15 Uhr.",
+      "explanationDe": "„Eine Anmeldung ist nicht nötig.“ Man kann am Samstag einfach zwischen 10 und 15 Uhr vorbeikommen.",
+      "evidence": "Eine Anmeldung ist nicht nötig."
+    },
+    {
+      "n": 5,
+      "label": "Nachricht vom Klassenlehrer",
+      "script": [
+        { "s": "lehrer", "t": "Guten Tag, Frau Becker, hier spricht Mahler, der Klassenlehrer Ihrer Tochter Lina. Ich rufe wegen der Klassenfahrt nach Hamburg an." },
+        { "s": "lehrer", "t": "Die Anmeldung muss bis spätestens Freitag bei mir sein. Bitte geben Sie Lina das unterschriebene Formular einfach mit in die Schule." },
+        { "s": "lehrer", "t": "Die 180 Euro für die Fahrt überweisen Sie bitte erst im nächsten Monat, die Kontonummer steht auf dem Formular. Vielen Dank!" }
+      ],
+      "statement": "Frau Becker soll das Geld für die Klassenfahrt erst später überweisen.",
+      "answer": true,
+      "explanation": "Only the signed form must be there by Friday. The 180 Euro „überweisen Sie bitte erst im nächsten Monat“.",
+      "explanationDe": "Nur das unterschriebene Formular muss bis Freitag da sein. Die 180 Euro „überweisen Sie bitte erst im nächsten Monat“.",
+      "evidence": "Die 180 Euro für die Fahrt überweisen Sie bitte erst im nächsten Monat, die Kontonummer steht auf dem Formular."
+    }
+  ],
+  "glossary": [
+    { "de": "ausfallen", "en": "to be cancelled" },
+    { "de": "nachholen", "en": "to make up for, to hold later" },
+    { "de": "der Stundenplan", "en": "timetable" },
+    { "de": "der Wettbewerb", "en": "competition" },
+    { "de": "die Kursleiterin", "en": "(female) course teacher" },
+    { "de": "der Lesesaal", "en": "reading room" },
+    { "de": "das Schließfach", "en": "locker" },
+    { "de": "der Studiengang", "en": "degree programme" },
+    { "de": "die Führung", "en": "guided tour" },
+    { "de": "der Gutschein", "en": "voucher" },
+    { "de": "die Klassenfahrt", "en": "school trip" },
+    { "de": "überweisen", "en": "to transfer (money)" }
+  ]
+}

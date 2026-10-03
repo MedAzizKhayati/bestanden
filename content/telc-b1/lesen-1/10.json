@@ -1,0 +1,82 @@
+{
+  "id": "lesen-1-10",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Kultur für alle",
+  "topic": "kultur",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Salzburg: Museen ab sofort für alle kostenlos" },
+    { "key": "b", "text": "Theater mit Übersetzung auf dem Handy" },
+    { "key": "c", "text": "Augsburg: Neues Café für Sprachkurse eröffnet" },
+    { "key": "d", "text": "Spielen erlaubt: Ein Klavier für alle Reisenden" },
+    { "key": "e", "text": "Musik, Tanz und Essen aus vielen Ländern" },
+    { "key": "f", "text": "Wahre Geschichte: Hochzeitsgäste im Schnee gefangen" },
+    { "key": "g", "text": "Neu im Kino: Hochzeitschaos in den Bergen" },
+    { "key": "h", "text": "Theaterkarten gibt es nur noch per App" },
+    { "key": "i", "text": "Musikschule gibt Klavierunterricht im Bahnhof" },
+    { "key": "j", "text": "Eintritt frei: Mehr junge Menschen im Museum" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Seit einem Jahr müssen junge Menschen unter 26 Jahren in den städtischen Museen von Salzburg keinen Eintritt mehr bezahlen. Jetzt hat die Stadt Bilanz gezogen: Die Zahl der jungen Besucherinnen und Besucher ist um fast 40 Prozent gestiegen. Besonders oft kamen Studierende und Schulklassen. Viele junge Leute haben nach eigenen Angaben zum ersten Mal ein Museum besucht, ohne dass die Schule sie geschickt hat. Weil das Projekt so erfolgreich war, soll der freie Eintritt auch in den nächsten Jahren bleiben. Für alle anderen Besucher ändern sich die Preise nicht.",
+      "answer": "j",
+      "explanation": "Since entry became free for people under 26, the number of young visitors „ist um fast 40 Prozent gestiegen“, so (j). Headline (a) is a trap: entry is only free for young people – „Für alle anderen Besucher ändern sich die Preise nicht“.",
+      "explanationDe": "Die Zahl der jungen Besucher „ist um fast 40 Prozent gestiegen“, seit Menschen unter 26 keinen Eintritt mehr bezahlen, also passt (j). Überschrift (a) ist eine Falle: Der Eintritt ist nur für junge Menschen frei – „Für alle anderen Besucher ändern sich die Preise nicht“.",
+      "evidence": ["keinen Eintritt mehr bezahlen", "ist um fast 40 Prozent gestiegen"]
+    },
+    {
+      "n": 2,
+      "text": "Ins Theater gehen, auch wenn man noch nicht so gut Deutsch versteht: Das ist ab der neuen Saison im Bielefelder Theater „Bühne Ost“ möglich. Bei vielen Vorstellungen können die Zuschauer auf ihrem Smartphone Übersetzungen der Texte mitlesen – auf Englisch, Türkisch, Arabisch oder Ukrainisch. Dafür muss man nur eine kostenlose App herunterladen. Damit das Licht der Handys nicht stört, sind die Bildschirme besonders dunkel. Das Theater hofft, so neue Gruppen von Zuschauern zu gewinnen. Für Schulklassen mit Deutschlernenden gibt es außerdem günstigere Karten.",
+      "answer": "b",
+      "explanation": "During many performances the audience can read translations on their smartphones („Übersetzungen der Texte mitlesen“), so (b). Headline (h) is wrong: the app shows the translations; the text says nothing about buying tickets only by app.",
+      "explanationDe": "Bei vielen Vorstellungen können die Zuschauer auf ihrem Smartphone „Übersetzungen der Texte mitlesen“, also passt (b). Überschrift (h) ist falsch: Die App zeigt die Übersetzungen; dass man Karten nur noch per App kaufen kann, steht nicht im Text.",
+      "evidence": ["auf ihrem Smartphone Übersetzungen der Texte mitlesen"]
+    },
+    {
+      "n": 3,
+      "text": "Neu im Kino: In der Komödie „Ja, ich will – vielleicht“ möchte die Münchner Ärztin Vera ihren Freund Jonas auf einer Berghütte in Südtirol heiraten. Doch kurz vor der Feier kommt ein Schneesturm, und die Gäste sitzen zwei Tage lang auf der Hütte fest – zusammen mit Veras chaotischer Familie und Jonas’ Ex-Freundin. Regisseurin Katja Brandl erzählt die Geschichte mit viel Humor und wunderschönen Bildern aus den Bergen. Die Hauptrollen spielen zwei bekannte Fernsehstars. Der Film ist ab sechs Jahren freigegeben und läuft ab Donnerstag in vielen Kinos.",
+      "answer": "g",
+      "explanation": "The text presents a new comedy („Neu im Kino“) about a wedding in a mountain hut that turns into chaos because of a snowstorm, so (g). Headline (f) is a trap: the story is an invented comedy, not a true story.",
+      "explanationDe": "Der Text stellt eine neue Komödie vor („Neu im Kino“): Eine Hochzeit auf einer Berghütte wird wegen eines Schneesturms zum Chaos, also passt (g). Überschrift (f) ist eine Falle: Die Geschichte ist eine erfundene Komödie, keine wahre Geschichte.",
+      "evidence": ["Neu im Kino: In der Komödie", "Doch kurz vor der Feier kommt ein Schneesturm"]
+    },
+    {
+      "n": 4,
+      "text": "Am letzten Juniwochenende verwandelt sich der Augsburger Rathausplatz wieder in einen bunten Treffpunkt. Beim „Fest der Kulturen“ stellen sich über 30 internationale Vereine aus der Stadt vor. An den Ständen gibt es Spezialitäten aus Ländern wie Ghana, Vietnam, Peru und Griechenland. Auf der großen Bühne treten Tanzgruppen, Chöre und Bands auf. Für Kinder gibt es Mal- und Bastelangebote sowie ein kleines Theater. Neu in diesem Jahr ist ein „Sprachen-Café“, in dem man ein paar Wörter in anderen Sprachen lernen kann. Das Fest beginnt am Samstag um 12 Uhr, der Eintritt ist frei.",
+      "answer": "e",
+      "explanation": "At the festival there is food from many countries, and dance groups, choirs and bands perform, so (e). Headline (c) is a trap: the „Sprachen-Café“ is a new part of the festival, not a new café that has opened.",
+      "explanationDe": "Auf dem Fest gibt es Essen aus vielen Ländern, und Tanzgruppen, Chöre und Bands treten auf, also passt (e). Überschrift (c) ist eine Falle: Das „Sprachen-Café“ ist ein neuer Teil des Festes und kein neu eröffnetes Café.",
+      "evidence": ["An den Ständen gibt es Spezialitäten aus Ländern wie Ghana, Vietnam, Peru und Griechenland", "treten Tanzgruppen, Chöre und Bands auf"]
+    },
+    {
+      "n": 5,
+      "text": "Seit zwei Wochen steht in der Eingangshalle des Ulmer Hauptbahnhofs ein Klavier. Jeder, der möchte, darf darauf spielen – egal ob Anfänger oder Profi. Die Idee stammt von einer Musikschule aus der Stadt, die das alte Instrument gespendet hat. Seitdem bleiben viele Reisende stehen, um zuzuhören, manche singen sogar mit. „Ich habe hier schon tolle kleine Konzerte erlebt“, erzählt ein Mitarbeiter der Bahnhofsbäckerei. Das Klavier darf täglich zwischen 7 und 22 Uhr benutzt werden. Nachts wird es abgeschlossen, damit es nicht beschädigt wird.",
+      "answer": "d",
+      "explanation": "There is a piano in Ulm's main station, and „Jeder, der möchte, darf darauf spielen“, so (d). Headline (i) is wrong: a music school donated the piano, but nobody gives lessons at the station.",
+      "explanationDe": "Im Ulmer Hauptbahnhof steht ein Klavier, und „Jeder, der möchte, darf darauf spielen“, also passt (d). Überschrift (i) ist falsch: Eine Musikschule hat das Klavier gespendet, aber am Bahnhof gibt niemand Unterricht.",
+      "evidence": ["Jeder, der möchte, darf darauf spielen"]
+    }
+  ],
+  "distractors": [
+    { "key": "a", "why": "Text 1 says that only people under 26 do not have to pay; for all other visitors the prices stay the same.", "whyDe": "Laut Text 1 müssen nur Menschen unter 26 nichts bezahlen; für alle anderen Besucher bleiben die Preise gleich." },
+    { "key": "c", "why": "In text 4 the „Sprachen-Café“ is part of the festival, where you can learn a few words. No new café has opened.", "whyDe": "In Text 4 ist das „Sprachen-Café“ ein Teil des Festes; dort kann man ein paar Wörter lernen. Es hat kein neues Café eröffnet." },
+    { "key": "f", "why": "Text 3 is about a new comedy in the cinema – the story is invented, not true.", "whyDe": "In Text 3 geht es um eine neue Komödie im Kino – die Geschichte ist erfunden, nicht wahr." },
+    { "key": "h", "why": "In text 2 the free app shows translations during the performance. Nothing is said about selling tickets only by app.", "whyDe": "In Text 2 zeigt die kostenlose App während der Vorstellung Übersetzungen. Dass Karten nur noch per App verkauft werden, steht nicht im Text." },
+    { "key": "i", "why": "In text 5 the music school only donated the old piano. Anyone may play – there are no lessons.", "whyDe": "In Text 5 hat die Musikschule nur das alte Klavier gespendet. Jeder darf spielen – Unterricht gibt es nicht." }
+  ],
+  "glossary": [
+    { "de": "der Eintritt", "en": "admission (fee)" },
+    { "de": "Bilanz ziehen", "en": "to take stock, to look at the results" },
+    { "de": "die Vorstellung", "en": "performance" },
+    { "de": "die Übersetzung", "en": "translation" },
+    { "de": "herunterladen", "en": "to download" },
+    { "de": "festsitzen", "en": "to be stuck" },
+    { "de": "ab sechs Jahren freigegeben", "en": "suitable for ages six and over" },
+    { "de": "sich verwandeln in", "en": "to turn into" },
+    { "de": "auftreten", "en": "to perform (on stage)" },
+    { "de": "spenden", "en": "to donate" },
+    { "de": "beschädigen", "en": "to damage" }
+  ]
+}

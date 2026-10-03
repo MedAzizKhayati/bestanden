@@ -1,0 +1,101 @@
+{
+  "id": "sprechen-2-09",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Immer online?",
+  "topic": "medien",
+  "difficulty": 2,
+  "theme": "Social Media",
+  "medium": "im Internet",
+  "cardA": {
+    "name": "Mia Schwarz",
+    "age": 19,
+    "job": "Auszubildende zur Mediengestalterin",
+    "quote": "Für mich sind soziale Medien ein ganz normaler Teil meines Lebens. Ich bleibe mit Freunden in Kontakt, die in anderen Städten wohnen, und bekomme viele Ideen für meine Ausbildung. Über eine Gruppe im Internet habe ich sogar meinen Ausbildungsplatz gefunden. Natürlich muss man aufpassen, was man postet, aber das lernt man."
+  },
+  "cardB": {
+    "name": "Martin Kraus",
+    "age": 45,
+    "job": "Schulsozialarbeiter",
+    "quote": "In meiner Arbeit an einer Schule erlebe ich oft, wie soziale Medien Jugendlichen schaden. Viele vergleichen sich ständig mit perfekten Fotos und fühlen sich dann schlecht. Manche werden im Internet beleidigt und trauen sich nicht, darüber zu sprechen. Ich selbst habe meine Konten gelöscht und treffe meine Freunde lieber persönlich."
+  },
+  "ideas": {
+    "pro": [
+      "Kontakt mit Freunden und Familie im Ausland",
+      "schnell Informationen und Neuigkeiten bekommen",
+      "neue Leute mit den gleichen Hobbys finden",
+      "Ideen und Tipps für Beruf und Freizeit",
+      "kostenlos und überall nutzbar",
+      "Werbung für kleine Firmen und Vereine"
+    ],
+    "contra": [
+      "man verbringt zu viel Zeit am Handy",
+      "falsche Nachrichten verbreiten sich schnell",
+      "Beleidigungen und Mobbing",
+      "Druck durch perfekte Fotos",
+      "Probleme mit dem Datenschutz",
+      "weniger persönliche Treffen"
+    ]
+  },
+  "questions": [
+    "Welche sozialen Medien benutzen Sie und wofür?",
+    "Wie viel Zeit verbringen Sie pro Tag in sozialen Netzwerken?",
+    "Wie ist das in Ihrem Heimatland? Welche Rolle spielen soziale Medien dort?",
+    "Ab welchem Alter sollten Jugendliche soziale Medien nutzen?",
+    "Haben Sie schon einmal schlechte Erfahrungen im Internet gemacht?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Sofia Novak", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Kenji Tanaka", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "A", "t": "Soll ich anfangen? Auf meinem Blatt steht die Meinung von Mia Schwarz. Sie ist 19 und macht eine Ausbildung zur Mediengestalterin." },
+    { "s": "A", "t": "Für Frau Schwarz sind soziale Medien ein ganz normaler Teil des Lebens. Sie bleibt so mit Freunden in anderen Städten in Kontakt und bekommt Ideen für ihre Ausbildung." },
+    { "s": "A", "t": "Sie hat sogar ihren Ausbildungsplatz über eine Gruppe im Internet gefunden. Sie sagt aber auch, dass man aufpassen muss, was man postet." },
+    { "s": "B", "t": "Danke. Auf meinem Blatt ist es ganz anders. Martin Kraus ist 45 und arbeitet als Sozialarbeiter an einer Schule." },
+    { "s": "B", "t": "Er erlebt oft, dass soziale Medien den Jugendlichen schaden. Viele vergleichen sich mit perfekten Fotos und fühlen sich dann schlecht, und manche werden im Internet sogar beleidigt." },
+    { "s": "B", "t": "Herr Kraus hat deshalb seine eigenen Konten gelöscht. Er trifft seine Freunde lieber persönlich." },
+    { "s": "A", "t": "Das ist aber eine klare Entscheidung! Und du, Kenji? Benutzt du soziale Medien?" },
+    { "s": "B", "t": "Ja, schon, aber nicht so viel. Ich habe nur ein Profil für Fotos, weil ich gern fotografiere. Und mit meiner Familie in Japan schreibe ich jeden Tag in einer Chat-App." },
+    { "s": "A", "t": "Für Familien im Ausland ist das wirklich super. Meine Eltern leben in Split, und wir telefonieren fast jeden Abend mit Video. Früher war das viel teurer und komplizierter." },
+    { "s": "B", "t": "Genau, ohne das Internet würde ich meine Familie viel mehr vermissen. Aber ich verstehe auch Herrn Kraus, denn bei Jugendlichen sehe ich das Problem auch." },
+    { "s": "A", "t": "Wie meinst du das?" },
+    { "s": "B", "t": "Mein Neffe in Tokio ist fünfzehn und schaut ständig auf sein Handy. Er postet jeden Tag Fotos und ist traurig, wenn er nicht genug Likes bekommt." },
+    { "s": "A", "t": "Das kenne ich. Ich glaube, viele junge Leute denken, dass das Leben der anderen perfekt ist. Aber die Fotos zeigen ja nur die schönen Momente." },
+    { "s": "B", "t": "Richtig. Und was meinst du zum Thema Beleidigungen im Internet?" },
+    { "s": "A", "t": "Das ist ein großes Problem, finde ich. Eine Freundin von mir hat einmal sehr böse Kommentare bekommen, nur weil sie ihre Meinung zu einem Fußballspiel geschrieben hat." },
+    { "s": "B", "t": "Wirklich? Wegen Fußball? Das ist ja verrückt." },
+    { "s": "A", "t": "Ja, sie war danach ziemlich schockiert und hat ihr Profil für ein paar Wochen geschlossen." },
+    { "s": "B", "t": "Trotzdem würde ich nicht alles löschen wie Herr Kraus. Man kann soziale Medien ja auch bewusst nutzen, zum Beispiel nur eine Stunde am Tag." },
+    { "s": "A", "t": "Da stimme ich dir zu. Ich habe auf meinem Handy eine Funktion, die mir zeigt, wie lange ich online war. Manchmal bin ich selbst überrascht!" },
+    { "s": "P", "t": "Wie ist das in Ihren Heimatländern? Welche Rolle spielen soziale Medien dort?" },
+    { "s": "B", "t": "In Japan sind sie sehr wichtig, aber viele Leute benutzen nicht ihren echten Namen, sondern einen Spitznamen. Die Privatsphäre ist dort sehr wichtig." },
+    { "s": "A", "t": "In Kroatien benutzen fast alle soziale Medien, auch die Großeltern. Meine Oma teilt jeden Tag Rezepte und Fotos von ihrem Garten." },
+    { "s": "B", "t": "Das ist ja süß! Ich denke, entscheidend ist, wie man soziale Medien benutzt." },
+    { "s": "A", "t": "Genau. Sie sind ein gutes Werkzeug, aber sie sollten das echte Leben nicht ersetzen." }
+  ],
+  "phrases": [
+    { "de": "Soll ich anfangen?", "en": "Shall I start?" },
+    { "de": "Sie sagt aber auch, dass …", "en": "But she also says that …" },
+    { "de": "Das ist aber eine klare Entscheidung!", "en": "That's quite a clear decision!" },
+    { "de": "Das kenne ich.", "en": "I know that (from my own experience)." },
+    { "de": "Was meinst du zum Thema …?", "en": "What do you think about …?" },
+    { "de": "Trotzdem würde ich nicht …", "en": "Still, I wouldn't …" },
+    { "de": "Ich denke, entscheidend ist, wie …", "en": "I think what matters is how …" },
+    { "de": "Da stimme ich dir zu.", "en": "I agree with you there." }
+  ],
+  "vocabulary": [
+    { "de": "die sozialen Medien (Pl.)", "en": "social media" },
+    { "de": "das soziale Netzwerk", "en": "social network" },
+    { "de": "das Profil / das Konto", "en": "profile / account" },
+    { "de": "etwas posten", "en": "to post something" },
+    { "de": "der Kommentar", "en": "comment" },
+    { "de": "jemanden beleidigen", "en": "to insult someone" },
+    { "de": "sich vergleichen mit (+ Dat.)", "en": "to compare oneself with" },
+    { "de": "schaden (+ Dat.)", "en": "to harm" },
+    { "de": "löschen", "en": "to delete" },
+    { "de": "die Privatsphäre", "en": "privacy" },
+    { "de": "der Spitzname", "en": "nickname" }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "konnektoren-hauptsatz",
+  "level": "A2",
+  "category": "satzbau",
+  "order": 2,
+  "title": "Konjunktionen: und, aber, oder, denn, sondern",
+  "titleEn": "Coordinating conjunctions",
+  "summary": "und, aber, oder, denn and sondern link two main clauses without changing the word order – they stand in 'position 0'.",
+  "summaryDe": "Die Konjunktionen und, aber, oder, denn und sondern verbinden zwei Hauptsätze, ohne die Wortstellung zu ändern – sie stehen auf ‚Position 0‘.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**und, aber, oder, denn** and **sondern** connect two main clauses and stand in **position 0** – they don't count as a position. After them, the second clause keeps its normal word order with the **verb in position 2**.",
+      "mdDe": "**und, aber, oder, denn** und **sondern** verbinden zwei Hauptsätze und stehen auf **Position 0** – sie zählen nicht als Position. Danach behält der zweite Satz seine normale Wortstellung mit dem **Verb auf Position 2**."
+    },
+    {
+      "type": "table",
+      "heading": "The five conjunctions (memory aid: ADUSO)",
+      "headingDe": "Die fünf Konjunktionen (Merkwort: ADUSO)",
+      "columns": ["Conjunction", "Meaning", "Example"],
+      "columnsDe": ["Konjunktion", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["aber", "but – contrast", "Die Wohnung ist schön, aber sie ist zu teuer."],
+        ["denn", "because – gives a reason", "Ich bleibe zu Hause, denn ich bin erkältet."],
+        ["und", "and – adds information", "Paula kocht und Tim deckt den Tisch."],
+        ["sondern", "but (rather) – correction after a negation", "Wir fahren nicht ans Meer, sondern wir bleiben in Österreich."],
+        ["oder", "or – alternative", "Wir nehmen den Zug oder wir fahren mit dem Auto."]
+      ],
+      "rowsDe": [
+        ["aber", "Gegensatz", "Die Wohnung ist schön, aber sie ist zu teuer."],
+        ["denn", "nennt einen Grund", "Ich bleibe zu Hause, denn ich bin erkältet."],
+        ["und", "fügt eine Information hinzu", "Paula kocht und Tim deckt den Tisch."],
+        ["sondern", "Korrektur nach einer Verneinung", "Wir fahren nicht ans Meer, sondern wir bleiben in Österreich."],
+        ["oder", "Alternative", "Wir nehmen den Zug oder wir fahren mit dem Auto."]
+      ],
+      "note": "Put a comma before „aber“, „denn“ and „sondern“. Before „und“ and „oder“ you normally don't need one.",
+      "noteDe": "Setz ein Komma vor „aber“, „denn“ und „sondern“. Vor „und“ und „oder“ brauchst du normalerweise keins."
+    },
+    {
+      "type": "text",
+      "heading": "Position 0: the conjunction doesn't count",
+      "headingDe": "Position 0: Die Konjunktion zählt nicht",
+      "md": "Think of these five words as a bridge between two sentences. The bridge itself takes no position. After it, you build the second clause exactly as if it stood alone:\n\n„Ich habe keine Zeit.“ → „Ich komme nicht mit, **denn ich habe** keine Zeit.“\n\nThe second clause can also start with another element – then inversion applies as usual: „Heute kann ich nicht, **aber morgen habe ich** Zeit.“",
+      "mdDe": "Stell dir diese fünf Wörter als Brücke zwischen zwei Sätzen vor. Die Brücke selbst hat keine Position. Danach baust du den zweiten Satz genau so, als ob er allein stehen würde:\n\n„Ich habe keine Zeit.“ → „Ich komme nicht mit, **denn ich habe** keine Zeit.“\n\nDer zweite Satz kann auch mit einem anderen Satzglied beginnen – dann gilt wie immer die Inversion: „Heute kann ich nicht, **aber morgen habe ich** Zeit.“"
+    },
+    {
+      "type": "table",
+      "heading": "Position 0 in action",
+      "headingDe": "Position 0 in der Praxis",
+      "columns": ["Clause 1", "Position 0", "Position 1", "Position 2: verb", "Rest"],
+      "columnsDe": ["Satz 1", "Position 0", "Position 1", "Position 2: Verb", "Rest"],
+      "rows": [
+        ["Ich gehe heute nicht zum Sport,", "denn", "ich", "habe", "Kopfschmerzen."],
+        ["Ich gehe heute nicht zum Sport,", "denn", "mein Knie", "tut", "weh."],
+        ["Mein Bruder wohnt in Graz", "und", "seine Freundin", "arbeitet", "in Wien."],
+        ["Das Konzert war toll,", "aber", "danach", "waren", "wir sehr müde."],
+        ["Wir können am Samstag grillen", "oder", "wir", "gehen", "ins Schwimmbad."]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "aber or sondern?",
+      "headingDe": "aber oder sondern?",
+      "md": "Both can mean 'but'. Use **sondern** only after a negation (nicht, kein, nie) when you **correct** the first part – 'not X, but (rather) Y': „Das ist **kein** Tee, **sondern** Kaffee.“\n\nUse **aber** for a contrast or a restriction – with or without a negation: „Das Hotel ist **nicht** billig, **aber** sehr schön.“\n\nQuick test: if you can say 'but rather' or 'instead', it's „sondern“.",
+      "mdDe": "Beide drücken einen Gegensatz aus. Nimm **sondern** nur nach einer Verneinung (nicht, kein, nie), wenn du den ersten Teil **korrigierst** – ‚nicht X, sondern Y‘: „Das ist **kein** Tee, **sondern** Kaffee.“\n\nNimm **aber** für einen Gegensatz oder eine Einschränkung – mit oder ohne Verneinung: „Das Hotel ist **nicht** billig, **aber** sehr schön.“\n\nSchneller Test: Wenn du ‚stattdessen‘ oder ‚vielmehr‘ sagen kannst, ist es „sondern“."
+    },
+    {
+      "type": "text",
+      "heading": "Leaving words out",
+      "headingDe": "Wörter weglassen",
+      "md": "After **und, oder, aber** and **sondern** you can drop words that are the same in both parts: „Ich stehe auf **und** dusche.“ / „Wir fahren nicht heute, **sondern** morgen.“\n\nAfter **denn** you always need a complete clause with its own subject and verb: „…, **denn ich bin** müde.“",
+      "mdDe": "Nach **und, oder, aber** und **sondern** kannst du Wörter weglassen, die in beiden Teilen gleich sind: „Ich stehe auf **und** dusche.“ / „Wir fahren nicht heute, **sondern** morgen.“\n\nNach **denn** brauchst du immer einen vollständigen Satz mit eigenem Subjekt und Verb: „…, **denn ich bin** müde.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich lerne Deutsch, **denn** ich möchte in Zürich studieren.", "en": "I'm learning German because I want to study in Zurich." },
+        { "de": "Das Restaurant ist klein, **aber** das Essen ist super.", "en": "The restaurant is small, but the food is great." },
+        { "de": "Wir treffen uns nicht am Bahnhof, **sondern** vor dem Kino.", "en": "We're not meeting at the station but in front of the cinema." },
+        { "de": "Möchtest du Tee **oder** trinkst du lieber Kaffee?", "en": "Would you like tea, or would you rather have coffee?" },
+        { "de": "Paula kauft ein **und** Tim putzt die Wohnung.", "en": "Paula does the shopping and Tim cleans the flat." },
+        { "de": "Ich kann heute nicht kommen, **denn** mein Sohn ist krank.", "en": "I can't come today because my son is ill." },
+        { "de": "Das Wetter war schlecht, **aber** wir hatten viel Spaß.", "en": "The weather was bad, but we had a lot of fun." },
+        { "de": "Herr Brandt arbeitet nicht mehr bei der Post, **sondern** er ist jetzt selbstständig.", "en": "Mr Brandt doesn't work at the post office any more – he's self-employed now." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In Sprachbausteine Teil 1, „denn“ often appears next to „weil“ and „deshalb“ as options. Look at what follows the gap: subject + verb in position 2 → „denn“; verb at the end → „weil“; verb directly after the gap → „deshalb“. „aber / sondern“ is another favourite – look for a negation before the gap.\n\nIn **Schreiben** and **Sprechen**, „und“ and „aber“ alone sound like A2. Mix them with „denn“ and „sondern“ – and with linking words like „deshalb“, „trotzdem“ or „außerdem“ – to show B1 range: in Schreiben it counts for „Kommunikative Gestaltung“, in Sprechen for „Ausdrucksfähigkeit“.",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 steht „denn“ oft zusammen mit „weil“ und „deshalb“ zur Auswahl. Schau, was nach der Lücke kommt: Subjekt + Verb auf Position 2 → „denn“; Verb am Ende → „weil“; Verb direkt nach der Lücke → „deshalb“. Auch „aber / sondern“ kommt oft vor – achte auf eine Verneinung vor der Lücke.\n\nIm **Schreiben** und **Sprechen** klingen „und“ und „aber“ allein nach A2. Kombiniere sie mit „denn“ und „sondern“ – und mit Verbindungsadverbien wie „deshalb“, „trotzdem“ oder „außerdem“. So zeigst du die Vielfalt, die man auf B1 erwartet: Im Schreiben zählt das für das Kriterium „Kommunikative Gestaltung“, im Sprechen für die „Ausdrucksfähigkeit“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap: „denn“ is not „weil“.** Both mean 'because', but after „denn“ the verb stays in position 2, while after „weil“ it goes to the end: „…, **denn** ich **bin** müde.“ / „…, **weil** ich müde **bin**.“\n\nAlso, a „denn“ clause always comes **after** the clause it explains. „Weil ich müde bin, gehe ich nach Hause.“ is fine, but „Denn ich bin müde, gehe ich nach Hause.“ is wrong.",
+      "mdDe": "**Typische Falle: „denn“ ist nicht „weil“.** Beide nennen einen Grund, aber nach „denn“ bleibt das Verb auf Position 2, nach „weil“ steht es am Ende: „…, **denn** ich **bin** müde.“ / „…, **weil** ich müde **bin**.“\n\nAußerdem steht ein „denn“-Satz immer **nach** dem Satz, den er erklärt. „Weil ich müde bin, gehe ich nach Hause.“ ist richtig, aber „Denn ich bin müde, gehe ich nach Hause.“ ist falsch."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich gehe früh ins Bett, denn ich morgen früh arbeiten muss.",
+      "right": "Ich gehe früh ins Bett, denn ich muss morgen früh arbeiten.",
+      "why": "After „denn“ the verb stays in position 2 – it does not go to the end like after „weil“.",
+      "whyDe": "Nach „denn“ bleibt das Verb auf Position 2 – es geht nicht ans Ende wie nach „weil“."
+    },
+    {
+      "wrong": "Er trinkt keinen Kaffee, aber Tee.",
+      "right": "Er trinkt keinen Kaffee, sondern Tee.",
+      "why": "After a negation, when you correct the first part ('not X but Y'), use „sondern“.",
+      "whyDe": "Nach einer Verneinung nimmst du „sondern“, wenn du den ersten Teil korrigierst (‚nicht X, sondern Y‘)."
+    },
+    {
+      "wrong": "Wir wollten grillen, aber regnete es.",
+      "right": "Wir wollten grillen, aber es regnete.",
+      "why": "„aber“ is in position 0 and does not cause inversion – the subject „es“ comes first, then the verb.",
+      "whyDe": "„aber“ steht auf Position 0 und bewirkt keine Inversion – zuerst kommt das Subjekt „es“, dann das Verb."
+    },
+    {
+      "wrong": "Ich bin müde, denn habe schlecht geschlafen.",
+      "right": "Ich bin müde, denn ich habe schlecht geschlafen.",
+      "why": "After „denn“ you always need a complete clause with its own subject.",
+      "whyDe": "Nach „denn“ brauchst du immer einen vollständigen Satz mit eigenem Subjekt."
+    },
+    {
+      "wrong": "Die Jacke ist schön aber zu teuer.",
+      "right": "Die Jacke ist schön, aber zu teuer.",
+      "why": "Always put a comma before „aber“ – also when only a few words follow.",
+      "whyDe": "Setz vor „aber“ immer ein Komma – auch wenn nur wenige Wörter folgen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich kann heute nicht mitkommen, ___ ich muss noch arbeiten.",
+      "options": ["weil", "denn", "deshalb"],
+      "answer": 1,
+      "explanation": "After the gap comes subject + verb in position 2 („ich muss“) → „denn“. „weil“ would need the verb at the end („weil ich noch arbeiten muss“), and „deshalb“ the verb right after it („deshalb muss ich …“).",
+      "explanationDe": "Nach der Lücke kommen Subjekt + Verb auf Position 2 („ich muss“) → „denn“. Nach „weil“ müsste das Verb am Ende stehen („weil ich noch arbeiten muss“), nach „deshalb“ direkt dahinter („deshalb muss ich …“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das ist nicht mein Handy, ___ das von meiner Schwester.",
+      "options": ["aber", "oder", "sondern"],
+      "answer": 2,
+      "explanation": "The first part is negated („nicht mein Handy“) and the second part corrects it → „sondern“.",
+      "explanationDe": "Der erste Teil ist verneint („nicht mein Handy“), und der zweite Teil korrigiert ihn → „sondern“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Wohnung ist hell und groß, ___ die Miete ist leider sehr hoch.",
+      "options": ["aber", "sondern", "denn"],
+      "answer": 0,
+      "explanation": "A contrast between good and bad points, without a negation to correct → „aber“. „denn“ would give a reason, which makes no sense here.",
+      "explanationDe": "Ein Gegensatz zwischen guten und schlechten Punkten, ohne Verneinung, die man korrigiert → „aber“. „denn“ würde einen Grund nennen – das ergibt hier keinen Sinn."
+    },
+    {
+      "type": "mc",
+      "prompt": "Möchtest du einen Tee ___ lieber ein Glas Wasser?",
+      "options": ["und", "oder", "sondern"],
+      "answer": 1,
+      "explanation": "The question offers two alternatives („lieber“) → „oder“.",
+      "explanationDe": "Die Frage bietet zwei Alternativen an („lieber“) → „oder“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir wollten am See picknicken, aber ___.",
+      "options": ["hat es geregnet", "es geregnet hat", "es hat geregnet"],
+      "answer": 2,
+      "explanation": "„aber“ is in position 0, so the clause after it has normal word order: subject „es“, verb „hat“, participle at the end.",
+      "explanationDe": "„aber“ steht auf Position 0, deshalb hat der Satz danach die normale Wortstellung: Subjekt „es“, Verb „hat“, Partizip am Ende."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich fahre nicht mit dem Auto, ___ mit dem Fahrrad zur Arbeit.",
+      "answers": ["sondern"],
+      "explanation": "„nicht mit dem Auto“ is corrected by „mit dem Fahrrad“ – 'not X but Y' → „sondern“.",
+      "explanationDe": "„nicht mit dem Auto“ wird durch „mit dem Fahrrad“ korrigiert – ‚nicht X, sondern Y‘ → „sondern“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Lisa macht eine Ausbildung zur Pflegefachfrau, ___ sie möchte Menschen helfen.",
+      "hint": "(gives a reason)",
+      "hintDe": "(nennt einen Grund)",
+      "answers": ["denn"],
+      "explanation": "The second clause gives the reason and has the verb in position 2 („sie möchte“) → „denn“. „weil“ would need the verb at the end.",
+      "explanationDe": "Der zweite Satz nennt den Grund und hat das Verb auf Position 2 („sie möchte“) → „denn“. Nach „weil“ müsste das Verb am Ende stehen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir können heute Abend kochen ___ wir bestellen eine Pizza.",
+      "hint": "(alternative)",
+      "hintDe": "(Alternative)",
+      "answers": ["oder"],
+      "explanation": "Two possibilities → „oder“. It stands in position 0, so „wir bestellen“ keeps the normal word order.",
+      "explanationDe": "Zwei Möglichkeiten → „oder“. Es steht auf Position 0, deshalb behält „wir bestellen“ die normale Wortstellung."
+    },
+    {
+      "type": "order",
+      "words": ["erkältet.", "ich", "heute", "denn", "Ich", "zu", "bin", "bleibe", "Hause,"],
+      "answers": ["Ich bleibe heute zu Hause, denn ich bin erkältet.", "Heute bleibe ich zu Hause, denn ich bin erkältet.", "Ich bleibe zu Hause, denn ich bin heute erkältet."],
+      "explanation": "„denn“ follows the comma and is in position 0, so the reason clause has normal word order: „ich bin erkältet“.",
+      "explanationDe": "„denn“ steht nach dem Komma auf Position 0, deshalb hat der Satz mit dem Grund die normale Wortstellung: „ich bin erkältet“."
+    },
+    {
+      "type": "order",
+      "words": ["sauber.", "nicht", "Das", "aber", "teuer,", "Hotel", "sehr", "war"],
+      "answers": ["Das Hotel war nicht teuer, aber sehr sauber.", "Das Hotel war sehr teuer, aber nicht sauber.", "Das Hotel war nicht sehr teuer, aber sauber."],
+      "explanation": "„aber“ adds a contrast after the comma – „nicht teuer, aber sehr sauber“ and „sehr teuer, aber nicht sauber“ both work. The repeated words („das Hotel war“) can be left out after „aber“.",
+      "explanationDe": "„aber“ bringt nach dem Komma einen Gegensatz – „nicht teuer, aber sehr sauber“ und „sehr teuer, aber nicht sauber“ sind beide möglich. Die wiederholten Wörter („das Hotel war“) kannst du nach „aber“ weglassen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the two sentences with „denn“.",
+      "instructionDe": "Verbinde die beiden Sätze mit „denn“.",
+      "prompt": "Ich nehme heute ein Taxi. Mein Fahrrad ist kaputt.",
+      "answers": ["Ich nehme heute ein Taxi, denn mein Fahrrad ist kaputt."],
+      "explanation": "The second sentence is the reason. After „denn“ (position 0) it keeps its word order: „mein Fahrrad ist kaputt“.",
+      "explanationDe": "Der zweite Satz ist der Grund. Nach „denn“ (Position 0) behält er seine Wortstellung: „mein Fahrrad ist kaputt“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the two sentences with „sondern“.",
+      "instructionDe": "Verbinde die beiden Sätze mit „sondern“.",
+      "prompt": "Der Kurs beginnt nicht am Montag. Er beginnt am Mittwoch.",
+      "answers": ["Der Kurs beginnt nicht am Montag, sondern am Mittwoch.", "Der Kurs beginnt nicht am Montag, sondern er beginnt am Mittwoch."],
+      "explanation": "The negated part („nicht am Montag“) is corrected → „sondern“. You can leave out the repeated „er beginnt“.",
+      "explanationDe": "Der verneinte Teil („nicht am Montag“) wird korrigiert → „sondern“. Das wiederholte „er beginnt“ kannst du weglassen."
+    }
+  ],
+  "related": ["satzbau-hauptsatz", "kausale-konsekutive-saetze", "verbindungsadverbien", "nebensaetze-grundlagen", "zweiteilige-konnektoren", "negation"]
+}

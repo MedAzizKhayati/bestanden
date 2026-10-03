@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-04",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Lesen auf Papier oder am Bildschirm?",
+  "topic": "bildung",
+  "difficulty": 2,
+  "article": {
+    "headline": "Papier schlägt Bildschirm – aber nicht immer",
+    "lead": "Verstehen Jugendliche einen Text besser, wenn sie ihn auf Papier lesen? Eine neue Studie aus Freiburg zeigt: Es kommt darauf an, wie lang der Text ist – und wie man liest.",
+    "paragraphs": [
+      "Tablets und Laptops gehören an vielen Schulen inzwischen zum Alltag. In manchen Klassen gibt es kaum noch Schulbücher aus Papier. Viele Eltern fragen sich deshalb, ob ihre Kinder am Bildschirm genauso gut lernen. Ein Team des Freiburger Instituts für Leseforschung wollte es genau wissen und hat zwei Jahre lang mit rund 1.200 Jugendlichen zwischen 12 und 16 Jahren gearbeitet.",
+      "Die eine Hälfte der Jugendlichen las die Texte auf Papier, die andere Hälfte dieselben Texte auf einem Tablet. Danach mussten alle Jugendlichen Fragen zum Inhalt beantworten. Das Ergebnis: Bei kurzen Texten, etwa einer Nachricht oder einer Aufgabe, gab es kaum Unterschiede. Bei längeren Sachtexten über mehrere Seiten verstanden die Jugendlichen auf Papier aber deutlich mehr. „Sie beantworteten im Durchschnitt etwa 15 Prozent mehr Fragen richtig“, sagt Studienleiterin Dr. Katrin Wendel.",
+      "Wie lässt sich das erklären? „Am Bildschirm lesen wir schneller und weniger genau“, sagt Wendel. „Im Internet sind wir es gewohnt, Texte nur zu überfliegen, und diese Gewohnheit nehmen wir mit.“ Außerdem helfe Papier dem Gedächtnis: Wer ein Buch in der Hand hält, weiß oft noch, ob eine Information oben oder unten auf der Seite stand. Beim Scrollen geht diese Orientierung verloren.",
+      "Gegen digitale Medien ist die Forscherin aber nicht. „Tablets haben auch Vorteile“, betont sie. Wer Probleme beim Lesen hat, kann zum Beispiel die Schrift größer machen oder sich unbekannte Wörter sofort erklären lassen. In der Studie haben gerade schwächere Leserinnen und Leser bei kurzen Texten am Tablet sogar etwas besser abgeschnitten als auf Papier.",
+      "Die Studie zeigt außerdem, dass man das Lesen am Bildschirm trainieren kann. Eine Gruppe übte sechs Wochen lang, beim Lesen am Tablet Notizen zu machen und nach jedem Abschnitt kurz zusammenzufassen, was sie gelesen hatte. Danach war der Unterschied zwischen Papier und Bildschirm nur noch halb so groß. „Es ist nicht nur wichtig, worauf wir lesen, sondern auch, wie wir lesen“, sagt Wendel.",
+      "Was bedeutet das für die Schulen? Thomas Brenner leitet ein Gymnasium in Offenburg, das an der Studie teilgenommen hat. „Wir haben die Bücher aus Papier nicht abgeschafft, wie manche Eltern befürchtet hatten“, sagt er. „Für längere Texte und für die Vorbereitung auf Prüfungen benutzen wir weiter Papier. Für Übungen, kurze Aufgaben und die Recherche im Internet nehmen wir die Tablets.“",
+      "Eltern rät Dr. Wendel, das Thema entspannt zu sehen. „Es geht nicht um Papier gegen Bildschirm“, sagt sie. „Kinder sollten beides gut können.“ Sie empfiehlt, zu Hause regelmäßig auch gedruckte Bücher und Zeitschriften anzubieten – und selbst ein Vorbild zu sein."
+    ],
+    "source": "Schule & Familie – Das Elternmagazin"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Die Studie hat gezeigt, dass die Jugendlichen …",
+      "options": [
+        { "key": "a", "text": "kurze Texte auf Papier viel besser verstehen." },
+        { "key": "b", "text": "lange Sachtexte auf Papier besser verstehen als am Tablet." },
+        { "key": "c", "text": "am Tablet 15 Prozent mehr Fragen richtig beantworten." }
+      ],
+      "answer": "b",
+      "explanation": "„Bei längeren Sachtexten … verstanden die Jugendlichen auf Papier aber deutlich mehr“, so (b). For short texts there were „kaum Unterschiede“, so (a) is wrong. The 15 per cent more correct answers were on paper, not on the tablet (c).",
+      "explanationDe": "„Bei längeren Sachtexten … verstanden die Jugendlichen auf Papier aber deutlich mehr“, also ist (b) richtig. Bei kurzen Texten gab es „kaum Unterschiede“, deshalb ist (a) falsch. Die 15 Prozent mehr richtigen Antworten gab es auf Papier, nicht am Tablet (c).",
+      "evidence": "Bei längeren Sachtexten über mehrere Seiten verstanden die Jugendlichen auf Papier aber deutlich mehr."
+    },
+    {
+      "n": 2,
+      "stem": "Laut Dr. Wendel liegt das Ergebnis unter anderem daran, dass …",
+      "options": [
+        { "key": "a", "text": "Jugendliche im Internet fast nur kurze Texte lesen." },
+        { "key": "b", "text": "auf einem Tablet zu viele Informationen auf einer Seite stehen." },
+        { "key": "c", "text": "man am Bildschirm Texte oft nur schnell überfliegt." }
+      ],
+      "answer": "c",
+      "explanation": "„Am Bildschirm lesen wir schneller und weniger genau“ – we are used to skimming („überfliegen“) texts on the internet, so (c). She does not say that young people only read short texts online (a). The problem with scrolling is losing orientation on the page, not too much information (b).",
+      "explanationDe": "„Am Bildschirm lesen wir schneller und weniger genau“ – im Internet sind wir es gewohnt, Texte zu „überfliegen“, also ist (c) richtig. Sie sagt nicht, dass Jugendliche im Internet nur kurze Texte lesen (a). Das Problem beim Scrollen ist, dass man die Orientierung auf der Seite verliert – nicht zu viele Informationen (b).",
+      "evidence": "Im Internet sind wir es gewohnt, Texte nur zu überfliegen, und diese Gewohnheit nehmen wir mit."
+    },
+    {
+      "n": 3,
+      "stem": "Welchen Vorteil von Tablets zeigt die Studie?",
+      "options": [
+        { "key": "a", "text": "Schwächere Leser verstehen kurze Texte am Tablet etwas besser." },
+        { "key": "b", "text": "Die meisten Jugendlichen lesen am Tablet lieber als im Buch." },
+        { "key": "c", "text": "Längere Texte sind am Tablet leichter zu verstehen." }
+      ],
+      "answer": "a",
+      "explanation": "„gerade schwächere Leserinnen und Leser [haben] bei kurzen Texten am Tablet sogar etwas besser abgeschnitten“, so (a). Nothing is said about what young people prefer (b), and longer texts are understood better on paper (c).",
+      "explanationDe": "„gerade schwächere Leserinnen und Leser [haben] bei kurzen Texten am Tablet sogar etwas besser abgeschnitten“, also ist (a) richtig. Darüber, was Jugendliche lieber mögen, steht nichts im Text (b), und längere Texte versteht man auf Papier besser (c).",
+      "evidence": "In der Studie haben gerade schwächere Leserinnen und Leser bei kurzen Texten am Tablet sogar etwas besser abgeschnitten als auf Papier."
+    },
+    {
+      "n": 4,
+      "stem": "Bei der Gruppe, die sechs Wochen lang trainiert hat, …",
+      "options": [
+        { "key": "a", "text": "wurde danach nur noch auf Papier gelesen." },
+        { "key": "b", "text": "gab es danach keinen Unterschied mehr zwischen Papier und Tablet." },
+        { "key": "c", "text": "war der Unterschied zwischen Papier und Tablet danach kleiner." }
+      ],
+      "answer": "c",
+      "explanation": "„Danach war der Unterschied … nur noch halb so groß“ – smaller, so (c). Half as big still means there is a difference, so (b) is wrong. The group trained reading on the tablet, not on paper (a).",
+      "explanationDe": "„Danach war der Unterschied … nur noch halb so groß“ – also kleiner, deshalb ist (c) richtig. Halb so groß heißt: Es gibt immer noch einen Unterschied, deshalb ist (b) falsch. Die Gruppe hat das Lesen am Tablet trainiert, nicht auf Papier (a).",
+      "evidence": "Danach war der Unterschied zwischen Papier und Bildschirm nur noch halb so groß."
+    },
+    {
+      "n": 5,
+      "stem": "Am Gymnasium von Herrn Brenner …",
+      "options": [
+        { "key": "a", "text": "gibt es seit der Studie keine Schulbücher aus Papier mehr." },
+        { "key": "b", "text": "lesen die Schülerinnen und Schüler lange Texte weiter auf Papier." },
+        { "key": "c", "text": "bereiten sich die Schülerinnen und Schüler mit Tablets auf Prüfungen vor." }
+      ],
+      "answer": "b",
+      "explanation": "„Für längere Texte und für die Vorbereitung auf Prüfungen benutzen wir weiter Papier“, so (b). The paper books were not abolished („nicht abgeschafft“), so (a) is wrong. Exam preparation is done on paper, not with tablets (c).",
+      "explanationDe": "„Für längere Texte und für die Vorbereitung auf Prüfungen benutzen wir weiter Papier“, also ist (b) richtig. Die Bücher aus Papier wurden „nicht abgeschafft“, deshalb ist (a) falsch. Auf Prüfungen bereitet man sich mit Papier vor, nicht mit Tablets (c).",
+      "evidence": "Für längere Texte und für die Vorbereitung auf Prüfungen benutzen wir weiter Papier."
+    }
+  ],
+  "glossary": [
+    { "de": "der Sachtext", "en": "non-fiction text, informational text" },
+    { "de": "im Durchschnitt", "en": "on average" },
+    { "de": "überfliegen", "en": "to skim (a text)" },
+    { "de": "die Gewohnheit", "en": "habit" },
+    { "de": "das Gedächtnis", "en": "memory" },
+    { "de": "gut / schlecht abschneiden", "en": "to do well / badly (in a test)" },
+    { "de": "der Abschnitt", "en": "section, part of a text" },
+    { "de": "zusammenfassen", "en": "to summarise" },
+    { "de": "abschaffen", "en": "to abolish, to get rid of" },
+    { "de": "befürchten", "en": "to fear (that something will happen)" },
+    { "de": "das Vorbild", "en": "role model" }
+  ]
+}

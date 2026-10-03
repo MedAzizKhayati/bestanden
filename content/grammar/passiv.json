@@ -1,0 +1,230 @@
+{
+  "id": "passiv",
+  "level": "B1",
+  "category": "verben",
+  "order": 7,
+  "title": "Das Passiv (Präsens, Präteritum, Perfekt, mit Modalverb)",
+  "titleEn": "The passive voice",
+  "summary": "Focus on the action, not the person: werden + past participle in the present, simple past and present perfect – and with modal verbs.",
+  "summaryDe": "Die Handlung steht im Mittelpunkt, nicht die Person: werden + Partizip II im Präsens, Präteritum und Perfekt – und mit Modalverben.",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Passive = **werden** (conjugated) + **past participle** (at the end). It puts the **action** in the centre, not the person who does it. If you want to name the person, use **von + dative**: Die Pakete **werden** vom Paketdienst **gebracht**.",
+      "mdDe": "Passiv = **werden** (konjugiert) + **Partizip II** (am Ende). Im Mittelpunkt steht die **Handlung**, nicht die Person, die sie macht. Wenn du die Person nennen willst, nimm **von + Dativ**: Die Pakete **werden** vom Paketdienst **gebracht**."
+    },
+    {
+      "type": "text",
+      "heading": "Active or passive?",
+      "headingDe": "Aktiv oder Passiv?",
+      "md": "- **Aktiv:** Der Mechaniker **repariert** das Auto. (Who does what? – the mechanic.)\n- **Passiv:** Das Auto **wird repariert**. (What happens? – the car is being repaired.)\n\nThe accusative object of the active sentence becomes the **subject** of the passive sentence: Man repariert **den** Wagen. → **Der** Wagen wird repariert.\n\nOften the person is unknown or not important, so it is left out. If you need it, use **von + dative**: Das Auto wird **vom** Mechaniker repariert.",
+      "mdDe": "- **Aktiv:** Der Mechaniker **repariert** das Auto. (Wer macht was? – der Mechaniker.)\n- **Passiv:** Das Auto **wird repariert**. (Was passiert? – Das Auto wird gerade repariert.)\n\nDas Akkusativobjekt aus dem Aktivsatz wird zum **Subjekt** im Passivsatz: Man repariert **den** Wagen. → **Der** Wagen wird repariert.\n\nOft ist die Person unbekannt oder nicht wichtig, deshalb fällt sie weg. Wenn du sie brauchst, nimm **von + Dativ**: Das Auto wird **vom** Mechaniker repariert."
+    },
+    {
+      "type": "table",
+      "heading": "Passive forms",
+      "headingDe": "Passivformen",
+      "columns": ["Tense", "Form", "Example"],
+      "columnsDe": ["Zeitform", "Form", "Beispiel"],
+      "rows": [
+        ["Präsens", "werden + participle", "Das Haus wird renoviert."],
+        ["Präteritum", "wurde + participle", "Das Haus wurde 1910 gebaut."],
+        ["Perfekt", "sein + participle + worden", "Das Haus ist renoviert worden."],
+        ["with a modal verb", "modal verb + participle + werden", "Das Haus muss renoviert werden."],
+        ["modal verb in the Präteritum", "modal verb (Präteritum) + participle + werden", "Das Haus musste renoviert werden."]
+      ],
+      "rowsDe": [
+        ["Präsens", "werden + Partizip II", "Das Haus wird renoviert."],
+        ["Präteritum", "wurde + Partizip II", "Das Haus wurde 1910 gebaut."],
+        ["Perfekt", "sein + Partizip II + worden", "Das Haus ist renoviert worden."],
+        ["mit Modalverb", "Modalverb + Partizip II + werden", "Das Haus muss renoviert werden."],
+        ["Modalverb im Präteritum", "Modalverb (Präteritum) + Partizip II + werden", "Das Haus musste renoviert werden."]
+      ],
+      "note": "In the Perfekt passive, the participle of werden is „worden“ – without ge-: ist gebaut worden.",
+      "noteDe": "Im Passiv Perfekt heißt das Partizip von werden „worden“ – ohne ge-: ist gebaut worden."
+    },
+    {
+      "type": "table",
+      "heading": "werden: Präsens and Präteritum",
+      "headingDe": "werden: Präsens und Präteritum",
+      "columns": ["Person", "Präsens", "Präteritum"],
+      "columnsDe": ["Person", "Präsens", "Präteritum"],
+      "rows": [
+        ["ich", "werde", "wurde"],
+        ["du", "wirst", "wurdest"],
+        ["er/sie/es", "wird", "wurde"],
+        ["wir", "werden", "wurden"],
+        ["ihr", "werdet", "wurdet"],
+        ["sie/Sie", "werden", "wurden"]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Word order",
+      "headingDe": "Wortstellung",
+      "md": "- **Main clause:** werden or the modal verb in position 2, the participle (+ worden/werden) at the end: Die Möbel **werden** morgen **geliefert**. / Die Möbel **sind** gestern **geliefert worden**. / Die Möbel **können** erst morgen **geliefert werden**.\n- **Subordinate clause:** the conjugated verb goes to the very end: Ich weiß nicht, wann die Möbel **geliefert werden**. / …, weil die Straße **gesperrt worden ist**. / …, ob das Formular heute noch **abgeschickt werden muss**.\n- **man** is an active alternative with the same meaning: Man liefert die Möbel morgen. = Die Möbel werden morgen geliefert.",
+      "mdDe": "- **Hauptsatz:** werden oder das Modalverb auf Position 2, das Partizip (+ worden/werden) am Ende: Die Möbel **werden** morgen **geliefert**. / Die Möbel **sind** gestern **geliefert worden**. / Die Möbel **können** erst morgen **geliefert werden**.\n- **Nebensatz:** Das konjugierte Verb steht ganz am Ende: Ich weiß nicht, wann die Möbel **geliefert werden**. / …, weil die Straße **gesperrt worden ist**. / …, ob das Formular heute noch **abgeschickt werden muss**.\n- **man** ist eine aktive Alternative mit derselben Bedeutung: Man liefert die Möbel morgen. = Die Möbel werden morgen geliefert."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "In Deutschland **wird** viel Kaffee **getrunken**.", "en": "A lot of coffee is drunk in Germany." },
+        { "de": "Der Brief **wird** heute noch **abgeschickt**.", "en": "The letter is going to be sent off today." },
+        { "de": "Die Brücke **wurde** im Jahr 1890 **gebaut**.", "en": "The bridge was built in 1890." },
+        { "de": "Mein Fahrrad **ist** gestern **gestohlen worden**.", "en": "My bike was stolen yesterday." },
+        { "de": "Die Patienten **werden** von zwei Ärztinnen **behandelt**.", "en": "The patients are being treated by two doctors." },
+        { "de": "Der Müll **muss** richtig **getrennt werden**.", "en": "The rubbish must be sorted correctly." },
+        { "de": "Hier **darf** nicht **geraucht werden**.", "en": "Smoking is not allowed here." },
+        { "de": "Das Konzert **wurde** wegen des Gewitters **abgesagt**.", "en": "The concert was cancelled because of the thunderstorm." },
+        { "de": "Die Formulare **können** auch online **ausgefüllt werden**.", "en": "The forms can also be filled in online." },
+        { "de": "Wann **ist** das Museum **eröffnet worden**?", "en": "When was the museum opened?" }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "Don't mix up the three jobs of **werden**: Er **wird** Arzt (becomes) – Er **wird** morgen **kommen** (Futur I) – Er **wird** morgen **operiert** (passive). In the Perfekt passive, use **worden**, not „geworden“: Das Auto **ist repariert worden**. „geworden“ is only for becoming: Er ist Arzt **geworden**.",
+      "mdDe": "Verwechsle die drei Aufgaben von **werden** nicht: Er **wird** Arzt (Vollverb) – Er **wird** morgen **kommen** (Futur I) – Er **wird** morgen **operiert** (Passiv). Im Passiv Perfekt steht **worden**, nicht „geworden“: Das Auto **ist repariert worden**. „geworden“ gibt es nur beim Vollverb werden (= sich verändern): Er ist Arzt **geworden**."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1** look at the end of the clause: if there is a participle (gebaut, eröffnet) and the gap is the verb, the answer is usually a form of werden – „wird / wurde / ist … worden“. Options like „wurde / würde / worden“ test exactly this. In **Lesen Teil 1 and 2**, newspaper texts love the passive („Die Schule wurde 1965 eröffnet.“, „Es wird erwartet, dass …“) – ask yourself: What happens, and to what?\n\nIn **Schreiben**, the passive sounds precise and formal, which is perfect for complaints: „Mir wurde gesagt, dass …“ – „Das Paket ist leider beschädigt worden.“",
+      "mdDe": "Schau in **Sprachbausteine Teil 1** auf das Ende des Satzes: Steht dort ein Partizip (gebaut, eröffnet) und fehlt in der Lücke das Verb, dann ist die Antwort meistens eine Form von werden – „wird / wurde / ist … worden“. Antwortmöglichkeiten wie „wurde / würde / worden“ prüfen genau das. In **Lesen Teil 1 und 2** lieben Zeitungstexte das Passiv („Die Schule wurde 1965 eröffnet.“, „Es wird erwartet, dass …“) – frag dich: Was passiert, und mit wem oder was?\n\nBeim **Schreiben** klingt das Passiv genau und formell – perfekt für Beschwerden: „Mir wurde gesagt, dass …“ – „Das Paket ist leider beschädigt worden.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Das Auto ist repariert geworden.",
+      "right": "Das Auto ist repariert worden.",
+      "why": "In the Perfekt passive the participle of werden is „worden“, without ge-.",
+      "whyDe": "Im Passiv Perfekt heißt das Partizip von werden „worden“, ohne ge-."
+    },
+    {
+      "wrong": "Den Brief wurde gestern abgeschickt.",
+      "right": "Der Brief wurde gestern abgeschickt.",
+      "why": "The accusative object of the active sentence becomes the subject (nominative) of the passive sentence.",
+      "whyDe": "Das Akkusativobjekt aus dem Aktivsatz wird im Passivsatz zum Subjekt (Nominativ)."
+    },
+    {
+      "wrong": "Die Rechnung muss bis Freitag bezahlen werden.",
+      "right": "Die Rechnung muss bis Freitag bezahlt werden.",
+      "why": "Passive with a modal verb: past participle + „werden“ – „bezahlt werden“.",
+      "whyDe": "Passiv mit Modalverb: Partizip II + „werden“ – „bezahlt werden“."
+    },
+    {
+      "wrong": "Die Kinder werden von ihre Großeltern abgeholt.",
+      "right": "Die Kinder werden von ihren Großeltern abgeholt.",
+      "why": "„von“ always takes the dative: „von ihren Großeltern“.",
+      "whyDe": "Nach „von“ steht immer der Dativ: „von ihren Großeltern“."
+    },
+    {
+      "wrong": "Die Fenster wird jeden Monat geputzt.",
+      "right": "Die Fenster werden jeden Monat geputzt.",
+      "why": "„werden“ agrees with the subject: „die Fenster“ is plural → „werden“.",
+      "whyDe": "„werden“ richtet sich nach dem Subjekt: „die Fenster“ ist Plural → „werden“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Unsere Straße ___ im Moment repariert, deshalb müssen wir einen Umweg fahren.",
+      "options": ["wurde", "wird", "würde"],
+      "answer": 1,
+      "explanation": "„im Moment“ → present: Passiv Präsens „wird … repariert“. „wurde“ is past, „würde“ is Konjunktiv II.",
+      "explanationDe": "„im Moment“ → Gegenwart: Passiv Präsens „wird … repariert“. „wurde“ ist Vergangenheit, „würde“ ist Konjunktiv II."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Brücke ist im letzten Jahr renoviert ___.",
+      "options": ["geworden", "werden", "worden"],
+      "answer": 2,
+      "explanation": "Perfekt passive: „ist … renoviert worden“. In the passive, the participle of werden is „worden“ – without ge-.",
+      "explanationDe": "Passiv Perfekt: „ist … renoviert worden“. Im Passiv heißt das Partizip von werden „worden“ – ohne ge-."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Bewerbung muss bis zum 15. März ___ werden.",
+      "options": ["geschickt", "schicken", "geschickt worden"],
+      "answer": 0,
+      "explanation": "Passive with a modal verb: modal verb + participle + „werden“ → „muss … geschickt werden“.",
+      "explanationDe": "Passiv mit Modalverb: Modalverb + Partizip II + „werden“ → „muss … geschickt werden“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Kinder ___ jeden Nachmittag von ihrer Oma abgeholt.",
+      "options": ["wird", "werden", "worden"],
+      "answer": 1,
+      "explanation": "„die Kinder“ is plural → „werden“. „von ihrer Oma“ names the person who does the action (von + dative).",
+      "explanationDe": "„die Kinder“ ist Plural → „werden“. „von ihrer Oma“ nennt die Person, die die Handlung macht (von + Dativ)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der neue Fernseher ___ gestern geliefert.",
+      "answers": ["wurde"],
+      "hint": "(werden, Präteritum)",
+      "explanation": "Passiv Präteritum: „wurde“ + participle. „der Fernseher“ is singular.",
+      "explanationDe": "Passiv Präteritum: „wurde“ + Partizip II. „der Fernseher“ ist Singular."
+    },
+    {
+      "type": "gap",
+      "prompt": "Mein Portemonnaie ist im Bus gestohlen ___.",
+      "answers": ["worden"],
+      "explanation": "Perfekt passive: „ist … gestohlen worden“.",
+      "explanationDe": "Passiv Perfekt: „ist … gestohlen worden“."
+    },
+    {
+      "type": "gap",
+      "prompt": "In unserem Kurs ___ nur Deutsch gesprochen.",
+      "answers": ["wird"],
+      "hint": "(werden, Präsens)",
+      "explanation": "The subject is „Deutsch“ (singular), so you need „wird“ + participle: „wird … gesprochen“ (= man spricht nur Deutsch).",
+      "explanationDe": "Das Subjekt ist „Deutsch“ (Singular), deshalb brauchst du „wird“ + Partizip II: „wird … gesprochen“ (= man spricht nur Deutsch)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Fenster müssen dringend ___ werden.",
+      "answers": ["geputzt"],
+      "hint": "(putzen)",
+      "explanation": "Passive with a modal verb: the participle „geputzt“ + „werden“.",
+      "explanationDe": "Passiv mit Modalverb: das Partizip „geputzt“ + „werden“."
+    },
+    {
+      "type": "order",
+      "words": ["geschickt.", "falsche", "wurde", "an", "Paket", "gestern", "Das", "Adresse", "die"],
+      "answers": [
+        "Das Paket wurde gestern an die falsche Adresse geschickt.",
+        "Gestern wurde das Paket an die falsche Adresse geschickt."
+      ],
+      "explanation": "„wurde“ is in position 2 and the participle „geschickt“ at the end. The time („gestern“) comes before the destination („an die falsche Adresse“).",
+      "explanationDe": "„wurde“ steht auf Position 2, das Partizip „geschickt“ am Ende. Die Zeit („gestern“) steht vor dem Ziel („an die falsche Adresse“)."
+    },
+    {
+      "type": "order",
+      "words": ["werden.", "darf", "diesem", "geparkt", "In", "nicht", "Bereich"],
+      "answers": ["In diesem Bereich darf nicht geparkt werden."],
+      "explanation": "Passive with a modal verb: „darf“ in position 2, then „nicht“, and at the end the participle + „werden“.",
+      "explanationDe": "Passiv mit Modalverb: „darf“ auf Position 2, dann „nicht“ und am Ende das Partizip + „werden“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the passive (Präsens). Leave out „man“.",
+      "instructionDe": "Schreibe den Satz im Passiv (Präsens). Lass „man“ weg.",
+      "prompt": "Man bringt die Möbel am Freitag.",
+      "answers": ["Die Möbel werden am Freitag gebracht.", "Am Freitag werden die Möbel gebracht."],
+      "explanation": "The object „die Möbel“ becomes the subject. It is plural, so you need „werden“; the participle „gebracht“ goes to the end.",
+      "explanationDe": "Das Objekt „die Möbel“ wird zum Subjekt. Es ist Plural, deshalb brauchst du „werden“; das Partizip „gebracht“ steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the Perfekt passive. Keep the person with „von“.",
+      "instructionDe": "Schreibe den Satz im Passiv Perfekt. Nenne die Person mit „von“.",
+      "prompt": "Der Hausmeister hat die Heizung repariert.",
+      "answers": ["Die Heizung ist vom Hausmeister repariert worden.", "Die Heizung ist von dem Hausmeister repariert worden."],
+      "explanation": "Perfekt passive = „ist“ + participle + „worden“. The person becomes „von + dative“: „vom Hausmeister“.",
+      "explanationDe": "Passiv Perfekt = „ist“ + Partizip II + „worden“. Die Person wird zu „von + Dativ“: „vom Hausmeister“."
+    }
+  ],
+  "related": ["perfekt", "praeteritum", "modalverben", "futur-1", "partizip-als-adjektiv"]
+}

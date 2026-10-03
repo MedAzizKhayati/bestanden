@@ -1,0 +1,121 @@
+{
+  "id": "sprachbausteine-2-10",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Theater spielen in Graz",
+  "topic": "kultur",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "stimulus": {
+    "heading": "Theatergruppe „Rampenlicht“ sucht Verstärkung!",
+    "lines": [
+      "Wir sind 15 Amateurschauspielerinnen und -schauspieler zwischen 18 und 70 Jahren.",
+      "Proben: jeden Dienstag, 19–21.30 Uhr, im Kulturzentrum Lend, Graz",
+      "Für unser neues Stück (Premiere im Mai) suchen wir Darstellerinnen und Darsteller, aber auch Hilfe bei Kostümen, Technik und Bühnenbild.",
+      "Vorkenntnisse sind nicht nötig.",
+      "Kontakt: Ingrid Moser, Tel. 0316 772045"
+    ]
+  },
+  "text": "Sehr geehrte Frau Moser,\n\nim Kulturzentrum Lend habe ich Ihren Aushang gelesen und möchte gern bei Ihrer Theatergruppe mitmachen.\n\nIch komme ursprünglich [[1]] Brasilien und lebe seit einem Jahr in Graz. In meiner Heimat habe ich in einer Schultheatergruppe gespielt, und das hat mir immer sehr viel [[2]] gemacht. Mein Deutsch ist [[3]] nicht perfekt, aber ich lerne jeden Tag dazu. Vielleicht gibt es am Anfang eine kleine [[4]] für mich?\n\nFalls das nicht möglich ist, könnte ich auch bei den Kostümen helfen. Ich nähe nämlich sehr gern und habe schon viele Kleider für meine Familie [[5]].\n\nDienstagabends habe ich Zeit, der Probentermin passt mir also sehr gut. Ich möchte Sie aber noch etwas [[6]]: Muss man für die Teilnahme einen [[7]] bezahlen? Und gibt es vor der Premiere auch Proben am Wochenende?\n\nEs wäre schön, [[8]] ich einmal bei einer Probe zuschauen könnte. So könnte ich die Gruppe kennenlernen, bevor ich mich [[9]].\n\nIch freue mich darauf, bald von Ihnen zu [[10]].\n\nMit freundlichen Grüßen\nAna Ribeiro",
+  "words": [
+    { "key": "a", "text": "anmelde" },
+    { "key": "b", "text": "aus" },
+    { "key": "c", "text": "Beitrag" },
+    { "key": "d", "text": "bitten" },
+    { "key": "e", "text": "dass" },
+    { "key": "f", "text": "fragen" },
+    { "key": "g", "text": "genäht" },
+    { "key": "h", "text": "hören" },
+    { "key": "i", "text": "Lust" },
+    { "key": "j", "text": "noch" },
+    { "key": "k", "text": "Rolle" },
+    { "key": "l", "text": "Spaß" },
+    { "key": "m", "text": "Stück" },
+    { "key": "n", "text": "von" },
+    { "key": "o", "text": "wenn" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "b",
+      "explanation": "„aus“ + country says where someone comes from: „Ich komme ursprünglich aus Brasilien.“ „von“ is not used for the country of origin.",
+      "explanationDe": "„aus“ + Land sagt, woher jemand kommt: „Ich komme ursprünglich aus Brasilien.“ „von“ benutzt man nicht für das Herkunftsland.",
+      "grammar": "lokale-praepositionen"
+    },
+    {
+      "n": 2,
+      "answer": "l",
+      "explanation": "„Das hat mir viel Spaß gemacht“ (I really enjoyed it) is a fixed expression. „Lust“ cannot be used with „machen“ in this way.",
+      "explanationDe": "„Das hat mir viel Spaß gemacht“ (= Ich hatte viel Freude dabei) ist eine feste Wendung. „Lust“ kann man so nicht mit „machen“ benutzen.",
+      "grammar": "nomen-verb-verbindungen"
+    },
+    {
+      "n": 3,
+      "answer": "j",
+      "explanation": "„noch nicht“ means „not yet“: her German is not perfect yet, but she is learning more every day.",
+      "explanationDe": "„noch nicht“ bedeutet: bis jetzt nicht. Ihr Deutsch ist noch nicht perfekt, aber sie lernt jeden Tag dazu.",
+      "grammar": "negation"
+    },
+    {
+      "n": 4,
+      "answer": "k",
+      "explanation": "She would like to act, so she asks for a small part: „eine kleine Rolle“. „Stück“ (the play) is neuter („ein kleines Stück“), so it cannot follow „eine kleine“.",
+      "explanationDe": "Sie möchte gern auf der Bühne stehen, deshalb fragt sie nach einer kleinen Rolle: „eine kleine Rolle“. „Stück“ (= das Theaterstück) ist neutral („ein kleines Stück“) und kann deshalb nicht nach „eine kleine“ stehen.",
+      "grammar": "kasus-und-artikel"
+    },
+    {
+      "n": 5,
+      "answer": "g",
+      "explanation": "Perfect tense of „nähen“ (to sew): „habe … viele Kleider genäht“. That is why she can help with the costumes.",
+      "explanationDe": "Perfekt von „nähen“ (= Kleidung mit Nadel und Faden machen): „habe … viele Kleider genäht“. Deshalb kann sie bei den Kostümen helfen.",
+      "grammar": "perfekt"
+    },
+    {
+      "n": 6,
+      "answer": "f",
+      "explanation": "„jemanden etwas fragen“ means „to ask someone something“ – her questions follow after the colon. „bitten“ means „to ask for something“ and needs „um“.",
+      "explanationDe": "„jemanden etwas fragen“ bedeutet: jemandem eine Frage stellen – ihre Fragen folgen nach dem Doppelpunkt. „bitten“ bedeutet, dass man etwas haben möchte, und braucht „um“.",
+      "grammar": "verben-mit-praepositionen"
+    },
+    {
+      "n": 7,
+      "answer": "c",
+      "explanation": "„einen“ needs a masculine noun: „einen Beitrag bezahlen“ (to pay a membership fee).",
+      "explanationDe": "Nach „einen“ braucht man ein maskulines Nomen: „einen Beitrag bezahlen“ (= Geld für die Mitgliedschaft zahlen).",
+      "grammar": "kasus-und-artikel"
+    },
+    {
+      "n": 8,
+      "answer": "o",
+      "explanation": "„Es wäre schön, wenn …“ introduces a polite wish in the subjunctive („könnte“). „dass“ is not used for this hypothetical meaning.",
+      "explanationDe": "„Es wäre schön, wenn …“ leitet einen höflichen Wunsch im Konjunktiv II ein („könnte“). „dass“ benutzt man nicht für diese hypothetische Bedeutung.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 9,
+      "answer": "a",
+      "explanation": "„sich anmelden“ means „to sign up“: she wants to get to know the group before she signs up. The verb is at the end of the „bevor“-clause.",
+      "explanationDe": "„sich anmelden“ bedeutet: offiziell sagen, dass man mitmachen will. Sie möchte die Gruppe kennenlernen, bevor sie sich anmeldet. Das Verb steht am Ende des „bevor“-Satzes.",
+      "grammar": "reflexive-verben"
+    },
+    {
+      "n": 10,
+      "answer": "h",
+      "explanation": "„Ich freue mich darauf, bald von Ihnen zu hören“ (I look forward to hearing from you soon) is a typical closing sentence in letters.",
+      "explanationDe": "„Ich freue mich darauf, bald von Ihnen zu hören“ ist ein typischer Schlusssatz in Briefen.",
+      "grammar": "infinitiv-mit-zu"
+    }
+  ],
+  "glossary": [
+    { "de": "der Aushang", "en": "notice (on a notice board)" },
+    { "de": "die Verstärkung", "en": "reinforcement, new members" },
+    { "de": "ursprünglich", "en": "originally" },
+    { "de": "Spaß machen", "en": "to be fun" },
+    { "de": "die Rolle", "en": "role, part" },
+    { "de": "nähen", "en": "to sew" },
+    { "de": "der Beitrag", "en": "(membership) fee" },
+    { "de": "die Probe", "en": "rehearsal" },
+    { "de": "die Premiere", "en": "opening night" },
+    { "de": "sich anmelden", "en": "to sign up, to register" }
+  ]
+}

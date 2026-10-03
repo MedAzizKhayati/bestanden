@@ -1,0 +1,262 @@
+{
+  "id": "nomen-verb-verbindungen",
+  "level": "B1",
+  "category": "wortschatz",
+  "order": 2,
+  "title": "Nomen-Verb-Verbindungen",
+  "titleEn": "Noun-verb collocations",
+  "summary": "Fixed pairs of noun + verb like „eine Entscheidung treffen“ or „Bescheid geben“ – the verb is fixed and cannot be swapped.",
+  "summaryDe": "Feste Paare aus Nomen + Verb wie „eine Entscheidung treffen“ oder „Bescheid geben“ – das Verb ist fest, du kannst es nicht austauschen.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "In a Nomen-Verb-Verbindung the **noun carries the meaning** and the **verb is fixed**: you „**treffen**“ a decision („eine Entscheidung treffen“) and „**stellen**“ a question („eine Frage stellen“). You cannot swap the verb – learn noun and verb as one unit.",
+      "mdDe": "In einer Nomen-Verb-Verbindung **trägt das Nomen die Bedeutung**, und das **Verb ist fest**: Zu einer Entscheidung gehört das Verb „**treffen**“ („eine Entscheidung treffen“), zu einer Frage das Verb „**stellen**“ („eine Frage stellen“). Du kannst das Verb nicht austauschen – lerne Nomen und Verb als eine Einheit."
+    },
+    {
+      "type": "text",
+      "heading": "Why they matter",
+      "headingDe": "Warum sie wichtig sind",
+      "md": "- Many of them mean the same as a simple verb but sound more formal: „eine Entscheidung treffen“ = „entscheiden“, „einen Vorschlag machen“ = „vorschlagen“, „einen Antrag stellen“ = „beantragen“.\n- Some have no simple equivalent at all: „**Bescheid geben**“ (to let someone know), „**Rücksicht nehmen** auf“ (to be considerate of), „**infrage kommen**“ (to be an option).\n- English often uses a different verb: *make* a decision → „eine Entscheidung **treffen**“, *ask* a question → „eine Frage **stellen**“, *take* a seat → „Platz **nehmen**“, *give* a talk → „einen Vortrag **halten**“.",
+      "mdDe": "- Viele bedeuten dasselbe wie ein einfaches Verb, klingen aber formeller: „eine Entscheidung treffen“ = „entscheiden“, „einen Vorschlag machen“ = „vorschlagen“, „einen Antrag stellen“ = „beantragen“.\n- Für manche gibt es gar kein einfaches Verb: „**Bescheid geben**“ (= jemanden informieren), „**Rücksicht nehmen** auf“ (= auf andere achten), „**infrage kommen**“ (= möglich sein, eine Option sein).\n- Im Englischen steht oft ein anderes Verb: *make* a decision → „eine Entscheidung **treffen**“, *ask* a question → „eine Frage **stellen**“, *take* a seat → „Platz **nehmen**“, *give* a talk → „einen Vortrag **halten**“."
+    },
+    {
+      "type": "table",
+      "heading": "Important Nomen-Verb-Verbindungen for B1",
+      "headingDe": "Wichtige Nomen-Verb-Verbindungen für B1",
+      "columns": ["Verbindung", "Meaning", "Beispiel"],
+      "columnsDe": ["Verbindung", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["eine Entscheidung treffen", "to make a decision (= entscheiden)", "Bis Ende des Monats müssen wir eine Entscheidung treffen."],
+        ["eine Frage stellen", "to ask a question (= fragen)", "Nach dem Vortrag können Sie Fragen stellen."],
+        ["einen Antrag stellen (auf + Akk)", "to apply for (= beantragen)", "Ich habe einen Antrag auf Wohngeld gestellt."],
+        ["Bescheid geben / sagen", "to let someone know", "Gib mir bitte Bescheid, wenn du angekommen bist."],
+        ["Bescheid wissen (über + Akk)", "to know about something", "Weißt du schon Bescheid?"],
+        ["eine Rolle spielen", "to play a role, to matter", "Der Preis spielt für mich keine Rolle."],
+        ["Kontakt aufnehmen (mit + Dat)", "to get in touch (= kontaktieren)", "Bitte nehmen Sie mit unserem Büro Kontakt auf."],
+        ["Rücksicht nehmen (auf + Akk)", "to be considerate of", "Bitte nehmen Sie Rücksicht auf die Nachbarn."],
+        ["Abschied nehmen (von + Dat)", "to say goodbye (= sich verabschieden)", "Am Bahnhof haben wir Abschied genommen."],
+        ["Platz nehmen", "to take a seat (= sich setzen)", "Bitte nehmen Sie Platz."],
+        ["einen Vorschlag machen", "to make a suggestion (= vorschlagen)", "Darf ich einen Vorschlag machen?"],
+        ["sich Sorgen machen (um + Akk)", "to worry about", "Ich mache mir Sorgen um meine Mutter."],
+        ["Spaß machen", "to be fun", "Die Arbeit macht mir viel Spaß."],
+        ["einen Termin vereinbaren", "to make an appointment", "Ich möchte einen Termin beim Arzt vereinbaren."],
+        ["einen Vortrag halten", "to give a talk", "Morgen halte ich einen Vortrag über mein Heimatland."],
+        ["Auskunft geben (über + Akk)", "to give information", "Die Dame am Schalter gibt Ihnen gern Auskunft."],
+        ["zur Verfügung stehen", "to be available", "Für Fragen stehe ich Ihnen gern zur Verfügung."],
+        ["zur Verfügung stellen", "to provide, to make available", "Die Firma stellt uns einen Laptop zur Verfügung."],
+        ["infrage kommen (also: in Frage kommen)", "to be an option", "Ein Umzug kommt für uns nicht infrage."],
+        ["zu Ende gehen", "to come to an end (= enden)", "Der Urlaub geht leider bald zu Ende."],
+        ["Wert legen (auf + Akk)", "to attach importance to", "Wir legen großen Wert auf Pünktlichkeit."],
+        ["Sport treiben", "to do sport", "Ich treibe dreimal pro Woche Sport."]
+      ],
+      "rowsDe": [
+        ["eine Entscheidung treffen", "entscheiden", "Bis Ende des Monats müssen wir eine Entscheidung treffen."],
+        ["eine Frage stellen", "fragen", "Nach dem Vortrag können Sie Fragen stellen."],
+        ["einen Antrag stellen (auf + Akk)", "beantragen", "Ich habe einen Antrag auf Wohngeld gestellt."],
+        ["Bescheid geben / sagen", "jemanden informieren", "Gib mir bitte Bescheid, wenn du angekommen bist."],
+        ["Bescheid wissen (über + Akk)", "über etwas informiert sein", "Weißt du schon Bescheid?"],
+        ["eine Rolle spielen", "wichtig sein", "Der Preis spielt für mich keine Rolle."],
+        ["Kontakt aufnehmen (mit + Dat)", "kontaktieren, sich melden", "Bitte nehmen Sie mit unserem Büro Kontakt auf."],
+        ["Rücksicht nehmen (auf + Akk)", "auf andere achten", "Bitte nehmen Sie Rücksicht auf die Nachbarn."],
+        ["Abschied nehmen (von + Dat)", "sich verabschieden", "Am Bahnhof haben wir Abschied genommen."],
+        ["Platz nehmen", "sich setzen", "Bitte nehmen Sie Platz."],
+        ["einen Vorschlag machen", "vorschlagen", "Darf ich einen Vorschlag machen?"],
+        ["sich Sorgen machen (um + Akk)", "besorgt sein, Angst um jemanden haben", "Ich mache mir Sorgen um meine Mutter."],
+        ["Spaß machen", "Freude bringen, gefallen", "Die Arbeit macht mir viel Spaß."],
+        ["einen Termin vereinbaren", "einen Termin ausmachen, festlegen", "Ich möchte einen Termin beim Arzt vereinbaren."],
+        ["einen Vortrag halten", "vor Publikum über ein Thema sprechen", "Morgen halte ich einen Vortrag über mein Heimatland."],
+        ["Auskunft geben (über + Akk)", "informieren", "Die Dame am Schalter gibt Ihnen gern Auskunft."],
+        ["zur Verfügung stehen", "verfügbar sein, bereitstehen", "Für Fragen stehe ich Ihnen gern zur Verfügung."],
+        ["zur Verfügung stellen", "bereitstellen, geben", "Die Firma stellt uns einen Laptop zur Verfügung."],
+        ["infrage kommen (auch: in Frage kommen)", "möglich sein, eine Option sein", "Ein Umzug kommt für uns nicht infrage."],
+        ["zu Ende gehen", "enden", "Der Urlaub geht leider bald zu Ende."],
+        ["Wert legen (auf + Akk)", "etwas wichtig finden", "Wir legen großen Wert auf Pünktlichkeit."],
+        ["Sport treiben", "Sport machen", "Ich treibe dreimal pro Woche Sport."]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Learn them by verb",
+      "headingDe": "Nach dem Verb lernen",
+      "md": "Grouping the expressions by their verb makes them easier to remember:\n\n- **stellen:** eine Frage, einen Antrag; etwas zur Verfügung stellen\n- **treffen:** eine Entscheidung, Vorbereitungen („Wir treffen die letzten Vorbereitungen für das Fest.“)\n- **nehmen:** Platz, Abschied, Rücksicht; Kontakt aufnehmen\n- **machen:** einen Vorschlag, eine Pause, Spaß, sich Sorgen, ein Foto\n- **halten:** einen Vortrag, eine Rede, ein Versprechen (= to keep a promise)\n- **geben:** Bescheid, Auskunft, einen Rat, eine Antwort\n- **stehen / kommen / gehen:** zur Verfügung stehen, infrage kommen, zu Ende gehen",
+      "mdDe": "Wenn du die Ausdrücke nach ihrem Verb ordnest, kannst du sie dir leichter merken:\n\n- **stellen:** eine Frage, einen Antrag; etwas zur Verfügung stellen\n- **treffen:** eine Entscheidung, Vorbereitungen („Wir treffen die letzten Vorbereitungen für das Fest.“)\n- **nehmen:** Platz, Abschied, Rücksicht; Kontakt aufnehmen\n- **machen:** einen Vorschlag, eine Pause, Spaß, sich Sorgen, ein Foto\n- **halten:** einen Vortrag, eine Rede, ein Versprechen (= tun, was man versprochen hat)\n- **geben:** Bescheid, Auskunft, einen Rat, eine Antwort\n- **stehen / kommen / gehen:** zur Verfügung stehen, infrage kommen, zu Ende gehen"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Hast du schon eine **Entscheidung getroffen**?", "en": "Have you made a decision yet?" },
+        { "de": "**Gib** mir bitte **Bescheid**, ob du am Samstag kommst.", "en": "Please let me know whether you're coming on Saturday." },
+        { "de": "Für weitere Fragen **stehe** ich Ihnen gern **zur Verfügung**.", "en": "I'll be happy to answer any further questions." },
+        { "de": "Ich **mache** mir **Sorgen** um meinen Vater.", "en": "I'm worried about my father." },
+        { "de": "Bitte **nehmen** Sie **Platz**, Frau Doktor Schäfer kommt gleich.", "en": "Please take a seat, Dr Schäfer will be with you shortly." },
+        { "de": "Ich möchte gern einen **Termin vereinbaren**.", "en": "I'd like to make an appointment." },
+        { "de": "Wir müssen mehr **Rücksicht** auf ältere Menschen **nehmen**.", "en": "We need to be more considerate of older people." },
+        { "de": "Wir haben einen **Antrag** auf Kindergeld **gestellt**.", "en": "We have applied for child benefit." },
+        { "de": "Der Kurs **geht** am Freitag **zu Ende**.", "en": "The course ends on Friday." },
+        { "de": "Wer kann mir **Auskunft** über die Öffnungszeiten **geben**?", "en": "Who can give me information about the opening hours?" }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Don't translate the verb from English:** *make* a decision = „eine Entscheidung **treffen**“ (not „machen“), *ask* a question = „eine Frage **stellen**“ („eine Frage fragen“ is wrong), *take* a seat = „Platz **nehmen**“, *give* a talk = „einen Vortrag **halten**“. Also notice that the noun often has **no article**: „Bescheid geben“, „Platz nehmen“, „Rücksicht nehmen“.",
+      "mdDe": "**Übersetze das Verb nicht aus dem Englischen:** *make* a decision = „eine Entscheidung **treffen**“ (nicht „machen“), *ask* a question = „eine Frage **stellen**“ („eine Frage fragen“ ist falsch), *take* a seat = „Platz **nehmen**“, *give* a talk = „einen Vortrag **halten**“. Achte auch darauf, dass das Nomen oft **keinen Artikel** hat: „Bescheid geben“, „Platz nehmen“, „Rücksicht nehmen“."
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 2** loves these collocations: the noun is in the text and you need the verb, or the other way round – „Bitte geben Sie mir ___ (Bescheid).“, „Darf ich Ihnen eine Frage ___ (stellen)?“. A word in the box that fits grammatically but is not the fixed partner is a distractor. **Lesen:** in official texts you'll meet many of them („Anträge können online gestellt werden.“).\n\n**Schreiben:** a few of these phrases make your letter sound natural and polite: „Bitte **geben** Sie mir bis Freitag **Bescheid**.“, „Für Fragen **stehe** ich Ihnen gern **zur Verfügung**.“, „Ich möchte Ihnen einen **Vorschlag machen**.“ **Sprechen Teil 3:** „Lass uns jetzt eine **Entscheidung treffen**.“",
+      "mdDe": "**Sprachbausteine Teil 2** liebt diese Verbindungen: Das Nomen steht im Text und du brauchst das Verb, oder umgekehrt – „Bitte geben Sie mir ___ (Bescheid).“, „Darf ich Ihnen eine Frage ___ (stellen)?“. Ein Wort im Kasten, das grammatisch passt, aber nicht der feste Partner ist, ist eine Falle. **Lesen:** In offiziellen Texten findest du viele davon („Anträge können online gestellt werden.“).\n\n**Schreiben:** Mit ein paar dieser Ausdrücke klingt dein Brief natürlich und höflich: „Bitte **geben** Sie mir bis Freitag **Bescheid**.“, „Für Fragen **stehe** ich Ihnen gern **zur Verfügung**.“, „Ich möchte Ihnen einen **Vorschlag machen**.“ **Sprechen Teil 3:** „Lass uns jetzt eine **Entscheidung treffen**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich muss eine Entscheidung machen.",
+      "right": "Ich muss eine Entscheidung treffen.",
+      "why": "The fixed verb with „Entscheidung“ is „treffen“ – English *make* doesn't work here.",
+      "whyDe": "Das feste Verb zu „Entscheidung“ ist „treffen“ – das englische *make* passt hier nicht."
+    },
+    {
+      "wrong": "Darf ich eine Frage fragen?",
+      "right": "Darf ich eine Frage stellen?",
+      "why": "The collocation is „eine Frage stellen“ – or simply „Darf ich etwas fragen?“.",
+      "whyDe": "Die feste Verbindung heißt „eine Frage stellen“ – oder einfach „Darf ich etwas fragen?“."
+    },
+    {
+      "wrong": "Bitte geben Sie mir einen Bescheid.",
+      "right": "Bitte geben Sie mir Bescheid.",
+      "why": "In „Bescheid geben“ the noun has no article. („der Bescheid“ with an article is an official letter from an authority.)",
+      "whyDe": "In „Bescheid geben“ hat das Nomen keinen Artikel. („der Bescheid“ mit Artikel ist ein offizieller Brief von einer Behörde.)"
+    },
+    {
+      "wrong": "Für Fragen stelle ich Ihnen gern zur Verfügung.",
+      "right": "Für Fragen stehe ich Ihnen gern zur Verfügung.",
+      "why": "„zur Verfügung stehen“ = to be available. „zur Verfügung stellen“ = to provide something, so it needs an object („Ich stelle Ihnen die Unterlagen zur Verfügung.“).",
+      "whyDe": "„zur Verfügung stehen“ = verfügbar sein, für jemanden da sein. „zur Verfügung stellen“ = etwas bereitstellen – dafür brauchst du ein Objekt („Ich stelle Ihnen die Unterlagen zur Verfügung.“)."
+    },
+    {
+      "wrong": "Wir haben am Bahnhof Abschied gemacht.",
+      "right": "Wir haben am Bahnhof Abschied genommen.",
+      "why": "The fixed verb is „nehmen“: „Abschied nehmen“. Or use the verb: „Wir haben uns verabschiedet.“",
+      "whyDe": "Das feste Verb ist „nehmen“: „Abschied nehmen“. Oder du nimmst das einfache Verb: „Wir haben uns verabschiedet.“"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Darf ich Ihnen noch eine Frage ___?",
+      "options": ["stellen", "fragen", "machen"],
+      "answer": 0,
+      "explanation": "The fixed verb is „stellen“: „eine Frage stellen“. „eine Frage fragen“ and „eine Frage machen“ are wrong.",
+      "explanationDe": "Das feste Verb ist „stellen“: „eine Frage stellen“. „eine Frage fragen“ und „eine Frage machen“ sind falsch."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir haben lange überlegt und jetzt endlich eine Entscheidung ___.",
+      "options": ["getroffen", "gemacht", "genommen"],
+      "answer": 0,
+      "explanation": "„eine Entscheidung treffen“ – Perfekt: „haben … getroffen“.",
+      "explanationDe": "„eine Entscheidung treffen“ – im Perfekt: „haben … getroffen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Unser Vermieter ___ uns im Keller einen Raum für die Fahrräder zur Verfügung.",
+      "options": ["stellt", "steht", "gibt"],
+      "answer": 0,
+      "explanation": "The landlord provides something („einen Raum“ is the object) → „zur Verfügung stellen“. „zur Verfügung stehen“ has no object: „Der Raum steht uns zur Verfügung.“",
+      "explanationDe": "Der Vermieter stellt etwas bereit („einen Raum“ ist das Objekt) → „zur Verfügung stellen“. „zur Verfügung stehen“ hat kein Objekt: „Der Raum steht uns zur Verfügung.“"
+    },
+    {
+      "type": "mc",
+      "prompt": "Bitte ___ Sie Rücksicht auf die anderen Gäste und seien Sie nach 22 Uhr leise.",
+      "options": ["nehmen", "geben", "machen"],
+      "answer": 0,
+      "explanation": "The collocation is „Rücksicht nehmen auf“ + accusative.",
+      "explanationDe": "Die feste Verbindung heißt „Rücksicht nehmen auf“ + Akkusativ."
+    },
+    {
+      "type": "gap",
+      "prompt": "Kannst du mir bitte ___ sagen, wann du ankommst?",
+      "hint": "(= let me know)",
+      "hintDe": "(= mich informieren)",
+      "answers": ["Bescheid"],
+      "explanation": "„Bescheid sagen / geben“ = to let someone know. The noun has no article.",
+      "explanationDe": "„Bescheid sagen / geben“ = jemanden informieren. Das Nomen hat keinen Artikel."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Alter spielt bei uns keine ___.",
+      "hint": "(= doesn't matter)",
+      "hintDe": "(= ist nicht wichtig)",
+      "answers": ["Rolle"],
+      "explanation": "„eine (keine) Rolle spielen“ = to matter (not to matter).",
+      "explanationDe": "„eine (keine) Rolle spielen“ = wichtig sein (nicht wichtig sein)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Am Flughafen haben wir uns lange umarmt und dann ___ genommen.",
+      "hint": "(= said goodbye)",
+      "hintDe": "(= uns verabschiedet)",
+      "answers": ["Abschied"],
+      "explanation": "„Abschied nehmen“ = to say goodbye – without an article.",
+      "explanationDe": "„Abschied nehmen“ = sich verabschieden – ohne Artikel."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Sommer geht leider schon bald zu ___.",
+      "answers": ["Ende"],
+      "explanation": "„zu Ende gehen“ = to come to an end.",
+      "explanationDe": "„zu Ende gehen“ = enden, aufhören."
+    },
+    {
+      "type": "gap",
+      "prompt": "Herr Jansen ___ morgen einen Vortrag über Energiesparen.",
+      "hint": "(present tense)",
+      "hintDe": "(Präsens)",
+      "answers": ["hält"],
+      "explanation": "„einen Vortrag halten“ = to give a talk. „halten“ has a vowel change: er „hält“.",
+      "explanationDe": "„einen Vortrag halten“ = vor Publikum über ein Thema sprechen. „halten“ hat einen Vokalwechsel: er „hält“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the verb „entscheiden“ with a Nomen-Verb-Verbindung.",
+      "instructionDe": "Ersetze das Verb „entscheiden“ durch eine Nomen-Verb-Verbindung.",
+      "prompt": "Wir müssen bis Freitag entscheiden.",
+      "answers": [
+        "Wir müssen bis Freitag eine Entscheidung treffen.",
+        "Bis Freitag müssen wir eine Entscheidung treffen.",
+        "Wir müssen bis Freitag die Entscheidung treffen.",
+        "Wir müssen bis Freitag eine Entscheidung fällen.",
+        "Bis Freitag müssen wir eine Entscheidung fällen.",
+        "Wir müssen bis Freitag zu einer Entscheidung kommen."
+      ],
+      "explanation": "„entscheiden“ = „eine Entscheidung treffen“ (more formal: „fällen“). With the modal verb, „treffen“ goes to the end.",
+      "explanationDe": "„entscheiden“ = „eine Entscheidung treffen“ (formeller: „fällen“). Mit dem Modalverb steht „treffen“ am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „Bescheid geben“.",
+      "instructionDe": "Formuliere den Satz mit „Bescheid geben“ um.",
+      "prompt": "Bitte informieren Sie mich, wenn das Paket ankommt.",
+      "answers": [
+        "Bitte geben Sie mir Bescheid, wenn das Paket ankommt.",
+        "Geben Sie mir bitte Bescheid, wenn das Paket ankommt."
+      ],
+      "explanation": "„jemanden informieren“ = „jemandem Bescheid geben“. Note the dative: „mich informieren“ but „mir Bescheid geben“.",
+      "explanationDe": "„jemanden informieren“ = „jemandem Bescheid geben“. Achte auf den Dativ: „mich informieren“, aber „mir Bescheid geben“."
+    },
+    {
+      "type": "order",
+      "words": ["einen", "stellen.", "auf", "Antrag", "Ich", "Parkausweis", "möchte", "einen"],
+      "answers": [
+        "Ich möchte einen Antrag auf einen Parkausweis stellen.",
+        "Einen Antrag auf einen Parkausweis möchte ich stellen."
+      ],
+      "explanation": "The modal verb „möchte“ is in position 2, the infinitive „stellen“ goes to the end. „einen Antrag auf“ + accusative = to apply for.",
+      "explanationDe": "Das Modalverb „möchte“ steht auf Position 2, der Infinitiv „stellen“ steht am Ende. „einen Antrag auf“ + Akkusativ = etwas beantragen."
+    }
+  ],
+  "related": ["verben-mit-praepositionen", "adjektive-mit-praepositionen", "wortbildung"]
+}

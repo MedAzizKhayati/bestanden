@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-02",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Termin in der Physiotherapie",
+  "topic": "gesundheit",
+  "difficulty": 1,
+  "register": "semiformal",
+  "situation": "Sie haben von Ihrer Physiotherapiepraxis folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Physiotherapie am Lendplatz, Sabine Lindner",
+    "subject": "Erinnerung an Ihren Termin",
+    "body": "Sehr geehrter Herr Gómez,\n\nwir möchten Sie an Ihre nächste Behandlung erinnern: Donnerstag, 14. März, um 8:30 Uhr. Bitte denken Sie an ein Handtuch und bequeme Kleidung.\n\nIhr Rezept gilt noch für drei Behandlungen. Danach brauchen Sie ein neues Rezept von Ihrem Arzt.\n\nFalls Sie den Termin nicht wahrnehmen können, sagen Sie bitte mindestens 24 Stunden vorher ab. Sonst müssen wir Ihnen die Behandlung leider in Rechnung stellen.\n\nMit freundlichen Grüßen\nSabine Lindner\nPhysiotherapie am Lendplatz, Graz"
+  },
+  "leitpunkte": [
+    "Wie es Ihnen nach den letzten Behandlungen geht",
+    "Wann Sie Zeit für einen neuen Termin haben",
+    "Was Sie wegen des Rezepts wissen möchten",
+    "Warum Sie am Donnerstag nicht kommen können"
+  ],
+  "model": {
+    "subject": "Absage für Donnerstag, 14. März – Bitte um einen neuen Termin",
+    "text": "Sehr geehrte Frau Lindner,\n\nvielen Dank für Ihre Erinnerung. Leider muss ich meinen Termin am Donnerstag, dem 14. März, um 8:30 Uhr absagen. Mein Chef hat mich kurzfristig zu einer Schulung nach Linz geschickt, und ich bin erst am Freitagabend wieder in Graz. Deshalb melde ich mich schon heute, also mehr als 24 Stunden vorher.\n\nKönnten wir die Behandlung vielleicht auf nächste Woche verschieben? Am besten passt es mir am Montag oder Dienstag ab 17 Uhr, weil ich dann schon Feierabend habe.\n\nÜbrigens helfen mir die Übungen sehr. Seit der letzten Behandlung habe ich viel weniger Rückenschmerzen und kann wieder länger am Schreibtisch sitzen.\n\nAußerdem habe ich noch eine Frage zum Rezept: Soll ich das neue Rezept schon zur letzten Behandlung mitbringen, damit wir gleich weitere Termine vereinbaren können?\n\nVielen Dank im Voraus für Ihre Antwort.\n\nMit freundlichen Grüßen\nRafael Gómez"
+  },
+  "modelNotes": [
+    "The cancellation comes first because it is the reason for writing; the new appointment, the feedback on the treatment and the question about the prescription follow.",
+    "Semi-formal register: „Sehr geehrte Frau Lindner“, the polite „Könnten wir …?“, „Vielen Dank im Voraus“ and „Mit freundlichen Grüßen“ – no du-forms anywhere.",
+    "The reply picks up details from the reminder (date, time, „mehr als 24 Stunden vorher“), which shows the reader that the e-mail was read carefully.",
+    "Connectors and sentence adverbs are varied: „deshalb“, „weil“, „übrigens“, „außerdem“, „damit“."
+  ],
+  "modelNotesDe": [
+    "Die Absage steht am Anfang, weil sie der Grund für die E-Mail ist; danach folgen der neue Termin, die Rückmeldung zur Behandlung und die Frage zum Rezept.",
+    "Halbformelles Register: „Sehr geehrte Frau Lindner“, das höfliche „Könnten wir …?“, „Vielen Dank im Voraus“ und „Mit freundlichen Grüßen“ – nirgends eine du-Form.",
+    "Die Antwort greift Details aus der Erinnerung auf (Datum, Uhrzeit, „mehr als 24 Stunden vorher“). Das zeigt der Leserin, dass ihre E-Mail genau gelesen wurde.",
+    "Konnektoren und Satzadverbien sind abwechslungsreich: „deshalb“, „weil“, „übrigens“, „außerdem“, „damit“."
+  ],
+  "phrases": [
+    { "de": "Leider muss ich meinen Termin am … absagen.", "en": "Unfortunately I have to cancel my appointment on …" },
+    { "de": "Könnten wir die Behandlung auf … verschieben?", "en": "Could we move the treatment to …?" },
+    { "de": "Am besten passt es mir am … ab … Uhr.", "en": "… from … o'clock suits me best." },
+    { "de": "Ich bin erst am … wieder zurück.", "en": "I won't be back until …" },
+    { "de": "Die Übungen helfen mir sehr.", "en": "The exercises help me a lot." },
+    { "de": "Ich habe noch eine Frage zum Rezept.", "en": "I have another question about the prescription." },
+    { "de": "Vielen Dank im Voraus für Ihre Antwort.", "en": "Thank you in advance for your reply." }
+  ],
+  "glossary": [
+    { "de": "die Behandlung", "en": "treatment" },
+    { "de": "das Rezept", "en": "prescription" },
+    { "de": "einen Termin wahrnehmen", "en": "to keep an appointment" },
+    { "de": "in Rechnung stellen", "en": "to charge for something" },
+    { "de": "kurzfristig", "en": "at short notice" },
+    { "de": "die Schulung", "en": "training course" }
+  ]
+}

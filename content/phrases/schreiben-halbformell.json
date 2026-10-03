@@ -1,0 +1,158 @@
+{
+  "id": "schreiben-halbformell",
+  "order": 2,
+  "context": "schreiben",
+  "title": "Halbformelle E-Mails",
+  "titleEn": "Semi-formal e-mails",
+  "description": "Polite, clear phrases for e-mails to people you say „Sie“ to: a landlord, a course leader, a colleague or a company after an ad. Keep the Sie-form in every sentence – Sie, Ihnen, Ihr always with a capital letter.",
+  "descriptionDe": "Höfliche, klare Redemittel für E-Mails an Menschen, zu denen du „Sie“ sagst: an den Vermieter, die Kursleitung, eine Kollegin oder eine Firma nach einer Anzeige. Bleib in jedem Satz bei der Sie-Form – Sie, Ihnen und Ihr schreibst du immer groß.",
+  "groups": [
+    {
+      "title": "Betreff und Anrede",
+      "titleEn": "Subject line and salutation",
+      "register": "formal",
+      "phrases": [
+        { "de": "Betreff: Ihre Anzeige im Stadtanzeiger vom 12. Mai", "en": "Subject: Your ad in the Stadtanzeiger of 12 May", "note": "Name the occasion precisely.", "noteDe": "Nenne den Anlass genau." },
+        { "de": "Betreff: Anfrage zum Deutschkurs B2", "en": "Subject: Enquiry about the B2 German course" },
+        { "de": "Betreff: Absage meines Termins am 3. März", "en": "Subject: Cancellation of my appointment on 3 March" },
+        { "de": "Sehr geehrte Frau Hoffmann,", "en": "Dear Ms Hoffmann,", "note": "„Sehr geehrte“ + Frau, „Sehr geehrter“ + Herr – always with the surname. After the comma, continue with a small letter.", "noteDe": "„Sehr geehrte“ + Frau, „Sehr geehrter“ + Herr – immer mit dem Nachnamen. Nach dem Komma geht es kleingeschrieben weiter." },
+        { "de": "Sehr geehrter Herr Yilmaz,", "en": "Dear Mr Yilmaz," },
+        { "de": "Sehr geehrte Damen und Herren,", "en": "Dear Sir or Madam,", "note": "When you don't know the name, e.g. writing to a company or an office.", "noteDe": "Wenn du den Namen nicht kennst, z. B. wenn du an eine Firma oder ein Amt schreibst." },
+        { "de": "Liebe Frau Krüger,", "en": "Dear Ms Krüger,", "note": "Friendly but still „Sie“ – for a course leader or neighbour you know.", "noteDe": "Freundlich, aber trotzdem „Sie“ – für die Kursleitung oder Nachbarn, die du kennst." },
+        { "de": "Guten Tag, Herr Brandt,", "en": "Hello Mr Brandt,", "note": "Neutral and modern – common in e-mails.", "noteDe": "Neutral und modern – in E-Mails üblich." }
+      ]
+    },
+    {
+      "title": "Einleitung und Anlass",
+      "titleEn": "Opening and reason for writing",
+      "register": "formal",
+      "phrases": [
+        { "de": "Vielen Dank für Ihre E-Mail vom 5. Juni.", "en": "Thank you for your e-mail of 5 June." },
+        { "de": "Ich habe Ihre Anzeige im Internet gelesen und interessiere mich sehr für das Angebot.", "en": "I read your ad online and I'm very interested in the offer.", "note": "sich interessieren für + accusative", "noteDe": "sich interessieren für + Akkusativ" },
+        { "de": "Ich schreibe Ihnen, weil ich eine Frage zu meinem Mietvertrag habe.", "en": "I'm writing to you because I have a question about my tenancy agreement." },
+        { "de": "Mit dieser E-Mail möchte ich mich für den Kurs im Herbst anmelden.", "en": "I would like to use this e-mail to register for the course in the autumn.", "note": "sich anmelden für + accusative", "noteDe": "sich anmelden für + Akkusativ" },
+        { "de": "Mein Name ist Sara Novak und ich nehme seit März an Ihrem Abendkurs teil.", "en": "My name is Sara Novak and I've been attending your evening course since March.", "note": "teilnehmen an + dative; seit + present tense", "noteDe": "teilnehmen an + Dativ; seit + Präsens" },
+        { "de": "In Ihrer E-Mail fragen Sie, ob ich im Mai Zeit habe.", "en": "In your e-mail you ask whether I have time in May." },
+        { "de": "Gern beantworte ich Ihre Fragen.", "en": "I'm happy to answer your questions.", "note": "Starting with „Gern“ avoids another sentence beginning with „Ich“.", "noteDe": "Mit „Gern“ am Anfang vermeidest du noch einen Satz, der mit „Ich“ beginnt." }
+      ]
+    },
+    {
+      "title": "Sich bedanken",
+      "titleEn": "Thanking",
+      "register": "formal",
+      "phrases": [
+        { "de": "Vielen Dank für Ihre schnelle Antwort.", "en": "Thank you for your quick reply." },
+        { "de": "Herzlichen Dank für Ihre Hilfe bei der Wohnungssuche.", "en": "Many thanks for your help in finding a flat." },
+        { "de": "Ich möchte mich ganz herzlich für die Einladung bedanken.", "en": "I would like to thank you very much for the invitation.", "note": "sich bedanken für + accusative", "noteDe": "sich bedanken für + Akkusativ" },
+        { "de": "Über Ihre Einladung habe ich mich sehr gefreut.", "en": "I was delighted to receive your invitation.", "note": "sich freuen über + accusative = to be pleased about something that has happened", "noteDe": "sich freuen über + Akkusativ = froh sein über etwas, das schon passiert ist" },
+        { "de": "Es war sehr nett von Ihnen, dass Sie mir geholfen haben.", "en": "It was very kind of you to help me." },
+        { "de": "Vielen Dank, dass Sie sich so schnell um die Reparatur gekümmert haben.", "en": "Thank you for taking care of the repair so quickly.", "note": "sich kümmern um + accusative", "noteDe": "sich kümmern um + Akkusativ" },
+        { "de": "Ich bin Ihnen sehr dankbar für Ihre Geduld.", "en": "I'm very grateful to you for your patience.", "note": "jemandem dankbar sein für + accusative", "noteDe": "jemandem dankbar sein für + Akkusativ" }
+      ]
+    },
+    {
+      "title": "Um Informationen bitten",
+      "titleEn": "Asking for information",
+      "register": "formal",
+      "phrases": [
+        { "de": "Ich hätte noch ein paar Fragen zu Ihrem Angebot.", "en": "I have a few more questions about your offer.", "note": "„Ich hätte“ sounds more polite than „Ich habe“.", "noteDe": "„Ich hätte“ klingt höflicher als „Ich habe“." },
+        { "de": "Könnten Sie mir bitte mitteilen, wann der Kurs beginnt?", "en": "Could you please let me know when the course starts?", "note": "Indirect question: verb at the end", "noteDe": "Indirekte Frage: Verb am Ende" },
+        { "de": "Ich würde gern wissen, wie viel die Teilnahme kostet.", "en": "I would like to know how much it costs to take part." },
+        { "de": "Mich würde auch interessieren, ob es eine Ermäßigung für Studierende gibt.", "en": "I would also be interested to know whether there's a discount for students.", "note": "ob for yes/no questions, verb at the end", "noteDe": "ob für Ja/Nein-Fragen, Verb am Ende" },
+        { "de": "Können Sie mir sagen, welche Unterlagen ich mitbringen muss?", "en": "Can you tell me which documents I need to bring?" },
+        { "de": "Ist es möglich, die Wohnung vorher zu besichtigen?", "en": "Is it possible to view the flat beforehand?" },
+        { "de": "Gibt es auch Kurse am Wochenende?", "en": "Are there also courses at the weekend?" },
+        { "de": "Außerdem möchte ich wissen, ob Haustiere erlaubt sind.", "en": "I would also like to know whether pets are allowed.", "note": "Connector first, verb second – good for linking your questions.", "noteDe": "Erst der Konnektor, dann das Verb auf Position 2 – gut, um deine Fragen zu verbinden." }
+      ]
+    },
+    {
+      "title": "Um etwas bitten",
+      "titleEn": "Making requests",
+      "register": "formal",
+      "phrases": [
+        { "de": "Könnten Sie mir bitte weitere Informationen schicken?", "en": "Could you please send me further information?" },
+        { "de": "Ich wäre Ihnen sehr dankbar, wenn Sie mir bis Freitag antworten könnten.", "en": "I would be very grateful if you could reply by Friday.", "note": "Very polite: Konjunktiv II (wäre, könnten)", "noteDe": "Sehr höflich: Konjunktiv II (wäre, könnten)" },
+        { "de": "Wäre es möglich, den Termin auf nächste Woche zu verschieben?", "en": "Would it be possible to postpone the appointment until next week?", "note": "verschieben auf + accusative", "noteDe": "verschieben auf + Akkusativ" },
+        { "de": "Darf ich Sie um einen Gefallen bitten?", "en": "May I ask you a favour?", "note": "jemanden um etwas bitten", "noteDe": "jemanden um etwas bitten" },
+        { "de": "Ich möchte Sie bitten, die Heizung möglichst bald reparieren zu lassen.", "en": "I would like to ask you to have the heating repaired as soon as possible.", "note": "etwas machen lassen = to have something done", "noteDe": "etwas machen lassen = jemand anderes macht es für dich" },
+        { "de": "Es wäre schön, wenn wir einen neuen Termin vereinbaren könnten.", "en": "It would be good if we could arrange a new appointment." },
+        { "de": "Bitte geben Sie mir Bescheid, ob das für Sie in Ordnung ist.", "en": "Please let me know whether that is all right with you." }
+      ]
+    },
+    {
+      "title": "Sich entschuldigen und absagen",
+      "titleEn": "Apologising and cancelling",
+      "register": "formal",
+      "phrases": [
+        { "de": "Leider kann ich am Montag nicht an der Besprechung teilnehmen.", "en": "Unfortunately I can't attend the meeting on Monday.", "note": "teilnehmen an + dative", "noteDe": "teilnehmen an + Dativ" },
+        { "de": "Es tut mir sehr leid, aber ich muss meinen Termin absagen.", "en": "I'm very sorry, but I have to cancel my appointment." },
+        { "de": "Bitte entschuldigen Sie, dass ich mich erst jetzt melde.", "en": "Please excuse me for only getting in touch now." },
+        { "de": "Der Grund dafür ist, dass mein Sohn krank geworden ist.", "en": "The reason is that my son has fallen ill." },
+        { "de": "Ich muss leider kurzfristig absagen, da ich an diesem Tag eine Dienstreise habe.", "en": "Unfortunately I have to cancel at short notice, as I'm away on a business trip that day.", "note": "„da“ = „weil“, slightly more formal", "noteDe": "„da“ = „weil“, etwas formeller" },
+        { "de": "Leider ist mir beruflich etwas dazwischengekommen.", "en": "Unfortunately something has come up at work." },
+        { "de": "Das Missverständnis tut mir sehr leid.", "en": "I'm very sorry about the misunderstanding." },
+        { "de": "Ich hoffe auf Ihr Verständnis.", "en": "I hope you will understand.", "note": "hoffen auf + accusative", "noteDe": "hoffen auf + Akkusativ" }
+      ]
+    },
+    {
+      "title": "Zusagen und Termine vorschlagen",
+      "titleEn": "Accepting and suggesting dates",
+      "register": "formal",
+      "phrases": [
+        { "de": "Vielen Dank für die Einladung – ich nehme sehr gern teil.", "en": "Thank you for the invitation – I'd be delighted to attend." },
+        { "de": "Der Termin am Donnerstag um 10 Uhr passt mir sehr gut.", "en": "The appointment on Thursday at 10 o'clock suits me very well." },
+        { "de": "Wäre Ihnen Dienstag, der 14. Mai, recht?", "en": "Would Tuesday, 14 May, suit you?", "note": "jemandem recht sein = to suit someone", "noteDe": "jemandem recht sein = für jemanden passen" },
+        { "de": "Ich könnte Ihnen folgende Termine vorschlagen: Montagvormittag oder Mittwochnachmittag.", "en": "I could suggest the following times: Monday morning or Wednesday afternoon." },
+        { "de": "Falls Ihnen das nicht passt, können wir gern einen anderen Termin finden.", "en": "If that doesn't suit you, we can of course find another date.", "note": "falls = if, in case; verb at the end", "noteDe": "falls = wenn, für den Fall, dass; Verb am Ende" },
+        { "de": "Ich schlage vor, dass wir das Problem in einem kurzen Telefongespräch klären.", "en": "I suggest we sort out the problem in a short phone call." },
+        { "de": "Mir wäre es am liebsten, wenn wir uns persönlich treffen könnten.", "en": "I would prefer it if we could meet in person." },
+        { "de": "Selbstverständlich kann ich Ihnen die Unterlagen auch per E-Mail schicken.", "en": "Of course I can also send you the documents by e-mail." }
+      ]
+    },
+    {
+      "title": "Ein Problem schildern und sich beschweren",
+      "titleEn": "Describing a problem and complaining politely",
+      "register": "formal",
+      "phrases": [
+        { "de": "Leider muss ich Ihnen mitteilen, dass die Waschmaschine im Keller seit einer Woche kaputt ist.", "en": "Unfortunately I have to inform you that the washing machine in the basement has been broken for a week.", "note": "seit + present tense for a situation that is still going on", "noteDe": "seit + Präsens für eine Situation, die noch andauert" },
+        { "de": "Seit einiger Zeit gibt es ein Problem mit der Heizung in meiner Wohnung.", "en": "For some time now there has been a problem with the heating in my flat." },
+        { "de": "Ich möchte mich über den Lärm in unserem Haus beschweren.", "en": "I would like to complain about the noise in our building.", "note": "sich beschweren über + accusative", "noteDe": "sich beschweren über + Akkusativ" },
+        { "de": "Leider habe ich die falsche Größe bekommen.", "en": "Unfortunately I received the wrong size." },
+        { "de": "Ich habe schon zweimal angerufen, aber bisher hat sich niemand gemeldet.", "en": "I've already called twice, but so far nobody has got back to me." },
+        { "de": "Das ist für mich und meine Familie sehr unangenehm.", "en": "This is very unpleasant for me and my family." },
+        { "de": "Wie Sie sicher verstehen, bin ich mit dieser Situation nicht zufrieden.", "en": "As I'm sure you'll understand, I'm not happy with this situation.", "note": "Polite but firm", "noteDe": "Höflich, aber bestimmt" },
+        { "de": "Ich hoffe, dass Sie das Problem so schnell wie möglich lösen können.", "en": "I hope you can solve the problem as quickly as possible." }
+      ]
+    },
+    {
+      "title": "Interesse zeigen und Meinung äußern",
+      "titleEn": "Showing interest and giving your opinion",
+      "register": "formal",
+      "phrases": [
+        { "de": "Ich interessiere mich sehr für die Stelle als Aushilfe in Ihrem Café.", "en": "I'm very interested in the job as a part-time helper in your café." },
+        { "de": "Besonders gut gefällt mir, dass der Kurs am Abend stattfindet.", "en": "What I particularly like is that the course takes place in the evening." },
+        { "de": "Ich habe bereits Erfahrung in diesem Bereich, denn ich habe zwei Jahre in einem Hotel gearbeitet.", "en": "I already have experience in this area, as I worked in a hotel for two years.", "note": "denn + normal word order (verb in second position)", "noteDe": "denn + normale Wortstellung (Verb auf Position 2)" },
+        { "de": "Ich bin sicher, dass mir die Arbeit viel Spaß machen würde.", "en": "I'm sure I would really enjoy the work." },
+        { "de": "Meiner Meinung nach wäre es sinnvoll, die Sprechzeiten zu verlängern.", "en": "In my opinion it would make sense to extend the office hours.", "note": "Verb directly after „Meiner Meinung nach“", "noteDe": "Verb direkt nach „Meiner Meinung nach“" },
+        { "de": "Ich finde es sehr wichtig, dass alle Nachbarn mitmachen können.", "en": "I think it's very important that all the neighbours can take part." },
+        { "de": "Aus meiner Sicht ist das eine sehr gute Lösung.", "en": "From my point of view, that's a very good solution." },
+        { "de": "Ich halte diesen Vorschlag für sehr gut.", "en": "I think this suggestion is very good.", "note": "halten für + accusative = to consider", "noteDe": "halten für + Akkusativ = finden, einschätzen" }
+      ]
+    },
+    {
+      "title": "Schluss und Grußformel",
+      "titleEn": "Closing and sign-off",
+      "register": "formal",
+      "phrases": [
+        { "de": "Ich freue mich auf Ihre Antwort.", "en": "I look forward to your reply.", "note": "sich freuen auf + accusative", "noteDe": "sich freuen auf + Akkusativ" },
+        { "de": "Über eine baldige Antwort würde ich mich sehr freuen.", "en": "I would be very pleased to hear from you soon." },
+        { "de": "Vielen Dank im Voraus für Ihre Mühe.", "en": "Thank you in advance for your trouble." },
+        { "de": "Vielen Dank für Ihr Verständnis.", "en": "Thank you for your understanding." },
+        { "de": "Für Rückfragen stehe ich Ihnen gern zur Verfügung.", "en": "I'll be happy to answer any further questions.", "note": "A typical formal closing sentence", "noteDe": "Ein typischer formeller Schlusssatz" },
+        { "de": "Mit freundlichen Grüßen", "en": "Kind regards / Yours sincerely", "note": "The standard sign-off. No comma after it; your first name and surname go on the next line.", "noteDe": "Die übliche Grußformel. Danach kein Komma; dein Vor- und Nachname stehen in der nächsten Zeile." },
+        { "de": "Viele Grüße", "en": "Best regards", "note": "A little more relaxed – fine for a course leader or a colleague you know.", "noteDe": "Etwas lockerer – passt für die Kursleitung oder eine Kollegin, die du kennst." },
+        { "de": "Herzliche Grüße", "en": "Warm regards", "note": "Warm but polite – e.g. for a neighbour you say „Sie“ to.", "noteDe": "Herzlich, aber höflich – z. B. für eine Nachbarin, zu der du „Sie“ sagst." }
+      ]
+    }
+  ]
+}

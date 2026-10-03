@@ -1,0 +1,239 @@
+{
+  "id": "wechselpraepositionen",
+  "level": "A2",
+  "category": "praepositionen",
+  "order": 2,
+  "title": "Wechselpräpositionen: Wo? oder Wohin?",
+  "titleEn": "Two-way prepositions",
+  "summary": "in, an, auf, über, unter, vor, hinter, neben, zwischen: dative for a position (Wo?), accusative for a movement to a place (Wohin?).",
+  "summaryDe": "in, an, auf, über, unter, vor, hinter, neben, zwischen: Dativ für eine Position (Wo?), Akkusativ für eine Bewegung zu einem Ort (Wohin?).",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The nine two-way prepositions **in, an, auf, über, unter, vor, hinter, neben, zwischen** take the **dative** when they say where something is (**Wo?**) and the **accusative** when they describe a movement to a place (**Wohin?**).",
+      "mdDe": "Die neun Wechselpräpositionen **in, an, auf, über, unter, vor, hinter, neben, zwischen** stehen mit **Dativ**, wenn sie sagen, wo etwas ist (**Wo?**), und mit **Akkusativ**, wenn sie eine Bewegung zu einem Ort beschreiben (**Wohin?**)."
+    },
+    {
+      "type": "table",
+      "heading": "The nine Wechselpräpositionen",
+      "headingDe": "Die neun Wechselpräpositionen",
+      "columns": ["Präposition", "Wo? + Dativ", "Wohin? + Akkusativ", "English"],
+      "columnsDe": ["Präposition", "Wo? + Dativ", "Wohin? + Akkusativ", "Bedeutung"],
+      "rows": [
+        ["in", "Ich bin im Büro.", "Ich gehe ins Büro.", "in, into"],
+        ["an", "Das Bild hängt an der Wand.", "Ich hänge das Bild an die Wand.", "on (a wall), at"],
+        ["auf", "Das Buch liegt auf dem Tisch.", "Ich lege das Buch auf den Tisch.", "on (a surface)"],
+        ["über", "Die Lampe hängt über dem Tisch.", "Ich hänge die Lampe über den Tisch.", "above, over"],
+        ["unter", "Die Katze schläft unter dem Bett.", "Die Katze läuft unter das Bett.", "under"],
+        ["vor", "Das Auto steht vor dem Haus.", "Ich stelle das Auto vor das Haus.", "in front of"],
+        ["hinter", "Der Garten liegt hinter dem Haus.", "Die Kinder laufen hinter das Haus.", "behind"],
+        ["neben", "Die Apotheke ist neben der Bank.", "Ich setze mich neben meine Kollegin.", "next to"],
+        ["zwischen", "Das Sofa steht zwischen den Fenstern.", "Wir stellen das Sofa zwischen die Fenster.", "between"]
+      ],
+      "rowsDe": [
+        ["in", "Ich bin im Büro.", "Ich gehe ins Büro.", "innen; hinein"],
+        ["an", "Das Bild hängt an der Wand.", "Ich hänge das Bild an die Wand.", "seitlich mit Kontakt (Wand); bei"],
+        ["auf", "Das Buch liegt auf dem Tisch.", "Ich lege das Buch auf den Tisch.", "oben auf einer Fläche"],
+        ["über", "Die Lampe hängt über dem Tisch.", "Ich hänge die Lampe über den Tisch.", "oberhalb, ohne Kontakt"],
+        ["unter", "Die Katze schläft unter dem Bett.", "Die Katze läuft unter das Bett.", "unterhalb"],
+        ["vor", "Das Auto steht vor dem Haus.", "Ich stelle das Auto vor das Haus.", "auf der vorderen Seite"],
+        ["hinter", "Der Garten liegt hinter dem Haus.", "Die Kinder laufen hinter das Haus.", "auf der hinteren Seite"],
+        ["neben", "Die Apotheke ist neben der Bank.", "Ich setze mich neben meine Kollegin.", "direkt an der Seite"],
+        ["zwischen", "Das Sofa steht zwischen den Fenstern.", "Wir stellen das Sofa zwischen die Fenster.", "in der Mitte von zwei Dingen"]
+      ],
+      "note": "Short forms: in dem → im, in das → ins, an dem → am, an das → ans; in spoken German also auf das → aufs.",
+      "noteDe": "Kurzformen: in dem → im, in das → ins, an dem → am, an das → ans; in der gesprochenen Sprache auch auf das → aufs."
+    },
+    {
+      "type": "text",
+      "heading": "How to decide",
+      "headingDe": "So entscheidest du",
+      "md": "Ask yourself: **does something change its place?**\n\n- „Ich **lege** das Handy **auf den** Tisch.“ – the phone moves to the table → Wohin? → Akkusativ.\n- „Das Handy **liegt auf dem** Tisch.“ – it stays there → Wo? → Dativ.\n\nMovement **inside** one place is still Wo?: „Wir joggen **im** Park.“ (we jog around in the park) – but „Wir laufen **in den** Park.“ (we run into the park). Some verbs always answer Wo?, for example „ankommen“: „Wir sind **am** Bahnhof angekommen.“",
+      "mdDe": "Frag dich: **Wechselt etwas seinen Ort?**\n\n- „Ich **lege** das Handy **auf den** Tisch.“ – das Handy bewegt sich zum Tisch → Wohin? → Akkusativ.\n- „Das Handy **liegt auf dem** Tisch.“ – es bleibt dort → Wo? → Dativ.\n\nEine Bewegung **innerhalb** eines Ortes ist trotzdem Wo?: „Wir joggen **im** Park.“ (wir sind schon dort und laufen herum) – aber „Wir laufen **in den** Park.“ (wir laufen hinein). Manche Verben antworten immer auf Wo?, zum Beispiel „ankommen“: „Wir sind **am** Bahnhof angekommen.“"
+    },
+    {
+      "type": "table",
+      "heading": "Verb pairs: position or movement?",
+      "headingDe": "Verbpaare: Position oder Bewegung?",
+      "columns": ["Wo? + Dativ (position)", "Wohin? + Akkusativ (movement)", "English"],
+      "columnsDe": ["Wo? + Dativ (Position)", "Wohin? + Akkusativ (Bewegung)", "Bedeutung"],
+      "rows": [
+        ["liegen – lag – hat gelegen", "legen – legte – hat gelegt", "to lie / to lay (put down flat)"],
+        ["stehen – stand – hat gestanden", "stellen – stellte – hat gestellt", "to stand / to put (upright)"],
+        ["sitzen – saß – hat gesessen", "sich setzen – setzte – hat gesetzt", "to sit / to sit down"],
+        ["hängen – hing – hat gehangen", "hängen – hängte – hat gehängt", "to hang (be hanging) / to hang (something up)"],
+        ["sein, wohnen, arbeiten, bleiben", "gehen, fahren, kommen, bringen", "other typical verbs"]
+      ],
+      "rowsDe": [
+        ["liegen – lag – hat gelegen", "legen – legte – hat gelegt", "flach daliegen / etwas flach hinlegen"],
+        ["stehen – stand – hat gestanden", "stellen – stellte – hat gestellt", "aufrecht dastehen / etwas aufrecht hinstellen"],
+        ["sitzen – saß – hat gesessen", "sich setzen – setzte – hat gesetzt", "auf einem Stuhl o. Ä. sein / Platz nehmen"],
+        ["hängen – hing – hat gehangen", "hängen – hängte – hat gehängt", "irgendwo hängen (ohne Objekt) / etwas aufhängen (mit Objekt)"],
+        ["sein, wohnen, arbeiten, bleiben", "gehen, fahren, kommen, bringen", "weitere typische Verben"]
+      ],
+      "note": "The position verbs are irregular, the movement verbs are regular. In southern Germany, Austria and Switzerland you will also hear „ist gelegen / ist gestanden / ist gesessen“.",
+      "noteDe": "Die Positionsverben sind unregelmäßig, die Bewegungsverben regelmäßig. In Süddeutschland, Österreich und der Schweiz hörst du auch „ist gelegen / ist gestanden / ist gesessen“."
+    },
+    {
+      "type": "text",
+      "heading": "Not about places: time and fixed expressions",
+      "headingDe": "Nicht für Orte: Zeit und feste Verbindungen",
+      "md": "For **time**, „in“, „an“ and „vor“ always take the dative: „**am** Montag“, „**im** Mai“, „**vor einer** Woche“.\n\nWith **verbs and adjectives with prepositions**, the case is fixed and has nothing to do with Wo?/Wohin?: „warten **auf** + Akk“ („Ich warte **auf den** Bus.“), „denken **an** + Akk“, „sich freuen **über** + Akk“, „teilnehmen **an** + Dat“ („**an dem** Kurs“), „Angst haben **vor** + Dat“. Learn these as vocabulary.",
+      "mdDe": "Bei **Zeitangaben** stehen „in“, „an“ und „vor“ immer mit Dativ: „**am** Montag“, „**im** Mai“, „**vor einer** Woche“.\n\nBei **Verben und Adjektiven mit Präpositionen** ist der Kasus fest und hat nichts mit Wo?/Wohin? zu tun: „warten **auf** + Akk“ („Ich warte **auf den** Bus.“), „denken **an** + Akk“, „sich freuen **über** + Akk“, „teilnehmen **an** + Dat“ („**an dem** Kurs“), „Angst haben **vor** + Dat“. Lerne sie als Vokabeln."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples: Wohin? and Wo?",
+      "headingDe": "Beispiele: Wohin? und Wo?",
+      "items": [
+        { "de": "Ich gehe heute Abend **ins** Kino.", "en": "I'm going to the cinema tonight." },
+        { "de": "Wir treffen uns **im** Kino.", "en": "We're meeting at the cinema." },
+        { "de": "Stell die Milch bitte **in den** Kühlschrank.", "en": "Please put the milk in the fridge." },
+        { "de": "Die Milch steht **im** Kühlschrank.", "en": "The milk is in the fridge." },
+        { "de": "Er hängt seine Jacke **an die** Garderobe.", "en": "He hangs his jacket on the coat rack." },
+        { "de": "Deine Jacke hängt **an der** Garderobe.", "en": "Your jacket is hanging on the coat rack." },
+        { "de": "Die Kinder setzen sich **auf den** Boden.", "en": "The children sit down on the floor." },
+        { "de": "Die Kinder sitzen **auf dem** Boden.", "en": "The children are sitting on the floor." },
+        { "de": "Der Supermarkt liegt **zwischen der** Post und **dem** Bahnhof.", "en": "The supermarket is between the post office and the station." },
+        { "de": "Wir sind spät **am** Flughafen angekommen.", "en": "We arrived late at the airport." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Don't decide by the English translation** – English *in* covers both: „Ich bin **im** Garten.“ (Wo?) but „Ich gehe **in den** Garten.“ (Wohin?). And watch the verb pairs: „Ich **lege** das Buch **auf den** Tisch.“ but „Das Buch **liegt auf dem** Tisch.“ A very common mistake is „Ich habe das Buch auf den Tisch gelegen.“ – correct is „**gelegt**“.",
+      "mdDe": "**Entscheide nicht nach der englischen Übersetzung** – das englische *in* passt für beides: „Ich bin **im** Garten.“ (Wo?), aber „Ich gehe **in den** Garten.“ (Wohin?). Und achte auf die Verbpaare: „Ich **lege** das Buch **auf den** Tisch.“, aber „Das Buch **liegt auf dem** Tisch.“ Ein sehr häufiger Fehler ist „Ich habe das Buch auf den Tisch gelegen.“ – richtig ist „**gelegt**“."
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 1** often asks for the article after a two-way preposition: „Ich habe die Unterlagen in ___ Schublade gelegt.“ (die / der / den). Look at the verb first: legen, stellen, setzen, hängen (+ object) or gehen, fahren → Akkusativ; liegen, stehen, sitzen, sein → Dativ. In **Teil 2**, short forms like „ins“, „im“ or „am“ can be words in the box.\n\n**Sprechen Teil 3** and **Schreiben:** when you plan a meeting or describe a flat, you need these forms all the time: „Wir könnten uns **vor dem** Kino treffen.“, „Danach gehen wir **in ein** Restaurant.“, „Das Sofa stellen wir **ans** Fenster.“",
+      "mdDe": "In **Sprachbausteine Teil 1** fehlt oft der Artikel nach einer Wechselpräposition: „Ich habe die Unterlagen in ___ Schublade gelegt.“ (die / der / den). Schau zuerst auf das Verb: legen, stellen, setzen, hängen (+ Objekt) oder gehen, fahren → Akkusativ; liegen, stehen, sitzen, sein → Dativ. In **Teil 2** können Kurzformen wie „ins“, „im“ oder „am“ Wörter im Kasten sein.\n\n**Sprechen Teil 3** und **Schreiben:** Wenn du ein Treffen planst oder eine Wohnung beschreibst, brauchst du diese Formen ständig: „Wir könnten uns **vor dem** Kino treffen.“, „Danach gehen wir **in ein** Restaurant.“, „Das Sofa stellen wir **ans** Fenster.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Am Samstag gehe ich in der Stadt.",
+      "right": "Am Samstag gehe ich in die Stadt.",
+      "why": "„gehen“ to a place = movement → Wohin? → Akkusativ. („in der Stadt“ is right for a position: „Ich wohne in der Stadt.“)",
+      "whyDe": "„gehen“ zu einem Ort = Bewegung → Wohin? → Akkusativ. („in der Stadt“ ist richtig für eine Position: „Ich wohne in der Stadt.“)"
+    },
+    {
+      "wrong": "Das Bild hängt an die Wand.",
+      "right": "Das Bild hängt an der Wand.",
+      "why": "„hängen“ without an object (hing, gehangen) describes a position → Wo? → Dativ.",
+      "whyDe": "„hängen“ ohne Objekt (hing, gehangen) beschreibt eine Position → Wo? → Dativ."
+    },
+    {
+      "wrong": "Ich stelle das Glas auf dem Tisch.",
+      "right": "Ich stelle das Glas auf den Tisch.",
+      "why": "„stellen“ is a movement verb → Wohin? → Akkusativ.",
+      "whyDe": "„stellen“ ist ein Bewegungsverb → Wohin? → Akkusativ."
+    },
+    {
+      "wrong": "Wir sind spät ins Hotel angekommen.",
+      "right": "Wir sind spät im Hotel angekommen.",
+      "why": "„ankommen“ always answers Wo? – think of where you are when you arrive → Dativ: „im Hotel“.",
+      "whyDe": "„ankommen“ antwortet immer auf Wo? – denk daran, wo du bist, wenn du ankommst → Dativ: „im Hotel“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Kannst du bitte die Teller ___ Tisch stellen?",
+      "options": ["auf den", "auf dem", "auf der"],
+      "answer": 0,
+      "explanation": "„stellen“ = movement → Wohin? → Akkusativ; „der Tisch“ is masculine → „auf den Tisch“.",
+      "explanationDe": "„stellen“ = Bewegung → Wohin? → Akkusativ; „der Tisch“ ist maskulin → „auf den Tisch“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Schlüssel liegen ___ Kommode im Flur.",
+      "options": ["auf die", "auf der", "auf den"],
+      "answer": 1,
+      "explanation": "„liegen“ = position → Wo? → Dativ; „die Kommode“ is feminine → „auf der Kommode“.",
+      "explanationDe": "„liegen“ = Position → Wo? → Dativ; „die Kommode“ ist feminin → „auf der Kommode“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir haben das neue Sofa ___ Fenster gestellt.",
+      "options": ["vor das", "vor dem", "vor den"],
+      "answer": 0,
+      "explanation": "„stellen“ = movement → Akkusativ; „das Fenster“ is neuter, and the neuter accusative is „das“.",
+      "explanationDe": "„stellen“ = Bewegung → Akkusativ; „das Fenster“ ist neutral, und im Akkusativ bleibt der Artikel „das“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe deine Brille auf den Schreibtisch ___.",
+      "options": ["gelegt", "gelegen", "liegen"],
+      "answer": 0,
+      "explanation": "„auf den Schreibtisch“ is accusative (Wohin?), so you need the movement verb „legen“ – Perfekt: „hat gelegt“. „gelegen“ belongs to „liegen“ (position).",
+      "explanationDe": "„auf den Schreibtisch“ ist Akkusativ (Wohin?), deshalb brauchst du das Bewegungsverb „legen“ – Perfekt: „hat gelegt“. „gelegen“ gehört zu „liegen“ (Position)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Am Samstag fahren wir ___ Berge.",
+      "hint": "(in + die)",
+      "answers": ["in die"],
+      "explanation": "„fahren“ = movement → Wohin? → Akkusativ. „die Berge“ is plural → „in die Berge“.",
+      "explanationDe": "„fahren“ = Bewegung → Wohin? → Akkusativ. „die Berge“ ist Plural → „in die Berge“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Mein Fahrrad steht ___ Haus.",
+      "hint": "(hinter + das)",
+      "answers": ["hinter dem", "hinterm"],
+      "explanation": "„stehen“ = position → Wo? → Dativ; „das Haus“ → „hinter dem Haus“.",
+      "explanationDe": "„stehen“ = Position → Wo? → Dativ; „das Haus“ → „hinter dem Haus“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Setz dich doch ___ Sofa!",
+      "hint": "(auf + das)",
+      "answers": ["aufs", "auf das"],
+      "explanation": "„sich setzen“ = movement → Wohin? → Akkusativ: „auf das Sofa“, in spoken German „aufs Sofa“.",
+      "explanationDe": "„sich setzen“ = Bewegung → Wohin? → Akkusativ: „auf das Sofa“, in der gesprochenen Sprache „aufs Sofa“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich hänge den Kalender ___ Wand.",
+      "hint": "(an + die)",
+      "answers": ["an die"],
+      "explanation": "„hängen“ with an object („den Kalender“) = movement → Akkusativ; „die Wand“ → „an die Wand“.",
+      "explanationDe": "„hängen“ mit Objekt („den Kalender“) = Bewegung → Akkusativ; „die Wand“ → „an die Wand“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir treffen uns um acht ___ Bahnhof.",
+      "hint": "(vor + der)",
+      "answers": ["vor dem", "vorm"],
+      "explanation": "„sich treffen“ happens at a place → Wo? → Dativ; „der Bahnhof“ → „vor dem Bahnhof“.",
+      "explanationDe": "„sich treffen“ passiert an einem Ort → Wo? → Dativ; „der Bahnhof“ → „vor dem Bahnhof“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Say where the vase is now. Use „stehen“.",
+      "instructionDe": "Sag, wo die Vase jetzt ist. Benutze „stehen“.",
+      "prompt": "Ich habe die Vase auf das Regal gestellt.",
+      "answers": ["Die Vase steht auf dem Regal.", "Die Vase steht jetzt auf dem Regal."],
+      "explanation": "After the movement („stellen“ + Akk) comes the result („stehen“ + Dat): „auf das Regal“ becomes „auf dem Regal“.",
+      "explanationDe": "Nach der Bewegung („stellen“ + Akk) kommt das Ergebnis („stehen“ + Dat): Aus „auf das Regal“ wird „auf dem Regal“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the position into an action: start with „Ich“ and use „hängen“ with an object.",
+      "instructionDe": "Mach aus der Position eine Handlung: Beginne mit „Ich“ und benutze „hängen“ mit Objekt.",
+      "prompt": "Das Foto hängt an der Wand.",
+      "answers": ["Ich hänge das Foto an die Wand.", "Ich habe das Foto an die Wand gehängt."],
+      "explanation": "With an object, „hängen“ is a movement verb → Wohin? → Akkusativ: „an der Wand“ becomes „an die Wand“. The Perfekt is „hat gehängt“.",
+      "explanationDe": "Mit Objekt ist „hängen“ ein Bewegungsverb → Wohin? → Akkusativ: Aus „an der Wand“ wird „an die Wand“. Das Perfekt heißt „hat gehängt“."
+    },
+    {
+      "type": "order",
+      "words": ["das", "Weihnachtsbaum", "Fenster.", "stellen", "zwischen", "Wir", "und", "Sofa", "den", "das"],
+      "answers": ["Wir stellen den Weihnachtsbaum zwischen das Sofa und das Fenster."],
+      "explanation": "„stellen“ = movement → „zwischen“ + Akkusativ for both nouns: „zwischen das Sofa und das Fenster“.",
+      "explanationDe": "„stellen“ = Bewegung → „zwischen“ + Akkusativ für beide Nomen: „zwischen das Sofa und das Fenster“."
+    }
+  ],
+  "related": ["praepositionen-mit-kasus", "lokale-praepositionen", "kasus-und-artikel", "verben-mit-praepositionen"]
+}

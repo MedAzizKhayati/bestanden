@@ -1,0 +1,107 @@
+{
+  "id": "sprachbausteine-2-03",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Omas Geburtstag",
+  "topic": "familie",
+  "difficulty": 1,
+  "textType": "email-informal",
+  "text": "Liebe Jana,\n\nvielen Dank für deine E-Mail! Entschuldige, dass ich erst heute antworte, [[1]] in den letzten Wochen war bei uns sehr viel los.\n\nMeine Oma wird nächsten Monat 80, und wir planen [[2]] Moment eine große Feier für sie. Die ganze Familie kommt, sogar mein Onkel aus Kanada. Ich [[3]] mich schon sehr auf ihn, weil ich ihn seit fünf Jahren nicht gesehen habe.\n\nIch soll mich um die Fotos kümmern, aber meine Kamera ist leider kaputt. Du kennst dich doch so gut [[4]] Kameras aus. Könntest du mir für den Tag deine Kamera [[5]]? Ich passe auch gut darauf auf, versprochen!\n\n[[6]] möchten wir Oma ein Fotobuch mit alten Familienbildern schenken. Hast du Lust, mir dabei zu [[7]]? Du hast immer so tolle Ideen! Wir könnten uns am Samstagnachmittag bei mir treffen, wenn du [[8]] hast.\n\nDie Feier ist übrigens am 14. Juni im Garten meiner Eltern. Du bist natürlich auch herzlich [[9]]! Oma fragt immer wieder nach dir.\n\nSchreib mir bitte bald, [[10]] du kommen kannst.\n\nLiebe Grüße\nMira",
+  "words": [
+    { "key": "a", "text": "am" },
+    { "key": "b", "text": "außerdem" },
+    { "key": "c", "text": "besuchen" },
+    { "key": "d", "text": "denn" },
+    { "key": "e", "text": "eingeladen" },
+    { "key": "f", "text": "freue" },
+    { "key": "g", "text": "helfen" },
+    { "key": "h", "text": "im" },
+    { "key": "i", "text": "leihen" },
+    { "key": "j", "text": "mit" },
+    { "key": "k", "text": "ob" },
+    { "key": "l", "text": "Spaß" },
+    { "key": "m", "text": "über" },
+    { "key": "n", "text": "weil" },
+    { "key": "o", "text": "Zeit" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "d",
+      "explanation": "The clause explains why Mira is answering late, and it has main-clause word order („war bei uns sehr viel los“), so only „denn“ fits. „weil“ would need the verb at the end („weil … viel los war“).",
+      "explanationDe": "Der Satz erklärt, warum Mira erst spät antwortet, und er hat die Wortstellung eines Hauptsatzes („war bei uns sehr viel los“). Deshalb passt nur „denn“. Bei „weil“ müsste das Verb am Ende stehen („weil … viel los war“).",
+      "grammar": "konnektoren-hauptsatz"
+    },
+    {
+      "n": 2,
+      "answer": "h",
+      "explanation": "„im Moment“ (at the moment) is a fixed time expression; „am Moment“ does not exist.",
+      "explanationDe": "„im Moment“ (= jetzt, zurzeit) ist eine feste Zeitangabe; „am Moment“ gibt es nicht.",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 3,
+      "answer": "f",
+      "explanation": "„sich freuen auf“ + accusative means „to look forward to“: „Ich freue mich schon sehr auf ihn.“ The form „freue“ matches the subject „ich“.",
+      "explanationDe": "„sich freuen auf“ + Akkusativ (= auf etwas Zukünftiges gespannt sein): „Ich freue mich schon sehr auf ihn.“ Die Form „freue“ passt zum Subjekt „ich“.",
+      "grammar": "verben-mit-praepositionen"
+    },
+    {
+      "n": 4,
+      "answer": "j",
+      "explanation": "„sich auskennen mit“ means „to know a lot about something“: „Du kennst dich so gut mit Kameras aus.“ „über“ is not used with this verb.",
+      "explanationDe": "„sich auskennen mit“ (= viel über etwas wissen): „Du kennst dich so gut mit Kameras aus.“ „über“ benutzt man mit diesem Verb nicht.",
+      "grammar": "verben-mit-praepositionen"
+    },
+    {
+      "n": 5,
+      "answer": "i",
+      "explanation": "„jemandem etwas leihen“ means „to lend something to someone“: „Könntest du mir … deine Kamera leihen?“ She promises to look after it, so she only wants to borrow it.",
+      "explanationDe": "„jemandem etwas leihen“ (= jemandem etwas für eine Zeit geben): „Könntest du mir … deine Kamera leihen?“ Sie verspricht, gut darauf aufzupassen – sie will die Kamera also nur für eine Zeit benutzen.",
+      "grammar": "verben-mit-dativ"
+    },
+    {
+      "n": 6,
+      "answer": "b",
+      "explanation": "A new, additional topic starts (the photo book), so „außerdem“ (also, in addition) fits. Note the inversion: „Außerdem möchten wir …“.",
+      "explanationDe": "Ein neues, zusätzliches Thema beginnt (das Fotobuch), deshalb passt „außerdem“ (= auch noch, zusätzlich). Achte auf die Wortstellung (Verb vor dem Subjekt): „Außerdem möchten wir …“.",
+      "grammar": "verbindungsadverbien"
+    },
+    {
+      "n": 7,
+      "answer": "g",
+      "explanation": "„Hast du Lust, mir dabei zu helfen?“ – „helfen“ takes the dative „mir“. „besuchen“ would need the accusative („mich zu besuchen“) and does not fit the meaning.",
+      "explanationDe": "„Hast du Lust, mir dabei zu helfen?“ – nach „helfen“ steht der Dativ „mir“. „besuchen“ bräuchte den Akkusativ („mich zu besuchen“) und passt auch inhaltlich nicht.",
+      "grammar": "verben-mit-dativ"
+    },
+    {
+      "n": 8,
+      "answer": "o",
+      "explanation": "„wenn du Zeit hast“ – Mira asks whether Jana is free on Saturday. „Spaß haben“ (to have fun) makes no sense here.",
+      "explanationDe": "„wenn du Zeit hast“ – Mira fragt, ob Jana am Samstag frei ist. „Spaß haben“ (= sich amüsieren) ergibt hier keinen Sinn."
+    },
+    {
+      "n": 9,
+      "answer": "e",
+      "explanation": "„herzlich eingeladen sein“ means „to be warmly invited“: Jana is invited to the party too.",
+      "explanationDe": "„herzlich eingeladen sein“ (= sehr willkommen sein): Jana ist auch zur Feier eingeladen."
+    },
+    {
+      "n": 10,
+      "answer": "k",
+      "explanation": "Mira does not know yet whether Jana can come, so the yes/no question becomes an indirect question with „ob“. „weil“ would give a reason, which makes no sense here.",
+      "explanationDe": "Mira weiß noch nicht, ob Jana kommen kann. Die Ja-/Nein-Frage wird deshalb zu einer indirekten Frage mit „ob“. „weil“ würde einen Grund nennen – das ergibt hier keinen Sinn.",
+      "grammar": "indirekte-fragen"
+    }
+  ],
+  "glossary": [
+    { "de": "Bei uns war viel los.", "en": "We were very busy. / A lot was going on." },
+    { "de": "sich freuen auf", "en": "to look forward to" },
+    { "de": "sich kümmern um", "en": "to take care of" },
+    { "de": "sich auskennen mit", "en": "to know a lot about" },
+    { "de": "jemandem etwas leihen", "en": "to lend something to someone" },
+    { "de": "aufpassen auf", "en": "to look after" },
+    { "de": "das Fotobuch", "en": "photo book" },
+    { "de": "herzlich eingeladen sein", "en": "to be warmly invited" }
+  ]
+}

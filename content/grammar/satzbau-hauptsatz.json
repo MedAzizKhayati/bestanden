@@ -1,0 +1,214 @@
+{
+  "id": "satzbau-hauptsatz",
+  "level": "A2",
+  "category": "satzbau",
+  "order": 1,
+  "title": "Wortstellung im Hauptsatz",
+  "titleEn": "Word order in main clauses",
+  "summary": "In a German main clause the conjugated verb always comes second – whatever stands in first position.",
+  "summaryDe": "Im deutschen Hauptsatz steht das konjugierte Verb immer auf Position 2 – egal, was auf Position 1 steht.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "In a German main clause, the **conjugated verb** is always in **position 2**. Position 1 can be the subject or any other element – if it isn't the subject, the subject moves to the place **right after the verb**.",
+      "mdDe": "Im deutschen Hauptsatz steht das **konjugierte Verb** immer auf **Position 2**. Auf Position 1 kann das Subjekt oder ein anderes Satzglied stehen. Steht dort nicht das Subjekt, dann kommt das Subjekt **direkt nach dem Verb**."
+    },
+    {
+      "type": "text",
+      "heading": "The verb is the anchor",
+      "headingDe": "Das Verb ist der Anker",
+      "md": "Think of a main clause as a row of positions:\n\n- **Position 1** holds exactly **one** element. It can be one word („Ich“, „Morgen“) or a group of words („Am nächsten Montag“, „Meine Kollegin aus Graz“).\n- **Position 2** is reserved for the **conjugated verb** – the verb form that matches the subject (bin, hast, fährt, muss …).\n- After the verb comes the **middle field**: the subject (if it isn't in position 1), objects and information about time, place and so on.\n- If there is a **second verb part** – an infinitive after a modal verb, a participle in the Perfekt or a separable prefix – it goes to the **very end**.\n\nThe conjugated verb and the second verb part form a bracket around the middle field: „Ich **habe** gestern lange auf den Bus **gewartet**.“ This is called the *Satzklammer* (sentence bracket).",
+      "mdDe": "Stell dir einen Hauptsatz als eine Reihe von Positionen vor:\n\n- **Position 1** hat genau **ein** Satzglied. Das kann ein Wort sein („Ich“, „Morgen“) oder eine Wortgruppe („Am nächsten Montag“, „Meine Kollegin aus Graz“).\n- **Position 2** ist für das **konjugierte Verb** reserviert – die Verbform, die zum Subjekt passt (bin, hast, fährt, muss …).\n- Nach dem Verb kommt das **Mittelfeld**: das Subjekt (wenn es nicht auf Position 1 steht), Objekte und Angaben zu Zeit, Ort usw.\n- Gibt es einen **zweiten Verbteil** – einen Infinitiv nach einem Modalverb, ein Partizip II im Perfekt oder ein trennbares Präfix –, dann steht er **ganz am Ende**.\n\nDas konjugierte Verb und der zweite Verbteil bilden eine Klammer um das Mittelfeld: „Ich **habe** gestern lange auf den Bus **gewartet**.“ Das nennt man *Satzklammer*."
+    },
+    {
+      "type": "table",
+      "heading": "The positions in a main clause",
+      "headingDe": "Die Positionen im Hauptsatz",
+      "columns": ["Position 1", "Position 2: verb", "Middle field", "End: 2nd verb part"],
+      "columnsDe": ["Position 1", "Position 2: Verb", "Mittelfeld", "Ende: 2. Verbteil"],
+      "rows": [
+        ["Ich", "fahre", "morgen mit dem Zug nach Hamburg.", "–"],
+        ["Morgen", "fahre", "ich mit dem Zug nach Hamburg.", "–"],
+        ["Am Samstag", "muss", "ich leider", "arbeiten."],
+        ["Gestern", "hat", "mein Bruder die Küche", "aufgeräumt."],
+        ["Der Deutschkurs", "fängt", "um 9 Uhr", "an."],
+        ["Wann", "fängt", "der Deutschkurs", "an?"],
+        ["–", "Kommst", "du am Wochenende", "mit?"]
+      ],
+      "note": "In W-questions the question word takes position 1. In yes/no questions and in the imperative („Komm bitte mit!“), position 1 stays empty and the verb comes first.",
+      "noteDe": "In W-Fragen steht das Fragewort auf Position 1. In Ja/Nein-Fragen und im Imperativ („Komm bitte mit!“) bleibt Position 1 leer, und das Verb steht am Anfang."
+    },
+    {
+      "type": "text",
+      "heading": "Inversion: when the subject moves behind the verb",
+      "headingDe": "Inversion: Das Subjekt steht hinter dem Verb",
+      "md": "In English the subject usually comes before the verb: *Tomorrow I am going …*. In German the verb never leaves position 2. So if you start with something other than the subject, the subject moves **behind** the verb:\n\n- „Ich gehe heute ins Kino.“ → „**Heute gehe ich** ins Kino.“\n- „Wir haben die Wohnung im Mai gefunden.“ → „**Im Mai haben wir** die Wohnung gefunden.“\n- „Ich finde den Film langweilig.“ → „**Den Film finde ich** langweilig.“\n\nThis is called *inversion*. Starting with a time, a place or a word like „Leider“ or „Zum Glück“ makes your German sound natural and varied.",
+      "mdDe": "Im Englischen steht das Subjekt meistens vor dem Verb: *Tomorrow I am going …*. Im Deutschen bleibt das Verb immer auf Position 2. Wenn du den Satz also nicht mit dem Subjekt beginnst, steht das Subjekt **hinter** dem Verb:\n\n- „Ich gehe heute ins Kino.“ → „**Heute gehe ich** ins Kino.“\n- „Wir haben die Wohnung im Mai gefunden.“ → „**Im Mai haben wir** die Wohnung gefunden.“\n- „Ich finde den Film langweilig.“ → „**Den Film finde ich** langweilig.“\n\nDas nennt man *Inversion*. Wenn du mit einer Zeit, einem Ort oder einem Wort wie „Leider“ oder „Zum Glück“ beginnst, klingt dein Deutsch natürlich und abwechslungsreich."
+    },
+    {
+      "type": "text",
+      "heading": "Order in the middle field",
+      "headingDe": "Die Reihenfolge im Mittelfeld",
+      "md": "In the middle field, information about time, reason, manner and place usually follows the order **te – ka – mo – lo**:\n\n1. **te**mporal – *when?* („morgen“)\n2. **ka**usal – *why?* („wegen der Hochzeit“)\n3. **mo**dal – *how?* („mit dem Zug“)\n4. **lo**kal – *where / where to?* („nach Wien“)\n\n„Wir fahren **morgen wegen der Hochzeit mit dem Zug nach Wien**.“\n\nYou rarely need all four at once. The most important part is **time before place**: „Ich fahre **morgen nach Leipzig**.“ Short pronouns come early, directly after the verb or the subject: „Ich rufe **dich** morgen an.“",
+      "mdDe": "Im Mittelfeld stehen Angaben zu Zeit, Grund, Art und Weise und Ort meistens in der Reihenfolge **te – ka – mo – lo**:\n\n1. **te**mporal – *wann?* („morgen“)\n2. **ka**usal – *warum?* („wegen der Hochzeit“)\n3. **mo**dal – *wie?* („mit dem Zug“)\n4. **lo**kal – *wo? / wohin?* („nach Wien“)\n\n„Wir fahren **morgen wegen der Hochzeit mit dem Zug nach Wien**.“\n\nAlle vier brauchst du nur selten gleichzeitig. Am wichtigsten ist die Regel **Zeit vor Ort**: „Ich fahre **morgen nach Leipzig**.“ Kurze Pronomen stehen weit vorne, direkt nach dem Verb oder nach dem Subjekt: „Ich rufe **dich** morgen an.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Am Wochenende besuche** ich meine Großeltern in Salzburg.", "en": "At the weekend I'm visiting my grandparents in Salzburg." },
+        { "de": "Ich **habe** gestern lange auf den Bus **gewartet**.", "en": "I waited a long time for the bus yesterday." },
+        { "de": "**Leider kann** ich am Freitag nicht **kommen**.", "en": "Unfortunately I can't come on Friday." },
+        { "de": "Meine Kollegin **ruft** Sie morgen früh **an**.", "en": "My colleague will call you tomorrow morning." },
+        { "de": "**Seit drei Jahren wohnt** Familie Öztürk in Bremen.", "en": "The Öztürk family has been living in Bremen for three years." },
+        { "de": "**Wie lange dauert** die Fahrt nach Basel?", "en": "How long does the journey to Basel take?" },
+        { "de": "**Hast** du die Tickets schon **gekauft**?", "en": "Have you bought the tickets yet?" },
+        { "de": "**Den Termin habe** ich leider vergessen.", "en": "Unfortunately I forgot the appointment." },
+        { "de": "Wir **fahren** morgen wegen der Hochzeit mit dem Zug nach Wien.", "en": "Tomorrow we're going to Vienna by train because of the wedding." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In both parts of Sprachbausteine, the position of the gap is a strong clue. A gap right after position 1 („Leider ___ …“, „Deshalb ___ …“) needs the conjugated verb; a gap at the end of the clause often needs a participle, an infinitive or a separable prefix. Options like „ich habe / habe ich“ are decided by word order alone.\n\nIn **Schreiben** and **Sprechen**, word-order mistakes weigh more than wrong endings, because they make you harder to understand. And in Schreiben there is an easy win: raters don't give the top grade for „Kommunikative Gestaltung“ if most of your sentences start with „Ich“. Start with a time („Am Samstag …“), a place („In meiner Stadt …“) or a comment word („Leider …“, „Zum Glück …“) – and put the verb straight after it.",
+      "mdDe": "**In der Prüfung:** In beiden Teilen der Sprachbausteine ist die Position der Lücke ein starker Hinweis. Eine Lücke direkt nach Position 1 („Leider ___ …“, „Deshalb ___ …“) braucht das konjugierte Verb. Eine Lücke am Satzende braucht oft ein Partizip II, einen Infinitiv oder ein trennbares Präfix. Bei Antworten wie „ich habe / habe ich“ entscheidet allein die Wortstellung.\n\nIn den Teilen **Schreiben** und **Sprechen** wiegen Fehler in der Wortstellung schwerer als falsche Endungen, weil man dich dann schlechter versteht. Und im Schreiben kannst du leicht punkten: Für „Kommunikative Gestaltung“ gibt es keine Bestnote, wenn die meisten deiner Sätze mit „Ich“ beginnen. Beginne mit einer Zeit („Am Samstag …“), einem Ort („In meiner Stadt …“) oder einem Kommentarwort („Leider …“, „Zum Glück …“) – und setz das Verb direkt dahinter."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** copying the English order 'subject – verb' after a time expression. „Morgen ich gehe ins Kino“ is wrong – correct is „Morgen **gehe ich** ins Kino.“ Also watch the end of the clause: participles, infinitives and separable prefixes don't stay next to the verb. „Ich habe gekauft ein Fahrrad“ is wrong → „Ich habe ein Fahrrad **gekauft**.“",
+      "mdDe": "**Typische Falle:** nach einer Zeitangabe die englische Reihenfolge „Subjekt – Verb“ übernehmen. „Morgen ich gehe ins Kino“ ist falsch – richtig ist „Morgen **gehe ich** ins Kino.“ Achte auch auf das Satzende: Partizipien, Infinitive und trennbare Präfixe bleiben nicht neben dem Verb. „Ich habe gekauft ein Fahrrad“ ist falsch → „Ich habe ein Fahrrad **gekauft**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Am Montag ich habe einen Termin beim Arzt.",
+      "right": "Am Montag habe ich einen Termin beim Arzt.",
+      "why": "„Am Montag“ is position 1, so the verb „habe“ must come next and the subject „ich“ follows it.",
+      "whyDe": "„Am Montag“ steht auf Position 1. Deshalb muss danach das Verb „habe“ kommen, und dann folgt das Subjekt „ich“."
+    },
+    {
+      "wrong": "Ich habe gekauft gestern ein neues Fahrrad.",
+      "right": "Ich habe gestern ein neues Fahrrad gekauft.",
+      "why": "In the Perfekt, the participle („gekauft“) goes to the very end of the clause.",
+      "whyDe": "Im Perfekt steht das Partizip II („gekauft“) ganz am Ende des Satzes."
+    },
+    {
+      "wrong": "Der Film fängt an um 20 Uhr.",
+      "right": "Der Film fängt um 20 Uhr an.",
+      "why": "The separable prefix („an“) goes to the end of the clause, not next to the verb.",
+      "whyDe": "Das trennbare Präfix („an“) steht am Satzende, nicht neben dem Verb."
+    },
+    {
+      "wrong": "Heute Abend wir können zusammen kochen.",
+      "right": "Heute Abend können wir zusammen kochen.",
+      "why": "The modal verb „können“ must come right after „Heute Abend“ (position 2); the infinitive „kochen“ goes to the end.",
+      "whyDe": "Das Modalverb „können“ muss direkt nach „Heute Abend“ stehen (Position 2). Der Infinitiv „kochen“ steht am Ende."
+    },
+    {
+      "wrong": "Ich fahre nach Leipzig morgen.",
+      "right": "Ich fahre morgen nach Leipzig.",
+      "why": "In the middle field, time („morgen“) normally comes before place („nach Leipzig“).",
+      "whyDe": "Im Mittelfeld steht die Zeit („morgen“) normalerweise vor dem Ort („nach Leipzig“)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Am Wochenende ___ in Köln.",
+      "options": ["wir besuchen unsere Freunde", "besuchen wir unsere Freunde", "unsere Freunde wir besuchen"],
+      "answer": 1,
+      "explanation": "„Am Wochenende“ is position 1, so the verb „besuchen“ comes next and the subject „wir“ follows it.",
+      "explanationDe": "„Am Wochenende“ steht auf Position 1. Deshalb kommt danach das Verb „besuchen“, und dann folgt das Subjekt „wir“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Leider ___ heute nicht kommen.",
+      "options": ["kann ich", "ich kann", "können ich"],
+      "answer": 0,
+      "explanation": "„Leider“ takes position 1, so the conjugated verb „kann“ follows directly, then the subject „ich“. „können ich“ has the wrong verb form.",
+      "explanationDe": "„Leider“ steht auf Position 1. Deshalb folgt direkt das konjugierte Verb „kann“, dann das Subjekt „ich“. „können ich“ hat die falsche Verbform."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wann ___?",
+      "options": ["der Kurs fängt an", "fängt an der Kurs", "fängt der Kurs an"],
+      "answer": 2,
+      "explanation": "In a W-question the question word is position 1 and the verb „fängt“ is position 2. Then comes the subject, and the separable prefix „an“ goes to the end.",
+      "explanationDe": "In einer W-Frage steht das Fragewort auf Position 1 und das Verb „fängt“ auf Position 2. Dann kommt das Subjekt, und das trennbare Präfix „an“ steht am Ende."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich stehe jeden Tag um sechs Uhr ___.",
+      "hint": "(aufstehen)",
+      "answers": ["auf"],
+      "explanation": "„aufstehen“ is a separable verb: the conjugated part „stehe“ is in position 2, the prefix „auf“ goes to the very end.",
+      "explanationDe": "„aufstehen“ ist ein trennbares Verb: Der konjugierte Teil „stehe“ steht auf Position 2, das Präfix „auf“ ganz am Ende."
+    },
+    {
+      "type": "gap",
+      "prompt": "Am Samstag ___ ich leider arbeiten.",
+      "hint": "(müssen)",
+      "answers": ["muss"],
+      "explanation": "The modal verb is conjugated („ich muss“) and stands in position 2 after „Am Samstag“; the infinitive „arbeiten“ goes to the end.",
+      "explanationDe": "Das Modalverb ist konjugiert („ich muss“) und steht nach „Am Samstag“ auf Position 2. Der Infinitiv „arbeiten“ steht am Ende."
+    },
+    {
+      "type": "gap",
+      "prompt": "Gestern hat Jonas seine Großmutter im Krankenhaus ___.",
+      "hint": "(besuchen)",
+      "answers": ["besucht"],
+      "explanation": "Perfekt: „hat“ is in position 2 and the participle „besucht“ closes the sentence bracket at the end. Verbs starting with „be-“ form the participle without „ge-“.",
+      "explanationDe": "Perfekt: „hat“ steht auf Position 2, und das Partizip II „besucht“ schließt am Ende die Satzklammer. Verben mit „be-“ bilden das Partizip II ohne „ge-“."
+    },
+    {
+      "type": "order",
+      "words": ["ins", "gehe", "Freitag", "Kino.", "ich", "Am"],
+      "answers": ["Am Freitag gehe ich ins Kino.", "Ich gehe am Freitag ins Kino."],
+      "explanation": "Whatever comes first, the verb „gehe“ stays in position 2. If „Am Freitag“ starts the sentence, the subject „ich“ follows the verb.",
+      "explanationDe": "Egal, was am Anfang steht: Das Verb „gehe“ bleibt auf Position 2. Wenn der Satz mit „Am Freitag“ beginnt, folgt das Subjekt „ich“ nach dem Verb."
+    },
+    {
+      "type": "order",
+      "words": ["an?", "Deutschkurs", "Wann", "der", "fängt"],
+      "answers": ["Wann fängt der Deutschkurs an?"],
+      "explanation": "W-question: question word („Wann“) in position 1, verb („fängt“) in position 2, then the subject. The prefix „an“ goes to the end.",
+      "explanationDe": "W-Frage: Das Fragewort („Wann“) steht auf Position 1, das Verb („fängt“) auf Position 2, dann kommt das Subjekt. Das Präfix „an“ steht am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["gekauft?", "Tickets", "du", "schon", "Hast", "die"],
+      "answers": ["Hast du die Tickets schon gekauft?", "Hast du schon die Tickets gekauft?"],
+      "explanation": "In a yes/no question the conjugated verb („Hast“) comes first and the subject follows. The participle „gekauft“ goes to the end.",
+      "explanationDe": "In einer Ja/Nein-Frage steht das konjugierte Verb („Hast“) am Anfang, danach folgt das Subjekt. Das Partizip II „gekauft“ steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence so that it starts with „Am Abend“.",
+      "instructionDe": "Schreib den Satz so um, dass er mit „Am Abend“ beginnt.",
+      "prompt": "Ich sehe am Abend oft Serien.",
+      "answers": ["Am Abend sehe ich oft Serien."],
+      "explanation": "„Am Abend“ becomes position 1, the verb „sehe“ stays in position 2, and the subject „ich“ moves behind the verb.",
+      "explanationDe": "„Am Abend“ steht jetzt auf Position 1, das Verb „sehe“ bleibt auf Position 2, und das Subjekt „ich“ steht hinter dem Verb."
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the sentence into the Perfekt.",
+      "instructionDe": "Setz den Satz ins Perfekt.",
+      "prompt": "Wir kaufen im Supermarkt ein.",
+      "answers": ["Wir haben im Supermarkt eingekauft."],
+      "explanation": "The auxiliary „haben“ goes to position 2 and the participle to the end. With separable verbs, „-ge-“ goes between prefix and verb: „ein-ge-kauft“.",
+      "explanationDe": "Das Hilfsverb „haben“ steht auf Position 2, das Partizip II am Ende. Bei trennbaren Verben steht „-ge-“ zwischen Präfix und Verb: „ein-ge-kauft“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Add the modal verb „wollen“ and keep the present tense.",
+      "instructionDe": "Ergänze das Modalverb „wollen“ und bleib im Präsens.",
+      "prompt": "Nächstes Jahr mache ich einen Computerkurs.",
+      "answers": ["Nächstes Jahr will ich einen Computerkurs machen.", "Ich will nächstes Jahr einen Computerkurs machen."],
+      "explanation": "The modal verb „will“ takes position 2, and the main verb moves to the end as an infinitive („machen“).",
+      "explanationDe": "Das Modalverb „will“ steht auf Position 2, und das Hauptverb geht als Infinitiv („machen“) ans Ende."
+    }
+  ],
+  "related": ["konnektoren-hauptsatz", "verbindungsadverbien", "nebensaetze-grundlagen", "trennbare-verben", "modalverben", "perfekt", "negation"]
+}

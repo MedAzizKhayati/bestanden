@@ -1,0 +1,99 @@
+{
+  "id": "sprechen-2-16",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Schenken oder nicht schenken?",
+  "topic": "kultur",
+  "difficulty": 1,
+  "theme": "Geschenke zu Feiertagen",
+  "medium": "in einer Zeitschrift",
+  "cardA": {
+    "name": "Heike Lehmann",
+    "age": 48,
+    "job": "Floristin",
+    "quote": "Ich liebe es, Geschenke auszusuchen! Schon im Oktober mache ich eine Liste für Weihnachten und überlege, worüber sich meine Familie und meine Freunde freuen würden. Wenn jemand ein Paket von mir öffnet und sich freut, ist das für mich das Schönste am ganzen Fest. Ein Geschenk zeigt doch, dass man an den anderen denkt."
+  },
+  "cardB": {
+    "name": "Oliver Fuchs",
+    "age": 39,
+    "job": "Ingenieur",
+    "quote": "Vor Weihnachten sind alle Geschäfte voll, und viele Leute kaufen in letzter Minute irgendetwas, nur damit sie ein Geschenk haben. Vieles landet dann im Schrank oder wird zurückgegeben. In unserer Familie schenken wir uns seit drei Jahren nichts mehr. Stattdessen machen wir zusammen einen Ausflug oder spenden das Geld."
+  },
+  "ideas": {
+    "pro": [
+      "man zeigt, dass man an andere denkt",
+      "Freude beim Schenken und beim Auspacken",
+      "Kinder freuen sich besonders",
+      "Geschenke gehören zur Tradition",
+      "selbst gemachte Geschenke sind persönlich"
+    ],
+    "contra": [
+      "Stress beim Einkaufen vor den Feiertagen",
+      "viele Geschenke braucht man nicht",
+      "teuer, besonders für große Familien",
+      "viel Müll durch Verpackung",
+      "gemeinsame Zeit ist wichtiger als Dinge",
+      "man könnte das Geld spenden"
+    ]
+  },
+  "questions": [
+    "Was schenken Sie gern? Was bekommen Sie gern geschenkt?",
+    "Wie ist das in Ihrem Heimatland? Zu welchen Festen schenkt man sich etwas?",
+    "Was war das schönste Geschenk, das Sie je bekommen haben?",
+    "Was halten Sie von Gutscheinen oder Geld als Geschenk?",
+    "Sind selbst gemachte Geschenke besser als gekaufte?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Lucia Novotná", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Minh Tran", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "P", "t": "Bitte erzählen Sie sich gegenseitig, was auf Ihrem Blatt steht. Danach unterhalten Sie sich über das Thema Geschenke." },
+    { "s": "A", "t": "Okay, ich fange an. Auf meinem Blatt steht die Meinung von Heike Lehmann. Sie ist 48 und Floristin." },
+    { "s": "A", "t": "Frau Lehmann liebt es, Geschenke auszusuchen. Schon im Oktober macht sie eine Liste für Weihnachten und überlegt, worüber sich ihre Familie und ihre Freunde freuen." },
+    { "s": "A", "t": "Für sie ist es das Schönste am ganzen Fest, wenn sich jemand über ihr Geschenk freut. Sie sagt, ein Geschenk zeigt, dass man an den anderen denkt." },
+    { "s": "B", "t": "Danke, Lucia. Auf meinem Blatt hat Oliver Fuchs eine andere Meinung. Er ist 39 und Ingenieur." },
+    { "s": "B", "t": "Herr Fuchs findet, dass vor Weihnachten alle Geschäfte zu voll sind. Viele Leute kaufen in letzter Minute irgendetwas, und viele Geschenke landen dann im Schrank." },
+    { "s": "B", "t": "Deshalb schenkt sich seine Familie seit drei Jahren nichts mehr. Stattdessen machen sie zusammen einen Ausflug oder spenden das Geld." },
+    { "s": "A", "t": "Eine interessante Idee! Aber für mich wäre das nichts, denn ich schenke sehr gern, genau wie Frau Lehmann. Und du, Minh?" },
+    { "s": "B", "t": "Ich finde beide Meinungen verständlich. Ich mag Geschenke, aber den Stress vor Weihnachten mag ich nicht. Letztes Jahr habe ich am dreiundzwanzigsten Dezember noch Geschenke gesucht, das war schrecklich!" },
+    { "s": "A", "t": "Oh nein! Ich kaufe meine Geschenke deshalb schon im November. Dann habe ich keinen Stress." },
+    { "s": "B", "t": "Das ist klug. Feiert man in Tschechien auch Weihnachten mit Geschenken?" },
+    { "s": "A", "t": "Ja, sehr! Bei uns bringt das Christkind die Geschenke am Heiligabend, und traditionell gibt es Karpfen mit Kartoffelsalat. Wie ist das in Vietnam?" },
+    { "s": "B", "t": "Bei uns ist das wichtigste Fest nicht Weihnachten, sondern das Neujahrsfest im Januar oder Februar. Da bekommen die Kinder rote Umschläge mit Geld." },
+    { "s": "A", "t": "Geld? Ist das nicht ein bisschen unpersönlich?" },
+    { "s": "B", "t": "Nein, bei uns ist das ganz normal. Die roten Umschläge bringen Glück für das neue Jahr. Und die Kinder freuen sich natürlich sehr!" },
+    { "s": "A", "t": "Das kann ich mir vorstellen. In Deutschland finden manche Leute Geld als Geschenk ein bisschen langweilig. Aber eigentlich ist es praktisch, weil man sich dann selbst etwas kaufen kann." },
+    { "s": "B", "t": "Genau. Und was hältst du von der Idee, Geld zu spenden, wie die Familie von Herrn Fuchs?" },
+    { "s": "A", "t": "Das finde ich eigentlich sehr schön. Vielleicht kann man beides machen: kleine Geschenke für die Kinder und eine Spende für Menschen, die Hilfe brauchen." },
+    { "s": "B", "t": "Das ist ein guter Kompromiss. Ich finde auch selbst gemachte Geschenke toll, zum Beispiel Plätzchen oder ein Fotoalbum." },
+    { "s": "A", "t": "Ja, die sind persönlich und nicht so teuer. Letztes Jahr habe ich für meine Oma ein Fotobuch gemacht, und sie hat vor Freude geweint." },
+    { "s": "B", "t": "Wie schön! Da sieht man: Ein Geschenk muss nicht teuer sein, aber es sollte von Herzen kommen." },
+    { "s": "A", "t": "Da hast du recht. Am wichtigsten ist doch, dass man die Feiertage zusammen verbringt." }
+  ],
+  "phrases": [
+    { "de": "Okay, ich fange an.", "en": "Okay, I'll start." },
+    { "de": "Auf meinem Blatt hat … eine andere Meinung.", "en": "On my sheet, … has a different opinion." },
+    { "de": "Für mich wäre das nichts.", "en": "That wouldn't be for me." },
+    { "de": "Ich finde beide Meinungen verständlich.", "en": "I find both opinions understandable." },
+    { "de": "Was hältst du von der Idee, … zu …?", "en": "What do you think of the idea of …?" },
+    { "de": "Das ist ein guter Kompromiss.", "en": "That's a good compromise." },
+    { "de": "Da sieht man: …", "en": "That shows: …" },
+    { "de": "Am wichtigsten ist doch, dass …", "en": "The most important thing is surely that …" }
+  ],
+  "vocabulary": [
+    { "de": "schenken", "en": "to give (as a present)" },
+    { "de": "etwas aussuchen", "en": "to choose something" },
+    { "de": "sich freuen über (+ Akk.)", "en": "to be pleased about" },
+    { "de": "die Feiertage (Pl.)", "en": "holidays, public holidays" },
+    { "de": "der Heiligabend", "en": "Christmas Eve" },
+    { "de": "das Christkind", "en": "the Christ Child (brings presents in some regions)" },
+    { "de": "spenden / die Spende", "en": "to donate / donation" },
+    { "de": "der Umschlag", "en": "envelope" },
+    { "de": "unpersönlich", "en": "impersonal" },
+    { "de": "selbst gemacht", "en": "homemade" },
+    { "de": "die Plätzchen (Pl.)", "en": "(Christmas) biscuits" },
+    { "de": "in letzter Minute", "en": "at the last minute" }
+  ]
+}

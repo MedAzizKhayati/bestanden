@@ -1,0 +1,73 @@
+{
+  "id": "sprechen-3-08",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Ein Wochenende am Bodensee",
+  "topic": "reisen",
+  "difficulty": 2,
+  "situation": "Sie wohnen in Stuttgart und haben im Mai zusammen ein langes Wochenende frei. Sie möchten gemeinsam verreisen, aber Sie haben nicht viel Geld. Planen Sie gemeinsam die Reise.",
+  "checklist": [
+    "Wohin?",
+    "Wie fahren Sie dorthin?",
+    "Übernachtung?",
+    "Was möchten Sie dort machen?",
+    "Was tun bei Regen?",
+    "Kosten?",
+    "Wer bucht was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Isabel Torres", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Farid Nazari", "gender": "m", "age": "young", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie möchten zusammen ein Wochenende verreisen. Bitte planen Sie jetzt die Reise." },
+    { "s": "A", "t": "Farid, ich freue mich so auf unser langes Wochenende! Hast du schon überlegt, wohin wir fahren könnten?" },
+    { "s": "B", "t": "Ja, ich hätte große Lust auf Berlin. Ich war noch nie dort, und es gibt so viele Museen und Restaurants." },
+    { "s": "A", "t": "Berlin ist bestimmt spannend, aber von Stuttgart aus ist das ziemlich weit. Mit dem Zug braucht man mehr als fünf Stunden, und für drei Tage lohnt sich das kaum. Wie wäre es mit dem Bodensee?" },
+    { "s": "B", "t": "Mit dem Bodensee? Da gibt es doch nur Wasser und Berge, oder?" },
+    { "s": "A", "t": "Nicht nur! Es gibt schöne kleine Städte wie Konstanz und Lindau, und man kann mit dem Schiff auf die Blumeninsel Mainau fahren. Außerdem ist man mit dem Zug in zweieinhalb Stunden dort." },
+    { "s": "B", "t": "Okay, das klingt eigentlich gut. Im Mai ist das Wetter dort bestimmt schon schön, und Berlin können wir ja im Herbst machen." },
+    { "s": "A", "t": "Super, abgemacht! Und wo übernachten wir? Ein Hotel direkt am See ist sicher sehr teuer." },
+    { "s": "B", "t": "Ich schlage vor, dass wir in einer Jugendherberge schlafen. Die sind günstig, und man trifft dort oft nette Leute aus aller Welt." },
+    { "s": "A", "t": "In einer Jugendherberge schläft man aber oft mit vielen Leuten in einem Zimmer, und ich schlafe schlecht, wenn jemand schnarcht. Vielleicht finden wir eine kleine Ferienwohnung?" },
+    { "s": "B", "t": "Eine Ferienwohnung ist schön, aber für nur zwei Nächte vermieten viele keine Wohnung. Weißt du was, viele Jugendherbergen haben auch Doppelzimmer. Das wäre ein guter Kompromiss." },
+    { "s": "A", "t": "Ach, das wusste ich nicht. Dann suche ich heute Abend im Internet ein Doppelzimmer in Konstanz." },
+    { "s": "B", "t": "Gut. Und wie fahren wir, mit dem Zug oder mit dem Fernbus? Der Fernbus ist oft billiger." },
+    { "s": "A", "t": "Ja, aber der Zug ist schneller und bequemer. Wenn wir früh buchen, gibt es auch für den Zug oft günstige Angebote." },
+    { "s": "B", "t": "Stimmt. Dann kümmere ich mich um die Zugtickets, ich habe die App schon auf meinem Handy." },
+    { "s": "A", "t": "Perfekt. Und was machen wir dort? Ich möchte unbedingt auf die Insel Mainau, wegen der Blumen." },
+    { "s": "B", "t": "Okay, das machen wir am Samstag. Am Sonntag könnten wir Fahrräder leihen und am See entlangfahren. Ich habe gelesen, dass die Radwege dort sehr schön sind." },
+    { "s": "A", "t": "Gute Idee, aber bitte nicht zu weit! Ich bin nicht so sportlich wie du. Vielleicht fahren wir nur eine kurze Strecke und machen unterwegs ein Picknick." },
+    { "s": "B", "t": "Einverstanden. Und was ist, wenn es regnet?" },
+    { "s": "A", "t": "Dann gehen wir in Konstanz ins Museum oder in ein Café. Bei Regen sind die Cafés am See doch auch gemütlich." },
+    { "s": "B", "t": "Da hast du recht. Wie viel Geld brauchen wir ungefähr?" },
+    { "s": "A", "t": "Ich schätze, mit Zug, Übernachtung, Essen und Fahrrädern ungefähr zweihundert Euro pro Person." },
+    { "s": "B", "t": "Das ist okay. Also, fassen wir zusammen: Wir fahren im Mai mit dem Zug an den Bodensee und übernachten in der Jugendherberge in Konstanz. Am Samstag fahren wir auf die Insel Mainau, und am Sonntag machen wir eine Fahrradtour." },
+    { "s": "A", "t": "Genau. Ich buche das Doppelzimmer, und du kaufst die Zugtickets. Das wird ein tolles Wochenende!" }
+  ],
+  "phrases": [
+    { "de": "Hast du schon überlegt, wohin …?", "en": "Have you thought about where …?" },
+    { "de": "Ich hätte große Lust auf …", "en": "I'd really love to go to … / I really fancy …" },
+    { "de": "Für drei Tage lohnt sich das kaum.", "en": "For three days it's hardly worth it." },
+    { "de": "Okay, das klingt eigentlich gut.", "en": "Okay, that actually sounds good." },
+    { "de": "Super, abgemacht!", "en": "Great, it's a deal!" },
+    { "de": "Weißt du was, …", "en": "You know what, …" },
+    { "de": "Das wäre ein guter Kompromiss.", "en": "That would be a good compromise." },
+    { "de": "Und was ist, wenn es regnet?", "en": "And what if it rains?" },
+    { "de": "Ich schätze, …", "en": "I'd estimate …" }
+  ],
+  "vocabulary": [
+    { "de": "verreisen", "en": "to go away on a trip" },
+    { "de": "übernachten", "en": "to stay overnight" },
+    { "de": "die Jugendherberge", "en": "youth hostel" },
+    { "de": "das Doppelzimmer", "en": "double room" },
+    { "de": "die Ferienwohnung", "en": "holiday flat" },
+    { "de": "schnarchen", "en": "to snore" },
+    { "de": "der Fernbus", "en": "long-distance coach" },
+    { "de": "buchen", "en": "to book" },
+    { "de": "Fahrräder leihen", "en": "to rent bikes" },
+    { "de": "die Insel", "en": "island" },
+    { "de": "sich lohnen", "en": "to be worth it" }
+  ]
+}

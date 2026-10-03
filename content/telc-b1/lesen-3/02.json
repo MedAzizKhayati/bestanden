@@ -1,0 +1,234 @@
+{
+  "id": "lesen-3-02",
+  "examId": "telc-b1",
+  "type": "ad-matching",
+  "title": "Kurse und Weiterbildung in Graz",
+  "topic": "bildung",
+  "difficulty": 1,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ihr Großvater ist 74 Jahre alt. Er möchte lernen, wie man E-Mails schreibt und mit den Enkeln per Video telefoniert – am liebsten vormittags in einer kleinen Gruppe.",
+      "answer": "f",
+      "explanation": "„Internet, E-Mail und Videotelefonie“, „Höchstens 6 Personen“ and „9.30–11.30 Uhr“ – the computer course for over-60s (f) fits all his wishes. The coding camp (d) is also about computers, but only for children „von 10 bis 14 Jahren“.",
+      "explanationDe": "„Internet, E-Mail und Videotelefonie“, „Höchstens 6 Personen“ und „9.30–11.30 Uhr“ – der Computerkurs für Menschen über 60 (f) erfüllt alle seine Wünsche. Im Coding-Camp (d) geht es auch um Computer, aber nur für Kinder „von 10 bis 14 Jahren“."
+    },
+    {
+      "n": 2,
+      "text": "Sie möchten am Wochenende einen Fotokurs machen. Eine Kamera haben Sie aber nicht, nur ein Handy.",
+      "answer": "x",
+      "explanation": "The photo school (h) has a Saturday course, but it says „Bitte eigene Kamera … mitbringen – Handys sind leider nicht geeignet“. No other ad offers photography, so the answer is x.",
+      "explanationDe": "Die Fotoschule (h) hat einen Kurs am Samstag, aber dort steht: „Bitte eigene Kamera … mitbringen – Handys sind leider nicht geeignet“. Keine andere Anzeige bietet Fotografie an, deshalb ist die Lösung x."
+    },
+    {
+      "n": 3,
+      "text": "Sie machen gerade den Führerschein und brauchen noch einen Erste-Hilfe-Kurs. Unter der Woche haben Sie keine Zeit.",
+      "answer": "c",
+      "explanation": "„6-Stunden-Kurs für den Führerschein: jeden Samstag“ – the first-aid course (c) is exactly what a learner driver needs, and it is on Saturdays. The forklift course (l) is also a licence course, but it has nothing to do with first aid.",
+      "explanationDe": "„6-Stunden-Kurs für den Führerschein: jeden Samstag“ – der Erste-Hilfe-Kurs (c) ist genau das, was Fahrschüler brauchen, und er findet samstags statt. Der Staplerkurs (l) ist auch ein Kurs für einen Führerschein, aber er hat nichts mit Erster Hilfe zu tun."
+    },
+    {
+      "n": 4,
+      "text": "Ihre Tochter ist acht und möchte Geige spielen lernen. Bevor Sie ein Instrument kaufen, möchten Sie sehen, ob es ihr wirklich Spaß macht.",
+      "answer": "b",
+      "explanation": "„Einzelunterricht für Kinder ab 6 Jahren“ and „Leihinstrumente für die ersten drei Monate gratis“ – at the music school (b) your daughter can borrow a violin first.",
+      "explanationDe": "„Einzelunterricht für Kinder ab 6 Jahren“ und „Leihinstrumente für die ersten drei Monate gratis“ – in der Musikschule (b) kann deine Tochter zuerst eine Geige leihen."
+    },
+    {
+      "n": 5,
+      "text": "Sie möchten Ihr Deutsch verbessern und vor allem mehr sprechen. Das Angebot darf aber nichts kosten.",
+      "answer": "k",
+      "explanation": "„Deutsch sprechen ohne Stress“ and „Kostenlos, ohne Anmeldung“ – the German café (k) is free. The language school (e) also teaches German, but the course costs „290 €“.",
+      "explanationDe": "„Deutsch sprechen ohne Stress“ und „Kostenlos, ohne Anmeldung“ – das Deutsch-Café (k) kostet nichts. Das Sprachinstitut (e) unterrichtet auch Deutsch, aber der Kurs kostet „290 €“."
+    },
+    {
+      "n": 6,
+      "text": "Ihr Bruder arbeitet tagsüber in einem Büro. Neben der Arbeit möchte er sich in Buchhaltung weiterbilden und am Ende ein Zertifikat bekommen.",
+      "answer": "i",
+      "explanation": "„Lehrgang Buchhaltung und Lohnverrechnung … 18–21 Uhr“ and „Abschluss mit anerkanntem Zertifikat“ – the academy (i) offers evening training with a certificate. The job workshop (a) is about job applications and takes place on Monday mornings.",
+      "explanationDe": "„Lehrgang Buchhaltung und Lohnverrechnung … 18–21 Uhr“ und „Abschluss mit anerkanntem Zertifikat“ – die Akademie (i) bietet eine Weiterbildung am Abend mit Zertifikat an. In der Jobwerkstatt (a) geht es um Bewerbungen, und sie findet am Montagvormittag statt."
+    },
+    {
+      "n": 7,
+      "text": "Ihr Freund möchte vor seinem Urlaub in der Toskana Italienisch lernen. Weil er tagsüber arbeitet, kann er nur am Abend einen Kurs besuchen.",
+      "answer": "x",
+      "explanation": "The language school (e) has an Italian course for beginners, but only „Mo.–Fr. 9–12 Uhr“, in the morning. No other ad offers Italian, so the answer is x.",
+      "explanationDe": "Das Sprachinstitut (e) hat einen Italienischkurs für Anfänger, aber nur „Mo.–Fr. 9–12 Uhr“, also vormittags. Keine andere Anzeige bietet Italienisch an, deshalb ist die Lösung x."
+    },
+    {
+      "n": 8,
+      "text": "Ihre Mitbewohnerin möchte lernen, wie man Kleider näht. Eine eigene Nähmaschine hat sie nicht.",
+      "answer": "g",
+      "explanation": "„Anfängerkurs“ and „Nähmaschinen stehen für alle Teilnehmenden bereit“ – at the sewing café (g) she does not need her own machine.",
+      "explanationDe": "„Anfängerkurs“ und „Nähmaschinen stehen für alle Teilnehmenden bereit“ – im Nähcafé (g) braucht sie keine eigene Maschine."
+    },
+    {
+      "n": 9,
+      "text": "Sie haben eine neue Stelle in einem Lager gefunden. Dafür brauchen Sie möglichst bald einen Führerschein für den Gabelstapler.",
+      "answer": "l",
+      "explanation": "„Staplerschein in 2 Tagen“ and „Theorie und Praxis für Gabelstaplerfahrer“ – (l) is the forklift licence course. The first-aid course (c) also mentions the „Führerschein“, but it only teaches first aid.",
+      "explanationDe": "„Staplerschein in 2 Tagen“ und „Theorie und Praxis für Gabelstaplerfahrer“ – (l) ist der Kurs für den Gabelstapler-Führerschein. Der Erste-Hilfe-Kurs (c) nennt auch den „Führerschein“, aber dort lernt man nur Erste Hilfe."
+    },
+    {
+      "n": 10,
+      "text": "Ihr Sohn ist zwölf und interessiert sich sehr für Computer. In den Ferien möchte er lernen, wie man selbst ein Computerspiel programmiert.",
+      "answer": "d",
+      "explanation": "„Eigene Spiele und Apps programmieren“, „von 10 bis 14 Jahren“ and „In den Sommerferien“ – the coding camp (d) fits a twelve-year-old. The computer course (f) is for people over 60.",
+      "explanationDe": "„Eigene Spiele und Apps programmieren“, „von 10 bis 14 Jahren“ und „In den Sommerferien“ – das Coding-Camp (d) passt für einen Zwölfjährigen. Der Computerkurs (f) ist für Menschen über 60."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Jobwerkstatt Graz",
+      "subheading": "Fit für die Bewerbung",
+      "lines": [
+        "Lebenslauf und Bewerbungsschreiben am PC gestalten",
+        "Vorstellungsgespräche üben – mit Video-Feedback",
+        "Workshop jeden Montag 9–13 Uhr",
+        "Für Arbeitsuchende kostenlos, sonst 40 €"
+      ],
+      "footer": "Mühlgangweg 14, 8020 Graz · Tel. 0316 712044 · www.jobwerkstatt-graz.at"
+    },
+    {
+      "key": "b",
+      "heading": "Musikschule Saitenwind",
+      "lines": [
+        "Gitarre, Klavier, Geige und Schlagzeug",
+        "Einzelunterricht für Kinder ab 6 Jahren und Erwachsene",
+        "Leihinstrumente für die ersten drei Monate gratis",
+        "Probestunde: 15 €"
+      ],
+      "footer": "Schubertgasse 7, 8010 Graz · Tel. 0316 829310 · www.saitenwind.at"
+    },
+    {
+      "key": "c",
+      "heading": "Erste Hilfe Steiermark",
+      "subheading": "Helfen kann jeder – wir zeigen Ihnen, wie!",
+      "lines": [
+        "6-Stunden-Kurs für den Führerschein: jeden Samstag 8–14 Uhr, 60 €",
+        "16-Stunden-Grundkurs: zwei Wochenenden, 120 €",
+        "Kurse für Firmen auf Anfrage",
+        "Anmeldung online oder telefonisch"
+      ],
+      "footer": "Sanitätsweg 3, 8020 Graz · Tel. 0316 504090 · www.erstehilfe-stmk.at"
+    },
+    {
+      "key": "d",
+      "heading": "Coding-Camp für junge Tüftler",
+      "lines": [
+        "Eigene Spiele und Apps programmieren – ganz ohne Vorkenntnisse",
+        "Für Kinder und Jugendliche von 10 bis 14 Jahren",
+        "In den Sommerferien: 5 Tage, Mo.–Fr. 9–15 Uhr, inkl. Mittagessen",
+        "Laptops sind vorhanden. 220 € pro Woche"
+      ],
+      "footer": "Innovationspark, Am Stadtbahnhof 2, 8020 Graz · www.coding-camp-graz.at"
+    },
+    {
+      "key": "e",
+      "heading": "Sprachinstitut Babel",
+      "subheading": "Sprachen lernen im Herzen von Graz",
+      "lines": [
+        "Deutsch-Intensivkurse A1–C1: Mo.–Fr. 9–12.15 Uhr, 4 Wochen 290 €",
+        "Italienisch und Spanisch für Anfänger: Sommer-Intensivkurs im Juli, Mo.–Fr. 9–12 Uhr",
+        "Kleine Gruppen, erfahrene Lehrkräfte",
+        "Einstufungstest gratis"
+      ],
+      "footer": "Lindengasse 12, 8010 Graz · Tel. 0316 873355 · www.babel-sprachen.at"
+    },
+    {
+      "key": "f",
+      "heading": "PC-Treff 60plus",
+      "subheading": "Keine Angst vor dem Computer!",
+      "lines": [
+        "Grundkurs: Internet, E-Mail und Videotelefonie",
+        "Höchstens 6 Personen pro Gruppe – wir haben Zeit für Ihre Fragen.",
+        "Dienstag und Donnerstag, 9.30–11.30 Uhr, 4 Termine 48 €",
+        "Laptops und Tablets vorhanden"
+      ],
+      "footer": "Nachbarschaftszentrum, Brunnenweg 4, 8020 Graz · Tel. 0316 913372"
+    },
+    {
+      "key": "g",
+      "heading": "Nähcafé Fadenreich",
+      "subheading": "Nähen lernen bei Kaffee und Kuchen",
+      "lines": [
+        "Anfängerkurs: 5 Abende, mittwochs 18–21 Uhr, 95 €",
+        "Nähmaschinen stehen für alle Teilnehmenden bereit.",
+        "Stoffe können Sie bei uns kaufen."
+      ],
+      "footer": "Webergasse 9, 8020 Graz · www.fadenreich.at"
+    },
+    {
+      "key": "h",
+      "heading": "Fotoschule Blende 8",
+      "subheading": "Bessere Fotos in einem Tag",
+      "lines": [
+        "Grundkurs Digitalfotografie: samstags 10–17 Uhr, 89 €",
+        "Themen: Licht, Bildaufbau, Porträt",
+        "Bitte eigene Kamera und Akku mitbringen – Handys sind leider nicht geeignet.",
+        "Max. 8 Teilnehmende"
+      ],
+      "footer": "Tel. 0316 248861 · www.blende8-graz.at"
+    },
+    {
+      "key": "i",
+      "heading": "Akademie für Wirtschaft und Büro",
+      "subheading": "Weiterbildung neben dem Beruf",
+      "lines": [
+        "Lehrgang Buchhaltung und Lohnverrechnung: 12 Wochen, Di. und Do. 18–21 Uhr",
+        "Abschluss mit anerkanntem Zertifikat",
+        "Auch als Online-Kurs möglich",
+        "Förderung durch den Arbeitgeber möglich – fragen Sie uns!"
+      ],
+      "footer": "Neutorweg 3, 8010 Graz · Tel. 0316 607080 · www.akademie-wb.at"
+    },
+    {
+      "key": "j",
+      "heading": "Kochstudio Paprika",
+      "lines": [
+        "Steirische Küche: freitags 18–22 Uhr",
+        "Vegetarisch genießen: dienstags 18–22 Uhr",
+        "65 € inkl. Zutaten und Getränken",
+        "Gutscheine – das perfekte Geschenk!"
+      ],
+      "footer": "Gartengasse 21, 8010 Graz · Tel. 0316 335147 · www.kochstudio-paprika.at"
+    },
+    {
+      "key": "k",
+      "heading": "Deutsch-Café im Stadtteilzentrum",
+      "lines": [
+        "Deutsch sprechen ohne Stress: Wir plaudern über Alltag, Arbeit und Kultur.",
+        "Jeden Mittwoch 17–19 Uhr, für Niveau A2–B2",
+        "Kostenlos, ohne Anmeldung",
+        "Ehrenamtliche Gesprächsleiterinnen und Gesprächsleiter helfen Ihnen weiter."
+      ],
+      "footer": "Stadtteilzentrum, Kirchplatz 6, 8020 Graz"
+    },
+    {
+      "key": "l",
+      "heading": "Staplerschein in 2 Tagen",
+      "subheading": "Bildungswerk Industrie & Logistik",
+      "lines": [
+        "Theorie und Praxis für Gabelstaplerfahrer",
+        "Nächste Termine: 15./16. und 29./30. Jänner, jeweils 8–16 Uhr",
+        "Ab 18 Jahren, 280 € inkl. Prüfung",
+        "Die Kosten übernimmt oft der Arbeitgeber."
+      ],
+      "footer": "Industriestraße 40, 8051 Graz · Tel. 0316 682290 · www.staplerschein-graz.at"
+    }
+  ],
+  "glossary": [
+    { "de": "die Weiterbildung", "en": "further training" },
+    { "de": "sich weiterbilden", "en": "to continue one's education, to train further" },
+    { "de": "der Lehrgang", "en": "training course (leading to a qualification)" },
+    { "de": "die Lohnverrechnung (österr.)", "en": "payroll accounting" },
+    { "de": "das Leihinstrument", "en": "instrument on loan" },
+    { "de": "gratis", "en": "free of charge" },
+    { "de": "die Vorkenntnisse (Pl.)", "en": "previous knowledge" },
+    { "de": "der Einstufungstest", "en": "placement test" },
+    { "de": "der Gabelstapler", "en": "forklift truck" },
+    { "de": "ehrenamtlich", "en": "voluntary, unpaid" },
+    { "de": "der Jänner (österr.)", "en": "January" }
+  ]
+}

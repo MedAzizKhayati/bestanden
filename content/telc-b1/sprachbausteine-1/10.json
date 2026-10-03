@@ -1,0 +1,144 @@
+{
+  "id": "sprachbausteine-1-10",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Anmeldung zum Schwimmkurs",
+  "topic": "sport",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "text": "Sehr geehrte Damen und Herren,\n\nich möchte meinen Sohn Leon für einen Schwimmkurs anmelden. Leon ist neun Jahre alt und kann leider noch nicht schwimmen. Auf Ihrer Internetseite habe ich gelesen, dass in Ihrem Verein Anfängerkurse für Kinder [[1]] werden.\n\n[[2]] wir letzten Sommer am Meer waren, hat Leon beim Baden viel Salzwasser geschluckt. Seitdem hat er ein bisschen Angst vor dem Wasser. Für einen ängstlichen [[3]] wie ihn ist eine [[4]] Gruppe bestimmt besser. Wie viele Kinder sind denn in einem Kurs?\n\nLeon hat jeden Tag bis 15 Uhr Unterricht, deshalb kann er erst [[5]] 16 Uhr zum Schwimmkurs kommen. Dürfen die Eltern im Schwimmbad zuschauen? Ich glaube, es [[6]] Leon helfen, wenn ich in der Nähe bin.\n\nLeon hat übrigens einen Freund, [[7]] Eltern ihn auch gern anmelden möchten. Die beiden kennen [[8]] aus der Schule und würden gern zusammen schwimmen lernen. Bitte teilen Sie mir auch mit, [[9]] die Kinder zum Kurs mitbringen müssen.\n\nIch hoffe sehr, [[10]] noch Plätze frei sind.\n\nMit freundlichen Grüßen\nSabine Wolf",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "angeboten" },
+        { "key": "b", "text": "anbieten" },
+        { "key": "c", "text": "anbietet" }
+      ],
+      "answer": "a",
+      "explanation": "The courses are offered by the club – Passiv: „werden“ + Partizip II → „angeboten werden“. „anbieten werden“ would be an active future without an object, and „anbietet“ is a conjugated verb form.",
+      "explanationDe": "Die Kurse werden vom Verein angeboten – also Passiv: „werden“ + Partizip II → „angeboten werden“. „anbieten werden“ wäre ein aktives Futur ohne Objekt, und „anbietet“ ist eine konjugierte Verbform.",
+      "grammar": "passiv"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "Wenn" },
+        { "key": "b", "text": "Als" },
+        { "key": "c", "text": "Wann" }
+      ],
+      "answer": "b",
+      "explanation": "„als“ is used for a single event in the past („letzten Sommer“). „wenn“ is for repeated events or the present/future, and „wann“ is a question word.",
+      "explanationDe": "„als“ benutzt man für ein einmaliges Ereignis in der Vergangenheit („letzten Sommer“). „wenn“ steht für wiederholte Ereignisse oder für Gegenwart und Zukunft, und „wann“ ist ein Fragewort.",
+      "grammar": "temporale-nebensaetze"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "Junge" },
+        { "key": "b", "text": "Jungens" },
+        { "key": "c", "text": "Jungen" }
+      ],
+      "answer": "c",
+      "explanation": "„der Junge“ is an n-noun. After „für einen ängstlichen …“ (accusative) it takes „-n“: „für einen ängstlichen Jungen“. „Junge“ is only the nominative singular, and „Jungens“ is a colloquial plural.",
+      "explanationDe": "„der Junge“ ist ein n-Nomen. Nach „für einen ängstlichen …“ (Akkusativ) bekommt es ein „-n“: „für einen ängstlichen Jungen“. „Junge“ ist nur der Nominativ Singular, und „Jungens“ ist ein umgangssprachlicher Plural.",
+      "grammar": "n-deklination"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "kleine" },
+        { "key": "b", "text": "kleinen" },
+        { "key": "c", "text": "kleiner" }
+      ],
+      "answer": "a",
+      "explanation": "„die Gruppe“ is feminine and the subject of the clause (nominative). After „eine“ the adjective ends in „-e“: „eine kleine Gruppe“.",
+      "explanationDe": "„die Gruppe“ ist feminin und das Subjekt des Satzes (Nominativ). Nach „eine“ hat das Adjektiv die Endung „-e“: „eine kleine Gruppe“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "seit" },
+        { "key": "b", "text": "bis" },
+        { "key": "c", "text": "ab" }
+      ],
+      "answer": "c",
+      "explanation": "„ab“ + time marks a starting point: Leon can come at 4 p.m. at the earliest („erst ab 16 Uhr“). „seit“ is for something that began in the past and is still going on, and „bis“ marks an end point.",
+      "explanationDe": "„ab“ + Zeitangabe nennt einen Startpunkt: Leon kann frühestens um 16 Uhr kommen („erst ab 16 Uhr“). „seit“ steht für etwas, das in der Vergangenheit begonnen hat und noch andauert, und „bis“ nennt einen Endpunkt.",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "wäre" },
+        { "key": "b", "text": "hätte" },
+        { "key": "c", "text": "würde" }
+      ],
+      "answer": "c",
+      "explanation": "The infinitive „helfen“ follows, so you need „würde“ + infinitive (Konjunktiv II) for a hypothetical result: „es würde Leon helfen, wenn …“. „wäre“ and „hätte“ cannot be combined with an infinitive like „helfen“.",
+      "explanationDe": "Danach folgt der Infinitiv „helfen“. Du brauchst also „würde“ + Infinitiv (Konjunktiv II) für ein hypothetisches Ergebnis: „es würde Leon helfen, wenn …“. „wäre“ und „hätte“ passen nicht zu einem Infinitiv wie „helfen“.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "deren" },
+        { "key": "b", "text": "dessen" },
+        { "key": "c", "text": "dem" }
+      ],
+      "answer": "b",
+      "explanation": "„dessen“ is the genitive relative pronoun for masculine and neuter nouns: „einen Freund, dessen Eltern …“ = a friend whose parents …. „deren“ is only for feminine and plural nouns, and „dem“ is dative.",
+      "explanationDe": "„dessen“ ist das Relativpronomen im Genitiv für maskuline und neutrale Nomen: „einen Freund, dessen Eltern …“ = die Eltern dieses Freundes …. „deren“ gilt nur für feminine Nomen und Nomen im Plural, und „dem“ ist Dativ.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "sich" },
+        { "key": "b", "text": "ihnen" },
+        { "key": "c", "text": "ihr" }
+      ],
+      "answer": "a",
+      "explanation": "„sich kennen“ = to know each other. With the subject „die beiden“ the reflexive pronoun is „sich“. „ihnen“ is a dative form, and „ihr“ is either a dative (to her) or a possessive article – neither can be the object of „kennen“, which needs an accusative.",
+      "explanationDe": "„sich kennen“ = einander kennen. Mit dem Subjekt „die beiden“ heißt das Reflexivpronomen „sich“. „ihnen“ ist eine Dativform, und „ihr“ ist entweder Dativ (= der Frau) oder ein Possessivartikel – beides kann nicht das Objekt von „kennen“ sein, denn „kennen“ braucht einen Akkusativ.",
+      "grammar": "reflexive-verben"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "ob" },
+        { "key": "b", "text": "was" },
+        { "key": "c", "text": "dass" }
+      ],
+      "answer": "b",
+      "explanation": "In this indirect question „was“ is the object of „mitbringen“ („Was müssen die Kinder mitbringen?“). With „ob“ or „dass“ the verb „mitbringen“ would have no object.",
+      "explanationDe": "In dieser indirekten Frage ist „was“ das Objekt von „mitbringen“ („Was müssen die Kinder mitbringen?“). Mit „ob“ oder „dass“ hätte das Verb „mitbringen“ kein Objekt.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "dass" },
+        { "key": "b", "text": "ob" },
+        { "key": "c", "text": "wenn" }
+      ],
+      "answer": "a",
+      "explanation": "„hoffen“ is followed by a „dass“-clause: „Ich hoffe, dass …“. „ob“ (indirect question) and „wenn“ (condition) cannot be the object of „hoffen“.",
+      "explanationDe": "Nach „hoffen“ folgt ein „dass“-Satz: „Ich hoffe, dass …“. „ob“ (indirekte Frage) und „wenn“ (Bedingung) können nicht das Objekt von „hoffen“ sein.",
+      "grammar": "nebensaetze-grundlagen"
+    }
+  ],
+  "glossary": [
+    { "de": "anmelden", "en": "to register, to enrol" },
+    { "de": "der Verein", "en": "club" },
+    { "de": "der Anfängerkurs", "en": "beginners' course" },
+    { "de": "schlucken", "en": "to swallow" },
+    { "de": "seitdem", "en": "since then" },
+    { "de": "ängstlich", "en": "timid, anxious" },
+    { "de": "zuschauen", "en": "to watch" },
+    { "de": "in der Nähe", "en": "nearby" },
+    { "de": "mitteilen", "en": "to let someone know" },
+    { "de": "Plätze sind frei", "en": "there are places available" }
+  ]
+}

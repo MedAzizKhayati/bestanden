@@ -1,0 +1,102 @@
+{
+  "id": "hoeren-3-07",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Rund ums Wohnen",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "moebelhaus", "gender": "f", "age": "adult", "role": "Durchsage im Möbelhaus" },
+    { "id": "hausmeister", "name": "Herr Kaminski", "gender": "m", "age": "senior", "role": "Hausmeister" },
+    { "id": "stadtwerke", "gender": "m", "age": "adult", "role": "Telefonansage" },
+    { "id": "wetter", "gender": "f", "age": "adult", "role": "Wettermoderatorin" },
+    { "id": "radio", "gender": "m", "age": "young", "role": "Radiomoderator" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage im Möbelhaus",
+      "script": [
+        { "s": "moebelhaus", "t": "Liebe Kundinnen und Kunden, herzlich willkommen im Möbelhaus Wohnwelt! Heute ist in unserem Restaurant im ersten Stock Familientag." },
+        { "s": "moebelhaus", "t": "Kinder bis zwölf Jahre bekommen ein Kindermenü kostenlos, wenn ein Erwachsener ein Hauptgericht bestellt." },
+        { "s": "moebelhaus", "t": "Und denken Sie daran: Für Einkäufe über 500 Euro liefern wir Ihre neuen Möbel kostenlos nach Hause. Fragen Sie einfach an der Kasse." }
+      ],
+      "statement": "Wer für mehr als 500 Euro einkauft, bekommt die Möbel kostenlos geliefert.",
+      "answer": true,
+      "explanation": "„Für Einkäufe über 500 Euro liefern wir Ihre neuen Möbel kostenlos nach Hause.“",
+      "explanationDe": "„Für Einkäufe über 500 Euro liefern wir Ihre neuen Möbel kostenlos nach Hause.“",
+      "evidence": "Für Einkäufe über 500 Euro liefern wir Ihre neuen Möbel kostenlos nach Hause."
+    },
+    {
+      "n": 2,
+      "label": "Nachricht vom Hausmeister",
+      "script": [
+        { "s": "hausmeister", "t": "Guten Abend, Herr Schäfer, hier ist Kaminski, der Hausmeister. Ich wollte Ihnen nur kurz Bescheid sagen, weil Sie ja im fünften Stock wohnen." },
+        { "s": "hausmeister", "t": "Am Donnerstag wird unser Aufzug repariert. Er ist dann von 8 Uhr morgens bis etwa 16 Uhr außer Betrieb." },
+        { "s": "hausmeister", "t": "Ihr Paket von heute habe ich übrigens angenommen. Sie können es morgen ab 10 Uhr bei mir im Erdgeschoss abholen." }
+      ],
+      "statement": "Herr Schäfer kann sein Paket noch heute beim Hausmeister abholen.",
+      "answer": false,
+      "explanation": "The parcel arrived today, but „Sie können es morgen ab 10 Uhr bei mir im Erdgeschoss abholen“ – not today.",
+      "explanationDe": "Das Paket ist heute angekommen, aber: „Sie können es morgen ab 10 Uhr bei mir im Erdgeschoss abholen“ – also nicht heute.",
+      "evidence": "Sie können es morgen ab 10 Uhr bei mir im Erdgeschoss abholen."
+    },
+    {
+      "n": 3,
+      "label": "Telefonansage der Stadtwerke",
+      "script": [
+        { "s": "stadtwerke", "t": "Hier ist die Störungsstelle der Stadtwerke. Seit 10 Uhr gibt es in den Stadtteilen Nordend und Kirchberg einen Stromausfall." },
+        { "s": "stadtwerke", "t": "Unsere Techniker arbeiten bereits daran. Wir rechnen damit, dass der Strom gegen 14 Uhr wieder da ist." },
+        { "s": "stadtwerke", "t": "Wenn Sie in einem anderen Stadtteil wohnen und keinen Strom haben, drücken Sie bitte die Taste 2, dann verbinden wir Sie mit einem Mitarbeiter." }
+      ],
+      "statement": "Der Strom in Nordend und Kirchberg soll gegen 10 Uhr wieder da sein.",
+      "answer": false,
+      "explanation": "10 Uhr is when the power cut started („Seit 10 Uhr“). The power should be back „gegen 14 Uhr“.",
+      "explanationDe": "Um 10 Uhr hat der Stromausfall begonnen („Seit 10 Uhr“). Der Strom soll „gegen 14 Uhr“ wieder da sein.",
+      "evidence": "Wir rechnen damit, dass der Strom gegen 14 Uhr wieder da ist."
+    },
+    {
+      "n": 4,
+      "label": "Wetterbericht",
+      "script": [
+        { "s": "wetter", "t": "Und jetzt eine Unwetterwarnung für die Nacht zum Samstag. Ab etwa 22 Uhr erwarten wir starken Sturm mit Windgeschwindigkeiten von bis zu 100 Kilometern pro Stunde." },
+        { "s": "wetter", "t": "Bitte holen Sie Blumentöpfe und Gartenmöbel vom Balkon in die Wohnung oder in den Keller. Parken Sie Ihr Auto möglichst nicht unter Bäumen." },
+        { "s": "wetter", "t": "Am Samstagmittag lässt der Wind dann langsam nach." }
+      ],
+      "statement": "Wegen des Sturms soll man Blumentöpfe und Gartenmöbel vom Balkon holen.",
+      "answer": true,
+      "explanation": "„Bitte holen Sie Blumentöpfe und Gartenmöbel vom Balkon in die Wohnung oder in den Keller“ – because of the storm in the night.",
+      "explanationDe": "„Bitte holen Sie Blumentöpfe und Gartenmöbel vom Balkon in die Wohnung oder in den Keller“ – wegen des Sturms in der Nacht.",
+      "evidence": "Bitte holen Sie Blumentöpfe und Gartenmöbel vom Balkon in die Wohnung oder in den Keller."
+    },
+    {
+      "n": 5,
+      "label": "Veranstaltungstipp im Radio",
+      "script": [
+        { "s": "radio", "t": "Ihr Toaster ist kaputt, oder Ihre Lieblingshose hat ein Loch? Dann kommen Sie doch zum Reparatur-Café im Stadtteilzentrum Süd." },
+        { "s": "radio", "t": "Dort helfen Ihnen Ehrenamtliche jeden ersten Samstag im Monat von 14 bis 17 Uhr, Ihre Sachen selbst zu reparieren. Die Hilfe ist kostenlos, über eine kleine Spende freut sich das Team aber natürlich." },
+        { "s": "radio", "t": "Wichtig: Große Geräte wie Waschmaschinen oder Kühlschränke können leider nicht repariert werden." }
+      ],
+      "statement": "Im Reparatur-Café kann man auch seine kaputte Waschmaschine reparieren lassen.",
+      "answer": false,
+      "explanation": "Toasters and clothes are fine, but „Große Geräte wie Waschmaschinen oder Kühlschränke können leider nicht repariert werden“.",
+      "explanationDe": "Toaster und Kleidung sind kein Problem, aber: „Große Geräte wie Waschmaschinen oder Kühlschränke können leider nicht repariert werden“.",
+      "evidence": "Wichtig: Große Geräte wie Waschmaschinen oder Kühlschränke können leider nicht repariert werden."
+    }
+  ],
+  "glossary": [
+    { "de": "das Möbelhaus", "en": "furniture store" },
+    { "de": "das Hauptgericht", "en": "main course" },
+    { "de": "liefern", "en": "to deliver" },
+    { "de": "Bescheid sagen", "en": "to let someone know" },
+    { "de": "der Aufzug", "en": "lift, elevator" },
+    { "de": "außer Betrieb", "en": "out of order" },
+    { "de": "die Störungsstelle", "en": "fault reporting service" },
+    { "de": "der Stromausfall", "en": "power cut" },
+    { "de": "die Unwetterwarnung", "en": "severe weather warning" },
+    { "de": "nachlassen", "en": "to ease off" },
+    { "de": "die Spende", "en": "donation" },
+    { "de": "das Gerät", "en": "appliance, device" }
+  ]
+}

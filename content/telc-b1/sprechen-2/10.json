@@ -1,0 +1,98 @@
+{
+  "id": "sprechen-2-10",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Mit dem Auto oder mit der Bahn?",
+  "topic": "umwelt",
+  "difficulty": 2,
+  "theme": "Auto oder öffentliche Verkehrsmittel",
+  "medium": "in einer Zeitschrift",
+  "cardA": {
+    "name": "Stefan Wolf",
+    "age": 42,
+    "job": "Schreiner",
+    "quote": "Ich wohne in einem Dorf bei Kassel, und der Bus fährt nur dreimal am Tag. Ohne Auto könnte ich meine Kunden gar nicht erreichen, weil ich mein Werkzeug und das Material immer dabeihaben muss. Am Wochenende fahren wir mit den Kindern zum Sport oder zu den Großeltern. Für uns ist das Auto einfach notwendig."
+  },
+  "cardB": {
+    "name": "Julia Neumann",
+    "age": 28,
+    "job": "Ärztin",
+    "quote": "Ich habe vor zwei Jahren mein Auto verkauft und vermisse es überhaupt nicht. In Hamburg fahre ich mit dem Fahrrad, der U-Bahn oder dem Bus, und mit meinem Monatsticket ist das viel billiger. In der Bahn kann ich lesen oder mich entspannen, statt im Stau zu stehen. Und natürlich ist es besser für die Umwelt."
+  },
+  "ideas": {
+    "pro": [
+      "Auto: flexibel und unabhängig von Fahrplänen",
+      "praktisch für Familien, Einkäufe und schweres Gepäck",
+      "auf dem Land oft die einzige gute Möglichkeit",
+      "bequem, besonders bei schlechtem Wetter",
+      "wichtig für viele Berufe, zum Beispiel für Handwerker"
+    ],
+    "contra": [
+      "Auto: teuer wegen Benzin, Versicherung und Parkplatz",
+      "Stau und Parkplatzsuche in der Stadt",
+      "schlecht für Umwelt und Klima",
+      "Bus und Bahn sind mit einem Monatsticket günstiger",
+      "in der Bahn kann man lesen oder sich entspannen",
+      "weniger Bewegung als mit dem Fahrrad"
+    ]
+  },
+  "questions": [
+    "Wie kommen Sie normalerweise zur Arbeit oder zum Kurs?",
+    "Haben Sie ein Auto? Brauchen Sie eins?",
+    "Wie ist das in Ihrem Heimatland? Wie gut sind dort Busse und Bahnen?",
+    "Was müsste sich ändern, damit mehr Menschen Bus und Bahn fahren?",
+    "Sollten Autos in der Innenstadt verboten werden?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Agnieszka Wójcik", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Mehmet Yılmaz", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange an. Auf meinem Blatt steht die Meinung von Stefan Wolf. Er ist 42 Jahre alt und Schreiner." },
+    { "s": "A", "t": "Herr Wolf wohnt in einem Dorf bei Kassel, und dort fährt der Bus nur dreimal am Tag. Er sagt, dass er ohne Auto seine Kunden nicht erreichen kann, weil er immer sein Werkzeug und das Material dabeihaben muss." },
+    { "s": "A", "t": "Am Wochenende fährt die Familie mit dem Auto zum Sport oder zu den Großeltern. Für ihn ist das Auto also einfach notwendig." },
+    { "s": "B", "t": "Vielen Dank. In meinem Text geht es um Julia Neumann, eine 28-jährige Ärztin aus Hamburg. Sie hat vor zwei Jahren ihr Auto verkauft und vermisst es überhaupt nicht." },
+    { "s": "B", "t": "Frau Neumann fährt mit dem Fahrrad, der U-Bahn oder dem Bus, und mit ihrem Monatsticket ist das viel billiger. Sie findet es schön, dass sie in der Bahn lesen kann und nicht im Stau stehen muss." },
+    { "s": "B", "t": "Außerdem meint sie, dass es besser für die Umwelt ist." },
+    { "s": "A", "t": "Ich glaube, das hängt sehr davon ab, wo man wohnt. Wie kommen Sie denn zur Arbeit, Herr Yılmaz?" },
+    { "s": "B", "t": "Ich arbeite in einem Lager am Stadtrand, und ich fange um sechs Uhr an. Um diese Zeit fährt noch kein Bus dorthin, deshalb brauche ich das Auto. Ich verstehe Herrn Wolf also sehr gut." },
+    { "s": "A", "t": "Das ist ein gutes Beispiel. Bei mir ist es anders. Ich wohne in der Innenstadt von Köln und fahre jeden Tag mit der Straßenbahn zur Arbeit." },
+    { "s": "B", "t": "Haben Sie gar kein Auto?" },
+    { "s": "A", "t": "Nein, und ich brauche auch keins. In der Stadt sucht man oft eine halbe Stunde einen Parkplatz, und das Parken ist auch teuer. Da bin ich ganz auf der Seite von Frau Neumann." },
+    { "s": "B", "t": "Aber ist die Straßenbahn immer pünktlich? Ich höre oft, dass Busse und Bahnen Verspätung haben." },
+    { "s": "A", "t": "Leider nicht immer. Manchmal warte ich zehn Minuten, und im Winter fallen auch mal Bahnen aus. Das ist ein echter Nachteil." },
+    { "s": "B", "t": "Sehen Sie. Und mit Kindern oder mit großen Einkäufen ist das Auto auch viel praktischer." },
+    { "s": "A", "t": "Das stimmt, aber man kann auch vieles online bestellen oder ein Lastenrad leihen. Wie ist das in der Türkei? Fahren dort viele Leute Bus und Bahn?" },
+    { "s": "B", "t": "In Istanbul ja, es gibt Metro, Busse und sogar Fähren über den Bosporus. Aber in kleineren Städten haben fast alle ein Auto, weil der Bus nur selten fährt." },
+    { "s": "A", "t": "In Polen ist es ähnlich. In Warschau sind die Verkehrsmittel sehr gut und billig, aber meine Eltern auf dem Land könnten ohne Auto nicht leben." },
+    { "s": "B", "t": "Ich denke, die Politik müsste mehr Geld in Busse und Bahnen auf dem Land investieren. Dann würden vielleicht auch Leute wie Herr Wolf öfter das Auto stehen lassen." },
+    { "s": "A", "t": "Da haben Sie recht. Und in der Stadt sollte man mehr Radwege bauen, damit Radfahren sicherer wird." },
+    { "s": "B", "t": "Das finde ich auch. Ich würde gern öfter mit dem Fahrrad fahren, aber auf meiner Strecke gibt es fast keine Radwege." },
+    { "s": "A", "t": "Also, wir sind uns einig: In der Stadt sind öffentliche Verkehrsmittel meistens die bessere Wahl. Auf dem Land braucht man aber oft noch ein Auto." },
+    { "s": "B", "t": "Genau. Und für die Umwelt wäre es gut, wenn man das Auto wenigstens manchmal stehen lässt." }
+  ],
+  "phrases": [
+    { "de": "Das hängt sehr davon ab, wo/wie/ob …", "en": "That depends a lot on where/how/whether …" },
+    { "de": "Das ist ein gutes Beispiel.", "en": "That's a good example." },
+    { "de": "Bei mir ist es anders.", "en": "It's different for me." },
+    { "de": "Da bin ich ganz auf der Seite von …", "en": "On that point I'm completely on …'s side." },
+    { "de": "Das ist ein echter Nachteil.", "en": "That's a real disadvantage." },
+    { "de": "Ich denke, die Politik müsste …", "en": "I think politicians should …" },
+    { "de": "Da haben Sie recht.", "en": "You're right there." },
+    { "de": "Also, wir sind uns einig: …", "en": "So, we agree: …" },
+    { "de": "Es wäre gut, wenn …", "en": "It would be good if …" }
+  ],
+  "vocabulary": [
+    { "de": "die öffentlichen Verkehrsmittel (Pl.)", "en": "public transport" },
+    { "de": "das Monatsticket", "en": "monthly ticket" },
+    { "de": "der Stau", "en": "traffic jam" },
+    { "de": "die Verspätung", "en": "delay" },
+    { "de": "ausfallen", "en": "to be cancelled" },
+    { "de": "der Stadtrand", "en": "outskirts of a town" },
+    { "de": "das Werkzeug", "en": "tools" },
+    { "de": "der Radweg", "en": "cycle path" },
+    { "de": "das Lastenrad", "en": "cargo bike" },
+    { "de": "das Auto stehen lassen", "en": "to leave the car at home" },
+    { "de": "notwendig", "en": "necessary" }
+  ]
+}

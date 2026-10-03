@@ -1,0 +1,96 @@
+{
+  "id": "sprechen-2-06",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Hund und Katze in der Wohnung?",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "theme": "Haustiere in der Wohnung",
+  "medium": "im Internet",
+  "cardA": {
+    "name": "Sandra Keller",
+    "age": 31,
+    "job": "Angestellte in einer Tierarztpraxis",
+    "quote": "Ich wohne mit meinem Kater Moritz in einer Zweizimmerwohnung mitten in Zürich, und wir sind beide sehr glücklich. Ein Tier braucht nicht unbedingt einen Garten, sondern vor allem Zeit und Liebe. Wenn ich abends nach Hause komme, wartet Moritz schon an der Tür. Für mich gehört ein Haustier einfach zur Familie."
+  },
+  "cardB": {
+    "name": "Rolf Baumann",
+    "age": 60,
+    "job": "Hausmeister",
+    "quote": "Ich bin Hausmeister in einem großen Wohnhaus mit vierzig Wohnungen. Fast jede Woche beschwert sich jemand, weil ein Hund stundenlang bellt oder im Treppenhaus Dreck liegt. Viele Tiere sind den ganzen Tag allein, während ihre Besitzer arbeiten. Ein großer Hund gehört für mich nicht in eine kleine Stadtwohnung, sondern in ein Haus mit Garten."
+  },
+  "ideas": {
+    "pro": [
+      "Tiere machen glücklich und helfen gegen Einsamkeit",
+      "Kinder lernen, Verantwortung zu übernehmen",
+      "mit einem Hund bewegt man sich mehr",
+      "Katzen und kleine Tiere brauchen wenig Platz",
+      "beim Spazierengehen lernt man Nachbarn kennen"
+    ],
+    "contra": [
+      "Lärm und Schmutz im Haus",
+      "Tiere sind oft viele Stunden allein",
+      "manche Vermieter erlauben keine Haustiere",
+      "Nachbarn mit Allergien",
+      "Kosten für Futter und Tierarzt",
+      "im Urlaub muss sich jemand um das Tier kümmern"
+    ]
+  },
+  "questions": [
+    "Haben Sie ein Haustier oder hatten Sie früher eins?",
+    "Welche Tiere passen Ihrer Meinung nach in eine Wohnung?",
+    "Wie ist das in Ihrem Heimatland? Haben viele Menschen Haustiere?",
+    "Sollte der Vermieter entscheiden dürfen, ob man ein Haustier hat?",
+    "Wer kümmert sich um die Tiere, wenn die Besitzer im Urlaub sind?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Amara Okafor", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Luca Bianchi", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Okay, ich beginne. In meinem Text geht es um Sandra Keller. Sie ist 31 Jahre alt, arbeitet in einer Tierarztpraxis und wohnt in Zürich." },
+    { "s": "A", "t": "Frau Keller lebt mit ihrem Kater Moritz in einer kleinen Wohnung mitten in der Stadt. Sie ist der Meinung, dass ein Tier nicht unbedingt einen Garten braucht, sondern vor allem Zeit und Liebe." },
+    { "s": "A", "t": "Wenn sie abends nach Hause kommt, wartet ihr Kater schon an der Tür. Für sie gehört ein Haustier einfach zur Familie." },
+    { "s": "B", "t": "Auf meinem Blatt steht eine ganz andere Meinung. Rolf Baumann ist 60 und Hausmeister in einem großen Wohnhaus mit vierzig Wohnungen." },
+    { "s": "B", "t": "Er erzählt, dass sich fast jede Woche jemand beschwert, weil ein Hund lange bellt oder das Treppenhaus schmutzig ist. Außerdem sind viele Tiere den ganzen Tag allein, weil ihre Besitzer arbeiten." },
+    { "s": "B", "t": "Deshalb findet er, dass ein großer Hund nicht in eine kleine Stadtwohnung gehört, sondern in ein Haus mit Garten." },
+    { "s": "A", "t": "Ich glaube, beide haben ein bisschen recht. Hast du ein Haustier, Luca?" },
+    { "s": "B", "t": "Ja, ich habe einen kleinen Dackel. Er heißt Bruno und ist schon zwölf. Ich wohne im dritten Stock, und das funktioniert ohne Probleme." },
+    { "s": "A", "t": "Und was macht Bruno, wenn du arbeitest?" },
+    { "s": "B", "t": "Zum Glück darf ich ihn mit ins Büro nehmen, mein Chef liebt Hunde! Aber ich weiß, dass das nicht überall möglich ist." },
+    { "s": "A", "t": "Das ist ja toll. Aber genau davon spricht Herr Baumann. Wenn ein Hund acht Stunden allein in der Wohnung ist, ist das nicht gut für ihn." },
+    { "s": "B", "t": "Da stimme ich dir zu. Man muss sich vorher überlegen, ob man genug Zeit für ein Tier hat. Hast du denn ein Haustier?" },
+    { "s": "A", "t": "Nein, leider nicht. In meiner Wohnung sind Hunde und Katzen nicht erlaubt, das steht im Mietvertrag. Ich hätte so gern eine Katze, aber ich darf nicht." },
+    { "s": "B", "t": "Das ist schade. Findest du es richtig, dass der Vermieter das entscheidet?" },
+    { "s": "A", "t": "Ehrlich gesagt nicht ganz. Bei einem großen Hund kann ich es verstehen, aber eine Katze stört doch niemanden." },
+    { "s": "B", "t": "Das sehe ich auch so. Wie ist das eigentlich in Nigeria? Haben die Leute dort viele Haustiere?" },
+    { "s": "A", "t": "In der Stadt nicht so viele wie hier. Viele Familien haben einen Hund, aber er lebt meistens draußen im Hof und passt auf das Haus auf. Dass ein Hund im Bett schläft, habe ich zum ersten Mal in Deutschland gesehen!" },
+    { "s": "B", "t": "Das kenne ich! In Italien sind Hunde auch fast wie Familienmitglieder. Meine Oma hat ihren Hund sogar mit ins Restaurant genommen." },
+    { "s": "A", "t": "Wirklich? Das ist lustig. Ich glaube, das Wichtigste ist, dass die Besitzer Rücksicht auf die Nachbarn nehmen." },
+    { "s": "B", "t": "Genau. Wer einen Hund hat, muss regelmäßig mit ihm rausgehen und die Hundehaufen wegmachen. Dann gibt es auch keinen Ärger mit dem Hausmeister." },
+    { "s": "A", "t": "Also, zusammengefasst: Kleine Tiere wie Katzen passen gut in eine Wohnung, aber für einen großen Hund braucht man viel Zeit und Platz." },
+    { "s": "B", "t": "Ja, und man sollte immer an die Nachbarn denken. Dann haben alle etwas davon." }
+  ],
+  "phrases": [
+    { "de": "Ich glaube, beide haben ein bisschen recht.", "en": "I think both of them are partly right." },
+    { "de": "Er erzählt, dass …", "en": "He says that … / He tells us that …" },
+    { "de": "Da stimme ich dir zu.", "en": "I agree with you there." },
+    { "de": "Das sehe ich auch so.", "en": "I see it the same way." },
+    { "de": "Ehrlich gesagt nicht ganz.", "en": "To be honest, not completely." },
+    { "de": "Bei … kann ich es verstehen, aber …", "en": "In the case of … I can understand it, but …" },
+    { "de": "Das Wichtigste ist, dass …", "en": "The most important thing is that …" },
+    { "de": "Also, zusammengefasst: …", "en": "So, to sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "das Haustier", "en": "pet" },
+    { "de": "der Kater", "en": "tomcat, male cat" },
+    { "de": "der Hausmeister", "en": "caretaker, janitor" },
+    { "de": "das Treppenhaus", "en": "stairwell" },
+    { "de": "bellen", "en": "to bark" },
+    { "de": "sich beschweren über (+ Akk.)", "en": "to complain about" },
+    { "de": "der Besitzer", "en": "owner" },
+    { "de": "der Mietvertrag", "en": "tenancy agreement, lease" },
+    { "de": "der Vermieter", "en": "landlord" },
+    { "de": "Rücksicht nehmen auf (+ Akk.)", "en": "to be considerate of" }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-11",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Pastéis de Nata am Rhein",
+  "topic": "essen",
+  "difficulty": 3,
+  "article": {
+    "headline": "Vom Labor in die Backstube",
+    "lead": "Eigentlich kam Inês Carvalho nach Basel, um als Chemikerin Karriere zu machen. Heute steht die 38-Jährige jeden Morgen um vier Uhr in ihrer eigenen Bäckerei – und vor ihrem Laden stehen die Kunden Schlange.",
+    "paragraphs": [
+      "Kurz nach sieben Uhr ist die kleine Bäckerei „Doce Lar“ im St.-Johann-Quartier schon voll. Es riecht nach Zimt und Karamell, in der Vitrine liegen goldgelbe Törtchen mit Vanillecreme: Pastéis de Nata, eine Spezialität aus Portugal. „Die Ersten warten schon vor der Tür, bevor ich überhaupt aufgeschlossen habe“, erzählt Inês Carvalho, während sie ein neues Blech aus dem Ofen holt.",
+      "Vor fünfzehn Jahren kam Carvalho aus Porto nach Basel, um an der Universität ihre Doktorarbeit in Chemie zu schreiben. Danach bekam sie eine gut bezahlte Stelle bei einem Pharmaunternehmen. „Auf dem Papier war alles perfekt“, sagt sie. „Aber ich stand im Labor und dachte an das Café meiner Großmutter in Porto.“ Dort hatte sie als Kind fast jeden Nachmittag verbracht und zugeschaut, wie die Großmutter den Teig ausrollte.",
+      "Den Mut zum Wechsel fand sie erst, als ihr Arbeitgeber vor vier Jahren mehrere Abteilungen nach Irland verlegte. Carvalho hätte mitgehen können, entschied sich aber dagegen. Mit ihren Ersparnissen und einem Kredit mietete sie einen ehemaligen Blumenladen. „Meine Eltern haben am Telefon geweint – und nicht vor Freude“, erinnert sie sich. „Sie hatten so viel dafür getan, dass ich studieren konnte.“",
+      "Der Anfang war härter als gedacht. Für eine eigene Bäckerei braucht man mehr als ein gutes Familienrezept, denn die Vorschriften für Hygiene und Lebensmittel sind streng. Diese Vorschriften lernte Carvalho in einem Kurs kennen. Noch wichtiger war aber ein halbes Jahr, in dem sie ohne Lohn in einer Basler Bäckerei mitarbeitete. „Dort habe ich gelernt, für 300 Leute zu backen und nicht nur für eine Familie“, sagt sie. Das Rezept ihrer Großmutter musste sie trotzdem mehrmals anpassen, weil Mehl und Butter in der Schweiz anders sind als in Portugal.",
+      "Heute hat „Doce Lar“ – auf Deutsch „süßes Zuhause“ – sechs Angestellte. Zu den Stammkunden gehören Portugiesinnen und Portugiesen aus der Region, aber längst nicht nur sie. „Am Anfang dachte ich, ich backe vor allem für Leute mit Heimweh“, sagt Carvalho. „Inzwischen sind zwei Drittel meiner Kundschaft Schweizerinnen und Schweizer.“ Viele kennen die Törtchen aus dem Urlaub in Lissabon oder an der Algarve.",
+      "Trotz der großen Nachfrage möchte Carvalho nicht expandieren. Mehrere Investoren haben ihr angeboten, Filialen in Zürich und Bern zu eröffnen, doch sie hat abgelehnt. „Dann würde ich nur noch im Büro sitzen und Tabellen ausfüllen – und genau davor bin ich ja weggelaufen“, sagt sie. Stattdessen gibt sie seit Kurzem samstags Backkurse, in denen sie die Geheimnisse ihrer Großmutter verrät.",
+      "Ihre Eltern haben sich inzwischen mit der Entscheidung versöhnt. Als sie die Bäckerei zum ersten Mal besuchten, stand der Vater lange schweigend vor der Vitrine. Dann probierte er ein Törtchen und sagte nur einen Satz: „Fast so gut wie bei deiner Großmutter.“ Für Inês Carvalho war das ein größeres Lob als jeder Doktortitel."
+    ],
+    "source": "Rheinknie-Magazin"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Über ihre Zeit bei dem Pharmaunternehmen erfährt man, dass Frau Carvalho …",
+      "options": [
+        { "key": "a", "text": "mit ihren Gedanken oft nicht bei ihrer Arbeit war." },
+        { "key": "b", "text": "für ihre Arbeit dort schlecht bezahlt wurde." },
+        { "key": "c", "text": "dort neben der Arbeit ihre Doktorarbeit schrieb." }
+      ],
+      "answer": "a",
+      "explanation": "„ich stand im Labor und dachte an das Café meiner Großmutter“ – while working in the lab she was thinking of something else, so (a). The job was „gut bezahlt“ (b). She wrote her doctoral thesis at the university before she got the job (c).",
+      "explanationDe": "„ich stand im Labor und dachte an das Café meiner Großmutter“ – bei der Arbeit im Labor war sie mit den Gedanken woanders, also ist (a) richtig. Die Stelle war „gut bezahlt“ (b). Die Doktorarbeit hat sie an der Universität geschrieben, bevor sie die Stelle bekam (c).",
+      "evidence": "Aber ich stand im Labor und dachte an das Café meiner Großmutter in Porto."
+    },
+    {
+      "n": 2,
+      "stem": "Frau Carvalho hat ihre Bäckerei eröffnet, nachdem …",
+      "options": [
+        { "key": "a", "text": "ihre Eltern ihr das Geld für den Laden gegeben hatten." },
+        { "key": "b", "text": "sie einige Jahre in Irland gearbeitet hatte." },
+        { "key": "c", "text": "ihr Arbeitgeber einen Teil der Firma ins Ausland verlegt hatte." }
+      ],
+      "answer": "c",
+      "explanation": "She found the courage „als ihr Arbeitgeber … mehrere Abteilungen nach Irland verlegte“, so (c). „Carvalho hätte mitgehen können, entschied sich aber dagegen“ – she could have gone to Ireland but did not (b). She used her savings and a bank loan; her parents were unhappy and did not pay (a).",
+      "explanationDe": "Den Mut fand sie, „als ihr Arbeitgeber … mehrere Abteilungen nach Irland verlegte“, also ist (c) richtig. „Carvalho hätte mitgehen können, entschied sich aber dagegen“ – sie hätte nach Irland gehen können, hat es aber nicht getan (b). Sie hat ihre Ersparnisse und einen Kredit benutzt; ihre Eltern waren unglücklich und haben nichts bezahlt (a).",
+      "evidence": "Den Mut zum Wechsel fand sie erst, als ihr Arbeitgeber vor vier Jahren mehrere Abteilungen nach Irland verlegte."
+    },
+    {
+      "n": 3,
+      "stem": "In der Basler Bäckerei hat Frau Carvalho vor allem gelernt, …",
+      "options": [
+        { "key": "a", "text": "welche Hygienevorschriften man beachten muss." },
+        { "key": "b", "text": "wie man große Mengen backt." },
+        { "key": "c", "text": "wie man das Rezept ihrer Großmutter anpasst." }
+      ],
+      "answer": "b",
+      "explanation": "„Dort habe ich gelernt, für 300 Leute zu backen und nicht nur für eine Familie“, so (b). She learned the hygiene rules in a course, not in the bakery (a). She had to adapt the recipe „trotzdem“ – because Swiss flour and butter are different, not because of what she learned there (c).",
+      "explanationDe": "„Dort habe ich gelernt, für 300 Leute zu backen und nicht nur für eine Familie“, also ist (b) richtig. Die Hygieneregeln hat sie in einem Kurs gelernt, nicht in der Bäckerei (a). Das Rezept musste sie „trotzdem“ anpassen – weil Mehl und Butter in der Schweiz anders sind, und nicht, weil sie das dort gelernt hat (c).",
+      "evidence": "Dort habe ich gelernt, für 300 Leute zu backen und nicht nur für eine Familie"
+    },
+    {
+      "n": 4,
+      "stem": "Die meisten Kundinnen und Kunden von „Doce Lar“ …",
+      "options": [
+        { "key": "a", "text": "kommen nicht aus Portugal." },
+        { "key": "b", "text": "haben Heimweh nach Portugal." },
+        { "key": "c", "text": "kommen aus Lissabon oder von der Algarve." }
+      ],
+      "answer": "a",
+      "explanation": "„zwei Drittel meiner Kundschaft [sind] Schweizerinnen und Schweizer“ – most customers are not Portuguese, so (a). Baking for homesick people was only what she expected „am Anfang“ (b). Lisbon and the Algarve are where many Swiss customers spent their holidays (c).",
+      "explanationDe": "„zwei Drittel meiner Kundschaft [sind] Schweizerinnen und Schweizer“ – die meisten Kunden sind keine Portugiesen, also ist (a) richtig. Dass sie für Menschen mit Heimweh backt, hat sie nur „am Anfang“ gedacht (b). In Lissabon und an der Algarve haben viele Schweizer Kunden Urlaub gemacht (c).",
+      "evidence": "Inzwischen sind zwei Drittel meiner Kundschaft Schweizerinnen und Schweizer."
+    },
+    {
+      "n": 5,
+      "stem": "Was hat Frau Carvalho entschieden?",
+      "options": [
+        { "key": "a", "text": "Sie will mit Investoren Filialen in Zürich und Bern eröffnen." },
+        { "key": "b", "text": "Sie will ihre Backkurse auch in Zürich und Bern anbieten." },
+        { "key": "c", "text": "Sie will ihr Geschäft nicht vergrößern." }
+      ],
+      "answer": "c",
+      "explanation": "„Trotz der großen Nachfrage möchte Carvalho nicht expandieren“ – she turned down the investors, so (c) and not (a). Her baking courses take place on Saturdays; nothing is said about offering them in Zurich or Bern (b).",
+      "explanationDe": "„Trotz der großen Nachfrage möchte Carvalho nicht expandieren“ – sie hat die Investoren abgelehnt, also ist (c) richtig und nicht (a). Carvalhos Backkurse finden samstags statt; dass sie diese auch in Zürich oder Bern anbieten will, steht nicht im Text (b).",
+      "evidence": "Trotz der großen Nachfrage möchte Carvalho nicht expandieren."
+    }
+  ],
+  "glossary": [
+    { "de": "die Backstube", "en": "bakehouse (the room where bakers work)" },
+    { "de": "Schlange stehen", "en": "to queue" },
+    { "de": "das Blech", "en": "baking tray" },
+    { "de": "die Doktorarbeit", "en": "doctoral thesis" },
+    { "de": "etwas verlegen (nach)", "en": "to move, to relocate something (to)" },
+    { "de": "die Ersparnisse (Pl.)", "en": "savings" },
+    { "de": "der Kredit", "en": "(bank) loan" },
+    { "de": "die Vorschrift", "en": "regulation, rule" },
+    { "de": "etwas anpassen", "en": "to adapt something" },
+    { "de": "das Heimweh", "en": "homesickness" },
+    { "de": "expandieren / die Filiale", "en": "to expand / branch (of a shop)" },
+    { "de": "sich mit etwas versöhnen", "en": "to make peace with something" }
+  ]
+}

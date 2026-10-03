@@ -1,0 +1,237 @@
+{
+  "id": "lesen-3-05",
+  "examId": "telc-b1",
+  "type": "ad-matching",
+  "title": "Gesund und fit in Hannover",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Sie arbeiten im Schichtdienst und kommen oft erst gegen 23 Uhr nach Hause. Danach möchten Sie noch an Geräten trainieren.",
+      "answer": "c",
+      "explanation": "„Rund um die Uhr geöffnet – 7 Tage die Woche“ – the gym (c) is open 24 hours, so you can train after 11 p.m. The women's gym (g) closes at „22 Uhr“.",
+      "explanationDe": "„Rund um die Uhr geöffnet – 7 Tage die Woche“ – das Fitnessstudio (c) ist 24 Stunden geöffnet, du kannst also auch nach 23 Uhr trainieren. Das Frauen-Fitnessstudio (g) schließt um „22 Uhr“."
+    },
+    {
+      "n": 2,
+      "text": "Ihre Schwester möchte vormittags an Geräten trainieren – am liebsten nur unter Frauen. Ihr Sohn (2) soll in dieser Zeit betreut werden.",
+      "answer": "g",
+      "explanation": "„nur für Frauen“ and „Kinderbetreuung Mo.–Fr. 9–12 Uhr“ – the women's gym (g) fits both wishes. The running school (h) has a group for mothers, but they run outside with the pram – there are no machines and no childcare.",
+      "explanationDe": "„nur für Frauen“ und „Kinderbetreuung Mo.–Fr. 9–12 Uhr“ – das Frauen-Fitnessstudio (g) erfüllt beide Wünsche. Die Laufschule (h) hat eine Gruppe für Mütter, aber die Mütter laufen draußen mit dem Kinderwagen – es gibt keine Geräte und keine Kinderbetreuung."
+    },
+    {
+      "n": 3,
+      "text": "Ihr Vater (56) hat oft Rückenschmerzen. Er sucht einen Kurs, bei dem die Krankenkasse einen Teil der Kosten übernimmt.",
+      "answer": "l",
+      "explanation": "„Für Erwachsene jeden Alters“ and „Ihre Krankenkasse übernimmt bis zu 80 % der Kosten“ – the back course (l) fits. The gymnastics for the back (j) is also paid partly by health insurers, but it is „Nur für Menschen ab 60 Jahren“.",
+      "explanationDe": "„Für Erwachsene jeden Alters“ und „Ihre Krankenkasse übernimmt bis zu 80 % der Kosten“ – der Rückenkurs (l) passt. Die Rückengymnastik (j) wird auch zum Teil von Krankenkassen bezahlt, aber sie ist „Nur für Menschen ab 60 Jahren“."
+    },
+    {
+      "n": 4,
+      "text": "Ihr Mitbewohner möchte ab sofort in einem Fitnessstudio trainieren. Weil er im Sommer in eine andere Stadt zieht, möchte er keinen langen Vertrag.",
+      "answer": "x",
+      "explanation": "The 24-hour gym (c) requires a contract of at least a year („bei 12 Monaten Mindestlaufzeit“). The other gym (g) is „monatlich kündbar“, but only „für Frauen“. So no gym fits your flatmate: x.",
+      "explanationDe": "Das 24-Stunden-Fitnessstudio (c) verlangt einen Vertrag für mindestens ein Jahr („bei 12 Monaten Mindestlaufzeit“). Das andere Studio (g) ist „monatlich kündbar“, aber nur „für Frauen“. Für deinen Mitbewohner passt also kein Studio: x."
+    },
+    {
+      "n": 5,
+      "text": "Sie sind 35 und haben nie schwimmen gelernt. Jetzt möchten Sie es in einem Kurs lernen, der nach der Arbeit stattfindet.",
+      "answer": "i",
+      "explanation": "„Schwimmkurs für erwachsene Nichtschwimmer“, „donnerstags 20–21 Uhr“ – the swimming school (i) teaches adults in the evening. The water gymnastics (j) is for people over 60 and on Friday mornings.",
+      "explanationDe": "„Schwimmkurs für erwachsene Nichtschwimmer“, „donnerstags 20–21 Uhr“ – die Schwimmschule (i) unterrichtet Erwachsene am Abend. Die Wassergymnastik (j) ist für Menschen ab 60 und findet am Freitagvormittag statt."
+    },
+    {
+      "n": 6,
+      "text": "Sie haben große Angst vor dem Zahnarzt, brauchen aber bald einen Termin. Unter der Woche geht es nicht, weil Sie Vollzeit arbeiten.",
+      "answer": "k",
+      "explanation": "„Angstpatienten sind bei uns in guten Händen“ and „Sa. 9–13 Uhr“ – the dentist (k) takes anxious patients and also works on Saturdays.",
+      "explanationDe": "„Angstpatienten sind bei uns in guten Händen“ und „Sa. 9–13 Uhr“ – die Zahnarztpraxis (k) behandelt Patienten mit Angst und hat auch samstags geöffnet."
+    },
+    {
+      "n": 7,
+      "text": "Ihre Großmutter kann nicht mehr gut laufen. Sie möchte ihre Medikamente in Zukunft nach Hause gebracht bekommen.",
+      "answer": "d",
+      "explanation": "„Kostenloser Botendienst“ and „Lieferung am selben Tag“ – the pharmacy (d) brings medicine to the customer's home. The physiotherapists (b) also visit people at home, but they do not deliver medicine.",
+      "explanationDe": "„Kostenloser Botendienst“ und „Lieferung am selben Tag“ – die Apotheke (d) bringt die Medikamente zu den Kunden nach Hause. Die Physiotherapeuten (b) kommen auch nach Hause, aber sie liefern keine Medikamente."
+    },
+    {
+      "n": 8,
+      "text": "Ihr Nachbar raucht seit 20 Jahren und möchte endlich aufhören. Er möchte es zusammen mit anderen in einem Abendkurs schaffen.",
+      "answer": "f",
+      "explanation": "„Gruppenkurs für alle, die aufhören wollen“ and „dienstags 19–20.30 Uhr“ – (f) is an evening group course for smokers. The nutrition advice (a) mentions the „Rauchstopp“, but it helps people lose weight after they have stopped.",
+      "explanationDe": "„Gruppenkurs für alle, die aufhören wollen“ und „dienstags 19–20.30 Uhr“ – (f) ist ein Gruppenkurs am Abend für Raucher. Die Ernährungsberatung (a) nennt den „Rauchstopp“, aber sie hilft beim Abnehmen, nachdem man aufgehört hat."
+    },
+    {
+      "n": 9,
+      "text": "Ihr Kollege möchte zum ersten Mal Yoga ausprobieren. Weil er unter der Woche lange arbeitet, hat er nur am Wochenende Zeit.",
+      "answer": "x",
+      "explanation": "The yoga studio (e) has beginners' classes only „Mo.–Fr.“, and the weekend workshops are „nur für Fortgeschrittene“. The women's gym (g) has yoga „auch am Wochenende“, but your colleague is a man. So the answer is x.",
+      "explanationDe": "Das Yogastudio (e) hat Kurse für Anfänger nur „Mo.–Fr.“, und die Workshops am Wochenende sind „nur für Fortgeschrittene“. Das Frauen-Fitnessstudio (g) hat Yoga „auch am Wochenende“, aber dein Kollege ist ein Mann. Die Lösung ist also x."
+    },
+    {
+      "n": 10,
+      "text": "Ihr Onkel ist am Knie operiert worden und braucht jetzt Krankengymnastik. Er kann aber noch nicht aus dem Haus gehen.",
+      "answer": "b",
+      "explanation": "„Krankengymnastik“ and „Nach Operationen: Wir kommen auch zu Ihnen nach Hause!“ – the physiotherapy practice (b) makes home visits.",
+      "explanationDe": "„Krankengymnastik“ und „Nach Operationen: Wir kommen auch zu Ihnen nach Hause!“ – die Physiotherapie-Praxis (b) macht Hausbesuche."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Ernährungsberatung Meyerhoff",
+      "subheading": "Gesund abnehmen – ohne Hungern",
+      "lines": [
+        "Persönliche Beratung und individueller Ernährungsplan",
+        "Spezialprogramm: Abnehmen nach dem Rauchstopp",
+        "Viele Krankenkassen übernehmen einen Teil der Kosten.",
+        "Termine nach Vereinbarung, auch online"
+      ],
+      "footer": "Gartenstraße 19, 30161 Hannover · Tel. 0511 3348761"
+    },
+    {
+      "key": "b",
+      "heading": "Physiotherapie Bewegungsraum",
+      "lines": [
+        "Krankengymnastik, Massage, Lymphdrainage",
+        "Nach Operationen: Wir kommen auch zu Ihnen nach Hause!",
+        "Termine Mo.–Fr. 7–20 Uhr",
+        "Alle Kassen und privat"
+      ],
+      "footer": "Ahornweg 5, 30171 Hannover · Tel. 0511 8806142 · www.bewegungsraum-hannover.de"
+    },
+    {
+      "key": "c",
+      "heading": "FitPoint 24",
+      "subheading": "Trainieren, wann du willst!",
+      "lines": [
+        "Rund um die Uhr geöffnet – 7 Tage die Woche",
+        "Über 100 moderne Geräte, keine Kurse",
+        "Nur 19,90 € im Monat bei 12 Monaten Mindestlaufzeit",
+        "Ab 16 Jahren"
+      ],
+      "footer": "Am Kanalhafen 3, 30165 Hannover · www.fitpoint24.de"
+    },
+    {
+      "key": "d",
+      "heading": "Linden-Apotheke",
+      "subheading": "Wir bringen Ihre Medikamente!",
+      "lines": [
+        "Kostenloser Botendienst im ganzen Stadtgebiet",
+        "Bestellung per Telefon oder App bis 12 Uhr – Lieferung am selben Tag",
+        "Das Rezept geben Sie einfach unserem Boten mit.",
+        "Mo.–Fr. 8–19 Uhr, Sa. 8.30–14 Uhr"
+      ],
+      "footer": "Kastanienallee 2, 30449 Hannover · Tel. 0511 4402190"
+    },
+    {
+      "key": "e",
+      "heading": "Yogastudio Lotusblüte",
+      "lines": [
+        "Hatha-Yoga für Anfänger: Mo.–Fr. 7 Uhr und 18.30 Uhr",
+        "Wochenend-Workshops (nur für Fortgeschrittene)",
+        "Probestunde kostenlos, 10er-Karte 120 €",
+        "Matten und Decken sind vorhanden."
+      ],
+      "footer": "Hinterhaus, Talstraße 14, 30169 Hannover · www.lotusbluete-yoga.de"
+    },
+    {
+      "key": "f",
+      "heading": "Rauchfrei in 6 Wochen",
+      "subheading": "Gruppenkurs für alle, die aufhören wollen",
+      "lines": [
+        "6 Abende, jeweils dienstags 19–20.30 Uhr",
+        "Leitung: Diplom-Psychologin mit langjähriger Erfahrung",
+        "Kosten: 150 €, Krankenkassen erstatten bis zu 75 %",
+        "Nächster Start: 3. März"
+      ],
+      "footer": "Gesundheitszentrum Mitte, Raum 104 · Anmeldung: Tel. 0511 9017734"
+    },
+    {
+      "key": "g",
+      "heading": "Studio Venus – Fitness für Frauen",
+      "lines": [
+        "Geräte, Kurse und Sauna – nur für Frauen",
+        "Kurse: Pilates, Zumba und Yoga, auch am Wochenende",
+        "Kinderbetreuung Mo.–Fr. 9–12 Uhr",
+        "Mo.–Fr. 7–22 Uhr, Sa./So. 9–18 Uhr – monatlich kündbar"
+      ],
+      "footer": "Rosenhof 8, 30159 Hannover · Tel. 0511 2269905"
+    },
+    {
+      "key": "h",
+      "heading": "Laufschule Leinepfad",
+      "subheading": "Gemeinsam laufen macht mehr Spaß!",
+      "lines": [
+        "Anfängergruppe „Von 0 auf 5 km“: Di. und Do. 18.30 Uhr, 8 Wochen 49 €",
+        "Laufgruppe für Mütter mit Kinderwagen: Mo. und Mi. 10 Uhr",
+        "Treffpunkt: Parkplatz am Maschsee",
+        "Wir laufen bei jedem Wetter!"
+      ],
+      "footer": "Tel. 0176 22845013 · www.laufschule-leinepfad.de"
+    },
+    {
+      "key": "i",
+      "heading": "Keine Angst vor dem Wasser!",
+      "subheading": "Schwimmkurs für erwachsene Nichtschwimmer",
+      "lines": [
+        "10 Termine, donnerstags 20–21 Uhr im Stadtbad Süd",
+        "Kleine Gruppen mit max. 6 Personen – wir haben viel Geduld.",
+        "Kursgebühr 120 € (Eintritt ins Bad inklusive)",
+        "Anmeldung bis 15. Februar"
+      ],
+      "footer": "Schwimmschule Delphin · Tel. 0511 6734820 · www.schwimmschule-delphin.de"
+    },
+    {
+      "key": "j",
+      "heading": "Fit ab 60",
+      "subheading": "Bewegung für Seniorinnen und Senioren im Turnverein Südstadt",
+      "lines": [
+        "Sanfte Gymnastik für Rücken und Gelenke: mittwochs 10–11 Uhr",
+        "Wassergymnastik: freitags 9–10 Uhr",
+        "Die Kurse werden von vielen Krankenkassen bezuschusst.",
+        "Nur für Menschen ab 60 Jahren"
+      ],
+      "footer": "Turnverein Südstadt 1898 e. V. · Tel. 0511 8193047"
+    },
+    {
+      "key": "k",
+      "heading": "Zahnarztpraxis Dr. Elif Aydin",
+      "subheading": "Angstpatienten sind bei uns in guten Händen.",
+      "lines": [
+        "Behandlung mit viel Ruhe und Zeit, auf Wunsch mit Musik über Kopfhörer",
+        "Sprechzeiten: Mo.–Fr. 8–18 Uhr, Sa. 9–13 Uhr",
+        "Neue Patientinnen und Patienten willkommen",
+        "Barrierefreier Zugang"
+      ],
+      "footer": "Mühlenplatz 3, 30161 Hannover · Tel. 0511 7714480"
+    },
+    {
+      "key": "l",
+      "heading": "Rückenschule Hannover",
+      "subheading": "Starker Rücken – weniger Schmerzen",
+      "lines": [
+        "Präventionskurs: 10 Abende, montags 18–19 Uhr",
+        "Für Erwachsene jeden Alters",
+        "Ihre Krankenkasse übernimmt bis zu 80 % der Kosten.",
+        "Kursgebühr 140 €"
+      ],
+      "footer": "Praxis am Stadtpark, Eingang Ostseite · Tel. 0511 5520936 · www.rs-hannover.de"
+    }
+  ],
+  "glossary": [
+    { "de": "der Schichtdienst", "en": "shift work" },
+    { "de": "rund um die Uhr", "en": "around the clock, 24 hours" },
+    { "de": "die Mindestlaufzeit", "en": "minimum contract period" },
+    { "de": "die Kinderbetreuung", "en": "childcare" },
+    { "de": "die Krankengymnastik", "en": "physiotherapy exercises" },
+    { "de": "der Botendienst", "en": "delivery service" },
+    { "de": "das Rezept", "en": "prescription" },
+    { "de": "der Angstpatient / die Angstpatientin", "en": "anxious patient" },
+    { "de": "bezuschussen", "en": "to subsidise, to pay part of the cost" },
+    { "de": "erstatten", "en": "to refund" },
+    { "de": "der/die Fortgeschrittene", "en": "advanced learner" },
+    { "de": "der Nichtschwimmer", "en": "non-swimmer" }
+  ]
+}

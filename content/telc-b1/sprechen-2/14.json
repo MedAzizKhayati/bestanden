@@ -1,0 +1,99 @@
+{
+  "id": "sprechen-2-14",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Sport im Verein oder allein?",
+  "topic": "sport",
+  "difficulty": 2,
+  "theme": "Sport im Verein",
+  "medium": "in einer Zeitung",
+  "cardA": {
+    "name": "Florian Brunner",
+    "age": 31,
+    "job": "Mechatroniker",
+    "quote": "Ich spiele seit meiner Kindheit Handball in einem Verein in Bern, und die Mannschaft ist für mich wie eine zweite Familie. Nach dem Training sitzen wir oft noch zusammen, und viele meiner besten Freunde habe ich dort kennengelernt. Allein im Fitnessstudio hätte ich nie so viel Motivation. Und der Mitgliedsbeitrag ist auch nicht teuer."
+  },
+  "cardB": {
+    "name": "Petra Zimmermann",
+    "age": 45,
+    "job": "Bürokauffrau",
+    "quote": "Ich war früher in einem Tennisverein, aber die festen Trainingszeiten haben irgendwann nicht mehr zu meinem Job gepasst. Außerdem musste ich bei jedem Fest helfen und Kuchen backen. Heute gehe ich joggen oder mache Yoga mit einer App, wann ich will. Das ist flexibler, und ich muss mich nach niemandem richten."
+  },
+  "ideas": {
+    "pro": [
+      "man trainiert regelmäßig und mit mehr Motivation",
+      "Trainer zeigen die richtige Technik",
+      "man findet Freunde und Kontakte",
+      "Spiele und Wettkämpfe machen Spaß",
+      "oft günstiger als ein Fitnessstudio",
+      "gut für die Integration, man lernt die Sprache"
+    ],
+    "contra": [
+      "feste Trainingszeiten",
+      "man muss bei Festen und Arbeitseinsätzen helfen",
+      "manchmal Druck, immer besser zu werden",
+      "nicht jeder mag Mannschaftssport",
+      "allein kann man flexibel trainieren",
+      "manche Sportarten brauchen eine teure Ausrüstung"
+    ]
+  },
+  "questions": [
+    "Treiben Sie Sport? Allein oder mit anderen?",
+    "Waren Sie schon einmal Mitglied in einem Verein?",
+    "Wie ist das in Ihrem Heimatland? Gibt es dort auch so viele Vereine wie in Deutschland?",
+    "Kann ein Verein bei der Integration helfen?",
+    "Welche Sportart würden Sie gern einmal ausprobieren?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Nadia Trabelsi", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Viktor Horvat", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich beginne gern. Auf meinem Blatt steht die Meinung von Florian Brunner. Er ist 31, Mechatroniker und kommt aus Bern." },
+    { "s": "A", "t": "Herr Brunner spielt seit seiner Kindheit Handball in einem Verein, und die Mannschaft ist für ihn wie eine zweite Familie. Nach dem Training sitzen sie oft noch zusammen, und viele seiner besten Freunde hat er dort kennengelernt." },
+    { "s": "A", "t": "Er sagt, dass er allein im Fitnessstudio nie so viel Motivation hätte. Außerdem findet er, dass der Mitgliedsbeitrag nicht teuer ist." },
+    { "s": "B", "t": "Vielen Dank. In meinem Text erzählt Petra Zimmermann von ganz anderen Erfahrungen. Sie ist 45 und arbeitet als Bürokauffrau." },
+    { "s": "B", "t": "Frau Zimmermann war früher in einem Tennisverein, aber die festen Trainingszeiten haben irgendwann nicht mehr zu ihrem Job gepasst. Außerdem musste sie bei jedem Fest helfen und Kuchen backen." },
+    { "s": "B", "t": "Heute geht sie joggen oder macht Yoga mit einer App, wann sie will. Sie findet das flexibler, und sie muss sich nach niemandem richten." },
+    { "s": "A", "t": "Das mit dem Kuchen finde ich lustig! Sind Sie in einem Verein, Herr Horvat?" },
+    { "s": "B", "t": "Ja, seit einem Jahr spiele ich in einem Volleyballverein. Ehrlich gesagt war das für mich der beste Weg, hier in Deutschland Leute kennenzulernen." },
+    { "s": "A", "t": "Das glaube ich. Haben Sie dort auch Deutsch gelernt?" },
+    { "s": "B", "t": "Sehr viel sogar! Im Training spricht niemand Englisch mit mir, deshalb musste ich schnell Deutsch lernen. Und nach dem Spiel gehen wir oft zusammen etwas essen." },
+    { "s": "A", "t": "Da sieht man, dass Herr Brunner recht hat. Ein Verein ist mehr als nur Sport. Ich selbst bin aber eher wie Frau Zimmermann." },
+    { "s": "B", "t": "Wirklich? Warum?" },
+    { "s": "A", "t": "Ich arbeite in einem Hotel, und meine Arbeitszeiten ändern sich jede Woche. Ein festes Training am Dienstag und Donnerstag könnte ich gar nicht schaffen. Deshalb gehe ich ins Fitnessstudio, wenn ich Zeit habe." },
+    { "s": "B", "t": "Das verstehe ich. Aber haben Sie dort genug Motivation? Ich glaube, allein würde ich oft zu Hause auf dem Sofa bleiben." },
+    { "s": "A", "t": "Manchmal ist es schwer, das gebe ich zu. Aber ich habe eine Freundin, mit der ich oft zusammen trainiere. Dann ist es fast wie in einer kleinen Mannschaft." },
+    { "s": "B", "t": "Das ist eine gute Lösung. Wie ist das eigentlich in Tunesien? Gibt es dort auch so viele Vereine wie in Deutschland?" },
+    { "s": "A", "t": "Nein, nicht so viele. Fußballvereine gibt es natürlich überall, aber für Frauen gab es früher wenige Angebote. Viele Frauen machen lieber zu Hause oder im Fitnessstudio Sport." },
+    { "s": "B", "t": "In Slowenien gibt es ziemlich viele Vereine, vor allem für Skifahren, Wandern und Basketball. Aber so viele wie hier habe ich noch nirgends gesehen, hier gibt es ja für fast jedes Hobby einen Verein!" },
+    { "s": "P", "t": "Kann ein Verein Ihrer Meinung nach bei der Integration helfen?" },
+    { "s": "A", "t": "Ich finde, ja. Man trifft regelmäßig die gleichen Leute, und man hat sofort ein gemeinsames Thema. Herr Horvat ist dafür ja ein gutes Beispiel." },
+    { "s": "B", "t": "Genau. Für mich war der Verein wichtiger als jeder Sprachkurs. Aber jeder muss selbst entscheiden, ob er lieber allein oder in einer Gruppe Sport macht." },
+    { "s": "A", "t": "Das stimmt. Hauptsache, man bewegt sich regelmäßig." }
+  ],
+  "phrases": [
+    { "de": "Ich beginne gern.", "en": "I'm happy to start." },
+    { "de": "In meinem Text erzählt … von ganz anderen Erfahrungen.", "en": "In my text, … talks about very different experiences." },
+    { "de": "Da sieht man, dass … recht hat.", "en": "That shows that … is right." },
+    { "de": "Ich selbst bin aber eher wie …", "en": "But I myself am more like …" },
+    { "de": "Das gebe ich zu.", "en": "I admit that." },
+    { "de": "… ist dafür ein gutes Beispiel.", "en": "… is a good example of that." },
+    { "de": "Jeder muss selbst entscheiden, ob …", "en": "Everyone has to decide for themselves whether …" },
+    { "de": "Hauptsache, …", "en": "The main thing is that …" }
+  ],
+  "vocabulary": [
+    { "de": "der Sportverein", "en": "sports club" },
+    { "de": "das Mitglied", "en": "member" },
+    { "de": "der Mitgliedsbeitrag", "en": "membership fee" },
+    { "de": "die Mannschaft", "en": "team" },
+    { "de": "das Training", "en": "training session" },
+    { "de": "das Fitnessstudio", "en": "gym" },
+    { "de": "die Motivation", "en": "motivation" },
+    { "de": "der Wettkampf", "en": "competition" },
+    { "de": "die Ausrüstung", "en": "equipment" },
+    { "de": "die Integration", "en": "integration" },
+    { "de": "sich bewegen", "en": "to move, to get exercise" }
+  ]
+}

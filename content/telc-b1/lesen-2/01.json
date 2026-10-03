@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-01",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Vom Schreibtisch aufs Dach",
+  "topic": "arbeit",
+  "difficulty": 1,
+  "article": {
+    "headline": "Vom Schreibtisch aufs Dach",
+    "lead": "Zwölf Jahre lang hat Sabine Hollerer in einer Versicherung gearbeitet. Heute ist die 36-Jährige Rauchfangkehrerin in Graz – und hat ihre Entscheidung noch keinen Tag bereut.",
+    "paragraphs": [
+      "Wenn Sabine Hollerer morgens um halb sechs ihre schwarze Arbeitskleidung anzieht, schlafen die meisten Grazerinnen und Grazer noch. Um sechs Uhr steht sie schon auf dem ersten Dach. „Am frühen Morgen ist es in der Stadt ganz still. Von oben sehe ich, wie Graz langsam aufwacht. Das ist für mich der schönste Moment des Tages“, erzählt sie.",
+      "Dass sie einmal auf Dächern arbeiten würde, hätte sie früher selbst nicht gedacht. Nach der Matura begann Hollerer eine Ausbildung zur Versicherungskauffrau und blieb insgesamt zwölf Jahre in derselben Firma. „Die Kolleginnen und Kollegen waren nett und das Gehalt war gut“, sagt sie. „Aber ich hatte fast jeden Abend Rückenschmerzen und war müde, weil ich den ganzen Tag nur vor dem Bildschirm saß. Ich wusste: So will ich nicht bis zur Pension weitermachen.“",
+      "Die Idee für den neuen Beruf entstand ganz zufällig. Vor fünf Jahren kam ein Rauchfangkehrer zu ihr nach Hause, um den Kamin zu kontrollieren. Hollerer stellte ihm viele Fragen. „Er hat mir erzählt, dass sein Betrieb dringend Lehrlinge sucht, und hat mir seine Karte gegeben“, erinnert sie sich. Wenige Tage später rief sie in der Firma an und fragte, ob sie dort eine Woche lang schnuppern dürfe – so nennt man in Österreich ein kurzes Praktikum.",
+      "Mit 31 Jahren begann sie also noch einmal eine Lehre. In der Berufsschule waren ihre Mitschülerinnen und Mitschüler nur halb so alt wie sie. „Am Anfang war das komisch. Aber die Jüngeren haben mir oft bei Mathematik geholfen und ich ihnen bei den schriftlichen Berichten“, erzählt sie lachend. Weniger lustig war das Geld: Als Lehrling verdiente sie viel weniger als früher. „Ohne meinen Mann, der in dieser Zeit die meisten Rechnungen bezahlt hat, wäre das nicht gegangen.“",
+      "Ihre Lehre hat Hollerer vor zwei Jahren abgeschlossen. Ihr Arbeitstag ist abwechslungsreich: Sie reinigt Kamine, misst die Abgase von Heizungen und berät Hausbesitzer, die eine neue Heizung einbauen lassen wollen. „Viele glauben, dass wir nur mit dem Besen über die Dächer klettern. Dabei verbringe ich inzwischen fast die Hälfte meiner Arbeitszeit in Kellern“, erklärt sie. Dort stehen nämlich die meisten Heizungen.",
+      "Auf der Straße wird Hollerer oft angesprochen. In Österreich gelten Rauchfangkehrer als Glücksbringer, und viele Menschen möchten sie gern berühren – besonders zu Silvester. „Einmal hat mich eine ältere Dame im Bus gefragt, ob sie kurz meine Hand halten darf, weil sie am nächsten Tag eine Operation hatte“, erzählt sie. „So etwas erlebt man in einer Versicherung nicht.“",
+      "Für die Zukunft hat sie schon Pläne: Im nächsten Frühling möchte sie die Meisterprüfung machen. Danach will sie in Schulen gehen und Mädchen zeigen, dass ein Handwerksberuf auch für Frauen spannend sein kann. Und zurück ins Büro? „Nur, wenn ich dort die Heizung kontrollieren muss“, sagt sie und lacht."
+    ],
+    "source": "Grazer Wochenblick"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Frau Hollerer war mit ihrer Arbeit in der Versicherung unzufrieden, weil …",
+      "options": [
+        { "key": "a", "text": "sie dort zu wenig Geld verdient hat." },
+        { "key": "b", "text": "sie vom langen Sitzen vor dem Bildschirm Schmerzen hatte." },
+        { "key": "c", "text": "sie sich mit ihren Kolleginnen und Kollegen nicht verstanden hat." }
+      ],
+      "answer": "b",
+      "explanation": "„Ich hatte fast jeden Abend Rückenschmerzen …, weil ich den ganzen Tag nur vor dem Bildschirm saß“ – sitting at the screen all day gave her back pain, so (b). Money and colleagues were not the problem: „Die Kolleginnen und Kollegen waren nett und das Gehalt war gut“.",
+      "explanationDe": "„Ich hatte fast jeden Abend Rückenschmerzen …, weil ich den ganzen Tag nur vor dem Bildschirm saß“ – vom Sitzen vor dem Bildschirm hatte sie Rückenschmerzen, also ist (b) richtig. Geld und Kollegen waren nicht das Problem: „Die Kolleginnen und Kollegen waren nett und das Gehalt war gut“.",
+      "evidence": "Aber ich hatte fast jeden Abend Rückenschmerzen und war müde, weil ich den ganzen Tag nur vor dem Bildschirm saß."
+    },
+    {
+      "n": 2,
+      "stem": "Auf die Idee, Rauchfangkehrerin zu werden, kam Frau Hollerer, …",
+      "options": [
+        { "key": "a", "text": "als ein Rauchfangkehrer bei ihr zu Hause den Kamin kontrollierte." },
+        { "key": "b", "text": "weil sie in der Zeitung eine Anzeige für Lehrlinge gelesen hatte." },
+        { "key": "c", "text": "nachdem sie in einem Betrieb ein kurzes Praktikum gemacht hatte." }
+      ],
+      "answer": "a",
+      "explanation": "The idea came when a chimney sweep visited her home: „kam ein Rauchfangkehrer zu ihr nach Hause, um den Kamin zu kontrollieren“, so (a). The short internship („schnuppern“) came later, after she had the idea, so (c) gets the order wrong. There is no newspaper ad (b).",
+      "explanationDe": "Die Idee kam, als ein Rauchfangkehrer sie zu Hause besuchte: „kam ein Rauchfangkehrer zu ihr nach Hause, um den Kamin zu kontrollieren“ – also ist (a) richtig. Das kurze Praktikum („schnuppern“) kam erst später, nach der Idee – (c) bringt also die Reihenfolge durcheinander. Eine Anzeige in der Zeitung gibt es nicht (b).",
+      "evidence": "Vor fünf Jahren kam ein Rauchfangkehrer zu ihr nach Hause, um den Kamin zu kontrollieren."
+    },
+    {
+      "n": 3,
+      "stem": "In der Berufsschule …",
+      "options": [
+        { "key": "a", "text": "musste Frau Hollerer den Jugendlichen bei Mathematik helfen." },
+        { "key": "b", "text": "hatte Frau Hollerer große Probleme mit den schriftlichen Berichten." },
+        { "key": "c", "text": "haben sich Frau Hollerer und die Jüngeren gegenseitig geholfen." }
+      ],
+      "answer": "c",
+      "explanation": "„Die Jüngeren haben mir oft bei Mathematik geholfen und ich ihnen bei den schriftlichen Berichten“ – they helped each other, so (c). Option (a) swaps the roles: the young students helped her with maths. She helped them with the reports, so (b) is wrong too.",
+      "explanationDe": "„Die Jüngeren haben mir oft bei Mathematik geholfen und ich ihnen bei den schriftlichen Berichten“ – sie haben sich gegenseitig geholfen, also ist (c) richtig. Antwort (a) vertauscht die Rollen: Die jungen Mitschüler haben ihr bei Mathematik geholfen. Sie hat ihnen bei den Berichten geholfen, deshalb ist auch (b) falsch.",
+      "evidence": "Aber die Jüngeren haben mir oft bei Mathematik geholfen und ich ihnen bei den schriftlichen Berichten"
+    },
+    {
+      "n": 4,
+      "stem": "Über ihre Arbeit heute sagt Frau Hollerer, dass …",
+      "options": [
+        { "key": "a", "text": "sie einen großen Teil der Zeit in Kellern verbringt." },
+        { "key": "b", "text": "sie meistens mit dem Besen auf den Dächern unterwegs ist." },
+        { "key": "c", "text": "sie vor allem Menschen berät, die ein Haus kaufen wollen." }
+      ],
+      "answer": "a",
+      "explanation": "„fast die Hälfte meiner Arbeitszeit in Kellern“ is a large part of her time, so (a). Option (b) is what „viele glauben“ – the idea she corrects. She advises house owners who want a new heating system, not people who want to buy a house (c).",
+      "explanationDe": "„fast die Hälfte meiner Arbeitszeit in Kellern“ – das ist ein großer Teil ihrer Zeit, also ist (a) richtig. Antwort (b) ist das, was „viele glauben“ – genau diese Meinung korrigiert sie. Sie berät Hausbesitzer, die eine neue Heizung wollen, nicht Leute, die ein Haus kaufen möchten (c).",
+      "evidence": "Dabei verbringe ich inzwischen fast die Hälfte meiner Arbeitszeit in Kellern"
+    },
+    {
+      "n": 5,
+      "stem": "Was plant Frau Hollerer?",
+      "options": [
+        { "key": "a", "text": "Sie will im Frühling einen eigenen Betrieb eröffnen." },
+        { "key": "b", "text": "Sie möchte bald ihre Meisterprüfung machen." },
+        { "key": "c", "text": "Sie will später an einer Berufsschule unterrichten." }
+      ],
+      "answer": "b",
+      "explanation": "„Im nächsten Frühling möchte sie die Meisterprüfung machen“, so (b). She wants to visit schools to show girls that crafts can be exciting, but that is not teaching at a vocational school (c). Her own business (a) is not mentioned.",
+      "explanationDe": "„Im nächsten Frühling möchte sie die Meisterprüfung machen“, also ist (b) richtig. Sie will in Schulen gehen und Mädchen zeigen, dass Handwerksberufe spannend sein können – das ist aber kein Unterricht an einer Berufsschule (c). Ein eigener Betrieb (a) wird nicht erwähnt.",
+      "evidence": "Im nächsten Frühling möchte sie die Meisterprüfung machen."
+    }
+  ],
+  "glossary": [
+    { "de": "die Rauchfangkehrerin (österr.)", "en": "chimney sweep (female); in Germany: die Schornsteinfegerin" },
+    { "de": "der Kamin (österr.)", "en": "chimney" },
+    { "de": "die Matura (österr.)", "en": "school-leaving exam (= das Abitur)" },
+    { "de": "die Lehre / der Lehrling", "en": "apprenticeship / apprentice" },
+    { "de": "schnuppern (österr.)", "en": "to try out a job for a few days (short internship)" },
+    { "de": "die Berufsschule", "en": "vocational school" },
+    { "de": "die Abgase (Pl.)", "en": "exhaust fumes" },
+    { "de": "der Glücksbringer", "en": "lucky charm, someone who brings good luck" },
+    { "de": "die Meisterprüfung", "en": "master craftsman's examination" },
+    { "de": "etwas bereuen", "en": "to regret something" },
+    { "de": "die Pension (österr.)", "en": "retirement (= die Rente)" }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "sprechen-3-10",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Besuch bei Samuel im Krankenhaus",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "situation": "Ihr Kurskollege Samuel hatte einen Fahrradunfall und liegt mit einem gebrochenen Bein im Krankenhaus. Er muss noch mindestens eine Woche dort bleiben. Sie möchten ihn zusammen besuchen. Planen Sie gemeinsam den Besuch.",
+  "checklist": [
+    "Wann besuchen Sie ihn?",
+    "Wie kommen Sie zum Krankenhaus?",
+    "Was bringen Sie mit?",
+    "Kommen noch andere mit?",
+    "Wie können Sie Samuel sonst helfen?",
+    "Wer macht was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Milena Dimitrova", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Rashid Abdalla", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Rashid, hast du schon gehört, dass Samuel im Krankenhaus liegt? Er ist mit dem Fahrrad gestürzt und hat sich das Bein gebrochen." },
+    { "s": "B", "t": "Ja, die Kursleiterin hat es heute erzählt. Der Arme! Wir sollten ihn unbedingt besuchen." },
+    { "s": "A", "t": "Auf jeden Fall. Wann passt es dir? Die Besuchszeit ist von vierzehn bis neunzehn Uhr." },
+    { "s": "B", "t": "Wir könnten morgen direkt nach dem Kurs hinfahren. Der Kurs ist um eins zu Ende, dann sind wir um zwei im Krankenhaus." },
+    { "s": "A", "t": "Morgen Nachmittag muss ich leider arbeiten. Geht es bei dir auch am Donnerstag? Da habe ich den ganzen Tag frei." },
+    { "s": "B", "t": "Donnerstag passt mir auch. Dann treffen wir uns um zwei vor dem Krankenhaus. Weißt du, wie man dorthin kommt?" },
+    { "s": "A", "t": "Ja, mit der Straßenbahn Linie vier bis zur Haltestelle Klinikum. Das dauert ungefähr zwanzig Minuten." },
+    { "s": "B", "t": "Gut. Und was bringen wir mit? Ich dachte an einen Blumenstrauß." },
+    { "s": "A", "t": "Blumen sind schön, aber in manchen Krankenhäusern sind sie nicht erlaubt, weil sie Keime ins Zimmer bringen können. Ich würde lieber etwas anderes mitbringen, zum Beispiel Obst oder eine Zeitschrift." },
+    { "s": "B", "t": "Ach, das wusste ich nicht. Obst ist eine gute Idee, und vielleicht noch ein Buch, weil es im Krankenhaus bestimmt langweilig ist." },
+    { "s": "A", "t": "Ein Buch ist gut, aber nicht zu schwierig! Samuel liest gern Krimis. Ich kenne eine Buchhandlung, die Krimis in einfachem Deutsch hat." },
+    { "s": "B", "t": "Perfekt, dann kann er gleichzeitig Deutsch üben. Apropos Deutsch: Er verpasst jetzt ja viel im Kurs." },
+    { "s": "A", "t": "Stimmt. Wir könnten ihm die Arbeitsblätter und die Hausaufgaben mitbringen. Dann kann er im Krankenhaus ein bisschen lernen, wenn er möchte." },
+    { "s": "B", "t": "Gute Idee. Ich kopiere alles und schreibe ihm auf, was wir im Unterricht gemacht haben." },
+    { "s": "A", "t": "Super. Sollen wir noch andere aus dem Kurs fragen, ob sie mitkommen?" },
+    { "s": "B", "t": "Ich weiß nicht. Wenn zu viele Leute kommen, wird es für ihn vielleicht zu anstrengend. Und im Zimmer liegen bestimmt noch andere Patienten." },
+    { "s": "A", "t": "Da hast du recht. Dann gehen wir zu zweit, und die anderen schreiben ihm eine Karte. Ich kaufe die Karte und lasse morgen im Kurs alle unterschreiben." },
+    { "s": "B", "t": "Schön. Braucht Samuel vielleicht noch andere Hilfe? Er wohnt doch allein, oder?" },
+    { "s": "A", "t": "Ja, und er hat viele Pflanzen. Vielleicht können wir seine Pflanzen gießen und die Post aus dem Briefkasten holen. Wir fragen ihn am Donnerstag, ob er das möchte." },
+    { "s": "B", "t": "Gute Idee. Vielleicht hat seine Nachbarin einen Schlüssel. Ich glaube, er wäre sehr froh über die Hilfe." },
+    { "s": "A", "t": "Also, fassen wir zusammen: Wir besuchen Samuel am Donnerstag um zwei Uhr und fahren mit der Straßenbahn. Ich kaufe das Buch und die Karte." },
+    { "s": "B", "t": "Und ich bringe Obst und die Unterlagen aus dem Kurs mit. Außerdem fragen wir ihn, ob wir uns um seine Wohnung kümmern sollen." },
+    { "s": "A", "t": "Genau. Ich glaube, er freut sich sehr über unseren Besuch." }
+  ],
+  "phrases": [
+    { "de": "Wann passt es dir?", "en": "When suits you?" },
+    { "de": "Geht es bei dir auch am Donnerstag?", "en": "Does Thursday work for you too?" },
+    { "de": "Donnerstag passt mir auch.", "en": "Thursday suits me too." },
+    { "de": "Ich würde lieber etwas anderes mitbringen, zum Beispiel …", "en": "I'd rather bring something else, for example …" },
+    { "de": "Ach, das wusste ich nicht.", "en": "Oh, I didn't know that." },
+    { "de": "Apropos …", "en": "Speaking of …" },
+    { "de": "Ich weiß nicht. Wenn …, wird es …", "en": "I'm not sure. If …, it will be …" },
+    { "de": "Da hast du recht. Dann …", "en": "You're right. Then …" },
+    { "de": "Also, fassen wir zusammen: …", "en": "So, let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "im Krankenhaus liegen", "en": "to be in hospital" },
+    { "de": "sich das Bein brechen", "en": "to break one's leg" },
+    { "de": "stürzen", "en": "to fall (over)" },
+    { "de": "die Besuchszeit", "en": "visiting hours" },
+    { "de": "der Blumenstrauß", "en": "bunch of flowers" },
+    { "de": "die Keime (Pl.)", "en": "germs" },
+    { "de": "etwas verpassen", "en": "to miss something" },
+    { "de": "das Arbeitsblatt", "en": "worksheet" },
+    { "de": "die Unterlagen (Pl.)", "en": "documents, materials" },
+    { "de": "die Pflanzen gießen", "en": "to water the plants" },
+    { "de": "der Briefkasten", "en": "letterbox" }
+  ]
+}

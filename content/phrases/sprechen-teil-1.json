@@ -1,0 +1,158 @@
+{
+  "id": "sprechen-teil-1",
+  "order": 3,
+  "context": "sprechen-1",
+  "title": "Einander kennenlernen",
+  "titleEn": "Getting to know each other",
+  "description": "For the first, unprepared part of the oral exam: introduce yourself, ask your partner about the points on the sheet and react to what you hear. A real two-way conversation scores better than two monologues.",
+  "descriptionDe": "Für den ersten Teil der mündlichen Prüfung, den du nicht vorbereitest: Stell dich vor, frag dein Gegenüber nach den Punkten auf dem Aufgabenblatt und reagiere auf das, was du hörst. Ein echtes Gespräch mit Hin und Her bringt mehr Punkte als zwei Monologe.",
+  "groups": [
+    {
+      "title": "Das Gespräch beginnen",
+      "titleEn": "Starting the conversation",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Guten Tag, ich heiße Amira Haddad. Und wie heißen Sie?", "en": "Hello, my name is Amira Haddad. And what's your name?" },
+        { "de": "Wir sollen uns ja ein bisschen kennenlernen.", "en": "So we're supposed to get to know each other a little." },
+        { "de": "Sollen wir uns duzen?", "en": "Shall we say „du“ to each other?", "note": "duzen = to say „du“, siezen = to say „Sie“. Agree at the start and stick to it.", "noteDe": "duzen = „du“ sagen, siezen = „Sie“ sagen. Einigt euch am Anfang und bleibt dabei." },
+        { "de": "Ist es in Ordnung, wenn wir „du“ sagen?", "en": "Is it okay if we say „du“?" },
+        { "de": "Schön, dich kennenzulernen!", "en": "Nice to meet you!", "note": "Sie-form: „Schön, Sie kennenzulernen!“", "noteDe": "Sie-Form: „Schön, Sie kennenzulernen!“" },
+        { "de": "Möchtest du anfangen, oder soll ich zuerst etwas über mich erzählen?", "en": "Would you like to start, or shall I tell you something about myself first?" },
+        { "de": "Okay, dann fange ich mal an.", "en": "Okay, I'll start then." }
+      ]
+    },
+    {
+      "title": "Name, Herkunft und Wohnort",
+      "titleEn": "Name, origin and home",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Mein Name ist Luca Rossi. Ich komme aus Italien, genauer gesagt aus Bologna.", "en": "My name is Luca Rossi. I come from Italy – from Bologna, to be precise." },
+        { "de": "Ich bin in Kenia geboren und in Nairobi aufgewachsen.", "en": "I was born in Kenya and grew up in Nairobi.", "note": "aufwachsen – ist aufgewachsen", "noteDe": "aufwachsen – ist aufgewachsen" },
+        { "de": "Ursprünglich komme ich aus Syrien, aber jetzt ist Hamburg mein Zuhause.", "en": "Originally I'm from Syria, but now Hamburg is my home." },
+        { "de": "Ich lebe seit drei Jahren in Deutschland.", "en": "I've been living in Germany for three years.", "note": "seit + present tense, not Perfekt", "noteDe": "seit + Präsens, nicht Perfekt" },
+        { "de": "Zurzeit wohne ich mit meinem Mann in einer kleinen Wohnung nicht weit vom Zentrum.", "en": "At the moment I live with my husband in a small flat not far from the centre." },
+        { "de": "Meine Heimatstadt liegt im Süden des Landes, direkt am Meer.", "en": "My home town is in the south of the country, right by the sea." },
+        { "de": "Ich wohne in einem Vorort von Köln. Dort ist es ruhig und grün.", "en": "I live in a suburb of Cologne. It's quiet and green there." }
+      ]
+    },
+    {
+      "title": "Familie",
+      "titleEn": "Family",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich bin verheiratet und habe zwei Kinder, einen Sohn und eine Tochter.", "en": "I'm married and have two children, a son and a daughter.", "note": "haben + accusative: einen Sohn", "noteDe": "haben + Akkusativ: einen Sohn" },
+        { "de": "Ich bin ledig und wohne allein.", "en": "I'm single and live on my own." },
+        { "de": "Ich habe einen älteren Bruder und eine jüngere Schwester.", "en": "I have an older brother and a younger sister." },
+        { "de": "Meine Eltern und meine Geschwister leben noch in der Türkei.", "en": "My parents and my brothers and sisters still live in Turkey.", "note": "Some countries take an article: in der Türkei, in der Schweiz, in den USA.", "noteDe": "Manche Länder haben einen Artikel: in der Türkei, in der Schweiz, in den USA." },
+        { "de": "Meine Tochter ist sechs und geht schon in die Schule.", "en": "My daughter is six and already goes to school." },
+        { "de": "Ich bin das jüngste von vier Kindern.", "en": "I'm the youngest of four children." },
+        { "de": "Mit meiner Familie telefoniere ich fast jeden Tag per Video.", "en": "I video-call my family almost every day." }
+      ]
+    },
+    {
+      "title": "Beruf und Ausbildung",
+      "titleEn": "Work and training",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich arbeite als Koch in einem großen Hotel.", "en": "I work as a chef in a big hotel.", "note": "als + job, without an article", "noteDe": "als + Beruf, ohne Artikel" },
+        { "de": "In meiner Heimat habe ich Betriebswirtschaft studiert.", "en": "In my home country I studied business administration." },
+        { "de": "Zurzeit mache ich eine Ausbildung zur Erzieherin.", "en": "I'm currently training to be a nursery teacher.", "note": "eine Ausbildung zum … / zur … machen", "noteDe": "eine Ausbildung zum … / zur … machen" },
+        { "de": "Ich bin von Beruf Elektriker, aber hier arbeite ich im Moment in einem Lager.", "en": "I'm an electrician by trade, but here I'm working in a warehouse at the moment." },
+        { "de": "Mein Abschluss wird in Deutschland leider noch nicht anerkannt.", "en": "Unfortunately my qualification isn't recognised in Germany yet.", "note": "Passive: werden + Partizip II", "noteDe": "Passiv: werden + Partizip II" },
+        { "de": "Die Arbeit macht mir viel Spaß, weil ich viel mit Menschen zu tun habe.", "en": "I really enjoy the work because I deal with people a lot." },
+        { "de": "Im Moment suche ich eine Stelle als Programmiererin.", "en": "At the moment I'm looking for a job as a programmer." },
+        { "de": "Ich arbeite in Teilzeit, also nur vormittags.", "en": "I work part-time, so only in the mornings." }
+      ]
+    },
+    {
+      "title": "Deutsch und andere Sprachen",
+      "titleEn": "German and other languages",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich lerne seit ungefähr einem Jahr Deutsch.", "en": "I've been learning German for about a year.", "note": "seit + dative + present tense", "noteDe": "seit + Dativ + Präsens" },
+        { "de": "Ich brauche das B1-Zertifikat für die Einbürgerung.", "en": "I need the B1 certificate for naturalisation." },
+        { "de": "Am schwierigsten finde ich die Artikel und die Aussprache.", "en": "I find the articles and the pronunciation the most difficult." },
+        { "de": "Meine Muttersprache ist Arabisch, außerdem spreche ich Französisch und ein bisschen Englisch.", "en": "My native language is Arabic; I also speak French and a little English.", "note": "außerdem + verb in second position", "noteDe": "außerdem + Verb auf Position 2" },
+        { "de": "Ich habe einen Integrationskurs an der Volkshochschule besucht.", "en": "I attended an integration course at the adult education centre." },
+        { "de": "Am meisten lerne ich, wenn ich mit meinen Kollegen spreche.", "en": "I learn the most when I talk to my colleagues." },
+        { "de": "Ich sehe viele Serien auf Deutsch, das hilft mir sehr.", "en": "I watch a lot of series in German – that helps me a lot." },
+        { "de": "Ich möchte mein Deutsch verbessern, damit ich später studieren kann.", "en": "I want to improve my German so that I can study later.", "note": "damit + verb at the end", "noteDe": "damit + Verb am Ende" }
+      ]
+    },
+    {
+      "title": "Freizeit und Hobbys",
+      "titleEn": "Free time and hobbies",
+      "register": "neutral",
+      "phrases": [
+        { "de": "In meiner Freizeit treffe ich mich gern mit Freunden.", "en": "In my free time I like meeting up with friends.", "note": "sich treffen mit + dative", "noteDe": "sich treffen mit + Dativ" },
+        { "de": "Am Wochenende gehe ich oft mit meiner Familie spazieren.", "en": "At the weekend I often go for a walk with my family." },
+        { "de": "Ich koche sehr gern, vor allem Gerichte aus meiner Heimat.", "en": "I love cooking, especially dishes from my home country." },
+        { "de": "Zweimal pro Woche gehe ich ins Fitnessstudio.", "en": "I go to the gym twice a week." },
+        { "de": "Früher habe ich viel gelesen, aber heute habe ich leider wenig Zeit dafür.", "en": "I used to read a lot, but these days I unfortunately have little time for it." },
+        { "de": "Seit einem Jahr spiele ich Gitarre in einer kleinen Band.", "en": "I've been playing the guitar in a small band for a year." },
+        { "de": "Ich interessiere mich sehr für Fotografie.", "en": "I'm very interested in photography.", "note": "sich interessieren für + accusative", "noteDe": "sich interessieren für + Akkusativ" },
+        { "de": "Mein Lieblingshobby ist Reisen, deshalb spare ich das ganze Jahr für den Urlaub.", "en": "My favourite hobby is travelling, so I save all year for my holidays.", "note": "deshalb + verb in second position", "noteDe": "deshalb + Verb auf Position 2" }
+      ]
+    },
+    {
+      "title": "Pläne für die Zukunft",
+      "titleEn": "Plans for the future",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich habe vor, nächstes Jahr eine Ausbildung zu beginnen.", "en": "I'm planning to start vocational training next year.", "note": "vorhaben + zu-infinitive", "noteDe": "vorhaben + Infinitiv mit zu" },
+        { "de": "Nach der Prüfung möchte ich gleich mit dem B2-Kurs weitermachen.", "en": "After the exam I'd like to go straight on to the B2 course." },
+        { "de": "Mein Ziel ist es, wieder in meinem Beruf zu arbeiten.", "en": "My goal is to work in my profession again." },
+        { "de": "Irgendwann würde ich gern ein eigenes Restaurant eröffnen.", "en": "One day I'd like to open my own restaurant." },
+        { "de": "Wenn alles gut geht, ziehen wir im Sommer in eine größere Wohnung.", "en": "If all goes well, we'll move into a bigger flat in the summer.", "note": "Present tense + time expression for the future", "noteDe": "Präsens + Zeitangabe für die Zukunft" },
+        { "de": "Ich hoffe, dass ich bald eine feste Stelle finde.", "en": "I hope I'll find a permanent job soon." }
+      ]
+    },
+    {
+      "title": "Fragen stellen – mit „Sie“",
+      "titleEn": "Asking questions – with „Sie“",
+      "register": "formal",
+      "phrases": [
+        { "de": "Woher kommen Sie?", "en": "Where are you from?" },
+        { "de": "Wie lange leben Sie schon in Deutschland?", "en": "How long have you been living in Germany?", "note": "„schon“ + present tense = how long so far", "noteDe": "„schon“ + Präsens = wie lange bis jetzt" },
+        { "de": "Was sind Sie von Beruf?", "en": "What do you do for a living?" },
+        { "de": "Haben Sie Kinder oder Geschwister?", "en": "Do you have children, or brothers and sisters?" },
+        { "de": "Warum lernen Sie Deutsch?", "en": "Why are you learning German?" },
+        { "de": "Welche Sprachen sprechen Sie noch?", "en": "Which other languages do you speak?" },
+        { "de": "Was machen Sie gern in Ihrer Freizeit?", "en": "What do you like doing in your free time?" },
+        { "de": "Wie gefällt es Ihnen in Ihrer Stadt?", "en": "How do you like living in your town?" },
+        { "de": "Was möchten Sie nach dem Kurs machen?", "en": "What would you like to do after the course?" }
+      ]
+    },
+    {
+      "title": "Fragen stellen – mit „du“",
+      "titleEn": "Asking questions – with „du“",
+      "register": "informal",
+      "phrases": [
+        { "de": "Woher kommst du denn?", "en": "So where are you from?", "note": "„denn“ makes a question sound friendly and natural.", "noteDe": "Mit „denn“ klingt eine Frage freundlich und natürlich." },
+        { "de": "Seit wann wohnst du schon hier?", "en": "How long have you been living here?" },
+        { "de": "Was machst du beruflich?", "en": "What do you do for a living?" },
+        { "de": "Wohnst du allein oder mit deiner Familie zusammen?", "en": "Do you live on your own or with your family?" },
+        { "de": "Wie lange lernst du schon Deutsch?", "en": "How long have you been learning German?" },
+        { "de": "Was findest du am Deutschlernen am schwierigsten?", "en": "What do you find hardest about learning German?" },
+        { "de": "Was machst du am liebsten in deiner Freizeit?", "en": "What do you like doing most in your free time?" },
+        { "de": "Und was sind deine Pläne für die Zukunft?", "en": "And what are your plans for the future?" },
+        { "de": "Und wie ist das bei dir?", "en": "And what about you?", "note": "The easiest way to hand the turn to your partner", "noteDe": "Die einfachste Art, deinem Gegenüber das Wort zu geben" }
+      ]
+    },
+    {
+      "title": "Reagieren und nachfragen",
+      "titleEn": "Reacting and following up",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ach, wirklich? Das ist ja interessant!", "en": "Oh, really? That's interesting!" },
+        { "de": "Das kenne ich, mir geht es genauso.", "en": "I know what you mean – it's the same for me." },
+        { "de": "Ach so, dann haben wir ja etwas gemeinsam!", "en": "Oh, then we've got something in common!" },
+        { "de": "Echt? Das hätte ich nicht gedacht.", "en": "Really? I wouldn't have thought so.", "note": "„Echt?“ is informal.", "noteDe": "„Echt?“ ist umgangssprachlich." },
+        { "de": "Das stelle ich mir schwierig vor.", "en": "I imagine that's difficult." },
+        { "de": "Das klingt toll! Wie bist du dazu gekommen?", "en": "That sounds great! How did you get into that?", "note": "Sie-form: „Wie sind Sie dazu gekommen?“", "noteDe": "Sie-Form: „Wie sind Sie dazu gekommen?“" },
+        { "de": "Was genau machst du da?", "en": "What exactly do you do there?", "note": "Sie-form: „Was genau machen Sie da?“", "noteDe": "Sie-Form: „Was genau machen Sie da?“" },
+        { "de": "Erzähl doch mal ein bisschen mehr darüber!", "en": "Tell me a bit more about it!", "note": "Sie-form: „Erzählen Sie doch mal …“", "noteDe": "Sie-Form: „Erzählen Sie doch mal …“" }
+      ]
+    }
+  ]
+}

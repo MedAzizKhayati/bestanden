@@ -1,0 +1,100 @@
+{
+  "id": "lesen-2-03",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Wasser für die Stadtbäume",
+  "topic": "umwelt",
+  "difficulty": 1,
+  "article": {
+    "headline": "Mit der Gießkanne gegen die Hitze",
+    "lead": "Lange, trockene Sommer sind für die Bäume in der Stadt ein großes Problem. In Mannheim kümmern sich jetzt über 900 Bürgerinnen und Bürger um „ihren“ Baum.",
+    "paragraphs": [
+      "Jeden Donnerstagabend füllt Jonas Petersen im Hof seines Hauses zehn Gießkannen mit Wasser. Vor dem Haus in der Neckarstadt steht eine junge Linde, die erst vor zwei Jahren gepflanzt wurde. „Das ist mein Baum“, sagt der 28-jährige Informatiker und lacht. Seit Mai ist er offiziell Baumpate: Er hat versprochen, die Linde im Sommer regelmäßig zu gießen.",
+      "Das Projekt „Baumpaten“ hat das Grünflächenamt der Stadt im letzten Jahr gestartet. In den vergangenen fünf Jahren sind wegen der Hitze mehr als 1.500 Stadtbäume vertrocknet. „Besonders junge Bäume brauchen viel Wasser, weil ihre Wurzeln noch nicht tief genug in die Erde reichen“, erklärt Sandra Albrecht vom Grünflächenamt. „Wir haben aber einfach nicht genug Personal, um alle Bäume regelmäßig zu gießen.“",
+      "Mitmachen ist einfach. Auf einer Internetseite der Stadt sucht man sich auf einer Karte einen Baum in der Nähe aus und meldet sich als Pate an. Die Paten bekommen kostenlos einen grünen Gießsack. Man legt ihn um den Baum, und er gibt das Wasser langsam an die Wurzeln ab. Wer möchte, kann nach dem Gießen auf der Internetseite eintragen, wie viel Wasser der Baum bekommen hat. So sehen auch die Nachbarn, ob ein Baum noch Durst hat.",
+      "Wie viel Wasser braucht so ein junger Baum? „Im Sommer sollte er einmal pro Woche 80 bis 100 Liter bekommen“, sagt Albrecht. „Lieber selten und viel als jeden Tag ein bisschen.“ Am besten gießt man am Abend oder früh am Morgen, weil dann weniger Wasser verdunstet. Leitungswasser ist in Ordnung, Regenwasser ist aber noch besser.",
+      "Für Jonas Petersen ist das Gießen längst mehr als eine Pflicht. „Durch den Baum habe ich viele Nachbarn kennengelernt“, erzählt er. Die ältere Dame aus dem Erdgeschoss bringt ihm manchmal ein Stück Kuchen vorbei, und die Kinder von gegenüber helfen ihm gern beim Tragen der Kannen. Im Herbst wollen die Nachbarn sogar ein kleines Straßenfest unter der Linde feiern.",
+      "Die Stadt ist mit dem ersten Jahr sehr zufrieden: Von den Bäumen mit Paten ist im letzten Sommer fast keiner vertrocknet. Trotzdem sagt Sandra Albrecht ehrlich: „Die Paten helfen uns sehr, aber sie können das Problem nicht allein lösen.“ Die Stadt will deshalb in Zukunft vor allem Baumarten pflanzen, die Hitze und Trockenheit besser aushalten, zum Beispiel Bäume aus Südeuropa."
+    ],
+    "source": "Quadratestadt-Rundschau"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Die Stadt hat das Projekt gestartet, weil …",
+      "options": [
+        { "key": "a", "text": "sie nicht genug Mitarbeiter hat, um alle Bäume zu gießen." },
+        { "key": "b", "text": "sie in den letzten Jahren 1.500 neue Bäume gepflanzt hat." },
+        { "key": "c", "text": "vor allem alte Bäume im Sommer viel Wasser brauchen." }
+      ],
+      "answer": "a",
+      "explanation": "„Wir haben aber einfach nicht genug Personal, um alle Bäume regelmäßig zu gießen“, so (a). The 1,500 trees died („vertrocknet“) – they were not planted (b). It is the young trees that need a lot of water, not the old ones (c).",
+      "explanationDe": "„Wir haben aber einfach nicht genug Personal, um alle Bäume regelmäßig zu gießen“, also ist (a) richtig. Die 1.500 Bäume sind gestorben („vertrocknet“) – sie wurden nicht gepflanzt (b). Viel Wasser brauchen die jungen Bäume, nicht die alten (c).",
+      "evidence": "Wir haben aber einfach nicht genug Personal, um alle Bäume regelmäßig zu gießen."
+    },
+    {
+      "n": 2,
+      "stem": "Wer Baumpate werden möchte, …",
+      "options": [
+        { "key": "a", "text": "muss zuerst einen Gießsack kaufen." },
+        { "key": "b", "text": "muss jedes Gießen im Internet eintragen." },
+        { "key": "c", "text": "wählt auf einer Karte im Internet einen Baum aus." }
+      ],
+      "answer": "c",
+      "explanation": "„Auf einer Internetseite der Stadt sucht man sich auf einer Karte einen Baum … aus“, so (c). The watering bag is free („kostenlos“), so (a) is wrong. Entering the water online is optional („Wer möchte, kann …“), so (b) is wrong.",
+      "explanationDe": "„Auf einer Internetseite der Stadt sucht man sich auf einer Karte einen Baum … aus“, also ist (c) richtig. Den Gießsack bekommt man „kostenlos“, deshalb ist (a) falsch. Das Wasser im Internet einzutragen ist freiwillig („Wer möchte, kann …“), deshalb ist (b) falsch.",
+      "evidence": "Auf einer Internetseite der Stadt sucht man sich auf einer Karte einen Baum in der Nähe aus und meldet sich als Pate an."
+    },
+    {
+      "n": 3,
+      "stem": "Laut Frau Albrecht soll man einen jungen Baum im Sommer …",
+      "options": [
+        { "key": "a", "text": "jeden Tag mit ein bisschen Wasser gießen." },
+        { "key": "b", "text": "einmal pro Woche mit viel Wasser gießen." },
+        { "key": "c", "text": "nur mit Regenwasser und nur am Morgen gießen." }
+      ],
+      "answer": "b",
+      "explanation": "„einmal pro Woche 80 bis 100 Liter“ – „Lieber selten und viel“, so (b). Option (a) is exactly what she advises against. Tap water is fine and the evening is also a good time, so (c) is wrong.",
+      "explanationDe": "„einmal pro Woche 80 bis 100 Liter“ – „Lieber selten und viel“, also ist (b) richtig. Von Antwort (a) rät sie genau ab. Leitungswasser ist in Ordnung, und auch der Abend ist eine gute Zeit, deshalb ist (c) falsch.",
+      "evidence": "Im Sommer sollte er einmal pro Woche 80 bis 100 Liter bekommen"
+    },
+    {
+      "n": 4,
+      "stem": "Durch das Projekt hat Herr Petersen …",
+      "options": [
+        { "key": "a", "text": "ein Straßenfest für die Kinder organisiert." },
+        { "key": "b", "text": "viele Menschen aus seiner Nachbarschaft kennengelernt." },
+        { "key": "c", "text": "die Kinder von gegenüber als Baumpaten gewonnen." }
+      ],
+      "answer": "b",
+      "explanation": "„Durch den Baum habe ich viele Nachbarn kennengelernt“, so (b). The street party is only planned for the autumn, and the neighbours want to celebrate it together (a). The children only help him carry the cans (c).",
+      "explanationDe": "„Durch den Baum habe ich viele Nachbarn kennengelernt“, also ist (b) richtig. Das Straßenfest ist erst für den Herbst geplant, und die Nachbarn wollen es gemeinsam feiern (a). Die Kinder helfen ihm nur beim Tragen der Kannen (c).",
+      "evidence": "Durch den Baum habe ich viele Nachbarn kennengelernt"
+    },
+    {
+      "n": 5,
+      "stem": "Was plant die Stadt für die Zukunft?",
+      "options": [
+        { "key": "a", "text": "Sie will die Bäume nur noch von den Paten gießen lassen." },
+        { "key": "b", "text": "Sie will das Projekt nach dem ersten Jahr beenden." },
+        { "key": "c", "text": "Sie will vor allem Bäume pflanzen, die mit Hitze besser zurechtkommen." }
+      ],
+      "answer": "c",
+      "explanation": "The city wants to plant „Baumarten …, die Hitze und Trockenheit besser aushalten“, so (c). Frau Albrecht says the sponsors cannot solve the problem alone, so (a) is wrong. The city is „sehr zufrieden“ with the project, so (b) is wrong.",
+      "explanationDe": "Die Stadt will „Baumarten …, die Hitze und Trockenheit besser aushalten“, pflanzen, also ist (c) richtig. Frau Albrecht sagt, dass die Paten das Problem nicht allein lösen können, deshalb ist (a) falsch. Die Stadt ist mit dem Projekt „sehr zufrieden“, deshalb ist (b) falsch.",
+      "evidence": "Die Stadt will deshalb in Zukunft vor allem Baumarten pflanzen, die Hitze und Trockenheit besser aushalten"
+    }
+  ],
+  "glossary": [
+    { "de": "die Gießkanne", "en": "watering can" },
+    { "de": "gießen", "en": "to water (plants)" },
+    { "de": "der Baumpate / die Baumpatin", "en": "person who looks after a street tree" },
+    { "de": "das Grünflächenamt", "en": "parks department" },
+    { "de": "vertrocknen", "en": "to dry out (and die)" },
+    { "de": "die Wurzel", "en": "root" },
+    { "de": "verdunsten", "en": "to evaporate" },
+    { "de": "das Leitungswasser", "en": "tap water" },
+    { "de": "die Trockenheit", "en": "drought, dryness" },
+    { "de": "etwas aushalten", "en": "to withstand, to bear something" }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "lesen-1-02",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Gesund durch den Alltag",
+  "topic": "gesundheit",
+  "difficulty": 1,
+  "headlines": [
+    { "key": "a", "text": "Laufgruppe sucht erfahrene Sportler" },
+    { "key": "b", "text": "Messen, fragen, kochen: Ein Tag für die Gesundheit" },
+    { "key": "c", "text": "Studie: Kurzer Mittagsschlaf hilft beim Konzentrieren" },
+    { "key": "d", "text": "Forscher: Wer mittags lange schläft, arbeitet besser" },
+    { "key": "e", "text": "Sport für Anfänger: Gemeinsam laufen im Park" },
+    { "key": "f", "text": "Mit dieser App braucht man keinen Arzt mehr" },
+    { "key": "g", "text": "Zahnarztpraxis auf Rädern besucht die Dörfer" },
+    { "key": "h", "text": "Immer mehr Zahnärzte ziehen aufs Land" },
+    { "key": "i", "text": "Linz: Ab sofort jeden Samstag Yoga im Rathaus" },
+    { "key": "j", "text": "Neue App hilft Allergikern durch den Frühling" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Ein kurzer Schlaf nach dem Mittagessen kann die Konzentration deutlich verbessern. Zu diesem Ergebnis kommt eine Studie aus einem Leipziger Schlaflabor. Die Forscher haben 300 Büroangestellte untersucht. Wer mittags 15 bis 20 Minuten geschlafen hatte, machte am Nachmittag bei Tests weniger Fehler als die anderen Teilnehmer. Wichtig ist aber, dass die Pause nicht zu lang ist. „Nach mehr als einer halben Stunde ist man oft müder als vorher“, erklärt die Schlafforscherin Dr. Katrin Wolff. Sie empfiehlt außerdem, den Wecker zu stellen.",
+      "answer": "c",
+      "explanation": "People who slept „15 bis 20 Minuten“ at midday made fewer mistakes in tests – a short nap helps concentration, so (c). Headline (d) is the opposite: after more than half an hour you are often „müder als vorher“.",
+      "explanationDe": "Wer mittags „15 bis 20 Minuten“ geschlafen hatte, machte bei Tests weniger Fehler – ein kurzer Mittagsschlaf hilft also beim Konzentrieren, deshalb passt (c). Überschrift (d) sagt das Gegenteil: Nach mehr als einer halben Stunde ist man oft „müder als vorher“.",
+      "evidence": ["Ein kurzer Schlaf nach dem Mittagessen kann die Konzentration deutlich verbessern", "machte am Nachmittag bei Tests weniger Fehler"]
+    },
+    {
+      "n": 2,
+      "text": "In vielen Dörfern in der Uckermark gibt es seit Jahren keine Zahnarztpraxis mehr. Für ältere Menschen ohne Auto ist der Weg in die nächste Stadt oft sehr weit. Deshalb fährt ab sofort ein umgebauter Bus über das Land. Darin gibt es einen modernen Behandlungsstuhl und alle wichtigen Geräte. Jeden Tag hält der Bus in einem anderen Ort, zum Beispiel vor dem Gemeindehaus oder auf dem Marktplatz. Zwei Zahnärztinnen untersuchen dort die Patienten und machen kleinere Behandlungen. Termine kann man telefonisch vereinbaren.",
+      "answer": "g",
+      "explanation": "A converted bus with a dentist's chair drives from village to village („Jeden Tag hält der Bus in einem anderen Ort“) – a dental practice on wheels, so (g). Headline (h) is a trap: no dentists move to the countryside; there are still no practices there, so the bus comes to the patients.",
+      "explanationDe": "Ein umgebauter Bus mit Zahnarztstuhl fährt von Dorf zu Dorf („Jeden Tag hält der Bus in einem anderen Ort“) – eine Zahnarztpraxis auf Rädern, also passt (g). Überschrift (h) ist eine Falle: Es ziehen keine Zahnärzte aufs Land; dort gibt es weiterhin keine Praxen, deshalb kommt der Bus zu den Patienten.",
+      "evidence": ["fährt ab sofort ein umgebauter Bus über das Land", "Jeden Tag hält der Bus in einem anderen Ort"]
+    },
+    {
+      "n": 3,
+      "text": "Für viele Menschen mit Heuschnupfen ist der Frühling eine schwierige Zeit. Eine neue kostenlose App aus Bern soll ihnen den Alltag leichter machen. Sie zeigt jeden Morgen, welche Pollen gerade in der eigenen Region fliegen und wie stark. So können Allergiker zum Beispiel planen, wann sie besser nicht joggen gehen. Zusätzlich kann man in einem Tagebuch notieren, wie es einem geht. Diese Notizen kann man später dem Arzt zeigen. Einen Besuch in der Praxis ersetzt die App aber nicht, betonen die Entwickler.",
+      "answer": "j",
+      "explanation": "The app shows „welche Pollen gerade in der eigenen Region fliegen“ and helps people with hay fever in spring, so (j). Headline (f) contradicts the last sentence: the app does not replace a visit to the doctor.",
+      "explanationDe": "Die App zeigt, „welche Pollen gerade in der eigenen Region fliegen“, und hilft Menschen mit Heuschnupfen im Frühling, also passt (j). Überschrift (f) widerspricht dem letzten Satz: Die App ersetzt keinen Arztbesuch.",
+      "evidence": ["welche Pollen gerade in der eigenen Region fliegen", "Für viele Menschen mit Heuschnupfen ist der Frühling eine schwierige Zeit"]
+    },
+    {
+      "n": 4,
+      "text": "Am Samstag, dem 18. März, lädt der Verein „Gesund in Linz“ von 10 bis 16 Uhr zu einem Gesundheitstag ins Rathaus ein. Besucherinnen und Besucher können dort kostenlos ihren Blutdruck und ihren Blutzucker messen lassen. Ärztinnen und Ärzte beantworten Fragen zu Ernährung, Schlaf und Bewegung. In einer Schauküche zeigt ein Koch, wie man schnell und gesund kocht. Wer möchte, kann auch bei einer kurzen Yoga-Stunde mitmachen. Für Kinder gibt es ein eigenes Programm mit Spielen. Der Eintritt ist frei.",
+      "answer": "b",
+      "explanation": "At the health day you can have your blood pressure measured, ask doctors questions and watch a cook, so (b). Headline (i) is wrong: the short yoga lesson is part of this one day on 18 March, not a weekly offer.",
+      "explanationDe": "Am Gesundheitstag kann man den Blutdruck messen lassen, Ärzten Fragen stellen und einem Koch zuschauen, also passt (b). Überschrift (i) ist falsch: Die kurze Yoga-Stunde gehört zu diesem einen Tag am 18. März und ist kein wöchentliches Angebot.",
+      "evidence": ["zu einem Gesundheitstag ins Rathaus ein", "kostenlos ihren Blutdruck und ihren Blutzucker messen lassen"]
+    },
+    {
+      "n": 5,
+      "text": "Eine neue Laufgruppe im Hamburger Stadtpark heißt „Einfach loslaufen“. Sie trifft sich jeden Samstag um 9 Uhr am Eingang beim großen See. Die Gruppe ist für Menschen gedacht, die lange keinen Sport gemacht haben oder noch nie gelaufen sind. Am Anfang wechseln sich Gehen und langsames Laufen ab, das Tempo bestimmen die Teilnehmer selbst. Eine Anmeldung ist nicht nötig, und das Mitmachen kostet nichts. Man braucht nur bequeme Kleidung und gute Schuhe. Organisiert wird die Gruppe von zwei Studentinnen der Sportwissenschaft.",
+      "answer": "e",
+      "explanation": "The running group meets in the park and is meant for people „die lange keinen Sport gemacht haben oder noch nie gelaufen sind“, so (e). Headline (a) says the opposite: the group is not looking for experienced athletes.",
+      "explanationDe": "Die Laufgruppe trifft sich im Park und ist für Menschen gedacht, „die lange keinen Sport gemacht haben oder noch nie gelaufen sind“, also passt (e). Überschrift (a) sagt das Gegenteil: Die Gruppe sucht keine erfahrenen Sportler.",
+      "evidence": ["für Menschen gedacht, die lange keinen Sport gemacht haben oder noch nie gelaufen sind"]
+    }
+  ],
+  "distractors": [
+    { "key": "a", "why": "Text 5 is for beginners and people who have not done sport for a long time, not for experienced athletes.", "whyDe": "Die Gruppe in Text 5 ist für Anfänger und für Menschen, die lange keinen Sport gemacht haben – nicht für erfahrene Sportler." },
+    { "key": "d", "why": "Text 1 warns that a long nap makes you tired („müder als vorher“); only a short nap of 15–20 minutes helps.", "whyDe": "Text 1 warnt, dass ein langer Mittagsschlaf müde macht („müder als vorher“); nur ein kurzer Schlaf von 15–20 Minuten hilft." },
+    { "key": "f", "why": "Text 3 says clearly „Einen Besuch in der Praxis ersetzt die App aber nicht“.", "whyDe": "In Text 3 steht klar: „Einen Besuch in der Praxis ersetzt die App aber nicht“." },
+    { "key": "h", "why": "Text 2 says that many villages have no dentist. A bus brings the treatment to the villages – nobody moves to the countryside.", "whyDe": "Laut Text 2 gibt es in vielen Dörfern keinen Zahnarzt. Ein Bus bringt die Behandlung in die Dörfer – niemand zieht aufs Land." },
+    { "key": "i", "why": "Text 4 describes one health day on 18 March with a short yoga lesson; there is no yoga every Saturday.", "whyDe": "Text 4 beschreibt einen einzigen Gesundheitstag am 18. März mit einer kurzen Yoga-Stunde; Yoga an jedem Samstag gibt es nicht." }
+  ],
+  "glossary": [
+    { "de": "der Mittagsschlaf", "en": "nap after lunch" },
+    { "de": "den Wecker stellen", "en": "to set the alarm clock" },
+    { "de": "umgebaut", "en": "converted" },
+    { "de": "die Behandlung", "en": "treatment" },
+    { "de": "einen Termin vereinbaren", "en": "to make an appointment" },
+    { "de": "der Heuschnupfen", "en": "hay fever" },
+    { "de": "ersetzen", "en": "to replace" },
+    { "de": "den Blutdruck messen", "en": "to measure blood pressure" },
+    { "de": "sich abwechseln", "en": "to alternate, take turns" },
+    { "de": "die Anmeldung", "en": "registration" }
+  ]
+}

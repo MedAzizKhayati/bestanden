@@ -1,0 +1,70 @@
+{
+  "id": "sprechen-3-05",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Sebastian zieht um",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "situation": "Ihr gemeinsamer Freund Sebastian zieht in zwei Wochen in eine neue Wohnung. Er muss bis zum Umzug sehr viel arbeiten und hat keine Zeit, alles zu organisieren. Sie möchten ihm helfen. Planen Sie gemeinsam den Umzug.",
+  "checklist": [
+    "Transporter?",
+    "Helferinnen und Helfer?",
+    "Umzugskartons und Material?",
+    "Was passiert mit den alten Möbeln?",
+    "Essen und Getränke für die Helfer?",
+    "Wer macht was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Ana Pereira", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Arben Krasniqi", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Arben, Sebastian zieht ja am Samstag in zwei Wochen um. Er hat im Moment so viel Arbeit, dass er keine Zeit für die Planung hat. Wollen wir das für ihn organisieren?" },
+    { "s": "B", "t": "Ja, natürlich. Das Wichtigste ist ein Transporter, denn seine Möbel passen nie in ein normales Auto." },
+    { "s": "A", "t": "Stimmt. Am besten mieten wir einen Transporter bei der Autovermietung am Bahnhof, da kostet einer ungefähr achtzig Euro pro Tag." },
+    { "s": "B", "t": "Das ist okay. Aber wer fährt? Ich bin noch nie so einen großen Wagen gefahren." },
+    { "s": "A", "t": "Ich auch nicht, ehrlich gesagt. Aber Sebastians Bruder Felix ist Lastwagenfahrer, er kann das bestimmt." },
+    { "s": "B", "t": "Super, dann frage ich Felix. Ich kümmere mich auch um die Reservierung, ich wohne ja direkt neben der Autovermietung." },
+    { "s": "A", "t": "Prima. Wir brauchen natürlich auch Helfer. Die alte Wohnung ist im vierten Stock, und es gibt keinen Aufzug." },
+    { "s": "B", "t": "Oh je, das wird anstrengend. Ich denke, wir brauchen mindestens sechs Leute. Ich kann zwei Kollegen fragen, die gern helfen." },
+    { "s": "A", "t": "Und ich frage meinen Mann und meine Nachbarin. Mit Sebastian, Felix, dir und mir sind wir dann acht Personen." },
+    { "s": "B", "t": "Sebastian sollte aber nicht so viel tragen, er hat doch Probleme mit dem Rücken. Er kann in der neuen Wohnung sagen, wohin die Möbel kommen." },
+    { "s": "A", "t": "Gute Idee. Und was ist mit den Umzugskartons? Wir müssen ja vorher alles einpacken." },
+    { "s": "B", "t": "Kartons kann man im Baumarkt kaufen, aber die sind ziemlich teuer. Ich habe eine bessere Idee: Im Supermarkt bekommt man oft alte Kartons kostenlos." },
+    { "s": "A", "t": "Die sind aber oft klein und nicht sehr stabil. Für Bücher sind sie in Ordnung, aber für das Geschirr nehme ich lieber richtige Umzugskartons. Meine Kollegin ist letzten Monat umgezogen und kann uns ihre leihen." },
+    { "s": "B", "t": "Perfekt, dann holst du die Kartons bei deiner Kollegin. Und am Wochenende vorher helfen wir Sebastian beim Einpacken, oder?" },
+    { "s": "A", "t": "Ja, am Sonntag vorher habe ich Zeit. Ich bringe auch Klebeband und Zeitungspapier mit, damit nichts kaputtgeht." },
+    { "s": "B", "t": "Gut. Was machen wir mit seinem alten Sofa? Er möchte es nicht mitnehmen, weil es in der neuen Wohnung keinen Platz dafür gibt." },
+    { "s": "A", "t": "Wir könnten es im Internet verschenken. Vielleicht holt es jemand ab, bevor wir umziehen." },
+    { "s": "B", "t": "Das ist eine gute Idee, aber vielleicht findet sich nicht so schnell jemand. Dann sollten wir bei der Stadt einen Termin für den Sperrmüll machen." },
+    { "s": "A", "t": "Einverstanden, wir versuchen es zuerst im Internet. Wenn das nicht klappt, rufst du bei der Stadt an. Und für die Helfer brauchen wir am Umzugstag etwas zu essen und zu trinken." },
+    { "s": "B", "t": "Unbedingt! Wer schwer arbeitet, hat Hunger. Wie wäre es mit Pizza zum Mittagessen?" },
+    { "s": "A", "t": "Pizza ist gut, aber am Morgen brauchen alle zuerst ein Frühstück. Ich mache Brötchen und bringe Kaffee und Wasser mit." },
+    { "s": "B", "t": "Super. Dann fasse ich zusammen: Der Umzug ist am Samstag in zwei Wochen. Ich reserviere den Transporter, frage Felix und meine Kollegen und bestelle mittags die Pizza." },
+    { "s": "A", "t": "Und ich frage meinen Mann und meine Nachbarin, hole die Kartons bei meiner Kollegin und mache das Frühstück. Am Sonntag vorher helfen wir beide Sebastian beim Einpacken." },
+    { "s": "B", "t": "Und das Sofa stellen wir heute noch ins Internet. Sebastian wird froh sein, dass er sich um nichts kümmern muss!" }
+  ],
+  "phrases": [
+    { "de": "Das Wichtigste ist …", "en": "The most important thing is …" },
+    { "de": "Am besten mieten wir …", "en": "It's best if we rent …" },
+    { "de": "Ich habe eine bessere Idee: …", "en": "I have a better idea: …" },
+    { "de": "Die sind aber oft …", "en": "But they're often …" },
+    { "de": "Dann holst du …", "en": "Then you'll fetch …" },
+    { "de": "Wenn das nicht klappt, …", "en": "If that doesn't work out, …" },
+    { "de": "Unbedingt!", "en": "Absolutely! / Definitely!" },
+    { "de": "Dann fasse ich zusammen: …", "en": "Then I'll sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "umziehen / der Umzug", "en": "to move house / the move" },
+    { "de": "der Transporter", "en": "van" },
+    { "de": "die Autovermietung", "en": "car rental company" },
+    { "de": "der Umzugskarton", "en": "moving box" },
+    { "de": "einpacken", "en": "to pack" },
+    { "de": "das Klebeband", "en": "adhesive tape" },
+    { "de": "das Geschirr", "en": "dishes, crockery" },
+    { "de": "stabil", "en": "sturdy, stable" },
+    { "de": "verschenken", "en": "to give away" },
+    { "de": "der Sperrmüll", "en": "bulky waste (collection)" },
+    { "de": "der Baumarkt", "en": "DIY store" }
+  ]
+}

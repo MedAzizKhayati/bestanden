@@ -1,0 +1,99 @@
+{
+  "id": "sprechen-2-08",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Helfen ohne Bezahlung?",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "theme": "Ehrenamt",
+  "medium": "in einer Zeitung",
+  "cardA": {
+    "name": "Ursula Pohl",
+    "age": 64,
+    "job": "Rentnerin, früher Lehrerin",
+    "quote": "Seit drei Jahren helfe ich jeden Dienstag bei der Tafel in unserem Stadtteil. Wir verteilen Lebensmittel an Menschen, die wenig Geld haben. Die Arbeit ist manchmal anstrengend, aber ich bekomme so viel Dankbarkeit zurück. Ohne Ehrenamtliche würden viele Vereine und Hilfsangebote gar nicht funktionieren. Jeder kann ein paar Stunden im Monat schenken."
+  },
+  "cardB": {
+    "name": "Kevin Lorenz",
+    "age": 34,
+    "job": "Busfahrer",
+    "quote": "Ich finde Ehrenamt grundsätzlich gut, aber ich habe einfach keine Zeit dafür. Ich arbeite oft auch am Wochenende und habe zwei kleine Kinder. Außerdem ärgert es mich, dass der Staat sich auf Freiwillige verlässt, zum Beispiel in Krankenhäusern oder Altenheimen. Wichtige Arbeit sollte man ordentlich bezahlen und nicht kostenlos von Freiwilligen erwarten."
+  },
+  "ideas": {
+    "pro": [
+      "man hilft Menschen, die Hilfe brauchen",
+      "man lernt neue Leute kennen",
+      "man sammelt Erfahrungen für den Beruf",
+      "gut gegen Einsamkeit, besonders im Alter",
+      "Vereine und Feste brauchen Freiwillige",
+      "man lernt die Sprache und das Land besser kennen"
+    ],
+    "contra": [
+      "viele Menschen haben keine Zeit",
+      "die Arbeit kann körperlich und seelisch anstrengend sein",
+      "der Staat spart Geld auf Kosten der Freiwilligen",
+      "wichtige Arbeit sollte bezahlt werden",
+      "Freiwillige ersetzen manchmal bezahlte Arbeitsplätze",
+      "für schwierige Aufgaben fehlt oft die Ausbildung"
+    ]
+  },
+  "questions": [
+    "Haben Sie schon einmal ehrenamtlich gearbeitet?",
+    "Wie ist das in Ihrem Heimatland? Helfen dort viele Menschen ehrenamtlich?",
+    "In welchen Bereichen sind Freiwillige besonders wichtig?",
+    "Sollte man für ein Ehrenamt eine kleine Bezahlung bekommen?",
+    "Kann ein Ehrenamt helfen, eine Arbeit zu finden?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Hanna Virtanen", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Omar Khalil", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange an, okay? Auf meinem Blatt steht die Meinung von Ursula Pohl. Sie ist 64 Jahre alt, war früher Lehrerin und ist jetzt in Rente." },
+    { "s": "A", "t": "Frau Pohl hilft seit drei Jahren jeden Dienstag bei der Tafel in ihrem Stadtteil. Dort verteilen sie Lebensmittel an Menschen, die wenig Geld haben." },
+    { "s": "A", "t": "Sie sagt, dass die Arbeit manchmal anstrengend ist, aber sie bekommt viel Dankbarkeit zurück. Ihrer Meinung nach würden viele Vereine ohne Ehrenamtliche gar nicht funktionieren, und jeder kann ein paar Stunden im Monat schenken." },
+    { "s": "B", "t": "Danke, Hanna. Mein Text ist von Kevin Lorenz, er ist 34 und Busfahrer. Er findet Ehrenamt grundsätzlich gut, aber er hat keine Zeit dafür, weil er oft am Wochenende arbeitet und zwei kleine Kinder hat." },
+    { "s": "B", "t": "Außerdem ärgert er sich, dass der Staat sich auf Freiwillige verlässt, zum Beispiel in Krankenhäusern oder Altenheimen. Seiner Meinung nach sollte man wichtige Arbeit ordentlich bezahlen." },
+    { "s": "A", "t": "Herr Lorenz spricht einen wichtigen Punkt an. Aber ich bin trotzdem eher auf der Seite von Frau Pohl. Ich trainiere nämlich ehrenamtlich eine Volleyballmannschaft für Kinder in meinem Sportverein." },
+    { "s": "B", "t": "Wirklich? Wie oft machst du das?" },
+    { "s": "A", "t": "Zweimal pro Woche, jeweils anderthalb Stunden. Am Wochenende haben wir manchmal noch Spiele. Das ist viel Zeit, aber die Arbeit mit den Kindern macht mir großen Spaß." },
+    { "s": "B", "t": "Das finde ich toll. Ich habe auch Erfahrung mit dem Ehrenamt, aber von der anderen Seite." },
+    { "s": "A", "t": "Wie meinst du das?" },
+    { "s": "B", "t": "Als ich vor fünf Jahren nach Deutschland gekommen bin, hat mir eine ehrenamtliche Helferin sehr geholfen. Sie hat mit mir Deutsch geübt und mich zu Ämtern begleitet. Ohne sie hätte ich vieles nicht geschafft." },
+    { "s": "A", "t": "Das ist ja eine schöne Geschichte. Hast du noch Kontakt zu ihr?" },
+    { "s": "B", "t": "Ja, wir treffen uns immer noch regelmäßig zum Kaffee. Und heute helfe ich selbst manchmal als Übersetzer für Familien aus Syrien. So kann ich etwas zurückgeben." },
+    { "s": "A", "t": "Das ist genau das, was Frau Pohl meint. Man gibt etwas und bekommt viel zurück." },
+    { "s": "B", "t": "Stimmt. Trotzdem verstehe ich Herrn Lorenz. Wer Vollzeit arbeitet und Kinder hat, hat oft einfach keine Kraft mehr für ein Ehrenamt." },
+    { "s": "A", "t": "Das ist wahr. Ich glaube, man sollte niemanden dazu zwingen. Aber man kann auch kleine Dinge machen, zum Beispiel einmal im Jahr beim Stadtfest helfen." },
+    { "s": "B", "t": "Gute Idee. Wie ist das eigentlich in Finnland? Machen dort viele Leute ein Ehrenamt?" },
+    { "s": "A", "t": "Ja, ziemlich viele, besonders in Sportvereinen und bei der Feuerwehr. In kleinen Orten gibt es oft keine Berufsfeuerwehr, da machen das Freiwillige." },
+    { "s": "B", "t": "Das ist in Deutschland ja auch so. In Syrien helfen sich die Leute eher in der Familie und in der Nachbarschaft, ohne Verein und ohne Organisation." },
+    { "s": "A", "t": "Das ist auch eine Art Ehrenamt, finde ich. Und was denkst du über den Punkt mit dem Staat?" },
+    { "s": "B", "t": "Da gebe ich Herrn Lorenz recht. In Krankenhäusern und Altenheimen brauchen wir genug bezahlte Fachkräfte. Freiwillige können helfen, aber sie dürfen keine richtigen Arbeitsplätze ersetzen." },
+    { "s": "A", "t": "Da sind wir uns einig. Ehrenamt ist wichtig, aber nur als zusätzliche Hilfe." }
+  ],
+  "phrases": [
+    { "de": "Ihrer Meinung nach würden viele Vereine ohne … nicht funktionieren.", "en": "In her opinion, many clubs wouldn't work without …" },
+    { "de": "Er ärgert sich, dass …", "en": "He is annoyed that …" },
+    { "de": "… spricht einen wichtigen Punkt an.", "en": "… raises an important point." },
+    { "de": "Ich bin trotzdem eher auf der Seite von …", "en": "All the same, I'm more on the side of …" },
+    { "de": "Wie meinst du das?", "en": "What do you mean?" },
+    { "de": "Das ist genau das, was … meint.", "en": "That's exactly what … means." },
+    { "de": "Trotzdem verstehe ich …", "en": "Even so, I understand …" },
+    { "de": "Was denkst du über …?", "en": "What do you think about …?" },
+    { "de": "Da gebe ich … recht.", "en": "I agree with … on that." }
+  ],
+  "vocabulary": [
+    { "de": "das Ehrenamt", "en": "voluntary work" },
+    { "de": "ehrenamtlich", "en": "voluntary, unpaid" },
+    { "de": "der/die Freiwillige", "en": "volunteer" },
+    { "de": "die Tafel", "en": "food bank" },
+    { "de": "Lebensmittel verteilen", "en": "to hand out food" },
+    { "de": "die Dankbarkeit", "en": "gratitude" },
+    { "de": "sich verlassen auf (+ Akk.)", "en": "to rely on" },
+    { "de": "jemanden begleiten", "en": "to accompany someone" },
+    { "de": "die Fachkraft", "en": "skilled worker, qualified professional" },
+    { "de": "ersetzen", "en": "to replace" },
+    { "de": "die Feuerwehr", "en": "fire brigade" }
+  ]
+}

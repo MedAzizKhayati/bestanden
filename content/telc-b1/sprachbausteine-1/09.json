@@ -1,0 +1,144 @@
+{
+  "id": "sprachbausteine-1-09",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Mein Kochkurs",
+  "topic": "essen",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Liebe Lisa,\n\ndu hattest recht: Der Kochkurs, [[1]] du mir zum Geburtstag geschenkt hast, ist wirklich super! Wir sind zehn Leute, und unser Kursleiter Marco kommt aus Neapel. Er ist immer ruhig und freundlich geblieben, [[2]] wir am Anfang viele Fehler gemacht haben.\n\nAm ersten Abend haben wir frische Nudeln gemacht. Meine waren leider viel zu dick, aber sie [[3]] trotzdem gut geschmeckt. Letzte Woche gab es Lasagne. Ich habe meine in [[4]] Ofen geschoben und dann völlig vergessen. Natürlich ist sie angebrannt! Alle haben gelacht, und Marco hat gesagt, [[5]] das jedem Anfänger einmal passiert.\n\nAm schönsten finde ich das [[6]] Essen am Ende des Abends. [[7]] des Essens unterhalten wir uns über Gott und die Welt. Eine Teilnehmerin, Sophie, hat mich und [[8]] Freund Tim schon zu sich nach Hause eingeladen.\n\nIch merke: Je öfter ich koche, [[9]] mehr Spaß macht es mir. Wenn du nächsten Monat zu Besuch kommst, koche ich für dich. Was [[10]] du lieber essen: Lasagne oder Risotto?\n\nLiebe Grüße\nDaniel",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "dem" },
+        { "key": "b", "text": "den" },
+        { "key": "c", "text": "der" }
+      ],
+      "answer": "b",
+      "explanation": "The relative pronoun refers to „der Kochkurs“ (masculine) and is the accusative object of „schenken“ – you gave me the course. So „den“. „dem“ would be dative, „der“ nominative.",
+      "explanationDe": "Das Relativpronomen bezieht sich auf „der Kochkurs“ (maskulin) und ist das Akkusativobjekt von „schenken“ – Lisa hat Daniel den Kurs geschenkt. Also „den“. „dem“ wäre Dativ, „der“ Nominativ.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "trotzdem" },
+        { "key": "b", "text": "aber" },
+        { "key": "c", "text": "obwohl" }
+      ],
+      "answer": "c",
+      "explanation": "The verb is at the end („… gemacht haben“), so you need a subordinating conjunction. „obwohl“ also expresses the contrast: he stayed calm in spite of the mistakes. „trotzdem“ and „aber“ need main-clause word order.",
+      "explanationDe": "Das Verb steht am Ende („… gemacht haben“). Du brauchst also eine Konjunktion, die einen Nebensatz einleitet. „obwohl“ drückt auch den Gegensatz aus: Marco ist trotz der Fehler ruhig geblieben. „trotzdem“ und „aber“ brauchen die Wortstellung eines Hauptsatzes.",
+      "grammar": "konzessive-saetze"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "haben" },
+        { "key": "b", "text": "sind" },
+        { "key": "c", "text": "hat" }
+      ],
+      "answer": "a",
+      "explanation": "„schmecken“ forms the Perfekt with „haben“. The subject „sie“ (= my noodles) is plural, so „haben … geschmeckt“. „sind“ is the wrong auxiliary, and „hat“ is singular.",
+      "explanationDe": "„schmecken“ bildet das Perfekt mit „haben“. Das Subjekt „sie“ (= meine Nudeln) ist Plural, also „haben … geschmeckt“. „sind“ ist das falsche Hilfsverb, und „hat“ ist Singular.",
+      "grammar": "perfekt"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "dem" },
+        { "key": "b", "text": "des" },
+        { "key": "c", "text": "den" }
+      ],
+      "answer": "c",
+      "explanation": "„schieben“ is a movement to a place (Wohin?), so „in“ takes the accusative: „in den Ofen“ (der Ofen). „in dem“ would describe a location (Wo?), and „des“ is genitive.",
+      "explanationDe": "„schieben“ ist eine Bewegung zu einem Ort (Wohin?). Deshalb steht nach „in“ der Akkusativ: „in den Ofen“ (der Ofen). „in dem“ würde einen Ort beschreiben (Wo?), und „des“ ist Genitiv.",
+      "grammar": "wechselpraepositionen"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "ob" },
+        { "key": "b", "text": "dass" },
+        { "key": "c", "text": "als" }
+      ],
+      "answer": "b",
+      "explanation": "After „sagen“ a statement is introduced with „dass“: „Marco hat gesagt, dass …“. „ob“ introduces an indirect yes/no question, and „als“ a time clause or a comparison.",
+      "explanationDe": "Nach „sagen“ leitet man eine Aussage mit „dass“ ein: „Marco hat gesagt, dass …“. „ob“ leitet eine indirekte Ja-/Nein-Frage ein, und „als“ einen temporalen Nebensatz oder einen Vergleich.",
+      "grammar": "nebensaetze-grundlagen"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "gemeinsame" },
+        { "key": "b", "text": "gemeinsames" },
+        { "key": "c", "text": "gemeinsamen" }
+      ],
+      "answer": "a",
+      "explanation": "After the definite article „das“ (neuter accusative) the adjective ends in „-e“: „das gemeinsame Essen“. The ending „-es“ is only used without an article or after „ein“.",
+      "explanationDe": "Nach dem bestimmten Artikel „das“ (Akkusativ neutral) hat das Adjektiv die Endung „-e“: „das gemeinsame Essen“. Die Endung „-es“ benutzt man nur ohne Artikel oder nach „ein“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "Bei" },
+        { "key": "b", "text": "Nach" },
+        { "key": "c", "text": "Während" }
+      ],
+      "answer": "c",
+      "explanation": "„während“ + genitive means „during“: „während des Essens“. „bei“ and „nach“ take the dative („beim Essen“, „nach dem Essen“), so they cannot be followed by „des“.",
+      "explanationDe": "„während“ + Genitiv (= in der Zeit von etwas): „während des Essens“. Nach „bei“ und „nach“ steht der Dativ („beim Essen“, „nach dem Essen“), deshalb kann danach nicht „des“ stehen.",
+      "grammar": "genitiv"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "meinen" },
+        { "key": "b", "text": "mein" },
+        { "key": "c", "text": "meinem" }
+      ],
+      "answer": "a",
+      "explanation": "„mich und … Freund Tim“ are both accusative objects of „einladen“. „der Freund“ is masculine, so the accusative is „meinen Freund“. „mein“ would be nominative, „meinem“ dative.",
+      "explanationDe": "„mich und … Freund Tim“ sind beide Akkusativobjekte von „einladen“. „der Freund“ ist maskulin, also heißt der Akkusativ „meinen Freund“. „mein“ wäre Nominativ, „meinem“ Dativ.",
+      "grammar": "kasus-und-artikel"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "als" },
+        { "key": "b", "text": "desto" },
+        { "key": "c", "text": "so" }
+      ],
+      "answer": "b",
+      "explanation": "„je + comparative …, desto + comparative …“ is a two-part connector: „Je öfter ich koche, desto mehr Spaß macht es mir.“ „als“ and „so“ cannot complete „je“.",
+      "explanationDe": "„je + Komparativ …, desto + Komparativ …“ ist ein zweiteiliger Konnektor: „Je öfter ich koche, desto mehr Spaß macht es mir.“ „als“ und „so“ passen nicht als zweiter Teil zu „je“.",
+      "grammar": "zweiteilige-konnektoren"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "hättest" },
+        { "key": "b", "text": "wärst" },
+        { "key": "c", "text": "würdest" }
+      ],
+      "answer": "c",
+      "explanation": "The sentence ends with the infinitive „essen“, so you need „würde“ + infinitive, the Konjunktiv II for a polite question. „hättest“ and „wärst“ cannot be combined with an infinitive like „essen“.",
+      "explanationDe": "Der Satz endet mit dem Infinitiv „essen“. Du brauchst also „würde“ + Infinitiv, den Konjunktiv II für eine höfliche Frage. „hättest“ und „wärst“ passen nicht zu einem Infinitiv wie „essen“.",
+      "grammar": "konjunktiv-2"
+    }
+  ],
+  "glossary": [
+    { "de": "recht haben", "en": "to be right" },
+    { "de": "der Kursleiter", "en": "course instructor" },
+    { "de": "der Fehler", "en": "mistake" },
+    { "de": "schieben", "en": "to push, to slide" },
+    { "de": "anbrennen", "en": "to burn (food)" },
+    { "de": "passieren", "en": "to happen" },
+    { "de": "gemeinsam", "en": "together, shared" },
+    { "de": "sich unterhalten über", "en": "to chat about" },
+    { "de": "über Gott und die Welt reden", "en": "to talk about anything and everything" },
+    { "de": "je … desto …", "en": "the more … the more …" }
+  ]
+}

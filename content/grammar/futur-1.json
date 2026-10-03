@@ -1,0 +1,240 @@
+{
+  "id": "futur-1",
+  "level": "B1",
+  "category": "verben",
+  "order": 4,
+  "title": "Futur I: Pläne und Vermutungen",
+  "titleEn": "Future tense",
+  "summary": "werden + infinitive for plans, promises and predictions – and with wohl for guesses about the present (Er wird wohl krank sein).",
+  "summaryDe": "werden + Infinitiv für Pläne, Versprechen und Vorhersagen – und mit wohl für Vermutungen über die Gegenwart (Er wird wohl krank sein).",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "hoeren"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Futur I = **werden** (conjugated, in position 2) + **infinitive** (at the end): Ich **werde** dich **anrufen**. Use it for plans, promises and predictions – and with **wohl** or **bestimmt** for **guesses about the present**. When a time expression makes the future clear, the **Präsens** is often enough: Morgen **fahre** ich nach Leipzig.",
+      "mdDe": "Futur I = **werden** (konjugiert, auf Position 2) + **Infinitiv** (am Ende): Ich **werde** dich **anrufen**. Du brauchst es für Pläne, Versprechen und Vorhersagen – und mit **wohl** oder **bestimmt** für **Vermutungen über die Gegenwart**. Wenn eine Zeitangabe die Zukunft klar macht, reicht oft das **Präsens**: Morgen **fahre** ich nach Leipzig."
+    },
+    {
+      "type": "table",
+      "heading": "werden + infinitive",
+      "headingDe": "werden + Infinitiv",
+      "columns": ["Person", "werden", "Example"],
+      "columnsDe": ["Person", "werden", "Beispiel"],
+      "rows": [
+        ["ich", "werde", "Ich werde dich morgen anrufen."],
+        ["du", "wirst", "Du wirst das schon schaffen."],
+        ["er/sie/es", "wird", "Es wird morgen regnen."],
+        ["wir", "werden", "Wir werden im Sommer heiraten."],
+        ["ihr", "werdet", "Werdet ihr pünktlich sein?"],
+        ["sie/Sie", "werden", "Sie werden die Unterlagen per Post bekommen."]
+      ],
+      "note": "werden is irregular: du wirst, er/sie/es wird.",
+      "noteDe": "werden ist unregelmäßig: du wirst, er/sie/es wird."
+    },
+    {
+      "type": "text",
+      "heading": "What is Futur I used for?",
+      "headingDe": "Wofür brauchst du das Futur I?",
+      "md": "1. **Plans and decisions:** Ab Januar **werde** ich weniger **arbeiten**.\n2. **Promises:** Ich **werde** dir beim Umzug **helfen**, versprochen!\n3. **Predictions:** Morgen **wird** es **regnen**. In zehn Jahren **werden** mehr Menschen in Städten **leben**.\n4. **Guesses about the present**, often with **wohl**, **wahrscheinlich**, **sicher** or **bestimmt**: Tom ist nicht da. Er **wird** wohl krank **sein**. (= He's probably ill.)\n5. **Strong requests:** Du **wirst** jetzt sofort dein Zimmer **aufräumen**!",
+      "mdDe": "1. **Pläne und Entscheidungen:** Ab Januar **werde** ich weniger **arbeiten**.\n2. **Versprechen:** Ich **werde** dir beim Umzug **helfen**, versprochen!\n3. **Vorhersagen:** Morgen **wird** es **regnen**. In zehn Jahren **werden** mehr Menschen in Städten **leben**.\n4. **Vermutungen über die Gegenwart**, oft mit **wohl**, **wahrscheinlich**, **sicher** oder **bestimmt**: Tom ist nicht da. Er **wird** wohl krank **sein**. (= Er ist wahrscheinlich krank.)\n5. **Strenge Aufforderungen:** Du **wirst** jetzt sofort dein Zimmer **aufräumen**!"
+    },
+    {
+      "type": "text",
+      "heading": "Präsens or Futur I?",
+      "headingDe": "Präsens oder Futur I?",
+      "md": "In everyday German, the **Präsens + a time expression** is the normal way to talk about the future:\n\n- **Morgen** fahre ich nach Leipzig.\n- **Nächste Woche** habe ich Urlaub.\n\nThe Futur I sounds more certain, more formal or like a promise. Without a time expression it makes clear that you mean the future: Ich **werde** mit ihm **sprechen**.",
+      "mdDe": "Im Alltag spricht man über die Zukunft normalerweise mit **Präsens + Zeitangabe**:\n\n- **Morgen** fahre ich nach Leipzig.\n- **Nächste Woche** habe ich Urlaub.\n\nDas Futur I klingt sicherer, formeller oder wie ein Versprechen. Ohne Zeitangabe macht es klar, dass du die Zukunft meinst: Ich **werde** mit ihm **sprechen**."
+    },
+    {
+      "type": "table",
+      "heading": "Word order",
+      "headingDe": "Wortstellung",
+      "columns": ["Sentence type", "Example"],
+      "columnsDe": ["Satzart", "Beispiel"],
+      "rows": [
+        ["main clause", "Ich werde nächstes Jahr einen Deutschkurs machen."],
+        ["question", "Wirst du am Wochenende zu Hause sein?"],
+        ["separable verb", "Wir werden um acht Uhr losfahren."],
+        ["with a modal verb", "Ich werde morgen leider nicht kommen können."],
+        ["subordinate clause", "Ich glaube, dass es morgen schneien wird."]
+      ],
+      "rowsDe": [
+        ["Hauptsatz", "Ich werde nächstes Jahr einen Deutschkurs machen."],
+        ["Frage", "Wirst du am Wochenende zu Hause sein?"],
+        ["trennbares Verb", "Wir werden um acht Uhr losfahren."],
+        ["mit Modalverb", "Ich werde morgen leider nicht kommen können."],
+        ["Nebensatz", "Ich glaube, dass es morgen schneien wird."]
+      ],
+      "note": "In a subordinate clause, werden moves to the very end – after the infinitive: …, dass ich morgen kommen werde. With a modal verb, werden comes before the two infinitives: …, dass ich morgen werde kommen können.",
+      "noteDe": "Im Nebensatz rückt werden ganz ans Ende – hinter den Infinitiv: …, dass ich morgen kommen werde. Mit Modalverb steht werden vor den beiden Infinitiven: …, dass ich morgen werde kommen können."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich **werde** dich vom Bahnhof **abholen**.", "en": "I'll pick you up from the station." },
+        { "de": "Morgen **wird** es in ganz Österreich **regnen**.", "en": "Tomorrow it will rain all over Austria." },
+        { "de": "Keine Sorge, du **wirst** die Prüfung bestimmt **bestehen**.", "en": "Don't worry, you'll definitely pass the exam." },
+        { "de": "Wir **werden** nächstes Jahr in eine größere Wohnung **ziehen**.", "en": "We'll move to a bigger flat next year." },
+        { "de": "Das Telefon klingelt – das **wird** meine Mutter **sein**.", "en": "The phone's ringing – that'll be my mother." },
+        { "de": "Frau Kaya ist nicht im Büro. Sie **wird** wohl beim Arzt **sein**.", "en": "Ms Kaya isn't in the office. She's probably at the doctor's." },
+        { "de": "Ich verspreche dir, dass ich nie wieder zu spät **kommen werde**.", "en": "I promise you that I'll never be late again." },
+        { "de": "**Werden** Sie an der Versammlung **teilnehmen**?", "en": "Will you take part in the meeting?" }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "Don't confuse the three jobs of **werden**:\n\n- **werden + adjective/noun** = to become: Es **wird** kalt. Sie **wird** Ärztin.\n- **werden + infinitive** = Futur I: Es **wird** morgen **regnen**.\n- **werden + past participle** = passive: Das Haus **wird renoviert**.\n\nAnd the English *will* is not the German **will**: „Ich **will** nach Spanien fahren“ = I *want* to go to Spain. „Ich **werde** nach Spanien fahren“ = I *will* go to Spain.",
+      "mdDe": "Verwechsle die drei Funktionen von **werden** nicht:\n\n- **werden + Adjektiv/Nomen** = Veränderung: Es **wird** kalt. Sie **wird** Ärztin.\n- **werden + Infinitiv** = Futur I: Es **wird** morgen **regnen**.\n- **werden + Partizip II** = Passiv: Das Haus **wird renoviert**.\n\nUnd das englische *will* ist nicht das deutsche **will**: „Ich **will** nach Spanien fahren“ = ein Wunsch (englisch *I want to go*). „Ich **werde** nach Spanien fahren“ = Zukunft (englisch *I will go*)."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1** look at the end of the clause: an infinitive (kommen, sein) + a gap for the verb means Futur I („werde / wird / werden“); a participle (gebaut) means passive. Distractors like „würde“ or „wurde“ change the meaning.\n\nIn **Schreiben**, the Futur I is ideal for plans and promises at the end of your e-mail: „Ich werde mich nächste Woche bei Ihnen melden.“ – „Ich werde pünktlich da sein.“ In **Sprechen Teil 3** (planning something together), use it to divide the tasks: „Ich werde den Kuchen backen, und du kümmerst dich um die Getränke.“",
+      "mdDe": "Schau in **Sprachbausteine Teil 1** auf das Satzende: Ein Infinitiv (kommen, sein) + eine Lücke für das Verb bedeutet Futur I („werde / wird / werden“); ein Partizip II (gebaut) bedeutet Passiv. Fallen wie „würde“ oder „wurde“ ändern die Bedeutung.\n\nIm **Schreiben** ist das Futur I ideal für Pläne und Versprechen am Ende deiner E-Mail: „Ich werde mich nächste Woche bei Ihnen melden.“ – „Ich werde pünktlich da sein.“ In **Sprechen Teil 3** (gemeinsam etwas planen) kannst du damit die Aufgaben verteilen: „Ich werde den Kuchen backen, und du kümmerst dich um die Getränke.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Morgen will es regnen.",
+      "right": "Morgen wird es regnen.",
+      "why": "„wollen“ means to want. For predictions you need „werden“ – English will ≠ German „will“.",
+      "whyDe": "„wollen“ drückt einen Wunsch aus. Für Vorhersagen brauchst du „werden“ – englisch will ≠ deutsch „will“."
+    },
+    {
+      "wrong": "Ich werde besuchen dich am Sonntag.",
+      "right": "Ich werde dich am Sonntag besuchen.",
+      "why": "The infinitive goes to the end of the sentence.",
+      "whyDe": "Der Infinitiv steht am Satzende."
+    },
+    {
+      "wrong": "Er wird morgen kommt.",
+      "right": "Er wird morgen kommen.",
+      "why": "After „werden“ the second verb is an infinitive – it is not conjugated.",
+      "whyDe": "Nach „werden“ steht das zweite Verb im Infinitiv – es wird nicht konjugiert."
+    },
+    {
+      "wrong": "Ich weiß, dass sie wird pünktlich sein.",
+      "right": "Ich weiß, dass sie pünktlich sein wird.",
+      "why": "In a subordinate clause the conjugated verb „wird“ goes to the very end.",
+      "whyDe": "Im Nebensatz steht das konjugierte Verb „wird“ ganz am Ende."
+    },
+    {
+      "wrong": "Du werdest das bestimmt schaffen.",
+      "right": "Du wirst das bestimmt schaffen.",
+      "why": "„werden“ is irregular: du wirst, er/sie/es wird.",
+      "whyDe": "„werden“ ist unregelmäßig: du wirst, er/sie/es wird."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Laut Wetterbericht ___ es morgen in den Alpen schneien.",
+      "options": ["will", "wurde", "wird"],
+      "answer": 2,
+      "explanation": "A prediction about the future → Futur I with „wird“. „will“ means wants to – the weather can't want anything – and „wurde“ is the past.",
+      "explanationDe": "Eine Vorhersage für die Zukunft → Futur I mit „wird“. „will“ drückt einen Wunsch aus – das Wetter kann nichts wollen –, und „wurde“ ist Vergangenheit."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich bin sicher, dass du die Prüfung ___.",
+      "options": ["wirst bestehen", "bestehen wirst", "bestehst wirst"],
+      "answer": 1,
+      "explanation": "In a dass-clause the conjugated verb („wirst“) goes to the very end, after the infinitive: „bestehen wirst“.",
+      "explanationDe": "Im dass-Satz steht das konjugierte Verb („wirst“) ganz am Ende, nach dem Infinitiv: „bestehen wirst“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Es klingelt. Das ___ der Paketbote sein.",
+      "options": ["wird", "ist", "war"],
+      "answer": 0,
+      "explanation": "A guess about the present: „Das wird der Paketbote sein“ (= that's probably the delivery man). Only „wird“ fits with the infinitive „sein“ at the end.",
+      "explanationDe": "Eine Vermutung über die Gegenwart: „Das wird der Paketbote sein“ (= Das ist wahrscheinlich der Paketbote). Nur „wird“ passt zum Infinitiv „sein“ am Ende."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die neue Brücke ___ hoffentlich im Herbst fertig sein.",
+      "options": ["werden", "wird", "wurde"],
+      "answer": 1,
+      "explanation": "„die Brücke“ is singular → „wird“. „wurde“ is the past and doesn't fit „im Herbst … sein“ in the future.",
+      "explanationDe": "„die Brücke“ ist Singular → „wird“. „wurde“ ist Vergangenheit und passt nicht zu „im Herbst … sein“ in der Zukunft."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich ___ dich morgen früh anrufen, versprochen!",
+      "answers": ["werde"],
+      "hint": "(werden)",
+      "explanation": "A promise → Futur I; ich-form of werden: „werde“.",
+      "explanationDe": "Ein Versprechen → Futur I; ich-Form von werden: „werde“."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ du am Samstag auch zu Annas Geburtstag kommen?",
+      "answers": ["Wirst", "wirst"],
+      "hint": "(werden)",
+      "explanation": "du-form of werden: „wirst“ (irregular). In a yes/no question it comes first.",
+      "explanationDe": "du-Form von werden: „wirst“ (unregelmäßig). In einer Ja/Nein-Frage steht es am Anfang."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich hoffe, dass ihr uns bald in Graz besuchen ___.",
+      "answers": ["werdet"],
+      "hint": "(werden)",
+      "explanation": "ihr-form: „werdet“. In the dass-clause it goes to the very end, after the infinitive.",
+      "explanationDe": "ihr-Form: „werdet“. Im dass-Satz steht es ganz am Ende, nach dem Infinitiv."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir werden morgen um sechs Uhr ___, damit wir nicht in den Stau kommen.",
+      "answers": ["losfahren"],
+      "hint": "(losfahren)",
+      "explanation": "After „werden“ the infinitive goes to the end. In the infinitive, separable verbs stay together: „losfahren“.",
+      "explanationDe": "Nach „werden“ steht der Infinitiv am Ende. Im Infinitiv bleiben trennbare Verben zusammen: „losfahren“."
+    },
+    {
+      "type": "order",
+      "words": ["melden.", "Woche", "Ihnen", "werde", "nächste", "mich", "bei", "Ich"],
+      "answers": [
+        "Ich werde mich nächste Woche bei Ihnen melden.",
+        "Nächste Woche werde ich mich bei Ihnen melden.",
+        "Ich werde mich bei Ihnen nächste Woche melden."
+      ],
+      "explanation": "„werde“ is in position 2 and the infinitive „melden“ at the end. The reflexive pronoun „mich“ comes early, right after the verb or the subject.",
+      "explanationDe": "„werde“ steht auf Position 2, der Infinitiv „melden“ am Ende. Das Reflexivpronomen „mich“ steht weit vorn, direkt nach dem Verb oder dem Subjekt."
+    },
+    {
+      "type": "order",
+      "words": ["regnen.", "es", "morgen", "Wahrscheinlich", "wird"],
+      "answers": [
+        "Wahrscheinlich wird es morgen regnen.",
+        "Morgen wird es wahrscheinlich regnen.",
+        "Es wird morgen wahrscheinlich regnen.",
+        "Es wird wahrscheinlich morgen regnen."
+      ],
+      "explanation": "„wird“ is in position 2 and the infinitive „regnen“ at the end – a typical prediction.",
+      "explanationDe": "„wird“ steht auf Position 2, der Infinitiv „regnen“ am Ende – eine typische Vorhersage."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the Futur I.",
+      "instructionDe": "Schreib den Satz im Futur I.",
+      "prompt": "Nächstes Jahr mache ich einen Computerkurs.",
+      "answers": [
+        "Nächstes Jahr werde ich einen Computerkurs machen.",
+        "Ich werde nächstes Jahr einen Computerkurs machen."
+      ],
+      "explanation": "„werde“ takes position 2, and „mache“ becomes the infinitive „machen“ at the end.",
+      "explanationDe": "„werde“ kommt auf Position 2, und aus „mache“ wird der Infinitiv „machen“ am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Express the guess with the Futur I and „wohl“.",
+      "instructionDe": "Drück die Vermutung mit dem Futur I und „wohl“ aus.",
+      "prompt": "Sara ist wahrscheinlich noch bei der Arbeit.",
+      "answers": ["Sara wird wohl noch bei der Arbeit sein."],
+      "explanation": "A guess about the present: „wird“ + „wohl“ + the infinitive „sein“ at the end.",
+      "explanationDe": "Eine Vermutung über die Gegenwart: „wird“ + „wohl“ + der Infinitiv „sein“ am Ende."
+    }
+  ],
+  "related": ["modalverben", "passiv", "konjunktiv-2", "satzbau-hauptsatz"]
+}

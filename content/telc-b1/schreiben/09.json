@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-09",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Besuch in meinem Heimatland",
+  "topic": "kultur",
+  "difficulty": 2,
+  "register": "informal",
+  "situation": "Sie haben von Ihrem Freund Lukas folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Lukas",
+    "subject": "Reise in dein Heimatland",
+    "body": "Hallo,\n\nich habe eine Überraschung: Im August fliege ich für zwei Wochen in dein Heimatland! Ich war noch nie dort und habe so viele Fragen. Was sollte ich unbedingt sehen? Gibt es im Sommer vielleicht ein besonderes Fest, das ich mir anschauen kann? Und was isst man bei euch? Ich möchte unbedingt die typischen Gerichte probieren.\n\nDu fliegst doch im Sommer auch nach Hause, oder? Vielleicht können wir uns dort sogar treffen!\n\nViele Grüße\nLukas"
+  },
+  "leitpunkte": [
+    "Welches typische Essen Sie empfehlen",
+    "Ob und wo Sie sich mit Lukas treffen können",
+    "Welche Orte er unbedingt besuchen sollte",
+    "Was Sie über ein Fest im Sommer erzählen"
+  ],
+  "model": {
+    "subject": "Tipps für deine Reise nach Portugal",
+    "text": "Lieber Lukas,\n\ndas ist ja eine tolle Überraschung! Ich freue mich sehr, dass du mein Heimatland kennenlernen möchtest.\n\nAuf jeden Fall solltest du Lissabon und meine Heimatstadt Porto besuchen. Beide Städte haben wunderschöne Altstädte mit engen Gassen und vielen kleinen Cafés. Wenn du außerdem Lust auf Strand hast, fahr ein paar Tage an die Algarve im Süden.\n\nIm August feiern viele Dörfer im Norden ihre Sommerfeste. Die Leute tanzen auf der Straße, überall gibt es Musik, und abends sieht man ein Feuerwerk. So ein Fest solltest du dir auf keinen Fall entgehen lassen!\n\nUnd dann das Essen! Probier unbedingt gegrillte Sardinen, die man im Sommer überall bekommt. Mein Lieblingsdessert sind „Pastéis de Nata“, kleine Törtchen mit Vanillecreme – einfach himmlisch!\n\nVom 10. bis zum 24. August bin ich bei meinen Eltern in Porto. Wie wäre es, wenn du mich dort besuchst? Dann zeige ich dir meine Lieblingsorte, und meine Mutter kocht bestimmt etwas Leckeres für uns.\n\nSchreib mir, wann du genau ankommst!\n\nLiebe Grüße\nDeine Inês"
+  },
+  "modelNotes": [
+    "The writer chose a concrete country (Portugal) and gives specific details. In the exam, write about your own home country and be just as concrete.",
+    "Advice is expressed in many ways: „solltest du …“, imperatives („fahr …“, „Probier …“) and „auf keinen Fall entgehen lassen“.",
+    "The order moves from sightseeing to the festival and food and ends with the meeting, which leads naturally to the closing request („Schreib mir, wann …“).",
+    "References and connectors hold the text together: „Beide Städte …“, „So ein Fest …“, „Dann …“, „außerdem“ and the relative clause „die man im Sommer überall bekommt“."
+  ],
+  "modelNotesDe": [
+    "Die Schreiberin hat ein konkretes Land gewählt (Portugal) und nennt genaue Details. Schreib in der Prüfung über dein eigenes Heimatland – und sei genauso konkret.",
+    "Die Ratschläge sind auf viele Arten formuliert: „solltest du …“, Imperative („fahr …“, „Probier …“) und „auf keinen Fall entgehen lassen“.",
+    "Die Reihenfolge geht von den Sehenswürdigkeiten zum Fest und zum Essen und endet mit dem Treffen. Das führt ganz natürlich zur Bitte am Schluss („Schreib mir, wann …“).",
+    "Verweise und Konnektoren halten den Text zusammen: „Beide Städte …“, „So ein Fest …“, „Dann …“, „außerdem“ und der Relativsatz „die man im Sommer überall bekommt“."
+  ],
+  "phrases": [
+    { "de": "Auf jeden Fall solltest du … besuchen.", "en": "You should definitely visit …" },
+    { "de": "Wenn du Lust auf … hast, fahr …", "en": "If you feel like …, go to …" },
+    { "de": "Im August feiern viele Dörfer …", "en": "In August many villages celebrate …" },
+    { "de": "Das solltest du dir auf keinen Fall entgehen lassen!", "en": "You really mustn't miss that!" },
+    { "de": "Probier unbedingt …!", "en": "Be sure to try …!" },
+    { "de": "Wie wäre es, wenn du mich dort besuchst?", "en": "How about visiting me there?" },
+    { "de": "Schreib mir, wann du genau ankommst.", "en": "Let me know exactly when you arrive." }
+  ],
+  "glossary": [
+    { "de": "das Heimatland", "en": "home country" },
+    { "de": "die Gasse", "en": "narrow street, alley" },
+    { "de": "das Feuerwerk", "en": "fireworks" },
+    { "de": "sich etwas entgehen lassen", "en": "to miss out on something" },
+    { "de": "das Gericht", "en": "dish" },
+    { "de": "himmlisch", "en": "heavenly" }
+  ]
+}

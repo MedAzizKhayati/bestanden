@@ -1,0 +1,236 @@
+{
+  "id": "lesen-3-09",
+  "examId": "telc-b1",
+  "type": "ad-matching",
+  "title": "Secondhand und Märkte in Zürich",
+  "topic": "einkaufen",
+  "difficulty": 3,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ihr Mitbewohner braucht fürs Studium einen Laptop. Er möchte nicht viel bezahlen, will aber nach schlechten Erfahrungen auf keinen Fall ein Gerät ohne Garantie.",
+      "answer": "g",
+      "explanation": "„Laptops ab CHF 190“ and „12 Monate Garantie auf jedes Gerät“ – the shop for used electronics (g) is cheap and gives a guarantee. The Brockenhaus (c) also sells electrical devices, but „ohne Garantie“.",
+      "explanationDe": "„Laptops ab CHF 190“ und „12 Monate Garantie auf jedes Gerät“ – der Laden für gebrauchte Technik (g) ist günstig und gibt Garantie. Das Brockenhaus (c) verkauft auch Elektrogeräte, aber „ohne Garantie“."
+    },
+    {
+      "n": 2,
+      "text": "Sie möchten Ihre gut erhaltenen Markenkleider an ein Geschäft verkaufen. Das Geld brauchen Sie sofort, weil Sie nächste Woche die Kaution für Ihre neue Wohnung bezahlen müssen.",
+      "answer": "x",
+      "explanation": "The vintage shop (e) takes designer clothes, but it sells them for you and pays „sobald Ihr Stück verkauft ist“ – not immediately. The antiquarian bookshop (d) pays cash at once („Barzahlung sofort“), but only for books, and the Brockenhaus (c) buys nothing. So the answer is x.",
+      "explanationDe": "Der Vintage-Laden (e) nimmt Designerkleidung an, aber er verkauft sie für dich und zahlt erst, „sobald Ihr Stück verkauft ist“ – nicht sofort. Das Antiquariat (d) zahlt sofort bar („Barzahlung sofort“), aber nur für Bücher, und das Brockenhaus (c) kauft nichts an. Die Lösung ist also x."
+    },
+    {
+      "n": 3,
+      "text": "Sie arbeiten unter der Woche von 7 bis 18 Uhr und schaffen es nie auf den Markt. Trotzdem möchten Sie jede Woche frisches Gemüse direkt vom Bauernhof essen.",
+      "answer": "k",
+      "explanation": "„Gemüse-Abo vom Bauernhof“ and „Lieferung gratis bis vor Ihre Haustür …, auch abends bis 21 Uhr“ – the organic farm (k) brings the vegetables to you. The farmers' market (j) sells local vegetables, but only on Tuesday and Friday „6–11 Uhr“, when you are at work.",
+      "explanationDe": "„Gemüse-Abo vom Bauernhof“ und „Lieferung gratis bis vor Ihre Haustür …, auch abends bis 21 Uhr“ – der Biohof (k) bringt dir das Gemüse. Der Bauernmarkt (j) verkauft Gemüse aus der Region, aber nur dienstags und freitags „6–11 Uhr“, wenn du arbeitest."
+    },
+    {
+      "n": 4,
+      "text": "Sie möchten weniger Abfall produzieren. Deshalb wollen Sie Reis, Nudeln und Waschmittel in Ihre eigenen Gläser füllen, statt verpackte Ware zu kaufen.",
+      "answer": "a",
+      "explanation": "„Reis, Nudeln … zum Abfüllen“, „Auch Waschmittel“ and „Bringen Sie Ihre eigenen Gläser … mit“ – the zero-waste shop (a) fits. At the market (j) you can buy loose vegetables, but no rice, pasta or washing powder.",
+      "explanationDe": "„Reis, Nudeln … zum Abfüllen“, „Auch Waschmittel“ und „Bringen Sie Ihre eigenen Gläser … mit“ – der Unverpackt-Laden (a) passt. Auf dem Markt (j) kannst du loses Gemüse kaufen, aber keinen Reis, keine Nudeln und kein Waschmittel."
+    },
+    {
+      "n": 5,
+      "text": "Ihre Schwester erwartet ein Baby und möchte günstig gebrauchte Babysachen kaufen. Sie will vor den anderen Besuchern da sein, damit sie die beste Auswahl hat.",
+      "answer": "f",
+      "explanation": "„Kleider für Babys“ and „Schwangere dürfen schon ab 8.30 Uhr einkaufen“ – at the children's clothes sale (f) your pregnant sister may come in before the others (opening is at 9 o'clock).",
+      "explanationDe": "„Kleider für Babys“ und „Schwangere dürfen schon ab 8.30 Uhr einkaufen“ – bei der Kinderkleiderbörse (f) darf deine schwangere Schwester vor den anderen hinein (Beginn ist um 9 Uhr)."
+    },
+    {
+      "n": 6,
+      "text": "Ihr Sohn (8) ist aus seinem Velo herausgewachsen. Sie möchten das alte Velo verkaufen und am gleichen Ort ein gebrauchtes, passendes Velo für ihn kaufen.",
+      "answer": "b",
+      "explanation": "„Kaufen und verkaufen an einem Ort“ with „Annahme Ihrer Velos“ and „Velos für Kinder und Erwachsene“ – at the bike market (b) you can do both. The flea market (h) says „keine Velos“.",
+      "explanationDe": "„Kaufen und verkaufen an einem Ort“ mit „Annahme Ihrer Velos“ und „Velos für Kinder und Erwachsene“ – bei der Velobörse (b) kannst du beides machen. Beim Flohmarkt (h) steht: „keine Velos“."
+    },
+    {
+      "n": 7,
+      "text": "Ihr verstorbener Onkel hatte Hunderte von alten Büchern. Sie möchten die ganze Sammlung verkaufen, können die Kisten aber nicht selbst transportieren.",
+      "answer": "d",
+      "explanation": "„Ankauf … ganzer Sammlungen“ and „kommen wir zu Ihnen nach Hause und holen alles ab“ – the antiquarian bookshop (d) buys and collects the books. The Brockenhaus (c) does not buy anything („kein Ankauf“), and you must bring books there yourself.",
+      "explanationDe": "„Ankauf … ganzer Sammlungen“ und „kommen wir zu Ihnen nach Hause und holen alles ab“ – das Antiquariat (d) kauft die Bücher und holt sie ab. Das Brockenhaus (c) kauft nichts an („kein Ankauf“), und Bücher musst du selbst hinbringen."
+    },
+    {
+      "n": 8,
+      "text": "Sie suchen für Ihre Freundin ein handgemachtes Weihnachtsgeschenk, zum Beispiel eine Vase aus Keramik. Einkaufen können Sie nur am Wochenende.",
+      "answer": "i",
+      "explanation": "„Handgemachtes“, „Keramik“ and „An allen vier Adventswochenenden, Sa. und So.“ – the craft market (i) is right before Christmas and open at weekends. The flea market (h) is also on Saturdays, but only „von April bis Oktober“.",
+      "explanationDe": "„Handgemachtes“, „Keramik“ und „An allen vier Adventswochenenden, Sa. und So.“ – der Kunsthandwerksmarkt (i) ist direkt vor Weihnachten und am Wochenende geöffnet. Der Flohmarkt (h) ist auch samstags, aber nur „von April bis Oktober“."
+    },
+    {
+      "n": 9,
+      "text": "Am Freitagabend entscheiden Sie spontan, am nächsten Tag auf einem Flohmarkt altes Geschirr und Bücher zu verkaufen.",
+      "answer": "x",
+      "explanation": "The flea market (h) takes place on Saturdays, but you must register „online bis Donnerstag, 18 Uhr“ – Friday evening is too late. The children's sale (f) only accepts children's things, and the sellers' numbers are „bereits ausgebucht“. So no ad fits: x.",
+      "explanationDe": "Der Flohmarkt (h) findet samstags statt, aber du musst dich „online bis Donnerstag, 18 Uhr“ anmelden – Freitagabend ist zu spät. Die Kinderbörse (f) nimmt nur Sachen für Kinder an, und die Nummern für Verkäufer sind „bereits ausgebucht“. Keine Anzeige passt also: x."
+    },
+    {
+      "n": 10,
+      "text": "Einige Ihrer Kleider passen Ihnen nicht mehr. Sie möchten sie gegen andere Kleidung tauschen, ohne dafür Geld auszugeben.",
+      "answer": "l",
+      "explanation": "„Kleidertausch“ and „Kein Geld nötig“ – at the clothes swap (l) you bring clothes and take others home. The vintage shop (e) and the Brockenhaus (c) take clothes, but they do not swap them.",
+      "explanationDe": "„Kleidertausch“ und „Kein Geld nötig“ – beim Kleidertausch (l) bringst du Kleidung mit und nimmst andere mit nach Hause. Der Vintage-Laden (e) und das Brockenhaus (c) nehmen Kleidung an, aber sie tauschen sie nicht."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Füllstation – der Unverpackt-Laden",
+      "subheading": "Einkaufen ohne Abfall",
+      "lines": [
+        "Reis, Nudeln, Nüsse, Gewürze, Öl und Essig zum Abfüllen",
+        "Auch Waschmittel und Putzmittel",
+        "Bringen Sie Ihre eigenen Gläser und Dosen mit – oder leihen Sie unsere.",
+        "Mo.–Fr. 9–19 Uhr, Sa. 9–17 Uhr"
+      ],
+      "footer": "Linsengasse 4, 8001 Zürich · www.ohne-abfall.ch"
+    },
+    {
+      "key": "b",
+      "heading": "Velobörse im Quartierzentrum",
+      "subheading": "Kaufen und verkaufen an einem Ort",
+      "lines": [
+        "Annahme Ihrer Velos: Freitag, 4. April, 17–19 Uhr",
+        "Verkauf: Samstag, 5. April, 9–13 Uhr – Velos für Kinder und Erwachsene",
+        "Sie bestimmen den Preis, wir behalten 15 % Gebühr.",
+        "Probefahrt im Hof möglich"
+      ],
+      "footer": "Quartierzentrum Bachwiese · Tel. 044 271 38 40"
+    },
+    {
+      "key": "c",
+      "heading": "Brockenhaus Limmattal",
+      "subheading": "Secondhand mit gutem Zweck",
+      "lines": [
+        "Möbel, Geschirr, Bücher, Kleider und Elektrogeräte (ohne Garantie)",
+        "Wir nehmen gut erhaltene Sachen als Spende an – kein Ankauf.",
+        "Abholung von Möbeln gratis, Bücher und Kleider bitte vorbeibringen",
+        "Di.–Sa. 10–18 Uhr",
+        "Der Erlös geht an Projekte für Arbeitslose."
+      ],
+      "footer": "Badenerweg 210, 8048 Zürich · Tel. 044 431 77 02 · www.brocki-limmattal.ch"
+    },
+    {
+      "key": "d",
+      "heading": "Antiquariat Bücherwurm",
+      "subheading": "Alte, seltene und schöne Bücher",
+      "lines": [
+        "Ankauf einzelner Bücher und ganzer Sammlungen",
+        "Für ganze Bibliotheken kommen wir zu Ihnen nach Hause und holen alles ab.",
+        "Barzahlung sofort",
+        "Mi.–Sa. 11–18.30 Uhr"
+      ],
+      "footer": "Pfarrgasse 9, 8001 Zürich · Tel. 044 252 61 19"
+    },
+    {
+      "key": "e",
+      "heading": "Zeitlos – Vintage & Designer-Secondhand",
+      "lines": [
+        "Markenkleider, Taschen und Schuhe aus zweiter Hand",
+        "Wir verkaufen Ihre Kleider in Kommission: Sie erhalten 50 % des Verkaufspreises.",
+        "Auszahlung, sobald Ihr Stück verkauft ist",
+        "Annahme nur Di. und Do. nach Terminvereinbarung"
+      ],
+      "footer": "Florhofweg 7, 8008 Zürich · Tel. 044 383 40 56"
+    },
+    {
+      "key": "f",
+      "heading": "Kinderkleider- und Spielzeugbörse",
+      "lines": [
+        "Samstag, 22. März, 9–12 Uhr, im Gemeinschaftszentrum",
+        "Kleider für Babys und Kinder bis 12 Jahre, Spielsachen, Kinderwagen",
+        "Schwangere dürfen schon ab 8.30 Uhr einkaufen.",
+        "Für Verkäuferinnen und Verkäufer: Alle Nummern sind bereits ausgebucht."
+      ],
+      "footer": "Elternverein Kreis 6 · www.kinderbazar-kreis6.ch"
+    },
+    {
+      "key": "g",
+      "heading": "ReTech Occasionen",
+      "subheading": "Gebrauchte Technik – geprüft und günstig",
+      "lines": [
+        "Laptops ab CHF 190, Smartphones ab CHF 120, Tablets ab CHF 150",
+        "Alle Geräte von unseren Technikern geprüft und gereinigt",
+        "12 Monate Garantie auf jedes Gerät",
+        "Studierende erhalten 10 % Rabatt."
+      ],
+      "footer": "Technikumgasse 3, 8005 Zürich · www.retech-occasionen.ch"
+    },
+    {
+      "key": "h",
+      "heading": "Flohmarkt am Seeufer",
+      "lines": [
+        "Jeden Samstag von April bis Oktober, 7–16 Uhr",
+        "Nur private Verkäufer – keine Neuware, keine Velos",
+        "Standplatz CHF 40, Anmeldung online bis Donnerstag, 18 Uhr",
+        "Der Markt findet bei jedem Wetter statt."
+      ],
+      "footer": "www.flohmarkt-seeufer.ch"
+    },
+    {
+      "key": "i",
+      "heading": "Kunsthandwerk im Advent",
+      "subheading": "Handgemachtes von über 80 Ausstellern",
+      "lines": [
+        "Keramik, Schmuck, Holzspielzeug, Kerzen und Wollsachen",
+        "An allen vier Adventswochenenden, Sa. und So. 11–20 Uhr",
+        "Glühwein und Raclette im Hof",
+        "Eintritt frei"
+      ],
+      "footer": "Alte Fabrikhalle am Hafen · www.kunsthandwerk-advent.ch"
+    },
+    {
+      "key": "j",
+      "heading": "Bauernmarkt am Lindenplatz",
+      "lines": [
+        "Gemüse, Obst, Käse, Brot und Fleisch direkt von Bauernhöfen aus der Region",
+        "Jeden Dienstag und Freitag, 6–11 Uhr",
+        "Tram 4, Haltestelle Lindenplatz"
+      ],
+      "footer": "Marktverein Lindenplatz"
+    },
+    {
+      "key": "k",
+      "heading": "Biohof Sonnhalde",
+      "subheading": "Ihr Gemüse-Abo vom Bauernhof",
+      "lines": [
+        "Jede Woche eine Kiste mit frischem Bio-Gemüse der Saison",
+        "Lieferung gratis bis vor Ihre Haustür (Stadt Zürich), auch abends bis 21 Uhr",
+        "Kleine Kiste CHF 28, Familienkiste CHF 45",
+        "Jederzeit kündbar"
+      ],
+      "footer": "Biohof Sonnhalde, 8913 Ottenbach · Tel. 044 761 20 33 · www.sonnhalde-bio.ch"
+    },
+    {
+      "key": "l",
+      "heading": "Tauschen statt kaufen!",
+      "subheading": "Kleidertausch im Quartiertreff",
+      "lines": [
+        "Bringen Sie bis zu 10 saubere Kleidungsstücke mit und nehmen Sie andere mit nach Hause.",
+        "Kein Geld nötig",
+        "Jeden letzten Sonntag im Monat, 14–17 Uhr",
+        "Was übrig bleibt, geht an ein Brockenhaus."
+      ],
+      "footer": "Quartiertreff Sonnenberg · Tel. 044 492 15 70"
+    }
+  ],
+  "glossary": [
+    { "de": "das Brockenhaus (schweiz.)", "en": "charity second-hand shop" },
+    { "de": "die Occasion (schweiz.)", "en": "second-hand item, used goods" },
+    { "de": "das Velo (schweiz.)", "en": "bicycle" },
+    { "de": "das Tram (schweiz.)", "en": "tram" },
+    { "de": "in Kommission verkaufen", "en": "to sell on behalf of the owner for a share of the price" },
+    { "de": "die Auszahlung", "en": "payout" },
+    { "de": "der Ankauf", "en": "purchase (a shop buying from customers)" },
+    { "de": "der Erlös", "en": "proceeds, takings" },
+    { "de": "der Standplatz", "en": "stall space (at a market)" },
+    { "de": "die Neuware", "en": "new goods" },
+    { "de": "abfüllen", "en": "to fill (into a container)" },
+    { "de": "ausgebucht", "en": "fully booked" }
+  ]
+}

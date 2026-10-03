@@ -1,0 +1,147 @@
+{
+  "id": "hoeren-2-01",
+  "examId": "telc-b1",
+  "type": "audio-long",
+  "title": "Honig vom Hoteldach",
+  "topic": "umwelt",
+  "difficulty": 1,
+  "context": "Radiosendung „Grüne Stadt“: Interview mit einer Stadtimkerin aus Leipzig",
+  "speakers": [
+    { "id": "mod", "name": "Moderator", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "brandt", "name": "Frau Brandt", "gender": "f", "age": "adult", "role": "Stadtimkerin" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Guten Tag, liebe Hörerinnen und Hörer, und herzlich willkommen bei „Grüne Stadt“. Heute geht es um ein Hobby, das in den letzten Jahren immer beliebter geworden ist: Bienen in der Stadt." },
+    { "s": "mod", "t": "Bei mir im Studio ist Sabine Brandt, die mitten in Leipzig Bienen hält. Guten Tag, Frau Brandt!" },
+    { "s": "brandt", "t": "Guten Tag! Ich freue mich, dass ich hier sein darf." },
+    { "s": "mod", "t": "Frau Brandt, sind Sie eigentlich von Beruf Imkerin?" },
+    { "s": "brandt", "t": "Nein, gar nicht. Ich arbeite ganz normal in einem Steuerbüro, und die Bienen sind mein Hobby." },
+    { "s": "brandt", "t": "Aber es ist ein Hobby, das ziemlich viel Zeit kostet. Im Sommer bin ich fast jeden zweiten Tag bei meinen Bienen." },
+    { "s": "mod", "t": "Wie sind Sie denn zu den Bienen gekommen?" },
+    { "s": "brandt", "t": "Das war eigentlich Zufall. Vor sechs Jahren habe ich einen Kleingarten übernommen, und mein Gartennachbar, Herr Lehmann, hatte drei Bienenvölker." },
+    { "s": "brandt", "t": "Ich habe ihm oft zugeschaut und viele Fragen gestellt. Als er mit 82 Jahren aufhören musste, hat er mir ein Volk geschenkt." },
+    { "s": "mod", "t": "Und wie viele Völker haben Sie heute?" },
+    { "s": "brandt", "t": "Inzwischen sind es acht. Zwei stehen noch im Garten, die anderen sechs auf dem Dach eines Hotels in der Innenstadt." },
+    { "s": "mod", "t": "Auf einem Hoteldach? Wie kam es denn dazu?" },
+    { "s": "brandt", "t": "Der Hotelchef hat in der Zeitung über Stadtbienen gelesen und mich dann angerufen. Er wollte seinen Gästen gern eigenen Honig zum Frühstück anbieten." },
+    { "s": "brandt", "t": "Jetzt gibt es morgens Honig vom eigenen Dach, und die Gäste finden das toll." },
+    { "s": "mod", "t": "Viele Leute denken ja, dass es den Bienen auf dem Land besser geht als in der Stadt. Stimmt das nicht?" },
+    { "s": "brandt", "t": "Das ist ein Irrtum, den ich oft höre. Auf dem Land gibt es oft riesige Felder mit nur einer Pflanze, zum Beispiel Mais, und dort finden die Bienen nach der Blüte kaum noch etwas." },
+    { "s": "brandt", "t": "In der Stadt blüht dagegen fast immer irgendwo etwas, in den Parks, auf den Balkonen und an den Straßen. Von März bis Oktober finden meine Bienen genug Futter." },
+    { "s": "mod", "t": "Und wie viel Honig bekommen Sie?" },
+    { "s": "brandt", "t": "In einem guten Jahr ungefähr 30 Kilo pro Volk. Letztes Jahr war der Frühling aber sehr kalt und nass, da war es nur die Hälfte." },
+    { "s": "mod", "t": "Schmeckt Honig aus der Stadt eigentlich anders?" },
+    { "s": "brandt", "t": "Vor allem schmeckt er jedes Mal ein bisschen anders. Im Frühling ist er hell und mild, und im Sommer, wenn die Linden blühen, wird er kräftiger." },
+    { "s": "brandt", "t": "Und keine Sorge wegen der Autos: Ich lasse meinen Honig jedes Jahr im Labor untersuchen, und die Ergebnisse waren immer sehr gut." },
+    { "s": "mod", "t": "Werden Sie eigentlich oft gestochen?" },
+    { "s": "brandt", "t": "Ab und zu schon, vielleicht zehnmal im Jahr. Ich trage zwar einen Schutzanzug, aber keine Handschuhe, weil ich mit den Händen dann mehr fühle." },
+    { "s": "brandt", "t": "Am Anfang hat das sehr wehgetan. Inzwischen merke ich es kaum noch." },
+    { "s": "mod", "t": "Und was sagen die Nachbarn? Haben die keine Angst?" },
+    { "s": "brandt", "t": "Am Anfang hatten einige schon Angst, vor allem eine Familie mit kleinen Kindern. Deshalb habe ich alle zu einem Honigfest in den Garten eingeladen und ihnen die Bienen gezeigt." },
+    { "s": "brandt", "t": "Heute sind genau diese Nachbarn meine besten Kunden. Für 6 Euro 50 bekommt man bei mir ein Glas Honig." },
+    { "s": "mod", "t": "Bestimmt möchten jetzt einige Hörer selbst anfangen. Was raten Sie ihnen?" },
+    { "s": "brandt", "t": "Bitte nicht einfach Bienen kaufen! Zuerst sollte man einen Kurs machen, zum Beispiel beim Imkerverein hier in Leipzig." },
+    { "s": "brandt", "t": "Der Kurs dauert von März bis September und kostet 90 Euro. Danach weiß man, ob das Hobby wirklich zu einem passt." },
+    { "s": "mod", "t": "Und was kann man tun, wenn man keine Zeit für eigene Bienen hat?" },
+    { "s": "brandt", "t": "Man kann trotzdem helfen, zum Beispiel mit Blumen auf dem Balkon. Lavendel oder Kräuter wie Thymian sind ideal." },
+    { "s": "mod", "t": "Haben Sie schon Pläne für das nächste Jahr?" },
+    { "s": "brandt", "t": "Ja, ich möchte Führungen für Schulklassen anbieten, und zwar in meinem Kleingarten. Auf das Hoteldach darf ich leider keine Kinder mitnehmen, das ist zu gefährlich." },
+    { "s": "brandt", "t": "Die Kinder sollen sehen, wie viel Arbeit in einem Glas Honig steckt." },
+    { "s": "mod", "t": "Frau Brandt, vielen Dank für das Gespräch und weiterhin viel Freude mit Ihren Bienen!" },
+    { "s": "brandt", "t": "Danke, ich habe sehr gern erzählt." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Für Frau Brandt sind die Bienen ein Beruf und nicht nur ein Hobby.",
+      "answer": false,
+      "explanation": "„Ich arbeite ganz normal in einem Steuerbüro, und die Bienen sind mein Hobby“ – she works in a tax office; beekeeping is only her hobby.",
+      "explanationDe": "„Ich arbeite ganz normal in einem Steuerbüro, und die Bienen sind mein Hobby“ – ihr Beruf ist im Steuerbüro; die Bienen sind nur ihr Hobby.",
+      "evidence": "Ich arbeite ganz normal in einem Steuerbüro, und die Bienen sind mein Hobby."
+    },
+    {
+      "n": 2,
+      "text": "Ihr erstes Bienenvolk hat Frau Brandt von ihrem Gartennachbarn geschenkt bekommen.",
+      "answer": true,
+      "explanation": "„hat er mir ein Volk geschenkt“ – her garden neighbour Herr Lehmann gave her a colony when he had to stop at the age of 82.",
+      "explanationDe": "„hat er mir ein Volk geschenkt“ – ihr Gartennachbar Herr Lehmann hat ihr ein Bienenvolk geschenkt, als er mit 82 Jahren aufhören musste.",
+      "evidence": "Als er mit 82 Jahren aufhören musste, hat er mir ein Volk geschenkt."
+    },
+    {
+      "n": 3,
+      "text": "Die meisten Bienenvölker von Frau Brandt stehen heute in ihrem Kleingarten.",
+      "answer": false,
+      "explanation": "Only „Zwei stehen noch im Garten“ – the other six colonies are on the roof of a hotel in the city centre.",
+      "explanationDe": "Nur zwei Völker sind im Garten („Zwei stehen noch im Garten“) – die anderen sechs stehen auf dem Dach eines Hotels in der Innenstadt.",
+      "evidence": "Zwei stehen noch im Garten, die anderen sechs auf dem Dach eines Hotels in der Innenstadt."
+    },
+    {
+      "n": 4,
+      "text": "Die Idee mit den Bienen auf dem Hoteldach kam vom Hotelchef.",
+      "answer": true,
+      "explanation": "„Der Hotelchef hat in der Zeitung über Stadtbienen gelesen und mich dann angerufen“ – the hotel manager contacted her because he wanted his own honey for breakfast.",
+      "explanationDe": "„Der Hotelchef hat in der Zeitung über Stadtbienen gelesen und mich dann angerufen“ – er hat sich bei ihr gemeldet, weil er eigenen Honig zum Frühstück wollte.",
+      "evidence": "Der Hotelchef hat in der Zeitung über Stadtbienen gelesen und mich dann angerufen."
+    },
+    {
+      "n": 5,
+      "text": "Frau Brandt glaubt, dass Bienen auf dem Land mehr Futter finden.",
+      "answer": false,
+      "explanation": "She calls this idea „ein Irrtum“: in the country there are huge fields with only one plant, while in the city something is almost always in bloom.",
+      "explanationDe": "Diese Idee ist für sie „ein Irrtum“: Auf dem Land gibt es riesige Felder mit nur einer Pflanze, in der Stadt dagegen blüht fast immer irgendwo etwas.",
+      "evidence": "Das ist ein Irrtum, den ich oft höre."
+    },
+    {
+      "n": 6,
+      "text": "Im letzten Jahr gab es wegen des schlechten Wetters weniger Honig.",
+      "answer": true,
+      "explanation": "„Letztes Jahr war der Frühling aber sehr kalt und nass, da war es nur die Hälfte“ – because of the cold, wet spring she got only half the usual amount.",
+      "explanationDe": "„Letztes Jahr war der Frühling aber sehr kalt und nass, da war es nur die Hälfte“ – wegen des kalten, nassen Frühlings hat sie nur halb so viel Honig bekommen wie sonst.",
+      "evidence": "Letztes Jahr war der Frühling aber sehr kalt und nass, da war es nur die Hälfte."
+    },
+    {
+      "n": 7,
+      "text": "Frau Brandt trägt keine Handschuhe, weil sie so mehr fühlen kann.",
+      "answer": true,
+      "explanation": "„aber keine Handschuhe, weil ich mit den Händen dann mehr fühle“ – she wears a protective suit, but no gloves.",
+      "explanationDe": "„aber keine Handschuhe, weil ich mit den Händen dann mehr fühle“ – sie trägt einen Schutzanzug, aber keine Handschuhe.",
+      "evidence": "aber keine Handschuhe, weil ich mit den Händen dann mehr fühle"
+    },
+    {
+      "n": 8,
+      "text": "Die Nachbarn, die zuerst Angst hatten, kaufen heute Honig bei Frau Brandt.",
+      "answer": true,
+      "explanation": "„Heute sind genau diese Nachbarn meine besten Kunden“ – after the honey party, the neighbours who were afraid became her best customers.",
+      "explanationDe": "„Heute sind genau diese Nachbarn meine besten Kunden“ – nach dem Honigfest sind die Nachbarn, die Angst hatten, ihre besten Kunden geworden.",
+      "evidence": "Heute sind genau diese Nachbarn meine besten Kunden."
+    },
+    {
+      "n": 9,
+      "text": "Der Kurs, den der Imkerverein in Leipzig anbietet, dauert ein ganzes Jahr.",
+      "answer": false,
+      "explanation": "„Der Kurs dauert von März bis September“ – that is about seven months, not a whole year.",
+      "explanationDe": "„Der Kurs dauert von März bis September“ – das sind ungefähr sieben Monate, kein ganzes Jahr.",
+      "evidence": "Der Kurs dauert von März bis September und kostet 90 Euro."
+    },
+    {
+      "n": 10,
+      "text": "Im nächsten Jahr will Frau Brandt Schulklassen das Hoteldach zeigen.",
+      "answer": false,
+      "explanation": "The school tours will take place „in meinem Kleingarten“. „Auf das Hoteldach darf ich leider keine Kinder mitnehmen“ – it is too dangerous.",
+      "explanationDe": "Die Führungen für Schulklassen finden „in meinem Kleingarten“ statt. „Auf das Hoteldach darf ich leider keine Kinder mitnehmen“ – das ist zu gefährlich.",
+      "evidence": "Auf das Hoteldach darf ich leider keine Kinder mitnehmen, das ist zu gefährlich."
+    }
+  ],
+  "glossary": [
+    { "de": "die Imkerin / der Imker", "en": "beekeeper" },
+    { "de": "das Bienenvolk", "en": "bee colony" },
+    { "de": "der Kleingarten", "en": "allotment garden" },
+    { "de": "jemandem etwas schenken", "en": "to give somebody something as a present" },
+    { "de": "der Irrtum", "en": "mistake, misconception" },
+    { "de": "blühen", "en": "to bloom, to flower" },
+    { "de": "das Futter", "en": "food (for animals)" },
+    { "de": "der Schutzanzug", "en": "protective suit" },
+    { "de": "stechen (gestochen)", "en": "to sting" },
+    { "de": "die Führung", "en": "guided tour" }
+  ]
+}

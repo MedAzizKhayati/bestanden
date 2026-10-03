@@ -1,0 +1,72 @@
+{
+  "id": "sprechen-3-12",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Flohmarkt für das Tierheim",
+  "topic": "umwelt",
+  "difficulty": 3,
+  "situation": "Sie helfen beide ehrenamtlich im Nachbarschaftstreff Ihres Stadtteils. Im Herbst möchte der Treff einen Flohmarkt organisieren, damit alte Sachen nicht weggeworfen werden. Das Geld aus den Standgebühren soll das Tierheim der Stadt bekommen. Planen Sie gemeinsam den Flohmarkt.",
+  "checklist": [
+    "Wann und wo?",
+    "Anmeldung und Standgebühr?",
+    "Werbung?",
+    "Kaffee und Kuchen?",
+    "Was passiert mit Sachen, die übrig bleiben?",
+    "Wer übernimmt welche Aufgabe?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Marta Zielińska", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Rahul Verma", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Bitte planen Sie jetzt gemeinsam den Flohmarkt für den Nachbarschaftstreff." },
+    { "s": "A", "t": "Herr Verma, ich finde die Idee mit dem Flohmarkt wirklich gut. Viele Leute haben Sachen im Keller, die sie nicht mehr brauchen, und so werden sie nicht einfach weggeworfen." },
+    { "s": "B", "t": "Ganz genau, das ist gut für die Umwelt, und das Tierheim bekommt auch noch Geld. Wann sollten wir den Flohmarkt machen? Ich hätte an einen Sonntag im September gedacht." },
+    { "s": "A", "t": "Ein Sonntag wäre schön, weil dann viele Familien Zeit haben. Allerdings habe ich gehört, dass man für einen Flohmarkt am Sonntag manchmal eine Genehmigung von der Stadt braucht. Wäre ein Samstag nicht einfacher?" },
+    { "s": "B", "t": "Das ist ein wichtiger Hinweis. Trotzdem würde ich beim Ordnungsamt nachfragen, denn am Samstag arbeiten viele Leute oder machen ihre Einkäufe." },
+    { "s": "A", "t": "Einverstanden, fragen Sie ruhig nach, und wenn es zu kompliziert ist, nehmen wir den Samstag. Wo soll der Flohmarkt eigentlich stattfinden, auf dem Parkplatz vor dem Treff?" },
+    { "s": "B", "t": "Der Parkplatz ist gut, aber wir brauchen einen Plan B, falls es regnet. Der Saal im Treff ist leider zu klein für mehr als fünfzehn Stände." },
+    { "s": "A", "t": "Dann machen wir es so: Bei gutem Wetter gibt es dreißig Stände auf dem Parkplatz. Wenn es regnet, verschieben wir den Flohmarkt um eine Woche." },
+    { "s": "B", "t": "Verschieben ist eine gute Idee, das ist einfacher. Und wie sollen sich die Leute anmelden? Ich würde eine Standgebühr von zehn Euro vorschlagen." },
+    { "s": "A", "t": "Zehn Euro finde ich ein bisschen viel, gerade für Familien, die nur Kinderkleidung verkaufen wollen. Wie wäre es mit fünf Euro für einen kleinen Stand und zehn Euro für einen großen?" },
+    { "s": "B", "t": "Das klingt fair. Die Anmeldung kann ich übernehmen. Ich richte eine E-Mail-Adresse ein, und man kann sich auch persönlich im Treff anmelden." },
+    { "s": "A", "t": "Sehr gut. Bei der Werbung sollten wir nicht nur an das Internet denken, sondern auch an ältere Leute. Ich könnte Plakate machen und sie in der Apotheke, beim Bäcker und in der Bibliothek aufhängen." },
+    { "s": "B", "t": "Hervorragend. Vielleicht schreibt die Lokalzeitung auch einen kurzen Artikel, weil das Geld für das Tierheim ist. Je mehr Leute davon wissen, desto mehr Besucher kommen." },
+    { "s": "A", "t": "Das stimmt. Sollen wir auch Kaffee und Kuchen verkaufen? Damit könnten wir noch mehr Geld für das Tierheim sammeln." },
+    { "s": "B", "t": "Unbedingt, aber bitte nicht in Plastikbechern. Der Treff hat doch genug Tassen, die können wir benutzen und danach spülen. Das passt besser zu unserer Idee." },
+    { "s": "A", "t": "Ja, das finde ich richtig. Und was machen wir mit den Sachen, die am Ende übrig bleiben? Oft lassen die Leute einfach ihre Kisten stehen." },
+    { "s": "B", "t": "Wir könnten mit dem Sozialkaufhaus sprechen, denn die holen gut erhaltene Sachen oft kostenlos ab. Was dort niemand nimmt, muss der Verkäufer wieder mitnehmen." },
+    { "s": "A", "t": "Gute Idee, das schreiben wir auch in die Regeln für die Anmeldung. Ich rufe beim Sozialkaufhaus an." },
+    { "s": "B", "t": "Und wir brauchen Helfer für den Kuchenstand und für das Aufräumen. Ich frage in unserer Nachbarschaftsgruppe nach Freiwilligen." },
+    { "s": "A", "t": "Prima. Dann halten wir fest: Der Flohmarkt ist im September auf dem Parkplatz vor dem Treff, am Sonntag, wenn die Stadt es erlaubt, sonst am Samstag. Bei Regen verschieben wir ihn um eine Woche." },
+    { "s": "B", "t": "Ich frage beim Ordnungsamt nach, organisiere die Anmeldung und suche Helfer. Die Standgebühr ist fünf oder zehn Euro, je nach Größe." },
+    { "s": "A", "t": "Und ich mache die Plakate, schreibe an die Lokalzeitung, rufe beim Sozialkaufhaus an und organisiere den Kuchenverkauf." },
+    { "s": "B", "t": "Sehr gut. Das Tierheim wird sich freuen, und unsere alten Sachen bekommen ein zweites Leben." }
+  ],
+  "phrases": [
+    { "de": "Ich hätte an … gedacht.", "en": "I was thinking of …" },
+    { "de": "Allerdings habe ich gehört, dass …", "en": "However, I've heard that …" },
+    { "de": "Wäre … nicht einfacher?", "en": "Wouldn't … be easier?" },
+    { "de": "Das ist ein wichtiger Hinweis.", "en": "That's a useful point." },
+    { "de": "Wir brauchen einen Plan B, falls …", "en": "We need a plan B in case …" },
+    { "de": "… finde ich ein bisschen viel, gerade für …", "en": "I find … a bit much, especially for …" },
+    { "de": "Wir sollten nicht nur an …, sondern auch an … denken.", "en": "We should think not only of …, but also of …" },
+    { "de": "Je mehr …, desto mehr …", "en": "The more …, the more …" },
+    { "de": "Dann halten wir fest: …", "en": "So let's agree on this: …" }
+  ],
+  "vocabulary": [
+    { "de": "der Flohmarkt", "en": "flea market" },
+    { "de": "der Stand", "en": "stall" },
+    { "de": "die Standgebühr", "en": "stall fee" },
+    { "de": "die Genehmigung", "en": "permit" },
+    { "de": "das Ordnungsamt", "en": "local public order office" },
+    { "de": "etwas verschieben", "en": "to postpone something" },
+    { "de": "sich anmelden", "en": "to register" },
+    { "de": "das Tierheim", "en": "animal shelter" },
+    { "de": "übrig bleiben", "en": "to be left over" },
+    { "de": "das Sozialkaufhaus", "en": "charity second-hand shop" },
+    { "de": "gut erhalten", "en": "in good condition" },
+    { "de": "wegwerfen", "en": "to throw away" }
+  ]
+}

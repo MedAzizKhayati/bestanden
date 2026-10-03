@@ -1,0 +1,226 @@
+{
+  "id": "finale-saetze",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 8,
+  "title": "Ziele ausdrücken: um … zu, damit",
+  "titleEn": "Purpose clauses",
+  "summary": "Say what something is for: um … zu + infinitive when the subject stays the same, damit + subordinate clause when it changes.",
+  "summaryDe": "So sagst du, wozu etwas da ist: um … zu + Infinitiv, wenn das Subjekt gleich bleibt, und damit + Nebensatz, wenn es wechselt.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "To say what something is for (*Wozu?* – 'what for?'), use **um … zu + infinitive** when both parts have the **same subject**, and **damit** + subordinate clause (verb at the end) when the **subjects are different**.",
+      "mdDe": "Um zu sagen, wozu etwas da ist (*Wozu?* – ‚mit welchem Ziel?‘), nimmst du **um … zu + Infinitiv**, wenn beide Teile das **gleiche Subjekt** haben, und **damit** + Nebensatz (Verb am Ende), wenn die **Subjekte verschieden** sind."
+    },
+    {
+      "type": "text",
+      "heading": "um … zu: same subject",
+      "headingDe": "um … zu: gleiches Subjekt",
+      "md": "„Ich lerne Deutsch. Ich will in Österreich arbeiten.“ – both sentences are about „ich“. So you drop the subject and the modal verb in the second part: „Ich lerne Deutsch, **um** in Österreich **zu arbeiten**.“\n\n„um“ opens the clause, „zu“ + infinitive close it. There is no subject and no conjugated verb in an um-zu clause. With separable verbs, „zu“ goes between the prefix and the verb, written as one word: „…, um früh **aufzustehen**.“",
+      "mdDe": "„Ich lerne Deutsch. Ich will in Österreich arbeiten.“ – Beide Sätze haben dasselbe Subjekt: „ich“. Deshalb lässt du im zweiten Teil das Subjekt und das Modalverb weg: „Ich lerne Deutsch, **um** in Österreich **zu arbeiten**.“\n\n„um“ öffnet den Satz, „zu“ + Infinitiv schließen ihn. Ein um-zu-Satz hat kein Subjekt und kein konjugiertes Verb. Bei trennbaren Verben steht „zu“ zwischen Präfix und Verb, und alles wird zusammengeschrieben: „…, um früh **aufzustehen**.“"
+    },
+    {
+      "type": "text",
+      "heading": "damit: different subjects",
+      "headingDe": "damit: verschiedene Subjekte",
+      "md": "„Ich spreche langsam. **Meine Oma** versteht mich.“ – two different subjects. Now you need a full subordinate clause with its own subject: „Ich spreche langsam, **damit** meine Oma mich **versteht**.“\n\n„damit“ is also possible with the same subject („Ich lerne viel, damit ich die Prüfung bestehe.“), but „um … zu“ sounds better there. **können** is fine and very common in damit clauses („…, damit wir früher anfangen **können**“), but avoid „wollen“ and „sollen“ – the idea of purpose is already in „damit“.",
+      "mdDe": "„Ich spreche langsam. **Meine Oma** versteht mich.“ – zwei verschiedene Subjekte. Jetzt brauchst du einen vollständigen Nebensatz mit eigenem Subjekt: „Ich spreche langsam, **damit** meine Oma mich **versteht**.“\n\n„damit“ geht auch bei gleichem Subjekt („Ich lerne viel, damit ich die Prüfung bestehe.“), aber „um … zu“ klingt dann besser. **können** ist in damit-Sätzen in Ordnung und sehr häufig („…, damit wir früher anfangen **können**“). Vermeide aber „wollen“ und „sollen“ – die Idee des Ziels steckt schon in „damit“."
+    },
+    {
+      "type": "table",
+      "heading": "um … zu or damit?",
+      "headingDe": "um … zu oder damit?",
+      "columns": ["Situation", "Structure", "Example"],
+      "columnsDe": ["Situation", "Struktur", "Beispiel"],
+      "rows": [
+        ["same subject", "um + … + zu + infinitive", "Ich spare, um ein Auto zu kaufen."],
+        ["same subject, separable verb", "um + … + prefix-zu-verb", "Lea geht in die Stadt, um ein Geschenk auszusuchen."],
+        ["same subject, with a modal verb", "um + … + infinitive + zu + modal", "Ich mache einen Kurs, um im Notfall helfen zu können."],
+        ["different subjects", "damit + subject + … + verb", "Ich erkläre es noch einmal, damit du es verstehst."],
+        ["question", "Wozu …? – Um … zu … / Damit …", "Wozu brauchst du das Geld? – Um ein Auto zu kaufen."],
+        ["short form with a noun", "zum + noun / für + accusative", "Ich brauche die Brille zum Lesen. / Das Geld ist für die Reise."]
+      ],
+      "rowsDe": [
+        ["gleiches Subjekt", "um + … + zu + Infinitiv", "Ich spare, um ein Auto zu kaufen."],
+        ["gleiches Subjekt, trennbares Verb", "um + … + Präfix-zu-Verb", "Lea geht in die Stadt, um ein Geschenk auszusuchen."],
+        ["gleiches Subjekt, mit Modalverb", "um + … + Infinitiv + zu + Modalverb", "Ich mache einen Kurs, um im Notfall helfen zu können."],
+        ["verschiedene Subjekte", "damit + Subjekt + … + Verb", "Ich erkläre es noch einmal, damit du es verstehst."],
+        ["Frage", "Wozu …? – Um … zu … / Damit …", "Wozu brauchst du das Geld? – Um ein Auto zu kaufen."],
+        ["Kurzform mit Nomen", "zum + Nomen / für + Akkusativ", "Ich brauche die Brille zum Lesen. / Das Geld ist für die Reise."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word order",
+      "headingDe": "Wortstellung",
+      "columns": ["Main clause", "Connector", "Middle field", "End"],
+      "columnsDe": ["Hauptsatz", "Konnektor", "Mittelfeld", "Ende"],
+      "rows": [
+        ["Ich fahre nach Hamburg,", "um", "meine Tante", "zu besuchen."],
+        ["Wir gehen früh los,", "um", "pünktlich am Bahnhof", "anzukommen."],
+        ["Ich schreibe dir die Adresse auf,", "damit", "du sie nicht", "vergisst."],
+        ["Wir sprechen leise,", "damit", "das Baby", "schlafen kann."]
+      ]
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich gehe ins Fitnessstudio, **um** fit **zu bleiben**.", "en": "I go to the gym to stay fit." },
+        { "de": "Tarek macht einen Sprachkurs, **um** besser Deutsch **zu sprechen**.", "en": "Tarek is taking a language course to speak better German." },
+        { "de": "Wir stehen um fünf Uhr auf, **um** den ersten Zug **zu erreichen**.", "en": "We get up at five o'clock to catch the first train." },
+        { "de": "Carla ruft im Hotel an, **um** ein Zimmer **zu reservieren**.", "en": "Carla calls the hotel to book a room." },
+        { "de": "Ich schicke dir die Unterlagen, **damit** du dich gut **vorbereiten kannst**.", "en": "I'll send you the documents so that you can prepare well." },
+        { "de": "Die Lehrerin spricht langsam, **damit** alle sie **verstehen**.", "en": "The teacher speaks slowly so that everyone understands her." },
+        { "de": "Mach bitte das Licht aus, **damit** wir Strom **sparen**.", "en": "Please turn off the light so that we save electricity." },
+        { "de": "**Um** Geld **zu sparen**, fahre ich mit dem Fahrrad zur Arbeit.", "en": "To save money, I cycle to work." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In Sprachbausteine Teil 1 the options are often „um / damit / weil“ or „zu / um / damit“. Count the subjects and look at the end of the clause: „zu“ + infinitive → „um“; subject + conjugated verb at the end → „damit“. In Sprachbausteine Teil 2 „damit“ is a frequent word-bank item, e.g. „…, damit ich planen kann“.\n\nIn **Schreiben** you can use these structures for almost every guiding point: „Ich schreibe Ihnen, um mich über den Kurs zu informieren.“ / „Könnten Sie mir die Unterlagen schicken, damit ich mich anmelden kann?“ In **Sprechen** Teil 3 they help you justify suggestions: „Wir sollten früh losfahren, um einen Parkplatz zu finden.“",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 stehen oft „um / damit / weil“ oder „zu / um / damit“ zur Auswahl. Zähl die Subjekte und schau auf das Satzende: „zu“ + Infinitiv → „um“; Subjekt + konjugiertes Verb am Ende → „damit“. In Sprachbausteine Teil 2 ist „damit“ oft eines der Wörter im Kasten, z. B. „…, damit ich planen kann“.\n\nIm **Schreiben** kannst du diese Strukturen für fast jeden Leitpunkt verwenden: „Ich schreibe Ihnen, um mich über den Kurs zu informieren.“ / „Könnten Sie mir die Unterlagen schicken, damit ich mich anmelden kann?“ In **Sprechen** Teil 3 helfen sie dir, Vorschläge zu begründen: „Wir sollten früh losfahren, um einen Parkplatz zu finden.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** using „um … zu“ when the subjects are different. „Ich gebe dir mein Auto, um du zum Flughafen zu fahren“ is wrong → „…, **damit du** zum Flughafen fahren **kannst**.“\n\nAnother trap is „für … zu“, copied from English *for* or French *pour*: „Ich lerne, für die Prüfung zu bestehen“ is wrong → „Ich lerne, **um** die Prüfung **zu bestehen**.“",
+      "mdDe": "**Typische Falle:** „um … zu“ bei verschiedenen Subjekten. „Ich gebe dir mein Auto, um du zum Flughafen zu fahren“ ist falsch → „…, **damit du** zum Flughafen fahren **kannst**.“\n\nEine andere Falle ist „für … zu“, übernommen aus dem englischen *for* oder dem französischen *pour*: „Ich lerne, für die Prüfung zu bestehen“ ist falsch → „Ich lerne, **um** die Prüfung **zu bestehen**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich spare Geld, um ich kaufe ein Auto.",
+      "right": "Ich spare Geld, um ein Auto zu kaufen.",
+      "why": "An um-zu clause has no subject and no conjugated verb – just „zu“ + infinitive at the end.",
+      "whyDe": "Ein um-zu-Satz hat kein Subjekt und kein konjugiertes Verb – nur „zu“ + Infinitiv am Ende."
+    },
+    {
+      "wrong": "Ich spreche langsam, um mein Sohn mich versteht.",
+      "right": "Ich spreche langsam, damit mein Sohn mich versteht.",
+      "why": "The subjects are different („ich“ / „mein Sohn“) → „damit“.",
+      "whyDe": "Die Subjekte sind verschieden („ich“ / „mein Sohn“) → „damit“."
+    },
+    {
+      "wrong": "Ich fahre nach Köln für meine Freundin zu besuchen.",
+      "right": "Ich fahre nach Köln, um meine Freundin zu besuchen.",
+      "why": "Purpose with a verb is „um … zu“, never „für … zu“.",
+      "whyDe": "Ein Ziel mit einem Verb drückst du mit „um … zu“ aus, nie mit „für … zu“."
+    },
+    {
+      "wrong": "Er steht früh auf, um pünktlich zu ankommen.",
+      "right": "Er steht früh auf, um pünktlich anzukommen.",
+      "why": "With separable verbs, „zu“ goes between the prefix and the verb, written as one word.",
+      "whyDe": "Bei trennbaren Verben steht „zu“ zwischen Präfix und Verb, alles in einem Wort."
+    },
+    {
+      "wrong": "Ich lasse das Fenster offen, damit die Katze kann hereinkommen.",
+      "right": "Ich lasse das Fenster offen, damit die Katze hereinkommen kann.",
+      "why": "In a damit clause, the conjugated verb goes to the end.",
+      "whyDe": "Im damit-Satz steht das konjugierte Verb am Ende."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich gehe in die Bibliothek, ___ in Ruhe zu lernen.",
+      "options": ["damit", "um", "weil"],
+      "answer": 1,
+      "explanation": "The clause ends with „zu lernen“ and has no subject → „um … zu“.",
+      "explanationDe": "Der Satz endet mit „zu lernen“ und hat kein Subjekt → „um … zu“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir kaufen ein größeres Auto, ___ alle Kinder Platz haben.",
+      "options": ["damit", "um", "für"],
+      "answer": 0,
+      "explanation": "There is a new subject („alle Kinder“) and the verb „haben“ is at the end → „damit“.",
+      "explanationDe": "Es gibt ein neues Subjekt („alle Kinder“), und das Verb „haben“ steht am Ende → „damit“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Frau Schulz ruft beim Bürgeramt an, um einen Termin ___.",
+      "options": ["vereinbart", "zu vereinbaren", "vereinbaren"],
+      "answer": 1,
+      "explanation": "„um“ needs „zu“ + infinitive at the end: „um einen Termin zu vereinbaren“.",
+      "explanationDe": "„um“ braucht „zu“ + Infinitiv am Ende: „um einen Termin zu vereinbaren“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich muss früh ins Bett, um morgen um fünf Uhr ___.",
+      "options": ["zu aufstehen", "aufstehe", "aufzustehen"],
+      "answer": 2,
+      "explanation": "„aufstehen“ is separable, so „zu“ goes between prefix and verb, written as one word: „aufzustehen“.",
+      "explanationDe": "„aufstehen“ ist trennbar, deshalb steht „zu“ zwischen Präfix und Verb, alles in einem Wort: „aufzustehen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ besser Deutsch zu lernen, schaut Amir jeden Abend die Nachrichten.",
+      "options": ["Um", "Damit", "Für"],
+      "answer": 0,
+      "explanation": "„zu lernen“ at the end and the same subject (Amir) → „Um“. The um-zu clause is position 1, so the main clause starts with the verb „schaut“.",
+      "explanationDe": "„zu lernen“ am Ende und das gleiche Subjekt (Amir) → „Um“. Der um-zu-Satz steht auf Position 1, deshalb beginnt der Hauptsatz mit dem Verb „schaut“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich gebe dir meine Telefonnummer, ___ du mich anrufen kannst.",
+      "hint": "(purpose)",
+      "hintDe": "(Zweck)",
+      "answers": ["damit"],
+      "explanation": "Different subjects („ich“ / „du“) and the verb „kannst“ at the end → „damit“.",
+      "explanationDe": "Verschiedene Subjekte („ich“ / „du“) und das Verb „kannst“ am Ende → „damit“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Sie macht einen Erste-Hilfe-Kurs, um im Notfall helfen zu ___.",
+      "hint": "(be able to)",
+      "hintDe": "(in der Lage sein)",
+      "answers": ["können"],
+      "explanation": "With a modal verb, the um-zu clause ends with infinitive + „zu“ + modal infinitive: „helfen zu können“.",
+      "explanationDe": "Mit Modalverb endet der um-zu-Satz mit Infinitiv + „zu“ + Infinitiv des Modalverbs: „helfen zu können“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich fahre zum Bahnhof, um meinen Onkel ___.",
+      "hint": "(abholen)",
+      "answers": ["abzuholen"],
+      "explanation": "„abholen“ is separable: „zu“ goes between „ab“ and „holen“ → „abzuholen“.",
+      "explanationDe": "„abholen“ ist trennbar: „zu“ steht zwischen „ab“ und „holen“ → „abzuholen“."
+    },
+    {
+      "type": "order",
+      "words": ["studieren.", "in", "Ich", "um", "Wien", "zu", "lerne", "Deutsch,"],
+      "answers": ["Ich lerne Deutsch, um in Wien zu studieren."],
+      "explanation": "Same subject („ich“) → „um“ after the comma, „zu“ + infinitive at the very end.",
+      "explanationDe": "Gleiches Subjekt („ich“) → „um“ nach dem Komma, „zu“ + Infinitiv ganz am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["kann.", "leise,", "das", "Wir", "damit", "schlafen", "Baby", "sprechen"],
+      "answers": ["Wir sprechen leise, damit das Baby schlafen kann."],
+      "explanation": "Different subjects („wir“ / „das Baby“) → „damit“, with the conjugated verb „kann“ at the end.",
+      "explanationDe": "Verschiedene Subjekte („wir“ / „das Baby“) → „damit“, mit dem konjugierten Verb „kann“ am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „um … zu“.",
+      "instructionDe": "Verbinde die Sätze mit „um … zu“.",
+      "prompt": "Ich gehe zur Post. Ich will ein Paket abholen.",
+      "answers": ["Ich gehe zur Post, um ein Paket abzuholen.", "Um ein Paket abzuholen, gehe ich zur Post."],
+      "explanation": "Same subject („ich“), so drop „ich will“ and use „um … zu“. With the separable verb „abholen“: „abzuholen“.",
+      "explanationDe": "Gleiches Subjekt („ich“), also lässt du „ich will“ weg und nimmst „um … zu“. Mit dem trennbaren Verb „abholen“: „abzuholen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „damit“.",
+      "instructionDe": "Verbinde die Sätze mit „damit“.",
+      "prompt": "Der Lehrer schreibt die Wörter an die Tafel. Die Schüler können sie notieren.",
+      "answers": ["Der Lehrer schreibt die Wörter an die Tafel, damit die Schüler sie notieren können."],
+      "explanation": "Different subjects („der Lehrer“ / „die Schüler“) → „damit“. The conjugated verb „können“ goes to the end.",
+      "explanationDe": "Verschiedene Subjekte („der Lehrer“ / „die Schüler“) → „damit“. Das konjugierte Verb „können“ steht am Ende."
+    }
+  ],
+  "related": ["infinitiv-mit-zu", "nebensaetze-grundlagen", "kausale-konsekutive-saetze", "modalverben", "trennbare-verben"]
+}

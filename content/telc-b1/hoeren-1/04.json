@@ -1,0 +1,100 @@
+{
+  "id": "hoeren-1-04",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Urlaub daheim oder im Ausland?",
+  "topic": "reisen",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "uwe", "name": "Uwe", "gender": "m", "age": "adult" },
+    { "id": "ingrid", "name": "Ingrid", "gender": "f", "age": "senior" },
+    { "id": "kevin", "name": "Kevin", "gender": "m", "age": "young" },
+    { "id": "miriam", "name": "Miriam", "gender": "f", "age": "adult" },
+    { "id": "elif", "name": "Elif", "gender": "f", "age": "young" }
+  ],
+  "intro": [
+    { "s": "mod", "t": "Die Sommerferien stehen vor der Tür, und viele von Ihnen packen bald die Koffer." },
+    { "s": "mod", "t": "Unsere Frage heute lautet deshalb: Machen Sie lieber Urlaub im eigenen Land, oder zieht es Sie ins Ausland?" }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "script": [
+        { "s": "uwe", "t": "Für mich kommt nur das Ausland infrage. Wir fliegen jedes Jahr nach Portugal, an die Algarve." },
+        { "s": "uwe", "t": "Ich hab einfach keine Lust, zwei Wochen an der Ostsee zu sitzen und jeden Tag dem Regen zuzuschauen. Das hatten wir einmal, und das war wirklich kein Spaß." },
+        { "s": "uwe", "t": "In Portugal weiß ich, dass die Sonne scheint. Und das Essen und der Wein sind dort auch nicht schlecht." }
+      ],
+      "statement": "Für den Mann ist schönes Wetter im Urlaub besonders wichtig.",
+      "answer": true,
+      "explanation": "He does not want to spend two weeks at the Baltic Sea watching the rain again. In Portugal „weiß ich, dass die Sonne scheint“ – the weather is his main reason.",
+      "explanationDe": "Er will nicht noch einmal zwei Wochen an der Ostsee sitzen und dem Regen zuschauen. In Portugal „weiß ich, dass die Sonne scheint“ – das Wetter ist sein wichtigster Grund.",
+      "evidence": "In Portugal weiß ich, dass die Sonne scheint."
+    },
+    {
+      "n": 2,
+      "script": [
+        { "s": "ingrid", "t": "Früher sind mein Mann und ich viel geflogen, sogar bis nach Thailand. Aber heute ist mir das zu anstrengend, und gut für die Umwelt ist es ja auch nicht." },
+        { "s": "ingrid", "t": "Wir fahren jetzt mit dem Zug in den Harz oder an die Mosel. Da gibt es so viel zu entdecken, das glaubt man gar nicht." },
+        { "s": "ingrid", "t": "Ich muss nicht mehr ans andere Ende der Welt reisen, um mich zu erholen." }
+      ],
+      "statement": "Die Frau möchte im Urlaub am liebsten in ferne Länder fliegen.",
+      "answer": false,
+      "explanation": "Flying to Thailand was „früher“. Today she takes the train to German regions and says: „Ich muss nicht mehr ans andere Ende der Welt reisen“.",
+      "explanationDe": "Die Flüge nach Thailand waren „früher“. Heute fährt sie mit dem Zug in deutsche Regionen und sagt: „Ich muss nicht mehr ans andere Ende der Welt reisen“.",
+      "evidence": "Ich muss nicht mehr ans andere Ende der Welt reisen, um mich zu erholen."
+    },
+    {
+      "n": 3,
+      "script": [
+        { "s": "kevin", "t": "Urlaub im Ausland? Das kann ich mir im Moment gar nicht leisten. Ich hab gerade meine erste eigene Wohnung, und die Miete ist ziemlich hoch." },
+        { "s": "kevin", "t": "Diesen Sommer mache ich also Urlaub auf Balkonien, wie man so schön sagt. Ich geh mit Freunden an den Baggersee, wir grillen und machen Radtouren." },
+        { "s": "kevin", "t": "Ehrlich gesagt ist das gar nicht so schlecht. Und nächstes Jahr fahre ich vielleicht mal nach Italien." }
+      ],
+      "statement": "Der junge Mann bleibt diesen Sommer zu Hause, weil ihm das Geld fehlt.",
+      "answer": true,
+      "explanation": "„Das kann ich mir im Moment gar nicht leisten“ – his rent is high, so he spends the summer at home („Urlaub auf Balkonien“). Italy is only a maybe for next year.",
+      "explanationDe": "„Das kann ich mir im Moment gar nicht leisten“ – seine Miete ist hoch, deshalb verbringt er den Sommer zu Hause („Urlaub auf Balkonien“). Italien ist erst für nächstes Jahr geplant – und auch das nur vielleicht.",
+      "evidence": "Das kann ich mir im Moment gar nicht leisten."
+    },
+    {
+      "n": 4,
+      "script": [
+        { "s": "miriam", "t": "Letztes Jahr sind wir mit den Kindern nach Kroatien gefahren, zwölf Stunden im Auto. Das war der Horror, die beiden haben die ganze Zeit gestritten." },
+        { "s": "miriam", "t": "Dieses Jahr machen wir Urlaub auf einem Bauernhof im Allgäu. Die Kinder dürfen die Tiere füttern und reiten, und abends schlafen sie sofort ein." },
+        { "s": "miriam", "t": "Für uns Eltern ist das viel entspannter. So eine lange Reise mache ich mit kleinen Kindern bestimmt nicht noch mal." }
+      ],
+      "statement": "Die Frau möchte mit ihren Kindern wieder nach Kroatien fahren.",
+      "answer": false,
+      "explanation": "The long drive to Croatia was „der Horror“. This year they go to a farm in the Allgäu, and she will „bestimmt nicht noch mal“ make such a long trip with small children.",
+      "explanationDe": "Die lange Autofahrt nach Kroatien war „der Horror“. Dieses Jahr fahren sie auf einen Bauernhof im Allgäu, und so eine lange Reise macht sie mit kleinen Kindern „bestimmt nicht noch mal“.",
+      "evidence": "So eine lange Reise mache ich mit kleinen Kindern bestimmt nicht noch mal."
+    },
+    {
+      "n": 5,
+      "script": [
+        { "s": "elif", "t": "Meine Eltern kommen aus der Türkei, und wir fahren jeden Sommer zu meinen Großeltern nach Izmir. Das ist schön, aber für mich ist das eigentlich kein richtiger Urlaub, sondern einfach Familie." },
+        { "s": "elif", "t": "Das Lustige ist: Ich war noch nie an der Nordsee oder in den Alpen." },
+        { "s": "elif", "t": "Genau das möchte ich unbedingt mal machen, mit dem Zelt durch Deutschland reisen. Meine Freundinnen lachen darüber, die wollen alle nach Bali." }
+      ],
+      "statement": "Die junge Frau möchte gern einmal in Deutschland Urlaub machen.",
+      "answer": true,
+      "explanation": "Visiting her grandparents in Izmir is „kein richtiger Urlaub“ for her. She has never been to the North Sea or the Alps and wants to travel „mit dem Zelt durch Deutschland“.",
+      "explanationDe": "Der Besuch bei ihren Großeltern in Izmir ist für sie „kein richtiger Urlaub“. Sie war noch nie an der Nordsee oder in den Alpen und möchte „mit dem Zelt durch Deutschland“ reisen.",
+      "evidence": "Genau das möchte ich unbedingt mal machen, mit dem Zelt durch Deutschland reisen."
+    }
+  ],
+  "glossary": [
+    { "de": "infrage kommen", "en": "to be an option" },
+    { "de": "die Ostsee", "en": "the Baltic Sea" },
+    { "de": "anstrengend", "en": "tiring, exhausting" },
+    { "de": "entdecken", "en": "to discover" },
+    { "de": "sich erholen", "en": "to relax, to recover" },
+    { "de": "sich etwas leisten können", "en": "to be able to afford something" },
+    { "de": "Urlaub auf Balkonien", "en": "a holiday at home (joke: on the balcony)" },
+    { "de": "der Baggersee", "en": "lake in a former gravel pit" },
+    { "de": "der Bauernhof", "en": "farm" },
+    { "de": "füttern", "en": "to feed (animals)" },
+    { "de": "das Zelt", "en": "tent" }
+  ]
+}

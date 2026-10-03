@@ -1,0 +1,235 @@
+{
+  "id": "lesen-3-06",
+  "examId": "telc-b1",
+  "type": "ad-matching",
+  "title": "Essen gehen in Wien",
+  "topic": "essen",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Sie möchten am Sonntagvormittag mit Ihrer Familie gemütlich und reichlich frühstücken. Ihre Kinder sind vier und acht Jahre alt.",
+      "answer": "b",
+      "explanation": "„Sonntagsbrunch: großes Buffet 10–14 Uhr“, „Kinder bis 6 Jahre essen gratis, Spielecke vorhanden“ – the café (b) is perfect for a family breakfast on Sunday.",
+      "explanationDe": "„Sonntagsbrunch: großes Buffet 10–14 Uhr“, „Kinder bis 6 Jahre essen gratis, Spielecke vorhanden“ – das Café (b) ist perfekt für ein Familienfrühstück am Sonntag."
+    },
+    {
+      "n": 2,
+      "text": "Ihr Kollege lebt vegan. Sie möchten ihn am Samstagabend in ein Restaurant einladen.",
+      "answer": "x",
+      "explanation": "The restaurant (f) is „100 % vegan“, but it is only open „Mo.–Fr. 11–16 Uhr“ – not on Saturday evening. No other ad offers vegan food, so the answer is x.",
+      "explanationDe": "Das Restaurant (f) ist „100 % vegan“, aber nur „Mo.–Fr. 11–16 Uhr“ geöffnet – nicht am Samstagabend. Keine andere Anzeige bietet veganes Essen an, deshalb ist die Lösung x."
+    },
+    {
+      "n": 3,
+      "text": "Ihre Gäste haben um halb elf am Abend noch Hunger. Sie möchten etwas zu essen in Ihre Wohnung im 3. Bezirk liefern lassen.",
+      "answer": "h",
+      "explanation": "„Lieferung täglich 11–23 Uhr in den 2., 3. und 20. Bezirk“ – the pizzeria (h) still delivers at 10.30 p.m. The sushi service (c) delivers to all districts, but only until „22 Uhr“.",
+      "explanationDe": "„Lieferung täglich 11–23 Uhr in den 2., 3. und 20. Bezirk“ – die Pizzeria (h) liefert um 22.30 Uhr noch. Der Sushi-Lieferdienst (c) liefert in alle Bezirke, aber nur bis „22 Uhr“."
+    },
+    {
+      "n": 4,
+      "text": "Ihre Freundin hat eine Glutenunverträglichkeit. Sie möchten mit ihr an einem Sonntagnachmittag Kaffee trinken und Kuchen essen.",
+      "answer": "k",
+      "explanation": "„Torten und Kuchen – 100 % glutenfrei“ and „Mi.–So. 10–19 Uhr“ – the café (k) is open on Sunday afternoon and safe for your friend. Café Morgenrot (b) has home-made cakes, but the ad says nothing about gluten-free food.",
+      "explanationDe": "„Torten und Kuchen – 100 % glutenfrei“ und „Mi.–So. 10–19 Uhr“ – das Café (k) hat am Sonntagnachmittag geöffnet und ist sicher für deine Freundin. Das Café Morgenrot (b) hat hausgemachte Kuchen, aber in der Anzeige steht nichts über glutenfreies Essen."
+    },
+    {
+      "n": 5,
+      "text": "Sie feiern in drei Wochen Ihren 40. Geburtstag mit 30 Gästen in Ihrem Garten. An diesem Tag möchten Sie nicht selbst kochen.",
+      "answer": "e",
+      "explanation": "„Buffets für 20 bis 200 Personen“ and „Lieferung, Geschirr und Besteck inklusive“ – the catering service (e) brings the food to your garden. The inn (a) has a room for groups, but then you would celebrate in the restaurant, not at home.",
+      "explanationDe": "„Buffets für 20 bis 200 Personen“ und „Lieferung, Geschirr und Besteck inklusive“ – der Partyservice (e) bringt das Essen in deinen Garten. Das Gasthaus (a) hat einen Raum für Gruppen, aber dann würdest du im Restaurant feiern, nicht zu Hause."
+    },
+    {
+      "n": 6,
+      "text": "Ihre Großmutter hat Diabetes und kann nicht mehr selbst kochen. Sie braucht jeden Tag – auch samstags und sonntags – ein warmes Mittagessen.",
+      "answer": "d",
+      "explanation": "„auch am Wochenende und an Feiertagen“ and „Diabetiker- und Schonkost“ – the meal service (d) delivers suitable lunches every day. The lunch box service (l) only delivers „Mo.–Fr.“ and to offices.",
+      "explanationDe": "„auch am Wochenende und an Feiertagen“ und „Diabetiker- und Schonkost“ – der Essenslieferdienst (d) bringt jeden Tag ein passendes Mittagessen. Der Lunchbox-Service (l) liefert nur „Mo.–Fr.“ und nur in Büros."
+    },
+    {
+      "n": 7,
+      "text": "Sie und sechs Kolleginnen und Kollegen haben morgen eine lange Besprechung. Sie möchten sich das Mittagessen ins Büro liefern lassen.",
+      "answer": "l",
+      "explanation": "„Gesundes Mittagessen direkt ins Büro“ and „Für Firmen und Teams ab 5 Personen“ – (l) delivers lunch for your group of seven. The Indian restaurant (i) has a lunch buffet, but „keine Lieferung“.",
+      "explanationDe": "„Gesundes Mittagessen direkt ins Büro“ und „Für Firmen und Teams ab 5 Personen“ – (l) liefert Mittagessen für deine Gruppe von sieben Personen. Das indische Restaurant (i) hat ein Mittagsbuffet, aber „keine Lieferung“."
+    },
+    {
+      "n": 8,
+      "text": "Sie kommen um ein Uhr nachts aus einem Konzert und haben großen Hunger. Sie möchten unterwegs schnell noch eine Kleinigkeit essen.",
+      "answer": "g",
+      "explanation": "„Täglich 18–4 Uhr früh geöffnet“ – the sausage stand (g) is still open at 1 a.m. The pizzeria (h) only delivers until 11 p.m.",
+      "explanationDe": "„Täglich 18–4 Uhr früh geöffnet“ – der Würstelstand (g) hat um 1 Uhr nachts noch geöffnet. Die Pizzeria (h) liefert nur bis 23 Uhr."
+    },
+    {
+      "n": 9,
+      "text": "Sie möchten an einem warmen Sommerabend typisch wienerisch essen – draußen und zusammen mit Ihrem Hund.",
+      "answer": "j",
+      "explanation": "„Echte Wiener Küche“, „Schanigarten“ and „Hunde sind bei uns herzlich willkommen!“ – the Beisl (j) fits all three conditions. The inn (a) also has Viennese food and a garden, but „Hunde bitte nicht mitbringen“.",
+      "explanationDe": "„Echte Wiener Küche“, „Schanigarten“ und „Hunde sind bei uns herzlich willkommen!“ – das Beisl (j) erfüllt alle drei Bedingungen. Das Gasthaus (a) hat auch Wiener Küche und einen Garten, aber: „Hunde bitte nicht mitbringen“."
+    },
+    {
+      "n": 10,
+      "text": "Ihr Sportverein möchte nach der Jahresversammlung mit 35 Mitgliedern zusammen essen – in einem eigenen Raum, in dem man ungestört ist.",
+      "answer": "a",
+      "explanation": "„Extrazimmer für Feiern und Gruppen bis 40 Personen“ – the inn (a) has a separate room for 35 people. The catering service (e) cooks for large groups, but it has no room.",
+      "explanationDe": "„Extrazimmer für Feiern und Gruppen bis 40 Personen“ – das Gasthaus (a) hat einen eigenen Raum für 35 Personen. Der Partyservice (e) kocht für große Gruppen, hat aber keinen Raum."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Gasthaus Zur Alten Mühle",
+      "subheading": "Wiener Küche seit 1902",
+      "lines": [
+        "Schnitzel, Tafelspitz und Mehlspeisen nach Großmutters Rezept",
+        "Extrazimmer für Feiern und Gruppen bis 40 Personen",
+        "Großer Gastgarten unter Kastanien",
+        "Hunde bitte nicht mitbringen.",
+        "Di.–So. 11–23 Uhr, Montag Ruhetag"
+      ],
+      "footer": "Mühlgasse 14, 1040 Wien · Tel. 01 5873316"
+    },
+    {
+      "key": "b",
+      "heading": "Café Morgenrot",
+      "subheading": "Frühstück bis 15 Uhr",
+      "lines": [
+        "Sonntagsbrunch: großes Buffet 10–14 Uhr, 24,50 € pro Person",
+        "Kinder bis 6 Jahre essen gratis, Spielecke vorhanden",
+        "Hausgemachte Mehlspeisen und Torten",
+        "Reservierung empfohlen"
+      ],
+      "footer": "Sonnenweg 9, 1070 Wien · Tel. 01 5229047 · www.cafe-morgenrot.at"
+    },
+    {
+      "key": "c",
+      "heading": "Sushi-Bote Wien",
+      "lines": [
+        "Frisches Sushi, Bowls und Suppen",
+        "Lieferung täglich 17–22 Uhr in alle Bezirke",
+        "Mindestbestellwert 25 €, Lieferung gratis",
+        "Online bestellen und 10 % sparen"
+      ],
+      "footer": "Tel. 01 2604411 · www.sushibote-wien.at"
+    },
+    {
+      "key": "d",
+      "heading": "Mittagsbote",
+      "subheading": "Warmes Mittagessen für ältere und kranke Menschen",
+      "lines": [
+        "Täglich frisch gekocht und geliefert – auch am Wochenende und an Feiertagen",
+        "Jeden Tag 3 Menüs zur Auswahl, auch Diabetiker- und Schonkost",
+        "Lieferung direkt in Ihre Wohnung, ab 8,90 € pro Menü",
+        "Keine Mindestlaufzeit"
+      ],
+      "footer": "Bestellung: Tel. 01 7409920 · www.mittagsbote.at"
+    },
+    {
+      "key": "e",
+      "heading": "Partyservice Festtafel",
+      "subheading": "Sie feiern – wir kochen!",
+      "lines": [
+        "Kalte und warme Buffets für 20 bis 200 Personen",
+        "Lieferung, Geschirr und Besteck inklusive",
+        "Auf Wunsch mit Servicepersonal",
+        "Bitte mindestens 10 Tage vorher bestellen."
+      ],
+      "footer": "Tel. 01 6157738 · www.festtafel.at"
+    },
+    {
+      "key": "f",
+      "heading": "Grünzeug",
+      "subheading": "100 % vegane Küche",
+      "lines": [
+        "Wechselnde Mittagsmenüs: Suppe und Hauptgericht 11,90 €",
+        "Regionale Bio-Zutaten",
+        "Alles auch zum Mitnehmen",
+        "Geöffnet Mo.–Fr. 11–16 Uhr"
+      ],
+      "footer": "Hofgasse 3, 1050 Wien · www.vegan-mittag.at"
+    },
+    {
+      "key": "g",
+      "heading": "Würstelstand Gürtel-Eck",
+      "lines": [
+        "Würstel, Leberkäse und Pommes",
+        "Täglich 18–4 Uhr früh geöffnet",
+        "Getränke, auch alkoholfrei",
+        "Nur Barzahlung"
+      ],
+      "footer": "Am Gürtel, direkt beim Ausgang der U6"
+    },
+    {
+      "key": "h",
+      "heading": "Pizzeria Vesuvio – Lieferservice",
+      "lines": [
+        "Pizza aus dem Holzofen, Pasta und Salate",
+        "Lieferung täglich 11–23 Uhr in den 2., 3. und 20. Bezirk",
+        "Lieferung frei Haus ab 15 € Bestellwert",
+        "Jeden Dienstag: jede Pizza 7,50 €"
+      ],
+      "footer": "Tel. 01 7124488 · www.vesuvio-lieferservice.at"
+    },
+    {
+      "key": "i",
+      "heading": "Masala – indisches Restaurant",
+      "lines": [
+        "Mittagsbuffet Mo.–Fr. 11.30–14.30 Uhr: so viel Sie wollen für 12,90 €",
+        "Abends à la carte – scharf oder mild",
+        "Alle Speisen auch zum Abholen, keine Lieferung"
+      ],
+      "footer": "Praterweg 6, 1020 Wien · Tel. 01 2147730"
+    },
+    {
+      "key": "j",
+      "heading": "Beisl Zum Fiaker",
+      "subheading": "Echte Wiener Küche in gemütlicher Atmosphäre",
+      "lines": [
+        "Gulasch, Wiener Schnitzel und Palatschinken",
+        "Schanigarten von April bis Oktober",
+        "Hunde sind bei uns herzlich willkommen!",
+        "Täglich 11.30–23 Uhr"
+      ],
+      "footer": "Kutschergasse 7, 1030 Wien · Tel. 01 7135590"
+    },
+    {
+      "key": "k",
+      "heading": "Café Weizenlos",
+      "subheading": "Torten und Kuchen – 100 % glutenfrei",
+      "lines": [
+        "Für Menschen mit Zöliakie und alle, die lieber ohne Gluten essen",
+        "Auch laktosefreie Kuchen",
+        "Mi.–So. 10–19 Uhr",
+        "Torten auf Bestellung"
+      ],
+      "footer": "Lindauergasse 2, 1160 Wien · www.weizenlos.at"
+    },
+    {
+      "key": "l",
+      "heading": "Lunchbox Wien",
+      "subheading": "Gesundes Mittagessen direkt ins Büro",
+      "lines": [
+        "Für Firmen und Teams ab 5 Personen",
+        "Bis 10 Uhr bestellen – Lieferung zwischen 11.30 und 13 Uhr",
+        "Jeden Tag 4 Gerichte, davon 2 vegetarisch",
+        "Lieferung Mo.–Fr. kostenlos"
+      ],
+      "footer": "Tel. 01 3349981 · www.lunchbox-wien.at"
+    }
+  ],
+  "glossary": [
+    { "de": "das Beisl (österr.)", "en": "traditional Viennese pub-restaurant" },
+    { "de": "der Schanigarten (österr.)", "en": "outdoor seating area of a café or restaurant" },
+    { "de": "die Mehlspeise (österr.)", "en": "cake, pastry, sweet dish" },
+    { "de": "der Ruhetag", "en": "day on which a restaurant is closed" },
+    { "de": "das Extrazimmer", "en": "private room (for groups)" },
+    { "de": "der Mindestbestellwert", "en": "minimum order value" },
+    { "de": "die Glutenunverträglichkeit", "en": "gluten intolerance" },
+    { "de": "die Schonkost", "en": "light diet (for people who are ill)" },
+    { "de": "zum Mitnehmen / zum Abholen", "en": "to take away / for collection" },
+    { "de": "die Barzahlung", "en": "cash payment" },
+    { "de": "ungestört", "en": "undisturbed, in private" }
+  ]
+}

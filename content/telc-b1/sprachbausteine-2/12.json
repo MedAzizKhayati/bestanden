@@ -1,0 +1,108 @@
+{
+  "id": "sprachbausteine-2-12",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Reklamation: Laptop defekt",
+  "topic": "technik",
+  "difficulty": 3,
+  "textType": "letter-formal",
+  "text": "Sehr geehrte Damen und Herren,\n\nam 2. Februar habe ich in Ihrem Online-Shop einen Laptop des Modells „Vela 15“ bestellt. Die Lieferung kam [[1]] pünktlich, aber leider funktioniert das Gerät schon nach drei Wochen nicht mehr richtig.\n\nSeit einigen Tagen flackert der Bildschirm ständig, und manchmal schaltet sich der Laptop ganz [[2]] aus. Ich habe alle Hinweise in der Bedienungsanleitung [[3]] und das Gerät mehrmals neu gestartet. Das Problem besteht jedoch [[4]].\n\nAm Montag habe ich Ihre Hotline angerufen. Nach 40 Minuten Wartezeit hat mir ein Mitarbeiter empfohlen, das Gerät zur Reparatur einzuschicken. Eine Reparatur, die mehrere Wochen dauert, ist für mich allerdings keine [[5]], denn ich brauche den Laptop jeden Tag für mein Studium.\n\nIch bitte Sie deshalb, mir [[6]] ein neues Gerät zu schicken. Sollte dieses Modell nicht mehr [[7]] sein, möchte ich vom Kauf zurücktreten und den Kaufpreis von 649 Euro zurückbekommen.\n\nEine Kopie der Rechnung habe ich diesem Schreiben [[8]]. Bitte teilen Sie mir mit, [[9]] ich den defekten Laptop schicken soll und ob Sie die Versandkosten übernehmen.\n\nIhre Antwort erwarte ich [[10]] zum 20. März.\n\nMit freundlichen Grüßen\nLena Kowalski",
+  "words": [
+    { "key": "a", "text": "ab" },
+    { "key": "b", "text": "befolgt" },
+    { "key": "c", "text": "beigefügt" },
+    { "key": "d", "text": "bis" },
+    { "key": "e", "text": "Ersatz" },
+    { "key": "f", "text": "gefolgt" },
+    { "key": "g", "text": "geliefert" },
+    { "key": "h", "text": "lieferbar" },
+    { "key": "i", "text": "Lösung" },
+    { "key": "j", "text": "plötzlich" },
+    { "key": "k", "text": "stattdessen" },
+    { "key": "l", "text": "weiterhin" },
+    { "key": "m", "text": "woher" },
+    { "key": "n", "text": "wohin" },
+    { "key": "o", "text": "zwar" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "o",
+      "explanation": "„zwar …, aber …“ is a two-part connector: the delivery was on time, but the laptop does not work. „aber“ already follows, so „zwar“ completes the structure.",
+      "explanationDe": "„zwar …, aber …“ ist ein zweiteiliger Konnektor: Die Lieferung war pünktlich, aber der Laptop funktioniert nicht. „aber“ kommt schon später im Satz, deshalb macht „zwar“ die Struktur komplett.",
+      "grammar": "zweiteilige-konnektoren"
+    },
+    {
+      "n": 2,
+      "answer": "j",
+      "explanation": "„ganz plötzlich“ means „all of a sudden“: the laptop sometimes switches itself off without any warning.",
+      "explanationDe": "„ganz plötzlich“ bedeutet: auf einmal, ganz unerwartet. Der Laptop schaltet sich manchmal ohne jede Warnung aus."
+    },
+    {
+      "n": 3,
+      "answer": "b",
+      "explanation": "„Hinweise befolgen“ means „to follow instructions“ (accusative object, perfect with „haben“): „Ich habe alle Hinweise … befolgt.“ „gefolgt“ is a trap: „folgen“ takes the dative and forms the perfect with „sein“ („Ich bin allen Hinweisen gefolgt“).",
+      "explanationDe": "„Hinweise befolgen“ bedeutet, das zu tun, was in den Hinweisen steht (Akkusativobjekt, Perfekt mit „haben“): „Ich habe alle Hinweise … befolgt.“ „gefolgt“ ist eine Falle: „folgen“ steht mit Dativ und bildet das Perfekt mit „sein“ („Ich bin allen Hinweisen gefolgt“).",
+      "grammar": "perfekt"
+    },
+    {
+      "n": 4,
+      "answer": "l",
+      "explanation": "„Das Problem besteht weiterhin“ means „the problem still exists“ – restarting the laptop did not help.",
+      "explanationDe": "„Das Problem besteht weiterhin“ bedeutet: Das Problem ist immer noch da – der Neustart hat nicht geholfen."
+    },
+    {
+      "n": 5,
+      "answer": "i",
+      "explanation": "„keine“ needs a feminine noun: „keine Lösung“ (no solution) – a repair that takes weeks does not solve her problem. „Ersatz“ is masculine („kein Ersatz“).",
+      "explanationDe": "Nach „keine“ braucht man ein feminines Nomen: „keine Lösung“ – eine Reparatur, die Wochen dauert, löst ihr Problem nicht. „Ersatz“ ist maskulin („kein Ersatz“).",
+      "grammar": "kasus-und-artikel"
+    },
+    {
+      "n": 6,
+      "answer": "k",
+      "explanation": "„stattdessen“ means „instead“: instead of a long repair, she wants a new laptop.",
+      "explanationDe": "„stattdessen“ bedeutet: an Stelle davon. Statt einer langen Reparatur möchte sie einen neuen Laptop.",
+      "grammar": "verbindungsadverbien"
+    },
+    {
+      "n": 7,
+      "answer": "h",
+      "explanation": "„lieferbar sein“ means „to be available (for delivery)“. The participle „geliefert“ does not fit „nicht mehr … sein“.",
+      "explanationDe": "„lieferbar sein“ bedeutet: Der Shop kann das Produkt noch liefern. Das Partizip „geliefert“ passt nicht zu „nicht mehr … sein“.",
+      "grammar": "wortbildung"
+    },
+    {
+      "n": 8,
+      "answer": "c",
+      "explanation": "„einem Schreiben etwas beifügen“ means „to enclose something with a letter“: „habe ich diesem Schreiben beigefügt“.",
+      "explanationDe": "„einem Schreiben etwas beifügen“ (= etwas zusammen mit einem Brief mitschicken): „habe ich diesem Schreiben beigefügt“."
+    },
+    {
+      "n": 9,
+      "answer": "n",
+      "explanation": "She asks where she should send the laptop: „wohin“ (where to). „woher“ (where from) gives the wrong direction.",
+      "explanationDe": "Sie fragt, an welche Adresse sie den Laptop schicken soll: „wohin“ (= zu welchem Ort). „woher“ (= von welchem Ort) zeigt die falsche Richtung.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 10,
+      "answer": "d",
+      "explanation": "„bis zum 20. März“ (by 20 March) sets a deadline. „ab“ (from) cannot be combined with „zum“ here.",
+      "explanationDe": "„bis zum 20. März“ (= spätestens an diesem Tag) nennt eine Frist. „ab“ (= von … an) kann man hier nicht mit „zum“ kombinieren.",
+      "grammar": "temporale-praepositionen"
+    }
+  ],
+  "glossary": [
+    { "de": "die Reklamation", "en": "complaint (about a faulty product)" },
+    { "de": "flackern", "en": "to flicker" },
+    { "de": "die Bedienungsanleitung", "en": "user manual" },
+    { "de": "Hinweise befolgen", "en": "to follow instructions" },
+    { "de": "weiterhin", "en": "still, as before" },
+    { "de": "stattdessen", "en": "instead" },
+    { "de": "lieferbar", "en": "available (for delivery)" },
+    { "de": "vom Kauf zurücktreten", "en": "to withdraw from the purchase" },
+    { "de": "etwas beifügen", "en": "to enclose something" },
+    { "de": "die Versandkosten", "en": "shipping costs" }
+  ]
+}

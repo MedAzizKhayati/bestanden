@@ -1,0 +1,83 @@
+{
+  "id": "lesen-1-04",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Neues aus der Arbeitswelt",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Gratis wohnen und Deutsch lernen: Hotel sucht Personal" },
+    { "key": "b", "text": "Vier-Tage-Woche: Weniger Stunden, weniger Geld" },
+    { "key": "c", "text": "Lehrstelle gesucht? Kurze Gespräche mit vielen Firmen" },
+    { "key": "d", "text": "Journalistin wird Tischlerin: Ihre Geschichte als Buch" },
+    { "key": "e", "text": "Buchtipp: Ein neuer Beruf in der Mitte des Lebens" },
+    { "key": "f", "text": "Immer weniger Jugendliche finden eine Lehrstelle" },
+    { "key": "g", "text": "Umfrage: Angestellte wollen abends erreichbar sein" },
+    { "key": "h", "text": "Kürzer arbeiten, gleich viel schaffen: Test erfolgreich" },
+    { "key": "i", "text": "Tiroler Hotel: Deutschkurse für Gäste kostenlos" },
+    { "key": "j", "text": "Nach Feierabend keine Dienst-Mails mehr" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Ein halbes Jahr lang haben 38 Betriebe in Oberösterreich die Vier-Tage-Woche getestet. Die Beschäftigten arbeiteten 32 statt 40 Stunden pro Woche und bekamen trotzdem ihr volles Gehalt. Jetzt liegen die Ergebnisse vor: Die Mitarbeiterinnen und Mitarbeiter waren deutlich seltener krank und fühlten sich weniger gestresst. Die meisten Firmen berichten außerdem, dass ihre Angestellten in der kürzeren Zeit genauso viel geschafft haben wie vorher. Fast alle Betriebe wollen deshalb bei dem neuen Modell bleiben. Nur zwei Firmen kehren zur Fünf-Tage-Woche zurück, weil sie ihre Kunden nicht mehr gut genug betreuen konnten.",
+      "answer": "h",
+      "explanation": "In the test, people worked „32 statt 40 Stunden“, were less often ill and still got the same amount of work done („genauso viel geschafft“), so (h). Headline (b) is wrong: the employees kept „ihr volles Gehalt“.",
+      "explanationDe": "Im Test arbeiteten die Leute „32 statt 40 Stunden“, waren seltener krank und haben trotzdem „genauso viel geschafft“, also passt (h). Überschrift (b) ist falsch: Die Beschäftigten bekamen weiter „ihr volles Gehalt“.",
+      "evidence": ["arbeiteten 32 statt 40 Stunden pro Woche", "genauso viel geschafft haben wie vorher"]
+    },
+    {
+      "n": 2,
+      "text": "Viele Handwerksbetriebe in Nordhessen finden keine Auszubildenden mehr. Deshalb organisieren sie am 7. Februar zum ersten Mal ein „Ausbildungs-Speed-Dating“ in der Kasseler Stadthalle. Schülerinnen und Schüler können dort mit über 40 Firmen sprechen – vom Malerbetrieb bis zur Autowerkstatt. Jedes Gespräch dauert nur zehn Minuten. Wer einen guten Eindruck macht, wird vielleicht gleich zu einem Praktikum eingeladen. Vorher anmelden muss man sich nicht, die Jugendlichen sollten aber ihren Lebenslauf mitbringen. Auch Eltern sind willkommen.",
+      "answer": "c",
+      "explanation": "School students can talk to more than 40 companies, ten minutes each, to find an apprenticeship, so (c). Headline (f) turns the problem around: it is the companies that cannot find apprentices („finden keine Auszubildenden mehr“).",
+      "explanationDe": "Schülerinnen und Schüler können mit über 40 Firmen sprechen, jeweils zehn Minuten lang, um eine Lehrstelle zu finden, also passt (c). Überschrift (f) dreht das Problem um: Es sind die Firmen, die keine Lehrlinge finden („finden keine Auszubildenden mehr“).",
+      "evidence": ["mit über 40 Firmen sprechen", "Jedes Gespräch dauert nur zehn Minuten"]
+    },
+    {
+      "n": 3,
+      "text": "Mit 52 Jahren hat Bankkaufmann Thomas Brenner seinen sicheren Job gekündigt und eine Ausbildung zum Tischler begonnen. Seine Geschichte ist eine von 15 in dem Buch „Noch einmal von vorn“ der Journalistin Sabine Kraus. Sie hat Frauen und Männer getroffen, die nach dem 45. Geburtstag einen ganz neuen Beruf gelernt haben. Die Autorin beschreibt ehrlich, welche Probleme es dabei gab – zum Beispiel weniger Geld oder Zweifel in der Familie. Am Ende jedes Kapitels gibt es praktische Tipps für alle, die selbst über einen Neuanfang nachdenken. Das Buch hat 220 Seiten und kostet 19 Euro.",
+      "answer": "e",
+      "explanation": "The book tells the stories of people who learned a completely new job after their 45th birthday („nach dem 45. Geburtstag einen ganz neuen Beruf gelernt“), so (e). Headline (d) mixes up the people: the journalist wrote the book, but it was Thomas Brenner who started training as a carpenter.",
+      "explanationDe": "Das Buch erzählt die Geschichten von Menschen, die „nach dem 45. Geburtstag einen ganz neuen Beruf gelernt“ haben, also passt (e). Überschrift (d) verwechselt die Personen: Die Journalistin hat das Buch geschrieben, aber die Ausbildung zum Tischler hat Thomas Brenner begonnen.",
+      "evidence": ["die nach dem 45. Geburtstag einen ganz neuen Beruf gelernt haben"]
+    },
+    {
+      "n": 4,
+      "text": "Bei der Kölner Versicherungsfirma Domblick gilt ab Januar eine neue Regel: Zwischen 19 Uhr abends und 7 Uhr morgens bekommen die Mitarbeiterinnen und Mitarbeiter keine dienstlichen E-Mails mehr. Die Nachrichten kommen erst am nächsten Morgen an. Wer abends trotzdem eine E-Mail schickt, bekommt eine automatische Antwort. Das gilt auch für das Wochenende. Die Firma reagiert damit auf eine interne Befragung: Viele Angestellte hatten angegeben, dass sie abends nicht richtig abschalten können. Für Notfälle gibt es eine Telefonnummer, die rund um die Uhr erreichbar ist.",
+      "answer": "j",
+      "explanation": "Between 7 p.m. and 7 a.m. the employees no longer receive work e-mails („keine dienstlichen E-Mails mehr“), so (j). Headline (g) is the opposite of the survey result: many staff said they cannot switch off in the evening.",
+      "explanationDe": "Zwischen 19 Uhr abends und 7 Uhr morgens bekommen die Angestellten „keine dienstlichen E-Mails mehr“, also passt (j). Überschrift (g) ist das Gegenteil vom Ergebnis der Befragung: Viele Angestellte haben gesagt, dass sie abends nicht abschalten können.",
+      "evidence": ["bekommen die Mitarbeiterinnen und Mitarbeiter keine dienstlichen E-Mails mehr"]
+    },
+    {
+      "n": 5,
+      "text": "Hotels und Restaurants in Tirol suchen dringend Personal. Das Hotel Gamsblick im Ort Hinterau hat sich deshalb etwas Besonderes überlegt: Neue Mitarbeiterinnen und Mitarbeiter bekommen ein kostenloses Zimmer in einem Haus direkt neben dem Hotel. Wer aus dem Ausland kommt, kann außerdem zweimal pro Woche während der Arbeitszeit einen Deutschkurs besuchen. Bezahlt wird der Kurs vom Hotel. Seit es das Angebot gibt, haben sich viel mehr Menschen beworben als früher, erzählt Hoteldirektorin Elke Wieser. Andere Betriebe in der Region wollen das Modell jetzt übernehmen.",
+      "answer": "a",
+      "explanation": "To find staff, the hotel offers new employees a free room and a German course during working hours, so (a). Headline (i) names the wrong group: the German course is for new employees from abroad, not for guests.",
+      "explanationDe": "Um Personal zu finden, bietet das Hotel neuen Angestellten ein kostenloses Zimmer und einen Deutschkurs während der Arbeitszeit an, also passt (a). Überschrift (i) nennt die falsche Gruppe: Der Deutschkurs ist für neue Angestellte aus dem Ausland, nicht für Gäste.",
+      "evidence": ["Neue Mitarbeiterinnen und Mitarbeiter bekommen ein kostenloses Zimmer", "während der Arbeitszeit einen Deutschkurs besuchen"]
+    }
+  ],
+  "distractors": [
+    { "key": "b", "why": "Text 1 says that the employees got their full salary („ihr volles Gehalt“) although they worked fewer hours.", "whyDe": "Laut Text 1 bekamen die Beschäftigten „ihr volles Gehalt“, obwohl sie weniger Stunden gearbeitet haben." },
+    { "key": "d", "why": "In text 3 the journalist Sabine Kraus is the author of the book. It was the bank clerk Thomas Brenner who started an apprenticeship as a carpenter.", "whyDe": "In Text 3 ist die Journalistin Sabine Kraus die Autorin des Buches. Eine Ausbildung zum Tischler hat der Bankkaufmann Thomas Brenner begonnen." },
+    { "key": "f", "why": "Text 2 says that the companies cannot find apprentices – not that young people cannot find a place.", "whyDe": "In Text 2 steht, dass die Firmen keine Auszubildenden finden – nicht, dass Jugendliche keine Lehrstelle finden." },
+    { "key": "g", "why": "In the survey in text 4, many employees said they cannot relax in the evening („nicht richtig abschalten“). That is why the company stops e-mails – the survey says the opposite of the headline.", "whyDe": "Bei der Befragung in Text 4 haben viele Angestellte gesagt, dass sie abends „nicht richtig abschalten“ können. Deshalb stoppt die Firma die E-Mails – die Befragung sagt also das Gegenteil der Überschrift." },
+    { "key": "i", "why": "In text 5 the free German course is for new employees from abroad („Wer aus dem Ausland kommt“), not for hotel guests.", "whyDe": "In Text 5 ist der kostenlose Deutschkurs für neue Angestellte aus dem Ausland („Wer aus dem Ausland kommt“), nicht für Hotelgäste." }
+  ],
+  "glossary": [
+    { "de": "das Gehalt", "en": "salary" },
+    { "de": "die/der Beschäftigte", "en": "employee" },
+    { "de": "die/der Auszubildende", "en": "apprentice, trainee" },
+    { "de": "der Lebenslauf", "en": "CV" },
+    { "de": "kündigen", "en": "to quit (a job)" },
+    { "de": "der Neuanfang", "en": "fresh start" },
+    { "de": "dienstlich", "en": "work-related" },
+    { "de": "abschalten", "en": "to switch off, to relax" },
+    { "de": "erreichbar", "en": "reachable, available" },
+    { "de": "das Personal", "en": "staff" },
+    { "de": "sich bewerben", "en": "to apply (for a job)" },
+    { "de": "der Feierabend", "en": "end of the working day" }
+  ]
+}

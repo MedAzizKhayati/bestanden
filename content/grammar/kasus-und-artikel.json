@@ -1,0 +1,248 @@
+{
+  "id": "kasus-und-artikel",
+  "level": "A2",
+  "category": "nomen",
+  "order": 1,
+  "title": "Die vier Fälle: Artikel und Possessivartikel",
+  "titleEn": "Cases, articles and possessives",
+  "summary": "Nominative, accusative, dative and genitive: how der/die/das, ein, kein and possessive articles change – and how to find the right case.",
+  "summaryDe": "Nominativ, Akkusativ, Dativ und Genitiv: wie sich der/die/das, ein, kein und die Possessivartikel verändern – und wie du den richtigen Kasus findest.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Every noun has a case – **Nominativ** (subject), **Akkusativ** (direct object), **Dativ** (indirect object) or **Genitiv** (owner) – decided by its role, the verb or a preposition. The article shows the case; the biggest changes are in the **masculine** (der → den → dem → des) and in the **dative plural** (den Kindern).",
+      "mdDe": "Jedes Nomen hat einen Kasus – **Nominativ** (Subjekt), **Akkusativ** (direktes Objekt), **Dativ** (indirektes Objekt) oder **Genitiv** (Besitzer). Ihn bestimmen die Rolle im Satz, das Verb oder eine Präposition. Der Artikel zeigt den Kasus; die größten Änderungen gibt es bei **maskulinen** Nomen (der → den → dem → des) und im **Dativ Plural** (den Kindern)."
+    },
+    {
+      "type": "text",
+      "heading": "How do I find the case?",
+      "headingDe": "Wie finde ich den Kasus?",
+      "md": "1. **Who or what does something?** → Nominativ (wer? was?). Also after sein, werden and bleiben: Das ist **mein Bruder**.\n2. **What does the verb need?** Most verbs take an accusative object (wen? was?): haben, brauchen, kaufen, sehen, es gibt. Some take a dative (wem?): helfen, danken, gefallen. Verbs like geben or schenken take both.\n3. **Is there a preposition?** Then the preposition decides: **mit, bei, von, zu, aus, nach, seit** + dative · **für, um, durch, gegen, ohne** + accusative · **in, an, auf, über, unter, vor, hinter, neben, zwischen**: wo? + dative, wohin? + accusative.",
+      "mdDe": "1. **Wer oder was tut etwas?** → Nominativ (wer? was?). Auch nach sein, werden und bleiben: Das ist **mein Bruder**.\n2. **Was braucht das Verb?** Die meisten Verben haben ein Akkusativobjekt (wen? was?): haben, brauchen, kaufen, sehen, es gibt. Einige haben einen Dativ (wem?): helfen, danken, gefallen. Verben wie geben oder schenken haben beides.\n3. **Gibt es eine Präposition?** Dann entscheidet die Präposition: **mit, bei, von, zu, aus, nach, seit** + Dativ · **für, um, durch, gegen, ohne** + Akkusativ · **in, an, auf, über, unter, vor, hinter, neben, zwischen**: wo? + Dativ, wohin? + Akkusativ."
+    },
+    {
+      "type": "table",
+      "heading": "Definite article",
+      "headingDe": "Bestimmter Artikel",
+      "columns": ["Kasus", "maskulin", "feminin", "neutral", "Plural"],
+      "columnsDe": ["Kasus", "maskulin", "feminin", "neutral", "Plural"],
+      "rows": [
+        ["Nominativ", "der Tisch", "die Lampe", "das Bett", "die Stühle"],
+        ["Akkusativ", "den Tisch", "die Lampe", "das Bett", "die Stühle"],
+        ["Dativ", "dem Tisch", "der Lampe", "dem Bett", "den Stühlen"],
+        ["Genitiv", "des Tisches", "der Lampe", "des Bettes", "der Stühle"]
+      ],
+      "note": "Dative plural: the noun gets -n (den Stühlen, den Kindern) unless the plural already ends in -n or -s (den Lampen, den Autos). Genitive masculine and neuter: the noun gets -s or -es.",
+      "noteDe": "Dativ Plural: Das Nomen bekommt -n (den Stühlen, den Kindern), außer der Plural endet schon auf -n oder -s (den Lampen, den Autos). Genitiv maskulin und neutral: Das Nomen bekommt -s oder -es."
+    },
+    {
+      "type": "table",
+      "heading": "ein, kein and possessive articles",
+      "headingDe": "ein, kein und Possessivartikel",
+      "columns": ["Kasus", "maskulin", "feminin", "neutral", "Plural"],
+      "columnsDe": ["Kasus", "maskulin", "feminin", "neutral", "Plural"],
+      "rows": [
+        ["Nominativ", "ein / kein / mein", "eine / keine / meine", "ein / kein / mein", "– / keine / meine"],
+        ["Akkusativ", "einen / keinen / meinen", "eine / keine / meine", "ein / kein / mein", "– / keine / meine"],
+        ["Dativ", "einem / keinem / meinem", "einer / keiner / meiner", "einem / keinem / meinem", "– / keinen / meinen"],
+        ["Genitiv", "eines / keines / meines", "einer / keiner / meiner", "eines / keines / meines", "– / keiner / meiner"]
+      ],
+      "note": "ein has no plural (ein Stuhl → Stühle). All possessive articles (dein, sein, ihr, unser, euer, Ihr) take the same endings as mein. euer drops its second e when an ending is added: eure, euren, eurem.",
+      "noteDe": "ein hat keinen Plural (ein Stuhl → Stühle). Alle Possessivartikel (dein, sein, ihr, unser, euer, Ihr) haben dieselben Endungen wie mein. euer verliert sein zweites e, wenn eine Endung dazukommt: eure, euren, eurem."
+    },
+    {
+      "type": "table",
+      "heading": "Possessive articles",
+      "headingDe": "Possessivartikel",
+      "columns": ["Person", "Possessivartikel", "Beispiel"],
+      "columnsDe": ["Person", "Possessivartikel", "Beispiel"],
+      "rows": [
+        ["ich", "mein", "mein Bruder, meine Schwester"],
+        ["du", "dein", "dein Handy, deine Tasche"],
+        ["er / es", "sein", "sein Vater, seine Mutter"],
+        ["sie (she)", "ihr", "ihr Vater, ihre Mutter"],
+        ["wir", "unser", "unser Haus, unsere Kinder"],
+        ["ihr (you, plural)", "euer", "euer Garten, eure Wohnung"],
+        ["sie (they)", "ihr", "ihr Auto, ihre Eltern"],
+        ["Sie (formal)", "Ihr", "Ihr Termin, Ihre Adresse"]
+      ],
+      "rowsDe": [
+        ["ich", "mein", "mein Bruder, meine Schwester"],
+        ["du", "dein", "dein Handy, deine Tasche"],
+        ["er / es", "sein", "sein Vater, seine Mutter"],
+        ["sie (Singular)", "ihr", "ihr Vater, ihre Mutter"],
+        ["wir", "unser", "unser Haus, unsere Kinder"],
+        ["ihr (Plural von du)", "euer", "euer Garten, eure Wohnung"],
+        ["sie (Plural)", "ihr", "ihr Auto, ihre Eltern"],
+        ["Sie (formell)", "Ihr", "Ihr Termin, Ihre Adresse"]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Possessives: two questions",
+      "headingDe": "Possessivartikel: zwei Fragen",
+      "md": "With a possessive article you have to answer two questions:\n\n1. **Who is the owner?** This decides the word: Tom → **sein**, Anna → **ihr**, the children → **ihr**.\n2. **What is owned, and which case?** This decides the ending: Anna besucht **ihren** Bruder. (ihr- because of Anna, -en because „Bruder“ is masculine accusative.)\n\n- Tom ruft **seine** Mutter an. – Anna ruft **ihre** Mutter an.\n- Die Kinder spielen mit **ihrem** Hund. – Herr Kaya spricht mit **seinem** Nachbarn.",
+      "mdDe": "Beim Possessivartikel musst du zwei Fragen beantworten:\n\n1. **Wem gehört es?** Das bestimmt das Wort: Tom → **sein**, Anna → **ihr**, die Kinder → **ihr**.\n2. **Was gehört der Person, und welcher Kasus?** Das bestimmt die Endung: Anna besucht **ihren** Bruder. (ihr- wegen Anna, -en, weil „Bruder“ maskulin ist und im Akkusativ steht.)\n\n- Tom ruft **seine** Mutter an. – Anna ruft **ihre** Mutter an.\n- Die Kinder spielen mit **ihrem** Hund. – Herr Kaya spricht mit **seinem** Nachbarn."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Der** Nachbar hat **einen** neuen Hund.", "en": "The neighbour has a new dog." },
+        { "de": "Ich schenke **meiner** Schwester **ein** Buch.", "en": "I'm giving my sister a book." },
+        { "de": "Wir fahren mit **dem** Zug zu **unseren** Großeltern.", "en": "We're going to our grandparents' by train." },
+        { "de": "Hast du **deinen** Schlüssel gefunden?", "en": "Have you found your key?" },
+        { "de": "Frau Weber sucht **ihre** Brille.", "en": "Mrs Weber is looking for her glasses." },
+        { "de": "Herr Jung holt **seine** Tochter von der Schule ab.", "en": "Mr Jung picks up his daughter from school." },
+        { "de": "Das ist das Auto **meines** Bruders.", "en": "That's my brother's car." },
+        { "de": "Leider habe ich **keine** Zeit und **kein** Geld.", "en": "Unfortunately I have no time and no money." },
+        { "de": "Die Kinder spielen mit **ihren** Freunden im Park.", "en": "The children are playing with their friends in the park." },
+        { "de": "Wie ist **Ihre** Telefonnummer, bitte?", "en": "What is your phone number, please?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** in **Sprachbausteine Teil 1** two or three gaps are usually article or possessive endings, e.g. „mit ___ Kollegin“ (meiner / meine / meinem). Use this routine:\n\n1. Find the noun, its gender and number (Kollegin → feminine singular).\n2. Find what decides the case – the verb or a preposition (mit → dative).\n3. Choose the ending (feminine dative → meiner).\n\nIn **Schreiben** and **Sprechen**, correct endings count for *formale Richtigkeit* (accuracy). Before you hand in your text, check every article after prepositions like mit, bei, von, zu and für.",
+      "mdDe": "**In der Prüfung:** In **Sprachbausteine Teil 1** geht es meistens bei zwei oder drei Lücken um die Endungen von Artikeln oder Possessivartikeln, z. B. „mit ___ Kollegin“ (meiner / meine / meinem). So gehst du vor:\n\n1. Finde das Nomen, sein Genus und die Zahl – Singular oder Plural (Kollegin → feminin, Singular).\n2. Finde, was den Kasus bestimmt – das Verb oder eine Präposition (mit → Dativ).\n3. Wähle die Endung (Dativ feminin → meiner).\n\nIm **Schreiben** und **Sprechen** zählen richtige Endungen beim Kriterium *formale Richtigkeit*. Bevor du deinen Text abgibst, prüf jeden Artikel nach Präpositionen wie mit, bei, von, zu und für."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps**\n\n- Masculine accusative: „Ich habe **einen** Bruder“ – not „ein Bruder“. The same after „es gibt“: Es gibt hier **einen** Park.\n- Dative plural: „mit den **Kindern**“ – the noun needs an extra -n.\n- sein or ihr? For a female owner it is always **ihr**: Lisa besucht **ihre** Oma. „seine Oma“ would be the grandmother of a man.",
+      "mdDe": "**Typische Fallen**\n\n- Akkusativ maskulin: „Ich habe **einen** Bruder“ – nicht „ein Bruder“. Genauso nach „es gibt“: Es gibt hier **einen** Park.\n- Dativ Plural: „mit den **Kindern**“ – das Nomen braucht ein zusätzliches -n.\n- sein oder ihr? Wenn eine Frau die Besitzerin ist, heißt es immer **ihr**: Lisa besucht **ihre** Oma. „seine Oma“ wäre die Oma eines Mannes."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe ein Bruder und eine Schwester.",
+      "right": "Ich habe einen Bruder und eine Schwester.",
+      "why": "haben takes the accusative; masculine „ein“ becomes „einen“.",
+      "whyDe": "haben braucht den Akkusativ; maskulines „ein“ wird zu „einen“."
+    },
+    {
+      "wrong": "Ich fahre mit meine Freundin nach Basel.",
+      "right": "Ich fahre mit meiner Freundin nach Basel.",
+      "why": "mit always takes the dative; the feminine dative is „meiner“.",
+      "whyDe": "mit braucht immer den Dativ; der Dativ feminin ist „meiner“."
+    },
+    {
+      "wrong": "Lisa wohnt noch bei seinen Eltern.",
+      "right": "Lisa wohnt noch bei ihren Eltern.",
+      "why": "Lisa is a woman, so the possessive is „ihr-“. The ending -en shows the dative plural.",
+      "whyDe": "Lisa ist eine Frau, deshalb ist der Possessivartikel „ihr-“. Die Endung -en zeigt den Dativ Plural."
+    },
+    {
+      "wrong": "Ich spiele oft mit den Kinder.",
+      "right": "Ich spiele oft mit den Kindern.",
+      "why": "In the dative plural the noun gets an extra -n.",
+      "whyDe": "Im Dativ Plural bekommt das Nomen ein zusätzliches -n."
+    },
+    {
+      "wrong": "Es gibt hier ein Supermarkt.",
+      "right": "Es gibt hier einen Supermarkt.",
+      "why": "„es gibt“ is always followed by the accusative.",
+      "whyDe": "Nach „es gibt“ steht immer der Akkusativ."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich brauche ___ neuen Kühlschrank.",
+      "options": ["einen", "ein", "einem"],
+      "answer": 0,
+      "explanation": "brauchen takes the accusative; „der Kühlschrank“ is masculine → „einen“.",
+      "explanationDe": "brauchen hat ein Akkusativobjekt; „der Kühlschrank“ ist maskulin → „einen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir gehen heute mit ___ Kindern in den Zoo.",
+      "options": ["unseren", "unsere", "unserer"],
+      "answer": 0,
+      "explanation": "mit takes the dative; dative plural → „unseren Kindern“ (the noun also gets -n).",
+      "explanationDe": "mit braucht den Dativ; Dativ Plural → „unseren Kindern“ (auch das Nomen bekommt -n)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Herr Schmid fährt jeden Tag mit ___ Fahrrad zur Arbeit.",
+      "options": ["seinem", "seinen", "sein"],
+      "answer": 0,
+      "explanation": "mit takes the dative; „das Fahrrad“ is neuter → „seinem“.",
+      "explanationDe": "mit braucht den Dativ; „das Fahrrad“ ist neutral → „seinem“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Frau Lorenz hat ___ Handy im Büro vergessen.",
+      "options": ["ihr", "ihre", "ihren"],
+      "answer": 0,
+      "explanation": "„das Handy“ is neuter accusative, so the possessive has no ending: „ihr Handy“.",
+      "explanationDe": "„das Handy“ ist neutral und steht im Akkusativ, deshalb hat der Possessivartikel keine Endung: „ihr Handy“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich wohne seit drei Jahren in ___ kleinen Wohnung.",
+      "answers": ["einer"],
+      "hint": "(ein)",
+      "explanation": "„in“ answers the question wo?, so it takes the dative. „die Wohnung“ is feminine → „einer“.",
+      "explanationDe": "„in“ antwortet hier auf die Frage wo?, deshalb steht der Dativ. „die Wohnung“ ist feminin → „einer“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Kennst du schon ___ neuen Chef?",
+      "answers": ["den"],
+      "hint": "(der)",
+      "explanation": "kennen takes the accusative; „der Chef“ is masculine → „den“.",
+      "explanationDe": "kennen braucht den Akkusativ; „der Chef“ ist maskulin → „den“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Geschenk ist für ___ Mutter.",
+      "answers": ["meine"],
+      "hint": "(mein)",
+      "explanation": "für takes the accusative; the feminine accusative is „meine“.",
+      "explanationDe": "für braucht den Akkusativ; der Akkusativ feminin ist „meine“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Lisa wohnt noch bei ___ Eltern.",
+      "answers": ["ihren"],
+      "hint": "(Lisas Eltern)",
+      "explanation": "The owner is Lisa → „ihr-“. bei takes the dative, and the dative plural ending is -en: „ihren Eltern“.",
+      "explanationDe": "Die Besitzerin ist Lisa → „ihr-“. bei braucht den Dativ, und die Endung im Dativ Plural ist -en: „ihren Eltern“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Habt ihr ___ Wohnung schon renoviert?",
+      "answers": ["eure"],
+      "hint": "(euer)",
+      "explanation": "Accusative feminine: euer + e → „eure“ (the second e of euer disappears).",
+      "explanationDe": "Akkusativ feminin: euer + e → „eure“ (das zweite e von euer fällt weg)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Write the sentence in the plural (Kind → Kinder).",
+      "instructionDe": "Schreib den Satz im Plural (Kind → Kinder).",
+      "prompt": "Ich spiele mit dem Kind.",
+      "answers": ["Ich spiele mit den Kindern."],
+      "explanation": "Dative plural: the article is „den“ and the noun gets an extra -n: „den Kindern“.",
+      "explanationDe": "Dativ Plural: Der Artikel ist „den“, und das Nomen bekommt ein zusätzliches -n: „den Kindern“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „ich“ with „Anna“. Change the verb and the possessive article.",
+      "instructionDe": "Ersetze „ich“ durch „Anna“. Ändere das Verb und den Possessivartikel.",
+      "prompt": "Ich besuche morgen meinen Opa.",
+      "answers": ["Anna besucht morgen ihren Opa."],
+      "explanation": "Anna is the owner → „ihr-“; „Opa“ is masculine accusative → „ihren“. The verb changes to „besucht“.",
+      "explanationDe": "Anna ist die Besitzerin → „ihr-“; „Opa“ ist maskulin und steht im Akkusativ → „ihren“. Das Verb wird zu „besucht“."
+    },
+    {
+      "type": "order",
+      "words": ["ein", "meiner", "Der", "Paket.", "bringt", "Nachbarin", "Briefträger"],
+      "answers": ["Der Briefträger bringt meiner Nachbarin ein Paket.", "Meiner Nachbarin bringt der Briefträger ein Paket."],
+      "explanation": "Subject „der Briefträger“ (Nom.), person „meiner Nachbarin“ (Dat.), thing „ein Paket“ (Akk.). With two nouns the dative usually comes before the accusative.",
+      "explanationDe": "Subjekt „der Briefträger“ (Nom.), Person „meiner Nachbarin“ (Dat.), Sache „ein Paket“ (Akk.). Bei zwei Nomen steht der Dativ meistens vor dem Akkusativ."
+    }
+  ],
+  "related": ["genitiv", "n-deklination", "verben-mit-dativ", "pronomen", "praepositionen-mit-kasus", "adjektivdeklination"]
+}

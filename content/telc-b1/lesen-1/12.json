@@ -1,0 +1,83 @@
+{
+  "id": "lesen-1-12",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Wohnen in Stadt und Land",
+  "topic": "wohnen",
+  "difficulty": 3,
+  "headlines": [
+    { "key": "a", "text": "Helfen statt zahlen: Jung und Alt unter einem Dach" },
+    { "key": "b", "text": "Gästezimmer zum Teilen: Zwei Wohnungen für 200 Haushalte" },
+    { "key": "c", "text": "Zürich: Neue Ferienwohnungen für Touristen" },
+    { "key": "d", "text": "Holzhaus fertig: Vor dem Einzug dürfen alle schauen" },
+    { "key": "e", "text": "Studierende übernehmen die Pflege von Senioren" },
+    { "key": "f", "text": "Innenarchitektin verkauft Möbel für kleine Wohnungen" },
+    { "key": "g", "text": "Länger im Kinderzimmer: Junge Leute ziehen später aus" },
+    { "key": "h", "text": "Töchter wohnen länger bei den Eltern als Söhne" },
+    { "key": "i", "text": "Klagenfurt: Im Holzhaus sind noch Wohnungen frei" },
+    { "key": "j", "text": "Buchtipp: Gemütlich wohnen auf wenigen Quadratmetern" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Junge Menschen verlassen ihr Elternhaus immer später. Laut einer aktuellen Befragung ziehen sie heute im Durchschnitt mit 24,5 Jahren aus – vor 20 Jahren waren sie noch fast zwei Jahre jünger. Dabei gibt es einen deutlichen Unterschied zwischen den Geschlechtern: Söhne wohnen etwa ein Jahr länger bei ihren Eltern als Töchter. Als wichtigsten Grund nennen die Befragten die hohen Mieten, vor allem in Großstädten. Viele sparen lieber noch ein paar Jahre, bevor sie sich eine eigene Wohnung leisten. Doch nicht nur das Geld spielt eine Rolle: Zwei Drittel sagen auch, dass sie sich mit ihren Eltern sehr gut verstehen.",
+      "answer": "g",
+      "explanation": "Young people leave home later than 20 years ago – on average at 24.5 – mainly because of high rents, so (g). Headline (h) reverses the facts: sons („Söhne“) stay about one year longer than daughters.",
+      "explanationDe": "Junge Menschen ziehen später aus als vor 20 Jahren (im Durchschnitt mit 24,5 Jahren), vor allem wegen der hohen Mieten, also passt (g). Überschrift (h) dreht die Fakten um: Die „Söhne“ bleiben etwa ein Jahr länger zu Hause als die Töchter.",
+      "evidence": ["Junge Menschen verlassen ihr Elternhaus immer später", "Als wichtigsten Grund nennen die Befragten die hohen Mieten"]
+    },
+    {
+      "n": 2,
+      "text": "Viele ältere Menschen leben allein in großen Wohnungen, während Studierende in Münster verzweifelt nach einem bezahlbaren Zimmer suchen. Das Projekt „Zimmer gegen Hilfe“ bringt beide Gruppen zusammen: Die Seniorinnen und Senioren bieten ein freies Zimmer an, und die jungen Leute zahlen dafür keine Miete, sondern helfen im Alltag. Die Regel: Für jeden Quadratmeter Wohnfläche gibt es eine Stunde Hilfe im Monat – zum Beispiel beim Einkaufen, im Garten oder am Computer. Nur die Nebenkosten müssen die Studierenden selbst bezahlen. Pflege gehört ausdrücklich nicht zu den Aufgaben. Ein Verein prüft vorher, ob die Partner zueinander passen.",
+      "answer": "a",
+      "explanation": "Students live with older people and help them instead of paying rent („zahlen dafür keine Miete, sondern helfen im Alltag“), so (a). Headline (e) is a trap: „Pflege gehört ausdrücklich nicht zu den Aufgaben“.",
+      "explanationDe": "Studierende wohnen bei älteren Menschen und helfen ihnen, statt Miete zu zahlen („zahlen dafür keine Miete, sondern helfen im Alltag“), also passt (a). Überschrift (e) ist eine Falle: „Pflege gehört ausdrücklich nicht zu den Aufgaben“.",
+      "evidence": ["zahlen dafür keine Miete, sondern helfen im Alltag"]
+    },
+    {
+      "n": 3,
+      "text": "Wie richtet man eine Wohnung mit nur 28 Quadratmetern so ein, dass man sich darin wohlfühlt? Antworten gibt die Innenarchitektin Lisa Hartung in ihrem neuen Buch „Mehr Platz auf wenig Raum“. Sie zeigt 20 kleine Wohnungen in Berlin, Wien und Bern und erklärt, mit welchen Tricks die Bewohner Platz gewonnen haben: Betten, unter denen Schubladen versteckt sind, Tische, die man an die Wand klappen kann, oder Regale bis unter die Decke. Viele Ideen kann man mit wenig Geld selbst nachmachen. Außerdem gibt die Autorin Tipps zu Farben und Licht, damit kleine Räume größer wirken. Das Buch hat 180 Seiten und kostet 24 Euro.",
+      "answer": "j",
+      "explanation": "An interior designer's new book shows how to make very small flats comfortable, with tricks and tips, so (j). Headline (f) is wrong: she has written a book with ideas – the text does not say that she sells furniture.",
+      "explanationDe": "Das neue Buch einer Innenarchitektin zeigt mit Tricks und Tipps, wie man sehr kleine Wohnungen gemütlich macht, also passt (j). Überschrift (f) ist falsch: Die Innenarchitektin hat ein Buch mit Ideen geschrieben – dass sie Möbel verkauft, steht nicht im Text.",
+      "evidence": ["Wie richtet man eine Wohnung mit nur 28 Quadratmetern so ein, dass man sich darin wohlfühlt?"]
+    },
+    {
+      "n": 4,
+      "text": "In Klagenfurt ist ein besonderes Wohnhaus fertig geworden: Das Gebäude hat neun Stockwerke und 64 Wohnungen. Nur das Treppenhaus ist aus Beton, alles andere besteht aus Holz aus der Region. Laut Architektin Marion Kogler spart diese Bauweise viel Energie und sorgt für ein angenehmes Raumklima. Auch vor Feuer sei das Holz gut geschützt. Bevor Anfang Mai die Mieterinnen und Mieter einziehen, können Interessierte das Haus am Samstag, dem 15. April, bei kostenlosen Führungen besichtigen. Wer selbst dort wohnen möchte, hat allerdings Pech: Alle Wohnungen sind bereits vergeben.",
+      "answer": "d",
+      "explanation": "Before the tenants move in, everybody can look round the new wooden building on free guided tours, so (d). Headline (i) is the opposite: „Alle Wohnungen sind bereits vergeben“.",
+      "explanationDe": "Bevor die Mieter einziehen, können alle das neue Holzhaus bei kostenlosen Führungen besichtigen, also passt (d). Überschrift (i) sagt das Gegenteil: „Alle Wohnungen sind bereits vergeben“.",
+      "evidence": ["können Interessierte das Haus am Samstag, dem 15. April, bei kostenlosen Führungen besichtigen"]
+    },
+    {
+      "n": 5,
+      "text": "Wer Besuch bekommt, braucht ein Gästezimmer – doch das steht die meiste Zeit leer. In einer Wohnsiedlung in Zürich-Altstetten hat man deshalb eine andere Lösung gefunden: Die rund 200 Haushalte teilen sich zwei möblierte Gästewohnungen. Wenn Freunde oder Verwandte kommen, können die Bewohnerinnen und Bewohner eine davon über eine Internetseite reservieren. Eine Nacht kostet 40 Franken, die Reinigung ist inklusive. Weil kein eigenes Gästezimmer nötig ist, konnten die Wohnungen kleiner und damit günstiger gebaut werden. An Touristen werden die Gästewohnungen nicht vermietet. Die Idee ist so beliebt, dass die Wohnungen oft Wochen im Voraus ausgebucht sind.",
+      "answer": "b",
+      "explanation": "The households of a housing estate share two furnished guest flats („teilen sich zwei möblierte Gästewohnungen“) for their visitors, so (b). Headline (c) is a trap: the flats are not rented out to tourists.",
+      "explanationDe": "Die Haushalte einer Wohnsiedlung „teilen sich zwei möblierte Gästewohnungen“ für ihren Besuch, also passt (b). Überschrift (c) ist eine Falle: Die Wohnungen werden nicht an Touristen vermietet.",
+      "evidence": ["Die rund 200 Haushalte teilen sich zwei möblierte Gästewohnungen"]
+    }
+  ],
+  "distractors": [
+    { "key": "c", "why": "In text 5 the guest flats are only for the residents' visitors: „An Touristen werden die Gästewohnungen nicht vermietet“.", "whyDe": "In Text 5 sind die Gästewohnungen nur für den Besuch der Bewohner: „An Touristen werden die Gästewohnungen nicht vermietet“." },
+    { "key": "e", "why": "Text 2 says clearly that care is not one of the students' tasks; they help with shopping, in the garden or with the computer.", "whyDe": "In Text 2 steht klar, dass Pflege nicht zu den Aufgaben der Studierenden gehört; sie helfen beim Einkaufen, im Garten oder am Computer." },
+    { "key": "f", "why": "In text 3 the interior designer gives ideas in a book. The text does not say that she sells furniture.", "whyDe": "In Text 3 gibt die Innenarchitektin in einem Buch Ideen. Dass sie Möbel verkauft, steht nicht im Text." },
+    { "key": "h", "why": "Text 1 says the opposite: sons live with their parents about one year longer than daughters.", "whyDe": "Text 1 sagt das Gegenteil: Söhne wohnen etwa ein Jahr länger bei ihren Eltern als Töchter." },
+    { "key": "i", "why": "In text 4 all apartments are already taken („bereits vergeben“); visitors can only look round the building.", "whyDe": "In Text 4 sind alle Wohnungen „bereits vergeben“; Besucher können das Haus nur besichtigen." }
+  ],
+  "glossary": [
+    { "de": "das Elternhaus", "en": "parents' home" },
+    { "de": "ausziehen", "en": "to move out" },
+    { "de": "sich etwas leisten", "en": "to afford something" },
+    { "de": "bezahlbar", "en": "affordable" },
+    { "de": "die Nebenkosten (Pl.)", "en": "additional costs (heating, water …)" },
+    { "de": "ausdrücklich", "en": "expressly, explicitly" },
+    { "de": "einrichten", "en": "to furnish" },
+    { "de": "die Schublade", "en": "drawer" },
+    { "de": "das Stockwerk", "en": "floor, storey" },
+    { "de": "vergeben sein", "en": "to be taken (already given to someone)" },
+    { "de": "möbliert", "en": "furnished" },
+    { "de": "im Voraus", "en": "in advance" }
+  ]
+}

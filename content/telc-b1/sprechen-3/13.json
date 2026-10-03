@@ -1,0 +1,70 @@
+{
+  "id": "sprechen-3-13",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Kinderfest zum Kita-Jubiläum",
+  "topic": "familie",
+  "difficulty": 2,
+  "situation": "Ihre Kinder gehen in dieselbe Kita. Die Kita feiert im Juni ihr 20-jähriges Jubiläum mit einem Kinderfest, und die Eltern helfen bei der Organisation. Sie beide sind für das Programm und das Essen zuständig. Planen Sie gemeinsam das Fest.",
+  "checklist": [
+    "Spiele und Programm für die Kinder?",
+    "Kleine Preise oder Geschenke?",
+    "Essen und Getränke?",
+    "Allergien und Sicherheit?",
+    "Helferinnen und Helfer?",
+    "Wer macht was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Noor Jabbar", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Mateus Oliveira", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Mateus, wir sind ja für das Programm und das Essen beim Kinderfest zuständig. Hast du schon eine Idee, was wir mit den Kindern machen könnten?" },
+    { "s": "B", "t": "Ja, ich finde, wir sollten im Garten der Kita verschiedene Spielstationen aufbauen, zum Beispiel Sackhüpfen, Dosenwerfen und eine Station mit Seifenblasen." },
+    { "s": "A", "t": "Das gefällt mir. Die Kinder sind aber zwischen zwei und sechs Jahre alt, und Sackhüpfen ist für die ganz Kleinen vielleicht zu schwierig." },
+    { "s": "B", "t": "Oh, da hast du recht. Dann machen wir für die Kleinen eine extra Ecke mit Bauklötzen und Malsachen." },
+    { "s": "A", "t": "Super. Mir ist noch etwas eingefallen: Jedes Kind bekommt eine Stempelkarte. Bei jeder Station gibt es einen Stempel, und mit einer vollen Karte bekommt das Kind ein kleines Geschenk." },
+    { "s": "B", "t": "Das ist toll, dann machen alle Kinder überall mit. Aber die Geschenke dürfen nicht zu teuer sein, weil wir von der Kita nur wenig Geld bekommen." },
+    { "s": "A", "t": "Ich finde, kleine Sachen reichen, zum Beispiel Aufkleber oder Seifenblasen. Die kann ich im Internet günstig bestellen." },
+    { "s": "B", "t": "Gut, das übernimmst du. Vielleicht brauchen wir auch noch einen Höhepunkt für das Fest. Wie wäre es mit einem Zauberer?" },
+    { "s": "A", "t": "Ein Zauberer ist bestimmt super, aber die kosten oft über hundert Euro. Ich bin nicht sicher, ob wir so viel Geld haben." },
+    { "s": "B", "t": "Das Lustige ist: Der Vater von Emil aus der Bärengruppe ist Hobbyzauberer! Ich könnte ihn fragen, ob er eine kleine Show für die Kinder macht." },
+    { "s": "A", "t": "Wirklich? Das wäre perfekt, frag ihn bitte! Was meinst du, was sollen wir zu essen anbieten?" },
+    { "s": "B", "t": "Kinder lieben Waffeln. Wir könnten ein Waffeleisen mitbringen und frische Waffeln backen. Das riecht auch so gut!" },
+    { "s": "A", "t": "Waffeln sind lecker, aber es sollte nicht nur Süßes geben. Vielleicht machen wir auch Obstspieße und kleine Brötchen. Die Kita achtet sehr auf gesundes Essen." },
+    { "s": "B", "t": "Okay, dann gibt es beides. Und wir müssen an Allergien denken. Ich glaube, in der Kita gibt es zwei Kinder mit einer Nussallergie." },
+    { "s": "A", "t": "Ja, genau. Am besten verwenden wir gar keine Nüsse, und neben jeden Teller stellen wir ein Schild, auf dem steht, was drin ist." },
+    { "s": "B", "t": "Gute Idee. Als Getränke nehmen wir Wasser und Apfelschorle, aber wegen der Sicherheit keine Glasflaschen." },
+    { "s": "A", "t": "Richtig. Und wer hilft an den Stationen? Wir zwei schaffen das nicht allein." },
+    { "s": "B", "t": "Ich hänge eine Liste an die Tür der Kita, und die Eltern können sich für eine Stunde eintragen. Wenn jeder nur eine Stunde hilft, ist es für niemanden zu viel." },
+    { "s": "A", "t": "Perfekt. Die Erzieherinnen passen natürlich auch auf die Kinder auf, aber ich frage sie trotzdem, ob es im Garten einen Erste-Hilfe-Kasten gibt." },
+    { "s": "B", "t": "Sehr gut. Also, zusammengefasst: Es gibt drei Spielstationen, eine Ecke für die Kleinen und eine Zaubershow. Jedes Kind bekommt eine Stempelkarte." },
+    { "s": "A", "t": "Zum Essen gibt es Waffeln, Obstspieße und Brötchen ohne Nüsse, dazu Wasser und Apfelschorle. Ich bestelle die kleinen Geschenke und spreche mit den Erzieherinnen." },
+    { "s": "B", "t": "Und ich frage Emils Vater wegen der Zaubershow, bringe das Waffeleisen mit und mache die Liste für die Helfer. Die Kinder werden begeistert sein!" }
+  ],
+  "phrases": [
+    { "de": "Wir sind für … zuständig.", "en": "We're responsible for …" },
+    { "de": "Das gefällt mir. … ist aber …", "en": "I like that. But … is …" },
+    { "de": "Oh, da hast du recht.", "en": "Oh, you're right there." },
+    { "de": "Mir ist noch etwas eingefallen: …", "en": "I've just thought of something else: …" },
+    { "de": "Gut, das übernimmst du.", "en": "Okay, you take care of that." },
+    { "de": "Ich bin nicht sicher, ob …", "en": "I'm not sure whether …" },
+    { "de": "Das Lustige ist: …", "en": "The funny thing is: …" },
+    { "de": "Es sollte nicht nur … geben.", "en": "There shouldn't only be …" },
+    { "de": "Also, zusammengefasst: …", "en": "So, in summary: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Kita", "en": "day-care centre, nursery" },
+    { "de": "das Jubiläum", "en": "anniversary" },
+    { "de": "zuständig sein für (+ Akk.)", "en": "to be responsible for" },
+    { "de": "die Spielstation", "en": "game station" },
+    { "de": "das Sackhüpfen", "en": "sack race" },
+    { "de": "die Seifenblasen (Pl.)", "en": "soap bubbles" },
+    { "de": "die Stempelkarte", "en": "stamp card" },
+    { "de": "der Aufkleber", "en": "sticker" },
+    { "de": "der Zauberer", "en": "magician" },
+    { "de": "das Waffeleisen", "en": "waffle iron" },
+    { "de": "die Apfelschorle", "en": "apple juice with sparkling water" },
+    { "de": "der Erste-Hilfe-Kasten", "en": "first-aid kit" }
+  ]
+}

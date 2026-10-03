@@ -1,0 +1,57 @@
+{
+  "id": "schreiben-24",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Mahnung von der Bibliothek",
+  "topic": "behoerden",
+  "difficulty": 3,
+  "register": "semiformal",
+  "situation": "Sie haben von der Stadtbibliothek folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Stadtbibliothek Linz – Anna Pichler",
+    "subject": "Mahnung: Rückgabe überfällig",
+    "body": "Sehr geehrter Herr Lazić,\n\nlaut unseren Unterlagen haben Sie die folgenden Medien seit dem 2. Mai nicht zurückgegeben:\n– „Deutsch im Beruf“ (Lehrbuch)\n– „Kochen für Gäste“ (Buch)\n– „Die Insel“ (DVD)\n\nBitte bringen Sie die Medien innerhalb von sieben Tagen zurück. Für jeden Tag Verspätung berechnen wir 30 Cent pro Medium. Bis heute sind bereits Gebühren von 18,90 Euro entstanden. Solange die Gebühren nicht bezahlt sind, können Sie leider keine weiteren Medien ausleihen.\n\nMit freundlichen Grüßen\nAnna Pichler\nStadtbibliothek Linz"
+  },
+  "leitpunkte": [
+    "Was mit einem der Medien passiert ist",
+    "Warum Sie die Medien nicht rechtzeitig zurückgegeben haben",
+    "Worum Sie die Bibliothek bitten",
+    "Wann Sie die Medien zurückbringen"
+  ],
+  "model": {
+    "subject": "Ihre Mahnung – Erklärung und eine Bitte",
+    "text": "Sehr geehrte Frau Pichler,\n\nvielen Dank für Ihre E-Mail. Es tut mir sehr leid, dass ich die Medien nicht rechtzeitig zurückgegeben habe.\n\nDer Grund dafür ist, dass mein Vater Anfang Mai plötzlich schwer krank geworden ist. Deshalb bin ich sofort zu meiner Familie nach Serbien geflogen und erst vorgestern zurückgekommen. In dieser schwierigen Zeit habe ich leider überhaupt nicht an die Bibliothek gedacht.\n\nDas Kochbuch und die DVD bringe ich Ihnen gleich morgen Vormittag vorbei. Mit dem Lehrbuch gibt es allerdings ein Problem: Ich hatte es mitgenommen, um in Serbien weiterzulernen. Auf dem Rückflug ist eine Wasserflasche in meiner Tasche ausgelaufen, und einige Seiten sind jetzt beschädigt. Selbstverständlich ersetze ich das Buch.\n\nWegen der besonderen Situation möchte ich Sie bitten, die Gebühren zu reduzieren oder ganz zu erlassen. Ich bin seit sechs Jahren Mitglied Ihrer Bibliothek und habe bisher immer alles pünktlich zurückgebracht. Falls nötig, kann ich Ihnen gern eine Bestätigung des Krankenhauses zeigen.\n\nFür Ihr Verständnis wäre ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\nViktor Lazić"
+  },
+  "modelNotes": [
+    "The apology and the serious reason come first; the situation is explained calmly and factually.",
+    "Each guiding point is clearly signposted: the reason („Der Grund dafür ist, dass …“), the return („gleich morgen Vormittag“), the problem („Mit dem Lehrbuch gibt es allerdings ein Problem“) and the request („möchte ich Sie bitten, …“).",
+    "The request is supported by arguments (six years of membership, always punctual, hospital confirmation) – this is what makes a negotiation convincing.",
+    "Semi-formal register throughout, with a variety of structures: „um … zu“, „falls“, Plusquamperfekt („Ich hatte es mitgenommen“) and polite Konjunktiv II at the end („wäre ich Ihnen sehr dankbar“)."
+  ],
+  "modelNotesDe": [
+    "Die Entschuldigung und der ernste Grund kommen zuerst; der Schreiber erklärt die Situation ruhig und sachlich.",
+    "Jeder Leitpunkt ist klar markiert: der Grund („Der Grund dafür ist, dass …“), die Rückgabe („gleich morgen Vormittag“), das Problem („Mit dem Lehrbuch gibt es allerdings ein Problem“) und die Bitte („möchte ich Sie bitten, …“).",
+    "Der Schreiber stützt seine Bitte mit Argumenten (sechs Jahre Mitglied, immer pünktlich, Bestätigung vom Krankenhaus) – genau das macht eine Verhandlung überzeugend.",
+    "Durchgehend halbformelles Register mit vielen verschiedenen Strukturen: „um … zu“, „falls“, Plusquamperfekt („Ich hatte es mitgenommen“) und höflicher Konjunktiv II am Schluss („wäre ich Ihnen sehr dankbar“)."
+  ],
+  "phrases": [
+    { "de": "Es tut mir sehr leid, dass ich … nicht rechtzeitig zurückgegeben habe.", "en": "I'm very sorry that I didn't return … on time." },
+    { "de": "Der Grund dafür ist, dass …", "en": "The reason for this is that …" },
+    { "de": "… bringe ich Ihnen gleich morgen vorbei.", "en": "I'll bring … round to you tomorrow." },
+    { "de": "Mit … gibt es allerdings ein Problem: …", "en": "There is a problem with …, however: …" },
+    { "de": "Selbstverständlich ersetze ich das Buch.", "en": "Of course I will replace the book." },
+    { "de": "Ich möchte Sie bitten, die Gebühren zu reduzieren.", "en": "I would like to ask you to reduce the fees." },
+    { "de": "Falls nötig, kann ich Ihnen … zeigen.", "en": "If necessary, I can show you …" },
+    { "de": "Für Ihr Verständnis wäre ich Ihnen sehr dankbar.", "en": "I would be very grateful for your understanding." }
+  ],
+  "glossary": [
+    { "de": "die Mahnung", "en": "reminder about something overdue" },
+    { "de": "überfällig", "en": "overdue" },
+    { "de": "das Medium (Pl. die Medien)", "en": "item in a library (book, DVD …)" },
+    { "de": "die Gebühr", "en": "fee" },
+    { "de": "auslaufen", "en": "to leak" },
+    { "de": "ersetzen", "en": "to replace" },
+    { "de": "eine Gebühr erlassen", "en": "to waive a fee" }
+  ]
+}

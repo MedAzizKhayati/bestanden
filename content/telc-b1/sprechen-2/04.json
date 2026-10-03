@@ -1,0 +1,98 @@
+{
+  "id": "sprechen-2-04",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Im Internet oder im Laden kaufen?",
+  "topic": "einkaufen",
+  "difficulty": 1,
+  "theme": "Online-Einkaufen",
+  "medium": "in einer Zeitschrift",
+  "cardA": {
+    "name": "Nicole Schäfer",
+    "age": 34,
+    "job": "Bankkauffrau",
+    "quote": "Ich kaufe fast alles im Internet, von Kleidung bis zu Katzenfutter. Nach der Arbeit habe ich keine Lust, durch volle Geschäfte zu laufen. Online kann ich in Ruhe die Preise vergleichen und die Bewertungen von anderen Kunden lesen. Wenn mir etwas nicht gefällt, schicke ich es einfach kostenlos zurück."
+  },
+  "cardB": {
+    "name": "Werner Lindner",
+    "age": 58,
+    "job": "Buchhändler",
+    "quote": "Ich habe eine kleine Buchhandlung in Freiburg, und ich sehe, wie das Online-Einkaufen unsere Innenstädte verändert. Immer mehr Geschäfte müssen schließen. Dabei bekommt man im Laden eine persönliche Beratung und kann die Ware anfassen. Und die vielen Pakete und Lieferwagen sind auch schlecht für die Umwelt."
+  },
+  "ideas": {
+    "pro": [
+      "rund um die Uhr einkaufen, auch am Sonntag",
+      "Preise schnell vergleichen",
+      "Bewertungen von anderen Kunden lesen",
+      "sehr große Auswahl",
+      "Lieferung bis an die Haustür",
+      "praktisch für Menschen ohne Auto oder mit wenig Zeit"
+    ],
+    "contra": [
+      "keine persönliche Beratung",
+      "man kann die Ware nicht anfassen oder anprobieren",
+      "kleine Geschäfte in der Innenstadt müssen schließen",
+      "viel Verpackung und Lieferverkehr",
+      "Pakete kommen zu spät oder gehen verloren",
+      "man kauft schneller Dinge, die man nicht braucht"
+    ]
+  },
+  "questions": [
+    "Was kaufen Sie im Internet und was lieber im Geschäft?",
+    "Wie ist das in Ihrem Heimatland? Kaufen die Leute dort viel online?",
+    "Hatten Sie schon einmal Probleme mit einer Bestellung?",
+    "Was können kleine Geschäfte tun, damit die Kunden zu ihnen kommen?",
+    "Ist Online-Einkaufen schlecht für die Umwelt?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Mei Lin", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Nikos Papadopoulos", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange mal an. Auf meinem Blatt steht die Meinung von Nicole Schäfer. Sie ist 34 Jahre alt und Bankkauffrau." },
+    { "s": "A", "t": "Frau Schäfer kauft fast alles im Internet, sogar Katzenfutter. Sie sagt, dass sie nach der Arbeit keine Lust hat, durch volle Geschäfte zu laufen." },
+    { "s": "A", "t": "Online kann sie in Ruhe Preise vergleichen und Bewertungen lesen. Und wenn ihr etwas nicht gefällt, schickt sie es kostenlos zurück." },
+    { "s": "B", "t": "Danke, Mei. Mein Text ist von Werner Lindner, er ist 58 und hat eine kleine Buchhandlung in Freiburg. Er sieht das Online-Einkaufen sehr kritisch." },
+    { "s": "B", "t": "Herr Lindner meint, dass immer mehr Geschäfte in den Innenstädten schließen müssen. Er findet, dass man im Laden eine persönliche Beratung bekommt und die Ware anfassen kann." },
+    { "s": "B", "t": "Außerdem sagt er, dass die vielen Pakete und Lieferwagen schlecht für die Umwelt sind." },
+    { "s": "A", "t": "Ich finde beide Meinungen interessant. Und wie ist es bei dir, Nikos? Kaufst du oft im Internet ein?" },
+    { "s": "B", "t": "Ehrlich gesagt, ja, vor allem Elektronik und Ersatzteile für mein Fahrrad. Im Internet ist das oft viel billiger. Aber Kleidung kaufe ich lieber im Geschäft." },
+    { "s": "A", "t": "Warum? Man kann sie doch zurückschicken." },
+    { "s": "B", "t": "Das stimmt, aber ich habe eine komische Größe. Fast nichts passt mir beim ersten Mal, und ich finde es nervig, ständig Pakete zur Post zu bringen." },
+    { "s": "A", "t": "Das verstehe ich. Ich mache es genau umgekehrt: Kleidung bestelle ich online, aber Bücher kaufe ich immer in einer kleinen Buchhandlung in meiner Straße." },
+    { "s": "B", "t": "Wirklich? Bücher sind doch im Internet ganz leicht zu bestellen." },
+    { "s": "A", "t": "Ja, aber die Buchhändlerin kennt mich und gibt mir immer gute Tipps. So eine Beratung bekomme ich online nicht. Da hat Herr Lindner völlig recht." },
+    { "s": "B", "t": "Stimmt, persönlicher Kontakt ist wichtig. Wie ist das eigentlich in China? Ich habe gehört, dass dort fast alle online einkaufen." },
+    { "s": "A", "t": "Ja, das ist richtig. In China bestellen die Leute sogar Obst und Gemüse mit dem Handy, und es kommt manchmal schon nach einer halben Stunde. Meine Eltern kaufen fast nichts mehr im Geschäft." },
+    { "s": "B", "t": "Eine halbe Stunde? Das ist ja unglaublich! In Griechenland gehen viele Leute, besonders die älteren, lieber auf den Markt oder in kleine Läden in ihrem Viertel." },
+    { "s": "A", "t": "Das finde ich eigentlich schöner. Man trifft Nachbarn und unterhält sich ein bisschen." },
+    { "s": "B", "t": "Ja, genau. Und was meinst du zum Thema Umwelt? Herr Lindner sagt ja, dass die Pakete schlecht für die Umwelt sind." },
+    { "s": "A", "t": "Da hat er wahrscheinlich recht. Wenn jeder jeden Tag ein Paket bekommt, fahren sehr viele Lieferwagen durch die Stadt. Und es gibt so viel Verpackung." },
+    { "s": "B", "t": "Und viele Leute schicken die Hälfte wieder zurück! Ich glaube, man sollte vor dem Bestellen besser nachdenken." },
+    { "s": "A", "t": "Das finde ich auch. Für mich ist eine Mischung am besten: Manche Sachen kaufe ich online, aber für andere Dinge gehe ich gern in ein Geschäft." },
+    { "s": "B", "t": "Da sind wir uns einig. Und so helfen wir auch den kleinen Läden in unserer Stadt." }
+  ],
+  "phrases": [
+    { "de": "Mein Text ist von …", "en": "My text is by …" },
+    { "de": "Er sieht das … sehr kritisch.", "en": "He is very critical of …" },
+    { "de": "Ich finde beide Meinungen interessant.", "en": "I find both opinions interesting." },
+    { "de": "Ich mache es genau umgekehrt.", "en": "I do it exactly the other way round." },
+    { "de": "Da hat … völlig recht.", "en": "… is absolutely right there." },
+    { "de": "Ich habe gehört, dass …", "en": "I've heard that …" },
+    { "de": "Da hat er wahrscheinlich recht.", "en": "He's probably right about that." },
+    { "de": "Für mich ist eine Mischung am besten.", "en": "For me, a mix is best." },
+    { "de": "Da sind wir uns einig.", "en": "We agree on that." }
+  ],
+  "vocabulary": [
+    { "de": "bestellen", "en": "to order" },
+    { "de": "zurückschicken", "en": "to send back, to return" },
+    { "de": "die Bewertung", "en": "review, rating" },
+    { "de": "Preise vergleichen", "en": "to compare prices" },
+    { "de": "die Beratung", "en": "advice (from shop staff)" },
+    { "de": "die Ware", "en": "goods, merchandise" },
+    { "de": "der Lieferwagen", "en": "delivery van" },
+    { "de": "die Verpackung", "en": "packaging" },
+    { "de": "die Innenstadt", "en": "town centre" },
+    { "de": "das Ersatzteil", "en": "spare part" }
+  ]
+}

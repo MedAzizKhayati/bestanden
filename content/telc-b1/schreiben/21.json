@@ -1,0 +1,58 @@
+{
+  "id": "schreiben-21",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Verabredung vergessen",
+  "topic": "freizeit",
+  "difficulty": 3,
+  "register": "informal",
+  "situation": "Sie haben von Ihrer Freundin Katrin folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Katrin",
+    "subject": "Wo warst du gestern?",
+    "body": "Hallo,\n\nich bin ehrlich gesagt ziemlich enttäuscht. Gestern Abend habe ich eine halbe Stunde vor der Kletterhalle auf dich gewartet. Ich habe dich dreimal angerufen und dir zwei Nachrichten geschrieben, aber du hast nicht reagiert. Am Ende bin ich wieder nach Hause gefahren. Dabei hatte ich die Eintrittskarten für uns beide schon online gekauft – 36 Euro!\n\nIst bei dir alles in Ordnung? Ich hoffe, es ist nichts Schlimmes passiert.\n\nKatrin"
+  },
+  "leitpunkte": [
+    "Was Sie mit dem Geld für die Karten machen",
+    "Warum Sie nicht ans Telefon gegangen sind",
+    "Wie Sie Ihren Fehler wiedergutmachen möchten",
+    "Was gestern bei Ihnen passiert ist"
+  ],
+  "model": {
+    "subject": "Es tut mir so leid!",
+    "text": "Liebe Katrin,\n\nes tut mir wirklich furchtbar leid! Du hast völlig recht, enttäuscht zu sein. So etwas darf unter Freundinnen einfach nicht passieren.\n\nGestern Nachmittag hat mich meine Chefin gefragt, ob ich für eine kranke Kollegin die Spätschicht übernehmen kann. Ohne nachzudenken, habe ich sofort Ja gesagt und dabei völlig vergessen, dass wir verabredet waren. Erst heute Morgen habe ich deine Nachrichten gesehen.\n\nWährend der Arbeit muss mein Handy nämlich im Spind bleiben. Als ich um 22 Uhr endlich Feierabend hatte, war der Akku leer, und ich bin todmüde ins Bett gefallen.\n\nDie 36 Euro für die Karten überweise ich dir natürlich noch heute. Schließlich hast du sie ja für uns beide gekauft.\n\nAußerdem möchte ich meinen Fehler gern wiedergutmachen. Hast du am Samstag Zeit? Dann lade ich dich zum Klettern und danach zum Essen in unser Lieblingsrestaurant ein. Diesmal speichere ich mir sogar eine Erinnerung im Handy, versprochen!\n\nBitte sei mir nicht mehr böse.\n\nGanz liebe Grüße\nDeine Mia"
+  },
+  "modelNotes": [
+    "A sincere apology comes first and accepts Katrin's feelings („Du hast völlig recht, enttäuscht zu sein.“) – essential when someone is disappointed.",
+    "The explanation follows a clear time sequence („Gestern Nachmittag …“, „Erst heute Morgen …“, „Als ich um 22 Uhr …“) and does not sound like a cheap excuse.",
+    "„nämlich“ and „schließlich“ give reasons in a natural, informal way; „ohne … zu“, „ob“ and „als“ add grammatical range.",
+    "The writer offers two concrete ways to make up for the mistake (money back, an invitation) and ends with a personal plea („Bitte sei mir nicht mehr böse.“).",
+    "What makes this task demanding is the tone: clearly sorry, but not overly dramatic."
+  ],
+  "modelNotesDe": [
+    "Am Anfang steht eine ehrliche Entschuldigung, die Katrins Gefühle ernst nimmt („Du hast völlig recht, enttäuscht zu sein.“) – das ist unbedingt nötig, wenn jemand enttäuscht ist.",
+    "Die Erklärung folgt einer klaren zeitlichen Reihenfolge („Gestern Nachmittag …“, „Erst heute Morgen …“, „Als ich um 22 Uhr …“) und klingt nicht nach einer billigen Ausrede.",
+    "„nämlich“ und „schließlich“ nennen Gründe auf natürliche, informelle Art; „ohne … zu“, „ob“ und „als“ sorgen für grammatische Vielfalt.",
+    "Die Schreiberin bietet zwei konkrete Wege an, den Fehler wiedergutzumachen (Geld zurück, eine Einladung), und endet mit einer persönlichen Bitte („Bitte sei mir nicht mehr böse.“).",
+    "Schwierig an dieser Aufgabe ist der Ton: deutlich entschuldigend, aber nicht übertrieben dramatisch."
+  ],
+  "phrases": [
+    { "de": "Es tut mir wirklich furchtbar leid!", "en": "I'm really terribly sorry!" },
+    { "de": "Du hast völlig recht, enttäuscht zu sein.", "en": "You have every right to be disappointed." },
+    { "de": "Ich habe völlig vergessen, dass wir verabredet waren.", "en": "I completely forgot that we had arranged to meet." },
+    { "de": "Erst heute Morgen habe ich … gesehen.", "en": "I only saw … this morning." },
+    { "de": "Das Geld überweise ich dir noch heute.", "en": "I'll transfer the money to you today." },
+    { "de": "Ich möchte meinen Fehler gern wiedergutmachen.", "en": "I'd like to make up for my mistake." },
+    { "de": "Dann lade ich dich zum Essen ein.", "en": "Then I'll treat you to a meal." },
+    { "de": "Bitte sei mir nicht mehr böse.", "en": "Please don't be cross with me any more." }
+  ],
+  "glossary": [
+    { "de": "enttäuscht", "en": "disappointed" },
+    { "de": "die Kletterhalle", "en": "indoor climbing centre" },
+    { "de": "verabredet sein", "en": "to have arranged to meet" },
+    { "de": "die Spätschicht übernehmen", "en": "to take over the late shift" },
+    { "de": "der Spind", "en": "locker" },
+    { "de": "wiedergutmachen", "en": "to make up for" }
+  ]
+}

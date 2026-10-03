@@ -1,0 +1,101 @@
+{
+  "id": "hoeren-3-04",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Freizeit und Ausflüge",
+  "topic": "freizeit",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "zoo", "gender": "f", "age": "adult", "role": "Durchsage im Tierpark" },
+    { "id": "basti", "name": "Basti", "gender": "m", "age": "young", "role": "Freund" },
+    { "id": "schiff", "gender": "m", "age": "senior", "role": "Durchsage auf dem Schiff" },
+    { "id": "radio", "gender": "f", "age": "young", "role": "Radiomoderatorin" },
+    { "id": "kletterhalle", "gender": "m", "age": "adult", "role": "Telefonansage" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage im Tierpark",
+      "script": [
+        { "s": "zoo", "t": "Liebe Besucherinnen und Besucher, eine Information zur Fütterung der Seelöwen. Heute füttern wir die Tiere nicht wie sonst um 15 Uhr, sondern schon um halb drei." },
+        { "s": "zoo", "t": "Treffpunkt ist das große Becken gegenüber vom Spielplatz. Unsere Tierpflegerin erzählt dabei auch viel Interessantes über die Seelöwen." },
+        { "s": "zoo", "t": "Die Fütterung der Pinguine findet wie gewohnt um 16 Uhr statt." }
+      ],
+      "statement": "Die Seelöwen bekommen ihr Futter heute früher als sonst.",
+      "answer": true,
+      "explanation": "The sea lions are fed „nicht wie sonst um 15 Uhr, sondern schon um halb drei“ – earlier than usual. Only the penguins are fed at the usual time.",
+      "explanationDe": "Die Seelöwen werden „nicht wie sonst um 15 Uhr, sondern schon um halb drei“ gefüttert – also früher als sonst. Nur die Pinguine bekommen ihr Futter zur gewohnten Zeit.",
+      "evidence": "Heute füttern wir die Tiere nicht wie sonst um 15 Uhr, sondern schon um halb drei."
+    },
+    {
+      "n": 2,
+      "label": "Nachricht von einem Freund",
+      "script": [
+        { "s": "basti", "t": "Hallo Carla, hier ist Basti. Es geht um unsere Wanderung am Sonntag. Wir treffen uns doch nicht bei mir, sondern um halb neun direkt am Bahnhof, am Fahrkartenautomaten." },
+        { "s": "basti", "t": "Die Fahrkarten für alle hab ich schon im Internet gekauft, darum musst du dich also nicht kümmern." },
+        { "s": "basti", "t": "Bring bitte eine Regenjacke und etwas zu essen mit, oben auf dem Berg gibt es nämlich keine Hütte. Bis Sonntag!" }
+      ],
+      "statement": "Carla soll am Sonntag die Fahrkarten für alle kaufen.",
+      "answer": false,
+      "explanation": "Basti says „Die Fahrkarten für alle hab ich schon im Internet gekauft“, so Carla doesn't have to buy them. The ticket machine is only the meeting point.",
+      "explanationDe": "Basti sagt: „Die Fahrkarten für alle hab ich schon im Internet gekauft“, also muss Carla sie nicht kaufen. Der Fahrkartenautomat ist nur der Treffpunkt.",
+      "evidence": "Die Fahrkarten für alle hab ich schon im Internet gekauft, darum musst du dich also nicht kümmern."
+    },
+    {
+      "n": 3,
+      "label": "Durchsage auf dem Schiff",
+      "script": [
+        { "s": "schiff", "t": "Meine Damen und Herren, in wenigen Minuten erreichen wir Meersburg. Hier haben Sie eine Stunde Aufenthalt." },
+        { "s": "schiff", "t": "Bitte seien Sie pünktlich wieder an Bord, denn um 16 Uhr 15 fahren wir weiter nach Konstanz." },
+        { "s": "schiff", "t": "Unser Restaurant auf dem Oberdeck ist noch bis 16 Uhr geöffnet. Wir wünschen Ihnen einen schönen Aufenthalt in Meersburg." }
+      ],
+      "statement": "Die Fahrgäste haben in Meersburg zwei Stunden Zeit.",
+      "answer": false,
+      "explanation": "„Hier haben Sie eine Stunde Aufenthalt.“ The ship continues to Konstanz at 16 Uhr 15.",
+      "explanationDe": "„Hier haben Sie eine Stunde Aufenthalt.“ Um 16 Uhr 15 fährt das Schiff weiter nach Konstanz.",
+      "evidence": "Hier haben Sie eine Stunde Aufenthalt."
+    },
+    {
+      "n": 4,
+      "label": "Veranstaltungstipp im Radio",
+      "script": [
+        { "s": "radio", "t": "Unser Freizeittipp für das Wochenende: Am Freitag und am Samstag gibt es wieder Kino unter freiem Himmel im Schlosspark." },
+        { "s": "radio", "t": "Die Filme beginnen, wenn es dunkel wird, also gegen halb zehn. Der Eintritt kostet 8 Euro, Kinder unter zwölf Jahren zahlen nichts." },
+        { "s": "radio", "t": "Bringen Sie am besten eine Decke mit. Und wenn es regnet, keine Sorge: Dann wird der Film in der Stadthalle gezeigt." }
+      ],
+      "statement": "Bei Regen sehen die Zuschauer den Film in der Stadthalle.",
+      "answer": true,
+      "explanation": "„Und wenn es regnet, keine Sorge: Dann wird der Film in der Stadthalle gezeigt.“",
+      "explanationDe": "„Und wenn es regnet, keine Sorge: Dann wird der Film in der Stadthalle gezeigt.“",
+      "evidence": "Dann wird der Film in der Stadthalle gezeigt."
+    },
+    {
+      "n": 5,
+      "label": "Telefonansage einer Kletterhalle",
+      "script": [
+        { "s": "kletterhalle", "t": "Hallo und willkommen in der Kletterhalle Gipfelglück! Wir haben montags bis freitags von 14 bis 23 Uhr geöffnet, am Wochenende von 10 bis 22 Uhr." },
+        { "s": "kletterhalle", "t": "Für Anfänger bieten wir jeden Samstag um 11 Uhr einen Schnupperkurs an. Er dauert zwei Stunden und kostet 25 Euro, Leihschuhe inklusive." },
+        { "s": "kletterhalle", "t": "Bitte melden Sie sich dafür vorher auf unserer Internetseite an." }
+      ],
+      "statement": "Anfänger können am Samstagvormittag einen Kurs zum Ausprobieren machen.",
+      "answer": true,
+      "explanation": "„Für Anfänger bieten wir jeden Samstag um 11 Uhr einen Schnupperkurs an“ – a taster course on Saturday morning.",
+      "explanationDe": "„Für Anfänger bieten wir jeden Samstag um 11 Uhr einen Schnupperkurs an“ – also ein Kurs zum Ausprobieren am Samstagvormittag.",
+      "evidence": "Für Anfänger bieten wir jeden Samstag um 11 Uhr einen Schnupperkurs an."
+    }
+  ],
+  "glossary": [
+    { "de": "die Fütterung", "en": "feeding (of animals)" },
+    { "de": "der Seelöwe", "en": "sea lion" },
+    { "de": "der Treffpunkt", "en": "meeting point" },
+    { "de": "die Wanderung", "en": "hike" },
+    { "de": "sich um etwas kümmern", "en": "to take care of something" },
+    { "de": "der Aufenthalt", "en": "stop, stay" },
+    { "de": "an Bord", "en": "on board" },
+    { "de": "unter freiem Himmel", "en": "in the open air" },
+    { "de": "die Decke", "en": "blanket" },
+    { "de": "der Schnupperkurs", "en": "taster course" },
+    { "de": "sich anmelden", "en": "to register, to sign up" }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "hoeren-3-10",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Sport in der Stadt",
+  "topic": "sport",
+  "difficulty": 3,
+  "speakers": [
+    { "id": "stadion", "gender": "m", "age": "adult", "role": "Stadionsprecher" },
+    { "id": "fitness", "name": "Leonie", "gender": "f", "age": "young", "role": "Fitnessstudio Vitalis" },
+    { "id": "radio", "gender": "m", "age": "adult", "role": "Radiomoderator" },
+    { "id": "eishalle", "gender": "f", "age": "adult", "role": "Telefonansage" },
+    { "id": "sportladen", "gender": "m", "age": "young", "role": "Durchsage im Sportgeschäft" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage im Stadion",
+      "script": [
+        { "s": "stadion", "t": "Liebe Fußballfans, wegen des Gewitters beginnt das Spiel heute nicht um 15 Uhr 30, sondern erst um 16 Uhr. Bitte bleiben Sie bis dahin unter den Dächern der Tribünen." },
+        { "s": "stadion", "t": "Die Fans der Gastmannschaft werden gebeten, den Eingang Ost zu benutzen. Eingang Süd bleibt heute geschlossen." },
+        { "s": "stadion", "t": "Nach dem Spiel fahren die Straßenbahnen zum Hauptbahnhof alle fünf Minuten, und zwar von der Haltestelle Stadion Nord." }
+      ],
+      "statement": "Die Fans der Gastmannschaft sollen durch den Eingang Süd ins Stadion gehen.",
+      "answer": false,
+      "explanation": "„Die Fans der Gastmannschaft werden gebeten, den Eingang Ost zu benutzen.“ Entrance South is closed today.",
+      "explanationDe": "„Die Fans der Gastmannschaft werden gebeten, den Eingang Ost zu benutzen.“ Der Eingang Süd ist heute geschlossen.",
+      "evidence": "Die Fans der Gastmannschaft werden gebeten, den Eingang Ost zu benutzen."
+    },
+    {
+      "n": 2,
+      "label": "Nachricht vom Fitnessstudio",
+      "script": [
+        { "s": "fitness", "t": "Hallo, Herr Rahimi, hier ist Leonie vom Fitnessstudio Vitalis. Sie haben sich ja für den Yogakurs am Donnerstagabend angemeldet." },
+        { "s": "fitness", "t": "Der Kurs findet ab nächster Woche nicht mehr um 19 Uhr statt, sondern schon um 18 Uhr 30, weil danach ein neuer Rückenkurs beginnt." },
+        { "s": "fitness", "t": "Der Raum bleibt derselbe. Und denken Sie bitte an Ihre eigene Matte, die Leihmatten werden gerade alle ausgetauscht." }
+      ],
+      "statement": "Herr Rahimi soll zum Yogakurs eine eigene Matte mitbringen.",
+      "answer": true,
+      "explanation": "„Denken Sie bitte an Ihre eigene Matte“, because all the mats for hire are being replaced. The class also starts earlier now, at 18 Uhr 30.",
+      "explanationDe": "„Denken Sie bitte an Ihre eigene Matte“, weil gerade alle Leihmatten ausgetauscht werden. Der Kurs beginnt jetzt auch früher, um 18 Uhr 30.",
+      "evidence": "Und denken Sie bitte an Ihre eigene Matte, die Leihmatten werden gerade alle ausgetauscht."
+    },
+    {
+      "n": 3,
+      "label": "Veranstaltungstipp im Radio",
+      "script": [
+        { "s": "radio", "t": "Am Sonntag in zwei Wochen ist es wieder so weit: Der Stadtlauf startet um 10 Uhr am Rathausplatz. Sie können zwischen fünf und zehn Kilometern wählen." },
+        { "s": "radio", "t": "Wer sich bis Mittwoch im Internet anmeldet, zahlt 15 Euro. Danach kostet die Anmeldung 20 Euro, auch am Lauftag selbst." },
+        { "s": "radio", "t": "Ihre Startnummer können Sie am Samstag vor dem Lauf in der Sporthalle am Stadtpark abholen." }
+      ],
+      "statement": "Wer sich erst am Lauftag anmeldet, muss 20 Euro bezahlen.",
+      "answer": true,
+      "explanation": "Registering online until Wednesday costs 15 Euro. „Danach kostet die Anmeldung 20 Euro, auch am Lauftag selbst.“",
+      "explanationDe": "Wer sich bis Mittwoch im Internet anmeldet, zahlt 15 Euro. „Danach kostet die Anmeldung 20 Euro, auch am Lauftag selbst.“",
+      "evidence": "Danach kostet die Anmeldung 20 Euro, auch am Lauftag selbst."
+    },
+    {
+      "n": 4,
+      "label": "Telefonansage der Eishalle",
+      "script": [
+        { "s": "eishalle", "t": "Herzlich willkommen in der Eissporthalle am Westpark. Öffentliches Eislaufen ist montags bis freitags von 14 bis 17 Uhr und am Wochenende von 10 bis 18 Uhr möglich." },
+        { "s": "eishalle", "t": "Am kommenden Samstag ist die Halle allerdings wegen eines Eishockeyturniers den ganzen Tag geschlossen. Am Sonntag ist wieder normal geöffnet." },
+        { "s": "eishalle", "t": "Schlittschuhe können Sie an der Kasse für 4 Euro ausleihen. Für Kinder unter sechs Jahren ist der Eintritt frei." }
+      ],
+      "statement": "Am nächsten Samstag kann man von 10 bis 18 Uhr Schlittschuh laufen.",
+      "answer": false,
+      "explanation": "10 to 18 Uhr are the normal weekend hours, but „Am kommenden Samstag ist die Halle allerdings … den ganzen Tag geschlossen“ because of an ice hockey tournament.",
+      "explanationDe": "Am Wochenende ist normalerweise von 10 bis 18 Uhr geöffnet, aber: „Am kommenden Samstag ist die Halle allerdings … den ganzen Tag geschlossen“, weil ein Eishockeyturnier stattfindet.",
+      "evidence": "Am kommenden Samstag ist die Halle allerdings wegen eines Eishockeyturniers den ganzen Tag geschlossen."
+    },
+    {
+      "n": 5,
+      "label": "Durchsage im Sportgeschäft",
+      "script": [
+        { "s": "sportladen", "t": "Liebe Kundinnen und Kunden, heute haben wir für Sie ein besonderes Angebot: Alle Laufschuhe im Untergeschoss sind um zwanzig Prozent reduziert." },
+        { "s": "sportladen", "t": "Fahrräder und Fahrradhelme im zweiten Stock bekommen Sie sogar zum halben Preis. Dieses Angebot gilt allerdings nur noch bis 16 Uhr." },
+        { "s": "sportladen", "t": "Wenn Sie Ihre neuen Laufschuhe gleich testen möchten: Auf unserem Laufband im Erdgeschoss können Sie sie kostenlos ausprobieren." }
+      ],
+      "statement": "Das Laufband zum Ausprobieren der Schuhe steht im Erdgeschoss.",
+      "answer": true,
+      "explanation": "The running shoes are sold in the basement, but „Auf unserem Laufband im Erdgeschoss“ you can test them. Bikes and helmets are on the second floor.",
+      "explanationDe": "Die Laufschuhe gibt es im Untergeschoss, aber: „Auf unserem Laufband im Erdgeschoss“ kann man sie testen. Fahrräder und Helme sind im zweiten Stock.",
+      "evidence": "Auf unserem Laufband im Erdgeschoss können Sie sie kostenlos ausprobieren."
+    }
+  ],
+  "glossary": [
+    { "de": "die Tribüne", "en": "stand (in a stadium)" },
+    { "de": "die Gastmannschaft", "en": "visiting team" },
+    { "de": "die Haltestelle", "en": "stop (bus, tram)" },
+    { "de": "die Leihmatte", "en": "mat for hire" },
+    { "de": "austauschen", "en": "to replace" },
+    { "de": "die Anmeldung", "en": "registration" },
+    { "de": "die Startnummer", "en": "race number" },
+    { "de": "Schlittschuh laufen", "en": "to ice-skate" },
+    { "de": "das Turnier", "en": "tournament" },
+    { "de": "reduziert", "en": "reduced (in price)" },
+    { "de": "das Laufband", "en": "treadmill" },
+    { "de": "ausprobieren", "en": "to try out" }
+  ]
+}

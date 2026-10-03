@@ -1,0 +1,288 @@
+{
+  "id": "praepositionen-mit-kasus",
+  "level": "A2",
+  "category": "praepositionen",
+  "order": 1,
+  "title": "Präpositionen mit Akkusativ, Dativ und Genitiv",
+  "titleEn": "Prepositions and their cases",
+  "summary": "Each preposition decides the case of the words after it: für + Akkusativ, mit + Dativ, wegen + Genitiv.",
+  "summaryDe": "Jede Präposition bestimmt den Kasus der Wörter danach: für + Akkusativ, mit + Dativ, wegen + Genitiv.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Every preposition decides the case of the article, adjective and noun that follow it: **für** + Akkusativ („für **den** Kurs“), **mit** + Dativ („mit **dem** Bus“), **wegen** + Genitiv („wegen **des** Regens“). Learn each preposition together with its case.",
+      "mdDe": "Jede Präposition bestimmt den Kasus von Artikel, Adjektiv und Nomen danach: **für** + Akkusativ („für **den** Kurs“), **mit** + Dativ („mit **dem** Bus“), **wegen** + Genitiv („wegen **des** Regens“). Lerne jede Präposition zusammen mit ihrem Kasus."
+    },
+    {
+      "type": "text",
+      "heading": "Three groups to learn by heart",
+      "headingDe": "Drei Gruppen zum Auswendiglernen",
+      "md": "- **Akkusativ:** durch, für, gegen, ohne, um – remember the word **DOGFU**: Durch, Ohne, Gegen, Für, Um. „bis“ also takes the accusative, but it is mostly used without an article („bis Montag“) or together with another preposition („bis zum Bahnhof“).\n- **Dativ:** aus, bei, mit, nach, seit, von, zu – plus gegenüber and ab. Say them as a chant until they stick: *aus – bei – mit – nach – seit – von – zu*.\n- **Genitiv:** wegen, trotz, während, statt (anstatt), innerhalb, außerhalb. In everyday speech many Germans use the dative after „wegen“ („wegen dem Wetter“) – in written German and in the exam, use the **genitive**.\n\nThe nine two-way prepositions (in, an, auf, über, unter, vor, hinter, neben, zwischen) take the accusative or the dative – see Wechselpräpositionen.",
+      "mdDe": "- **Akkusativ:** durch, für, gegen, ohne, um – merk dir das Wort **DOGFU**: Durch, Ohne, Gegen, Für, Um. Auch „bis“ braucht den Akkusativ, steht aber meistens ohne Artikel („bis Montag“) oder zusammen mit einer anderen Präposition („bis zum Bahnhof“).\n- **Dativ:** aus, bei, mit, nach, seit, von, zu – dazu gegenüber und ab. Sag sie wie einen Reim immer wieder auf, bis du sie kannst: *aus – bei – mit – nach – seit – von – zu*.\n- **Genitiv:** wegen, trotz, während, statt (anstatt), innerhalb, außerhalb. Im Alltag verwenden viele Deutsche nach „wegen“ den Dativ („wegen dem Wetter“) – in geschriebenen Texten und in der Prüfung nimmst du den **Genitiv**.\n\nDie neun Wechselpräpositionen (in, an, auf, über, unter, vor, hinter, neben, zwischen) stehen mit Akkusativ oder Dativ – siehe Wechselpräpositionen."
+    },
+    {
+      "type": "table",
+      "heading": "Prepositions and their case",
+      "headingDe": "Präpositionen und ihr Kasus",
+      "columns": ["Präposition", "Kasus", "English", "Beispiel"],
+      "columnsDe": ["Präposition", "Kasus", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["durch", "Akk", "through", "durch den Park"],
+        ["für", "Akk", "for", "für meinen Vater"],
+        ["gegen", "Akk", "against; around (time)", "gegen eine Mannschaft aus Basel, gegen 8 Uhr"],
+        ["ohne", "Akk", "without", "ohne meine Brille"],
+        ["um", "Akk", "around; at (clock time)", "um den See, um 8 Uhr"],
+        ["bis", "Akk", "until, by", "bis nächsten Freitag"],
+        ["aus", "Dat", "from (origin); out of", "aus der Türkei, aus dem Haus"],
+        ["bei", "Dat", "at (a person's home, a company); near", "bei meinen Eltern, bei der Post"],
+        ["mit", "Dat", "with; by (transport)", "mit meiner Freundin, mit dem Zug"],
+        ["nach", "Dat", "after; to (towns, countries)", "nach dem Essen, nach Wien"],
+        ["seit", "Dat", "since; for (until now)", "seit einem Jahr"],
+        ["von", "Dat", "from; of; by", "von meiner Oma, vom Bahnhof"],
+        ["zu", "Dat", "to (people, places)", "zum Arzt, zur Schule"],
+        ["gegenüber", "Dat", "opposite", "gegenüber dem Rathaus"],
+        ["ab", "Dat", "from … on", "ab dem 1. Mai"],
+        ["wegen", "Gen", "because of", "wegen des Streiks"],
+        ["trotz", "Gen", "despite", "trotz des Regens"],
+        ["während", "Gen", "during", "während der Arbeit"],
+        ["statt / anstatt", "Gen", "instead of", "statt eines Briefes"],
+        ["innerhalb", "Gen", "within; inside", "innerhalb einer Woche"],
+        ["außerhalb", "Gen", "outside", "außerhalb der Stadt"]
+      ],
+      "rowsDe": [
+        ["durch", "Akk", "von einer Seite zur anderen", "durch den Park"],
+        ["für", "Akk", "Empfänger, Zweck", "für meinen Vater"],
+        ["gegen", "Akk", "Gegner; ungefähr (Uhrzeit)", "gegen eine Mannschaft aus Basel, gegen 8 Uhr"],
+        ["ohne", "Akk", "nicht mit", "ohne meine Brille"],
+        ["um", "Akk", "rund um etwas; genaue Uhrzeit", "um den See, um 8 Uhr"],
+        ["bis", "Akk", "Endpunkt; spätestens", "bis nächsten Freitag"],
+        ["aus", "Dat", "Herkunft; von drinnen nach draußen", "aus der Türkei, aus dem Haus"],
+        ["bei", "Dat", "in der Wohnung einer Person, in einer Firma; in der Nähe", "bei meinen Eltern, bei der Post"],
+        ["mit", "Dat", "zusammen mit; Verkehrsmittel", "mit meiner Freundin, mit dem Zug"],
+        ["nach", "Dat", "später als; Richtung (Städte, Länder)", "nach dem Essen, nach Wien"],
+        ["seit", "Dat", "Beginn in der Vergangenheit, dauert bis jetzt", "seit einem Jahr"],
+        ["von", "Dat", "Ausgangspunkt; Besitz; Person, die etwas macht", "von meiner Oma, vom Bahnhof"],
+        ["zu", "Dat", "Richtung (Personen, Orte)", "zum Arzt, zur Schule"],
+        ["gegenüber", "Dat", "auf der anderen Seite", "gegenüber dem Rathaus"],
+        ["ab", "Dat", "von … an", "ab dem 1. Mai"],
+        ["wegen", "Gen", "Grund", "wegen des Streiks"],
+        ["trotz", "Gen", "Gegengrund (≈ obwohl)", "trotz des Regens"],
+        ["während", "Gen", "zur gleichen Zeit wie", "während der Arbeit"],
+        ["statt / anstatt", "Gen", "an Stelle von", "statt eines Briefes"],
+        ["innerhalb", "Gen", "in einem Zeitraum; drinnen", "innerhalb einer Woche"],
+        ["außerhalb", "Gen", "draußen, nicht in", "außerhalb der Stadt"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What the article looks like after the preposition",
+      "headingDe": "So sieht der Artikel nach der Präposition aus",
+      "columns": ["Kasus", "Maskulin", "Neutrum", "Feminin", "Plural"],
+      "columnsDe": ["Kasus", "Maskulin", "Neutrum", "Feminin", "Plural"],
+      "rows": [
+        ["Akkusativ (für)", "für den/einen Sohn", "für das/ein Kind", "für die/eine Tochter", "für die Kinder"],
+        ["Dativ (mit)", "mit dem/einem Sohn", "mit dem/einem Kind", "mit der/einer Tochter", "mit den Kindern"],
+        ["Genitiv (wegen)", "wegen des/eines Sohnes", "wegen des/eines Kindes", "wegen der/einer Tochter", "wegen der Kinder"]
+      ],
+      "note": "Dative plural: the noun gets an extra -n (den Kindern), unless the plural already ends in -n or -s (den Frauen, den Autos). Genitive masculine and neuter: the noun gets -s or -es (des Sohnes).",
+      "noteDe": "Dativ Plural: Das Nomen bekommt ein zusätzliches -n (den Kindern), außer der Plural endet schon auf -n oder -s (den Frauen, den Autos). Genitiv maskulin und neutral: Das Nomen bekommt -s oder -es (des Sohnes)."
+    },
+    {
+      "type": "table",
+      "heading": "Short forms",
+      "headingDe": "Kurzformen",
+      "columns": ["Präposition + Artikel", "Kurzform", "Beispiel"],
+      "rows": [
+        ["zu + dem", "zum", "zum Bahnhof"],
+        ["zu + der", "zur", "zur Arbeit"],
+        ["bei + dem", "beim", "beim Arzt"],
+        ["von + dem", "vom", "vom Bahnhof"],
+        ["für + das", "fürs (spoken)", "fürs Wochenende"],
+        ["durch + das", "durchs (spoken)", "durchs Fenster"],
+        ["um + das", "ums (spoken)", "ums Haus"]
+      ],
+      "rowsDe": [
+        ["zu + dem", "zum", "zum Bahnhof"],
+        ["zu + der", "zur", "zur Arbeit"],
+        ["bei + dem", "beim", "beim Arzt"],
+        ["von + dem", "vom", "vom Bahnhof"],
+        ["für + das", "fürs (gesprochen)", "fürs Wochenende"],
+        ["durch + das", "durchs (gesprochen)", "durchs Fenster"],
+        ["um + das", "ums (gesprochen)", "ums Haus"]
+      ],
+      "note": "„zur“ is the only short form with a feminine article. The short forms of in, an and auf (im, ins, am, ans, aufs) are explained under Wechselpräpositionen.",
+      "noteDe": "„zur“ ist die einzige Kurzform mit einem femininen Artikel. Die Kurzformen von in, an und auf (im, ins, am, ans, aufs) findest du unter Wechselpräpositionen."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich bin **ohne meinen** Schirm aus dem Haus gegangen.", "en": "I left the house without my umbrella." },
+        { "de": "Kannst du mich **mit dem** Auto **zum** Bahnhof bringen?", "en": "Can you take me to the station by car?" },
+        { "de": "Wir wohnen **seit einem** Jahr in Leipzig.", "en": "We have been living in Leipzig for a year." },
+        { "de": "Das Paket ist **für deinen** Bruder.", "en": "The parcel is for your brother." },
+        { "de": "**Nach dem** Unterricht treffe ich mich **mit meiner** Freundin.", "en": "After class I'm meeting my friend." },
+        { "de": "**Wegen des** Streiks fahren heute keine Busse.", "en": "Because of the strike there are no buses today." },
+        { "de": "**Trotz des** Regens haben wir einen Ausflug gemacht.", "en": "Despite the rain we went on a trip." },
+        { "de": "**Während der** Prüfung darf man kein Handy benutzen.", "en": "During the exam you are not allowed to use a mobile phone." },
+        { "de": "Ich arbeite **bei einer** Versicherung **gegenüber dem** Rathaus.", "en": "I work for an insurance company opposite the town hall." },
+        { "de": "Die Bäckerei ist gleich **um die** Ecke.", "en": "The bakery is just around the corner." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Two classic traps:**\n\n1. **wegen, trotz, während + Genitiv.** You will hear „wegen dem Regen“ in everyday speech, but in the exam „wegen **des** Regens“ is the correct answer.\n2. **English *by* is rarely „bei“:** by bus = „**mit** dem Bus“, by Friday = „**bis** Freitag“, written by = „geschrieben **von**“. „bei“ means *at someone's place or company*: „**bei** meiner Tante“, „**bei** der Post“.",
+      "mdDe": "**Zwei klassische Fallen:**\n\n1. **wegen, trotz, während + Genitiv.** Im Alltag hörst du „wegen dem Regen“, aber in der Prüfung ist „wegen **des** Regens“ die richtige Antwort.\n2. **Das englische *by* ist selten „bei“:** by bus = „**mit** dem Bus“, by Friday = „**bis** Freitag“, written by = „geschrieben **von**“. „bei“ bedeutet *in der Wohnung einer Person oder in einer Firma*: „**bei** meiner Tante“, „**bei** der Post“."
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 1** tests prepositions in two ways: you choose the preposition itself (e.g. „seit“ or „vor“ in „___ zwei Jahren wohne ich hier“) or the article after it („mit dem / den / der“). Always ask yourself: which case does this preposition need? In **Teil 2**, „wegen“, „trotz“, „seit“ and „bei“ are typical words in the box.\n\n**Schreiben:** „wegen“ and „trotz“ + genitive are elegant alternatives to weil- and obwohl-clauses and show the examiner your range: „**Wegen einer** Erkältung kann ich leider nicht kommen.“, „**Trotz des** schlechten Wetters war die Reise sehr schön.“",
+      "mdDe": "**Sprachbausteine Teil 1** prüft Präpositionen auf zwei Arten: Du wählst die Präposition selbst (z. B. „seit“ oder „vor“ in „___ zwei Jahren wohne ich hier“) oder den Artikel danach („mit dem / den / der“). Frag dich immer: Welchen Kasus braucht diese Präposition? In **Teil 2** sind „wegen“, „trotz“, „seit“ und „bei“ typische Wörter im Kasten.\n\n**Schreiben:** „wegen“ und „trotz“ + Genitiv sind elegante Alternativen zu weil- und obwohl-Sätzen und zeigen der prüfenden Person, wie viel du kannst: „**Wegen einer** Erkältung kann ich leider nicht kommen.“, „**Trotz des** schlechten Wetters war die Reise sehr schön.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich fahre mit den Bus zur Arbeit.",
+      "right": "Ich fahre mit dem Bus zur Arbeit.",
+      "why": "„mit“ always takes the dative: „der Bus“ → „mit dem Bus“.",
+      "whyDe": "Nach „mit“ steht immer der Dativ: „der Bus“ → „mit dem Bus“."
+    },
+    {
+      "wrong": "Das Geschenk ist für dir.",
+      "right": "Das Geschenk ist für dich.",
+      "why": "„für“ takes the accusative, so the pronoun is „dich“.",
+      "whyDe": "Nach „für“ steht der Akkusativ, deshalb heißt das Pronomen „dich“."
+    },
+    {
+      "wrong": "Ich wohne hier seit zwei Jahre.",
+      "right": "Ich wohne hier seit zwei Jahren.",
+      "why": "„seit“ takes the dative, and in the dative plural the noun gets an extra -n.",
+      "whyDe": "Nach „seit“ steht der Dativ, und im Dativ Plural bekommt das Nomen ein zusätzliches -n."
+    },
+    {
+      "wrong": "Ich gehe ohne mein Bruder ins Kino.",
+      "right": "Ich gehe ohne meinen Bruder ins Kino.",
+      "why": "„ohne“ takes the accusative; „der Bruder“ is masculine → „meinen Bruder“.",
+      "whyDe": "Nach „ohne“ steht der Akkusativ; „der Bruder“ ist maskulin → „meinen Bruder“."
+    },
+    {
+      "wrong": "Trotz dem Regen sind wir spazieren gegangen.",
+      "right": "Trotz des Regens sind wir spazieren gegangen.",
+      "why": "In written German and in the exam, „trotz“ takes the genitive: „des Regens“.",
+      "whyDe": "In geschriebenen Texten und in der Prüfung steht nach „trotz“ der Genitiv: „des Regens“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich fahre jeden Tag mit ___ Fahrrad zur Arbeit.",
+      "options": ["dem", "das", "den"],
+      "answer": 0,
+      "explanation": "„mit“ + dative; „das Fahrrad“ is neuter → „mit dem Fahrrad“.",
+      "explanationDe": "„mit“ + Dativ; „das Fahrrad“ ist neutral → „mit dem Fahrrad“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ohne ___ Hilfe hätte ich die Prüfung nicht geschafft.",
+      "options": ["deine", "deiner", "deinem"],
+      "answer": 0,
+      "explanation": "„ohne“ + accusative; „die Hilfe“ is feminine → „ohne deine Hilfe“.",
+      "explanationDe": "„ohne“ + Akkusativ; „die Hilfe“ ist feminin → „ohne deine Hilfe“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ des Streiks bleiben heute viele Kitas geschlossen.",
+      "options": ["Wegen", "Trotz", "Seit"],
+      "answer": 0,
+      "explanation": "The strike is the reason the daycare centres are closed → „wegen“ + genitive. „Trotz“ (despite) makes no sense here, and „seit“ would need the dative („seit dem Streik“).",
+      "explanationDe": "Der Streik ist der Grund, warum die Kitas geschlossen sind → „wegen“ + Genitiv. „Trotz“ (Gegengrund) ergibt hier keinen Sinn, und „seit“ bräuchte den Dativ („seit dem Streik“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir wohnen seit ___ in dieser Wohnung.",
+      "options": ["drei Jahren", "drei Jahre", "drei Jahr"],
+      "answer": 0,
+      "explanation": "„seit“ + dative; in the dative plural the noun takes -n: „seit drei Jahren“.",
+      "explanationDe": "„seit“ + Dativ; im Dativ Plural bekommt das Nomen -n: „seit drei Jahren“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Während ___ Sommerferien arbeite ich in einem Café.",
+      "options": ["der", "den", "die"],
+      "answer": 0,
+      "explanation": "„während“ + genitive. „die Sommerferien“ is plural, and the genitive plural article is „der“.",
+      "explanationDe": "„während“ + Genitiv. „die Sommerferien“ ist Plural, und der Artikel im Genitiv Plural heißt „der“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Am Sonntag gehen wir gern durch ___ Wald.",
+      "hint": "(der)",
+      "answers": ["den"],
+      "explanation": "„durch“ + accusative; „der Wald“ is masculine → „durch den Wald“.",
+      "explanationDe": "„durch“ + Akkusativ; „der Wald“ ist maskulin → „durch den Wald“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Nach ___ Arbeit gehe ich oft ins Fitnessstudio.",
+      "hint": "(die)",
+      "answers": ["der"],
+      "explanation": "„nach“ + dative; „die Arbeit“ is feminine → „nach der Arbeit“.",
+      "explanationDe": "„nach“ + Dativ; „die Arbeit“ ist feminin → „nach der Arbeit“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich wohne noch bei ___ Eltern.",
+      "hint": "(meine)",
+      "answers": ["meinen"],
+      "explanation": "„bei“ + dative; dative plural of „meine“ is „meinen“ („Eltern“ already ends in -n).",
+      "explanationDe": "„bei“ + Dativ; der Dativ Plural von „meine“ ist „meinen“ („Eltern“ endet schon auf -n)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Trotz ___ Wetters haben wir im Garten gegrillt.",
+      "hint": "(das schlechte)",
+      "answers": ["des schlechten"],
+      "explanation": "„trotz“ + genitive; „das Wetter“ is neuter: „des schlechten Wetters“ – the noun gets -s, the adjective -en.",
+      "explanationDe": "„trotz“ + Genitiv; „das Wetter“ ist neutral: „des schlechten Wetters“ – das Nomen bekommt -s, das Adjektiv -en."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the weil-clause with „wegen“ + genitive.",
+      "instructionDe": "Ersetze den weil-Satz durch „wegen“ + Genitiv.",
+      "prompt": "Ich kann nicht kommen, weil ich eine Erkältung habe.",
+      "answers": [
+        "Wegen einer Erkältung kann ich nicht kommen.",
+        "Ich kann wegen einer Erkältung nicht kommen.",
+        "Wegen meiner Erkältung kann ich nicht kommen.",
+        "Ich kann wegen meiner Erkältung nicht kommen."
+      ],
+      "explanation": "„die Erkältung“ is feminine; the genitive is „einer“ (or „meiner“) Erkältung. If „wegen“ starts the sentence, the verb follows directly: „Wegen … kann ich …“.",
+      "explanationDe": "„die Erkältung“ ist feminin; der Genitiv heißt „einer“ (oder „meiner“) Erkältung. Wenn der Satz mit „wegen“ beginnt, folgt direkt das Verb: „Wegen … kann ich …“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „trotz“ + genitive.",
+      "instructionDe": "Verbinde die Sätze mit „trotz“ + Genitiv.",
+      "prompt": "Es regnet stark. Trotzdem fährt Jonas mit dem Fahrrad.",
+      "answers": [
+        "Trotz des starken Regens fährt Jonas mit dem Fahrrad.",
+        "Jonas fährt trotz des starken Regens mit dem Fahrrad."
+      ],
+      "explanation": "„regnen“ becomes the noun „der Regen“; genitive with adjective: „trotz des starken Regens“.",
+      "explanationDe": "Aus „regnen“ wird das Nomen „der Regen“; Genitiv mit Adjektiv: „trotz des starken Regens“."
+    },
+    {
+      "type": "order",
+      "words": ["Kindern", "gehen", "zum", "mit", "Nach", "Spielplatz.", "wir", "den", "Essen", "dem"],
+      "answers": [
+        "Nach dem Essen gehen wir mit den Kindern zum Spielplatz.",
+        "Wir gehen nach dem Essen mit den Kindern zum Spielplatz."
+      ],
+      "explanation": "„nach dem Essen“ (dative), „mit den Kindern“ (dative plural with -n), „zum Spielplatz“ (zu + dem). If the time expression comes first, the verb „gehen“ still stays in position 2.",
+      "explanationDe": "„nach dem Essen“ (Dativ), „mit den Kindern“ (Dativ Plural mit -n), „zum Spielplatz“ (zu + dem). Wenn die Zeitangabe am Anfang steht, bleibt das Verb „gehen“ trotzdem auf Position 2."
+    }
+  ],
+  "related": ["wechselpraepositionen", "kasus-und-artikel", "genitiv", "temporale-praepositionen", "lokale-praepositionen"]
+}

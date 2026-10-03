@@ -1,0 +1,145 @@
+{
+  "id": "hoeren-2-05",
+  "examId": "telc-b1",
+  "type": "audio-long",
+  "title": "Ausbildung in der Backstube",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "context": "Radiosendung „Berufe live“: Interview mit einem Auszubildenden in einer Bäckerei",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "finn", "name": "Finn", "gender": "m", "age": "young", "role": "Auszubildender" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Guten Morgen, liebe Hörerinnen und Hörer! In unserer Reihe „Berufe live“ stellen wir junge Leute in ihrer Ausbildung vor. Heute geht es um einen Beruf, für den man sehr früh aufstehen muss." },
+    { "s": "mod", "t": "Neben mir sitzt Finn. Er ist 21 Jahre alt und lernt in der Bäckerei Sonnenkorn hier in Freiburg Bäcker. Hallo, Finn!" },
+    { "s": "finn", "t": "Hallo! Heute bin ich ausnahmsweise mal nicht müde, weil ich frei habe." },
+    { "s": "mod", "t": "Finn, du bist jetzt im zweiten Ausbildungsjahr. Was hast du vorher gemacht?" },
+    { "s": "finn", "t": "Nach dem Abitur habe ich zwei Semester Wirtschaft studiert. Aber ich saß den ganzen Tag vor dem Laptop, und das war einfach nichts für mich." },
+    { "s": "finn", "t": "Ich wollte etwas mit meinen Händen machen und am Abend sehen, was ich geschafft habe." },
+    { "s": "mod", "t": "Und wie bist du auf die Bäckerei gekommen?" },
+    { "s": "finn", "t": "Während des Studiums hatte ich dort einen Samstagsjob im Verkauf. Irgendwann hat mich die Chefin gefragt, ob ich mal einen Tag in der Backstube mitarbeiten möchte." },
+    { "s": "finn", "t": "Danach war mir klar: Das ist es! Zwei Monate später habe ich mit der Ausbildung angefangen." },
+    { "s": "mod", "t": "Kommen wir zu der Frage, die alle interessiert: Wann beginnt dein Arbeitstag?" },
+    { "s": "finn", "t": "Normalerweise um drei Uhr morgens. In der Adventszeit, wenn wir Stollen und Plätzchen backen, sogar schon um eins." },
+    { "s": "finn", "t": "Dafür bin ich meistens gegen elf fertig und habe den ganzen Nachmittag frei." },
+    { "s": "mod", "t": "Und wann gehst du dann ins Bett?" },
+    { "s": "finn", "t": "Unter der Woche ungefähr um acht Uhr abends. Nur einmal pro Woche habe ich Berufsschule, und an diesem Tag kann ich bis sieben schlafen." },
+    { "s": "mod", "t": "Was sagen denn deine Freunde dazu?" },
+    { "s": "finn", "t": "Am Anfang fanden sie das ziemlich komisch. Sie haben mich am Freitagabend angerufen, und ich lag schon im Bett." },
+    { "s": "finn", "t": "Inzwischen haben sie sich daran gewöhnt. Wir treffen uns jetzt öfter am Nachmittag, zum Beispiel zum Fußballspielen." },
+    { "s": "mod", "t": "Was machst du in der Backstube am liebsten?" },
+    { "s": "finn", "t": "Brot backen, ganz klar, vor allem mit Sauerteig. Das dauert lange, aber der Geschmack ist viel besser." },
+    { "s": "finn", "t": "Torten verzieren ist dagegen nicht so mein Ding. Da hat meine Kollegin viel mehr Talent als ich." },
+    { "s": "mod", "t": "Ist am Anfang auch mal etwas schiefgegangen?" },
+    { "s": "finn", "t": "Oh ja! In meiner ersten Woche habe ich bei 200 Brötchen das Salz vergessen. Die haben wirklich nach nichts geschmeckt." },
+    { "s": "finn", "t": "Ich hatte große Angst vor meiner Chefin. Aber sie hat nur gelacht und gesagt, dass das jedem Bäcker einmal passiert." },
+    { "s": "mod", "t": "Inzwischen bist du ja schon ziemlich gut. Du hast sogar bei einem Wettbewerb mitgemacht, oder?" },
+    { "s": "finn", "t": "Ja, beim Wettbewerb für Auszubildende hier in Südbaden. Mit meinem Dinkelbrot bin ich Zweiter geworden, und darauf bin ich echt stolz." },
+    { "s": "mod", "t": "Und wie viel verdient man in der Ausbildung?" },
+    { "s": "finn", "t": "Im ersten Jahr waren es 950 Euro im Monat, jetzt bekomme ich etwas über tausend. Ich wohne noch bei meinen Eltern, deshalb reicht das gut." },
+    { "s": "mod", "t": "Was sind deine Pläne nach der Ausbildung?" },
+    { "s": "finn", "t": "Ich möchte auf jeden Fall die Meisterprüfung machen. Meine Chefin ist 58 und hat keine Kinder, die die Bäckerei übernehmen wollen." },
+    { "s": "finn", "t": "Sie hat mich schon gefragt, ob ich mir das irgendwann vorstellen kann. Ehrlich gesagt: Ja, das wäre mein Traum." },
+    { "s": "mod", "t": "Zum Schluss: Was würdest du jungen Leuten sagen, die sich für den Beruf interessieren?" },
+    { "s": "finn", "t": "Einfach mal ein Praktikum machen! Viele Bäckereien suchen dringend Auszubildende, und das frühe Aufstehen ist nach ein paar Wochen gar nicht mehr so schlimm." },
+    { "s": "mod", "t": "Danke, Finn, und viel Erfolg für deine Zukunft!" },
+    { "s": "finn", "t": "Danke! Und kommt doch mal in der Bäckerei vorbei!" }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Bevor Finn seine Ausbildung angefangen hat, hat er studiert.",
+      "answer": true,
+      "explanation": "„Nach dem Abitur habe ich zwei Semester Wirtschaft studiert“ – he studied economics before he started his apprenticeship.",
+      "explanationDe": "„Nach dem Abitur habe ich zwei Semester Wirtschaft studiert“ – er hat Wirtschaft studiert, bevor er mit der Ausbildung angefangen hat.",
+      "evidence": "Nach dem Abitur habe ich zwei Semester Wirtschaft studiert."
+    },
+    {
+      "n": 2,
+      "text": "Finn hat seine Chefin gefragt, ob er in der Backstube mitarbeiten darf.",
+      "answer": false,
+      "explanation": "It was the other way round: „Irgendwann hat mich die Chefin gefragt, ob ich mal einen Tag in der Backstube mitarbeiten möchte“.",
+      "explanationDe": "Es war umgekehrt: „Irgendwann hat mich die Chefin gefragt, ob ich mal einen Tag in der Backstube mitarbeiten möchte“.",
+      "evidence": "Irgendwann hat mich die Chefin gefragt, ob ich mal einen Tag in der Backstube mitarbeiten möchte."
+    },
+    {
+      "n": 3,
+      "text": "Vor Weihnachten beginnt Finns Arbeit noch früher als sonst.",
+      "answer": true,
+      "explanation": "Normally he starts at three, but „In der Adventszeit … sogar schon um eins“ – in the weeks before Christmas he starts at one o'clock.",
+      "explanationDe": "Normalerweise fängt er um drei an, aber: „In der Adventszeit … sogar schon um eins“ – in den Wochen vor Weihnachten beginnt er um ein Uhr.",
+      "evidence": "In der Adventszeit, wenn wir Stollen und Plätzchen backen, sogar schon um eins."
+    },
+    {
+      "n": 4,
+      "text": "An den Tagen mit Berufsschule kann Finn länger schlafen.",
+      "answer": true,
+      "explanation": "„an diesem Tag kann ich bis sieben schlafen“ – on his school day he can sleep until seven.",
+      "explanationDe": "„an diesem Tag kann ich bis sieben schlafen“ – am Tag mit Berufsschule kann er bis sieben Uhr schlafen.",
+      "evidence": "an diesem Tag kann ich bis sieben schlafen"
+    },
+    {
+      "n": 5,
+      "text": "Finns Freunde haben seine Arbeitszeiten von Anfang an gut verstanden.",
+      "answer": false,
+      "explanation": "„Am Anfang fanden sie das ziemlich komisch“ – his friends only got used to it later („Inzwischen haben sie sich daran gewöhnt“).",
+      "explanationDe": "„Am Anfang fanden sie das ziemlich komisch“ – seine Freunde haben sich erst später daran gewöhnt („Inzwischen haben sie sich daran gewöhnt“).",
+      "evidence": "Am Anfang fanden sie das ziemlich komisch."
+    },
+    {
+      "n": 6,
+      "text": "Am liebsten verziert Finn in der Backstube Torten.",
+      "answer": false,
+      "explanation": "His favourite job is „Brot backen, ganz klar“. Decorating cakes is „nicht so mein Ding“ – his colleague is better at it.",
+      "explanationDe": "Seine Lieblingsarbeit ist „Brot backen, ganz klar“. Torten verzieren ist „nicht so mein Ding“ – das kann seine Kollegin besser.",
+      "evidence": "Brot backen, ganz klar, vor allem mit Sauerteig."
+    },
+    {
+      "n": 7,
+      "text": "In seiner ersten Woche hat Finn bei vielen Brötchen das Salz vergessen.",
+      "answer": true,
+      "explanation": "„In meiner ersten Woche habe ich bei 200 Brötchen das Salz vergessen“ – so the rolls tasted of nothing.",
+      "explanationDe": "„In meiner ersten Woche habe ich bei 200 Brötchen das Salz vergessen“ – deshalb haben die Brötchen nach nichts geschmeckt.",
+      "evidence": "In meiner ersten Woche habe ich bei 200 Brötchen das Salz vergessen."
+    },
+    {
+      "n": 8,
+      "text": "Wegen des Fehlers hat sich die Chefin sehr über Finn geärgert.",
+      "answer": false,
+      "explanation": "Finn was afraid, but „sie hat nur gelacht“ and said that it happens to every baker once.",
+      "explanationDe": "Finn hatte Angst, aber „sie hat nur gelacht“ und gesagt, dass das jedem Bäcker einmal passiert.",
+      "evidence": "Aber sie hat nur gelacht und gesagt, dass das jedem Bäcker einmal passiert."
+    },
+    {
+      "n": 9,
+      "text": "Bei einem Wettbewerb für Auszubildende hat Finn den ersten Platz gewonnen.",
+      "answer": false,
+      "explanation": "„Mit meinem Dinkelbrot bin ich Zweiter geworden“ – he came second, not first.",
+      "explanationDe": "„Mit meinem Dinkelbrot bin ich Zweiter geworden“ – also der zweite Platz, nicht der erste.",
+      "evidence": "Mit meinem Dinkelbrot bin ich Zweiter geworden"
+    },
+    {
+      "n": 10,
+      "text": "Die Chefin hat Finn gefragt, ob er die Bäckerei später übernehmen möchte.",
+      "answer": true,
+      "explanation": "She has no children who want to take over the bakery, and „Sie hat mich schon gefragt, ob ich mir das irgendwann vorstellen kann“ – „das“ means taking over the bakery.",
+      "explanationDe": "Die Chefin hat keine Kinder, die die Bäckerei übernehmen wollen. „Sie hat mich schon gefragt, ob ich mir das irgendwann vorstellen kann“ – „das“ meint hier: die Bäckerei übernehmen.",
+      "evidence": "Sie hat mich schon gefragt, ob ich mir das irgendwann vorstellen kann."
+    }
+  ],
+  "glossary": [
+    { "de": "die Ausbildung", "en": "apprenticeship, vocational training" },
+    { "de": "der/die Auszubildende", "en": "apprentice, trainee" },
+    { "de": "die Backstube", "en": "bakehouse (where the bread is made)" },
+    { "de": "der Verkauf", "en": "sales (in a shop)" },
+    { "de": "die Berufsschule", "en": "vocational school" },
+    { "de": "sich an etwas gewöhnen", "en": "to get used to something" },
+    { "de": "der Sauerteig", "en": "sourdough" },
+    { "de": "Torten verzieren", "en": "to decorate cakes" },
+    { "de": "schiefgehen", "en": "to go wrong" },
+    { "de": "der Wettbewerb", "en": "competition" },
+    { "de": "die Meisterprüfung", "en": "master craftsman's exam" },
+    { "de": "übernehmen", "en": "to take over" }
+  ]
+}

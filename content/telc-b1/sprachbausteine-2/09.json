@@ -1,0 +1,107 @@
+{
+  "id": "sprachbausteine-2-09",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Mein neues Hobby: Gärtnern",
+  "topic": "freizeit",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Liebe Annika,\n\nwie geht es dir? Ich hoffe, du hast deinen Umzug gut [[1]]. Bei mir gibt es etwas Neues: Seit April mache ich bei einem Gemeinschaftsgarten in unserem Stadtteil [[2]].\n\nAuf einer alten Wiese hinter der Schule haben ein paar Nachbarn Beete angelegt. Dort bauen wir zusammen Gemüse, Kräuter und Blumen an. Jeder ist willkommen, egal [[3]] man schon Erfahrung hat oder nicht. Ich habe eigentlich keine [[4]] von Gartenarbeit, aber die anderen erklären mir alles.\n\nAm meisten Spaß machen mir die Tomaten. Ich gieße sie jeden Abend nach der Arbeit, [[5]] sie gut wachsen. Letzte Woche konnte ich zum ersten Mal ein paar Tomaten [[6]] – sie haben super geschmeckt!\n\nAußerdem lerne ich dort viele nette Leute kennen. Früher kannte ich in meiner Straße fast niemanden, und [[7]] grüßen mich alle.\n\nAm 2. September feiern wir ein Gartenfest mit Musik und einem großen Buffet. Ich würde mich riesig [[8]], wenn du kommen könntest. Du kannst gern bei mir [[9]], dann haben wir das ganze Wochenende Zeit füreinander.\n\nIch warte gespannt [[10]] deine Antwort!\n\nLiebe Grüße\nSelin",
+  "words": [
+    { "key": "a", "text": "Ahnung" },
+    { "key": "b", "text": "auf" },
+    { "key": "c", "text": "damals" },
+    { "key": "d", "text": "damit" },
+    { "key": "e", "text": "deshalb" },
+    { "key": "f", "text": "ernten" },
+    { "key": "g", "text": "freuen" },
+    { "key": "h", "text": "für" },
+    { "key": "i", "text": "heute" },
+    { "key": "j", "text": "Lust" },
+    { "key": "k", "text": "mit" },
+    { "key": "l", "text": "ob" },
+    { "key": "m", "text": "pflanzen" },
+    { "key": "n", "text": "übernachten" },
+    { "key": "o", "text": "überstanden" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "o",
+      "explanation": "„etwas gut überstehen“ means „to get through something (stressful) well“: „Ich hoffe, du hast deinen Umzug gut überstanden.“ The perfect with „hast“ needs the participle at the end.",
+      "explanationDe": "„etwas gut überstehen“ (= etwas Anstrengendes gut hinter sich bringen): „Ich hoffe, du hast deinen Umzug gut überstanden.“ Das Perfekt mit „hast“ braucht das Partizip am Ende.",
+      "grammar": "perfekt"
+    },
+    {
+      "n": 2,
+      "answer": "k",
+      "explanation": "„bei etwas mitmachen“ (to take part in something) is a separable verb, so the prefix goes to the end: „Seit April mache ich bei einem Gemeinschaftsgarten … mit.“",
+      "explanationDe": "„bei etwas mitmachen“ (= an etwas teilnehmen) ist ein trennbares Verb, deshalb steht das Präfix am Ende: „Seit April mache ich bei einem Gemeinschaftsgarten … mit.“",
+      "grammar": "trennbare-verben"
+    },
+    {
+      "n": 3,
+      "answer": "l",
+      "explanation": "„egal ob … oder nicht“ means „no matter whether … or not“ – everyone is welcome, with or without experience.",
+      "explanationDe": "„egal ob … oder nicht“ bedeutet: Es spielt keine Rolle, ob … oder nicht – alle sind willkommen, mit oder ohne Erfahrung.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 4,
+      "answer": "a",
+      "explanation": "„keine Ahnung von etwas haben“ means „to know nothing about something“. „Lust“ is a trap: it goes with „auf“, and Selin clearly enjoys gardening.",
+      "explanationDe": "„keine Ahnung von etwas haben“ bedeutet: nichts über etwas wissen. „Lust“ ist eine Falle: Es steht mit „auf“, und Selin hat ja offensichtlich Spaß an der Gartenarbeit."
+    },
+    {
+      "n": 5,
+      "answer": "d",
+      "explanation": "„damit“ expresses a purpose: she waters the tomatoes so that they grow well. „deshalb“ would need the verb directly after it („deshalb wachsen sie …“).",
+      "explanationDe": "„damit“ drückt einen Zweck aus: Sie gießt die Tomaten, damit sie gut wachsen. Nach „deshalb“ müsste direkt das Verb stehen („deshalb wachsen sie …“).",
+      "grammar": "finale-saetze"
+    },
+    {
+      "n": 6,
+      "answer": "f",
+      "explanation": "„ernten“ means „to harvest“: she picked her first tomatoes and ate them („sie haben super geschmeckt“). „pflanzen“ (to plant) does not fit – you cannot taste tomatoes you have just planted.",
+      "explanationDe": "„ernten“ bedeutet: reifes Obst oder Gemüse pflücken. Sie hat ihre ersten Tomaten gepflückt und gegessen („sie haben super geschmeckt“). „pflanzen“ (= in die Erde setzen) passt nicht – Tomaten, die man gerade gepflanzt hat, kann man nicht probieren."
+    },
+    {
+      "n": 7,
+      "answer": "i",
+      "explanation": "The text contrasts „früher“ (in the past) with „heute“ (today), and the verb „grüßen“ is in the present tense. „damals“ (back then) would need a past tense.",
+      "explanationDe": "Der Text stellt „früher“ (= in der Vergangenheit) und „heute“ (= jetzt) gegenüber, und das Verb „grüßen“ steht im Präsens. „damals“ (= zu jener Zeit in der Vergangenheit) bräuchte eine Vergangenheitsform."
+    },
+    {
+      "n": 8,
+      "answer": "g",
+      "explanation": "„Ich würde mich riesig freuen, wenn …“ (I would be really happy if …) is a typical way to invite someone warmly.",
+      "explanationDe": "„Ich würde mich riesig freuen, wenn …“ ist eine typische Art, jemanden herzlich einzuladen.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 9,
+      "answer": "n",
+      "explanation": "„bei jemandem übernachten“ means „to stay the night at someone's place“: Annika can sleep at Selin's flat.",
+      "explanationDe": "„bei jemandem übernachten“ bedeutet: bei jemandem zu Hause schlafen. Annika kann in Selins Wohnung schlafen."
+    },
+    {
+      "n": 10,
+      "answer": "b",
+      "explanation": "„warten auf“ + accusative is a fixed combination: „Ich warte gespannt auf deine Antwort.“ „für“ is not possible with „warten“.",
+      "explanationDe": "„warten auf“ + Akkusativ ist eine feste Verbindung: „Ich warte gespannt auf deine Antwort.“ „für“ ist mit „warten“ nicht möglich.",
+      "grammar": "verben-mit-praepositionen"
+    }
+  ],
+  "glossary": [
+    { "de": "etwas überstehen", "en": "to get through something (difficult)" },
+    { "de": "bei etwas mitmachen", "en": "to take part in something" },
+    { "de": "der Gemeinschaftsgarten", "en": "community garden" },
+    { "de": "das Beet", "en": "flower or vegetable bed" },
+    { "de": "anbauen", "en": "to grow (vegetables, herbs)" },
+    { "de": "keine Ahnung von etwas haben", "en": "to know nothing about something" },
+    { "de": "gießen", "en": "to water (plants)" },
+    { "de": "ernten", "en": "to harvest" },
+    { "de": "bei jemandem übernachten", "en": "to stay overnight at someone's place" },
+    { "de": "gespannt", "en": "curious, eager to know" }
+  ]
+}

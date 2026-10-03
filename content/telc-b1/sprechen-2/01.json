@@ -1,0 +1,102 @@
+{
+  "id": "sprechen-2-01",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Arbeiten von zu Hause",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "theme": "Homeoffice",
+  "medium": "in einer Zeitschrift",
+  "cardA": {
+    "name": "Jens Albrecht",
+    "age": 36,
+    "job": "Softwareentwickler",
+    "quote": "Seit zwei Jahren arbeite ich fast nur noch von zu Hause. Ich spare jeden Tag eine Stunde Fahrzeit und kann mich viel besser konzentrieren, weil mich niemand stört. Mittags koche ich frisch, und nachmittags hole ich meine Tochter vom Kindergarten ab. Ins Büro fahre ich nur noch, wenn wir ein wichtiges Treffen haben."
+  },
+  "cardB": {
+    "name": "Monika Brandt",
+    "age": 54,
+    "job": "Abteilungsleiterin bei einer Versicherung",
+    "quote": "Ich habe während der Pandemie ein Jahr im Homeoffice gearbeitet, und das war für mich nichts. Mir haben die Gespräche mit den Kollegen in der Kaffeeküche sehr gefehlt. Zu Hause habe ich nie richtig Feierabend gemacht, weil der Laptop immer auf dem Küchentisch stand. Im Büro trenne ich Arbeit und Privatleben viel besser."
+  },
+  "ideas": {
+    "pro": [
+      "keine langen Fahrzeiten zur Arbeit",
+      "ruhiger arbeiten, weniger Störungen",
+      "Familie und Beruf besser verbinden",
+      "die Arbeitszeit flexibler einteilen",
+      "Geld für Fahrkarte oder Benzin sparen",
+      "weniger Verkehr auf den Straßen"
+    ],
+    "contra": [
+      "wenig Kontakt zu Kolleginnen und Kollegen",
+      "Arbeit und Freizeit vermischen sich",
+      "zu Hause fehlt oft ein richtiger Arbeitsplatz",
+      "Probleme mit Technik oder Internet",
+      "man bewegt sich weniger",
+      "neue Kollegen lernt man schwer kennen"
+    ]
+  },
+  "questions": [
+    "Kann man in Ihrem Beruf von zu Hause arbeiten?",
+    "Wie ist das in Ihrem Heimatland? Arbeiten dort viele Menschen im Homeoffice?",
+    "Was braucht man für einen guten Arbeitsplatz zu Hause?",
+    "In welchen Berufen ist Homeoffice nicht möglich?",
+    "Würden Sie lieber ganz zu Hause, ganz im Büro oder gemischt arbeiten? Warum?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Selin Aydın", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Rafael Costa", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie haben beide eine Meinung zum Thema Homeoffice gelesen. Berichten Sie bitte zuerst, was auf Ihrem Blatt steht, und sprechen Sie dann miteinander über das Thema." },
+    { "s": "A", "t": "Gut, ich fange an. Auf meinem Blatt steht die Meinung von Jens Albrecht. Er ist 36 Jahre alt und arbeitet als Softwareentwickler." },
+    { "s": "A", "t": "Herr Albrecht arbeitet seit zwei Jahren fast nur von zu Hause, und er ist damit sehr zufrieden. Er sagt, dass er jeden Tag eine Stunde Fahrzeit spart und sich zu Hause besser konzentrieren kann." },
+    { "s": "A", "t": "Außerdem kann er mittags frisch kochen und seine Tochter vom Kindergarten abholen. Ins Büro fährt er nur noch, wenn es ein wichtiges Treffen gibt." },
+    { "s": "B", "t": "Danke. Die Meinung auf meinem Blatt ist ganz anders. Monika Brandt ist 54 und Abteilungsleiterin bei einer Versicherung." },
+    { "s": "B", "t": "Sie hat während der Pandemie ein Jahr im Homeoffice gearbeitet, aber das hat ihr gar nicht gefallen. Frau Brandt meint, dass ihr die Gespräche mit den Kollegen sehr gefehlt haben." },
+    { "s": "B", "t": "Außerdem hat sie zu Hause nie richtig Feierabend gemacht, weil der Laptop immer auf dem Küchentisch stand. Im Büro kann sie Arbeit und Privatleben besser trennen." },
+    { "s": "A", "t": "Das kann ich gut verstehen. Ich arbeite in einem Reisebüro, deshalb ist Homeoffice für mich leider nicht möglich. Hast du schon mal von zu Hause gearbeitet, Rafael?" },
+    { "s": "B", "t": "Ja, ich bin technischer Zeichner und arbeite zwei Tage pro Woche zu Hause. Ich finde, das ist die beste Lösung. An den Bürotagen sehe ich meine Kollegen, und zu Hause kann ich in Ruhe zeichnen." },
+    { "s": "A", "t": "Also bist du eher auf der Seite von Herrn Albrecht?" },
+    { "s": "B", "t": "Teilweise. Ich spare auch viel Zeit, weil ich nicht mit dem Zug fahren muss, aber jeden Tag allein zu Hause wäre mir zu langweilig. Wie siehst du das?" },
+    { "s": "A", "t": "Ich glaube, ich hätte ähnliche Probleme wie Frau Brandt. Unsere Wohnung ist klein, und wir haben kein Arbeitszimmer. Wenn mein Mann und die Kinder zu Hause sind, ist es nie ruhig." },
+    { "s": "B", "t": "Ja, das stimmt. Man braucht einen richtigen Arbeitsplatz, sonst sitzt man den ganzen Tag am Küchentisch oder sogar auf dem Sofa. Das ist auch nicht gut für den Rücken." },
+    { "s": "A", "t": "Genau. Ich denke, Herr Albrecht hat ein bisschen Glück. Nicht jeder kann so gut arbeiten, wenn die Familie in der Nähe ist." },
+    { "s": "B", "t": "Da hast du recht. Aber für Eltern hat das Homeoffice auch Vorteile, oder? Man kann die Kinder pünktlich abholen und muss nicht so viel organisieren." },
+    { "s": "A", "t": "Das ist ein guter Punkt. Meine Schwester arbeitet in der Türkei bei einer Bank und darf seit letztem Jahr einen Tag pro Woche zu Hause arbeiten. Mit zwei kleinen Kindern ist das für sie eine große Hilfe." },
+    { "s": "B", "t": "Ist Homeoffice in der Türkei denn normal?" },
+    { "s": "A", "t": "In großen Städten wie Istanbul wird es immer beliebter, auch wegen des Verkehrs. Viele Leute brauchen dort zwei Stunden bis zur Arbeit. Wie ist das in Portugal?" },
+    { "s": "B", "t": "In Lissabon sind die Mieten sehr hoch, deshalb wohnen viele Leute außerhalb und finden Homeoffice super. Aber in kleinen Firmen möchten die Chefs ihre Mitarbeiter lieber im Büro sehen." },
+    { "s": "A", "t": "Das ist in Deutschland bestimmt auch so. Manche Chefs glauben, dass man zu Hause weniger arbeitet." },
+    { "s": "B", "t": "Das glaube ich nicht. Ich arbeite zu Hause eher mehr, weil ich keine Pausen mit Kollegen mache. Da muss ich Frau Brandt recht geben: Man muss aufpassen, dass man pünktlich Feierabend macht." },
+    { "s": "P", "t": "Und was meinen Sie: Wie arbeiten wir in zehn Jahren?" },
+    { "s": "B", "t": "Ich glaube, die meisten Leute in Büroberufen werden gemischt arbeiten, also ein paar Tage zu Hause und ein paar Tage im Büro." },
+    { "s": "A", "t": "Das denke ich auch. So hat man Ruhe zum Arbeiten und trotzdem Kontakt zu den Kollegen. Für mich ist das die beste Lösung." }
+  ],
+  "phrases": [
+    { "de": "Auf meinem Blatt steht die Meinung von …", "en": "My sheet shows the opinion of …" },
+    { "de": "Er sagt, dass … / Frau Brandt meint, dass …", "en": "He says that … / Ms Brandt thinks that …" },
+    { "de": "Die Meinung auf meinem Blatt ist ganz anders.", "en": "The opinion on my sheet is completely different." },
+    { "de": "Das kann ich gut verstehen.", "en": "I can understand that well." },
+    { "de": "Also bist du eher auf der Seite von …?", "en": "So you're more on the side of …?" },
+    { "de": "Wie siehst du das?", "en": "How do you see it?" },
+    { "de": "Da hast du recht.", "en": "You're right there." },
+    { "de": "Das ist ein guter Punkt.", "en": "That's a good point." },
+    { "de": "Da muss ich Frau Brandt recht geben.", "en": "I have to agree with Ms Brandt on that." },
+    { "de": "Das glaube ich nicht.", "en": "I don't think so." }
+  ],
+  "vocabulary": [
+    { "de": "das Homeoffice", "en": "working from home" },
+    { "de": "die Fahrzeit", "en": "travel time, commute" },
+    { "de": "sich konzentrieren", "en": "to concentrate" },
+    { "de": "der Feierabend", "en": "end of the working day, time off after work" },
+    { "de": "das Arbeitszimmer", "en": "study (room for working at home)" },
+    { "de": "der Arbeitsplatz", "en": "workplace, desk" },
+    { "de": "Arbeit und Privatleben trennen", "en": "to keep work and private life apart" },
+    { "de": "die Abteilungsleiterin", "en": "head of department (female)" },
+    { "de": "gemischt arbeiten", "en": "to work partly at home and partly in the office" },
+    { "de": "der technische Zeichner", "en": "technical draughtsman" }
+  ]
+}

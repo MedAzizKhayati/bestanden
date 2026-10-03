@@ -1,0 +1,226 @@
+{
+  "id": "nebensaetze-grundlagen",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 3,
+  "title": "Nebensätze mit dass, weil, wenn, ob",
+  "titleEn": "Subordinate clauses: the basics",
+  "summary": "In a subordinate clause the conjugated verb goes to the very end – and if the subordinate clause comes first, the main clause starts with its verb.",
+  "summaryDe": "Im Nebensatz steht das konjugierte Verb ganz am Ende – und wenn der Nebensatz zuerst kommt, beginnt der Hauptsatz mit seinem Verb.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "In a subordinate clause (*Nebensatz*) the **conjugated verb goes to the very end**. The clause starts with a connector such as **dass, weil, wenn** or **ob** and is separated from the main clause by a **comma**.",
+      "mdDe": "Im *Nebensatz* steht das **konjugierte Verb ganz am Ende**. Der Satz beginnt mit einem Konnektor wie **dass, weil, wenn** oder **ob** und ist durch ein **Komma** vom Hauptsatz getrennt."
+    },
+    {
+      "type": "text",
+      "heading": "Main clause + subordinate clause",
+      "headingDe": "Hauptsatz + Nebensatz",
+      "md": "A subordinate clause can't stand alone – it depends on a main clause. The connector comes first, then usually the subject, then the rest – and the conjugated verb closes the clause:\n\n- „Ich glaube, **dass** der Bus heute später **kommt**.“\n- With two verbs, the conjugated one comes last: „…, weil ich morgen früh arbeiten **muss**.“ / „…, dass er schon angekommen **ist**.“\n- Separable verbs are joined together again at the end: „…, wenn der Film **anfängt**.“",
+      "mdDe": "Ein Nebensatz kann nicht allein stehen – er hängt von einem Hauptsatz ab. Zuerst kommt der Konnektor, dann meistens das Subjekt, dann der Rest – und das konjugierte Verb schließt den Satz ab:\n\n- „Ich glaube, **dass** der Bus heute später **kommt**.“\n- Bei zwei Verben steht das konjugierte Verb ganz zuletzt: „…, weil ich morgen früh arbeiten **muss**.“ / „…, dass er schon angekommen **ist**.“\n- Trennbare Verben stehen am Ende wieder zusammen: „…, wenn der Film **anfängt**.“"
+    },
+    {
+      "type": "table",
+      "heading": "The four basic connectors",
+      "headingDe": "Die vier wichtigsten Konnektoren",
+      "columns": ["Connector", "Use", "Example"],
+      "columnsDe": ["Konnektor", "Gebrauch", "Beispiel"],
+      "rows": [
+        ["dass", "that – what someone says, thinks, knows, hopes …", "Ich hoffe, dass du bald wieder gesund bist."],
+        ["weil", "because – a reason", "Ich komme später, weil mein Zug Verspätung hat."],
+        ["wenn", "if / when(ever) – a condition or a repeated time", "Wenn es morgen regnet, bleiben wir zu Hause."],
+        ["ob", "whether / if – an open yes/no question", "Ich weiß nicht, ob der Laden am Sonntag geöffnet hat."]
+      ],
+      "rowsDe": [
+        ["dass", "Inhalt: was jemand sagt, denkt, weiß, hofft …", "Ich hoffe, dass du bald wieder gesund bist."],
+        ["weil", "ein Grund", "Ich komme später, weil mein Zug Verspätung hat."],
+        ["wenn", "eine Bedingung oder ein Zeitpunkt, der sich wiederholt", "Wenn es morgen regnet, bleiben wir zu Hause."],
+        ["ob", "eine offene Ja/Nein-Frage", "Ich weiß nicht, ob der Laden am Sonntag geöffnet hat."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word order: verb at the end",
+      "headingDe": "Wortstellung: Verb am Ende",
+      "columns": ["Main clause", "Connector", "Subject", "Middle field", "Verb(s) at the end"],
+      "columnsDe": ["Hauptsatz", "Konnektor", "Subjekt", "Mittelfeld", "Verb(en) am Ende"],
+      "rows": [
+        ["Ich weiß,", "dass", "Tom", "heute", "kommt."],
+        ["Sie lernt Deutsch,", "weil", "sie", "in Wien", "arbeiten möchte."],
+        ["Ruf mich an,", "wenn", "du", "in Basel", "angekommen bist."],
+        ["Frag doch Frau Weber,", "ob", "sie", "morgen", "Zeit hat."]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "When the subordinate clause comes first",
+      "headingDe": "Wenn der Nebensatz zuerst kommt",
+      "md": "You can also put the subordinate clause **before** the main clause. Then the whole subordinate clause counts as **position 1** – so the main clause starts with its **verb**:\n\n„**Wenn** ich Zeit **habe**, **komme** ich mit.“\n\nA good check: in the middle of the sentence you get the pattern 'verb – comma – verb' („…habe, komme…“).",
+      "mdDe": "Du kannst den Nebensatz auch **vor** den Hauptsatz stellen. Dann zählt der ganze Nebensatz als **Position 1** – deshalb beginnt der Hauptsatz mit seinem **Verb**:\n\n„**Wenn** ich Zeit **habe**, **komme** ich mit.“\n\nEin guter Test: In der Mitte des Satzes steht dann das Muster ‚Verb – Komma – Verb‘ („…habe, komme…“)."
+    },
+    {
+      "type": "text",
+      "heading": "wenn or ob? dass or das?",
+      "headingDe": "wenn oder ob? dass oder das?",
+      "md": "Both „wenn“ and „ob“ can be translated as 'if'. Use **ob** when 'if' means *whether* – an open yes/no question: „Ich weiß nicht, **ob** er kommt.“ Use **wenn** for a condition: „**Wenn** er kommt, kochen wir zusammen.“\n\nAnd don't confuse the conjunction **dass** (double s) with the article or pronoun **das**: „Ich glaube, **dass das** Buch gut ist.“",
+      "mdDe": "Im Englischen heißen „wenn“ und „ob“ oft beide ‚if‘. Nimm **ob** für eine offene Ja/Nein-Frage (englisch *whether*): „Ich weiß nicht, **ob** er kommt.“ Nimm **wenn** für eine Bedingung: „**Wenn** er kommt, kochen wir zusammen.“\n\nUnd verwechsle die Konjunktion **dass** (mit Doppel-s) nicht mit dem Artikel oder Pronomen **das**: „Ich glaube, **dass das** Buch gut ist.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich finde es toll, **dass** du mir **hilfst**.", "en": "I think it's great that you're helping me." },
+        { "de": "Mein Chef sagt, **dass** wir am Freitag früher gehen **dürfen**.", "en": "My boss says that we're allowed to leave earlier on Friday." },
+        { "de": "Wir nehmen ein Taxi, **weil** der letzte Bus schon weg **ist**.", "en": "We're taking a taxi because the last bus has already gone." },
+        { "de": "**Weil** Selin krank **war**, **ist** sie nicht zum Kurs gekommen.", "en": "Because Selin was ill, she didn't come to class." },
+        { "de": "**Wenn** du **willst**, **können** wir am Samstag zusammen lernen.", "en": "If you like, we can study together on Saturday." },
+        { "de": "Ich rufe dich an, **wenn** ich in Leipzig **angekommen bin**.", "en": "I'll call you when I've arrived in Leipzig." },
+        { "de": "Weißt du, **ob** die Bibliothek heute geöffnet **ist**?", "en": "Do you know if the library is open today?" },
+        { "de": "Der Arzt hat gefragt, **ob** ich regelmäßig Sport **mache**.", "en": "The doctor asked whether I do sport regularly." },
+        { "de": "Es ist wichtig, **dass** man sich vorher **anmeldet**.", "en": "It's important to register beforehand." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** Sprachbausteine Teil 1 regularly asks you to choose between „dass / ob / wenn“ or „weil / denn / deshalb“. Check two things: the **meaning** (a reason? a condition? an open yes/no question?) and the **position of the verb** after the gap – a verb at the end means you need a subordinating connector.\n\nIn **Schreiben**, subordinate clauses are a clear sign of B1 level. Use set phrases such as „Ich freue mich, dass …“, „Ich hoffe, dass …“, „Ich möchte wissen, ob …“ or „Wenn Sie Fragen haben, …“. In **Sprechen** Teil 2, „Ich finde, dass …“ and „Ich glaube, dass …“ are the classic ways to give your opinion.",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 musst du regelmäßig zwischen „dass / ob / wenn“ oder „weil / denn / deshalb“ wählen. Prüfe zwei Dinge: die **Bedeutung** (ein Grund? eine Bedingung? eine offene Ja/Nein-Frage?) und die **Position des Verbs** nach der Lücke – steht das Verb am Ende, brauchst du einen Konnektor, der einen Nebensatz einleitet.\n\nIm **Schreiben** sind Nebensätze ein klares Zeichen für B1-Niveau. Benutze feste Wendungen wie „Ich freue mich, dass …“, „Ich hoffe, dass …“, „Ich möchte wissen, ob …“ oder „Wenn Sie Fragen haben, …“. In **Sprechen** Teil 2 sind „Ich finde, dass …“ und „Ich glaube, dass …“ die klassischen Wege, deine Meinung zu sagen."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** after a subordinate clause at the start, many learners keep 'subject – verb' order in the main clause. „Wenn ich Zeit habe, ich komme mit.“ is wrong → „Wenn ich Zeit habe, **komme ich** mit.“\n\nSecond trap: the verb in position 2 after „weil“ or „dass“. You may hear „…, weil ich hab keine Zeit“ in casual speech, but in the exam it counts as a mistake → „…, weil ich keine Zeit **habe**.“",
+      "mdDe": "**Typische Falle:** Nach einem Nebensatz am Anfang behalten viele Lernende im Hauptsatz die Reihenfolge ‚Subjekt – Verb‘. „Wenn ich Zeit habe, ich komme mit.“ ist falsch → „Wenn ich Zeit habe, **komme ich** mit.“\n\nZweite Falle: das Verb auf Position 2 nach „weil“ oder „dass“. In der Umgangssprache hörst du manchmal „…, weil ich hab keine Zeit“, aber in der Prüfung ist das ein Fehler → „…, weil ich keine Zeit **habe**.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich lerne Deutsch, weil ich will in Deutschland studieren.",
+      "right": "Ich lerne Deutsch, weil ich in Deutschland studieren will.",
+      "why": "After „weil“ the conjugated verb („will“) goes to the very end.",
+      "whyDe": "Nach „weil“ steht das konjugierte Verb („will“) ganz am Ende."
+    },
+    {
+      "wrong": "Wenn das Wetter schön ist, wir gehen schwimmen.",
+      "right": "Wenn das Wetter schön ist, gehen wir schwimmen.",
+      "why": "The subordinate clause is position 1, so the main clause starts with the verb.",
+      "whyDe": "Der Nebensatz ist Position 1, deshalb beginnt der Hauptsatz mit dem Verb."
+    },
+    {
+      "wrong": "Ich weiß nicht, wenn er heute kommt.",
+      "right": "Ich weiß nicht, ob er heute kommt.",
+      "why": "An open yes/no question ('whether') needs „ob“, not „wenn“.",
+      "whyDe": "Eine offene Ja/Nein-Frage braucht „ob“, nicht „wenn“."
+    },
+    {
+      "wrong": "Ich hoffe, das du bald kommst.",
+      "right": "Ich hoffe, dass du bald kommst.",
+      "why": "The conjunction is spelled „dass“ (double s); „das“ is an article or a pronoun.",
+      "whyDe": "Die Konjunktion schreibt man „dass“ (mit Doppel-s); „das“ ist ein Artikel oder ein Pronomen."
+    },
+    {
+      "wrong": "Ich weiß nicht, ob der Kurs fängt um 9 Uhr an.",
+      "right": "Ich weiß nicht, ob der Kurs um 9 Uhr anfängt.",
+      "why": "In a subordinate clause the separable verb is joined together again and goes to the end.",
+      "whyDe": "Im Nebensatz steht das trennbare Verb wieder zusammen am Ende."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich glaube, ___ das Konzert um 20 Uhr beginnt.",
+      "options": ["dass", "das", "ob"],
+      "answer": 0,
+      "explanation": "After „glauben“ you report what someone thinks → „dass“ (double s). „das“ is an article, and „ob“ is for open questions, which doesn't go with „glauben“.",
+      "explanationDe": "Nach „glauben“ gibst du wieder, was jemand denkt → „dass“ (mit Doppel-s). „das“ ist ein Artikel, und „ob“ steht bei offenen Fragen – das passt nicht zu „glauben“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Kannst du mir sagen, ___ der Supermarkt am Samstag bis 22 Uhr geöffnet hat?",
+      "options": ["dass", "ob", "wenn"],
+      "answer": 1,
+      "explanation": "This is an open yes/no question („Hat der Supermarkt bis 22 Uhr geöffnet?“) → „ob“.",
+      "explanationDe": "Das ist eine offene Ja/Nein-Frage („Hat der Supermarkt bis 22 Uhr geöffnet?“) → „ob“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ du Hilfe brauchst, ruf mich einfach an.",
+      "options": ["Ob", "Dass", "Wenn"],
+      "answer": 2,
+      "explanation": "A condition ('if you need help') → „Wenn“. Note that the main clause after it starts with the verb („ruf“).",
+      "explanationDe": "Eine Bedingung (‚falls du Hilfe brauchst‘) → „Wenn“. Achtung: Der Hauptsatz danach beginnt mit dem Verb („ruf“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich komme heute nicht zum Training, weil ___.",
+      "options": ["ich habe Rückenschmerzen", "habe ich Rückenschmerzen", "ich Rückenschmerzen habe"],
+      "answer": 2,
+      "explanation": "After „weil“ the conjugated verb goes to the end: „weil ich Rückenschmerzen habe“.",
+      "explanationDe": "Nach „weil“ steht das konjugierte Verb am Ende: „weil ich Rückenschmerzen habe“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wenn ich mit der Arbeit fertig bin, ___.",
+      "options": ["ich hole dich vom Bahnhof ab", "hole ich dich vom Bahnhof ab", "ich dich vom Bahnhof abhole"],
+      "answer": 1,
+      "explanation": "The wenn clause is position 1, so the main clause starts with the verb: „hole ich dich … ab“.",
+      "explanationDe": "Der wenn-Satz ist Position 1, deshalb beginnt der Hauptsatz mit dem Verb: „hole ich dich … ab“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich bin sicher, ___ du die Prüfung bestehst.",
+      "answers": ["dass"],
+      "explanation": "„Ich bin sicher, dass …“ – the subordinate clause says what you are sure about → „dass“, with the verb „bestehst“ at the end.",
+      "explanationDe": "„Ich bin sicher, dass …“ – der Nebensatz sagt, worüber du dir sicher bist → „dass“, mit dem Verb „bestehst“ am Ende."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich weiß noch nicht, ___ ich am Wochenende Zeit habe oder arbeiten muss.",
+      "answers": ["ob"],
+      "explanation": "An open question with two possibilities ('whether … or …') → „ob“.",
+      "explanationDe": "Eine offene Frage mit zwei Möglichkeiten (‚ob … oder …‘) → „ob“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich rufe dich an, wenn ich zu Hause ___.",
+      "hint": "(ankommen)",
+      "answers": ["ankomme", "angekommen bin"],
+      "explanation": "In a subordinate clause the separable verb is joined together again at the end: „wenn ich … ankomme“ (Perfekt: „angekommen bin“).",
+      "explanationDe": "Im Nebensatz steht das trennbare Verb am Ende wieder zusammen: „wenn ich … ankomme“ (Perfekt: „angekommen bin“)."
+    },
+    {
+      "type": "order",
+      "words": ["bist.", "dass", "hoffe,", "gesund", "Ich", "bald", "du", "wieder"],
+      "answers": ["Ich hoffe, dass du bald wieder gesund bist."],
+      "explanation": "Main clause „Ich hoffe,“ + dass clause: connector, subject, the rest – and the verb „bist“ at the very end.",
+      "explanationDe": "Hauptsatz „Ich hoffe,“ + dass-Satz: Konnektor, Subjekt, der Rest – und das Verb „bist“ ganz am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["zu", "regnet,", "Wenn", "bleiben", "Hause.", "es", "wir", "morgen"],
+      "answers": ["Wenn es morgen regnet, bleiben wir zu Hause.", "Wenn es regnet, bleiben wir morgen zu Hause."],
+      "explanation": "The wenn clause comes first with „regnet“ at its end. Then the main clause starts with the verb „bleiben“: 'verb – comma – verb'.",
+      "explanationDe": "Der wenn-Satz steht zuerst, mit „regnet“ am Ende. Dann beginnt der Hauptsatz mit dem Verb „bleiben“: ‚Verb – Komma – Verb‘."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „weil“. Start with the first sentence.",
+      "instructionDe": "Verbinde die Sätze mit „weil“. Beginne mit dem ersten Satz.",
+      "prompt": "Ich kann heute nicht kommen. Ich muss arbeiten.",
+      "answers": ["Ich kann heute nicht kommen, weil ich arbeiten muss."],
+      "explanation": "The second sentence is the reason. After „weil“ the conjugated verb „muss“ goes to the end, after the infinitive „arbeiten“.",
+      "explanationDe": "Der zweite Satz ist der Grund. Nach „weil“ steht das konjugierte Verb „muss“ am Ende, nach dem Infinitiv „arbeiten“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Report the statement with „dass“.",
+      "instructionDe": "Gib die Aussage mit „dass“ wieder.",
+      "prompt": "Mein Kollege sagt: „Das Meeting fällt heute aus.“",
+      "answers": ["Mein Kollege sagt, dass das Meeting heute ausfällt."],
+      "explanation": "„dass“ + subject + the rest + verb at the end. The separable verb is joined again: „ausfällt“.",
+      "explanationDe": "„dass“ + Subjekt + Rest + Verb am Ende. Das trennbare Verb steht wieder zusammen: „ausfällt“."
+    }
+  ],
+  "related": ["satzbau-hauptsatz", "kausale-konsekutive-saetze", "indirekte-fragen", "temporale-nebensaetze", "konzessive-saetze", "relativsaetze", "trennbare-verben"]
+}

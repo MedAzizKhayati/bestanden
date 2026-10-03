@@ -1,0 +1,117 @@
+{
+  "id": "sprachbausteine-2-02",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Spanisch am Abend",
+  "topic": "bildung",
+  "difficulty": 1,
+  "textType": "email-semiformal",
+  "stimulus": {
+    "heading": "Sprachenzentrum Donau, Linz",
+    "lines": [
+      "Spanisch und Italienisch für Anfänger und Fortgeschrittene",
+      "Intensivkurse im August: Mo.–Fr., 9–12 Uhr",
+      "Abendkurse ab September: 2-mal pro Woche, 18.30–20 Uhr",
+      "Kleine Gruppen (max. 8 Personen), kostenloser Einstufungstest",
+      "Information und Anmeldung: Tel. 0732 418552"
+    ]
+  },
+  "text": "Sehr geehrte Damen und Herren,\n\nich habe Ihre Anzeige in der Zeitung gelesen und möchte gern an einem Spanischkurs [[1]]. Im nächsten Frühling reise ich nämlich nach Südamerika und möchte mich dort mit den Menschen unterhalten können.\n\nVor zehn Jahren habe ich in der Schule ein bisschen Spanisch gelernt, [[2]] ich habe fast alles vergessen. Ich weiß also nicht genau, [[3]] Kurs für mich der richtige ist. Kann ich vorher den Einstufungstest machen?\n\nDer Intensivkurs im August kommt für mich leider nicht [[4]] Frage, weil ich tagsüber arbeite. [[5]] interessiere ich mich für einen Abendkurs. An welchen Tagen findet er statt und wie viel kostet er?\n\nAußerdem möchte ich gern [[6]], ob man ein Buch kaufen muss oder ob Sie die Materialien zur Verfügung [[7]].\n\nIch finde es sehr gut, dass die Gruppen so [[8]] sind. So hat die Kursleiterin mehr Zeit für jeden Teilnehmer.\n\nIch wäre Ihnen sehr [[9]], wenn Sie mir bald antworten könnten. Sie erreichen mich auch telefonisch [[10]] der Nummer 0664 2318907.\n\nMit freundlichen Grüßen\nLukas Brunner",
+  "words": [
+    { "key": "a", "text": "aber" },
+    { "key": "b", "text": "besuchen" },
+    { "key": "c", "text": "dankbar" },
+    { "key": "d", "text": "denn" },
+    { "key": "e", "text": "deshalb" },
+    { "key": "f", "text": "groß" },
+    { "key": "g", "text": "in" },
+    { "key": "h", "text": "klein" },
+    { "key": "i", "text": "mit" },
+    { "key": "j", "text": "obwohl" },
+    { "key": "k", "text": "stellen" },
+    { "key": "l", "text": "teilnehmen" },
+    { "key": "m", "text": "unter" },
+    { "key": "n", "text": "welcher" },
+    { "key": "o", "text": "wissen" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "l",
+      "explanation": "„an einem Kurs teilnehmen“ is a fixed combination – „teilnehmen“ always goes with „an“ + dative. „besuchen“ is a trap: it takes a direct object without „an“ („einen Kurs besuchen“).",
+      "explanationDe": "„an einem Kurs teilnehmen“ ist eine feste Verbindung – „teilnehmen“ steht immer mit „an“ + Dativ. „besuchen“ ist eine Falle: Es hat ein Akkusativobjekt ohne „an“ („einen Kurs besuchen“).",
+      "grammar": "verben-mit-praepositionen"
+    },
+    {
+      "n": 2,
+      "answer": "a",
+      "explanation": "The two clauses contrast (he learned Spanish – he forgot almost everything), and the second clause has main-clause word order („ich habe …“), so you need „aber“. „obwohl“ would send the verb to the end, and „denn“ (because) makes no sense.",
+      "explanationDe": "Die beiden Sätze bilden einen Gegensatz (er hat Spanisch gelernt – er hat fast alles vergessen), und der zweite Satz hat die Wortstellung eines Hauptsatzes („ich habe …“). Du brauchst also „aber“. Bei „obwohl“ müsste das Verb ans Ende, und „denn“ (nennt einen Grund) ergibt keinen Sinn.",
+      "grammar": "konnektoren-hauptsatz"
+    },
+    {
+      "n": 3,
+      "answer": "n",
+      "explanation": "There are several courses and he does not know which one is right: „welcher Kurs für mich der richtige ist“. „welcher“ introduces the indirect question and agrees with „der Kurs“.",
+      "explanationDe": "Es gibt mehrere Kurse, und er weiß nicht, welcher der richtige ist: „welcher Kurs für mich der richtige ist“. „welcher“ leitet die indirekte Frage ein und passt zu „der Kurs“.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 4,
+      "answer": "g",
+      "explanation": "„in Frage kommen“ (to be an option) is a fixed expression; „nicht in Frage kommen“ means „to be out of the question“.",
+      "explanationDe": "„in Frage kommen“ (= eine Möglichkeit sein) ist eine feste Wendung; „nicht in Frage kommen“ bedeutet: ausgeschlossen sein.",
+      "grammar": "nomen-verb-verbindungen"
+    },
+    {
+      "n": 5,
+      "answer": "e",
+      "explanation": "He works during the day, and as a consequence he is interested in an evening course: „Deshalb interessiere ich mich …“. Note the verb directly after „deshalb“.",
+      "explanationDe": "Er arbeitet tagsüber; als Folge davon interessiert er sich für einen Abendkurs: „Deshalb interessiere ich mich …“. Achte auf das Verb direkt nach „deshalb“.",
+      "grammar": "verbindungsadverbien"
+    },
+    {
+      "n": 6,
+      "answer": "o",
+      "explanation": "„Ich möchte gern wissen, ob …“ is the standard polite way to ask for information. „wissen“ is the only verb in the list that can be followed by an „ob“-clause.",
+      "explanationDe": "„Ich möchte gern wissen, ob …“ ist die übliche höfliche Art, nach Informationen zu fragen. „wissen“ ist das einzige Verb in der Liste, nach dem ein „ob“-Satz folgen kann.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 7,
+      "answer": "k",
+      "explanation": "„etwas zur Verfügung stellen“ (to provide something) is a fixed noun–verb combination.",
+      "explanationDe": "„etwas zur Verfügung stellen“ (= etwas bereitstellen) ist eine feste Nomen-Verb-Verbindung.",
+      "grammar": "nomen-verb-verbindungen"
+    },
+    {
+      "n": 8,
+      "answer": "h",
+      "explanation": "The ad says „max. 8 Personen“, and the next sentence says the teacher has more time for each learner – so the groups are „klein“, not „groß“.",
+      "explanationDe": "In der Anzeige steht „max. 8 Personen“, und im nächsten Satz steht, dass die Kursleiterin mehr Zeit für jeden Teilnehmer hat – die Gruppen sind also „klein“, nicht „groß“."
+    },
+    {
+      "n": 9,
+      "answer": "c",
+      "explanation": "„Ich wäre Ihnen sehr dankbar, wenn …“ (I would be very grateful if …) is a typical polite formula in formal letters.",
+      "explanationDe": "„Ich wäre Ihnen sehr dankbar, wenn …“ ist eine typische höfliche Formel in formellen Briefen.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 10,
+      "answer": "m",
+      "explanation": "You can be reached „unter der Nummer …“ – telephone numbers always go with „unter“, not with „mit“ or „in“.",
+      "explanationDe": "Man ist „unter der Nummer …“ erreichbar – bei Telefonnummern steht immer „unter“, nicht „mit“ oder „in“."
+    }
+  ],
+  "glossary": [
+    { "de": "teilnehmen an", "en": "to take part in" },
+    { "de": "der Einstufungstest", "en": "placement test" },
+    { "de": "in Frage kommen", "en": "to be an option" },
+    { "de": "tagsüber", "en": "during the day" },
+    { "de": "etwas zur Verfügung stellen", "en": "to provide something" },
+    { "de": "die Kursleiterin", "en": "(female) course teacher" },
+    { "de": "Ich wäre Ihnen sehr dankbar, wenn …", "en": "I would be very grateful if …" },
+    { "de": "jemanden unter der Nummer … erreichen", "en": "to reach someone at the number …" }
+  ]
+}

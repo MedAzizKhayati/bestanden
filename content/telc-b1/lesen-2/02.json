@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-02",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Eine Bank gegen die Einsamkeit",
+  "topic": "gesellschaft",
+  "difficulty": 1,
+  "article": {
+    "headline": "Hier darf man sich einfach dazusetzen",
+    "lead": "Auf zwölf Bänken in Winterthur hängt seit dem Frühling ein kleines gelbes Schild. Es lädt fremde Menschen zum Gespräch ein – mit Erfolg.",
+    "paragraphs": [
+      "Es ist ein sonniger Dienstagnachmittag im Stadtpark. Auf einer Holzbank sitzt Margrit Bösch, 79, und füttert die Spatzen. Neben ihr hängt ein gelbes Schild: „Plauderbänkli – Wer hier sitzt, freut sich über ein Gespräch.“ Nach wenigen Minuten setzt sich eine junge Frau mit Kinderwagen dazu. Zuerst reden die beiden über das Wetter, dann über Kinder und Enkel. Als die junge Mutter nach einer halben Stunde weitergeht, sagt Margrit Bösch: „Das war heute mein erstes Gespräch.“",
+      "Die Idee für die Plauderbänkli hatte Ruedi Ammann. Der pensionierte Primarlehrer hat vor zwei Jahren seine Frau verloren. „Plötzlich habe ich gemerkt, wie still es in einer Wohnung sein kann“, sagt der 71-Jährige. In einer Zeitschrift las er dann von einem ähnlichen Projekt in England. „Ich habe gedacht: Das ist so einfach, das können wir hier auch machen.“",
+      "Ganz so einfach war es dann aber doch nicht. Für die Schilder brauchte Ammann eine Erlaubnis der Stadt. Er schrieb Briefe, ging zu Sitzungen und sammelte über 400 Unterschriften. Nach einem halben Jahr sagte die Stadt endlich Ja. Die Schilder haben dann Jugendliche aus einem Jugendtreff gebaut, das Holz hat eine Schreinerei aus dem Quartier geschenkt.",
+      "Seit April stehen die zwölf Plauderbänkli an Orten, an denen viele Menschen vorbeikommen: im Stadtpark, am Bahnhof, vor zwei Altersheimen und beim Wochenmarkt. Ammann und eine Gruppe von Freiwilligen setzen sich regelmäßig selbst auf die Bänke, damit der Anfang leichter ist. Bei einer kleinen Umfrage im Sommer sagten über 80 Prozent der Befragten, dass sie auf einem Bänkli schon einmal ein gutes Gespräch hatten.",
+      "Überrascht hat Ammann vor allem eines: Nicht nur ältere Menschen setzen sich auf die Bänke. „Wir haben viele Studierende, die neu in der Stadt sind, und auch Mütter und Väter, die mit ihren Babys zu Hause sind“, erzählt er. Auch Menschen, die erst seit Kurzem in der Schweiz leben, kommen gern. Für sie ist das Plauderbänkli eine gute Möglichkeit, Deutsch zu üben – oder sogar Schweizerdeutsch.",
+      "Nicht alle finden die Idee gut. In einem Leserbrief schrieb ein Mann, die Stadt solle lieber mehr Geld für Sozialarbeiter ausgeben, statt Schilder aufzuhängen. Ammann sieht das anders: „Die Bänke sind kein Ersatz für professionelle Hilfe. Aber sie können ein erster Schritt sein. Manchmal braucht man einfach jemanden, der zuhört.“",
+      "Inzwischen haben sich mehrere Gemeinden aus der Region gemeldet, die das Projekt übernehmen möchten. Für Winterthur hat Ammann schon einen neuen Plan: Im Winter, wenn es draußen zu kalt ist, sollen in drei Cafés sogenannte Plaudertische stehen. Wer sich dort hinsetzt, bekommt den ersten Kaffee gratis. Margrit Bösch hat schon angekündigt, dass sie kommt."
+    ],
+    "source": "Winterthurer Stadtanzeiger"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Herr Ammann hatte die Idee für die Plauderbänkli, nachdem …",
+      "options": [
+        { "key": "a", "text": "er selbst in England auf so einer Bank gesessen hatte." },
+        { "key": "b", "text": "er als Lehrer viele einsame Kinder kennengelernt hatte." },
+        { "key": "c", "text": "er in einer Zeitschrift über ein Projekt in England gelesen hatte." }
+      ],
+      "answer": "c",
+      "explanation": "„In einer Zeitschrift las er dann von einem ähnlichen Projekt in England“, so (c). He only read about the English project – he was not in England himself (a). His work as a teacher is mentioned, but not lonely children (b).",
+      "explanationDe": "„In einer Zeitschrift las er dann von einem ähnlichen Projekt in England“, also ist (c) richtig. Über das Projekt in England hat er nur gelesen – er war nicht selbst dort (a). Dass er Lehrer war, wird erwähnt, aber nicht einsame Kinder (b).",
+      "evidence": "In einer Zeitschrift las er dann von einem ähnlichen Projekt in England."
+    },
+    {
+      "n": 2,
+      "stem": "Bevor die Schilder aufgehängt werden konnten, …",
+      "options": [
+        { "key": "a", "text": "haben Jugendliche Briefe an die Stadt geschrieben." },
+        { "key": "b", "text": "musste Herr Ammann die Erlaubnis der Stadt bekommen." },
+        { "key": "c", "text": "musste Herr Ammann 400 Franken für das Holz sammeln." }
+      ],
+      "answer": "b",
+      "explanation": "„Für die Schilder brauchte Ammann eine Erlaubnis der Stadt“, so (b). Ammann himself wrote the letters; the young people built the signs (a). He collected 400 signatures, not 400 francs – the wood was a gift (c).",
+      "explanationDe": "„Für die Schilder brauchte Ammann eine Erlaubnis der Stadt“, also ist (b) richtig. Die Briefe hat Ammann selbst geschrieben; die Jugendlichen haben die Schilder gebaut (a). Er hat 400 Unterschriften gesammelt, nicht 400 Franken – das Holz war ein Geschenk (c).",
+      "evidence": "Für die Schilder brauchte Ammann eine Erlaubnis der Stadt."
+    },
+    {
+      "n": 3,
+      "stem": "Herr Ammann war überrascht, dass …",
+      "options": [
+        { "key": "a", "text": "auch viele jüngere Menschen die Bänke benutzen." },
+        { "key": "b", "text": "vor allem Bewohner der Altersheime auf den Bänken sitzen." },
+        { "key": "c", "text": "viele Menschen auf den Bänken lieber Schweizerdeutsch als Deutsch sprechen." }
+      ],
+      "answer": "a",
+      "explanation": "„Nicht nur ältere Menschen setzen sich auf die Bänke“ – students and young parents come too, so (a). Option (b) says the opposite. Newcomers practise German „oder sogar Schweizerdeutsch“, but nobody says that people prefer Swiss German (c).",
+      "explanationDe": "„Nicht nur ältere Menschen setzen sich auf die Bänke“ – auch Studierende und junge Eltern kommen, also ist (a) richtig. Antwort (b) sagt das Gegenteil. Menschen, die neu in der Schweiz sind, üben Deutsch „oder sogar Schweizerdeutsch“, aber niemand sagt, dass die Leute lieber Schweizerdeutsch sprechen (c).",
+      "evidence": "Wir haben viele Studierende, die neu in der Stadt sind, und auch Mütter und Väter, die mit ihren Babys zu Hause sind"
+    },
+    {
+      "n": 4,
+      "stem": "Was antwortet Herr Ammann auf die Kritik in dem Leserbrief?",
+      "options": [
+        { "key": "a", "text": "Die Stadt sollte mehr Geld für Sozialarbeiter ausgeben." },
+        { "key": "b", "text": "Die Bänke können professionelle Hilfe ersetzen." },
+        { "key": "c", "text": "Die Bänke sind ein Anfang, aber keine professionelle Hilfe." }
+      ],
+      "answer": "c",
+      "explanation": "„Die Bänke sind kein Ersatz für professionelle Hilfe. Aber sie können ein erster Schritt sein“, so (c). Option (a) is the opinion of the man who wrote the letter, and (b) is the opposite of what Ammann says.",
+      "explanationDe": "„Die Bänke sind kein Ersatz für professionelle Hilfe. Aber sie können ein erster Schritt sein“, also ist (c) richtig. Antwort (a) ist die Meinung des Mannes, der den Leserbrief geschrieben hat, und (b) ist das Gegenteil von dem, was Ammann sagt.",
+      "evidence": "Die Bänke sind kein Ersatz für professionelle Hilfe. Aber sie können ein erster Schritt sein."
+    },
+    {
+      "n": 5,
+      "stem": "Im Winter sollen …",
+      "options": [
+        { "key": "a", "text": "Menschen in drei Cafés an besonderen Tischen ins Gespräch kommen." },
+        { "key": "b", "text": "die Plauderbänkli in drei Cafés gebracht werden." },
+        { "key": "c", "text": "Frau Bösch und andere Freiwillige in den Cafés Kaffee servieren." }
+      ],
+      "answer": "a",
+      "explanation": "In winter there will be „Plaudertische“ in three cafés, so (a). The cafés get tables, not the benches (b). Frau Bösch only says that she will come as a guest (c).",
+      "explanationDe": "Im Winter soll es in drei Cafés „Plaudertische“ geben, also ist (a) richtig. Die Cafés bekommen Tische, nicht die Bänke (b). Frau Bösch sagt nur, dass sie als Gast kommt (c).",
+      "evidence": "Im Winter, wenn es draußen zu kalt ist, sollen in drei Cafés sogenannte Plaudertische stehen."
+    }
+  ],
+  "glossary": [
+    { "de": "das Bänkli (schweiz.)", "en": "small bench (Swiss diminutive of die Bank)" },
+    { "de": "plaudern", "en": "to chat" },
+    { "de": "die Einsamkeit", "en": "loneliness" },
+    { "de": "der Primarlehrer (schweiz.)", "en": "primary school teacher" },
+    { "de": "pensioniert", "en": "retired" },
+    { "de": "die Erlaubnis", "en": "permission" },
+    { "de": "die Unterschrift", "en": "signature" },
+    { "de": "die Schreinerei", "en": "carpenter's workshop" },
+    { "de": "das Quartier (schweiz.)", "en": "district, neighbourhood" },
+    { "de": "der Leserbrief", "en": "letter to the editor" },
+    { "de": "der Ersatz", "en": "replacement, substitute" }
+  ]
+}

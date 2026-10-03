@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-14",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Ferienwohnung am See",
+  "topic": "reisen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "situation": "Sie haben im Internet folgende Anzeige gelesen:",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Ferienwohnung „Seeblick“ am Millstätter See (Kärnten)\n\nGemütliche 3-Zimmer-Wohnung für 2–5 Personen, 75 m², großer Balkon mit Blick auf den See\nNur 300 Meter zum Badestrand, Bäckerei und Supermarkt im Ort\nFahrräder und Kinderbett kostenlos\nPreis: ab 95 Euro pro Nacht, Mindestaufenthalt 5 Nächte\nHaustiere auf Anfrage\n\nFamilie Moser · ferienwohnung-seeblick@moser-kaernten.at"
+  },
+  "leitpunkte": [
+    "Was Sie über Haustiere wissen möchten",
+    "Wann und mit wie vielen Personen Sie kommen möchten",
+    "Wie Sie anreisen möchten",
+    "Was im Preis enthalten ist"
+  ],
+  "model": {
+    "subject": "Anfrage: Ferienwohnung „Seeblick“ vom 2. bis 9. August",
+    "text": "Sehr geehrte Familie Moser,\n\nim Internet habe ich Ihre Anzeige für die Ferienwohnung „Seeblick“ gelesen. Die Wohnung gefällt mir sehr gut, und ich möchte gern wissen, ob sie vom 2. bis zum 9. August noch frei ist. Wir wären zu viert: meine Frau, ich und unsere beiden Kinder im Alter von sechs und neun Jahren.\n\nKönnten Sie mir bitte auch sagen, was im Preis enthalten ist? Kommen noch Kosten für Bettwäsche, Handtücher oder die Endreinigung dazu?\n\nAußerdem würden wir gern unseren Hund Bruno mitbringen. Er ist ruhig, gut erzogen und nicht sehr groß. Ist das bei Ihnen möglich, und müssen wir dafür extra bezahlen?\n\nDa wir kein Auto haben, reisen wir mit dem Zug an. Gibt es vom Bahnhof Spittal einen Bus zu Ihrer Wohnung, oder könnten Sie uns vielleicht abholen? Gegen eine Gebühr wäre das natürlich auch in Ordnung.\n\nIch freue mich auf Ihre Antwort und hoffe, dass es mit unserem Wunschtermin klappt.\n\nMit freundlichen Grüßen\nDaniel Okafor"
+  },
+  "modelNotes": [
+    "The introduction refers to the ad and immediately asks the most important question: is the flat free on concrete dates for a concrete number of people?",
+    "The questions are polite and varied: an indirect question („Könnten Sie mir bitte sagen, was …“), direct questions and „Ist das … möglich?“.",
+    "Reasons make the questions clear („Da wir kein Auto haben, …“), and the dog is described so that the owners can decide.",
+    "Linking with „außerdem“, „da“, „oder“ and „natürlich“, plus a friendly final sentence with a „dass“ clause."
+  ],
+  "modelNotesDe": [
+    "Die Einleitung bezieht sich auf die Anzeige und stellt sofort die wichtigste Frage: Ist die Wohnung zu einem konkreten Termin für eine konkrete Zahl von Personen frei?",
+    "Die Fragen sind höflich und abwechslungsreich: eine indirekte Frage („Könnten Sie mir bitte sagen, was …“), direkte Fragen und „Ist das … möglich?“.",
+    "Gründe machen die Fragen verständlich („Da wir kein Auto haben, …“), und der Schreiber beschreibt den Hund, damit die Vermieter entscheiden können.",
+    "Verbindungen mit „außerdem“, „da“, „oder“ und „natürlich“, dazu ein freundlicher Schlusssatz mit einem „dass“-Satz."
+  ],
+  "phrases": [
+    { "de": "Ich möchte gern wissen, ob die Wohnung vom … bis zum … frei ist.", "en": "I'd like to know whether the flat is available from … to …" },
+    { "de": "Wir wären zu viert.", "en": "There would be four of us." },
+    { "de": "Könnten Sie mir bitte sagen, was im Preis enthalten ist?", "en": "Could you please tell me what is included in the price?" },
+    { "de": "Kommen noch Kosten für … dazu?", "en": "Are there extra costs for …?" },
+    { "de": "Wir würden gern unseren Hund mitbringen.", "en": "We would like to bring our dog." },
+    { "de": "Da wir kein Auto haben, reisen wir mit dem Zug an.", "en": "As we don't have a car, we'll arrive by train." },
+    { "de": "Könnten Sie uns vielleicht vom Bahnhof abholen?", "en": "Could you perhaps pick us up from the station?" },
+    { "de": "Ich hoffe, dass es mit unserem Wunschtermin klappt.", "en": "I hope our preferred dates work out." }
+  ],
+  "glossary": [
+    { "de": "die Ferienwohnung", "en": "holiday flat" },
+    { "de": "der Mindestaufenthalt", "en": "minimum stay" },
+    { "de": "auf Anfrage", "en": "on request" },
+    { "de": "die Endreinigung", "en": "final cleaning" },
+    { "de": "die Bettwäsche", "en": "bed linen" },
+    { "de": "anreisen", "en": "to travel there, to arrive" },
+    { "de": "gut erzogen", "en": "well-behaved, well-trained" }
+  ]
+}

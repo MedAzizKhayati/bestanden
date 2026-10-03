@@ -1,0 +1,53 @@
+{
+  "id": "schreiben-18",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Sommerfest in der Grundschule",
+  "topic": "bildung",
+  "difficulty": 2,
+  "register": "semiformal",
+  "situation": "Ihr Sohn hat aus der Schule folgenden Elternbrief mitgebracht:",
+  "stimulus": {
+    "kind": "notice",
+    "body": "Grundschule am Rosenhain · Klasse 3b\n\nLiebe Eltern,\n\nam Freitag, dem 4. Juli, feiern wir von 15 bis 18 Uhr unser Sommerfest auf dem Schulhof. Die Kinder führen ein kleines Theaterstück auf, und es gibt Spiele, Musik und ein Buffet.\n\nDafür brauchen wir Ihre Hilfe: Wer kann einen Kuchen oder einen Salat mitbringen? Wer hat Zeit, eine Stunde am Getränkestand zu helfen? Außerdem suchen wir noch Ideen für Spiele.\n\nBitte antworten Sie bis zum 20. Juni per E-Mail an j.seidel@gs-rosenhain.de.\n\nHerzliche Grüße\nJens Seidel, Klassenlehrer"
+  },
+  "leitpunkte": [
+    "Welche Idee für ein Spiel Sie haben",
+    "Wer aus Ihrer Familie zum Fest kommt",
+    "Wann Sie am Getränkestand helfen können",
+    "Was Sie zum Buffet beitragen"
+  ],
+  "model": {
+    "subject": "Sommerfest am 4. Juli – Familie Wolff hilft gern",
+    "text": "Sehr geehrter Herr Seidel,\n\nvielen Dank für Ihren Brief und die Einladung zum Sommerfest! Maxim erzählt zu Hause schon jeden Tag von dem Theaterstück.\n\nWir kommen sehr gern, und zwar zu viert: mein Mann, ich, Maxim und seine kleine Schwester Lena. Auch Maxims Oma möchte gern dabei sein, wenn das erlaubt ist.\n\nFür das Buffet backe ich einen russischen Apfelkuchen, der bei uns in der Familie sehr beliebt ist. Wenn Sie möchten, kann ich zusätzlich einen Nudelsalat mitbringen.\n\nAm Getränkestand helfe ich gern von 15 bis 16 Uhr. Danach möchte ich mir das Theaterstück in Ruhe ansehen. Mein Mann kommt erst gegen 16:30 Uhr von der Arbeit, dafür kann er nach dem Fest beim Aufräumen helfen.\n\nAußerdem habe ich eine Idee für ein Spiel: Wir könnten einen Eierlauf machen. Die Kinder laufen mit einem Löffel und einem gekochten Ei um die Wette. Das ist einfach, kostet fast nichts und macht allen Spaß.\n\nIch freue mich schon auf das Fest!\n\nMit freundlichen Grüßen\nIrina Wolff"
+  },
+  "modelNotes": [
+    "A short personal introduction (Maxim talks about the play every day) creates a friendly tone while staying in the Sie-form.",
+    "All four points are answered with concrete details – who is coming, what food, which time slot, which game – so the teacher can plan with this e-mail.",
+    "A relative clause („der bei uns in der Familie sehr beliebt ist“) and the connectors „und zwar“, „wenn“, „danach“, „dafür“ and „außerdem“ link the content.",
+    "The writer adds useful extras (salad, husband helps tidy up) – going slightly beyond the points shows a good range of expression."
+  ],
+  "modelNotesDe": [
+    "Eine kurze persönliche Einleitung (Maxim erzählt jeden Tag von dem Theaterstück) sorgt für einen freundlichen Ton – trotzdem bleibt die E-Mail in der Sie-Form.",
+    "Die Schreiberin beantwortet alle vier Leitpunkte mit konkreten Details – wer kommt, welches Essen, welche Uhrzeit, welches Spiel –, sodass der Klassenlehrer mit dieser E-Mail planen kann.",
+    "Ein Relativsatz („der bei uns in der Familie sehr beliebt ist“) und die Konnektoren „und zwar“, „wenn“, „danach“, „dafür“ und „außerdem“ verbinden den Inhalt.",
+    "Die Schreiberin ergänzt nützliche Extras (Salat, ihr Mann hilft beim Aufräumen) – wenn man etwas mehr schreibt, als die Leitpunkte verlangen, zeigt man, dass man sich vielfältig ausdrücken kann."
+  ],
+  "phrases": [
+    { "de": "Vielen Dank für die Einladung zum Sommerfest!", "en": "Thank you very much for the invitation to the summer party!" },
+    { "de": "Wir kommen sehr gern, und zwar zu viert.", "en": "We'd love to come – there will be four of us." },
+    { "de": "Für das Buffet backe ich …", "en": "For the buffet I'll bake …" },
+    { "de": "Wenn Sie möchten, kann ich zusätzlich … mitbringen.", "en": "If you like, I can also bring …" },
+    { "de": "Am Getränkestand helfe ich gern von … bis … Uhr.", "en": "I'm happy to help at the drinks stall from … to …" },
+    { "de": "Ich habe eine Idee für ein Spiel: …", "en": "I have an idea for a game: …" },
+    { "de": "Das ist einfach und macht allen Spaß.", "en": "It's simple and everyone enjoys it." }
+  ],
+  "glossary": [
+    { "de": "der Elternbrief", "en": "letter to parents" },
+    { "de": "ein Theaterstück aufführen", "en": "to perform a play" },
+    { "de": "der Getränkestand", "en": "drinks stall" },
+    { "de": "beliebt", "en": "popular" },
+    { "de": "der Eierlauf", "en": "egg-and-spoon race" },
+    { "de": "um die Wette laufen", "en": "to race each other" }
+  ]
+}

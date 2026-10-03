@@ -1,0 +1,143 @@
+{
+  "id": "hoeren-2-08",
+  "examId": "telc-b1",
+  "type": "audio-long",
+  "title": "Mehr als nur Bücher",
+  "topic": "bildung",
+  "difficulty": 2,
+  "context": "Radiosendung „Linz am Nachmittag“: Interview mit der Leiterin einer Bibliothek über neue Angebote",
+  "speakers": [
+    { "id": "mod", "name": "Moderator", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "aigner", "name": "Frau Aigner", "gender": "f", "age": "adult", "role": "Leiterin der Bibliothek" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Grüß Gott und willkommen bei „Linz am Nachmittag“! Heute geht es um einen Ort, den viele von Ihnen kennen: die Bibliothek im Alten Zollhaus. Sie war lange geschlossen und ist seit vier Wochen wieder offen." },
+    { "s": "mod", "t": "Bei mir ist die Leiterin der Bibliothek, Frau Aigner. Grüß Gott, Frau Aigner!" },
+    { "s": "aigner", "t": "Grüß Gott, und danke, dass ich unsere neue Bibliothek vorstellen darf." },
+    { "s": "mod", "t": "Wie lange war die Bibliothek eigentlich zu?" },
+    { "s": "aigner", "t": "Ganze 18 Monate. Wir haben nicht nur renoviert, sondern das ganze Haus neu geplant, denn eine Bibliothek ist heute viel mehr als ein Raum voller Bücher." },
+    { "s": "mod", "t": "Und hat sich das gelohnt?" },
+    { "s": "aigner", "t": "Ich glaube schon. Seit der Eröffnung kommen doppelt so viele Besucher wie vor dem Umbau, und viele kommen nicht nur zum Ausleihen." },
+    { "s": "aigner", "t": "Sie bleiben einfach da, lesen Zeitung, lernen für die Schule oder arbeiten am Laptop." },
+    { "s": "mod", "t": "Was ist denn die größte Neuigkeit?" },
+    { "s": "aigner", "t": "Die neuen Öffnungszeiten. Mit dem Bibliotheksausweis kommt man jetzt jeden Tag von 8 bis 22 Uhr hinein, auch am Sonntag." },
+    { "s": "aigner", "t": "Unsere Mitarbeiterinnen und Mitarbeiter sind allerdings nur von Dienstag bis Samstag da. In der übrigen Zeit funktioniert alles mit Automaten, also Ausleihen und Zurückgeben." },
+    { "s": "mod", "t": "Ich habe gehört, dass man bei Ihnen jetzt nicht nur Bücher ausleihen kann." },
+    { "s": "aigner", "t": "Richtig, wir haben jetzt eine Bibliothek der Dinge. Da gibt es zum Beispiel eine Bohrmaschine, ein Zelt, Brettspiele und sogar ein Teleskop." },
+    { "s": "aigner", "t": "Wir dachten, die Bohrmaschine wird der Hit. Aber am häufigsten wird tatsächlich die Nähmaschine ausgeliehen, die ist fast nie im Regal." },
+    { "s": "mod", "t": "Und wie lange darf man die Sachen behalten?" },
+    { "s": "aigner", "t": "Bücher wie früher vier Wochen. Die Dinge nur zwei Wochen, weil wir von jedem Gerät meistens nur ein Stück haben." },
+    { "s": "mod", "t": "Gibt es auch neue Veranstaltungen?" },
+    { "s": "aigner", "t": "Ja, einige. Jeden Mittwochabend gibt es ein Sprachcafé, da treffen sich Menschen, die Deutsch lernen, mit Ehrenamtlichen und unterhalten sich einfach über alles Mögliche." },
+    { "s": "aigner", "t": "Für viele ist das die erste Gelegenheit, außerhalb vom Kurs Deutsch zu sprechen." },
+    { "s": "mod", "t": "Und für ältere Menschen?" },
+    { "s": "aigner", "t": "Für sie gibt es jeden Freitagvormittag eine Handy-Sprechstunde. Schülerinnen und Schüler einer Technikschule erklären dort zum Beispiel, wie man Fotos verschickt oder online einen Arzttermin bucht." },
+    { "s": "aigner", "t": "Die Jugendlichen machen das wirklich toll, und die Senioren backen ihnen manchmal sogar einen Kuchen." },
+    { "s": "mod", "t": "Was kostet eigentlich ein Bibliotheksausweis?" },
+    { "s": "aigner", "t": "Für Erwachsene 20 Euro im Jahr. Kinder und Jugendliche bis 18 bekommen den Ausweis kostenlos, und sie müssen auch nichts mehr bezahlen, wenn sie ein Buch zu spät zurückbringen." },
+    { "s": "mod", "t": "Darf man in der Bibliothek eigentlich essen und trinken?" },
+    { "s": "aigner", "t": "Früher war das streng verboten. Jetzt gibt es im Erdgeschoss ein kleines Café, und im Lesesaal darf man etwas trinken." },
+    { "s": "aigner", "t": "Nur zwischen den Regalen bitten wir, nichts zu essen. Fettige Finger und Bücher passen einfach nicht zusammen." },
+    { "s": "mod", "t": "Haben Sie schon Pläne für die Zukunft?" },
+    { "s": "aigner", "t": "Ja. Ab nächstem Jahr wollen wir Bücher zu Menschen nach Hause bringen, die nicht mehr selbst kommen können, zum Beispiel weil sie krank sind." },
+    { "s": "aigner", "t": "Dafür suchen wir gerade Ehrenamtliche mit einem Fahrrad oder einem Auto. Wer Lust hat, kann sich einfach bei uns an der Information melden." },
+    { "s": "mod", "t": "Frau Aigner, vielen Dank für den Besuch und viel Erfolg mit der neuen Bibliothek!" },
+    { "s": "aigner", "t": "Danke, und kommen Sie vorbei, gern auch am Sonntag!" }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Wegen des Umbaus war die Bibliothek ein Jahr lang geschlossen.",
+      "answer": false,
+      "explanation": "„Ganze 18 Monate“ – the library was closed for a year and a half, not for one year.",
+      "explanationDe": "„Ganze 18 Monate“ – die Bibliothek war eineinhalb Jahre geschlossen, nicht ein Jahr.",
+      "evidence": "Ganze 18 Monate."
+    },
+    {
+      "n": 2,
+      "text": "Seit der Wiedereröffnung kommen doppelt so viele Besucher in die Bibliothek.",
+      "answer": true,
+      "explanation": "„Seit der Eröffnung kommen doppelt so viele Besucher wie vor dem Umbau“ – and many stay to read, study or work.",
+      "explanationDe": "„Seit der Eröffnung kommen doppelt so viele Besucher wie vor dem Umbau“ – und viele bleiben, um zu lesen, zu lernen oder zu arbeiten.",
+      "evidence": "Seit der Eröffnung kommen doppelt so viele Besucher wie vor dem Umbau"
+    },
+    {
+      "n": 3,
+      "text": "Am Sonntag kann man sich in der Bibliothek von Mitarbeitern beraten lassen.",
+      "answer": false,
+      "explanation": "You can get in on Sundays with your card, but the staff „sind allerdings nur von Dienstag bis Samstag da“ – at other times there are only machines.",
+      "explanationDe": "Mit dem Ausweis kommt man auch am Sonntag hinein, aber die Mitarbeiterinnen und Mitarbeiter „sind allerdings nur von Dienstag bis Samstag da“ – sonst gibt es nur Automaten.",
+      "evidence": "Unsere Mitarbeiterinnen und Mitarbeiter sind allerdings nur von Dienstag bis Samstag da."
+    },
+    {
+      "n": 4,
+      "text": "Am häufigsten leihen die Leute die Bohrmaschine aus.",
+      "answer": false,
+      "explanation": "The team expected the drill to be the hit, „Aber am häufigsten wird tatsächlich die Nähmaschine ausgeliehen“.",
+      "explanationDe": "Das Team dachte, die Bohrmaschine wird der Hit. „Aber am häufigsten wird tatsächlich die Nähmaschine ausgeliehen“.",
+      "evidence": "Aber am häufigsten wird tatsächlich die Nähmaschine ausgeliehen"
+    },
+    {
+      "n": 5,
+      "text": "Dinge aus der Bibliothek der Dinge darf man kürzer behalten als Bücher.",
+      "answer": true,
+      "explanation": "Books can be kept for four weeks, „Die Dinge nur zwei Wochen“, because there is usually only one of each item.",
+      "explanationDe": "Bücher darf man vier Wochen behalten, „Die Dinge nur zwei Wochen“, weil es von jedem Gerät meistens nur ein Stück gibt.",
+      "evidence": "Die Dinge nur zwei Wochen"
+    },
+    {
+      "n": 6,
+      "text": "Im Sprachcafé sprechen Menschen, die Deutsch lernen, mit Ehrenamtlichen.",
+      "answer": true,
+      "explanation": "„da treffen sich Menschen, die Deutsch lernen, mit Ehrenamtlichen“ – every Wednesday evening.",
+      "explanationDe": "„da treffen sich Menschen, die Deutsch lernen, mit Ehrenamtlichen“ – jeden Mittwochabend.",
+      "evidence": "da treffen sich Menschen, die Deutsch lernen, mit Ehrenamtlichen"
+    },
+    {
+      "n": 7,
+      "text": "In der Handy-Sprechstunde helfen Studierende der Universität älteren Menschen.",
+      "answer": false,
+      "explanation": "The helpers are „Schülerinnen und Schüler einer Technikschule“ – school pupils, not university students.",
+      "explanationDe": "Die Helfer sind „Schülerinnen und Schüler einer Technikschule“ – also Schüler, keine Studierenden der Universität.",
+      "evidence": "Schülerinnen und Schüler einer Technikschule erklären dort zum Beispiel"
+    },
+    {
+      "n": 8,
+      "text": "Kinder und Jugendliche bezahlen nichts für den Bibliotheksausweis.",
+      "answer": true,
+      "explanation": "„Kinder und Jugendliche bis 18 bekommen den Ausweis kostenlos“ – only adults pay 20 euros a year.",
+      "explanationDe": "„Kinder und Jugendliche bis 18 bekommen den Ausweis kostenlos“ – nur Erwachsene zahlen 20 Euro im Jahr.",
+      "evidence": "Kinder und Jugendliche bis 18 bekommen den Ausweis kostenlos"
+    },
+    {
+      "n": 9,
+      "text": "Man darf jetzt überall in der Bibliothek etwas essen.",
+      "answer": false,
+      "explanation": "There is a café and you may drink in the reading room, but „Nur zwischen den Regalen bitten wir, nichts zu essen“.",
+      "explanationDe": "Es gibt ein Café, und im Lesesaal darf man etwas trinken, aber: „Nur zwischen den Regalen bitten wir, nichts zu essen“.",
+      "evidence": "Nur zwischen den Regalen bitten wir, nichts zu essen."
+    },
+    {
+      "n": 10,
+      "text": "Ab nächstem Jahr sollen kranke Menschen Bücher nach Hause bekommen.",
+      "answer": true,
+      "explanation": "„Ab nächstem Jahr wollen wir Bücher zu Menschen nach Hause bringen, die nicht mehr selbst kommen können“ – for example because they are ill.",
+      "explanationDe": "„Ab nächstem Jahr wollen wir Bücher zu Menschen nach Hause bringen, die nicht mehr selbst kommen können“ – zum Beispiel, weil sie krank sind.",
+      "evidence": "Ab nächstem Jahr wollen wir Bücher zu Menschen nach Hause bringen"
+    }
+  ],
+  "glossary": [
+    { "de": "der Umbau", "en": "rebuilding, conversion" },
+    { "de": "sich lohnen", "en": "to be worth it" },
+    { "de": "ausleihen / zurückgeben", "en": "to borrow / to return" },
+    { "de": "der Bibliotheksausweis", "en": "library card" },
+    { "de": "der Automat", "en": "(self-service) machine" },
+    { "de": "die Bohrmaschine", "en": "drill" },
+    { "de": "die Nähmaschine", "en": "sewing machine" },
+    { "de": "das Regal", "en": "shelf" },
+    { "de": "der/die Ehrenamtliche", "en": "volunteer" },
+    { "de": "die Sprechstunde", "en": "consultation hours" },
+    { "de": "das Erdgeschoss", "en": "ground floor" },
+    { "de": "der Lesesaal", "en": "reading room" }
+  ]
+}

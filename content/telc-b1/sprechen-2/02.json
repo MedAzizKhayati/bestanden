@@ -1,0 +1,98 @@
+{
+  "id": "sprechen-2-02",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Ein eigenes Handy für Kinder?",
+  "topic": "familie",
+  "difficulty": 2,
+  "theme": "Smartphones für Kinder",
+  "medium": "in einer Zeitung",
+  "cardA": {
+    "name": "Katrin Vogel",
+    "age": 39,
+    "job": "Polizistin, Mutter von zwei Kindern",
+    "quote": "Meine Tochter hat mit neun Jahren ihr erstes Smartphone bekommen, weil sie allein mit dem Bus zur Schule fährt. Ich arbeite im Schichtdienst und finde es beruhigend, dass ich sie jederzeit erreichen kann. Natürlich gibt es bei uns klare Regeln: Beim Essen und nach acht Uhr abends bleibt das Handy in der Küche."
+  },
+  "cardB": {
+    "name": "Thomas Reuter",
+    "age": 47,
+    "job": "Grundschullehrer",
+    "quote": "Ich sehe jeden Tag, was Smartphones mit Kindern machen. Viele Schüler in meiner Klasse sind morgens müde, weil sie abends lange Videos geschaut haben. Nachmittags treffen sie sich kaum noch zum Spielen draußen, sondern schreiben sich nur Nachrichten. Ein eigenes Smartphone braucht ein Kind frühestens mit zwölf Jahren."
+  },
+  "ideas": {
+    "pro": [
+      "Eltern können ihre Kinder jederzeit erreichen",
+      "mehr Sicherheit auf dem Schulweg",
+      "Kinder lernen früh, mit Technik umzugehen",
+      "Lern-Apps und Informationen für die Schule",
+      "Kontakt zu Freunden und Großeltern",
+      "Kinder fühlen sich in der Klasse nicht ausgeschlossen"
+    ],
+    "contra": [
+      "zu viel Zeit vor dem Bildschirm",
+      "Kinder schlafen schlechter",
+      "weniger Bewegung und Spielen draußen",
+      "gefährliche Inhalte und fremde Menschen im Internet",
+      "Streit in der Familie über Regeln",
+      "teure Geräte und Verträge"
+    ]
+  },
+  "questions": [
+    "Ab welchem Alter sollte ein Kind ein eigenes Smartphone haben?",
+    "Wie ist das in Ihrem Heimatland? Haben Kinder dort früh ein Handy?",
+    "Welche Regeln finden Sie für Kinder sinnvoll?",
+    "Wann haben Sie selbst Ihr erstes Handy bekommen?",
+    "Sollten Handys in der Schule verboten sein?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Olena Kovalenko", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Samir Benali", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich beginne. Auf meinem Blatt äußert sich Katrin Vogel zu diesem Thema. Sie ist 39 Jahre alt, Polizistin und hat zwei Kinder." },
+    { "s": "A", "t": "Frau Vogel erzählt, dass ihre Tochter schon mit neun Jahren ein Smartphone bekommen hat, weil sie allein mit dem Bus zur Schule fährt. Da Frau Vogel im Schichtdienst arbeitet, findet sie es beruhigend, dass sie ihre Tochter jederzeit erreichen kann." },
+    { "s": "A", "t": "Aber es gibt in der Familie klare Regeln. Beim Essen und nach acht Uhr abends muss das Handy in der Küche bleiben." },
+    { "s": "B", "t": "Vielen Dank. In meinem Text geht es um Thomas Reuter. Er ist 47, Grundschullehrer und hat eine ganz andere Meinung." },
+    { "s": "B", "t": "Herr Reuter sieht jeden Tag in der Schule, dass Smartphones für Kinder nicht gut sind. Viele Schüler sind morgens müde, weil sie abends lange Videos geschaut haben." },
+    { "s": "B", "t": "Außerdem treffen sich die Kinder nachmittags kaum noch zum Spielen draußen, sie schreiben sich nur Nachrichten. Deshalb ist er der Meinung, dass ein Kind frühestens mit zwölf Jahren ein eigenes Smartphone braucht." },
+    { "s": "A", "t": "Ich verstehe beide Meinungen. Mein Sohn ist zehn und hat noch kein Smartphone, nur eine Kinderuhr, mit der er mich anrufen kann. Haben Sie Kinder, Herr Benali?" },
+    { "s": "B", "t": "Ja, zwei Töchter, sieben und dreizehn. Die Große hat seit einem Jahr ein Handy, und ehrlich gesagt gibt es deswegen oft Streit bei uns." },
+    { "s": "A", "t": "Wirklich? Worüber streiten Sie denn?" },
+    { "s": "B", "t": "Meistens über die Zeit. Sie möchte abends immer noch ein bisschen chatten, und wir sagen: Jetzt ist Schluss. Deshalb finde ich die Idee von Frau Vogel sehr gut, das Handy einfach in der Küche zu lassen." },
+    { "s": "A", "t": "Das machen meine Nachbarn auch so, und es funktioniert gut. Trotzdem finde ich neun Jahre zu früh. Ich glaube, Herr Reuter hat recht, dass Kinder in diesem Alter lieber draußen spielen sollten." },
+    { "s": "B", "t": "Da stimme ich Ihnen nur teilweise zu. Wenn alle Kinder in der Klasse ein Handy haben, ist ein Kind ohne Handy manchmal allein. Meine Tochter hat erzählt, dass in ihrer Klasse alles in einer Chatgruppe besprochen wird." },
+    { "s": "A", "t": "Das ist wirklich ein Problem. Aber die Schule könnte die wichtigen Informationen doch auch auf Papier geben, oder?" },
+    { "s": "B", "t": "Das stimmt eigentlich. Wie ist das in der Ukraine? Haben Kinder dort früh ein Smartphone?" },
+    { "s": "A", "t": "Ja, ziemlich früh, oft schon in der ersten Klasse. Viele Eltern finden es sicherer, wenn sie ihre Kinder jederzeit anrufen können." },
+    { "s": "B", "t": "In Marokko ist es ähnlich wie hier: In der Stadt haben viele Kinder ab zehn oder elf ein Handy, auf dem Land später. Als ich ein Kind war, hatten wir natürlich gar keins." },
+    { "s": "A", "t": "Ich auch nicht! Wir haben den ganzen Tag draußen gespielt, und unsere Eltern wussten trotzdem, wo wir waren." },
+    { "s": "B", "t": "Ja, früher war das ganz normal. Aber die Welt hat sich verändert. Ich denke, wichtig ist nicht nur das Alter, sondern dass die Eltern mit den Kindern über Regeln sprechen." },
+    { "s": "A", "t": "Da bin ich ganz Ihrer Meinung. Und die Eltern müssen auch ein gutes Vorbild sein. Wenn ich beim Essen auf mein Handy schaue, kann ich das meinem Sohn nicht verbieten." },
+    { "s": "B", "t": "Das ist ein guter Punkt! Ich muss zugeben, dass ich das auch manchmal mache." },
+    { "s": "A", "t": "Also, ich fasse zusammen: Wir finden beide, dass ein Smartphone für Kinder praktisch sein kann, aber nur mit klaren Regeln. Ich persönlich würde trotzdem bis elf oder zwölf warten." },
+    { "s": "B", "t": "Und ich finde, dass man das bei jedem Kind einzeln entscheiden muss." }
+  ],
+  "phrases": [
+    { "de": "In meinem Text geht es um …", "en": "My text is about …" },
+    { "de": "Auf meinem Blatt äußert sich … zu diesem Thema.", "en": "On my sheet, … gives his/her view on this topic." },
+    { "de": "Er ist der Meinung, dass …", "en": "He is of the opinion that …" },
+    { "de": "Ich verstehe beide Meinungen.", "en": "I understand both opinions." },
+    { "de": "Da stimme ich Ihnen nur teilweise zu.", "en": "I only partly agree with you there." },
+    { "de": "Da bin ich ganz Ihrer Meinung.", "en": "I completely agree with you." },
+    { "de": "Ich muss zugeben, dass …", "en": "I have to admit that …" },
+    { "de": "Wie ist das in …?", "en": "What's it like in …?" },
+    { "de": "Ich fasse zusammen: …", "en": "To sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "jemanden erreichen", "en": "to reach someone (by phone)" },
+    { "de": "beruhigend", "en": "reassuring" },
+    { "de": "der Bildschirm", "en": "screen" },
+    { "de": "die Regel", "en": "rule" },
+    { "de": "das Vorbild", "en": "role model" },
+    { "de": "die Chatgruppe", "en": "group chat" },
+    { "de": "die Kinderuhr", "en": "children's smartwatch (for calls)" },
+    { "de": "streiten über (+ Akk.)", "en": "to argue about" },
+    { "de": "verbieten", "en": "to forbid, to ban" },
+    { "de": "der Schulweg", "en": "the way to school" }
+  ]
+}

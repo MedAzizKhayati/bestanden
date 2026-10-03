@@ -1,0 +1,100 @@
+{
+  "id": "hoeren-1-09",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Ehrenamt – was bringt das?",
+  "topic": "gesellschaft",
+  "difficulty": 3,
+  "speakers": [
+    { "id": "mod", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "gabriele", "name": "Gabriele", "gender": "f", "age": "senior" },
+    { "id": "sven", "name": "Sven", "gender": "m", "age": "adult" },
+    { "id": "melissa", "name": "Melissa", "gender": "f", "age": "young" },
+    { "id": "heinz", "name": "Heinz", "gender": "m", "age": "senior" },
+    { "id": "johanna", "name": "Johanna", "gender": "f", "age": "adult" }
+  ],
+  "intro": [
+    { "s": "mod", "t": "Ohne Ehrenamtliche würde in Deutschland vieles nicht funktionieren, vom Sportverein bis zur Feuerwehr." },
+    { "s": "mod", "t": "Wir wollten von Ihnen wissen: Engagieren Sie sich ehrenamtlich, und was bringt Ihnen das?" }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "script": [
+        { "s": "gabriele", "t": "Seit ich in Rente bin, bin ich Vorlesepatin in unserer Stadtbibliothek. Jeden Dienstagnachmittag sitze ich da mit einer Gruppe von Grundschulkindern und lese ihnen Geschichten vor." },
+        { "s": "gabriele", "t": "Ehrlich gesagt hab ich am Anfang nur mitgemacht, weil mir zu Hause die Decke auf den Kopf gefallen ist." },
+        { "s": "gabriele", "t": "Aber wenn die Kleinen mit großen Augen zuhören und hinterher Fragen stellen, das ist unbezahlbar. Ich bekomme da viel mehr zurück, als ich gebe." }
+      ],
+      "statement": "Die Frau hat das Gefühl, dass sie mehr gibt, als sie zurückbekommt.",
+      "answer": false,
+      "explanation": "It is the other way round: „Ich bekomme da viel mehr zurück, als ich gebe.“ She started out of boredom, but now finds the reading sessions „unbezahlbar“.",
+      "explanationDe": "Es ist umgekehrt: „Ich bekomme da viel mehr zurück, als ich gebe.“ Angefangen hat sie aus Langeweile, aber jetzt findet sie die Vorlesestunden „unbezahlbar“.",
+      "evidence": "Ich bekomme da viel mehr zurück, als ich gebe."
+    },
+    {
+      "n": 2,
+      "script": [
+        { "s": "sven", "t": "Ich bin seit meinem sechzehnten Lebensjahr bei der Freiwilligen Feuerwehr in unserem Dorf. Bei uns gibt es keine Berufsfeuerwehr, also müssen wir das machen." },
+        { "s": "sven", "t": "Klar, wenn um drei Uhr nachts der Alarm kommt und ich am nächsten Morgen arbeiten muss, dann frag ich mich schon manchmal, warum ich mir das antue." },
+        { "s": "sven", "t": "Aber wenn wir dann jemandem helfen konnten, weiß ich wieder, warum. Solange ich gesund bin, mache ich auf jeden Fall weiter." }
+      ],
+      "statement": "Der Mann will wegen der Einsätze in der Nacht bald mit der Feuerwehr aufhören.",
+      "answer": false,
+      "explanation": "Night alarms sometimes make him ask himself why he does it, but he clearly says: „Solange ich gesund bin, mache ich auf jeden Fall weiter.“",
+      "explanationDe": "Wenn nachts der Alarm kommt, fragt er sich manchmal, warum er das macht, aber er sagt ganz klar: „Solange ich gesund bin, mache ich auf jeden Fall weiter.“",
+      "evidence": "Solange ich gesund bin, mache ich auf jeden Fall weiter."
+    },
+    {
+      "n": 3,
+      "script": [
+        { "s": "melissa", "t": "Letztes Jahr hab ich jeden Samstag im Tierheim geholfen, mit den Hunden spazieren gehen, Käfige sauber machen und so weiter. Das hat mir echt viel Spaß gemacht." },
+        { "s": "melissa", "t": "Aber dann kamen die Prüfungen an der Uni, und nebenbei jobbe ich ja noch im Café. Irgendwann ging das einfach nicht mehr." },
+        { "s": "melissa", "t": "Momentan schaffe ich es leider überhaupt nicht. Aber nach dem Bachelor will ich unbedingt wieder hin." }
+      ],
+      "statement": "Die junge Frau hat zurzeit keine Zeit für ihr Ehrenamt im Tierheim.",
+      "answer": true,
+      "explanation": "She helped at the animal shelter „letztes Jahr“. Because of exams and her job „Momentan schaffe ich es leider überhaupt nicht“ – she wants to go back after her bachelor's degree.",
+      "explanationDe": "Im Tierheim hat sie „letztes Jahr“ geholfen. Wegen der Prüfungen und ihres Jobs sagt sie: „Momentan schaffe ich es leider überhaupt nicht“ – nach dem Bachelor will sie wieder hingehen.",
+      "evidence": "Momentan schaffe ich es leider überhaupt nicht."
+    },
+    {
+      "n": 4,
+      "script": [
+        { "s": "heinz", "t": "Ich sag Ihnen ganz ehrlich, ich sehe das kritisch. Ob bei den Tafeln, in Altenheimen oder bei der Hausaufgabenhilfe, überall machen Freiwillige die Arbeit, und zwar unbezahlt." },
+        { "s": "heinz", "t": "Das ist doch eigentlich die Aufgabe vom Staat. Der spart sich das Geld, und die Leute arbeiten umsonst." },
+        { "s": "heinz", "t": "Natürlich helfe ich meiner Nachbarin, wenn sie mal was aus der Apotheke braucht. Aber das ist für mich ganz normal und kein Ehrenamt." }
+      ],
+      "statement": "Der Mann findet es gut, dass viele soziale Aufgaben von Freiwilligen gemacht werden.",
+      "answer": false,
+      "explanation": "He is critical („ich sehe das kritisch“): „Das ist doch eigentlich die Aufgabe vom Staat.“ Helping his neighbour is normal for him, not voluntary work.",
+      "explanationDe": "Er ist kritisch („ich sehe das kritisch“): „Das ist doch eigentlich die Aufgabe vom Staat.“ Seiner Nachbarin zu helfen, ist für ihn normal und kein Ehrenamt.",
+      "evidence": "Das ist doch eigentlich die Aufgabe vom Staat."
+    },
+    {
+      "n": 5,
+      "script": [
+        { "s": "johanna", "t": "Als ich vor drei Jahren nach Dresden gezogen bin, kannte ich hier niemanden. Eine Kollegin hat mich dann mal zur Tafel mitgenommen." },
+        { "s": "johanna", "t": "Dort sortieren wir jeden Freitag Lebensmittel, die die Supermärkte nicht mehr verkaufen, und geben sie an Menschen mit wenig Geld weiter." },
+        { "s": "johanna", "t": "Eigentlich wollte ich nur anderen helfen. Aber inzwischen sind ein paar Leute aus dem Team meine besten Freunde geworden." }
+      ],
+      "statement": "Durch ihr Ehrenamt hat die Frau in der neuen Stadt Freunde gefunden.",
+      "answer": true,
+      "explanation": "She knew nobody in Dresden. Through the food bank „sind ein paar Leute aus dem Team meine besten Freunde geworden“.",
+      "explanationDe": "In Dresden kannte sie niemanden. Durch die Tafel „sind ein paar Leute aus dem Team meine besten Freunde geworden“.",
+      "evidence": "Aber inzwischen sind ein paar Leute aus dem Team meine besten Freunde geworden."
+    }
+  ],
+  "glossary": [
+    { "de": "das Ehrenamt", "en": "voluntary work" },
+    { "de": "sich ehrenamtlich engagieren", "en": "to do voluntary work" },
+    { "de": "die Vorlesepatin", "en": "volunteer who reads aloud to children" },
+    { "de": "Mir fällt die Decke auf den Kopf.", "en": "I'm going stir-crazy (bored at home)." },
+    { "de": "unbezahlbar", "en": "priceless" },
+    { "de": "die Freiwillige Feuerwehr", "en": "volunteer fire brigade" },
+    { "de": "sich etwas antun", "en": "to put yourself through something" },
+    { "de": "das Tierheim", "en": "animal shelter" },
+    { "de": "unbezahlt / umsonst", "en": "unpaid / for free" },
+    { "de": "die Tafel", "en": "food bank" },
+    { "de": "der Einsatz", "en": "call-out, operation" }
+  ]
+}

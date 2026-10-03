@@ -1,0 +1,254 @@
+{
+  "id": "komparation",
+  "level": "A2",
+  "category": "adjektive",
+  "order": 2,
+  "title": "Komparativ und Superlativ",
+  "titleEn": "Comparatives and superlatives",
+  "summary": "How to compare: schneller als, so schnell wie, am schnellsten – including the irregular forms of gut, viel, gern and hoch.",
+  "summaryDe": "So vergleichst du: schneller als, so schnell wie, am schnellsten – mit den unregelmäßigen Formen von gut, viel, gern und hoch.",
+  "examRelevance": ["sprachbausteine", "sprechen", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**Comparative** = adjective + **-er**, followed by **„als“**: „Der Zug ist **schneller als** der Bus.“ **Superlative** = **„am“** + adjective + **-sten**: „Das Flugzeug ist **am schnellsten**.“ For things that are equal, use **„so … wie“**: „Der Bus ist **so schnell wie** das Auto.“",
+      "mdDe": "**Komparativ** = Adjektiv + **-er**, danach **„als“**: „Der Zug ist **schneller als** der Bus.“ **Superlativ** = **„am“** + Adjektiv + **-sten**: „Das Flugzeug ist **am schnellsten**.“ Wenn zwei Dinge gleich sind, nimm **„so … wie“**: „Der Bus ist **so schnell wie** das Auto.“"
+    },
+    {
+      "type": "text",
+      "heading": "How to form the comparative and superlative",
+      "headingDe": "So bildest du Komparativ und Superlativ",
+      "md": "- Most adjectives simply add **-er** and **-sten**: „klein – kleiner – am kleinsten“.\n- Many short adjectives with **a, o, u** take an umlaut: „alt – **älter**“, „groß – **größer**“, „jung – **jünger**“. The same is true for kalt, warm, lang, kurz, arm, stark.\n- Adjectives ending in **-t, -d, -s, -ß, -sch, -z** usually add **-e-** in the superlative: „am ältesten“, „am heißesten“, „am kürzesten“, „am interessantesten“ (but: „am größten“).\n- Adjectives ending in **-el** drop the e in the comparative: „dunkel – dunkler“. So do adjectives ending in **-er** after au/eu: „teuer – teurer“, „sauer – saurer“ (but: „sauber – sauberer“).\n- „mehr“ and „weniger“ never take an ending: „Ich habe **mehr** Zeit als du.“",
+      "mdDe": "- Die meisten Adjektive bekommen einfach **-er** und **-sten**: „klein – kleiner – am kleinsten“.\n- Viele kurze Adjektive mit **a, o, u** bekommen einen Umlaut: „alt – **älter**“, „groß – **größer**“, „jung – **jünger**“. Das gilt auch für kalt, warm, lang, kurz, arm, stark.\n- Adjektive auf **-t, -d, -s, -ß, -sch, -z** bekommen im Superlativ meistens ein **-e-**: „am ältesten“, „am heißesten“, „am kürzesten“, „am interessantesten“ (aber: „am größten“).\n- Bei Adjektiven auf **-el** fällt im Komparativ das e weg: „dunkel – dunkler“. Das gilt auch für Adjektive auf **-er** nach au/eu: „teuer – teurer“, „sauer – saurer“ (aber: „sauber – sauberer“).\n- „mehr“ und „weniger“ bekommen nie eine Endung: „Ich habe **mehr** Zeit als du.“"
+    },
+    {
+      "type": "table",
+      "heading": "Regular forms",
+      "headingDe": "Regelmäßige Formen",
+      "columns": ["Grundform", "Komparativ", "Superlativ", "Pattern"],
+      "columnsDe": ["Grundform", "Komparativ", "Superlativ", "Bildung"],
+      "rows": [
+        ["klein", "kleiner", "am kleinsten", "regular"],
+        ["schnell", "schneller", "am schnellsten", "regular"],
+        ["alt", "älter", "am ältesten", "umlaut + -esten"],
+        ["jung", "jünger", "am jüngsten", "umlaut"],
+        ["warm", "wärmer", "am wärmsten", "umlaut"],
+        ["kurz", "kürzer", "am kürzesten", "umlaut + -esten"],
+        ["heiß", "heißer", "am heißesten", "-esten"],
+        ["interessant", "interessanter", "am interessantesten", "-esten"],
+        ["teuer", "teurer", "am teuersten", "comparative drops the e"],
+        ["dunkel", "dunkler", "am dunkelsten", "comparative drops the e"]
+      ],
+      "rowsDe": [
+        ["klein", "kleiner", "am kleinsten", "regelmäßig"],
+        ["schnell", "schneller", "am schnellsten", "regelmäßig"],
+        ["alt", "älter", "am ältesten", "Umlaut + -esten"],
+        ["jung", "jünger", "am jüngsten", "Umlaut"],
+        ["warm", "wärmer", "am wärmsten", "Umlaut"],
+        ["kurz", "kürzer", "am kürzesten", "Umlaut + -esten"],
+        ["heiß", "heißer", "am heißesten", "-esten"],
+        ["interessant", "interessanter", "am interessantesten", "-esten"],
+        ["teuer", "teurer", "am teuersten", "e fällt im Komparativ weg"],
+        ["dunkel", "dunkler", "am dunkelsten", "e fällt im Komparativ weg"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Irregular forms you must know",
+      "headingDe": "Unregelmäßige Formen, die du kennen musst",
+      "columns": ["Grundform", "Komparativ", "Superlativ", "English"],
+      "columnsDe": ["Grundform", "Komparativ", "Superlativ", "Bedeutung"],
+      "rows": [
+        ["gut", "besser", "am besten", "good – better – best"],
+        ["viel", "mehr", "am meisten", "much/many – more – most"],
+        ["gern", "lieber", "am liebsten", "like (doing) – prefer – like most"],
+        ["hoch", "höher", "am höchsten", "high – higher – highest"],
+        ["nah", "näher", "am nächsten", "near – nearer – nearest"],
+        ["groß", "größer", "am größten", "big – bigger – biggest"]
+      ],
+      "rowsDe": [
+        ["gut", "besser", "am besten", "Qualität (≠ schlecht)"],
+        ["viel", "mehr", "am meisten", "Menge (≠ wenig)"],
+        ["gern", "lieber", "am liebsten", "Vorliebe (≠ ungern)"],
+        ["hoch", "höher", "am höchsten", "Höhe (≠ niedrig)"],
+        ["nah", "näher", "am nächsten", "Entfernung (≠ weit)"],
+        ["groß", "größer", "am größten", "Größe (≠ klein)"]
+      ],
+      "note": "Before a noun, „hoch“ loses the c: „ein hoher Berg“, „ein höherer Berg“ – in the superlative it comes back: „der höchste Berg“.",
+      "noteDe": "Vor einem Nomen verliert „hoch“ das c: „ein hoher Berg“, „ein höherer Berg“ – im Superlativ ist es wieder da: „der höchste Berg“."
+    },
+    {
+      "type": "text",
+      "heading": "Comparing: als, wie, immer, je … desto",
+      "headingDe": "Vergleichen: als, wie, immer, je … desto",
+      "md": "- **Different:** comparative + **als**: „Mein Bruder ist **älter als** ich.“\n- **The same (or not the same):** **(genau)so** + basic form + **wie**: „Leipzig ist **nicht so teuer wie** München.“\n- **More and more:** **immer** + comparative: „Die Mieten werden **immer teurer**.“\n- **The more …, the more …:** **je** + comparative (verb at the end), **desto** + comparative (verb follows directly): „**Je länger** ich in Deutschland lebe, **desto besser** verstehe ich die Leute.“",
+      "mdDe": "- **Verschieden:** Komparativ + **als**: „Mein Bruder ist **älter als** ich.“\n- **Gleich (oder nicht gleich):** **(genau)so** + Grundform + **wie**: „Leipzig ist **nicht so teuer wie** München.“\n- **Immer mehr:** **immer** + Komparativ: „Die Mieten werden **immer teurer**.“\n- **Je mehr …, desto mehr …:** **je** + Komparativ (Verb am Ende), **desto** + Komparativ (Verb folgt direkt): „**Je länger** ich in Deutschland lebe, **desto besser** verstehe ich die Leute.“"
+    },
+    {
+      "type": "text",
+      "heading": "Before a noun",
+      "headingDe": "Vor einem Nomen",
+      "md": "Before a noun, comparatives and superlatives take the normal adjective endings: „ein **schnelleres** Auto“, „die **beste** Lösung“, „in der **größten** Stadt“. With a noun the superlative uses the article, **not** „am“: „Das ist **der höchste** Berg.“ After the verb both are possible: „Dieser Berg ist **am höchsten**.“ / „Dieser Berg ist **der höchste**.“",
+      "mdDe": "Vor einem Nomen bekommen Komparativ und Superlativ die normalen Adjektivendungen: „ein **schnelleres** Auto“, „die **beste** Lösung“, „in der **größten** Stadt“. Mit einem Nomen steht beim Superlativ der Artikel, **nicht** „am“: „Das ist **der höchste** Berg.“ Nach dem Verb geht beides: „Dieser Berg ist **am höchsten**.“ / „Dieser Berg ist **der höchste**.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Im Sommer ist es in Graz **wärmer als** in Hamburg.", "en": "In summer it is warmer in Graz than in Hamburg." },
+        { "de": "Mit dem Zug bist du **genauso schnell wie** mit dem Auto.", "en": "You are just as fast by train as by car." },
+        { "de": "Meine Wohnung ist **nicht so groß wie** deine.", "en": "My flat is not as big as yours." },
+        { "de": "Ich trinke **lieber** Tee **als** Kaffee.", "en": "I prefer tea to coffee." },
+        { "de": "Am Wochenende schlafe ich **am liebsten** lange.", "en": "At the weekend, what I like best is sleeping in." },
+        { "de": "Das ist **die beste** Pizza in der ganzen Stadt.", "en": "That is the best pizza in the whole town." },
+        { "de": "Wir suchen eine **größere** Wohnung.", "en": "We are looking for a bigger flat." },
+        { "de": "Die Preise werden **immer höher**.", "en": "Prices are getting higher and higher." },
+        { "de": "**Je öfter** du sprichst, **desto sicherer** wirst du.", "en": "The more often you speak, the more confident you become." },
+        { "de": "Welcher Weg ist **am kürzesten**?", "en": "Which way is the shortest?" }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "Never say „mehr schnell“ or „mehr gut“ – German adds -er to the adjective itself, even to long words: „**interessanter**“, „**komplizierter**“. And don't mix up the comparison words: „größer **als**“, but „so groß **wie**“. In everyday speech you may hear „größer wie“ – in the exam it is wrong.",
+      "mdDe": "Sag nie „mehr schnell“ oder „mehr gut“ – im Deutschen kommt -er direkt an das Adjektiv, auch bei langen Wörtern: „**interessanter**“, „**komplizierter**“. Und verwechsle die Vergleichswörter nicht: „größer **als**“, aber „so groß **wie**“. In der Umgangssprache hörst du manchmal „größer wie“ – in der Prüfung ist das falsch."
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 1:** the classic choice is **„als“ or „wie“** – comparative + „als“, „so … wie“ for equality. Also watch out for irregular forms: the comparative of „gut“ is „besser“ (not „guter“), and of „gern“ it is „lieber“ (not „gerner“). In **Teil 2**, „als“, „wie“, „mehr“ or „lieber“ can be words in the box.\n\n**Sprechen Teil 2** asks how things are in your home country – comparisons are the perfect tool: „In meinem Heimatland ist das Wohnen **günstiger als** hier, aber die Gehälter sind **nicht so hoch wie** in Deutschland.“ In **Sprechen Teil 3** and in **Schreiben**, use „lieber“ for polite counter-proposals: „Ich würde **lieber** am Samstag fahren, weil es dann **billiger** ist.“",
+      "mdDe": "**Sprachbausteine Teil 1:** Die klassische Frage ist **„als“ oder „wie“** – Komparativ + „als“, „so … wie“ bei Gleichheit. Achte auch auf unregelmäßige Formen: Der Komparativ von „gut“ ist „besser“ (nicht „guter“), der von „gern“ ist „lieber“ (nicht „gerner“). In **Teil 2** können „als“, „wie“, „mehr“ oder „lieber“ Wörter im Kasten sein.\n\nIn **Sprechen Teil 2** geht es darum, wie die Dinge in deinem Heimatland sind – Vergleiche sind dafür perfekt: „In meinem Heimatland ist das Wohnen **günstiger als** hier, aber die Gehälter sind **nicht so hoch wie** in Deutschland.“ In **Sprechen Teil 3** und im **Schreiben** nimmst du „lieber“ für höfliche Gegenvorschläge: „Ich würde **lieber** am Samstag fahren, weil es dann **billiger** ist.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Mein Bruder ist mehr alt als ich.",
+      "right": "Mein Bruder ist älter als ich.",
+      "why": "German forms the comparative with -er (plus umlaut in many short adjectives), never with „mehr“.",
+      "whyDe": "Im Deutschen bildest du den Komparativ mit -er (bei vielen kurzen Adjektiven mit Umlaut), nie mit „mehr“."
+    },
+    {
+      "wrong": "Berlin ist größer wie Hamburg.",
+      "right": "Berlin ist größer als Hamburg.",
+      "why": "After a comparative you need „als“. „wie“ is only used with „so“ or „genauso“: „so groß wie“.",
+      "whyDe": "Nach einem Komparativ brauchst du „als“. „wie“ steht nur nach „so“ oder „genauso“: „so groß wie“."
+    },
+    {
+      "wrong": "Ich trinke gerner Kaffee.",
+      "right": "Ich trinke lieber Kaffee.",
+      "why": "„gern“ is irregular: gern – lieber – am liebsten.",
+      "whyDe": "„gern“ ist unregelmäßig: gern – lieber – am liebsten."
+    },
+    {
+      "wrong": "Das ist das am besten Restaurant in Basel.",
+      "right": "Das ist das beste Restaurant in Basel.",
+      "why": "Before a noun the superlative takes the article and an adjective ending – no „am“.",
+      "whyDe": "Vor einem Nomen hat der Superlativ einen Artikel und eine Adjektivendung – kein „am“."
+    },
+    {
+      "wrong": "Heute ist es so kalt als gestern.",
+      "right": "Heute ist es so kalt wie gestern.",
+      "why": "For equality the pattern is „so … wie“.",
+      "whyDe": "Bei Gleichheit heißt das Muster „so … wie“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Der neue Laptop ist viel leichter ___ der alte.",
+      "options": ["als", "wie", "dann"],
+      "answer": 0,
+      "explanation": "„leichter“ is a comparative, so the comparison word is „als“. „wie“ only follows „so“ or „genauso“.",
+      "explanationDe": "„leichter“ ist ein Komparativ, also ist das Vergleichswort „als“. „wie“ steht nur nach „so“ oder „genauso“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Sport im Verein macht mir genauso viel Spaß ___ Joggen im Park.",
+      "options": ["als", "wie", "so"],
+      "answer": 1,
+      "explanation": "„genauso viel … wie“ expresses equality. „als“ would need a comparative („mehr Spaß als“).",
+      "explanationDe": "„genauso viel … wie“ drückt Gleichheit aus. Für „als“ bräuchtest du einen Komparativ („mehr Spaß als“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Von allen Kollegen spricht Frau Kaya ___ Englisch.",
+      "options": ["am besten", "besser", "beste"],
+      "answer": 0,
+      "explanation": "„Von allen Kollegen“ means she is number one in the group, so you need the superlative. Here it describes how she speaks (not a noun), so the form is „am besten“. „besser“ would need „als“.",
+      "explanationDe": "„Von allen Kollegen“ bedeutet: Sie ist die Nummer eins in der Gruppe. Du brauchst also den Superlativ. Hier beschreibt er, wie sie spricht (kein Nomen), deshalb heißt die Form „am besten“. Für „besser“ bräuchtest du „als“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Im Dezember sind die Flüge nach Teneriffa ___ als im November.",
+      "options": ["teuer", "teuerer", "teurer"],
+      "answer": 2,
+      "explanation": "„als“ needs a comparative. „teuer“ drops the e: „teuer – teurer“ (not „teuerer“).",
+      "explanationDe": "„als“ braucht einen Komparativ. Bei „teuer“ fällt das e weg: „teuer – teurer“ (nicht „teuerer“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Heute ist es viel ___ als gestern.",
+      "hint": "(warm)",
+      "answers": ["wärmer"],
+      "explanation": "Comparative with „als“; the short adjective „warm“ takes an umlaut: „wärmer“.",
+      "explanationDe": "Komparativ mit „als“; das kurze Adjektiv „warm“ bekommt einen Umlaut: „wärmer“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich gehe ___ ins Kino als ins Theater.",
+      "hint": "(gern)",
+      "answers": ["lieber"],
+      "explanation": "„gern“ has an irregular comparative: „lieber“ (= I prefer the cinema).",
+      "explanationDe": "„gern“ hat einen unregelmäßigen Komparativ: „lieber“ (= Ich mag das Kino mehr als das Theater)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Mount Everest ist der ___ Berg der Welt.",
+      "hint": "(hoch)",
+      "answers": ["höchste"],
+      "explanation": "Superlative before a noun: article + superlative + ending. „hoch – höher – höchst-“; masculine nominative after „der“ → „der höchste Berg“.",
+      "explanationDe": "Superlativ vor einem Nomen: Artikel + Superlativ + Endung. „hoch – höher – höchst-“; maskulin, Nominativ nach „der“ → „der höchste Berg“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir brauchen eine ___ Wohnung, weil wir bald ein Baby bekommen.",
+      "hint": "(groß)",
+      "answers": ["größere"],
+      "explanation": "Comparative „größer“ + the normal adjective ending: feminine accusative after „eine“ → „eine größere Wohnung“.",
+      "explanationDe": "Komparativ „größer“ + die normale Adjektivendung: feminin, Akkusativ nach „eine“ → „eine größere Wohnung“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Welcher Bus fährt am ___ zum Flughafen?",
+      "hint": "(schnell)",
+      "answers": ["schnellsten"],
+      "explanation": "Superlative after the verb: „am“ + adjective + „-sten“ → „am schnellsten“.",
+      "explanationDe": "Superlativ nach dem Verb: „am“ + Adjektiv + „-sten“ → „am schnellsten“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Compare the two things with the comparative of „teuer“ and „als“.",
+      "instructionDe": "Vergleiche die beiden Dinge mit dem Komparativ von „teuer“ und „als“.",
+      "prompt": "Das Fahrrad kostet 300 Euro, der Roller kostet 900 Euro.",
+      "answers": ["Der Roller ist teurer als das Fahrrad."],
+      "explanation": "„teuer“ drops its e in the comparative: „teurer“. The thing you compare with comes after „als“.",
+      "explanationDe": "Bei „teuer“ fällt im Komparativ das e weg: „teurer“. Das, womit du vergleichst, steht nach „als“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Say that both people are equally tall. Use „genauso … wie“.",
+      "instructionDe": "Sag, dass beide Personen gleich groß sind. Benutze „genauso … wie“.",
+      "prompt": "Paul ist 1,80 Meter groß. Sein Vater ist auch 1,80 Meter groß.",
+      "answers": ["Paul ist genauso groß wie sein Vater.", "Sein Vater ist genauso groß wie Paul."],
+      "explanation": "For equality you use the basic form of the adjective between „genauso“ and „wie“: „genauso groß wie“.",
+      "explanationDe": "Bei Gleichheit steht die Grundform des Adjektivs zwischen „genauso“ und „wie“: „genauso groß wie“."
+    },
+    {
+      "type": "order",
+      "words": ["desto", "ich", "Deutsch.", "Je", "spreche", "übe,", "besser", "mehr", "ich"],
+      "answers": ["Je mehr ich übe, desto besser spreche ich Deutsch."],
+      "explanation": "„Je“ + comparative starts a subordinate clause, so its verb goes to the end („ich übe“). After „desto“ + comparative the verb comes directly: „desto besser spreche ich“.",
+      "explanationDe": "„Je“ + Komparativ leitet einen Nebensatz ein, deshalb steht sein Verb am Ende („ich übe“). Nach „desto“ + Komparativ kommt direkt das Verb: „desto besser spreche ich“."
+    }
+  ],
+  "related": ["adjektivdeklination", "zweiteilige-konnektoren"]
+}

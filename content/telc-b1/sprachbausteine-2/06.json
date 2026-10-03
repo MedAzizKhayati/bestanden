@@ -1,0 +1,117 @@
+{
+  "id": "sprachbausteine-2-06",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Bewerbung in der Buchhandlung",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "stimulus": {
+    "heading": "Buchhandlung Seitenwind, Münster – Aushilfe gesucht (m/w/d)",
+    "lines": [
+      "für Samstage und die Weihnachtszeit, ca. 10 Stunden pro Woche",
+      "Ihre Aufgaben: Kundenberatung, Kasse, Bestellungen",
+      "Sie lieben Bücher und sind freundlich und zuverlässig?",
+      "Erfahrung im Verkauf ist von Vorteil.",
+      "Bewerbungen bitte per E-Mail an Frau Hoffmann"
+    ]
+  },
+  "text": "Sehr geehrte Frau Hoffmann,\n\nmit großem Interesse habe ich Ihre Anzeige gelesen und möchte mich [[1]] die Stelle als Aushilfe bewerben.\n\nMein Name ist Elena Petrova, ich bin 23 Jahre alt und studiere im vierten [[2]] Germanistik an der Universität Münster. Bücher sind schon immer meine große Leidenschaft. Ich lese sehr viel und kann Kunden deshalb gut [[3]].\n\nAuch Erfahrung im Verkauf habe ich schon: Während der Schulzeit hatte ich einen [[4]] in einem Schuhgeschäft. Dort habe ich auch oft an der Kasse gearbeitet. Meine damalige Chefin war mit meiner Arbeit immer sehr [[5]].\n\nSamstags habe ich keine Vorlesungen, [[6]] kann ich problemlos an allen Samstagen arbeiten. In den Weihnachtsferien hätte ich sogar Zeit, auch [[7]] der Woche zu arbeiten.\n\nIch bin freundlich und zuverlässig und arbeite gern im [[8]]. Im [[9]] finden Sie meinen Lebenslauf und ein Arbeitszeugnis aus dem Schuhgeschäft.\n\nÜber eine Einladung zu einem [[10]] würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nElena Petrova",
+  "words": [
+    { "key": "a", "text": "Anhang" },
+    { "key": "b", "text": "Ausbildung" },
+    { "key": "c", "text": "bei" },
+    { "key": "d", "text": "beraten" },
+    { "key": "e", "text": "Bewerbung" },
+    { "key": "f", "text": "daher" },
+    { "key": "g", "text": "Nebenjob" },
+    { "key": "h", "text": "Semester" },
+    { "key": "i", "text": "stolz" },
+    { "key": "j", "text": "Team" },
+    { "key": "k", "text": "trotzdem" },
+    { "key": "l", "text": "um" },
+    { "key": "m", "text": "unter" },
+    { "key": "n", "text": "Vorstellungsgespräch" },
+    { "key": "o", "text": "zufrieden" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "l",
+      "explanation": "„sich um eine Stelle bewerben“ means „to apply for a job“. „bei“ is used for the company („sich bei einer Firma bewerben“) and would need the dative.",
+      "explanationDe": "„sich um eine Stelle bewerben“ bedeutet: schriftlich um eine Arbeitsstelle bitten. „bei“ benutzt man für die Firma („sich bei einer Firma bewerben“), und danach stünde der Dativ.",
+      "grammar": "verben-mit-praepositionen"
+    },
+    {
+      "n": 2,
+      "answer": "h",
+      "explanation": "„im vierten Semester studieren“ – students count their time at university in semesters.",
+      "explanationDe": "„im vierten Semester studieren“ – Studierende zählen ihre Zeit an der Universität in Semestern."
+    },
+    {
+      "n": 3,
+      "answer": "d",
+      "explanation": "„jemanden beraten“ means „to advise someone“: „kann Kunden deshalb gut beraten“. This matches the task „Kundenberatung“ in the ad.",
+      "explanationDe": "„jemanden beraten“ (= jemandem Tipps und Informationen geben): „kann Kunden deshalb gut beraten“. Das passt zur Aufgabe „Kundenberatung“ in der Anzeige."
+    },
+    {
+      "n": 4,
+      "answer": "g",
+      "explanation": "„einen“ needs a masculine noun: „einen Nebenjob“ (a part-time job next to school). „Ausbildung“ is feminine („eine Ausbildung“), so it does not fit.",
+      "explanationDe": "Nach „einen“ braucht man ein maskulines Nomen: „einen Nebenjob“ (= eine Arbeit neben der Schule). „Ausbildung“ ist feminin („eine Ausbildung“) und passt deshalb nicht.",
+      "grammar": "kasus-und-artikel"
+    },
+    {
+      "n": 5,
+      "answer": "o",
+      "explanation": "„mit etwas zufrieden sein“ means „to be satisfied with something“. „stolz“ goes with „auf“ („stolz auf meine Arbeit“).",
+      "explanationDe": "„mit etwas zufrieden sein“ bedeutet: etwas gut finden. „stolz“ steht mit „auf“ („stolz auf meine Arbeit“).",
+      "grammar": "adjektive-mit-praepositionen"
+    },
+    {
+      "n": 6,
+      "answer": "f",
+      "explanation": "She has no lectures on Saturdays, so as a consequence she can work then: „daher kann ich … arbeiten“ (verb directly after „daher“). „trotzdem“ (nevertheless) gives the wrong logic.",
+      "explanationDe": "Samstags hat sie keine Vorlesungen; als Folge davon kann sie an diesen Tagen arbeiten: „daher kann ich … arbeiten“ (Verb direkt nach „daher“). „trotzdem“ (= dennoch) ergibt die falsche Logik.",
+      "grammar": "verbindungsadverbien"
+    },
+    {
+      "n": 7,
+      "answer": "m",
+      "explanation": "„unter der Woche“ (on weekdays, Monday to Friday) is a fixed expression.",
+      "explanationDe": "„unter der Woche“ (= an Werktagen, von Montag bis Freitag) ist eine feste Wendung.",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 8,
+      "answer": "j",
+      "explanation": "„gern im Team arbeiten“ (to like working in a team) is a typical phrase in job applications.",
+      "explanationDe": "„gern im Team arbeiten“ (= gern mit anderen zusammenarbeiten) ist eine typische Wendung in Bewerbungen."
+    },
+    {
+      "n": 9,
+      "answer": "a",
+      "explanation": "„im Anhang“ means „in the attachment“ of an e-mail: „Im Anhang finden Sie meinen Lebenslauf …“.",
+      "explanationDe": "„im Anhang“ (= als Datei mit der E-Mail mitgeschickt): „Im Anhang finden Sie meinen Lebenslauf …“."
+    },
+    {
+      "n": 10,
+      "answer": "n",
+      "explanation": "„eine Einladung zu einem Vorstellungsgespräch“ is an invitation to a job interview. „Bewerbung“ is feminine and cannot follow „zu einem“ – and she is sending her application right now.",
+      "explanationDe": "„eine Einladung zu einem Vorstellungsgespräch“ bedeutet: Die Firma möchte die Bewerberin persönlich kennenlernen. „Bewerbung“ ist feminin und kann nicht nach „zu einem“ stehen – und ihre Bewerbung schickt sie ja gerade ab.",
+      "grammar": "kasus-und-artikel"
+    }
+  ],
+  "glossary": [
+    { "de": "die Aushilfe", "en": "temporary / part-time helper" },
+    { "de": "sich um eine Stelle bewerben", "en": "to apply for a job" },
+    { "de": "jemanden beraten", "en": "to advise someone" },
+    { "de": "der Nebenjob", "en": "part-time job (next to school or university)" },
+    { "de": "mit etwas zufrieden sein", "en": "to be satisfied with something" },
+    { "de": "unter der Woche", "en": "on weekdays" },
+    { "de": "im Anhang", "en": "in the attachment" },
+    { "de": "der Lebenslauf", "en": "CV" },
+    { "de": "das Arbeitszeugnis", "en": "written reference from an employer" },
+    { "de": "das Vorstellungsgespräch", "en": "job interview" }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "infinitiv-mit-zu",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 12,
+  "title": "Infinitiv mit zu (auch ohne … zu, statt … zu)",
+  "titleEn": "Infinitive with zu",
+  "summary": "Add a second action with zu + infinitive after verbs like vergessen, nouns like Lust and phrases like „Es ist wichtig“ – and say what someone doesn't do with ohne … zu and statt … zu.",
+  "summaryDe": "So hängst du mit zu + Infinitiv eine zweite Handlung an – nach Verben wie vergessen, Nomen wie Lust und Ausdrücken wie „Es ist wichtig“. Mit ohne … zu und statt … zu sagst du, was jemand nicht tut.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "After many verbs (vergessen, versuchen, vorhaben …), nouns (Lust, Zeit, Angst …) and phrases like „Es ist wichtig“, a second action is added in an infinitive clause with **zu + infinitive at the end**: Ich habe vergessen, dich **anzurufen**. The infinitive clause has **no subject** of its own.",
+      "mdDe": "Nach vielen Verben (vergessen, versuchen, vorhaben …), Nomen (Lust, Zeit, Angst …) und Ausdrücken wie „Es ist wichtig“ folgt eine zweite Handlung als Infinitivsatz mit **zu + Infinitiv am Ende**: Ich habe vergessen, dich **anzurufen**. Der Infinitivsatz hat **kein eigenes Subjekt**."
+    },
+    {
+      "type": "text",
+      "heading": "When do you use zu + infinitive?",
+      "headingDe": "Wann brauchst du zu + Infinitiv?",
+      "md": "The infinitive clause has no subject – it refers to a person in the main clause: Ich habe vergessen, die Blumen **zu gießen**. (I forgot – and I didn't water them.)\n\nTypical triggers:\n\n- **Verbs:** anfangen, aufhören, beginnen, vergessen, versuchen, vorhaben, planen, hoffen, beschließen, bitten, empfehlen, erlauben, vorschlagen, sich freuen\n- **Nouns:** Lust haben, Zeit haben, Angst haben, die Möglichkeit haben, die Absicht haben\n- **Es ist + adjective:** Es ist wichtig / schwer / leicht / schön / verboten, …\n\n**Comma:** Put a comma before the infinitive clause. With **um, ohne** and **statt** it is required, and in most other cases it is at least allowed. Exception: no comma after **brauchen** – Du brauchst nicht zu kommen.",
+      "mdDe": "Der Infinitivsatz hat kein Subjekt – er bezieht sich auf eine Person im Hauptsatz: Ich habe vergessen, die Blumen **zu gießen**. (Ich habe es vergessen – und die Blumen nicht gegossen.)\n\nTypische Auslöser:\n\n- **Verben:** anfangen, aufhören, beginnen, vergessen, versuchen, vorhaben, planen, hoffen, beschließen, bitten, empfehlen, erlauben, vorschlagen, sich freuen\n- **Nomen:** Lust haben, Zeit haben, Angst haben, die Möglichkeit haben, die Absicht haben\n- **Es ist + Adjektiv:** Es ist wichtig / schwer / leicht / schön / verboten, …\n\n**Komma:** Setz vor den Infinitivsatz ein Komma. Bei **um, ohne** und **statt** ist es Pflicht, in den meisten anderen Fällen ist es zumindest erlaubt. Ausnahme: kein Komma nach **brauchen** – Du brauchst nicht zu kommen."
+    },
+    {
+      "type": "table",
+      "heading": "Where does zu go?",
+      "headingDe": "Wo steht zu?",
+      "columns": ["Verb type", "Infinitive", "With zu", "Example"],
+      "columnsDe": ["Verbtyp", "Infinitiv", "Mit zu", "Beispiel"],
+      "rows": [
+        ["normal verb", "lernen", "zu lernen", "Ich versuche, jeden Tag zehn Wörter zu lernen."],
+        ["separable verb", "anrufen", "anzurufen", "Vergiss nicht, Oma anzurufen!"],
+        ["separable verb", "einkaufen", "einzukaufen", "Ich habe heute keine Zeit, einzukaufen."],
+        ["inseparable verb", "besuchen", "zu besuchen", "Wir haben vor, dich im Mai zu besuchen."],
+        ["reflexive verb", "sich bewerben", "sich zu bewerben", "Er hat beschlossen, sich bei einer Bank zu bewerben."],
+        ["with a modal verb", "kommen können", "kommen zu können", "Ich hoffe, morgen kommen zu können."]
+      ],
+      "rowsDe": [
+        ["normales Verb", "lernen", "zu lernen", "Ich versuche, jeden Tag zehn Wörter zu lernen."],
+        ["trennbares Verb", "anrufen", "anzurufen", "Vergiss nicht, Oma anzurufen!"],
+        ["trennbares Verb", "einkaufen", "einzukaufen", "Ich habe heute keine Zeit, einzukaufen."],
+        ["untrennbares Verb", "besuchen", "zu besuchen", "Wir haben vor, dich im Mai zu besuchen."],
+        ["reflexives Verb", "sich bewerben", "sich zu bewerben", "Er hat beschlossen, sich bei einer Bank zu bewerben."],
+        ["mit Modalverb", "kommen können", "kommen zu können", "Ich hoffe, morgen kommen zu können."]
+      ],
+      "note": "With separable verbs, zu goes between the prefix and the verb, and everything is written as one word: anzufangen, mitzunehmen, aufzuräumen.",
+      "noteDe": "Bei trennbaren Verben steht zu zwischen Präfix und Verb, und alles wird zusammengeschrieben: anzufangen, mitzunehmen, aufzuräumen."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich habe vergessen, die Heizung **auszumachen**.", "en": "I forgot to turn off the heating." },
+        { "de": "Hast du Lust, am Wochenende mit uns **wandern zu gehen**?", "en": "Do you feel like going hiking with us at the weekend?" },
+        { "de": "Es ist nicht leicht, eine günstige Wohnung **zu finden**.", "en": "It isn't easy to find an affordable flat." },
+        { "de": "Wir haben vor, im Herbst nach Wien **umzuziehen**.", "en": "We're planning to move to Vienna in the autumn." },
+        { "de": "Der Arzt hat mir empfohlen, mehr Sport **zu machen**.", "en": "The doctor advised me to do more sport." },
+        { "de": "Sie ist aus dem Haus gegangen, **ohne** die Tür **abzuschließen**.", "en": "She left the house without locking the door." },
+        { "de": "**Statt** mit dem Auto **zu fahren**, nehme ich jetzt das Fahrrad.", "en": "Instead of driving, I now take the bike." },
+        { "de": "Ich würde mich freuen, Sie bald persönlich **kennenzulernen**.", "en": "I would be glad to meet you in person soon." },
+        { "de": "Du **brauchst** morgen **nicht** früh **aufzustehen**.", "en": "You don't need to get up early tomorrow." },
+        { "de": "Bitte denken Sie daran, Ihren Ausweis **mitzubringen**.", "en": "Please remember to bring your ID." }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "ohne … zu and (an)statt … zu",
+      "headingDe": "ohne … zu und (an)statt … zu",
+      "md": "Two infinitive clauses start with a conjunction:\n\n- **ohne … zu** = without doing something: Er ist gegangen, **ohne** sich **zu verabschieden**.\n- **(an)statt … zu** = instead of doing something: **Statt** für die Prüfung **zu lernen**, hat sie den ganzen Abend gechattet.\n\nThey work like **um … zu** (see final clauses): the conjunction starts the clause, zu + infinitive goes to the end, and both parts must have the **same subject**. If the subjects are different, use a dass-clause: Er ist gegangen, **ohne dass** wir es gemerkt haben.",
+      "mdDe": "Zwei Infinitivsätze beginnen mit einer Konjunktion:\n\n- **ohne … zu** = etwas nicht tun: Er ist gegangen, **ohne** sich **zu verabschieden**.\n- **(an)statt … zu** = eine Sache anstelle einer anderen tun: **Statt** für die Prüfung **zu lernen**, hat sie den ganzen Abend gechattet.\n\nSie funktionieren wie **um … zu** (siehe Finalsätze): Die Konjunktion steht am Anfang, zu + Infinitiv am Ende, und beide Teile müssen das **gleiche Subjekt** haben. Wenn die Subjekte verschieden sind, nimm einen dass-Satz: Er ist gegangen, **ohne dass** wir es gemerkt haben."
+    },
+    {
+      "type": "text",
+      "heading": "zu-infinitive or dass-clause?",
+      "headingDe": "zu-Infinitiv oder dass-Satz?",
+      "md": "With the same subject, both are often possible – the infinitive is shorter and sounds better:\n\n- Ich hoffe, **dass ich** die Prüfung **bestehe**. = Ich hoffe, die Prüfung **zu bestehen**.\n\nWith different subjects you need **dass**:\n\n- Ich hoffe, **dass du** die Prüfung **bestehst**.\n\n**No zu** after modal verbs (können, müssen, wollen …), after **werden** and **lassen**, and after **gehen, fahren, kommen, sehen, hören**: Ich **kann** gut **schwimmen**. Wir **gehen** heute Abend **essen**. Ich **lasse** mein Auto **reparieren**.",
+      "mdDe": "Bei gleichem Subjekt geht oft beides – der Infinitiv ist kürzer und klingt besser:\n\n- Ich hoffe, **dass ich** die Prüfung **bestehe**. = Ich hoffe, die Prüfung **zu bestehen**.\n\nBei verschiedenen Subjekten brauchst du **dass**:\n\n- Ich hoffe, **dass du** die Prüfung **bestehst**.\n\n**Kein zu** nach Modalverben (können, müssen, wollen …), nach **werden** und **lassen** und nach **gehen, fahren, kommen, sehen, hören**: Ich **kann** gut **schwimmen**. Wir **gehen** heute Abend **essen**. Ich **lasse** mein Auto **reparieren**."
+    },
+    {
+      "type": "warning",
+      "md": "Two classic traps:\n\n- **No zu after modal verbs:** „Ich muss heute arbeiten“ – not „Ich muss heute zu arbeiten“.\n- **Separable verbs:** zu goes **inside** the verb – „anzurufen“, not „zu anrufen“.\n\nBut **brauchen** (nicht/nur brauchen = nicht/nur müssen) needs zu in correct German: Du **brauchst** heute **nicht zu kommen**.",
+      "mdDe": "Zwei klassische Fallen:\n\n- **Kein zu nach Modalverben:** „Ich muss heute arbeiten“ – nicht „Ich muss heute zu arbeiten“.\n- **Trennbare Verben:** zu steht **mitten im** Verb – „anzurufen“, nicht „zu anrufen“.\n\nAber nach **brauchen** (nicht/nur brauchen = nicht/nur müssen) steht in korrektem Deutsch zu: Du **brauchst** heute **nicht zu kommen**."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1** you often have to choose between „zu“, „um“ and „dass“, or between „ohne“, „statt“ and „damit“. Ask yourself: Does the clause with the gap have its own subject and a conjugated verb? → dass or damit. No subject and an infinitive at the end? → zu, um … zu, ohne … zu, statt … zu. In **Sprachbausteine Teil 2**, „zu“, „ohne“ or „statt“ can be the missing word.\n\nIn **Schreiben**, infinitive clauses make your e-mail sound natural and varied – examiners notice them: „Ich habe leider vergessen, Ihnen Bescheid zu geben.“ – „Es wäre schön, bald von dir zu hören.“ – „Ich hätte große Lust, mitzukommen.“",
+      "mdDe": "In **Sprachbausteine Teil 1** musst du oft zwischen „zu“, „um“ und „dass“ wählen oder zwischen „ohne“, „statt“ und „damit“. Frag dich: Hat der Satz mit der Lücke ein eigenes Subjekt und ein konjugiertes Verb? → dass oder damit. Kein Subjekt und ein Infinitiv am Ende? → zu, um … zu, ohne … zu, statt … zu. In **Sprachbausteine Teil 2** kann „zu“, „ohne“ oder „statt“ das fehlende Wort sein.\n\nIm **Schreiben** klingt deine E-Mail mit Infinitivsätzen natürlich und abwechslungsreich – das fällt den Prüfenden auf: „Ich habe leider vergessen, Ihnen Bescheid zu geben.“ – „Es wäre schön, bald von dir zu hören.“ – „Ich hätte große Lust, mitzukommen.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich muss heute zu arbeiten.",
+      "right": "Ich muss heute arbeiten.",
+      "why": "After a modal verb the infinitive comes without „zu“.",
+      "whyDe": "Nach einem Modalverb steht der Infinitiv ohne „zu“."
+    },
+    {
+      "wrong": "Vergiss nicht, mich zu anrufen!",
+      "right": "Vergiss nicht, mich anzurufen!",
+      "why": "With separable verbs, „zu“ goes between the prefix and the verb: „an-zu-rufen“, written as one word.",
+      "whyDe": "Bei trennbaren Verben steht „zu“ zwischen Präfix und Verb: „an-zu-rufen“, in einem Wort geschrieben."
+    },
+    {
+      "wrong": "Ich habe Lust, zu gehen ins Kino.",
+      "right": "Ich habe Lust, ins Kino zu gehen.",
+      "why": "„zu“ + infinitive always stands at the very end of the infinitive clause.",
+      "whyDe": "„zu“ + Infinitiv steht immer ganz am Ende des Infinitivsatzes."
+    },
+    {
+      "wrong": "Er ist gegangen, ohne zu sich verabschieden.",
+      "right": "Er ist gegangen, ohne sich zu verabschieden.",
+      "why": "„zu“ stands directly before the infinitive; the reflexive pronoun and all other words come before „zu“.",
+      "whyDe": "„zu“ steht direkt vor dem Infinitiv; das Reflexivpronomen und alle anderen Wörter stehen vor „zu“."
+    },
+    {
+      "wrong": "Du brauchst morgen nicht kommen.",
+      "right": "Du brauchst morgen nicht zu kommen.",
+      "why": "In correct written German, „nicht brauchen“ is followed by „zu“ + infinitive.",
+      "whyDe": "Im korrekten Schriftdeutsch steht nach „nicht brauchen“ „zu“ + Infinitiv."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ich habe leider keine Zeit, dich heute vom Bahnhof ___.",
+      "options": ["zu abholen", "abholen", "abzuholen"],
+      "answer": 2,
+      "explanation": "„keine Zeit haben“ is followed by zu + infinitive. „abholen“ is separable, so „zu“ goes in the middle: „abzuholen“.",
+      "explanationDe": "Nach „keine Zeit haben“ steht zu + Infinitiv. „abholen“ ist trennbar, deshalb steht „zu“ in der Mitte: „abzuholen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Kannst du mir am Samstag beim Umzug ___?",
+      "options": ["zu helfen", "helfen", "geholfen"],
+      "answer": 1,
+      "explanation": "After a modal verb („kannst“) the infinitive has no „zu“.",
+      "explanationDe": "Nach einem Modalverb („kannst“) steht der Infinitiv ohne „zu“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mein Sohn ist einfach weggefahren, ___ mir Bescheid zu sagen.",
+      "options": ["ohne", "um", "dass"],
+      "answer": 0,
+      "explanation": "He drove off and did NOT tell me → „ohne … zu“. „um … zu“ would mean that he drove off in order to tell me; „dass“ needs a subject and a conjugated verb.",
+      "explanationDe": "Er ist weggefahren und hat mir NICHT Bescheid gesagt → „ohne … zu“. „um … zu“ würde bedeuten, dass er weggefahren ist, um mir Bescheid zu sagen; „dass“ braucht ein Subjekt und ein konjugiertes Verb."
+    },
+    {
+      "type": "mc",
+      "prompt": "Es ist wichtig, ___ man vor einer Fernreise zum Arzt geht.",
+      "options": ["zu", "um", "dass"],
+      "answer": 2,
+      "explanation": "The clause has its own subject („man“) and a conjugated verb („geht“) → dass-clause. Without a subject you could say: „Es ist wichtig, vor einer Fernreise zum Arzt zu gehen.“",
+      "explanationDe": "Der Satz hat ein eigenes Subjekt („man“) und ein konjugiertes Verb („geht“) → dass-Satz. Ohne Subjekt könntest du sagen: „Es ist wichtig, vor einer Fernreise zum Arzt zu gehen.“"
+    },
+    {
+      "type": "mc",
+      "prompt": "___ im Bett zu bleiben, ist Jonas mit Fieber zur Arbeit gegangen.",
+      "options": ["Um", "Statt", "Damit"],
+      "answer": 1,
+      "explanation": "Jonas did one thing (went to work) instead of the other (staying in bed) → „Statt … zu“. „Um … zu“ expresses a purpose, which makes no sense here; „damit“ needs a clause with a subject and a conjugated verb.",
+      "explanationDe": "Jonas hat eine Sache getan (er ist zur Arbeit gegangen) und nicht die andere (im Bett bleiben) → „Statt … zu“. „Um … zu“ drückt ein Ziel aus, und das ergibt hier keinen Sinn; „damit“ braucht einen Satz mit Subjekt und konjugiertem Verb."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir haben vor, nächstes Jahr eine Wohnung in Leipzig ___.",
+      "answers": ["zu kaufen"],
+      "hint": "(kaufen)",
+      "explanation": "„vorhaben“ (to plan) is followed by zu + infinitive at the end of the clause.",
+      "explanationDe": "Nach „vorhaben“ (= planen) steht zu + Infinitiv am Ende des Satzes."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe keine Lust, schon wieder die Küche ___.",
+      "answers": ["aufzuräumen"],
+      "hint": "(aufräumen)",
+      "explanation": "„Lust haben“ + zu-infinitive. „aufräumen“ is separable → „aufzuräumen“, written as one word.",
+      "explanationDe": "„Lust haben“ + zu-Infinitiv. „aufräumen“ ist trennbar → „aufzuräumen“, in einem Wort geschrieben."
+    },
+    {
+      "type": "gap",
+      "prompt": "Du brauchst mich nicht vom Flughafen ___, ich nehme ein Taxi.",
+      "answers": ["abzuholen"],
+      "hint": "(abholen)",
+      "explanation": "„nicht brauchen“ (= nicht müssen) needs zu + infinitive. With the separable verb „abholen“: „abzuholen“.",
+      "explanationDe": "Nach „nicht brauchen“ (= nicht müssen) steht zu + Infinitiv. Mit dem trennbaren Verb „abholen“: „abzuholen“."
+    },
+    {
+      "type": "order",
+      "words": ["Kino", "Lust,", "gehen?", "am", "du", "uns", "zu", "Hast", "ins", "mit", "Samstag"],
+      "answers": [
+        "Hast du Lust, am Samstag mit uns ins Kino zu gehen?",
+        "Hast du Lust, mit uns am Samstag ins Kino zu gehen?",
+        "Hast du am Samstag Lust, mit uns ins Kino zu gehen?"
+      ],
+      "explanation": "The main clause is a yes/no question, so the verb „Hast“ comes first. After „Lust,“ comes the infinitive clause, and „zu gehen“ stands at the very end.",
+      "explanationDe": "Der Hauptsatz ist eine Ja/Nein-Frage, deshalb steht das Verb „Hast“ am Anfang. Nach „Lust,“ kommt der Infinitivsatz, und „zu gehen“ steht ganz am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["verabschieden.", "ohne", "Er", "zu", "gegangen,", "sich", "nach", "ist", "Hause"],
+      "answers": ["Er ist nach Hause gegangen, ohne sich zu verabschieden."],
+      "explanation": "„ohne“ starts the infinitive clause, the reflexive pronoun „sich“ comes next and „zu verabschieden“ goes to the end.",
+      "explanationDe": "„ohne“ steht am Anfang des Infinitivsatzes, danach kommt das Reflexivpronomen „sich“, und „zu verabschieden“ steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the dass-clause with an infinitive with „zu“.",
+      "instructionDe": "Ersetze den dass-Satz durch einen Infinitiv mit „zu“.",
+      "prompt": "Ich hoffe, dass ich bald eine neue Stelle finde.",
+      "answers": ["Ich hoffe, bald eine neue Stelle zu finden."],
+      "explanation": "Both parts have the same subject („ich“), so you can drop „dass ich“ and put „zu finden“ at the end.",
+      "explanationDe": "Beide Teile haben das gleiche Subjekt („ich“), deshalb kannst du „dass ich“ weglassen und „zu finden“ ans Ende stellen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the two sentences with „statt … zu“.",
+      "instructionDe": "Verbinde die zwei Sätze mit „statt … zu“.",
+      "prompt": "Paul sieht fern. Eigentlich sollte er seine Hausaufgaben machen.",
+      "answers": [
+        "Paul sieht fern, statt seine Hausaufgaben zu machen.",
+        "Paul sieht fern, anstatt seine Hausaufgaben zu machen.",
+        "Statt seine Hausaufgaben zu machen, sieht Paul fern.",
+        "Anstatt seine Hausaufgaben zu machen, sieht Paul fern."
+      ],
+      "explanation": "Paul does one thing instead of another: „statt“ (or „anstatt“) + „seine Hausaufgaben zu machen“. If the infinitive clause comes first, the main clause starts with the verb: „…, sieht Paul fern.“",
+      "explanationDe": "Paul tut eine Sache statt einer anderen: „statt“ (oder „anstatt“) + „seine Hausaufgaben zu machen“. Wenn der Infinitivsatz zuerst kommt, beginnt der Hauptsatz mit dem Verb: „…, sieht Paul fern.“"
+    }
+  ],
+  "related": ["finale-saetze", "nebensaetze-grundlagen", "trennbare-verben", "modalverben", "lassen"]
+}

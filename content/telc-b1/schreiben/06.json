@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-06",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Die Heizung ist kaputt",
+  "topic": "wohnen",
+  "difficulty": 1,
+  "register": "semiformal",
+  "situation": "Sie haben von Ihrem Vermieter, Herrn Albers, folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Klaus Albers",
+    "subject": "Ihre Nachricht wegen der Heizung",
+    "body": "Sehr geehrte Frau Petrenko,\n\nvielen Dank für Ihre Nachricht. Es tut mir leid, dass die Heizung in Ihrer Wohnung nicht richtig funktioniert. Ich habe schon mit der Firma Heizungsbau Lohmann gesprochen. Ein Techniker kann am Mittwoch zwischen 8 und 12 Uhr kommen. Bitte teilen Sie mir mit, ob Sie zu dieser Zeit zu Hause sind.\n\nDamit der Techniker das passende Werkzeug mitbringt, beschreiben Sie das Problem bitte noch einmal genauer: Welche Heizkörper sind betroffen und seit wann?\n\nMit freundlichen Grüßen\nKlaus Albers"
+  },
+  "leitpunkte": [
+    "Wer dem Techniker die Wohnung öffnen kann",
+    "Dank für die schnelle Antwort",
+    "Was genau nicht funktioniert und seit wann",
+    "Warum Sie am Mittwochvormittag nicht zu Hause sind"
+  ],
+  "model": {
+    "subject": "Heizung: genaue Beschreibung und Termin am Mittwoch",
+    "text": "Sehr geehrter Herr Albers,\n\nvielen Dank für Ihre schnelle Antwort und dafür, dass Sie sich sofort um einen Techniker gekümmert haben.\n\nGern beschreibe ich das Problem noch einmal genauer: Seit letztem Freitag bleiben die Heizkörper im Wohnzimmer und im Bad kalt, obwohl ich sie ganz aufgedreht habe. Nur in der Küche und im Schlafzimmer wird es warm. Außerdem macht der Heizkörper im Wohnzimmer nachts laute Geräusche.\n\nLeider bin ich am Mittwochvormittag nicht zu Hause, weil ich von 7 bis 15 Uhr arbeite und diesen Dienst nicht tauschen kann. Trotzdem muss der Termin nicht verschoben werden. Meine Nachbarin, Frau Kaiser aus dem zweiten Stock, hat einen Schlüssel zu meiner Wohnung. Sie ist am Mittwoch den ganzen Tag da und kann dem Techniker gern die Tür öffnen. Ich habe schon mit ihr gesprochen.\n\nKönnten Sie mir bitte kurz bestätigen, dass der Techniker bei Frau Kaiser klingelt?\n\nMit freundlichen Grüßen\nOlga Petrenko"
+  },
+  "modelNotes": [
+    "Thanks come first, then the description, the timing problem and its solution – a natural order for a landlord who has to organise the visit.",
+    "The description is precise (which rooms, since when, what exactly happens) – exactly what Herr Albers asked for.",
+    "Instead of only saying that she is not at home, the writer offers a solution (the neighbour with the key) and links it with „Trotzdem …“.",
+    "Semi-formal but friendly: „Sehr geehrter Herr Albers“, „Gern beschreibe ich …“, „Könnten Sie mir bitte … bestätigen?“, „Mit freundlichen Grüßen“."
+  ],
+  "modelNotesDe": [
+    "Zuerst kommt der Dank, dann die Beschreibung, das Problem mit dem Termin und die Lösung – eine natürliche Reihenfolge für einen Vermieter, der den Besuch organisieren muss.",
+    "Die Beschreibung ist präzise (welche Räume, seit wann, was genau passiert) – genau das, worum Herr Albers gebeten hat.",
+    "Die Schreiberin sagt nicht nur, dass sie nicht zu Hause ist, sondern bietet eine Lösung an (die Nachbarin mit dem Schlüssel) und verbindet sie mit „Trotzdem …“.",
+    "Halbformell, aber freundlich: „Sehr geehrter Herr Albers“, „Gern beschreibe ich …“, „Könnten Sie mir bitte … bestätigen?“, „Mit freundlichen Grüßen“."
+  ],
+  "phrases": [
+    { "de": "Vielen Dank, dass Sie sich so schnell um … gekümmert haben.", "en": "Thank you for taking care of … so quickly." },
+    { "de": "Gern beschreibe ich das Problem noch einmal genauer.", "en": "I'm happy to describe the problem in more detail." },
+    { "de": "Seit letztem Freitag funktioniert … nicht mehr.", "en": "… hasn't been working since last Friday." },
+    { "de": "… bleibt kalt, obwohl ich ihn ganz aufgedreht habe.", "en": "… stays cold although I've turned it all the way up." },
+    { "de": "Leider bin ich zu dieser Zeit nicht zu Hause.", "en": "Unfortunately I'm not at home at that time." },
+    { "de": "Meine Nachbarin hat einen Schlüssel und kann die Tür öffnen.", "en": "My neighbour has a key and can open the door." },
+    { "de": "Könnten Sie mir bitte kurz bestätigen, dass …?", "en": "Could you briefly confirm that …?" }
+  ],
+  "glossary": [
+    { "de": "der Vermieter", "en": "landlord" },
+    { "de": "der Heizkörper", "en": "radiator" },
+    { "de": "aufdrehen", "en": "to turn up / turn on" },
+    { "de": "betroffen sein", "en": "to be affected" },
+    { "de": "den Dienst tauschen", "en": "to swap shifts" },
+    { "de": "bestätigen", "en": "to confirm" }
+  ]
+}

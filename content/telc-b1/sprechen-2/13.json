@@ -1,0 +1,98 @@
+{
+  "id": "sprechen-2-13",
+  "examId": "telc-b1",
+  "type": "speaking-topic",
+  "title": "Fernsehen oder Streaming?",
+  "topic": "medien",
+  "difficulty": 2,
+  "theme": "Fernsehen und Streaming",
+  "medium": "in einer Zeitschrift",
+  "cardA": {
+    "name": "Hans-Jürgen Weber",
+    "age": 66,
+    "job": "Rentner",
+    "quote": "Ich schaue jeden Abend um acht die Nachrichten, und danach läuft oft ein Krimi. Das ist für mich ein schönes Ritual. Beim klassischen Fernsehen muss ich nicht lange suchen, was ich sehen möchte, das Programm ist schon fertig. Außerdem kann ich am nächsten Tag mit meinen Nachbarn über die gleiche Sendung sprechen."
+  },
+  "cardB": {
+    "name": "Nina Lang",
+    "age": 26,
+    "job": "Friseurin",
+    "quote": "Einen Fernseher habe ich gar nicht mehr. Filme und Serien schaue ich auf dem Laptop oder Handy, wann und wo ich will, zum Beispiel in der Mittagspause oder im Zug. Ich muss mich nicht nach einem Programm richten und sehe keine Werbung. Für mein Abo bezahle ich nur zehn Euro im Monat."
+  },
+  "ideas": {
+    "pro": [
+      "Streaming: schauen, wann und wo man will",
+      "keine oder wenig Werbung",
+      "große Auswahl an Filmen und Serien",
+      "Filme in der Originalsprache oder mit Untertiteln",
+      "man kann Pausen machen und später weiterschauen"
+    ],
+    "contra": [
+      "mehrere Abos werden schnell teuer",
+      "man schaut leicht zu viele Folgen hintereinander",
+      "man braucht gutes Internet",
+      "man sucht oft lange, was man sehen möchte",
+      "Nachrichten und Live-Sport sieht man eher im Fernsehen",
+      "für ältere Menschen ist die Technik oft kompliziert"
+    ]
+  },
+  "questions": [
+    "Wie oft sehen Sie fern oder streamen Sie Filme?",
+    "Was schauen Sie am liebsten?",
+    "Wie ist das in Ihrem Heimatland? Ist das Fernsehen dort noch wichtig?",
+    "Kann man mit Filmen und Serien gut Deutsch lernen?",
+    "Wie viel Zeit vor dem Bildschirm ist für Kinder in Ordnung?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Jasmina Hodžić", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Paulo Mendes", "gender": "m", "age": "young", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange an, wenn das okay ist. In meinem Text geht es um Hans-Jürgen Weber, er ist 66 und Rentner. Herr Weber mag das klassische Fernsehen." },
+    { "s": "A", "t": "Er schaut jeden Abend um acht die Nachrichten und danach oft einen Krimi, und das ist für ihn ein schönes Ritual. Er findet es praktisch, dass er nicht lange suchen muss, weil das Programm schon fertig ist." },
+    { "s": "A", "t": "Außerdem kann er am nächsten Tag mit seinen Nachbarn über die gleiche Sendung sprechen." },
+    { "s": "B", "t": "Danke. Nina Lang, die Frau auf meinem Blatt, ist 26 und Friseurin. Sie hat gar keinen Fernseher mehr." },
+    { "s": "B", "t": "Sie schaut Filme und Serien auf dem Laptop oder auf dem Handy, wann und wo sie will, zum Beispiel in der Mittagspause oder im Zug. Sie muss sich nicht nach einem Programm richten und sieht keine Werbung." },
+    { "s": "B", "t": "Und für ihr Abo bezahlt sie nur zehn Euro im Monat." },
+    { "s": "A", "t": "Ich bin eher wie Frau Lang. Ich habe zwar einen Fernseher, aber ich benutze ihn nur zum Streamen. Und du, Paulo?" },
+    { "s": "B", "t": "Bei uns ist es gemischt. Ich streame Serien, aber Fußball schaue ich immer live im Fernsehen, am liebsten mit Freunden. Das ist ein bisschen wie bei Herrn Weber: Man erlebt etwas zusammen." },
+    { "s": "A", "t": "Das stimmt, Fußball allein auf dem Handy macht keinen Spaß. Aber Serien schaue ich lieber, wenn ich Zeit habe, und nicht, wenn der Sender sie zeigt." },
+    { "s": "B", "t": "Genau. Mich stört beim normalen Fernsehen vor allem die Werbung. Bei einem Film kommt manchmal alle zwanzig Minuten eine Werbepause." },
+    { "s": "A", "t": "Ja, das nervt. Aber ehrlich gesagt hat das Streaming auch Nachteile. Manchmal schaue ich vier Folgen hintereinander und gehe viel zu spät ins Bett." },
+    { "s": "B", "t": "Das kenne ich! Am Ende ist man müde und denkt: Warum habe ich das gemacht?" },
+    { "s": "A", "t": "Und man sucht oft eine halbe Stunde, bis man einen Film gefunden hat. Da hat Herr Weber recht." },
+    { "s": "B", "t": "Wie ist das in Bosnien? Schauen die Leute dort noch viel fern?" },
+    { "s": "A", "t": "Ja, vor allem die ältere Generation. Bei meinen Eltern läuft der Fernseher eigentlich den ganzen Tag, auch wenn niemand hinschaut." },
+    { "s": "B", "t": "Das ist in Brasilien genauso! Bei uns sind die Telenovelas am Abend sehr beliebt, und die ganze Familie sitzt zusammen vor dem Fernseher." },
+    { "s": "A", "t": "Das finde ich eigentlich schön. Beim Streaming schaut oft jeder allein etwas auf seinem eigenen Gerät." },
+    { "s": "B", "t": "Stimmt, das ist ein Nachteil. Aber ein großer Vorteil ist, dass ich Filme in der Originalsprache mit Untertiteln sehen kann. So lerne ich auch Deutsch." },
+    { "s": "A", "t": "Wirklich? Schaust du deutsche Serien?" },
+    { "s": "B", "t": "Ja, mit deutschen Untertiteln. Am Anfang habe ich fast nichts verstanden, aber jetzt geht es schon viel besser." },
+    { "s": "A", "t": "Das ist eine gute Idee, das probiere ich auch einmal. Ich glaube, am Ende haben beide Formen Vorteile: Streaming ist flexibel, und Fernsehen verbindet die Menschen." },
+    { "s": "B", "t": "Das sehe ich auch so. Und egal, wie man schaut, man sollte nicht zu viel Zeit vor dem Bildschirm verbringen." }
+  ],
+  "phrases": [
+    { "de": "…, die Frau auf meinem Blatt, ist …", "en": "…, the woman on my sheet, is …" },
+    { "de": "Ich bin eher wie …", "en": "I'm more like …" },
+    { "de": "Bei uns ist es gemischt.", "en": "With us, it's a mix." },
+    { "de": "Mich stört vor allem …", "en": "What bothers me most is …" },
+    { "de": "Ehrlich gesagt hat … auch Nachteile.", "en": "To be honest, … has disadvantages too." },
+    { "de": "Ein großer Vorteil ist, dass …", "en": "A big advantage is that …" },
+    { "de": "Das probiere ich auch einmal.", "en": "I'll try that too some time." },
+    { "de": "Ich glaube, am Ende haben beide … Vorteile.", "en": "I think in the end both … have advantages." }
+  ],
+  "vocabulary": [
+    { "de": "fernsehen", "en": "to watch TV" },
+    { "de": "streamen", "en": "to stream" },
+    { "de": "die Sendung", "en": "TV programme, show" },
+    { "de": "der Sender", "en": "TV channel" },
+    { "de": "die Nachrichten (Pl.)", "en": "the news" },
+    { "de": "der Krimi", "en": "crime film or series" },
+    { "de": "die Folge", "en": "episode" },
+    { "de": "die Werbung", "en": "advertising, adverts" },
+    { "de": "das Abo", "en": "subscription" },
+    { "de": "der Untertitel", "en": "subtitle" },
+    { "de": "sich nach etwas richten", "en": "to go by something, to follow something" },
+    { "de": "hintereinander", "en": "in a row" }
+  ]
+}

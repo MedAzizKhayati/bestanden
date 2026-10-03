@@ -1,0 +1,103 @@
+{
+  "id": "hoeren-3-05",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Ämter und Termine",
+  "topic": "behoerden",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "buergeramt", "gender": "f", "age": "adult", "role": "Telefonansage" },
+    { "id": "schule", "name": "Frau Wiegand", "gender": "f", "age": "senior", "role": "Sekretariat der Gesamtschule Nord" },
+    { "id": "amt", "gender": "m", "age": "adult", "role": "Durchsage im Bürgerbüro" },
+    { "id": "verkehr", "gender": "f", "age": "adult", "role": "Radiosprecherin" },
+    { "id": "verwaltung", "name": "Herr Albrecht", "gender": "m", "age": "adult", "role": "Hausverwaltung Rheinblick" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Telefonansage des Bürgeramts",
+      "script": [
+        { "s": "buergeramt", "t": "Guten Tag, Sie sind mit dem Bürgeramt Mitte verbunden. Wir sind umgezogen und befinden uns jetzt im Rathaus am Schillerplatz, im zweiten Stock." },
+        { "s": "buergeramt", "t": "Für einen neuen Reisepass oder eine Anmeldung brauchen Sie einen Termin. Termine vereinbaren Sie bitte nur über unsere Internetseite." },
+        { "s": "buergeramt", "t": "Ihren fertigen Personalausweis können Sie ohne Termin abholen, und zwar donnerstags von 8 bis 12 Uhr." }
+      ],
+      "statement": "Um den Personalausweis abzuholen, braucht man einen Termin.",
+      "answer": false,
+      "explanation": "„Ihren fertigen Personalausweis können Sie ohne Termin abholen“ on Thursdays from 8 to 12. An appointment is only needed for a passport or a registration.",
+      "explanationDe": "„Ihren fertigen Personalausweis können Sie ohne Termin abholen“, und zwar donnerstags von 8 bis 12 Uhr. Einen Termin braucht man nur für einen Reisepass oder eine Anmeldung.",
+      "evidence": "Ihren fertigen Personalausweis können Sie ohne Termin abholen, und zwar donnerstags von 8 bis 12 Uhr."
+    },
+    {
+      "n": 2,
+      "label": "Nachricht vom Sekretariat der Schule",
+      "script": [
+        { "s": "schule", "t": "Guten Tag, Herr Okafor, hier ist Wiegand aus dem Sekretariat der Gesamtschule Nord. Ich rufe wegen des Elternabends der Klasse 7 b an." },
+        { "s": "schule", "t": "Der Elternabend kann leider nicht wie geplant am Dienstag stattfinden. Er ist jetzt am Donnerstag, ebenfalls um 19 Uhr." },
+        { "s": "schule", "t": "Außerdem treffen wir uns nicht in der Aula, sondern in Raum 204 im Neubau. Vielen Dank und auf Wiederhören." }
+      ],
+      "statement": "Der Elternabend findet in der Aula der Schule statt.",
+      "answer": false,
+      "explanation": "The meeting is „nicht in der Aula, sondern in Raum 204 im Neubau“. The day has changed too: Thursday instead of Tuesday.",
+      "explanationDe": "Der Elternabend ist „nicht in der Aula, sondern in Raum 204 im Neubau“. Auch der Tag hat sich geändert: Donnerstag statt Dienstag.",
+      "evidence": "Außerdem treffen wir uns nicht in der Aula, sondern in Raum 204 im Neubau."
+    },
+    {
+      "n": 3,
+      "label": "Durchsage im Bürgerbüro",
+      "script": [
+        { "s": "amt", "t": "Die Wartenummer 134 bitte zu Schalter sechs." },
+        { "s": "amt", "t": "Die Nummer 134 bitte zu Schalter sechs." },
+        { "s": "amt", "t": "Wir bitten alle Wartenden um Beachtung: Wegen einer technischen Störung ist heute leider keine Kartenzahlung möglich. Bitte bezahlen Sie Ihre Gebühren bar." },
+        { "s": "amt", "t": "Einen Geldautomaten finden Sie im Erdgeschoss, gleich neben dem Aufzug." }
+      ],
+      "statement": "Heute kann man im Bürgerbüro nur mit Bargeld bezahlen.",
+      "answer": true,
+      "explanation": "Because of a technical fault „keine Kartenzahlung möglich“ – the fees have to be paid in cash („bar“). There is a cash machine on the ground floor.",
+      "explanationDe": "Wegen einer technischen Störung ist „keine Kartenzahlung möglich“ – die Gebühren muss man „bar“ bezahlen. Im Erdgeschoss gibt es einen Geldautomaten.",
+      "evidence": "Wegen einer technischen Störung ist heute leider keine Kartenzahlung möglich."
+    },
+    {
+      "n": 4,
+      "label": "Verkehrsmeldung im Radio",
+      "script": [
+        { "s": "verkehr", "t": "Eine Verkehrsinformation für alle, die am Sonntag in die Innenstadt wollen. Wegen des Stadtmarathons sind viele Straßen im Zentrum von 8 bis 15 Uhr gesperrt." },
+        { "s": "verkehr", "t": "Die Buslinien 3 und 5 fahren in dieser Zeit eine Umleitung und halten nicht am Hauptbahnhof. Die Straßenbahnen fahren dagegen ganz normal." },
+        { "s": "verkehr", "t": "Am besten lassen Sie Ihr Auto zu Hause und nehmen die Straßenbahn." }
+      ],
+      "statement": "Am Sonntag fahren alle Busse wie gewohnt durch die Innenstadt.",
+      "answer": false,
+      "explanation": "Bus lines 3 and 5 „fahren in dieser Zeit eine Umleitung“ and do not stop at the main station. Only the trams run normally.",
+      "explanationDe": "Die Buslinien 3 und 5 „fahren in dieser Zeit eine Umleitung“ und halten nicht am Hauptbahnhof. Nur die Straßenbahnen fahren normal.",
+      "evidence": "Die Buslinien 3 und 5 fahren in dieser Zeit eine Umleitung und halten nicht am Hauptbahnhof."
+    },
+    {
+      "n": 5,
+      "label": "Nachricht von der Hausverwaltung",
+      "script": [
+        { "s": "verwaltung", "t": "Guten Tag, Frau Hartwig, hier spricht Albrecht von der Hausverwaltung Rheinblick. Ich möchte Sie über Arbeiten in Ihrem Haus informieren." },
+        { "s": "verwaltung", "t": "Am Mittwoch werden die Wasserleitungen im Keller repariert. Deshalb gibt es von 9 bis 13 Uhr im ganzen Haus kein Wasser." },
+        { "s": "verwaltung", "t": "Am Nachmittag ist alles wieder normal. Der Hausmeister hängt dazu auch noch einen Zettel im Treppenhaus auf." }
+      ],
+      "statement": "Am Mittwochvormittag gibt es im Haus kein Wasser.",
+      "answer": true,
+      "explanation": "On Wednesday there is no water „von 9 bis 13 Uhr“ – that is in the morning. In the afternoon everything is normal again.",
+      "explanationDe": "Am Mittwoch gibt es „von 9 bis 13 Uhr“ kein Wasser – das ist am Vormittag. Am Nachmittag ist alles wieder normal.",
+      "evidence": "Deshalb gibt es von 9 bis 13 Uhr im ganzen Haus kein Wasser."
+    }
+  ],
+  "glossary": [
+    { "de": "das Bürgeramt", "en": "citizens' office (local authority)" },
+    { "de": "einen Termin vereinbaren", "en": "to make an appointment" },
+    { "de": "der Personalausweis", "en": "identity card" },
+    { "de": "der Elternabend", "en": "parents' evening" },
+    { "de": "die Aula", "en": "school assembly hall" },
+    { "de": "die Wartenummer", "en": "queue number" },
+    { "de": "der Schalter", "en": "counter" },
+    { "de": "die Gebühr", "en": "fee" },
+    { "de": "bar bezahlen", "en": "to pay in cash" },
+    { "de": "gesperrt", "en": "closed (road)" },
+    { "de": "die Hausverwaltung", "en": "property management company" },
+    { "de": "die Wasserleitung", "en": "water pipe" }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "hoeren-3-03",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Rund um die Gesundheit",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "zahnarzt", "name": "Frau Brückner", "gender": "f", "age": "adult", "role": "Zahnarztpraxis Doktor Yilmaz" },
+    { "id": "apotheke", "gender": "m", "age": "adult", "role": "Telefonansage" },
+    { "id": "bad", "gender": "m", "age": "young", "role": "Durchsage im Hallenbad" },
+    { "id": "radio", "gender": "f", "age": "adult", "role": "Radiomoderatorin" },
+    { "id": "wetter", "gender": "m", "age": "adult", "role": "Wettermoderator" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Nachricht von der Zahnarztpraxis",
+      "script": [
+        { "s": "zahnarzt", "t": "Guten Morgen, Frau Schubert, hier ist die Zahnarztpraxis Doktor Yilmaz, mein Name ist Brückner." },
+        { "s": "zahnarzt", "t": "Ihr Termin am Montag um 14 Uhr muss leider ausfallen, weil Frau Doktor Yilmaz krank ist." },
+        { "s": "zahnarzt", "t": "Wir können Ihnen Mittwoch um 8 Uhr 15 oder Freitag um 16 Uhr 30 als neuen Termin anbieten." },
+        { "s": "zahnarzt", "t": "Bitte rufen Sie uns kurz zurück und sagen Sie uns, welcher Termin Ihnen besser passt." }
+      ],
+      "statement": "Die Praxis bietet Frau Schubert einen neuen Termin am Mittwochnachmittag an.",
+      "answer": false,
+      "explanation": "The new options are „Mittwoch um 8 Uhr 15 oder Freitag um 16 Uhr 30“ – on Wednesday the appointment is in the morning. Monday at 14 Uhr is the cancelled appointment.",
+      "explanationDe": "Die neuen Termine sind „Mittwoch um 8 Uhr 15 oder Freitag um 16 Uhr 30“ – am Mittwoch ist der Termin also am Morgen. Montag um 14 Uhr ist der Termin, der ausfällt.",
+      "evidence": "Mittwoch um 8 Uhr 15 oder Freitag um 16 Uhr 30"
+    },
+    {
+      "n": 2,
+      "label": "Telefonansage einer Apotheke",
+      "script": [
+        { "s": "apotheke", "t": "Sie sind verbunden mit der Rosen-Apotheke am Lindenplatz. Unsere Apotheke ist zurzeit geschlossen." },
+        { "s": "apotheke", "t": "Wir sind montags bis freitags von 8 bis 19 Uhr und samstags von 9 bis 14 Uhr für Sie da." },
+        { "s": "apotheke", "t": "Die Löwen-Apotheke in der Bahnhofstraße 12 hat heute Notdienst." },
+        { "s": "apotheke", "t": "Morgen, am Sonntag, ist die Stadt-Apotheke am Marktplatz für Sie geöffnet." }
+      ],
+      "statement": "Heute hat die Löwen-Apotheke in der Bahnhofstraße Notdienst.",
+      "answer": true,
+      "explanation": "„Die Löwen-Apotheke in der Bahnhofstraße 12 hat heute Notdienst.“ The Stadt-Apotheke is the one on duty tomorrow, on Sunday.",
+      "explanationDe": "„Die Löwen-Apotheke in der Bahnhofstraße 12 hat heute Notdienst.“ Die Stadt-Apotheke hat erst morgen, am Sonntag, Notdienst.",
+      "evidence": "Die Löwen-Apotheke in der Bahnhofstraße 12 hat heute Notdienst."
+    },
+    {
+      "n": 3,
+      "label": "Durchsage im Hallenbad",
+      "script": [
+        { "s": "bad", "t": "Liebe Badegäste, bitte beachten Sie: Ab 17 Uhr ist unser Sportbecken wegen einer Reinigung geschlossen. Bitte verlassen Sie bis spätestens 16 Uhr 50 das Becken." },
+        { "s": "bad", "t": "Das Nichtschwimmerbecken und die Sauna bleiben wie gewohnt bis 22 Uhr geöffnet." },
+        { "s": "bad", "t": "Der Aquafitness-Kurs um 18 Uhr findet heute deshalb im kleinen Becken neben dem Eingang statt. Wir danken für Ihr Verständnis." }
+      ],
+      "statement": "Der Aquafitness-Kurs findet heute in einem anderen Becken statt.",
+      "answer": true,
+      "explanation": "The sports pool closes at 17 Uhr, so the course at 18 Uhr takes place „heute deshalb im kleinen Becken neben dem Eingang“.",
+      "explanationDe": "Das Sportbecken schließt um 17 Uhr. Der Kurs um 18 Uhr findet „heute deshalb im kleinen Becken neben dem Eingang“ statt.",
+      "evidence": "Der Aquafitness-Kurs um 18 Uhr findet heute deshalb im kleinen Becken neben dem Eingang statt."
+    },
+    {
+      "n": 4,
+      "label": "Veranstaltungstipp im Radio",
+      "script": [
+        { "s": "radio", "t": "Am Samstag findet im Rathaus der Gesundheitstag statt, von 10 bis 16 Uhr. Der Eintritt ist frei." },
+        { "s": "radio", "t": "Sie können dort kostenlos Ihren Blutdruck und Ihren Blutzucker messen lassen. Um 11 Uhr spricht eine Ärztin über gesunden Schlaf." },
+        { "s": "radio", "t": "Und um 14 Uhr gibt es einen Vortrag über Rückenschmerzen, mit vielen Übungen zum Mitmachen. Bequeme Kleidung ist also eine gute Idee." }
+      ],
+      "statement": "Der Vortrag über Rückenschmerzen beginnt um 11 Uhr.",
+      "answer": false,
+      "explanation": "At 11 Uhr a doctor talks about healthy sleep. The talk about back pain starts „um 14 Uhr“.",
+      "explanationDe": "Um 11 Uhr spricht eine Ärztin über gesunden Schlaf. Der Vortrag über Rückenschmerzen beginnt „um 14 Uhr“.",
+      "evidence": "Und um 14 Uhr gibt es einen Vortrag über Rückenschmerzen, mit vielen Übungen zum Mitmachen."
+    },
+    {
+      "n": 5,
+      "label": "Wetterbericht",
+      "script": [
+        { "s": "wetter", "t": "Die Hitze bleibt uns noch ein bisschen erhalten. Heute und morgen, also bis einschließlich Mittwoch, steigen die Temperaturen auf bis zu 34 Grad." },
+        { "s": "wetter", "t": "Ärzte raten, viel Wasser zu trinken und in der Mittagszeit in der Wohnung zu bleiben." },
+        { "s": "wetter", "t": "Erst am Donnerstag bringen Gewitter eine Abkühlung. Dann sind es nur noch angenehme 24 Grad." }
+      ],
+      "statement": "Schon ab Mittwoch wird es wieder deutlich kühler.",
+      "answer": false,
+      "explanation": "It stays hot „bis einschließlich Mittwoch“. „Erst am Donnerstag“ do thunderstorms bring cooler weather.",
+      "explanationDe": "Es bleibt heiß, und zwar „bis einschließlich Mittwoch“. „Erst am Donnerstag“ bringen Gewitter eine Abkühlung.",
+      "evidence": "Erst am Donnerstag bringen Gewitter eine Abkühlung."
+    }
+  ],
+  "glossary": [
+    { "de": "ausfallen", "en": "to be cancelled" },
+    { "de": "anbieten", "en": "to offer" },
+    { "de": "zurückrufen", "en": "to call back" },
+    { "de": "der Notdienst", "en": "emergency service (pharmacy on duty)" },
+    { "de": "das Becken", "en": "pool" },
+    { "de": "der Nichtschwimmer", "en": "non-swimmer" },
+    { "de": "etwas messen lassen", "en": "to have something measured" },
+    { "de": "der Vortrag", "en": "talk, lecture" },
+    { "de": "die Hitze", "en": "heat" },
+    { "de": "einschließlich", "en": "including" },
+    { "de": "das Gewitter", "en": "thunderstorm" },
+    { "de": "die Abkühlung", "en": "cooling down" }
+  ]
+}

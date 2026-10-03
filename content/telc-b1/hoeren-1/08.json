@@ -1,0 +1,100 @@
+{
+  "id": "hoeren-1-08",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Sprachen lernen als Erwachsener",
+  "topic": "bildung",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "roswitha", "name": "Roswitha", "gender": "f", "age": "senior" },
+    { "id": "ahmed", "name": "Ahmed", "gender": "m", "age": "adult" },
+    { "id": "carina", "name": "Carina", "gender": "f", "age": "young" },
+    { "id": "joachim", "name": "Joachim", "gender": "m", "age": "adult" },
+    { "id": "natalia", "name": "Natalia", "gender": "f", "age": "adult" }
+  ],
+  "intro": [
+    { "s": "mod", "t": "Man sagt ja: Was Hänschen nicht lernt, lernt Hans nimmermehr. Aber stimmt das auch für Sprachen?" },
+    { "s": "mod", "t": "Wir haben gefragt: Kann man als Erwachsener noch gut eine Fremdsprache lernen?" }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "script": [
+        { "s": "roswitha", "t": "Ich hab mit achtundsechzig angefangen, Italienisch zu lernen, an der Volkshochschule. Mein Mann und ich fahren nämlich jedes Jahr an den Gardasee." },
+        { "s": "roswitha", "t": "Natürlich vergesse ich die Vokabeln schneller als früher in der Schule. Aber ich hab jetzt viel mehr Zeit und Geduld." },
+        { "s": "roswitha", "t": "Letzten Sommer konnte ich im Restaurant zum ersten Mal ganz allein bestellen. Da war ich richtig stolz!" }
+      ],
+      "statement": "Die Frau macht trotz ihres Alters Fortschritte beim Italienischlernen.",
+      "answer": true,
+      "explanation": "She started at 68. She forgets words faster, but has „mehr Zeit und Geduld“, and last summer she ordered in a restaurant „ganz allein“ – she was proud.",
+      "explanationDe": "Sie hat mit 68 angefangen. Sie vergisst Vokabeln schneller, hat aber „mehr Zeit und Geduld“, und letzten Sommer hat sie im Restaurant „ganz allein“ bestellt – darauf war sie stolz.",
+      "evidence": "Letzten Sommer konnte ich im Restaurant zum ersten Mal ganz allein bestellen."
+    },
+    {
+      "n": 2,
+      "script": [
+        { "s": "ahmed", "t": "Ich bin mit fünfunddreißig nach Deutschland gekommen und konnte am Anfang kein einziges Wort Deutsch. Die Grammatik hat mich fast verrückt gemacht, besonders die Artikel." },
+        { "s": "ahmed", "t": "Aber ich hab jeden Tag gelernt und viel mit meinen Nachbarn gesprochen. Heute arbeite ich als Pfleger in einem Altenheim und spreche den ganzen Tag Deutsch." },
+        { "s": "ahmed", "t": "Ich bin der beste Beweis, dass man das auch als Erwachsener schaffen kann." }
+      ],
+      "statement": "Der Mann glaubt, dass Erwachsene eine Fremdsprache kaum noch lernen können.",
+      "answer": false,
+      "explanation": "He arrived at 35 without any German and now works in German every day: „Ich bin der beste Beweis, dass man das auch als Erwachsener schaffen kann“.",
+      "explanationDe": "Er ist mit 35 ohne Deutschkenntnisse nach Deutschland gekommen und arbeitet heute jeden Tag auf Deutsch: „Ich bin der beste Beweis, dass man das auch als Erwachsener schaffen kann“.",
+      "evidence": "Ich bin der beste Beweis, dass man das auch als Erwachsener schaffen kann."
+    },
+    {
+      "n": 3,
+      "script": [
+        { "s": "carina", "t": "Ich bin zweisprachig aufgewachsen, mein Vater ist Spanier. Deutsch und Spanisch hab ich als Kind einfach so gelernt, ganz ohne Mühe." },
+        { "s": "carina", "t": "Letztes Jahr wollte ich dann noch Französisch lernen, und das war plötzlich total schwer. Nach drei Monaten hab ich den Kurs abgebrochen." },
+        { "s": "carina", "t": "Ich glaube wirklich, als Kind lernt man Sprachen viel leichter. Später muss man sich dafür viel mehr anstrengen." }
+      ],
+      "statement": "Die junge Frau meint, dass Erwachsene Sprachen genauso leicht lernen wie Kinder.",
+      "answer": false,
+      "explanation": "As a child she learned two languages easily, but French as an adult was „total schwer“. She believes „als Kind lernt man Sprachen viel leichter“.",
+      "explanationDe": "Als Kind hat sie zwei Sprachen ganz leicht gelernt, aber Französisch als Erwachsene war „total schwer“. Sie glaubt, „als Kind lernt man Sprachen viel leichter“.",
+      "evidence": "Ich glaube wirklich, als Kind lernt man Sprachen viel leichter."
+    },
+    {
+      "n": 4,
+      "script": [
+        { "s": "joachim", "t": "Meine Tochter lebt seit ein paar Jahren in Schweden, und ich möchte mich mit meinen Enkeln unterhalten können." },
+        { "s": "joachim", "t": "Deshalb lerne ich mit einer App Schwedisch, jeden Morgen in der Straßenbahn, eine Viertelstunde. Nicht mehr, aber auch nicht weniger." },
+        { "s": "joachim", "t": "Ich finde, das ist das Geheimnis: lieber jeden Tag ein bisschen als einmal in der Woche drei Stunden. Inzwischen verstehe ich schon ziemlich viel." }
+      ],
+      "statement": "Der Mann findet es besser, jeden Tag kurz zu lernen als selten lange.",
+      "answer": true,
+      "explanation": "He learns for fifteen minutes every morning. His secret: „lieber jeden Tag ein bisschen als einmal in der Woche drei Stunden“.",
+      "explanationDe": "Er lernt jeden Morgen eine Viertelstunde. Sein Geheimnis: „lieber jeden Tag ein bisschen als einmal in der Woche drei Stunden“.",
+      "evidence": "lieber jeden Tag ein bisschen als einmal in der Woche drei Stunden"
+    },
+    {
+      "n": 5,
+      "script": [
+        { "s": "natalia", "t": "Ich hab zwei Jahre lang einen Portugiesischkurs besucht, aber sprechen konnte ich danach trotzdem kaum. Im Kurs haben wir ja fast nur Übungen im Buch gemacht." },
+        { "s": "natalia", "t": "Dann hab ich eine Tandempartnerin gefunden, Luiza aus Brasilien. Wir treffen uns jeden Donnerstag im Café und sprechen eine Stunde Deutsch und eine Stunde Portugiesisch." },
+        { "s": "natalia", "t": "Seitdem hab ich viel weniger Angst vor Fehlern. Das hat mir mehr gebracht als jeder Kurs." }
+      ],
+      "statement": "Die Frau hat im Tandem mehr gelernt als in ihrem Sprachkurs.",
+      "answer": true,
+      "explanation": "After two years of a course she could hardly speak. Meeting her tandem partner every week „hat mir mehr gebracht als jeder Kurs“.",
+      "explanationDe": "Nach zwei Jahren Kurs konnte sie kaum sprechen. Sich jede Woche mit ihrer Tandempartnerin zu treffen, „hat mir mehr gebracht als jeder Kurs“.",
+      "evidence": "Das hat mir mehr gebracht als jeder Kurs."
+    }
+  ],
+  "glossary": [
+    { "de": "Was Hänschen nicht lernt, lernt Hans nimmermehr.", "en": "proverb: what you don't learn when young, you never learn" },
+    { "de": "die Fremdsprache", "en": "foreign language" },
+    { "de": "die Volkshochschule", "en": "adult education centre" },
+    { "de": "die Geduld", "en": "patience" },
+    { "de": "stolz sein auf", "en": "to be proud of" },
+    { "de": "der Beweis", "en": "proof" },
+    { "de": "zweisprachig", "en": "bilingual" },
+    { "de": "einen Kurs abbrechen", "en": "to drop out of a course" },
+    { "de": "sich anstrengen", "en": "to make an effort" },
+    { "de": "das Geheimnis", "en": "secret" },
+    { "de": "die Tandempartnerin", "en": "(female) language exchange partner" }
+  ]
+}

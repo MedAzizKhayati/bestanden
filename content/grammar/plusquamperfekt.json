@@ -1,0 +1,229 @@
+{
+  "id": "plusquamperfekt",
+  "level": "B1",
+  "category": "verben",
+  "order": 3,
+  "title": "Das Plusquamperfekt",
+  "titleEn": "The past perfect",
+  "summary": "Say what had already happened before another past event: hatte or war + past participle – often together with nachdem.",
+  "summaryDe": "Sag, was schon vor einem anderen Ereignis in der Vergangenheit passiert war: hatte oder war + Partizip II – oft zusammen mit nachdem.",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben", "hoeren"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Plusquamperfekt = **hatte** or **war** + **past participle**. Use it for something that happened **before** another event in the past. You choose between hatte and war exactly as you choose between haben and sein in the Perfekt.",
+      "mdDe": "Plusquamperfekt = **hatte** oder **war** + **Partizip II**. Du verwendest es für etwas, das **vor** einem anderen Ereignis in der Vergangenheit passiert ist. Zwischen hatte und war wählst du genauso wie zwischen haben und sein im Perfekt."
+    },
+    {
+      "type": "text",
+      "heading": "One step further back in time",
+      "headingDe": "Noch einen Schritt weiter zurück",
+      "md": "Imagine a timeline. Your story is in the Präteritum or Perfekt. Something that happened **even earlier** goes in the Plusquamperfekt:\n\n- Als ich am Bahnhof ankam, **war** der Zug schon **abgefahren**. (First the train left – then I arrived.)\n- Ich hatte großen Hunger, denn ich **hatte** den ganzen Tag nichts **gegessen**.\n\nYou often find it with **nachdem**, **als**, **bevor** and with words like **schon**, **vorher** and **bereits**.",
+      "mdDe": "Stell dir einen Zeitstrahl vor. Deine Geschichte steht im Präteritum oder Perfekt. Was **noch früher** passiert ist, steht im Plusquamperfekt:\n\n- Als ich am Bahnhof ankam, **war** der Zug schon **abgefahren**. (Zuerst ist der Zug abgefahren – dann bin ich angekommen.)\n- Ich hatte großen Hunger, denn ich **hatte** den ganzen Tag nichts **gegessen**.\n\nDu findest es oft mit **nachdem**, **als**, **bevor** und mit Wörtern wie **schon**, **vorher** und **bereits**."
+    },
+    {
+      "type": "table",
+      "heading": "Forms",
+      "headingDe": "Formen",
+      "columns": ["Person", "machen (with haben)", "fahren (with sein)"],
+      "columnsDe": ["Person", "machen (mit haben)", "fahren (mit sein)"],
+      "rows": [
+        ["ich", "hatte gemacht", "war gefahren"],
+        ["du", "hattest gemacht", "warst gefahren"],
+        ["er/sie/es", "hatte gemacht", "war gefahren"],
+        ["wir", "hatten gemacht", "waren gefahren"],
+        ["ihr", "hattet gemacht", "wart gefahren"],
+        ["sie/Sie", "hatten gemacht", "waren gefahren"]
+      ],
+      "note": "Perfekt → Plusquamperfekt: Ich habe gegessen → Ich hatte gegessen. Ich bin gefahren → Ich war gefahren.",
+      "noteDe": "Perfekt → Plusquamperfekt: Ich habe gegessen → Ich hatte gegessen. Ich bin gefahren → Ich war gefahren."
+    },
+    {
+      "type": "table",
+      "heading": "Tenses with nachdem",
+      "headingDe": "Zeitformen mit nachdem",
+      "columns": ["nachdem-clause (first action)", "main clause (second action)"],
+      "columnsDe": ["nachdem-Satz (erste Handlung)", "Hauptsatz (zweite Handlung)"],
+      "rows": [
+        ["Nachdem er gefrühstückt hatte, (Plusquamperfekt)", "ging er zur Arbeit. (Präteritum)"],
+        ["Nachdem er gefrühstückt hat, (Perfekt)", "geht er zur Arbeit. (Präsens)"]
+      ],
+      "note": "The nachdem-clause is always one tense further back than the main clause. In spoken German you will also hear the Perfekt in the main clause: Nachdem er gefrühstückt hatte, ist er zur Arbeit gegangen.",
+      "noteDe": "Der nachdem-Satz steht immer eine Zeitstufe weiter zurück als der Hauptsatz. In der gesprochenen Sprache hörst du im Hauptsatz auch das Perfekt: Nachdem er gefrühstückt hatte, ist er zur Arbeit gegangen."
+    },
+    {
+      "type": "text",
+      "heading": "Word order",
+      "headingDe": "Wortstellung",
+      "md": "Just like the Perfekt: hatte/war in position 2, participle at the end. In a subordinate clause, hatte/war goes to the very end:\n\n- Wir **hatten** die Karten schon im Mai **gekauft**.\n- Nachdem wir die Karten **gekauft hatten**, buchten wir das Hotel.\n\nRemember: **nachdem** is a conjunction (verb at the end). **nach** is a preposition: **nach** dem Essen.",
+      "mdDe": "Genau wie beim Perfekt: hatte/war auf Position 2, das Partizip am Ende. Im Nebensatz steht hatte/war ganz am Ende:\n\n- Wir **hatten** die Karten schon im Mai **gekauft**.\n- Nachdem wir die Karten **gekauft hatten**, buchten wir das Hotel.\n\nDenk daran: **nachdem** ist eine Konjunktion (Verb am Ende). **nach** ist eine Präposition: **nach** dem Essen."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Als wir ins Kino kamen, **hatte** der Film schon **angefangen**.", "en": "When we got to the cinema, the film had already started." },
+        { "de": "Nachdem sie das Studium **beendet hatte**, zog sie nach Zürich.", "en": "After she had finished her studies, she moved to Zurich." },
+        { "de": "Ich war müde, weil ich schlecht **geschlafen hatte**.", "en": "I was tired because I had slept badly." },
+        { "de": "Er **war** noch nie im Ausland **gewesen**, bevor er nach Spanien flog.", "en": "He had never been abroad before he flew to Spain." },
+        { "de": "Die Gäste **waren** schon **gegangen**, als ich nach Hause kam.", "en": "The guests had already left when I came home." },
+        { "de": "Leider **hatte** ich meinen Regenschirm im Büro **vergessen**.", "en": "Unfortunately I had left my umbrella at the office." },
+        { "de": "Nachdem wir zwei Stunden **gewandert waren**, machten wir eine Pause.", "en": "After we had walked for two hours, we took a break." },
+        { "de": "Sie erkannte ihn sofort, obwohl sie ihn zehn Jahre nicht **gesehen hatte**.", "en": "She recognised him immediately, although she hadn't seen him for ten years." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "Don't use the Plusquamperfekt just because something happened a long time ago. It always needs a **second, later point in the past**: „Ich war 2015 in Rom“ (Präteritum) – but „Bevor ich 2015 nach Rom fuhr, **hatte** ich ein bisschen Italienisch **gelernt**“. And **nachdem** needs a tense shift: not „Nachdem ich aß, ging ich spazieren“, but „Nachdem ich **gegessen hatte**, ging ich spazieren“.",
+      "mdDe": "Verwende das Plusquamperfekt nicht nur deshalb, weil etwas lange her ist. Es braucht immer einen **zweiten, späteren Zeitpunkt in der Vergangenheit**: „Ich war 2015 in Rom“ (Präteritum) – aber „Bevor ich 2015 nach Rom fuhr, **hatte** ich ein bisschen Italienisch **gelernt**“. Und **nachdem** braucht einen Wechsel der Zeitform: nicht „Nachdem ich aß, ging ich spazieren“, sondern „Nachdem ich **gegessen hatte**, ging ich spazieren“."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1** you may have to choose „hatte / war / hat“ in a sentence with „nachdem“ or „als … schon“. First decide the tense (one step before the other past action), then haben or sein (movement or change of state → war). In **Lesen** and **Hören**, the Plusquamperfekt shows the order of events – exactly what statements like „Zuerst …, dann …“ test.\n\nIn **Schreiben**, one sentence like „Nachdem ich Ihre Anzeige gelesen hatte, war ich sofort begeistert.“ shows the examiner a wide range of grammar.",
+      "mdDe": "In **Sprachbausteine Teil 1** musst du vielleicht in einem Satz mit „nachdem“ oder „als … schon“ zwischen „hatte / war / hat“ wählen. Entscheide zuerst die Zeitform (ein Schritt vor der anderen Handlung in der Vergangenheit), dann haben oder sein (Bewegung oder Zustandsänderung → war). Beim **Lesen** und **Hören** zeigt das Plusquamperfekt die Reihenfolge der Ereignisse – genau das prüfen Aussagen wie „Zuerst …, dann …“.\n\nBeim **Schreiben** zeigt ein Satz wie „Nachdem ich Ihre Anzeige gelesen hatte, war ich sofort begeistert.“ der prüfenden Person, dass du viel Grammatik beherrschst."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Nachdem ich frühstückte, ging ich zur Arbeit.",
+      "right": "Nachdem ich gefrühstückt hatte, ging ich zur Arbeit.",
+      "why": "The nachdem-clause happens first. If the main clause is in the Präteritum, the nachdem-clause needs the Plusquamperfekt.",
+      "whyDe": "Der nachdem-Satz passiert zuerst. Wenn der Hauptsatz im Präteritum steht, braucht der nachdem-Satz das Plusquamperfekt."
+    },
+    {
+      "wrong": "Als ich ankam, hatte der Bus schon abgefahren.",
+      "right": "Als ich ankam, war der Bus schon abgefahren.",
+      "why": "„abfahren“ takes sein, so the Plusquamperfekt is formed with „war“.",
+      "whyDe": "„abfahren“ braucht sein, deshalb bildest du das Plusquamperfekt mit „war“."
+    },
+    {
+      "wrong": "Nachdem er gegessen hat, ging er schlafen.",
+      "right": "Nachdem er gegessen hatte, ging er schlafen.",
+      "why": "Main clause in the Präteritum („ging“) → nachdem-clause in the Plusquamperfekt („hatte“), not in the Perfekt („hat“).",
+      "whyDe": "Hauptsatz im Präteritum („ging“) → nachdem-Satz im Plusquamperfekt („hatte“), nicht im Perfekt („hat“)."
+    },
+    {
+      "wrong": "Er war das Buch schon gelesen.",
+      "right": "Er hatte das Buch schon gelesen.",
+      "why": "„lesen“ has an accusative object and takes haben → „hatte … gelesen“.",
+      "whyDe": "„lesen“ hat ein Akkusativobjekt und braucht haben → „hatte … gelesen“."
+    },
+    {
+      "wrong": "Nachdem wir hatten gegessen, spielten wir Karten.",
+      "right": "Nachdem wir gegessen hatten, spielten wir Karten.",
+      "why": "In a subordinate clause the conjugated verb („hatten“) goes to the very end, after the participle.",
+      "whyDe": "Im Nebensatz steht das konjugierte Verb („hatten“) ganz am Ende, nach dem Partizip."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Als wir am Bahnhof ankamen, ___ der Zug schon abgefahren.",
+      "options": ["hatte", "war", "ist"],
+      "answer": 1,
+      "explanation": "The train left before we arrived → Plusquamperfekt. „abfahren“ takes sein → „war … abgefahren“. „ist“ (Perfekt) doesn't fit after the Präteritum „ankamen“.",
+      "explanationDe": "Der Zug ist abgefahren, bevor wir angekommen sind → Plusquamperfekt. „abfahren“ braucht sein → „war … abgefahren“. „ist“ (Perfekt) passt nicht nach dem Präteritum „ankamen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Nachdem Maria die Prüfung bestanden ___, feierte sie mit ihren Freunden.",
+      "options": ["war", "hat", "hatte"],
+      "answer": 2,
+      "explanation": "„bestehen“ takes haben. The main clause is in the Präteritum („feierte“), so the earlier action needs „hatte“.",
+      "explanationDe": "„bestehen“ braucht haben. Der Hauptsatz steht im Präteritum („feierte“), deshalb braucht die frühere Handlung „hatte“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Paul war sehr nervös, denn er ___ vorher noch nie geflogen.",
+      "options": ["war", "hatte", "hat"],
+      "answer": 0,
+      "explanation": "„fliegen“ (from A to B) takes sein → „war … geflogen“. „hat“ is wrong twice: wrong auxiliary and the wrong tense after „war nervös“.",
+      "explanationDe": "„fliegen“ (von A nach B) braucht sein → „war … geflogen“. „hat“ ist doppelt falsch: falsches Hilfsverb und falsche Zeitform nach „war nervös“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ wir den Film gesehen hatten, gingen wir noch etwas trinken.",
+      "options": ["Nach", "Nachdem", "Danach"],
+      "answer": 1,
+      "explanation": "„nachdem“ is a conjunction – the verb „hatten“ goes to the end. „nach“ is a preposition (nach dem Film), and „danach“ is an adverb (Danach gingen wir …).",
+      "explanationDe": "„nachdem“ ist eine Konjunktion – das Verb „hatten“ steht am Ende. „nach“ ist eine Präposition (nach dem Film), und „danach“ ist ein Adverb (Danach gingen wir …)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Nachdem wir eine Stunde auf den Techniker gewartet ___, rief ich bei der Firma an.",
+      "answers": ["hatten"],
+      "explanation": "„warten“ takes haben; with „wir“ → „hatten“. It goes to the end of the nachdem-clause.",
+      "explanationDe": "„warten“ braucht haben; mit „wir“ → „hatten“. Es steht am Ende des nachdem-Satzes."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich war total müde, weil ich die ganze Nacht nicht ___ hatte.",
+      "answers": ["geschlafen"],
+      "hint": "(schlafen)",
+      "explanation": "„hatte“ + past participle. „schlafen“ is irregular, but its participle keeps the stem: „geschlafen“.",
+      "explanationDe": "„hatte“ + Partizip II. „schlafen“ ist unregelmäßig, aber sein Partizip behält den Stamm: „geschlafen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Als ich nach Hause kam, ___ meine Eltern schon ins Bett gegangen.",
+      "answers": ["waren"],
+      "explanation": "„gehen“ takes sein, and the subject „meine Eltern“ is plural → „waren“.",
+      "explanationDe": "„gehen“ braucht sein, und das Subjekt „meine Eltern“ ist Plural → „waren“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bevor er nach Deutschland kam, ___ er schon zwei Jahre Deutsch gelernt.",
+      "answers": ["hatte"],
+      "explanation": "„lernen“ takes haben. He learnt German before he came → „hatte … gelernt“.",
+      "explanationDe": "„lernen“ braucht haben. Er hat Deutsch gelernt, bevor er gekommen ist → „hatte … gelernt“."
+    },
+    {
+      "type": "order",
+      "words": ["ins", "hatte,", "sie", "Nachdem", "Büro.", "gefrühstückt", "fuhr", "sie"],
+      "answers": ["Nachdem sie gefrühstückt hatte, fuhr sie ins Büro."],
+      "explanation": "„hatte“ goes to the end of the nachdem-clause. The main clause starts with the verb „fuhr“, because the whole nachdem-clause is in position 1.",
+      "explanationDe": "„hatte“ steht am Ende des nachdem-Satzes. Der Hauptsatz beginnt mit dem Verb „fuhr“, weil der ganze nachdem-Satz auf Position 1 steht."
+    },
+    {
+      "type": "order",
+      "words": ["gekauft.", "Januar", "die", "hatte", "im", "Ich", "schon", "Tickets"],
+      "answers": [
+        "Ich hatte die Tickets schon im Januar gekauft.",
+        "Die Tickets hatte ich schon im Januar gekauft.",
+        "Schon im Januar hatte ich die Tickets gekauft.",
+        "Ich hatte schon im Januar die Tickets gekauft.",
+        "Ich hatte die Tickets im Januar schon gekauft.",
+        "Die Tickets hatte ich im Januar schon gekauft.",
+        "Im Januar hatte ich die Tickets schon gekauft.",
+        "Im Januar hatte ich schon die Tickets gekauft.",
+        "Ich hatte im Januar schon die Tickets gekauft.",
+        "Ich hatte im Januar die Tickets schon gekauft."
+      ],
+      "explanation": "„hatte“ is in position 2 and the participle „gekauft“ at the end – everything else goes in between.",
+      "explanationDe": "„hatte“ steht auf Position 2 und das Partizip „gekauft“ am Ende – alles andere steht dazwischen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „nachdem“. The earlier action goes into the nachdem-clause.",
+      "instructionDe": "Verbinde die Sätze mit „nachdem“. Die frühere Handlung kommt in den nachdem-Satz.",
+      "prompt": "Tom räumte die Wohnung auf. Dann kamen die Gäste.",
+      "answers": [
+        "Nachdem Tom die Wohnung aufgeräumt hatte, kamen die Gäste.",
+        "Die Gäste kamen, nachdem Tom die Wohnung aufgeräumt hatte."
+      ],
+      "explanation": "The earlier action („aufräumen“) goes into the Plusquamperfekt: „aufgeräumt hatte“ at the end of the nachdem-clause. The main clause stays in the Präteritum.",
+      "explanationDe": "Die frühere Handlung („aufräumen“) steht im Plusquamperfekt: „aufgeräumt hatte“ am Ende des nachdem-Satzes. Der Hauptsatz bleibt im Präteritum."
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the sentence into the Plusquamperfekt.",
+      "instructionDe": "Setze den Satz ins Plusquamperfekt.",
+      "prompt": "Die Kinder sind schon eingeschlafen.",
+      "answers": ["Die Kinder waren schon eingeschlafen."],
+      "explanation": "Perfekt with sein → Plusquamperfekt with war: „sind … eingeschlafen“ becomes „waren … eingeschlafen“.",
+      "explanationDe": "Perfekt mit sein → Plusquamperfekt mit war: Aus „sind … eingeschlafen“ wird „waren … eingeschlafen“."
+    }
+  ],
+  "related": ["perfekt", "praeteritum", "temporale-nebensaetze"]
+}

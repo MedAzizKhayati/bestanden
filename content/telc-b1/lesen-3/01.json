@@ -1,0 +1,236 @@
+{
+  "id": "lesen-3-01",
+  "examId": "telc-b1",
+  "type": "ad-matching",
+  "title": "Freizeit in Leipzig",
+  "topic": "freizeit",
+  "difficulty": 1,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Sie sind vor Kurzem nach Leipzig gezogen und kennen noch niemanden. Sie möchten abends neue Leute treffen und dabei Gesellschaftsspiele spielen.",
+      "answer": "f",
+      "explanation": "„Kennenlern-Abend – einfach allein kommen und mitspielen!“ – the games bar (f) is open in the evening and invites people who come alone. The escape room (k) is also a game, but you book it with your own group.",
+      "explanationDe": "„Kennenlern-Abend – einfach allein kommen und mitspielen!“ – die Spielbar (f) hat abends geöffnet und lädt Menschen ein, die allein kommen. Der Escape Room (k) ist auch ein Spiel, aber den bucht man mit der eigenen Gruppe."
+    },
+    {
+      "n": 2,
+      "text": "Ihr Sohn ist zehn Jahre alt. In den Sommerferien möchte er mit Ihnen zusammen draußen in den Bäumen klettern.",
+      "answer": "j",
+      "explanation": "„Klettern von Baum zu Baum“ and „ab 8 Jahren, Kinder unter 14 nur mit Erwachsenen“ – the ropes course (j) is right for a ten-year-old with a parent. The bouldering hall (a) is indoors and only „ab 14 Jahren“.",
+      "explanationDe": "„Klettern von Baum zu Baum“ und „ab 8 Jahren, Kinder unter 14 nur mit Erwachsenen“ – der Hochseilgarten (j) passt für einen Zehnjährigen mit einem Elternteil. Die Boulderhalle (a) ist drinnen und erst „ab 14 Jahren“."
+    },
+    {
+      "n": 3,
+      "text": "Ihre Kollegin möchte im Winter mit dem Klettern anfangen. Sie sucht einen Kurs für Anfänger und hat keine eigene Ausrüstung.",
+      "answer": "a",
+      "explanation": "„Klettern … das ganze Jahr“ and „Einsteigerkurs … inkl. Leihschuhen“ – the bouldering hall (a) has a beginners' course all year round. The ropes course (j) includes equipment, but it is only open „April–Oktober“.",
+      "explanationDe": "„Klettern … das ganze Jahr“ und „Einsteigerkurs … inkl. Leihschuhen“ – die Boulderhalle (a) hat das ganze Jahr über einen Kurs für Anfänger. Beim Hochseilgarten (j) ist die Ausrüstung dabei, aber er ist nur „April–Oktober“ geöffnet."
+    },
+    {
+      "n": 4,
+      "text": "Ihre Tochter wird im November sieben Jahre alt. Sie möchte mit ihren Freundinnen Geburtstag feiern – nicht zu Hause, aber auf jeden Fall drinnen.",
+      "answer": "h",
+      "explanation": "„Kindergeburtstag“, „in der Halle“ and „für Kinder ab 4 Jahren“ – the black-light mini golf (h) offers indoor birthday parties for young children. The escape room (k) is indoors too, but only „ab 12 Jahren“.",
+      "explanationDe": "„Kindergeburtstag“, „in der Halle“ und „für Kinder ab 4 Jahren“ – das Schwarzlicht-Minigolf (h) bietet Geburtstagsfeiern drinnen für kleine Kinder an. Der Escape Room (k) ist auch drinnen, aber erst „ab 12 Jahren“."
+    },
+    {
+      "n": 5,
+      "text": "Sie möchten mit vier Freunden ein Abenteuer erleben: In einem geschlossenen Raum lösen Sie gemeinsam Rätsel, damit Sie wieder herauskommen.",
+      "answer": "k",
+      "explanation": "„Könnt ihr in 60 Minuten entkommen?“ and „für Gruppen von 2–6 Personen“ – the escape room (k) fits a group of five. The games bar (f) only offers board games.",
+      "explanationDe": "„Könnt ihr in 60 Minuten entkommen?“ und „für Gruppen von 2–6 Personen“ – der Escape Room (k) passt für eine Gruppe von fünf Personen. Die Spielbar (f) bietet nur Brettspiele an."
+    },
+    {
+      "n": 6,
+      "text": "Sie möchten an einem Sommerabend einen Film im Freien sehen. Ihr Besuch aus Irland versteht kein Deutsch, deshalb soll der Film auf Englisch sein.",
+      "answer": "d",
+      "explanation": "„Mittwochs: englische Filme im Original“ – the summer cinema in the park (d) shows English films outdoors. The outdoor pool (l) also has a cinema evening, but the films are „auf Deutsch“.",
+      "explanationDe": "„Mittwochs: englische Filme im Original“ – das Sommerkino im Stadtpark (d) zeigt englische Filme im Freien. Das Freibad (l) hat auch einen Kinoabend, aber die Filme sind „auf Deutsch“."
+    },
+    {
+      "n": 7,
+      "text": "Ihre Freundin möchte Salsa tanzen lernen. Sie hat aber keinen Partner, der mitmacht.",
+      "answer": "x",
+      "explanation": "The dance school (e) has a Salsa course for beginners, but it says „Nur für Paare – bitte zu zweit anmelden!“, so your friend cannot go alone. No other ad offers dancing, so the answer is x.",
+      "explanationDe": "Die Tanzschule (e) hat einen Salsa-Kurs für Anfänger, aber dort steht „Nur für Paare – bitte zu zweit anmelden!“ – deine Freundin kann also nicht allein hingehen. Keine andere Anzeige bietet Tanzen an, deshalb ist die Lösung x."
+    },
+    {
+      "n": 8,
+      "text": "Sie interessieren sich für die Geschichte von Leipzig und möchten an einer Führung teilnehmen. Sie haben aber nur abends Zeit.",
+      "answer": "b",
+      "explanation": "„800 Jahre Geschichte“ and „jeden Freitag und Samstag, 21 Uhr“ – the night watchman's tour (b) is about history and takes place in the evening. The canoe tour about the history of the canals (c) is on „samstags 14 Uhr“, in the afternoon.",
+      "explanationDe": "„800 Jahre Geschichte“ und „jeden Freitag und Samstag, 21 Uhr“ – der Rundgang mit dem Nachtwächter (b) handelt von Geschichte und findet abends statt. Die Kanutour zur Geschichte der Kanäle (c) ist „samstags 14 Uhr“, also am Nachmittag."
+    },
+    {
+      "n": 9,
+      "text": "Sie möchten am Sonntag an einer geführten Fahrradtour zu einem See teilnehmen. Ein eigenes Fahrrad haben Sie nicht.",
+      "answer": "i",
+      "explanation": "„Jeden Sonntag 10 Uhr: geführte Radtour zu den Seen“ and „Stadträder ab 10 € pro Tag“ – at (i) you can hire a bike and join the Sunday tour. The canoe station (c) also hires things out, but only boats.",
+      "explanationDe": "„Jeden Sonntag 10 Uhr: geführte Radtour zu den Seen“ und „Stadträder ab 10 € pro Tag“ – bei (i) kannst du ein Fahrrad leihen und bei der Tour am Sonntag mitfahren. Die Kanu-Station (c) verleiht auch etwas, aber nur Boote."
+    },
+    {
+      "n": 10,
+      "text": "Sie möchten vor der Arbeit schwimmen gehen. Um halb neun müssen Sie im Büro sein.",
+      "answer": "g",
+      "explanation": "„Frühschwimmen: Mo.–Fr. 6–8 Uhr“ – at the indoor pool (g) you can swim before work. The outdoor pool (l) only opens at 9 o'clock („täglich 9–20 Uhr“).",
+      "explanationDe": "„Frühschwimmen: Mo.–Fr. 6–8 Uhr“ – im Hallenbad (g) kannst du vor der Arbeit schwimmen. Das Freibad (l) öffnet erst um 9 Uhr („täglich 9–20 Uhr“)."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Boulderhalle Felsenfest",
+      "subheading": "Klettern ohne Seil – das ganze Jahr!",
+      "lines": [
+        "Über 200 Kletterrouten auf 1.200 m²",
+        "Einsteigerkurs: 3 Abende à 90 Min., 59 € inkl. Leihschuhen",
+        "Mo.–Fr. 10–23 Uhr, Sa./So. 9–22 Uhr",
+        "Zutritt ab 14 Jahren"
+      ],
+      "footer": "Gleisstraße 8, 04229 Leipzig · Tel. 0341 4492817 · www.felsenfest-leipzig.de"
+    },
+    {
+      "key": "b",
+      "heading": "Mit dem Nachtwächter durch Leipzig",
+      "subheading": "Stadtgeschichte bei Laternenlicht",
+      "lines": [
+        "Rundgang durch die Altstadt: 800 Jahre Geschichte in 90 Minuten",
+        "Jeden Freitag und Samstag, 21 Uhr",
+        "Treffpunkt: Marktplatz, am Brunnen",
+        "Erwachsene 12 €, Kinder bis 14 Jahre frei",
+        "Keine Anmeldung nötig"
+      ],
+      "footer": "Tel. 0341 2230561 · www.leipzig-bei-nacht.de"
+    },
+    {
+      "key": "c",
+      "heading": "Kanu-Station am Kanal",
+      "lines": [
+        "Kanus und Kajaks zum Ausleihen: ab 12 € pro Stunde",
+        "Geführte Tour „Geschichte der Kanäle“: samstags 14 Uhr, 25 € pro Person",
+        "Schwimmweste inklusive",
+        "April–Oktober täglich 10–19 Uhr"
+      ],
+      "footer": "Am Wehr 3, 04229 Leipzig · Tel. 0341 9183302"
+    },
+    {
+      "key": "d",
+      "heading": "Sommerkino im Stadtpark",
+      "subheading": "Filme unter Sternen",
+      "lines": [
+        "1. Juli bis 31. August, jeden Abend ab 21.30 Uhr",
+        "Mittwochs: englische Filme im Original mit deutschen Untertiteln",
+        "Eintritt 8 € – Decken und Kissen bitte mitbringen!",
+        "Bei Regen fällt die Vorstellung aus."
+      ],
+      "footer": "Stadtpark, Eingang Parkallee · www.sommerkino-leipzig.de"
+    },
+    {
+      "key": "e",
+      "heading": "Tanzschule Takt & Schritt",
+      "subheading": "Lust auf Latino-Rhythmen?",
+      "lines": [
+        "Neuer Salsa-Kurs für Einsteiger: 8 Abende, dienstags 19.30 Uhr",
+        "Nur für Paare – bitte zu zweit anmelden!",
+        "89 € pro Person",
+        "Nach dem Kurs: Getränke an unserer Bar"
+      ],
+      "footer": "Lessingplatz 2, 04109 Leipzig · Tel. 0341 6027745 · www.takt-und-schritt.de"
+    },
+    {
+      "key": "f",
+      "heading": "Würfelglück – die Spielbar",
+      "subheading": "Über 400 Gesellschaftsspiele, Snacks und Getränke",
+      "lines": [
+        "Di.–So. ab 18 Uhr, Spielgebühr 3 € pro Person",
+        "Donnerstags: Kennenlern-Abend – einfach allein kommen und mitspielen!",
+        "Wir erklären Ihnen jedes Spiel.",
+        "Zutritt ab 18 Jahren"
+      ],
+      "footer": "Rosengasse 17, 04109 Leipzig · www.spielbar-leipzig.de"
+    },
+    {
+      "key": "g",
+      "heading": "Hallenbad Nordost",
+      "lines": [
+        "Frühschwimmen: Mo.–Fr. 6–8 Uhr",
+        "Öffentliches Baden: Mo.–Fr. 14–21 Uhr, Sa./So. 9–18 Uhr",
+        "Sauna mit Ruheraum, Aquafitness und Schwimmkurse",
+        "Einzelkarte 5 €, ermäßigt 3,50 €"
+      ],
+      "footer": "Ostring 40, 04347 Leipzig · Tel. 0341 7730154"
+    },
+    {
+      "key": "h",
+      "heading": "Schwarzlicht-Minigolf Glühwürmchen",
+      "subheading": "Minigolf im Dunkeln – Spaß bei jedem Wetter!",
+      "lines": [
+        "18 leuchtende Bahnen in der Halle",
+        "Für Kinder ab 4 Jahren und Erwachsene",
+        "Kindergeburtstag: Spiel, Getränke und Kuchen, 12 € pro Kind",
+        "Mo.–Sa. 14–22 Uhr, So. 10–20 Uhr"
+      ],
+      "footer": "Lagerhofstraße 5, 04103 Leipzig · www.minigolf-im-dunkeln.de"
+    },
+    {
+      "key": "i",
+      "heading": "Rad & Tour Leipzig",
+      "subheading": "Fahrradverleih am Hauptbahnhof",
+      "lines": [
+        "Stadträder ab 10 € pro Tag, E-Bikes ab 25 €",
+        "Jeden Sonntag 10 Uhr: geführte Radtour zu den Seen im Süden der Stadt, 15 € (plus Leihrad)",
+        "Täglich 8–20 Uhr geöffnet",
+        "Bitte Personalausweis mitbringen."
+      ],
+      "footer": "Tel. 0341 3398820 · www.radundtour-leipzig.de"
+    },
+    {
+      "key": "j",
+      "heading": "Hochseilgarten im Auwald",
+      "lines": [
+        "9 Parcours in 2 bis 12 Metern Höhe – Klettern von Baum zu Baum",
+        "Ausrüstung und Sicherheitseinweisung inklusive",
+        "Ab 8 Jahren, Kinder unter 14 nur mit Erwachsenen",
+        "April–Oktober täglich 10–19 Uhr, 3 Stunden ab 22 €"
+      ],
+      "footer": "Waldweg 21, 04159 Leipzig · Tel. 0341 8810473 · www.kletterwald-leipzig.de"
+    },
+    {
+      "key": "k",
+      "heading": "Escape Room Leipzig",
+      "subheading": "Könnt ihr in 60 Minuten entkommen?",
+      "lines": [
+        "Drei Themenräume: Detektivbüro, Labor, Zugabteil",
+        "Für Gruppen von 2–6 Personen, ab 12 Jahren",
+        "Täglich 12–23 Uhr, nur mit Online-Buchung",
+        "Ab 22 € pro Person"
+      ],
+      "footer": "Nikolaiweg 9, 04109 Leipzig · www.escape-leipzig.de"
+    },
+    {
+      "key": "l",
+      "heading": "Freibad am Kiessee",
+      "lines": [
+        "Sportbecken, Sprungturm und große Liegewiese",
+        "Mai–September täglich 9–20 Uhr",
+        "Jeden Freitag im August: Kino am Beckenrand, Filme auf Deutsch, Beginn 21 Uhr",
+        "Tageskarte 4 €, Kinder 2 €"
+      ],
+      "footer": "Seeweg 1, 04249 Leipzig · Tel. 0341 4127766"
+    }
+  ],
+  "glossary": [
+    { "de": "der Einsteigerkurs", "en": "beginners' course" },
+    { "de": "die Leihschuhe (Pl.)", "en": "rental shoes" },
+    { "de": "der Hochseilgarten", "en": "high ropes course" },
+    { "de": "die Sicherheitseinweisung", "en": "safety briefing" },
+    { "de": "ausleihen", "en": "to hire, to borrow" },
+    { "de": "die Schwimmweste", "en": "life jacket" },
+    { "de": "unter freiem Himmel / im Freien", "en": "in the open air" },
+    { "de": "der Untertitel", "en": "subtitle" },
+    { "de": "ausfallen", "en": "to be cancelled" },
+    { "de": "entkommen", "en": "to escape" },
+    { "de": "der Treffpunkt", "en": "meeting point" }
+  ]
+}

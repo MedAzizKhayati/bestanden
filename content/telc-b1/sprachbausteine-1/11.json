@@ -1,0 +1,145 @@
+{
+  "id": "sprachbausteine-1-11",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Entschuldigung, Katrin!",
+  "topic": "kultur",
+  "difficulty": 3,
+  "textType": "email-informal",
+  "text": "Liebe Katrin,\n\nes tut mir wirklich leid, dass ich am Freitag nicht zu deiner Premiere gekommen bin! Ich hatte mich schon seit Wochen auf das Stück gefreut, für [[1]] du so lange geprobt hast.\n\nEigentlich wollte ich direkt nach der Arbeit mit dem Zug nach Hannover fahren. Doch kurz vor der Abfahrt [[2]] der Zug wegen einer Störung gestrichen. Der nächste fuhr erst zwei Stunden später. Mit diesem Zug [[3]] ich erst nach dem Ende der Vorstellung angekommen. Natürlich wollte ich dich sofort anrufen, aber mein Handy war leer. Ich [[4]] am Abend vorher vergessen, es aufzuladen. Deshalb habe ich dich nicht erreichen [[5]]. Es ist mir sehr unangenehm, dass ich einfach weggeblieben bin, ohne dir Bescheid [[6]].\n\nLena hat mir erzählt, dass die Vorstellung ein großer Erfolg war und das Publikum am Ende minutenlang geklatscht hat. Ich bin wirklich stolz [[7]] dich!\n\nDarf ich meinen Fehler wiedergutmachen? Ich habe mir schon eine Karte für die Vorstellung am 12. Dezember gekauft – in der [[8]] Reihe! Danach möchte ich dir nicht nur Blumen schenken, [[9]] dich auch zum Essen einladen. Das Restaurant darfst du [[10]] natürlich selbst aussuchen.\n\nBitte sei mir nicht mehr böse!\n\nLiebe Grüße\nDein Oliver",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "dem" },
+        { "key": "b", "text": "den" },
+        { "key": "c", "text": "das" }
+      ],
+      "answer": "c",
+      "explanation": "„für“ takes the accusative, and the relative pronoun refers to „das Stück“ (neuter): „für das“. „dem“ is dative, and „den“ would refer to a masculine noun.",
+      "explanationDe": "Nach „für“ steht der Akkusativ, und das Relativpronomen bezieht sich auf „das Stück“ (neutral): „für das“. „dem“ ist Dativ, und „den“ würde sich auf ein maskulines Nomen beziehen.",
+      "grammar": "relativsaetze"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "ist" },
+        { "key": "b", "text": "wurde" },
+        { "key": "c", "text": "hatte" }
+      ],
+      "answer": "b",
+      "explanation": "The train did not cancel anything – it was cancelled. Passiv Präteritum: „wurde … gestrichen“. „ist … gestrichen“ would need „worden“, and with „hatte“ the train would be the active subject.",
+      "explanationDe": "Der Zug hat nichts gestrichen – er wurde gestrichen. Passiv Präteritum: „wurde … gestrichen“. „ist … gestrichen“ bräuchte noch „worden“, und mit „hatte“ wäre der Zug das aktive Subjekt.",
+      "grammar": "passiv"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "wäre" },
+        { "key": "b", "text": "hätte" },
+        { "key": "c", "text": "würde" }
+      ],
+      "answer": "a",
+      "explanation": "Oliver did not take this train, so this is a hypothetical past: Konjunktiv II der Vergangenheit = „wäre/hätte“ + Partizip II. „ankommen“ forms its perfect tenses with „sein“: „wäre … angekommen“. „würde“ cannot be combined with a participle alone.",
+      "explanationDe": "Oliver hat diesen Zug nicht genommen. Es geht also um eine hypothetische Vergangenheit: Konjunktiv II der Vergangenheit = „wäre/hätte“ + Partizip II. „ankommen“ bildet die Perfektformen mit „sein“: „wäre … angekommen“. „würde“ passt nicht zu einem Partizip allein.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "war" },
+        { "key": "b", "text": "wurde" },
+        { "key": "c", "text": "hatte" }
+      ],
+      "answer": "c",
+      "explanation": "Forgetting to charge the phone happened before the other past events, so you need the Plusquamperfekt: „hatte … vergessen“ („vergessen“ takes „haben“). „war“ is the wrong auxiliary, and „wurde“ would make the sentence passive.",
+      "explanationDe": "Er hat vergessen, das Handy aufzuladen, und das war vor den anderen Ereignissen in der Vergangenheit. Du brauchst also das Plusquamperfekt: „hatte … vergessen“ („vergessen“ steht mit „haben“). „war“ ist das falsche Hilfsverb, und „wurde“ würde den Satz zum Passiv machen.",
+      "grammar": "plusquamperfekt"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "gekonnt" },
+        { "key": "b", "text": "konnte" },
+        { "key": "c", "text": "können" }
+      ],
+      "answer": "c",
+      "explanation": "In the Perfekt, a modal verb with another infinitive („erreichen“) appears as an infinitive, not as a participle: „habe … erreichen können“. „gekonnt“ is only used without a second verb, and „konnte“ cannot follow „habe“.",
+      "explanationDe": "Im Perfekt steht ein Modalverb mit einem anderen Infinitiv („erreichen“) als Infinitiv, nicht als Partizip: „habe … erreichen können“. „gekonnt“ benutzt man nur ohne zweites Verb, und „konnte“ kann nicht nach „habe“ stehen.",
+      "grammar": "modalverben"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "zu sagen" },
+        { "key": "b", "text": "sagen" },
+        { "key": "c", "text": "gesagt" }
+      ],
+      "answer": "a",
+      "explanation": "„ohne … zu“ + infinitive: „ohne dir Bescheid zu sagen“ = without letting you know. After „ohne“ the infinitive must have „zu“.",
+      "explanationDe": "„ohne … zu“ + Infinitiv: „ohne dir Bescheid zu sagen“ = ohne dich zu informieren. Nach „ohne“ braucht der Infinitiv „zu“.",
+      "grammar": "infinitiv-mit-zu"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "über" },
+        { "key": "b", "text": "auf" },
+        { "key": "c", "text": "für" }
+      ],
+      "answer": "b",
+      "explanation": "„stolz sein auf“ + accusative is a fixed combination: „stolz auf dich“. „über“ and „für“ are not used with „stolz“.",
+      "explanationDe": "„stolz sein auf“ + Akkusativ ist eine feste Verbindung: „stolz auf dich“. „über“ und „für“ benutzt man nicht mit „stolz“.",
+      "grammar": "adjektive-mit-praepositionen"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "erste" },
+        { "key": "b", "text": "ersten" },
+        { "key": "c", "text": "erster" }
+      ],
+      "answer": "b",
+      "explanation": "„in der Reihe“ answers „Wo?“, so it is dative feminine. After the definite article „der“ in the dative the adjective ends in „-en“: „in der ersten Reihe“.",
+      "explanationDe": "„in der Reihe“ antwortet auf „Wo?“, also steht es im Dativ feminin. Nach dem bestimmten Artikel „der“ im Dativ hat das Adjektiv die Endung „-en“: „in der ersten Reihe“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "sondern" },
+        { "key": "b", "text": "aber" },
+        { "key": "c", "text": "oder" }
+      ],
+      "answer": "a",
+      "explanation": "„nicht nur …, sondern auch …“ is a fixed two-part connector. After „nicht nur“ you cannot use „aber“ or „oder“.",
+      "explanationDe": "„nicht nur …, sondern auch …“ ist ein fester zweiteiliger Konnektor. Nach „nicht nur“ kannst du nicht „aber“ oder „oder“ benutzen.",
+      "grammar": "zweiteilige-konnektoren"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "dich" },
+        { "key": "b", "text": "dir" },
+        { "key": "c", "text": "du" }
+      ],
+      "answer": "b",
+      "explanation": "„sich etwas aussuchen“: the verb already has an accusative object („das Restaurant“), so the reflexive pronoun is dative: „du darfst dir … aussuchen“. „dich“ is accusative, and „du“ is already the subject.",
+      "explanationDe": "„sich etwas aussuchen“: Das Verb hat schon ein Akkusativobjekt („das Restaurant“), deshalb steht das Reflexivpronomen im Dativ: „du darfst dir … aussuchen“. „dich“ ist Akkusativ, und „du“ ist schon das Subjekt.",
+      "grammar": "reflexive-verben"
+    }
+  ],
+  "glossary": [
+    { "de": "die Premiere", "en": "opening night, premiere" },
+    { "de": "proben", "en": "to rehearse" },
+    { "de": "die Störung", "en": "technical fault, disruption" },
+    { "de": "einen Zug streichen", "en": "to cancel a train" },
+    { "de": "die Vorstellung", "en": "performance, show" },
+    { "de": "aufladen", "en": "to charge (a battery)" },
+    { "de": "unangenehm", "en": "embarrassing, awkward" },
+    { "de": "Bescheid sagen", "en": "to let someone know" },
+    { "de": "klatschen", "en": "to clap, to applaud" },
+    { "de": "wiedergutmachen", "en": "to make up for" },
+    { "de": "jemandem böse sein", "en": "to be angry with someone" }
+  ]
+}

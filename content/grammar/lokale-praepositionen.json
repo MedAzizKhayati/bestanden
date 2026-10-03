@@ -1,0 +1,225 @@
+{
+  "id": "lokale-praepositionen",
+  "level": "A2",
+  "category": "praepositionen",
+  "order": 4,
+  "title": "Lokale Präpositionen: in, an, auf, zu, nach, bei, aus, von",
+  "titleEn": "Prepositions of place",
+  "summary": "Where you go, where you are and where you come from: nach Wien, in die Schweiz, zum Arzt – beim Arzt – vom Arzt.",
+  "summaryDe": "Wohin du gehst, wo du bist und woher du kommst: nach Wien, in die Schweiz, zum Arzt – beim Arzt – vom Arzt.",
+  "examRelevance": ["sprachbausteine", "sprechen", "schreiben", "hoeren"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "For places, German asks three questions: **Wohin?** (nach, zu, in/an/auf + Akkusativ), **Wo?** (in/an/auf + Dativ, bei) and **Woher?** (aus, von). Which preposition you need depends on the kind of place – a town, a country, a building, a person, the sea, an event …",
+      "mdDe": "Bei Ortsangaben gibt es im Deutschen drei Fragen: **Wohin?** (nach, zu, in/an/auf + Akkusativ), **Wo?** (in/an/auf + Dativ, bei) und **Woher?** (aus, von). Welche Präposition du brauchst, hängt von der Art des Ortes ab – eine Stadt, ein Land, ein Gebäude, eine Person, das Meer, eine Veranstaltung …"
+    },
+    {
+      "type": "table",
+      "heading": "Wohin? – Wo? – Woher?",
+      "headingDe": "Wohin? – Wo? – Woher?",
+      "columns": ["Ort", "Wohin?", "Wo?", "Woher?"],
+      "rows": [
+        ["towns, countries without article", "nach Wien, nach Spanien", "in Wien, in Spanien", "aus Wien, aus Spanien"],
+        ["countries with article", "in die Schweiz, in die Türkei, in die USA", "in der Schweiz, in der Türkei, in den USA", "aus der Schweiz, aus der Türkei, aus den USA"],
+        ["buildings, rooms (inside)", "ins Kino, in die Küche", "im Kino, in der Küche", "aus dem Kino, aus der Küche"],
+        ["people", "zum Arzt, zu meiner Oma", "beim Arzt, bei meiner Oma", "vom Arzt, von meiner Oma"],
+        ["shops, offices, companies", "zur Post, zum Bäcker", "bei der Post, beim Bäcker", "von der Post, vom Bäcker"],
+        ["water, edges", "ans Meer, an den See", "am Meer, am See", "vom Meer, vom See"],
+        ["open areas, islands, events", "auf den Markt, auf die Insel, auf eine Party", "auf dem Markt, auf der Insel, auf einer Party", "vom Markt, von der Insel, von einer Party"],
+        ["home", "nach Hause", "zu Hause", "von zu Hause"]
+      ],
+      "rowsDe": [
+        ["Städte, Länder ohne Artikel", "nach Wien, nach Spanien", "in Wien, in Spanien", "aus Wien, aus Spanien"],
+        ["Länder mit Artikel", "in die Schweiz, in die Türkei, in die USA", "in der Schweiz, in der Türkei, in den USA", "aus der Schweiz, aus der Türkei, aus den USA"],
+        ["Gebäude, Räume (innen)", "ins Kino, in die Küche", "im Kino, in der Küche", "aus dem Kino, aus der Küche"],
+        ["Personen", "zum Arzt, zu meiner Oma", "beim Arzt, bei meiner Oma", "vom Arzt, von meiner Oma"],
+        ["Geschäfte, Ämter, Firmen", "zur Post, zum Bäcker", "bei der Post, beim Bäcker", "von der Post, vom Bäcker"],
+        ["Wasser, Ränder", "ans Meer, an den See", "am Meer, am See", "vom Meer, vom See"],
+        ["offene Flächen, Inseln, Veranstaltungen", "auf den Markt, auf die Insel, auf eine Party", "auf dem Markt, auf der Insel, auf einer Party", "vom Markt, von der Insel, von einer Party"],
+        ["Zuhause", "nach Hause", "zu Hause", "von zu Hause"]
+      ],
+      "note": "aus, bei, nach, von and zu always take the dative. in, an and auf take the accusative for Wohin? and the dative for Wo?. In Austria and Switzerland you will also see „nachhause“ and „zuhause“.",
+      "noteDe": "aus, bei, nach, von und zu stehen immer mit Dativ. in, an und auf stehen bei Wohin? mit Akkusativ und bei Wo? mit Dativ. In Österreich und in der Schweiz siehst du auch „nachhause“ und „zuhause“."
+    },
+    {
+      "type": "text",
+      "heading": "nach, in or zu?",
+      "headingDe": "nach, in oder zu?",
+      "md": "- **nach** for towns and countries **without** an article: „nach Köln“, „nach Österreich“ – and in „nach Hause“, „nach links“, „nach oben“.\n- **in** + Akkusativ when you go **into** a building or room, and for countries **with** an article: „Ich gehe **ins** Kino.“ (and watch the film inside), „Wir fliegen **in die** USA.“\n- **zu** + Dativ for **people** and for places where the place itself is your goal: „Ich gehe **zum** Arzt.“, „Wie komme ich **zum** Bahnhof?“, „Ich fahre **zur** Arbeit.“\n\nRule of thumb for people: always „**zu**“ (Wohin?), „**bei**“ (Wo?), „**von**“ (Woher?).",
+      "mdDe": "- **nach** für Städte und Länder **ohne** Artikel: „nach Köln“, „nach Österreich“ – und in „nach Hause“, „nach links“, „nach oben“.\n- **in** + Akkusativ, wenn du in ein Gebäude oder einen Raum **hineingehst**, und für Länder **mit** Artikel: „Ich gehe **ins** Kino.“ (du gehst hinein und siehst dort den Film), „Wir fliegen **in die** USA.“\n- **zu** + Dativ für **Personen** und für Orte, die selbst dein Ziel sind: „Ich gehe **zum** Arzt.“, „Wie komme ich **zum** Bahnhof?“, „Ich fahre **zur** Arbeit.“\n\nFaustregel für Personen: immer „**zu**“ (Wohin?), „**bei**“ (Wo?), „**von**“ (Woher?)."
+    },
+    {
+      "type": "text",
+      "heading": "an or auf?",
+      "headingDe": "an oder auf?",
+      "md": "- **an** = at the edge of or right next to something – especially water and vertical surfaces: „**am** Meer“, „**an der** Ostsee“, „**am** Rhein“, „**an der** Haltestelle“, „**an der** Kasse“, „**am** Fenster“.\n- **auf** = on a surface, in open areas, on islands and at events: „**auf dem** Land“ (in the countryside), „**auf dem** Markt“, „**auf dem** Spielplatz“, „**auf einer** Hochzeit“, „**auf** Rügen“.\n\nIn Austria and southern Germany you will also hear „**auf der** Post“ or „**aufs** Amt“.",
+      "mdDe": "- **an** = am Rand von etwas oder direkt neben etwas – besonders bei Wasser und senkrechten Flächen: „**am** Meer“, „**an der** Ostsee“, „**am** Rhein“, „**an der** Haltestelle“, „**an der** Kasse“, „**am** Fenster“.\n- **auf** = auf einer Fläche, auf offenen Flächen, auf Inseln und bei Veranstaltungen: „**auf dem** Land“ (= nicht in der Stadt), „**auf dem** Markt“, „**auf dem** Spielplatz“, „**auf einer** Hochzeit“, „**auf** Rügen“.\n\nIn Österreich und Süddeutschland hörst du auch „**auf der** Post“ oder „**aufs** Amt“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Nächste Woche fliege ich **nach** Portugal.", "en": "Next week I'm flying to Portugal." },
+        { "de": "Meine Schwester lebt **in der** Schweiz.", "en": "My sister lives in Switzerland." },
+        { "de": "Ich muss heute noch **zur** Apotheke.", "en": "I still have to go to the pharmacy today." },
+        { "de": "Ich war gestern **beim** Zahnarzt.", "en": "I was at the dentist's yesterday." },
+        { "de": "Kommst du gerade **vom** Training?", "en": "Are you just coming from training?" },
+        { "de": "Wir verbringen den Urlaub **an der** Nordsee.", "en": "We're spending our holiday on the North Sea coast." },
+        { "de": "Am Samstag gehen wir **auf den** Flohmarkt.", "en": "On Saturday we're going to the flea market." },
+        { "de": "Unsere Kinder sind **auf einer** Geburtstagsparty.", "en": "Our children are at a birthday party." },
+        { "de": "Ich bin heute den ganzen Tag **zu Hause**.", "en": "I'm at home all day today." },
+        { "de": "Herr Akın kommt **aus der** Türkei und wohnt **bei** seinem Onkel.", "en": "Mr Akın comes from Turkey and lives with his uncle." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**„nach Hause“ is a direction, „zu Hause“ is a place:** „Ich gehe **nach Hause**.“ (Wohin?) – „Ich bin **zu Hause**.“ (Wo?). And never use „nach“ with people or shops: „Ich gehe **zum** Arzt.“ – „nach dem Arzt“ would mean *after the doctor's appointment*.",
+      "mdDe": "**„nach Hause“ ist eine Richtung, „zu Hause“ ist ein Ort:** „Ich gehe **nach Hause**.“ (Wohin?) – „Ich bin **zu Hause**.“ (Wo?). Und nimm nie „nach“ bei Personen oder Geschäften: „Ich gehe **zum** Arzt.“ – „nach dem Arzt“ würde bedeuten: *nach dem Arzttermin*."
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 1:** a typical item is „Ich war gestern ___ meiner Tante.“ with the options „bei / zu / nach“ – Wo? + person → „bei“. Also look out for „nach Hause“ vs „zu Hause“ and for countries with an article („in die Türkei“). In **Teil 2**, „bei“, „zum“ or „nach“ can be words in the box.\n\n**Sprechen Teil 1:** say where you come from and where you live: „Ich komme **aus der** Ukraine und wohne seit zwei Jahren **in** Hannover.“ **Sprechen Teil 3** (planning): „Wir könnten **an den** See fahren.“, „Wer geht **zum** Supermarkt?“, „Treffen wir uns **bei** mir?“",
+      "mdDe": "**Sprachbausteine Teil 1:** Eine typische Aufgabe ist „Ich war gestern ___ meiner Tante.“ mit den Optionen „bei / zu / nach“ – Wo? + Person → „bei“. Achte auch auf den Unterschied zwischen „nach Hause“ und „zu Hause“ und auf Länder mit Artikel („in die Türkei“). In **Teil 2** können „bei“, „zum“ oder „nach“ Wörter im Kasten sein.\n\n**Sprechen Teil 1:** Sag, woher du kommst und wo du wohnst: „Ich komme **aus der** Ukraine und wohne seit zwei Jahren **in** Hannover.“ **Sprechen Teil 3** (Planen): „Wir könnten **an den** See fahren.“, „Wer geht **zum** Supermarkt?“, „Treffen wir uns **bei** mir?“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Im Sommer fahre ich nach die Schweiz.",
+      "right": "Im Sommer fahre ich in die Schweiz.",
+      "why": "Countries with an article take „in“ + accusative. „nach“ is only for names without an article („nach Spanien“).",
+      "whyDe": "Bei Ländern mit Artikel steht „in“ + Akkusativ. „nach“ gibt es nur bei Namen ohne Artikel („nach Spanien“)."
+    },
+    {
+      "wrong": "Ich gehe heute nach dem Arzt.",
+      "right": "Ich gehe heute zum Arzt.",
+      "why": "People → „zu“ (Wohin?). „nach dem Arzt“ means *after the doctor's appointment*.",
+      "whyDe": "Personen → „zu“ (Wohin?). „nach dem Arzt“ bedeutet *nach dem Arzttermin*."
+    },
+    {
+      "wrong": "Ich bin noch zu meiner Freundin.",
+      "right": "Ich bin noch bei meiner Freundin.",
+      "why": "Wo? + person → „bei“. „zu“ is for the direction: „Ich gehe zu meiner Freundin.“",
+      "whyDe": "Wo? + Person → „bei“. „zu“ steht für die Richtung: „Ich gehe zu meiner Freundin.“"
+    },
+    {
+      "wrong": "Gehst du schon zu Hause?",
+      "right": "Gehst du schon nach Hause?",
+      "why": "A direction → „nach Hause“. „zu Hause“ means *at home*.",
+      "whyDe": "Eine Richtung → „nach Hause“. „zu Hause“ antwortet auf die Frage *Wo?*."
+    },
+    {
+      "wrong": "Wir machen Urlaub am Mallorca.",
+      "right": "Wir machen Urlaub auf Mallorca.",
+      "why": "Islands take „auf“: „auf Mallorca“, „auf Rügen“.",
+      "whyDe": "Bei Inseln steht „auf“: „auf Mallorca“, „auf Rügen“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Gestern Abend war ich mit Freunden ___ einem Konzert.",
+      "options": ["auf", "nach", "zu"],
+      "answer": 0,
+      "explanation": "Events take „auf“: Wo? → „auf einem Konzert“. „zu“ would be a direction and doesn't fit „war“.",
+      "explanationDe": "Bei Veranstaltungen steht „auf“: Wo? → „auf einem Konzert“. „zu“ wäre eine Richtung und passt nicht zu „war“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich muss morgen früh ___ Zahnarzt.",
+      "options": ["zum", "beim", "nach"],
+      "answer": 0,
+      "explanation": "„Ich muss … (gehen)“ is a direction to a person → „zu“ + dative → „zum Zahnarzt“. „beim“ would need „sein“: „Ich muss beim Zahnarzt sein.“",
+      "explanationDe": "„Ich muss … (gehen)“ ist eine Richtung zu einer Person → „zu“ + Dativ → „zum Zahnarzt“. Für „beim“ bräuchtest du „sein“: „Ich muss beim Zahnarzt sein.“"
+    },
+    {
+      "type": "mc",
+      "prompt": "Wohin fahrt ihr im Sommer? – Wir fahren ___ Meer.",
+      "options": ["ans", "am", "nach"],
+      "answer": 0,
+      "explanation": "„Wohin?“ + the sea → „an“ + accusative → „ans Meer“. „am Meer“ answers „Wo?“.",
+      "explanationDe": "„Wohin?“ + das Meer → „an“ + Akkusativ → „ans Meer“. „am Meer“ antwortet auf „Wo?“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich wohne ___ meiner Tante, bis ich eine eigene Wohnung finde.",
+      "options": ["bei", "zu", "nach"],
+      "answer": 0,
+      "explanation": "Living at someone's home answers „Wo?“ + person → „bei meiner Tante“.",
+      "explanationDe": "Bei jemandem wohnen ist eine Antwort auf „Wo?“ + Person → „bei meiner Tante“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich fahre am Wochenende ___ Hamburg.",
+      "hint": "(to the city)",
+      "hintDe": "(Ziel: eine Stadt)",
+      "answers": ["nach"],
+      "explanation": "Direction to a town without an article → „nach Hamburg“.",
+      "explanationDe": "Richtung zu einer Stadt ohne Artikel → „nach Hamburg“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Lena studiert ___ Niederlanden.",
+      "hint": "(in + die Niederlande)",
+      "answers": ["in den"],
+      "explanation": "„die Niederlande“ is a plural country name. „studieren“ answers Wo? → dative plural → „in den Niederlanden“.",
+      "explanationDe": "„die Niederlande“ ist ein Ländername im Plural. „studieren“ antwortet auf Wo? → Dativ Plural → „in den Niederlanden“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Kannst du mich bitte ___ Bahnhof abholen?",
+      "hint": "(von + der Bahnhof)",
+      "answers": ["vom", "von dem"],
+      "explanation": "„von“ + dative; „der Bahnhof“ → „von dem“, usually shortened to „vom Bahnhof“.",
+      "explanationDe": "„von“ + Dativ; „der Bahnhof“ → „von dem“, meistens verkürzt zu „vom Bahnhof“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Es ist schon spät. Ich gehe jetzt ___.",
+      "hint": "(home)",
+      "hintDe": "(Richtung: Zuhause)",
+      "answers": ["nach Hause", "nachhause"],
+      "explanation": "„gehen“ = a direction → „nach Hause“. „zu Hause“ would mean *at home*.",
+      "explanationDe": "„gehen“ = eine Richtung → „nach Hause“. „zu Hause“ würde auf die Frage *Wo?* antworten."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir waren gestern ___ Flohmarkt und haben alte Schallplatten gekauft.",
+      "hint": "(auf + der Flohmarkt)",
+      "answers": ["auf dem"],
+      "explanation": "A market is an open area → „auf“; „waren“ answers Wo? → dative → „auf dem Flohmarkt“.",
+      "explanationDe": "Ein Markt ist eine offene Fläche → „auf“; „waren“ antwortet auf Wo? → Dativ → „auf dem Flohmarkt“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Say where Tom is coming from now. Start with „Tom kommt gerade …“.",
+      "instructionDe": "Sag, woher Tom gerade kommt. Beginne mit „Tom kommt gerade …“.",
+      "prompt": "Tom war beim Friseur.",
+      "answers": ["Tom kommt gerade vom Friseur."],
+      "explanation": "Woher? + person → „von“ + dative: „beim Friseur“ (Wo?) becomes „vom Friseur“ (Woher?).",
+      "explanationDe": "Woher? + Person → „von“ + Dativ: Aus „beim Friseur“ (Wo?) wird „vom Friseur“ (Woher?)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Change „Wo?“ into „Wohin?“. Start with „Ich gehe …“.",
+      "instructionDe": "Mach aus „Wo?“ ein „Wohin?“. Beginne mit „Ich gehe …“.",
+      "prompt": "Ich bin bei meiner Oma.",
+      "answers": ["Ich gehe zu meiner Oma."],
+      "explanation": "People: „bei“ (Wo?) becomes „zu“ (Wohin?). Both take the dative, so „meiner“ stays the same.",
+      "explanationDe": "Personen: Aus „bei“ (Wo?) wird „zu“ (Wohin?). Beide stehen mit Dativ, deshalb bleibt „meiner“ gleich."
+    },
+    {
+      "type": "order",
+      "words": ["Ostsee.", "mit", "wir", "an", "Zug", "Morgen", "die", "dem", "fahren"],
+      "answers": [
+        "Morgen fahren wir mit dem Zug an die Ostsee.",
+        "Wir fahren morgen mit dem Zug an die Ostsee.",
+        "Mit dem Zug fahren wir morgen an die Ostsee."
+      ],
+      "explanation": "Verb „fahren“ in position 2. „an die Ostsee“ is a direction to the sea → „an“ + accusative; it comes at the end, after „mit dem Zug“.",
+      "explanationDe": "Verb „fahren“ auf Position 2. „an die Ostsee“ ist eine Richtung zum Meer → „an“ + Akkusativ; es steht am Ende, nach „mit dem Zug“."
+    }
+  ],
+  "related": ["wechselpraepositionen", "praepositionen-mit-kasus", "temporale-praepositionen"]
+}

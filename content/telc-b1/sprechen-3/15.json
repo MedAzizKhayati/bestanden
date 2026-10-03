@@ -1,0 +1,69 @@
+{
+  "id": "sprechen-3-15",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Ein Geschenk für Lena und Patrick",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "situation": "Ihre gemeinsamen Freunde Lena und Patrick heiraten im August. Sie möchten zusammen mit anderen Freunden ein Hochzeitsgeschenk für das Paar organisieren. Planen Sie gemeinsam, was Sie schenken und wer welche Aufgabe übernimmt.",
+  "checklist": [
+    "Was schenken?",
+    "Wie viel Geld gibt jede Person?",
+    "Wer sammelt das Geld?",
+    "Wo kaufen oder besorgen?",
+    "Wann und wie überreichen Sie das Geschenk?",
+    "Wer übernimmt welche Aufgabe?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Valentina Greco", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Can Öztürk", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Can, Lena und Patrick heiraten ja schon in sechs Wochen. Wir sollten langsam überlegen, was wir ihnen schenken. Hast du eine Idee?" },
+    { "s": "B", "t": "Ich habe gehört, dass sie eine Wunschliste im Internet haben, mit Sachen für die Küche und die Wohnung. Wir könnten einfach etwas von der Liste kaufen." },
+    { "s": "A", "t": "Das ist praktisch, aber ein bisschen langweilig, finde ich. Lena hat mir erzählt, dass sie für ihre Hochzeitsreise nach Norwegen sparen. Wie wäre es, wenn wir ihnen Geld für die Reise schenken?" },
+    { "s": "B", "t": "Geld? Ich weiß nicht so recht, denn in Deutschland finden manche Leute Geld unpersönlich. In der Türkei ist das bei Hochzeiten dagegen ganz normal, da schenkt man oft Gold oder Geld." },
+    { "s": "A", "t": "Das stimmt, aber wir könnten das Geld schön verpacken, zum Beispiel in einem kleinen Koffer zusammen mit einer Landkarte von Norwegen." },
+    { "s": "B", "t": "Ach, das ist eine schöne Idee! Dann ist es nicht nur Geld, sondern ein persönliches Geschenk. In Italien schenkt man doch auch oft Geld, oder?" },
+    { "s": "A", "t": "Ja, genau, bei uns bekommt das Brautpaar meistens einen Umschlag mit Geld. Aber wie viel sollte jeder geben?" },
+    { "s": "B", "t": "Ich würde sagen, dreißig Euro pro Person. Wir sind ungefähr zehn Freunde, dann haben wir zusammen dreihundert Euro." },
+    { "s": "A", "t": "Dreißig Euro sind für einige vielleicht zu viel, zum Beispiel für Jonas, der noch studiert. Vielleicht sagen wir zwanzig bis dreißig Euro, jeder so viel, wie er kann?" },
+    { "s": "B", "t": "Das ist fair. Und wer sammelt das Geld? Ich kann eine Nachricht in unsere Chatgruppe schreiben, aber Lena und Patrick sind leider auch in der Gruppe." },
+    { "s": "A", "t": "Oh, dann machen wir lieber eine neue Gruppe ohne die beiden! Die Leute können mir das Geld überweisen oder bar geben." },
+    { "s": "B", "t": "Super, dann gründe ich die neue Gruppe, und du sammelst das Geld. Und wer kauft den Koffer?" },
+    { "s": "A", "t": "Auf dem Flohmarkt gibt es oft schöne alte Koffer, die nicht teuer sind. Ich gehe am Samstag hin und suche einen aus." },
+    { "s": "B", "t": "Perfekt. Ich kann eine große Landkarte von Norwegen besorgen und die Route markieren, die sie fahren wollen. Und vielleicht schreibt jeder Freund einen Reisetipp oder einen Wunsch auf eine Postkarte." },
+    { "s": "A", "t": "Wie schön! Dann haben sie auf der Reise immer etwas von uns dabei." },
+    { "s": "B", "t": "Und wann geben wir ihnen das Geschenk? Bei der Feier am Abend sind sicher sehr viele Gäste." },
+    { "s": "A", "t": "Ich finde, wir sollten es nach dem Essen überreichen. Vielleicht kann einer von uns eine kurze Rede halten." },
+    { "s": "B", "t": "Eine Rede? Oh nein, dafür bin ich zu nervös! Könntest du das machen?" },
+    { "s": "A", "t": "Na gut, ich mache es, aber nur kurz. Du hilfst mir aber beim Schreiben, ja?" },
+    { "s": "B", "t": "Natürlich, sehr gern. Also, fassen wir zusammen: Wir schenken Lena und Patrick Geld für die Hochzeitsreise in einem alten Koffer, mit einer Landkarte von Norwegen und Postkarten von allen Freunden." },
+    { "s": "A", "t": "Genau. Du gründest die neue Chatgruppe, besorgst die Landkarte und sammelst die Postkarten. Ich sammle das Geld, kaufe den Koffer und halte die Rede." },
+    { "s": "B", "t": "Und die Rede schreiben wir zusammen. Die beiden werden sich bestimmt freuen!" }
+  ],
+  "phrases": [
+    { "de": "Wir sollten langsam überlegen, …", "en": "We should start thinking about …" },
+    { "de": "Das ist praktisch, aber ein bisschen langweilig, finde ich.", "en": "That's practical, but a bit boring, I think." },
+    { "de": "Wie wäre es, wenn wir …?", "en": "How about if we …?" },
+    { "de": "Ich weiß nicht so recht, denn …", "en": "I'm not so sure, because …" },
+    { "de": "Dann ist es nicht nur …, sondern …", "en": "Then it's not just …, but …" },
+    { "de": "… sind für einige vielleicht zu viel.", "en": "… might be too much for some people." },
+    { "de": "Könntest du das machen?", "en": "Could you do that?" },
+    { "de": "Na gut, ich mache es, aber …", "en": "All right, I'll do it, but …" },
+    { "de": "Also, fassen wir zusammen: …", "en": "So, let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "heiraten", "en": "to get married" },
+    { "de": "das Brautpaar", "en": "bride and groom" },
+    { "de": "die Hochzeitsreise", "en": "honeymoon" },
+    { "de": "die Wunschliste", "en": "wish list" },
+    { "de": "sparen für (+ Akk.)", "en": "to save up for" },
+    { "de": "verpacken", "en": "to wrap, to pack" },
+    { "de": "die Landkarte", "en": "map" },
+    { "de": "Geld überweisen", "en": "to transfer money" },
+    { "de": "bar bezahlen", "en": "to pay in cash" },
+    { "de": "eine Gruppe gründen", "en": "to set up a group" },
+    { "de": "ein Geschenk überreichen", "en": "to present a gift" }
+  ]
+}

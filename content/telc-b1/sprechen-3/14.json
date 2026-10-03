@@ -1,0 +1,71 @@
+{
+  "id": "sprechen-3-14",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Mit dem Rad an der Elbe",
+  "topic": "freizeit",
+  "difficulty": 1,
+  "situation": "Sie wohnen in Dresden und möchten am nächsten Sonntag mit ein paar Freunden eine Fahrradtour machen. Zwei Freunde haben kein eigenes Fahrrad. Planen Sie gemeinsam die Tour.",
+  "checklist": [
+    "Wohin und wie weit?",
+    "Treffpunkt und Uhrzeit?",
+    "Fahrräder für alle?",
+    "Essen und Trinken?",
+    "Was tun bei schlechtem Wetter?",
+    "Wer macht was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Eszter Nagy", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Tariq Mahmoud", "gender": "m", "age": "young", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie möchten mit Freunden eine Fahrradtour machen. Bitte planen Sie jetzt die Tour." },
+    { "s": "A", "t": "Tariq, ich freue mich auf die Fahrradtour am Sonntag! Wohin wollen wir fahren?" },
+    { "s": "B", "t": "Ich schlage vor, dass wir an der Elbe entlang nach Pillnitz fahren. Der Weg ist flach und sehr schön, und dort gibt es ein Schloss mit einem großen Park." },
+    { "s": "A", "t": "Gute Idee. Wie weit ist das denn? Nicht alle sind so sportlich wie du." },
+    { "s": "B", "t": "Ungefähr fünfzehn Kilometer pro Strecke. Mit Pausen brauchen wir vielleicht eineinhalb Stunden." },
+    { "s": "A", "t": "Das geht. Wann und wo treffen wir uns?" },
+    { "s": "B", "t": "Wie wäre es um neun Uhr an der Augustusbrücke? Dann haben wir den ganzen Tag Zeit." },
+    { "s": "A", "t": "Neun Uhr am Sonntag ist mir ein bisschen früh. Können wir uns um zehn treffen? Dann können alle ausschlafen." },
+    { "s": "B", "t": "Okay, zehn Uhr ist auch in Ordnung. Aber was machen wir mit Lina und Kofi? Sie haben kein Fahrrad." },
+    { "s": "A", "t": "Sie können ein Fahrrad leihen. In der Stadt gibt es Leihfahrräder, die man mit einer App mieten kann." },
+    { "s": "B", "t": "Das stimmt, aber für einen ganzen Tag ist das ziemlich teuer. Mein Nachbar hat zwei alte Fahrräder im Keller. Ich frage ihn, ob er sie uns leiht." },
+    { "s": "A", "t": "Super, das ist viel billiger. Aber bitte prüf vorher die Bremsen und die Reifen!" },
+    { "s": "B", "t": "Klar, das mache ich am Samstag. Ich habe auch eine Luftpumpe und Werkzeug, die nehme ich mit." },
+    { "s": "A", "t": "Sehr gut. Und was essen wir? Ich würde gern ein Picknick im Schlosspark machen." },
+    { "s": "B", "t": "Ein Picknick ist schön, aber dann müssen wir alles auf dem Fahrrad transportieren. Wie wäre es, wenn wir in Pillnitz in einen Biergarten gehen?" },
+    { "s": "A", "t": "Das ist bequemer, aber auch teurer. Vielleicht machen wir beides: ein kleines Picknick am Mittag und am Nachmittag ein Eis oder einen Kaffee im Biergarten." },
+    { "s": "B", "t": "Gute Idee! Dann bringt jeder etwas für das Picknick mit. Und viel Wasser, denn beim Radfahren braucht man viel zu trinken." },
+    { "s": "A", "t": "Und was machen wir, wenn es regnet?" },
+    { "s": "B", "t": "Bei leichtem Regen können wir mit Regenjacken trotzdem fahren. Aber wenn es stark regnet oder ein Gewitter gibt, verschieben wir die Tour auf den nächsten Sonntag." },
+    { "s": "A", "t": "Einverstanden. Ich schaue mir am Samstagabend den Wetterbericht an und schreibe allen in unserer Gruppe." },
+    { "s": "B", "t": "Super. Also, fassen wir zusammen: Wir treffen uns am Sonntag um zehn Uhr an der Augustusbrücke und fahren an der Elbe entlang nach Pillnitz." },
+    { "s": "A", "t": "Genau. Du fragst deinen Nachbarn wegen der Fahrräder und bringst das Werkzeug mit. Ich schreibe den anderen, was sie mitbringen sollen, und prüfe das Wetter." },
+    { "s": "B", "t": "Perfekt. Das wird ein schöner Tag!" }
+  ],
+  "phrases": [
+    { "de": "Ich schlage vor, dass wir …", "en": "I suggest that we …" },
+    { "de": "Wie weit ist das denn?", "en": "How far is that?" },
+    { "de": "Das geht.", "en": "That's fine. / That works." },
+    { "de": "… ist mir ein bisschen früh.", "en": "… is a bit early for me." },
+    { "de": "Können wir uns um … treffen?", "en": "Can we meet at …?" },
+    { "de": "Das stimmt, aber …", "en": "That's true, but …" },
+    { "de": "Vielleicht machen wir beides: …", "en": "Maybe we do both: …" },
+    { "de": "Einverstanden.", "en": "Agreed." },
+    { "de": "Also, fassen wir zusammen: …", "en": "So, let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Fahrradtour", "en": "bike ride, cycling trip" },
+    { "de": "an der Elbe entlang", "en": "along the river Elbe" },
+    { "de": "flach", "en": "flat" },
+    { "de": "pro Strecke", "en": "each way" },
+    { "de": "der Treffpunkt", "en": "meeting point" },
+    { "de": "ausschlafen", "en": "to have a lie-in" },
+    { "de": "das Leihfahrrad", "en": "rental bike" },
+    { "de": "die Bremse", "en": "brake" },
+    { "de": "der Reifen", "en": "tyre" },
+    { "de": "die Luftpumpe", "en": "bicycle pump" },
+    { "de": "das Gewitter", "en": "thunderstorm" }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "sprechen-3-03",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Ein Ausflug zum Kursende",
+  "topic": "bildung",
+  "difficulty": 2,
+  "situation": "Ihr Deutschkurs in Frankfurt ist in drei Wochen zu Ende. Zum Abschluss möchte die Kursgruppe zusammen einen Tagesausflug machen. Ihre Kursleiterin, Frau Winkler, hat Sie beide gebeten, den Ausflug zu planen.",
+  "checklist": [
+    "Wohin?",
+    "Wann?",
+    "Wie fahren Sie dorthin?",
+    "Programm?",
+    "Essen?",
+    "Kosten?",
+    "Wer kümmert sich um was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Sara Haile", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Ivan Petrenko", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ivan, wir sollen ja den Ausflug für unseren Kurs planen. Hast du schon eine Idee, wohin wir fahren könnten?" },
+    { "s": "B", "t": "Ja, ich habe an Heidelberg gedacht. Die Altstadt ist sehr schön, und es gibt das berühmte Schloss. Mit dem Zug sind wir in einer Stunde da." },
+    { "s": "A", "t": "Heidelberg ist bestimmt toll, aber im Juni ist es dort sehr voll. Was hältst du von einer Schifffahrt auf dem Rhein? Wir könnten mit dem Zug nach Rüdesheim fahren und dort aufs Schiff gehen." },
+    { "s": "B", "t": "Eine Schifffahrt klingt schön, aber ist das nicht zu teuer? Einige im Kurs haben nicht viel Geld." },
+    { "s": "A", "t": "Das stimmt, daran habe ich nicht gedacht. Ich glaube, eine Fahrt kostet ungefähr fünfzehn Euro pro Person. Vielleicht gibt es auch einen Gruppenpreis." },
+    { "s": "B", "t": "Dann rufe ich an und frage, ob es für Gruppen einen Rabatt gibt. Und wie ist es mit dem Zug?" },
+    { "s": "A", "t": "Mit einem Gruppenticket ist der Zug ziemlich günstig. Ich schaue im Internet nach, wie viel das für sechzehn Personen kostet." },
+    { "s": "B", "t": "Gut. Und wann fahren wir? Ich schlage den letzten Samstag vor dem Kursende vor." },
+    { "s": "A", "t": "Am Samstag arbeiten aber einige, zum Beispiel Hamza und Olga. Wie wäre es mit einem Freitag? Frau Winkler hat gesagt, dass der Ausflug auch während der Kurszeit stattfinden kann." },
+    { "s": "B", "t": "Ach so, das wusste ich nicht. Dann ist der Freitag natürlich besser, weil dann alle mitkommen können." },
+    { "s": "A", "t": "Genau. Wir könnten uns um neun Uhr am Hauptbahnhof treffen und am frühen Abend zurückfahren." },
+    { "s": "B", "t": "Einverstanden. Und was machen wir mit dem Essen? In Rüdesheim gibt es viele Restaurants, aber die sind sicher teuer." },
+    { "s": "A", "t": "Ich schlage vor, dass wir ein Picknick machen. Jeder bringt etwas mit, zum Beispiel ein typisches Gericht aus seinem Land. So lernen wir auch die Küche der anderen kennen." },
+    { "s": "B", "t": "Das ist eine super Idee! Aber was machen wir, wenn es regnet?" },
+    { "s": "A", "t": "Dann können wir auf dem Schiff essen oder in ein Café gehen. Ich schaue mir am Tag vorher den Wetterbericht an und schreibe allen eine Nachricht." },
+    { "s": "B", "t": "Gut. Sollen wir in Rüdesheim auch ein kleines Programm machen, zum Beispiel einen Spaziergang durch die Altstadt?" },
+    { "s": "A", "t": "Ja, gern. Vielleicht kann uns jemand ein bisschen über die Stadt erzählen. Frau Winkler kennt sich dort gut aus." },
+    { "s": "B", "t": "Ich frage sie morgen im Kurs. Sie kommt ja sowieso mit, oder?" },
+    { "s": "A", "t": "Natürlich! Ohne Frau Winkler fahren wir nicht. Und wer sammelt das Geld ein?" },
+    { "s": "B", "t": "Das kann ich machen. Ich schreibe eine Liste, wer mitkommt, und sammle das Geld für den Zug und das Schiff ein." },
+    { "s": "A", "t": "Super. Dann fassen wir zusammen: Wir fahren am letzten Freitag vor dem Kursende mit dem Zug nach Rüdesheim und machen dort eine Schifffahrt auf dem Rhein. Wir treffen uns um neun Uhr am Hauptbahnhof." },
+    { "s": "B", "t": "Ich frage nach dem Gruppenpreis für das Schiff, spreche mit Frau Winkler und sammle das Geld ein. Du kümmerst dich um das Zugticket und organisierst das Picknick." },
+    { "s": "A", "t": "Genau, und ich schreibe allen eine Nachricht mit den Informationen. Das wird bestimmt ein schöner Abschluss für unseren Kurs!" }
+  ],
+  "phrases": [
+    { "de": "Hast du schon eine Idee, wohin …?", "en": "Do you already have an idea where …?" },
+    { "de": "Ich habe an … gedacht.", "en": "I was thinking of …" },
+    { "de": "Was hältst du von …?", "en": "What do you think of …?" },
+    { "de": "Daran habe ich nicht gedacht.", "en": "I didn't think of that." },
+    { "de": "Ach so, das wusste ich nicht.", "en": "Oh, I see, I didn't know that." },
+    { "de": "Was machen wir, wenn …?", "en": "What do we do if …?" },
+    { "de": "Das kann ich machen.", "en": "I can do that." },
+    { "de": "Du kümmerst dich um …", "en": "You take care of …" },
+    { "de": "Dann fassen wir zusammen: …", "en": "Then let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "der Tagesausflug", "en": "day trip" },
+    { "de": "die Schifffahrt", "en": "boat trip" },
+    { "de": "das Gruppenticket", "en": "group ticket" },
+    { "de": "der Rabatt", "en": "discount" },
+    { "de": "das Picknick", "en": "picnic" },
+    { "de": "der Wetterbericht", "en": "weather forecast" },
+    { "de": "sich auskennen", "en": "to know one's way around" },
+    { "de": "Geld einsammeln", "en": "to collect money" },
+    { "de": "das Kursende", "en": "end of the course" },
+    { "de": "während der Kurszeit", "en": "during class time" }
+  ]
+}

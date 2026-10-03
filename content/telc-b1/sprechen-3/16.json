@@ -1,0 +1,71 @@
+{
+  "id": "sprechen-3-16",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Mit der 5b ins Theater",
+  "topic": "kultur",
+  "difficulty": 2,
+  "situation": "Sie sind beide Elternvertreter der Klasse 5b. Die Klassenlehrerin, Frau Engel, möchte vor den Weihnachtsferien mit der Klasse ins Theater gehen und hat Sie um Hilfe gebeten. Planen Sie gemeinsam den Theaterbesuch.",
+  "checklist": [
+    "Welches Stück und wann?",
+    "Karten und Kosten?",
+    "Wie kommt die Klasse zum Theater?",
+    "Begleitpersonen?",
+    "Hilfe für Familien mit wenig Geld?",
+    "Informationen für die Eltern?",
+    "Wer macht was?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Svitlana Bondarenko", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Javier Navarro", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie helfen der Klassenlehrerin bei der Planung. Bitte planen Sie jetzt gemeinsam den Theaterbesuch." },
+    { "s": "A", "t": "Herr Navarro, schön, dass Sie Zeit haben. Frau Engel möchte gern ein Weihnachtsmärchen mit der Klasse sehen. Wissen Sie, was im Stadttheater gespielt wird?" },
+    { "s": "B", "t": "Ja, ich habe auf der Internetseite nachgesehen. Im Dezember spielen sie die Schneekönigin, und das Stück ist für Kinder ab acht Jahren." },
+    { "s": "A", "t": "Das passt gut, die Kinder sind ja zehn oder elf. Wann wäre der beste Termin?" },
+    { "s": "B", "t": "Es gibt spezielle Vorstellungen für Schulen, immer vormittags um zehn Uhr. Ich schlage den zwölften Dezember vor, das ist ein Donnerstag." },
+    { "s": "A", "t": "Vormittags ist gut, dann verlieren die Kinder keine Freizeit. Aber am Donnerstag schreibt die Klasse eine Mathearbeit, hat Frau Engel gesagt. Wie wäre es mit Dienstag, dem zehnten?" },
+    { "s": "B", "t": "Ach so, dann nehmen wir natürlich den Dienstag. Die Schulvorstellungen sind auch günstiger, eine Karte kostet nur acht Euro." },
+    { "s": "A", "t": "Acht Euro sind nicht viel. Trotzdem gibt es in der Klasse vielleicht Familien, für die das schwierig ist. Wir wollen ja nicht, dass ein Kind zu Hause bleiben muss." },
+    { "s": "B", "t": "Da haben Sie völlig recht. Die Schule hat einen Förderverein, der in solchen Fällen hilft. Ich kann dort anrufen und fragen, ob der Verein ein paar Karten bezahlt." },
+    { "s": "A", "t": "Sehr gut, aber das muss diskret bleiben. Die Eltern können sich direkt bei Frau Engel melden, dann weiß niemand in der Klasse davon." },
+    { "s": "B", "t": "Genau. Und wie kommen die Kinder zum Theater? Zu Fuß ist es ein bisschen weit, ungefähr vierzig Minuten." },
+    { "s": "A", "t": "Mit der Straßenbahn dauert es nur fünfzehn Minuten. Ich glaube, viele Kinder haben schon ein Schülerticket, und für die anderen kaufen wir Gruppenkarten." },
+    { "s": "B", "t": "Gute Idee. Aber mit sechsundzwanzig Kindern in der Straßenbahn braucht Frau Engel Hilfe. Ich finde, mindestens zwei Eltern sollten mitkommen." },
+    { "s": "A", "t": "Ich kann am Dienstag mitkommen, da habe ich frei. Können Sie auch?" },
+    { "s": "B", "t": "Leider nicht, ich muss arbeiten. Aber ich frage in der Elterngruppe, wer noch Zeit hat. Herr Wagner hat beim letzten Ausflug auch geholfen." },
+    { "s": "A", "t": "Prima. Wir sollten auch einen Elternbrief schreiben, mit allen Informationen: Datum, Uhrzeit, Kosten und was die Kinder mitbringen sollen." },
+    { "s": "B", "t": "Ja, zum Beispiel ein kleines Frühstück für die Pause und warme Kleidung. Im Dezember ist es an der Haltestelle kalt." },
+    { "s": "A", "t": "Den Brief kann ich schreiben, und Frau Engel kann ihn dann kopieren und den Kindern mitgeben. Aber wer sammelt das Geld?" },
+    { "s": "B", "t": "Das Geld sammelt am besten Frau Engel in der Klasse, so ist es am einfachsten. Ich reserviere die Karten beim Theater, sobald wir wissen, wie viele Kinder mitkommen." },
+    { "s": "A", "t": "Einverstanden. Also, fassen wir zusammen: Die Klasse sieht die Schneekönigin am Dienstag, dem zehnten Dezember, um zehn Uhr im Stadttheater. Die Kinder fahren mit der Straßenbahn." },
+    { "s": "B", "t": "Ich reserviere die Karten, spreche mit dem Förderverein und suche noch einen zweiten Elternteil als Begleitung." },
+    { "s": "A", "t": "Und ich schreibe den Elternbrief und komme selbst mit ins Theater. Ich bin sicher, die Kinder werden den Ausflug lieben." }
+  ],
+  "phrases": [
+    { "de": "Wissen Sie, was im … gespielt wird?", "en": "Do you know what's on at the …?" },
+    { "de": "Wann wäre der beste Termin?", "en": "When would be the best date?" },
+    { "de": "Ach so, dann nehmen wir natürlich …", "en": "I see, then of course we'll take …" },
+    { "de": "Wir wollen ja nicht, dass …", "en": "We don't want … to happen, after all." },
+    { "de": "Da haben Sie völlig recht.", "en": "You're absolutely right." },
+    { "de": "Ich finde, mindestens … sollten …", "en": "I think at least … should …" },
+    { "de": "Können Sie auch?", "en": "Can you make it too?" },
+    { "de": "…, sobald wir wissen, …", "en": "…, as soon as we know …" },
+    { "de": "Also, fassen wir zusammen: …", "en": "So, let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "der Elternvertreter / die Elternvertreterin", "en": "parent representative" },
+    { "de": "die Klassenlehrerin", "en": "class teacher (female)" },
+    { "de": "das Weihnachtsmärchen", "en": "Christmas fairy-tale play" },
+    { "de": "das Stück", "en": "play" },
+    { "de": "die Vorstellung", "en": "performance, show" },
+    { "de": "der Förderverein", "en": "school support association" },
+    { "de": "diskret", "en": "discreet" },
+    { "de": "das Schülerticket", "en": "pupil's travel pass" },
+    { "de": "die Begleitung", "en": "accompanying adult(s)" },
+    { "de": "der Elternbrief", "en": "letter to parents" },
+    { "de": "reservieren", "en": "to reserve, to book" }
+  ]
+}

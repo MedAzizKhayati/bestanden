@@ -1,0 +1,101 @@
+{
+  "id": "hoeren-1-07",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Gesund essen im Alltag",
+  "topic": "essen",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "mod", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "daniela", "name": "Daniela", "gender": "f", "age": "adult" },
+    { "id": "florian", "name": "Florian", "gender": "m", "age": "young" },
+    { "id": "walter", "name": "Walter", "gender": "m", "age": "senior" },
+    { "id": "yvonne", "name": "Yvonne", "gender": "f", "age": "adult" },
+    { "id": "ursula", "name": "Ursula", "gender": "f", "age": "senior" }
+  ],
+  "intro": [
+    { "s": "mod", "t": "Gesund essen, das nehmen sich viele Menschen vor. Aber im Alltag ist das oft gar nicht so einfach." },
+    { "s": "mod", "t": "Wir haben deshalb gefragt: Wie wichtig ist Ihnen eine gesunde Ernährung?" }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "script": [
+        { "s": "daniela", "t": "Bei uns wird jeden Abend frisch gekocht, das ist mir total wichtig. Fertiggerichte oder Tiefkühlpizza kommen bei mir nicht auf den Tisch." },
+        { "s": "daniela", "t": "Samstags gehe ich auf den Wochenmarkt und kaufe Gemüse und Obst von den Bauern aus der Region. Das schmeckt einfach besser." },
+        { "s": "daniela", "t": "Meine Kolleginnen fragen immer, wie ich das neben dem Job schaffe. Ich koche oft für zwei Tage, dann geht das ganz gut." }
+      ],
+      "statement": "Die Frau isst oft Fertiggerichte, weil sie wenig Zeit zum Kochen hat.",
+      "answer": false,
+      "explanation": "She cooks fresh food every evening: „Fertiggerichte oder Tiefkühlpizza kommen bei mir nicht auf den Tisch“. She saves time by cooking for two days.",
+      "explanationDe": "Sie kocht jeden Abend frisch: „Fertiggerichte oder Tiefkühlpizza kommen bei mir nicht auf den Tisch“. Zeit spart sie, indem sie für zwei Tage kocht.",
+      "evidence": "Fertiggerichte oder Tiefkühlpizza kommen bei mir nicht auf den Tisch."
+    },
+    {
+      "n": 2,
+      "script": [
+        { "s": "florian", "t": "Ganz ehrlich, gesund ist meine Ernährung im Moment nicht. Ich studiere und arbeite nebenbei noch in einem Lager, da bleibt kaum Zeit zum Kochen." },
+        { "s": "florian", "t": "Mittags esse ich in der Mensa, und abends gibt's oft Nudeln mit Tomatensoße oder einen Döner an der Ecke." },
+        { "s": "florian", "t": "Ich weiß, dass ich mehr Gemüse essen sollte. Vielleicht klappt das in den Semesterferien, dann hab ich mehr Zeit." }
+      ],
+      "statement": "Der junge Mann gibt zu, dass er sich zurzeit nicht gesund ernährt.",
+      "answer": true,
+      "explanation": "He openly says „gesund ist meine Ernährung im Moment nicht“: canteen food, pasta or a kebab. He knows he should eat more vegetables.",
+      "explanationDe": "Er sagt ganz offen: „gesund ist meine Ernährung im Moment nicht“ – Mensaessen, Nudeln oder ein Döner. Er weiß, dass er mehr Gemüse essen sollte.",
+      "evidence": "Ganz ehrlich, gesund ist meine Ernährung im Moment nicht."
+    },
+    {
+      "n": 3,
+      "script": [
+        { "s": "walter", "t": "Früher gab es bei mir jeden Tag Fleisch, am liebsten Schweinebraten mit Knödeln. Dann hat mein Arzt gesagt, mein Blutdruck ist viel zu hoch." },
+        { "s": "walter", "t": "Seitdem kochen meine Frau und ich nur noch zweimal pro Woche Fleisch. Am Anfang fand ich das schrecklich, aber inzwischen schmecken mir die Gemüsegerichte richtig gut." },
+        { "s": "walter", "t": "Ich hab acht Kilo abgenommen und fühle mich viel fitter." }
+      ],
+      "statement": "Der Mann isst heute noch genauso viel Fleisch wie früher.",
+      "answer": false,
+      "explanation": "Meat every day was „früher“. Since his doctor's warning they cook meat „nur noch zweimal pro Woche“, and he now likes vegetable dishes.",
+      "explanationDe": "Fleisch jeden Tag – das war „früher“. Seit sein Arzt ihn gewarnt hat, kochen sie „nur noch zweimal pro Woche“ Fleisch, und inzwischen mag er Gemüsegerichte.",
+      "evidence": "Seitdem kochen meine Frau und ich nur noch zweimal pro Woche Fleisch."
+    },
+    {
+      "n": 4,
+      "script": [
+        { "s": "yvonne", "t": "Ich kann diese ganzen Ernährungstrends nicht mehr hören. Jede Woche liest man etwas Neues, mal soll man kein Brot essen, mal keinen Zucker." },
+        { "s": "yvonne", "t": "Ich esse eigentlich alles, aber nicht zu viel. Und wenn ich Lust auf ein Stück Sahnetorte habe, dann esse ich das auch, ohne schlechtes Gewissen." },
+        { "s": "yvonne", "t": "Essen soll doch Spaß machen. Von strengen Diäten halte ich überhaupt nichts." }
+      ],
+      "statement": "Die Frau findet, dass strenge Diäten keinen Sinn haben.",
+      "answer": true,
+      "explanation": "She is tired of food trends, eats everything in moderation and says „Von strengen Diäten halte ich überhaupt nichts“.",
+      "explanationDe": "Sie hat genug von den Ernährungstrends, isst alles in Maßen und sagt: „Von strengen Diäten halte ich überhaupt nichts“.",
+      "evidence": "Von strengen Diäten halte ich überhaupt nichts."
+    },
+    {
+      "n": 5,
+      "script": [
+        { "s": "ursula", "t": "Viele Leute sagen, gesundes Essen ist zu teuer. Ich finde, das stimmt überhaupt nicht." },
+        { "s": "ursula", "t": "Ich hab einen kleinen Schrebergarten, und da wachsen Tomaten, Bohnen, Salat und Kartoffeln. Im Sommer muss ich fast kein Gemüse kaufen. Und was ich zu viel habe, verschenke ich an die Nachbarn." },
+        { "s": "ursula", "t": "Im Supermarkt nehme ich einfach das, was gerade Saison hat, das ist meistens günstig. Mit meiner kleinen Rente geht das wunderbar." }
+      ],
+      "statement": "Die Frau meint, dass man für gesundes Essen viel Geld braucht.",
+      "answer": false,
+      "explanation": "She disagrees with people who say healthy food is too expensive: „das stimmt überhaupt nicht“. She grows vegetables and buys what is in season – it works „mit meiner kleinen Rente“.",
+      "explanationDe": "Sie widerspricht Leuten, die sagen, gesundes Essen ist zu teuer: „das stimmt überhaupt nicht“. Sie baut selbst Gemüse an und kauft, was gerade Saison hat – das klappt „mit meiner kleinen Rente“.",
+      "evidence": "Viele Leute sagen, gesundes Essen ist zu teuer. Ich finde, das stimmt überhaupt nicht."
+    }
+  ],
+  "glossary": [
+    { "de": "die Ernährung", "en": "diet, nutrition" },
+    { "de": "sich gesund ernähren", "en": "to eat healthily" },
+    { "de": "das Fertiggericht", "en": "ready meal" },
+    { "de": "der Wochenmarkt", "en": "weekly market" },
+    { "de": "aus der Region", "en": "local, from the area" },
+    { "de": "die Mensa", "en": "university canteen" },
+    { "de": "der Blutdruck", "en": "blood pressure" },
+    { "de": "abnehmen", "en": "to lose weight" },
+    { "de": "von etwas nichts halten", "en": "to think little of something" },
+    { "de": "der Schrebergarten", "en": "allotment garden" },
+    { "de": "Saison haben", "en": "to be in season" },
+    { "de": "die Rente", "en": "pension" }
+  ]
+}

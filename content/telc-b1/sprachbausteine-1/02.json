@@ -1,0 +1,143 @@
+{
+  "id": "sprachbausteine-1-02",
+  "examId": "telc-b1",
+  "type": "gap-mc",
+  "title": "Probleme in der Wohnung",
+  "topic": "wohnen",
+  "difficulty": 1,
+  "textType": "letter-formal",
+  "text": "Sehr geehrte Frau Hollmann,\n\nim März [[1]] ich in Ihre Wohnung in der Gartenstraße 12 eingezogen. Ich fühle [[2]] hier sehr wohl, aber leider gibt es zurzeit zwei Probleme.\n\nErstens funktioniert die Heizung im Bad [[3]] einer Woche nicht mehr. Ich habe schon versucht, [[4]] selbst zu reparieren, aber leider ohne Erfolg. [[5]] ich morgens dusche, ist es im Bad jetzt sehr kalt. Zweitens lässt sich das Fenster in der Küche nicht mehr richtig schließen, und bei [[6]] Regen kommt Wasser herein.\n\nIch wäre Ihnen sehr dankbar, wenn Sie bald einen Handwerker schicken [[7]]. Ich bin von Montag bis Freitag ab 16 Uhr zu Hause, am Samstag den ganzen Tag. Wenn es Ihnen lieber ist, kann der Handwerker den Schlüssel auch bei meiner Nachbarin, Frau Yilmaz, abholen.\n\nAußerdem habe ich noch eine Frage: Darf ich mein Fahrrad in [[8]] Keller stellen? Im Hausflur möchte ich es nicht mehr abstellen, [[9]] sich einige Nachbarn schon darüber beschwert haben.\n\nVielen Dank im Voraus für [[10]] Hilfe.\n\nMit freundlichen Grüßen\nTobias Kern",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "habe" },
+        { "key": "b", "text": "hat" },
+        { "key": "c", "text": "bin" }
+      ],
+      "answer": "c",
+      "explanation": "„einziehen“ describes a change of place, so it forms the Perfekt with „sein“: „ich bin … eingezogen“. „habe“ is the wrong auxiliary, and „hat“ does not agree with „ich“.",
+      "explanationDe": "„einziehen“ beschreibt einen Ortswechsel und bildet deshalb das Perfekt mit „sein“: „ich bin … eingezogen“. „habe“ ist das falsche Hilfsverb, und „hat“ passt nicht zu „ich“.",
+      "grammar": "perfekt"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "mich" },
+        { "key": "b", "text": "mir" },
+        { "key": "c", "text": "sich" }
+      ],
+      "answer": "a",
+      "explanation": "„sich wohlfühlen“ is reflexive with an accusative pronoun: „ich fühle mich wohl“. „mir“ is dative, and „sich“ is only used for er/sie/es, sie (plural) and Sie.",
+      "explanationDe": "„sich wohlfühlen“ ist reflexiv, mit einem Reflexivpronomen im Akkusativ: „ich fühle mich wohl“. „mir“ ist Dativ, und „sich“ benutzt man nur für er/sie/es, sie (Plural) und Sie.",
+      "grammar": "reflexive-verben"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "vor" },
+        { "key": "b", "text": "seit" },
+        { "key": "c", "text": "für" }
+      ],
+      "answer": "b",
+      "explanation": "The problem started in the past and still continues (present tense „funktioniert … nicht mehr“), so „seit“ + dative. „vor einer Woche“ would need a past tense, and „für“ takes the accusative („für eine Woche“).",
+      "explanationDe": "Das Problem hat in der Vergangenheit begonnen und dauert noch an (Präsens „funktioniert … nicht mehr“) – also „seit“ + Dativ. „vor einer Woche“ bräuchte eine Vergangenheitsform, und nach „für“ steht der Akkusativ („für eine Woche“).",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "ihn" },
+        { "key": "b", "text": "sie" },
+        { "key": "c", "text": "ihr" }
+      ],
+      "answer": "b",
+      "explanation": "The pronoun replaces „die Heizung“ (feminine) as the accusative object of „reparieren“, so „sie“. „ihn“ would replace a masculine noun, and „ihr“ is dative.",
+      "explanationDe": "Das Pronomen ersetzt „die Heizung“ (feminin) als Akkusativobjekt von „reparieren“ – also „sie“. „ihn“ würde ein maskulines Nomen ersetzen, und „ihr“ ist Dativ.",
+      "grammar": "pronomen"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "Wenn" },
+        { "key": "b", "text": "Als" },
+        { "key": "c", "text": "Ob" }
+      ],
+      "answer": "a",
+      "explanation": "„wenn“ is used for actions that happen again and again in the present („morgens“ = every morning). „als“ is only for a single event in the past, and „ob“ introduces indirect yes/no questions.",
+      "explanationDe": "„wenn“ benutzt man für Handlungen, die in der Gegenwart immer wieder passieren („morgens“ = jeden Morgen). „als“ steht nur für ein einmaliges Ereignis in der Vergangenheit, und „ob“ leitet indirekte Ja-/Nein-Fragen ein.",
+      "grammar": "temporale-nebensaetze"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "starken" },
+        { "key": "b", "text": "starker" },
+        { "key": "c", "text": "starkem" }
+      ],
+      "answer": "c",
+      "explanation": "„bei“ takes the dative. With no article before „der Regen“, the adjective shows the case itself and takes the ending of „dem“: „bei starkem Regen“.",
+      "explanationDe": "Nach „bei“ steht der Dativ. Vor dem Nomen („der Regen“) steht kein Artikel. Deshalb zeigt das Adjektiv selbst den Kasus und bekommt die Endung von „dem“: „bei starkem Regen“.",
+      "grammar": "adjektivdeklination"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "könnten" },
+        { "key": "b", "text": "konnten" },
+        { "key": "c", "text": "gekonnt" }
+      ],
+      "answer": "a",
+      "explanation": "A polite request with „Ich wäre Ihnen dankbar, wenn …“ needs Konjunktiv II in the wenn-clause too: „schicken könnten“. „konnten“ is the past indicative, and „gekonnt“ is a participle.",
+      "explanationDe": "Eine höfliche Bitte mit „Ich wäre Ihnen dankbar, wenn …“ braucht auch im wenn-Satz den Konjunktiv II: „schicken könnten“. „konnten“ ist Präteritum Indikativ, und „gekonnt“ ist ein Partizip.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "dem" },
+        { "key": "b", "text": "der" },
+        { "key": "c", "text": "den" }
+      ],
+      "answer": "c",
+      "explanation": "„stellen“ expresses movement to a place (Wohin?), so „in“ takes the accusative. „der Keller“ is masculine: „in den Keller“.",
+      "explanationDe": "„stellen“ drückt eine Bewegung zu einem Ort aus (Wohin?). Deshalb steht nach „in“ der Akkusativ. „der Keller“ ist maskulin: „in den Keller“.",
+      "grammar": "wechselpraepositionen"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "denn" },
+        { "key": "b", "text": "weil" },
+        { "key": "c", "text": "deshalb" }
+      ],
+      "answer": "b",
+      "explanation": "The verb comes at the end of the clause („… beschwert haben“), so only the subordinating conjunction „weil“ fits. „denn“ and „deshalb“ need a different word order („denn einige Nachbarn haben …“).",
+      "explanationDe": "Das Verb steht am Satzende („… beschwert haben“). Deshalb passt nur die Konjunktion „weil“, die einen Nebensatz einleitet. „denn“ und „deshalb“ brauchen eine andere Wortstellung („denn einige Nachbarn haben …“).",
+      "grammar": "kausale-konsekutive-saetze"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "Ihre" },
+        { "key": "b", "text": "Ihrer" },
+        { "key": "c", "text": "Ihren" }
+      ],
+      "answer": "a",
+      "explanation": "„für“ always takes the accusative. „die Hilfe“ is feminine, and the feminine accusative ending is „-e“: „für Ihre Hilfe“.",
+      "explanationDe": "Nach „für“ steht immer der Akkusativ. „die Hilfe“ ist feminin, und die Endung im Akkusativ feminin ist „-e“: „für Ihre Hilfe“.",
+      "grammar": "praepositionen-mit-kasus"
+    }
+  ],
+  "glossary": [
+    { "de": "einziehen", "en": "to move in" },
+    { "de": "sich wohlfühlen", "en": "to feel comfortable, to feel at home" },
+    { "de": "die Heizung", "en": "heating" },
+    { "de": "ohne Erfolg", "en": "without success" },
+    { "de": "der Handwerker", "en": "tradesman, repairman" },
+    { "de": "der Keller", "en": "cellar, basement" },
+    { "de": "der Hausflur", "en": "hallway (of a block of flats)" },
+    { "de": "sich beschweren über", "en": "to complain about" },
+    { "de": "im Voraus", "en": "in advance" }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "relativsaetze",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 11,
+  "title": "Relativsätze",
+  "titleEn": "Relative clauses",
+  "summary": "Describe people and things in more detail with der, die, das …: the relative pronoun takes its gender from the noun and its case from its role in the relative clause.",
+  "summaryDe": "Beschreibe Personen und Dinge genauer mit der, die, das …: Das Relativpronomen bekommt sein Genus vom Nomen und seinen Kasus von seiner Rolle im Relativsatz.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "A relative clause describes a noun in more detail. The relative pronoun (**der, die, das** …) takes its **gender and number from the noun** it refers to, but its **case from its role in the relative clause**. The conjugated verb goes to the **end**, and a comma separates the two clauses.",
+      "mdDe": "Ein Relativsatz beschreibt ein Nomen genauer. Das Relativpronomen (**der, die, das** …) bekommt **Genus und Numerus vom Nomen**, auf das es sich bezieht, aber den **Kasus von seiner Rolle im Relativsatz**. Das konjugierte Verb steht **am Ende**, und ein Komma trennt die beiden Sätze."
+    },
+    {
+      "type": "text",
+      "heading": "From two sentences to one",
+      "headingDe": "Aus zwei Sätzen wird einer",
+      "md": "A relative clause joins two sentences that talk about the same person or thing. The relative pronoun replaces the repeated noun:\n\n- Das ist mein Nachbar. **Der Nachbar** hilft mir oft.\n- → Das ist mein Nachbar, **der** mir oft **hilft**.\n\nRemember three things:\n\n1. A relative clause is a subordinate clause: the conjugated verb goes to the **end**.\n2. Commas separate it from the main clause – on both sides if it stands in the middle: Der Bus, **der** zum Bahnhof **fährt**, kommt alle zehn Minuten.\n3. It normally comes **directly after** the noun it describes.",
+      "mdDe": "Ein Relativsatz verbindet zwei Sätze, die über dieselbe Person oder Sache sprechen. Das Relativpronomen ersetzt das wiederholte Nomen:\n\n- Das ist mein Nachbar. **Der Nachbar** hilft mir oft.\n- → Das ist mein Nachbar, **der** mir oft **hilft**.\n\nMerk dir drei Dinge:\n\n1. Ein Relativsatz ist ein Nebensatz: Das konjugierte Verb steht **am Ende**.\n2. Kommas trennen ihn vom Hauptsatz – auf beiden Seiten, wenn er in der Mitte steht: Der Bus, **der** zum Bahnhof **fährt**, kommt alle zehn Minuten.\n3. Er steht normalerweise **direkt nach** dem Nomen, das er beschreibt."
+    },
+    {
+      "type": "table",
+      "heading": "The relative pronouns",
+      "headingDe": "Die Relativpronomen",
+      "columns": ["Case", "masculine", "neuter", "feminine", "plural"],
+      "columnsDe": ["Kasus", "maskulin", "neutral", "feminin", "Plural"],
+      "rows": [
+        ["Nominativ", "der", "das", "die", "die"],
+        ["Akkusativ", "den", "das", "die", "die"],
+        ["Dativ", "dem", "dem", "der", "denen"],
+        ["Genitiv", "dessen", "dessen", "deren", "deren"]
+      ],
+      "note": "The relative pronouns look like the definite article – except in the dative plural (denen) and in the genitive (dessen, deren).",
+      "noteDe": "Die Relativpronomen sehen aus wie der bestimmte Artikel – außer im Dativ Plural (denen) und im Genitiv (dessen, deren)."
+    },
+    {
+      "type": "text",
+      "heading": "Finding the right pronoun in two steps",
+      "headingDe": "In zwei Schritten zum richtigen Pronomen",
+      "md": "1. **Gender and number:** Which noun does the pronoun refer to? „der Film“ → masculine singular.\n2. **Case:** What is the pronoun's job in the relative clause? Subject → Nominativ. Direct object → Akkusativ. After a dative verb or a dative preposition → Dativ.\n\nDer Film, **den** ich gestern gesehen habe, war spannend. → „der Film“ is masculine. In the relative clause, „ich“ is the subject and the film is the object of „sehen“ → Akkusativ → **den**.\n\nVerbs with the dative (helfen, danken, gefallen, gehören, schmecken, gratulieren …) need **dem / der / denen**: Die Kollegin, **der** ich geholfen habe, hat sich sehr gefreut.",
+      "mdDe": "1. **Genus und Numerus:** Auf welches Nomen bezieht sich das Pronomen? „der Film“ → maskulin, Singular.\n2. **Kasus:** Welche Aufgabe hat das Pronomen im Relativsatz? Subjekt → Nominativ. Direktes Objekt → Akkusativ. Nach einem Dativverb oder einer Dativpräposition → Dativ.\n\nDer Film, **den** ich gestern gesehen habe, war spannend. → „der Film“ ist maskulin. Im Relativsatz ist „ich“ das Subjekt, und der Film ist das Objekt von „sehen“ → Akkusativ → **den**.\n\nVerben mit Dativ (helfen, danken, gefallen, gehören, schmecken, gratulieren …) brauchen **dem / der / denen**: Die Kollegin, **der** ich geholfen habe, hat sich sehr gefreut."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Das ist die Kollegin, **die** im Marketing **arbeitet**.", "en": "That's the colleague who works in marketing." },
+        { "de": "Der Film, **den** wir gestern **gesehen haben**, war sehr spannend.", "en": "The film we saw yesterday was very exciting." },
+        { "de": "Wie heißt das Kind, **dem** du **geholfen hast**?", "en": "What's the name of the child you helped?" },
+        { "de": "Die Nachbarn, **denen** das rote Auto **gehört**, sind im Urlaub.", "en": "The neighbours who own the red car are on holiday." },
+        { "de": "Das ist die Stadt, **in der** ich **aufgewachsen bin**.", "en": "That's the town I grew up in." },
+        { "de": "Der Kurs, **für den** ich mich **angemeldet habe**, beginnt im März.", "en": "The course I've signed up for starts in March." },
+        { "de": "Ich habe einen Freund, **dessen** Schwester in Graz **wohnt**.", "en": "I have a friend whose sister lives in Graz." },
+        { "de": "Wir suchen eine Wohnung, **deren** Miete nicht zu hoch **ist**.", "en": "We're looking for a flat whose rent isn't too high." },
+        { "de": "Das ist alles, **was** ich **weiß**.", "en": "That's all I know." },
+        { "de": "Im Sommer fahren wir nach Basel, **wo** meine Tante **lebt**.", "en": "In the summer we're going to Basel, where my aunt lives." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Preposition + relative pronoun",
+      "headingDe": "Präposition + Relativpronomen",
+      "columns": ["Verb + preposition", "Relative clause"],
+      "columnsDe": ["Verb + Präposition", "Relativsatz"],
+      "rows": [
+        ["sich freuen auf + Akk.", "die Reise, auf die ich mich so freue"],
+        ["sprechen mit + Dat.", "der Kollege, mit dem ich gesprochen habe"],
+        ["sich kümmern um + Akk.", "die Kinder, um die sich die Oma kümmert"],
+        ["wohnen bei + Dat.", "die Familie, bei der ich wohne"],
+        ["sich interessieren für + Akk.", "das Thema, für das ich mich interessiere"],
+        ["warten auf + Akk.", "die Antwort, auf die wir seit Wochen warten"]
+      ],
+      "note": "The preposition comes first – before the relative pronoun – and it decides the case. It never goes to the end of the clause as in English (the course I signed up for).",
+      "noteDe": "Die Präposition steht zuerst – vor dem Relativpronomen – und sie bestimmt den Kasus. Sie steht nie am Ende des Satzes wie im Englischen („the course I signed up for“)."
+    },
+    {
+      "type": "text",
+      "heading": "was, wo and welcher",
+      "headingDe": "was, wo und welcher",
+      "md": "- After **alles, etwas, nichts, vieles** and after a superlative used as a noun, the relative pronoun is **was**: Das ist alles, **was** ich weiß. Das ist das Schönste, **was** ich je gesehen habe.\n- **was** can also refer to a whole sentence: Er hat die Prüfung bestanden, **was** mich sehr freut.\n- For places you can use **wo** instead of a preposition + pronoun: die Stadt, **in der** ich wohne = die Stadt, **wo** ich wohne. After names of cities and countries, **wo** is the usual choice: Wir fahren nach Basel, **wo** meine Tante lebt.\n- In formal texts you may also meet **welcher, welche, welches** instead of der, die, das: der Zug, **welcher** um acht Uhr abfährt. You don't need to use these forms yourself.",
+      "mdDe": "- Nach **alles, etwas, nichts, vieles** und nach einem Superlativ als Nomen heißt das Relativpronomen **was**: Das ist alles, **was** ich weiß. Das ist das Schönste, **was** ich je gesehen habe.\n- **was** kann sich auch auf einen ganzen Satz beziehen: Er hat die Prüfung bestanden, **was** mich sehr freut.\n- Bei Orten kannst du **wo** statt Präposition + Pronomen verwenden: die Stadt, **in der** ich wohne = die Stadt, **wo** ich wohne. Nach Namen von Städten und Ländern ist **wo** die normale Wahl: Wir fahren nach Basel, **wo** meine Tante lebt.\n- In formellen Texten findest du manchmal auch **welcher, welche, welches** statt der, die, das: der Zug, **welcher** um acht Uhr abfährt. Diese Formen musst du nicht selbst verwenden."
+    },
+    {
+      "type": "warning",
+      "md": "Don't choose the pronoun from the noun alone – check its role in the relative clause: Der Mann, **den** ich kenne (not „der“ – „ich“ is already the subject). Watch out for the dative plural: die Leute, **denen** ich helfe (not „den“). And don't forget the verb at the end: not „der Mann, der wohnt neben mir“, but „der Mann, der neben mir **wohnt**“.",
+      "mdDe": "Wähle das Pronomen nicht nur nach dem Nomen – prüfe seine Rolle im Relativsatz: Der Mann, **den** ich kenne (nicht „der“ – „ich“ ist schon das Subjekt). Achte auf den Dativ Plural: die Leute, **denen** ich helfe (nicht „den“). Und vergiss das Verb am Ende nicht: nicht „der Mann, der wohnt neben mir“, sondern „der Mann, der neben mir **wohnt**“."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1**, a gap with a relative pronoun is very common, and the options look alike: „der / den / dem“ or „die / denen / deren“. Check the noun before the comma (gender, singular or plural), then look at the relative clause: Does it already have a subject? Does the verb need the dative (helfen, gefallen, gehören)? Is there a preposition in front of the gap? In **Sprachbausteine Teil 2**, „was“, „wo“ or „deren“ can be one of the words in the list.\n\nIn **Schreiben** and **Sprechen**, one or two relative clauses show that you can build complex sentences – that counts for your grammar score: „Ich suche eine Wohnung, die nicht weit vom Zentrum entfernt ist.“ – „Das ist ein Thema, für das ich mich sehr interessiere.“",
+      "mdDe": "In **Sprachbausteine Teil 1** ist eine Lücke mit Relativpronomen sehr häufig, und die Antwortmöglichkeiten sehen ähnlich aus: „der / den / dem“ oder „die / denen / deren“. Prüfe das Nomen vor dem Komma (Genus, Singular oder Plural) und schau dann in den Relativsatz: Hat er schon ein Subjekt? Braucht das Verb den Dativ (helfen, gefallen, gehören)? Steht eine Präposition vor der Lücke? In **Sprachbausteine Teil 2** kann „was“, „wo“ oder „deren“ eines der Wörter in der Liste sein.\n\nBeim **Schreiben** und **Sprechen** zeigen ein oder zwei Relativsätze, dass du komplexe Sätze bilden kannst – das zählt für deine Grammatik-Bewertung: „Ich suche eine Wohnung, die nicht weit vom Zentrum entfernt ist.“ – „Das ist ein Thema, für das ich mich sehr interessiere.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Der Mann, der ich gestern getroffen habe, ist mein Lehrer.",
+      "right": "Der Mann, den ich gestern getroffen habe, ist mein Lehrer.",
+      "why": "„ich“ is already the subject of the relative clause; the man is the object of „treffen“ → accusative „den“.",
+      "whyDe": "„ich“ ist schon das Subjekt des Relativsatzes; der Mann ist das Objekt von „treffen“ → Akkusativ „den“."
+    },
+    {
+      "wrong": "Das sind die Kinder, den ich Nachhilfe gebe.",
+      "right": "Das sind die Kinder, denen ich Nachhilfe gebe.",
+      "why": "The children receive something → dative. The dative plural relative pronoun is „denen“, not „den“.",
+      "whyDe": "Die Kinder bekommen etwas → Dativ. Das Relativpronomen im Dativ Plural heißt „denen“, nicht „den“."
+    },
+    {
+      "wrong": "Ich habe eine Kollegin, die kommt aus Polen.",
+      "right": "Ich habe eine Kollegin, die aus Polen kommt.",
+      "why": "A relative clause is a subordinate clause, so the conjugated verb goes to the end.",
+      "whyDe": "Ein Relativsatz ist ein Nebensatz, deshalb steht das konjugierte Verb am Ende."
+    },
+    {
+      "wrong": "Das ist der Kollege, dem ich mit gesprochen habe.",
+      "right": "Das ist der Kollege, mit dem ich gesprochen habe.",
+      "why": "The preposition always stands at the beginning of the relative clause, before the pronoun – never at the end as in English.",
+      "whyDe": "Die Präposition steht immer am Anfang des Relativsatzes, vor dem Pronomen – nie am Ende wie im Englischen."
+    },
+    {
+      "wrong": "Das ist alles, das ich weiß.",
+      "right": "Das ist alles, was ich weiß.",
+      "why": "After „alles, etwas, nichts, vieles“ the relative pronoun is „was“.",
+      "whyDe": "Nach „alles, etwas, nichts, vieles“ heißt das Relativpronomen „was“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Das ist der Arzt, ___ mir so gut geholfen hat.",
+      "options": ["den", "der", "dem"],
+      "answer": 1,
+      "explanation": "„der Arzt“ is masculine, and in the relative clause he is the subject (Who helped me? – the doctor) → nominative „der“.",
+      "explanationDe": "„der Arzt“ ist maskulin, und im Relativsatz ist er das Subjekt (Wer hat mir geholfen? – der Arzt) → Nominativ „der“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Gäste, ___ das Essen nicht geschmeckt hat, sind früh nach Hause gegangen.",
+      "options": ["die", "deren", "denen"],
+      "answer": 2,
+      "explanation": "The verb „hat“ is singular, so the subject of the relative clause is „das Essen“. „schmecken“ takes a dative person (Das Essen schmeckt mir.) → dative plural „denen“.",
+      "explanationDe": "Das Verb „hat“ ist Singular, also ist „das Essen“ das Subjekt des Relativsatzes. „schmecken“ braucht die Person im Dativ (Das Essen schmeckt mir.) → Dativ Plural „denen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Kennst du die Frau, ___ Hund immer so laut bellt?",
+      "options": ["deren", "die", "der"],
+      "answer": 0,
+      "explanation": "The dog belongs to the woman, so you need the genitive (whose). Feminine genitive: „deren“. The noun after it has no article: „deren Hund“.",
+      "explanationDe": "Der Hund gehört der Frau, deshalb brauchst du den Genitiv (Wessen Hund?). Genitiv feminin: „deren“. Das Nomen danach hat keinen Artikel: „deren Hund“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Im Sommer fahren wir wieder nach Salzburg, ___ meine Großeltern leben.",
+      "options": ["was", "die", "wo"],
+      "answer": 2,
+      "explanation": "„Salzburg“ is a place (Where do my grandparents live?), and after names of cities and countries you use „wo“. „was“ only refers to words like „alles“ or to a whole sentence.",
+      "explanationDe": "„Salzburg“ ist ein Ort (Wo leben meine Großeltern?), und nach Namen von Städten und Ländern verwendest du „wo“. „was“ bezieht sich nur auf Wörter wie „alles“ oder auf einen ganzen Satz."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Laptop, ___ ich im Internet bestellt habe, ist immer noch nicht angekommen.",
+      "answers": ["den", "welchen"],
+      "hint": "(relative pronoun)",
+      "hintDe": "(Relativpronomen)",
+      "explanation": "„der Laptop“ is masculine. „ich“ is the subject of the relative clause, so the pronoun is the accusative object of „bestellen“ → „den“.",
+      "explanationDe": "„der Laptop“ ist maskulin. „ich“ ist das Subjekt des Relativsatzes, also ist das Pronomen das Akkusativobjekt von „bestellen“ → „den“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das ist die Kollegin, mit ___ ich mir ein Büro teile.",
+      "answers": ["der", "welcher"],
+      "explanation": "„mit“ always takes the dative, and „die Kollegin“ is feminine → „mit der“.",
+      "explanationDe": "Nach „mit“ steht immer der Dativ, und „die Kollegin“ ist feminin → „mit der“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe dir alles erzählt, ___ ich weiß.",
+      "answers": ["was"],
+      "explanation": "After „alles“ (and „etwas, nichts, vieles“) the relative pronoun is „was“, not „das“.",
+      "explanationDe": "Nach „alles“ (und „etwas, nichts, vieles“) heißt das Relativpronomen „was“, nicht „das“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wie heißt der Kollege, ___ du dein Auto geliehen hast?",
+      "answers": ["dem", "welchem"],
+      "explanation": "„jemandem etwas leihen“: the car is the accusative object, the colleague is the person who gets it → dative. Masculine dative relative pronoun: „dem“.",
+      "explanationDe": "„jemandem etwas leihen“: Das Auto ist das Akkusativobjekt, der Kollege ist die Person, die es bekommt → Dativ. Relativpronomen im Dativ maskulin: „dem“."
+    },
+    {
+      "type": "order",
+      "words": ["angemeldet", "Kurs,", "den", "ich", "Das", "habe.", "für", "mich", "der", "ist"],
+      "answers": ["Das ist der Kurs, für den ich mich angemeldet habe."],
+      "explanation": "„sich anmelden für“: the preposition „für“ comes before the relative pronoun „den“ (masculine accusative). The conjugated verb „habe“ goes to the end of the relative clause.",
+      "explanationDe": "„sich anmelden für“: Die Präposition „für“ steht vor dem Relativpronomen „den“ (Akkusativ maskulin). Das konjugierte Verb „habe“ steht am Ende des Relativsatzes."
+    },
+    {
+      "type": "order",
+      "words": ["Tierarzt.", "der", "hat,", "Mein", "ist", "Wien", "Nachbar,", "studiert", "in"],
+      "answers": ["Mein Nachbar, der in Wien studiert hat, ist Tierarzt."],
+      "explanation": "The relative clause comes directly after „Mein Nachbar“ and is closed by a comma. Inside it, „hat“ goes to the end; then the main clause continues with „ist“.",
+      "explanationDe": "Der Relativsatz steht direkt nach „Mein Nachbar“ und endet mit einem Komma. Im Relativsatz steht „hat“ am Ende; danach geht der Hauptsatz mit „ist“ weiter."
+    },
+    {
+      "type": "transform",
+      "instruction": "Join the two sentences with a relative clause.",
+      "instructionDe": "Verbinde die beiden Sätze mit einem Relativsatz.",
+      "prompt": "Ich habe eine Nachbarin. Ich helfe ihr oft beim Einkaufen.",
+      "answers": [
+        "Ich habe eine Nachbarin, der ich oft beim Einkaufen helfe.",
+        "Ich habe eine Nachbarin, der ich beim Einkaufen oft helfe.",
+        "Ich habe eine Nachbarin, welcher ich oft beim Einkaufen helfe."
+      ],
+      "explanation": "„helfen“ takes the dative: „ihr“ becomes the feminine dative relative pronoun „der“. The verb „helfe“ moves to the end.",
+      "explanationDe": "„helfen“ braucht den Dativ: Aus „ihr“ wird das Relativpronomen „der“ (Dativ feminin). Das Verb „helfe“ geht ans Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Join the two sentences with a relative clause. Put the preposition before the relative pronoun.",
+      "instructionDe": "Verbinde die beiden Sätze mit einem Relativsatz. Stell die Präposition vor das Relativpronomen.",
+      "prompt": "Morgen kommt mein Onkel. Ich freue mich sehr auf ihn.",
+      "answers": [
+        "Morgen kommt mein Onkel, auf den ich mich sehr freue.",
+        "Mein Onkel, auf den ich mich sehr freue, kommt morgen.",
+        "Morgen kommt mein Onkel, auf welchen ich mich sehr freue."
+      ],
+      "explanation": "„sich freuen auf“ + accusative: „auf ihn“ becomes „auf den“ (masculine accusative). The preposition stays in front of the pronoun, and „freue“ goes to the end.",
+      "explanationDe": "„sich freuen auf“ + Akkusativ: Aus „auf ihn“ wird „auf den“ (Akkusativ maskulin). Die Präposition bleibt vor dem Pronomen, und „freue“ geht ans Ende."
+    }
+  ],
+  "related": ["nebensaetze-grundlagen", "kasus-und-artikel", "verben-mit-praepositionen", "praepositionen-mit-kasus", "genitiv"]
+}

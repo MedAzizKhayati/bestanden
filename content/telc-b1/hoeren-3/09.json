@@ -1,0 +1,105 @@
+{
+  "id": "hoeren-3-09",
+  "examId": "telc-b1",
+  "type": "audio-short",
+  "title": "Reisen mit Hindernissen",
+  "topic": "reisen",
+  "difficulty": 3,
+  "speakers": [
+    { "id": "zug", "gender": "m", "age": "adult", "role": "Zugbegleiter" },
+    { "id": "flughafen", "gender": "f", "age": "adult", "role": "Lautsprecheransage" },
+    { "id": "verkehr", "gender": "m", "age": "adult", "role": "Radiosprecher" },
+    { "id": "vermietung", "name": "Frau Sommer", "gender": "f", "age": "young", "role": "Autovermietung Mobilo" },
+    { "id": "wetter", "gender": "m", "age": "senior", "role": "Wettermoderator" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage im Zug",
+      "script": [
+        { "s": "zug", "t": "Sehr geehrte Fahrgäste, in wenigen Minuten erreichen wir Hamm in Westfalen. Bitte beachten Sie: In Hamm wird unser Zug geteilt." },
+        { "s": "zug", "t": "Die vorderen Wagen, also Wagen 1 bis 6, fahren weiter nach Münster und Bremen. Die hinteren Wagen 7 bis 12 fahren über Dortmund nach Köln." },
+        { "s": "zug", "t": "Fahrgäste, die nach Köln möchten und jetzt in einem der vorderen Wagen sitzen, steigen bitte in Hamm aus und gehen nach hinten. Der Aufenthalt dauert acht Minuten." }
+      ],
+      "statement": "Ein Fahrgast nach Köln in Wagen 3 muss in Hamm in einen anderen Wagen gehen.",
+      "answer": true,
+      "explanation": "Carriages 1 to 6 continue to Münster and Bremen; only the rear carriages go to Köln. Passengers for Köln in a front carriage „steigen bitte in Hamm aus und gehen nach hinten“.",
+      "explanationDe": "Die Wagen 1 bis 6 fahren weiter nach Münster und Bremen; nur die hinteren Wagen fahren nach Köln. Fahrgäste nach Köln, die vorne sitzen, „steigen bitte in Hamm aus und gehen nach hinten“.",
+      "evidence": "Fahrgäste, die nach Köln möchten und jetzt in einem der vorderen Wagen sitzen, steigen bitte in Hamm aus und gehen nach hinten."
+    },
+    {
+      "n": 2,
+      "label": "Durchsage am Flughafen",
+      "script": [
+        { "s": "flughafen", "t": "Information für die Passagiere des Fluges nach Wien, der planmäßig um 13 Uhr 40 starten sollte." },
+        { "s": "flughafen", "t": "Ihr Flug startet heute nicht vom Flugsteig A 12, sondern vom Flugsteig C 3 aus." },
+        { "s": "flughafen", "t": "Der Abflug verschiebt sich auf 14 Uhr 25, Grund ist das späte Eintreffen der Maschine." },
+        { "s": "flughafen", "t": "Um 13 Uhr 55 beginnt das Einsteigen." },
+        { "s": "flughafen", "t": "Bitte begeben Sie sich rechtzeitig zum Flugsteig C 3, der Fußweg dauert etwa fünfzehn Minuten." }
+      ],
+      "statement": "Das Einsteigen in das Flugzeug nach Wien beginnt um 14 Uhr 25.",
+      "answer": false,
+      "explanation": "„Um 13 Uhr 55 beginnt das Einsteigen.“ 14 Uhr 25 is the new departure time, and 13 Uhr 40 was the original one.",
+      "explanationDe": "„Um 13 Uhr 55 beginnt das Einsteigen.“ Die neue Abflugzeit ist 14 Uhr 25, die ursprüngliche war 13 Uhr 40.",
+      "evidence": "Um 13 Uhr 55 beginnt das Einsteigen."
+    },
+    {
+      "n": 3,
+      "label": "Verkehrsfunk im Radio",
+      "script": [
+        { "s": "verkehr", "t": "Die Verkehrslage: Auf der A 8 von Stuttgart in Richtung München ist zwischen Ulm und Augsburg nach einem Unfall die linke Spur gesperrt. Dort staut sich der Verkehr auf zwölf Kilometern." },
+        { "s": "verkehr", "t": "In der Gegenrichtung, also nach Stuttgart, fließt der Verkehr dagegen normal." },
+        { "s": "verkehr", "t": "Auf der A 9 bei Ingolstadt ist der Stau, den wir eben gemeldet haben, inzwischen aufgelöst. Dort können Sie wieder ohne Probleme fahren." }
+      ],
+      "statement": "Wer auf der A 8 nach Stuttgart fährt, kommt ohne Stau durch.",
+      "answer": true,
+      "explanation": "The twelve-kilometre jam is in the direction of Munich. „In der Gegenrichtung, also nach Stuttgart, fließt der Verkehr dagegen normal.“",
+      "explanationDe": "Der Stau von zwölf Kilometern ist in Richtung München. „In der Gegenrichtung, also nach Stuttgart, fließt der Verkehr dagegen normal.“",
+      "evidence": "In der Gegenrichtung, also nach Stuttgart, fließt der Verkehr dagegen normal."
+    },
+    {
+      "n": 4,
+      "label": "Nachricht von der Autovermietung",
+      "script": [
+        { "s": "vermietung", "t": "Guten Tag, Herr Brenner, hier ist Sommer von der Autovermietung Mobilo am Flughafen. Es geht um Ihren Mietwagen für morgen." },
+        { "s": "vermietung", "t": "Ihr Auto steht nicht wie besprochen direkt vor dem Terminal, sondern im Parkhaus 3 auf der zweiten Ebene." },
+        { "s": "vermietung", "t": "Den Schlüssel bekommen Sie bei uns am Schalter in der Ankunftshalle." },
+        { "s": "vermietung", "t": "Bitte bringen Sie den Wagen am Freitag bis 18 Uhr zurück, und zwar vollgetankt. Sonst müssen wir Ihnen das Benzin extra berechnen." }
+      ],
+      "statement": "Herr Brenner bekommt den Schlüssel für das Auto im Parkhaus.",
+      "answer": false,
+      "explanation": "The car is in car park 3, but „Den Schlüssel bekommen Sie bei uns am Schalter in der Ankunftshalle“ – at the counter in the arrivals hall.",
+      "explanationDe": "Das Auto steht im Parkhaus 3, aber: „Den Schlüssel bekommen Sie bei uns am Schalter in der Ankunftshalle“ – also nicht im Parkhaus.",
+      "evidence": "Den Schlüssel bekommen Sie bei uns am Schalter in der Ankunftshalle."
+    },
+    {
+      "n": 5,
+      "label": "Wetterbericht",
+      "script": [
+        { "s": "wetter", "t": "Und nun das Wetter für die Alpen. In den Tälern regnet es heute immer wieder, die Temperaturen liegen bei 8 Grad." },
+        { "s": "wetter", "t": "Oberhalb von 1500 Metern fällt dagegen Schnee, und zwar bis zu zwanzig Zentimeter. Auf den Passstraßen in Tirol brauchen Autofahrer ab heute Abend Schneeketten." },
+        { "s": "wetter", "t": "Morgen wird es von Westen her freundlicher, und am Nachmittag kommt sogar die Sonne heraus." }
+      ],
+      "statement": "In den Tälern fällt heute bis zu zwanzig Zentimeter Schnee.",
+      "answer": false,
+      "explanation": "„In den Tälern regnet es heute immer wieder.“ The snow of up to twenty centimetres falls only „oberhalb von 1500 Metern“.",
+      "explanationDe": "„In den Tälern regnet es heute immer wieder.“ Der Schnee – bis zu zwanzig Zentimeter – fällt nur „oberhalb von 1500 Metern“.",
+      "evidence": "Oberhalb von 1500 Metern fällt dagegen Schnee, und zwar bis zu zwanzig Zentimeter."
+    }
+  ],
+  "glossary": [
+    { "de": "geteilt werden", "en": "to be split (train)" },
+    { "de": "der Wagen", "en": "carriage, coach; car" },
+    { "de": "das Eintreffen", "en": "arrival" },
+    { "de": "sich verschieben", "en": "to be postponed, to be moved" },
+    { "de": "sich begeben", "en": "to proceed, to go (formal)" },
+    { "de": "die Gegenrichtung", "en": "the opposite direction" },
+    { "de": "sich auflösen", "en": "to clear (of a traffic jam)" },
+    { "de": "der Mietwagen", "en": "rental car" },
+    { "de": "die Ankunftshalle", "en": "arrivals hall" },
+    { "de": "vollgetankt", "en": "with a full tank" },
+    { "de": "das Tal", "en": "valley" },
+    { "de": "die Schneekette", "en": "snow chain" }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "schreiben-15",
+  "examId": "telc-b1",
+  "type": "writing-email",
+  "title": "Einladung zum Festival",
+  "topic": "freizeit",
+  "difficulty": 2,
+  "register": "informal",
+  "situation": "Sie haben von Ihrer Freundin Clara folgende E-Mail erhalten:",
+  "stimulus": {
+    "kind": "email",
+    "from": "Clara",
+    "subject": "Endlich Urlaub!",
+    "body": "Hallo,\n\nwie geht's? Ich habe endlich Urlaub, und zwar drei ganze Wochen im Juli! Leider fahre ich dieses Jahr nicht weg, weil ich für meine neue Wohnung sparen muss. Aber ich möchte trotzdem etwas Schönes erleben.\n\nWas machst du denn im Sommer? Wir haben uns schon so lange nicht gesehen! Hättest du vielleicht Lust auf Besuch? Ich könnte dich mal in Würzburg besuchen – aber nur, wenn es nicht zu teuer wird.\n\nGanz liebe Grüße\nClara"
+  },
+  "leitpunkte": [
+    "Was Sie über das Festival erzählen",
+    "Wo Clara übernachten kann",
+    "Wie viel der Besuch kostet",
+    "Wann Clara kommen soll"
+  ],
+  "model": {
+    "subject": "Komm im Juli nach Würzburg – zum Festival!",
+    "text": "Liebe Clara,\n\nwie schön, dass du drei Wochen Urlaub hast! Du hast recht, wir haben uns viel zu lange nicht gesehen. Deshalb habe ich eine Idee: Komm doch vom 18. bis zum 20. Juli zu mir nach Würzburg!\n\nAn diesem Wochenende findet nämlich das „Mainufer-Festival“ statt. Drei Tage lang spielen dort Bands aus ganz Europa, und zwar direkt am Fluss unter freiem Himmel. Außer Musik gibt es auch Essensstände und Workshops. Letztes Jahr war ich schon dort, und die Stimmung war fantastisch!\n\nKeine Sorge, teuer wird es nicht. Ein Ticket für alle drei Tage kostet 49 Euro, ein Tagesticket nur 20 Euro. Mit dem Regionalzug kommst du außerdem günstig hierher.\n\nÜbernachten kannst du natürlich bei mir. Meine Wohnung ist zwar klein, aber das Gästebett ist bequem, und zu Fuß sind wir in zehn Minuten am Festivalgelände.\n\nWas meinst du? Sag mir bald Bescheid, damit ich die Tickets kaufen kann, bevor sie ausverkauft sind!\n\nLiebe Grüße\nDein Yusuf"
+  },
+  "modelNotes": [
+    "The writer reacts to Clara's news and turns it into an invitation right at the start („Deshalb habe ich eine Idee: …“).",
+    "The festival is described with concrete, attractive details (bands, location, food stalls, last year's experience), so the reader can imagine it.",
+    "Clara's worry about money is answered directly („Keine Sorge, teuer wird es nicht.“) with real prices – picking up the reader's concerns is a sign of good communicative design.",
+    "Varied connectors: „deshalb“, „nämlich“, „und zwar“, „außerdem“, „zwar … aber“, „damit“, „bevor“."
+  ],
+  "modelNotesDe": [
+    "Der Schreiber reagiert auf Claras Neuigkeit und macht daraus gleich am Anfang eine Einladung („Deshalb habe ich eine Idee: …“).",
+    "Der Schreiber beschreibt das Festival mit konkreten, attraktiven Details (Bands, Ort, Essensstände, Erfahrung vom letzten Jahr), sodass sich die Leserin alles vorstellen kann.",
+    "Auf Claras Sorge wegen des Geldes antwortet der Schreiber direkt („Keine Sorge, teuer wird es nicht.“) und nennt echte Preise – auf die Sorgen der Leserin einzugehen, ist ein Zeichen für eine gute Kommunikative Gestaltung.",
+    "Abwechslungsreiche Konnektoren: „deshalb“, „nämlich“, „und zwar“, „außerdem“, „zwar … aber“, „damit“, „bevor“."
+  ],
+  "phrases": [
+    { "de": "Komm doch zu mir nach …!", "en": "Why don't you come and visit me in …?" },
+    { "de": "An diesem Wochenende findet nämlich … statt.", "en": "That weekend, you see, … is taking place." },
+    { "de": "Die Stimmung war fantastisch.", "en": "The atmosphere was fantastic." },
+    { "de": "Keine Sorge, teuer wird es nicht.", "en": "Don't worry, it won't be expensive." },
+    { "de": "Übernachten kannst du natürlich bei mir.", "en": "Of course you can stay at my place." },
+    { "de": "Was meinst du?", "en": "What do you think?" },
+    { "de": "Sag mir bald Bescheid, damit …", "en": "Let me know soon so that …" }
+  ],
+  "glossary": [
+    { "de": "sparen", "en": "to save (money)" },
+    { "de": "unter freiem Himmel", "en": "in the open air" },
+    { "de": "der Essensstand", "en": "food stall" },
+    { "de": "die Stimmung", "en": "atmosphere, mood" },
+    { "de": "das Festivalgelände", "en": "festival grounds" },
+    { "de": "ausverkauft", "en": "sold out" }
+  ]
+}

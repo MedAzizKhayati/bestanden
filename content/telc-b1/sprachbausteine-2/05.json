@@ -1,0 +1,108 @@
+{
+  "id": "sprachbausteine-2-05",
+  "examId": "telc-b1",
+  "type": "gap-wordbank",
+  "title": "Die Heizung ist kaputt",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "textType": "letter-formal",
+  "text": "Sehr geehrter Herr Lindner,\n\nich bin [[1]] drei Jahren Mieterin der Wohnung im zweiten Stock in der Gartenstraße 14. Leider muss ich mich heute mit einem Problem an Sie wenden.\n\nSeit letztem Montag funktioniert die Heizung in meiner Wohnung nicht mehr. Ich habe sie ganz aufgedreht, [[2]] bleiben alle Heizkörper kalt. Ich habe [[3]] mehrmals versucht, den Hausmeister anzurufen, aber er war leider nie zu [[4]].\n\nMeine Nachbarin im dritten Stock hat das gleiche Problem. Vielleicht liegt der Fehler also nicht in meiner Wohnung, [[5]] in der Heizungsanlage im Keller.\n\nIch bitte Sie deshalb, sich [[6]] schnell wie möglich um eine Reparatur zu kümmern. Im Moment heize ich mit einem kleinen Elektroheizer, [[7]] die Wohnung wird nicht richtig warm.\n\nVon Montag bis Freitag bin ich ab 16 Uhr zu Hause. Wenn der Techniker vormittags kommen muss, nehme ich mir gern einen Tag [[8]]. Bitte teilen Sie mir rechtzeitig den [[9]] mit.\n\nIch hoffe auf eine schnelle Lösung und danke Ihnen im Voraus für Ihre [[10]].\n\nMit freundlichen Grüßen\nKatharina Vogt",
+  "words": [
+    { "key": "a", "text": "aber" },
+    { "key": "b", "text": "bereits" },
+    { "key": "c", "text": "erreichen" },
+    { "key": "d", "text": "frei" },
+    { "key": "e", "text": "Hilfe" },
+    { "key": "f", "text": "möglichst" },
+    { "key": "g", "text": "obwohl" },
+    { "key": "h", "text": "seit" },
+    { "key": "i", "text": "so" },
+    { "key": "j", "text": "sondern" },
+    { "key": "k", "text": "Termin" },
+    { "key": "l", "text": "trotzdem" },
+    { "key": "m", "text": "Uhrzeit" },
+    { "key": "n", "text": "Verständnis" },
+    { "key": "o", "text": "vor" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "h",
+      "explanation": "„seit“ + dative is used for something that started in the past and is still true now: „ich bin seit drei Jahren Mieterin“ (present tense). „vor drei Jahren“ would need a past tense.",
+      "explanationDe": "„seit“ + Dativ benutzt man für etwas, das in der Vergangenheit begonnen hat und jetzt noch gilt: „ich bin seit drei Jahren Mieterin“ (Präsens). „vor drei Jahren“ bräuchte eine Vergangenheitsform.",
+      "grammar": "temporale-praepositionen"
+    },
+    {
+      "n": 2,
+      "answer": "l",
+      "explanation": "The heating is turned up fully, but the radiators stay cold – an unexpected result, so „trotzdem“ (nevertheless). As an adverb it is followed directly by the verb: „trotzdem bleiben alle Heizkörper kalt“. „obwohl“ would need the verb at the end.",
+      "explanationDe": "Die Heizung ist ganz aufgedreht, aber die Heizkörper bleiben kalt – ein unerwartetes Ergebnis, also „trotzdem“ (= dennoch). Als Verbindungsadverb steht direkt danach das Verb: „trotzdem bleiben alle Heizkörper kalt“. Bei „obwohl“ müsste das Verb am Ende stehen.",
+      "grammar": "verbindungsadverbien"
+    },
+    {
+      "n": 3,
+      "answer": "b",
+      "explanation": "„bereits“ (already): she has already tried several times to phone the caretaker – „Ich habe bereits mehrmals versucht …“.",
+      "explanationDe": "„bereits“ (= schon): Sie hat schon mehrmals versucht, den Hausmeister anzurufen – „Ich habe bereits mehrmals versucht …“."
+    },
+    {
+      "n": 4,
+      "answer": "c",
+      "explanation": "„zu erreichen sein“ means „to be reachable (by phone)“: „er war leider nie zu erreichen“.",
+      "explanationDe": "„zu erreichen sein“ (= erreichbar sein, z. B. am Telefon): „er war leider nie zu erreichen“."
+    },
+    {
+      "n": 5,
+      "answer": "j",
+      "explanation": "After a negation („nicht in meiner Wohnung“) the correction is introduced by „sondern“: „nicht …, sondern in der Heizungsanlage“. „aber“ cannot be used for this kind of correction.",
+      "explanationDe": "Nach einer Verneinung („nicht in meiner Wohnung“) leitet „sondern“ die Korrektur ein: „nicht …, sondern in der Heizungsanlage“. „aber“ kann man für diese Art von Korrektur nicht benutzen.",
+      "grammar": "zweiteilige-konnektoren"
+    },
+    {
+      "n": 6,
+      "answer": "i",
+      "explanation": "„so schnell wie möglich“ (as quickly as possible) is a fixed comparison. „möglichst“ is a trap: „möglichst schnell“ means the same, but it cannot be combined with „wie möglich“.",
+      "explanationDe": "„so schnell wie möglich“ (= so schnell, wie es geht) ist ein fester Vergleich. „möglichst“ ist eine Falle: „möglichst schnell“ bedeutet dasselbe, aber man kann es nicht mit „wie möglich“ kombinieren.",
+      "grammar": "komparation"
+    },
+    {
+      "n": 7,
+      "answer": "a",
+      "explanation": "The second clause contrasts with the first (she uses an electric heater – the flat still does not get warm) and has main-clause word order, so „aber“ fits.",
+      "explanationDe": "Der zweite Satz bildet einen Gegensatz zum ersten (sie heizt mit einem Elektroheizer – die Wohnung wird immer noch nicht warm) und hat die Wortstellung eines Hauptsatzes. Deshalb passt „aber“.",
+      "grammar": "konnektoren-hauptsatz"
+    },
+    {
+      "n": 8,
+      "answer": "d",
+      "explanation": "„sich einen Tag freinehmen“ means „to take a day off work“. In a main clause the prefix goes to the end: „nehme ich mir gern einen Tag frei“.",
+      "explanationDe": "„sich einen Tag freinehmen“ bedeutet: einen Tag nicht zur Arbeit gehen. Im Hauptsatz steht das Präfix am Ende: „nehme ich mir gern einen Tag frei“.",
+      "grammar": "trennbare-verben"
+    },
+    {
+      "n": 9,
+      "answer": "k",
+      "explanation": "„den“ needs a masculine noun: „den Termin mitteilen“ (to tell someone the date of the appointment). „Uhrzeit“ would fit the meaning, but it is feminine („die Uhrzeit“).",
+      "explanationDe": "Nach „den“ braucht man ein maskulines Nomen: „den Termin mitteilen“ (= sagen, wann der Termin ist). „Uhrzeit“ würde inhaltlich passen, ist aber feminin („die Uhrzeit“).",
+      "grammar": "kasus-und-artikel"
+    },
+    {
+      "n": 10,
+      "answer": "e",
+      "explanation": "„Ihre“ needs a feminine noun here: „danke Ihnen im Voraus für Ihre Hilfe“. „Verständnis“ is neuter („Ihr Verständnis“), so it does not fit.",
+      "explanationDe": "Nach „Ihre“ braucht man hier ein feminines Nomen: „danke Ihnen im Voraus für Ihre Hilfe“. „Verständnis“ ist neutral („Ihr Verständnis“) und passt deshalb nicht.",
+      "grammar": "kasus-und-artikel"
+    }
+  ],
+  "glossary": [
+    { "de": "die Mieterin", "en": "(female) tenant" },
+    { "de": "sich an jemanden wenden", "en": "to contact someone (with a problem or request)" },
+    { "de": "aufdrehen", "en": "to turn up (heating, tap)" },
+    { "de": "der Heizkörper", "en": "radiator" },
+    { "de": "der Hausmeister", "en": "caretaker" },
+    { "de": "zu erreichen sein", "en": "to be reachable" },
+    { "de": "die Heizungsanlage", "en": "heating system" },
+    { "de": "sich einen Tag freinehmen", "en": "to take a day off" },
+    { "de": "rechtzeitig", "en": "in good time" }
+  ]
+}

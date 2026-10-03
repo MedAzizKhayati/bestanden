@@ -1,0 +1,269 @@
+{
+  "id": "verben-mit-praepositionen",
+  "level": "B1",
+  "category": "verben",
+  "order": 9,
+  "title": "Verben mit Präpositionen und darauf/worauf",
+  "titleEn": "Verbs with prepositions",
+  "summary": "Many verbs need a fixed preposition with a fixed case (warten auf + Akk.). Learn them as a unit and use da- and wo-words like darauf and worauf for things.",
+  "summaryDe": "Viele Verben brauchen eine feste Präposition mit einem festen Kasus (warten auf + Akk.). Lerne sie als Einheit und benutze für Sachen da- und wo-Wörter wie darauf und worauf.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Many verbs have a **fixed preposition** that decides the case – learn verb, preposition and case as one unit: warten **auf** + Akk., träumen **von** + Dat. For things use **da(r)- / wo(r)- + preposition** (darauf, worauf?); for people keep the preposition and use a pronoun (auf ihn, auf wen?).",
+      "mdDe": "Viele Verben haben eine **feste Präposition**, die den Kasus bestimmt – lerne Verb, Präposition und Kasus als eine Einheit: warten **auf** + Akk., träumen **von** + Dat. Für Sachen benutzt du **da(r)- / wo(r)- + Präposition** (darauf, worauf?). Bei Personen bleibt die Präposition, und du benutzt ein Pronomen (auf ihn, auf wen?)."
+    },
+    {
+      "type": "text",
+      "heading": "Learn them as a unit",
+      "headingDe": "Als Einheit lernen",
+      "md": "The preposition in these combinations has often lost its normal meaning, and it is often different from English: to wait **for** = warten **auf**, to be interested **in** = sich interessieren **für**, to think **of** = denken **an**, to depend **on** = abhängen **von**. So don't translate word by word – learn „warten auf + Akk.“ as one item.\n\nSome rules of thumb for the case:\n\n- **für, um, gegen** → always accusative. **mit, von, bei, nach, zu, aus** → always dative.\n- **über** → with verbs always accusative: sprechen über, sich ärgern über, nachdenken über.\n- **auf** → nearly always accusative: warten auf, sich freuen auf, sich vorbereiten auf.\n- **an** → mostly accusative (denken an, sich erinnern an, sich gewöhnen an), but dative with **teilnehmen an** and **arbeiten an**.\n- **vor** → dative: Angst haben vor, warnen vor.",
+      "mdDe": "In diesen Verbindungen hat die Präposition oft ihre normale Bedeutung verloren, und sie ist oft anders als im Englischen: to wait **for** = warten **auf**, to be interested **in** = sich interessieren **für**, to think **of** = denken **an**, to depend **on** = abhängen **von**. Übersetze also nicht Wort für Wort – lerne „warten auf + Akk.“ als eine Einheit.\n\nEinige Faustregeln für den Kasus:\n\n- **für, um, gegen** → immer Akkusativ. **mit, von, bei, nach, zu, aus** → immer Dativ.\n- **über** → bei Verben immer Akkusativ: sprechen über, sich ärgern über, nachdenken über.\n- **auf** → fast immer Akkusativ: warten auf, sich freuen auf, sich vorbereiten auf.\n- **an** → meistens Akkusativ (denken an, sich erinnern an, sich gewöhnen an), aber Dativ bei **teilnehmen an** und **arbeiten an**.\n- **vor** → Dativ: Angst haben vor, warnen vor."
+    },
+    {
+      "type": "table",
+      "heading": "Important verbs with prepositions",
+      "headingDe": "Wichtige Verben mit Präpositionen",
+      "columns": ["Verb", "Präposition + Kasus", "Beispiel", "English"],
+      "columnsDe": ["Verb", "Präposition + Kasus", "Beispiel", "Bedeutung"],
+      "rows": [
+        ["warten", "auf + Akk.", "Ich warte auf den Bus.", "to wait for"],
+        ["sich freuen", "auf + Akk.", "Wir freuen uns auf die Ferien.", "to look forward to"],
+        ["sich freuen", "über + Akk.", "Sie freut sich über die Karte.", "to be pleased about"],
+        ["sich vorbereiten", "auf + Akk.", "Er bereitet sich auf die Prüfung vor.", "to prepare for"],
+        ["denken", "an + Akk.", "Ich denke oft an meine Familie.", "to think of"],
+        ["sich erinnern", "an + Akk.", "Erinnerst du dich an unseren Lehrer?", "to remember"],
+        ["sprechen", "über + Akk.", "Wir sprechen über das Problem.", "to talk about"],
+        ["sich ärgern", "über + Akk.", "Ich ärgere mich über den Lärm.", "to be annoyed about"],
+        ["sich interessieren", "für + Akk.", "Sie interessiert sich für Kunst.", "to be interested in"],
+        ["sich entscheiden", "für + Akk.", "Wir haben uns für das Sofa entschieden.", "to decide on"],
+        ["sich kümmern", "um + Akk.", "Wer kümmert sich um die Kinder?", "to take care of"],
+        ["bitten", "um + Akk.", "Er bittet seinen Kollegen um Hilfe.", "to ask for"],
+        ["teilnehmen", "an + Dat.", "Ich nehme an einem Kurs teil.", "to take part in"],
+        ["träumen", "von + Dat.", "Sie träumt von einem Haus am Meer.", "to dream of"],
+        ["abhängen", "von + Dat.", "Das hängt vom Wetter ab.", "to depend on"],
+        ["halten", "von + Dat.", "Was hältst du von der Idee?", "to think of (opinion)"],
+        ["fragen", "nach + Dat.", "Der Tourist fragt nach dem Weg.", "to ask about"],
+        ["sich beschäftigen", "mit + Dat.", "Er beschäftigt sich mit Fotografie.", "to deal with, to be busy with"],
+        ["helfen", "bei + Dat.", "Kannst du mir beim Umzug helfen?", "to help with"],
+        ["einladen", "zu + Dat.", "Ich lade dich zu meiner Party ein.", "to invite to"],
+        ["Angst haben", "vor + Dat.", "Mein Sohn hat Angst vor Hunden.", "to be afraid of"]
+      ],
+      "rowsDe": [
+        ["warten", "auf + Akk.", "Ich warte auf den Bus.", "bleiben, bis jemand oder etwas kommt"],
+        ["sich freuen", "auf + Akk.", "Wir freuen uns auf die Ferien.", "auf etwas Zukünftiges gespannt sein"],
+        ["sich freuen", "über + Akk.", "Sie freut sich über die Karte.", "froh sein wegen etwas, das schon da ist"],
+        ["sich vorbereiten", "auf + Akk.", "Er bereitet sich auf die Prüfung vor.", "sich bereit machen für"],
+        ["denken", "an + Akk.", "Ich denke oft an meine Familie.", "in Gedanken bei jemandem sein; nicht vergessen"],
+        ["sich erinnern", "an + Akk.", "Erinnerst du dich an unseren Lehrer?", "noch im Gedächtnis haben"],
+        ["sprechen", "über + Akk.", "Wir sprechen über das Problem.", "sich unterhalten, diskutieren"],
+        ["sich ärgern", "über + Akk.", "Ich ärgere mich über den Lärm.", "wütend sein wegen"],
+        ["sich interessieren", "für + Akk.", "Sie interessiert sich für Kunst.", "Interesse haben an"],
+        ["sich entscheiden", "für + Akk.", "Wir haben uns für das Sofa entschieden.", "wählen"],
+        ["sich kümmern", "um + Akk.", "Wer kümmert sich um die Kinder?", "sorgen für"],
+        ["bitten", "um + Akk.", "Er bittet seinen Kollegen um Hilfe.", "höflich sagen, dass man etwas möchte"],
+        ["teilnehmen", "an + Dat.", "Ich nehme an einem Kurs teil.", "mitmachen bei"],
+        ["träumen", "von + Dat.", "Sie träumt von einem Haus am Meer.", "sich etwas sehr wünschen"],
+        ["abhängen", "von + Dat.", "Das hängt vom Wetter ab.", "bestimmt werden durch"],
+        ["halten", "von + Dat.", "Was hältst du von der Idee?", "eine Meinung haben zu"],
+        ["fragen", "nach + Dat.", "Der Tourist fragt nach dem Weg.", "eine Information wollen über"],
+        ["sich beschäftigen", "mit + Dat.", "Er beschäftigt sich mit Fotografie.", "sich befassen mit, Zeit verbringen mit"],
+        ["helfen", "bei + Dat.", "Kannst du mir beim Umzug helfen?", "bei einer Aufgabe unterstützen"],
+        ["einladen", "zu + Dat.", "Ich lade dich zu meiner Party ein.", "bitten, zu einem Fest o. Ä. zu kommen"],
+        ["Angst haben", "vor + Dat.", "Mein Sohn hat Angst vor Hunden.", "sich fürchten vor"]
+      ],
+      "note": "Always check the case after the preposition: „auf den Bus“ (Akk.), but „von dem Wetter“ = „vom Wetter“ (Dat.).",
+      "noteDe": "Prüf immer den Kasus nach der Präposition: „auf den Bus“ (Akk.), aber „von dem Wetter“ = „vom Wetter“ (Dat.)."
+    },
+    {
+      "type": "text",
+      "heading": "Things or people: darauf, worauf, auf ihn",
+      "headingDe": "Sachen oder Personen: darauf, worauf, auf ihn",
+      "md": "If you don't want to repeat a thing or an idea, use **da- + preposition**. When the preposition starts with a vowel, an **r** is added: darauf, daran, darüber, darum.\n\n- Wartest du auf das Paket? – Ja, ich warte **darauf**.\n- Hast du an den Termin gedacht? – Ja, ich habe **daran** gedacht.\n\nTo ask about a thing, use **wo- + preposition** (again with r before a vowel): **Worauf** wartest du? **Wofür** interessierst du dich?\n\nFor **people** there are no da- or wo-words. Keep the preposition and use a personal pronoun or wen/wem:\n\n- Wartest du auf deinen Bruder? – Ja, ich warte **auf ihn**. – **Auf wen** wartest du?\n- Sprichst du oft mit deiner Chefin? – Ja, ich spreche oft **mit ihr**. – **Mit wem** sprichst du?",
+      "mdDe": "Wenn du eine Sache oder eine Idee nicht wiederholen möchtest, benutze **da- + Präposition**. Beginnt die Präposition mit einem Vokal, kommt ein **r** dazu: darauf, daran, darüber, darum.\n\n- Wartest du auf das Paket? – Ja, ich warte **darauf**.\n- Hast du an den Termin gedacht? – Ja, ich habe **daran** gedacht.\n\nWenn du nach einer Sache fragst, benutze **wo- + Präposition** (auch hier mit r vor einem Vokal): **Worauf** wartest du? **Wofür** interessierst du dich?\n\nFür **Personen** gibt es keine da- oder wo-Wörter. Die Präposition bleibt, und du benutzt ein Personalpronomen oder wen/wem:\n\n- Wartest du auf deinen Bruder? – Ja, ich warte **auf ihn**. – **Auf wen** wartest du?\n- Sprichst du oft mit deiner Chefin? – Ja, ich spreche oft **mit ihr**. – **Mit wem** sprichst du?"
+    },
+    {
+      "type": "table",
+      "heading": "da- and wo-words",
+      "headingDe": "da- und wo-Wörter",
+      "columns": ["Präposition", "Sache: Antwort", "Sache: Frage", "Person: Frage"],
+      "columnsDe": ["Präposition", "Sache: Antwort", "Sache: Frage", "Person: Frage"],
+      "rows": [
+        ["auf", "darauf", "worauf?", "auf wen?"],
+        ["an", "daran", "woran?", "an wen?"],
+        ["über", "darüber", "worüber?", "über wen?"],
+        ["um", "darum", "worum?", "um wen?"],
+        ["für", "dafür", "wofür?", "für wen?"],
+        ["mit", "damit", "womit?", "mit wem?"],
+        ["von", "davon", "wovon?", "von wem?"],
+        ["nach", "danach", "wonach?", "nach wem?"],
+        ["zu", "dazu", "wozu?", "zu wem?"],
+        ["bei", "dabei", "wobei?", "bei wem?"],
+        ["vor", "davor", "wovor?", "vor wem?"]
+      ],
+      "note": "For people: accusative prepositions ask with „wen?“, dative prepositions with „wem?“.",
+      "noteDe": "Bei Personen: Mit Akkusativ-Präpositionen fragst du mit „wen?“, mit Dativ-Präpositionen mit „wem?“."
+    },
+    {
+      "type": "text",
+      "heading": "da-words before a clause",
+      "headingDe": "da-Wörter vor einem Nebensatz",
+      "md": "A da-word can also point forward to a whole clause with **dass**, **ob**, a question word or **zu** + infinitive. This is very common in letters and e-mails:\n\n- Ich freue mich **darauf**, dich bald wiederzusehen.\n- Wir haben uns **darüber** geärgert, dass der Zug so spät kam.\n- Es hängt **davon** ab, ob ich Urlaub bekomme.\n- Ich interessiere mich **dafür**, wie man ein eigenes Café eröffnet.",
+      "mdDe": "Ein da-Wort kann auch auf einen ganzen Satz verweisen, der danach kommt: einen Satz mit **dass**, **ob**, einem Fragewort oder **zu** + Infinitiv. Das ist in Briefen und E-Mails sehr häufig:\n\n- Ich freue mich **darauf**, dich bald wiederzusehen.\n- Wir haben uns **darüber** geärgert, dass der Zug so spät kam.\n- Es hängt **davon** ab, ob ich Urlaub bekomme.\n- Ich interessiere mich **dafür**, wie man ein eigenes Café eröffnet."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich **warte** schon seit einer Stunde **auf** den Techniker.", "en": "I've been waiting for the technician for an hour." },
+        { "de": "Wir **freuen uns** sehr **auf** euren Besuch im Mai.", "en": "We're really looking forward to your visit in May." },
+        { "de": "**Worüber** habt ihr in der Sitzung **gesprochen**? – **Über** den neuen Dienstplan.", "en": "What did you talk about in the meeting? – About the new rota." },
+        { "de": "Hast du **an** Omas Geburtstag **gedacht**? – Ja, ich habe **daran** gedacht.", "en": "Did you remember Grandma's birthday? – Yes, I did." },
+        { "de": "**Mit wem** hast du dich am Samstag **verabredet**? – **Mit** Jonas.", "en": "Who have you arranged to meet on Saturday? – Jonas." },
+        { "de": "Viele Menschen **haben Angst vor** dem Zahnarzt.", "en": "Many people are afraid of the dentist." },
+        { "de": "Sie **nimmt** jeden Dienstag **an** einem Yogakurs **teil**.", "en": "She takes part in a yoga class every Tuesday." },
+        { "de": "Ich **bedanke mich** herzlich **für** Ihre schnelle Antwort.", "en": "Thank you very much for your quick reply." },
+        { "de": "Erinnerst du dich noch **an** Frau Berger? – Ja, ich erinnere mich gut **an sie**.", "en": "Do you still remember Mrs Berger? – Yes, I remember her well." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 2** loves these combinations. When a gap follows a verb such as „sich interessieren“, „sich bewerben“ or „teilnehmen“, the missing word is often the preposition (für, um, an) – or a da-word like „darauf“ or „dafür“ before a „dass“-clause.\n- **Sprachbausteine Teil 1:** check the case after the preposition („auf den / dem Termin“) and choose between „darauf / worauf / auf ihn“.\n- **Schreiben:** these phrases make your e-mail sound natural: „Ich freue mich auf Ihre Antwort.“ – „Vielen Dank für Ihre Einladung, ich nehme gern an der Feier teil.“ – „Ich interessiere mich für Ihr Angebot.“ – „Ich möchte mich über … beschweren.“\n- **Sprechen:** „Was hältst du davon?“ – „Ich kümmere mich um die Getränke.“ – „Das hängt davon ab, wie viel Zeit wir haben.“",
+      "mdDe": "**In der Prüfung**\n\n- In **Sprachbausteine Teil 2** kommen diese Verbindungen sehr oft vor. Wenn eine Lücke nach einem Verb wie „sich interessieren“, „sich bewerben“ oder „teilnehmen“ steht, fehlt oft die Präposition (für, um, an) – oder ein da-Wort wie „darauf“ oder „dafür“ vor einem „dass“-Satz.\n- **Sprachbausteine Teil 1:** Prüf den Kasus nach der Präposition („auf den / dem Termin“) und wähle zwischen „darauf / worauf / auf ihn“.\n- **Schreiben:** Mit diesen Redemitteln klingt deine E-Mail natürlich: „Ich freue mich auf Ihre Antwort.“ – „Vielen Dank für Ihre Einladung, ich nehme gern an der Feier teil.“ – „Ich interessiere mich für Ihr Angebot.“ – „Ich möchte mich über … beschweren.“\n- **Sprechen:** „Was hältst du davon?“ – „Ich kümmere mich um die Getränke.“ – „Das hängt davon ab, wie viel Zeit wir haben.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap: da-words are only for things.** For people, use preposition + pronoun: „Meine Oma? Ich denke oft **an sie**.“ – not „daran“. In questions it is „**Worauf** wartest du?“ (a thing) but „**Auf wen** wartest du?“ (a person). And watch out for English: wait **for** is „warten **auf**“, never „warten für“.",
+      "mdDe": "**Typische Falle: da-Wörter gibt es nur für Sachen.** Bei Personen benutzt du Präposition + Pronomen: „Meine Oma? Ich denke oft **an sie**.“ – nicht „daran“. In Fragen heißt es „**Worauf** wartest du?“ (eine Sache), aber „**Auf wen** wartest du?“ (eine Person). Und Achtung beim Englischen: wait **for** heißt „warten **auf**“, nie „warten für“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich warte für den Bus.",
+      "right": "Ich warte auf den Bus.",
+      "why": "„warten“ always takes „auf“ + accusative. Don't translate the English ‘for’.",
+      "whyDe": "„warten“ steht immer mit „auf“ + Akkusativ. Übersetze nicht das englische „for“."
+    },
+    {
+      "wrong": "Ich interessiere mich an Musik.",
+      "right": "Ich interessiere mich für Musik.",
+      "why": "The fixed preposition of „sich interessieren“ is „für“ + accusative.",
+      "whyDe": "Die feste Präposition von „sich interessieren“ ist „für“ + Akkusativ."
+    },
+    {
+      "wrong": "Wir nehmen an den Kurs teil.",
+      "right": "Wir nehmen am Kurs teil.",
+      "why": "„teilnehmen an“ takes the dative: an dem Kurs = am Kurs.",
+      "whyDe": "„teilnehmen an“ steht mit Dativ: an dem Kurs = am Kurs."
+    },
+    {
+      "wrong": "Danke für das Geschenk! Ich habe mich sehr über es gefreut.",
+      "right": "Danke für das Geschenk! Ich habe mich sehr darüber gefreut.",
+      "why": "For things, replace preposition + pronoun with a da-word: über es → darüber.",
+      "whyDe": "Bei Sachen ersetzt du Präposition + Pronomen durch ein da-Wort: über es → darüber."
+    },
+    {
+      "wrong": "Mein Opa? Ich denke oft daran.",
+      "right": "Mein Opa? Ich denke oft an ihn.",
+      "why": "For people you keep the preposition and use a personal pronoun – da-words are only for things.",
+      "whyDe": "Bei Personen bleibt die Präposition, und du benutzt ein Personalpronomen – da-Wörter gibt es nur für Sachen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Vielen Dank für die schönen Blumen! Ich habe mich sehr ___ gefreut.",
+      "options": ["darüber", "darauf", "dafür"],
+      "answer": 0,
+      "explanation": "You have already received the flowers, so it is „sich freuen über“ → „darüber“. „darauf“ would mean you are still looking forward to them.",
+      "explanationDe": "Du hast die Blumen schon bekommen, deshalb heißt es „sich freuen über“ → „darüber“. „darauf“ würde bedeuten, dass die Blumen erst noch kommen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Kinder haben Angst ___ der Dunkelheit.",
+      "options": ["vor", "von", "über"],
+      "answer": 0,
+      "explanation": "„Angst haben vor“ + dative. „der Dunkelheit“ is the dative of „die Dunkelheit“.",
+      "explanationDe": "„Angst haben vor“ + Dativ. „der Dunkelheit“ ist der Dativ von „die Dunkelheit“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Herr Sommer hat sich um ___ Stelle als Koch beworben.",
+      "options": ["die", "der", "den"],
+      "answer": 0,
+      "explanation": "„sich bewerben um“ + accusative. „die Stelle“ is feminine, so the accusative article is „die“.",
+      "explanationDe": "„sich bewerben um“ + Akkusativ. „die Stelle“ ist feminin, deshalb heißt der Artikel im Akkusativ „die“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ denkst du gerade? – An meine Prüfung morgen.",
+      "options": ["Woran", "An wen", "Daran"],
+      "answer": 0,
+      "explanation": "The answer is a thing („meine Prüfung“), so you ask with „woran“. „An wen“ asks about a person, and „daran“ is not a question word.",
+      "explanationDe": "Die Antwort ist eine Sache („meine Prüfung“), deshalb fragst du mit „woran“. „An wen“ fragt nach einer Person, und „daran“ ist kein Fragewort."
+    },
+    {
+      "type": "gap",
+      "prompt": "Kannst du dich bitte ___ die Getränke für die Party kümmern?",
+      "answers": ["um"],
+      "explanation": "„sich kümmern um“ + accusative = to take care of.",
+      "explanationDe": "„sich kümmern um“ + Akkusativ = für etwas sorgen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich nehme nächste Woche ___ einem Erste-Hilfe-Kurs teil.",
+      "answers": ["an"],
+      "explanation": "„teilnehmen an“ + dative („einem Kurs“) – one of the few verbs with „an“ + dative.",
+      "explanationDe": "„teilnehmen an“ + Dativ („einem Kurs“) – eines der wenigen Verben mit „an“ + Dativ."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ob wir grillen, hängt ___ Wetter ab.",
+      "answers": ["vom", "von dem"],
+      "explanation": "„abhängen von“ + dative: von dem Wetter = vom Wetter.",
+      "explanationDe": "„abhängen von“ + Dativ: von dem Wetter = vom Wetter."
+    },
+    {
+      "type": "gap",
+      "prompt": "Erinnerst du dich noch an unseren Urlaub in Kroatien? – Ja, ich erinnere mich gern ___.",
+      "answers": ["daran"],
+      "explanation": "„der Urlaub“ is a thing, so „an unseren Urlaub“ becomes „daran“ (da + r + an).",
+      "explanationDe": "„der Urlaub“ ist eine Sache, deshalb wird aus „an unseren Urlaub“ „daran“ (da + r + an)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe lange ___ nachgedacht, ob ich die neue Stelle annehmen soll.",
+      "answers": ["darüber"],
+      "explanation": "„nachdenken über“ + accusative. The da-word „darüber“ points forward to the „ob“-clause.",
+      "explanationDe": "„nachdenken über“ + Akkusativ. Das da-Wort „darüber“ verweist auf den „ob“-Satz, der danach kommt."
+    },
+    {
+      "type": "transform",
+      "instruction": "Ask a question about the part in brackets.",
+      "instructionDe": "Frag nach dem Teil in Klammern.",
+      "prompt": "Sie träumt (von einem eigenen Garten).",
+      "answers": ["Wovon träumt sie?"],
+      "explanation": "„von einem eigenen Garten“ is a thing, so the question word is wo- + von = „wovon“.",
+      "explanationDe": "„von einem eigenen Garten“ ist eine Sache, deshalb ist das Fragewort wo- + von = „wovon“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the part in brackets with a pronoun or a da-word.",
+      "instructionDe": "Ersetze den Teil in Klammern durch ein Pronomen oder ein da-Wort.",
+      "prompt": "Ich warte schon seit zehn Minuten (auf meine Kollegin).",
+      "answers": ["Ich warte schon seit zehn Minuten auf sie."],
+      "explanation": "„meine Kollegin“ is a person, so you keep the preposition and use the pronoun „sie“ – „darauf“ is only for things.",
+      "explanationDe": "„meine Kollegin“ ist eine Person, deshalb bleibt die Präposition, und du benutzt das Pronomen „sie“ – „darauf“ gibt es nur für Sachen."
+    },
+    {
+      "type": "order",
+      "words": ["entschieden.", "für", "uns", "die", "Wir", "günstigere", "haben", "Wohnung"],
+      "answers": ["Wir haben uns für die günstigere Wohnung entschieden.", "Für die günstigere Wohnung haben wir uns entschieden."],
+      "explanation": "„sich entscheiden für“ + accusative. In the Perfekt the reflexive pronoun follows „haben“, and the participle „entschieden“ goes to the end.",
+      "explanationDe": "„sich entscheiden für“ + Akkusativ. Im Perfekt steht das Reflexivpronomen nach „haben“, und das Partizip II „entschieden“ steht am Ende."
+    }
+  ],
+  "related": ["reflexive-verben", "adjektive-mit-praepositionen", "praepositionen-mit-kasus", "indirekte-fragen", "infinitiv-mit-zu"]
+}

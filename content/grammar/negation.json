@@ -1,0 +1,246 @@
+{
+  "id": "negation",
+  "level": "A2",
+  "category": "satzbau",
+  "order": 13,
+  "title": "Verneinung: nicht, kein, nie, niemand, nichts",
+  "titleEn": "Negation",
+  "summary": "Say no correctly: kein for nouns with ein or without an article, nicht for everything else – plus nie, niemand, nichts, the right position of nicht and the answer doch.",
+  "summaryDe": "Richtig verneinen: kein für Nomen mit ein oder ohne Artikel, nicht für alles andere – dazu nie, niemand, nichts, die richtige Position von nicht und die Antwort doch.",
+  "examRelevance": ["lesen", "hoeren", "sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Use **kein** for nouns that would have **ein/eine** or **no article** in the positive sentence: Ich habe **kein** Auto. Ich habe **keine** Zeit. Use **nicht** for everything else – verbs, adjectives, adverbs, names and nouns with a definite article or a possessive: Ich komme **nicht**. Das ist **nicht** mein Auto.",
+      "mdDe": "Nimm **kein** für Nomen, die im positiven Satz **ein/eine** oder **keinen Artikel** hätten: Ich habe **kein** Auto. Ich habe **keine** Zeit. Nimm **nicht** für alles andere – Verben, Adjektive, Adverbien, Namen und Nomen mit bestimmtem Artikel oder Possessivartikel: Ich komme **nicht**. Das ist **nicht** mein Auto."
+    },
+    {
+      "type": "text",
+      "heading": "kein or nicht?",
+      "headingDe": "kein oder nicht?",
+      "md": "Think of the positive sentence first:\n\n- Ich habe **einen** Hund. → Ich habe **keinen** Hund.\n- Ich trinke Kaffee. (no article) → Ich trinke **keinen** Kaffee.\n- Ich habe **den** Brief gelesen. → Ich habe den Brief **nicht** gelesen.\n- Das ist **mein** Schlüssel. → Das ist **nicht** mein Schlüssel.\n- Ich komme mit. → Ich komme **nicht** mit.\n\n**kein** has the same endings as **ein** – and in the plural the same endings as **meine**: Ich habe **keine** Geschwister. Wir haben **keinen** Garten.",
+      "mdDe": "Denk zuerst an den positiven Satz:\n\n- Ich habe **einen** Hund. → Ich habe **keinen** Hund.\n- Ich trinke Kaffee. (ohne Artikel) → Ich trinke **keinen** Kaffee.\n- Ich habe **den** Brief gelesen. → Ich habe den Brief **nicht** gelesen.\n- Das ist **mein** Schlüssel. → Das ist **nicht** mein Schlüssel.\n- Ich komme mit. → Ich komme **nicht** mit.\n\n**kein** hat die gleichen Endungen wie **ein** – und im Plural die gleichen Endungen wie **meine**: Ich habe **keine** Geschwister. Wir haben **keinen** Garten."
+    },
+    {
+      "type": "table",
+      "heading": "Endings of kein",
+      "headingDe": "Endungen von kein",
+      "columns": ["Case", "masculine", "neuter", "feminine", "plural"],
+      "columnsDe": ["Kasus", "maskulin", "neutral", "feminin", "Plural"],
+      "rows": [
+        ["Nominativ", "kein", "kein", "keine", "keine"],
+        ["Akkusativ", "keinen", "kein", "keine", "keine"],
+        ["Dativ", "keinem", "keinem", "keiner", "keinen"],
+        ["Genitiv", "keines", "keines", "keiner", "keiner"]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Where does nicht go?",
+      "headingDe": "Wo steht nicht?",
+      "md": "1. **Negating the whole sentence:** nicht goes towards the end, but **before** the second part of the verb (infinitive, participle, separable prefix): Ich kann heute **nicht kommen**. Er ist **nicht gekommen**. Wir fahren **nicht weg**.\n2. nicht comes **after** the objects and after time expressions like heute, morgen, gestern: Ich kenne den Mann **nicht**. Sie arbeitet heute **nicht**.\n3. nicht comes **before** adjectives, places, most prepositional phrases and adverbs of manner: Das Essen ist **nicht warm**. Sie wohnt **nicht in Berlin**. Ich warte **nicht auf dich**. Er fährt **nicht gern** Auto.\n4. **Negating only one part:** put nicht directly in front of that part and continue with **sondern**: Ich fahre **nicht heute**, **sondern** morgen.",
+      "mdDe": "1. **Den ganzen Satz verneinen:** nicht steht weit hinten, aber **vor** dem zweiten Teil des Verbs (Infinitiv, Partizip, trennbares Präfix): Ich kann heute **nicht kommen**. Er ist **nicht gekommen**. Wir fahren **nicht weg**.\n2. nicht steht **nach** den Objekten und nach Zeitangaben wie heute, morgen, gestern: Ich kenne den Mann **nicht**. Sie arbeitet heute **nicht**.\n3. nicht steht **vor** Adjektiven, Ortsangaben, den meisten Ausdrücken mit Präposition und vor Adverbien der Art und Weise: Das Essen ist **nicht warm**. Sie wohnt **nicht in Berlin**. Ich warte **nicht auf dich**. Er fährt **nicht gern** Auto.\n4. **Nur einen Teil verneinen:** Stell nicht direkt vor diesen Teil und mach mit **sondern** weiter: Ich fahre **nicht heute**, **sondern** morgen."
+    },
+    {
+      "type": "table",
+      "heading": "More negative words",
+      "headingDe": "Weitere Negationswörter",
+      "columns": ["Positive", "Negative", "Example"],
+      "columnsDe": ["Positiv", "Negativ", "Beispiel"],
+      "rows": [
+        ["etwas, alles", "nichts", "Ich habe heute noch nichts gegessen."],
+        ["jemand, alle", "niemand", "Niemand hat angerufen."],
+        ["immer, oft, manchmal", "nie, niemals", "Er kommt nie pünktlich."],
+        ["schon", "noch nicht", "Der Zug ist noch nicht da."],
+        ["schon einmal", "noch nie", "Ich war noch nie in der Schweiz."],
+        ["noch (+ verb)", "nicht mehr", "Sie wohnt nicht mehr hier."],
+        ["noch (+ noun)", "kein … mehr", "Wir haben keine Milch mehr."],
+        ["irgendwo", "nirgends, nirgendwo", "Ich finde meine Brille nirgends."],
+        ["entweder … oder", "weder … noch", "Ich trinke weder Kaffee noch Tee."]
+      ],
+      "rowsDe": [
+        ["etwas, alles", "nichts", "Ich habe heute noch nichts gegessen."],
+        ["jemand, alle", "niemand", "Niemand hat angerufen."],
+        ["immer, oft, manchmal", "nie, niemals", "Er kommt nie pünktlich."],
+        ["schon", "noch nicht", "Der Zug ist noch nicht da."],
+        ["schon einmal", "noch nie", "Ich war noch nie in der Schweiz."],
+        ["noch (+ Verb)", "nicht mehr", "Sie wohnt nicht mehr hier."],
+        ["noch (+ Nomen)", "kein … mehr", "Wir haben keine Milch mehr."],
+        ["irgendwo", "nirgends, nirgendwo", "Ich finde meine Brille nirgends."],
+        ["entweder … oder", "weder … noch", "Ich trinke weder Kaffee noch Tee."]
+      ],
+      "note": "niemand can take endings: Ich habe niemanden (Akk.) gesehen. Ich habe niemandem (Dat.) etwas gesagt. The form without an ending (niemand) is also correct.",
+      "noteDe": "niemand kann Endungen bekommen: Ich habe niemanden (Akk.) gesehen. Ich habe niemandem (Dat.) etwas gesagt. Die Form ohne Endung (niemand) ist auch richtig."
+    },
+    {
+      "type": "text",
+      "heading": "Answering negative questions: doch",
+      "headingDe": "Auf verneinte Fragen antworten: doch",
+      "md": "If someone asks a **negative question** and you want to say yes, answer with **doch**:\n\n- Kommst du **nicht** mit? – **Doch**, ich komme mit. / **Nein**, ich komme nicht mit.\n- Hast du **keinen** Hunger? – **Doch**, ich habe großen Hunger!\n\n„Ja“ is not correct here.",
+      "mdDe": "Wenn jemand eine **verneinte Frage** stellt und deine Antwort positiv ist, antworte mit **doch**:\n\n- Kommst du **nicht** mit? – **Doch**, ich komme mit. / **Nein**, ich komme nicht mit.\n- Hast du **keinen** Hunger? – **Doch**, ich habe großen Hunger!\n\n„Ja“ ist hier nicht richtig."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich habe heute **keine** Zeit.", "en": "I don't have time today." },
+        { "de": "Wir haben **keinen** Fernseher.", "en": "We don't have a TV." },
+        { "de": "Leider kann ich am Freitag **nicht** kommen.", "en": "Unfortunately I can't come on Friday." },
+        { "de": "Das Hotel war **nicht** besonders sauber.", "en": "The hotel wasn't particularly clean." },
+        { "de": "**Niemand** hat mir Bescheid gesagt.", "en": "Nobody let me know." },
+        { "de": "Ich habe den ganzen Tag **nichts** gegessen.", "en": "I haven't eaten anything all day." },
+        { "de": "Er war **noch nie** in Österreich.", "en": "He has never been to Austria." },
+        { "de": "Wir wohnen **nicht mehr** in Hamburg.", "en": "We don't live in Hamburg any more." },
+        { "de": "Es gibt **keine** Brötchen **mehr**.", "en": "There are no more bread rolls." },
+        { "de": "Ich möchte **nicht** heute, **sondern** am Montag kommen.", "en": "I'd like to come not today, but on Monday." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "German uses **only one** negative word per clause: Ich habe **niemandem** etwas gesagt – not „Ich habe niemandem nichts gesagt“. And for a noun that would have „ein“ or no article, use **kein** – not „nicht ein“ or „nicht“ alone: Ich habe **keine** Zeit – not „Ich habe nicht Zeit“.",
+      "mdDe": "Im Deutschen gibt es pro Satz **nur ein** Negationswort: Ich habe **niemandem** etwas gesagt – nicht „Ich habe niemandem nichts gesagt“. Und für ein Nomen, das „ein“ oder keinen Artikel hätte, nimmst du **kein** – nicht „nicht ein“ oder nur „nicht“: Ich habe **keine** Zeit – nicht „Ich habe nicht Zeit“."
+    },
+    {
+      "type": "tip",
+      "md": "In **Lesen** and **Hören**, a small „nicht“, „kein“ or „nie“ can turn a statement from richtig to falsch – underline negative words in the task and listen for them. In **Sprachbausteine Teil 1** you may have to choose the correct form of kein („keinen / keinem / keine“): check gender and case as you would for „ein“. In **Sprachbausteine Teil 2**, „nicht“, „nichts“ or „niemand“ can be in the word list – read the whole sentence before you decide.\n\nIn **Schreiben**, polite refusals need correct negation: „Leider kann ich am Samstag nicht kommen.“ – „Das ist überhaupt kein Problem.“",
+      "mdDe": "Im **Lesen** und **Hören** kann ein kleines „nicht“, „kein“ oder „nie“ eine Aussage von richtig zu falsch machen – unterstreiche Negationswörter in der Aufgabe und achte beim Hören darauf. In **Sprachbausteine Teil 1** musst du vielleicht die richtige Form von kein wählen („keinen / keinem / keine“): Prüfe Genus und Kasus wie bei „ein“. In **Sprachbausteine Teil 2** können „nicht“, „nichts“ oder „niemand“ in der Wortliste stehen – lies den ganzen Satz, bevor du dich entscheidest.\n\nIm **Schreiben** brauchen höfliche Absagen eine korrekte Verneinung: „Leider kann ich am Samstag nicht kommen.“ – „Das ist überhaupt kein Problem.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe nicht ein Auto.",
+      "right": "Ich habe kein Auto.",
+      "why": "A noun with „ein“ is negated with „kein“.",
+      "whyDe": "Ein Nomen mit „ein“ verneinst du mit „kein“."
+    },
+    {
+      "wrong": "Ich habe heute nicht Zeit.",
+      "right": "Ich habe heute keine Zeit.",
+      "why": "„Zeit“ has no article here, so you need „kein“ – with the feminine ending: „keine Zeit“.",
+      "whyDe": "„Zeit“ hat hier keinen Artikel, also brauchst du „kein“ – mit femininer Endung: „keine Zeit“."
+    },
+    {
+      "wrong": "Ich kann nicht heute kommen.",
+      "right": "Ich kann heute nicht kommen.",
+      "why": "To negate the whole sentence, „nicht“ comes after the time expression and before the infinitive. „nicht heute“ only works with a contrast: „nicht heute, sondern morgen“.",
+      "whyDe": "Wenn du den ganzen Satz verneinst, steht „nicht“ nach der Zeitangabe und vor dem Infinitiv. „nicht heute“ geht nur mit einem Gegensatz: „nicht heute, sondern morgen“."
+    },
+    {
+      "wrong": "Er hat mich gestern angerufen nicht.",
+      "right": "Er hat mich gestern nicht angerufen.",
+      "why": "„nicht“ stands before the participle – the participle is always the last word.",
+      "whyDe": "„nicht“ steht vor dem Partizip – das Partizip ist immer das letzte Wort."
+    },
+    {
+      "wrong": "Hast du keinen Hunger? – Ja, ich habe Hunger.",
+      "right": "Hast du keinen Hunger? – Doch, ich habe Hunger.",
+      "why": "To contradict a negative question, answer with „doch“, not „ja“.",
+      "whyDe": "Wenn du einer verneinten Frage widersprichst, antworte mit „doch“, nicht mit „ja“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Tut mir leid, ich habe ___ Kleingeld dabei.",
+      "options": ["keine", "nicht", "kein"],
+      "answer": 2,
+      "explanation": "„Kleingeld“ (das) has no article here, so you negate it with kein. Neuter accusative → „kein“, without an ending.",
+      "explanationDe": "„Kleingeld“ (das) hat hier keinen Artikel, deshalb verneinst du es mit kein. Neutral, Akkusativ → „kein“, ohne Endung."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir haben diese Woche leider ___ freien Termine mehr.",
+      "options": ["keine", "keinen", "nicht"],
+      "answer": 0,
+      "explanation": "„Termine“ is plural; accusative plural → „keine“. „kein … mehr“ means no more.",
+      "explanationDe": "„Termine“ ist Plural; Akkusativ Plural → „keine“. „kein … mehr“ bedeutet: Es ist nichts mehr übrig."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich habe an der Tür geklingelt, aber ___ hat aufgemacht.",
+      "options": ["nichts", "niemand", "nie"],
+      "answer": 1,
+      "explanation": "You need a person as the subject: nobody opened the door → „niemand“. „nichts“ = nothing, „nie“ = never.",
+      "explanationDe": "Du brauchst eine Person als Subjekt: Keine Person hat die Tür aufgemacht → „niemand“. „nichts“ = keine Sache, „nie“ = zu keiner Zeit."
+    },
+    {
+      "type": "mc",
+      "prompt": "Kommst du heute Abend nicht zur Party? – ___, natürlich komme ich!",
+      "options": ["Ja", "Nein", "Doch"],
+      "answer": 2,
+      "explanation": "To answer a negative question with yes, you say „doch“.",
+      "explanationDe": "Wenn du auf eine verneinte Frage positiv antwortest, sagst du „doch“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Möchtest du noch Kaffee? – Nein danke, ich möchte ___ Kaffee mehr.",
+      "answers": ["keinen"],
+      "explanation": "„der Kaffee“ has no article here → kein; masculine accusative → „keinen“. „kein … mehr“ = no more.",
+      "explanationDe": "„der Kaffee“ hat hier keinen Artikel → kein; maskulin, Akkusativ → „keinen“. „kein … mehr“ = nicht noch mehr davon."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich war noch ___ in Wien. Wie ist es dort?",
+      "answers": ["nie", "niemals"],
+      "hint": "(= never)",
+      "hintDe": "(= kein einziges Mal)",
+      "explanation": "„noch nie“ = never (up to now). „Ich war noch nicht in Wien“ (not yet) is also possible German, but the hint asks for never.",
+      "explanationDe": "„noch nie“ = bis jetzt kein einziges Mal. „Ich war noch nicht in Wien“ (= bis jetzt nicht) ist auch korrektes Deutsch, aber der Hinweis verlangt ‚kein einziges Mal‘."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe großen Hunger, aber im Kühlschrank ist ___ mehr.",
+      "answers": ["nichts"],
+      "explanation": "The opposite of „etwas“ is „nichts“; „nichts mehr“ = nothing left.",
+      "explanationDe": "Das Gegenteil von „etwas“ ist „nichts“; „nichts mehr“ = es ist nichts übrig."
+    },
+    {
+      "type": "gap",
+      "prompt": "Leider kann ich dir ___ helfen, ich kenne mich mit Computern auch nicht aus.",
+      "answers": ["nicht"],
+      "explanation": "You negate the verb („helfen“), so you need „nicht“. It stands before the infinitive at the end.",
+      "explanationDe": "Du verneinst das Verb („helfen“), also brauchst du „nicht“. Es steht vor dem Infinitiv am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["gelesen.", "noch", "Brief", "Ich", "nicht", "habe", "den"],
+      "answers": ["Ich habe den Brief noch nicht gelesen.", "Den Brief habe ich noch nicht gelesen."],
+      "explanation": "„den Brief“ has a definite article → „nicht“. „noch nicht“ (not yet) comes after the object and before the participle at the end.",
+      "explanationDe": "„den Brief“ hat einen bestimmten Artikel → „nicht“. „noch nicht“ (= bis jetzt nicht) steht nach dem Objekt und vor dem Partizip am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["zur", "nicht", "Er", "gekommen.", "gestern", "Arbeit", "ist"],
+      "answers": ["Er ist gestern nicht zur Arbeit gekommen.", "Gestern ist er nicht zur Arbeit gekommen."],
+      "explanation": "„nicht“ comes after the time expression („gestern“) and before the place („zur Arbeit“); the participle goes to the end.",
+      "explanationDe": "„nicht“ steht nach der Zeitangabe („gestern“) und vor der Ortsangabe („zur Arbeit“); das Partizip steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Make the sentence negative.",
+      "instructionDe": "Verneine den Satz.",
+      "prompt": "Ich habe einen Termin beim Zahnarzt.",
+      "answers": ["Ich habe keinen Termin beim Zahnarzt."],
+      "explanation": "„einen Termin“ → „keinen Termin“: kein replaces ein and keeps the masculine accusative ending -en.",
+      "explanationDe": "„einen Termin“ → „keinen Termin“: kein ersetzt ein und behält die Endung -en (maskulin, Akkusativ)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Answer the question in the negative. Use „nicht mehr“.",
+      "instructionDe": "Beantworte die Frage mit einer Verneinung. Benutze „nicht mehr“.",
+      "prompt": "Wohnt Herr Yilmaz noch in der Gartenstraße?",
+      "answers": [
+        "Nein, er wohnt nicht mehr in der Gartenstraße.",
+        "Nein, Herr Yilmaz wohnt nicht mehr in der Gartenstraße.",
+        "Er wohnt nicht mehr in der Gartenstraße.",
+        "Herr Yilmaz wohnt nicht mehr in der Gartenstraße.",
+        "Nein, er wohnt nicht mehr dort.",
+        "Nein, er wohnt nicht mehr da."
+      ],
+      "explanation": "The opposite of „noch“ is „nicht mehr“. It comes before the place expression „in der Gartenstraße“.",
+      "explanationDe": "Das Gegenteil von „noch“ ist „nicht mehr“. Es steht vor der Ortsangabe „in der Gartenstraße“."
+    }
+  ],
+  "related": ["satzbau-hauptsatz", "kasus-und-artikel", "konnektoren-hauptsatz", "zweiteilige-konnektoren"]
+}

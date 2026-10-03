@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-10",
+  "examId": "telc-b1",
+  "type": "text-mc",
+  "title": "Zimmer gegen Hilfe",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "article": {
+    "headline": "Eine Wohngemeinschaft zwischen 23 und 84",
+    "lead": "In Innsbruck ist es für Studierende schwer, ein günstiges Zimmer zu finden. Ein Projekt bringt sie mit älteren Menschen zusammen, die Platz haben – und ein bisschen Hilfe brauchen.",
+    "paragraphs": [
+      "Wenn Giulia Ferraro abends von der Uni nach Hause kommt, riecht es oft schon nach Suppe. „Frau Pichler kocht immer viel zu viel, und ich darf mitessen“, sagt die 23-jährige Studentin aus Bologna und lacht. Seit einem Jahr wohnt sie bei der 84-jährigen Hermine Pichler in einem Haus am Stadtrand von Innsbruck. Miete zahlt sie keine – dafür hilft sie im Haushalt.",
+      "Die Regel des Projekts „Wohnen für Hilfe“ ist einfach: Für jeden Quadratmeter Wohnfläche hilft man eine Stunde im Monat. Giulias Zimmer hat 16 Quadratmeter, also hilft sie 16 Stunden im Monat. Sie geht einkaufen, bringt das Altpapier zum Container, mäht im Sommer den Rasen und räumt im Winter den Schnee vor dem Haus weg. Nur die Kosten für Strom und Wasser zahlt sie selbst, etwa 90 Euro im Monat. Pflege gehört ausdrücklich nicht zu ihren Aufgaben.",
+      "Organisiert wird das Projekt von einem Verein, der eng mit der Universität zusammenarbeitet. Projektleiterin Martina Gruber führt mit allen Interessierten ein langes Gespräch, bevor sie Wohnpartner zusammenbringt. „Wir fragen genau nach: Raucht jemand? Gibt es Haustiere? Wann steht man morgens auf?“, erzählt sie. Danach wohnen beide zwei Wochen lang zur Probe zusammen. Erst dann unterschreiben sie einen Vertrag.",
+      "Hermine Pichler hat lange überlegt, bevor sie sich angemeldet hat. Ihr Mann ist vor sechs Jahren gestorben, die Kinder wohnen in Wien und Salzburg. „Das Haus war zu groß und zu still“, sagt sie. „Aber eine fremde Person in meinem Haus? Das konnte ich mir zuerst nicht vorstellen.“ Überzeugt hat sie schließlich ihre Tochter, die sich Sorgen machte, weil ihre Mutter nachts allein im Haus war.",
+      "Heute kann sie sich ein Leben ohne Giulia kaum noch vorstellen. Die beiden schauen zusammen Skirennen im Fernsehen, und Frau Pichler bringt der Studentin Tiroler Rezepte bei. Giulia hat ihr dafür gezeigt, wie man mit dem Handy Videoanrufe macht. „Jetzt sehe ich meine Enkel in Wien jeden Sonntag“, freut sich die Seniorin. Natürlich gibt es auch mal Streit, meistens wegen der Heizung. „Frau Pichler findet 19 Grad warm genug, ich nicht“, sagt Giulia.",
+      "Seit dem Start vor acht Jahren hat der Verein über 300 Wohnpartnerschaften vermittelt. Das Interesse ist aber sehr ungleich verteilt: Auf eine Seniorin oder einen Senior kommen etwa vier Studierende, die ein Zimmer suchen. „Viele ältere Menschen haben Angst, ihre Selbstständigkeit zu verlieren, wenn jemand bei ihnen wohnt“, erklärt Martina Gruber. „Dabei ist oft das Gegenteil der Fall: Mit ein bisschen Hilfe können sie länger in ihrem eigenen Haus bleiben.“",
+      "Nach dem Studium möchte Giulia eigentlich zurück nach Italien. „Aber Frau Pichler hat schon gesagt, dass sie mich nicht gehen lässt“, erzählt sie lachend. Bis dahin sind es noch zwei Jahre. Und so lange gibt es abends Suppe für zwei."
+    ],
+    "source": "Tiroler Wochenschau"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Giulia Ferraro …",
+      "options": [
+        { "key": "a", "text": "zahlt für ihr Zimmer 16 Euro pro Quadratmeter." },
+        { "key": "b", "text": "hilft Frau Pichler 16 Stunden im Monat." },
+        { "key": "c", "text": "pflegt Frau Pichler, wenn sie krank ist." }
+      ],
+      "answer": "b",
+      "explanation": "One hour of help per square metre: „Giulias Zimmer hat 16 Quadratmeter, also hilft sie 16 Stunden im Monat“, so (b). She pays no rent, only about 90 euros for electricity and water (a). Care („Pflege“) is explicitly not one of her tasks (c).",
+      "explanationDe": "Eine Stunde Hilfe pro Quadratmeter: „Giulias Zimmer hat 16 Quadratmeter, also hilft sie 16 Stunden im Monat“, deshalb ist (b) richtig. Sie zahlt keine Miete, nur etwa 90 Euro für Strom und Wasser (a). „Pflege“ gehört ausdrücklich nicht zu ihren Aufgaben (c).",
+      "evidence": "Giulias Zimmer hat 16 Quadratmeter, also hilft sie 16 Stunden im Monat."
+    },
+    {
+      "n": 2,
+      "stem": "Bevor Studierende und Senioren einen Vertrag unterschreiben, …",
+      "options": [
+        { "key": "a", "text": "wohnen sie zwei Wochen lang auf Probe zusammen." },
+        { "key": "b", "text": "müssen sie einen Kurs an der Universität besuchen." },
+        { "key": "c", "text": "treffen sie sich zwei Wochen lang im Büro von Frau Gruber." }
+      ],
+      "answer": "a",
+      "explanation": "„Danach wohnen beide zwei Wochen lang zur Probe zusammen. Erst dann unterschreiben sie einen Vertrag“, so (a). The association works with the university, but nobody has to take a course there (b). The two weeks are spent living together, not meeting in an office (c).",
+      "explanationDe": "„Danach wohnen beide zwei Wochen lang zur Probe zusammen. Erst dann unterschreiben sie einen Vertrag“, also ist (a) richtig. Der Verein arbeitet mit der Universität zusammen, aber niemand muss dort einen Kurs besuchen (b). In den zwei Wochen wohnen die beiden zusammen – sie treffen sich nicht in einem Büro (c).",
+      "evidence": "Danach wohnen beide zwei Wochen lang zur Probe zusammen."
+    },
+    {
+      "n": 3,
+      "stem": "Frau Pichler hat sich schließlich für das Projekt angemeldet, weil …",
+      "options": [
+        { "key": "a", "text": "ihr das große Haus zu teuer geworden ist." },
+        { "key": "b", "text": "sie dringend Hilfe im Garten gebraucht hat." },
+        { "key": "c", "text": "ihre Tochter sie davon überzeugt hat." }
+      ],
+      "answer": "c",
+      "explanation": "„Überzeugt hat sie schließlich ihre Tochter“, so (c). The house was „zu groß und zu still“ – not too expensive (a). Giulia mows the lawn, but help in the garden is not the reason why Frau Pichler signed up (b).",
+      "explanationDe": "„Überzeugt hat sie schließlich ihre Tochter“, also ist (c) richtig. Das Haus war „zu groß und zu still“ – nicht zu teuer (a). Giulia mäht zwar den Rasen, aber Hilfe im Garten ist nicht der Grund, warum sich Frau Pichler angemeldet hat (b).",
+      "evidence": "Überzeugt hat sie schließlich ihre Tochter, die sich Sorgen machte, weil ihre Mutter nachts allein im Haus war."
+    },
+    {
+      "n": 4,
+      "stem": "Worüber streiten die beiden manchmal?",
+      "options": [
+        { "key": "a", "text": "Über das Programm im Fernsehen." },
+        { "key": "b", "text": "Über die Rezepte beim Kochen." },
+        { "key": "c", "text": "Über die Temperatur im Haus." }
+      ],
+      "answer": "c",
+      "explanation": "„Streit, meistens wegen der Heizung“ – Frau Pichler finds 19 degrees warm enough, Giulia does not, so (c). They watch ski races together, and Frau Pichler teaches her Tyrolean recipes – there is no argument about these (a, b).",
+      "explanationDe": "„Streit, meistens wegen der Heizung“ – Frau Pichler findet 19 Grad warm genug, Giulia nicht, also ist (c) richtig. Die beiden schauen zusammen Skirennen, und Frau Pichler bringt ihr Tiroler Rezepte bei – darüber streiten sie nicht (a, b).",
+      "evidence": "Natürlich gibt es auch mal Streit, meistens wegen der Heizung."
+    },
+    {
+      "n": 5,
+      "stem": "Laut Frau Gruber …",
+      "options": [
+        { "key": "a", "text": "können ältere Menschen mit etwas Hilfe länger zu Hause wohnen." },
+        { "key": "b", "text": "suchen mehr Senioren als Studierende einen Wohnpartner." },
+        { "key": "c", "text": "verlieren viele Senioren durch das Projekt ihre Selbstständigkeit." }
+      ],
+      "answer": "a",
+      "explanation": "„Mit ein bisschen Hilfe können sie länger in ihrem eigenen Haus bleiben“, so (a). It is the other way round: there are about four students for every senior (b). Losing independence is only what many older people are afraid of – Frau Gruber says „oft das Gegenteil“ is true (c).",
+      "explanationDe": "„Mit ein bisschen Hilfe können sie länger in ihrem eigenen Haus bleiben“, also ist (a) richtig. Es ist umgekehrt: Auf eine Seniorin oder einen Senior kommen etwa vier Studierende (b). Dass sie ihre Selbstständigkeit verlieren, ist nur die Angst vieler älterer Menschen – Frau Gruber sagt, dass „oft das Gegenteil“ der Fall ist (c).",
+      "evidence": "Mit ein bisschen Hilfe können sie länger in ihrem eigenen Haus bleiben."
+    }
+  ],
+  "glossary": [
+    { "de": "die Wohngemeinschaft (WG)", "en": "shared flat" },
+    { "de": "die Wohnfläche", "en": "living space" },
+    { "de": "den Rasen mähen", "en": "to mow the lawn" },
+    { "de": "die Pflege", "en": "(nursing) care" },
+    { "de": "ausdrücklich", "en": "explicitly" },
+    { "de": "zur Probe", "en": "on a trial basis" },
+    { "de": "jemanden überzeugen", "en": "to convince someone" },
+    { "de": "sich Sorgen machen", "en": "to worry" },
+    { "de": "jemandem etwas beibringen", "en": "to teach someone something" },
+    { "de": "vermitteln", "en": "to arrange, to match (people)" },
+    { "de": "die Selbstständigkeit", "en": "independence" }
+  ]
+}

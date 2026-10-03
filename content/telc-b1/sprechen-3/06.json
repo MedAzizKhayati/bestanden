@@ -1,0 +1,72 @@
+{
+  "id": "sprechen-3-06",
+  "examId": "telc-b1",
+  "type": "speaking-planning",
+  "title": "Ein Geschenk für Frau Peters",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "situation": "Ihre Kursleiterin, Frau Peters, bekommt ein Baby und hört nächste Woche in Ihrem Deutschkurs auf. Die Kursgruppe möchte ihr zum Abschied ein Geschenk machen. Sie beide sollen das Geschenk organisieren.",
+  "checklist": [
+    "Was für ein Geschenk?",
+    "Wie viel Geld gibt jede Person?",
+    "Wer sammelt das Geld ein?",
+    "Wo kaufen?",
+    "Karte?",
+    "Wann und wie übergeben Sie das Geschenk?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Yasmin Mansour", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Hiroshi Sato", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Bitte planen Sie jetzt zusammen das Geschenk für Ihre Kursleiterin." },
+    { "s": "B", "t": "Frau Mansour, wir haben nicht mehr viel Zeit, denn Frau Peters hört schon nächsten Freitag auf. Haben Sie schon eine Idee, was wir ihr schenken könnten?" },
+    { "s": "A", "t": "Ich habe ein bisschen nachgedacht. Weil sie ein Baby bekommt, könnten wir etwas für das Baby kaufen, zum Beispiel Kleidung oder ein Kuscheltier." },
+    { "s": "B", "t": "Das ist eine schöne Idee, aber Babykleidung bekommt sie bestimmt von vielen Leuten. Vielleicht schenken wir lieber etwas für sie selbst. Sie war ja unsere Lehrerin, nicht das Baby." },
+    { "s": "A", "t": "Da haben Sie auch wieder recht. Was halten Sie von einem Gutschein für eine Massage? Mit einem Baby hat sie bestimmt wenig Zeit für sich." },
+    { "s": "B", "t": "Ich weiß nicht, ob das passt, weil sie mit einem kleinen Baby vielleicht nicht so leicht weg kann. Wie wäre es mit einem Gutschein für ein Restaurant, das auch nach Hause liefert?" },
+    { "s": "A", "t": "Das ist eine sehr praktische Idee! Dann muss sie in den ersten Wochen nicht kochen. Und vielleicht kaufen wir trotzdem ein kleines Kuscheltier für das Baby dazu." },
+    { "s": "B", "t": "Ja, das ist ein guter Kompromiss. Wie viel Geld sollte jeder geben? Wir sind vierzehn Personen im Kurs." },
+    { "s": "A", "t": "Ich würde sagen, fünf Euro pro Person. Nicht alle im Kurs haben viel Geld, und es soll für niemanden ein Problem sein." },
+    { "s": "B", "t": "Fünf Euro sind in Ordnung. Dann haben wir siebzig Euro, und das reicht für einen guten Gutschein und das Kuscheltier." },
+    { "s": "A", "t": "Genau. Ich kann das Geld in der Pause einsammeln und aufschreiben, wer schon bezahlt hat." },
+    { "s": "B", "t": "Sehr gut. Den Gutschein kann ich besorgen. In der Nähe der Sprachschule gibt es ein italienisches Restaurant, das auch liefert, und Frau Peters isst gern Pasta." },
+    { "s": "A", "t": "Woher wissen Sie das?" },
+    { "s": "B", "t": "Sie hat im Unterricht einmal erzählt, dass Pasta ihr Lieblingsessen ist. Wir haben damals über Essen gesprochen, erinnern Sie sich?" },
+    { "s": "A", "t": "Ach ja, stimmt! Dann kaufe ich das Kuscheltier. Ich habe in der Stadt einen kleinen Laden gesehen, der schöne Sachen aus Baumwolle verkauft." },
+    { "s": "B", "t": "Super. Wir brauchen auch eine Karte. Ich finde, alle sollten etwas in ihrer Muttersprache schreiben, das wäre etwas Besonderes." },
+    { "s": "A", "t": "Das gefällt mir sehr! Aber vielleicht schreibt jeder auch einen Satz auf Deutsch, damit sie alles versteht. Sie hat uns schließlich Deutsch beigebracht." },
+    { "s": "B", "t": "Sie haben recht, das ist wichtig. Und wann geben wir ihr das Geschenk?" },
+    { "s": "A", "t": "Ich schlage vor, am letzten Tag am Ende der Stunde. Vielleicht können wir auch Kuchen mitbringen und eine kleine Feier machen." },
+    { "s": "B", "t": "Gute Idee, aber dann müssen wir vorher die Schulleitung fragen, ob wir im Kursraum feiern dürfen. Das übernehme ich." },
+    { "s": "A", "t": "Danke. Also, ich fasse zusammen: Wir schenken Frau Peters einen Gutschein für das italienische Restaurant und ein Kuscheltier für das Baby. Jeder gibt fünf Euro." },
+    { "s": "B", "t": "Richtig. Sie sammeln das Geld ein und kaufen das Kuscheltier, und ich besorge den Gutschein und frage die Schulleitung wegen der Feier." },
+    { "s": "A", "t": "Und die Karte? Wer kümmert sich darum?" },
+    { "s": "B", "t": "Die kaufe ich auch und bringe sie am Montag mit. Dann können alle in der Pause unterschreiben." },
+    { "s": "A", "t": "Perfekt. Ich glaube, Frau Peters wird sich sehr freuen." }
+  ],
+  "phrases": [
+    { "de": "Haben Sie schon eine Idee, was wir … könnten?", "en": "Do you have any idea what we could …?" },
+    { "de": "Da haben Sie auch wieder recht.", "en": "You've got a point there too." },
+    { "de": "Ich weiß nicht, ob das passt.", "en": "I'm not sure that's suitable." },
+    { "de": "Ich würde sagen, …", "en": "I'd say …" },
+    { "de": "Woher wissen Sie das?", "en": "How do you know that?" },
+    { "de": "Das gefällt mir sehr! Aber vielleicht …", "en": "I really like that! But maybe …" },
+    { "de": "Das übernehme ich.", "en": "I'll take care of that." },
+    { "de": "Wer kümmert sich darum?", "en": "Who will take care of that?" },
+    { "de": "Also, ich fasse zusammen: …", "en": "So, to sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Kursleiterin", "en": "course teacher (female)" },
+    { "de": "das Kuscheltier", "en": "cuddly toy" },
+    { "de": "der Gutschein", "en": "voucher" },
+    { "de": "liefern", "en": "to deliver" },
+    { "de": "besorgen", "en": "to get, to buy" },
+    { "de": "Geld einsammeln", "en": "to collect money" },
+    { "de": "die Baumwolle", "en": "cotton" },
+    { "de": "jemandem etwas beibringen", "en": "to teach someone something" },
+    { "de": "die Schulleitung", "en": "school management" },
+    { "de": "der Kursraum", "en": "classroom" }
+  ]
+}

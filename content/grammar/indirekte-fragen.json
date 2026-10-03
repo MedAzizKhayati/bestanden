@@ -1,0 +1,227 @@
+{
+  "id": "indirekte-fragen",
+  "level": "B1",
+  "category": "satzbau",
+  "order": 10,
+  "title": "Indirekte Fragen",
+  "titleEn": "Indirect questions",
+  "summary": "Indirect questions start with a question word or ob, and the verb goes to the end. They make requests sound polite – perfect for e-mails.",
+  "summaryDe": "Indirekte Fragen beginnen mit einem Fragewort oder mit ob, und das Verb steht am Ende. Mit ihnen klingen Bitten höflich – perfekt für E-Mails.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "An indirect question is a subordinate clause: it starts with the **question word** (wann, wo, wie, warum …) or – for yes/no questions – with **ob**, and the **conjugated verb goes to the end**.",
+      "mdDe": "Eine indirekte Frage ist ein Nebensatz: Sie beginnt mit dem **Fragewort** (wann, wo, wie, warum …) oder – bei Ja/Nein-Fragen – mit **ob**, und das **konjugierte Verb steht am Ende**."
+    },
+    {
+      "type": "text",
+      "heading": "From direct to indirect",
+      "headingDe": "Von der direkten zur indirekten Frage",
+      "md": "Direct: „Wann **beginnt** der Kurs?“ → Indirect: „Können Sie mir sagen, wann der Kurs **beginnt**?“\n\nThe question word stays, but now it works like a connector: subject after it, verb at the end. Yes/no questions have no question word, so you add **ob** ('whether'): „**Hat** das Museum am Montag geöffnet?“ → „Wissen Sie, **ob** das Museum am Montag geöffnet **hat**?“\n\nQuestion words with more than one word stay together at the start: „**wie viel**“, „**wie lange**“, „**seit wann**“, „**mit wem**“, „**welchen Zug**“ …",
+      "mdDe": "Direkt: „Wann **beginnt** der Kurs?“ → Indirekt: „Können Sie mir sagen, wann der Kurs **beginnt**?“\n\nDas Fragewort bleibt, aber jetzt funktioniert es wie ein Konnektor: danach das Subjekt, das Verb am Ende. Ja/Nein-Fragen haben kein Fragewort, deshalb fügst du **ob** ein: „**Hat** das Museum am Montag geöffnet?“ → „Wissen Sie, **ob** das Museum am Montag geöffnet **hat**?“\n\nFragewörter aus mehreren Wörtern bleiben am Anfang zusammen: „**wie viel**“, „**wie lange**“, „**seit wann**“, „**mit wem**“, „**welchen Zug**“ …"
+    },
+    {
+      "type": "table",
+      "heading": "Direct and indirect questions",
+      "headingDe": "Direkte und indirekte Fragen",
+      "columns": ["Direct question", "Indirect question"],
+      "columnsDe": ["Direkte Frage", "Indirekte Frage"],
+      "rows": [
+        ["Wo ist der Bahnhof?", "Können Sie mir sagen, wo der Bahnhof ist?"],
+        ["Wie viel kostet das Ticket?", "Ich möchte wissen, wie viel das Ticket kostet."],
+        ["Warum hat er nicht angerufen?", "Ich frage mich, warum er nicht angerufen hat."],
+        ["Wann fängt der Film an?", "Weißt du, wann der Film anfängt?"],
+        ["Kommt sie morgen?", "Ich weiß nicht, ob sie morgen kommt."],
+        ["Kann ich hier parken?", "Darf ich fragen, ob ich hier parken kann?"]
+      ],
+      "note": "The punctuation depends on the main clause: „Können Sie mir sagen, …?“ is a question → question mark. „Ich möchte wissen, …“ is a statement → full stop.",
+      "noteDe": "Das Satzzeichen hängt vom Hauptsatz ab: „Können Sie mir sagen, …?“ ist eine Frage → Fragezeichen. „Ich möchte wissen, …“ ist ein Aussagesatz → Punkt."
+    },
+    {
+      "type": "table",
+      "heading": "Useful introductions",
+      "headingDe": "Nützliche Satzanfänge",
+      "columns": ["Introduction", "Register", "English"],
+      "columnsDe": ["Satzanfang", "Stil", "Bedeutung"],
+      "rows": [
+        ["Können Sie mir sagen, …?", "polite", "Can you tell me …?"],
+        ["Könnten Sie mir bitte sagen, …?", "very polite", "Could you please tell me …?"],
+        ["Wissen Sie, …? / Weißt du, …?", "neutral", "Do you know …?"],
+        ["Ich möchte gern wissen, …", "polite – ideal for letters", "I would like to know …"],
+        ["Darf ich fragen, …?", "polite", "May I ask …?"],
+        ["Ich weiß nicht, … / Ich frage mich, …", "neutral", "I don't know … / I wonder …"]
+      ],
+      "rowsDe": [
+        ["Können Sie mir sagen, …?", "höflich", "um eine Information bitten"],
+        ["Könnten Sie mir bitte sagen, …?", "sehr höflich", "sehr freundlich um eine Information bitten"],
+        ["Wissen Sie, …? / Weißt du, …?", "neutral", "fragen, ob jemand etwas weiß"],
+        ["Ich möchte gern wissen, …", "höflich – ideal für Briefe", "sagen, was du wissen möchtest"],
+        ["Darf ich fragen, …?", "höflich", "um Erlaubnis für eine Frage bitten"],
+        ["Ich weiß nicht, … / Ich frage mich, …", "neutral", "sagen, dass du etwas nicht weißt / über eine Frage nachdenken"]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why indirect questions matter",
+      "headingDe": "Warum indirekte Fragen wichtig sind",
+      "md": "Direct questions can sound abrupt, especially to strangers: „Wann kommt der Techniker?“ An indirect question is automatically more polite: „Könnten Sie mir bitte sagen, wann der Techniker kommt?“ That's why indirect questions are perfect for semi-formal e-mails, phone calls and Sprechen Teil 3.",
+      "mdDe": "Direkte Fragen können unhöflich wirken, besonders gegenüber Fremden: „Wann kommt der Techniker?“ Eine indirekte Frage ist automatisch höflicher: „Könnten Sie mir bitte sagen, wann der Techniker kommt?“ Deshalb sind indirekte Fragen perfekt für halbformelle E-Mails, Telefongespräche und Sprechen Teil 3."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Können Sie mir sagen, **wie** ich zum Rathaus **komme**?", "en": "Can you tell me how to get to the town hall?" },
+        { "de": "Ich möchte gern wissen, **wann** der nächste Kurs **beginnt**.", "en": "I'd like to know when the next course starts." },
+        { "de": "Weißt du, **ob** Lukas heute **mitkommt**?", "en": "Do you know if Lukas is coming along today?" },
+        { "de": "Ich frage mich, **warum** der Bus heute so voll **ist**.", "en": "I wonder why the bus is so full today." },
+        { "de": "Könnten Sie mir bitte mitteilen, **ob** noch Plätze frei **sind**?", "en": "Could you please let me know whether there are still places available?" },
+        { "de": "Wir wissen noch nicht, **wohin** wir im Sommer **fahren**.", "en": "We don't know yet where we're going in the summer." },
+        { "de": "Darf ich fragen, **wie viel** die Reparatur **kosten wird**?", "en": "May I ask how much the repair will cost?" },
+        { "de": "Die Ärztin hat gefragt, **seit wann** ich Kopfschmerzen **habe**.", "en": "The doctor asked how long I've had headaches." },
+        { "de": "Ich bin nicht sicher, **welchen** Zug ich nehmen **soll**.", "en": "I'm not sure which train I should take." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In Sprachbausteine Teil 1 you often have to choose between „ob“, „wenn“ and „dass“ after verbs like „wissen“, „fragen“ or „sagen“ – if the content is an open yes/no question, it's „ob“. Also check the verb position: an indirect question always ends with the conjugated verb.\n\nIn **Schreiben** (especially semi-formal e-mails), indirect questions are the best way to ask for information: „Ich möchte gern wissen, ob man den Kurs auch online machen kann.“ / „Könnten Sie mir bitte sagen, wie hoch die Kosten sind?“ In **Sprechen** Teil 3, use „Weißt du, ob …?“ or „Hast du eine Idee, wo wir …?“ to involve your partner.",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 musst du nach Verben wie „wissen“, „fragen“ oder „sagen“ oft zwischen „ob“, „wenn“ und „dass“ wählen – wenn der Inhalt eine offene Ja/Nein-Frage ist, ist es „ob“. Prüf auch die Position des Verbs: Eine indirekte Frage endet immer mit dem konjugierten Verb.\n\nIm **Schreiben** (vor allem in halbformellen E-Mails) sind indirekte Fragen der beste Weg, um nach Informationen zu fragen: „Ich möchte gern wissen, ob man den Kurs auch online machen kann.“ / „Könnten Sie mir bitte sagen, wie hoch die Kosten sind?“ In **Sprechen** Teil 3 kannst du mit „Weißt du, ob …?“ oder „Hast du eine Idee, wo wir …?“ dein Gegenüber einbeziehen."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic trap:** keeping the word order of the direct question. „Können Sie mir sagen, wo ist der Bahnhof?“ is wrong → „…, wo der Bahnhof **ist**?“\n\nSecond trap: forgetting „ob“. „Ich weiß nicht, kommt er“ is wrong → „Ich weiß nicht, **ob** er **kommt**.“ And never use „wenn“ for 'if' in the sense of 'whether'.",
+      "mdDe": "**Typische Falle:** die Wortstellung der direkten Frage behalten. „Können Sie mir sagen, wo ist der Bahnhof?“ ist falsch → „…, wo der Bahnhof **ist**?“\n\nZweite Falle: „ob“ vergessen. „Ich weiß nicht, kommt er“ ist falsch → „Ich weiß nicht, **ob** er **kommt**.“ Und nimm für eine offene Ja/Nein-Frage nie „wenn“ – auch wenn man im Englischen dafür *if* sagen kann."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Können Sie mir sagen, wann fährt der nächste Bus?",
+      "right": "Können Sie mir sagen, wann der nächste Bus fährt?",
+      "why": "In an indirect question, the conjugated verb goes to the end.",
+      "whyDe": "In einer indirekten Frage steht das konjugierte Verb am Ende."
+    },
+    {
+      "wrong": "Ich möchte wissen, wenn der Kurs auch am Abend stattfindet.",
+      "right": "Ich möchte wissen, ob der Kurs auch am Abend stattfindet.",
+      "why": "This is a yes/no question ('whether') → „ob“, not „wenn“.",
+      "whyDe": "Das ist eine Ja/Nein-Frage → „ob“, nicht „wenn“."
+    },
+    {
+      "wrong": "Wissen Sie, ob ist die Apotheke heute geöffnet?",
+      "right": "Wissen Sie, ob die Apotheke heute geöffnet ist?",
+      "why": "After „ob“ the verb goes to the end, just like after „dass“ or „weil“.",
+      "whyDe": "Nach „ob“ steht das Verb am Ende, genau wie nach „dass“ oder „weil“."
+    },
+    {
+      "wrong": "Ich weiß nicht, wie viel kostet das.",
+      "right": "Ich weiß nicht, wie viel das kostet.",
+      "why": "„wie viel“ starts the clause, the subject „das“ follows, and the verb „kostet“ goes to the end.",
+      "whyDe": "„wie viel“ steht am Anfang des Nebensatzes, dann folgt das Subjekt „das“, und das Verb „kostet“ steht am Ende."
+    },
+    {
+      "wrong": "Kannst du mir sagen, wann der Film fängt an?",
+      "right": "Kannst du mir sagen, wann der Film anfängt?",
+      "why": "Separable verbs are joined together again at the end of the clause.",
+      "whyDe": "Trennbare Verben stehen am Ende des Nebensatzes wieder zusammen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Können Sie mir sagen, wo ___?",
+      "options": ["ist die Toilette", "die Toilette ist", "die Toilette sein"],
+      "answer": 1,
+      "explanation": "Indirect question: question word „wo“, then the subject, and the conjugated verb „ist“ at the end.",
+      "explanationDe": "Indirekte Frage: Fragewort „wo“, dann das Subjekt und das konjugierte Verb „ist“ am Ende."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich weiß nicht, ___ ich die Prüfung bestanden habe.",
+      "options": ["ob", "wenn", "dass"],
+      "answer": 0,
+      "explanation": "Open yes/no question („Habe ich die Prüfung bestanden?“) → „ob“.",
+      "explanationDe": "Offene Ja/Nein-Frage („Habe ich die Prüfung bestanden?“) → „ob“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Weißt du, ___ der Zug nach Graz abfährt?",
+      "options": ["wenn", "wann", "als"],
+      "answer": 1,
+      "explanation": "The direct question is „Wann fährt der Zug ab?“, so the indirect question keeps the question word „wann“.",
+      "explanationDe": "Die direkte Frage ist „Wann fährt der Zug ab?“, deshalb behält die indirekte Frage das Fragewort „wann“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich möchte gern wissen, ___ ein Zimmer mit Frühstück kostet.",
+      "options": ["wie viele", "welche", "wie viel"],
+      "answer": 2,
+      "explanation": "You ask about a price → „wie viel“. „wie viele“ is for things you can count („wie viele Zimmer“).",
+      "explanationDe": "Du fragst nach einem Preis → „wie viel“. „wie viele“ nimmst du für Dinge, die man zählen kann („wie viele Zimmer“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich frage mich, warum ___.",
+      "options": ["Paul so traurig ist", "ist Paul so traurig", "Paul ist so traurig"],
+      "answer": 0,
+      "explanation": "After „warum“ in an indirect question, the conjugated verb „ist“ goes to the end.",
+      "explanationDe": "Nach „warum“ steht in einer indirekten Frage das konjugierte Verb „ist“ am Ende."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich bin nicht sicher, ___ das Konzert morgen wirklich stattfindet oder ausfällt.",
+      "answers": ["ob"],
+      "explanation": "An open question with two possibilities ('whether … or …') → „ob“.",
+      "explanationDe": "Eine offene Frage mit zwei Möglichkeiten (‚ob … oder …‘) → „ob“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wissen Sie, ___ lange die Bibliothek heute geöffnet hat?",
+      "answers": ["wie"],
+      "explanation": "„wie lange“ ('how long') stays together at the start of the indirect question.",
+      "explanationDe": "„wie lange“ (Frage nach der Dauer) bleibt am Anfang der indirekten Frage zusammen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Weißt du, wann der Supermarkt am Samstag ___?",
+      "hint": "(zumachen)",
+      "answers": ["zumacht"],
+      "explanation": "In an indirect question the separable verb is joined again at the end: „zumacht“.",
+      "explanationDe": "In einer indirekten Frage steht das trennbare Verb am Ende wieder zusammen: „zumacht“."
+    },
+    {
+      "type": "order",
+      "words": ["Apotheke", "Wissen", "ist?", "wo", "nächste", "Sie,", "die"],
+      "answers": ["Wissen Sie, wo die nächste Apotheke ist?"],
+      "explanation": "Main clause „Wissen Sie,“ + indirect question: „wo“ + subject + verb „ist“ at the end. The whole sentence is a question, so it ends with a question mark.",
+      "explanationDe": "Hauptsatz „Wissen Sie,“ + indirekte Frage: „wo“ + Subjekt + Verb „ist“ am Ende. Der ganze Satz ist eine Frage, deshalb endet er mit einem Fragezeichen."
+    },
+    {
+      "type": "order",
+      "words": ["stattfindet.", "ob", "Ich", "auch", "gern", "Kurs", "wissen,", "möchte", "online", "der"],
+      "answers": ["Ich möchte gern wissen, ob der Kurs auch online stattfindet.", "Ich möchte auch gern wissen, ob der Kurs online stattfindet."],
+      "explanation": "Yes/no question → „ob“; the separable verb „stattfindet“ is at the end. The main clause is a statement, so it ends with a full stop.",
+      "explanationDe": "Ja/Nein-Frage → „ob“; das trennbare Verb „stattfindet“ steht am Ende. Der Hauptsatz ist ein Aussagesatz, deshalb endet er mit einem Punkt."
+    },
+    {
+      "type": "transform",
+      "instruction": "Make the question polite. Start with „Können Sie mir sagen, …?“",
+      "instructionDe": "Mach die Frage höflich. Beginne mit „Können Sie mir sagen, …?“",
+      "prompt": "Wann öffnet das Bürgeramt?",
+      "answers": ["Können Sie mir sagen, wann das Bürgeramt öffnet?"],
+      "explanation": "Keep the question word „wann“, then the subject „das Bürgeramt“, and put the verb „öffnet“ at the end.",
+      "explanationDe": "Behalte das Fragewort „wann“, dann kommt das Subjekt „das Bürgeramt“, und stell das Verb „öffnet“ ans Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite as an indirect question. Start with „Ich möchte wissen, …“.",
+      "instructionDe": "Schreib den Satz als indirekte Frage. Beginne mit „Ich möchte wissen, …“.",
+      "prompt": "Kann man die Tickets auch an der Abendkasse kaufen?",
+      "answers": ["Ich möchte wissen, ob man die Tickets auch an der Abendkasse kaufen kann."],
+      "explanation": "A yes/no question needs „ob“. The conjugated verb „kann“ goes to the very end, after the infinitive „kaufen“.",
+      "explanationDe": "Eine Ja/Nein-Frage braucht „ob“. Das konjugierte Verb „kann“ steht ganz am Ende, nach dem Infinitiv „kaufen“."
+    }
+  ],
+  "related": ["nebensaetze-grundlagen", "satzbau-hauptsatz", "konjunktiv-2", "temporale-nebensaetze", "trennbare-verben", "modalverben"]
+}

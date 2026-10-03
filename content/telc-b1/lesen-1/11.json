@@ -1,0 +1,83 @@
+{
+  "id": "lesen-1-11",
+  "examId": "telc-b1",
+  "type": "headline-matching",
+  "title": "Technik im Alltag",
+  "topic": "technik",
+  "difficulty": 3,
+  "headlines": [
+    { "key": "a", "text": "Test: Viele Kinderuhren sind nicht sicher" },
+    { "key": "b", "text": "Test: Nur teure Kinderuhren schützen die Daten" },
+    { "key": "c", "text": "Wer Dialekt spricht, wird von Geräten oft nicht verstanden" },
+    { "key": "d", "text": "Telefonfirma bringt schnelles Internet aufs Land" },
+    { "key": "e", "text": "Ein Dorf baut sich sein Internet selbst" },
+    { "key": "f", "text": "Ab sofort in ganz Österreich: Notruf per Chat" },
+    { "key": "g", "text": "Informatik-Camp für Mädchen mit Vorkenntnissen" },
+    { "key": "h", "text": "Hilfe im Notfall: Schreiben statt anrufen" },
+    { "key": "i", "text": "Programmieren ausprobieren: Ein Camp für Mädchen" },
+    { "key": "j", "text": "Sprachassistenten verstehen bald auch Schweizerdeutsch" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Digitale Sprachassistenten verstehen Hochdeutsch inzwischen sehr gut, mit Dialekten haben sie dagegen noch Mühe. Das zeigt ein Test einer Fachhochschule in St. Gallen. Die Forschenden haben 200 Personen gebeten, den Geräten einfache Befehle zu geben, zum Beispiel „Mach das Licht an“ oder „Wie wird das Wetter morgen?“. Sprachen die Testpersonen Hochdeutsch, wurden 94 Prozent der Befehle richtig ausgeführt. Bei Schweizerdeutsch waren es nur 58 Prozent. Am wenigsten verstanden wurden Personen aus dem Wallis, deren Dialekt sich besonders stark vom Hochdeutschen unterscheidet. Die Hersteller haben angekündigt, ihre Systeme zu verbessern. Wann das passiert, ist aber noch offen.",
+      "answer": "c",
+      "explanation": "In the test the devices carried out 94 percent of the commands in Standard German, but only 58 percent in Swiss German, so (c). Headline (j) is a trap: the manufacturers want to improve their systems, but „Wann das passiert, ist aber noch offen“.",
+      "explanationDe": "Im Test führten die Geräte 94 Prozent der Befehle auf Hochdeutsch aus, auf Schweizerdeutsch aber nur 58 Prozent, also passt (c). Überschrift (j) ist eine Falle: Die Hersteller wollen ihre Systeme verbessern – „Wann das passiert, ist aber noch offen“.",
+      "evidence": ["mit Dialekten haben sie dagegen noch Mühe", "Bei Schweizerdeutsch waren es nur 58 Prozent"]
+    },
+    {
+      "n": 2,
+      "text": "Wer nicht hören oder nicht sprechen kann, hatte bisher große Schwierigkeiten, im Notfall schnell Hilfe zu holen. Ein Anruf bei der Feuerwehr oder beim Rettungsdienst war für diese Menschen kaum möglich. Seit Anfang des Monats gibt es in der Steiermark eine neue Notruf-App. Damit können Nutzerinnen und Nutzer per Chat mit der Leitstelle schreiben. Gleichzeitig wird automatisch der genaue Standort an die Helfer geschickt. Wer die App verwenden möchte, muss sich vorher einmal registrieren und kann dabei auch wichtige Krankheiten angeben. Die App ist kostenlos. Entwickelt wurde sie gemeinsam mit Gehörlosen, die sie monatelang getestet haben.",
+      "answer": "h",
+      "explanation": "People who cannot hear or speak can now contact the emergency centre by chat („per Chat mit der Leitstelle schreiben“) instead of phoning, so (h). Headline (f) is wrong: the new app is available in Styria („in der Steiermark“), not in the whole of Austria.",
+      "explanationDe": "Menschen, die nicht hören oder nicht sprechen können, können jetzt „per Chat mit der Leitstelle schreiben“, statt anzurufen, also passt (h). Überschrift (f) ist falsch: Die neue App gibt es „in der Steiermark“, nicht in ganz Österreich.",
+      "evidence": ["per Chat mit der Leitstelle schreiben", "Ein Anruf bei der Feuerwehr oder beim Rettungsdienst war für diese Menschen kaum möglich"]
+    },
+    {
+      "n": 3,
+      "text": "Smartwatches für Kinder sind beliebt: Eltern können damit sehen, wo ihr Kind gerade ist, und es jederzeit anrufen. Die Verbraucherorganisation „Prüfstand“ hat jetzt zwölf Modelle getestet – mit einem enttäuschenden Ergebnis. Bei fünf Uhren kamen die Tester ohne großen Aufwand von außen an die Daten und konnten sogar herausfinden, wo sich das Kind gerade aufhält. Bei zwei Modellen konnten Fremde außerdem heimlich Gespräche mithören. Nur drei Uhren bekamen die Note „gut“, darunter sogar die günstigste für 49 Euro. Die Tester raten Eltern, vor dem Kauf genau zu prüfen, welche Daten eine Uhr speichert und wohin sie diese schickt.",
+      "answer": "a",
+      "explanation": "The test found serious security problems: with five watches the testers easily got at the data, and with two, strangers could secretly listen in, so (a). Headline (b) is a trap: even the cheapest watch for 49 euros was rated „gut“.",
+      "explanationDe": "Der Test hat große Sicherheitsprobleme gefunden: Bei fünf Uhren kamen die Tester leicht an die Daten, und bei zwei Uhren konnten Fremde heimlich mithören, also passt (a). Überschrift (b) ist eine Falle: Sogar die günstigste Uhr für 49 Euro bekam die Note „gut“.",
+      "evidence": ["mit einem enttäuschenden Ergebnis", "Bei zwei Modellen konnten Fremde außerdem heimlich Gespräche mithören"]
+    },
+    {
+      "n": 4,
+      "text": "Ein ganzes Wochenende lang programmieren, ohne vorher Erfahrung zu haben? Genau das können Mädchen zwischen 12 und 16 Jahren beim „Code-Camp“ in einem Stuttgarter Jugendhaus ausprobieren. Vom 15. bis 17. März entwickeln sie in kleinen Teams eigene Apps oder einfache Computerspiele. Studentinnen der Informatik zeigen ihnen dabei die wichtigsten Schritte. Laptops gibt es vor Ort, man muss also kein eigenes Gerät mitbringen. Am Sonntagnachmittag präsentieren die Teams ihre Ergebnisse vor Eltern und Freunden. Die Organisatorinnen möchten mit dem Camp zeigen, dass Technik nicht nur etwas für Jungen ist. Die Teilnahme kostet 20 Euro inklusive Essen, die Zahl der Plätze ist begrenzt.",
+      "answer": "i",
+      "explanation": "Girls aged 12 to 16 can try out programming for a whole weekend „ohne vorher Erfahrung zu haben“, so (i). Headline (g) is the opposite: no previous knowledge is needed.",
+      "explanationDe": "Mädchen zwischen 12 und 16 Jahren können ein ganzes Wochenende lang Programmieren ausprobieren, „ohne vorher Erfahrung zu haben“, also passt (i). Überschrift (g) sagt das Gegenteil: Man braucht keine Vorkenntnisse.",
+      "evidence": ["Ein ganzes Wochenende lang programmieren, ohne vorher Erfahrung zu haben?", "können Mädchen zwischen 12 und 16 Jahren"]
+    },
+    {
+      "n": 5,
+      "text": "Jahrelang hatte das Allgäuer Dorf Unterhornach nur langsames Internet. Für die Telefonfirmen lohnte sich der Ausbau wegen der wenigen Einwohner nicht. Deshalb haben die rund 600 Bewohner selbst gehandelt: Sie gründeten eine Genossenschaft, sammelten Geld und gruben an vielen Wochenenden die Gräben für die Glasfaserkabel. Ein Fachbetrieb übernahm nur die technischen Arbeiten. Nach zwei Jahren sind jetzt fast alle Häuser angeschlossen, und das Internet ist rund hundertmal schneller als vorher. Davon profitieren nicht nur Familien: Zwei junge Firmen sind sogar ins Dorf gezogen. Inzwischen fragen andere Gemeinden nach Tipps.",
+      "answer": "e",
+      "explanation": "Because the phone companies did not think it was worth it, the villagers founded a cooperative and dug the trenches for the fibre-optic cables themselves, so (e). Headline (d) is a trap: it was not a telephone company that brought fast internet to the village.",
+      "explanationDe": "Weil sich der Ausbau für die Telefonfirmen nicht lohnte, haben die Bewohner eine Genossenschaft gegründet und die Gräben für die Glasfaserkabel selbst gegraben, also passt (e). Überschrift (d) ist eine Falle: Das schnelle Internet hat keine Telefonfirma ins Dorf gebracht.",
+      "evidence": ["Deshalb haben die rund 600 Bewohner selbst gehandelt", "gruben an vielen Wochenenden die Gräben für die Glasfaserkabel"]
+    }
+  ],
+  "distractors": [
+    { "key": "b", "why": "In text 3 the cheapest watch (49 euros) was one of the three that got „gut“ – a high price is not what protects the data.", "whyDe": "In Text 3 war die günstigste Uhr (49 Euro) eine von den drei Uhren mit der Note „gut“ – es ist also nicht der hohe Preis, der die Daten schützt." },
+    { "key": "d", "why": "Text 5 says that the telephone companies did not want to build the network („lohnte sich der Ausbau … nicht“); the villagers did it themselves.", "whyDe": "Laut Text 5 wollten die Telefonfirmen das Netz nicht bauen („lohnte sich der Ausbau … nicht“); die Bewohner haben es selbst gemacht." },
+    { "key": "f", "why": "The app in text 2 was launched in Styria („in der Steiermark“). The text does not say that it is available everywhere in Austria.", "whyDe": "Die App in Text 2 ist „in der Steiermark“ gestartet. Dass es sie überall in Österreich gibt, steht nicht im Text." },
+    { "key": "g", "why": "The camp in text 4 is for girls without experience („ohne vorher Erfahrung zu haben“).", "whyDe": "Das Camp in Text 4 ist für Mädchen ohne Erfahrung („ohne vorher Erfahrung zu haben“)." },
+    { "key": "j", "why": "In text 1 the manufacturers have only announced improvements, and it is still open when they will come – so „bald“ is not in the text.", "whyDe": "In Text 1 haben die Hersteller Verbesserungen nur angekündigt, und es ist noch offen, wann sie kommen – „bald“ steht also nicht im Text." }
+  ],
+  "glossary": [
+    { "de": "der Sprachassistent", "en": "voice assistant" },
+    { "de": "der Befehl", "en": "command" },
+    { "de": "Mühe haben mit", "en": "to have difficulty with" },
+    { "de": "die Leitstelle", "en": "emergency control centre" },
+    { "de": "der Standort", "en": "location" },
+    { "de": "heimlich", "en": "secretly" },
+    { "de": "mithören", "en": "to listen in" },
+    { "de": "die Vorkenntnisse (Pl.)", "en": "previous knowledge" },
+    { "de": "begrenzt", "en": "limited" },
+    { "de": "sich lohnen", "en": "to be worth it" },
+    { "de": "die Genossenschaft", "en": "cooperative" },
+    { "de": "der Graben", "en": "trench" }
+  ]
+}
