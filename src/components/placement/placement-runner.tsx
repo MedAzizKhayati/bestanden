@@ -20,7 +20,7 @@ import { useT } from "@/i18n/client";
 import Link from "@/i18n/link";
 import { usePlayback } from "@/lib/audio/sequence";
 import type { PlacementItem, PlacementSection, PlacementSkill, PlacementTest, PlacementTfItem } from "@/lib/content/schemas";
-import { isCorrect, itemsBySkill, LEVEL_ORDER, scorePlacement, SKILLS, weakestSkills, type PlacementAnswers, type PlacementResult } from "@/lib/placement/score";
+import { isCorrect, itemsBySkill, scorePlacement, SKILLS, weakestSkills, type PlacementAnswers, type PlacementResult } from "@/lib/placement/score";
 import { useHydrated } from "@/lib/store/hydration";
 import { latestPlacement, usePlacement } from "@/lib/store/placement";
 import { useSettings } from "@/lib/store/settings";
@@ -390,7 +390,8 @@ function Result({
   const readiness = tr.readiness[result.readiness];
   const order = weakestSkills(result);
   const topics = result.missedGrammar.filter((id) => grammarTitles[id]).slice(0, 5);
-  const levelPct = (l: string) => ((LEVEL_ORDER.indexOf(l as (typeof LEVEL_ORDER)[number]) + 1) / LEVEL_ORDER.length) * 100;
+  // The bar shows the share of correct answers, matching the "x of y correct" next to it.
+  const scorePct = (correct: number, total: number) => (total ? (correct / total) * 100 : 0);
 
   return (
     <div className="mx-auto max-w-3xl space-y-6">
@@ -413,7 +414,7 @@ function Result({
               <div key={s} className="grid grid-cols-[7rem_minmax(0,1fr)_auto] items-center gap-3 text-sm">
                 <span className="font-medium">{t.placement.skills[s]}</span>
                 <div className="h-2.5 overflow-hidden rounded-full bg-muted">
-                  <div className="h-full rounded-full bg-primary" style={{ width: `${levelPct(r.level)}%` }} />
+                  <div className="h-full rounded-full bg-primary" style={{ width: `${scorePct(r.correct, r.total)}%` }} />
                 </div>
                 <span className="w-28 text-right tabular">
                   <span className="font-semibold">{tr.levels[r.level]}</span>
