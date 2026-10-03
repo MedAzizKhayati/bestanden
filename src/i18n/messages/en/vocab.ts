@@ -6,7 +6,7 @@ export const vocab = {
   index: {
     metaTitle: "B1 vocabulary – themes, flashcards and der/die/das",
     metaDescription: "The B1 words you need for telc, by topic – with pronunciation, examples and spaced-repetition flashcards.",
-    title: "Wortschatz",
+    title: "Vocabulary",
     description:
       "The words that come up again and again in telc B1 texts, recordings and tasks. Every noun with its article and plural, every verb with its forms, an example sentence and pronunciation.",
     themes: (n: number) => (n === 1 ? "1 theme" : `${n} themes`),

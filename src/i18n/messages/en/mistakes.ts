@@ -1,7 +1,7 @@
 export const mistakes = {
   page: {
     metaTitle: "Mistake trainer",
-    title: "Fehlertrainer",
+    title: "Mistake trainer",
     description:
       "Your own mistakes are the best material. Every wrong answer is saved as a short review card and comes back until you have it right three times.",
   },

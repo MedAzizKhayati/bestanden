@@ -4,7 +4,7 @@ export const lists = {
     metaTitle: "Word lists – verbs with prepositions, irregular verbs, connectors",
     metaDescription:
       "The reference lists that decide Sprachbausteine: verbs and adjectives with prepositions, irregular verbs, connectors and noun-verb collocations.",
-    title: "Listen",
+    title: "Word lists",
     description: "Fixed combinations decide many gaps in Sprachbausteine Teil 2. Learn them as chunks – each list has a quick drill.",
   },
   /** /listen/[list] */

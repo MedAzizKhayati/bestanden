@@ -1,7 +1,7 @@
 export const progress = {
   page: {
     metaTitle: "Your progress",
-    title: "Fortschritt",
+    title: "Progress",
     description: "Where you stand in every part of the exam – and whether you finish within the time limits.",
   },
   tiles: {

@@ -5,7 +5,7 @@ export const mock = {
     metaTitle: "Mock exams – the full written telc B1 exam",
     metaDescription: "Complete written telc B1 mock exams with the official timing and scoring.",
     crumb: "Mock exams",
-    title: "Modelltests",
+    title: "Mock exams",
     description:
       "The complete written exam under real conditions: 90 minutes Lesen + Sprachbausteine, about 30 minutes Hören without pause, 30 minutes Schreiben. Scored exactly like telc – 135 of 225 points to pass.",
     tip: "Tip: take your first mock exam early to find your weak parts, practise those, and take one mock exam a week in the last month.",

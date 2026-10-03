@@ -46,15 +46,17 @@ export function AppHeader({ searchIndex }: { searchIndex: SearchEntry[] }) {
   return (
     <header className="sticky top-0 z-30 flex h-14 shrink-0 items-center gap-2 border-b bg-background/80 px-3 backdrop-blur-md supports-backdrop-filter:bg-background/65 sm:px-4">
       <SidebarTrigger className="-ml-1" />
+      {/* min-w-0: without it the placeholder's full width stops the button from shrinking and the
+          header overflows narrow phones (Safari then zooms the whole page out). */}
       <button
         onClick={() => setOpen(true)}
-        className="ml-1 flex h-9 w-full max-w-sm items-center gap-2 rounded-lg border bg-muted/50 px-3 text-sm text-muted-foreground transition-colors hover:bg-muted"
+        className="ml-1 flex h-9 min-w-0 flex-1 items-center gap-2 rounded-lg border bg-muted/50 px-3 text-sm text-muted-foreground transition-colors hover:bg-muted sm:max-w-sm"
       >
-        <Search className="size-4" />
-        <span className="flex-1 truncate text-left">{t.nav.searchPlaceholder}</span>
+        <Search className="size-4 shrink-0" />
+        <span className="min-w-0 flex-1 truncate text-left">{t.nav.searchPlaceholder}</span>
         <Kbd className="hidden sm:inline-flex">⌘K</Kbd>
       </button>
-      <div className="ml-auto flex items-center gap-1">
+      <div className="ml-auto flex shrink-0 items-center gap-1">
         <LocaleSwitcher />
         <ThemeToggle />
       </div>

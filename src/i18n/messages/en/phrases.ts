@@ -2,7 +2,7 @@ export const phrases = {
   /** /redemittel */
   metaTitle: "Redemittel for Schreiben and Sprechen",
   metaDescription: "Ready-to-use German phrases for telc B1 e-mails and the oral exam – organised by exam part and function.",
-  title: "Redemittel",
+  title: "Phrases (Redemittel)",
   description:
     "Examiners reward varied, appropriate phrases (criterion II in Schreiben, Ausdrucksfähigkeit in Sprechen). Learn a few per function and use them in every practice task.",
   count: (n: number) => (n === 1 ? "1 phrase" : `${n} phrases`),

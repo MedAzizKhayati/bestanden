@@ -5,7 +5,7 @@ export const grammar = {
   index: {
     metaTitle: "Grammar for telc B1",
     metaDescription: "Every grammar topic you need for telc B1 – explanations, tables, typical mistakes and interactive drills.",
-    title: "Grammatik",
+    title: "Grammar",
     description:
       "Everything Sprachbausteine tests – and what makes your Schreiben and Sprechen score higher. Short explanations in English, real German examples, typical traps and drills that check themselves.",
     /** Follows the bold number of mastered topics: "**3** of 40 topics mastered …". */

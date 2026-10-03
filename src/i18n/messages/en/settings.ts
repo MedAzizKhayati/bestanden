@@ -1,7 +1,7 @@
 export const settings = {
   page: {
     metaTitle: "Settings",
-    title: "Einstellungen",
+    title: "Settings",
     description: "Language, timing, voices, goals and your data.",
   },
   language: {

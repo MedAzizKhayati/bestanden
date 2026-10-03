@@ -1,7 +1,7 @@
 export const plan = {
   page: {
     metaTitle: "Your study plan",
-    title: "Lernplan",
+    title: "Study plan",
     description:
       "A week-by-week plan to your exam date. It puts your weakest parts first, schedules mock exams for the last weeks and ticks tasks off automatically when you complete them.",
   },

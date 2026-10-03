@@ -190,7 +190,7 @@ export function FirstSteps({ examSlug, firstPartHref }: { examSlug: string; firs
   if (dismissed || doneCount === items.length) return null;
 
   return (
-    <section className="rounded-2xl border bg-card p-5">
+    <section className="rounded-2xl border bg-card p-4 sm:p-5">
       <div className="flex flex-wrap items-start justify-between gap-3">
         <div>
           <h2 className="font-semibold">{fs.title}</h2>
@@ -203,7 +203,8 @@ export function FirstSteps({ examSlug, firstPartHref }: { examSlug: string; firs
           </Button>
         </div>
       </div>
-      <ol className="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-5">
+      {/* Phones: one compact line per step, so the checklist doesn't fill the whole first screen. */}
+      <ol className="mt-3 grid gap-1.5 sm:mt-4 sm:grid-cols-2 sm:gap-2 lg:grid-cols-5">
         {items.map((item, i) => {
           const copy = fs.items[item.key];
           return (
@@ -211,7 +212,7 @@ export function FirstSteps({ examSlug, firstPartHref }: { examSlug: string; firs
               <Link
                 href={item.href}
                 className={cn(
-                  "flex h-full gap-3 rounded-xl border p-3 text-sm transition-colors hover:bg-muted",
+                  "flex h-full items-center gap-3 rounded-xl border px-3 py-2 text-sm transition-colors hover:bg-muted sm:items-start sm:py-3",
                   item.done && "border-success/30 bg-success/5",
                 )}
               >
@@ -225,7 +226,7 @@ export function FirstSteps({ examSlug, firstPartHref }: { examSlug: string; firs
                 </span>
                 <span>
                   <span className={cn("block font-medium", item.done && "text-muted-foreground line-through")}>{copy.title}</span>
-                  <span className="block text-xs text-muted-foreground">{copy.text}</span>
+                  <span className="hidden text-xs text-muted-foreground sm:block">{copy.text}</span>
                 </span>
               </Link>
             </li>
