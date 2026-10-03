@@ -19,7 +19,7 @@ export function ModelDialogue({ lines, speakers, highlightSpeaker = "A" }: { lin
 
   return (
     <div className="space-y-3">
-      <VoiceWarning />
+      <VoiceWarning line={lines[0]} speakers={speakers} />
       <div className="flex flex-wrap items-center gap-2">
         <Button onClick={() => (playing ? pb.stop() : pb.play("model", lines, { rate }))} className="bg-sprechen text-white hover:bg-sprechen/90">
           {playing ? <Pause /> : <Play />} {playing ? t.common.stop : t.speaking.modelDialogue.listen}

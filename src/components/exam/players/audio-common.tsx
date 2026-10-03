@@ -9,7 +9,8 @@ import { useLocale, useT } from "@/i18n/client";
 import { formatNumber } from "@/i18n/format";
 import type { Line, Speaker } from "@/lib/content/schemas";
 import type { SequenceState } from "@/lib/audio/sequence";
-import { loadVoices, playLines, speechSupported, type PlaybackIssue } from "@/lib/audio/speech";
+import { isPrerendered } from "@/lib/audio/resolvers";
+import { loadVoices, playLines, SOUND_CHECK, speakerProfiles, speechSupported, type PlaybackIssue, type VoiceLine, type VoiceSpeaker } from "@/lib/audio/speech";
 import Link from "@/i18n/link";
 import { useAiConfig } from "@/lib/store/ai-config";
 import { useSettings } from "@/lib/store/settings";
@@ -53,21 +54,38 @@ export function useVoiceCheck() {
 
 const ENGINE_LABELS = { openai: "OpenAI", elevenlabs: "ElevenLabs", google: "Google Cloud" } as const;
 
+/** Whether the site ships natural voice files for this recording (checked on its first line). */
+function usePrerendered(line: VoiceLine | undefined, speakers: VoiceSpeaker[] | undefined) {
+  const [shipped, setShipped] = useState(false);
+  useEffect(() => {
+    const profile = line && speakers ? speakerProfiles(speakers).get(line.s) : undefined;
+    if (!line || !profile) return;
+    let alive = true;
+    void isPrerendered(line.t, profile).then((ok) => alive && setShipped(ok));
+    return () => {
+      alive = false;
+    };
+  }, [line, speakers]);
+  return shipped;
+}
+
 /**
  * Which voice the recordings use, with a sound check – or a warning if the device can't speak
- * German and no natural (cloud) voice is set up.
+ * German and neither shipped voice files nor a natural (cloud) voice are available.
+ * `line`/`speakers`: the recording's first line, to detect shipped voice files.
  */
-export function VoiceWarning() {
+export function VoiceWarning({ line, speakers }: { line?: VoiceLine; speakers?: VoiceSpeaker[] } = {}) {
   const { status, voiceName } = useVoiceCheck();
   const engine = useAiConfig((s) => s.tts);
   const prefs = useSettings(useShallow((s) => ({ female: s.voiceFemale, male: s.voiceMale, rate: s.speechRate })));
   const [testing, setTesting] = useState(false);
+  const shipped = usePrerendered(line, speakers);
   const t = useT();
   const a = t.runner.audio;
   const neural = engine !== "browser";
   if (status === "checking") return null;
 
-  if (!neural && status !== "ok")
+  if (!shipped && !neural && status !== "ok")
     return (
       <div className="flex gap-3 rounded-xl border border-warning/40 bg-warning/10 p-4 text-sm">
         <AlertTriangle className="mt-0.5 size-4 shrink-0 text-warning" />
@@ -83,7 +101,7 @@ export function VoiceWarning() {
 
   const soundCheck = async () => {
     setTesting(true);
-    await playLines([{ s: "t", t: "Tonprobe. Wenn Sie diesen Satz hören, funktioniert der Ton." }], { speakers: [{ id: "t", gender: "f" }], prefs }).done;
+    await playLines([SOUND_CHECK.line], { speakers: SOUND_CHECK.speakers, prefs }).done;
     setTesting(false);
   };
 
@@ -91,7 +109,9 @@ export function VoiceWarning() {
     <div className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 rounded-xl border bg-card px-3 py-2 text-xs text-muted-foreground">
       <span className="flex min-w-0 items-center gap-1.5">
         <Volume2 className="size-3.5 shrink-0" />
-        <span className="truncate">{neural ? a.voiceNeural(ENGINE_LABELS[engine]) : a.voiceBrowser(voiceName ?? a.voiceDefault)}</span>
+        <span className="truncate">
+          {shipped ? a.voiceShipped : neural ? a.voiceNeural(ENGINE_LABELS[engine]) : a.voiceBrowser(voiceName ?? a.voiceDefault)}
+        </span>
       </span>
       <span className="flex items-center gap-1">
         <Button variant="ghost" size="xs" onClick={soundCheck} disabled={testing}>

@@ -87,7 +87,7 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
 
   return (
     <div className="mx-auto max-w-3xl space-y-4">
-      <VoiceWarning />
+      <VoiceWarning line={set.items[0]?.script[0]} speakers={cast} />
       <AudioIssue issue={seq.issue ?? pb.issue} />
       {mode === "exam" && !review && <ExamAudioConsole seq={seq} totalItems={set.items.length} itemLabel={(n) => `Aufgabe ${num(n)}`} />}
 
@@ -273,7 +273,7 @@ export function AudioLongPlayer({ set, part, answers, onAnswer, review, mode, st
 
   return (
     <div className="mx-auto max-w-3xl space-y-4">
-      <VoiceWarning />
+      <VoiceWarning line={set.script[0]} speakers={cast} />
       <AudioIssue issue={seq.issue ?? pb.issue} />
       <div className="rounded-xl border bg-card px-4 py-3 text-sm">
         <span className="font-medium">Situation: </span>

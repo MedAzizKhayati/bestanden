@@ -405,6 +405,12 @@ export function stopAll() {
   if (speechSupported()) window.speechSynthesis.cancel();
 }
 
+/** The sound check of the audio players (pre-rendered like every other line). */
+export const SOUND_CHECK: { line: VoiceLine; speakers: VoiceSpeaker[] } = {
+  line: { s: "t", t: "Tonprobe. Wenn Sie diesen Satz hören, funktioniert der Ton." },
+  speakers: [{ id: "t", gender: "f" }],
+};
+
 /** Speak a single word or sentence (vocabulary, phrases). */
 export function speak(text: string, gender: Gender = "f", prefs: VoicePrefs = {}): PlaybackHandle {
   return playLines([{ s: "x", t: text }], { speakers: [{ id: "x", gender }], prefs, gapMs: 0 });

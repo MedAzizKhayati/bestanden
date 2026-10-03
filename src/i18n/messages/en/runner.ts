@@ -136,6 +136,7 @@ export const runner = {
     transcriptTip: "Listening again with the transcript is one of the fastest ways to improve.",
     soundCheck: "Test sound",
     voiceBrowser: (name: string) => `Voice: ${name}`,
+    voiceShipped: "Natural voices (built in)",
     voiceNeural: (engine: string) => `Natural voice: ${engine}`,
     voiceDefault: "the browser's default German voice",
     betterVoices: "Better voices",

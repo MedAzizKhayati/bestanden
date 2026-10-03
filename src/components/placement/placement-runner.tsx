@@ -242,7 +242,7 @@ function SectionView({
   let n = 0;
   return (
     <div className="space-y-6">
-      <VoiceWarning />
+      <VoiceWarning line={section.recordings[0]?.script[0]} speakers={section.recordings[0]?.speakers} />
       {section.recordings.map((rec) => (
         <div key={rec.id} className="space-y-3">
           <RecordingCard recording={rec} review={review} />

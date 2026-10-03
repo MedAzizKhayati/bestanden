@@ -9,7 +9,8 @@ Voices come from scripts/audio/cast.json; their reference clips live in scripts/
 Every clip is checked for a plausible length (models sometimes stop early or ramble) and retried.
 Setup: see README → "Pre-rendered voices".
 """
-import argparse, json, re, subprocess, sys, tempfile
+import argparse, json, re, subprocess, sys, tempfile, threading
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 import numpy as np
@@ -72,6 +73,15 @@ class Engine:
             audio = load_audio(ref, sample_rate=self.sr)
             return as_array(self.model.generate(text=text, ref_audio=audio, ref_text=CAST["referenceText"], lang_code="german"))
         return as_array(self.model.generate(text=text, ref_audio=ref, ref_text=CAST["referenceText"]))
+
+    def speak_batch(self, texts, voice):
+        """Several lines of one voice in a single forward pass (Qwen3 only; shared reference clip)."""
+        from mlx_audio.utils import load_audio
+        ref = load_audio(str(self.ref_path(voice)), sample_rate=self.sr)
+        out = [None] * len(texts)
+        for r in self.model.batch_generate(texts=texts, ref_audio=ref, ref_text=CAST["referenceText"], lang_code="german"):
+            out[r.sequence_idx] = np.array(r.audio, dtype=np.float32)
+        return out
 
     def render(self, text, voice, tries=3):
         """Whole line first; if it keeps failing, sentence by sentence with short pauses."""
@@ -154,6 +164,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--engine", choices=list(MODELS), default="qwen")
     ap.add_argument("--design", action="store_true", help="create missing reference clips for the cast")
+    ap.add_argument("--batch", type=int, default=8, help="lines per forward pass (Qwen3; 1 = one by one)")
     args = ap.parse_args()
     engine = Engine(args.engine)
 
@@ -162,19 +173,54 @@ def main():
         return
 
     engine.load("speak")
-    for raw in sys.stdin:
-        if not raw.strip():
-            continue
-        job = json.loads(raw)
+    jobs = [json.loads(raw) for raw in sys.stdin if raw.strip()]
+    lock = threading.Lock()
+    encoder = ThreadPoolExecutor(max_workers=4)
+
+    def report(result):
+        with lock:
+            print(json.dumps(result), flush=True)
+
+    def finish(job, audio, tries):
+        try:
+            encode(audio, engine.sr, Path(job["out"]))
+            report({"key": job["key"], "ok": True, "seconds": round(len(audio) / engine.sr, 2), "tries": tries})
+        except Exception as e:
+            report({"key": job["key"], "ok": False, "error": str(e)[:300]})
+
+    def single(job):
         try:
             audio, tries = engine.render(job["text"], job["voice"])
             if audio is None:
                 raise RuntimeError("no plausible take")
-            encode(audio, engine.sr, Path(job["out"]))
-            result = {"key": job["key"], "ok": True, "seconds": round(len(audio) / engine.sr, 2), "tries": tries}
+            encoder.submit(finish, job, audio, tries)
         except Exception as e:  # report and continue with the next line
-            result = {"key": job["key"], "ok": False, "error": str(e)[:300]}
-        print(json.dumps(result), flush=True)
+            report({"key": job["key"], "ok": False, "error": str(e)[:300]})
+
+    if engine.name == "qwen" and args.batch > 1:
+        # Group by voice (one reference clip per batch) and by length (less padding).
+        by_voice = {}
+        for job in jobs:
+            by_voice.setdefault(job["voice"], []).append(job)
+        for voice, group in by_voice.items():
+            group.sort(key=lambda j: len(j["text"]))
+            for i in range(0, len(group), args.batch):
+                chunk = group[i : i + args.batch]
+                mx.random.seed(4000 + i)
+                try:
+                    takes = engine.speak_batch([j["text"] for j in chunk], voice)
+                except Exception as e:
+                    log(f"batch failed ({e}); rendering these lines one by one")
+                    takes = [None] * len(chunk)
+                for job, audio in zip(chunk, takes):
+                    if audio is not None and plausible(job["text"], audio, engine.sr):
+                        encoder.submit(finish, job, audio, 1)
+                    else:
+                        single(job)
+    else:
+        for job in jobs:
+            single(job)
+    encoder.shutdown(wait=True)
 
 
 if __name__ == "__main__":

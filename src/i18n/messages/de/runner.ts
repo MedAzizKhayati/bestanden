@@ -125,6 +125,7 @@ export const runner: Messages["runner"] = {
     playAll: "Alles abspielen",
     soundCheck: "Tonprobe",
     voiceBrowser: (name) => `Stimme: ${name}`,
+    voiceShipped: "Natürliche Stimmen (eingebaut)",
     voiceNeural: (engine) => `Natürliche Stimme: ${engine}`,
     voiceDefault: "die deutsche Standardstimme des Browsers",
     betterVoices: "Bessere Stimmen",

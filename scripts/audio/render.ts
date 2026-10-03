@@ -12,7 +12,7 @@
  *   ELEVENLABS_API_KEY=… bun scripts/audio/render.ts --engine elevenlabs
  *   GOOGLE_TTS_API_KEY=… bun scripts/audio/render.ts --engine google
  *
- * --only <partId|placement|vocabulary|phrases|lists>  · --limit N · --dry-run
+ * --only <partId|placement (incl. the sound check)|vocabulary|phrases|lists>  · --limit N · --dry-run · --batch N (local, default 8)
  * --prune  deletes files that no current line uses (only together with a full run, i.e. without --only)
  *
  * Existing files are kept, so the script can be re-run after content changes (only new or changed
@@ -24,7 +24,7 @@ import { fileURLToPath } from "node:url";
 import type { AudioManifest } from "../../src/lib/audio/audio-key";
 import { audioKey } from "../../src/lib/audio/audio-key";
 import { NARRATOR_ID, narratorLines, withNarrator } from "../../src/lib/audio/narrator";
-import { speakerProfiles, type SpeakerProfile, type VoiceLine, type VoiceSpeaker } from "../../src/lib/audio/speech";
+import { SOUND_CHECK, speakerProfiles, type SpeakerProfile, type VoiceLine, type VoiceSpeaker } from "../../src/lib/audio/speech";
 import { spokenNumbers } from "../../src/lib/audio/spoken-numbers";
 import { serverTtsKey, synthesize } from "../../src/lib/audio/tts-providers";
 import { DEFAULT_TTS_MODELS, neuralVoiceFor, type NeuralEngine } from "../../src/lib/audio/voice-map";
@@ -120,11 +120,13 @@ for (const exam of EXAMS) {
     }
   }
 }
-if (wanted("placement"))
+if (wanted("placement")) {
+  await collect([SOUND_CHECK.line], SOUND_CHECK.speakers, "sound check", jobs);
   for (const file of jsonFiles(join(CONTENT, "placement"))) {
     const test = readJson(join(CONTENT, "placement", file)) as { sections: { skill: string; recordings?: { speakers: VoiceSpeaker[]; script: VoiceLine[] }[] }[] };
     for (const r of test.sections.find((s) => s.skill === "hoeren")?.recordings ?? []) await collect(r.script, r.speakers, `placement/${file}`, jobs);
   }
+}
 if (wanted("vocabulary"))
   for (const file of jsonFiles(join(CONTENT, "vocabulary"))) {
     const theme = VocabTheme.parse(readJson(join(CONTENT, "vocabulary", file)));
@@ -173,7 +175,7 @@ const progress = () => {
 if (isLocal) {
   // One Python process keeps the model loaded and renders the jobs in order (see local_tts.py).
   const python = process.env.TTS_PYTHON ?? "python3";
-  const worker = Bun.spawn([python, join(ROOT, "scripts/audio/local_tts.py"), "--engine", engine], {
+  const worker = Bun.spawn([python, join(ROOT, "scripts/audio/local_tts.py"), "--engine", engine, "--batch", flag("batch") ?? "8"], {
     stdin: "pipe",
     stdout: "pipe",
     stderr: "inherit",

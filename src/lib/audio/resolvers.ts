@@ -1,22 +1,31 @@
 "use client";
 
 import { audioKey, type AudioManifest } from "./audio-key";
-import type { AudioResolver } from "./speech";
+import type { AudioResolver, SpeakerProfile } from "./speech";
 import { DEFAULT_TTS_MODELS, neuralVoiceFor, type NeuralEngine } from "./voice-map";
 
 let manifest: Promise<Set<string>> | null = null;
 
-/** Pre-rendered (or recorded) files shipped with the site – used before any synthetic voice. */
-export const prerenderedResolver: AudioResolver = async (text, speaker) => {
+function shippedFiles() {
   manifest ??= fetch("/audio/manifest.json")
     .then((r) => (r.ok ? (r.json() as Promise<AudioManifest>) : null))
     .then((m) => new Set(m?.files ?? []))
     .catch(() => new Set<string>());
-  const files = await manifest;
+  return manifest;
+}
+
+/** Pre-rendered (or recorded) files shipped with the site – used before any synthetic voice. */
+export const prerenderedResolver: AudioResolver = async (text, speaker) => {
+  const files = await shippedFiles();
   if (!files.size) return null;
   const key = await audioKey(text, speaker);
   return files.has(key) ? `/audio/tts/${key}.mp3` : null;
 };
+
+/** Whether the site ships a natural voice file for this line (so device voices are not needed). */
+export async function isPrerendered(text: string, speaker: SpeakerProfile) {
+  return (await prerenderedResolver(text, speaker, new AbortController().signal)) !== null;
+}
 
 async function sha256(text: string) {
   const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
