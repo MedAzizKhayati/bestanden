@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import { LocaleSwitcher } from "@/components/app/locale-switcher";
 import { ThemeToggle } from "@/components/app/theme-toggle";
 import {
+  Command,
   CommandDialog,
   CommandEmpty,
   CommandGroup,
@@ -62,31 +63,34 @@ export function AppHeader({ searchIndex }: { searchIndex: SearchEntry[] }) {
       </div>
 
       <CommandDialog open={open} onOpenChange={setOpen} title={t.nav.searchDialogTitle} description={t.nav.searchDialogDescription}>
-        <CommandInput placeholder={t.nav.searchInput} />
-        <CommandList className="max-h-[60vh]">
-          <CommandEmpty>{t.nav.searchEmpty}</CommandEmpty>
-          {groups.map((g) => (
-            <CommandGroup key={g} heading={g}>
-              {searchIndex
-                .filter((e) => e.group === g)
-                .map((e) => (
-                  <CommandItem
-                    key={e.href + e.title}
-                    value={`${e.title} ${e.subtitle ?? ""} ${e.keywords ?? ""}`}
-                    onSelect={() => {
-                      setOpen(false);
-                      router.push(e.href);
-                    }}
-                  >
-                    <div className="flex min-w-0 flex-col">
-                      <span className="truncate">{e.title}</span>
-                      {e.subtitle ? <span className="truncate text-xs text-muted-foreground">{e.subtitle}</span> : null}
-                    </div>
-                  </CommandItem>
-                ))}
-            </CommandGroup>
-          ))}
-        </CommandList>
+        {/* CommandDialog is only the dialog: the cmdk root must wrap input and list, or cmdk crashes on open. */}
+        <Command>
+          <CommandInput placeholder={t.nav.searchInput} />
+          <CommandList className="max-h-[60vh]">
+            <CommandEmpty>{t.nav.searchEmpty}</CommandEmpty>
+            {groups.map((g) => (
+              <CommandGroup key={g} heading={g}>
+                {searchIndex
+                  .filter((e) => e.group === g)
+                  .map((e) => (
+                    <CommandItem
+                      key={e.href + e.title}
+                      value={`${e.title} ${e.subtitle ?? ""} ${e.keywords ?? ""}`}
+                      onSelect={() => {
+                        setOpen(false);
+                        router.push(e.href);
+                      }}
+                    >
+                      <div className="flex min-w-0 flex-col">
+                        <span className="truncate">{e.title}</span>
+                        {e.subtitle ? <span className="truncate text-xs text-muted-foreground">{e.subtitle}</span> : null}
+                      </div>
+                    </CommandItem>
+                  ))}
+              </CommandGroup>
+            ))}
+          </CommandList>
+        </Command>
       </CommandDialog>
     </header>
   );
