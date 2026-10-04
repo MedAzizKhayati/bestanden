@@ -35,10 +35,20 @@ def as_array(results):
     return np.concatenate(chunks) if len(chunks) > 1 else chunks[0]
 
 
+PAUSE_ALLOWANCE = 1.5  # seconds of silence and comma pauses on top of the speech itself
+
+
 def plausible(text, audio, sr):
-    """German speech runs at roughly 11–17 characters per second; far outside means cut off or rambling."""
-    cps = len(text) / max(len(audio) / sr, 0.01)
-    return 8 <= cps <= 21
+    """German speech runs at roughly 11–17 characters per second; far outside means cut off or rambling.
+    Short texts („gehen, ging, gegangen“) get a fixed allowance for pauses and the silence at both ends."""
+    seconds = len(audio) / sr
+    return len(text) / 21 <= seconds <= len(text) / 8 + PAUSE_ALLOWANCE
+
+
+def token_cap(texts):
+    """Qwen3 speaks 12.5 codec frames per second. A take longer than the plausibility limit is rejected
+    anyway, so stop about 3 seconds after it instead of letting a runaway take run to 4096 frames."""
+    return int((max(len(t) for t in texts) / 8 + PAUSE_ALLOWANCE) * 12.5) + 40
 
 
 def sentences(text):
@@ -71,7 +81,7 @@ class Engine:
         if self.name == "qwen":
             from mlx_audio.utils import load_audio
             audio = load_audio(ref, sample_rate=self.sr)
-            return as_array(self.model.generate(text=text, ref_audio=audio, ref_text=CAST["referenceText"], lang_code="german"))
+            return as_array(self.model.generate(text=text, ref_audio=audio, ref_text=CAST["referenceText"], lang_code="german", max_tokens=token_cap([text])))
         return as_array(self.model.generate(text=text, ref_audio=ref, ref_text=CAST["referenceText"]))
 
     def speak_batch(self, texts, voice):
@@ -79,12 +89,19 @@ class Engine:
         from mlx_audio.utils import load_audio
         ref = load_audio(str(self.ref_path(voice)), sample_rate=self.sr)
         out = [None] * len(texts)
-        for r in self.model.batch_generate(texts=texts, ref_audio=ref, ref_text=CAST["referenceText"], lang_code="german"):
+        for r in self.model.batch_generate(texts=texts, ref_audio=ref, ref_text=CAST["referenceText"], lang_code="german", max_tokens=token_cap(texts)):
             out[r.sequence_idx] = np.array(r.audio, dtype=np.float32)
+        mx.clear_cache()
         return out
 
     def render(self, text, voice, tries=3):
         """Whole line first; if it keeps failing, sentence by sentence with short pauses."""
+        try:
+            return self._render(text, voice, tries)
+        finally:
+            mx.clear_cache()
+
+    def _render(self, text, voice, tries):
         for attempt in range(tries):
             mx.random.seed(1000 + attempt)
             audio = self.speak(text, voice)
@@ -166,6 +183,9 @@ def main():
     ap.add_argument("--design", action="store_true", help="create missing reference clips for the cast")
     ap.add_argument("--batch", type=int, default=8, help="lines per forward pass (Qwen3; 1 = one by one)")
     args = ap.parse_args()
+    # MLX keeps freed buffers for reuse; over thousands of takes of different lengths that cache grows until
+    # the Mac swaps and rendering slows to a crawl. Keep it small (the model itself stays loaded).
+    mx.set_cache_limit(1 << 30)
     engine = Engine(args.engine)
 
     if args.design:
