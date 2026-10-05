@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono, Literata } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { Providers } from "@/components/providers";
 import { I18nProvider } from "@/i18n/client";
 import { LOCALES, LOCALE_TAGS } from "@/i18n/config";
@@ -49,6 +50,7 @@ export default async function RootLayout({ children }: LayoutProps<"/[locale]">)
         <I18nProvider locale={locale}>
           <Providers>{children}</Providers>
         </I18nProvider>
+        <Analytics />
       </body>
     </html>
   );
