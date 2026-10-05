@@ -1,6 +1,6 @@
 "use client";
 
-import { ArrowLeft, ArrowRight, Languages, ListChecks, Loader2, Play, RotateCcw, Send, Sparkles, Timer, X } from "lucide-react";
+import { ArrowLeft, ArrowRight, History, Languages, ListChecks, Loader2, Play, RotateCcw, Send, Sparkles, Timer, X } from "lucide-react";
 import Link from "@/i18n/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { toast } from "sonner";
@@ -22,6 +22,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Switch } from "@/components/ui/switch";
 import { formatDuration } from "@/lib/utils/time";
 import { useLocale, useT } from "@/i18n/client";
+import { formatLongDate, formatNumber, formatShortDate } from "@/i18n/format";
 import type { WritingSet } from "@/lib/content/schemas";
 import type { PartDefinition, WritingRubric } from "@/lib/exams";
 import { useFocusMode } from "@/lib/hooks/use-focus-mode";
@@ -184,6 +185,15 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
     setTimeout(() => textareaRef.current?.focus(), 50);
   };
 
+  /** Shows a saved attempt again (its e-mail, feedback and the model answer). */
+  const openAttempt = (rec: WritingRecord) => {
+    setRecord(rec);
+    setAiState("idle");
+    setAiError(null);
+    setPhase("review");
+    window.scrollTo({ top: 0 });
+  };
+
   const retry = () => {
     discardAttempt(key);
     setRecord(null);
@@ -306,15 +316,37 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
                   </Link>
                 </Button>
               </div>
-              {previous.length > 0 && (
-                <p className="text-sm text-muted-foreground">
-                  {w.intro.writtenBefore(previous.length)}
-                  {previous.some((p) => p.feedback) && w.intro.bestScore(Math.max(...previous.map((p) => p.feedback?.total ?? 0)), rubric.maxPoints)}.
-                </p>
-              )}
             </div>
           </div>
         </div>
+        {previous.length > 0 && (
+          <section className="rounded-2xl border bg-card p-4 sm:p-5">
+            <h2 className="flex items-center gap-2 font-semibold">
+              <History className="size-4 text-schreiben" /> {w.intro.previousTitle}
+            </h2>
+            <p className="mt-0.5 text-sm text-muted-foreground">{w.intro.previousHint}</p>
+            <ul className="mt-3 divide-y">
+              {[...previous].reverse().map((p) => (
+                <li key={p.id} className="flex items-center gap-3 py-2.5 text-sm">
+                  <span className="min-w-0 flex-1">
+                    <span className="font-medium">{formatShortDate(p.finishedAt, locale)}</span>
+                    <span className="text-muted-foreground"> · {t.common.words(p.wordCount)} · </span>
+                    <span className={cn(p.feedback ? "font-medium" : "text-muted-foreground")}>
+                      {p.feedback
+                        ? w.intro.attemptScore(formatNumber(p.feedback.total, locale), rubric.maxPoints)
+                        : p.selfGrades && Object.keys(p.selfGrades).length
+                          ? w.intro.attemptSelf(formatNumber(selfPoints(p.selfGrades), locale), rubric.maxPoints)
+                          : w.intro.attemptNoFeedback}
+                    </span>
+                  </span>
+                  <Button variant="outline" size="sm" onClick={() => openAttempt(p)}>
+                    {w.intro.openAttempt}
+                  </Button>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
       </div>
     );
   }
@@ -434,6 +466,11 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
 
 const SELF_LABELS: Record<"A" | "B" | "C" | "D", string> = { A: "A", B: "B", C: "C", D: "D" };
 
+/** Points of a self-assessment: A 5 · B 3 · C 1 · D 0 per criterion, weighted ×3 like the official rubric. */
+function selfPoints(grades: NonNullable<WritingRecord["selfGrades"]>) {
+  return (["I", "II", "III"] as const).reduce((sum, id) => sum + (grades[id] ? { A: 5, B: 3, C: 1, D: 0 }[grades[id]!] : 0), 0) * 3;
+}
+
 function ReviewSection({
   record,
   set,
@@ -461,11 +498,11 @@ function ReviewSection({
   const locale = useLocale();
   const r = t.writing.review;
   const grades = record.selfGrades ?? {};
-  const selfTotal = (["I", "II", "III"] as const).reduce((s, id) => s + (grades[id] ? { A: 5, B: 3, C: 1, D: 0 }[grades[id]!] : 0), 0) * 3;
+  const selfTotal = selfPoints(grades);
   return (
     <div className="space-y-5">
       <div className="flex flex-wrap items-center gap-2 rounded-2xl border bg-card px-4 py-3 text-sm">
-        <span className="font-medium">{r.submitted}</span>
+        <span className="font-medium">{r.submittedOn(formatLongDate(record.finishedAt, locale))}</span>
         <span className="text-muted-foreground">
           · {t.common.words(record.wordCount)} · {r.durationOf(formatDuration(record.durationSec, locale), t.common.minutes(Math.round(record.limitSec / 60)))}
           {record.autoSubmitted ? r.autoSubmitted : ""}
@@ -494,6 +531,15 @@ function ReviewSection({
         </div>
       ) : (
         <div className="space-y-5">
+          {aiState === "idle" && aiAvailable && record.wordCount >= 10 && (
+            <div className="flex flex-wrap items-center gap-3 rounded-2xl border bg-card p-4 text-sm">
+              <Sparkles className="size-4 text-primary" />
+              <span className="font-medium">{r.getFeedbackTitle}</span>
+              <Button size="sm" onClick={onRetryAi} className="ml-auto">
+                {r.getFeedback}
+              </Button>
+            </div>
+          )}
           {aiState === "error" && (
             <div className="flex flex-wrap items-center gap-3 rounded-2xl border border-destructive/30 bg-destructive/5 p-4 text-sm">
               <span className="font-medium text-destructive">{r.aiFailed}</span> {aiError}

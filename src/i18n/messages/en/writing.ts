@@ -38,8 +38,12 @@ export const writing = {
       `After submitting, an AI examiner scores your e-mail with the official telc criteria (max. ${max} points) and corrects every mistake.`,
     start: "Start writing",
     allTasks: "All tasks",
-    writtenBefore: (n: number) => `You wrote this task ${n}× before`,
-    bestScore: (points: number, max: number) => ` · best score ${points}/${max}`,
+    previousTitle: "Your previous attempts",
+    previousHint: "Open an attempt to see your e-mail, the feedback and the model answer again.",
+    attemptScore: (points: string, max: number) => `${points}/${max} points`,
+    attemptSelf: (points: string, max: number) => `self-assessed ${points}/${max}`,
+    attemptNoFeedback: "no feedback yet",
+    openAttempt: "Open",
   },
 
   editor: {
@@ -63,7 +67,9 @@ export const writing = {
   },
 
   review: {
-    submitted: "Submitted",
+    submittedOn: (date: string) => `Submitted on ${date}`,
+    getFeedbackTitle: "This attempt has no AI feedback yet.",
+    getFeedback: "Get AI feedback",
     durationOf: (used: string, limit: string) => `${used} of ${limit}`,
     autoSubmitted: " · submitted at time-up",
     writeAgain: "Write again",

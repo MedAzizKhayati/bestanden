@@ -39,8 +39,12 @@ export const writing: Messages["writing"] = {
       `Wenn du abgibst, bewertet die KI deine E-Mail nach den offiziellen telc-Kriterien (max. ${max} Punkte) und korrigiert jeden Fehler.`,
     start: "Schreiben starten",
     allTasks: "Alle Aufgaben",
-    writtenBefore: (n) => `Du hast diese Aufgabe schon ${n}× geschrieben`,
-    bestScore: (points, max) => ` · beste Punktzahl ${points}/${max}`,
+    previousTitle: "Deine bisherigen Versuche",
+    previousHint: "Öffne einen Versuch, um deine E-Mail, das Feedback und die Musterlösung noch einmal zu sehen.",
+    attemptScore: (points, max) => `${points}/${max} Punkte`,
+    attemptSelf: (points, max) => `selbst bewertet ${points}/${max}`,
+    attemptNoFeedback: "noch kein Feedback",
+    openAttempt: "Öffnen",
   },
 
   editor: {
@@ -63,7 +67,9 @@ export const writing: Messages["writing"] = {
   },
 
   review: {
-    submitted: "Abgegeben",
+    submittedOn: (date) => `Abgegeben am ${date}`,
+    getFeedbackTitle: "Für diesen Versuch gibt es noch kein KI-Feedback.",
+    getFeedback: "KI-Feedback holen",
     durationOf: (used, limit) => `${used} von ${limit}`,
     autoSubmitted: " · bei Zeitende abgegeben",
     writeAgain: "Nochmal schreiben",
