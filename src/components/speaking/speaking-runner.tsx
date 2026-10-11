@@ -1,6 +1,6 @@
 "use client";
 
-import { ArrowLeft, Bot, CheckCircle2, Hourglass, Lightbulb, Loader2, Mic, PlayCircle, RotateCcw, Sparkles, StopCircle, Timer } from "lucide-react";
+import { ArrowLeft, Bot, CheckCircle2, History, Hourglass, Lightbulb, Loader2, Mic, PlayCircle, RotateCcw, Sparkles, StopCircle, Timer } from "lucide-react";
 import Link from "@/i18n/link";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { toast } from "sonner";
@@ -12,6 +12,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Switch } from "@/components/ui/switch";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useLocale, useT } from "@/i18n/client";
+import { formatLongDate, formatNumber, formatShortDate } from "@/i18n/format";
 import type { Messages } from "@/i18n/messages";
 import type { SpeakingSet, Turn } from "@/lib/ai/speaking-types";
 import type { GlossaryEntry } from "@/lib/content/schemas";
@@ -19,7 +20,7 @@ import type { PartDefinition, SpeakingRubric } from "@/lib/exams";
 import { useSecondsLeft } from "@/lib/hooks/use-countdown";
 import { useFocusMode } from "@/lib/hooks/use-focus-mode";
 import { useHydrated } from "@/lib/store/hydration";
-import { uid, useProgress, type SpeakingFeedback } from "@/lib/store/progress";
+import { uid, useProgress, type SpeakingFeedback, type SpeakingRecord } from "@/lib/store/progress";
 import { useSettings } from "@/lib/store/settings";
 import { cn } from "@/lib/utils";
 import { formatClock } from "@/lib/utils/time";
@@ -48,6 +49,17 @@ function monologuePrompt(set: SpeakingSet, m: Messages["speaking"]["monologuePro
   if (set.type === "speaking-intro") return m.intro;
   if (set.type === "speaking-topic") return m.topic(set.cardA.name, set.theme);
   return m.planning;
+}
+
+/** Turns of an older record that only kept the transcript („Ich: …“ / „Lena: …“ per line). */
+function turnsFromTranscript(transcript: string): Turn[] {
+  const turns: Turn[] = [];
+  for (const line of transcript.split("\n")) {
+    const m = line.match(/^([^:]{1,40}):\s?(.*)$/);
+    if (m) turns.push({ role: m[1] === "Ich" ? "user" : "partner", text: m[2] });
+    else if (turns.length && line.trim()) turns[turns.length - 1].text += ` ${line.trim()}`;
+  }
+  return turns;
 }
 
 /** null while unknown; true with the user's own key or the server's AI. */
@@ -92,6 +104,10 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
   const [checked, setChecked] = useState<Record<number, boolean>>({});
   const [revealB, setRevealB] = useState(false);
   const [durationSec, setDurationSec] = useState(0);
+  /** The saved record of the attempt shown in the feedback phase (feedback is written back to it). */
+  const [current, setCurrent] = useState<{ id: string; createdAt: number } | null>(null);
+  /** Set when an earlier attempt was reopened: its date. */
+  const [openedAt, setOpenedAt] = useState<number | null>(null);
 
 
   useFocusMode(phase === "speak");
@@ -122,10 +138,13 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
 
   const fallbackError = r.aiFailedFallback;
   const requestFeedback = useCallback(
-    async (allTurns: Turn[], seconds: number) => {
-      const recordId = uid();
+    async (allTurns: Turn[], seconds: number, existing?: { id: string; createdAt: number }) => {
+      // A retry or a reopened attempt updates its own record instead of saving a second one.
+      const rec = existing ?? { id: uid(), createdAt: Date.now() };
+      setCurrent(rec);
       const transcript = allTurns.map((turn) => `${turn.role === "user" ? "Ich" : (partner.name ?? "Partner")}: ${turn.text}`).join("\n");
-      saveSpeaking({ id: recordId, examId, partId: part.id, setId: set.id, transcript, durationSec: Math.round(seconds), createdAt: Date.now() });
+      const record: SpeakingRecord = { id: rec.id, examId, partId: part.id, setId: set.id, transcript, turns: allTurns, durationSec: Math.round(seconds), createdAt: rec.createdAt };
+      if (!existing) saveSpeaking(record);
       if (!aiAvailable) return;
       setFbState("loading");
       setFbError(null);
@@ -139,7 +158,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
           return;
         }
         setFeedback(data.feedback);
-        saveSpeaking({ id: recordId, examId, partId: part.id, setId: set.id, transcript, durationSec: Math.round(seconds), createdAt: Date.now(), feedback: data.feedback });
+        saveSpeaking({ ...record, feedback: data.feedback });
         setFbState("idle");
       } catch {
         setFbState("error");
@@ -154,6 +173,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
       const secs = seconds ?? (speakStartedAt ? (Date.now() - speakStartedAt) / 1000 : 0);
       setEnded(true);
       setDurationSec(secs);
+      setOpenedAt(null);
       setPhase("feedback");
       setRevealB(true);
       window.scrollTo({ top: 0, behavior: "smooth" });
@@ -162,7 +182,25 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
     [requestFeedback, speakStartedAt],
   );
 
+  const openAttempt = (rec: SpeakingRecord) => {
+    setTurns(rec.turns ?? turnsFromTranscript(rec.transcript));
+    setFeedback(rec.feedback ?? null);
+    setDurationSec(rec.durationSec);
+    setCurrent({ id: rec.id, createdAt: rec.createdAt });
+    setOpenedAt(rec.createdAt);
+    setFbState("idle");
+    setFbError(null);
+    setChecked({});
+    setEnded(true);
+    setRevealB(true);
+    setTab("practice");
+    setPhase("feedback");
+    window.scrollTo({ top: 0 });
+  };
+
   const restart = () => {
+    setOpenedAt(null);
+    setCurrent(null);
     setPhase("prepare");
     setTurns([]);
     setFeedback(null);
@@ -257,6 +295,31 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
         </div>
       )}
 
+      {phase === "prepare" && previous.length > 0 && (
+        <section className="rounded-2xl border bg-card p-4 sm:p-5">
+          <h2 className="flex items-center gap-2 font-semibold">
+            <History className="size-4 text-sprechen" /> {r.previousTitle}
+          </h2>
+          <p className="mt-0.5 text-sm text-muted-foreground">{r.previousHint}</p>
+          <ul className="mt-3 divide-y">
+            {[...previous].reverse().map((p) => (
+              <li key={p.id} className="flex items-center gap-3 py-2.5 text-sm">
+                <span className="min-w-0 flex-1">
+                  <span className="font-medium">{formatShortDate(p.createdAt, locale)}</span>
+                  <span className="text-muted-foreground"> · {formatClock(p.durationSec)} · </span>
+                  <span className={cn(p.feedback ? "font-medium" : "text-muted-foreground")}>
+                    {p.feedback ? r.attemptScore(formatNumber(p.feedback.total, locale), p.feedback.maxPoints) : r.attemptNoFeedback}
+                  </span>
+                </span>
+                <Button variant="outline" size="sm" onClick={() => openAttempt(p)}>
+                  {r.openAttempt}
+                </Button>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       {phase === "speak" && (
         <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
           <div className="space-y-4 lg:sticky lg:top-32 lg:self-start">
@@ -317,7 +380,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
       {phase === "feedback" && (
         <div className="space-y-5">
           <div className="flex flex-wrap items-center gap-2 rounded-2xl border bg-card px-4 py-3 text-sm">
-            <span className="font-medium">{r.finished}</span>
+            <span className="font-medium">{openedAt ? r.finishedOn(formatLongDate(openedAt, locale)) : r.finished}</span>
             <span className="text-muted-foreground">{r.finishedStats(formatClock(durationSec), turns.filter((turn) => turn.role === "user").length || 1)}</span>
             <div className="ml-auto flex gap-2">
               <Button variant="outline" size="sm" onClick={restart}>
@@ -340,8 +403,16 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
           ) : fbState === "error" ? (
             <div className="flex flex-wrap items-center gap-3 rounded-2xl border border-destructive/30 bg-destructive/5 p-4 text-sm">
               <span className="font-medium text-destructive">{r.aiFailed}</span> {fbError}
-              <Button size="sm" variant="outline" className="ml-auto" onClick={() => requestFeedback(turns.length ? turns : [], durationSec)}>
+              <Button size="sm" variant="outline" className="ml-auto" onClick={() => requestFeedback(turns, durationSec, current ?? undefined)}>
                 <RotateCcw /> {t.common.retry}
+              </Button>
+            </div>
+          ) : aiAvailable && turns.some((turn) => turn.role === "user" && turn.text.trim()) ? (
+            <div className="flex flex-wrap items-center gap-3 rounded-2xl border bg-card p-4 text-sm">
+              <Sparkles className="size-4 text-sprechen" />
+              <span className="font-medium">{r.getFeedbackTitle}</span>
+              <Button size="sm" className="ml-auto" onClick={() => requestFeedback(turns, durationSec, current ?? undefined)}>
+                {r.getFeedback}
               </Button>
             </div>
           ) : null}
@@ -364,7 +435,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
           </div>
 
           {turns.length > 0 && (
-            <details className="rounded-2xl border bg-card p-4">
+            <details key={openedAt ?? "new"} open={openedAt !== null && !feedback ? true : undefined} className="rounded-2xl border bg-card p-4">
               <summary className="cursor-pointer text-sm font-semibold">{r.transcript}</summary>
               <div className="mt-3 space-y-1.5 text-sm">
                 {turns.map((turn, i) => (

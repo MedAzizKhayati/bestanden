@@ -1,5 +1,6 @@
 "use client";
 
+import type { Turn } from "@/lib/ai/speaking-types";
 import { create } from "zustand";
 import { createJSONStorage, persist } from "zustand/middleware";
 import { dayKey } from "@/lib/utils/time";
@@ -101,6 +102,8 @@ export interface SpeakingRecord {
   partId: string;
   setId: string;
   transcript: string;
+  /** The conversation turn by turn, so feedback can be requested again later (older records: transcript only). */
+  turns?: Turn[];
   durationSec: number;
   createdAt: number;
   feedback?: SpeakingFeedback;
