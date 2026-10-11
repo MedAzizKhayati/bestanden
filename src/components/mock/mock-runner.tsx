@@ -39,6 +39,7 @@ import { useSettings } from "@/lib/store/settings";
 import { cn } from "@/lib/utils";
 import { wordCount } from "@/lib/utils/text";
 import { aiFetch, aiUsable } from "@/lib/ai/request";
+import { useCarriedState } from "@/lib/hooks/use-carried-state";
 
 export interface MockPart {
   part: PartDefinition;
@@ -77,7 +78,7 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
   const strictSetting = useSettings((s) => s.strictTimer);
   const finishAttempt = useProgress((s) => s.finishAttempt);
   const saveWriting = useProgress((s) => s.saveWriting);
-  const [resultId, setResultId] = useState<string | null>(null);
+  const [resultId, setResultId] = useCarriedState<string | null>("mock:result", null);
   const result = results.find((r) => r.id === resultId);
 
   useFocusMode(!!run && run.stage !== "done");
@@ -170,7 +171,7 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
         toast.error(tr.toasts.feedbackFailed);
       }
     }
-  }, [abandon, examId, finishAttempt, listening, locale, mockId, reading, saveResult, saveWriting, tr, writingPart]);
+  }, [abandon, examId, finishAttempt, listening, locale, mockId, reading, saveResult, saveWriting, setResultId, tr, writingPart]);
 
   /* ---------------- results ---------------- */
   if (result) return <MockResults result={result} parts={parts} rubric={rubric} examSlug={exam.slug} listHref={listHref} writing={writingPart?.set} />;
@@ -381,7 +382,7 @@ function ReadingStage({
   startedAt: number;
 }) {
   const tr = useT().mock.reading;
-  const [tab, setTab] = useState(parts[0]?.part.id);
+  const [tab, setTab] = useCarriedState("mock:readingTab", parts[0]?.part.id);
   const [confirm, setConfirm] = useState(false);
   const current = parts.find((p) => p.part.id === tab) ?? parts[0];
   const answeredTotal = parts.reduce((n, p) => n + Object.keys(answers[p.part.id] ?? {}).length, 0);

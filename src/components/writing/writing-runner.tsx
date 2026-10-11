@@ -25,6 +25,7 @@ import { useLocale, useT } from "@/i18n/client";
 import { formatLongDate, formatNumber, formatShortDate } from "@/i18n/format";
 import type { WritingSet } from "@/lib/content/schemas";
 import type { PartDefinition, WritingRubric } from "@/lib/exams";
+import { useCarriedState } from "@/lib/hooks/use-carried-state";
 import { useFocusMode } from "@/lib/hooks/use-focus-mode";
 import { useHydrated } from "@/lib/store/hydration";
 import { attemptKey, uid, useProgress, type WritingFeedback, type WritingRecord } from "@/lib/store/progress";
@@ -86,15 +87,18 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
   const locale = useLocale();
   const w = t.writing;
 
-  const [phase, setPhase] = useState<Phase>(() => (inProgress ? "writing" : "intro"));
+  // Carried across a language switch (see useCarriedState); the draft itself is saved with the attempt.
+  const [phase, setPhase] = useCarriedState<Phase>("writing:phase", () => (inProgress ? "writing" : "intro"));
   const [subject, setSubject] = useState(() => inProgress?.answers.subject ?? "");
   const [text, setText] = useState(() => inProgress?.answers.text ?? "");
-  const [ticked, setTicked] = useState<Record<number, boolean>>({});
-  const [record, setRecord] = useState<WritingRecord | null>(null);
+  const [ticked, setTicked] = useCarriedState<Record<number, boolean>>("writing:ticked", {});
+  /** The attempt shown in the review, read from the saved attempts so late feedback shows up too. */
+  const [recordId, setRecordId] = useCarriedState<string | null>("writing:record", null);
+  const record = useMemo(() => history.find((item) => item.id === recordId) ?? null, [history, recordId]);
   const [aiState, setAiState] = useState<"idle" | "loading" | "error">("idle");
   const [aiError, setAiError] = useState<string | null>(null);
   const [confirmOpen, setConfirmOpen] = useState(false);
-  const [showEnglish, setShowEnglish] = useState(showEnglishDefault);
+  const [showEnglish, setShowEnglish] = useCarriedState("writing:showEnglish", showEnglishDefault);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
   const submitting = useRef(false);
 
@@ -122,9 +126,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
           setAiError(data.error || fallbackError);
           return;
         }
-        const withFeedback = { ...rec, feedback: data.feedback };
-        saveWriting(withFeedback);
-        setRecord(withFeedback);
+        saveWriting({ ...rec, feedback: data.feedback });
         setAiState("idle");
       } catch {
         setAiState("error");
@@ -156,7 +158,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
       };
       saveWriting(rec);
       discardAttempt(key);
-      setRecord(rec);
+      setRecordId(rec.id);
       setPhase("review");
       setConfirmOpen(false);
       submitting.current = false;
@@ -164,7 +166,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
       window.scrollTo({ top: 0, behavior: "smooth" });
       if (aiAvailable && rec.wordCount >= 10) void requestFeedback(rec);
     },
-    [aiAvailable, discardAttempt, examId, key, requestFeedback, saveWriting, set.id, subject, text, w.editor.timeUp],
+    [aiAvailable, discardAttempt, examId, key, requestFeedback, saveWriting, set.id, setPhase, setRecordId, subject, text, w.editor.timeUp],
   );
 
   useEffect(() => {
@@ -179,7 +181,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
     setSubject("");
     setText("");
     setTicked({});
-    setRecord(null);
+    setRecordId(null);
     setPhase("writing");
     window.scrollTo({ top: 0 });
     setTimeout(() => textareaRef.current?.focus(), 50);
@@ -187,7 +189,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
 
   /** Shows a saved attempt again (its e-mail, feedback and the model answer). */
   const openAttempt = (rec: WritingRecord) => {
-    setRecord(rec);
+    setRecordId(rec.id);
     setAiState("idle");
     setAiError(null);
     setPhase("review");
@@ -196,7 +198,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
 
   const retry = () => {
     discardAttempt(key);
-    setRecord(null);
+    setRecordId(null);
     setAiState("idle");
     setPhase("intro");
     window.scrollTo({ top: 0 });
@@ -252,7 +254,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
   );
 
   /* ---------------- Intro ---------------- */
-  if (phase === "intro") {
+  if (phase === "intro" || (phase === "review" && !record)) {
     return (
       <div className="mx-auto max-w-4xl space-y-5">
         <div className="overflow-hidden rounded-2xl border bg-linear-to-br from-schreiben/15 via-card to-card">
@@ -438,11 +440,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
           aiState={aiState}
           aiError={aiError}
           onRetryAi={() => requestFeedback(record)}
-          onSelfGrades={(g) => {
-            const next = { ...record, selfGrades: g };
-            setRecord(next);
-            saveWriting(next);
-          }}
+          onSelfGrades={(g) => saveWriting({ ...record, selfGrades: g })}
           onRetry={retry}
           nextHref={links.next}
         />

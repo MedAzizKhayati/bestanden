@@ -9,6 +9,7 @@ import { useHydrated } from "@/lib/store/hydration";
 import { useProgress } from "@/lib/store/progress";
 import { cn } from "@/lib/utils";
 import { answerMatches, normalizeAnswer, seededShuffle } from "@/lib/utils/text";
+import { useCarriedState } from "@/lib/hooks/use-carried-state";
 
 interface ItemState {
   value: string;
@@ -51,8 +52,9 @@ export function GrammarPractice({ topicId, exercises }: { topicId: string; exerc
   const record = useProgress((s) => s.recordGrammar);
   const resetStored = useProgress((s) => s.resetGrammar);
   const stored = useProgress((s) => s.grammar[topicId]);
-  const [items, setItems] = useState<Record<number, ItemState>>({});
-  const [round, setRound] = useState(0);
+  // Carried across a language switch (see useCarriedState).
+  const [items, setItems] = useCarriedState<Record<number, ItemState>>(`grammar:${topicId}:items`, {});
+  const [round, setRound] = useCarriedState(`grammar:${topicId}:round`, 0);
 
   const set = (i: number, patch: Partial<ItemState>) =>
     setItems((prev) => ({ ...prev, [i]: { ...(prev[i] ?? { value: "", checked: false, correct: false }), ...patch } }));

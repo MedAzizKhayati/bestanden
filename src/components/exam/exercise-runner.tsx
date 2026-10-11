@@ -23,6 +23,7 @@ import { mistakeCard, scoreSet, type ScoredSet, type ScoreResult } from "@/lib/e
 import { SECTION_UI } from "@/lib/exam/ui";
 import type { PartDefinition } from "@/lib/exams";
 import { useFocusMode } from "@/lib/hooks/use-focus-mode";
+import { useCarriedState } from "@/lib/hooks/use-carried-state";
 import { useHydrated } from "@/lib/store/hydration";
 import { attemptKey, useProgress, type Answers, type AttemptRecord } from "@/lib/store/progress";
 import { useSettings } from "@/lib/store/settings";
@@ -82,24 +83,26 @@ function Runner({ examId, sectionId, sectionName, part, set, setNumber, position
   const allAttempts = useProgress((s) => s.attempts);
   const previous = useMemo(() => allAttempts.filter((a) => a.setId === set.id && a.examId === examId && a.context === "practice"), [allAttempts, set.id, examId]);
 
-  const [phase, setPhase] = useState<Phase>(() => (inProgress && !isAudio ? "running" : "intro"));
-  const [answers, setAnswers] = useState<Answers>(() => (inProgress && !isAudio ? inProgress.answers : {}));
-  const [result, setResult] = useState<{ score: ScoreResult; record: AttemptRecord } | null>(null);
+  // Carried across a language switch (see useCarriedState), so a running exercise or its result stays open.
+  const [phase, setPhase] = useCarriedState<Phase>("exercise:phase", () => (inProgress && !isAudio ? "running" : "intro"));
+  const [answers, setAnswers] = useCarriedState<Answers>("exercise:answers", () => (inProgress && !isAudio ? inProgress.answers : {}));
+  const [result, setResult] = useCarriedState<{ score: ScoreResult; record: AttemptRecord } | null>("exercise:result", null);
   const [confirmOpen, setConfirmOpen] = useState(false);
-  const [showEnglish, setShowEnglish] = useState(showEnglishDefault);
-  const [audioMode, setAudioMode] = useState<"exam" | "training">(strictSetting ? "exam" : "training");
+  const [showEnglish, setShowEnglish] = useCarriedState("exercise:showEnglish", showEnglishDefault);
+  const [audioMode, setAudioMode] = useCarriedState<"exam" | "training">("exercise:audioMode", strictSetting ? "exam" : "training");
   const submitting = useRef(false);
   const ui = SECTION_UI[sectionId];
 
   useFocusMode(phase === "running");
 
   // An interrupted listening simulation cannot be resumed – start over cleanly (checked once, on mount).
+  // After a language switch the attempt is still running in this page (carried phase), so keep it.
   const checkedInterrupted = useRef(false);
   useEffect(() => {
     if (checkedInterrupted.current) return;
     checkedInterrupted.current = true;
-    if (isAudio && useProgress.getState().inProgress[key]) discardAttempt(key);
-  }, [isAudio, discardAttempt, key]);
+    if (isAudio && phase !== "running" && useProgress.getState().inProgress[key]) discardAttempt(key);
+  }, [isAudio, discardAttempt, key, phase]);
 
   const attempt = useProgress((s) => s.inProgress[key]);
 
@@ -143,7 +146,7 @@ function Runner({ examId, sectionId, sectionName, part, set, setNumber, position
       submitting.current = false;
       window.scrollTo({ top: 0, behavior: "smooth" });
     },
-    [answers, examId, finishAttempt, key, part, set, locale],
+    [answers, examId, finishAttempt, key, part, set, locale, setPhase, setResult],
   );
 
   // Resumed attempt whose time ran out while the learner was away.

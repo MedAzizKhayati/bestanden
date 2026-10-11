@@ -18,6 +18,7 @@ import type { SpeakingSet, Turn } from "@/lib/ai/speaking-types";
 import type { GlossaryEntry } from "@/lib/content/schemas";
 import type { PartDefinition, SpeakingRubric } from "@/lib/exams";
 import { useSecondsLeft } from "@/lib/hooks/use-countdown";
+import { useCarriedState } from "@/lib/hooks/use-carried-state";
 import { useFocusMode } from "@/lib/hooks/use-focus-mode";
 import { useHydrated } from "@/lib/store/hydration";
 import { uid, useProgress, type SpeakingFeedback, type SpeakingRecord } from "@/lib/store/progress";
@@ -89,25 +90,28 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
   const r = t.speaking.runner;
   const selfCheck: string[] = t.speaking.selfCheck[part.id as keyof Messages["speaking"]["selfCheck"]] ?? [];
 
-  const [tab, setTab] = useState("practice");
-  const [phase, setPhase] = useState<Phase>("prepare");
-  const [chosenMode, setMode] = useState<Mode>("partner");
+  // Carried: switching the UI language mid-conversation keeps the conversation (see useCarriedState).
+  const [tab, setTab] = useCarriedState("speaking:tab", "practice");
+  const [phase, setPhase] = useCarriedState<Phase>("speaking:phase", "prepare");
+  const [chosenMode, setMode] = useCarriedState<Mode>("speaking:mode", "partner");
   const mode: Mode = aiAvailable === false ? "monologue" : chosenMode;
-  const [prepEndsAt, setPrepEndsAt] = useState<number | null>(null);
-  const [notes, setNotes] = useState("");
-  const [speakStartedAt, setSpeakStartedAt] = useState<number | null>(null);
-  const [turns, setTurns] = useState<Turn[]>([]);
-  const [ended, setEnded] = useState(false);
-  const [feedback, setFeedback] = useState<SpeakingFeedback | null>(null);
+  const [prepEndsAt, setPrepEndsAt] = useCarriedState<number | null>("speaking:prepEndsAt", null);
+  const [notes, setNotes] = useCarriedState("speaking:notes", "");
+  const [speakStartedAt, setSpeakStartedAt] = useCarriedState<number | null>("speaking:startedAt", null);
+  const [turns, setTurns] = useCarriedState<Turn[]>("speaking:turns", []);
+  const [ended, setEnded] = useCarriedState("speaking:ended", false);
+  const [localFeedback, setFeedback] = useCarriedState<SpeakingFeedback | null>("speaking:feedback", null);
   const [fbState, setFbState] = useState<"idle" | "loading" | "error">("idle");
   const [fbError, setFbError] = useState<string | null>(null);
-  const [checked, setChecked] = useState<Record<number, boolean>>({});
-  const [revealB, setRevealB] = useState(false);
-  const [durationSec, setDurationSec] = useState(0);
+  const [checked, setChecked] = useCarriedState<Record<number, boolean>>("speaking:checked", {});
+  const [revealB, setRevealB] = useCarriedState("speaking:revealB", false);
+  const [durationSec, setDurationSec] = useCarriedState("speaking:duration", 0);
   /** The saved record of the attempt shown in the feedback phase (feedback is written back to it). */
-  const [current, setCurrent] = useState<{ id: string; createdAt: number } | null>(null);
+  const [current, setCurrent] = useCarriedState<{ id: string; createdAt: number } | null>("speaking:current", null);
   /** Set when an earlier attempt was reopened: its date. */
-  const [openedAt, setOpenedAt] = useState<number | null>(null);
+  const [openedAt, setOpenedAt] = useCarriedState<number | null>("speaking:openedAt", null);
+  // Feedback that arrived for this attempt while the page was re-rendered in the other language.
+  const feedback = localFeedback ?? history.find((h) => h.id === current?.id)?.feedback ?? null;
 
 
   useFocusMode(phase === "speak");
@@ -125,7 +129,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
     setTurns([]);
     setEnded(false);
     window.scrollTo({ top: 0 });
-  }, []);
+  }, [setEnded, setPhase, setPrepEndsAt, setSpeakStartedAt, setTurns]);
 
   useEffect(() => {
     if (!prepEndsAt) return;
@@ -165,7 +169,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
         setFbError(fallbackError);
       }
     },
-    [aiAvailable, examId, part.id, partner.name, saveSpeaking, set.id, setNumber, locale, fallbackError],
+    [aiAvailable, examId, part.id, partner.name, saveSpeaking, set.id, setNumber, locale, fallbackError, setCurrent, setFeedback],
   );
 
   const finish = useCallback(
@@ -179,7 +183,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
       window.scrollTo({ top: 0, behavior: "smooth" });
       void requestFeedback(allTurns, secs);
     },
-    [requestFeedback, speakStartedAt],
+    [requestFeedback, speakStartedAt, setDurationSec, setEnded, setOpenedAt, setPhase, setRevealB],
   );
 
   const openAttempt = (rec: SpeakingRecord) => {

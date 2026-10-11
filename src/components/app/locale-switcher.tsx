@@ -12,15 +12,20 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { useLocale, useT } from "@/i18n/client";
 import { LOCALES, LOCALE_COOKIE, LOCALE_LABELS, switchLocalePath, type Locale } from "@/i18n/config";
+import { announceLocaleSwitch } from "@/lib/hooks/use-carried-state";
 import { cn } from "@/lib/utils";
 
-/** Remember the choice (the proxy reads it for unprefixed URLs) and open the same page in the other language. */
+/**
+ * Remember the choice (the proxy reads it for unprefixed URLs) and open the same page in the other language,
+ * at the same scroll position and with the page's carried state (see useCarriedState).
+ */
 export function useSwitchLocale() {
   const pathname = usePathname();
   const router = useRouter();
   return (next: Locale) => {
     document.cookie = `${LOCALE_COOKIE}=${next}; path=/; max-age=31536000; samesite=lax`;
-    router.push(`${switchLocalePath(pathname, next)}${window.location.search}${window.location.hash}`);
+    announceLocaleSwitch();
+    router.push(`${switchLocalePath(pathname, next)}${window.location.search}${window.location.hash}`, { scroll: false });
   };
 }
 
