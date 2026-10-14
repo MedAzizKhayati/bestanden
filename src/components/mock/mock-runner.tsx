@@ -1,9 +1,11 @@
 "use client";
 
-import { ArrowRight, BookOpen, Headphones, Loader2, PenLine, Play, ShieldCheck, Trophy, X } from "lucide-react";
+import { ArrowLeft, ArrowRight, BookOpen, History, Headphones, Loader2, PenLine, Play, ShieldCheck, Trophy, X } from "lucide-react";
 import { useLocale, useT } from "@/i18n/client";
+import { formatLongDate, formatShortDate } from "@/i18n/format";
 import Link from "@/i18n/link";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { Suspense, useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import { toast } from "sonner";
 import { CountdownTimer } from "@/components/exam/countdown-timer";
 import { formatPoints, ScoreRing } from "@/components/exam/result-summary";
@@ -59,8 +61,14 @@ export interface MockRunnerProps {
 
 export function MockRunner(props: MockRunnerProps) {
   const hydrated = useHydrated();
-  if (!hydrated) return <Skeleton className="h-[30rem] rounded-2xl" />;
-  return <Runner {...props} />;
+  const loading = <Skeleton className="h-[30rem] rounded-2xl" />;
+  if (!hydrated) return loading;
+  // Runner reads ?result= (useSearchParams), which needs a Suspense boundary on a prerendered page.
+  return (
+    <Suspense fallback={loading}>
+      <Runner {...props} />
+    </Suspense>
+  );
 }
 
 function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerProps) {
@@ -78,8 +86,15 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
   const strictSetting = useSettings((s) => s.strictTimer);
   const finishAttempt = useProgress((s) => s.finishAttempt);
   const saveWriting = useProgress((s) => s.saveWriting);
-  const [resultId, setResultId] = useCarriedState<string | null>("mock:result", null);
+  // A finished exam's result – also opened from the results list (…/modelltest/01?result=<id>).
+  const searchParams = useSearchParams();
+  const [resultId, setResultId] = useCarriedState<string | null>("mock:result", () => searchParams.get("result"));
   const result = results.find((r) => r.id === resultId);
+  const closeResult = () => {
+    setResultId(null);
+    if (new URLSearchParams(window.location.search).has("result")) window.history.replaceState(null, "", window.location.pathname);
+    window.scrollTo({ top: 0 });
+  };
 
   useFocusMode(!!run && run.stage !== "done");
 
@@ -174,7 +189,8 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
   }, [abandon, examId, finishAttempt, listening, locale, mockId, reading, saveResult, saveWriting, setResultId, tr, writingPart]);
 
   /* ---------------- results ---------------- */
-  if (result) return <MockResults result={result} parts={parts} rubric={rubric} examSlug={exam.slug} listHref={listHref} writing={writingPart?.set} />;
+  if (result)
+    return <MockResults result={result} parts={parts} rubric={rubric} examSlug={exam.slug} listHref={listHref} writing={writingPart?.set} onClose={closeResult} />;
 
   /* ---------------- intro ---------------- */
   if (!run) {
@@ -212,6 +228,33 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
             </div>
           </div>
         </div>
+        {previous.length > 0 && (
+          <section className="rounded-2xl border bg-card p-4 sm:p-5">
+            <h2 className="flex items-center gap-2 font-semibold">
+              <History className="size-4 text-gold" /> {tr.intro.previousTitle}
+            </h2>
+            <ul className="mt-3 divide-y">
+              {[...previous].reverse().map((r) => (
+                <li key={r.id} className="flex items-center gap-3 py-2.5 text-sm">
+                  <span className="min-w-0 flex-1">
+                    <span className="font-medium">{formatShortDate(r.finishedAt, locale)}</span>
+                    <span className="text-muted-foreground"> · </span>
+                    <span className="font-medium tabular">
+                      {formatPoints(r.writtenPoints, locale)}/{exam.written.maxPoints}
+                    </span>
+                    <span className={cn(r.writtenPoints >= exam.written.passPoints ? "text-success" : "text-destructive")}>
+                      {" "}
+                      · {r.writtenPoints >= exam.written.passPoints ? tr.list.passedShort : tr.list.failedShort}
+                    </span>
+                  </span>
+                  <Button variant="outline" size="sm" onClick={() => setResultId(r.id)}>
+                    {tr.list.openResult}
+                  </Button>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
       </div>
     );
   }
@@ -585,6 +628,7 @@ function MockResults({
   examSlug,
   listHref,
   writing,
+  onClose,
 }: {
   result: MockResult;
   parts: MockPart[];
@@ -592,6 +636,7 @@ function MockResults({
   examSlug: string;
   listHref: string;
   writing?: WritingSet;
+  onClose: () => void;
 }) {
   const exam = useExam(examSlug);
   const locale = useLocale();
@@ -617,6 +662,12 @@ function MockResults({
 
   return (
     <div className="space-y-6">
+      <div className="flex flex-wrap items-center gap-2">
+        <Button variant="ghost" size="sm" onClick={onClose}>
+          <ArrowLeft /> {tr.back}
+        </Button>
+        <span className="ml-auto text-sm text-muted-foreground">{tr.takenOn(formatLongDate(result.finishedAt, locale))}</span>
+      </div>
       <div className="overflow-hidden rounded-2xl border bg-card">
         <div className="flex flex-col gap-6 p-6 sm:flex-row sm:items-center">
           <ScoreRing percent={pct} size={128}>

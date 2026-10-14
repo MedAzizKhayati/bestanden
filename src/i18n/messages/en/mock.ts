@@ -15,6 +15,11 @@ export const mock = {
     best: (points: number, max: number) => `Best ${points}/${max}`,
     parts: "Lesen · Sprachbausteine · Hören · Schreiben · ~2½ h",
     takeAgain: "Take again",
+    resultsTitle: "Your results",
+    resultsHint: "Every mock exam you finished – open one to see the full breakdown again.",
+    openResult: "Open",
+    passedShort: "passed",
+    failedShort: "below the pass mark",
   },
   intro: {
     text: "The complete written exam, in the real order and with the real time limits. Plan about 2½ hours in a quiet place.",
@@ -25,6 +30,7 @@ export const mock = {
     strictOff: "Strict timing is off in your settings – sections will not end automatically. Turn it on for a realistic simulation.",
     start: "Start the written exam",
     taken: (times: number, best: string, max: number) => `Taken ${times}× · best ${best}/${max}`,
+    previousTitle: "Your previous results",
   },
   allMocks: "All mock exams",
   header: {
@@ -74,5 +80,7 @@ export const mock = {
     empty: "(empty)",
     model: "Model answer",
     reviewMistakes: "Review your mistakes",
+    takenOn: (date: string) => `Taken on ${date}`,
+    back: "Back to the mock exam",
   },
 };

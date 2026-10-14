@@ -16,6 +16,11 @@ export const mock: Messages["mock"] = {
     best: (points, max) => `Bestwert ${points}/${max}`,
     parts: "Lesen · Sprachbausteine · Hören · Schreiben · ca. 2½ Std.",
     takeAgain: "Nochmal machen",
+    resultsTitle: "Deine Ergebnisse",
+    resultsHint: "Alle Modelltests, die du abgeschlossen hast – öffne einen, um die ganze Auswertung noch einmal zu sehen.",
+    openResult: "Öffnen",
+    passedShort: "bestanden",
+    failedShort: "unter der Bestehensgrenze",
   },
   intro: {
     text: "Die ganze schriftliche Prüfung – in der echten Reihenfolge und mit den echten Zeiten. Plane ca. 2½ Stunden an einem ruhigen Ort ein.",
@@ -26,6 +31,7 @@ export const mock: Messages["mock"] = {
     strictOff: "Das strenge Zeitlimit ist in deinen Einstellungen aus – die Abschnitte enden nicht automatisch. Schalte es für eine echte Prüfungssimulation ein.",
     start: "Schriftliche Prüfung starten",
     taken: (times, best, max) => `${times}× gemacht · Bestwert ${best}/${max}`,
+    previousTitle: "Deine bisherigen Ergebnisse",
   },
   allMocks: "Alle Modelltests",
   header: {
@@ -75,5 +81,7 @@ export const mock: Messages["mock"] = {
     empty: "(leer)",
     model: "Musterlösung",
     reviewMistakes: "Deine Fehler wiederholen",
+    takenOn: (date) => `Abgelegt am ${date}`,
+    back: "Zurück zum Modelltest",
   },
 };

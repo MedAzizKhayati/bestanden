@@ -41,7 +41,7 @@ export default async function MockListPage(props: PageProps<"/[locale]/[exam]/mo
         description={t.mock.page.description}
       />
       <div className="mt-8">
-        <MockList mocks={mocks} />
+        <MockList mocks={mocks} written={{ maxPoints: exam.written.maxPoints, passPoints: exam.written.passPoints }} />
       </div>
       {listOfficialTests(exam.id).length > 0 && (
         <Link
