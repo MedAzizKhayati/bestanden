@@ -4,6 +4,7 @@ import { Headphones, Play, RotateCcw, Square } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { Switch } from "@/components/ui/switch";
 import { useT } from "@/i18n/client";
 import type { AudioLongSet, AudioShortSet } from "@/lib/content/schemas";
 import { narratorLines, withNarrator } from "@/lib/audio/narrator";
@@ -252,13 +253,16 @@ export function AudioLongPlayer({ set, part, answers, onAnswer, review, mode, st
   const [resumeAt, setResumeAt] = useState<number | null>(null);
   const [rate, setRate] = useState(1);
   const training = mode === "training" && !review;
+  // The real exam never shows which statement the conversation has reached – finding it is part of the task.
+  // Only training offers it, on request.
+  const [followAlong, setFollowAlong] = useState(false);
 
   // Rough position of each statement in the recording, to highlight the current one during playback.
   const evidenceLine = useMemo(
     () => set.statements.map((st) => set.script.findIndex((l) => findQuote(l.t, st.evidence) !== null)),
     [set],
   );
-  const currentLine = mode === "exam" ? (seq.step?.kind === "play" ? seq.lineIndex : -1) : pb.playing === "conv" ? pb.lineIndex : -1;
+  const currentLine = training && followAlong && pb.playing === "conv" ? pb.lineIndex : -1;
   const currentStatement =
     currentLine >= 0 ? set.statements.find((_, i) => evidenceLine[i] >= currentLine)?.n : undefined;
 
@@ -304,7 +308,13 @@ export function AudioLongPlayer({ set, part, answers, onAnswer, review, mode, st
             <span className="text-xs text-muted-foreground">{a.playsLeft(Math.max(0, audio.plays - playsUsed), audio.plays)}</span>
             {pb.playing === "conv" && <SoundBars active className="text-hoeren" />}
           </div>
-          <SpeedToggle value={rate} onChange={setRate} />
+          <div className="flex flex-wrap items-center gap-3">
+            <label className="flex items-center gap-2 text-xs text-muted-foreground">
+              <Switch checked={followAlong} onCheckedChange={setFollowAlong} />
+              {a.followAlong}
+            </label>
+            <SpeedToggle value={rate} onChange={setRate} />
+          </div>
         </div>
       )}
 

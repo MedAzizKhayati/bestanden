@@ -121,6 +121,7 @@ export const runner: Messages["runner"] = {
     playAgain: "Nochmal abspielen",
     playConversation: "Gespräch abspielen",
     playsLeft: (left, total) => `noch ${left} von ${total} Wiedergaben`,
+    followAlong: "Aktuelle Aussage markieren (nicht in der echten Prüfung)",
     transcript: "Transkript",
     playAll: "Alles abspielen",
     soundCheck: "Tonprobe",

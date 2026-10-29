@@ -131,6 +131,7 @@ export const runner = {
     playAgain: "Play again",
     playConversation: "Play conversation",
     playsLeft: (left: number, total: number) => `${left} of ${total} plays left`,
+    followAlong: "Highlight the current statement (not in the real exam)",
     transcript: "Transcript",
     playAll: "Play all",
     transcriptTip: "Listening again with the transcript is one of the fastest ways to improve.",
