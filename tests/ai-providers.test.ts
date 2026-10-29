@@ -156,6 +156,14 @@ describe.each(configs)("$provider", (config) => {
     // The partner speaks first → the conversation opens with the examiner's instruction.
     expect(JSON.stringify(seen[0].body)).toContain("Die Prüferin");
   });
+
+  test("the partner's question left open when the time runs out is not assessed", async () => {
+    const { assessedTurns } = await import("@/lib/ai/speaking");
+    const user = { role: "user" as const, text: "Ich finde das gut." };
+    const partner = { role: "partner" as const, text: "Und warum?" };
+    expect(assessedTurns([partner, user, partner])).toEqual([partner, user]);
+    expect(assessedTurns([user, partner, user])).toEqual([user, partner, user]);
+  });
 });
 
 describe("configuration", () => {

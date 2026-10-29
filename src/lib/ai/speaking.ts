@@ -125,9 +125,21 @@ Criteria (each A, B, C or D):
 3. Formale Richtigkeit (accuracy: syntax and morphology). A no or only isolated errors · B errors that do not impair understanding · C errors in key places that seriously impair understanding · D so many errors that communication breaks down.
 Pronunciation (criterion 4) cannot be judged from a transcript – do not assess it.
 
-Speech recognition omits punctuation and may mishear words: do not penalise missing punctuation, capitalisation or plausible recognition errors; judge what the candidate evidently meant to say. Only the candidate's turns are assessed; the partner's turns are context.
+Calibration: B1 is an intermediate level. In the CEFR's words, errors occur, but it is clear what the speaker is trying to express. Candidates who get a B still make frequent errors in endings, articles, gender, cases, auxiliaries and word order. Choose the grade whose descriptor matches what you observe: if you can follow what the candidate means in most turns, the errors do not impair understanding – that is B, not C. C is for errors in key places that make you lose the meaning of several statements. Likewise, "appropriate on the whole" (B) does not require precise or varied vocabulary.
+
+Speech recognition omits punctuation and may mishear words: do not penalise missing punctuation, capitalisation or plausible recognition errors; judge what the candidate evidently meant to say. An unpunctuated transcript with hesitations reads far worse than the speech sounded. Self-corrections are a compensation strategy, not errors. Only the candidate's turns are assessed; the partner's turns are context. The transcript ends where the part was ended (time up or stopped by the candidate), as the examiner ends it in the exam: a topic left open at the end is not a fault.
 
 Corrections and suggested phrases are always German.`;
+
+/**
+ * The turns that are assessed. The partner usually ends with a question, so when the time runs out the
+ * transcript ends with one the candidate never got to answer – drop it, it would only read as a missed reply.
+ */
+export function assessedTurns(turns: Turn[]): Turn[] {
+  let end = turns.length;
+  while (end > 0 && turns[end - 1].role === "partner") end--;
+  return turns.slice(0, end);
+}
 
 export async function assessSpeaking(
   config: AiConfig,
@@ -149,7 +161,9 @@ export async function assessSpeaking(
         ? `Teil 2 – Über ein Thema sprechen: „${set.theme}“. The candidate had to report the opinion of ${set.cardA.name} („${set.cardA.quote}“), then discuss, give their own opinion and experiences.`
         : `Teil 3 – Gemeinsam etwas planen: ${set.situation} Checklist: ${set.checklist.join(", ")}.`;
 
-  const transcript = turns.map((t) => `${t.role === "user" ? "CANDIDATE" : "PARTNER"}: ${t.text}`).join("\n");
+  const transcript = assessedTurns(turns)
+    .map((t) => `${t.role === "user" ? "CANDIDATE" : "PARTNER"}: ${t.text}`)
+    .join("\n");
   const prompt = `${task}
 Duration: about ${Math.max(1, Math.round(durationSec / 60))} minute(s) (real exam: about ${part.minutes} minutes).
 
