@@ -43,6 +43,12 @@ describe("browser voices", () => {
     expect(map.get("B")!.voice!.name).toBe("Anna");
   });
 
+  test("a man speaking on his own (the live exam partner) borrows the best voice", () => {
+    const map = assignVoices([{ id: "B", gender: "m" }], MAC_CHROME, { female: "Google Deutsch" });
+    expect(map.get("B")!.voice!.name).toBe("Google Deutsch");
+    expect(map.get("B")!.pitch).toBeLessThan(0.8);
+  });
+
   test("real male voices are used when the device has them", () => {
     const map = assignVoices([{ id: "B", gender: "m" }], [...MAC_CHROME, voice("Yannick (Premium)")]);
     expect(map.get("B")!.voice!.name).toBe("Yannick (Premium)");

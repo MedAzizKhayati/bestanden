@@ -133,8 +133,9 @@ export function assignVoices(speakers: VoiceSpeaker[], voices: SpeechSynthesisVo
   const map = new Map<string, Assignment>();
   const baseRate = prefs.rate ?? 1;
   for (const sp of speakers) {
+    const otherGender = sp.gender === "f" ? "m" : "f";
     const own = byGender[sp.gender];
-    const other = byGender[sp.gender === "f" ? "m" : "f"];
+    const other = byGender[otherGender];
     const n = used[sp.gender]++;
     let voice: SpeechSynthesisVoice | undefined;
     let pitch = 1;
@@ -143,8 +144,10 @@ export function assignVoices(speakers: VoiceSpeaker[], voices: SpeechSynthesisVo
       // The same voice for a second speaker: shift the pitch so they stay distinguishable.
       if (n >= own.length) pitch = n % 2 ? 0.9 : 1.1;
     } else {
-      // Borrow: prefer a voice the other gender's main speaker doesn't use, so timbres differ.
-      const pool = [...other.slice(1), ...other.slice(0, 1), ...unknown];
+      // Borrow. Next to a speaker of the other gender, skip their main voice so the timbres differ;
+      // without one (the live exam partner, a single word) there is nothing to tell apart: take the best voice.
+      const shared = speakers.some((s) => s.gender === otherGender);
+      const pool = shared ? [...other.slice(1), ...other.slice(0, 1), ...unknown] : [...other, ...unknown];
       voice = pool.length ? pool[n % pool.length] : undefined;
       pitch = sp.gender === "m" ? 0.74 - (n % 2) * 0.06 : 1.22 + (n % 2) * 0.06;
     }
