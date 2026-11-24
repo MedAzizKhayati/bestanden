@@ -1,0 +1,626 @@
+{
+  "examId": "telc-b2",
+  "version": 1,
+  "minutes": 25,
+  "sections": [
+    {
+      "skill": "grammatik",
+      "items": [
+        {
+          "id": "b2-g-01",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Nachdem Lena ihr Studium in Leipzig ___ hatte, fand sie schnell eine Stelle in Hamburg.",
+          "options": ["abschließen", "abschloss", "abgeschlossen"],
+          "answer": 2,
+          "explanation": "„hatte“ + participle II forms the Plusquamperfekt, which shows that finishing her degree happened before „fand“: „abgeschlossen hatte“. „abschloss“ is already Präteritum and cannot be combined with „hatte“.",
+          "explanationDe": "„hatte“ + Partizip II ist das Plusquamperfekt. Es zeigt, dass das Studium vor „fand“ zu Ende war: „abgeschlossen hatte“. „abschloss“ ist schon Präteritum und passt nicht zu „hatte“.",
+          "grammar": "plusquamperfekt"
+        },
+        {
+          "id": "b2-g-02",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Für unsere Familie suchen wir eine Wohnung mit ___ Balkon und drei Zimmern.",
+          "options": ["großen", "großem", "großer", "großes"],
+          "answer": 1,
+          "explanation": "„mit“ takes the dative, and „der Balkon“ is masculine. Without an article the adjective itself shows the case, so it takes the strong ending „-em“: „mit großem Balkon“. „großen“ would only be right after an article („mit einem großen Balkon“).",
+          "explanationDe": "„mit“ steht mit Dativ, und „der Balkon“ ist maskulin. Ohne Artikel zeigt das Adjektiv selbst den Kasus und bekommt die starke Endung „-em“: „mit großem Balkon“. „großen“ wäre nur mit Artikel richtig („mit einem großen Balkon“).",
+          "grammar": "adjektivdeklination"
+        },
+        {
+          "id": "b2-g-03",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Ich warte schon seit drei Wochen ___, dass sich die Versicherung bei mir meldet.",
+          "options": ["dafür", "daran", "damit", "darauf"],
+          "answer": 3,
+          "explanation": "The verb is „warten auf“. When the thing you are waiting for is a whole clause („dass sich die Versicherung … meldet“), „auf“ becomes „darauf“. „dafür“, „daran“ and „damit“ belong to other verbs („sorgen für“, „denken an“, „rechnen mit“).",
+          "explanationDe": "Das Verb heißt „warten auf“. Wenn danach ein ganzer Satz folgt („dass sich die Versicherung … meldet“), wird aus „auf“ das Wort „darauf“. „dafür“, „daran“ und „damit“ gehören zu anderen Verben („sorgen für“, „denken an“, „rechnen mit“).",
+          "grammar": "verben-mit-praepositionen"
+        },
+        {
+          "id": "b2-g-04",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Die Kollegin, ___ ich gestern meine Unterlagen gegeben habe, ist heute leider krank.",
+          "options": ["der", "die", "deren", "den"],
+          "answer": 0,
+          "explanation": "In the relative clause the colleague receives something („jemandem etwas geben“), so you need the dative. The feminine dative relative pronoun is „der“. „die“ would be nominative or accusative, and „deren“ means „whose“.",
+          "explanationDe": "Im Relativsatz bekommt die Kollegin etwas („jemandem etwas geben“) – du brauchst also den Dativ. Das Relativpronomen im Dativ feminin heißt „der“. „die“ wäre Nominativ oder Akkusativ, und „deren“ zeigt einen Besitz.",
+          "grammar": "relativsaetze"
+        },
+        {
+          "id": "b2-g-05",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Die Ministerin erklärte, sie ___ von den Plänen bereits vor einer Woche aus der Zeitung erfahren.",
+          "options": ["sei", "werde", "hätten", "habe"],
+          "answer": 3,
+          "explanation": "Reported speech in the news uses Konjunktiv I. „erfahren“ forms its perfect with „haben“, and „bereits vor einer Woche“ refers to the past, so: „sie habe … erfahren“. „sei“ is the wrong auxiliary, „werde“ would point to the future, and „hätten“ does not agree with the singular „sie“.",
+          "explanationDe": "In der indirekten Rede, z. B. in Nachrichten, steht der Konjunktiv I. „erfahren“ bildet das Perfekt mit „haben“, und „bereits vor einer Woche“ zeigt die Vergangenheit – also „sie habe … erfahren“. „sei“ ist das falsche Hilfsverb, „werde“ würde auf die Zukunft zeigen, und „hätten“ passt nicht zum Singular „sie“.",
+          "grammar": "konjunktiv-1"
+        },
+        {
+          "id": "b2-g-06",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Die neuen Sicherheitsregeln sind ab sofort von allen Beschäftigten ___.",
+          "options": ["einzuhalten", "einhaltend", "einhalten", "eingehaltene"],
+          "answer": 0,
+          "explanation": "„sein“ + „zu“ + infinitive replaces a passive with „müssen“: „sind … einzuhalten“ = „müssen … eingehalten werden“. With a separable verb, „zu“ goes between the prefix and the stem. None of the other forms can be combined with „sind“ here.",
+          "explanationDe": "„sein“ + „zu“ + Infinitiv ersetzt ein Passiv mit „müssen“: „sind … einzuhalten“ = „müssen … eingehalten werden“. Bei trennbaren Verben steht „zu“ zwischen Vorsilbe und Verb. Die anderen Formen passen hier nicht zu „sind“.",
+          "grammar": "passiversatz"
+        },
+        {
+          "id": "b2-g-07",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Die Autorin, ___ neuer Roman gerade verfilmt wird, lebt seit Jahren in Graz.",
+          "options": ["dessen", "deren", "derer", "ihr"],
+          "answer": 1,
+          "explanation": "The novel belongs to the author, so you need the possessive relative pronoun. It agrees with the owner („die Autorin“, feminine), not with „Roman“: „deren neuer Roman“. „dessen“ would refer to a masculine or neuter owner.",
+          "explanationDe": "Der Roman gehört der Autorin – du brauchst also ein Relativpronomen, das Besitz zeigt. Es richtet sich nach der Person („die Autorin“, feminin), nicht nach „Roman“: „deren neuer Roman“. „dessen“ würde sich auf ein maskulines oder neutrales Nomen beziehen.",
+          "grammar": "relativsaetze-b2"
+        },
+        {
+          "id": "b2-g-08",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Man kann viel Energie sparen, ___ man die Heizung nachts herunterdreht.",
+          "options": ["damit", "sodass", "indem", "dadurch"],
+          "answer": 2,
+          "explanation": "„indem“ says how something is achieved: you save energy by turning down the heating. „damit“ would express a purpose and „sodass“ a result, which makes no sense here, and „dadurch“ only works as „dadurch, dass“.",
+          "explanationDe": "„indem“ sagt, wie man etwas erreicht: Man spart Energie, und zwar durch das Herunterdrehen der Heizung. „damit“ nennt ein Ziel und „sodass“ eine Folge – beides ergibt hier keinen Sinn. „dadurch“ funktioniert nur als „dadurch, dass“.",
+          "grammar": "modalsaetze"
+        },
+        {
+          "id": "b2-g-09",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Angesichts ___ Preise verzichten viele Familien in diesem Jahr auf eine Urlaubsreise.",
+          "options": ["der steigenden", "die steigenden", "den steigenden", "steigende"],
+          "answer": 0,
+          "explanation": "„angesichts“ takes the genitive. The genitive plural article is „der“, and after it the adjective ends in „-en“: „angesichts der steigenden Preise“. „den steigenden“ is dative plural, and „steigende“ is nominative or accusative.",
+          "explanationDe": "Nach „angesichts“ steht der Genitiv. Im Genitiv Plural heißt der Artikel „der“, und das Adjektiv endet danach auf „-en“: „angesichts der steigenden Preise“. „den steigenden“ ist Dativ Plural, und „steigende“ ist Nominativ oder Akkusativ.",
+          "grammar": "praepositionen-mit-genitiv"
+        },
+        {
+          "id": "b2-g-10",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Bei einem Vorstellungsgespräch kommt es vor allem ___ an, wie überzeugend du dich präsentierst.",
+          "options": ["daran", "dazu", "darauf", "davon"],
+          "answer": 2,
+          "explanation": "The fixed expression is „es kommt auf etwas an“ (what matters is …). When a clause follows, „auf“ becomes the placeholder „darauf“, which points to the „wie“ clause. „daran“ and „davon“ belong to other verbs, e.g. „liegen an“ and „abhängen von“.",
+          "explanationDe": "Die feste Verbindung heißt „es kommt auf etwas an“. Folgt ein Nebensatz, wird aus „auf“ der Platzhalter „darauf“, der auf den „wie“-Satz zeigt. „daran“ und „davon“ gehören zu anderen Verben, z. B. „liegen an“ und „abhängen von“.",
+          "grammar": "korrelate"
+        },
+        {
+          "id": "b2-g-11",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Mein Nachbar grüßte mich nicht und tat so, als ___ mich nie gesehen.",
+          "options": ["er hätte", "hätte er", "ob er hätte", "wenn er"],
+          "answer": 1,
+          "explanation": "In an unreal comparison with „als“ alone, the conjugated verb follows „als“ directly: „als hätte er mich nie gesehen“. With „als ob“ or „als wenn“ the verb would have to go to the end („als ob er mich nie gesehen hätte“).",
+          "explanationDe": "Bei einem irrealen Vergleich mit „als“ allein steht das konjugierte Verb direkt nach „als“: „als hätte er mich nie gesehen“. Mit „als ob“ oder „als wenn“ müsste das Verb am Ende stehen („als ob er mich nie gesehen hätte“).",
+          "grammar": "irreale-vergleichssaetze"
+        },
+        {
+          "id": "b2-g-12",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "___ Sie an diesem Tag verhindert sein, sagen Sie bitte rechtzeitig ab.",
+          "options": ["Sollten", "Falls", "Wenn", "Sofern"],
+          "answer": 0,
+          "explanation": "The clause ends with the infinitive „sein“, so it needs a modal verb at the start: „Sollten Sie … verhindert sein“ is a conditional clause without „wenn“ (verb first). After „Falls“, „Wenn“ and „Sofern“ the conjugated verb would have to stand at the end („falls Sie … verhindert sind“).",
+          "explanationDe": "Am Ende steht der Infinitiv „sein“ – am Anfang fehlt also ein Modalverb: „Sollten Sie … verhindert sein“ ist ein Bedingungssatz ohne „wenn“ mit dem Verb am Anfang. Nach „Falls“, „Wenn“ und „Sofern“ müsste das konjugierte Verb am Ende stehen („falls Sie … verhindert sind“).",
+          "grammar": "konditionalsaetze"
+        },
+        {
+          "id": "b2-g-13",
+          "level": "C1",
+          "type": "mc",
+          "prompt": "Die Anleitung war ___ kompliziert, als dass man sie ohne Hilfe hätte verstehen können.",
+          "options": ["so", "sehr", "genug", "zu"],
+          "answer": 3,
+          "explanation": "„zu“ + adjective … „als dass“ means that a result is impossible because something is too extreme: the instructions were too complicated to be understood without help. „so“ goes with a plain „dass“ clause (without „als“), and the „als dass“ clause usually takes Konjunktiv II („hätte … verstehen können“).",
+          "explanationDe": "„zu“ + Adjektiv … „als dass“ bedeutet: Etwas ist so extrem, dass eine Folge nicht möglich ist – die Anleitung war zu kompliziert, um sie ohne Hilfe zu verstehen. „so“ passt nur zu „dass“ ohne „als“. Im „als dass“-Satz steht meistens der Konjunktiv II („hätte … verstehen können“).",
+          "grammar": "konsekutivsaetze-b2"
+        },
+        {
+          "id": "b2-g-14",
+          "level": "C1",
+          "type": "mc",
+          "prompt": "Die Brücke hätte schon vor Jahren saniert ___ müssen.",
+          "options": ["worden", "werden", "geworden", "wird"],
+          "answer": 1,
+          "explanation": "This is the Konjunktiv II past of a passive with a modal verb: „hätte“ + participle + „werden“ + modal infinitive, so „hätte … saniert werden müssen“. „worden“ is only used in the perfect passive without a modal verb („ist saniert worden“).",
+          "explanationDe": "Das ist der Konjunktiv II der Vergangenheit im Passiv mit Modalverb: „hätte“ + Partizip II + „werden“ + Modalverb im Infinitiv, also „hätte … saniert werden müssen“. „worden“ steht nur im Perfekt Passiv ohne Modalverb („ist saniert worden“).",
+          "grammar": "passiv-b2"
+        },
+        {
+          "id": "b2-g-15",
+          "level": "C1",
+          "type": "mc",
+          "prompt": "Das kaum noch zu ___ Verkehrsaufkommen in der Innenstadt beschäftigt seit Monaten den Stadtrat.",
+          "options": ["bewältigen", "bewältigt", "bewältigenden", "bewältigende"],
+          "answer": 3,
+          "explanation": "„zu“ + present participle used as an attribute means „that can (hardly) be managed“: „das kaum noch zu bewältigende Verkehrsaufkommen“. After „das“ (nominative neuter singular) the ending is „-e“, not „-en“, and an attribute before a noun always needs an ending.",
+          "explanationDe": "„zu“ + Partizip I als Attribut bedeutet: etwas, das man (kaum noch) bewältigen kann. Nach „das“ (Nominativ, neutral, Singular) endet es auf „-e“, nicht auf „-en“: „das kaum noch zu bewältigende Verkehrsaufkommen“. Vor einem Nomen braucht das Attribut immer eine Endung.",
+          "grammar": "partizipialattribute"
+        },
+        {
+          "id": "b2-g-16",
+          "level": "C1",
+          "type": "mc",
+          "prompt": "Mir ist erst jetzt klar, dass ich dich viel früher ___.",
+          "options": ["anrufen sollen hätte", "hätte anrufen gesollt", "hätte anrufen sollen", "anrufen gesollt hätte"],
+          "answer": 2,
+          "explanation": "With two infinitives at the end („anrufen sollen“), the conjugated verb of a subordinate clause does not go last but before them: „dass ich dich … hätte anrufen sollen“. „gesollt“ is only used when „sollen“ has no other verb.",
+          "explanationDe": "Bei zwei Infinitiven am Ende („anrufen sollen“) steht das konjugierte Verb im Nebensatz nicht ganz am Ende, sondern vor den beiden Infinitiven: „dass ich dich … hätte anrufen sollen“. „gesollt“ benutzt man nur, wenn „sollen“ ohne anderes Verb steht.",
+          "grammar": "konjunktiv-2-vergangenheit"
+        }
+      ]
+    },
+    {
+      "skill": "wortschatz",
+      "items": [
+        {
+          "id": "b2-w-01",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Die Miete wird jeden Monat automatisch von meinem Konto ___.",
+          "options": ["abgeholt", "abgebucht", "ausgegeben", "abgegeben"],
+          "answer": 1,
+          "explanation": "„abbuchen“ is the word for money that is taken from your account automatically, e.g. by a standing order or direct debit. „ausgeben“ means to spend money yourself, and „abholen“ and „abgeben“ are used for things you collect or hand in.",
+          "explanationDe": "„abbuchen“ bedeutet: Geld wird automatisch von deinem Konto genommen, z. B. per Dauerauftrag oder Lastschrift. „ausgeben“ heißt, dass du selbst Geld für etwas bezahlst, und „abholen“ oder „abgeben“ sagt man bei Dingen, die man holt oder bringt."
+        },
+        {
+          "id": "b2-w-02",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Nach einem Umzug muss man sich innerhalb von zwei Wochen beim Bürgeramt ___.",
+          "options": ["einschreiben", "bewerben", "anmelden", "vorstellen"],
+          "answer": 2,
+          "explanation": "After moving house you have to register your new address: „sich (beim Bürgeramt) anmelden“. „sich einschreiben“ is used for universities or courses, „sich bewerben“ for jobs, and „sich vorstellen“ means to introduce yourself.",
+          "explanationDe": "Nach einem Umzug musst du deine neue Adresse melden: „sich (beim Bürgeramt) anmelden“. „sich einschreiben“ sagt man bei der Uni oder bei Kursen, „sich bewerben“ bei einer Stelle, und „sich vorstellen“ heißt, dass du sagst, wer du bist."
+        },
+        {
+          "id": "b2-w-03",
+          "level": "B1",
+          "type": "mc",
+          "prompt": "Wenn Sie Fragen zu Ihrem Vertrag haben, können Sie sich jederzeit ___ unser Kundenteam wenden.",
+          "options": ["an", "zu", "bei", "für"],
+          "answer": 0,
+          "explanation": "„sich an jemanden wenden“ (+ accusative) means to contact someone with a question or a problem: „an unser Kundenteam“. „bei“ goes with „sich melden“ or „sich beschweren“, not with „wenden“, and „zu“ would need the dative.",
+          "explanationDe": "„sich an jemanden wenden“ (+ Akkusativ) bedeutet: jemanden mit einer Frage oder einem Problem kontaktieren – „an unser Kundenteam“. „bei“ passt zu „sich melden“ oder „sich beschweren“, aber nicht zu „wenden“, und „zu“ bräuchte den Dativ.",
+          "grammar": "verben-mit-praepositionen"
+        },
+        {
+          "id": "b2-w-04",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Die neue Regelung für Pfandflaschen tritt am ersten Januar in ___.",
+          "options": ["Betrieb", "Ordnung", "Kraft", "Gang"],
+          "answer": 2,
+          "explanation": "Laws and rules „treten in Kraft“ (come into force). „in Betrieb“ goes with „gehen“ or „nehmen“ (machines, buildings), „in Gang“ with „kommen“ or „setzen“, and „in Ordnung“ with „sein“ or „bringen“.",
+          "explanationDe": "Gesetze und Regeln „treten in Kraft“ – ab dann gelten sie. „in Betrieb“ passt zu „gehen“ oder „nehmen“ (Maschinen, Gebäude), „in Gang“ zu „kommen“ oder „setzen“, und „in Ordnung“ zu „sein“ oder „bringen“.",
+          "grammar": "nomen-verb-verbindungen-b2"
+        },
+        {
+          "id": "b2-w-05",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Bei der Planung des neuen Spielplatzes sollte die Stadt auch die Wünsche der Anwohner in Betracht ___.",
+          "options": ["ziehen", "nehmen", "stellen", "kommen"],
+          "answer": 0,
+          "explanation": "„etwas in Betracht ziehen“ means to take something into consideration. „in Betracht kommen“ also exists, but it means „to be an option“ and cannot take an object; „nehmen“ and „stellen“ do not go with „Betracht“.",
+          "explanationDe": "„etwas in Betracht ziehen“ bedeutet: etwas berücksichtigen. „in Betracht kommen“ gibt es auch, es heißt aber „möglich sein“ und hat kein Akkusativobjekt; „nehmen“ und „stellen“ passen nicht zu „Betracht“.",
+          "grammar": "nomen-verb-verbindungen-b2"
+        },
+        {
+          "id": "b2-w-06",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Viele Pflegekräfte leiden ___ dem ständigen Zeitdruck in ihrem Beruf.",
+          "options": ["an", "von", "über", "unter"],
+          "answer": 3,
+          "explanation": "„leiden unter“ is used for difficult conditions or situations such as stress or pressure. „leiden an“ is used for illnesses („an Migräne leiden“), so it does not fit „Zeitdruck“.",
+          "explanationDe": "„leiden unter“ benutzt du bei schwierigen Bedingungen oder Situationen wie Stress oder Druck. „leiden an“ sagt man bei Krankheiten („an Migräne leiden“) – das passt nicht zu „Zeitdruck“.",
+          "grammar": "verben-mit-praepositionen-b2"
+        },
+        {
+          "id": "b2-w-07",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Hiermit ___ ich meinen Vertrag fristgerecht zum 31. Dezember.",
+          "options": ["storniere", "kündige", "entlasse", "verlasse"],
+          "answer": 1,
+          "explanation": "In formal letters you end a contract with „kündigen“: „Hiermit kündige ich meinen Vertrag fristgerecht …“. „stornieren“ is used for bookings or orders, „entlassen“ means to dismiss an employee, and you „verlassen“ a place or a person.",
+          "explanationDe": "In formellen Briefen beendest du einen Vertrag mit „kündigen“: „Hiermit kündige ich meinen Vertrag fristgerecht …“. „stornieren“ benutzt man bei Buchungen oder Bestellungen, „entlassen“ heißt, dass eine Firma einem Mitarbeiter kündigt, und „verlassen“ kann man einen Ort oder eine Person."
+        },
+        {
+          "id": "b2-w-08",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "Mit dem neuen Werk will das Unternehmen in der Region rund 300 Arbeitsplätze ___.",
+          "options": ["schaffen", "erschaffen", "schöpfen", "bauen"],
+          "answer": 0,
+          "explanation": "„Arbeitsplätze schaffen“ (to create jobs) is a fixed collocation; here „schaffen“ is the strong verb (schuf – geschaffen). „erschaffen“ is used for creating a world or a work of art, „schöpfen“ goes with words like „Hoffnung“ or „Wasser“, and jobs are „aufgebaut“ or „abgebaut“, but not „gebaut“.",
+          "explanationDe": "„Arbeitsplätze schaffen“ ist eine feste Verbindung; „schaffen“ ist hier ein starkes Verb (schuf – geschaffen). „erschaffen“ sagt man z. B. bei einer Welt oder einem Kunstwerk, „schöpfen“ passt zu Wörtern wie „Hoffnung“ oder „Wasser“, und Arbeitsplätze werden „aufgebaut“ oder „abgebaut“, aber nicht „gebaut“."
+        },
+        {
+          "id": "b2-w-09",
+          "level": "B2",
+          "type": "mc",
+          "prompt": "In einem Bericht an die Geschäftsleitung schreibt man: „Das Pilotprojekt ist leider ___.“",
+          "options": ["schiefgegangen", "in die Hose gegangen", "gescheitert", "den Bach runtergegangen"],
+          "answer": 2,
+          "explanation": "All four mean „failed“, but only „gescheitert“ is neutral and suitable for a formal report. „schiefgegangen“ is colloquial, and „in die Hose gegangen“ and „den Bach runtergegangen“ are very informal.",
+          "explanationDe": "Alle vier bedeuten „hat nicht funktioniert“, aber nur „gescheitert“ ist neutral und passt in einen formellen Bericht. „schiefgegangen“ ist umgangssprachlich, „in die Hose gegangen“ und „den Bach runtergegangen“ sind sehr salopp."
+        },
+        {
+          "id": "b2-w-10",
+          "level": "C1",
+          "type": "mc",
+          "prompt": "Mit dem neuen Gesetz will die Regierung dem Missbrauch von Fördergeldern einen Riegel ___.",
+          "options": ["vorstellen", "vorschieben", "vorhalten", "vorsetzen"],
+          "answer": 1,
+          "explanation": "„einer Sache einen Riegel vorschieben“ is an idiom meaning to put a stop to something (literally: to slide a bolt across a door). The other verbs do not go with „Riegel“; „jemandem etwas vorhalten“ means to reproach someone.",
+          "explanationDe": "„einer Sache einen Riegel vorschieben“ ist eine Redewendung und bedeutet: etwas stoppen, verhindern (wörtlich: einen Riegel vor die Tür schieben). Die anderen Verben passen nicht zu „Riegel“; „jemandem etwas vorhalten“ heißt, jemandem einen Vorwurf machen."
+        },
+        {
+          "id": "b2-w-11",
+          "level": "C1",
+          "type": "mc",
+          "prompt": "Die Ergebnisse der Studie haben in der Fachwelt großes Aufsehen ___.",
+          "options": ["erhalten", "erhoben", "erteilt", "erregt"],
+          "answer": 3,
+          "explanation": "„Aufsehen erregen“ (to cause a stir) is a fixed collocation. „erwecken“ goes with „Eindruck“ („den Eindruck erwecken“), „erheben“ with „Vorwürfe“ or „Einspruch“, and „erteilen“ with „Auskunft“ or „Erlaubnis“.",
+          "explanationDe": "„Aufsehen erregen“ ist eine feste Verbindung. „erwecken“ passt zu „Eindruck“ („den Eindruck erwecken“), „erheben“ zu „Vorwürfe“ oder „Einspruch“, und „erteilen“ zu „Auskunft“ oder „Erlaubnis“.",
+          "grammar": "nomen-verb-verbindungen-b2"
+        },
+        {
+          "id": "b2-w-12",
+          "level": "C1",
+          "type": "mc",
+          "prompt": "Bei der Rettung des alten Stadttheaters haben Stadtverwaltung und Bürgerinitiative endlich an einem Strang ___.",
+          "options": ["gehalten", "gespannt", "gezerrt", "gezogen"],
+          "answer": 3,
+          "explanation": "„an einem Strang ziehen“ (literally: to pull on the same rope) means to work together towards the same goal. The other verbs do not form an idiom with „Strang“.",
+          "explanationDe": "„an einem Strang ziehen“ bedeutet: gemeinsam auf dasselbe Ziel hinarbeiten. Die anderen Verben bilden mit „Strang“ keine Redewendung."
+        }
+      ]
+    },
+    {
+      "skill": "lesen",
+      "texts": [
+        {
+          "id": "b2-l-aufzug",
+          "level": "B1",
+          "title": "Information für alle Mieterinnen und Mieter",
+          "paragraphs": [
+            "Sehr geehrte Mieterinnen und Mieter,",
+            "vom 2. Juni bis voraussichtlich 27. Juni wird der Aufzug in unserem Haus in der Lindenallee 14 durch einen neuen ersetzt. In dieser Zeit kann er leider nicht benutzt werden. Gearbeitet wird montags bis freitags von 7 bis etwa 16 Uhr.",
+            "Wir wissen, dass das besonders für ältere Bewohnerinnen und Bewohner schwierig ist. Deshalb trägt Ihnen unser Hausmeister, Herr Brandt, schwere Einkäufe gern bis vor die Wohnungstür. Bitte rufen Sie ihn dafür mindestens einen Tag vorher an: Telefon 0341 558290.",
+            "Kinderwagen dürfen während der Bauarbeiten ausnahmsweise im Fahrradkeller abgestellt werden. Im Treppenhaus ist das aus Sicherheitsgründen weiterhin nicht erlaubt.",
+            "Vielen Dank für Ihr Verständnis!",
+            "Ihre Hausverwaltung Kessler & Partner"
+          ],
+          "items": [
+            {
+              "id": "b2-l-aufzug-1",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Während der Bauarbeiten kann man den Aufzug nur am Abend benutzen.",
+              "answer": false,
+              "explanation": "The lift cannot be used at all during the works: „In dieser Zeit kann er leider nicht benutzt werden.“ The times „von 7 bis etwa 16 Uhr“ only say when the workers are in the building.",
+              "explanationDe": "Den Aufzug kann man während der ganzen Bauzeit nicht benutzen: „In dieser Zeit kann er leider nicht benutzt werden.“ Die Uhrzeiten „von 7 bis etwa 16 Uhr“ sagen nur, wann die Handwerker im Haus arbeiten."
+            },
+            {
+              "id": "b2-l-aufzug-2",
+              "level": "B1",
+              "type": "mc",
+              "prompt": "Was sollen Bewohner tun, die Hilfe mit schweren Einkäufen brauchen?",
+              "options": [
+                "Sie sollen die Hausverwaltung schriftlich um Hilfe bitten.",
+                "Sie sollen ihre Einkäufe im Fahrradkeller abstellen.",
+                "Sie sollen den Hausmeister spätestens am Vortag anrufen."
+              ],
+              "answer": 2,
+              "explanation": "Mr Brandt carries heavy shopping to your door, and you call him „mindestens einen Tag vorher“ – that means the day before at the latest. The bike cellar is only mentioned for „Kinderwagen“, and you phone the caretaker instead of writing to the management.",
+              "explanationDe": "Herr Brandt trägt schwere Einkäufe bis vor die Tür, und dafür rufst du ihn „mindestens einen Tag vorher“ an – also spätestens am Vortag. Der Fahrradkeller ist nur für „Kinderwagen“ gedacht, und du schreibst nicht der Hausverwaltung, sondern rufst den Hausmeister an."
+            },
+            {
+              "id": "b2-l-aufzug-3",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Für Kinderwagen gibt es während der Bauarbeiten vorübergehend einen Platz im Keller.",
+              "answer": true,
+              "explanation": "„Kinderwagen dürfen während der Bauarbeiten ausnahmsweise im Fahrradkeller abgestellt werden“ – „ausnahmsweise“ shows that this is only allowed for a limited time.",
+              "explanationDe": "„Kinderwagen dürfen während der Bauarbeiten ausnahmsweise im Fahrradkeller abgestellt werden.“ Das Wort „ausnahmsweise“ zeigt: Das ist nur für kurze Zeit erlaubt."
+            }
+          ]
+        },
+        {
+          "id": "b2-l-mitfahrbank",
+          "level": "B2",
+          "title": "Mitfahrbank statt Busfahrplan?",
+          "paragraphs": [
+            "In den Dörfern rund um Lindhofen fährt der Bus an Werktagen nur dreimal, am Wochenende überhaupt nicht. Wer kein Auto besitzt, ist auf Nachbarn oder teure Taxis angewiesen. Seit dem vergangenen Herbst stehen deshalb an zwölf Ortsausgängen sogenannte Mitfahrbänke: Wer sich daraufsetzt und ein Schild mit seinem Ziel ausklappt, zeigt vorbeifahrenden Autofahrern, dass er mitgenommen werden möchte.",
+            "Die Idee stammt nicht etwa von der Gemeindeverwaltung, sondern von einer Gruppe Jugendlicher, die damit an einem Schulwettbewerb teilgenommen hatte. Den Bau der Bänke finanzierte anschließend ein örtlicher Sportverein. Anfängliche Sicherheitsbedenken haben sich bisher nicht bestätigt – der Gemeinde ist kein einziger Zwischenfall bekannt.",
+            "Die erste Bilanz fällt gemischt aus. Zwar warten die meisten Nutzerinnen und Nutzer nach eigenen Angaben weniger als zehn Minuten, doch abends und bei schlechtem Wetter halten deutlich seltener Autos an – also gerade dann, wenn man am dringendsten auf eine Mitfahrgelegenheit angewiesen wäre.",
+            "Bürgermeisterin Petra Lindner sieht in den Bänken deshalb keinen Ersatz für den Bus, sondern eine Ergänzung. „Wer glaubt, wir könnten damit beim Nahverkehr sparen, hat das Konzept nicht verstanden“, sagt sie. Im Gegenteil: Im kommenden Jahr will die Gemeinde zusätzlich einen Rufbus einführen, der abends auf Bestellung fährt."
+          ],
+          "items": [
+            {
+              "id": "b2-l-mitfahrbank-1",
+              "level": "B2",
+              "type": "mc",
+              "prompt": "Von wem stammt die Idee für die Mitfahrbänke?",
+              "options": [
+                "Von der Gemeinde, die dafür einen Wettbewerb ausgeschrieben hatte.",
+                "Von Schülerinnen und Schülern, die damit an einem Wettbewerb teilgenommen haben.",
+                "Von einem Sportverein, der die Bänke danach auch aufgestellt hat."
+              ],
+              "answer": 1,
+              "explanation": "The idea came „von einer Gruppe Jugendlicher, die damit an einem Schulwettbewerb teilgenommen hatte“. The local administration is explicitly ruled out („nicht etwa von der Gemeindeverwaltung“), and the sports club only paid for building the benches afterwards.",
+              "explanationDe": "Die Idee kommt „von einer Gruppe Jugendlicher, die damit an einem Schulwettbewerb teilgenommen hatte“. Die Gemeinde war es ausdrücklich nicht („nicht etwa von der Gemeindeverwaltung“), und der Sportverein hat erst danach den Bau der Bänke bezahlt."
+            },
+            {
+              "id": "b2-l-mitfahrbank-2",
+              "level": "B2",
+              "type": "tf",
+              "statement": "Die meisten Menschen, die eine Mitfahrbank nutzen, werden nach kurzer Zeit mitgenommen.",
+              "answer": true,
+              "explanation": "„Zwar warten die meisten Nutzerinnen und Nutzer nach eigenen Angaben weniger als zehn Minuten“ – so most users get a lift quickly. The „doch“ part only refers to evenings and bad weather.",
+              "explanationDe": "„Zwar warten die meisten Nutzerinnen und Nutzer nach eigenen Angaben weniger als zehn Minuten“ – die meisten werden also schnell mitgenommen. Der Teil mit „doch“ gilt nur für den Abend und für schlechtes Wetter."
+            },
+            {
+              "id": "b2-l-mitfahrbank-3",
+              "level": "B2",
+              "type": "tf",
+              "statement": "Bei schlechtem Wetter findet man über die Mitfahrbank besonders schnell eine Mitfahrgelegenheit.",
+              "answer": false,
+              "explanation": "The opposite is true: „abends und bei schlechtem Wetter halten deutlich seltener Autos an“ – exactly when people need a lift most.",
+              "explanationDe": "Das Gegenteil ist richtig: „abends und bei schlechtem Wetter halten deutlich seltener Autos an“ – also genau dann, wenn man eine Mitfahrgelegenheit am dringendsten braucht."
+            },
+            {
+              "id": "b2-l-mitfahrbank-4",
+              "level": "B2",
+              "type": "mc",
+              "prompt": "Was sagt die Bürgermeisterin über die Mitfahrbänke?",
+              "options": [
+                "Sie sollen das Busangebot ergänzen, aber nicht ersetzen.",
+                "Mit ihrer Hilfe kann die Gemeinde Geld beim Nahverkehr sparen.",
+                "Sie machen einen zusätzlichen Rufbus am Abend überflüssig."
+              ],
+              "answer": 0,
+              "explanation": "The mayor sees the benches as „keinen Ersatz für den Bus, sondern eine Ergänzung“. Saving money on public transport is exactly what she rejects, and the planned „Rufbus“ comes in addition – the benches do not replace it.",
+              "explanationDe": "Die Bürgermeisterin sieht in den Bänken „keinen Ersatz für den Bus, sondern eine Ergänzung“. Geld beim Nahverkehr sparen will sie ausdrücklich nicht, und der geplante „Rufbus“ kommt zusätzlich – die Bänke machen ihn nicht überflüssig."
+            }
+          ]
+        },
+        {
+          "id": "b2-l-retouren",
+          "level": "C1",
+          "title": "Was Rücksendegebühren im Onlinehandel bewirken",
+          "paragraphs": [
+            "Die Einführung von Gebühren für Rücksendungen im Onlinehandel hat einer Untersuchung des Leipziger Instituts für Verbraucherökonomie zufolge zwar zu einem deutlichen Rückgang der Retourenquote geführt; auf eine grundlegende Veränderung des Kaufverhaltens lässt sich daraus jedoch nicht schließen. Grundlage der Studie war die Auswertung der Bestelldaten von rund 40.000 Kundinnen und Kunden dreier Modehändler über einen Zeitraum von zwei Jahren.",
+            "Nach Einführung einer Gebühr von drei Euro pro Rücksendung sank der Anteil zurückgeschickter Artikel innerhalb eines halben Jahres von 41 auf 29 Prozent; besonders deutlich fiel der Rückgang bei Schuhen und Abendmode aus, also bei Artikeln, die häufig gleich in mehreren Größen bestellt werden. Gleichzeitig ging allerdings auch die Zahl der Bestellungen um elf Prozent zurück, wobei insbesondere jüngere Kundinnen und Kunden zu Anbietern mit kostenlosem Rückversand abwanderten. Unter dem Strich verzeichneten die untersuchten Händler somit keine Umsatzsteigerung, wohl aber eine spürbare Entlastung ihrer Lager und Logistik.",
+            "Vor einer Deutung der Ergebnisse als Beleg für ein gewachsenes Umweltbewusstsein warnen die Autorinnen der Studie ausdrücklich. Ausschlaggebend für den Verzicht auf Rücksendungen sei in erster Linie die Vermeidung zusätzlicher Kosten gewesen, nicht die Sorge um die ökologischen Folgen. Eine branchenweite Einführung von Gebühren halten sie dennoch für sinnvoll, da nur auf diese Weise eine Abwanderung zur Konkurrenz verhindert werden könne."
+          ],
+          "items": [
+            {
+              "id": "b2-l-retouren-1",
+              "level": "C1",
+              "type": "tf",
+              "statement": "Für die untersuchten Händler brachte die Gebühr keine höheren Einnahmen, erleichterte aber die Arbeit in Lager und Versand.",
+              "answer": true,
+              "explanation": "„keine Umsatzsteigerung, wohl aber eine spürbare Entlastung ihrer Lager und Logistik“ – „wohl aber“ means „but certainly“: no higher sales, but less work in warehouses and shipping.",
+              "explanationDe": "„keine Umsatzsteigerung, wohl aber eine spürbare Entlastung ihrer Lager und Logistik“ – „wohl aber“ bedeutet „aber sehr wohl“: kein höherer Umsatz, aber weniger Arbeit in Lager und Versand."
+            },
+            {
+              "id": "b2-l-retouren-2",
+              "level": "C1",
+              "type": "mc",
+              "prompt": "Warum haben die Kundinnen und Kunden laut den Autorinnen weniger zurückgeschickt?",
+              "options": [
+                "Weil ihnen die Umweltfolgen des Versands wichtiger geworden sind.",
+                "Weil die Händler mit der Gebühr ihre Lager entlasten wollten.",
+                "Weil sie vor allem zusätzliche Kosten vermeiden wollten."
+              ],
+              "answer": 2,
+              "explanation": "According to the authors, „in erster Linie die Vermeidung zusätzlicher Kosten“ was decisive, „nicht die Sorge um die ökologischen Folgen“ – they even warn against reading the results as proof of more environmental awareness. The relief for the warehouses is a result for the retailers, not the customers' reason.",
+              "explanationDe": "Laut den Autorinnen war „in erster Linie die Vermeidung zusätzlicher Kosten“ entscheidend, „nicht die Sorge um die ökologischen Folgen“ – sie warnen sogar davor, die Ergebnisse als Zeichen für mehr Umweltbewusstsein zu deuten. Die Entlastung der Lager ist eine Folge für die Händler, aber nicht der Grund der Kundinnen und Kunden."
+            },
+            {
+              "id": "b2-l-retouren-3",
+              "level": "C1",
+              "type": "mc",
+              "prompt": "Was halten die Autorinnen der Studie für sinnvoll?",
+              "options": [
+                "Die Gebühren wieder abzuschaffen, um keine Kundschaft zu verlieren.",
+                "Rücksendegebühren bei allen Händlern der Branche einzuführen.",
+                "Die Gebühren zu erhöhen, damit das Umweltbewusstsein wächst."
+              ],
+              "answer": 1,
+              "explanation": "„Eine branchenweite Einführung von Gebühren halten sie dennoch für sinnvoll“ – fees across the whole sector, precisely so that customers cannot move to competitors. Abolishing the fees turns this reasoning upside down.",
+              "explanationDe": "„Eine branchenweite Einführung von Gebühren halten sie dennoch für sinnvoll“ – also Gebühren in der ganzen Branche, damit die Kundschaft nicht zur Konkurrenz wechseln kann. Die Gebühren abzuschaffen, ist also gerade nicht ihre Empfehlung."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skill": "hoeren",
+      "recordings": [
+        {
+          "id": "b2-h-zug",
+          "level": "B1",
+          "context": "Durchsage im Zug",
+          "speakers": [{ "id": "zug", "gender": "m", "age": "adult", "role": "Zugbegleiter" }],
+          "script": [
+            { "s": "zug", "t": "Sehr geehrte Fahrgäste, hier spricht Ihr Zugbegleiter mit einer Information zu unserer Fahrt." },
+            { "s": "zug", "t": "Wegen einer Störung an einem Stellwerk erreichen wir Kassel heute voraussichtlich mit etwa zwanzig Minuten Verspätung." },
+            { "s": "zug", "t": "Reisende in Richtung Göttingen: Ihr Anschlusszug kann leider nicht auf uns warten. Bitte nehmen Sie stattdessen den Regionalexpress um vierzehn Uhr zweiundfünfzig von Gleis drei." },
+            { "s": "zug", "t": "Außerdem bleibt unser Bordrestaurant wegen eines technischen Defekts heute leider geschlossen. Getränke und kleine Snacks bringen wir Ihnen aber gern an Ihren Platz." },
+            { "s": "zug", "t": "Wir bitten um Ihr Verständnis und wünschen Ihnen trotzdem eine angenehme Fahrt." }
+          ],
+          "items": [
+            {
+              "id": "b2-h-zug-1",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Fahrgäste nach Göttingen erreichen ihren geplanten Anschlusszug nicht.",
+              "answer": true,
+              "explanation": "„Ihr Anschlusszug kann leider nicht auf uns warten“ – passengers to Göttingen have to take „den Regionalexpress um vierzehn Uhr zweiundfünfzig“ instead.",
+              "explanationDe": "„Ihr Anschlusszug kann leider nicht auf uns warten“ – Reisende nach Göttingen müssen stattdessen „den Regionalexpress um vierzehn Uhr zweiundfünfzig“ nehmen."
+            },
+            {
+              "id": "b2-h-zug-2",
+              "level": "B1",
+              "type": "tf",
+              "statement": "Wer etwas trinken möchte, muss dafür heute ins Bordrestaurant gehen.",
+              "answer": false,
+              "explanation": "The on-board restaurant „bleibt … heute leider geschlossen“. Drinks and snacks are brought „an Ihren Platz“, so nobody has to go anywhere.",
+              "explanationDe": "Das Bordrestaurant „bleibt … heute leider geschlossen“. Getränke und Snacks bringt das Personal „an Ihren Platz“ – du musst also nirgendwohin gehen."
+            }
+          ]
+        },
+        {
+          "id": "b2-h-nachrichten",
+          "level": "B2",
+          "context": "Nachrichten im Radio",
+          "speakers": [{ "id": "sprecherin", "gender": "f", "age": "adult", "role": "Nachrichtensprecherin" }],
+          "script": [
+            { "s": "sprecherin", "t": "Leipzig. Die Stadt will ihre Bewohnerinnen und Bewohner künftig besser vor extremer Hitze schützen. Der Stadtrat hat gestern Abend mit großer Mehrheit einen sogenannten Hitzeaktionsplan beschlossen." },
+            { "s": "sprecherin", "t": "Vorgesehen sind unter anderem sechzig zusätzliche Trinkbrunnen sowie klimatisierte Räume in Bibliotheken und Stadtteilzentren, die an besonders heißen Tagen für alle zugänglich sein sollen." },
+            { "s": "sprecherin", "t": "Außerdem sollen Pflegedienste ältere Menschen, die allein leben, bei offiziellen Hitzewarnungen gezielt anrufen." },
+            { "s": "sprecherin", "t": "Die Kosten von rund vier Millionen Euro übernimmt zum größten Teil der Freistaat Sachsen." },
+            { "s": "sprecherin", "t": "Sozialverbände begrüßten den Beschluss grundsätzlich, kritisierten aber, er komme mehrere Jahre zu spät. An den Schulen ändere sich durch den Plan vorerst nichts." }
+          ],
+          "items": [
+            {
+              "id": "b2-h-nachrichten-1",
+              "level": "B2",
+              "type": "tf",
+              "statement": "Bei großer Hitze sollen bestimmte öffentliche Gebäude allen Menschen als kühle Aufenthaltsorte dienen.",
+              "answer": true,
+              "explanation": "The plan includes „klimatisierte Räume in Bibliotheken und Stadtteilzentren, die an besonders heißen Tagen für alle zugänglich sein sollen“ – public buildings as cool places for everyone.",
+              "explanationDe": "Der Plan sieht „klimatisierte Räume in Bibliotheken und Stadtteilzentren“ vor, „die an besonders heißen Tagen für alle zugänglich sein sollen“ – also öffentliche Gebäude als kühle Orte für alle."
+            },
+            {
+              "id": "b2-h-nachrichten-2",
+              "level": "B2",
+              "type": "tf",
+              "statement": "Nach Ansicht der Sozialverbände bringt der Plan den Schulen schon bald spürbare Verbesserungen.",
+              "answer": false,
+              "explanation": "The social associations criticised that „An den Schulen ändere sich durch den Plan vorerst nichts“ – so they expect no improvements for schools for the time being. They welcomed the plan only „grundsätzlich“ and found it too late.",
+              "explanationDe": "Die Sozialverbände kritisieren: „An den Schulen ändere sich durch den Plan vorerst nichts.“ Sie erwarten also gerade keine schnellen Verbesserungen für die Schulen. Den Plan finden sie nur „grundsätzlich“ gut, aber zu spät."
+            }
+          ]
+        },
+        {
+          "id": "b2-h-interview",
+          "level": "B2",
+          "context": "Interview im Radio",
+          "speakers": [
+            { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
+            { "id": "kaya", "name": "Selin Kaya", "gender": "f", "age": "adult", "role": "Physiklehrerin" }
+          ],
+          "script": [
+            { "s": "mod", "t": "Frau Kaya, Sie waren fünfzehn Jahre lang Ingenieurin bei einem Autozulieferer, und jetzt unterrichten Sie Physik an einer Gesamtschule in Bochum. Wie kam's denn dazu?" },
+            { "s": "kaya", "t": "Also, ehrlich gesagt war das kein lange geplanter Schritt. Meine Firma hat vor drei Jahren einen Teil der Entwicklung nach Polen verlagert, und ich hätte mit umziehen müssen." },
+            { "s": "kaya", "t": "Das wollte ich mit zwei Schulkindern nicht. Und dann hab ich zufällig gelesen, dass die Schulen hier dringend Leute mit technischem Hintergrund suchen." },
+            { "s": "mod", "t": "War der Wechsel schwieriger, als Sie gedacht hatten?" },
+            { "s": "kaya", "t": "Na ja, fachlich überhaupt nicht – Physik kann ich, sag ich mal. Aber dreißig Jugendliche dazu zu bringen, dass sie einem zuhören, das lernt man in keinem Ingenieurstudium." },
+            { "s": "kaya", "t": "Im ersten Halbjahr bin ich fast jeden Abend völlig fertig nach Hause gekommen. Inzwischen, also so seit den Sommerferien, läuft's deutlich besser." },
+            { "s": "mod", "t": "Würden Sie den Schritt noch einmal machen?" },
+            { "s": "kaya", "t": "Sofort. Ich verdiene zwar etwas weniger als früher, aber dafür weiß ich jeden Abend, wofür ich arbeite." }
+          ],
+          "items": [
+            {
+              "id": "b2-h-interview-1",
+              "level": "B2",
+              "type": "tf",
+              "statement": "Am Anfang hatte Frau Kaya an der Schule vor allem fachliche Schwierigkeiten.",
+              "answer": false,
+              "explanation": "The subject itself was no problem: „fachlich überhaupt nicht – Physik kann ich“. What was hard was getting „dreißig Jugendliche“ to listen.",
+              "explanationDe": "Das Fach war kein Problem: „fachlich überhaupt nicht – Physik kann ich“. Schwer war es, „dreißig Jugendliche“ dazu zu bringen, dass sie zuhören."
+            },
+            {
+              "id": "b2-h-interview-2",
+              "level": "B2",
+              "type": "tf",
+              "statement": "Frau Kaya bereut den Berufswechsel nicht, obwohl sie heute weniger verdient.",
+              "answer": true,
+              "explanation": "Asked whether she would do it again, she says „Sofort“, although „Ich verdiene zwar etwas weniger als früher“ – the „zwar … aber“ shows that the lower salary does not change her opinion.",
+              "explanationDe": "Auf die Frage, ob sie den Schritt noch einmal machen würde, sagt sie „Sofort“ – obwohl gilt: „Ich verdiene zwar etwas weniger als früher“. Das „zwar … aber“ zeigt: Das geringere Gehalt ändert nichts an ihrer Meinung."
+            }
+          ]
+        },
+        {
+          "id": "b2-h-diskussion",
+          "level": "C1",
+          "context": "Streitgespräch im Radio",
+          "speakers": [
+            { "id": "mod", "gender": "m", "age": "adult", "role": "Moderator" },
+            { "id": "hoff", "name": "Miriam Hoff", "gender": "f", "age": "adult", "role": "Handelsverband" },
+            { "id": "brenner", "name": "Klaus Brenner", "gender": "m", "age": "senior", "role": "Verkehrsplaner" }
+          ],
+          "script": [
+            { "s": "mod", "t": "Autofreie Innenstadt – ja oder nein? Darüber streiten heute Miriam Hoff vom Handelsverband und der Verkehrsplaner Klaus Brenner. Frau Hoff, Sie sind dagegen." },
+            { "s": "hoff", "t": "Ich sag's mal ganz offen: Wenn die Kundschaft nicht mehr mit dem Auto in die Innenstadt kommt, dann fährt sie eben ins Einkaufszentrum auf der grünen Wiese – und das Geld ist weg." },
+            { "s": "brenner", "t": "Das hören wir seit dreißig Jahren, und es hat sich so gut wie nie bewahrheitet. Fast überall, wo Fußgängerzonen eingerichtet wurden, sind die Umsätze nach einer gewissen Übergangszeit gestiegen, nicht gesunken." },
+            { "s": "hoff", "t": "Nach einer Übergangszeit, genau – und da liegt doch das Problem! Die überleben viele kleine Läden schlicht nicht, die haben keine Rücklagen für zwei, drei magere Jahre." },
+            { "s": "brenner", "t": "Da gebe ich Ihnen ausnahmsweise recht. Nur folgt daraus eben nicht, dass alles beim Alten bleiben muss, sondern dass die Stadt den Händlern in dieser Phase unter die Arme greift, etwa mit Zuschüssen zur Miete." },
+            { "s": "hoff", "t": "Schön und gut, aber davon steht im aktuellen Konzept kein einziges Wort. Und solange sich daran nichts ändert, werden wir dem Plan nicht zustimmen." }
+          ],
+          "items": [
+            {
+              "id": "b2-h-diskussion-1",
+              "level": "C1",
+              "type": "tf",
+              "statement": "Herr Brenner bestreitet, dass die Umstellung für kleine Läden zunächst schwierig werden kann.",
+              "answer": false,
+              "explanation": "When Ms Hoff says that many small shops would not survive the transition, he answers „Da gebe ich Ihnen ausnahmsweise recht“ – he agrees on this point. He only draws a different conclusion: the city should help the shops.",
+              "explanationDe": "Als Frau Hoff sagt, dass viele kleine Läden die Übergangszeit nicht überleben, antwortet er: „Da gebe ich Ihnen ausnahmsweise recht.“ In diesem Punkt stimmt er ihr also zu – er zieht nur eine andere Folgerung: Die Stadt soll den Händlern helfen."
+            },
+            {
+              "id": "b2-h-diskussion-2",
+              "level": "C1",
+              "type": "tf",
+              "statement": "Laut Frau Hoff sieht das aktuelle Konzept keine Hilfen für die Händler in der Übergangszeit vor.",
+              "answer": true,
+              "explanation": "Mr Brenner suggests that the city should support the shops, „etwa mit Zuschüssen zur Miete“. Ms Hoff replies „davon steht im aktuellen Konzept kein einziges Wort“ – „davon“ refers to exactly this help.",
+              "explanationDe": "Herr Brenner schlägt vor, dass die Stadt den Händlern hilft, „etwa mit Zuschüssen zur Miete“. Frau Hoff antwortet: „davon steht im aktuellen Konzept kein einziges Wort“ – „davon“ bezieht sich genau auf diese Hilfe."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-03",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Pilotprojekt Vier-Tage-Woche",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "article": {
+    "headline": "Weniger Tage, gleiche Leistung? Bilanz eines Pilotprojekts zur Vier-Tage-Woche",
+    "lead": "Ein Jahr lang haben 46 Betriebe aus Baden-Württemberg und Bayern neue Arbeitszeitmodelle erprobt. Die nun vorgelegte Auswertung liefert Befürwortern wie Skeptikern gleichermaßen Argumente.",
+    "paragraphs": [
+      "Kaum eine arbeitsmarktpolitische Forderung hat in den vergangenen Jahren eine so leidenschaftliche Debatte ausgelöst wie die nach einer Vier-Tage-Woche. Während Gewerkschaften auf eine bessere Vereinbarkeit von Beruf und Familie sowie auf geringere gesundheitliche Belastungen verweisen, warnen Arbeitgeberverbände angesichts des Fachkräftemangels vor Produktivitätsverlusten und steigenden Lohnkosten. Belastbare Daten aus deutschen Unternehmen waren bislang allerdings rar.",
+      "Diese Lücke soll eine Studie des Stuttgarter Instituts für Arbeitsorganisation und Gesundheit schließen. Die teilnehmenden Firmen – vom Softwareentwickler über den Maschinenbauzulieferer bis zur Großbäckerei – konnten zwischen zwei Varianten wählen: einer tatsächlichen Verkürzung der Wochenarbeitszeit auf 32 Stunden bei vollem Lohnausgleich oder einer Verteilung der bisherigen Stundenzahl auf vier längere Arbeitstage. Rund zwei Drittel der Betriebe entschieden sich für die Verkürzung. Begleitet wurde der Versuch durch regelmäßige Befragungen der etwa 2.300 Beschäftigten sowie durch die Erhebung betrieblicher Kennzahlen wie Umsatz, Krankenstand und Personalfluktuation.",
+      "Die Ergebnisse zum Wohlbefinden fallen eindeutig aus: Der Anteil der Beschäftigten, die sich häufig erschöpft fühlen, sank im Laufe des Jahres von 41 auf 27 Prozent, die Zahl der Krankheitstage ging im Durchschnitt um 18 Prozent zurück. Differenzierter stellt sich die wirtschaftliche Bilanz dar. In 31 der 46 Betriebe blieben Umsatz und Produktivität stabil oder stiegen sogar leicht an, in neun Unternehmen ließ sich keine eindeutige Entwicklung feststellen, und sechs Firmen verzeichneten spürbare Einbußen – überwiegend solche mit Schichtbetrieb oder festen Öffnungszeiten.",
+      "Worauf es beim Gelingen ankommt, erläutert die Studienleiterin Sabine Oettinger: „Die Vier-Tage-Woche ist kein Selbstläufer. Erfolgreich waren vor allem jene Betriebe, die ihre Abläufe vor dem Start gründlich auf den Prüfstand gestellt haben.“ So hätten zahlreiche Teams überflüssige Besprechungen gestrichen, Zuständigkeiten klarer geregelt und feste Zeiten für ungestörtes Arbeiten eingeführt. Wer dagegen lediglich einen Tag streiche, ohne die Arbeit neu zu organisieren, riskiere eine Verdichtung, die den gesundheitlichen Gewinn rasch wieder zunichtemache. Weder die Größe eines Betriebs noch die Frage, ob der freie Tag einheitlich festgelegt oder individuell gewählt wurde, wirkte sich der Auswertung zufolge messbar auf die Ergebnisse aus.",
+      "Ein Beispiel dafür ist die Kessler & Vogt GmbH, ein Ulmer Messtechnikhersteller mit 120 Beschäftigten. Geschäftsführer Martin Kessler räumt ein, dass anfangs einige Kunden verärgert reagierten, weil freitags niemand mehr erreichbar war. Inzwischen sorgt ein rotierender Bereitschaftsdienst dafür, dass Anfragen auch am fünften Tag bearbeitet werden. Den größten Effekt sieht Kessler allerdings an anderer Stelle: Auf eine ausgeschriebene Ingenieursstelle gingen zuletzt dreimal so viele Bewerbungen ein wie vor Beginn des Projekts. Eine Rückkehr zum alten Modell schließt das Unternehmen deshalb aus.",
+      "Skeptisch beurteilt die Ergebnisse dagegen Henning Lauterbach, Arbeitsmarktexperte eines süddeutschen Wirtschaftsverbands. Er bestreitet keineswegs, dass die beteiligten Firmen überwiegend gute Erfahrungen gemacht hätten. Allerdings hätten sich ausschließlich Unternehmen beworben, die von dem Modell ohnehin überzeugt gewesen seien; Rückschlüsse auf die Gesamtwirtschaft ließen sich daraus kaum ziehen. Zudem verschärfe eine flächendeckende Arbeitszeitverkürzung den Personalmangel in Pflege, Handwerk und Gastronomie, wo schon heute Tausende Stellen unbesetzt blieben.",
+      "Die Studienleiterin hält den Einwand der Selbstauswahl für berechtigt, sieht darin aber keinen Grund, die Ergebnisse zu verwerfen. Eine gesetzliche Vier-Tage-Woche für alle fordert auch sie nicht. Sinnvoller seien branchenspezifische Lösungen, die Betriebe gemeinsam mit ihren Beschäftigten entwickelten – und für die das Pilotprojekt nun eine erste empirische Grundlage biete."
+    ],
+    "source": "Südwest-Wirtschaftsbrief"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Im Rahmen des Pilotprojekts …",
+      "options": [
+        { "key": "a", "text": "arbeiteten sämtliche Beschäftigten nur noch 32 Stunden pro Woche." },
+        { "key": "b", "text": "verzichteten die Beschäftigten im Gegenzug auf einen Teil ihres Gehalts." },
+        { "key": "c", "text": "wurde die wöchentliche Arbeitszeit nicht in allen Betrieben tatsächlich reduziert." }
+      ],
+      "answer": "c",
+      "explanation": "Firms could choose between a real cut to 32 hours and spreading the same hours over four longer days; „Rund zwei Drittel der Betriebe entschieden sich für die Verkürzung“ – so not every firm reduced working time (c). That is also why not all employees worked 32 hours (a). Pay was not cut: the reduction came „bei vollem Lohnausgleich“ (b).",
+      "explanationDe": "Die Firmen konnten zwischen einer echten Verkürzung auf 32 Stunden und vier längeren Arbeitstagen wählen; „Rund zwei Drittel der Betriebe entschieden sich für die Verkürzung“ – also haben nicht alle Betriebe die Arbeitszeit reduziert (c). Deshalb haben auch nicht alle Beschäftigten 32 Stunden gearbeitet (a). Das Gehalt wurde nicht gekürzt: Die Verkürzung gab es „bei vollem Lohnausgleich“ (b).",
+      "evidence": "Rund zwei Drittel der Betriebe entschieden sich für die Verkürzung"
+    },
+    {
+      "n": 2,
+      "stem": "Hinsichtlich der wirtschaftlichen Ergebnisse zeigt die Auswertung, dass …",
+      "options": [
+        { "key": "a", "text": "die Mehrheit der Firmen ihre Leistungsfähigkeit mindestens halten konnte." },
+        { "key": "b", "text": "Unternehmen mit Schichtarbeit besonders von dem neuen Modell profitierten." },
+        { "key": "c", "text": "der Umsatz in nahezu allen beteiligten Betrieben deutlich gestiegen ist." }
+      ],
+      "answer": "a",
+      "explanation": "„In 31 der 46 Betriebe blieben Umsatz und Produktivität stabil oder stiegen sogar leicht an“ – the majority at least kept their performance, so (a). Firms with shift work were mostly among the six that suffered „spürbare Einbußen“ (b). Sales rose only „leicht“, and not in almost all firms (c).",
+      "explanationDe": "„In 31 der 46 Betriebe blieben Umsatz und Produktivität stabil oder stiegen sogar leicht an“ – die Mehrheit hat ihre Leistung also mindestens gehalten, deshalb (a). Firmen mit Schichtbetrieb gehörten vor allem zu den sechs Firmen, die „spürbare Einbußen“ hatten (b). Der Umsatz stieg nur „leicht“ und nicht in fast allen Betrieben (c).",
+      "evidence": "In 31 der 46 Betriebe blieben Umsatz und Produktivität stabil oder stiegen sogar leicht an"
+    },
+    {
+      "n": 3,
+      "stem": "Nach Einschätzung von Sabine Oettinger hing der Erfolg der Umstellung vor allem davon ab, …",
+      "options": [
+        { "key": "a", "text": "ob die Beschäftigten ihren freien Tag selbst bestimmen durften." },
+        { "key": "b", "text": "ob die Arbeitsprozesse vorher kritisch überprüft und angepasst wurden." },
+        { "key": "c", "text": "wie viele Mitarbeiterinnen und Mitarbeiter ein Unternehmen beschäftigte." }
+      ],
+      "answer": "b",
+      "explanation": "Successful firms were those „die ihre Abläufe vor dem Start gründlich auf den Prüfstand gestellt haben“ – they reviewed and adapted their processes first, so (b). Neither the size of a company nor whether the free day was chosen individually „wirkte sich … messbar auf die Ergebnisse aus“ (a, c).",
+      "explanationDe": "Erfolgreich waren die Betriebe, „die ihre Abläufe vor dem Start gründlich auf den Prüfstand gestellt haben“ – sie haben ihre Arbeitsprozesse also vorher geprüft und angepasst, deshalb (b). Weder die Größe des Betriebs noch die Frage, ob man den freien Tag selbst wählen durfte, „wirkte sich … messbar auf die Ergebnisse aus“ (a, c).",
+      "evidence": "die ihre Abläufe vor dem Start gründlich auf den Prüfstand gestellt haben"
+    },
+    {
+      "n": 4,
+      "stem": "Über die Firma Kessler & Vogt erfährt man, dass …",
+      "options": [
+        { "key": "a", "text": "sie wegen verärgerter Kunden freitags wieder vollständig geöffnet hat." },
+        { "key": "b", "text": "sie nach dem Ende des Projekts zur Fünf-Tage-Woche zurückkehren will." },
+        { "key": "c", "text": "ihr die neue Arbeitszeitregelung vor allem bei der Personalgewinnung hilft." }
+      ],
+      "answer": "c",
+      "explanation": "Kessler sees the biggest effect in recruiting: an engineering job attracted „dreimal so viele Bewerbungen … wie vor Beginn des Projekts“ – so (c). The firm did not reopen fully on Fridays; a „rotierender Bereitschaftsdienst“ handles enquiries (a). A return to the old model is ruled out: „Eine Rückkehr zum alten Modell schließt das Unternehmen deshalb aus“ (b).",
+      "explanationDe": "Den größten Effekt sieht Kessler bei der Suche nach Personal: Auf eine Ingenieursstelle kamen „dreimal so viele Bewerbungen … wie vor Beginn des Projekts“ – also (c). Die Firma hat freitags nicht wieder ganz geöffnet; ein „rotierender Bereitschaftsdienst“ bearbeitet die Anfragen (a). Eine Rückkehr zum alten Modell „schließt das Unternehmen deshalb aus“ (b).",
+      "evidence": "Auf eine ausgeschriebene Ingenieursstelle gingen zuletzt dreimal so viele Bewerbungen ein wie vor Beginn des Projekts"
+    },
+    {
+      "n": 5,
+      "stem": "Henning Lauterbach wendet gegen die Studie ein, dass …",
+      "options": [
+        { "key": "a", "text": "sich die Ergebnisse wegen der freiwilligen Teilnahme kaum verallgemeinern lassen." },
+        { "key": "b", "text": "die beteiligten Firmen ihre Erfahrungen zu positiv dargestellt haben." },
+        { "key": "c", "text": "das Projekt den Personalmangel in den beteiligten Betrieben verschärft hat." }
+      ],
+      "answer": "a",
+      "explanation": "Only companies already convinced of the model applied, so „Rückschlüsse auf die Gesamtwirtschaft ließen sich daraus kaum ziehen“ – the results can hardly be generalised (a). He „bestreitet keineswegs“ the firms' good experiences (b). His staff-shortage argument is about a nationwide cut in hours in care, crafts and catering, not about the firms in the study (c).",
+      "explanationDe": "Nur Firmen, die vom Modell schon überzeugt waren, haben sich beworben – deshalb gilt: „Rückschlüsse auf die Gesamtwirtschaft ließen sich daraus kaum ziehen“, also (a). Die guten Erfahrungen der Firmen „bestreitet“ er „keineswegs“ (b). Beim Personalmangel geht es um eine Arbeitszeitverkürzung für alle in Pflege, Handwerk und Gastronomie, nicht um die Betriebe der Studie (c).",
+      "evidence": "Rückschlüsse auf die Gesamtwirtschaft ließen sich daraus kaum ziehen"
+    }
+  ],
+  "glossary": [
+    { "de": "die Vereinbarkeit von Beruf und Familie", "en": "work–family balance" },
+    { "de": "belastbar (Daten)", "en": "reliable, robust (data)" },
+    { "de": "der Lohnausgleich", "en": "wage compensation" },
+    { "de": "der Krankenstand", "en": "sickness rate" },
+    { "de": "die Personalfluktuation", "en": "staff turnover" },
+    { "de": "die Einbuße", "en": "loss" },
+    { "de": "der Selbstläufer", "en": "something that succeeds by itself" },
+    { "de": "etwas auf den Prüfstand stellen", "en": "to review sth. critically" },
+    { "de": "die Arbeitsverdichtung / die Verdichtung", "en": "intensification of work" },
+    { "de": "zunichtemachen", "en": "to wipe out, to ruin" },
+    { "de": "der Bereitschaftsdienst", "en": "on-call service" },
+    { "de": "flächendeckend", "en": "across the board, nationwide" }
+  ]
+}

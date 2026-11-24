@@ -2,9 +2,9 @@ import type { Messages } from "../en";
 
 export const common: Messages["common"] = {
   appTagline: "telc Prüfungstraining",
-  siteTitle: "telc Deutsch B1 Prüfungstraining",
+  siteTitle: "telc Deutsch B1 & B2 Prüfungstraining",
   siteDescription:
-    "Realistisches Training für telc Deutsch B1: mit Prüfungszeiten, echten Höraufgaben, KI-Feedback zum Schreiben und Sprechen, B1-Grammatik und Wortschatz.",
+    "Realistisches Training für telc Deutsch B1 und B2: mit Prüfungszeiten, echten Höraufgaben, KI-Feedback zum Schreiben und Sprechen, Grammatik und Wortschatz.",
   start: "Starten",
   submit: "Abgeben",
   next: "Weiter",
@@ -57,6 +57,8 @@ export const common: Messages["common"] = {
     fromText: (quote) => `Aus dem Text: „${quote}“`,
     noAdFits: "Keine Anzeige passt zu dieser Situation",
     noAdFitsShort: "Keine Anzeige passt (x)",
+    noTextFits: "Kein Info-Text passt zu dieser Situation",
+    noTextFitsShort: "Kein Info-Text passt (x)",
   },
   verdict: { excellent: "Ausgezeichnet", pass: "Bestanden-Niveau", almost: "Fast geschafft", practice: "Mehr üben" },
 };

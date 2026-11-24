@@ -1,0 +1,61 @@
+{
+  "id": "schreiben-15",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Versteckte Kosten im Handyvertrag",
+  "topic": "technik",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie haben vor zwei Monaten aufgrund der folgenden Anzeige einen Handyvertrag bei FunkPlus Mobil abgeschlossen. Seitdem haben Sie zwei Rechnungen erhalten, die deutlich höher waren als erwartet, und auch mit dem Netz sind Sie sehr unzufrieden. Schreiben Sie eine Beschwerde an den Anbieter.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "FunkPlus Mobil – Tarif „Smart 20“\n\nEndlich ein Handyvertrag ohne böse Überraschungen!\n\n• 20 GB Datenvolumen im schnellen 5G-Netz\n• Telefonieren und SMS in alle deutschen Netze: unbegrenzt\n• Nur 14,99 Euro im Monat – dauerhaft und ohne Anschlussgebühr\n• Bestes Netz in Stadt und Land: 99 % Netzabdeckung\n• Monatlich kündbar, keine Mindestlaufzeit\n• Wechselbonus: Wir übernehmen Ihre alte Rufnummer kostenlos\n\nFragen? Unser Kundenservice ist rund um die Uhr für Sie da.\n\nkundenservice@funkplus-mobil.de · www.funkplus-mobil.de"
+  },
+  "leitpunkte": [
+    "Beschreiben Sie, welche Probleme Sie mit dem Netz haben.",
+    "Erläutern Sie, welche Folgen diese Probleme für Ihren Alltag haben.",
+    "Legen Sie dar, warum Ihre Rechnungen nicht dem Angebot entsprechen.",
+    "Erklären Sie, was Sie von FunkPlus Mobil erwarten."
+  ],
+  "model": {
+    "subject": "Beschwerde zu meinem Vertrag „Smart 20“ – Kundennummer 2207-4519",
+    "text": "Sehr geehrte Damen und Herren,\n\nvor zwei Monaten habe ich bei Ihnen den Tarif „Smart 20“ abgeschlossen, weil Sie in Ihrer Anzeige einen Handyvertrag „ohne böse Überraschungen“ versprechen. Leider habe ich seitdem genau das Gegenteil erlebt, sodass ich mich heute mit einer Beschwerde an Sie wende.\n\nZunächst zu den Kosten: Laut Anzeige zahle ich dauerhaft 14,99 Euro im Monat, ohne dass eine Anschlussgebühr anfällt. Auf meiner ersten Rechnung wurden mir jedoch 29,99 Euro für die „Aktivierung“ berechnet. Hinzu kommt ein sogenanntes Sicherheitspaket für monatlich 4,99 Euro, das ich nie bestellt habe. Insgesamt habe ich dadurch bereits knapp 40 Euro mehr bezahlt als vereinbart.\n\nEbenso enttäuschend ist die Netzqualität. In meiner Wohnung in Hamburg-Barmbek habe ich meistens nur einen Balken Empfang, und Telefongespräche brechen oft schon nach wenigen Minuten ab. Selbst in der Innenstadt ist die Verbindung häufig so langsam, dass sich nicht einmal Fotos verschicken lassen. Das widerspricht eindeutig Ihrem Versprechen vom „besten Netz in Stadt und Land“.\n\nIch fordere Sie daher auf, mir die zu Unrecht berechneten Beträge innerhalb von 14 Tagen zu erstatten und das Sicherheitspaket umgehend aus meinem Vertrag zu entfernen. Sollte sich die Netzqualität in den nächsten Wochen nicht spürbar verbessern, werde ich von meinem Recht auf monatliche Kündigung Gebrauch machen.\n\nIch bitte um eine kurze schriftliche Bestätigung.\n\nMit freundlichen Grüßen\nElif Demirci"
+  },
+  "modelNotes": [
+    "The model covers three points: why the bills do not match the offer (an activation fee and a security package that was never ordered), the network problems (one bar of signal at home, dropped calls, slow data) and what the writer expects. The consequences for everyday life are left out.",
+    "The writer opens with the costs because money is the strongest argument, then signals each new paragraph clearly: „Zunächst zu den Kosten“, „Ebenso enttäuschend ist …“, „Ich fordere Sie daher auf …“.",
+    "Exact figures make the complaint hard to reject: 29,99 Euro + 2 × 4,99 Euro ≈ „knapp 40 Euro“. Quoting the ad („ohne böse Überraschungen“, „besten Netz in Stadt und Land“) underlines the broken promises.",
+    "B2 structures: passive („wurden mir … berechnet“), Passiversatz with „sich lassen“, „ohne dass …“, an extended adjective („die zu Unrecht berechneten Beträge“) and a conditional without „wenn“ („Sollte sich … nicht verbessern, …“).",
+    "The demand is firm but formal: a deadline („innerhalb von 14 Tagen“), a clear consequence (cancelling the contract) and a request for written confirmation."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: warum die Rechnungen nicht zum Angebot passen (Aktivierungsgebühr und ein nie bestelltes Sicherheitspaket), welche Probleme es mit dem Netz gibt (zu Hause nur ein Balken, abgebrochene Gespräche, langsames Internet) und was die Schreiberin erwartet. Die Folgen für den Alltag lässt sie weg.",
+    "Die Schreiberin beginnt mit den Kosten, weil Geld das stärkste Argument ist. Danach kündigt sie jeden neuen Absatz klar an: „Zunächst zu den Kosten“, „Ebenso enttäuschend ist …“, „Ich fordere Sie daher auf …“.",
+    "Genaue Zahlen machen die Beschwerde schwer angreifbar: 29,99 Euro + 2 × 4,99 Euro ≈ „knapp 40 Euro“. Die Zitate aus der Anzeige („ohne böse Überraschungen“, „besten Netz in Stadt und Land“) zeigen, dass Versprechen gebrochen wurden.",
+    "B2-Strukturen: Passiv („wurden mir … berechnet“), Passiversatz mit „sich lassen“, „ohne dass …“, ein erweitertes Partizip („die zu Unrecht berechneten Beträge“) und ein Bedingungssatz ohne „wenn“ („Sollte sich … nicht verbessern, …“).",
+    "Die Forderung ist bestimmt, aber formell: eine Frist („innerhalb von 14 Tagen“), eine klare Konsequenz (Kündigung) und die Bitte um eine schriftliche Bestätigung."
+  ],
+  "phrases": [
+    { "de": "Ich habe bei Ihnen den Tarif … abgeschlossen.", "en": "I took out the … plan with you." },
+    { "de": "Leider habe ich seitdem genau das Gegenteil erlebt.", "en": "Unfortunately, since then I have experienced exactly the opposite." },
+    { "de": "Zunächst zu den Kosten: …", "en": "First, regarding the costs: …" },
+    { "de": "Auf meiner Rechnung wurden mir … berechnet.", "en": "I was charged … on my bill." },
+    { "de": "Hinzu kommt …, das ich nie bestellt habe.", "en": "On top of that there is …, which I never ordered." },
+    { "de": "Ebenso enttäuschend ist …", "en": "Equally disappointing is …" },
+    { "de": "Das widerspricht eindeutig Ihrem Versprechen.", "en": "This clearly contradicts your promise." },
+    { "de": "Ich fordere Sie auf, mir die zu Unrecht berechneten Beträge zu erstatten.", "en": "I request that you refund the amounts charged wrongly." },
+    { "de": "Sollte sich … nicht verbessern, werde ich …", "en": "Should … not improve, I will …" },
+    { "de": "Ich werde von meinem Recht auf Kündigung Gebrauch machen.", "en": "I will exercise my right to cancel the contract." }
+  ],
+  "glossary": [
+    { "de": "einen Vertrag abschließen", "en": "to take out / sign a contract" },
+    { "de": "die Anschlussgebühr", "en": "connection fee" },
+    { "de": "das Datenvolumen", "en": "data allowance" },
+    { "de": "die Netzabdeckung", "en": "network coverage" },
+    { "de": "der Empfang", "en": "reception (signal)" },
+    { "de": "monatlich kündbar", "en": "can be cancelled every month" },
+    { "de": "zu Unrecht", "en": "wrongly, unjustly" },
+    { "de": "von etwas Gebrauch machen", "en": "to make use of something" }
+  ]
+}

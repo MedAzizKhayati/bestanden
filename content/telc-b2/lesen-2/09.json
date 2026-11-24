@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-09",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Lebensmittel im Müll",
+  "topic": "essen",
+  "difficulty": 2,
+  "article": {
+    "headline": "Gekauft, vergessen, weggeworfen",
+    "lead": "Mehr als die Hälfte aller Lebensmittelabfälle entsteht in Privathaushalten. Eine neue Kasseler Studie kommt zu dem Schluss, dass die Ursachen weniger im Supermarkt als im Familienalltag zu suchen sind.",
+    "paragraphs": [
+      "Rund 78 Kilogramm Lebensmittel wirft jeder Mensch in Deutschland pro Jahr weg – zu diesem Ergebnis kommt zumindest die Hochrechnung des Kasseler Instituts für Haushaltsökonomie, das für seine aktuelle Untersuchung knapp 1.800 Haushalte über einen Zeitraum von vier Wochen begleitet hat. Die Teilnehmenden protokollierten in einem digitalen Küchentagebuch jedes entsorgte Lebensmittel, dessen ungefähre Menge sowie den Anlass für die Entsorgung. Den größten Anteil machten dabei frisches Obst und Gemüse aus, gefolgt von Brot, Backwaren und Milchprodukten.",
+      "Bemerkenswert ist für die Projektleiterin Hanna Wiesecke jedoch weniger die Gesamtmenge als die Verteilung der Ursachen. Lange galt der übermäßige Wocheneinkauf als Hauptproblem, also die Neigung, mehr Waren in den Einkaufswagen zu legen, als tatsächlich benötigt werden. Die Tagebücher zeichnen ein anderes Bild: In fast der Hälfte der dokumentierten Fälle waren Lebensmittel durchaus mit einer konkreten Absicht gekauft worden, doch die geplante Mahlzeit fiel aus – wegen Überstunden, einer kurzfristigen Einladung oder eines spontanen Restaurantbesuchs. „Die Menschen kaufen keineswegs gedankenlos ein, aber ihr Alltag hält sich nicht an ihre Pläne“, fasst Wiesecke zusammen.",
+      "Eine geringere Rolle als häufig angenommen spielt dagegen das Mindesthaltbarkeitsdatum. Zwar gaben in der begleitenden Befragung 41 Prozent der Teilnehmenden an, Produkte nach Ablauf des Datums grundsätzlich ungeprüft zu entsorgen. Bei der Auswertung der Tagebücher ließ sich allerdings nur etwa jedes sechste weggeworfene Lebensmittel auf ein überschrittenes Datum zurückführen. Offenbar überschätzen viele Verbraucher selbst, wie stark sie sich an dem aufgedruckten Datum orientieren – ein Befund, der nach Ansicht der Forschenden die Aussagekraft reiner Umfragen grundsätzlich infrage stellt.",
+      "Entsprechend zurückhaltend beurteilt Wiesecke eine Forderung, die Markus Pfeilsticker von der Verbraucherinitiative „Teller statt Tonne“ seit Jahren erhebt: Bei lange haltbaren Produkten wie Reis, Nudeln oder Zucker solle der Gesetzgeber auf die Angabe eines Datums vollständig verzichten. Pfeilsticker hält diese Änderung für längst überfällig, da solche Waren bei sachgemäßer Lagerung über Jahre genießbar blieben. Gesundheitliche Bedenken hat zwar auch Wiesecke nicht, eine spürbare Verringerung der Abfallmengen erwartet sie von einer Abschaffung jedoch kaum: „Gerade Nudeln und Reis landen ohnehin so gut wie nie im Müll.“",
+      "Deutliche Unterschiede zeigten sich zwischen den verschiedenen Haushaltsformen. Pro Kopf am meisten entsorgen jüngere Alleinlebende und Familien mit kleinen Kindern, am wenigsten dagegen Haushalte, deren Mitglieder älter als 65 Jahre sind. Die Gründe unterscheiden sich allerdings erheblich: Während Alleinlebende vor allem über Packungsgrößen klagen, die für eine Person schlicht zu groß sind, scheitert die Planung in Familien häufig an den schwer vorhersehbaren Essenswünschen der Kinder. Das Haushaltseinkommen hatte dagegen erstaunlich wenig Einfluss auf die Menge der Abfälle.",
+      "Wie sich die Abfallmenge im Alltag verringern lässt, untersuchte das Institut anschließend in einem Pilotprojekt mit 240 Kasseler Haushalten. Die eine Hälfte erhielt eine App, die an bald ablaufende Vorräte erinnert, die andere verpflichtete sich zu zwei einfachen Routinen: einem Blick in den Kühlschrank vor jedem Einkauf und einem festen „Resteabend“ pro Woche. Das Ergebnis fiel eindeutig aus. Während die Nutzung der App schon nach wenigen Wochen merklich nachließ, verringerten die Haushalte mit festen Routinen ihre Abfallmenge innerhalb von drei Monaten um rund ein Viertel.",
+      "Für die Politik, die bis 2030 eine Halbierung der Lebensmittelabfälle anstrebt, enthält die Studie damit eine unbequeme Botschaft. Aufklärungskampagnen, die in erster Linie an das schlechte Gewissen der Verbraucher appellieren, hält Wiesecke für wenig zielführend. „Niemand wirft gern Essen weg“, betont sie. „Wer etwas verändern will, sollte den Menschen nicht ihre Verschwendung vorhalten, sondern ihnen helfen, ihren Alltag realistischer zu planen.“"
+    ],
+    "source": "Haushalt & Gesellschaft – Das Verbrauchermagazin"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Als häufigste Ursache für weggeworfene Lebensmittel ermittelte die Kasseler Studie, dass …",
+      "options": [
+        { "key": "a", "text": "beim wöchentlichen Großeinkauf deutlich mehr Waren als nötig gekauft werden." },
+        { "key": "b", "text": "geplante Mahlzeiten wegen kurzfristiger Änderungen im Tagesablauf ausfallen." },
+        { "key": "c", "text": "viele Haushalte die Bedeutung des Haltbarkeitsdatums falsch verstehen." }
+      ],
+      "answer": "b",
+      "explanation": "„In fast der Hälfte der dokumentierten Fälle … doch die geplante Mahlzeit fiel aus – wegen Überstunden, einer kurzfristigen Einladung …“ – food was bought for a meal that then did not happen, so (b). „Lange galt der übermäßige Wocheneinkauf als Hauptproblem“, but the diaries show „ein anderes Bild“ (a). The best-before date plays „eine geringere Rolle als häufig angenommen“ (c).",
+      "explanationDe": "„In fast der Hälfte der dokumentierten Fälle … doch die geplante Mahlzeit fiel aus – wegen Überstunden, einer kurzfristigen Einladung …“ – die Lebensmittel wurden für ein Essen gekauft, das dann nicht stattfand, also (b). „Lange galt der übermäßige Wocheneinkauf als Hauptproblem“, aber die Tagebücher zeigen „ein anderes Bild“ (a). Das Mindesthaltbarkeitsdatum spielt „eine geringere Rolle als häufig angenommen“ (c).",
+      "evidence": "In fast der Hälfte der dokumentierten Fälle waren Lebensmittel durchaus mit einer konkreten Absicht gekauft worden, doch die geplante Mahlzeit fiel aus"
+    },
+    {
+      "n": 2,
+      "stem": "Im Hinblick auf das Mindesthaltbarkeitsdatum ergab die Auswertung der Tagebücher, dass …",
+      "options": [
+        { "key": "a", "text": "die Mehrheit der Teilnehmenden abgelaufene Produkte ohne genauere Prüfung entsorgt." },
+        { "key": "b", "text": "ungefähr ein Sechstel der Teilnehmenden das aufgedruckte Datum grundsätzlich ignoriert." },
+        { "key": "c", "text": "deutlich weniger Abfall darauf zurückgeht, als die Angaben der Befragten vermuten ließen." }
+      ],
+      "answer": "c",
+      "explanation": "41 % said they throw products away after the date, but „nur etwa jedes sechste weggeworfene Lebensmittel“ was due to an expired date – people „überschätzen“ the role of the date, so (c). 41 % is not a majority, and this was the survey, not the diaries (a). „Jedes sechste“ refers to the discarded food, not to the participants (b).",
+      "explanationDe": "41 Prozent sagten, sie werfen Produkte nach dem Datum weg, aber nur „etwa jedes sechste weggeworfene Lebensmittel“ hatte ein abgelaufenes Datum – die Leute „überschätzen“ die Rolle des Datums, also (c). 41 Prozent sind keine Mehrheit, und das kam aus der Befragung, nicht aus den Tagebüchern (a). „Jedes sechste“ bezieht sich auf die weggeworfenen Lebensmittel, nicht auf die Teilnehmenden (b).",
+      "evidence": "Bei der Auswertung der Tagebücher ließ sich allerdings nur etwa jedes sechste weggeworfene Lebensmittel auf ein überschrittenes Datum zurückführen"
+    },
+    {
+      "n": 3,
+      "stem": "Die Forderung, bei Reis und Nudeln auf ein Datum zu verzichten, hält Hanna Wiesecke für …",
+      "options": [
+        { "key": "a", "text": "wenig wirkungsvoll, weil gerade diese Produkte nur äußerst selten weggeworfen werden." },
+        { "key": "b", "text": "längst überfällig, da solche Lebensmittel bei richtiger Aufbewahrung jahrelang essbar bleiben." },
+        { "key": "c", "text": "gesundheitlich bedenklich, weil verdorbene Ware dann schlechter erkannt werden könnte." }
+      ],
+      "answer": "a",
+      "explanation": "Wiesecke expects „eine spürbare Verringerung der Abfallmengen … jedoch kaum“, because pasta and rice „landen ohnehin so gut wie nie im Müll“, so (a). „Längst überfällig“ is the view of Markus Pfeilsticker, not of Wiesecke (b). „Gesundheitliche Bedenken hat zwar auch Wiesecke nicht“ – she sees no health risk (c).",
+      "explanationDe": "Wiesecke erwartet „eine spürbare Verringerung der Abfallmengen … jedoch kaum“, weil Nudeln und Reis „ohnehin so gut wie nie im Müll“ landen, also (a). „Längst überfällig“ ist die Meinung von Markus Pfeilsticker, nicht von Wiesecke (b). „Gesundheitliche Bedenken hat zwar auch Wiesecke nicht“ – sie sieht kein Risiko für die Gesundheit (c).",
+      "evidence": "eine spürbare Verringerung der Abfallmengen erwartet sie von einer Abschaffung jedoch kaum"
+    },
+    {
+      "n": 4,
+      "stem": "Dass in Familien mit kleinen Kindern viel weggeworfen wird, liegt laut Studie vor allem daran, dass …",
+      "options": [
+        { "key": "a", "text": "die im Handel angebotenen Packungen für den Bedarf einer Familie zu groß sind." },
+        { "key": "b", "text": "sich kaum vorhersagen lässt, worauf die Kinder gerade Appetit haben." },
+        { "key": "c", "text": "Familien mit geringem Einkommen häufiger zu günstigen Großpackungen greifen." }
+      ],
+      "answer": "b",
+      "explanation": "In families „scheitert die Planung … häufig an den schwer vorhersehbaren Essenswünschen der Kinder“, so (b). Packages that are too big are the complaint of people living alone („für eine Person schlicht zu groß“), not of families (a). Income „hatte … erstaunlich wenig Einfluss“ on the amount of waste (c).",
+      "explanationDe": "In Familien „scheitert die Planung … häufig an den schwer vorhersehbaren Essenswünschen der Kinder“, also (b). Über zu große Packungen klagen die Alleinlebenden („für eine Person schlicht zu groß“), nicht die Familien (a). Das Einkommen „hatte … erstaunlich wenig Einfluss“ auf die Menge der Abfälle (c).",
+      "evidence": "scheitert die Planung in Familien häufig an den schwer vorhersehbaren Essenswünschen der Kinder"
+    },
+    {
+      "n": 5,
+      "stem": "Im Kasseler Pilotprojekt …",
+      "options": [
+        { "key": "a", "text": "haben feste Gewohnheiten die Abfallmenge der Haushalte spürbar reduziert." },
+        { "key": "b", "text": "wurde die Erinnerungs-App von den meisten Teilnehmenden dauerhaft genutzt." },
+        { "key": "c", "text": "haben die beteiligten Haushalte ihre Abfälle innerhalb eines Vierteljahres halbiert." }
+      ],
+      "answer": "a",
+      "explanation": "The households with fixed routines cut their waste „innerhalb von drei Monaten um rund ein Viertel“ – a clear reduction, so (a). The use of the app „schon nach wenigen Wochen merklich nachließ“ (b). They cut it by a quarter, not by half – the „Halbierung“ is the political goal for 2030 (c).",
+      "explanationDe": "Die Haushalte mit festen Routinen haben ihre Abfälle „innerhalb von drei Monaten um rund ein Viertel“ verringert – eine deutliche Verringerung, also (a). Die Nutzung der App ließ „schon nach wenigen Wochen merklich“ nach (b). Es war ein Viertel, nicht die Hälfte – die „Halbierung“ ist das politische Ziel für 2030 (c).",
+      "evidence": "verringerten die Haushalte mit festen Routinen ihre Abfallmenge innerhalb von drei Monaten um rund ein Viertel"
+    }
+  ],
+  "glossary": [
+    { "de": "die Hochrechnung", "en": "projection, extrapolation" },
+    { "de": "protokollieren", "en": "to record, to log" },
+    { "de": "die Entsorgung / entsorgen", "en": "disposal / to dispose of" },
+    { "de": "die Neigung", "en": "tendency, inclination" },
+    { "de": "das Mindesthaltbarkeitsdatum", "en": "best-before date" },
+    { "de": "eine Forderung erheben", "en": "to make a demand" },
+    { "de": "sachgemäß", "en": "proper, appropriate" },
+    { "de": "genießbar", "en": "edible, fit to eat" },
+    { "de": "vorhersehbar", "en": "predictable" },
+    { "de": "nachlassen", "en": "to decrease, to wane" },
+    { "de": "zielführend", "en": "effective, purposeful" },
+    { "de": "jemandem etwas vorhalten", "en": "to reproach someone for something" }
+  ]
+}

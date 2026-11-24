@@ -5,6 +5,8 @@ import { useState } from "react";
 import { useSwitchLocale } from "@/components/app/locale-switcher";
 import { Button } from "@/components/ui/button";
 import { useLocale, useT } from "@/i18n/client";
+import { EXAMS } from "@/lib/exams";
+import { useExam } from "@/lib/exams/use-exam";
 import { LOCALES, LOCALE_LABELS } from "@/i18n/config";
 import Link from "@/i18n/link";
 import { latestPlacement, usePlacement } from "@/lib/store/placement";
@@ -23,6 +25,7 @@ export function Welcome() {
   const to = t.onboarding;
   const switchLocale = useSwitchLocale();
   const settings = useSettings();
+  const exam = useExam();
   const [step, setStep] = useState(0);
   const done = () => settings.update({ onboarded: true });
 
@@ -86,8 +89,31 @@ export function Welcome() {
 
         {step === 1 && (
           <div className="space-y-6">
+            <div className="space-y-2">
+              <h2 className="text-2xl font-semibold tracking-tight">{to.goal.exam}</h2>
+              <div className="grid gap-2 sm:grid-cols-2">
+                {EXAMS.map((e) => (
+                  <button
+                    key={e.slug}
+                    type="button"
+                    aria-pressed={exam.slug === e.slug}
+                    onClick={() => settings.update({ examSlug: e.slug })}
+                    className={cn(
+                      "flex items-start gap-3 rounded-xl border p-3 text-left transition-colors",
+                      exam.slug === e.slug ? "border-primary bg-primary/10" : "bg-background/70 hover:bg-muted",
+                    )}
+                  >
+                    <span className="grid size-8 shrink-0 place-items-center rounded-lg bg-primary/15 text-xs font-bold text-primary">{e.level}</span>
+                    <span>
+                      <span className="block text-sm font-semibold">{e.name}</span>
+                      <span className="block text-xs text-muted-foreground">{to.goal.examHint(e.level)}</span>
+                    </span>
+                  </button>
+                ))}
+              </div>
+            </div>
             <div>
-              <h2 className="text-2xl font-semibold tracking-tight">{to.goal.title}</h2>
+              <h2 className="text-xl font-semibold tracking-tight">{to.goal.title}</h2>
               <p className="mt-1 text-muted-foreground">{to.goal.lead}</p>
             </div>
             <div className="flex flex-wrap items-center gap-3">
@@ -171,7 +197,7 @@ export function Welcome() {
 export function FirstSteps({ examSlug, firstPartHref }: { examSlug: string; firstPartHref: string }) {
   const t = useT();
   const fs = t.onboarding.firstSteps;
-  const placement = usePlacement(latestPlacement);
+  const placement = usePlacement(latestPlacement(examSlug));
   const attempts = useProgress((s) => s.attempts.length);
   const writing = useProgress((s) => s.writing.length);
   const cards = useVocab((s) => Object.keys(s.cards).length);

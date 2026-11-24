@@ -2,8 +2,8 @@ import type { Messages } from "../en";
 
 export const writing: Messages["writing"] = {
   meta: {
-    title: "Schreiben – informelle und halbformelle E-Mails mit KI-Korrektur",
-    description: "Schreib E-Mails für telc B1 unter Prüfungsbedingungen und lass sie nach den offiziellen Kriterien bewerten.",
+    title: "Schreiben – Prüfungs-E-Mails mit KI-Korrektur",
+    description: "Schreib E-Mails für die telc-Prüfung unter Prüfungsbedingungen und lass sie nach den offiziellen Kriterien bewerten.",
     setTitle: (number, title) => `Schreiben ${number} · ${title}`,
   },
 
@@ -17,7 +17,13 @@ export const writing: Messages["writing"] = {
       part: "Teil",
       informal: "Informell (du)",
       semiformal: "Halbformell (Sie)",
+      request: "Bitte um Informationen",
+      complaint: "Beschwerde",
+      textB2: "Die Prüfenden achten auf die Merkmale der Textsorte, auf das Register und darauf, ob drei Punkte in jeweils mehreren Sätzen ausgeführt sind.",
     },
+    choiceTitle: "Aufgabe A oder B?",
+    choiceText:
+      "In der Prüfung bekommst du zwei Aufgaben und wählst eine aus – innerhalb der 30 Minuten. Lies beide Situationen, nimm die mit den Punkten, zu denen dir am meisten einfällt, und fang nach zwei, drei Minuten an zu schreiben. In den Modelltests übst du diese Wahl.",
     marking: {
       title: "So wird bewertet",
       text: "A = 5 · B = 3 · C = 1 · D = 0 pro Kriterium, die Summe × 3.",
@@ -101,7 +107,9 @@ export const writing: Messages["writing"] = {
     clickHint: "Klicke auf eine unterstrichene Stelle, dann siehst du die Korrektur.",
     noErrors: "Keine Fehler gefunden – ausgezeichnet!",
     correctedHint: "Dein Text – nur die Fehler sind korrigiert.",
-    improvedHint: "Deine Ideen auf oberem B1-Niveau – achte auf die Konnektoren und Redemittel.",
+    improvedHint: (level) => `Deine Ideen auf oberem ${level}-Niveau – achte auf die Konnektoren und Redemittel.`,
+    leitpunkteAll: "Alle vier Punkte müssen behandelt werden.",
+    leitpunkteThree: "Drei Punkte sind nötig (oder zwei und ein eigener Aspekt) – jeder in mehr als einem Satz.",
     whatWorked: "Das war gut",
     nextTime: "Beim nächsten Mal",
     errorTypes: {
@@ -140,13 +148,14 @@ export const writing: Messages["writing"] = {
     connectors: {
       label: "Konnektoren",
       used: (n, list) => `${n === 1 ? "1 Konnektor" : `${n} verschiedene`}: ${list}`,
-      aim: " – Ziel: 5 oder mehr.",
+      aim: (n) => ` – Ziel: ${n} oder mehr.`,
       none: "Verbinde deine Punkte: weil, deshalb, außerdem, trotzdem, obwohl, damit …",
     },
     length: {
       label: "Länge",
       detail: (words) =>
         `${words === 1 ? "1 Wort" : `${words} Wörter`} · Ziel: etwa 130–180 (es gibt kein offizielles Minimum, aber alle 4 Punkte brauchen Platz).`,
+      detailB2: (words) => `${words === 1 ? "1 Wort" : `${words} Wörter`} · mindestens 150 sind Pflicht – Ziel: 180–220.`,
     },
     closing: {
       label: "Schluss und Gruß",

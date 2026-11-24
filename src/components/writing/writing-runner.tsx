@@ -32,7 +32,7 @@ import { attemptKey, uid, useProgress, type WritingFeedback, type WritingRecord 
 import { useSettings } from "@/lib/store/settings";
 import { cn } from "@/lib/utils";
 import { wordCount } from "@/lib/utils/text";
-import { runLiveChecks } from "@/lib/writing/checks";
+import { B1_TARGETS, B2_TARGETS, runLiveChecks } from "@/lib/writing/checks";
 import { LiveChecksList, PhraseSheet, UmlautBar, type PhraseGroup } from "./editor-tools";
 import { EmailCard } from "./email-card";
 import { WritingFeedbackView } from "./feedback-view";
@@ -109,8 +109,11 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
     if (phase === "writing") storeAnswers(key, { subject, text });
   }, [subject, text, phase, key, storeAnswers]);
 
-  const checks = useMemo(() => runLiveChecks(text, subject, set.register, locale), [text, subject, set.register, locale]);
+  const flow = part.writing;
+  const targets = flow?.minWords ? B2_TARGETS : B1_TARGETS;
+  const checks = useMemo(() => runLiveChecks(text, subject, set.register, locale, targets), [text, subject, set.register, locale, targets]);
   const words = wordCount(text);
+  const coverLabel = flow?.cover === "three" ? "Behandeln Sie drei der vier Punkte – oder zwei und einen eigenen Aspekt" : "Schreiben Sie etwas zu allen vier Punkten";
 
   const fallbackError = w.review.aiFailedFallback;
   const requestFeedback = useCallback(
@@ -222,7 +225,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
       <div className="rounded-xl border bg-card p-4">
         <div className="mb-1.5 flex items-center justify-between gap-2">
           <span className="text-xs font-semibold tracking-wider text-muted-foreground uppercase">{w.editor.situation}</span>
-          <Badge variant="secondary">{set.register === "informal" ? w.register.informal : w.register.semiformal}</Badge>
+          <Badge variant="secondary">{set.taskLabel ?? (set.register === "informal" ? w.register.informal : w.register.semiformal)}</Badge>
         </div>
         <p className="font-medium">{set.situation}</p>
       </div>
@@ -230,7 +233,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
       <div className="rounded-xl border bg-card p-4">
         <div className="mb-2 flex items-center justify-between gap-2">
           <span className="flex items-center gap-2 text-sm font-semibold">
-            <ListChecks className="size-4" /> Schreiben Sie etwas zu allen vier Punkten
+            <ListChecks className="size-4" /> {coverLabel}
           </span>
         </div>
         <ul className="space-y-2">
@@ -261,6 +264,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
           <div className="space-y-4 p-5 sm:p-7">
             <div className="flex flex-wrap gap-2">
               <Badge variant="outline" className="bg-background text-schreiben">Schreiben · Aufgabe {setNumber}</Badge>
+              {set.taskLabel && <Badge variant="secondary">{set.taskLabel}</Badge>}
               <Badge variant="secondary">{set.register === "informal" ? w.emailType.informal : w.emailType.semiformal}</Badge>
               <Badge variant="secondary">{t.common.minutes(part.minutes)}</Badge>
             </div>
@@ -275,6 +279,7 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
                   </button>
                 )}
               </div>
+              {set.taskLabel && <p className="mb-2 font-medium">{set.situation}</p>}
               <p className="leading-relaxed font-medium">{part.instruction}</p>
               {locale === "en" && showEnglish && <p className="mt-2 text-sm text-muted-foreground">{part.instructionEn}</p>}
             </div>
@@ -420,7 +425,10 @@ function Runner({ examId, set, setNumber, part, rubric, phraseGroups, links, tip
               />
               <div className="flex items-center justify-between border-t px-4 py-2 text-xs text-muted-foreground">
                 <span>{w.editor.spellcheckOff}</span>
-                <span className={cn("font-medium tabular", words >= 120 ? "text-success" : words >= 70 ? "text-warning" : "")}>{t.common.words(words)}</span>
+                <span className={cn("font-medium tabular", words >= targets.okWords ? "text-success" : words >= targets.warnWords ? "text-warning" : "")}>
+                  {t.common.words(words)}
+                  {flow?.minWords ? ` / ${flow.minWords}` : ""}
+                </span>
               </div>
             </div>
             <div className="rounded-2xl border bg-card p-4">

@@ -30,11 +30,16 @@ export default async function WritingTaskPage(props: PageProps<"/[locale]/[exam]
   const set = getSet(exam.id, part.id, number, locale);
   if (!set || set.type !== "writing-email") notFound();
 
-  const bankId = set.register === "informal" ? "schreiben-informell" : "schreiben-halbformell";
-  const bank = getPhraseBanks(locale).find((b) => b.id === bankId);
+  const banks = getPhraseBanks(locale);
+  const bankIds =
+    exam.level === "B2"
+      ? [/beschwerde|reklamation/i.test(set.taskLabel ?? "") ? "b2-schreiben-beschwerde" : "b2-schreiben-anfrage", "b2-schreiben-allgemein"]
+      : [set.register === "informal" ? "schreiben-informell" : "schreiben-halbformell"];
   const phraseGroups: PhraseGroup[] = [
     { title: "Für diese Aufgabe", titleEn: "For this task", phrases: set.phrases.map((p) => ({ de: p.de, en: p.en })) },
-    ...(bank?.groups ?? []).map((g) => ({ title: g.title, titleEn: g.titleEn, phrases: g.phrases })),
+    ...bankIds
+      .flatMap((id) => banks.find((b) => b.id === id)?.groups ?? [])
+      .map((g) => ({ title: g.title, titleEn: g.titleEn, phrases: g.phrases })),
   ];
   const nb = getSetNeighbours(exam.id, part.id, number);
 

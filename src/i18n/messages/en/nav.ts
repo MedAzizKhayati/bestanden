@@ -41,7 +41,7 @@ export const nav = {
   a11y: { close: "Close", toggleSidebar: "Toggle sidebar", notifications: "Notifications", closeToast: "Close notification" },
   searchGroups: { pages: "Pages", exam: "Exam", exercises: "Exercises", grammar: "Grammar", vocabulary: "Vocabulary", lists: "Word lists" },
   search: {
-    grammar: "All B1 grammar topics",
+    grammar: "All grammar topics for B1 and B2",
     vocabulary: "Themes, flashcards, der/die/das",
     phrases: "Writing and speaking phrases",
     lists: "Verbs with prepositions, irregular verbs, connectors",

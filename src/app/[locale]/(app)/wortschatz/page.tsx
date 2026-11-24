@@ -20,6 +20,7 @@ export default async function VocabularyPage() {
     titleEn: theme.titleEn,
     description: theme.description,
     icon: theme.icon,
+    level: theme.level,
     wordIds: theme.words.map((w) => w.id),
   }));
   return (

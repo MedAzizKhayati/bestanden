@@ -1,0 +1,253 @@
+{
+  "id": "infinitivsaetze-b2",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 29,
+  "title": "Infinitivsätze in Vergangenheit und Passiv",
+  "titleEn": "Infinitive clauses in the past and in the passive",
+  "summary": "Use the perfect infinitive (gemacht zu haben, gefahren zu sein) for an action that happened before the main verb, and the passive infinitive (eingeladen zu werden, eingeladen worden zu sein) when something is done to the subject – and know when only a dass-clause works.",
+  "summaryDe": "Mit dem Infinitiv Perfekt (gemacht zu haben, gefahren zu sein) zeigst du, dass eine Handlung vor dem Verb im Hauptsatz passiert ist; mit dem Infinitiv Passiv (eingeladen zu werden, eingeladen worden zu sein), dass etwas mit dem Subjekt gemacht wird. Außerdem lernst du, wann nur ein dass-Satz möglich ist.",
+  "examRelevance": ["sprachbausteine", "schreiben", "lesen", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "A zu-infinitive has **four forms**. The **present** infinitive (zu machen) expresses the same time as the main verb or something later; the **perfect** infinitive (**gemacht zu haben / gefahren zu sein**) expresses an action that was **completed before**. In the passive: **gemacht zu werden** (same time or later) and **gemacht worden zu sein** (before). **zu** always stands directly before the last verb: haben, sein, werden or the infinitive itself.",
+      "mdDe": "Der zu-Infinitiv hat **vier Formen**. Der Infinitiv **Präsens** (zu machen) zeigt Gleichzeitigkeit oder etwas Späteres; der Infinitiv **Perfekt** (**gemacht zu haben / gefahren zu sein**) zeigt eine Handlung, die **vorher abgeschlossen** war. Im Passiv: **gemacht zu werden** (gleichzeitig oder später) und **gemacht worden zu sein** (vorher). **zu** steht immer direkt vor dem letzten Verb: vor haben, sein, werden oder vor dem Infinitiv selbst."
+    },
+    {
+      "type": "text",
+      "heading": "Before or at the same time?",
+      "headingDe": "Vorher oder gleichzeitig?",
+      "md": "You know the basic zu-infinitive from B1 (see *Infinitiv mit zu*). At B2 the question is **when** the action of the infinitive clause happens compared with the main verb:\n\n- **Same time or later → present infinitive:** Ich hoffe, die Stelle **zu bekommen**. (The decision is still to come.)\n- **Earlier → perfect infinitive:** Ich bin froh, die Stelle **bekommen zu haben**. (I already have the job.)\n\nThe tense of the main clause does not change this: Er **behauptete**, den Brief nie **bekommen zu haben**. – The letter (not) arriving happened before his claim.\n\n**haben or sein?** Exactly as in the Perfekt: verbs of movement and change of state, plus bleiben, sein and werden, take **sein** – angekommen **zu sein**, aufgewacht **zu sein**, krank gewesen **zu sein**; all others take **haben** – gearbeitet **zu haben**, sich beworben **zu haben**.\n\n**Separable verbs:** in the perfect infinitive, zu is **not** inserted into the verb – the participle already has its ge-: angerufen zu haben, ausgezogen zu sein (not „anzugerufen“).",
+      "mdDe": "Den einfachen zu-Infinitiv kennst du schon von B1 (siehe *Infinitiv mit zu*). Auf B2 geht es um die Frage, **wann** die Handlung im Infinitivsatz passiert – im Vergleich zum Verb im Hauptsatz:\n\n- **Gleichzeitig oder später → Infinitiv Präsens:** Ich hoffe, die Stelle **zu bekommen**. (Die Entscheidung kommt erst noch.)\n- **Vorher → Infinitiv Perfekt:** Ich bin froh, die Stelle **bekommen zu haben**. (Ich habe die Stelle schon.)\n\nDie Zeitform im Hauptsatz ändert daran nichts: Er **behauptete**, den Brief nie **bekommen zu haben**. – Das (Nicht-)Ankommen des Briefes liegt vor seiner Behauptung.\n\n**haben oder sein?** Genau wie im Perfekt: Verben der Bewegung und der Zustandsveränderung sowie bleiben, sein und werden nehmen **sein** – angekommen **zu sein**, aufgewacht **zu sein**, krank gewesen **zu sein**; alle anderen nehmen **haben** – gearbeitet **zu haben**, sich beworben **zu haben**.\n\n**Trennbare Verben:** Im Infinitiv Perfekt wird zu **nicht** in das Verb eingeschoben – das Partizip hat ja schon sein ge-: angerufen zu haben, ausgezogen zu sein (nicht „anzugerufen“)."
+    },
+    {
+      "type": "table",
+      "heading": "The four forms",
+      "headingDe": "Die vier Formen",
+      "columns": ["Form", "Construction", "Time", "Example"],
+      "columnsDe": ["Form", "Bildung", "Zeit", "Beispiel"],
+      "rows": [
+        ["Präsens Aktiv", "zu + infinitive", "same time / later", "Ich hoffe, morgen pünktlich anzukommen."],
+        ["Perfekt Aktiv", "Partizip II + zu haben / zu sein", "before", "Ich bin froh, pünktlich angekommen zu sein."],
+        ["Präsens Passiv", "Partizip II + zu werden", "same time / later", "Ich hoffe, zum Gespräch eingeladen zu werden."],
+        ["Perfekt Passiv", "Partizip II + worden zu sein", "before", "Ich freue mich, zum Gespräch eingeladen worden zu sein."]
+      ],
+      "rowsDe": [
+        ["Präsens Aktiv", "zu + Infinitiv", "gleichzeitig / später", "Ich hoffe, morgen pünktlich anzukommen."],
+        ["Perfekt Aktiv", "Partizip II + zu haben / zu sein", "vorher", "Ich bin froh, pünktlich angekommen zu sein."],
+        ["Präsens Passiv", "Partizip II + zu werden", "gleichzeitig / später", "Ich hoffe, zum Gespräch eingeladen zu werden."],
+        ["Perfekt Passiv", "Partizip II + worden zu sein", "vorher", "Ich freue mich, zum Gespräch eingeladen worden zu sein."]
+      ],
+      "note": "In the passive it is always worden (not geworden), and the perfect passive always ends in zu sein.",
+      "noteDe": "Im Passiv heißt es immer worden (nicht geworden), und das Perfekt Passiv endet immer auf zu sein."
+    },
+    {
+      "type": "table",
+      "heading": "Forms of frequent verbs",
+      "headingDe": "Formen häufiger Verben",
+      "columns": ["Verb", "Präsens Aktiv", "Perfekt Aktiv", "Präsens Passiv", "Perfekt Passiv"],
+      "rows": [
+        ["einladen", "einzuladen", "eingeladen zu haben", "eingeladen zu werden", "eingeladen worden zu sein"],
+        ["informieren", "zu informieren", "informiert zu haben", "informiert zu werden", "informiert worden zu sein"],
+        ["übersehen", "zu übersehen", "übersehen zu haben", "übersehen zu werden", "übersehen worden zu sein"],
+        ["ankommen", "anzukommen", "angekommen zu sein", "–", "–"],
+        ["sich entscheiden", "sich zu entscheiden", "sich entschieden zu haben", "–", "–"]
+      ],
+      "note": "Intransitive verbs like ankommen and reflexive verbs like sich entscheiden have no passive infinitive. Inseparable verbs (übersehen, verstehen) never take ge- or an inserted zu.",
+      "noteDe": "Intransitive Verben wie ankommen und reflexive Verben wie sich entscheiden haben keinen Infinitiv Passiv. Untrennbare Verben (übersehen, verstehen) bekommen nie ge- und nie ein eingeschobenes zu."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich bin wirklich froh, das Studium trotz aller Schwierigkeiten **abgeschlossen zu haben**.", "en": "I'm really glad to have finished my degree despite all the difficulties." },
+        { "de": "Der Zeuge gab an, den Fahrer schon einmal in der Nachbarschaft **gesehen zu haben**.", "en": "The witness stated that he had seen the driver in the neighbourhood before." },
+        { "de": "Sie bereut, nicht früher ins Ausland **gegangen zu sein**.", "en": "She regrets not having gone abroad earlier." },
+        { "de": "Wir bedauern, Sie nicht rechtzeitig über die Änderung **informiert zu haben**.", "en": "We regret not having informed you of the change in time." },
+        { "de": "Viele Beschäftigte haben Angst, eines Tages durch eine Software **ersetzt zu werden**.", "en": "Many employees are afraid of being replaced by software one day." },
+        { "de": "Der Politiker beschwerte sich, im Interview falsch **zitiert worden zu sein**.", "en": "The politician complained that he had been misquoted in the interview." },
+        { "de": "**Ohne** vorher **gefragt worden zu sein**, wurde sie in eine andere Abteilung versetzt.", "en": "Without having been asked beforehand, she was transferred to another department." },
+        { "de": "Sie unterschrieb den Vertrag, **ohne** ihn genau **gelesen zu haben**.", "en": "She signed the contract without having read it carefully." },
+        { "de": "Er bestreitet, an jenem Abend betrunken **gewesen zu sein**.", "en": "He denies having been drunk that evening." }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Infinitive clause or dass-clause?",
+      "headingDe": "Infinitivsatz oder dass-Satz?",
+      "md": "An infinitive clause has no subject of its own – the main clause must make clear who does the action. It usually refers to:\n\n- the **subject** of the main clause: **Ich** bin froh, die Prüfung bestanden zu haben. (= dass ich sie bestanden habe) This also applies to **versprechen**: **Er** hat mir versprochen, pünktlich zu sein. (= er ist pünktlich)\n- the **object** after bitten, raten, empfehlen, erlauben, verbieten, auffordern: Ich bitte **Sie**, mich zurückzurufen. (= dass Sie mich zurückrufen)\n- **people in general** after „Es ist wichtig / schwer / verboten …“: Es ist verboten, hier zu parken.\n\nYou **need** a dass-clause when …\n\n- the clause has a **different subject** – also a thing: Ich bin froh, **dass meine Tochter** die Prüfung bestanden hat. / Wir legen Wert darauf, **dass alle Anfragen** schnell beantwortet werden.\n- the main verb is **sagen, erzählen, merken** or **sehen** – the infinitive is unusual there: Er hat gesagt, **dass er** krank ist.\n\nWith the same subject, the infinitive is shorter and sounds better in writing: Ich hoffe, **dass ich** eingeladen werde. → Ich hoffe, eingeladen **zu werden**.",
+      "mdDe": "Ein Infinitivsatz hat kein eigenes Subjekt – der Hauptsatz muss zeigen, wer die Handlung macht. Meistens ist das:\n\n- das **Subjekt** des Hauptsatzes: **Ich** bin froh, die Prüfung bestanden zu haben. (= dass ich sie bestanden habe) Das gilt auch bei **versprechen**: **Er** hat mir versprochen, pünktlich zu sein. (= er ist pünktlich)\n- das **Objekt** nach bitten, raten, empfehlen, erlauben, verbieten, auffordern: Ich bitte **Sie**, mich zurückzurufen. (= dass Sie mich zurückrufen)\n- **Menschen allgemein** nach „Es ist wichtig / schwer / verboten …“: Es ist verboten, hier zu parken.\n\nDu **brauchst** einen dass-Satz, wenn …\n\n- der Satz ein **anderes Subjekt** hat – auch eine Sache: Ich bin froh, **dass meine Tochter** die Prüfung bestanden hat. / Wir legen Wert darauf, **dass alle Anfragen** schnell beantwortet werden.\n- das Verb im Hauptsatz **sagen, erzählen, merken** oder **sehen** ist – dort ist der Infinitiv unüblich: Er hat gesagt, **dass er** krank ist.\n\nBei gleichem Subjekt ist der Infinitiv kürzer und klingt im Schriftlichen besser: Ich hoffe, **dass ich** eingeladen werde. → Ich hoffe, eingeladen **zu werden**."
+    },
+    {
+      "type": "text",
+      "heading": "Typical triggers for the perfect infinitive",
+      "headingDe": "Typische Auslöser für den Infinitiv Perfekt",
+      "md": "The perfect infinitive is typical after expressions that look back on or evaluate something that has been done:\n\n- **Feelings:** froh / stolz / erleichtert / enttäuscht sein, sich freuen, bedauern, bereuen, sich schämen\n- **Claims and admissions:** behaupten, angeben, zugeben, bestreiten, sich erinnern\n- **Nouns and phrases:** das Gefühl / den Eindruck haben, Es war ein Fehler / ein Glück, …\n- **ohne … zu:** Er reichte den Antrag ein, **ohne** ihn **unterschrieben zu haben**.\n\nWith a different subject, ohne … zu becomes **ohne dass**: Er reichte den Antrag ein, **ohne dass** sein Chef ihn geprüft hatte.",
+      "mdDe": "Der Infinitiv Perfekt ist typisch nach Ausdrücken, mit denen man auf etwas Erledigtes zurückblickt oder es bewertet:\n\n- **Gefühle:** froh / stolz / erleichtert / enttäuscht sein, sich freuen, bedauern, bereuen, sich schämen\n- **Behauptungen und Geständnisse:** behaupten, angeben, zugeben, bestreiten, sich erinnern\n- **Nomen und Wendungen:** das Gefühl / den Eindruck haben, Es war ein Fehler / ein Glück, …\n- **ohne … zu:** Er reichte den Antrag ein, **ohne** ihn **unterschrieben zu haben**.\n\nBei einem anderen Subjekt wird aus ohne … zu **ohne dass**: Er reichte den Antrag ein, **ohne dass** sein Chef ihn geprüft hatte."
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 1:** a gap often asks for the right ending of an infinitive clause – „zu haben / zu sein / zu werden / worden zu sein“ – or for „dass“ vs. an infinitive. Look for time words (gestern, damals, bereits, endlich) and for „von“ + agent (→ passive). Then check: does the clause after the gap have its own subject and a conjugated verb? → dass.\n- **Schreiben:** in complaints and applications these forms sound precise and polite: „Ich bin enttäuscht, trotz zweimaliger Nachfrage keine Antwort erhalten zu haben.“ – „Ich würde mich freuen, zu einem Vorstellungsgespräch eingeladen zu werden.“\n- **Sprechen Teil 1:** evaluate your experience: „Im Nachhinein bin ich froh, diesen Schritt gewagt zu haben.“\n- **Lesen and Hören:** in reports („Der Konzern bestreitet, Kundendaten weitergegeben zu haben“) the perfect infinitive tells you that the action itself lies in the past.",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 1:** Eine Lücke fragt oft nach dem richtigen Ende eines Infinitivsatzes – „zu haben / zu sein / zu werden / worden zu sein“ – oder nach „dass“ oder Infinitiv. Achte auf Zeitangaben (gestern, damals, bereits, endlich) und auf „von“ + Handelnden (→ Passiv). Prüf dann: Hat der Satz nach der Lücke ein eigenes Subjekt und ein konjugiertes Verb? → dass.\n- **Schreiben:** In Beschwerden und Bewerbungen klingen diese Formen genau und höflich: „Ich bin enttäuscht, trotz zweimaliger Nachfrage keine Antwort erhalten zu haben.“ – „Ich würde mich freuen, zu einem Vorstellungsgespräch eingeladen zu werden.“\n- **Sprechen Teil 1:** Bewerte deine Erfahrung: „Im Nachhinein bin ich froh, diesen Schritt gewagt zu haben.“\n- **Lesen und Hören:** In Berichten („Der Konzern bestreitet, Kundendaten weitergegeben zu haben“) zeigt dir der Infinitiv Perfekt, dass die Handlung selbst in der Vergangenheit liegt."
+    },
+    {
+      "type": "warning",
+      "md": "**Three traps:**\n\n- **Position of zu:** zu goes before haben / sein / werden, not before the participle – „bestanden **zu haben**“, never „zu bestanden haben“.\n- **haben or sein:** „angekommen zu **sein**“, „gefahren zu **sein**“ – check the Perfekt of the verb.\n- **worden or geworden:** in the passive it is always „eingeladen **worden** zu sein“. „geworden“ is only the participle of werden as a full verb (to become): „Sie ist stolz, Ärztin **geworden** zu sein.“",
+      "mdDe": "**Drei Fallen:**\n\n- **Position von zu:** zu steht vor haben / sein / werden, nicht vor dem Partizip – „bestanden **zu haben**“, nie „zu bestanden haben“.\n- **haben oder sein:** „angekommen zu **sein**“, „gefahren zu **sein**“ – prüf das Perfekt des Verbs.\n- **worden oder geworden:** Im Passiv heißt es immer „eingeladen **worden** zu sein“. „geworden“ ist nur das Partizip von werden als Vollverb (= etwas werden): „Sie ist stolz, Ärztin **geworden** zu sein.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich bin froh, die Prüfung zu bestanden haben.",
+      "right": "Ich bin froh, die Prüfung bestanden zu haben.",
+      "why": "In the perfect infinitive „zu“ stands directly before „haben“ or „sein“, not before the participle.",
+      "whyDe": "Im Infinitiv Perfekt steht „zu“ direkt vor „haben“ oder „sein“, nicht vor dem Partizip."
+    },
+    {
+      "wrong": "Er behauptet, gestern pünktlich angekommen zu haben.",
+      "right": "Er behauptet, gestern pünktlich angekommen zu sein.",
+      "why": "„ankommen“ forms its Perfekt with „sein“ („er ist angekommen“) – and so does the perfect infinitive.",
+      "whyDe": "„ankommen“ bildet das Perfekt mit „sein“ („er ist angekommen“) – und damit auch den Infinitiv Perfekt."
+    },
+    {
+      "wrong": "Sie ärgert sich, nicht eingeladen geworden zu sein.",
+      "right": "Sie ärgert sich, nicht eingeladen worden zu sein.",
+      "why": "In the passive the participle of „werden“ is „worden“, without ge-.",
+      "whyDe": "Im Passiv heißt das Partizip von „werden“ „worden“, ohne ge-."
+    },
+    {
+      "wrong": "Meine Eltern sind stolz, die Prüfung bestanden zu haben. (Gemeint: Ich habe sie bestanden.)",
+      "right": "Meine Eltern sind stolz, dass ich die Prüfung bestanden habe.",
+      "why": "Here the infinitive clause refers to the subject of the main clause („meine Eltern“). If someone else did the action, you need a dass-clause.",
+      "whyDe": "Hier bezieht sich der Infinitivsatz auf das Subjekt des Hauptsatzes („meine Eltern“). Wenn jemand anderes die Handlung macht, brauchst du einen dass-Satz."
+    },
+    {
+      "wrong": "Nach den Vertrag unterschrieben zu haben, bekam er Zweifel.",
+      "right": "Nachdem er den Vertrag unterschrieben hatte, bekam er Zweifel.",
+      "why": "„nach“ is a preposition and cannot introduce an infinitive clause. Use „nachdem“ + Plusquamperfekt – or a noun: „Nach der Unterschrift …“.",
+      "whyDe": "„nach“ ist eine Präposition und kann keinen Infinitivsatz einleiten. Nimm „nachdem“ + Plusquamperfekt – oder ein Nomen: „Nach der Unterschrift …“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Die neue Kollegin war erleichtert, die schwierige Probezeit endlich ___.",
+      "options": ["überstanden zu haben", "zu überstanden haben", "überstanden zu sein"],
+      "answer": 0,
+      "explanation": "„endlich“ shows that the Probezeit is over, so you need the perfect infinitive. „überstehen“ forms its Perfekt with „haben“ („sie hat … überstanden“), and „zu“ stands before „haben“ – „zu überstanden haben“ has the wrong word order.",
+      "explanationDe": "„endlich“ zeigt, dass die Probezeit vorbei ist, also brauchst du den Infinitiv Perfekt. „überstehen“ bildet das Perfekt mit „haben“ („sie hat … überstanden“), und „zu“ steht vor „haben“ – „zu überstanden haben“ hat die falsche Wortstellung."
+    },
+    {
+      "type": "mc",
+      "prompt": "Herr Albers gibt zu, an jenem Abend deutlich zu schnell ___.",
+      "options": ["gefahren zu sein", "gefahren zu haben", "zu fahren"],
+      "answer": 0,
+      "explanation": "„an jenem Abend“ lies in the past → perfect infinitive. „fahren“ without an object takes „sein“ („er ist gefahren“) → „gefahren zu sein“. „zu fahren“ would refer to now or the future.",
+      "explanationDe": "„an jenem Abend“ liegt in der Vergangenheit → Infinitiv Perfekt. „fahren“ ohne Objekt bildet das Perfekt mit „sein“ („er ist gefahren“) → „gefahren zu sein“. „zu fahren“ würde sich auf jetzt oder die Zukunft beziehen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Mieter beschweren sich darüber, von der Hausverwaltung nicht rechtzeitig über die Bauarbeiten ___.",
+      "options": ["informiert worden zu sein", "informiert geworden zu sein", "informiert zu haben"],
+      "answer": 0,
+      "explanation": "„von der Hausverwaltung“ names the agent, so the tenants were (not) informed → passive, and it lies in the past → „informiert worden zu sein“. In the passive it is „worden“, never „geworden“; „informiert zu haben“ is active.",
+      "explanationDe": "„von der Hausverwaltung“ nennt den Handelnden, die Mieter wurden also (nicht) informiert → Passiv, und das liegt in der Vergangenheit → „informiert worden zu sein“. Im Passiv heißt es „worden“, nie „geworden“; „informiert zu haben“ ist Aktiv."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Berufseinsteiger wünschen sich, von ihren Vorgesetzten öfter ___.",
+      "options": ["gelobt zu werden", "gelobt worden zu sein", "zu loben"],
+      "answer": 0,
+      "explanation": "A wish looks to the future, and „von ihren Vorgesetzten“ names the agent → present passive „gelobt zu werden“. „zu loben“ is active (they would praise someone), and „gelobt worden zu sein“ looks back, which does not fit „öfter“ in a wish.",
+      "explanationDe": "Ein Wunsch richtet sich auf die Zukunft, und „von ihren Vorgesetzten“ nennt den Handelnden → Präsens Passiv „gelobt zu werden“. „zu loben“ ist Aktiv (sie würden jemanden loben), und „gelobt worden zu sein“ blickt zurück – das passt nicht zu „öfter“ in einem Wunsch."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Abteilungsleiterin legt großen Wert darauf, ___ alle Kundenanfragen innerhalb von zwei Tagen beantwortet werden.",
+      "options": ["dass", "zu", "um"],
+      "answer": 0,
+      "explanation": "The clause has its own subject („alle Kundenanfragen“) and a conjugated verb („werden“) → dass-clause. „zu“ and „um … zu“ need an infinitive clause without a subject of its own.",
+      "explanationDe": "Der Satz hat ein eigenes Subjekt („alle Kundenanfragen“) und ein konjugiertes Verb („werden“) → dass-Satz. „zu“ und „um … zu“ brauchen einen Infinitivsatz ohne eigenes Subjekt."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich bedauere sehr, Ihnen nicht früher ___.",
+      "answers": ["geantwortet zu haben"],
+      "hint": "(antworten, Perfekt)",
+      "explanation": "„nicht früher“ shows that the reply is late, so the action lies in the past → perfect infinitive. „antworten“ takes „haben“: „geantwortet zu haben“.",
+      "explanationDe": "„nicht früher“ zeigt, dass die Antwort zu spät kommt – die Handlung liegt also in der Vergangenheit → Infinitiv Perfekt. „antworten“ bildet das Perfekt mit „haben“: „geantwortet zu haben“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Nach drei Stunden Verspätung waren alle Fahrgäste froh, endlich in Hamburg ___.",
+      "answers": ["angekommen zu sein"],
+      "hint": "(ankommen, Perfekt)",
+      "explanation": "„ankommen“ is a verb of movement and takes „sein“ in the Perfekt → „angekommen zu sein“. No extra zu inside the participle.",
+      "explanationDe": "„ankommen“ ist ein Verb der Bewegung und bildet das Perfekt mit „sein“ → „angekommen zu sein“. Im Partizip steht kein zusätzliches zu."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der junge Architekt ist stolz darauf, unter 300 Bewerbern für die letzte Runde ___.",
+      "answers": ["ausgewählt worden zu sein"],
+      "hint": "(auswählen, Perfekt Passiv)",
+      "explanation": "Others chose him (passive), and the choice has already been made (perfect) → Partizip II „ausgewählt“ + „worden zu sein“.",
+      "explanationDe": "Andere haben ihn ausgewählt (Passiv), und die Auswahl ist schon passiert (Perfekt) → Partizip II „ausgewählt“ + „worden zu sein“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Niemand mag es, vor versammelter Mannschaft ___.",
+      "answers": ["kritisiert zu werden"],
+      "hint": "(kritisieren, Präsens Passiv)",
+      "explanation": "This is a general statement, not a past event, and the subject is the one who is criticised → present passive „kritisiert zu werden“.",
+      "explanationDe": "Das ist eine allgemeine Aussage, kein vergangenes Ereignis, und das Subjekt ist die Person, die kritisiert wird → Präsens Passiv „kritisiert zu werden“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the dass-clause with an infinitive clause.",
+      "instructionDe": "Ersetze den dass-Satz durch einen Infinitivsatz.",
+      "prompt": "Ich bin froh, dass ich den Sprachkurs in Wien gemacht habe.",
+      "answers": ["Ich bin froh, den Sprachkurs in Wien gemacht zu haben."],
+      "explanation": "Same subject („ich“) in both clauses, and the course is over → drop „dass ich“ and use the perfect infinitive „gemacht zu haben“ at the end.",
+      "explanationDe": "Beide Sätze haben dasselbe Subjekt („ich“), und der Kurs ist vorbei → „dass ich“ fällt weg, und am Ende steht der Infinitiv Perfekt „gemacht zu haben“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the dass-clause with an infinitive clause.",
+      "instructionDe": "Ersetze den dass-Satz durch einen Infinitivsatz.",
+      "prompt": "Sie ärgert sich, dass sie bei der Beförderung übergangen worden ist.",
+      "answers": ["Sie ärgert sich, bei der Beförderung übergangen worden zu sein."],
+      "explanation": "„übergangen worden ist“ is Perfekt Passiv, so the infinitive is „übergangen worden zu sein“. „übergehen“ (to pass over) is inseparable – no ge-, no inserted zu.",
+      "explanationDe": "„übergangen worden ist“ ist Perfekt Passiv, deshalb heißt der Infinitiv „übergangen worden zu sein“. „übergehen“ (= nicht berücksichtigen) ist untrennbar – kein ge-, kein eingeschobenes zu."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with a dass-clause.",
+      "instructionDe": "Formuliere den Satz mit einem dass-Satz um.",
+      "prompt": "Der Minister bestreitet, von den Plänen gewusst zu haben.",
+      "answers": [
+        "Der Minister bestreitet, dass er von den Plänen gewusst hat.",
+        "Der Minister bestreitet, dass er von den Plänen gewusst habe.",
+        "Der Minister bestreitet, dass er von den Plänen wusste."
+      ],
+      "explanation": "The implied subject of the infinitive is the minister → „dass er“. The perfect infinitive becomes a past tense: „gewusst hat“ (or „gewusst habe“ in reported speech, or „wusste“).",
+      "explanationDe": "Das gedachte Subjekt des Infinitivs ist der Minister → „dass er“. Aus dem Infinitiv Perfekt wird eine Vergangenheitsform: „gewusst hat“ (in der indirekten Rede auch „gewusst habe“ oder „wusste“)."
+    },
+    {
+      "type": "order",
+      "words": ["zu", "Arzt", "Sie", "gegangen", "früher", "bedauert,", "nicht", "zum", "sein."],
+      "answers": ["Sie bedauert, nicht früher zum Arzt gegangen zu sein.", "Sie bedauert, früher nicht zum Arzt gegangen zu sein."],
+      "explanation": "„gehen“ takes „sein“, so the perfect infinitive is „gegangen zu sein“ – it closes the infinitive clause. Everything else („nicht früher zum Arzt“) comes before it.",
+      "explanationDe": "„gehen“ bildet das Perfekt mit „sein“, deshalb heißt der Infinitiv Perfekt „gegangen zu sein“ – er steht am Ende des Infinitivsatzes. Alles andere („nicht früher zum Arzt“) steht davor."
+    },
+    {
+      "type": "order",
+      "words": ["versetzt.", "Ohne", "worden", "er", "gefragt", "in", "zu", "Team", "sein,", "wurde", "ein", "anderes"],
+      "answers": ["Ohne gefragt worden zu sein, wurde er in ein anderes Team versetzt."],
+      "explanation": "The infinitive clause „Ohne gefragt worden zu sein“ (perfect passive) stands in position 1, so the main clause continues with the verb „wurde“; the participle „versetzt“ goes to the end.",
+      "explanationDe": "Der Infinitivsatz „Ohne gefragt worden zu sein“ (Perfekt Passiv) steht auf Position 1, deshalb geht der Hauptsatz mit dem Verb „wurde“ weiter; das Partizip „versetzt“ steht am Ende."
+    }
+  ],
+  "related": ["infinitiv-mit-zu", "passiv", "perfekt", "finale-saetze", "korrelate", "passiv-b2", "modalsaetze"]
+}

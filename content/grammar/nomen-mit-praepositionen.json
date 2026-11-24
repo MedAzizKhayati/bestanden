@@ -1,0 +1,327 @@
+{
+  "id": "nomen-mit-praepositionen",
+  "level": "B2",
+  "category": "wortschatz",
+  "order": 23,
+  "title": "Nomen mit Präpositionen",
+  "titleEn": "Nouns with prepositions",
+  "summary": "Many nouns have a fixed preposition – Interesse an, Kritik an, Einfluss auf, Mangel an, Verständnis für. Often it is the same as with the verb or adjective (sich beteiligen an → die Beteiligung an), but sometimes it changes (sich interessieren für → das Interesse an). These combinations are the backbone of Nominalstil.",
+  "summaryDe": "Viele Nomen haben eine feste Präposition – Interesse an, Kritik an, Einfluss auf, Mangel an, Verständnis für. Oft ist es dieselbe wie beim Verb oder Adjektiv (sich beteiligen an → die Beteiligung an), manchmal ändert sie sich aber (sich interessieren für → das Interesse an). Diese Verbindungen sind das Gerüst des Nominalstils.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Like verbs and adjectives, many **nouns** take a **fixed preposition** with a fixed case: das Interesse **an** + Dat., die Kritik **an** + Dat., der Einfluss **auf** + Akk., das Verständnis **für** + Akk. Learn noun + preposition + case as one unit – and don't assume that the noun keeps the verb's preposition: sich interessieren **für**, but das Interesse **an**.",
+      "mdDe": "Wie Verben und Adjektive haben viele **Nomen** eine **feste Präposition** mit festem Kasus: das Interesse **an** + Dat., die Kritik **an** + Dat., der Einfluss **auf** + Akk., das Verständnis **für** + Akk. Lerne Nomen + Präposition + Kasus als eine Einheit – und geh nicht davon aus, dass das Nomen die Präposition des Verbs behält: sich interessieren **für**, aber das Interesse **an**."
+    },
+    {
+      "type": "text",
+      "heading": "Where you meet them",
+      "headingDe": "Wo du ihnen begegnest",
+      "md": "Nouns with prepositions are everywhere in **Nominalstil** – in news, reports and formal letters. Instead of a clause with a verb, the text packs the information into a noun phrase:\n\n- „Weil viele Menschen Wohnungen suchen, …“ → „**Wegen der großen Nachfrage nach Wohnungen** …“\n- „Die Anwohner kritisieren den Bau.“ → „**die Kritik der Anwohner am Bau**“\n\nInside the noun phrase the order is fixed: **article + adjective + noun + genitive (who?) + prepositional phrase (what?)**: „das **wachsende** Interesse **junger Menschen** **an Politik**“, „die **scharfe** Kritik **der Opposition** **an der Reform**“.\n\nSome nouns change their meaning with the preposition: **Angst vor** + Dat. (afraid of something) vs. **Angst um** + Akk. (afraid that something will happen to someone); **Freude an** + Dat. (pleasure in an activity) vs. **Freude über** + Akk. (joy about something that has happened) vs. **Freude auf** + Akk. (looking forward to something). And **Kritik an** names *what* is criticised, while **Kritik von** names *who* criticises.",
+      "mdDe": "Nomen mit Präpositionen findest du überall im **Nominalstil** – in Nachrichten, Berichten und formellen Briefen. Statt eines Satzes mit Verb packt der Text die Information in eine Nominalgruppe:\n\n- „Weil viele Menschen Wohnungen suchen, …“ → „**Wegen der großen Nachfrage nach Wohnungen** …“\n- „Die Anwohner kritisieren den Bau.“ → „**die Kritik der Anwohner am Bau**“\n\nIn der Nominalgruppe ist die Reihenfolge fest: **Artikel + Adjektiv + Nomen + Genitiv (wer?) + Präpositionalgruppe (was?)**: „das **wachsende** Interesse **junger Menschen** **an Politik**“, „die **scharfe** Kritik **der Opposition** **an der Reform**“.\n\nManche Nomen ändern mit der Präposition ihre Bedeutung: **Angst vor** + Dat. (man fürchtet etwas) gegenüber **Angst um** + Akk. (man fürchtet, dass jemandem etwas passiert); **Freude an** + Dat. (Spaß an einer Tätigkeit) gegenüber **Freude über** + Akk. (man ist froh über etwas, das passiert ist) und **Freude auf** + Akk. (man freut sich auf etwas). Und **Kritik an** nennt, *was* kritisiert wird, **Kritik von** dagegen, *wer* kritisiert."
+    },
+    {
+      "type": "table",
+      "heading": "Important nouns with prepositions",
+      "headingDe": "Wichtige Nomen mit Präpositionen",
+      "columns": ["Nomen", "Präposition + Kasus", "English", "Beispiel"],
+      "columnsDe": ["Nomen", "Präposition + Kasus", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["die Angst", "vor + Dat.", "fear of", "Die Angst vor Arbeitslosigkeit wächst."],
+        ["die Angst", "um + Akk.", "fear for", "Die Angst um ihren Sohn ließ sie nicht schlafen."],
+        ["die Anpassung", "an + Akk.", "adaptation to", "Die Anpassung an den Klimawandel kostet viel Geld."],
+        ["der Anspruch", "auf + Akk.", "right to, entitlement to", "Sie haben Anspruch auf eine Erstattung."],
+        ["die Auswirkung", "auf + Akk.", "effect on, impact on", "Die Auswirkungen auf die Umwelt sind noch unklar."],
+        ["der Bedarf", "an + Dat.", "need for, demand for", "Der Bedarf an Pflegekräften steigt."],
+        ["der Beitrag", "zu + Dat.", "contribution to", "Jeder kann einen Beitrag zum Klimaschutz leisten."],
+        ["die Beteiligung", "an + Dat.", "participation in, turnout", "Die Beteiligung an der Wahl war gering."],
+        ["der Einfluss", "auf + Akk.", "influence on", "Soziale Medien haben großen Einfluss auf Jugendliche."],
+        ["die Forderung", "nach + Dat.", "demand for, call for", "Die Forderung nach kürzeren Arbeitszeiten wird lauter."],
+        ["die Freude", "an + Dat.", "pleasure in, enjoyment of", "Sie hat viel Freude an ihrer Arbeit."],
+        ["die Hoffnung", "auf + Akk.", "hope of, hope for", "Die Hoffnung auf eine schnelle Einigung ist gering."],
+        ["das Interesse", "an + Dat.", "interest in", "Das Interesse an E-Autos ist gestiegen."],
+        ["die Kritik", "an + Dat.", "criticism of", "Die Kritik an dem Bauprojekt war heftig."],
+        ["der Mangel", "an + Dat.", "lack of, shortage of", "Viele Schulen klagen über einen Mangel an Lehrkräften."],
+        ["die Nachfrage", "nach + Dat.", "demand for (goods)", "Die Nachfrage nach Bio-Produkten wächst."],
+        ["der Respekt", "vor + Dat.", "respect for", "Wir haben großen Respekt vor ihrer Leistung."],
+        ["die Rücksicht", "auf + Akk.", "consideration for", "Aus Rücksicht auf die Nachbarn feiern wir drinnen."],
+        ["die Sorge", "um + Akk.", "worry about, concern for", "Die Sorge um die Arbeitsplätze ist groß."],
+        ["die Suche", "nach + Dat.", "search for", "Die Suche nach einer Wohnung dauerte Monate."],
+        ["das Verständnis", "für + Akk.", "understanding of, sympathy for", "Ich habe Verständnis für Ihre Situation."],
+        ["das Vertrauen", "in + Akk. / zu + Dat.", "trust in", "Das Vertrauen in die Politik ist gesunken."],
+        ["der Verzicht", "auf + Akk.", "doing without, giving up", "Der Verzicht auf Plastik fällt vielen schwer."],
+        ["die Voraussetzung", "für + Akk.", "prerequisite for, requirement for", "Gute Deutschkenntnisse sind Voraussetzung für die Stelle."],
+        ["der Zugang", "zu + Dat.", "access to", "Alle Kinder sollen Zugang zu guter Bildung haben."],
+        ["der Zweifel", "an + Dat.", "doubt about", "Es gibt Zweifel an den Ergebnissen der Studie."]
+      ],
+      "rowsDe": [
+        ["die Angst", "vor + Dat.", "man fürchtet sich vor etwas", "Die Angst vor Arbeitslosigkeit wächst."],
+        ["die Angst", "um + Akk.", "man fürchtet, dass jemandem etwas passiert", "Die Angst um ihren Sohn ließ sie nicht schlafen."],
+        ["die Anpassung", "an + Akk.", "man verändert sich passend zu etwas", "Die Anpassung an den Klimawandel kostet viel Geld."],
+        ["der Anspruch", "auf + Akk.", "man darf etwas offiziell bekommen", "Sie haben Anspruch auf eine Erstattung."],
+        ["die Auswirkung", "auf + Akk.", "die Folge für etwas", "Die Auswirkungen auf die Umwelt sind noch unklar."],
+        ["der Bedarf", "an + Dat.", "man braucht etwas", "Der Bedarf an Pflegekräften steigt."],
+        ["der Beitrag", "zu + Dat.", "der Teil, den man zu etwas beiträgt", "Jeder kann einen Beitrag zum Klimaschutz leisten."],
+        ["die Beteiligung", "an + Dat.", "das Mitmachen bei etwas", "Die Beteiligung an der Wahl war gering."],
+        ["der Einfluss", "auf + Akk.", "die Wirkung auf etwas oder jemanden", "Soziale Medien haben großen Einfluss auf Jugendliche."],
+        ["die Forderung", "nach + Dat.", "man verlangt etwas", "Die Forderung nach kürzeren Arbeitszeiten wird lauter."],
+        ["die Freude", "an + Dat.", "man macht etwas gern", "Sie hat viel Freude an ihrer Arbeit."],
+        ["die Hoffnung", "auf + Akk.", "man wünscht sich etwas für die Zukunft", "Die Hoffnung auf eine schnelle Einigung ist gering."],
+        ["das Interesse", "an + Dat.", "man findet etwas interessant", "Das Interesse an E-Autos ist gestiegen."],
+        ["die Kritik", "an + Dat.", "man sagt, was an etwas schlecht ist", "Die Kritik an dem Bauprojekt war heftig."],
+        ["der Mangel", "an + Dat.", "es gibt zu wenig von etwas", "Viele Schulen klagen über einen Mangel an Lehrkräften."],
+        ["die Nachfrage", "nach + Dat.", "viele wollen etwas kaufen", "Die Nachfrage nach Bio-Produkten wächst."],
+        ["der Respekt", "vor + Dat.", "man achtet und schätzt etwas", "Wir haben großen Respekt vor ihrer Leistung."],
+        ["die Rücksicht", "auf + Akk.", "man denkt an die Bedürfnisse anderer", "Aus Rücksicht auf die Nachbarn feiern wir drinnen."],
+        ["die Sorge", "um + Akk.", "man hat Angst, dass etwas Schlimmes passiert", "Die Sorge um die Arbeitsplätze ist groß."],
+        ["die Suche", "nach + Dat.", "man sucht etwas", "Die Suche nach einer Wohnung dauerte Monate."],
+        ["das Verständnis", "für + Akk.", "man versteht und akzeptiert etwas", "Ich habe Verständnis für Ihre Situation."],
+        ["das Vertrauen", "in + Akk. / zu + Dat.", "man glaubt, dass jemand oder etwas zuverlässig ist", "Das Vertrauen in die Politik ist gesunken."],
+        ["der Verzicht", "auf + Akk.", "man nimmt oder tut etwas bewusst nicht", "Der Verzicht auf Plastik fällt vielen schwer."],
+        ["die Voraussetzung", "für + Akk.", "was man unbedingt braucht, um etwas zu erreichen", "Gute Deutschkenntnisse sind Voraussetzung für die Stelle."],
+        ["der Zugang", "zu + Dat.", "die Möglichkeit, etwas zu nutzen", "Alle Kinder sollen Zugang zu guter Bildung haben."],
+        ["der Zweifel", "an + Dat.", "man glaubt nicht ganz an etwas", "Es gibt Zweifel an den Ergebnissen der Studie."]
+      ],
+      "note": "Many of these nouns also appear in Nomen-Verb-Verbindungen with a fixed verb: Einfluss haben/nehmen auf, Rücksicht nehmen auf, Kritik üben an, einen Beitrag leisten zu, Anspruch haben auf.",
+      "noteDe": "Viele dieser Nomen stehen auch in Nomen-Verb-Verbindungen mit einem festen Verb: Einfluss haben/nehmen auf, Rücksicht nehmen auf, Kritik üben an, einen Beitrag leisten zu, Anspruch haben auf."
+    },
+    {
+      "type": "table",
+      "heading": "Verb or adjective → noun: same preposition?",
+      "headingDe": "Verb oder Adjektiv → Nomen: dieselbe Präposition?",
+      "columns": ["Verb / Adjektiv", "Nomen", "Preposition"],
+      "columnsDe": ["Verb / Adjektiv", "Nomen", "Präposition"],
+      "rows": [
+        ["sich beteiligen an + Dat.", "die Beteiligung an + Dat.", "same"],
+        ["verzichten auf + Akk.", "der Verzicht auf + Akk.", "same"],
+        ["sich anpassen an + Akk.", "die Anpassung an + Akk.", "same"],
+        ["sich auswirken auf + Akk.", "die Auswirkung auf + Akk.", "same"],
+        ["beitragen zu + Dat.", "der Beitrag zu + Dat.", "same"],
+        ["fragen / suchen nach + Dat.", "die Frage / die Suche nach + Dat.", "same"],
+        ["zweifeln an + Dat.", "der Zweifel an + Dat.", "same"],
+        ["abhängig von + Dat.", "die Abhängigkeit von + Dat.", "same"],
+        ["verantwortlich für + Akk.", "die Verantwortung für + Akk.", "same"],
+        ["sich interessieren für + Akk.", "das Interesse an + Dat.", "different (like the adjective: interessiert an)"],
+        ["begeistert von + Dat.", "die Begeisterung für + Akk.", "different"],
+        ["kritisieren + Akk.", "die Kritik an + Dat.", "the verb has no preposition"],
+        ["beeinflussen + Akk.", "der Einfluss auf + Akk.", "the verb has no preposition"],
+        ["verstehen + Akk.", "das Verständnis für + Akk.", "the verb has no preposition"],
+        ["fordern + Akk.", "die Forderung nach + Dat.", "the verb has no preposition"],
+        ["benötigen + Akk.", "der Bedarf an + Dat.", "the verb has no preposition"],
+        ["vertrauen + Dat.", "das Vertrauen in + Akk. / zu + Dat.", "the verb has no preposition"]
+      ],
+      "rowsDe": [
+        ["sich beteiligen an + Dat.", "die Beteiligung an + Dat.", "gleich"],
+        ["verzichten auf + Akk.", "der Verzicht auf + Akk.", "gleich"],
+        ["sich anpassen an + Akk.", "die Anpassung an + Akk.", "gleich"],
+        ["sich auswirken auf + Akk.", "die Auswirkung auf + Akk.", "gleich"],
+        ["beitragen zu + Dat.", "der Beitrag zu + Dat.", "gleich"],
+        ["fragen / suchen nach + Dat.", "die Frage / die Suche nach + Dat.", "gleich"],
+        ["zweifeln an + Dat.", "der Zweifel an + Dat.", "gleich"],
+        ["abhängig von + Dat.", "die Abhängigkeit von + Dat.", "gleich"],
+        ["verantwortlich für + Akk.", "die Verantwortung für + Akk.", "gleich"],
+        ["sich interessieren für + Akk.", "das Interesse an + Dat.", "anders (wie beim Adjektiv: interessiert an)"],
+        ["begeistert von + Dat.", "die Begeisterung für + Akk.", "anders"],
+        ["kritisieren + Akk.", "die Kritik an + Dat.", "das Verb hat keine Präposition"],
+        ["beeinflussen + Akk.", "der Einfluss auf + Akk.", "das Verb hat keine Präposition"],
+        ["verstehen + Akk.", "das Verständnis für + Akk.", "das Verb hat keine Präposition"],
+        ["fordern + Akk.", "die Forderung nach + Dat.", "das Verb hat keine Präposition"],
+        ["benötigen + Akk.", "der Bedarf an + Dat.", "das Verb hat keine Präposition"],
+        ["vertrauen + Dat.", "das Vertrauen in + Akk. / zu + Dat.", "das Verb hat keine Präposition"]
+      ],
+      "note": "When the verb has a direct object, the noun usually takes a preposition (Kritik an) or a genitive: das Problem lösen → die Lösung des Problems / eine Lösung für das Problem.",
+      "noteDe": "Wenn das Verb ein Akkusativobjekt hat, bekommt das Nomen meistens eine Präposition (Kritik an) oder einen Genitiv: das Problem lösen → die Lösung des Problems / eine Lösung für das Problem."
+    },
+    {
+      "type": "text",
+      "heading": "da-words after nouns",
+      "headingDe": "da-Wörter nach Nomen",
+      "md": "A noun with a preposition can also announce a **dass-clause**, an **ob/w-clause** or a **zu-infinitive**. Then the preposition becomes a **da-word** – just like with verbs:\n\n- Ich habe großes **Interesse daran**, in Ihrem Team mitzuarbeiten.\n- Wir bitten um **Verständnis dafür**, dass die Sprechstunde heute ausfällt.\n- Die wichtigste **Voraussetzung dafür** ist, dass alle Unterlagen vollständig sind.\n- Es besteht kein **Zweifel daran**, dass die Mieten weiter steigen werden.\n- Der **Grund dafür** ist, dass Fachkräfte fehlen.\n\nThe da-word is only for things and facts. For people use preposition + pronoun: „Ich habe großes **Vertrauen zu ihr**.“",
+      "mdDe": "Ein Nomen mit Präposition kann auch einen **dass-Satz**, einen **ob/w-Satz** oder einen **zu-Infinitiv** ankündigen. Dann wird aus der Präposition ein **da-Wort** – genau wie bei Verben:\n\n- Ich habe großes **Interesse daran**, in Ihrem Team mitzuarbeiten.\n- Wir bitten um **Verständnis dafür**, dass die Sprechstunde heute ausfällt.\n- Die wichtigste **Voraussetzung dafür** ist, dass alle Unterlagen vollständig sind.\n- Es besteht kein **Zweifel daran**, dass die Mieten weiter steigen werden.\n- Der **Grund dafür** ist, dass Fachkräfte fehlen.\n\nDas da-Wort gibt es nur für Sachen und Sachverhalte. Bei Personen nimmst du Präposition + Pronomen: „Ich habe großes **Vertrauen zu ihr**.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Die **Nachfrage nach** bezahlbaren Wohnungen ist in allen Großstädten gestiegen.", "en": "Demand for affordable housing has risen in all big cities." },
+        { "de": "Die **Kritik der Eltern an** den neuen Schulzeiten wird immer lauter.", "en": "Parents' criticism of the new school hours is getting louder and louder." },
+        { "de": "Viele Kliniken klagen über einen **Mangel an** Pflegepersonal.", "en": "Many hospitals complain about a shortage of nursing staff." },
+        { "de": "Der Streik hatte massive **Auswirkungen auf** den Flugverkehr.", "en": "The strike had a massive impact on air traffic." },
+        { "de": "Bitte nehmen Sie **Rücksicht auf** die Anwohner und verlassen Sie das Gelände leise.", "en": "Please show consideration for the residents and leave the grounds quietly." },
+        { "de": "Mit dem Projekt wollen wir einen **Beitrag zur** Integration leisten.", "en": "With this project we want to contribute to integration." },
+        { "de": "Während der Operation hatte die ganze Familie große **Angst um** den Vater.", "en": "During the operation the whole family was very afraid for their father." },
+        { "de": "Wir haben volles **Verständnis dafür**, dass Sie mit unserem Service nicht zufrieden waren.", "en": "We fully understand that you were not satisfied with our service." },
+        { "de": "**Voraussetzung für** die Teilnahme ist ein gültiger Studierendenausweis.", "en": "A valid student ID is required to take part." },
+        { "de": "Das **Interesse junger Menschen an** Politik ist größer, als viele denken.", "en": "Young people's interest in politics is greater than many think." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 2** is decided by exactly these collocations. Two typical gap types: the **preposition after a noun** („der Bedarf **an** Fachkräften“, „die Kritik **an** …“) and the **noun before a preposition** („ein großer **Mangel** an …“, „die **Nachfrage** nach …“). If two nouns in the box look possible, the preposition after the gap decides: *Bedarf / Mangel* + an, *Nachfrage / Forderung* + nach, *Einfluss / Auswirkung* + auf.\n- **Sprachbausteine Teil 1:** check the case – „Interesse an **dem** Kurs“, „Verzicht auf **das** Auto“ – and da-words before dass: „Voraussetzung **dafür**, dass …“.\n- **Lesen Teil 2:** articles in Nominalstil are full of these phrases, and the options often paraphrase them with a verb: „Die Nachfrage nach Lastenrädern steigt.“ = „Immer mehr Menschen wollen ein Lastenrad kaufen.“\n- **Schreiben:** „Ich habe großes **Interesse an** Ihrem Angebot.“, „Ich bitte um **Verständnis für** die Verspätung.“, „Ich habe **Anspruch auf** eine Erstattung.“, „Ich habe kein **Verständnis dafür**, dass …“.\n- **Sprechen Teil 2:** „Das hat großen **Einfluss auf** …“, „Die **Kritik an** … finde ich berechtigt.“",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 2** wird genau durch diese festen Verbindungen entschieden. Zwei typische Lücken: die **Präposition nach einem Nomen** („der Bedarf **an** Fachkräften“, „die Kritik **an** …“) und das **Nomen vor einer Präposition** („ein großer **Mangel** an …“, „die **Nachfrage** nach …“). Wenn zwei Nomen im Kasten passen könnten, entscheidet die Präposition nach der Lücke: *Bedarf / Mangel* + an, *Nachfrage / Forderung* + nach, *Einfluss / Auswirkung* + auf.\n- **Sprachbausteine Teil 1:** Prüf den Kasus – „Interesse an **dem** Kurs“, „Verzicht auf **das** Auto“ – und da-Wörter vor dass: „Voraussetzung **dafür**, dass …“.\n- **Lesen Teil 2:** Artikel im Nominalstil sind voll von diesen Ausdrücken, und die Lösungen umschreiben sie oft mit einem Verb: „Die Nachfrage nach Lastenrädern steigt.“ = „Immer mehr Menschen wollen ein Lastenrad kaufen.“\n- **Schreiben:** „Ich habe großes **Interesse an** Ihrem Angebot.“, „Ich bitte um **Verständnis für** die Verspätung.“, „Ich habe **Anspruch auf** eine Erstattung.“, „Ich habe kein **Verständnis dafür**, dass …“.\n- **Sprechen Teil 2:** „Das hat großen **Einfluss auf** …“, „Die **Kritik an** … finde ich berechtigt.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **Don't copy the verb's preposition:** sich interessieren **für**, but das Interesse **an**; begeistert **von**, but die Begeisterung **für**.\n- **Don't translate English:** interest **in** → Interesse **an** (not *in*), influence **on** → Einfluss **auf**, criticism **of** → Kritik **an** (*Kritik von* names who criticises).\n- **Check the case:** an + **dative** with Bedarf, Mangel, Interesse, Kritik, Zweifel („ein Mangel an **qualifizierten Fachkräften**“); auf + **accusative** with Einfluss, Auswirkung, Anspruch, Verzicht.\n- **Angst vor** (afraid of) ≠ **Angst um** (afraid for someone).",
+      "mdDe": "**Typische Fallen:**\n\n- **Übernimm nicht automatisch die Präposition des Verbs:** sich interessieren **für**, aber das Interesse **an**; begeistert **von**, aber die Begeisterung **für**.\n- **Übersetze nicht aus dem Englischen:** *interest in* → Interesse **an** (nicht *in*), *influence on* → Einfluss **auf**, *criticism of* → Kritik **an** (*Kritik von* nennt, wer kritisiert).\n- **Prüf den Kasus:** an + **Dativ** bei Bedarf, Mangel, Interesse, Kritik, Zweifel („ein Mangel an **qualifizierten Fachkräften**“); auf + **Akkusativ** bei Einfluss, Auswirkung, Anspruch, Verzicht.\n- **Angst vor** (man fürchtet etwas) ≠ **Angst um** (man fürchtet, dass jemandem etwas passiert)."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe großes Interesse in Ihrem Angebot.",
+      "right": "Ich habe großes Interesse an Ihrem Angebot.",
+      "why": "The fixed preposition is „an“ + dative. Don't translate English *interest in*.",
+      "whyDe": "Die feste Präposition ist „an“ + Dativ. Übersetze nicht das englische *interest in*."
+    },
+    {
+      "wrong": "Die Kritik der Opposition auf den Haushaltsplan war scharf.",
+      "right": "Die Kritik der Opposition am Haushaltsplan war scharf.",
+      "why": "„Kritik“ goes with „an“ + dative: „an dem Haushaltsplan“ = „am Haushaltsplan“. The genitive „der Opposition“ says who criticises.",
+      "whyDe": "„Kritik“ steht mit „an“ + Dativ: „an dem Haushaltsplan“ = „am Haushaltsplan“. Der Genitiv „der Opposition“ sagt, wer kritisiert."
+    },
+    {
+      "wrong": "Ich bitte um Verständnis über die Verzögerung.",
+      "right": "Ich bitte um Verständnis für die Verzögerung.",
+      "why": "„Verständnis“ always goes with „für“ + accusative.",
+      "whyDe": "„Verständnis“ steht immer mit „für“ + Akkusativ."
+    },
+    {
+      "wrong": "In der Pflege gibt es einen großen Mangel an qualifizierte Fachkräfte.",
+      "right": "In der Pflege gibt es einen großen Mangel an qualifizierten Fachkräften.",
+      "why": "„Mangel an“ takes the dative. In the dative plural both the adjective and the noun end in -n: „qualifizierten Fachkräften“.",
+      "whyDe": "„Mangel an“ steht mit Dativ. Im Dativ Plural enden Adjektiv und Nomen auf -n: „qualifizierten Fachkräften“."
+    },
+    {
+      "wrong": "Kunden haben einen Anspruch für eine Erstattung.",
+      "right": "Kunden haben einen Anspruch auf eine Erstattung.",
+      "why": "The fixed preposition of „Anspruch“ is „auf“ + accusative (like „das Recht auf“).",
+      "whyDe": "Die feste Präposition von „Anspruch“ ist „auf“ + Akkusativ (wie bei „das Recht auf“)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "In vielen ländlichen Regionen herrscht ein Mangel ___ Hausärztinnen und Hausärzten.",
+      "options": ["an", "über", "für"],
+      "answer": 0,
+      "explanation": "„der Mangel an“ + dative = shortage of. „Hausärztinnen und Hausärzten“ is the dative plural – „über“ and „für“ would need the accusative and are not the fixed partner.",
+      "explanationDe": "„der Mangel an“ + Dativ = es gibt zu wenig von etwas. „Hausärztinnen und Hausärzten“ ist Dativ Plural – „über“ und „für“ bräuchten den Akkusativ und sind nicht der feste Partner."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Kritik ___ der geplanten Gebührenerhöhung wird immer lauter.",
+      "options": ["an", "über", "auf"],
+      "answer": 0,
+      "explanation": "„die Kritik an“ + dative names what is criticised: „an der geplanten Gebührenerhöhung“. „über“ and „auf“ are not used with „Kritik“.",
+      "explanationDe": "„die Kritik an“ + Dativ nennt, was kritisiert wird: „an der geplanten Gebührenerhöhung“. „über“ und „auf“ passen nicht zu „Kritik“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Klimawandel hat schon heute spürbare Auswirkungen ___ die Landwirtschaft.",
+      "options": ["auf", "an", "über"],
+      "answer": 0,
+      "explanation": "„die Auswirkung auf“ + accusative = effect on, like the verb „sich auswirken auf“.",
+      "explanationDe": "„die Auswirkung auf“ + Akkusativ = die Folge für etwas, wie beim Verb „sich auswirken auf“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Nachfrage ___ Lastenrädern ist im vergangenen Jahr deutlich gestiegen.",
+      "options": ["nach", "auf", "über"],
+      "answer": 0,
+      "explanation": "„die Nachfrage nach“ + dative = demand for: „nach Lastenrädern“ (dative plural). „auf“ and „über“ are not used with „Nachfrage“.",
+      "explanationDe": "„die Nachfrage nach“ + Dativ = viele wollen etwas kaufen: „nach Lastenrädern“ (Dativ Plural). „auf“ und „über“ passen nicht zu „Nachfrage“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Während der schwierigen Operation hatte die ganze Familie große Angst ___ den Vater.",
+      "options": ["um", "vor", "für"],
+      "answer": 0,
+      "explanation": "The family fears that something will happen to the father: „Angst um“ + accusative. „Angst vor“ (afraid of him) would need the dative („vor dem Vater“), and „Angst für“ does not exist.",
+      "explanationDe": "Die Familie fürchtet, dass dem Vater etwas passiert: „Angst um“ + Akkusativ. „Angst vor“ (sich vor ihm fürchten) bräuchte den Dativ („vor dem Vater“), und „Angst für“ gibt es nicht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Gute Deutschkenntnisse sind die wichtigste Voraussetzung ___, dass man in diesem Beruf erfolgreich ist.",
+      "options": ["dafür", "darauf", "daran"],
+      "answer": 0,
+      "explanation": "„die Voraussetzung für“ → before the dass-clause the da-word is „dafür“. „darauf“ and „daran“ belong to other prepositions.",
+      "explanationDe": "„die Voraussetzung für“ → vor dem dass-Satz steht das da-Wort „dafür“. „darauf“ und „daran“ gehören zu anderen Präpositionen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Eltern haben in Deutschland einen Anspruch ___ einen Betreuungsplatz für ihr Kind.",
+      "answers": ["auf"],
+      "explanation": "„der Anspruch auf“ + accusative = entitlement to: „auf einen Betreuungsplatz“.",
+      "explanationDe": "„der Anspruch auf“ + Akkusativ = man darf etwas offiziell bekommen: „auf einen Betreuungsplatz“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Mit ihrem Projekt leisten die Schülerinnen einen wichtigen Beitrag ___ Umweltschutz.",
+      "answers": ["zum"],
+      "explanation": "„der Beitrag zu“ + dative: „zu dem Umweltschutz“ is contracted to „zum Umweltschutz“.",
+      "explanationDe": "„der Beitrag zu“ + Dativ: „zu dem Umweltschutz“ wird zu „zum Umweltschutz“ zusammengezogen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Verzicht ___ das eigene Auto fällt vielen Menschen auf dem Land schwer.",
+      "answers": ["auf"],
+      "explanation": "„der Verzicht auf“ + accusative – the same preposition as the verb „verzichten auf“.",
+      "explanationDe": "„der Verzicht auf“ + Akkusativ – dieselbe Präposition wie beim Verb „verzichten auf“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe großes Interesse ___, mich in Ihrem Team beruflich weiterzuentwickeln.",
+      "answers": ["daran"],
+      "explanation": "„das Interesse an“ → before the zu-infinitive the da-word is „daran“ (da + r + an).",
+      "explanationDe": "„das Interesse an“ → vor dem zu-Infinitiv steht das da-Wort „daran“ (da + r + an)."
+    },
+    {
+      "type": "order",
+      "words": ["Händler.", "an", "junger", "überrascht", "Das", "Mode", "Interesse", "viele", "wachsende", "nachhaltiger", "Menschen"],
+      "answers": ["Das wachsende Interesse junger Menschen an nachhaltiger Mode überrascht viele Händler."],
+      "explanation": "The noun phrase follows the fixed order: article + adjective + noun („Das wachsende Interesse“) + genitive („junger Menschen“) + prepositional phrase („an nachhaltiger Mode“).",
+      "explanationDe": "Die Nominalgruppe folgt der festen Reihenfolge: Artikel + Adjektiv + Nomen („Das wachsende Interesse“) + Genitiv („junger Menschen“) + Präpositionalgruppe („an nachhaltiger Mode“)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „Kritik üben an“.",
+      "instructionDe": "Schreib den Satz mit „Kritik üben an“ um.",
+      "prompt": "Die Bürger kritisieren die neuen Parkgebühren scharf.",
+      "answers": [
+        "Die Bürger üben scharfe Kritik an den neuen Parkgebühren.",
+        "Die Bürger üben an den neuen Parkgebühren scharfe Kritik."
+      ],
+      "explanation": "„kritisieren“ has an accusative object, but the noun needs „an“ + dative: „an den neuen Parkgebühren“. The adverb „scharf“ becomes the adjective „scharfe“.",
+      "explanationDe": "„kritisieren“ hat ein Akkusativobjekt, aber das Nomen braucht „an“ + Dativ: „an den neuen Parkgebühren“. Aus dem Adverb „scharf“ wird das Adjektiv „scharfe“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „Einfluss haben auf“.",
+      "instructionDe": "Schreib den Satz mit „Einfluss haben auf“ um.",
+      "prompt": "Soziale Medien beeinflussen das Kaufverhalten junger Menschen stark.",
+      "answers": [
+        "Soziale Medien haben einen starken Einfluss auf das Kaufverhalten junger Menschen.",
+        "Soziale Medien haben starken Einfluss auf das Kaufverhalten junger Menschen.",
+        "Soziale Medien haben einen großen Einfluss auf das Kaufverhalten junger Menschen.",
+        "Soziale Medien haben großen Einfluss auf das Kaufverhalten junger Menschen."
+      ],
+      "explanation": "„beeinflussen“ + accusative becomes „Einfluss haben auf“ + accusative: „auf das Kaufverhalten“. „stark“ becomes an adjective before „Einfluss“.",
+      "explanationDe": "Aus „beeinflussen“ + Akkusativ wird „Einfluss haben auf“ + Akkusativ: „auf das Kaufverhalten“. „stark“ wird zum Adjektiv vor „Einfluss“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with a da-word and „dass“.",
+      "instructionDe": "Verbinde die Sätze mit einem da-Wort und „dass“.",
+      "prompt": "Wir haben kein Verständnis. Die Sprechstunde wurde schon wieder abgesagt.",
+      "answers": [
+        "Wir haben kein Verständnis dafür, dass die Sprechstunde schon wieder abgesagt wurde.",
+        "Wir haben dafür kein Verständnis, dass die Sprechstunde schon wieder abgesagt wurde."
+      ],
+      "explanation": "„Verständnis für“ → „dafür“ announces the dass-clause. In the dass-clause the auxiliary „wurde“ moves to the end.",
+      "explanationDe": "„Verständnis für“ → „dafür“ kündigt den dass-Satz an. Im dass-Satz rückt das Hilfsverb „wurde“ ans Ende."
+    }
+  ],
+  "related": ["verben-mit-praepositionen-b2", "adjektive-mit-praepositionen-b2", "nomen-verb-verbindungen", "nomen-verb-verbindungen-b2", "nominalisierung", "korrelate", "genitiv"]
+}

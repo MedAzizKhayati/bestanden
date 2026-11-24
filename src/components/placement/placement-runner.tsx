@@ -22,7 +22,8 @@ import { usePlayback } from "@/lib/audio/sequence";
 import type { PlacementItem, PlacementSection, PlacementSkill, PlacementTest, PlacementTfItem } from "@/lib/content/schemas";
 import { isCorrect, itemsBySkill, scorePlacement, SKILLS, weakestSkills, type PlacementAnswers, type PlacementResult } from "@/lib/placement/score";
 import { useHydrated } from "@/lib/store/hydration";
-import { latestPlacement, usePlacement } from "@/lib/store/placement";
+import { latestPlacement, placementExam, usePlacement } from "@/lib/store/placement";
+import { useExam } from "@/lib/exams/use-exam";
 import { useSettings } from "@/lib/store/settings";
 import { cn } from "@/lib/utils";
 
@@ -34,23 +35,28 @@ const SKILL_HREF: Record<PlacementSkill, (exam: string) => string> = {
 };
 
 export interface PlacementRunnerProps {
-  test: PlacementTest;
-  examSlug: string;
+  /** Level check per exam slug – the learner's current exam decides which one runs. */
+  tests: Record<string, PlacementTest>;
   /** Grammar topic id → title, for the recommendations. */
   grammarTitles: Record<string, string>;
 }
 
-export function PlacementRunner(props: PlacementRunnerProps) {
+export function PlacementRunner({ tests, grammarTitles }: PlacementRunnerProps) {
   const hydrated = useHydrated();
+  const exam = useExam();
   if (!hydrated) return <Skeleton className="h-96 rounded-2xl" />;
-  return <Runner {...props} />;
+  const test = tests[exam.slug] ?? Object.values(tests)[0];
+  // Remount per exam so the view state starts fresh after switching exams.
+  return <Runner key={test.examId} test={test} examSlug={exam.slug} level={exam.level} grammarTitles={grammarTitles} />;
 }
 
-function Runner({ test, examSlug, grammarTitles }: PlacementRunnerProps) {
+function Runner({ test, examSlug, level, grammarTitles }: { test: PlacementTest; examSlug: string; level: string; grammarTitles: Record<string, string> }) {
   const t = useT();
   const tp = t.placement;
-  const running = usePlacement((s) => s.running);
-  const latest = usePlacement(latestPlacement);
+  const anyRun = usePlacement((s) => s.running);
+  // A run of the other exam's level check is not resumed here.
+  const running = anyRun && placementExam(anyRun) === test.examId ? anyRun : null;
+  const latest = usePlacement(latestPlacement(test.examId));
   const lastAnswers = usePlacement((s) => s.lastAnswers);
   const start = usePlacement((s) => s.start);
   const [view, setView] = useState<"intro" | "result">(latest ? "result" : "intro");
@@ -58,7 +64,17 @@ function Runner({ test, examSlug, grammarTitles }: PlacementRunnerProps) {
 
   if (running) return <Test test={test} onFinished={() => setView("result")} />;
   if (view === "result" && latest)
-    return <Result result={latest} test={test} answers={lastAnswers} examSlug={examSlug} grammarTitles={grammarTitles} onRetake={() => setView("intro")} />;
+    return (
+      <Result
+        result={latest}
+        test={test}
+        answers={lastAnswers}
+        examSlug={examSlug}
+        level={level}
+        grammarTitles={grammarTitles}
+        onRetake={() => setView("intro")}
+      />
+    );
 
   return (
     <div className="mx-auto max-w-2xl space-y-6">
@@ -67,7 +83,7 @@ function Runner({ test, examSlug, grammarTitles }: PlacementRunnerProps) {
           <Gauge className="size-6" />
         </span>
         <h1 className="mt-4 text-2xl font-semibold tracking-tight sm:text-3xl">{tp.title}</h1>
-        <p className="mt-2 text-muted-foreground">{tp.lead}</p>
+        <p className="mt-2 text-muted-foreground">{tp.lead(level)}</p>
         <div className="mt-5 flex flex-wrap gap-2 text-sm">
           {[tp.intro.parts(test.sections.length), tp.intro.items(total), tp.intro.minutes(test.minutes)].map((fact) => (
             <span key={fact} className="rounded-full bg-background/80 px-3 py-1 ring-1 ring-border">
@@ -90,7 +106,7 @@ function Runner({ test, examSlug, grammarTitles }: PlacementRunnerProps) {
           ))}
         </ul>
         <div className="mt-6 flex flex-wrap items-center gap-3">
-          <Button size="lg" onClick={start}>
+          <Button size="lg" onClick={() => start(test.examId)}>
             {tp.intro.start} <ArrowRight />
           </Button>
           {latest && (
@@ -374,6 +390,7 @@ function Result({
   test,
   answers,
   examSlug,
+  level,
   grammarTitles,
   onRetake,
 }: {
@@ -381,13 +398,14 @@ function Result({
   test: PlacementTest;
   answers: PlacementAnswers;
   examSlug: string;
+  level: string;
   grammarTitles: Record<string, string>;
   onRetake: () => void;
 }) {
   const t = useT();
   const tr = t.placement.result;
   const [review, setReview] = useState(false);
-  const readiness = tr.readiness[result.readiness];
+  const readiness = { title: tr.readiness[result.readiness].title, text: tr.readiness[result.readiness].text(level) };
   const order = weakestSkills(result);
   const topics = result.missedGrammar.filter((id) => grammarTitles[id]).slice(0, 5);
   // The bar shows the share of correct answers, matching the "x of y correct" next to it.

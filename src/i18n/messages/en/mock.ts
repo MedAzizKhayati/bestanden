@@ -2,8 +2,8 @@ export const mock = {
   /** Name of one mock exam ("Modelltest 3"). */
   title: (n: number) => `Modelltest ${n}`,
   page: {
-    metaTitle: "Mock exams – the full written telc B1 exam",
-    metaDescription: "Complete written telc B1 mock exams with the official timing and scoring.",
+    metaTitle: "Mock exams – the full written telc exam",
+    metaDescription: "Complete written telc B1 and B2 mock exams with the official timing and scoring.",
     crumb: "Mock exams",
     title: "Mock exams",
     description:
@@ -25,7 +25,9 @@ export const mock = {
     text: "The complete written exam, in the real order and with the real time limits. Plan about 2½ hours in a quiet place.",
     reading: (minutes: number) => `${minutes} minutes for five parts – move freely between them.`,
     listening: "Three parts, played without pause – Teil 1 once, Teil 2 and 3 twice.",
+    listeningOnce: "Three parts, played without pause – every text only once.",
     writing: (minutes: number) => `${minutes} minutes for one e-mail.`,
+    writingChoice: (minutes: number) => `${minutes} minutes: choose Aufgabe A or B, then write one e-mail of at least 150 words.`,
     strictOn: "Strict timing is on: each section ends automatically when its time is up – even if you reload the page.",
     strictOff: "Strict timing is off in your settings – sections will not end automatically. Turn it on for a realistic simulation.",
     start: "Start the written exam",
@@ -56,6 +58,10 @@ export const mock = {
   listening: {
     header: (teil: number, total: number) => `Hörverstehen · Teil ${teil} von ${total}`,
     start: (teil: number) => `Start Teil ${teil}`,
+  },
+  choice: {
+    hint: "The 30 minutes are already running – read both tasks briefly and take the one you can write most about.",
+    choose: (key: string) => `Write Aufgabe ${key}`,
   },
   writing: {
     words: (n: number) => (n === 1 ? "1 word" : `${n} words`),

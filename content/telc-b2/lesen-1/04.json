@@ -1,0 +1,118 @@
+{
+  "id": "lesen-1-04",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Klima, Müll und Mieten",
+  "topic": "umwelt",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Ältere Mieter müssen große Wohnungen räumen" },
+    { "key": "b", "text": "Klimaabgaben: Zustimmung hängt von der Verwendung des Geldes ab" },
+    { "key": "c", "text": "Großstädte bleiben Spitzenreiter beim Mietanstieg" },
+    { "key": "d", "text": "Grün statt Asphalt: Schulhöfe als Oasen fürs Quartier" },
+    { "key": "e", "text": "Homeoffice lässt Mieten im Umland steigen" },
+    { "key": "f", "text": "Mehr Verletzungen auf begrünten Pausenhöfen" },
+    { "key": "g", "text": "Tauschbörse für Wohnungen: Kaum jemand macht mit" },
+    { "key": "h", "text": "Umfrage: Mehrheit lehnt strengeren Klimaschutz ab" },
+    { "key": "i", "text": "Mehrweg zum Mitnehmen: Angebot da, Nachfrage gering" },
+    { "key": "j", "text": "Mehrwegpflicht: Die meisten Betriebe ignorieren die Regel" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Viele ältere Menschen leben allein in großen Wohnungen, aus denen die Kinder längst ausgezogen sind, während junge Familien in viel zu kleinen Räumen zusammenrücken müssen. Die gemeinnützige Wiener Wohnbaugesellschaft Donaublick wollte dieses Missverhältnis mit einer eigenen Tauschbörse beheben: Wer in eine kleinere Wohnung innerhalb ihres Bestands wechselt, zahlt dort pro Quadratmeter nicht mehr als bisher, und die Kosten für den Umzug übernimmt die Gesellschaft. Zwei Jahre nach dem Start fällt die Bilanz jedoch bescheiden aus. Von rund 9.000 Haushalten haben gerade einmal 38 getauscht, obwohl auf der Warteliste für größere Wohnungen über 1.200 Familien stehen. Eine Befragung unter älteren Mieterinnen und Mietern zeigt, woran es liegt: Die meisten hängen an ihrer vertrauten Umgebung und an langjährigen Nachbarschaften, viele scheuen zudem den organisatorischen Aufwand eines Umzugs. Die Gesellschaft will nun nachbessern und künftig auch beim Packen, beim Aussortieren von Möbeln und bei der Einrichtung der neuen Wohnung helfen. Einen Zwang zum Umzug werde es aber auch in Zukunft nicht geben, betont Geschäftsführerin Elisabeth Gruber.",
+      "answer": "g",
+      "explanation": "A housing company set up a swap scheme, but „Von rund 9.000 Haushalten haben gerade einmal 38 getauscht“ – hardly anyone takes part, so (g). Headline (a) is wrong: moving is voluntary – „Einen Zwang zum Umzug werde es aber auch in Zukunft nicht geben“.",
+      "explanationDe": "Eine Wohnbaugesellschaft hat eine Tauschbörse eingerichtet, aber „Von rund 9.000 Haushalten haben gerade einmal 38 getauscht“ – kaum jemand macht mit, also (g). Überschrift (a) ist falsch: Der Umzug ist freiwillig – „Einen Zwang zum Umzug werde es aber auch in Zukunft nicht geben“.",
+      "evidence": [
+        "Zwei Jahre nach dem Start fällt die Bilanz jedoch bescheiden aus",
+        "Von rund 9.000 Haushalten haben gerade einmal 38 getauscht"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Nicht in den Metropolen selbst, sondern in ihrem Umland sind die Mieten zuletzt am stärksten gestiegen. Zu diesem Ergebnis kommt eine Auswertung des Dortmunder Instituts für Wohnungsmarktanalyse, das die Angebotsmieten in über 400 deutschen Städten und Gemeinden zwischen 2021 und 2025 verglichen hat. Während Neuvermietungen in Großstädten wie Frankfurt, Köln oder Stuttgart im Schnitt um neun Prozent teurer wurden, betrug der Anstieg in Mittelstädten mit guter Bahnanbindung an eine Großstadt bis zu 17 Prozent; in einzelnen Orten des Rhein-Main-Gebiets lag das Plus sogar noch darüber. Als wichtigsten Grund nennen die Fachleute das Homeoffice: Wer nur noch zwei- oder dreimal pro Woche ins Büro pendeln muss, nimmt einen längeren Arbeitsweg eher in Kauf und sucht günstigeren und größeren Wohnraum außerhalb. Die Kehrseite dieser Entwicklung: Viele Einheimische, insbesondere junge Erwachsene und Alleinerziehende, können sich die steigenden Mieten in ihrer Heimatstadt kaum noch leisten. Das Institut empfiehlt den betroffenen Kommunen deshalb, frühzeitig Bauland für bezahlbare Mietwohnungen auszuweisen, statt ausschließlich neue Einfamilienhaussiedlungen zu planen.",
+      "answer": "e",
+      "explanation": "Rents rose most „Nicht in den Metropolen selbst, sondern in ihrem Umland“, and the main reason is „das Homeoffice“, so (e). Headline (c) reverses the comparison: big cities rose by nine percent, towns near them by up to 17 percent.",
+      "explanationDe": "Die Mieten stiegen am stärksten „Nicht in den Metropolen selbst, sondern in ihrem Umland“, und der wichtigste Grund ist „das Homeoffice“, also (e). Überschrift (c) dreht den Vergleich um: In Großstädten stiegen die Mieten um neun Prozent, in Mittelstädten in ihrer Nähe um bis zu 17 Prozent.",
+      "evidence": [
+        "Nicht in den Metropolen selbst, sondern in ihrem Umland sind die Mieten zuletzt am stärksten gestiegen",
+        "Als wichtigsten Grund nennen die Fachleute das Homeoffice"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Wo bisher Asphalt die Sommerhitze speicherte, sollen bald Bäume, Sträucher und Wiesen wachsen: Der Kanton Basel-Stadt will bis 2032 rund 60 Schulhöfe entsiegeln und begrünen. Die ersten fünf Pausenplätze wurden bereits umgestaltet – mit Ergebnissen, die selbst die Planerinnen und Planer überrascht haben. Messungen an Hitzetagen ergaben, dass die Oberflächentemperatur auf den neuen Flächen um bis zu 20 Grad niedriger liegt als auf dem früheren Belag. Zudem kann Regenwasser bei Starkregen im Boden versickern, statt die Kanalisation zu überlasten. Profitieren sollen aber nicht nur die Schulkinder: Außerhalb der Unterrichtszeiten und in den Ferien stehen die Höfe allen Bewohnerinnen und Bewohnern des Quartiers offen – ein wichtiger Gewinn in dicht bebauten Vierteln, in denen es kaum öffentliche Grünflächen gibt. Die Kosten von insgesamt rund 45 Millionen Franken teilen sich Kanton und Gemeinden. Einzelne Lehrpersonen hatten befürchtet, dass sich die Kinder auf dem unebenen Gelände häufiger verletzen könnten; dafür gibt es bislang allerdings keine Hinweise.",
+      "answer": "d",
+      "explanation": "Asphalt schoolyards are turned into green spaces that stay cooler and are open to „allen Bewohnerinnen und Bewohnern des Quartiers“ – green oases for the neighbourhood, so (d). Headline (f) picks up a fear of some teachers, but „dafür gibt es bislang allerdings keine Hinweise“.",
+      "explanationDe": "Asphaltierte Schulhöfe werden zu Grünflächen, die kühler bleiben und „allen Bewohnerinnen und Bewohnern des Quartiers“ offenstehen – grüne Oasen für das Viertel, also (d). Überschrift (f) greift eine Befürchtung einiger Lehrpersonen auf, aber „dafür gibt es bislang allerdings keine Hinweise“.",
+      "evidence": [
+        "Der Kanton Basel-Stadt will bis 2032 rund 60 Schulhöfe entsiegeln und begrünen",
+        "stehen die Höfe allen Bewohnerinnen und Bewohnern des Quartiers offen"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Größere Restaurants, Cafés und Imbisse sind in Deutschland seit einiger Zeit verpflichtet, Speisen und Getränke zum Mitnehmen auch in Mehrwegbehältern anzubieten. Wie wenig sich dadurch an den Müllbergen in den Innenstädten geändert hat, zeigt eine Stichprobe der Kölner Umweltinitiative „Rheinschleife“ in 120 Betrieben. Zwar hielten sich vier von fünf Betrieben an die Vorschrift, doch nur bei gut fünf Prozent aller beobachteten Verkäufe entschied sich die Kundschaft tatsächlich für die Mehrwegvariante. Häufig wurde diese nicht einmal aktiv angeboten, sondern war lediglich auf einem kleinen Schild neben der Kasse vermerkt. Hinzu kommt, dass jeder Anbieter eigene Behälter verwendet, die sich nur in bestimmten Läden zurückgeben lassen. Wer seinen Kaffeebecher morgens am Bahnhof kauft, kann ihn abends im Café am Wohnort deshalb oft nicht abgeben. Die Initiative fordert deshalb ein einheitliches Pfandsystem für die ganze Stadt sowie eine Abgabe auf Einwegverpackungen, wie sie einige Kommunen bereits erheben. Der Gaststättenverband lehnt eine solche Steuer entschieden ab: Sie belaste die ohnehin unter Druck stehenden Betriebe, ohne das Verhalten der Gäste zu verändern.",
+      "answer": "i",
+      "explanation": "Most businesses offer reusable containers, but customers chose them in only „gut fünf Prozent aller beobachteten Verkäufe“ – the offer is there, demand is low, so (i). Headline (j) is a quantity trap: „vier von fünf Betrieben“ follow the rule.",
+      "explanationDe": "Die meisten Betriebe bieten Mehrwegbehälter an, aber die Kundschaft wählte sie nur bei „gut fünf Prozent aller beobachteten Verkäufe“ – das Angebot ist da, die Nachfrage gering, also (i). Überschrift (j) ist eine Mengen-Falle: „vier von fünf Betrieben“ halten sich an die Vorschrift.",
+      "evidence": [
+        "Zwar hielten sich vier von fünf Betrieben an die Vorschrift",
+        "doch nur bei gut fünf Prozent aller beobachteten Verkäufe entschied sich die Kundschaft tatsächlich für die Mehrwegvariante"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Klimaschutz ja – aber bitte nicht auf eigene Kosten? Ganz so einfach ist es offenbar nicht, wie eine repräsentative Befragung des Alpeninstituts für Sozialforschung in Innsbruck unter 2.000 Österreicherinnen und Österreichern nahelegt. Zwar befürworten fast drei Viertel grundsätzlich strengere Maßnahmen gegen die Erderwärmung, die Zustimmung sinkt jedoch deutlich, sobald konkrete Belastungen genannt werden – etwa höhere Parkgebühren in den Städten oder teurere Flugtickets. Entscheidend ist dabei vor allem, was mit den Einnahmen geschieht. Wird zugesichert, dass das Geld sichtbar an die Bevölkerung zurückfließt, etwa als jährlicher Bonus für alle Haushalte oder in Form eines dichteren Bus- und Bahnangebots, unterstützen mehr als 60 Prozent auch kostspielige Maßnahmen. Fließen die Einnahmen dagegen ohne Zweckbindung in den allgemeinen Staatshaushalt, spricht sich nur knapp ein Viertel dafür aus. Die Forschenden raten der Politik daher, bei neuen Abgaben von Anfang an offenzulegen, wofür die Mittel verwendet werden. Misstrauen gegenüber staatlichen Versprechen sei das größte Hindernis für wirksamen Klimaschutz.",
+      "answer": "b",
+      "explanation": "„Entscheidend ist dabei vor allem, was mit den Einnahmen geschieht“: over 60 percent accept costly measures if the money flows back, only a quarter if it disappears into the budget – so (b). Headline (h) contradicts the text: „fast drei Viertel“ support stricter measures in principle.",
+      "explanationDe": "„Entscheidend ist dabei vor allem, was mit den Einnahmen geschieht“: Über 60 Prozent unterstützen teure Maßnahmen, wenn das Geld zurückfließt, nur ein Viertel, wenn es im Staatshaushalt verschwindet – also (b). Überschrift (h) widerspricht dem Text: „fast drei Viertel“ befürworten grundsätzlich strengere Maßnahmen.",
+      "evidence": [
+        "Entscheidend ist dabei vor allem, was mit den Einnahmen geschieht",
+        "unterstützen mehr als 60 Prozent auch kostspielige Maßnahmen"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "a",
+      "why": "Text 1 wants older tenants to move into smaller flats, but only on a voluntary basis: the company stresses that there will be no obligation to move.",
+      "whyDe": "Text 1 möchte zwar, dass ältere Mieter in kleinere Wohnungen ziehen, aber nur freiwillig: Die Gesellschaft betont, dass es keinen Zwang zum Umzug geben wird."
+    },
+    {
+      "key": "c",
+      "why": "Text 2 compares big cities and the towns around them, but the result is the other way round: rents rose most in the surrounding area, not in the big cities.",
+      "whyDe": "Text 2 vergleicht Großstädte und ihr Umland, aber das Ergebnis ist umgekehrt: Die Mieten stiegen im Umland am stärksten, nicht in den Großstädten."
+    },
+    {
+      "key": "f",
+      "why": "In text 3 some teachers feared more injuries on the uneven ground, but so far there is no evidence of this.",
+      "whyDe": "In Text 3 befürchteten einige Lehrpersonen mehr Verletzungen auf dem unebenen Gelände, aber dafür gibt es bisher keine Hinweise."
+    },
+    {
+      "key": "h",
+      "why": "Text 5 says that almost three quarters support stricter climate measures in principle; support only falls when concrete costs are mentioned and the use of the money is unclear.",
+      "whyDe": "Text 5 sagt, dass fast drei Viertel grundsätzlich strengere Klimamaßnahmen befürworten; die Zustimmung sinkt nur, wenn konkrete Kosten genannt werden und unklar ist, wofür das Geld verwendet wird."
+    },
+    {
+      "key": "j",
+      "why": "Text 4 is about the reusable-container rule, but four out of five businesses follow it; the problem is that customers hardly use the offer.",
+      "whyDe": "In Text 4 geht es um die Mehrwegpflicht, aber vier von fünf Betrieben halten sich daran; das Problem ist, dass die Kundschaft das Angebot kaum nutzt."
+    }
+  ],
+  "glossary": [
+    { "de": "das Missverhältnis", "en": "imbalance, mismatch" },
+    { "de": "etwas scheuen", "en": "to shy away from something" },
+    { "de": "nachbessern", "en": "to make improvements, to rework" },
+    { "de": "die Kehrseite", "en": "downside, flip side" },
+    { "de": "Bauland ausweisen", "en": "to designate land for building" },
+    { "de": "entsiegeln", "en": "to remove asphalt or concrete from the ground" },
+    { "de": "versickern", "en": "to seep away (into the ground)" },
+    { "de": "die Stichprobe", "en": "random sample, spot check" },
+    { "de": "das Pfandsystem", "en": "deposit-return system" },
+    { "de": "befürworten", "en": "to support, to be in favour of" },
+    { "de": "die Zweckbindung", "en": "earmarking (of money for a specific purpose)" },
+    { "de": "kostspielig", "en": "costly, expensive" }
+  ]
+}

@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 import { z } from "zod";
 import { DEFAULT_LOCALE, LOCALES } from "@/i18n/config";
 import { getSet } from "@/lib/content/load";
+import { getExam } from "@/lib/exams";
 import { logAiError, toAiError } from "@/lib/ai/client";
 import { aiText } from "@/lib/ai/i18n";
 import { configForRequest } from "@/lib/ai/route-helpers";
@@ -34,12 +35,14 @@ export async function POST(req: Request) {
   const { examId, setNumber, customTask, subject, text, minutesUsed } = parsed.data;
   if (text.trim().length < 20) return NextResponse.json({ error: t.writeMore }, { status: 400 });
 
+  const exam = getExam(examId);
   const set = setNumber ? getSet(examId, "schreiben", setNumber) : undefined;
   const task = set?.type === "writing-email" ? set : undefined;
-  if (!task && !customTask) return NextResponse.json({ error: t.unknownTask }, { status: 404 });
+  if (!exam || (!task && !customTask)) return NextResponse.json({ error: t.unknownTask }, { status: 404 });
+  const level = exam.level === "B2" ? "B2" : "B1";
 
   try {
-    const feedback = await assessWriting(resolved.config, { task, customTask, subject, text, minutesUsed, locale }, req.signal);
+    const feedback = await assessWriting(resolved.config, { level, task, customTask, subject, text, minutesUsed, locale }, req.signal);
     return NextResponse.json({ feedback });
   } catch (e) {
     logAiError("ai/schreiben", e);

@@ -1,0 +1,114 @@
+{
+  "id": "hoeren-1-01",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Radio Elbwelle: Nachrichten am Morgen",
+  "topic": "umwelt",
+  "difficulty": 1,
+  "speakers": [
+    { "id": "sprecherin", "gender": "f", "age": "adult", "role": "Nachrichtensprecherin" }
+  ],
+  "intro": [
+    { "s": "sprecherin", "t": "Radio Elbwelle, es ist sieben Uhr. Guten Morgen, hier sind die Nachrichten." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: Großauftrag für eine Hamburger Werft",
+      "script": [
+        { "s": "sprecherin", "t": "Hamburg. Die Kranich-Werft in Harburg hat den größten Auftrag ihrer Geschichte erhalten." },
+        { "s": "sprecherin", "t": "Eine dänische Reederei lässt dort sechs Fähren mit Elektroantrieb bauen, die ab 2029 zwischen deutschen und dänischen Inseln fahren sollen. Der Auftrag hat einen Wert von rund 400 Millionen Euro." },
+        { "s": "sprecherin", "t": "Die Werft will deshalb in den nächsten zwei Jahren etwa 250 neue Mitarbeiterinnen und Mitarbeiter einstellen. Noch vor drei Jahren hatte das Unternehmen Kurzarbeit anmelden müssen." }
+      ],
+      "statement": "Eine Hamburger Werft will nach einem großen Auftrag in den nächsten Jahren zusätzliches Personal einstellen.",
+      "answer": true,
+      "explanation": "The shipyard has received „den größten Auftrag ihrer Geschichte“ (six ferries) and „will deshalb … etwa 250 neue Mitarbeiterinnen und Mitarbeiter einstellen“. The „Kurzarbeit“ (short-time work) was three years ago – it is not the situation today.",
+      "explanationDe": "Die Werft hat „den größten Auftrag ihrer Geschichte“ bekommen (sechs Fähren) und „will deshalb … etwa 250 neue Mitarbeiterinnen und Mitarbeiter einstellen“. Die „Kurzarbeit“ war vor drei Jahren – das ist nicht die Situation heute.",
+      "evidence": "Die Werft will deshalb in den nächsten zwei Jahren etwa 250 neue Mitarbeiterinnen und Mitarbeiter einstellen."
+    },
+    {
+      "n": 2,
+      "label": "Meldung: Deicherhöhung an der Elbe verzögert sich",
+      "script": [
+        { "s": "sprecherin", "t": "Stade. Die Erhöhung der Elbdeiche im Landkreis Stade beginnt später als geplant. Eigentlich sollten die Bagger schon im März anrücken." },
+        { "s": "sprecherin", "t": "Nach Angaben des Deichverbands ist das Geld zwar längst bewilligt, aber auf den Weiden hinter dem Deich brüten seltene Vögel wie der Kiebitz." },
+        { "s": "sprecherin", "t": "Die Bauarbeiten dürfen deshalb erst im August beginnen, wenn die jungen Vögel fliegen können. Der neue, einen Meter höhere Deich soll trotzdem bis Ende 2028 fertig sein." }
+      ],
+      "statement": "Die Arbeiten am Elbdeich beginnen später, weil die Finanzierung des Projekts noch nicht gesichert ist.",
+      "answer": false,
+      "explanation": "Money is not the problem: „ist das Geld zwar längst bewilligt“. The work starts later because rare birds are breeding behind the dyke („brüten seltene Vögel“), so the reason in the statement is wrong.",
+      "explanationDe": "Das Geld ist kein Problem: „ist das Geld zwar längst bewilligt“. Die Arbeiten beginnen später, weil hinter dem Deich „seltene Vögel“ brüten. Der Grund in der Aussage ist also falsch.",
+      "evidence": "Nach Angaben des Deichverbands ist das Geld zwar längst bewilligt"
+    },
+    {
+      "n": 3,
+      "label": "Meldung: kostenloses Mittagessen an Bremer Grundschulen",
+      "script": [
+        { "s": "sprecherin", "t": "Bremen. Alle Grundschulkinder in Bremen und Bremerhaven sollen ab dem kommenden Schuljahr ein kostenloses Mittagessen bekommen. Das hat die Bürgerschaft gestern Abend beschlossen." },
+        { "s": "sprecherin", "t": "Bisher zahlen Eltern dafür rund 60 Euro im Monat. Die Kosten von etwa 25 Millionen Euro pro Jahr übernimmt künftig das Land." },
+        { "s": "sprecherin", "t": "Für die weiterführenden Schulen gilt die Regelung zunächst nicht. Hier will der Senat erst prüfen, wie viele Jugendliche ein solches Angebot überhaupt nutzen würden." }
+      ],
+      "statement": "In Bremen bekommen künftig alle Schülerinnen und Schüler in der Schule kostenlos ein Mittagessen.",
+      "answer": false,
+      "explanation": "Only primary school children get the free lunch („Alle Grundschulkinder“). „Für die weiterführenden Schulen gilt die Regelung zunächst nicht“ – so not all pupils. The word „Alle“ is the trap: it refers only to primary schools.",
+      "explanationDe": "Nur die Kinder an Grundschulen bekommen das Essen kostenlos („Alle Grundschulkinder“). „Für die weiterführenden Schulen gilt die Regelung zunächst nicht“ – also nicht alle Schülerinnen und Schüler. Das Wort „Alle“ ist die Falle: Es bezieht sich nur auf die Grundschulen.",
+      "evidence": "Für die weiterführenden Schulen gilt die Regelung zunächst nicht."
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Stadtbibliothek Lüneburg auch sonntags geöffnet",
+      "script": [
+        { "s": "sprecherin", "t": "Lüneburg. Die Stadtbibliothek öffnet ab Dezember auch sonntags. Von 11 bis 17 Uhr können Leserinnen und Leser dann Bücher ausleihen, Zeitung lesen oder im Lesesaal arbeiten." },
+        { "s": "sprecherin", "t": "Personal ist an diesem Tag allerdings nicht im Haus: Man kommt mit dem Bibliotheksausweis herein und leiht die Medien an Automaten aus." },
+        { "s": "sprecherin", "t": "Die Stadt hatte das Modell ein halbes Jahr lang getestet. In dieser Zeit kamen sonntags im Schnitt 120 Besucherinnen und Besucher." }
+      ],
+      "statement": "Die Lüneburger Stadtbibliothek kann man bald auch am Sonntag nutzen, auch wenn dann keine Mitarbeiter da sind.",
+      "answer": true,
+      "explanation": "„Die Stadtbibliothek öffnet ab Dezember auch sonntags“, and „Personal ist an diesem Tag allerdings nicht im Haus“ – visitors use their library card and machines. „nicht im Haus“ does not mean that the library is closed.",
+      "explanationDe": "„Die Stadtbibliothek öffnet ab Dezember auch sonntags“, und „Personal ist an diesem Tag allerdings nicht im Haus“ – man benutzt den Ausweis und Automaten. „nicht im Haus“ heißt nicht, dass die Bibliothek geschlossen ist.",
+      "evidence": "Personal ist an diesem Tag allerdings nicht im Haus"
+    },
+    {
+      "n": 5,
+      "label": "Meldung: Pokalfinale im Basketball",
+      "script": [
+        { "s": "sprecherin", "t": "Zum Sport. Für die Basketballerinnen der Hamburg Seesterne hat es nicht ganz zum Pokalsieg gereicht." },
+        { "s": "sprecherin", "t": "Im Finale in Hannover unterlag das Team gestern Abend dem Titelverteidiger aus Würzburg mit 71 zu 74 Punkten. Für die Hamburgerinnen war es die erste Finalteilnahme überhaupt." },
+        { "s": "sprecherin", "t": "Trainerin Maike Ohlsen sprach trotzdem von einer starken Saison. Ihre Mannschaft habe gezeigt, dass sie mit den besten Teams des Landes mithalten könne." }
+      ],
+      "statement": "Die Basketballerinnen aus Hamburg haben zum ersten Mal in ihrer Geschichte den Pokal gewonnen.",
+      "answer": false,
+      "explanation": "„hat es nicht ganz zum Pokalsieg gereicht“ – they lost the final 71 to 74 („unterlag“). The trap is „zum ersten Mal“: it was their first final („die erste Finalteilnahme“), not their first cup win.",
+      "explanationDe": "„hat es nicht ganz zum Pokalsieg gereicht“ – sie haben das Finale mit 71 zu 74 verloren („unterlag“). Die Falle ist „zum ersten Mal“: Es war „die erste Finalteilnahme“, aber kein Pokalsieg.",
+      "evidence": "hat es nicht ganz zum Pokalsieg gereicht"
+    }
+  ],
+  "unscored": [
+    {
+      "after": 2,
+      "label": "Meldung: mehr junge Seehunde im Wattenmeer",
+      "script": [
+        { "s": "sprecherin", "t": "Wilhelmshaven. Im niedersächsischen Wattenmeer sind in diesem Jahr so viele junge Seehunde gezählt worden wie seit zehn Jahren nicht mehr." },
+        { "s": "sprecherin", "t": "Bei Zählflügen entdeckten Fachleute rund 9.000 Jungtiere. Die Experten sprechen von einem guten Zeichen für den Lebensraum an der Küste." },
+        { "s": "sprecherin", "t": "Sie bitten Spaziergänger aber, einzelne Jungtiere am Strand nicht anzufassen. Die Mutter sei meist in der Nähe und komme zurück, sobald keine Menschen mehr da seien." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecherin", "t": "Das waren die Nachrichten von Radio Elbwelle." }
+  ],
+  "glossary": [
+    { "de": "der Auftrag", "en": "order, contract" },
+    { "de": "die Reederei", "en": "shipping company" },
+    { "de": "Kurzarbeit anmelden", "en": "to put staff on short-time work" },
+    { "de": "der Deich", "en": "dyke, sea wall" },
+    { "de": "bewilligen", "en": "to approve (funding)" },
+    { "de": "brüten", "en": "to breed, to sit on eggs" },
+    { "de": "die weiterführende Schule", "en": "secondary school" },
+    { "de": "der Senat (in Bremen und Hamburg)", "en": "government of the city state" },
+    { "de": "etwas ausleihen", "en": "to borrow something" },
+    { "de": "jemandem unterliegen", "en": "to lose to someone" },
+    { "de": "der Titelverteidiger", "en": "defending champion" },
+    { "de": "mit jemandem mithalten", "en": "to keep up with someone" }
+  ]
+}

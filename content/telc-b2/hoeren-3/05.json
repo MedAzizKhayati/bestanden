@@ -1,0 +1,107 @@
+{
+  "id": "hoeren-3-05",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Zwischen Insel und Innenstadt",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "faehre", "gender": "m", "age": "senior", "role": "Kapitän" },
+    { "id": "abfall", "gender": "f", "age": "adult", "role": "Telefonansage" },
+    { "id": "radio", "gender": "m", "age": "young", "role": "Radiomoderator" },
+    { "id": "zahnarzt", "name": "Sabrina", "gender": "f", "age": "young", "role": "Zahnarztpraxis Doktor Engel" },
+    { "id": "verkehr", "gender": "m", "age": "adult", "role": "Radiosprecher" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage auf der Fähre",
+      "context": "Sie hören eine Durchsage auf einer Fähre.",
+      "script": [
+        { "s": "faehre", "t": "Liebe Fahrgäste, in etwa zehn Minuten legen wir im Hafen von Westerhaven an. Bitte bleiben Sie bis zum Anlegen auf Ihren Plätzen." },
+        { "s": "faehre", "t": "Radfahrer und Fußgänger verlassen das Schiff zuerst, und zwar über den Ausgang auf dem Oberdeck. Fahrgäste mit Auto begeben sich bitte erst nach einer weiteren Durchsage auf das Autodeck." },
+        { "s": "faehre", "t": "Und noch ein wichtiger Hinweis: Wegen des starken Windes entfällt heute die letzte Rückfahrt um 18 Uhr. Wer heute noch aufs Festland zurückmöchte, muss also bereits die Fähre um 16 Uhr 30 nehmen." }
+      ],
+      "statement": "Wer heute noch zurück aufs Festland will, kann sich bis zur Abfahrt um 18 Uhr Zeit lassen.",
+      "answer": false,
+      "explanation": "The 18:00 return trip „entfällt heute“ because of the strong wind, so anyone who wants to go back today „muss also bereits die Fähre um 16 Uhr 30 nehmen“.",
+      "explanationDe": "Die Rückfahrt um 18 Uhr „entfällt heute“ wegen des starken Windes. Wer zurück aufs Festland will, „muss also bereits die Fähre um 16 Uhr 30 nehmen“.",
+      "evidence": "Wegen des starken Windes entfällt heute die letzte Rückfahrt um 18 Uhr."
+    },
+    {
+      "n": 2,
+      "label": "Telefonansage der Abfallwirtschaft",
+      "context": "Sie hören die Ansage eines Servicetelefons.",
+      "script": [
+        { "s": "abfall", "t": "Sie sind verbunden mit dem Servicetelefon der städtischen Abfallwirtschaft. Für die Abholung von Sperrmüll brauchen Sie einen Termin, den Sie online oder unter dieser Nummer vereinbaren können." },
+        { "s": "abfall", "t": "Pro Haushalt sind zwei Abholungen im Jahr mit jeweils bis zu drei Kubikmetern kostenlos, für jede weitere Abholung berechnen wir 35 Euro." },
+        { "s": "abfall", "t": "Große Elektrogeräte wie Kühlschränke oder Waschmaschinen werden getrennt abgeholt, bitte geben Sie diese bei der Terminvereinbarung unbedingt mit an. Bauschutt, Farben und Autoreifen nehmen wir grundsätzlich nicht mit; die können Sie am Wertstoffhof abgeben." }
+      ],
+      "statement": "Große Elektrogeräte kann man einfach zum Sperrmüll stellen, ohne sie bei der Terminvereinbarung zu erwähnen.",
+      "answer": false,
+      "explanation": "Large electrical appliances „werden getrennt abgeholt“, and you are told: „bitte geben Sie diese bei der Terminvereinbarung unbedingt mit an“. So you must mention them when you book the collection.",
+      "explanationDe": "Große Elektrogeräte „werden getrennt abgeholt“, und es heißt: „bitte geben Sie diese bei der Terminvereinbarung unbedingt mit an“. Du musst sie also bei der Terminvereinbarung nennen.",
+      "evidence": "Große Elektrogeräte wie Kühlschränke oder Waschmaschinen werden getrennt abgeholt, bitte geben Sie diese bei der Terminvereinbarung unbedingt mit an."
+    },
+    {
+      "n": 3,
+      "label": "Tipp im Lokalradio",
+      "context": "Sie hören einen Tipp im Lokalradio.",
+      "script": [
+        { "s": "radio", "t": "Am Wochenende feiert die Altstadt wieder ihr Brunnenfest, mit Livemusik auf drei Bühnen, einem Kunsthandwerkermarkt und einem Kinderprogramm rund um den Marktplatz." },
+        { "s": "radio", "t": "Los geht es am Freitag um 18 Uhr, den Abschluss bildet am Sonntag ein großes Konzert ab 20 Uhr. Der Eintritt ist frei, nur für das Abschlusskonzert braucht man ein Bändchen für 5 Euro." },
+        { "s": "radio", "t": "Weil es in der Innenstadt kaum Parkplätze gibt, bittet die Stadt alle Besucher, mit Bus und Bahn anzureisen. Wer ein Konzertbändchen hat, fährt am Sonntag sogar im gesamten Stadtgebiet kostenlos." }
+      ],
+      "statement": "Wer für das Abschlusskonzert bezahlt hat, kann am Sonntag gratis mit Bus und Bahn fahren.",
+      "answer": true,
+      "explanation": "„Wer ein Konzertbändchen hat, fährt am Sonntag sogar im gesamten Stadtgebiet kostenlos.“ The wristband for the final concert costs 5 euros, so people who paid for it travel free on Sunday.",
+      "explanationDe": "„Wer ein Konzertbändchen hat, fährt am Sonntag sogar im gesamten Stadtgebiet kostenlos.“ Das Bändchen kostet 5 Euro – wer es gekauft hat, fährt am Sonntag also gratis.",
+      "evidence": "Wer ein Konzertbändchen hat, fährt am Sonntag sogar im gesamten Stadtgebiet kostenlos."
+    },
+    {
+      "n": 4,
+      "label": "Nachricht von der Zahnarztpraxis",
+      "context": "Sie hören eine Nachricht auf einem Anrufbeantworter.",
+      "script": [
+        { "s": "zahnarzt", "t": "Guten Morgen, Herr Lindqvist, hier ist Sabrina von der Zahnarztpraxis Doktor Engel. Sie haben morgen um 9 Uhr 15 einen Termin zur Zahnreinigung bei uns." },
+        { "s": "zahnarzt", "t": "Leider ist die Kollegin, die bei uns die Zahnreinigungen macht, krank geworden. Wir könnten Ihnen stattdessen morgen um 16 Uhr einen Ersatztermin anbieten oder einen Termin in der nächsten Woche." },
+        { "s": "zahnarzt", "t": "Ihre Kontrolluntersuchung bei Doktor Engel um 9 Uhr 45 findet aber auf jeden Fall wie geplant statt. Rufen Sie uns bitte kurz zurück, damit wir wissen, wie es mit der Reinigung weitergehen soll." }
+      ],
+      "statement": "Herr Lindqvist muss morgen Vormittag trotzdem in die Praxis kommen, allerdings nicht zur Zahnreinigung.",
+      "answer": true,
+      "explanation": "The cleaning at 9:15 cannot take place, but „Ihre Kontrolluntersuchung bei Doktor Engel um 9 Uhr 45 findet aber auf jeden Fall wie geplant statt“. So he still has to come in the morning – for the check-up.",
+      "explanationDe": "Die Zahnreinigung um 9 Uhr 15 kann nicht stattfinden, doch es heißt: „Ihre Kontrolluntersuchung bei Doktor Engel um 9 Uhr 45 findet aber auf jeden Fall wie geplant statt.“ Er muss also am Vormittag trotzdem kommen – zur Kontrolle.",
+      "evidence": "Ihre Kontrolluntersuchung bei Doktor Engel um 9 Uhr 45 findet aber auf jeden Fall wie geplant statt."
+    },
+    {
+      "n": 5,
+      "label": "Verkehrsmeldungen im Radio",
+      "context": "Sie hören die Verkehrsmeldungen im Radio.",
+      "script": [
+        { "s": "verkehr", "t": "Hier die aktuellen Verkehrsmeldungen. Wegen Schneefalls und Glätte ist die B 31 zwischen Freiburg und Titisee-Neustadt seit dem frühen Morgen für Lastwagen gesperrt; Autos kommen nur mit Winterreifen durch." },
+        { "s": "verkehr", "t": "Die Polizei rechnet damit, dass die Sperrung frühestens am Nachmittag aufgehoben werden kann." },
+        { "s": "verkehr", "t": "Auf der A 5 zwischen Offenburg und Freiburg ist dagegen nach einem Unfall die linke Spur blockiert, dort stehen Sie zurzeit auf etwa vier Kilometern im Stau. Und bitte halten Sie überall genügend Abstand zu den Räumfahrzeugen." }
+      ],
+      "statement": "Auf der Strecke zwischen Freiburg und Titisee-Neustadt dürfen zurzeit überhaupt keine Fahrzeuge fahren.",
+      "answer": false,
+      "explanation": "The B 31 is closed only „für Lastwagen“ – „Autos kommen nur mit Winterreifen durch“. So cars with winter tyres may still use the road; „überhaupt keine Fahrzeuge“ goes too far.",
+      "explanationDe": "Die B 31 ist nur „für Lastwagen“ gesperrt – „Autos kommen nur mit Winterreifen durch“. Autos mit Winterreifen dürfen also fahren; „überhaupt keine Fahrzeuge“ ist übertrieben.",
+      "evidence": "für Lastwagen gesperrt; Autos kommen nur mit Winterreifen durch"
+    }
+  ],
+  "glossary": [
+    { "de": "anlegen", "en": "to dock (a ship)" },
+    { "de": "sich begeben", "en": "to go, to proceed" },
+    { "de": "das Festland", "en": "mainland" },
+    { "de": "der Sperrmüll", "en": "bulky waste" },
+    { "de": "der Kubikmeter", "en": "cubic metre" },
+    { "de": "der Bauschutt", "en": "building rubble" },
+    { "de": "der Wertstoffhof", "en": "recycling centre" },
+    { "de": "das Bändchen", "en": "wristband (as a ticket)" },
+    { "de": "die Kontrolluntersuchung", "en": "check-up" },
+    { "de": "die Glätte", "en": "icy, slippery roads" },
+    { "de": "eine Sperrung aufheben", "en": "to lift a closure" },
+    { "de": "das Räumfahrzeug", "en": "snowplough, gritter" }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "zweiteilige-konnektoren-b2",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 25,
+  "title": "Zweiteilige Konnektoren für B2: zwar … aber, nicht nur … sondern auch, einerseits … andererseits, je … umso",
+  "titleEn": "Two-part connectors at B2: zwar … aber, nicht nur … sondern auch, einerseits … andererseits, je … umso",
+  "summary": "Use two-part connectors to build an argument: concede with zwar … aber/jedoch, add weight with nicht nur … sondern auch, weigh both sides with einerseits … andererseits and link developments with je … umso – including the word-order variants B2 texts use.",
+  "summaryDe": "Mit zweiteiligen Konnektoren baust du eine Argumentation auf: Mit zwar … aber/jedoch räumst du etwas ein, mit nicht nur … sondern auch verstärkst du, mit einerseits … andererseits wägst du beide Seiten ab, und mit je … umso verbindest du Entwicklungen – auch mit den Varianten der Wortstellung, die in B2-Texten vorkommen.",
+  "examRelevance": ["sprachbausteine", "sprechen", "schreiben", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Two-part connectors structure an argument. **zwar … aber** admits a point and sets a stronger one against it, **nicht nur … sondern auch** adds a second, often more important point, **einerseits … andererseits** weighs two sides, and **je … umso / desto** links two developments. Learn each pair **with its word order**: *zwar, einerseits, andererseits* are adverbs (verb right after them in position 1), *aber* and *sondern* stand in position 0, and the *je* clause has the verb at the end.",
+      "mdDe": "Zweiteilige Konnektoren geben einer Argumentation Struktur. **zwar … aber** räumt einen Punkt ein und stellt einen stärkeren dagegen, **nicht nur … sondern auch** fügt einen zweiten, oft wichtigeren Punkt hinzu, **einerseits … andererseits** wägt zwei Seiten ab, und **je … umso / desto** verbindet zwei Entwicklungen. Lerne jedes Paar **mit seiner Wortstellung**: *zwar, einerseits, andererseits* sind Adverbien (auf Position 1 folgt direkt das Verb), *aber* und *sondern* stehen auf Position 0, und im *je*-Satz steht das Verb am Ende."
+    },
+    {
+      "type": "table",
+      "heading": "The four pairs and their word order",
+      "headingDe": "Die vier Paare und ihre Wortstellung",
+      "columns": ["Pair", "Function", "Word order", "Example"],
+      "columnsDe": ["Paar", "Funktion", "Wortstellung", "Beispiel"],
+      "rows": [
+        ["zwar … aber / doch / jedoch / allerdings", "concede, then contrast", "zwar: middle field or position 1; aber: position 0; doch, jedoch: position 0 or 1; allerdings: position 1 or middle field", "Die Lage ist zwar zentral, jedoch ist die Miete sehr hoch."],
+        ["nicht nur … sondern (auch)", "add a second, stronger point", "nicht nur before the focused part; sondern: position 0; auch can move into the clause", "Sie spricht nicht nur Arabisch, sondern auch Türkisch."],
+        ["einerseits … andererseits", "weigh two sides", "both are adverbs: position 1 → verb next, or middle field", "Einerseits ist die Stelle sicher, andererseits fehlt mir die Abwechslung."],
+        ["je … umso / desto", "link two developments", "je clause: verb at the end; umso/desto + comparative → verb next", "Je länger die Krise dauert, umso größer wird der Druck."]
+      ],
+      "rowsDe": [
+        ["zwar … aber / doch / jedoch / allerdings", "einräumen, dann widersprechen", "zwar: Mittelfeld oder Position 1; aber: Position 0; doch, jedoch: Position 0 oder 1; allerdings: Position 1 oder Mittelfeld", "Die Lage ist zwar zentral, jedoch ist die Miete sehr hoch."],
+        ["nicht nur … sondern (auch)", "einen zweiten, stärkeren Punkt hinzufügen", "nicht nur vor dem betonten Teil; sondern: Position 0; auch kann in den Satz rücken", "Sie spricht nicht nur Arabisch, sondern auch Türkisch."],
+        ["einerseits … andererseits", "zwei Seiten abwägen", "beide sind Adverbien: Position 1 → Verb direkt danach, oder Mittelfeld", "Einerseits ist die Stelle sicher, andererseits fehlt mir die Abwechslung."],
+        ["je … umso / desto", "zwei Entwicklungen verbinden", "je-Satz: Verb am Ende; umso/desto + Komparativ → Verb direkt danach", "Je länger die Krise dauert, umso größer wird der Druck."]
+      ],
+      "note": "Variants: „auf der einen Seite … auf der anderen Seite“ (more spoken) and „nicht nur …, sondern sogar …“ (adds a surprising point). The B1 pairs sowohl … als auch, weder … noch and entweder … oder are covered in „Zweiteilige Konnektoren“.",
+      "noteDe": "Varianten: „auf der einen Seite … auf der anderen Seite“ (eher gesprochen) und „nicht nur …, sondern sogar …“ (fügt einen überraschenden Punkt hinzu). Die B1-Paare sowohl … als auch, weder … noch und entweder … oder findest du unter „Zweiteilige Konnektoren“."
+    },
+    {
+      "type": "text",
+      "heading": "zwar … aber and its formal partners",
+      "headingDe": "zwar … aber und seine formellen Partner",
+      "md": "*zwar* never stands alone – it announces a contrast. The second part can be:\n\n- **aber** (position 0, or in the middle field): „Der Vorschlag ist **zwar** sinnvoll, **aber** er kostet viel Zeit.“ / „…, er kostet **aber** viel Zeit.“\n- **doch / jedoch** (position 0, or position 1 with the verb next – more formal): „…, **doch** er kostet viel Zeit.“ / „…, **jedoch kostet** er viel Zeit.“\n- **allerdings** (position 1 or middle field, never position 0): „…, **allerdings kostet** er viel Zeit.“\n\nIf *zwar* takes position 1, the verb follows: „**Zwar ist** der Vorschlag sinnvoll, **aber** …“ In a discussion, *zwar … aber* is the classic way to concede before you disagree: „Da hast du **zwar** recht, **aber** …“",
+      "mdDe": "*zwar* steht nie allein – es kündigt einen Gegensatz an. Der zweite Teil kann sein:\n\n- **aber** (Position 0 oder im Mittelfeld): „Der Vorschlag ist **zwar** sinnvoll, **aber** er kostet viel Zeit.“ / „…, er kostet **aber** viel Zeit.“\n- **doch / jedoch** (Position 0 oder Position 1 mit dem Verb direkt danach – formeller): „…, **doch** er kostet viel Zeit.“ / „…, **jedoch kostet** er viel Zeit.“\n- **allerdings** (Position 1 oder Mittelfeld, nie Position 0): „…, **allerdings kostet** er viel Zeit.“\n\nWenn *zwar* auf Position 1 steht, folgt das Verb: „**Zwar ist** der Vorschlag sinnvoll, **aber** …“ In einer Diskussion ist *zwar … aber* der klassische Weg, erst etwas einzuräumen und dann zu widersprechen: „Da hast du **zwar** recht, **aber** …“"
+    },
+    {
+      "type": "text",
+      "heading": "nicht nur … sondern auch: position and agreement",
+      "headingDe": "nicht nur … sondern auch: Stellung und Kongruenz",
+      "md": "Put **nicht nur** directly before the part you focus on; a part of the same kind usually follows *sondern auch*: „Das Projekt spart **nicht nur Geld**, **sondern auch Zeit**.“\n\nIf *sondern* starts a whole clause, **auch** moves into it: „Das Projekt spart **nicht nur** Geld, **sondern** es verbessert **auch** die Stimmung im Team.“ The subject may be left out: „…, **sondern** verbessert **auch** die Stimmung.“\n\nWith two subjects, the verb agrees with the **nearer** one: „**Nicht nur** die Mieter, **sondern auch** der Vermieter **war** überrascht.“\n\nAfter *nicht nur* only **sondern** is possible – „nicht nur …, aber auch“ is a typical learner mistake.",
+      "mdDe": "Stell **nicht nur** direkt vor den Teil, den du betonen willst; nach *sondern auch* folgt meist ein Teil derselben Art: „Das Projekt spart **nicht nur Geld**, **sondern auch Zeit**.“\n\nWenn *sondern* einen ganzen Satz einleitet, rückt **auch** in den Satz hinein: „Das Projekt spart **nicht nur** Geld, **sondern** es verbessert **auch** die Stimmung im Team.“ Das Subjekt kann wegfallen: „…, **sondern** verbessert **auch** die Stimmung.“\n\nBei zwei Subjekten richtet sich das Verb nach dem **näheren**: „**Nicht nur** die Mieter, **sondern auch** der Vermieter **war** überrascht.“\n\nNach *nicht nur* ist nur **sondern** möglich – „nicht nur …, aber auch“ ist ein typischer Fehler."
+    },
+    {
+      "type": "text",
+      "heading": "einerseits … andererseits: weighing two sides",
+      "headingDe": "einerseits … andererseits: zwei Seiten abwägen",
+      "md": "Both words are **adverbs**. In position 1 the verb follows directly – never the subject: „**Einerseits verdient** man in der Stadt mehr, **andererseits sind** die Mieten dort viel höher.“ They can also stand in the middle field: „Man verdient in der Stadt **einerseits** mehr, die Mieten sind **andererseits** viel höher.“\n\n*andererseits* is often combined with **aber** or **jedoch** to make the contrast clearer: „…, **andererseits** sind die Mieten **aber** viel höher.“ Don't use *einerseits* without *andererseits* – the reader waits for the second side. *andererseits* alone, however, is fine: „Das Gerät ist teuer. **Andererseits** hält es viel länger.“",
+      "mdDe": "Beide Wörter sind **Adverbien**. Auf Position 1 folgt direkt das Verb – nie das Subjekt: „**Einerseits verdient** man in der Stadt mehr, **andererseits sind** die Mieten dort viel höher.“ Sie können auch im Mittelfeld stehen: „Man verdient in der Stadt **einerseits** mehr, die Mieten sind **andererseits** viel höher.“\n\n*andererseits* wird oft mit **aber** oder **jedoch** kombiniert, damit der Gegensatz deutlicher wird: „…, **andererseits** sind die Mieten **aber** viel höher.“ Verwende *einerseits* nicht ohne *andererseits* – der Leser wartet auf die zweite Seite. *andererseits* allein ist dagegen in Ordnung: „Das Gerät ist teuer. **Andererseits** hält es viel länger.“"
+    },
+    {
+      "type": "text",
+      "heading": "je … umso: beyond the basic pattern",
+      "headingDe": "je … umso: mehr als das Grundmuster",
+      "md": "You know the basic pattern from B1: „**Je** mehr man **übt**, **umso** sicherer **wird** man.“ At B2 you also meet:\n\n- **The je clause second.** Then *umso / desto* + comparative stands inside the main clause: „Die Mieten steigen **umso** stärker, **je** größer die Stadt **ist**.“\n- **Short forms without verbs** (headlines, notes, Nominalstil): „**Je** größer die Nachfrage, **desto** höher der Preis.“\n- **umso mehr, als …** = all the more because: „Die Absage ärgert mich **umso mehr, als** ich extra Urlaub genommen **habe**.“\n- **je nachdem, ob / wie / wann …** = depending on – with **no** comparative and no second part: „**Je nachdem, wie** das Wetter **wird**, grillen wir oder gehen ins Kino.“",
+      "mdDe": "Das Grundmuster kennst du von B1: „**Je** mehr man **übt**, **umso** sicherer **wird** man.“ Auf B2-Niveau begegnen dir außerdem:\n\n- **Der je-Satz an zweiter Stelle.** Dann steht *umso / desto* + Komparativ im Hauptsatz: „Die Mieten steigen **umso** stärker, **je** größer die Stadt **ist**.“\n- **Kurzformen ohne Verb** (Schlagzeilen, Notizen, Nominalstil): „**Je** größer die Nachfrage, **desto** höher der Preis.“\n- **umso mehr, als …** = besonders deshalb, weil: „Die Absage ärgert mich **umso mehr, als** ich extra Urlaub genommen **habe**.“\n- **je nachdem, ob / wie / wann …** = abhängig davon – **ohne** Komparativ und ohne zweiten Teil: „**Je nachdem, wie** das Wetter **wird**, grillen wir oder gehen ins Kino.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Das Elektroauto ist **zwar** in der Anschaffung teuer, im Unterhalt **jedoch** deutlich günstiger.", "en": "The electric car is expensive to buy, but much cheaper to run." },
+        { "de": "**Zwar** hat die Stadt neue Radwege gebaut, **doch** viele davon enden im Nichts.", "en": "The city has built new cycle paths, but many of them lead nowhere." },
+        { "de": "Die Fortbildung hat mir **nicht nur** fachlich geholfen, **sondern** sie hat mir **auch** neue Kontakte gebracht.", "en": "The training not only helped me professionally, it also brought me new contacts." },
+        { "de": "**Nicht nur** die Kosten, **sondern auch** der Zeitaufwand **ist** gestiegen.", "en": "Not only the costs but also the time required has increased." },
+        { "de": "**Einerseits möchte** ich mich beruflich weiterentwickeln, **andererseits will** ich nicht umziehen.", "en": "On the one hand I want to develop my career, on the other hand I don't want to move." },
+        { "de": "**Je** mehr Menschen das Angebot **nutzen**, **umso** günstiger **wird** es für alle.", "en": "The more people use the service, the cheaper it gets for everyone." },
+        { "de": "Ein Umzug lohnt sich **umso** mehr, **je** länger man in der neuen Stadt bleiben **will**.", "en": "A move is all the more worthwhile the longer you want to stay in the new city." },
+        { "de": "**Je nachdem, ob** wir den Zuschuss **bekommen**, starten wir im März oder im Mai.", "en": "Depending on whether we get the grant, we'll start in March or in May." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In **Sprachbausteine Teil 1** you often see one part of a pair and must find its partner – so read the **whole** sentence first: *zwar* → *aber / doch / jedoch*; *nicht nur* → *sondern*; *einerseits* → *andererseits*; *je* → *umso / desto*. Then check the word order after the gap: verb right after it → *jedoch, allerdings, andererseits*; subject first → *aber, sondern*. In **Sprachbausteine Teil 2**, *zwar*, *sondern* or *umso* may be in the word bank.\n\nIn the **discussion (Sprechen Teil 2)** these pairs show that you can argue in a structured way: „**Einerseits** spart Homeoffice Zeit, **andererseits** fehlt der direkte Austausch.“ / „Da hast du **zwar** recht, **aber** …“. In the **B2 e-mail** they help you develop each guiding point in more than one sentence: „Ihr Kurs ist **nicht nur** günstig, **sondern auch** gut mit meinen Arbeitszeiten vereinbar.“",
+      "mdDe": "**In der Prüfung:** In **Sprachbausteine Teil 1** siehst du oft einen Teil eines Paares und musst den Partner finden – lies deshalb zuerst den **ganzen** Satz: *zwar* → *aber / doch / jedoch*; *nicht nur* → *sondern*; *einerseits* → *andererseits*; *je* → *umso / desto*. Prüfe dann die Wortstellung nach der Lücke: Verb direkt danach → *jedoch, allerdings, andererseits*; Subjekt zuerst → *aber, sondern*. In **Sprachbausteine Teil 2** können *zwar*, *sondern* oder *umso* im Kasten stehen.\n\nIn der **Diskussion (Sprechen Teil 2)** zeigen diese Paare, dass du strukturiert argumentieren kannst: „**Einerseits** spart Homeoffice Zeit, **andererseits** fehlt der direkte Austausch.“ / „Da hast du **zwar** recht, **aber** …“. In der **B2-E-Mail** helfen sie dir, jeden Leitpunkt in mehr als einem Satz auszuführen: „Ihr Kurs ist **nicht nur** günstig, **sondern auch** gut mit meinen Arbeitszeiten vereinbar.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **nicht nur needs sondern.** „nicht nur …, aber auch“ is wrong → „nicht nur …, **sondern auch** …“.\n- **Verb after einerseits / andererseits.** „Einerseits ich möchte …“ is wrong → „**Einerseits möchte ich** …“.\n- **aber can't take position 1.** „…, zwar teuer, aber ist es gut“ is wrong → „…, **aber es ist** gut“ or „…, **jedoch ist es** gut“.\n- **The je clause is a subordinate clause.** „…, je knapper wird das Angebot“ is wrong → „…, **je** knapper das Angebot **wird**“.",
+      "mdDe": "**Typische Fallen:**\n\n- **nicht nur braucht sondern.** „nicht nur …, aber auch“ ist falsch → „nicht nur …, **sondern auch** …“.\n- **Verb nach einerseits / andererseits.** „Einerseits ich möchte …“ ist falsch → „**Einerseits möchte ich** …“.\n- **aber kann nicht auf Position 1 stehen.** „…, zwar teuer, aber ist es gut“ ist falsch → „…, **aber es ist** gut“ oder „…, **jedoch ist es** gut“.\n- **Der je-Satz ist ein Nebensatz.** „…, je knapper wird das Angebot“ ist falsch → „…, **je** knapper das Angebot **wird**“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Die Stelle ist nicht nur gut bezahlt, aber auch sehr abwechslungsreich.",
+      "right": "Die Stelle ist nicht nur gut bezahlt, sondern auch sehr abwechslungsreich.",
+      "why": "The partner of „nicht nur“ is always „sondern (auch)“, never „aber“.",
+      "whyDe": "Der Partner von „nicht nur“ ist immer „sondern (auch)“, nie „aber“."
+    },
+    {
+      "wrong": "Einerseits ich möchte mehr verdienen, andererseits ich brauche Zeit für meine Familie.",
+      "right": "Einerseits möchte ich mehr verdienen, andererseits brauche ich Zeit für meine Familie.",
+      "why": "„einerseits“ and „andererseits“ are adverbs in position 1, so the verb comes directly after them.",
+      "whyDe": "„einerseits“ und „andererseits“ sind Adverbien auf Position 1, deshalb kommt das Verb direkt danach."
+    },
+    {
+      "wrong": "Das Angebot ist zwar günstig, aber ist die Qualität schlecht.",
+      "right": "Das Angebot ist zwar günstig, aber die Qualität ist schlecht.",
+      "why": "„aber“ stands in position 0, so normal word order follows: subject, then verb. If you want the verb first, use „jedoch“ or „doch“: „jedoch ist die Qualität schlecht“.",
+      "whyDe": "„aber“ steht auf Position 0, danach kommt die normale Wortstellung: Subjekt, dann Verb. Wenn das Verb zuerst stehen soll, nimm „jedoch“ oder „doch“: „jedoch ist die Qualität schlecht“."
+    },
+    {
+      "wrong": "Die Preise steigen umso schneller, je knapper wird das Angebot.",
+      "right": "Die Preise steigen umso schneller, je knapper das Angebot wird.",
+      "why": "The je clause is a subordinate clause even when it comes second – the verb „wird“ goes to the end.",
+      "whyDe": "Der je-Satz ist ein Nebensatz, auch wenn er an zweiter Stelle steht – das Verb „wird“ steht am Ende."
+    },
+    {
+      "wrong": "Je nachdem das Wetter ist, fahren wir an den See oder bleiben zu Hause.",
+      "right": "Je nachdem, wie das Wetter ist, fahren wir an den See oder bleiben zu Hause.",
+      "why": "„je nachdem“ needs a question word or „ob“ after it: „je nachdem, wie / ob / wann …“.",
+      "whyDe": "Nach „je nachdem“ braucht man ein Fragewort oder „ob“: „je nachdem, wie / ob / wann …“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Homeoffice spart ___ Fahrzeit, aber viele vermissen den direkten Austausch mit dem Team.",
+      "options": ["zwar", "einerseits", "nicht nur"],
+      "answer": 0,
+      "explanation": "The partner later in the sentence is „aber“ → „zwar … aber“. „einerseits“ would need „andererseits“, and „nicht nur“ would need „sondern“.",
+      "explanationDe": "Der Partner weiter hinten im Satz ist „aber“ → „zwar … aber“. „einerseits“ bräuchte „andererseits“, und „nicht nur“ bräuchte „sondern“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die neue Software ist zwar teuer, ___ spart sie uns viel Zeit.",
+      "options": ["aber", "jedoch", "sondern"],
+      "answer": 1,
+      "explanation": "The verb „spart“ comes right after the gap, so the word must take position 1: „jedoch“. „aber“ stands in position 0 („aber sie spart …“), and „sondern“ only follows a negation.",
+      "explanationDe": "Das Verb „spart“ kommt direkt nach der Lücke, also muss das Wort auf Position 1 stehen: „jedoch“. „aber“ steht auf Position 0 („aber sie spart …“), und „sondern“ folgt nur nach einer Negation."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Stadt investiert nicht nur in neue Radwege, ___ sie baut auch das Busnetz aus.",
+      "options": ["aber", "sondern", "doch"],
+      "answer": 1,
+      "explanation": "„nicht nur“ in the first clause is answered by „sondern“; „auch“ has moved into the second clause. „aber“ and „doch“ can't follow „nicht nur“.",
+      "explanationDe": "Auf „nicht nur“ im ersten Satz antwortet „sondern“; „auch“ ist in den zweiten Satz gerückt. „aber“ und „doch“ passen nicht zu „nicht nur“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Je mehr Menschen auf das Auto verzichten, ___.",
+      "options": ["umso ruhiger werden die Innenstädte", "umso ruhiger die Innenstädte werden", "die Innenstädte werden umso ruhiger"],
+      "answer": 0,
+      "explanation": "After the je clause, „umso“ + comparative comes first and the verb follows directly: „umso ruhiger werden …“. Option (b) has the verb at the end, and in (c) „umso ruhiger“ is not at the beginning.",
+      "explanationDe": "Nach dem je-Satz kommt zuerst „umso“ + Komparativ, und das Verb folgt direkt: „umso ruhiger werden …“. In Antwort (b) steht das Verb am Ende, und in (c) steht „umso ruhiger“ nicht am Anfang."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ nachdem, ob der Zug pünktlich ist, sind wir um acht oder um neun Uhr bei euch.",
+      "options": ["Je", "Umso", "Desto"],
+      "answer": 0,
+      "explanation": "„Je nachdem, ob …“ means „depending on whether …“. „Umso“ and „Desto“ only work with a comparative and never combine with „nachdem“.",
+      "explanationDe": "„Je nachdem, ob …“ bedeutet „abhängig davon, ob …“. „Umso“ und „Desto“ stehen nur mit einem Komparativ und nie mit „nachdem“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Einerseits möchte ich im Ausland studieren, ___ fällt es mir schwer, meine Familie zurückzulassen.",
+      "answers": ["andererseits"],
+      "explanation": "„Einerseits“ announces a second side, so its partner is „andererseits“. As an adverb in position 1 it is followed directly by the verb „fällt“.",
+      "explanationDe": "„Einerseits“ kündigt eine zweite Seite an, deshalb ist der Partner „andererseits“. Als Adverb auf Position 1 folgt direkt das Verb „fällt“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Sieg freut uns ___ mehr, als kaum jemand mit uns gerechnet hatte.",
+      "answers": ["umso"],
+      "explanation": "„umso mehr, als …“ is a fixed phrase meaning „all the more because …“. „desto“ is not used in this phrase.",
+      "explanationDe": "„umso mehr, als …“ ist eine feste Wendung und bedeutet „besonders deshalb, weil …“. „desto“ verwendet man in dieser Wendung nicht."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Vertrag ist zwar unbefristet, ___ ist das Gehalt niedriger als erwartet.",
+      "hint": "(not „aber“: the verb follows directly)",
+      "hintDe": "(nicht „aber“: Das Verb folgt direkt)",
+      "answers": ["jedoch", "doch", "allerdings"],
+      "explanation": "The verb „ist“ follows the gap directly, so the partner of „zwar“ must take position 1: „jedoch“, „doch“ or „allerdings“. „aber“ would need the subject first („aber das Gehalt ist …“).",
+      "explanationDe": "Das Verb „ist“ folgt direkt nach der Lücke, also muss der Partner von „zwar“ auf Position 1 stehen: „jedoch“, „doch“ oder „allerdings“. Nach „aber“ müsste zuerst das Subjekt kommen („aber das Gehalt ist …“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Medikament wirkt ___ schneller, je früher man es einnimmt.",
+      "answers": ["umso", "desto"],
+      "explanation": "The je clause comes second here, so „umso“ (or „desto“) + comparative stands inside the main clause: „wirkt umso schneller“.",
+      "explanationDe": "Der je-Satz steht hier an zweiter Stelle, deshalb steht „umso“ (oder „desto“) + Komparativ im Hauptsatz: „wirkt umso schneller“."
+    },
+    {
+      "type": "order",
+      "words": ["dauern,", "wird", "Je", "Einigung.", "Verhandlungen", "schwieriger", "eine", "die", "länger", "umso"],
+      "answers": ["Je länger die Verhandlungen dauern, umso schwieriger wird eine Einigung."],
+      "explanation": "„Je länger“ + subject + verb at the end („dauern“), then „umso schwieriger“ + verb („wird“) + subject.",
+      "explanationDe": "„Je länger“ + Subjekt + Verb am Ende („dauern“), dann „umso schwieriger“ + Verb („wird“) + Subjekt."
+    },
+    {
+      "type": "order",
+      "words": ["laut.", "liegt", "die", "zentral,", "Hotel", "aber", "zwar", "Zimmer", "Das", "sind", "ziemlich"],
+      "answers": [
+        "Das Hotel liegt zwar zentral, aber die Zimmer sind ziemlich laut.",
+        "Das Hotel liegt zwar zentral, die Zimmer sind aber ziemlich laut.",
+        "Das Hotel liegt zwar zentral, die Zimmer aber sind ziemlich laut.",
+        "Zwar liegt das Hotel zentral, aber die Zimmer sind ziemlich laut.",
+        "Zwar liegt das Hotel zentral, die Zimmer sind aber ziemlich laut."
+      ],
+      "explanation": "„zwar“ stands in the middle field after the verb „liegt“. „aber“ can start the second clause (position 0, then subject and verb) or stand inside it: „die Zimmer sind aber …“.",
+      "explanationDe": "„zwar“ steht im Mittelfeld nach dem Verb „liegt“. „aber“ kann den zweiten Satz einleiten (Position 0, dann Subjekt und Verb) oder im Satz stehen: „die Zimmer sind aber …“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „nicht nur …, sondern auch“.",
+      "instructionDe": "Verbinde die Sätze mit „nicht nur …, sondern auch“.",
+      "prompt": "Die Klinik behandelt Patientinnen und Patienten. Sie bildet auch Pflegekräfte aus.",
+      "answers": [
+        "Die Klinik behandelt nicht nur Patientinnen und Patienten, sondern bildet auch Pflegekräfte aus.",
+        "Die Klinik behandelt nicht nur Patientinnen und Patienten, sondern sie bildet auch Pflegekräfte aus."
+      ],
+      "explanation": "„nicht nur“ stands before the first point, „sondern“ starts the second part, and „auch“ moves into it: „sondern (sie) bildet auch Pflegekräfte aus“.",
+      "explanationDe": "„nicht nur“ steht vor dem ersten Punkt, „sondern“ leitet den zweiten Teil ein, und „auch“ rückt in diesen Teil: „sondern (sie) bildet auch Pflegekräfte aus“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite with „einerseits … andererseits“. Start with „Einerseits“.",
+      "instructionDe": "Schreib die Sätze mit „einerseits … andererseits“ um. Beginne mit „Einerseits“.",
+      "prompt": "Ein eigenes Auto ist bequem. Es verursacht aber hohe Kosten.",
+      "answers": [
+        "Einerseits ist ein eigenes Auto bequem, andererseits verursacht es hohe Kosten.",
+        "Einerseits ist ein eigenes Auto bequem, andererseits verursacht es aber hohe Kosten.",
+        "Einerseits ist ein eigenes Auto bequem, andererseits verursacht es jedoch hohe Kosten.",
+        "Einerseits ist ein eigenes Auto bequem, andererseits aber verursacht es hohe Kosten."
+      ],
+      "explanation": "Both words are adverbs in position 1, so the verb comes directly after them: „Einerseits ist …“, „andererseits verursacht …“.",
+      "explanationDe": "Beide Wörter sind Adverbien auf Position 1, deshalb kommt das Verb direkt danach: „Einerseits ist …“, „andererseits verursacht …“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite with „je … umso“ and put the je clause second.",
+      "instructionDe": "Schreib den Satz mit „je … umso“ um und stell den je-Satz an die zweite Stelle.",
+      "prompt": "Wenn eine Wohnung zentraler liegt, ist sie teurer.",
+      "answers": [
+        "Eine Wohnung ist umso teurer, je zentraler sie liegt.",
+        "Eine Wohnung ist desto teurer, je zentraler sie liegt."
+      ],
+      "explanation": "With the je clause second, the main clause comes first with „umso“ + comparative inside it („ist umso teurer“); the je clause ends with its verb („liegt“).",
+      "explanationDe": "Wenn der je-Satz an zweiter Stelle steht, kommt zuerst der Hauptsatz mit „umso“ + Komparativ („ist umso teurer“); der je-Satz endet mit seinem Verb („liegt“)."
+    }
+  ],
+  "related": ["zweiteilige-konnektoren", "konzessive-saetze-b2", "adversative-saetze", "konnektoren-hauptsatz", "verbindungsadverbien", "komparation", "indirekte-fragen", "konsekutivsaetze-b2"]
+}

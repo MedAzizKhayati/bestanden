@@ -30,6 +30,7 @@ describe("placement level estimate", () => {
     A2: { correct: a2[0], total: a2[1] },
     B1: { correct: b1[0], total: b1[1] },
     B2: { correct: b2[0], total: b2[1] },
+    C1: { correct: 0, total: 0 },
   });
   test("levels follow the bands", () => {
     expect(estimateLevel(tally([1, 4], [0, 6], [0, 4]))).toBe("A1");
@@ -59,6 +60,20 @@ describe("placement level estimate", () => {
     expect(worst.missedGrammar.length).toBeGreaterThan(0);
     expect(weakestSkills(worst)).toHaveLength(4);
   });
+
+  test("the B2 level check: perfect answers → C1 and ready; no answers → below B1", () => {
+    const test = JSON.parse(readFileSync("content/placement/telc-b2.json", "utf8")) as PlacementTest;
+    const perfect: PlacementAnswers = {};
+    for (const items of Object.values(itemsBySkill(test)))
+      for (const item of items) perfect[item.id] = item.type === "mc" ? item.answer : item.answer ? "r" : "f";
+    const best = scorePlacement(test, perfect, 1200, 1);
+    expect(best.examId).toBe("telc-b2");
+    expect(best.overall).toBe("C1");
+    expect(best.readiness).toBe("ready");
+    const worst = scorePlacement(test, {}, 60, 1);
+    expect(worst.overall).toBe("A2");
+    expect(worst.readiness).toBe("notYet");
+  });
 });
 
 describe("live writing checks", () => {
@@ -80,7 +95,7 @@ describe("study plan", () => {
       examDate: new Date("2026-12-14"),
       dailyMinutes: 30,
       weakness: {},
-      inventory: { grammar: [], vocab: [], parts: [], mocks: [] },
+      inventory: { examSlug: "telc-b1", grammar: [], vocab: [], parts: [], mocks: [] },
       locale: "de",
     });
     expect(weeks.length).toBeGreaterThanOrEqual(9);

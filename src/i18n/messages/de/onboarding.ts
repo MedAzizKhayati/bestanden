@@ -3,11 +3,11 @@ import type { Messages } from "../en";
 export const onboarding: Messages["onboarding"] = {
   welcome: {
     eyebrow: "Willkommen bei Bestanden",
-    title: "Dein Weg zum telc-B1-Zertifikat",
+    title: "Dein Weg zum telc-Zertifikat B1 oder B2",
     lead: "Übe jeden Teil der Prüfung genau so, wie er geprüft wird, lerne, was dir noch fehlt, und sieh, wie nah du am Bestehen bist.",
     points: [
       { title: "Echtes Prüfungsformat", text: "Alle 12 Teile mit den offiziellen Zeiten – der Timer lässt sich nicht überspringen." },
-      { title: "Lernen, was fehlt", text: "B1-Grammatik, über 1 100 Wörter mit Karteikarten, Redemittel und Strategien." },
+      { title: "Lernen, was fehlt", text: "B1- und B2-Grammatik, über 2 000 Wörter mit Karteikarten, Redemittel und Strategien." },
       { title: "Feedback, das hilft", text: "KI-Korrektur für Schreiben und Sprechen, ein Fehlertrainer und ein Lernplan." },
     ],
     language: "In welcher Sprache möchtest du die Erklärungen?",
@@ -17,6 +17,8 @@ export const onboarding: Messages["onboarding"] = {
   },
   goal: {
     step: (n, total) => `Schritt ${n} von ${total}`,
+    exam: "Auf welche Prüfung bereitest du dich vor?",
+    examHint: (level) => (level === "B2" ? "Obere Mittelstufe – für Beruf, Ausbildung und Studium." : "Mittelstufe – das Zertifikat Deutsch, z. B. für die Einbürgerung."),
     title: "Wann ist deine Prüfung?",
     lead: "Mit dem Datum planen wir deine Wochen. Du kannst es später ändern.",
     noDate: "Weiß ich noch nicht",
@@ -27,7 +29,7 @@ export const onboarding: Messages["onboarding"] = {
   level: {
     title: "Wo stehst du?",
     lead: "Die Einstufung dauert 20 Minuten und prüft Grammatik, Wortschatz, Lesen und Hören. Danach siehst du dein Niveau für jede Fertigkeit und wo du am besten anfängst.",
-    facts: ["Etwa 20 Minuten", "39 kurze Aufgaben", "Ergebnis pro Fertigkeit"],
+    facts: ["Etwa 20–25 Minuten", "Rund 40 kurze Aufgaben", "Ergebnis pro Fertigkeit"],
     start: "Einstufung starten",
     later: "Später – zeig mir die Übungen",
   },
@@ -40,7 +42,7 @@ export const onboarding: Messages["onboarding"] = {
       placement: { title: "Mach die Einstufung", text: "Finde dein Niveau in 20 Minuten heraus." },
       exam: { title: "Probier deine erste Prüfungsaufgabe", text: "Zum Beispiel Lesen Teil 1 – mit dem echten Timer." },
       date: { title: "Trag dein Prüfungsdatum ein", text: "Du bekommst einen Lernplan Woche für Woche." },
-      words: { title: "Lerne 10 Wörter", text: "Karteikarten mit Wiederholung für den B1-Wortschatz." },
+      words: { title: "Lerne 10 Wörter", text: "Karteikarten mit Wiederholung für den Prüfungswortschatz." },
       writing: { title: "Schreib deine erste E-Mail", text: "Schreiben mit Korrektur und Musterlösung." },
     },
   },

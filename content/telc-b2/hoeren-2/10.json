@@ -1,0 +1,148 @@
+{
+  "id": "hoeren-2-10",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Lese im August",
+  "topic": "essen",
+  "difficulty": 3,
+  "context": "Radiosendung „Genuss und Region“ in Österreich: Die Moderatorin spricht mit einem Winzer aus dem Weinviertel darüber, wie der Klimawandel den Weinbau verändert",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "gschwandtner", "name": "Herr Gschwandtner", "gender": "m", "age": "senior", "role": "Winzer" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Grüß Gott und herzlich willkommen bei „Genuss und Region“. Heute geht es um ein Getränk, das sich gerade stärker verändert, als viele glauben – um den Wein." },
+    { "s": "mod", "t": "Bei mir im Studio ist Herbert Gschwandtner, Winzer aus dem Weinviertel, der den Familienbetrieb in vierter Generation führt. Sie kommen direkt aus dem Keller, hab ich gehört?" },
+    { "s": "gschwandtner", "t": "So ist es, und Sie riechen es wahrscheinlich auch. Bei uns gärt gerade überall der junge Wein, und der Geruch hängt dann in jedem Pullover." },
+    { "s": "mod", "t": "Sie haben mir vorhin erzählt, dass sich die Lese in Ihrem Leben enorm verschoben hat." },
+    { "s": "gschwandtner", "t": "Enorm, ja. Als ich als Bub meinem Vater geholfen hab, sind wir frühestens Anfang Oktober in die Weingärten gegangen, und zwar mit Handschuhen, weil's in der Früh schon richtig kalt war." },
+    { "s": "gschwandtner", "t": "Heuer haben wir am zweiten September angefangen – nein, stimmt nicht, am achtundzwanzigsten August sogar. So früh wie noch nie in der Geschichte unseres Hofs." },
+    { "s": "mod", "t": "Und was bedeutet das für den Wein im Glas?" },
+    { "s": "gschwandtner", "t": "Na ja, die Trauben bekommen mehr Sonne und damit mehr Zucker, und aus Zucker wird bei der Gärung Alkohol. Unser Veltliner hatte früher elfeinhalb Prozent, heute sind's oft dreizehn, manchmal vierzehn." },
+    { "s": "gschwandtner", "t": "Und genau das wollen die Leute eigentlich nicht. Die Kundschaft fragt immer öfter nach leichten Weinen, die man auch mittags im Gastgarten trinken kann, ohne dass man danach ein Schläfchen braucht." },
+    { "s": "mod", "t": "Kann man als Winzer da gegensteuern?" },
+    { "s": "gschwandtner", "t": "Ein bisschen schon. Früher haben wir rund um die Trauben die Blätter weggezupft, damit möglichst viel Sonne drankommt." },
+    { "s": "gschwandtner", "t": "Heute lassen wir sie bewusst hängen – die sind jetzt sozusagen der Sonnenschirm für die Trauben. Und wir lesen früher am Tag, zum Teil schon um fünf in der Früh mit Stirnlampen, damit die Trauben kühl in den Keller kommen." },
+    { "s": "gschwandtner", "t": "Mein Enkel fand das großartig. Der hat geglaubt, wir gehen auf Schatzsuche, und war dann ziemlich enttäuscht, dass es nur Trauben waren." },
+    { "s": "mod", "t": "Man hört ja, dass manche Betriebe inzwischen ganz neue Rebsorten pflanzen." },
+    { "s": "gschwandtner", "t": "Ja, und da muss ich ehrlich sein: Ich war lange dagegen. Meine Tochter hat vor vier Jahren, obwohl ich ziemlich skeptisch war, zwei Hektar mit sogenannten pilzwiderstandsfähigen Sorten bepflanzt, die auch mit Hitze und Trockenheit besser zurechtkommen." },
+    { "s": "gschwandtner", "t": "Ich hab damals gesagt, das trinkt kein Mensch. Und dann haben wir die Weine bei einer Blindverkostung im Ort ausgeschenkt, und ausgerechnet ich hab den Wein meiner Tochter am besten bewertet." },
+    { "s": "gschwandtner", "t": "Das war, sag ich mal, ein lehrreicher Abend für mich." },
+    { "s": "mod", "t": "Heißt das, der Grüne Veltliner hat bei Ihnen ausgedient?" },
+    { "s": "gschwandtner", "t": "Um Gottes willen, nein! Der Veltliner ist unsere Visitenkarte, der bleibt, solange ich was zu sagen hab." },
+    { "s": "gschwandtner", "t": "Aber vielleicht nicht mehr überall, wo er heute steht. In den heißen Südlagen wird man in zwanzig Jahren eher Rotwein anbauen, Zweigelt oder vielleicht sogar Sorten, die man bisher nur aus Südfrankreich kennt." },
+    { "s": "mod", "t": "Rotwein aus dem Weinviertel – hätte man sich das vor dreißig Jahren vorstellen können?" },
+    { "s": "gschwandtner", "t": "Nie im Leben. Mein Vater hat immer gesagt, unser Rotwein ist was für Leute, die gern sauren Essig trinken." },
+    { "s": "gschwandtner", "t": "Heute gewinnen Kollegen aus dem Ort damit Preise. Wobei ich persönlich finde, dass so ein Rotwein bei uns nie ganz an einen guten Veltliner herankommt – aber das ist natürlich Geschmackssache." },
+    { "s": "mod", "t": "Wird es denn insgesamt schwieriger, Wein zu machen?" },
+    { "s": "gschwandtner", "t": "Eindeutig, und zwar nicht nur wegen der Hitze. Das klingt jetzt paradox, aber unser größtes Problem ist inzwischen der Frost." },
+    { "s": "gschwandtner", "t": "Weil die Winter so mild sind, treiben die Reben im Frühjahr viel früher aus. Und wenn dann Mitte April noch eine eiskalte Nacht kommt, erfrieren die jungen Triebe." },
+    { "s": "gschwandtner", "t": "Vor zwei Jahren haben wir in einer einzigen Nacht ein Drittel der Ernte verloren. Wir sind die ganze Nacht mit Feuern durch die Weingärten gegangen, aber gegen minus vier Grad kommst du damit nicht an." },
+    { "s": "mod", "t": "Und das Wasser? Viele Betriebe bewässern ja inzwischen." },
+    { "s": "gschwandtner", "t": "Bei den jungen Stöcken machen wir das auch, die würden die ersten Sommer sonst nicht überleben. Die alten Stöcke bewässern wir nicht, die sollen ihre Wurzeln tief in den Boden schicken, zehn, fünfzehn Meter, da unten gibt's immer Wasser." },
+    { "s": "gschwandtner", "t": "Ob ich in zehn Jahren noch so stur sein kann, weiß ich allerdings nicht. Das muss ich ganz ehrlich zugeben." },
+    { "s": "mod", "t": "Manche Ihrer Kollegen ziehen ja buchstäblich den Berg hinauf, in kühlere Lagen." },
+    { "s": "gschwandtner", "t": "Das ist bei uns auch ein Thema. Wir haben uns oben am Waldrand einen Hang angeschaut, wo mein Großvater noch Erdäpfel angebaut hat, weil's für Wein viel zu kalt war." },
+    { "s": "gschwandtner", "t": "Meine Tochter würde am liebsten morgen anfangen, aber ich bremse noch ein bisschen, weil so ein neuer Weingarten fünf, sechs Jahre braucht, bis er was Gescheites bringt. Entschieden ist da also noch nichts." },
+    { "s": "mod", "t": "Herr Gschwandtner, zum Schluss: Blicken Sie eher optimistisch in die Zukunft?" },
+    { "s": "gschwandtner", "t": "Sagen wir so: Winzer sind von Natur aus Optimisten, sonst würde ja keiner jedes Frühjahr wieder von vorne anfangen. Der Wein wird sich verändern, aber gut wird er trotzdem sein – vielleicht sogar besser, wer weiß." },
+    { "s": "mod", "t": "Herzlichen Dank für das Gespräch – und auf einen guten Jahrgang!" },
+    { "s": "gschwandtner", "t": "Danke, und kommen Sie im Frühjahr auf ein Glas bei uns vorbei!" }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Dieses Jahr hat die Lese auf seinem Hof noch vor September begonnen.",
+      "answer": true,
+      "explanation": "He first says „am zweiten September“, but corrects himself at once: „nein, stimmt nicht, am achtundzwanzigsten August sogar“. „Heuer“ is Austrian for „dieses Jahr“.",
+      "explanationDe": "Zuerst sagt er „am zweiten September“, aber er korrigiert sich sofort: „nein, stimmt nicht, am achtundzwanzigsten August sogar“. „Heuer“ heißt auf Österreichisch „dieses Jahr“.",
+      "evidence": "nein, stimmt nicht, am achtundzwanzigsten August sogar"
+    },
+    {
+      "n": 2,
+      "text": "Der höhere Alkoholgehalt kommt nach seiner Erfahrung den Wünschen der Kundschaft entgegen.",
+      "answer": false,
+      "explanation": "The opposite: „Und genau das wollen die Leute eigentlich nicht.“ Customers increasingly ask for light wines with less alcohol.",
+      "explanationDe": "Das Gegenteil stimmt: „Und genau das wollen die Leute eigentlich nicht.“ Die Kundschaft fragt immer öfter nach leichten Weinen mit weniger Alkohol.",
+      "evidence": "Und genau das wollen die Leute eigentlich nicht."
+    },
+    {
+      "n": 3,
+      "text": "Inzwischen entfernt er mehr Laub als früher, damit die Trauben mehr Sonne abbekommen.",
+      "answer": false,
+      "explanation": "Reversed: removing leaves for more sun was what they did „Früher“. Today „Heute lassen wir sie bewusst hängen“ – the leaves shade the grapes like a parasol.",
+      "explanationDe": "Umgekehrt: Die Blätter für mehr Sonne zu entfernen, das war „früher“. „Heute lassen wir sie bewusst hängen“ – die Blätter sind ein Sonnenschirm für die Trauben.",
+      "evidence": "Heute lassen wir sie bewusst hängen"
+    },
+    {
+      "n": 4,
+      "text": "Die Umstellung auf robustere Rebsorten ging von Herrn Gschwandtner selbst aus.",
+      "answer": false,
+      "explanation": "Wrong person: his daughter planted the new varieties – „Meine Tochter hat vor vier Jahren, obwohl ich ziemlich skeptisch war, …“. He himself was against it for a long time („Ich war lange dagegen“).",
+      "explanationDe": "Falsche Person: Die neuen Sorten hat seine Tochter gepflanzt – „Meine Tochter hat vor vier Jahren, obwohl ich ziemlich skeptisch war, …“. Er selbst war lange dagegen („Ich war lange dagegen“).",
+      "evidence": "Meine Tochter hat vor vier Jahren, obwohl ich ziemlich skeptisch war"
+    },
+    {
+      "n": 5,
+      "text": "Bei einer Verkostung ohne Etiketten gab er dem Wein seiner Tochter die beste Bewertung.",
+      "answer": true,
+      "explanation": "At a „Blindverkostung“ (the tasters do not know which wine is which) „ausgerechnet ich hab den Wein meiner Tochter am besten bewertet“ – although he had said „das trinkt kein Mensch“.",
+      "explanationDe": "Bei einer „Blindverkostung“ weiß man nicht, welcher Wein welcher ist. Er sagt: „ausgerechnet ich hab den Wein meiner Tochter am besten bewertet“ – obwohl er vorher gesagt hatte: „das trinkt kein Mensch“.",
+      "evidence": "ausgerechnet ich hab den Wein meiner Tochter am besten bewertet"
+    },
+    {
+      "n": 6,
+      "text": "Für Herrn Gschwandtner ist der Grüne Veltliner das Markenzeichen seines Betriebs.",
+      "answer": true,
+      "explanation": "„Der Veltliner ist unsere Visitenkarte“ – it is what the winery is known for, and it stays. That it may disappear from some hot slopes („vielleicht nicht mehr überall“) does not change this.",
+      "explanationDe": "„Der Veltliner ist unsere Visitenkarte“ – für diesen Wein ist der Betrieb bekannt, und er bleibt. Dass er vielleicht aus heißen Lagen verschwindet („vielleicht nicht mehr überall“), ändert daran nichts.",
+      "evidence": "Der Veltliner ist unsere Visitenkarte"
+    },
+    {
+      "n": 7,
+      "text": "Gerade die milden Winter machen die Reben anfälliger für Frostschäden.",
+      "answer": true,
+      "explanation": "„Weil die Winter so mild sind, treiben die Reben im Frühjahr viel früher aus“ – and then a cold night in April kills the young shoots. That is why he calls frost the biggest problem, although it sounds „paradox“.",
+      "explanationDe": "„Weil die Winter so mild sind, treiben die Reben im Frühjahr viel früher aus“ – und eine kalte Nacht im April lässt dann die jungen Triebe erfrieren. Deshalb ist der Frost das größte Problem, auch wenn das „paradox“ klingt.",
+      "evidence": "Weil die Winter so mild sind, treiben die Reben im Frühjahr viel früher aus."
+    },
+    {
+      "n": 8,
+      "text": "Vor zwei Jahren hat der Frost den größten Teil der Ernte vernichtet.",
+      "answer": false,
+      "explanation": "Quantity trap: in that night they lost „ein Drittel der Ernte“ – a third, not most of the harvest.",
+      "explanationDe": "Falle bei der Menge: In dieser Nacht haben sie „ein Drittel der Ernte“ verloren – also ein Drittel, nicht den größten Teil.",
+      "evidence": "Vor zwei Jahren haben wir in einer einzigen Nacht ein Drittel der Ernte verloren."
+    },
+    {
+      "n": 9,
+      "text": "Ältere Reben bekommen auf seinem Hof bisher kein zusätzliches Wasser.",
+      "answer": true,
+      "explanation": "Only the young vines are watered; „Die alten Stöcke bewässern wir nicht“ – their deep roots find water. „bisher“ fits, because he is not sure he can stay so stubborn in ten years.",
+      "explanationDe": "Nur die jungen Stöcke werden bewässert; „Die alten Stöcke bewässern wir nicht“ – ihre tiefen Wurzeln finden Wasser. „bisher“ passt, weil er nicht sicher ist, ob er in zehn Jahren noch so stur sein kann.",
+      "evidence": "Die alten Stöcke bewässern wir nicht"
+    },
+    {
+      "n": 10,
+      "text": "Die Familie hat bereits beschlossen, am Waldrand einen neuen Weingarten anzulegen.",
+      "answer": false,
+      "explanation": "Only a plan: his daughter would like to start, but he is putting on the brakes – „Entschieden ist da also noch nichts.“",
+      "explanationDe": "Das ist nur ein Plan: Seine Tochter möchte gern anfangen, aber er bremst noch – „Entschieden ist da also noch nichts.“",
+      "evidence": "Entschieden ist da also noch nichts."
+    }
+  ],
+  "glossary": [
+    { "de": "heuer (österreichisch)", "en": "this year" },
+    { "de": "die Lese (Weinlese)", "en": "grape harvest" },
+    { "de": "der Weingarten (österreichisch)", "en": "vineyard" },
+    { "de": "gären", "en": "to ferment" },
+    { "de": "gegensteuern", "en": "to counteract" },
+    { "de": "die Rebsorte", "en": "grape variety" },
+    { "de": "die Blindverkostung", "en": "blind tasting" },
+    { "de": "ausgedient haben", "en": "to have had its day" },
+    { "de": "austreiben (Pflanzen)", "en": "to sprout, to come into bud" },
+    { "de": "der Trieb", "en": "(young) shoot" },
+    { "de": "bewässern", "en": "to irrigate, to water" },
+    { "de": "die Erdäpfel (österreichisch)", "en": "potatoes" }
+  ]
+}

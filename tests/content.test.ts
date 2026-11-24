@@ -5,6 +5,7 @@ import { getSet } from "@/lib/content/load";
 import { localize } from "@/lib/content/localize";
 import type { ExamSet } from "@/lib/content/schemas";
 import { checkTranslations } from "@/lib/content/translations";
+import { WRITING_ALT, WRITING_PART } from "@/lib/exam/mock";
 import { listMocks } from "@/lib/exam/mock-server";
 import { EXAMS } from "@/lib/exams";
 
@@ -69,7 +70,7 @@ describe("difficulty", () => {
   });
 
   test("exam-level sets below telc level are flagged, warm-ups are exempt", () => {
-    const set = { type: "gap-wordbank", difficulty: 2, text: "Liebe Ines,\n\nkurz [[1]] gesagt.\n\nGruß" } as unknown as ExamSet;
+    const set = { type: "gap-wordbank", examId: "telc-b1", difficulty: 2, text: "Liebe Ines,\n\nkurz [[1]] gesagt.\n\nGruß" } as unknown as ExamSet;
     expect(difficultyIssues(set, "sprachbausteine-2")).toEqual([expect.stringContaining("below telc level")]);
     expect(difficultyIssues({ ...set, difficulty: 1 } as ExamSet, "sprachbausteine-2")).toEqual([]);
   });
@@ -77,6 +78,7 @@ describe("difficulty", () => {
   test("mock exams never use warm-up sets", () => {
     for (const exam of EXAMS)
       for (const mock of listMocks(exam))
-        for (const [partId, number] of Object.entries(mock.numbers)) expect(getSet(exam.id, partId, number)?.difficulty).toBeGreaterThan(1);
+        for (const [key, number] of Object.entries(mock.numbers))
+          expect(getSet(exam.id, key === WRITING_ALT ? WRITING_PART : key, number)?.difficulty).toBeGreaterThan(1);
   });
 });

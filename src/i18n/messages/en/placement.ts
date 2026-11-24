@@ -2,7 +2,7 @@ export const placement = {
   metaTitle: "Level check",
   metaDescription: "Find your German level in 20 minutes: grammar, vocabulary, reading and listening – with a result for each skill.",
   title: "Level check (Einstufungstest)",
-  lead: "Four short parts show where you stand on the way to telc B1 – and what to practise first.",
+  lead: (level: string) => `Four short parts show where you stand on the way to telc ${level} – and what to practise first.`,
   skills: { grammatik: "Grammar", wortschatz: "Vocabulary", lesen: "Reading", hoeren: "Listening" },
   intro: {
     parts: (n: number) => `${n} parts`,
@@ -38,11 +38,33 @@ export const placement = {
   result: {
     title: "Your level",
     overall: "Overall",
-    levels: { A1: "below A2", A2: "A2", "B1-": "B1 (on the way)", B1: "B1", "B1+": "B1+", B2: "B2" } as Record<string, string>,
+    levels: {
+      A1: "below A2",
+      A2: "A2",
+      "B1-": "B1 (on the way)",
+      B1: "B1",
+      "B1+": "B1+",
+      "B2-": "B2 (on the way)",
+      B2: "B2",
+      "B2+": "B2+",
+      C1: "C1",
+    } as Record<string, string>,
     readiness: {
-      ready: { title: "Ready for exam training", text: "Your level is around B1. Train the exam parts under real timing and take a mock exam soon." },
-      almost: { title: "Almost there", text: "You're close to B1. With about 6–10 weeks of focused practice you can reach the exam level." },
-      notYet: { title: "Build your foundation first", text: "Strengthen your A2/B1 basics first. With daily practice, plan about 3–6 months before the exam." },
+      ready: {
+        title: "Ready for exam training",
+        text: (level: string) => `Your level is around ${level}. Train the exam parts under real timing and take a mock exam soon.`,
+      },
+      almost: {
+        title: "Almost there",
+        text: (level: string) => `You're close to ${level}. With about 6–10 weeks of focused practice you can reach the exam level.`,
+      },
+      notYet: {
+        title: "Build your foundation first",
+        text: (level: string): string =>
+          level === "B2"
+            ? "Consolidate your B1 grammar and vocabulary first, then the B2 topics. With daily practice, plan about 3–6 months before the exam."
+            : "Strengthen your A2/B1 basics first. With daily practice, plan about 3–6 months before the exam.",
+      },
     },
     correct: (c: number, total: number) => `${c} of ${total} correct`,
     nextSteps: "Your next steps",

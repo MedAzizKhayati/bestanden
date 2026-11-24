@@ -1,11 +1,11 @@
 export const onboarding = {
   welcome: {
     eyebrow: "Welcome to Bestanden",
-    title: "Your path to the telc B1 certificate",
+    title: "Your path to the telc B1 or B2 certificate",
     lead: "Practise every part of the exam exactly as it is tested, learn what you still need, and see how close you are to passing.",
     points: [
       { title: "Real exam format", text: "All 12 parts with the official timing – the timer can't be skipped." },
-      { title: "Learn what's missing", text: "B1 grammar, 1 100+ words with flashcards, Redemittel and strategies." },
+      { title: "Learn what's missing", text: "B1 and B2 grammar, 2 000+ words with flashcards, Redemittel and strategies." },
       { title: "Feedback that helps", text: "AI correction for Schreiben and Sprechen, a mistake trainer and a study plan." },
     ],
     language: "Which language should explanations be in?",
@@ -15,6 +15,8 @@ export const onboarding = {
   },
   goal: {
     step: (n: number, total: number) => `Step ${n} of ${total}`,
+    exam: "Which exam are you preparing for?",
+    examHint: (level: string): string => (level === "B2" ? "Upper intermediate – work, training and study." : "Intermediate – the Zertifikat Deutsch, e.g. for citizenship."),
     title: "When is your exam?",
     lead: "We use the date to plan your weeks. You can change it later.",
     noDate: "I don't know yet",
@@ -25,7 +27,7 @@ export const onboarding = {
   level: {
     title: "Where do you stand?",
     lead: "The 20-minute level check tests grammar, vocabulary, reading and listening. Afterwards you see your level for each skill and where to start.",
-    facts: ["About 20 minutes", "39 short tasks", "Result per skill"],
+    facts: ["About 20–25 minutes", "About 40 short tasks", "Result per skill"],
     start: "Start the level check",
     later: "Later – show me the exercises",
   },
@@ -38,7 +40,7 @@ export const onboarding = {
       placement: { title: "Take the level check", text: "Find your level in 20 minutes." },
       exam: { title: "Try your first exam task", text: "For example Lesen Teil 1 – with the real timer." },
       date: { title: "Set your exam date", text: "Get a week-by-week study plan." },
-      words: { title: "Learn 10 words", text: "Spaced-repetition flashcards for B1 vocabulary." },
+      words: { title: "Learn 10 words", text: "Spaced-repetition flashcards for the exam vocabulary." },
       writing: { title: "Write your first e-mail", text: "Schreiben with corrections and a model answer." },
     },
   },

@@ -3,8 +3,8 @@ export const grammar = {
   drills: (n: number) => (n === 1 ? "1 drill" : `${n} drills`),
   /** /grammatik */
   index: {
-    metaTitle: "Grammar for telc B1",
-    metaDescription: "Every grammar topic you need for telc B1 – explanations, tables, typical mistakes and interactive drills.",
+    metaTitle: "Grammar for telc B1 and B2",
+    metaDescription: "Every grammar topic you need for telc B1 and B2 – explanations, tables, typical mistakes and interactive drills.",
     title: "Grammar",
     description:
       "Everything Sprachbausteine tests – and what makes your Schreiben and Sprechen score higher. Short explanations in English, real German examples, typical traps and drills that check themselves.",
@@ -12,6 +12,7 @@ export const grammar = {
     masteredOf: (total: number) => `of ${total} topics mastered (≥ 80% of the drills)`,
     levelA2: "A2 refresher",
     levelB1: "B1 core",
+    levelB2: "B2",
   },
   /** /grammatik/[topic] */
   topic: {

@@ -1,5 +1,6 @@
 import type { Locale } from "@/i18n/config";
 import { telcB1De } from "./telc-b1.de";
+import { telcB2De } from "./telc-b2.de";
 import type { ExamDefinition } from "./types";
 
 type Grade = "A" | "B" | "C" | "D";
@@ -20,6 +21,7 @@ export interface ExamTranslation {
 
 const TRANSLATIONS: Record<string, Partial<Record<Locale, ExamTranslation>>> = {
   "telc-b1": { de: telcB1De },
+  "telc-b2": { de: telcB2De },
 };
 
 const cache = new Map<string, ExamDefinition>();

@@ -1,0 +1,269 @@
+{
+  "id": "textverweise",
+  "level": "B2",
+  "category": "wortschatz",
+  "order": 24,
+  "title": "Textverweise: dieser, jener, derselbe, wobei, wodurch",
+  "titleEn": "Text references: dieser, jener, derselbe, wobei, wodurch",
+  "summary": "How German texts hold together: demonstratives (dieser, jener, derjenige, derselbe, Ersterer/Letzterer), pronominal adverbs that point back (dadurch, damit, darauf), continuing relative clauses with was, wobei, wodurch and womit, and summarising nouns such as „diese Entwicklung“ – key for Sprachbausteine and for criterion II in Schreiben.",
+  "summaryDe": "Wie deutsche Texte zusammenhalten: Demonstrativa (dieser, jener, derjenige, derselbe, Ersterer/Letzterer), Pronominaladverbien als Rückverweis (dadurch, damit, darauf), weiterführende Relativsätze mit was, wobei, wodurch und womit und Verweisnomen wie „diese Entwicklung“ – wichtig für die Sprachbausteine und für Kriterium II im Schreiben.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Good texts don't repeat the same nouns – they **point back** to what has already been said. German has four main tools for this:\n\n1. **Demonstratives:** dieser, jener, derjenige, derselbe, Ersterer/Letzterer\n2. **Pronominal adverbs** in a new main clause: dadurch, damit, darauf, dafür …\n3. **Continuing relative clauses** about the whole previous clause: …, was / wodurch / womit / wobei …\n4. **Summarising nouns** (Verweisnomen): diese Entwicklung, dieser Schritt, dieser Vorschlag\n\nEvery reference word must **fit** what it points to: gender, number and case for dieser/derselbe, the verb's preposition for da(r)- and wo(r)- words, the meaning for a summarising noun.",
+      "mdDe": "Gute Texte wiederholen nicht ständig dieselben Nomen – sie **verweisen zurück** auf das, was schon gesagt wurde. Dafür gibt es im Deutschen vier wichtige Mittel:\n\n1. **Demonstrativa:** dieser, jener, derjenige, derselbe, Ersterer/Letzterer\n2. **Pronominaladverbien** in einem neuen Hauptsatz: dadurch, damit, darauf, dafür …\n3. **Weiterführende Relativsätze**, die sich auf den ganzen vorigen Satz beziehen: …, was / wodurch / womit / wobei …\n4. **Verweisnomen**, die zusammenfassen: diese Entwicklung, dieser Schritt, dieser Vorschlag\n\nJedes Verweiswort muss zu dem **passen**, worauf es verweist: Genus, Numerus und Kasus bei dieser/derselbe, die Präposition des Verbs bei da(r)- und wo(r)-Wörtern, die Bedeutung beim Verweisnomen."
+    },
+    {
+      "type": "table",
+      "heading": "Demonstratives that point back",
+      "headingDe": "Demonstrativa als Rückverweis",
+      "columns": ["Word", "Use", "Example"],
+      "columnsDe": ["Wort", "Verwendung", "Beispiel"],
+      "rows": [
+        ["dieser, diese, dieses", "points back to something just mentioned – the most frequent reference word", "Die Stadt plant eine Seilbahn. **Dieses** Projekt soll 40 Millionen Euro kosten."],
+        ["jener, jene, jenes", "formal and written: something further away in time or in the text", "In **jenen** Jahren gab es im Dorf noch keine Schule."],
+        ["derjenige, diejenige, dasjenige", "announces a relative clause: the one(s) who …", "**Diejenigen**, die früh buchen, zahlen weniger."],
+        ["derselbe, dieselbe, dasselbe", "identity: exactly the same person or thing", "Die beiden arbeiten seit 20 Jahren in **derselben** Firma."],
+        ["Ersterer – Letzterer", "of two things mentioned: the first – the second", "Es gab ein Angebot aus Bonn und eines aus Wien; **Letzteres** war besser bezahlt."],
+        ["ein solcher / solch ein", "such a – something of this kind", "**Eine solche** Lösung wäre auch für uns denkbar."]
+      ],
+      "rowsDe": [
+        ["dieser, diese, dieses", "verweist auf etwas, das gerade genannt wurde – das häufigste Verweiswort", "Die Stadt plant eine Seilbahn. **Dieses** Projekt soll 40 Millionen Euro kosten."],
+        ["jener, jene, jenes", "formell und schriftlich: etwas, das zeitlich oder im Text weiter weg ist", "In **jenen** Jahren gab es im Dorf noch keine Schule."],
+        ["derjenige, diejenige, dasjenige", "kündigt einen Relativsatz an: die Person(en), die …", "**Diejenigen**, die früh buchen, zahlen weniger."],
+        ["derselbe, dieselbe, dasselbe", "Identität: genau dieselbe Person oder Sache", "Die beiden arbeiten seit 20 Jahren in **derselben** Firma."],
+        ["Ersterer – Letzterer", "bei zwei genannten Dingen: das erste – das zweite", "Es gab ein Angebot aus Bonn und eines aus Wien; **Letzteres** war besser bezahlt."],
+        ["ein solcher / solch ein", "so ein – etwas von dieser Art", "**Eine solche** Lösung wäre auch für uns denkbar."]
+      ],
+      "note": "derjenige and derselbe are written as one word, and both parts are declined: desselben Jahres, mit demselben Zug, derjenigen, die … After a preposition contracted with the article only „selben“ is left: am selben Tag, im selben Haus, zur selben Zeit. Ersterer and Letzterer take adjective endings: Letzterer (masculine), Letztere (feminine or plural), Letzteres (neuter or a whole statement).",
+      "noteDe": "derjenige und derselbe schreibt man zusammen, und beide Teile werden dekliniert: desselben Jahres, mit demselben Zug, derjenigen, die … Nach einer Präposition, die mit dem Artikel verschmolzen ist, bleibt nur „selben“: am selben Tag, im selben Haus, zur selben Zeit. Ersterer und Letzterer haben Adjektivendungen: Letzterer (maskulin), Letztere (feminin oder Plural), Letzteres (Neutrum oder eine ganze Aussage)."
+    },
+    {
+      "type": "text",
+      "heading": "dieser or jener, derselbe or der gleiche?",
+      "headingDe": "dieser oder jener, derselbe oder der gleiche?",
+      "md": "- **dieser** is the normal reference word in speaking and writing: „Viele Mieter haben protestiert. **Dieser** Protest zeigt Wirkung.“\n- **jener** sounds formal and is rare in speech. You find it in articles and literature, mostly for the **past** („in **jener** Nacht“, „seit **jener** Zeit“) or before a relative clause („**jene** Menschen, die …“).\n- **derselbe** means *identical* – one and the same thing. **der gleiche** strictly means *another one of the same kind*: Anna und Ben fahren mit **demselben** Bus (one bus). – Anna und Ben haben **das gleiche** Handy (two phones of the same model). In everyday speech the two are often mixed up; in exam texts keep them apart.\n- **derjenige** is only used when a relative clause follows: „**Derjenige**, der zuletzt geht, schließt ab.“ Without a relative clause, use **der** or **dieser**.\n- **Ersterer/Letzterer** belong to formal writing. In speech, „der erste … der zweite“ or „das eine … das andere“ sounds more natural.",
+      "mdDe": "- **dieser** ist das normale Verweiswort beim Sprechen und Schreiben: „Viele Mieter haben protestiert. **Dieser** Protest zeigt Wirkung.“\n- **jener** klingt formell und ist in der gesprochenen Sprache selten. Du findest es in Artikeln und in der Literatur, meist für die **Vergangenheit** („in **jener** Nacht“, „seit **jener** Zeit“) oder vor einem Relativsatz („**jene** Menschen, die …“).\n- **derselbe** bedeutet *identisch* – ein und dieselbe Sache. **der gleiche** bedeutet genau genommen *eine andere Sache derselben Art*: Anna und Ben fahren mit **demselben** Bus (ein Bus). – Anna und Ben haben **das gleiche** Handy (zwei Handys desselben Modells). Im Alltag werden die beiden oft vermischt; in Prüfungstexten solltest du sie unterscheiden.\n- **derjenige** benutzt man nur, wenn ein Relativsatz folgt: „**Derjenige**, der zuletzt geht, schließt ab.“ Ohne Relativsatz nimmst du **der** oder **dieser**.\n- **Ersterer/Letzterer** gehören zur formellen Schriftsprache. Beim Sprechen klingt „der erste … der zweite“ oder „das eine … das andere“ natürlicher."
+    },
+    {
+      "type": "text",
+      "heading": "Pointing back to a whole statement",
+      "headingDe": "Auf eine ganze Aussage zurückverweisen",
+      "md": "Often you don't refer to one noun but to a **whole statement**. There are two ways to do it:\n\n**1. A da(r)- word in a new main clause** (verb in position 2). The preposition comes from the verb or adjective that follows: reagieren **auf** → **darauf**, führen **zu** → **dazu**, sich gewöhnen **an** → **daran**, profitieren **von** → **davon**.\n\n- Die Stadt hat die Ticketpreise gesenkt. **Dadurch** fahren mehr Menschen mit dem Bus. (by this, as a result)\n- Viele Eltern haben sich beschwert. **Darauf** hat die Schule mit einem Elternabend reagiert.\n- Die Bibliothek hat jetzt sonntags geöffnet. **Davon** profitieren vor allem Studierende.\n\n**2. A continuing relative clause** (weiterführender Relativsatz) after a comma, with the **verb at the end**. It refers to the whole main clause: **was**, or **wo(r)- + preposition** if the verb needs one.\n\n- Die Stadt hat die Ticketpreise gesenkt, **wodurch** mehr Menschen mit dem Bus **fahren**.\n- Die Bibliothek hat jetzt sonntags geöffnet, **was** vor allem Studierende **freut**.\n- Viele Eltern haben sich beschwert, **worauf** die Schule mit einem Elternabend **reagiert hat**.\n\n**wobei** is special: it adds an accompanying circumstance or a **restriction** (*although, but*): Die Mieten sind gestiegen, **wobei** die Unterschiede zwischen den Stadtteilen groß **sind**. In speech, „wobei …“ often introduces a small objection: „Das klingt gut. **Wobei** – wer soll das bezahlen?“",
+      "mdDe": "Oft verweist du nicht auf ein einzelnes Nomen, sondern auf eine **ganze Aussage**. Dafür gibt es zwei Möglichkeiten:\n\n**1. Ein da(r)-Wort in einem neuen Hauptsatz** (Verb auf Position 2). Die Präposition kommt vom Verb oder Adjektiv, das folgt: reagieren **auf** → **darauf**, führen **zu** → **dazu**, sich gewöhnen **an** → **daran**, profitieren **von** → **davon**.\n\n- Die Stadt hat die Ticketpreise gesenkt. **Dadurch** fahren mehr Menschen mit dem Bus. (auf diese Weise, als Folge)\n- Viele Eltern haben sich beschwert. **Darauf** hat die Schule mit einem Elternabend reagiert.\n- Die Bibliothek hat jetzt sonntags geöffnet. **Davon** profitieren vor allem Studierende.\n\n**2. Ein weiterführender Relativsatz** nach einem Komma, mit dem **Verb am Ende**. Er bezieht sich auf den ganzen Hauptsatz: **was** oder – wenn das Verb eine Präposition braucht – **wo(r)- + Präposition**.\n\n- Die Stadt hat die Ticketpreise gesenkt, **wodurch** mehr Menschen mit dem Bus **fahren**.\n- Die Bibliothek hat jetzt sonntags geöffnet, **was** vor allem Studierende **freut**.\n- Viele Eltern haben sich beschwert, **worauf** die Schule mit einem Elternabend **reagiert hat**.\n\n**wobei** ist besonders: Es fügt einen Begleitumstand oder eine **Einschränkung** hinzu (*allerdings, aber*): Die Mieten sind gestiegen, **wobei** die Unterschiede zwischen den Stadtteilen groß **sind**. Beim Sprechen leitet „wobei …“ oft einen kleinen Einwand ein: „Das klingt gut. **Wobei** – wer soll das bezahlen?“"
+    },
+    {
+      "type": "table",
+      "heading": "Main clause or continuing relative clause?",
+      "headingDe": "Hauptsatz oder weiterführender Relativsatz?",
+      "columns": ["Main clause: verb in position 2", "Relative clause: verb at the end", "Meaning"],
+      "columnsDe": ["Hauptsatz: Verb auf Position 2", "Relativsatz: Verb am Ende", "Bedeutung"],
+      "rows": [
+        ["**Das** freut mich.", "…, **was** mich freut.", "refers to the whole statement"],
+        ["**Dadurch** sinken die Kosten.", "…, **wodurch** die Kosten sinken.", "result or means: by this"],
+        ["**Damit** hat niemand gerechnet.", "…, **womit** niemand gerechnet hat.", "rechnen mit"],
+        ["**Darüber** haben wir uns geärgert.", "…, **worüber** wir uns geärgert haben.", "sich ärgern über"],
+        ["**Dafür** bin ich sehr dankbar.", "…, **wofür** ich sehr dankbar bin.", "dankbar sein für"],
+        ["**Dabei** ist ein Fehler passiert.", "…, **wobei** ein Fehler passiert ist.", "accompanying circumstance: in doing so"],
+        ["**Allerdings** ist das teuer.", "…, **wobei** das teuer ist.", "restriction: but, although"]
+      ],
+      "rowsDe": [
+        ["**Das** freut mich.", "…, **was** mich freut.", "bezieht sich auf die ganze Aussage"],
+        ["**Dadurch** sinken die Kosten.", "…, **wodurch** die Kosten sinken.", "Folge oder Mittel: auf diese Weise"],
+        ["**Damit** hat niemand gerechnet.", "…, **womit** niemand gerechnet hat.", "rechnen mit"],
+        ["**Darüber** haben wir uns geärgert.", "…, **worüber** wir uns geärgert haben.", "sich ärgern über"],
+        ["**Dafür** bin ich sehr dankbar.", "…, **wofür** ich sehr dankbar bin.", "dankbar sein für"],
+        ["**Dabei** ist ein Fehler passiert.", "…, **wobei** ein Fehler passiert ist.", "Begleitumstand: währenddessen, bei dieser Gelegenheit"],
+        ["**Allerdings** ist das teuer.", "…, **wobei** das teuer ist.", "Einschränkung: aber, allerdings"]
+      ],
+      "note": "A continuing relative clause always follows a complete main clause – it cannot stand alone. „Was mich freut.“ is not a sentence; write „Das freut mich.“ instead. Before a vowel the wo- and da- words get an r: worauf, worüber, darauf, darüber.",
+      "noteDe": "Ein weiterführender Relativsatz steht immer nach einem vollständigen Hauptsatz – allein kann er nicht stehen. „Was mich freut.“ ist kein Satz; schreib stattdessen „Das freut mich.“ Vor einem Vokal bekommen die wo- und da-Wörter ein r: worauf, worüber, darauf, darüber."
+    },
+    {
+      "type": "text",
+      "heading": "Summarising nouns: diese Entwicklung, dieser Schritt",
+      "headingDe": "Verweisnomen: diese Entwicklung, dieser Schritt",
+      "md": "Articles and well-written texts often sum up the previous sentence with **dieser + a general noun**. The noun has to match what was said:\n\n- something changes over time → **diese Entwicklung, dieser Trend, dieser Anstieg, dieser Rückgang**\n- somebody decides or does something → **diese Entscheidung, dieser Beschluss, dieser Schritt, diese Maßnahme**\n- somebody suggests or demands something → **dieser Vorschlag, diese Idee, diese Forderung, dieser Plan**\n- a study shows something → **dieses Ergebnis, diese Zahlen, dieser Befund**\n- something goes wrong → **dieses Problem, dieser Fehler, dieser Mangel, diese Verzögerung**\n\nExample: „Der Stadtrat hat beschlossen, die Altstadt ab 2027 für Autos zu sperren. **Dieser Schritt** ist umstritten.“ – not „Diese Entwicklung“, because nothing has developed yet: it is a decision.\n\nA summarising noun also lets you **add an evaluation**: „diese **längst überfällige** Maßnahme“, „dieser **umstrittene** Vorschlag“.",
+      "mdDe": "Artikel und gut geschriebene Texte fassen den vorigen Satz oft mit **dieser + einem allgemeinen Nomen** zusammen. Das Nomen muss zu dem passen, was gesagt wurde:\n\n- etwas verändert sich mit der Zeit → **diese Entwicklung, dieser Trend, dieser Anstieg, dieser Rückgang**\n- jemand entscheidet oder tut etwas → **diese Entscheidung, dieser Beschluss, dieser Schritt, diese Maßnahme**\n- jemand schlägt etwas vor oder fordert etwas → **dieser Vorschlag, diese Idee, diese Forderung, dieser Plan**\n- eine Studie zeigt etwas → **dieses Ergebnis, diese Zahlen, dieser Befund**\n- etwas läuft schief → **dieses Problem, dieser Fehler, dieser Mangel, diese Verzögerung**\n\nBeispiel: „Der Stadtrat hat beschlossen, die Altstadt ab 2027 für Autos zu sperren. **Dieser Schritt** ist umstritten.“ – nicht „Diese Entwicklung“, denn hier hat sich noch nichts entwickelt: Es ist eine Entscheidung.\n\nMit einem Verweisnomen kannst du außerdem **eine Bewertung** einbauen: „diese **längst überfällige** Maßnahme“, „dieser **umstrittene** Vorschlag“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Die Firma hat ihre Schichtpläne geändert. **Diese Maßnahme** soll Überstunden vermeiden.", "en": "The company has changed its shift schedules. This measure is meant to avoid overtime." },
+        { "de": "Der Zug fiel aus, **wodurch** ich meinen Anschlussflug verpasste.", "en": "The train was cancelled, which made me miss my connecting flight." },
+        { "de": "Die Mieten in Leipzig steigen weiter, **was** vor allem junge Familien trifft.", "en": "Rents in Leipzig keep rising, which hits young families in particular." },
+        { "de": "Das Hotel liegt direkt am See, **wobei** die Zimmer zur Straße hin recht laut sind.", "en": "The hotel is right on the lake, although the rooms facing the street are quite noisy." },
+        { "de": "Die Gemeinde hat den Radweg verbreitert. **Dadurch** ist die Strecke viel sicherer geworden.", "en": "The municipality has widened the cycle path. As a result, the route has become much safer." },
+        { "de": "Ich habe zweimal angerufen und beide Male **dieselbe** Auskunft bekommen.", "en": "I called twice and got the same information both times." },
+        { "de": "**Diejenigen**, die den Kurs schon bezahlt haben, bekommen ihr Geld zurück.", "en": "Those who have already paid for the course will get their money back." },
+        { "de": "Zur Auswahl standen ein Zimmer mit Balkon und eines mit Blick auf den Park. Wir haben uns für **Letzteres** entschieden.", "en": "We could choose between a room with a balcony and one overlooking the park. We chose the latter." },
+        { "de": "In **jener** Zeit war an Urlaub nicht zu denken.", "en": "Back then, a holiday was out of the question." },
+        { "de": "Viele Kunden hatten sich über die langen Wartezeiten beschwert. **Darauf** hat der Anbieter jetzt reagiert.", "en": "Many customers had complained about the long waiting times. The provider has now responded to this." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 1:** reference words are classic gaps. Typical option sets are „dadurch / wodurch / womit“, „was / das / wobei“, „desselben / derselben / demselben“, „darauf / worauf / auf das“. Check in this order:\n\n1. **Verb position:** verb at the end → wo-word or was; verb in position 2 → da-word.\n2. **Preposition:** which preposition does the verb need? (sich freuen **über** → worüber, rechnen **mit** → womit)\n3. **Agreement:** gender, number and case of the noun (in **derselben** Stadt, mit **demselben** Zug).\n\n**Sprachbausteine Teil 2:** if a gap follows „dieser/diese/dieses“, look in the word bank for the noun that sums up the previous sentence.\n\n**Lesen Teil 2:** questions often target what is hidden behind „dieser Schritt“ or „dadurch“. Go back one or two sentences and work out exactly what the reference word stands for.\n\n**Schreiben, criterion II:** the examiners assess *text logic and a variety of linking devices*. A text that only lists points scores lower than one whose sentences refer to each other: „Die Lieferung kam zwei Wochen zu spät, **wodurch** mir zusätzliche Kosten entstanden sind. Ich bitte Sie, mir **diese Kosten** zu erstatten.“",
+      "mdDe": "**Sprachbausteine Teil 1:** Verweiswörter sind klassische Lücken. Typische Optionen sind „dadurch / wodurch / womit“, „was / das / wobei“, „desselben / derselben / demselben“, „darauf / worauf / auf das“. Prüfe in dieser Reihenfolge:\n\n1. **Verbstellung:** Verb am Ende → wo-Wort oder was; Verb auf Position 2 → da-Wort.\n2. **Präposition:** Welche Präposition braucht das Verb? (sich freuen **über** → worüber, rechnen **mit** → womit)\n3. **Übereinstimmung:** Genus, Numerus und Kasus des Nomens (in **derselben** Stadt, mit **demselben** Zug).\n\n**Sprachbausteine Teil 2:** Steht eine Lücke nach „dieser/diese/dieses“, such im Wortkasten das Nomen, das den vorigen Satz zusammenfasst.\n\n**Lesen Teil 2:** Fragen zielen oft auf das, was hinter „dieser Schritt“ oder „dadurch“ steckt. Geh ein oder zwei Sätze zurück und kläre genau, wofür das Verweiswort steht.\n\n**Schreiben, Kriterium II:** Bewertet werden auch *Textlogik und vielfältige Verknüpfungsmittel*. Ein Text, der die Punkte nur auflistet, bekommt weniger Punkte als einer, dessen Sätze aufeinander verweisen: „Die Lieferung kam zwei Wochen zu spät, **wodurch** mir zusätzliche Kosten entstanden sind. Ich bitte Sie, mir **diese Kosten** zu erstatten.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Four traps:**\n\n1. **was, not das**, when you refer to a whole clause: „Er hat sich entschuldigt, **was** ich fair fand.“ – „das“ only refers to a neuter noun (das Angebot, **das** …).\n2. **da-word or wo-word?** „**dadurch**“ starts a main clause (verb in position 2), „**wodurch**“ a relative clause (verb at the end). And „**damit**“ can be a pronominal adverb (with this) or a conjunction of purpose: „Ich spare, **damit** ich reisen kann.“\n3. **People are not da-words:** „Ich habe lange mit **ihr** gesprochen“, not „damit“. da(r)- and wo(r)- words refer to things and statements.\n4. **Clear references:** if two people of the same gender have been mentioned, „er“ can be unclear. „**dieser**“ points to the person mentioned last: „Herr Lang hat Herrn Ott angerufen, aber **dieser** war nicht erreichbar.“ (dieser = Herr Ott)",
+      "mdDe": "**Vier Fallen:**\n\n1. **was, nicht das**, wenn du dich auf einen ganzen Satz beziehst: „Er hat sich entschuldigt, **was** ich fair fand.“ – „das“ bezieht sich nur auf ein Nomen im Neutrum (das Angebot, **das** …).\n2. **da-Wort oder wo-Wort?** „**dadurch**“ beginnt einen Hauptsatz (Verb auf Position 2), „**wodurch**“ einen Relativsatz (Verb am Ende). Und „**damit**“ kann ein Pronominaladverb sein (mit dieser Sache) oder eine Konjunktion für ein Ziel: „Ich spare, **damit** ich reisen kann.“\n3. **Personen sind keine da-Wörter:** „Ich habe lange mit **ihr** gesprochen“, nicht „damit“. da(r)- und wo(r)-Wörter verweisen auf Sachen und Aussagen.\n4. **Eindeutige Verweise:** Wurden zwei Personen mit demselben Genus genannt, ist „er“ oft unklar. „**dieser**“ verweist auf die zuletzt genannte Person: „Herr Lang hat Herrn Ott angerufen, aber **dieser** war nicht erreichbar.“ (dieser = Herr Ott)"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Die Mieten sind stark gestiegen, das viele Familien belastet.",
+      "right": "Die Mieten sind stark gestiegen, was viele Familien belastet.",
+      "why": "The relative clause refers to the whole statement, not to a neuter noun → „was“. „das“ would need a neuter noun before the comma.",
+      "whyDe": "Der Relativsatz bezieht sich auf die ganze Aussage, nicht auf ein Nomen im Neutrum → „was“. „das“ bräuchte ein Nomen im Neutrum vor dem Komma."
+    },
+    {
+      "wrong": "Der Zug hatte eine Stunde Verspätung, wodurch habe ich den Anschluss verpasst.",
+      "right": "Der Zug hatte eine Stunde Verspätung, wodurch ich den Anschluss verpasst habe.",
+      "why": "„wodurch“ starts a relative clause, so the conjugated verb goes to the end. If you want the verb in position 2, start a new sentence with „Dadurch habe ich …“.",
+      "whyDe": "„wodurch“ leitet einen Relativsatz ein, deshalb steht das konjugierte Verb am Ende. Wenn du das Verb auf Position 2 willst, beginne einen neuen Satz mit „Dadurch habe ich …“."
+    },
+    {
+      "wrong": "Wir wohnen seit zehn Jahren in der selben Straße.",
+      "right": "Wir wohnen seit zehn Jahren in derselben Straße.",
+      "why": "„derselbe“ is one word, and both parts are declined: derselben, demselben, desselben. Only after a contracted preposition does „selben“ stand alone (im selben Haus).",
+      "whyDe": "„derselbe“ ist ein Wort, und beide Teile werden dekliniert: derselben, demselben, desselben. Nur nach einer verschmolzenen Präposition steht „selben“ allein (im selben Haus)."
+    },
+    {
+      "wrong": "Herr Yilmaz ist sehr hilfsbereit, ich arbeite gern damit zusammen.",
+      "right": "Herr Yilmaz ist sehr hilfsbereit, ich arbeite gern mit ihm zusammen.",
+      "why": "da(r)- words refer to things and statements. For a person, use the preposition + personal pronoun: „mit ihm“.",
+      "whyDe": "da(r)-Wörter verweisen auf Sachen und Aussagen. Bei einer Person nimmst du Präposition + Personalpronomen: „mit ihm“."
+    },
+    {
+      "wrong": "Der Stadtrat hat vorgeschlagen, eine Seilbahn zu bauen. Diese Entwicklung stößt auf Kritik.",
+      "right": "Der Stadtrat hat vorgeschlagen, eine Seilbahn zu bauen. Dieser Vorschlag stößt auf Kritik.",
+      "why": "A summarising noun must match what was said. A proposal is not a development → „Dieser Vorschlag“.",
+      "whyDe": "Ein Verweisnomen muss zu dem passen, was gesagt wurde. Ein Vorschlag ist keine Entwicklung → „Dieser Vorschlag“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Die Firma hat flexible Arbeitszeiten eingeführt, ___ sich die Zufriedenheit der Beschäftigten deutlich verbessert hat.",
+      "options": ["wodurch", "dadurch", "was"],
+      "answer": 0,
+      "explanation": "The verb „verbessert hat“ is at the end, so you need a relative word, and the clause names the result of the whole main clause → „wodurch“. „dadurch“ would need the verb in position 2, and „was“ has no function because the clause already has a subject („die Zufriedenheit“).",
+      "explanationDe": "Das Verb „verbessert hat“ steht am Ende – du brauchst also ein Relativwort, und der Satz nennt die Folge des ganzen Hauptsatzes → „wodurch“. „dadurch“ bräuchte das Verb auf Position 2, und „was“ hat keine Funktion, weil der Satz schon ein Subjekt hat („die Zufriedenheit“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Zwei unabhängige Studien kommen zu ___ Ergebnis: Kinder, denen regelmäßig vorgelesen wird, haben später einen größeren Wortschatz.",
+      "options": ["demselben", "denselben", "desselben"],
+      "answer": 0,
+      "explanation": "„zu“ takes the dative, and „das Ergebnis“ is neuter singular → „demselben“. „denselben“ would be masculine accusative or dative plural, „desselben“ is genitive.",
+      "explanationDe": "„zu“ steht mit Dativ, und „das Ergebnis“ ist Neutrum Singular → „demselben“. „denselben“ wäre Akkusativ maskulin oder Dativ Plural, „desselben“ ist Genitiv."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Freibad öffnet in diesem Jahr schon Anfang Mai, ___ sich viele Familien freuen dürften.",
+      "answers": ["worüber"],
+      "hint": "(sich freuen über)",
+      "explanation": "The relative clause refers to the whole main clause, and „sich freuen“ needs „über“ → wo + r + über = „worüber“. The verb („freuen dürften“) is at the end, so „darüber“ is not possible.",
+      "explanationDe": "Der Relativsatz bezieht sich auf den ganzen Hauptsatz, und „sich freuen“ braucht „über“ → wo + r + über = „worüber“. Das Verb („freuen dürften“) steht am Ende, deshalb geht „darüber“ nicht."
+    },
+    {
+      "type": "mc",
+      "prompt": "___, die sich bis Ende März anmelden, erhalten zehn Prozent Rabatt auf die Kursgebühr.",
+      "options": ["Diejenigen", "Derjenige", "Dieselben"],
+      "answer": 0,
+      "explanation": "A relative clause follows, and both „erhalten“ and „die sich … anmelden“ are plural → „Diejenigen“ (those who). „Derjenige“ is singular, and „Dieselben“ (the same people) would need people mentioned before.",
+      "explanationDe": "Es folgt ein Relativsatz, und sowohl „erhalten“ als auch „die sich … anmelden“ stehen im Plural → „Diejenigen“. „Derjenige“ ist Singular, und „Dieselben“ (genau diese Personen) bräuchte Personen, die vorher genannt wurden."
+    },
+    {
+      "type": "mc",
+      "prompt": "Unser Vermieter hat die Heizung noch am selben Tag reparieren lassen, ___ wir ehrlich gesagt nicht erwartet hatten.",
+      "options": ["was", "das", "wobei"],
+      "answer": 0,
+      "explanation": "The relative clause comments on the whole main clause, and „erwartet“ needs an object → „was“. „das“ would need a neuter noun before the comma (there is none: der Vermieter, die Heizung, der Tag), and with „wobei“ the object of „erwartet“ would be missing.",
+      "explanationDe": "Der Relativsatz kommentiert den ganzen Hauptsatz, und „erwartet“ braucht ein Objekt → „was“. „das“ bräuchte ein Nomen im Neutrum vor dem Komma (es gibt keins: der Vermieter, die Heizung, der Tag), und mit „wobei“ würde das Objekt von „erwartet“ fehlen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Join the two sentences: replace „Dadurch“ with „wodurch“.",
+      "instructionDe": "Verbinde die beiden Sätze: Ersetze „Dadurch“ durch „wodurch“.",
+      "prompt": "Die Bahnstrecke wird drei Monate lang gesperrt. Dadurch verlängert sich die Fahrzeit nach Kassel um eine Stunde.",
+      "answers": ["Die Bahnstrecke wird drei Monate lang gesperrt, wodurch sich die Fahrzeit nach Kassel um eine Stunde verlängert."],
+      "explanation": "„wodurch“ starts a continuing relative clause after a comma, so the conjugated verb „verlängert“ moves to the end. The reflexive pronoun „sich“ stays near the beginning of the clause.",
+      "explanationDe": "„wodurch“ leitet nach einem Komma einen weiterführenden Relativsatz ein, deshalb geht das konjugierte Verb „verlängert“ ans Ende. Das Reflexivpronomen „sich“ bleibt weit vorne im Satz."
+    },
+    {
+      "type": "mc",
+      "prompt": "Zur Wahl standen ein Sprachkurs am Vormittag und einer am Abend. Da Herr Kraus tagsüber arbeitet, hat er sich für ___ entschieden.",
+      "options": ["Letzteren", "Ersteren", "Letztere"],
+      "answer": 0,
+      "explanation": "He works during the day, so he chooses the evening course – the one mentioned second → „Letzteren“ (der Kurs, accusative after „für“). „Ersteren“ would be the morning course, and „Letztere“ has a feminine or plural ending.",
+      "explanationDe": "Er arbeitet tagsüber, also wählt er den Abendkurs – den zuletzt genannten → „Letzteren“ (der Kurs, Akkusativ nach „für“). „Ersteren“ wäre der Kurs am Vormittag, und „Letztere“ hat eine Endung für Feminin oder Plural."
+    },
+    {
+      "type": "gap",
+      "prompt": "Beim zweiten Anruf bei der Hotline hatte ich wieder ___ Mitarbeiter am Telefon wie am Vormittag.",
+      "answers": ["denselben"],
+      "hint": "(derselbe)",
+      "explanation": "„der Mitarbeiter“ is masculine and the accusative object of „hatte … am Telefon“ → „denselben“, written as one word. It is one and the same person, so „derselbe“ is exactly right.",
+      "explanationDe": "„der Mitarbeiter“ ist maskulin und Akkusativobjekt von „hatte … am Telefon“ → „denselben“, in einem Wort geschrieben. Es ist ein und dieselbe Person, deshalb passt „derselbe“ genau."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das neue Regionalticket gilt in allen Bussen und Bahnen des Verkehrsverbunds, ___ Fahrten im Fernverkehr ausgeschlossen sind.",
+      "options": ["wobei", "dabei", "was"],
+      "answer": 0,
+      "explanation": "The clause adds a restriction (long-distance trains are not included), and the verb „sind“ is at the end → „wobei“. „dabei“ would need the verb in position 2, and „was“ has no function because the clause already has a subject („Fahrten“).",
+      "explanationDe": "Der Satz fügt eine Einschränkung hinzu (Fernzüge sind nicht dabei), und das Verb „sind“ steht am Ende → „wobei“. „dabei“ bräuchte das Verb auf Position 2, und „was“ hat keine Funktion, weil der Satz schon ein Subjekt hat („Fahrten“)."
+    },
+    {
+      "type": "order",
+      "words": ["geklärt", "wobei", "Radwege,", "Die", "noch", "Finanzierung", "baut", "ist.", "die", "Stadt", "nicht", "neue"],
+      "answers": ["Die Stadt baut neue Radwege, wobei die Finanzierung noch nicht geklärt ist."],
+      "explanation": "First the complete main clause, then a comma and „wobei“. In the relative clause the conjugated verb „ist“ goes to the very end, after „noch nicht geklärt“.",
+      "explanationDe": "Zuerst kommt der vollständige Hauptsatz, dann ein Komma und „wobei“. Im Relativsatz steht das konjugierte Verb „ist“ ganz am Ende, nach „noch nicht geklärt“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Eltern hatten sich über den Baulärm neben der Grundschule beschwert. ___ reagierte die Stadt mit strengeren Ruhezeiten.",
+      "options": ["Darauf", "Dadurch", "Worauf"],
+      "answer": 0,
+      "explanation": "„reagieren auf“ → „darauf“; it starts a new main clause with the verb „reagierte“ in position 2. „Worauf“ would start a question or a relative clause with the verb at the end, and „Dadurch“ does not match „reagieren auf“.",
+      "explanationDe": "„reagieren auf“ → „darauf“; es beginnt einen neuen Hauptsatz mit dem Verb „reagierte“ auf Position 2. „Worauf“ würde eine Frage oder einen Relativsatz mit dem Verb am Ende einleiten, und „Dadurch“ passt nicht zu „reagieren auf“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Stadtbibliothek hat seit Kurzem auch sonntags geöffnet. ___ profitieren vor allem Studierende und Berufstätige.",
+      "answers": ["Davon"],
+      "hint": "(profitieren von)",
+      "explanation": "„profitieren von“ → „davon“. It refers back to the whole previous sentence (the new opening hours) and starts a main clause, so the verb „profitieren“ follows directly.",
+      "explanationDe": "„profitieren von“ → „davon“. Es verweist auf den ganzen vorigen Satz (die neuen Öffnungszeiten) und beginnt einen Hauptsatz, deshalb folgt direkt das Verb „profitieren“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Immer mehr Menschen arbeiten nach dem Renteneintritt weiter. ___ wird von Fachleuten vor allem mit dem Fachkräftemangel erklärt.",
+      "options": ["Diese Entwicklung", "Dieser Vorschlag", "Dieser Beschluss"],
+      "answer": 0,
+      "explanation": "The first sentence describes a change over time („Immer mehr …“) → „Diese Entwicklung“. Nobody has proposed anything („Vorschlag“), and no institution has decided anything („Beschluss“).",
+      "explanationDe": "Der erste Satz beschreibt eine Veränderung über längere Zeit („Immer mehr …“) → „Diese Entwicklung“. Niemand hat etwas vorgeschlagen („Vorschlag“), und keine Institution hat etwas beschlossen („Beschluss“)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the second sentence: replace the dass clause with the summarising noun „diese Maßnahme“.",
+      "instructionDe": "Schreibe den zweiten Satz um: Ersetze den dass-Satz durch das Verweisnomen „diese Maßnahme“.",
+      "prompt": "Die Kantine bietet seit Mai nur noch vegetarische Gerichte an. Dass sie kein Fleisch mehr anbietet, wird von vielen Beschäftigten kritisiert.",
+      "answers": [
+        "Diese Maßnahme wird von vielen Beschäftigten kritisiert.",
+        "Die Kantine bietet seit Mai nur noch vegetarische Gerichte an. Diese Maßnahme wird von vielen Beschäftigten kritisiert."
+      ],
+      "explanation": "„Diese Maßnahme“ sums up the canteen's decision in two words instead of repeating the content. „Maßnahme“ is feminine, so „diese“; the verb „wird“ stays singular.",
+      "explanationDe": "„Diese Maßnahme“ fasst die Entscheidung der Kantine in zwei Wörtern zusammen, statt den Inhalt zu wiederholen. „Maßnahme“ ist feminin, also „diese“; das Verb „wird“ bleibt im Singular."
+    }
+  ],
+  "related": ["relativsaetze-b2", "verbindungsadverbien", "verben-mit-praepositionen", "korrelate", "pronomen", "nominalisierung", "verben-mit-praepositionen-b2"]
+}

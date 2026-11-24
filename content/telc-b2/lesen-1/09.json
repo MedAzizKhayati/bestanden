@@ -1,0 +1,119 @@
+{
+  "id": "lesen-1-09",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Bewegung und Wohlbefinden",
+  "topic": "sport",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Studie: Wer mittags aktiv ist, baut Stress besser ab" },
+    { "key": "b", "text": "Erste Hilfe für die Seele: Laien trauen sich mehr zu" },
+    { "key": "c", "text": "Enttäuschende Bilanz: Stadt stellt Sportgutscheine ein" },
+    { "key": "d", "text": "Ständige Selbstvermessung kann die Lust am Laufen bremsen" },
+    { "key": "e", "text": "Nachwuchsfußball: Jugendspiele künftig ohne Zuschauer" },
+    { "key": "f", "text": "Abstand und Begleitung: Junge Schiedsrichter bleiben länger dabei" },
+    { "key": "g", "text": "Fitness-Apps: Wer seine Daten kennt, bleibt länger dabei" },
+    { "key": "h", "text": "Gegen Stress hilft vor allem eine grüne Umgebung" },
+    { "key": "i", "text": "Kurse für Laien verkürzen die Wartezeit auf eine Therapie" },
+    { "key": "j", "text": "Sportgutscheine für Kinder: Die Zielgruppe wird kaum erreicht" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Im niederösterreichischen Amateurfußball fehlen Schiedsrichterinnen und Schiedsrichter: Rund 300 Spiele pro Saison mussten zuletzt ohne offiziellen Unparteiischen angepfiffen werden oder fielen ganz aus. Eine Befragung des Landesverbands unter ehemaligen Referees zeigt, dass weniger der Zeitaufwand als vielmehr Beschimpfungen von Zuschauern und Trainern den Ausschlag für das Aufhören gegeben hatten. Besonders betroffen sind junge Unparteiische, die häufig schon in ihrer ersten Saison wieder aufgeben. Der Verband reagiert nun mit einem Bündel von Maßnahmen: Bei Nachwuchsspielen müssen Eltern künftig hinter einer Markierung zehn Meter vom Spielfeldrand entfernt stehen, und Neulinge werden in ihren ersten zehn Spielen von einem erfahrenen Kollegen begleitet, der anschließend mit ihnen über heikle Situationen spricht. In einem Pilotbezirk ist der Anteil der jungen Schiedsrichter, die nach einem Jahr noch aktiv sind, dadurch von 55 auf 80 Prozent gestiegen. Höhere Spesen, wie sie einige Vereine vorgeschlagen hatten, hält der Verband dagegen für wenig wirksam, weil Geld bei der Entscheidung zum Aufhören kaum eine Rolle spiele.",
+      "answer": "f",
+      "explanation": "Parents must now stand „zehn Meter vom Spielfeldrand entfernt“ and new referees are „von einem erfahrenen Kollegen begleitet“; as a result, the share still active after a year rose „von 55 auf 80 Prozent“ – (f). Headline (e) exaggerates: spectators are not banned, they only have to keep their distance.",
+      "explanationDe": "Eltern müssen jetzt „zehn Meter vom Spielfeldrand entfernt“ stehen, und neue Schiedsrichter werden „von einem erfahrenen Kollegen begleitet“. Dadurch stieg der Anteil, der nach einem Jahr noch aktiv ist, „von 55 auf 80 Prozent“ – (f). Überschrift (e) übertreibt: Zuschauer sind nicht verboten, sie müssen nur Abstand halten.",
+      "evidence": [
+        "hinter einer Markierung zehn Meter vom Spielfeldrand entfernt stehen",
+        "von einem erfahrenen Kollegen begleitet",
+        "von 55 auf 80 Prozent gestiegen"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Jedes Kind soll Sport im Verein treiben können, unabhängig vom Geldbeutel der Eltern: Mit diesem Ziel verschickt die Stadt Bremen seit zwei Jahren an alle Familien mit Kindern zwischen sechs und vierzehn Jahren einen Gutschein über 60 Euro, der für Mitgliedsbeiträge in Sportvereinen eingelöst werden kann. Eine Auswertung im Auftrag des Sportamts fällt nun ernüchternd aus. Zwar wurden rund 40 Prozent der Gutscheine eingelöst, doch überwiegend von Kindern, die ohnehin schon Mitglied in einem Verein waren. In Stadtteilen mit vielen einkommensschwachen Haushalten, auf die das Programm eigentlich abzielte, blieb die Quote dagegen deutlich unter dem Durchschnitt. Als Gründe nennen die Autorinnen der Studie fehlende Informationen, Sprachbarrieren und den Umstand, dass Vereine in diesen Vierteln seltener vertreten sind. Die Stadt will das Programm dennoch nicht einstellen, sondern umbauen: Künftig sollen Sportlehrkräfte die Gutscheine direkt in den Schulen verteilen, und Vereine erhalten einen Zuschuss, wenn sie Schnuppertrainings in benachteiligten Stadtteilen anbieten.",
+      "answer": "j",
+      "explanation": "The vouchers were mostly used by children „die ohnehin schon Mitglied in einem Verein waren“, while in poorer districts, „auf die das Programm eigentlich abzielte“, the rate stayed low – (j). Headline (c) is only half true: the result is disappointing, but the city „will das Programm dennoch nicht einstellen, sondern umbauen“.",
+      "explanationDe": "Die Gutscheine haben vor allem Kinder eingelöst, „die ohnehin schon Mitglied in einem Verein waren“. In ärmeren Stadtteilen, „auf die das Programm eigentlich abzielte“, blieb die Quote niedrig – (j). Überschrift (c) stimmt nur zur Hälfte: Die Bilanz ist enttäuschend, aber die Stadt „will das Programm dennoch nicht einstellen, sondern umbauen“.",
+      "evidence": [
+        "doch überwiegend von Kindern, die ohnehin schon Mitglied in einem Verein waren",
+        "auf die das Programm eigentlich abzielte, blieb die Quote dagegen deutlich unter dem Durchschnitt"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Pulsuhr, Lauf-App, Wochenstatistik: Für viele Freizeitsportler gehört die digitale Auswertung jedes Trainings längst dazu. Ein Forschungsteam des Basler Instituts für Bewegungsforschung hat nun untersucht, wie sich das auf die Motivation auswirkt, und dafür rund 600 Hobbyläuferinnen und -läufer ein Jahr lang begleitet. Die eine Hälfte zeichnete jeden Lauf mit Tempo, Distanz und Herzfrequenz auf, die andere lief ohne technische Hilfsmittel. Zunächst schienen die Daten tatsächlich anzuspornen: In den ersten drei Monaten trainierte die App-Gruppe häufiger. Nach zwölf Monaten hatten jedoch 41 Prozent von ihnen das Laufen aufgegeben, in der Vergleichsgruppe nur 26 Prozent. In Interviews berichteten viele Teilnehmende, die Zahlen hätten sie zunehmend unter Druck gesetzt; ein langsamer Lauf habe sich wie eine Niederlage angefühlt. Die Forschenden raten trotzdem nicht grundsätzlich von Apps ab. Sie empfehlen aber, die Tempoanzeige gelegentlich auszuschalten und öfter nach Gefühl zu laufen – vor allem dann, wenn man merkt, dass der Blick auf die Uhr wichtiger geworden ist als die Bewegung selbst.",
+      "answer": "d",
+      "explanation": "After a year, 41 per cent of the runners who tracked every run had given up, compared with 26 per cent without an app, because „die Zahlen hätten sie zunehmend unter Druck gesetzt“ – constant self-tracking can spoil the fun, (d). Headline (g) is only true „In den ersten drei Monaten“; in the long run the app users quit more often.",
+      "explanationDe": "Nach einem Jahr hatten 41 Prozent der Läufer, die jeden Lauf aufzeichneten, aufgegeben, ohne App nur 26 Prozent. Der Grund: „die Zahlen hätten sie zunehmend unter Druck gesetzt“. Ständiges Messen kann also die Lust bremsen – (d). Überschrift (g) stimmt nur „In den ersten drei Monaten“; auf Dauer haben die App-Nutzer häufiger aufgehört.",
+      "evidence": [
+        "Nach zwölf Monaten hatten jedoch 41 Prozent von ihnen das Laufen aufgegeben",
+        "die Zahlen hätten sie zunehmend unter Druck gesetzt"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Wer in der Prüfungszeit Stress abbauen will, muss dafür nicht unbedingt joggen gehen. Zu diesem Ergebnis kommt eine Studie des Leipziger Instituts für Umweltpsychologie, an der 120 Studierende kurz vor wichtigen Prüfungen teilnahmen. Sie verbrachten ihre Mittagspause entweder zwanzig Minuten sitzend in einem Park, gingen dieselbe Zeit im Park spazieren oder liefen eine stark befahrene Hauptstraße entlang. Vorher und nachher wurde im Speichel der Wert des Stresshormons Cortisol gemessen. In beiden Parkgruppen sank er deutlich, und zwar nahezu gleich stark – ob die Teilnehmenden saßen oder sich bewegten, spielte also kaum eine Rolle. Beim Spaziergang an der Straße veränderte sich der Wert dagegen kaum. Entscheidend sei offenbar nicht die körperliche Aktivität, sondern die Umgebung, erklärt Studienleiterin Annika Feldhaus: Bäume, Wiesen und das Fehlen von Verkehrslärm signalisierten dem Körper, dass er zur Ruhe kommen könne. Die Forschenden empfehlen Hochschulen daher, Lernräume mit Blick ins Grüne einzurichten, und Städten, auch kleine Grünflächen zwischen den Gebäuden nicht zu bebauen.",
+      "answer": "h",
+      "explanation": "Stress fell in both park groups, whether people sat or walked, but hardly at all on the busy road: „Entscheidend sei offenbar nicht die körperliche Aktivität, sondern die Umgebung“ – (h). Headline (a) is a trap: being active made almost no difference („spielte also kaum eine Rolle“).",
+      "explanationDe": "Der Stress sank in beiden Parkgruppen, egal ob die Studierenden saßen oder gingen, an der Hauptstraße aber kaum: „Entscheidend sei offenbar nicht die körperliche Aktivität, sondern die Umgebung“ – (h). Überschrift (a) ist eine Falle: Ob man aktiv war, „spielte also kaum eine Rolle“.",
+      "evidence": [
+        "ob die Teilnehmenden saßen oder sich bewegten, spielte also kaum eine Rolle",
+        "nicht die körperliche Aktivität, sondern die Umgebung"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Bei einem Herzstillstand wissen die meisten zumindest ungefähr, was zu tun ist – bei einer Panikattacke oder einer beginnenden Depression fühlen sich dagegen viele hilflos. Genau hier setzen die Kurse „Erste Hilfe für die Seele“ an, die ein Berner Verein seit drei Jahren anbietet. An vier Abenden lernen Laien, Warnsignale psychischer Krisen zu erkennen, Betroffene behutsam anzusprechen und sie zu ermutigen, sich professionelle Hilfe zu holen. Inzwischen haben mehr als 6.000 Menschen teilgenommen, darunter viele Beschäftigte, deren Arbeitgeber die Kursgebühr übernehmen. Eine Begleitstudie zeigt, dass sich die Teilnehmenden danach deutlich eher zutrauen, Kollegen, Freundinnen oder Angehörige auf ihr Befinden anzusprechen; knapp die Hälfte hatte das Gelernte bereits innerhalb eines halben Jahres angewendet. Die Kursleiterinnen betonen allerdings, dass niemand zum Hobby-Therapeuten ausgebildet werde: Die Laien sollen zuhören und Wege zu Fachleuten aufzeigen, nicht selbst behandeln. Am eigentlichen Engpass ändern die Kurse ohnehin nichts – auf einen Therapieplatz warten Betroffene im Kanton Bern weiterhin oft mehrere Monate.",
+      "answer": "b",
+      "explanation": "Laypeople learn to recognise psychological crises, and afterwards they „sich … deutlich eher zutrauen“ to speak to people about how they feel – (b). Headline (i) is a trap: the courses do not shorten waiting times – „Am eigentlichen Engpass ändern die Kurse ohnehin nichts“.",
+      "explanationDe": "Laien lernen, psychische Krisen zu erkennen. Danach trauen sie sich „deutlich eher“ zu, andere auf ihr Befinden anzusprechen – (b). Überschrift (i) ist eine Falle: Die Kurse verkürzen keine Wartezeiten – „Am eigentlichen Engpass ändern die Kurse ohnehin nichts“.",
+      "evidence": [
+        "dass sich die Teilnehmenden danach deutlich eher zutrauen",
+        "knapp die Hälfte hatte das Gelernte bereits innerhalb eines halben Jahres angewendet"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "a",
+      "why": "Text 4 is a study about lunch breaks and stress, but it found that sitting in the park helped almost as much as walking, while walking along a busy road hardly helped. Not activity but the green surroundings matter.",
+      "whyDe": "Text 4 ist eine Studie über Stress in der Mittagspause, aber sie zeigt: Im Park zu sitzen hilft fast genauso viel wie spazieren zu gehen, und ein Spaziergang an der Hauptstraße hilft kaum. Nicht die Bewegung, sondern das Grün ist entscheidend."
+    },
+    {
+      "key": "c",
+      "why": "Text 2 does call the result „ernüchternd“, but the vouchers are not stopped: the city „will das Programm dennoch nicht einstellen, sondern umbauen“ – they will be handed out in schools.",
+      "whyDe": "Text 2 nennt die Bilanz zwar „ernüchternd“, aber die Gutscheine werden nicht abgeschafft: Die Stadt „will das Programm dennoch nicht einstellen, sondern umbauen“ – sie sollen in den Schulen verteilt werden."
+    },
+    {
+      "key": "e",
+      "why": "In text 1 spectators are not banned from youth matches: parents only have to stand „hinter einer Markierung zehn Meter vom Spielfeldrand entfernt“.",
+      "whyDe": "In Text 1 werden Zuschauer bei Jugendspielen nicht ausgeschlossen: Eltern müssen nur „hinter einer Markierung zehn Meter vom Spielfeldrand entfernt“ stehen."
+    },
+    {
+      "key": "g",
+      "why": "In text 3 the app group trained more often only „in den ersten drei Monaten“; after a year, more of them had stopped running (41 vs. 26 per cent), so they did not stay with it longer.",
+      "whyDe": "In Text 3 trainierte die App-Gruppe nur „in den ersten drei Monaten“ häufiger. Nach einem Jahr hatten mehr von ihnen aufgehört (41 gegenüber 26 Prozent) – sie sind also nicht länger dabeigeblieben."
+    },
+    {
+      "key": "i",
+      "why": "Text 5 mentions the long wait for therapy, but the courses do not change it: „Am eigentlichen Engpass ändern die Kurse ohnehin nichts“ – people still often wait several months.",
+      "whyDe": "Text 5 erwähnt die lange Wartezeit auf eine Therapie, aber die Kurse ändern daran nichts: „Am eigentlichen Engpass ändern die Kurse ohnehin nichts“ – man wartet weiterhin oft mehrere Monate."
+    }
+  ],
+  "glossary": [
+    { "de": "der/die Unparteiische", "en": "referee" },
+    { "de": "den Ausschlag geben", "en": "to be the decisive factor" },
+    { "de": "heikel", "en": "tricky, delicate" },
+    { "de": "die Spesen (Pl.)", "en": "expenses, expense allowance" },
+    { "de": "einen Gutschein einlösen", "en": "to redeem a voucher" },
+    { "de": "einkommensschwach", "en": "low-income" },
+    { "de": "auf etwas abzielen", "en": "to be aimed at something" },
+    { "de": "der Zuschuss", "en": "subsidy, grant" },
+    { "de": "jemanden anspornen", "en": "to spur someone on, to motivate someone" },
+    { "de": "die Grünfläche", "en": "green space" },
+    { "de": "behutsam", "en": "gently, carefully" },
+    { "de": "sich etwas zutrauen", "en": "to feel confident enough to do something" }
+  ]
+}

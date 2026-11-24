@@ -1,0 +1,119 @@
+{
+  "id": "hoeren-1-08",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Radio Spreewelle: Nachrichten um acht",
+  "topic": "behoerden",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "sprecher", "gender": "m", "age": "adult", "role": "Nachrichtensprecher" },
+    { "id": "korrespondentin", "name": "Lena Hartmann", "gender": "f", "age": "adult", "role": "Korrespondentin" }
+  ],
+  "intro": [
+    { "s": "sprecher", "t": "Hier ist Radio Spreewelle mit den Nachrichten um acht. Guten Morgen!" }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: längere Öffnungszeiten der Berliner Bürgerämter",
+      "script": [
+        { "s": "sprecher", "t": "Berlin. Wer einen neuen Personalausweis oder Reisepass braucht, soll in Berlin künftig schneller einen Termin im Bürgeramt bekommen." },
+        { "s": "sprecher", "t": "Der Senat hat gestern beschlossen, dass alle Bürgerämter der Stadt ab Februar an zwei Abenden pro Woche bis 20 Uhr geöffnet bleiben. Dafür werden rund 150 zusätzliche Stellen geschaffen." },
+        { "s": "sprecher", "t": "Die ursprünglich ebenfalls geplante Öffnung am Samstag ist dagegen vom Tisch. Bei einem Testlauf im Herbst seien samstags zu wenige Termine gebucht worden, hieß es aus der Senatsverwaltung." }
+      ],
+      "statement": "In Berlin haben die Bürgerämter künftig auch am Wochenende geöffnet, damit man schneller einen Termin bekommt.",
+      "answer": false,
+      "explanation": "The Senate decided on longer hours „an zwei Abenden pro Woche bis 20 Uhr“. The Saturday opening was only planned and „ist dagegen vom Tisch“ (it has been dropped) because too few appointments were booked in a trial – so the offices will not open at the weekend.",
+      "explanationDe": "Der Senat hat längere Öffnungszeiten „an zwei Abenden pro Woche bis 20 Uhr“ beschlossen. Die Öffnung am Samstag war nur geplant und „ist dagegen vom Tisch“ (sie kommt nicht), weil bei einem Test samstags zu wenige Termine gebucht wurden. Am Wochenende bleiben die Bürgerämter also geschlossen.",
+      "evidence": "Die ursprünglich ebenfalls geplante Öffnung am Samstag ist dagegen vom Tisch."
+    },
+    {
+      "n": 2,
+      "label": "Meldung: Bäckereikette schließt Filialen",
+      "script": [
+        { "s": "sprecher", "t": "Berlin. Die Bäckereikette Kornblume schließt bis zum Frühjahr 18 ihrer rund 80 Filialen in Berlin und Brandenburg." },
+        { "s": "sprecher", "t": "An fehlender Kundschaft liegt das nach Angaben des Unternehmens nicht: Der Umsatz sei im vergangenen Jahr sogar leicht gestiegen." },
+        { "s": "sprecher", "t": "Es fehle jedoch an Bäckern und an Verkaufspersonal. Viele Geschäfte hätten deshalb schon in den letzten Monaten nur noch an vier Tagen in der Woche öffnen können." },
+        { "s": "sprecher", "t": "Die Beschäftigten der betroffenen Filialen sollen in anderen Geschäften der Kette weiterarbeiten." }
+      ],
+      "statement": "Eine Bäckereikette macht mehrere Filialen dicht, weil sie nicht genug Mitarbeiterinnen und Mitarbeiter findet.",
+      "answer": true,
+      "explanation": "The chain is closing 18 shops because „Es fehle jedoch an Bäckern und an Verkaufspersonal“ – it lacks staff („dichtmachen“ = to close). Customers are not the problem: „An fehlender Kundschaft liegt das … nicht“, sales even rose slightly.",
+      "explanationDe": "Die Kette schließt 18 Filialen, denn „Es fehle jedoch an Bäckern und an Verkaufspersonal“ – es gibt zu wenig Personal („dichtmachen“ = schließen). Die Kunden sind nicht das Problem: „An fehlender Kundschaft liegt das … nicht“, der Umsatz ist sogar leicht gestiegen.",
+      "evidence": "Es fehle jedoch an Bäckern und an Verkaufspersonal."
+    },
+    {
+      "n": 3,
+      "label": "Meldung: Studie zu Hitze und Schlaf",
+      "script": [
+        { "s": "sprecher", "t": "Potsdam. Hitze in der Stadt raubt vielen Menschen den Schlaf, allerdings längst nicht allen in gleichem Maße." },
+        { "s": "sprecher", "t": "Das zeigt eine Untersuchung von Forschenden aus Potsdam, für die rund 400 Berlinerinnen und Berliner im vergangenen Sommer nachts ein Fitnessarmband getragen haben." },
+        { "s": "sprecher", "t": "Wer direkt unter dem Dach wohnte, schlief in heißen Nächten im Schnitt eine Stunde kürzer als sonst. In Wohnungen im Erdgeschoss oder mit Bäumen vor dem Fenster war dagegen kaum ein Unterschied messbar." },
+        { "s": "sprecher", "t": "Die Forschenden empfehlen deshalb, Innenhöfe und Straßen stärker zu begrünen." }
+      ],
+      "statement": "Laut der Studie schlafen in heißen Nächten alle Stadtbewohner deutlich schlechter als in kühleren Nächten.",
+      "answer": false,
+      "explanation": "Heat does not affect everyone in the same way: „längst nicht allen in gleichem Maße“. Only people living under the roof slept an hour less; on the ground floor or with trees outside „war dagegen kaum ein Unterschied messbar“. The word „alle“ in the statement is the trap.",
+      "explanationDe": "Die Hitze trifft nicht alle gleich: „längst nicht allen in gleichem Maße“. Nur wer unter dem Dach wohnte, schlief eine Stunde weniger; im Erdgeschoss oder mit Bäumen vor dem Fenster „war dagegen kaum ein Unterschied messbar“. Das Wort „alle“ in der Aussage ist die Falle.",
+      "evidence": "In Wohnungen im Erdgeschoss oder mit Bäumen vor dem Fenster war dagegen kaum ein Unterschied messbar."
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Rettung für die Uckermärkischen Orgeltage",
+      "script": [
+        { "s": "sprecher", "t": "Prenzlau. Die Uckermärkischen Orgeltage können auch im kommenden Jahr stattfinden. Aus Prenzlau berichtet Lena Hartmann." },
+        { "s": "korrespondentin", "t": "Nachdem der Landkreis seine Zuschüsse im Frühjahr gestrichen hatte, stand das Festival mit Konzerten in über 30 Dorfkirchen eigentlich vor dem Aus." },
+        { "s": "korrespondentin", "t": "Nun springt eine Berliner Stiftung ein und übernimmt die Kosten für die nächsten drei Jahre." },
+        { "s": "korrespondentin", "t": "Die Veranstalter wollen das Programm sogar erweitern: Künftig sind auch Führungen für Schulklassen geplant, bei denen die Kinder selbst einmal an einer Orgel spielen dürfen." }
+      ],
+      "statement": "Das Orgelfestival in der Uckermark wird künftig nicht mehr vom Landkreis, sondern von einer Stiftung finanziert.",
+      "answer": true,
+      "explanation": "The district („der Landkreis“) cut its subsidies, and now „springt eine Berliner Stiftung ein und übernimmt die Kosten“ – a foundation pays instead. „vor dem Aus“ only describes the danger before the rescue; the festival goes on.",
+      "explanationDe": "Der Landkreis hat seine Zuschüsse gestrichen, und jetzt „springt eine Berliner Stiftung ein und übernimmt die Kosten“ – eine Stiftung bezahlt das Festival. „vor dem Aus“ beschreibt nur die Gefahr vor der Rettung; das Festival geht weiter.",
+      "evidence": "Nun springt eine Berliner Stiftung ein und übernimmt die Kosten für die nächsten drei Jahre."
+    },
+    {
+      "n": 5,
+      "label": "Meldung: Trainerwechsel bei den Havel-Löwen",
+      "script": [
+        { "s": "sprecher", "t": "Zum Sport. Der Handball-Zweitligist Havel-Löwen aus Brandenburg an der Havel hat sich mit sofortiger Wirkung von seinem Trainer getrennt." },
+        { "s": "sprecher", "t": "Nach acht Niederlagen in Folge ist die Mannschaft auf den letzten Tabellenplatz abgerutscht." },
+        { "s": "sprecher", "t": "Die Entscheidung sei dem Vorstand nicht leichtgefallen, teilte der Verein mit, schließlich habe der Trainer das Team erst vor drei Jahren in die zweite Liga geführt." },
+        { "s": "sprecher", "t": "Bis ein Nachfolger gefunden ist, übernimmt Co-Trainerin Anja Wendt die Mannschaft – als erste Frau in der Geschichte des Vereins." }
+      ],
+      "statement": "Der Trainer der Havel-Löwen hat nach einer Serie von Niederlagen selbst seinen Rücktritt erklärt.",
+      "answer": false,
+      "explanation": "The club parted ways with the coach („hat sich … von seinem Trainer getrennt“), and „Die Entscheidung sei dem Vorstand nicht leichtgefallen“ shows that the board made the decision. The coach did not resign himself – wrong actor.",
+      "explanationDe": "Der Verein hat sich von seinem Trainer „getrennt“, und „Die Entscheidung sei dem Vorstand nicht leichtgefallen“ zeigt: Der Vorstand hat entschieden. Der Trainer ist also nicht selbst zurückgetreten – die Aussage nennt die falsche Person.",
+      "evidence": "Die Entscheidung sei dem Vorstand nicht leichtgefallen"
+    }
+  ],
+  "unscored": [
+    {
+      "after": 3,
+      "label": "Meldung: Unfall auf dem Berliner Ring",
+      "script": [
+        { "s": "sprecher", "t": "Michendorf. Auf dem südlichen Berliner Ring ist heute früh ein mit Getränkekisten beladener Lastwagen umgekippt. Der Fahrer wurde leicht verletzt." },
+        { "s": "sprecher", "t": "Nach ersten Erkenntnissen der Polizei war er auf der regennassen Fahrbahn ins Schleudern geraten." },
+        { "s": "sprecher", "t": "Die Autobahn ist in Richtung Osten voraussichtlich bis zum Mittag gesperrt, der Stau ist bereits mehr als zehn Kilometer lang. Die Polizei rät, den Bereich weiträumig zu umfahren." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecher", "t": "Das waren die Nachrichten auf Radio Spreewelle." }
+  ],
+  "glossary": [
+    { "de": "vom Tisch sein", "en": "to be off the table, to have been dropped" },
+    { "de": "die Senatsverwaltung", "en": "Berlin state ministry (department of the Senate)" },
+    { "de": "die Filiale", "en": "branch, shop of a chain" },
+    { "de": "dichtmachen (ugs.)", "en": "to close down (colloquial)" },
+    { "de": "der Umsatz", "en": "turnover, sales" },
+    { "de": "jemandem den Schlaf rauben", "en": "to keep someone awake, to rob someone of sleep" },
+    { "de": "begrünen", "en": "to plant greenery, to green" },
+    { "de": "ins Schleudern geraten", "en": "to skid" },
+    { "de": "der Zuschuss", "en": "subsidy, grant" },
+    { "de": "vor dem Aus stehen", "en": "to face closure" },
+    { "de": "einspringen", "en": "to step in" },
+    { "de": "sich von jemandem trennen", "en": "to part ways with someone (here: to dismiss)" }
+  ]
+}

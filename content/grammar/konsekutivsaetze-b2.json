@@ -1,0 +1,258 @@
+{
+  "id": "konsekutivsaetze-b2",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 23,
+  "title": "Folgen: so … dass, zu … als dass, folglich, infolgedessen",
+  "titleEn": "Consequences at B2: so … dass, zu … als dass, folglich, infolgedessen",
+  "summary": "Go beyond deshalb and sodass: stress a degree with so/derart … dass, express a consequence that does not happen with zu … als dass, and link sentences formally with folglich, infolgedessen or weshalb.",
+  "summaryDe": "Mehr als deshalb und sodass: Mit so/derart … dass betonst du das Ausmaß, mit zu … als dass drückst du eine Folge aus, die nicht eintritt, und mit folglich, infolgedessen oder weshalb verbindest du Sätze formell.",
+  "examRelevance": ["sprachbausteine", "schreiben", "lesen", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "A consecutive clause says what **results** from something. At B2 you need four tools: **so / derart + adjective …, dass** (the degree causes the result), **zu + adjective …, als dass** (the degree *prevents* the result – usually with Konjunktiv II), formal adverbs like **folglich, infolgedessen, somit** (verb right after them in position 1) and **weshalb / weswegen**, which refer back to the whole previous clause (verb at the end).",
+      "mdDe": "Ein Konsekutivsatz sagt, was aus etwas **folgt**. Auf B2-Niveau brauchst du vier Werkzeuge: **so / derart + Adjektiv …, dass** (das Ausmaß führt zur Folge), **zu + Adjektiv …, als dass** (das Ausmaß *verhindert* die Folge – meist mit Konjunktiv II), formelle Adverbien wie **folglich, infolgedessen, somit** (auf Position 1 folgt direkt das Verb) und **weshalb / weswegen**, die sich auf den ganzen vorigen Satz beziehen (Verb am Ende)."
+    },
+    {
+      "type": "text",
+      "heading": "sodass or so …, dass? And the stronger relatives",
+      "headingDe": "sodass oder so …, dass? Und die stärkeren Verwandten",
+      "md": "At B1 you learnt **sodass** and **so …, dass** (see „Gründe und Folgen“). At B2 the difference matters:\n\n- **sodass** (one word, or *so dass*) follows a complete clause and names the result of the **whole event**: „Die Server waren überlastet, **sodass** die Anmeldung erst am Abend **funktionierte**.“\n- **so …, dass** is split: *so* stands in the main clause before an adjective or adverb and stresses its **degree**: „Die Nachfrage war **so** groß, **dass** wir zusätzliche Termine angeboten **haben**.“\n\nStronger and more formal than *so* are **derart** and **dermaßen**: „Der Lärm war **derart** störend, **dass** sich mehrere Mieter **beschwerten**.“ Before a noun, use **solch- / so ein-** or **so viel(e)**: „Es herrschte **ein solches** Chaos, **dass** niemand mehr den Überblick **hatte**.“ / „Er hat **so viele** Fehler gemacht, **dass** …“\n\nIf *so* or *derart* already stands in the main clause, the second part is only **dass** – never *sodass*.",
+      "mdDe": "Auf B1-Niveau hast du **sodass** und **so …, dass** gelernt (siehe „Gründe und Folgen“). Auf B2-Niveau ist der Unterschied wichtig:\n\n- **sodass** (ein Wort oder *so dass*) steht nach einem vollständigen Satz und nennt das Ergebnis des **ganzen Geschehens**: „Die Server waren überlastet, **sodass** die Anmeldung erst am Abend **funktionierte**.“\n- **so …, dass** ist geteilt: *so* steht im Hauptsatz vor einem Adjektiv oder Adverb und betont das **Ausmaß**: „Die Nachfrage war **so** groß, **dass** wir zusätzliche Termine angeboten **haben**.“\n\nStärker und formeller als *so* sind **derart** und **dermaßen**: „Der Lärm war **derart** störend, **dass** sich mehrere Mieter **beschwerten**.“ Vor einem Nomen nimmst du **solch- / so ein-** oder **so viel(e)**: „Es herrschte **ein solches** Chaos, **dass** niemand mehr den Überblick **hatte**.“ / „Er hat **so viele** Fehler gemacht, **dass** …“\n\nWenn *so* oder *derart* schon im Hauptsatz steht, heißt der zweite Teil nur **dass** – nie *sodass*."
+    },
+    {
+      "type": "text",
+      "heading": "zu … als dass: the consequence that does not happen",
+      "headingDe": "zu … als dass: die Folge, die nicht eintritt",
+      "md": "**zu + adjective/adverb …, als dass** says that something is *too* much (or too little) for a result to happen. The result is **not** real, so the als-dass clause usually takes **Konjunktiv II** – and it has **no negation**, because *zu* already contains the „not“:\n\n„Die Frist ist **zu** kurz, **als dass** wir alle Unterlagen rechtzeitig einreichen **könnten**.“ = The deadline is so short that we *cannot* hand in all the documents in time.\n\nIf both clauses have the same subject, you can also use **um … zu**: „Er ist **zu** müde, **um** noch Auto **zu fahren**.“ The positive counterpart is **genug / genügend …, um … zu**: „Wir haben **genügend** Erfahrung, **um** das Projekt allein **zu leiten**.“\n\nFor a past consequence, use Konjunktiv II past. With a modal verb, *hätte* moves in front of the double infinitive: „…, **als dass** wir alles **hätten klären können**.“",
+      "mdDe": "**zu + Adjektiv/Adverb …, als dass** sagt, dass etwas *zu* viel (oder zu wenig) ist, damit eine Folge eintreten kann. Die Folge ist **nicht** real, deshalb steht im als-dass-Satz meistens **Konjunktiv II** – und es gibt **keine Negation**, weil *zu* das „nicht“ schon enthält:\n\n„Die Frist ist **zu** kurz, **als dass** wir alle Unterlagen rechtzeitig einreichen **könnten**.“ = Die Frist ist so kurz, dass wir *nicht* alle Unterlagen rechtzeitig einreichen können.\n\nWenn beide Sätze dasselbe Subjekt haben, kannst du auch **um … zu** verwenden: „Er ist **zu** müde, **um** noch Auto **zu fahren**.“ Das positive Gegenstück ist **genug / genügend …, um … zu**: „Wir haben **genügend** Erfahrung, **um** das Projekt allein **zu leiten**.“\n\nFür eine Folge in der Vergangenheit nimmst du Konjunktiv II der Vergangenheit. Mit einem Modalverb steht *hätte* vor dem doppelten Infinitiv: „…, **als dass** wir alles **hätten klären können**.“"
+    },
+    {
+      "type": "table",
+      "heading": "Consequence connectors at a glance",
+      "headingDe": "Konsekutive Konnektoren im Überblick",
+      "columns": ["Connector", "Word type", "Word order", "Example"],
+      "columnsDe": ["Konnektor", "Wortart", "Wortstellung", "Beispiel"],
+      "rows": [
+        ["sodass / so dass", "subordinating conjunction", "verb at the end", "Der Zug fiel aus, sodass wir ein Taxi nehmen mussten."],
+        ["so / derart / dermaßen + adj. …, dass", "correlate + conjunction", "dass clause: verb at the end", "Die Halle war derart überfüllt, dass die Polizei den Eingang sperrte."],
+        ["solch- / so ein- / so viel(e) + noun …, dass", "correlate + conjunction", "dass clause: verb at the end", "Es gab einen solchen Andrang, dass die Karten nach zehn Minuten ausverkauft waren."],
+        ["zu + adj. …, als dass", "correlate + conjunction", "verb at the end, usually Konjunktiv II, no negation", "Der Bericht ist zu lang, als dass man ihn in fünf Minuten lesen könnte."],
+        ["weshalb / weswegen", "relative connector (refers to the whole clause)", "verb at the end", "Die Heizung ist ausgefallen, weshalb das Büro heute geschlossen bleibt."],
+        ["folglich / somit / demzufolge", "adverb (logical conclusion)", "position 1 → verb next, or middle field", "Alle Plätze sind belegt. Folglich müssen wir die Anmeldung schließen."],
+        ["infolgedessen", "adverb (practical result of an event, formal)", "position 1 → verb next, or middle field", "Das Lager brannte ab. Infolgedessen verzögerten sich alle Lieferungen."],
+        ["infolge + genitive", "preposition – it introduces the cause!", "+ noun, no verb", "Infolge des Streiks fielen zahlreiche Flüge aus."]
+      ],
+      "rowsDe": [
+        ["sodass / so dass", "unterordnende Konjunktion", "Verb am Ende", "Der Zug fiel aus, sodass wir ein Taxi nehmen mussten."],
+        ["so / derart / dermaßen + Adj. …, dass", "Korrelat + Konjunktion", "dass-Satz: Verb am Ende", "Die Halle war derart überfüllt, dass die Polizei den Eingang sperrte."],
+        ["solch- / so ein- / so viel(e) + Nomen …, dass", "Korrelat + Konjunktion", "dass-Satz: Verb am Ende", "Es gab einen solchen Andrang, dass die Karten nach zehn Minuten ausverkauft waren."],
+        ["zu + Adj. …, als dass", "Korrelat + Konjunktion", "Verb am Ende, meist Konjunktiv II, keine Negation", "Der Bericht ist zu lang, als dass man ihn in fünf Minuten lesen könnte."],
+        ["weshalb / weswegen", "relativer Anschluss (bezieht sich auf den ganzen Satz)", "Verb am Ende", "Die Heizung ist ausgefallen, weshalb das Büro heute geschlossen bleibt."],
+        ["folglich / somit / demzufolge", "Adverb (logische Schlussfolgerung)", "Position 1 → Verb direkt danach, oder Mittelfeld", "Alle Plätze sind belegt. Folglich müssen wir die Anmeldung schließen."],
+        ["infolgedessen", "Adverb (praktisches Ergebnis eines Ereignisses, formell)", "Position 1 → Verb direkt danach, oder Mittelfeld", "Das Lager brannte ab. Infolgedessen verzögerten sich alle Lieferungen."],
+        ["infolge + Genitiv", "Präposition – sie nennt die Ursache!", "+ Nomen, kein Verb", "Infolge des Streiks fielen zahlreiche Flüge aus."]
+      ],
+      "note": "„deshalb“, „daher“ and „also“ (B1) work in every register. „folglich“, „somit“, „demzufolge“ and „infolgedessen“ sound written and formal – good in reports and formal e-mails, but stiff in a relaxed conversation.",
+      "noteDe": "„deshalb“, „daher“ und „also“ (B1) passen in jedes Register. „folglich“, „somit“, „demzufolge“ und „infolgedessen“ klingen schriftlich und formell – gut in Berichten und formellen E-Mails, aber steif in einem lockeren Gespräch."
+    },
+    {
+      "type": "text",
+      "heading": "Formal adverbs, infolge and weshalb",
+      "headingDe": "Formelle Adverbien, infolge und weshalb",
+      "md": "**folglich, somit** and **demzufolge** present the second sentence as a **logical conclusion**: „Der Vertrag wurde nicht unterschrieben. **Somit ist** er nicht gültig.“ **infolgedessen** names the **practical result** of an event: „Die Brücke wurde gesperrt. **Infolgedessen staute** sich der Verkehr bis in die Innenstadt.“ All of them are adverbs: in position 1 the verb follows directly, but they can also stand in the middle field: „Der Verkehr staute sich **infolgedessen** bis in die Innenstadt.“\n\nDon't confuse **infolgedessen** (adverb, consequence) with **infolge** (preposition + genitive). *infolge* introduces the **cause**, just like *wegen* or *aufgrund*: „**Infolge** des Unfalls war die Autobahn stundenlang gesperrt.“\n\n**weshalb / weswegen** start a subordinate clause that comments on the **whole** previous clause – the verb goes to the end: „Mein Laptop ist kaputt, **weshalb** ich dir die Datei erst morgen schicken **kann**.“ Useful alternatives in Nominalstil: „…, **was dazu führte, dass** …“ and „…, **was zur Folge hatte, dass** …“.",
+      "mdDe": "**folglich, somit** und **demzufolge** stellen den zweiten Satz als **logische Schlussfolgerung** dar: „Der Vertrag wurde nicht unterschrieben. **Somit ist** er nicht gültig.“ **infolgedessen** nennt das **praktische Ergebnis** eines Ereignisses: „Die Brücke wurde gesperrt. **Infolgedessen staute** sich der Verkehr bis in die Innenstadt.“ Alle sind Adverbien: Auf Position 1 folgt direkt das Verb, sie können aber auch im Mittelfeld stehen: „Der Verkehr staute sich **infolgedessen** bis in die Innenstadt.“\n\nVerwechsle **infolgedessen** (Adverb, Folge) nicht mit **infolge** (Präposition + Genitiv). *infolge* nennt die **Ursache**, genau wie *wegen* oder *aufgrund*: „**Infolge** des Unfalls war die Autobahn stundenlang gesperrt.“\n\n**weshalb / weswegen** leiten einen Nebensatz ein, der den **ganzen** vorigen Satz kommentiert – das Verb steht am Ende: „Mein Laptop ist kaputt, **weshalb** ich dir die Datei erst morgen schicken **kann**.“ Nützliche Alternativen im Nominalstil: „…, **was dazu führte, dass** …“ und „…, **was zur Folge hatte, dass** …“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Die Nachfrage nach dem Kurs war **so** groß, **dass** die Sprachschule eine zweite Gruppe **eröffnet hat**.", "en": "Demand for the course was so high that the language school opened a second group." },
+        { "de": "Die Mieter beschwerten sich **derart** heftig, **dass** die Hausverwaltung schließlich **nachgab**.", "en": "The tenants complained so fiercely that the property management finally gave in." },
+        { "de": "Es herrschte **eine solche** Hitze, **dass** das Konzert unterbrochen werden **musste**.", "en": "It was so hot that the concert had to be interrupted." },
+        { "de": "Die Unterschiede sind **zu** gering, **als dass** man von einem Trend sprechen **könnte**.", "en": "The differences are too small to speak of a trend." },
+        { "de": "Sie war **zu** erschöpft, **um** an der Besprechung noch **teilzunehmen**.", "en": "She was too exhausted to take part in the meeting." },
+        { "de": "Die Software wurde seit Jahren nicht aktualisiert. **Folglich ist** das System nicht mehr sicher.", "en": "The software hasn't been updated for years. Consequently, the system is no longer secure." },
+        { "de": "Ein Sturm beschädigte die Oberleitung. **Infolgedessen fuhren** stundenlang keine Züge.", "en": "A storm damaged the overhead line. As a result, no trains ran for hours." },
+        { "de": "Der Lieferant hat den Termin zweimal verschoben, **weshalb** wir den Auftrag nun an eine andere Firma **vergeben**.", "en": "The supplier postponed the date twice, which is why we are now giving the order to another company." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In **Sprachbausteine Teil 1** look at what follows the gap. Verb at the end → *sodass / dass / weshalb*; verb right after the gap → *folglich / infolgedessen / deshalb*; a noun in the genitive → *infolge*. If you see *zu + adjective* earlier in the sentence, the partner is **als dass** – not *dass* or *sodass*. In **Sprachbausteine Teil 2**, *derart*, *folglich* or *infolge* may be in the word bank: check the grammar after the gap first, then the meaning.\n\nIn the **B2 e-mail** (complaint or request), consequences make your point concrete: „Die Heizung fiel drei Tage lang aus, **sodass** ich nicht im Homeoffice arbeiten **konnte**.“ / „…, **was zur Folge hatte, dass** …“. In the **discussion (Sprechen Teil 2)**, *zu … als dass* is an elegant way to reject an argument: „Das Problem ist **zu** komplex, **als dass** ein Verbot allein es lösen **könnte**.“",
+      "mdDe": "**In der Prüfung:** Schau in **Sprachbausteine Teil 1**, was nach der Lücke kommt. Verb am Ende → *sodass / dass / weshalb*; Verb direkt nach der Lücke → *folglich / infolgedessen / deshalb*; ein Nomen im Genitiv → *infolge*. Wenn vorher im Satz *zu + Adjektiv* steht, ist der Partner **als dass** – nicht *dass* oder *sodass*. In **Sprachbausteine Teil 2** können *derart*, *folglich* oder *infolge* im Kasten stehen: Prüfe zuerst die Grammatik nach der Lücke, dann die Bedeutung.\n\nIn der **B2-E-Mail** (Beschwerde oder Anfrage) machen Folgen deine Argumente konkret: „Die Heizung fiel drei Tage lang aus, **sodass** ich nicht im Homeoffice arbeiten **konnte**.“ / „…, **was zur Folge hatte, dass** …“. In der **Diskussion (Sprechen Teil 2)** ist *zu … als dass* eine elegante Art, ein Argument zurückzuweisen: „Das Problem ist **zu** komplex, **als dass** ein Verbot allein es lösen **könnte**.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **No negation after „als dass“.** „Ich bin zu müde, als dass ich nicht weiterfahren könnte“ is wrong – *zu* already says that it doesn't happen. Correct: „…, **als dass** ich weiterfahren **könnte**.“\n- **Don't double the so.** „Es war so laut, sodass …“ is wrong → „Es war **so** laut, **dass** …“.\n- **sodass is not damit.** *sodass* names a result, *damit* an intention: „Ich spreche langsam, **damit** mich alle verstehen.“ (that is my aim) vs. „Er sprach langsam, **sodass** ihn alle verstanden.“ (that was the effect).\n- **infolge ≠ infolgedessen.** „Infolgedessen des Sturms …“ is wrong → „**Infolge** des Sturms …“.",
+      "mdDe": "**Typische Fallen:**\n\n- **Keine Negation nach „als dass“.** „Ich bin zu müde, als dass ich nicht weiterfahren könnte“ ist falsch – *zu* sagt schon, dass es nicht passiert. Richtig: „…, **als dass** ich weiterfahren **könnte**.“\n- **Kein doppeltes so.** „Es war so laut, sodass …“ ist falsch → „Es war **so** laut, **dass** …“.\n- **sodass ist nicht damit.** *sodass* nennt ein Ergebnis, *damit* eine Absicht: „Ich spreche langsam, **damit** mich alle verstehen.“ (das ist mein Ziel) gegenüber „Er sprach langsam, **sodass** ihn alle verstanden.“ (das war die Wirkung).\n- **infolge ≠ infolgedessen.** „Infolgedessen des Sturms …“ ist falsch → „**Infolge** des Sturms …“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Der Text ist zu schwierig, als dass ich ihn nicht verstehen könnte.",
+      "right": "Der Text ist zu schwierig, als dass ich ihn verstehen könnte.",
+      "why": "„zu …, als dass“ already means that the result does not happen. An extra „nicht“ turns the meaning upside down.",
+      "whyDe": "„zu …, als dass“ bedeutet schon, dass die Folge nicht eintritt. Ein zusätzliches „nicht“ dreht die Bedeutung um."
+    },
+    {
+      "wrong": "Die Straße war gesperrt, folglich wir mussten einen Umweg fahren.",
+      "right": "Die Straße war gesperrt, folglich mussten wir einen Umweg fahren.",
+      "why": "„folglich“ is an adverb in position 1, so the verb follows directly and the subject comes after it.",
+      "whyDe": "„folglich“ ist ein Adverb auf Position 1, deshalb folgt direkt das Verb, und das Subjekt kommt danach."
+    },
+    {
+      "wrong": "Infolgedessen des Sturms fielen viele Züge aus.",
+      "right": "Infolge des Sturms fielen viele Züge aus.",
+      "why": "Before a noun in the genitive you need the preposition „infolge“ (= because of). „infolgedessen“ is an adverb and stands alone.",
+      "whyDe": "Vor einem Nomen im Genitiv brauchst du die Präposition „infolge“ (= wegen). „infolgedessen“ ist ein Adverb und steht allein."
+    },
+    {
+      "wrong": "Die Musik war so laut, sodass wir uns kaum unterhalten konnten.",
+      "right": "Die Musik war so laut, dass wir uns kaum unterhalten konnten.",
+      "why": "„so“ already stands before the adjective in the main clause, so the second part is only „dass“.",
+      "whyDe": "„so“ steht schon im Hauptsatz vor dem Adjektiv, deshalb heißt der zweite Teil nur „dass“."
+    },
+    {
+      "wrong": "Ich habe mir zwei Wecker gestellt, sodass ich morgen nicht verschlafe.",
+      "right": "Ich habe mir zwei Wecker gestellt, damit ich morgen nicht verschlafe.",
+      "why": "Setting two alarms is done with an intention, so you need „damit“. „sodass“ describes a result that actually follows.",
+      "whyDe": "Zwei Wecker stellt man mit einer Absicht, deshalb brauchst du „damit“. „sodass“ beschreibt ein Ergebnis, das tatsächlich folgt."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Der Andrang im Bürgeramt war ___ groß, dass viele Leute ohne Termin wieder nach Hause geschickt wurden.",
+      "options": ["so", "zu", "sodass"],
+      "answer": 0,
+      "explanation": "„so + adjective …, dass“ stresses the degree that leads to the result. „zu“ would need „als dass“ and would mean that the result does not happen; „sodass“ can't stand before an adjective in the main clause.",
+      "explanationDe": "„so + Adjektiv …, dass“ betont das Ausmaß, das zur Folge führt. „zu“ bräuchte „als dass“ und würde bedeuten, dass die Folge nicht eintritt; „sodass“ kann nicht im Hauptsatz vor einem Adjektiv stehen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das Angebot klingt zu gut, ___ es wirklich seriös sein könnte.",
+      "options": ["dass", "als dass", "sodass"],
+      "answer": 1,
+      "explanation": "„zu gut“ is answered by „als dass“: the offer is so good that it probably isn't serious. „dass“ and „sodass“ don't combine with „zu“.",
+      "explanationDe": "Auf „zu gut“ antwortet „als dass“: Das Angebot ist so gut, dass es wahrscheinlich nicht seriös ist. „dass“ und „sodass“ passen nicht zu „zu“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Lieferung kam drei Wochen zu spät. ___ haben wir den Vertrag mit dem Anbieter gekündigt.",
+      "options": ["Infolge", "Infolgedessen", "Sodass"],
+      "answer": 1,
+      "explanation": "The verb „haben“ follows the gap directly, so you need an adverb in position 1: „Infolgedessen“. „Infolge“ needs a noun in the genitive, and „Sodass“ would send the verb to the end.",
+      "explanationDe": "Das Verb „haben“ folgt direkt nach der Lücke, also brauchst du ein Adverb auf Position 1: „Infolgedessen“. „Infolge“ braucht ein Nomen im Genitiv, und mit „Sodass“ müsste das Verb am Ende stehen."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ der anhaltenden Trockenheit mussten mehrere Gemeinden den Wasserverbrauch einschränken.",
+      "options": ["Infolgedessen", "Folglich", "Infolge"],
+      "answer": 2,
+      "explanation": "A noun phrase in the genitive follows („der anhaltenden Trockenheit“) – that is the cause, so you need the preposition „Infolge“. „Infolgedessen“ and „Folglich“ are adverbs and can't take a noun.",
+      "explanationDe": "Danach kommt ein Nomen im Genitiv („der anhaltenden Trockenheit“) – das ist die Ursache, also brauchst du die Präposition „Infolge“. „Infolgedessen“ und „Folglich“ sind Adverbien und stehen nicht mit einem Nomen."
+    },
+    {
+      "type": "mc",
+      "prompt": "In der Kantine wird seit Montag umgebaut, ___ die Beschäftigten vorerst in der Cafeteria essen müssen.",
+      "options": ["weshalb", "deshalb", "folglich"],
+      "answer": 0,
+      "explanation": "The verb „müssen“ is at the end, so you need a word that starts a subordinate clause: „weshalb“ refers back to the whole first clause. „deshalb“ and „folglich“ would need the verb right after them.",
+      "explanationDe": "Das Verb „müssen“ steht am Ende, also brauchst du ein Wort, das einen Nebensatz einleitet: „weshalb“ bezieht sich auf den ganzen ersten Satz. Nach „deshalb“ und „folglich“ müsste das Verb direkt folgen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Saal ist viel zu klein, als dass alle Gäste darin ___.",
+      "options": ["Platz fänden", "keinen Platz fänden", "nicht Platz fänden"],
+      "answer": 0,
+      "explanation": "After „zu …, als dass“ there is no negation – „zu klein“ already says that the guests do not fit in. „keinen“ or „nicht“ would reverse the meaning.",
+      "explanationDe": "Nach „zu …, als dass“ steht keine Negation – „zu klein“ sagt schon, dass die Gäste keinen Platz haben. „keinen“ oder „nicht“ würde die Bedeutung umdrehen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Mieten in der Innenstadt sind ___ stark gestiegen, dass sich viele Familien dort keine Wohnung mehr leisten können.",
+      "hint": "(intensifier before the adjective)",
+      "hintDe": "(Verstärkung vor dem Adjektiv)",
+      "answers": ["so", "derart", "dermaßen"],
+      "explanation": "The dass clause names the result of a high degree, so the main clause needs „so“ (formal: „derart“, „dermaßen“) before „stark“.",
+      "explanationDe": "Der dass-Satz nennt die Folge eines hohen Ausmaßes, deshalb braucht der Hauptsatz „so“ (formell: „derart“, „dermaßen“) vor „stark“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Kurs ist leider ___ teuer, als dass ich ihn mir leisten könnte.",
+      "hint": "(… als dass)",
+      "answers": ["zu", "viel zu", "einfach zu"],
+      "explanation": "„als dass“ needs „zu“ before the adjective: the course is so expensive that I can't afford it.",
+      "explanationDe": "„als dass“ braucht „zu“ vor dem Adjektiv: Der Kurs ist so teuer, dass ich ihn mir nicht leisten kann."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Unternehmen hat seine Umsatzziele erneut verfehlt. ___ werden im kommenden Jahr keine neuen Stellen geschaffen.",
+      "hint": "(formal adverb: as a consequence)",
+      "hintDe": "(formelles Adverb: als Folge davon)",
+      "answers": ["Folglich", "Infolgedessen", "Somit", "Demzufolge", "Deshalb", "Daher", "Deswegen", "Darum", "Also"],
+      "explanation": "The verb „werden“ follows directly, so you need an adverb in position 1. In a formal text „Folglich“ or „Infolgedessen“ fits best; „deshalb“ or „daher“ are also correct.",
+      "explanationDe": "Das Verb „werden“ folgt direkt, also brauchst du ein Adverb auf Position 1. In einem formellen Text passt „Folglich“ oder „Infolgedessen“ am besten; „deshalb“ oder „daher“ sind auch richtig."
+    },
+    {
+      "type": "order",
+      "words": ["Lärm,", "wir", "solcher", "Es", "nicht", "dass", "herrschte", "eigenes", "ein", "verstanden.", "Wort", "unser"],
+      "answers": ["Es herrschte ein solcher Lärm, dass wir unser eigenes Wort nicht verstanden."],
+      "explanation": "„ein solcher“ + noun prepares the consequence in the main clause; the dass clause follows with the verb „verstanden“ at the end.",
+      "explanationDe": "„ein solcher“ + Nomen kündigt im Hauptsatz die Folge an; danach kommt der dass-Satz mit dem Verb „verstanden“ am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["knapp,", "Fragen", "hätten", "Die", "als", "können.", "wir", "zu", "Zeit", "dass", "klären", "war", "alle"],
+      "answers": ["Die Zeit war zu knapp, als dass wir alle Fragen hätten klären können."],
+      "explanation": "„zu knapp, als dass“ + Konjunktiv II past. With a modal verb, „hätten“ comes before the double infinitive „klären können“ – even in a subordinate clause.",
+      "explanationDe": "„zu knapp, als dass“ + Konjunktiv II der Vergangenheit. Mit einem Modalverb steht „hätten“ vor dem doppelten Infinitiv „klären können“ – auch im Nebensatz."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „zu …, als dass“.",
+      "instructionDe": "Verbinde die Sätze mit „zu …, als dass“.",
+      "prompt": "Das Risiko ist sehr hoch. Wir können das Projekt nicht ohne Versicherung starten.",
+      "answers": [
+        "Das Risiko ist zu hoch, als dass wir das Projekt ohne Versicherung starten könnten.",
+        "Das Risiko ist viel zu hoch, als dass wir das Projekt ohne Versicherung starten könnten.",
+        "Das Risiko ist zu hoch, als dass wir das Projekt ohne Versicherung starten können.",
+        "Das Risiko ist viel zu hoch, als dass wir das Projekt ohne Versicherung starten können."
+      ],
+      "explanation": "„sehr hoch“ becomes „zu hoch“, and the „nicht“ disappears because „zu … als dass“ already contains the negation. The verb usually takes Konjunktiv II: „könnten“.",
+      "explanationDe": "Aus „sehr hoch“ wird „zu hoch“, und das „nicht“ fällt weg, weil „zu … als dass“ die Negation schon enthält. Das Verb steht meistens im Konjunktiv II: „könnten“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in nominal style with „infolge“.",
+      "instructionDe": "Schreib den Satz im Nominalstil mit „infolge“ um.",
+      "prompt": "Weil es heftig geschneit hatte, blieben die Schulen geschlossen.",
+      "answers": [
+        "Infolge des heftigen Schneefalls blieben die Schulen geschlossen.",
+        "Infolge heftigen Schneefalls blieben die Schulen geschlossen.",
+        "Die Schulen blieben infolge des heftigen Schneefalls geschlossen.",
+        "Die Schulen blieben infolge heftigen Schneefalls geschlossen."
+      ],
+      "explanation": "„es schneite heftig“ becomes the noun phrase „der heftige Schneefall“. „infolge“ takes the genitive: „infolge des heftigen Schneefalls“.",
+      "explanationDe": "Aus „es schneite heftig“ wird das Nomen „der heftige Schneefall“. „infolge“ steht mit Genitiv: „infolge des heftigen Schneefalls“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „so …, dass“.",
+      "instructionDe": "Verbinde die Sätze mit „so …, dass“.",
+      "prompt": "Die Bewerberin war sehr überzeugend. Das Team hat ihr sofort eine Zusage gegeben.",
+      "answers": [
+        "Die Bewerberin war so überzeugend, dass das Team ihr sofort eine Zusage gegeben hat.",
+        "Die Bewerberin war so überzeugend, dass ihr das Team sofort eine Zusage gegeben hat.",
+        "Die Bewerberin war derart überzeugend, dass das Team ihr sofort eine Zusage gegeben hat.",
+        "Die Bewerberin war derart überzeugend, dass ihr das Team sofort eine Zusage gegeben hat."
+      ],
+      "explanation": "„sehr“ is replaced by „so“ in the main clause; in the dass clause the auxiliary „hat“ moves to the end.",
+      "explanationDe": "„sehr“ wird im Hauptsatz durch „so“ ersetzt; im dass-Satz rückt das Hilfsverb „hat“ ans Ende."
+    }
+  ],
+  "related": ["kausale-konsekutive-saetze", "verbindungsadverbien", "finale-saetze", "konjunktiv-2", "konjunktiv-2-vergangenheit", "infinitiv-mit-zu", "praepositionen-mit-genitiv", "nominalisierung", "konzessive-saetze-b2"]
+}

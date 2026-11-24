@@ -12,7 +12,8 @@
  *   ELEVENLABS_API_KEY=… bun scripts/audio/render.ts --engine elevenlabs
  *   GOOGLE_TTS_API_KEY=… bun scripts/audio/render.ts --engine google
  *
- * --only <partId|placement (incl. the sound check)|vocabulary|phrases|lists>  · --limit N · --dry-run · --batch N (local, default 8)
+ * --only <partId|placement (incl. the sound check)|vocabulary|phrases|lists>  · --exam <telc-b1|telc-b2> (exam sets of one exam)
+ * --limit N · --dry-run · --batch N (local, default 8)
  * --prune  deletes files that no current line uses (only together with a full run, i.e. without --only)
  *
  * Existing files are kept, so the script can be re-run after content changes (only new or changed
@@ -47,6 +48,7 @@ const flag = (name: string) => {
 };
 const engine = (flag("engine") ?? "qwen") as Engine;
 const only = flag("only");
+const onlyExam = flag("exam");
 const limit = Number(flag("limit") ?? Infinity);
 const dryRun = args.includes("--dry-run");
 const prune = args.includes("--prune");
@@ -55,7 +57,7 @@ const isLocal = (LOCAL_ENGINES as readonly string[]).includes(engine);
 if (!isLocal && !["openai", "elevenlabs", "google"].includes(engine)) throw new Error(`unknown engine "${engine}"`);
 const apiKey = isLocal ? undefined : serverTtsKey(engine as NeuralEngine);
 if (!isLocal && !apiKey && !dryRun) throw new Error(`set the API key for ${engine} (OPENAI_API_KEY, ELEVENLABS_API_KEY or GOOGLE_TTS_API_KEY)`);
-if (prune && only) throw new Error("--prune needs a full run (no --only)");
+if (prune && (only || onlyExam)) throw new Error("--prune needs a full run (no --only / --exam)");
 
 interface Job {
   key: string;
@@ -98,12 +100,13 @@ const spokenByButton = (texts: string[], source: string, jobs: Map<string, Job>)
 
 const jobs = new Map<string, Job>();
 for (const exam of EXAMS) {
+  if (onlyExam && exam.id !== onlyExam) continue;
   for (const part of allParts(exam)) {
     if (!wanted(part.id)) continue;
     const dir = join(CONTENT, exam.id, part.id);
     for (const file of jsonFiles(dir)) {
       const set = readJson(join(dir, file));
-      const source = `${part.id}/${file}`;
+      const source = `${exam.id}/${part.id}/${file}`;
       const speakers = set.speakers as VoiceSpeaker[] | undefined;
       if (!speakers) continue;
       if (part.audio) {
@@ -111,7 +114,14 @@ for (const exam of EXAMS) {
         const cast = withNarrator(speakers);
         await collect(narratorLines(part.instruction), cast, source, jobs);
         if (Array.isArray(set.intro)) await collect(set.intro as VoiceLine[], cast, source, jobs);
-        for (const item of (set.items as { script: VoiceLine[] }[] | undefined) ?? []) await collect(item.script, cast, source, jobs);
+        for (const item of (set.items as { script: VoiceLine[]; context?: string }[] | undefined) ?? []) {
+          // telc B2 Teil 3: the announcer reads the context before every text.
+          if (item.context) await collect(narratorLines(item.context), cast, source, jobs);
+          await collect(item.script, cast, source, jobs);
+        }
+        // telc B2 Teil 1: the report without a statement and the end of the bulletin.
+        for (const u of (set.unscored as { script: VoiceLine[] }[] | undefined) ?? []) await collect(u.script, cast, source, jobs);
+        if (Array.isArray(set.outro)) await collect(set.outro as VoiceLine[], cast, source, jobs);
         if (Array.isArray(set.script)) await collect(set.script as VoiceLine[], cast, source, jobs);
       } else if (Array.isArray(set.model)) {
         // Sprechen: model dialogues.

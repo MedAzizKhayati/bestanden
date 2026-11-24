@@ -1,0 +1,143 @@
+{
+  "id": "sprachbausteine-1-04",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Drei Wochen Schottland",
+  "topic": "reisen",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Lieber Ole,\n\nseit vorgestern sind wir wieder zu Hause, und ich muss dir unbedingt von unserer Rundreise durch Schottland erzählen! In drei Wochen haben wir nicht nur die Highlands gesehen, [[1]] auch drei Inseln an der Westküste.\n\nGleich am Anfang hatten wir allerdings Pech. Obwohl uns unser Vermieter gewarnt hatte, sind wir bei [[2]] Regen zu einer Wanderung aufgebrochen. Hätten wir auf ihn gehört, [[3]] wir nicht völlig durchnässt in einem Pub gelandet. Dort hat uns dann [[4]] der Einheimischen angesprochen und uns lauter Geheimtipps für die weitere Route gegeben – im Nachhinein war der Regen also ein Glücksfall!\n\nAuf der Isle of Skye haben wir fünf Tage [[5]], dabei waren eigentlich nur drei geplant. Wegen eines Sturms fiel nämlich die Fähre aus, [[6]] wir länger bleiben mussten. Das war aber halb so schlimm, denn die Landschaft dort ist einfach atemberaubend. Das Einzige, [[7]] ich mich wirklich geärgert habe, war unser Mietwagen: Ständig leuchtete irgendeine Warnlampe auf.\n\nBesonders beeindruckt hat mich eine alte Burg auf einer winzigen Insel. Sie [[8]] sich nur bei Ebbe zu Fuß erreichen, deshalb mussten wir genau auf die Gezeiten achten.\n\nAuf dem Rückweg haben wir noch einen kurzen [[9]] nach Edinburgh gemacht, weil Paula unbedingt das Festival erleben wollte. Die Stadt war zwar völlig überfüllt, aber die Stimmung war großartig. Bis spät in die Nacht haben wir in den Gassen der Altstadt Straßenkünstlern zugeschaut.\n\nIch habe über 800 Fotos gemacht und bin schon gespannt [[10]], was du dazu sagst. Wann kommst du uns besuchen? Dann koche ich dir auch das schottische Nationalgericht – keine Sorge, in der vegetarischen Variante!\n\nLiebe Grüße\nHenrike",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "sondern" },
+        { "key": "b", "text": "sowohl" },
+        { "key": "c", "text": "sonst" }
+      ],
+      "answer": "a",
+      "explanation": "„nicht nur …, sondern auch …“ is the two-part connector for adding a second element. „sowohl“ needs „als auch“ and cannot follow „nicht nur“, and „sonst“ means „otherwise“.",
+      "explanationDe": "„nicht nur …, sondern auch …“ ist ein zweiteiliger Konnektor, mit dem du etwas Zweites hinzufügst. „sowohl“ braucht „als auch“ und passt nicht zu „nicht nur“, und „sonst“ bedeutet „andernfalls“.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "strömenden" },
+        { "key": "b", "text": "strömendem" },
+        { "key": "c", "text": "strömender" }
+      ],
+      "answer": "b",
+      "explanation": "„bei“ takes the dative, „der Regen“ is masculine and there is no article, so the participle takes the strong ending „-em“: „bei strömendem Regen“ (in pouring rain). „strömenden“ would need an article („bei dem strömenden Regen“), and „strömender“ is nominative.",
+      "explanationDe": "Nach „bei“ steht der Dativ, „der Regen“ ist maskulin, und es gibt keinen Artikel. Deshalb hat das Partizip die starke Endung „-em“: „bei strömendem Regen“. „strömenden“ bräuchte einen Artikel („bei dem strömenden Regen“), und „strömender“ ist Nominativ.",
+      "grammar": "adjektivdeklination-b2"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "hätten" },
+        { "key": "b", "text": "würden" },
+        { "key": "c", "text": "wären" }
+      ],
+      "answer": "c",
+      "explanation": "Unreal condition in the past: „Hätten wir … gehört, wären wir nicht … gelandet“. „landen“ forms its perfect tenses with „sein“ („wir sind gelandet“), so „wären“, not „hätten“; „würden“ cannot be combined with the participle „gelandet“.",
+      "explanationDe": "Irreale Bedingung in der Vergangenheit: „Hätten wir … gehört, wären wir nicht … gelandet“. „landen“ bildet die Perfektformen mit „sein“ („wir sind gelandet“), also „wären“ und nicht „hätten“. „würden“ passt nicht zum Partizip „gelandet“.",
+      "grammar": "konjunktiv-2-vergangenheit"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "einer" },
+        { "key": "b", "text": "einen" },
+        { "key": "c", "text": "eines" }
+      ],
+      "answer": "a",
+      "explanation": "„… der Einheimischen“ (one of the locals) is the subject of „hat uns angesprochen“, so the indefinite pronoun is nominative masculine: „einer“. „einen“ is accusative, and „eines“ is neuter or genitive.",
+      "explanationDe": "„… der Einheimischen“ ist das Subjekt von „hat uns angesprochen“. Das Indefinitpronomen steht also im Nominativ maskulin: „einer“. „einen“ ist Akkusativ, und „eines“ ist neutral oder Genitiv.",
+      "grammar": "pronomen"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "unternommen" },
+        { "key": "b", "text": "vertrieben" },
+        { "key": "c", "text": "verbracht" }
+      ],
+      "answer": "c",
+      "explanation": "You „verbringen“ time somewhere: „fünf Tage verbracht“. „etwas unternehmen“ means to do an activity (e.g. „einen Ausflug unternehmen“), and „vertreiben“ means to drive away – only „sich die Zeit vertreiben“ is about time.",
+      "explanationDe": "Zeit an einem Ort „verbringt“ man: „fünf Tage verbracht“. „etwas unternehmen“ bedeutet, eine Aktivität machen (zum Beispiel „einen Ausflug unternehmen“), und „vertreiben“ heißt „wegjagen“ – nur „sich die Zeit vertreiben“ hat mit Zeit zu tun."
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "damit" },
+        { "key": "b", "text": "indem" },
+        { "key": "c", "text": "sodass" }
+      ],
+      "answer": "c",
+      "explanation": "The cancelled ferry had a consequence – they had to stay longer – so „sodass“. „damit“ would express a purpose (the ferry was not cancelled in order to keep them there), and „indem“ describes a method.",
+      "explanationDe": "Der Ausfall der Fähre hatte eine Folge: Sie mussten länger bleiben – also „sodass“. „damit“ würde einen Zweck ausdrücken (die Fähre fiel ja nicht aus, um sie festzuhalten), und „indem“ beschreibt ein Mittel.",
+      "grammar": "konsekutivsaetze-b2"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "woran" },
+        { "key": "b", "text": "worüber" },
+        { "key": "c", "text": "worauf" }
+      ],
+      "answer": "b",
+      "explanation": "After „Das Einzige“ the relative clause uses a wo-form, and the verb is „sich ärgern über“ – so „worüber“. „woran“ and „worauf“ belong to other verbs („denken an“, „warten auf“).",
+      "explanationDe": "Nach „Das Einzige“ steht im Relativsatz eine wo-Form, und das Verb heißt „sich ärgern über“ – also „worüber“. „woran“ und „worauf“ gehören zu anderen Verben („denken an“, „warten auf“).",
+      "grammar": "relativsaetze-b2"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "wird" },
+        { "key": "b", "text": "lässt" },
+        { "key": "c", "text": "ist" }
+      ],
+      "answer": "b",
+      "explanation": "„sich lassen“ + infinitive replaces a passive with „können“: „Sie lässt sich … erreichen“ = „Sie kann … erreicht werden“. „wird“ and „ist“ do not combine with „sich“ + infinitive („ist … zu erreichen“ would need „zu“ and no „sich“).",
+      "explanationDe": "„sich lassen“ + Infinitiv ersetzt ein Passiv mit „können“: „Sie lässt sich … erreichen“ = „Sie kann … erreicht werden“. „wird“ und „ist“ passen nicht zu „sich“ + Infinitiv („ist … zu erreichen“ bräuchte „zu“ und kein „sich“).",
+      "grammar": "passiversatz"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "Abstecher" },
+        { "key": "b", "text": "Anstieg" },
+        { "key": "c", "text": "Absteiger" }
+      ],
+      "answer": "a",
+      "explanation": "„einen Abstecher machen“ means to make a short side trip to a place. An „Anstieg“ is a climb or an increase, and an „Absteiger“ is, for example, a team relegated to a lower league.",
+      "explanationDe": "„einen Abstecher machen“ bedeutet, unterwegs kurz einen zusätzlichen Ort besuchen. Ein „Anstieg“ ist ein Weg nach oben oder eine Zunahme, und ein „Absteiger“ ist zum Beispiel eine Mannschaft, die in eine tiefere Liga muss."
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "darüber" },
+        { "key": "b", "text": "darauf" },
+        { "key": "c", "text": "danach" }
+      ],
+      "answer": "b",
+      "explanation": "The adjective is „gespannt sein auf“ + accusative (to be curious about, to look forward to), so before the „was“-clause you need „darauf“. „darüber“ and „danach“ do not combine with „gespannt“.",
+      "explanationDe": "Es heißt „gespannt sein auf“ + Akkusativ. Vor dem Nebensatz mit „was“ brauchst du deshalb „darauf“. „darüber“ und „danach“ passen nicht zu „gespannt“.",
+      "grammar": "adjektive-mit-praepositionen-b2"
+    }
+  ],
+  "glossary": [
+    { "de": "die Rundreise", "en": "round trip, tour" },
+    { "de": "aufbrechen", "en": "to set off" },
+    { "de": "durchnässt", "en": "soaked" },
+    { "de": "der/die Einheimische", "en": "local (person)" },
+    { "de": "im Nachhinein", "en": "in hindsight" },
+    { "de": "ausfallen", "en": "to be cancelled" },
+    { "de": "atemberaubend", "en": "breathtaking" },
+    { "de": "die Ebbe", "en": "low tide" },
+    { "de": "die Gezeiten", "en": "tides" },
+    { "de": "einen Abstecher machen", "en": "to make a side trip" },
+    { "de": "überfüllt", "en": "overcrowded" }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "hoeren-2-03",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Hebamme auf dem Land",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "context": "Rundfunkinterview in der Sendung „Gesundheit vor Ort“ mit der Hebamme Kerstin Wollenberg aus der Uckermark, die zwischen zwei Hausbesuchen telefonisch zugeschaltet ist",
+  "speakers": [
+    { "id": "mod", "name": "Moderator", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "wollenberg", "name": "Frau Wollenberg", "gender": "f", "age": "adult", "role": "Hebamme" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Guten Abend und willkommen bei „Gesundheit vor Ort“. Heute geht es um eine Frage, die viele junge Familien auf dem Land beschäftigt: Wer hilft eigentlich, wenn sich Nachwuchs ankündigt?" },
+    { "s": "mod", "t": "Am Telefon ist Kerstin Wollenberg, freiberufliche Hebamme in der Uckermark. Frau Wollenberg, ich höre Vögel im Hintergrund – wo sind Sie gerade?" },
+    { "s": "wollenberg", "t": "Ich stehe mit dem Auto an einem Feldweg zwischen zwei Hausbesuchen. Hier hab ich wenigstens Empfang, zwei Kilometer weiter ist nämlich Schluss damit, das ist bei uns ganz normal." },
+    { "s": "wollenberg", "t": "Heute stehen sechs Wöchnerinnen auf meiner Liste, also Frauen, die gerade entbunden haben. Da kommen bis heute Abend locker hundertachtzig Kilometer zusammen." },
+    { "s": "mod", "t": "Sie haben aber nicht immer auf dem Land gearbeitet." },
+    { "s": "wollenberg", "t": "Nee, ich war fünfzehn Jahre im Kreißsaal einer großen Klinik in Berlin. Am Anfang hab ich das geliebt, das Tempo, das Team, die vielen verschiedenen Frauen." },
+    { "s": "wollenberg", "t": "Zum Schluss hatte ich in vielen Nachtdiensten aber drei, manchmal vier Frauen gleichzeitig unter der Geburt. Da rennt man nur noch von Zimmer zu Zimmer und ist eigentlich für keine richtig da." },
+    { "s": "mod", "t": "Und dann haben Sie beschlossen, aufs Land zu ziehen?" },
+    { "s": "wollenberg", "t": "Beschlossen ist zu viel gesagt, das war eher Zufall. Mein Mann hat hier einen alten Vierseitenhof von seiner Tante geerbt, und unser Plan war eigentlich, ihn herzurichten und dann zu verkaufen." },
+    { "s": "wollenberg", "t": "Dann haben wir einen Sommer lang hier gewerkelt, und im September wollte keiner von uns mehr zurück. Das ist jetzt acht Jahre her." },
+    { "s": "mod", "t": "Wie sieht es denn mit der Versorgung für Schwangere bei Ihnen aus?" },
+    { "s": "wollenberg", "t": "Schwierig, ehrlich gesagt. Die Geburtsstation in unserer Kreisstadt ist vor fünf Jahren geschlossen worden, angeblich, weil es zu wenige Geburten gab." },
+    { "s": "wollenberg", "t": "Seitdem fahren die Frauen im Schnitt fünfzig Minuten bis zur nächsten Klinik, im Winter auch mal länger." },
+    { "s": "wollenberg", "t": "Und das Absurde ist ja: Überall liest man, dass auf dem Land kaum noch Kinder kommen. Bei uns ist es gerade umgekehrt, weil viele junge Familien aus Berlin herziehen – wegen der Mieten und weil man inzwischen oft von zu Hause aus arbeiten kann." },
+    { "s": "mod", "t": "Was bedeutet das für Ihre Arbeit?" },
+    { "s": "wollenberg", "t": "Dass ich ständig Nein sagen muss. Die Frauen rufen oft schon in der sechsten, siebten Schwangerschaftswoche an, und trotzdem kann ich nur ungefähr jede dritte annehmen." },
+    { "s": "wollenberg", "t": "Das ist ehrlich gesagt das, was mir am meisten an die Nieren geht. Nicht die Fahrerei, nicht die Nächte, sondern diese Absagen am Telefon." },
+    { "s": "mod", "t": "Begleiten Sie eigentlich auch Geburten zu Hause?" },
+    { "s": "wollenberg", "t": "Inzwischen nicht mehr. Und zwar nicht etwa, weil ich Hausgeburten für gefährlich halte – bei einer gesunden Schwangerschaft und guter Vorbereitung sind sie das nämlich nicht." },
+    { "s": "wollenberg", "t": "Der Grund ist schlicht die Berufshaftpflicht. Die Versicherung hat mich am Ende fast so viel gekostet, wie ich mit den paar Hausgeburten im Jahr verdient habe, und das rechnet sich einfach nicht." },
+    { "s": "mod", "t": "Trotzdem haben Sie letzten Winter ein Kind auf die Welt geholt, und zwar in einer Küche, wie ich gehört habe." },
+    { "s": "wollenberg", "t": "Ach, das hat sich also schon rumgesprochen! Ja, das war im Februar, bei Glatteis. Um drei Uhr nachts ruft eine Frau an, die ich beim ersten Kind betreut hatte: Die Wehen kommen alle zwei Minuten." },
+    { "s": "wollenberg", "t": "Der Rettungswagen hat wegen der Straßen über vierzig Minuten gebraucht, ich wohne zum Glück nur sechs Kilometer entfernt. Als ich ankam, kniete sie schon auf dem Küchenboden, und eine Viertelstunde später war die Kleine da." },
+    { "s": "wollenberg", "t": "Die Sanitäter standen erst in der Tür, als wir schon alle mit einem Tee am Küchentisch saßen. Mutter und Kind ging es bestens." },
+    { "s": "wollenberg", "t": "Die Familie hat übrigens Milchkühe. Das nächste Kalb haben sie mir zu Ehren Kerstin getauft – das Mädchen heißt zum Glück Marlene." },
+    { "s": "mod", "t": "Gibt es denn Ideen, wie sich die Lage verbessern ließe?" },
+    { "s": "wollenberg", "t": "Im Kreistag wird gerade über einen hebammengeleiteten Kreißsaal diskutiert. Das heißt, Hebammen betreuen die normalen Geburten selbstständig, und eine Ärztin kommt nur dazu, wenn es Komplikationen gibt." },
+    { "s": "wollenberg", "t": "Ich finde die Idee großartig, und ich wär sofort dabei. Aber beschlossen ist da noch gar nichts, im Moment streitet man vor allem darüber, wer das bezahlen soll." },
+    { "s": "mod", "t": "Viele setzen inzwischen ja auf Videosprechstunden. Ist das für Sie eine Lösung?" },
+    { "s": "wollenberg", "t": "Teilweise. Wenn eine Mutter abends eine Frage zum Stillen hat, dann gucken wir uns das schnell per Video an, und mir bleibt eine Stunde Fahrt erspart." },
+    { "s": "wollenberg", "t": "Aber ein Neugeborenes muss ich wiegen, anfassen, mir den Nabel angucken. Wer glaubt, man könnte die ganze Nachsorge übers Handy machen, der war noch nie bei einer Wöchnerin, sag ich mal." },
+    { "s": "mod", "t": "Und der Nachwuchs in Ihrem Beruf? Wollen junge Hebammen überhaupt aufs Land?" },
+    { "s": "wollenberg", "t": "Ich hab fast immer eine Studentin dabei, im Moment eine junge Frau aus Potsdam. Die meisten finden es hier wunderbar, aber am Ende gehen sie dann doch in die Stadt zurück – wegen des Freundes, der Freundinnen, der Kinos. Das versteh ich ja auch." },
+    { "s": "wollenberg", "t": "Eine Einzige ist geblieben. Die hat sich letztes Jahr zwei Dörfer weiter selbstständig gemacht, und seitdem teilen wir uns die Wochenenden. Das war für mich, ehrlich gesagt, das schönste Geschenk seit Langem." },
+    { "s": "mod", "t": "Zum Schluss: Bereuen Sie den Wechsel manchmal?" },
+    { "s": "wollenberg", "t": "Keinen einzigen Tag. Ich verdiene weniger als in der Klinik und sitze mehr im Auto, als mir lieb ist." },
+    { "s": "wollenberg", "t": "Aber ich kenne jede Familie, die ich begleite, und ich treffe die Kinder noch beim Bäcker, wenn sie längst in die Schule gehen. So was gibt's in Berlin nicht." },
+    { "s": "mod", "t": "Frau Wollenberg, vielen Dank und gute Fahrt zum nächsten Hausbesuch!" },
+    { "s": "wollenberg", "t": "Danke schön! Ich muss jetzt auch wirklich los, die nächste Mama wartet schon mit dem Kaffee." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "In ihren letzten Jahren in der Berliner Klinik war Frau Wollenberg oft für mehrere Geburten zur selben Zeit zuständig.",
+      "answer": true,
+      "explanation": "In her last years there, she often had „drei, manchmal vier Frauen gleichzeitig unter der Geburt“ during night shifts – several births at the same time.",
+      "explanationDe": "In ihren letzten Jahren dort hatte sie in vielen Nachtdiensten „drei, manchmal vier Frauen gleichzeitig unter der Geburt“ – also mehrere Geburten zur selben Zeit.",
+      "evidence": "drei, manchmal vier Frauen gleichzeitig unter der Geburt"
+    },
+    {
+      "n": 2,
+      "text": "Das Ehepaar wollte den geerbten Hof von Anfang an selbst bewohnen.",
+      "answer": false,
+      "explanation": "The move was not planned: „unser Plan war eigentlich, ihn herzurichten und dann zu verkaufen“. Only after a summer there did they decide to stay.",
+      "explanationDe": "Der Umzug war nicht geplant: „unser Plan war eigentlich, ihn herzurichten und dann zu verkaufen“. Erst nach einem Sommer dort wollten sie bleiben.",
+      "evidence": "unser Plan war eigentlich, ihn herzurichten und dann zu verkaufen"
+    },
+    {
+      "n": 3,
+      "text": "In ihrer Gegend kommen nach Frau Wollenbergs Angaben immer weniger Kinder zur Welt.",
+      "answer": false,
+      "explanation": "That is what one reads about the countryside in general („Überall liest man …“). For her region she says „Bei uns ist es gerade umgekehrt“, because young families are moving there from Berlin.",
+      "explanationDe": "Das liest man allgemein über das Land („Überall liest man …“). Für ihre Region sagt sie aber „Bei uns ist es gerade umgekehrt“, weil viele junge Familien aus Berlin herziehen.",
+      "evidence": "Bei uns ist es gerade umgekehrt"
+    },
+    {
+      "n": 4,
+      "text": "Frau Wollenberg muss den Großteil der Schwangeren, die sich bei ihr melden, ablehnen.",
+      "answer": true,
+      "explanation": "„kann ich nur ungefähr jede dritte annehmen“ – if she accepts one woman in three, she has to turn down about two thirds, i.e. most of them.",
+      "explanationDe": "„kann ich nur ungefähr jede dritte annehmen“ – wenn sie nur jede dritte Frau annimmt, muss sie etwa zwei Drittel absagen, also die meisten.",
+      "evidence": "kann ich nur ungefähr jede dritte annehmen"
+    },
+    {
+      "n": 5,
+      "text": "Frau Wollenberg macht keine Hausgeburten mehr, weil sie ihr zu riskant erscheinen.",
+      "answer": false,
+      "explanation": "The reason is hidden in a negation: „nicht etwa, weil ich Hausgeburten für gefährlich halte“. The real reason is the cost of her professional liability insurance.",
+      "explanationDe": "Der Grund steckt in einer Verneinung: „nicht etwa, weil ich Hausgeburten für gefährlich halte“. Der eigentliche Grund ist die teure Berufshaftpflichtversicherung.",
+      "evidence": "nicht etwa, weil ich Hausgeburten für gefährlich halte"
+    },
+    {
+      "n": 6,
+      "text": "Als der Rettungsdienst eintraf, war das Baby schon geboren.",
+      "answer": true,
+      "explanation": "„Die Sanitäter standen erst in der Tür, als wir schon alle mit einem Tee am Küchentisch saßen“ – the baby had arrived a quarter of an hour after the midwife, long before the ambulance.",
+      "explanationDe": "„Die Sanitäter standen erst in der Tür, als wir schon alle mit einem Tee am Küchentisch saßen“ – das Baby kam eine Viertelstunde nach der Hebamme, lange vor dem Rettungswagen.",
+      "evidence": "Die Sanitäter standen erst in der Tür, als wir schon alle mit einem Tee am Küchentisch saßen."
+    },
+    {
+      "n": 7,
+      "text": "Der Kreistag hat bereits entschieden, einen von Hebammen geleiteten Kreißsaal einzurichten.",
+      "answer": false,
+      "explanation": "The idea is only being discussed („wird gerade … diskutiert“): „Aber beschlossen ist da noch gar nichts“ – they are still arguing about who should pay.",
+      "explanationDe": "Die Idee wird nur diskutiert („wird gerade … diskutiert“): „Aber beschlossen ist da noch gar nichts“ – man streitet noch darüber, wer das bezahlen soll.",
+      "evidence": "Aber beschlossen ist da noch gar nichts"
+    },
+    {
+      "n": 8,
+      "text": "Bei manchen Fragen berät Frau Wollenberg die Mütter auch per Video.",
+      "answer": true,
+      "explanation": "Video is a partial solution („Teilweise“): for a question about breastfeeding „dann gucken wir uns das schnell per Video an“. Her criticism only concerns doing all the aftercare by phone.",
+      "explanationDe": "Video ist eine Teillösung („Teilweise“): Bei einer Frage zum Stillen „dann gucken wir uns das schnell per Video an“. Ihre Kritik betrifft nur die Idee, die ganze Nachsorge übers Handy zu machen.",
+      "evidence": "dann gucken wir uns das schnell per Video an"
+    },
+    {
+      "n": 9,
+      "text": "Seit dem vergangenen Jahr muss Frau Wollenberg nicht mehr an jedem Wochenende arbeiten.",
+      "answer": true,
+      "explanation": "A former student set up her own practice nearby last year, „und seitdem teilen wir uns die Wochenenden“ – so she now has some weekends off.",
+      "explanationDe": "Eine frühere Studentin hat sich letztes Jahr in der Nähe selbstständig gemacht, „und seitdem teilen wir uns die Wochenenden“ – sie hat also manche Wochenenden frei.",
+      "evidence": "seitdem teilen wir uns die Wochenenden"
+    },
+    {
+      "n": 10,
+      "text": "Wegen des geringeren Einkommens bedauert Frau Wollenberg den Umzug aufs Land manchmal.",
+      "answer": false,
+      "explanation": "She does earn less, but to „Bereuen Sie den Wechsel manchmal?“ she answers „Keinen einzigen Tag“. Earning less is a fact; regretting the move is not.",
+      "explanationDe": "Sie verdient zwar weniger, aber auf die Frage „Bereuen Sie den Wechsel manchmal?“ antwortet sie: „Keinen einzigen Tag“. Das geringere Einkommen stimmt, die Reue nicht.",
+      "evidence": "Keinen einzigen Tag. Ich verdiene weniger als in der Klinik"
+    }
+  ],
+  "glossary": [
+    { "de": "die Hebamme", "en": "midwife" },
+    { "de": "die Wöchnerin", "en": "woman in the weeks after giving birth" },
+    { "de": "entbinden", "en": "to give birth" },
+    { "de": "der Kreißsaal", "en": "delivery room" },
+    { "de": "unter der Geburt", "en": "in labour" },
+    { "de": "der Vierseitenhof", "en": "farm with buildings on all four sides of a yard" },
+    { "de": "jemandem an die Nieren gehen", "en": "to affect someone deeply" },
+    { "de": "die Berufshaftpflicht", "en": "professional liability insurance" },
+    { "de": "die Wehen (Pl.)", "en": "contractions" },
+    { "de": "die Nachsorge", "en": "aftercare (here: after the birth)" },
+    { "de": "sich selbstständig machen", "en": "to set up on one's own, to become self-employed" },
+    { "de": "bereuen", "en": "to regret" }
+  ]
+}

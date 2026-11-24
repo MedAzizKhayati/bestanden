@@ -4,6 +4,8 @@ import type { Locale } from "@/i18n/config";
 import { getMessages } from "@/i18n/messages";
 
 export interface PlanInventory {
+  /** URL slug of the exam the plan prepares for. */
+  examSlug: string;
   parts: { partId: string; label: string; sectionId: string; minutes: number; sets: { id: string; href: string; title: string }[] }[];
   grammar: { id: string; title: string; href: string }[];
   vocab: { id: string; title: string; href: string }[];
@@ -144,7 +146,7 @@ export function buildPlan({ today, examDate, dailyMinutes, weakness, inventory, 
       push(takeSet("sprechen-3"));
       push(takeGrammar());
     } else {
-      push({ key: `strategy:${w}`, kind: "strategy", refId: "strategien", label: tr.strategies, detail: tr.strategiesDetail, href: "/telc-b1/strategien", minutes: 30 });
+      push({ key: `strategy:${w}`, kind: "strategy", refId: "strategien", label: tr.strategies, detail: tr.strategiesDetail, href: `/${inventory.examSlug}/strategien`, minutes: 30 });
       push({ key: `phrases:${w}`, kind: "strategy", refId: "redemittel", label: tr.phrases, detail: tr.phrasesDetail, href: "/redemittel", minutes: 20 });
       for (const p of rankedParts.slice(0, 2)) push(takeSet(p.partId));
       push(takeSet("sprechen-1"));

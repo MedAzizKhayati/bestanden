@@ -1,0 +1,114 @@
+{
+  "id": "hoeren-1-02",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Antenne Alpenrand: Nachrichten am Mittag",
+  "topic": "freizeit",
+  "difficulty": 1,
+  "speakers": [
+    { "id": "sprecher", "gender": "m", "age": "adult", "role": "Nachrichtensprecher" }
+  ],
+  "intro": [
+    { "s": "sprecher", "t": "Antenne Alpenrand, es ist zwölf Uhr. Hier sind die Nachrichten am Mittag." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: höhere Parkgebühren am Almbachsee",
+      "script": [
+        { "s": "sprecher", "t": "Almbach. Wer im kommenden Sommer mit dem Auto an den Almbachsee fährt, muss deutlich mehr fürs Parken bezahlen. Der Gemeinderat hat beschlossen, die Tagesgebühr von 5 auf 15 Euro zu erhöhen." },
+        { "s": "sprecher", "t": "Grund sind die vielen Ausflügler, die an schönen Wochenenden die engen Straßen im Ort zuparken. Immer wieder kämen nicht einmal Rettungswagen durch, so der Bürgermeister." },
+        { "s": "sprecher", "t": "Der See selbst bleibt für alle frei zugänglich. Wer mit dem Bus oder mit dem Fahrrad kommt, zahlt also weiterhin nichts." }
+      ],
+      "statement": "Am Almbachsee verlangt die Gemeinde künftig von allen Tagesgästen eine Gebühr für den Zugang zum Ufer.",
+      "answer": false,
+      "explanation": "Only parking becomes more expensive („die Tagesgebühr von 5 auf 15 Euro“ for cars). „Der See selbst bleibt für alle frei zugänglich“ – people who come by bus or bike pay nothing, so there is no entrance fee.",
+      "explanationDe": "Nur das Parken wird teurer: „die Tagesgebühr von 5 auf 15 Euro“. „Der See selbst bleibt für alle frei zugänglich“ – wer mit dem Bus oder dem Rad kommt, zahlt nichts. Es gibt also keinen Eintritt.",
+      "evidence": "Der See selbst bleibt für alle frei zugänglich."
+    },
+    {
+      "n": 2,
+      "label": "Meldung: neues Werk für Fahrräder in Kufstein",
+      "script": [
+        { "s": "sprecher", "t": "Kufstein. Der Tiroler Sportartikelhersteller Firnwerk baut ein neues Werk und schafft dort 80 Arbeitsplätze." },
+        { "s": "sprecher", "t": "Allerdings nicht für Skier: Deren Verkauf ist im vergangenen Jahr erneut zurückgegangen. Gewachsen ist das Unternehmen vor allem mit E-Mountainbikes, die inzwischen mehr als die Hälfte des Umsatzes ausmachen." },
+        { "s": "sprecher", "t": "In der neuen Halle sollen ab dem Frühjahr ausschließlich Fahrräder gebaut werden. Die Skiproduktion bleibt am bisherigen Standort in der Stadt." }
+      ],
+      "statement": "Der Hersteller aus Kufstein schafft neue Stellen, weil sich vor allem seine Fahrräder gut verkaufen.",
+      "answer": true,
+      "explanation": "The new jobs are „nicht für Skier“ – ski sales fell again. The company has grown „vor allem mit E-Mountainbikes“, and the new hall will build only bikes. So the bikes are the reason for the new jobs.",
+      "explanationDe": "Die neuen Stellen sind „nicht für Skier“ – der Verkauf von Skiern ist wieder zurückgegangen. Die Firma ist „vor allem mit E-Mountainbikes“ gewachsen, und in der neuen Halle werden nur Fahrräder gebaut. Die Fahrräder sind also der Grund für die neuen Stellen.",
+      "evidence": "Gewachsen ist das Unternehmen vor allem mit E-Mountainbikes"
+    },
+    {
+      "n": 3,
+      "label": "Meldung: Notfälle beim Bergwandern",
+      "script": [
+        { "s": "sprecher", "t": "Innsbruck. Die meisten Notfälle beim Bergwandern haben nichts mit Abstürzen zu tun. Das zeigt eine Auswertung der Bergrettungsdienste in Tirol und Bayern." },
+        { "s": "sprecher", "t": "Demnach mussten die Retter im vergangenen Sommer vor allem Wanderer holen, die erschöpft waren oder sich verlaufen hatten. Schlechte Schuhe oder fehlende Ausrüstung spielten dagegen kaum eine Rolle." },
+        { "s": "sprecher", "t": "Die Bergretter raten deshalb, Touren realistischer zu planen und lieber rechtzeitig umzukehren, auch wenn der Gipfel schon nah ist." }
+      ],
+      "statement": "Laut der Auswertung brauchen Wanderer in den Bergen meistens Hilfe, weil ihre Ausrüstung schlecht ist.",
+      "answer": false,
+      "explanation": "Most rescues were of hikers who „erschöpft waren oder sich verlaufen hatten“. „Schlechte Schuhe oder fehlende Ausrüstung spielten dagegen kaum eine Rolle“ – the report rules out exactly the reason given in the statement.",
+      "explanationDe": "Meistens mussten die Retter Wanderer holen, die „erschöpft waren oder sich verlaufen hatten“. „Schlechte Schuhe oder fehlende Ausrüstung spielten dagegen kaum eine Rolle“ – genau diesen Grund schließt die Meldung aus.",
+      "evidence": "Schlechte Schuhe oder fehlende Ausrüstung spielten dagegen kaum eine Rolle."
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Rekord beim Bergfilmfestival",
+      "script": [
+        { "s": "sprecher", "t": "Rosenheim. Das Inntaler Bergfilmfestival ist gestern Abend mit einem Rekord zu Ende gegangen." },
+        { "s": "sprecher", "t": "Rund 12.000 Menschen sahen in diesem Jahr die Filme – so viele wie noch nie seit der Gründung des Festivals vor 25 Jahren. Besonders gefragt waren die Vorführungen, bei denen die Bergsteigerinnen und Bergsteiger selbst anwesend waren." },
+        { "s": "sprecher", "t": "Ausbauen wollen die Veranstalter das Programm trotzdem nicht. Stattdessen sollen die Karten für Schüler und Studierende im nächsten Jahr günstiger werden." }
+      ],
+      "statement": "Das Bergfilmfestival in Rosenheim hatte in diesem Jahr mehr Publikum als in allen Jahren davor.",
+      "answer": true,
+      "explanation": "About 12,000 people came – „so viele wie noch nie seit der Gründung des Festivals“, a record. The sentence „Ausbauen wollen die Veranstalter das Programm trotzdem nicht“ is about next year's programme, not about this year's audience.",
+      "explanationDe": "Rund 12.000 Menschen kamen – „so viele wie noch nie seit der Gründung des Festivals“, also ein Rekord. Der Satz „Ausbauen wollen die Veranstalter das Programm trotzdem nicht“ betrifft das Programm im nächsten Jahr, nicht das Publikum in diesem Jahr.",
+      "evidence": "so viele wie noch nie seit der Gründung des Festivals vor 25 Jahren"
+    },
+    {
+      "n": 5,
+      "label": "Meldung: Weltcup-Abfahrt verschoben",
+      "script": [
+        { "s": "sprecher", "t": "Zum Sport. Die Weltcup-Abfahrt der Frauen am Grubenkogel findet nicht wie geplant am Samstag statt." },
+        { "s": "sprecher", "t": "Grund ist aber nicht etwa Schneemangel – im Gegenteil: Seit Mittwoch ist dort mehr als ein Meter Neuschnee gefallen, und die Lawinengefahr an der Strecke ist zu hoch." },
+        { "s": "sprecher", "t": "Das Rennen soll nun am Montag nachgeholt werden. Bereits gekaufte Eintrittskarten bleiben gültig." }
+      ],
+      "statement": "Die Abfahrt der Frauen wird verschoben, weil auf der Strecke zu wenig Schnee liegt.",
+      "answer": false,
+      "explanation": "The race is moved to Monday, but the reason is „nicht etwa Schneemangel – im Gegenteil“: more than a metre of new snow has fallen and the avalanche risk („Lawinengefahr“) is too high.",
+      "explanationDe": "Das Rennen wird auf Montag verschoben. Der Grund ist aber „nicht etwa Schneemangel – im Gegenteil“: Es ist über ein Meter Neuschnee gefallen, und die „Lawinengefahr“ ist zu hoch.",
+      "evidence": "Grund ist aber nicht etwa Schneemangel"
+    }
+  ],
+  "unscored": [
+    {
+      "after": 5,
+      "label": "Meldung: das Wetter",
+      "script": [
+        { "s": "sprecher", "t": "Und nun das Wetter: Im Alpenvorland schneit es auch heute Nachmittag weiter. In den Bergen kommen bis morgen früh noch einmal 30 bis 50 Zentimeter Neuschnee dazu." },
+        { "s": "sprecher", "t": "Die Lawinenwarndienste in Bayern und Tirol haben die Warnstufe deshalb auf vier von fünf erhöht. Dazu weht ein kräftiger Wind aus Nordwest." },
+        { "s": "sprecher", "t": "Erst am Sonntag lässt der Schneefall nach. Die Temperaturen liegen dann zwischen minus sechs und null Grad." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecher", "t": "Das waren die Nachrichten auf Antenne Alpenrand." }
+  ],
+  "glossary": [
+    { "de": "der Ausflügler", "en": "day tripper" },
+    { "de": "etwas zuparken", "en": "to block something with parked cars" },
+    { "de": "frei zugänglich", "en": "freely accessible" },
+    { "de": "der Umsatz", "en": "turnover, sales revenue" },
+    { "de": "der Standort", "en": "site, location (of a company)" },
+    { "de": "die Auswertung", "en": "analysis, evaluation" },
+    { "de": "sich verlaufen", "en": "to get lost (on foot)" },
+    { "de": "umkehren", "en": "to turn back" },
+    { "de": "gefragt sein", "en": "to be in demand" },
+    { "de": "etwas nachholen", "en": "to hold something at a later date, to make up for something" },
+    { "de": "die Lawinengefahr", "en": "avalanche risk" },
+    { "de": "die Warnstufe", "en": "warning level" }
+  ]
+}

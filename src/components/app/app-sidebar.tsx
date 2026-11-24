@@ -20,10 +20,10 @@ import {
   type LucideIcon,
 } from "lucide-react";
 import Link from "@/i18n/link";
-import { usePathname } from "next/navigation";
-import { useMemo } from "react";
-import { useT } from "@/i18n/client";
-import { stripLocale } from "@/i18n/config";
+import { usePathname, useRouter } from "next/navigation";
+import { useEffect, useMemo } from "react";
+import { useLocale, useT } from "@/i18n/client";
+import { localizeHref, stripLocale } from "@/i18n/config";
 import { Logo } from "@/components/app/logo";
 import {
   DropdownMenu,
@@ -49,11 +49,12 @@ import {
   useSidebar,
 } from "@/components/ui/sidebar";
 import { SECTION_UI } from "@/lib/exam/ui";
-import { PLANNED_EXAMS } from "@/lib/exams";
-import { useExam } from "@/lib/exams/use-exam";
+import { EXAMS, PLANNED_EXAMS, getExam } from "@/lib/exams";
+import { examSlugInPath, useExam } from "@/lib/exams/use-exam";
 import { useNow } from "@/lib/hooks/use-now";
 import { useHydrated } from "@/lib/store/hydration";
 import { useProgress } from "@/lib/store/progress";
+import { useSettings } from "@/lib/store/settings";
 import { useVocab } from "@/lib/store/vocab";
 import { cn } from "@/lib/utils";
 import { currentStreak } from "@/lib/utils/time";
@@ -67,13 +68,44 @@ interface NavItem {
   exact?: boolean;
 }
 
+/**
+ * The same page in another exam: section and part pages keep their place ("/telc-b1/lesen/teil-2" →
+ * "/telc-b2/lesen/teil-2"); a single practice set or mock exam falls back to its part or list.
+ */
+function pathInExam(pathname: string, slug: string): string {
+  const parts = pathname.split("/").filter(Boolean);
+  if (!parts.length || !getExam(parts[0])) return `/${slug}`;
+  const rest = parts.slice(1);
+  if (rest[0] === "modelltest" || rest[0] === "offiziell") return `/${slug}/${rest[0]}`;
+  const keep = rest[0] === "schreiben" ? 1 : 2; // /schreiben/<set> · /<section>/<part>/<set> · /sprechen/<part>/<set>
+  return `/${[slug, ...rest.slice(0, keep)].join("/")}`;
+}
+
 export function AppSidebar() {
-  const pathname = stripLocale(usePathname());
+  const rawPathname = usePathname();
+  const pathname = stripLocale(rawPathname);
+  const router = useRouter();
+  const locale = useLocale();
   const { setOpenMobile } = useSidebar();
   const hydrated = useHydrated();
   const exam = useExam();
+  const chosenExam = useSettings((s) => s.examSlug);
+  const updateSettings = useSettings((s) => s.update);
   const t = useT();
   const n = t.nav;
+
+  // Working on an exam's pages makes it the current exam (dashboard, study plan and level check follow).
+  const pathExam = examSlugInPath(rawPathname ?? "/");
+  useEffect(() => {
+    if (hydrated && pathExam && pathExam !== chosenExam) updateSettings({ examSlug: pathExam });
+  }, [hydrated, pathExam, chosenExam, updateSettings]);
+
+  const switchExam = (slug: string) => {
+    updateSettings({ examSlug: slug });
+    setOpenMobile(false);
+    // Outside the exam pages the current page simply follows the new exam (dashboard, plan, level check).
+    if (pathExam) router.push(localizeHref(locale, pathInExam(pathname, slug)));
+  };
   const mistakes = useProgress((s) => s.mistakes);
   const activity = useProgress((s) => s.activity);
   const cards = useVocab((s) => s.cards);
@@ -149,13 +181,13 @@ export function AppSidebar() {
           </DropdownMenuTrigger>
           <DropdownMenuContent align="start" className="w-60">
             <DropdownMenuLabel>{n.chooseExam}</DropdownMenuLabel>
-            <DropdownMenuItem asChild>
-              <Link href={`/${exam.slug}`}>
-                <span className="grid size-6 place-items-center rounded-md bg-primary/10 text-[11px] font-bold text-primary">{exam.level}</span>
-                <span className="flex-1">{exam.name}</span>
-                <Check className="text-primary" />
-              </Link>
-            </DropdownMenuItem>
+            {EXAMS.map((e) => (
+              <DropdownMenuItem key={e.slug} onSelect={() => switchExam(e.slug)}>
+                <span className="grid size-6 place-items-center rounded-md bg-primary/10 text-[11px] font-bold text-primary">{e.level}</span>
+                <span className="flex-1">{e.name}</span>
+                {e.slug === exam.slug && <Check className="text-primary" />}
+              </DropdownMenuItem>
+            ))}
             <DropdownMenuSeparator />
             {PLANNED_EXAMS.map((p) => (
               <DropdownMenuItem key={p.slug} disabled>

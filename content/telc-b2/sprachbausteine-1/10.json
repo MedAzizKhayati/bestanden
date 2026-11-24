@@ -1,0 +1,143 @@
+{
+  "id": "sprachbausteine-1-10",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Grüße aus der Reha-Klinik",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Liebe Nesrin,\n\nvielen Dank für dein Päckchen, das gestern hier angekommen ist! Die Krimis kommen genau richtig, denn abends ist in der Klinik nicht besonders viel los.\n\nSeit fast drei Wochen bin ich jetzt im Reha-Zentrum Wiesengrund im Allgäu. [[1]] war ich angekommen, wurde ich schon von einer Ärztin gründlich untersucht, die mir dann einen genauen Therapieplan erstellt hat. Seitdem bin ich von morgens bis nachmittags beschäftigt: Wassergymnastik, Krafttraining, Massagen und zweimal pro Woche Rückenschule. Hier kümmert man sich sowohl um den Körper [[2]] um die Psyche – es gibt sogar ein Seminar zum Umgang mit Stress.\n\nDie Schmerzen sind fast verschwunden, und an manchen Tagen fühle ich mich, als [[3]] ich zehn Jahre jünger. Die Physiotherapeutin erklärt uns immer wieder, dass der Rücken vor allem [[4]] entlastet wird, dass man die Bauch- und Rumpfmuskeln stärkt. Sie hat mir deshalb ein Übungsprogramm zusammengestellt, das ich später zu Hause selbstständig [[5]] soll – jeden Tag zwanzig Minuten.\n\nEhrlich gesagt ist mir hier erst klar geworden, wie sehr ich meinen Rücken in den letzten Jahren vernachlässigt habe. Wenn ich doch nur früher auf die Warnsignale geachtet hätte! Mein Arzt hat mir dringend [[6]], im Büro regelmäßig aufzustehen und einen höhenverstellbaren Schreibtisch zu beantragen. Das habe ich mir fest [[7]].\n\nMit den anderen Patienten verstehe ich mich gut, obwohl fast alle über sechzig sind. Wir muntern [[8]] auf, wenn jemand einen schlechten Tag hat, und mit meiner Tischnachbarin Gerda spiele ich abends oft Karten. Eigentlich gibt es nichts, worüber ich mich beschweren könnte – [[9]] vielleicht vom Essen, das ziemlich fade schmeckt.\n\nAm 12. Mai werde ich entlassen, danach soll ich erst einmal nur vier Stunden täglich arbeiten. [[10]] du nicht Lust, am Wochenende darauf vorbeizukommen? Ich koche uns etwas Schönes – mit richtig vielen Gewürzen!\n\nGanz liebe Grüße\nPetra",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "Sobald" },
+        { "key": "b", "text": "Als" },
+        { "key": "c", "text": "Kaum" }
+      ],
+      "answer": "c",
+      "explanation": "„Kaum war ich angekommen, wurde ich …“ means that the second event happened immediately after the first. Only after „Kaum“ can the verb follow directly („Kaum war ich …“); „Sobald“ and „Als“ introduce subordinate clauses with the verb at the end („Als ich angekommen war, …“).",
+      "explanationDe": "„Kaum war ich angekommen, wurde ich …“ bedeutet, dass das Zweite sofort nach dem Ersten passiert ist. Nur nach „Kaum“ kann das Verb direkt folgen („Kaum war ich …“). „Sobald“ und „Als“ leiten einen Nebensatz mit dem Verb am Ende ein („Als ich angekommen war, …“).",
+      "grammar": "temporale-nebensaetze"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "als auch" },
+        { "key": "b", "text": "noch" },
+        { "key": "c", "text": "oder" }
+      ],
+      "answer": "a",
+      "explanation": "„sowohl“ always needs „als auch“: „sowohl um den Körper als auch um die Psyche“ – both are taken care of. „noch“ belongs to „weder … noch“, and „oder“ belongs to „entweder … oder“.",
+      "explanationDe": "„sowohl“ braucht immer „als auch“: „sowohl um den Körper als auch um die Psyche“ – beides ist gemeint. „noch“ gehört zu „weder … noch“ und „oder“ zu „entweder … oder“.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "bin" },
+        { "key": "b", "text": "wäre" },
+        { "key": "c", "text": "hätte" }
+      ],
+      "answer": "b",
+      "explanation": "„als“ without „ob“ is followed directly by the verb in Konjunktiv II: „als wäre ich zehn Jahre jünger“ – Petra is not really younger, it only feels like it. „bin“ is indicative and cannot express this unreal comparison, and „hätte“ does not go with „jünger“.",
+      "explanationDe": "Nach „als“ ohne „ob“ folgt direkt das Verb im Konjunktiv II: „als wäre ich zehn Jahre jünger“ – Petra ist nicht wirklich jünger, sie fühlt sich nur so. „bin“ ist Indikativ und passt nicht zu einem irrealen Vergleich, und „hätte“ passt nicht zu „jünger“.",
+      "grammar": "irreale-vergleichssaetze"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "darum" },
+        { "key": "b", "text": "dadurch" },
+        { "key": "c", "text": "davor" }
+      ],
+      "answer": "b",
+      "explanation": "The „dass“-clause names the means by which the back is relieved, and it is announced by the correlate „dadurch“: „dadurch entlastet, dass …“ (relieved by strengthening …). „darum“ and „davor“ cannot express a means.",
+      "explanationDe": "Der „dass“-Satz nennt das Mittel, mit dem der Rücken entlastet wird. Er wird mit dem Korrelat „dadurch“ angekündigt: „dadurch entlastet, dass …“. „darum“ und „davor“ drücken kein Mittel aus.",
+      "grammar": "modalsaetze"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "durchführen" },
+        { "key": "b", "text": "aufführen" },
+        { "key": "c", "text": "ausüben" }
+      ],
+      "answer": "a",
+      "explanation": "A programme of exercises is carried out: „ein Übungsprogramm … durchführen“. „aufführen“ is used for plays or concerts on stage, and „ausüben“ for a profession or an office („einen Beruf ausüben“).",
+      "explanationDe": "Ein Übungsprogramm „führt“ man „durch“ – man macht die Übungen: „ein Übungsprogramm … durchführen“. „aufführen“ benutzt man für ein Theaterstück oder ein Konzert, und „ausüben“ für einen Beruf oder ein Amt („einen Beruf ausüben“)."
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "gebeten" },
+        { "key": "b", "text": "beraten" },
+        { "key": "c", "text": "geraten" }
+      ],
+      "answer": "c",
+      "explanation": "„jemandem raten, etwas zu tun“ (to advise someone to do something) takes the dative – „hat mir … geraten“. „bitten“ and „beraten“ both take the accusative („hat mich gebeten/beraten“), and „beraten“ means to give a consultation, not a single piece of advice.",
+      "explanationDe": "„jemandem raten, etwas zu tun“ steht mit Dativ: „hat mir … geraten“. „bitten“ und „beraten“ brauchen den Akkusativ („hat mich gebeten/beraten“), und „beraten“ bedeutet ein Beratungsgespräch führen, nicht einen einzelnen Rat geben."
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "vorgestellt" },
+        { "key": "b", "text": "vorgenommen" },
+        { "key": "c", "text": "vorgeschlagen" }
+      ],
+      "answer": "b",
+      "explanation": "„sich etwas (fest) vornehmen“ means to resolve to do something – Petra plans to follow the doctor's advice. „sich etwas vorstellen“ means to imagine something, and „vorschlagen“ is something you do for other people, not for yourself.",
+      "explanationDe": "„sich etwas (fest) vornehmen“ bedeutet, etwas fest planen – Petra will den Rat des Arztes befolgen. „sich etwas vorstellen“ bedeutet, sich etwas denken oder ausmalen, und „vorschlagen“ macht man für andere Personen, nicht für sich selbst."
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "sich" },
+        { "key": "b", "text": "ihnen" },
+        { "key": "c", "text": "einander" }
+      ],
+      "answer": "c",
+      "explanation": "„einander“ means „each other“: the patients cheer each other up. „sich“ is only used for the third person (not with „wir“), and „ihnen“ is dative and would mean other people, while „aufmuntern“ needs an accusative object.",
+      "explanationDe": "„einander“ bedeutet „gegenseitig“: Die Patienten muntern sich gegenseitig auf. „sich“ benutzt man nur in der 3. Person (nicht mit „wir“), und „ihnen“ ist Dativ und meint andere Personen – „aufmuntern“ braucht aber den Akkusativ.",
+      "grammar": "pronomen"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "abgesehen" },
+        { "key": "b", "text": "ausgenommen" },
+        { "key": "c", "text": "außer" }
+      ],
+      "answer": "a",
+      "explanation": "„abgesehen von“ means „apart from“ and fits „vom Essen“ (= von dem Essen). „außer“ and „ausgenommen“ also mean „except“, but they are not followed by „von“ here („außer dem Essen“, „ausgenommen das Essen“).",
+      "explanationDe": "„abgesehen von“ bedeutet „mit Ausnahme von“ und passt zu „vom Essen“ (= von dem Essen). „außer“ und „ausgenommen“ haben eine ähnliche Bedeutung, stehen hier aber nicht mit „von“ („außer dem Essen“, „ausgenommen das Essen“).",
+      "grammar": "praepositionen-b2"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "Würdest" },
+        { "key": "b", "text": "Hättest" },
+        { "key": "c", "text": "Wärst" }
+      ],
+      "answer": "b",
+      "explanation": "A polite invitation uses Konjunktiv II: „Hättest du nicht Lust, …?“ – the noun „Lust“ goes with „haben“. „Würdest“ would need an infinitive at the end, and „Wärst“ (from „sein“) does not go with „Lust“.",
+      "explanationDe": "Für eine höfliche Einladung benutzt man den Konjunktiv II: „Hättest du nicht Lust, …?“ – „Lust“ gehört zu „haben“. Mit „Würdest“ bräuchtest du am Ende einen Infinitiv, und „Wärst“ (von „sein“) passt nicht zu „Lust“.",
+      "grammar": "konjunktiv-2"
+    }
+  ],
+  "glossary": [
+    { "de": "das Reha-Zentrum", "en": "rehabilitation centre" },
+    { "de": "die Rückenschule", "en": "back-care course" },
+    { "de": "der Umgang mit Stress", "en": "dealing with stress" },
+    { "de": "etwas entlasten", "en": "to take the strain off something" },
+    { "de": "selbstständig", "en": "on your own, independently" },
+    { "de": "vernachlässigen", "en": "to neglect" },
+    { "de": "das Warnsignal", "en": "warning sign" },
+    { "de": "höhenverstellbar", "en": "height-adjustable" },
+    { "de": "sich etwas vornehmen", "en": "to resolve to do something" },
+    { "de": "jemanden aufmuntern", "en": "to cheer someone up" },
+    { "de": "fade", "en": "bland, tasteless" },
+    { "de": "entlassen werden", "en": "to be discharged" }
+  ]
+}

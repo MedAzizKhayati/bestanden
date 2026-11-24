@@ -1,0 +1,112 @@
+{
+  "id": "sprachbausteine-2-04",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Fachkräftemangel in der Pflege",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "textType": "article",
+  "text": "Pflege am Limit: Warum Kliniken und Heime händeringend Personal suchen\n\nIn deutschen Krankenhäusern und Pflegeheimen bleiben Tausende Stellen unbesetzt. Besonders angespannt ist die Situation in der Altenpflege, wo offene Stellen im Durchschnitt erst nach mehr als einem halben Jahr wieder besetzt werden können. Einer aktuellen Untersuchung des Bremer Instituts für Arbeitsmarkt und Pflege [[1]] könnten bis zum Jahr 2035 rund 300.000 Pflegekräfte fehlen. Gleichzeitig wächst wegen der alternden Bevölkerung die Zahl der Menschen, die im Alltag auf professionelle Unterstützung [[2]] sind.\n\nAls Hauptursache des Mangels nennen Fachleute die Arbeitsbedingungen. Die Belastung ist [[3]] körperlich als auch psychisch enorm: Schichtdienste, Zeitdruck und unterbesetzte Stationen prägen den Alltag vieler Beschäftigter. Wer krankheitsbedingt ausfällt, wird häufig nicht ersetzt, [[4]] die übrigen Kolleginnen und Kollegen seine Aufgaben zusätzlich übernehmen müssen. Nicht wenige Pflegekräfte reduzieren deshalb ihre Arbeitszeit oder kehren dem Beruf nach wenigen Jahren ganz den [[5]].\n\nDabei hat sich die Bezahlung zuletzt durchaus verbessert. [[6]] die Gehälter spürbar gestiegen sind, fühlen sich viele Pflegekräfte von Politik und Gesellschaft kaum wertgeschätzt. „Während der Pandemie wurde für uns geklatscht, geändert hat sich danach aber wenig“, kritisiert die Intensivpflegerin Miriam Okafor aus Bochum. Sie fordert verbindliche Personalschlüssel, damit wieder genug Zeit für die Patientinnen und Patienten bleibt. Nur wenn Pflegekräfte ihre Arbeit wieder so ausüben könnten, wie sie es in der Ausbildung gelernt hätten, würden sie dem Beruf auch langfristig treu bleiben, ist Okafor überzeugt.\n\nGroße Hoffnungen setzt die Politik auf die Anwerbung von Fachkräften aus dem Ausland. Diese spielt bereits heute eine wichtige [[7]], stößt jedoch an bürokratische Grenzen: Bis die Abschlüsse der Bewerberinnen und Bewerber offiziell [[8]] werden, vergehen oft viele Monate. Zudem fehlen vielerorts Sprachkurse, die gezielt auf den Pflegealltag vorbereiten. Ein Gesetz, das im vergangenen Jahr in [[9]] getreten ist, soll die Verfahren beschleunigen. Ob es tatsächlich wirkt, [[10]] sich allerdings erst in einigen Jahren beurteilen.",
+  "words": [
+    { "key": "a", "text": "abhängig" },
+    { "key": "b", "text": "anerkannt" },
+    { "key": "c", "text": "angewiesen" },
+    { "key": "d", "text": "erkannt" },
+    { "key": "e", "text": "kann" },
+    { "key": "f", "text": "Kraft" },
+    { "key": "g", "text": "lässt" },
+    { "key": "h", "text": "obwohl" },
+    { "key": "i", "text": "Rolle" },
+    { "key": "j", "text": "Rücken" },
+    { "key": "k", "text": "sodass" },
+    { "key": "l", "text": "sowohl" },
+    { "key": "m", "text": "trotz" },
+    { "key": "n", "text": "weder" },
+    { "key": "o", "text": "zufolge" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "o",
+      "explanation": "„einer Sache zufolge“ (according to …) stands after its noun phrase, which is in the dative: „Einer aktuellen Untersuchung … zufolge“. „trotz“ comes before the noun and means „despite“ – wrong in both position and meaning.",
+      "explanationDe": "„einer Sache zufolge“ (= laut, nach Angaben von) steht nach dem Nomen, und das Nomen steht im Dativ: „Einer aktuellen Untersuchung … zufolge“. „trotz“ steht vor dem Nomen und drückt einen Gegensatz aus – Position und Bedeutung passen nicht.",
+      "grammar": "praepositionen-b2"
+    },
+    {
+      "n": 2,
+      "answer": "c",
+      "explanation": "„auf etwas angewiesen sein“ (to depend on, to need) – the preposition „auf“ is already in the text. „abhängig“ is the trap: it means almost the same, but takes „von“ („von Hilfe abhängig sein“).",
+      "explanationDe": "„auf etwas angewiesen sein“ (= etwas unbedingt brauchen) – die Präposition „auf“ steht schon im Text. „abhängig“ ist die Falle: Es bedeutet fast dasselbe, steht aber mit „von“ („von Hilfe abhängig sein“).",
+      "grammar": "adjektive-mit-praepositionen-b2"
+    },
+    {
+      "n": 3,
+      "answer": "l",
+      "explanation": "„sowohl … als auch …“ (both … and …): the strain is high physically and mentally. „weder“ is the trap – it pairs with „noch“, not with „als auch“, and the colon then lists many burdens.",
+      "explanationDe": "„sowohl … als auch …“ (= beides): Die Belastung ist körperlich und psychisch hoch. „weder“ ist die Falle – es gehört zu „noch“, nicht zu „als auch“, und nach dem Doppelpunkt werden ja viele Belastungen aufgezählt.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 4,
+      "answer": "k",
+      "explanation": "„sodass“ introduces the consequence: the sick colleague is not replaced, with the result that the others have to take over his tasks. „obwohl“ would express a contrast, but the extra work is the logical result, not a surprise.",
+      "explanationDe": "„sodass“ nennt die Folge: Der kranke Kollege wird nicht ersetzt, und deshalb müssen die anderen seine Aufgaben übernehmen. „obwohl“ würde einen Gegensatz ausdrücken, aber die Mehrarbeit ist die logische Folge, keine Überraschung.",
+      "grammar": "konsekutivsaetze-b2"
+    },
+    {
+      "n": 5,
+      "answer": "j",
+      "explanation": "„einer Sache den Rücken kehren“ (to turn one’s back on something, to leave it) is an idiom: many nurses leave the profession completely. Neither „Rolle“ nor „Kraft“ fits the masculine article „den“ and the verb „kehren“.",
+      "explanationDe": "„einer Sache den Rücken kehren“ (= etwas verlassen, aufgeben) ist eine feste Wendung: Viele verlassen den Beruf ganz. Weder „Rolle“ noch „Kraft“ passt zum maskulinen Artikel „den“ und zum Verb „kehren“."
+    },
+    {
+      "n": 6,
+      "answer": "h",
+      "explanation": "„obwohl“ introduces a concession: salaries have risen, and still many nurses feel undervalued. „trotz“ has the same meaning, but it is a preposition and needs a noun („trotz der höheren Gehälter“), not a clause with the verb at the end.",
+      "explanationDe": "„obwohl“ leitet einen Gegengrund ein: Die Gehälter sind gestiegen, und trotzdem fühlen sich viele nicht wertgeschätzt. „trotz“ hat dieselbe Bedeutung, ist aber eine Präposition und braucht ein Nomen („trotz der höheren Gehälter“), keinen Nebensatz mit dem Verb am Ende.",
+      "grammar": "konzessive-saetze-b2"
+    },
+    {
+      "n": 7,
+      "answer": "i",
+      "explanation": "„eine wichtige Rolle spielen“ (to play an important role) is a fixed noun-verb combination. „Kraft“ does not go with „spielen“.",
+      "explanationDe": "„eine wichtige Rolle spielen“ ist eine feste Nomen-Verb-Verbindung. „Kraft“ passt nicht zu „spielen“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 8,
+      "answer": "b",
+      "explanation": "Foreign qualifications are „anerkannt“ (officially recognised) – passive „anerkannt werden“. „erkannt“ is the trap: „erkennen“ means to identify or notice something, not to accept a qualification officially.",
+      "explanationDe": "Ausländische Abschlüsse werden „anerkannt“ (= offiziell als gleichwertig akzeptiert) – Passiv „anerkannt werden“. „erkannt“ ist die Falle: „erkennen“ heißt, etwas bemerken oder wiedererkennen, nicht offiziell akzeptieren.",
+      "grammar": "passiv-b2"
+    },
+    {
+      "n": 9,
+      "answer": "f",
+      "explanation": "„in Kraft treten“ (to come into force) is the fixed expression for laws. „Rolle“ does not go with „in … treten“.",
+      "explanationDe": "„in Kraft treten“ (= gültig werden) ist die feste Wendung für Gesetze. „Rolle“ passt nicht zu „in … treten“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 10,
+      "answer": "g",
+      "explanation": "„etwas lässt sich beurteilen“ = it can be judged – a common alternative to the passive („kann beurteilt werden“). „kann“ is the trap: „kann sich … beurteilen“ is wrong; you would need „kann … beurteilt werden“ or „kann man … beurteilen“.",
+      "explanationDe": "„etwas lässt sich beurteilen“ = man kann es beurteilen – eine typische Alternative zum Passiv („kann beurteilt werden“). „kann“ ist die Falle: „kann sich … beurteilen“ ist falsch; richtig wäre „kann … beurteilt werden“ oder „kann man … beurteilen“.",
+      "grammar": "passiversatz"
+    }
+  ],
+  "glossary": [
+    { "de": "händeringend", "en": "desperately" },
+    { "de": "unbesetzt", "en": "vacant" },
+    { "de": "einer Sache zufolge", "en": "according to something" },
+    { "de": "auf etwas angewiesen sein", "en": "to depend on something" },
+    { "de": "der Schichtdienst", "en": "shift work" },
+    { "de": "krankheitsbedingt ausfallen", "en": "to be off sick" },
+    { "de": "einer Sache den Rücken kehren", "en": "to turn one’s back on something" },
+    { "de": "wertschätzen", "en": "to value, to appreciate" },
+    { "de": "der Personalschlüssel", "en": "staff-to-patient ratio" },
+    { "de": "die Anwerbung", "en": "recruitment" },
+    { "de": "einen Abschluss anerkennen", "en": "to recognise a qualification" },
+    { "de": "in Kraft treten", "en": "to come into force" }
+  ]
+}

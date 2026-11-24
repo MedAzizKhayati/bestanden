@@ -1,0 +1,264 @@
+{
+  "id": "korrelate",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 30,
+  "title": "Korrelate: darauf, dass … und es, dass …",
+  "titleEn": "Correlates: darauf, dass … and es, dass …",
+  "summary": "Many verbs and expressions point forward to a dass-, ob-/w- or infinitive clause with a correlate: a da-word (Es hängt davon ab, ob …) or es (Ich finde es wichtig, dass …). Learn when the correlate is obligatory, when it is optional and when it disappears.",
+  "summaryDe": "Viele Verben und Ausdrücke verweisen mit einem Korrelat auf einen dass-, ob-/w- oder Infinitivsatz: mit einem da-Wort (Es hängt davon ab, ob …) oder mit es (Ich finde es wichtig, dass …). Hier lernst du, wann das Korrelat Pflicht ist, wann es fehlen darf und wann es wegfällt.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "When the object of a verb with a fixed preposition is a whole clause, the preposition becomes a **da-word in the main clause** that points forward: Ich verlasse mich **darauf**, **dass** du pünktlich bist. Subject and accusative clauses are announced by **es**: **Es** ist wichtig, **dass** … / Ich finde **es** wichtig, **dass** … This pointer word is called a **correlate** (Korrelat).",
+      "mdDe": "Wenn das Objekt eines Verbs mit fester Präposition ein ganzer Satz ist, wird die Präposition zu einem **da-Wort im Hauptsatz**, das nach vorne verweist: Ich verlasse mich **darauf**, **dass** du pünktlich bist. Subjekt- und Akkusativsätze werden mit **es** angekündigt: **Es** ist wichtig, **dass** … / Ich finde **es** wichtig, **dass** … Dieses Verweiswort heißt **Korrelat**."
+    },
+    {
+      "type": "text",
+      "heading": "How correlates work",
+      "headingDe": "So funktionieren Korrelate",
+      "md": "You know da-words from B1 (see *Verben mit Präpositionen*). At B2 you use them as a bridge between the main clause and the clause that follows:\n\n- **dass-clause:** Wir haben uns **darüber** geärgert, **dass** der Termin abgesagt wurde.\n- **ob- or w-clause:** Es hängt **davon** ab, **ob** wir eine Förderung bekommen. / Ich habe mich **danach** erkundigt, **wann** der Kurs beginnt.\n- **infinitive clause:** Ich habe mich **daran** gewöhnt, früh **aufzustehen**.\n\nThe bare preposition can **never** introduce the clause: „Ich interessiere mich für, wie …“ is wrong – you need „Ich interessiere mich **dafür**, wie …“. The form follows the B1 rule: **da-** + preposition, with **r** before a vowel (darauf, daran, darüber, darin, darum).\n\n**Position:** the da-word stays in the main clause, usually right before the participle, the infinitive or the separable prefix: Wir weisen Sie **darauf** hin, dass … / Ich habe lange **darüber** nachgedacht, ob …",
+      "mdDe": "Die da-Wörter kennst du schon von B1 (siehe *Verben mit Präpositionen*). Auf B2 benutzt du sie als Brücke zwischen dem Hauptsatz und dem Satz, der danach kommt:\n\n- **dass-Satz:** Wir haben uns **darüber** geärgert, **dass** der Termin abgesagt wurde.\n- **ob- oder w-Satz:** Es hängt **davon** ab, **ob** wir eine Förderung bekommen. / Ich habe mich **danach** erkundigt, **wann** der Kurs beginnt.\n- **Infinitivsatz:** Ich habe mich **daran** gewöhnt, früh **aufzustehen**.\n\nDie Präposition allein kann den Satz **nie** einleiten: „Ich interessiere mich für, wie …“ ist falsch – richtig ist „Ich interessiere mich **dafür**, wie …“. Die Form folgt der B1-Regel: **da-** + Präposition, mit **r** vor einem Vokal (darauf, daran, darüber, darin, darum).\n\n**Position:** Das da-Wort bleibt im Hauptsatz, meistens direkt vor dem Partizip, dem Infinitiv oder dem trennbaren Präfix: Wir weisen Sie **darauf** hin, dass … / Ich habe lange **darüber** nachgedacht, ob …"
+    },
+    {
+      "type": "table",
+      "heading": "Correlate obligatory: the sentence is wrong without it",
+      "headingDe": "Korrelat obligatorisch: ohne ist der Satz falsch",
+      "columns": ["Verb / expression", "Correlate", "Example"],
+      "columnsDe": ["Verb / Ausdruck", "Korrelat", "Beispiel"],
+      "rows": [
+        ["abhängen von", "davon", "Es hängt davon ab, ob das Wetter mitspielt."],
+        ["ankommen auf", "darauf", "Es kommt darauf an, wie man die Frage stellt."],
+        ["ausgehen von", "davon", "Wir gehen davon aus, dass die Preise steigen."],
+        ["bestehen auf", "darauf", "Sie besteht darauf, dass der Vertrag geändert wird."],
+        ["bestehen in", "darin", "Das Problem besteht darin, dass uns Personal fehlt."],
+        ["liegen an", "daran", "Es liegt daran, dass die Software veraltet ist."],
+        ["gehen um", "darum", "Es geht darum, Kosten zu sparen."],
+        ["führen zu", "dazu", "Der Streik führte dazu, dass viele Züge ausfielen."],
+        ["beitragen zu", "dazu", "Das Projekt trägt dazu bei, Müll zu vermeiden."],
+        ["sorgen für", "dafür", "Bitte sorgen Sie dafür, dass niemand zu spät kommt."],
+        ["achten auf", "darauf", "Achten Sie darauf, die Frist einzuhalten."],
+        ["hinweisen auf", "darauf", "Wir weisen darauf hin, dass das Büro geschlossen ist."],
+        ["sich verlassen auf", "darauf", "Du kannst dich darauf verlassen, dass ich komme."],
+        ["sich gewöhnen an", "daran", "Ich habe mich daran gewöhnt, im Team zu arbeiten."]
+      ],
+      "note": "Rule of thumb: the correlate is obligatory when the verb has a different meaning or makes no sense without its preposition – ankommen (to arrive) ≠ ankommen auf (to depend on), bestehen (to pass) ≠ bestehen auf (to insist on).",
+      "noteDe": "Faustregel: Das Korrelat ist Pflicht, wenn das Verb ohne seine Präposition eine andere Bedeutung hat oder keinen Sinn ergibt – ankommen (an einem Ort) ≠ ankommen auf (abhängen von), bestehen (eine Prüfung) ≠ bestehen auf (etwas fordern)."
+    },
+    {
+      "type": "text",
+      "heading": "Correlate optional",
+      "headingDe": "Korrelat fakultativ",
+      "md": "With many verbs of feeling, thinking and asking, the da-word **may be left out** – the meaning stays clear. With the correlate the sentence sounds more precise, which is typical of written German:\n\n- Ich freue mich (**darüber**), dass du die Stelle bekommen hast.\n- Ich erinnere mich (**daran**), dass wir schon einmal darüber gesprochen haben.\n- Er hat (**damit**) angefangen, Spanisch zu lernen.\n- Wir bitten Sie (**darum**), den Raum sauber zu hinterlassen.\n\nOther verbs in this group: sich ärgern über, sich beschweren über, sich wundern über, denken an, aufpassen auf, sich bemühen um, sich entschließen zu, aufhören mit, warnen vor, überzeugt sein von.\n\n**Watch the preposition:** the da-word keeps the meaning of its preposition – sich freuen **darauf** (something still to come) vs. sich freuen **darüber** (something that has already happened).",
+      "mdDe": "Bei vielen Verben des Fühlens, Denkens und Bittens **darf** das da-Wort **fehlen** – die Bedeutung bleibt klar. Mit Korrelat klingt der Satz genauer, und das ist typisch für geschriebenes Deutsch:\n\n- Ich freue mich (**darüber**), dass du die Stelle bekommen hast.\n- Ich erinnere mich (**daran**), dass wir schon einmal darüber gesprochen haben.\n- Er hat (**damit**) angefangen, Spanisch zu lernen.\n- Wir bitten Sie (**darum**), den Raum sauber zu hinterlassen.\n\nWeitere Verben dieser Gruppe: sich ärgern über, sich beschweren über, sich wundern über, denken an, aufpassen auf, sich bemühen um, sich entschließen zu, aufhören mit, warnen vor, überzeugt sein von.\n\n**Achte auf die Präposition:** Das da-Wort behält die Bedeutung seiner Präposition – sich freuen **darauf** (etwas kommt noch) oder sich freuen **darüber** (etwas ist schon passiert)."
+    },
+    {
+      "type": "table",
+      "heading": "es as a correlate",
+      "headingDe": "es als Korrelat",
+      "columns": ["Where is the clause?", "Example", "es"],
+      "columnsDe": ["Wo steht der Satz?", "Beispiel", "es"],
+      "rows": [
+        ["after the main clause, es in position 1", "Es freut mich, dass du kommst.", "required"],
+        ["after the main clause, another word in position 1", "Mich freut (es) sehr, dass du kommst.", "optional"],
+        ["before the main clause", "Dass du kommst, freut mich.", "no es"],
+        ["object clause after finden / halten für", "Ich finde es unfair, dass niemand gefragt wurde.", "required"],
+        ["object clause before the main clause", "Dass niemand gefragt wurde, finde ich unfair.", "no es"]
+      ],
+      "rowsDe": [
+        ["nach dem Hauptsatz, es auf Position 1", "Es freut mich, dass du kommst.", "Pflicht"],
+        ["nach dem Hauptsatz, ein anderes Wort auf Position 1", "Mich freut (es) sehr, dass du kommst.", "möglich"],
+        ["vor dem Hauptsatz", "Dass du kommst, freut mich.", "kein es"],
+        ["Objektsatz nach finden / halten für", "Ich finde es unfair, dass niemand gefragt wurde.", "Pflicht"],
+        ["Objektsatz vor dem Hauptsatz", "Dass niemand gefragt wurde, finde ich unfair.", "kein es"]
+      ],
+      "note": "Verbs of saying, thinking and knowing (sagen, glauben, meinen, hoffen, wissen, behaupten) take no es: Ich hoffe, dass … – not „Ich hoffe es, dass …“.",
+      "noteDe": "Verben des Sagens, Denkens und Wissens (sagen, glauben, meinen, hoffen, wissen, behaupten) haben kein es: Ich hoffe, dass … – nicht „Ich hoffe es, dass …“."
+    },
+    {
+      "type": "text",
+      "heading": "es before infinitive clauses",
+      "headingDe": "es vor Infinitivsätzen",
+      "md": "es also announces infinitive clauses: **Es** fällt mir schwer, früh aufzustehen. / Ich halte **es** für sinnvoll, vorher anzurufen.\n\nWith some verbs es is **always** needed before the infinitive clause: **es schaffen, es genießen, es hassen, es lieben, es kaum erwarten können, es satthaben**.\n\n- Sie hat **es** geschafft, die Prüfung im ersten Anlauf zu bestehen.\n- Ich kann **es** kaum erwarten, dich wiederzusehen.\n\nFor all other uses of es (weather, es gibt, placeholder es) see *Das Wort „es“*.",
+      "mdDe": "es kündigt auch Infinitivsätze an: **Es** fällt mir schwer, früh aufzustehen. / Ich halte **es** für sinnvoll, vorher anzurufen.\n\nBei manchen Verben ist es vor dem Infinitivsatz **immer** nötig: **es schaffen, es genießen, es hassen, es lieben, es kaum erwarten können, es satthaben**.\n\n- Sie hat **es** geschafft, die Prüfung im ersten Anlauf zu bestehen.\n- Ich kann **es** kaum erwarten, dich wiederzusehen.\n\nAlle anderen Verwendungen von es (Wetter, es gibt, Platzhalter-es) findest du unter *Das Wort „es“*."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ob wir expandieren, hängt vor allem **davon** ab, **wie** sich die Nachfrage entwickelt.", "en": "Whether we expand depends mainly on how demand develops." },
+        { "de": "Die Verzögerung lag vor allem **daran**, **dass** zwei Lieferanten ausgefallen waren.", "en": "The delay was mainly due to the fact that two suppliers had dropped out." },
+        { "de": "Die Hauptaufgabe besteht **darin**, die Daten zuverlässig **auszuwerten**.", "en": "The main task consists in evaluating the data reliably." },
+        { "de": "Ich möchte Sie **darauf** aufmerksam machen, **dass** die Anmeldefrist am Freitag endet.", "en": "I would like to draw your attention to the fact that the registration deadline ends on Friday." },
+        { "de": "Wir haben uns **darauf** geeinigt, die Sitzung auf Donnerstag **zu verschieben**.", "en": "We agreed to postpone the meeting to Thursday." },
+        { "de": "Viele Eltern halten **es** für selbstverständlich, **dass** Schulen ein kostenloses Mittagessen anbieten.", "en": "Many parents take it for granted that schools offer a free lunch." },
+        { "de": "**Es** ist kein Wunder, **dass** die Mieten in der Innenstadt so stark steigen.", "en": "It's no wonder that rents in the city centre are rising so sharply." },
+        { "de": "**Dass** die Mieten so stark steigen, ist kein Wunder.", "en": "That rents are rising so sharply is no wonder." },
+        { "de": "Ich kann **es** kaum erwarten, endlich in die neue Wohnung **einzuziehen**.", "en": "I can hardly wait to finally move into the new flat." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 1** often has a gap right before „dass“, „ob“ or an infinitive clause. Ask: which preposition does the verb need? Then choose the matching da-word – „darauf / darüber / davon“. Typical traps: a da-word with the wrong preposition („sich freuen darauf“ vs. „darüber“) and es vs. a da-word („Ich halte es für wichtig“, not „dafür“).\n- **Sprachbausteine Teil 2:** the missing word is often the da-word in fixed phrases like „Es kommt **darauf** an“, „Es liegt **daran**, dass …“, „Das führt **dazu**, dass …“.\n- **Schreiben** and **Sprechen Teil 2:** correlates structure your arguments: „Das Problem besteht darin, dass …“ – „Ich gehe davon aus, dass …“ – „Es kommt darauf an, ob …“ – „Ich halte es für sinnvoll, …“. In a formal e-mail: „Ich möchte Sie darauf hinweisen, dass …“ – „Ich bestehe darauf, dass …“.",
+      "mdDe": "**In der Prüfung**\n\n- In **Sprachbausteine Teil 1** steht oft eine Lücke direkt vor „dass“, „ob“ oder einem Infinitivsatz. Frag dich: Welche Präposition braucht das Verb? Wähle dann das passende da-Wort – „darauf / darüber / davon“. Typische Fallen: ein da-Wort mit der falschen Präposition („sich freuen darauf“ oder „darüber“) und es oder da-Wort („Ich halte es für wichtig“, nicht „dafür“).\n- **Sprachbausteine Teil 2:** Oft fehlt das da-Wort in festen Wendungen wie „Es kommt **darauf** an“, „Es liegt **daran**, dass …“, „Das führt **dazu**, dass …“.\n- **Schreiben** und **Sprechen Teil 2:** Mit Korrelaten strukturierst du deine Argumente: „Das Problem besteht darin, dass …“ – „Ich gehe davon aus, dass …“ – „Es kommt darauf an, ob …“ – „Ich halte es für sinnvoll, …“. In einer formellen E-Mail: „Ich möchte Sie darauf hinweisen, dass …“ – „Ich bestehe darauf, dass …“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **Obligatory correlates:** after abhängen von, ankommen auf, bestehen auf / in, liegen an, ausgehen von the da-word must be there: „Es hängt **davon** ab, ob …“ – not „Es hängt ab, ob …“.\n- **Clause first, no es:** if the dass-clause stands in position 1, es disappears: „Dass du kommst, freut mich.“ – not „…, freut es mich.“\n- **Not with every verb:** no es after sagen, glauben, meinen, hoffen, wissen: „Ich glaube, dass …“.",
+      "mdDe": "**Typische Fallen:**\n\n- **Obligatorische Korrelate:** Nach abhängen von, ankommen auf, bestehen auf / in, liegen an, ausgehen von muss das da-Wort stehen: „Es hängt **davon** ab, ob …“ – nicht „Es hängt ab, ob …“.\n- **Satz vorne, kein es:** Steht der dass-Satz auf Position 1, fällt es weg: „Dass du kommst, freut mich.“ – nicht „…, freut es mich.“\n- **Nicht bei jedem Verb:** Kein es nach sagen, glauben, meinen, hoffen, wissen: „Ich glaube, dass …“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Es hängt ab, ob wir genug Geld haben.",
+      "right": "Es hängt davon ab, ob wir genug Geld haben.",
+      "why": "„abhängen von“ needs the correlate „davon“ before an ob- or dass-clause – without it the sentence is incomplete.",
+      "whyDe": "„abhängen von“ braucht vor einem ob- oder dass-Satz das Korrelat „davon“ – ohne Korrelat ist der Satz unvollständig."
+    },
+    {
+      "wrong": "Ich interessiere mich für, wie man eine Firma gründet.",
+      "right": "Ich interessiere mich dafür, wie man eine Firma gründet.",
+      "why": "A preposition cannot introduce a clause. It becomes the da-word „dafür“ in the main clause.",
+      "whyDe": "Eine Präposition kann keinen Nebensatz einleiten. Sie wird im Hauptsatz zum da-Wort „dafür“."
+    },
+    {
+      "wrong": "Wir haben uns sehr darauf gefreut, dass ihr uns gestern besucht habt.",
+      "right": "Wir haben uns sehr darüber gefreut, dass ihr uns gestern besucht habt.",
+      "why": "The visit has already taken place → „sich freuen über“ → „darüber“. „darauf“ is for something still to come.",
+      "whyDe": "Der Besuch hat schon stattgefunden → „sich freuen über“ → „darüber“. „darauf“ benutzt du für etwas, das noch kommt."
+    },
+    {
+      "wrong": "Ich finde gut, dass die Stadt mehr Radwege baut.",
+      "right": "Ich finde es gut, dass die Stadt mehr Radwege baut.",
+      "why": "„finden“ + adjective needs „es“ as its object when the dass-clause follows.",
+      "whyDe": "„finden“ + Adjektiv braucht „es“ als Objekt, wenn der dass-Satz danach kommt."
+    },
+    {
+      "wrong": "Viele Experten meinen es, dass die Preise bald sinken.",
+      "right": "Viele Experten meinen, dass die Preise bald sinken.",
+      "why": "Verbs of saying and thinking (meinen, glauben, hoffen, sagen) are followed directly by the dass-clause – no „es“.",
+      "whyDe": "Nach Verben des Sagens und Denkens (meinen, glauben, hoffen, sagen) folgt der dass-Satz direkt – ohne „es“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ob das Projekt gelingt, hängt vor allem ___ ab, wie gut das Team zusammenarbeitet.",
+      "options": ["davon", "darauf", "dafür"],
+      "answer": 0,
+      "explanation": "„abhängen von“ → „davon“. „darauf“ belongs to „ankommen auf“ („Es kommt darauf an, …“) – similar meaning, but a different verb.",
+      "explanationDe": "„abhängen von“ → „davon“. „darauf“ gehört zu „ankommen auf“ („Es kommt darauf an, …“) – ähnliche Bedeutung, aber ein anderes Verb."
+    },
+    {
+      "type": "mc",
+      "prompt": "Dass die Mitgliederzahlen sinken, liegt vor allem ___, dass der Verein kaum Angebote für Jugendliche hat.",
+      "options": ["daran", "darin", "davon"],
+      "answer": 0,
+      "explanation": "„liegen an“ names a cause: „Es liegt daran, dass …“. „darin“ belongs to „bestehen in“ (what something consists of), „davon“ to „abhängen von“.",
+      "explanationDe": "„liegen an“ nennt eine Ursache: „Es liegt daran, dass …“. „darin“ gehört zu „bestehen in“ (woraus etwas besteht), „davon“ zu „abhängen von“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die größte Schwierigkeit besteht ___, genügend Fachkräfte für die neue Filiale zu finden.",
+      "options": ["darin", "darauf", "daran"],
+      "answer": 0,
+      "explanation": "„bestehen in“ = to consist in → „darin“. „bestehen auf“ („darauf“) means to insist on – a difficulty cannot insist on anything.",
+      "explanationDe": "„bestehen in“ = ausmachen, der Kern von etwas sein → „darin“. „bestehen auf“ („darauf“) bedeutet „etwas fordern“ – eine Schwierigkeit kann nichts fordern."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Eltern halten ___ für wichtig, dass ihre Kinder früh eine zweite Sprache lernen.",
+      "options": ["es", "dafür", "darauf"],
+      "answer": 0,
+      "explanation": "„etwas für wichtig halten“: the dass-clause is the accusative object, announced by „es“. „für“ belongs to „für wichtig“, so „dafür“ is a trap.",
+      "explanationDe": "„etwas für wichtig halten“: Der dass-Satz ist das Akkusativobjekt und wird mit „es“ angekündigt. „für“ gehört zu „für wichtig“ – „dafür“ ist deshalb eine Falle."
+    },
+    {
+      "type": "mc",
+      "prompt": "Dass die Miete schon wieder steigt, ärgert ___ sehr.",
+      "options": ["mich", "es mich", "mich darüber"],
+      "answer": 0,
+      "explanation": "The dass-clause stands in position 1 and is itself the subject, so the correlate „es“ disappears. „darüber“ belongs to the reflexive „sich ärgern über“, not to „ärgern“ with a subject clause.",
+      "explanationDe": "Der dass-Satz steht auf Position 1 und ist selbst das Subjekt, deshalb fällt das Korrelat „es“ weg. „darüber“ gehört zum reflexiven „sich ärgern über“, nicht zu „ärgern“ mit einem Subjektsatz."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich ___, dass die Lieferung morgen pünktlich ankommt.",
+      "options": ["hoffe", "hoffe es", "hoffe darüber"],
+      "answer": 0,
+      "explanation": "„hoffen“ is a verb of thinking: the dass-clause follows directly, without „es“. „hoffen über“ does not exist (it would be „hoffen auf“).",
+      "explanationDe": "„hoffen“ ist ein Verb des Denkens: Der dass-Satz folgt direkt, ohne „es“. „hoffen über“ gibt es nicht (es heißt „hoffen auf“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bitte achten Sie ___, dass alle Fenster geschlossen sind, bevor Sie das Büro verlassen.",
+      "answers": ["darauf"],
+      "explanation": "„achten auf“ → „darauf“. The correlate is obligatory here: „achten“ alone means „to respect“.",
+      "explanationDe": "„achten auf“ → „darauf“. Das Korrelat ist hier Pflicht: „achten“ allein bedeutet „respektieren“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der neue Radweg hat ___ beigetragen, dass deutlich weniger Autos in der Innenstadt unterwegs sind.",
+      "answers": ["dazu"],
+      "explanation": "„beitragen zu“ → „dazu“, placed before the participle „beigetragen“. Without „dazu“ the sentence is incomplete.",
+      "explanationDe": "„beitragen zu“ → „dazu“, vor dem Partizip „beigetragen“. Ohne „dazu“ ist der Satz unvollständig."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir gehen ___ aus, dass die Energiepreise im nächsten Jahr weiter steigen.",
+      "answers": ["davon"],
+      "explanation": "„ausgehen von“ (to assume) → „davon … aus“. Without the correlate „ausgehen“ means „to go out“.",
+      "explanationDe": "„ausgehen von“ (= annehmen) → „davon … aus“. Ohne Korrelat bedeutet „ausgehen“ „abends weggehen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe mich noch immer nicht ___ gewöhnt, im Großraumbüro zu arbeiten.",
+      "answers": ["daran"],
+      "explanation": "„sich gewöhnen an“ → „daran“; it points forward to the infinitive clause „im Großraumbüro zu arbeiten“.",
+      "explanationDe": "„sich gewöhnen an“ → „daran“; es verweist auf den Infinitivsatz „im Großraumbüro zu arbeiten“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with a correlate and a dass-clause.",
+      "instructionDe": "Verbinde die Sätze mit einem Korrelat und einem dass-Satz.",
+      "prompt": "Ich habe mich beim Vermieter beschwert. Die Heizung funktioniert seit Tagen nicht.",
+      "answers": [
+        "Ich habe mich beim Vermieter darüber beschwert, dass die Heizung seit Tagen nicht funktioniert.",
+        "Ich habe mich darüber beim Vermieter beschwert, dass die Heizung seit Tagen nicht funktioniert."
+      ],
+      "explanation": "„sich beschweren über“ → „darüber“ in the main clause, before the participle; the dass-clause ends with the verb „funktioniert“.",
+      "explanationDe": "„sich beschweren über“ → „darüber“ im Hauptsatz, vor dem Partizip; der dass-Satz endet mit dem Verb „funktioniert“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the noun phrase with a correlate and an infinitive clause.",
+      "instructionDe": "Ersetze die Nominalgruppe durch ein Korrelat und einen Infinitivsatz.",
+      "prompt": "Wir haben uns auf eine Verschiebung des Termins geeinigt.",
+      "answers": ["Wir haben uns darauf geeinigt, den Termin zu verschieben."],
+      "explanation": "„sich einigen auf“ → „darauf“; the noun „Verschiebung des Termins“ becomes the infinitive clause „den Termin zu verschieben“.",
+      "explanationDe": "„sich einigen auf“ → „darauf“; aus dem Nomen „Verschiebung des Termins“ wird der Infinitivsatz „den Termin zu verschieben“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Put the dass-clause at the beginning.",
+      "instructionDe": "Stell den dass-Satz an den Anfang.",
+      "prompt": "Es überrascht mich, dass so wenige Leute zur Versammlung gekommen sind.",
+      "answers": ["Dass so wenige Leute zur Versammlung gekommen sind, überrascht mich."],
+      "explanation": "When the dass-clause takes position 1, the correlate „es“ disappears and the main clause continues with the verb: „…, überrascht mich.“",
+      "explanationDe": "Wenn der dass-Satz auf Position 1 steht, fällt das Korrelat „es“ weg, und der Hauptsatz geht mit dem Verb weiter: „…, überrascht mich.“"
+    },
+    {
+      "type": "order",
+      "words": ["ob", "Es", "bekommen.", "davon", "rechtzeitig", "ab,", "Genehmigung", "hängt", "wir", "eine"],
+      "answers": [
+        "Es hängt davon ab, ob wir rechtzeitig eine Genehmigung bekommen.",
+        "Es hängt davon ab, ob wir eine Genehmigung rechtzeitig bekommen."
+      ],
+      "explanation": "Main clause: „Es hängt davon ab“ – the correlate „davon“ comes before the prefix „ab“. Then the ob-clause with the verb „bekommen“ at the end.",
+      "explanationDe": "Hauptsatz: „Es hängt davon ab“ – das Korrelat „davon“ steht vor dem Präfix „ab“. Danach kommt der ob-Satz mit dem Verb „bekommen“ am Ende."
+    }
+  ],
+  "related": ["verben-mit-praepositionen", "nebensaetze-grundlagen", "indirekte-fragen", "infinitiv-mit-zu", "das-wort-es", "infinitivsaetze-b2", "verben-mit-praepositionen-b2", "adjektive-mit-praepositionen-b2"]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "nominalisierung",
+  "level": "B2",
+  "category": "nomen",
+  "order": 20,
+  "title": "Nominalstil: Nominalisierung und Verbalisierung",
+  "titleEn": "Nominal style: turning clauses into nouns and back",
+  "summary": "Formal German packs whole clauses into noun phrases: „weil die Mieten steigen“ becomes „wegen des Anstiegs der Mieten“. Learn how verbs become nouns, which preposition replaces which connector, how subject and object turn into genitive attributes – and how to unpack the dense sentences of Lesen Teil 2.",
+  "summaryDe": "Formelles Deutsch packt ganze Sätze in Nominalgruppen: Aus „weil die Mieten steigen“ wird „wegen des Anstiegs der Mieten“. Hier lernst du, wie aus Verben Nomen werden, welche Präposition welchen Konnektor ersetzt, wie Subjekt und Objekt zu Genitivattributen werden – und wie du die dichten Sätze in Lesen Teil 2 auspackst.",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**Nominalstil** packs the content of a whole clause into a noun phrase: „**weil** die Mieten stark **steigen**“ → „**wegen des starken Anstiegs** der Mieten“. Four things change at once: the **verb becomes a noun** (steigen → der Anstieg), the **connector becomes a preposition** (weil → wegen), the **subject or object becomes a genitive attribute** (die Mieten → der Mieten) and the **adverb becomes an adjective** (stark → des starken …). **Verbalisierung** is the same road backwards – and the key to understanding dense articles.",
+      "mdDe": "Der **Nominalstil** packt den Inhalt eines ganzen Satzes in eine Nominalgruppe: „**weil** die Mieten stark **steigen**“ → „**wegen des starken Anstiegs** der Mieten“. Dabei ändern sich vier Dinge gleichzeitig: Das **Verb wird zum Nomen** (steigen → der Anstieg), der **Konnektor wird zur Präposition** (weil → wegen), das **Subjekt oder Objekt wird zum Genitivattribut** (die Mieten → der Mieten), und aus dem **Adverb wird ein Adjektiv** (stark → des starken …). Die **Verbalisierung** ist derselbe Weg rückwärts – und der Schlüssel zum Verstehen dichter Zeitungsartikel."
+    },
+    {
+      "type": "text",
+      "heading": "Verb → noun: three ways",
+      "headingDe": "Vom Verb zum Nomen: drei Wege",
+      "md": "**1. -ung** (always *die*) is the most frequent pattern, especially for verbs with a prefix: verbessern → **die Verbesserung**, berücksichtigen → **die Berücksichtigung**, entwickeln → **die Entwicklung**. Verbs in -ieren take **-ierung** or **-ation**: finanzieren → **die Finanzierung**, organisieren → **die Organisation**.\n\n**2. The infinitive as a noun** (always *das*, capitalised) works with every verb and names the **activity** itself: rauchen → **das Rauchen**, Energie sparen → **das Energiesparen**. It is typical after *beim* (= while …) and *zum* (= for …): „**Beim Aufräumen** hat er alte Fotos gefunden.“ / „Für **das Ausfüllen** des Formulars braucht man zehn Minuten.“\n\n**3. Other derivations** – often the bare stem, sometimes with a vowel change. You have to learn them, but they are everywhere in articles:\n\n- masculine stem nouns: ansteigen → **der Anstieg**, zurückgehen → **der Rückgang**, verzichten → **der Verzicht**, abschließen → **der Abschluss**, verlieren → **der Verlust**\n- feminine nouns: abfahren → **die Abfahrt**, ankommen → **die Ankunft**, teilnehmen → **die Teilnahme**, zunehmen → **die Zunahme**, suchen → **die Suche**\n- from adjectives: hoch → **die Höhe**, nah → **die Nähe**, sicher → **die Sicherheit**, möglich → **die Möglichkeit**\n\nWhen such a special noun exists, use it: „**die Ankunft** des Zuges“ sounds natural, „das Ankommen des Zuges“ does not.",
+      "mdDe": "**1. -ung** (immer *die*) ist das häufigste Muster, besonders bei Verben mit Präfix: verbessern → **die Verbesserung**, berücksichtigen → **die Berücksichtigung**, entwickeln → **die Entwicklung**. Verben auf -ieren bilden **-ierung** oder **-ation**: finanzieren → **die Finanzierung**, organisieren → **die Organisation**.\n\n**2. Der Infinitiv als Nomen** (immer *das*, großgeschrieben) funktioniert mit jedem Verb und nennt die **Tätigkeit** selbst: rauchen → **das Rauchen**, Energie sparen → **das Energiesparen**. Typisch ist er nach *beim* (= während man …) und *zum* (= für …): „**Beim Aufräumen** hat er alte Fotos gefunden.“ / „Für **das Ausfüllen** des Formulars braucht man zehn Minuten.“\n\n**3. Andere Ableitungen** – oft der reine Stamm, manchmal mit Vokalwechsel. Du musst sie lernen, aber sie stehen in jedem Zeitungsartikel:\n\n- maskuline Nomen aus dem Stamm: ansteigen → **der Anstieg**, zurückgehen → **der Rückgang**, verzichten → **der Verzicht**, abschließen → **der Abschluss**, verlieren → **der Verlust**\n- feminine Nomen: abfahren → **die Abfahrt**, ankommen → **die Ankunft**, teilnehmen → **die Teilnahme**, zunehmen → **die Zunahme**, suchen → **die Suche**\n- aus Adjektiven: hoch → **die Höhe**, nah → **die Nähe**, sicher → **die Sicherheit**, möglich → **die Möglichkeit**\n\nWenn es so ein spezielles Nomen gibt, nimm es: „**die Ankunft** des Zuges“ klingt natürlich, „das Ankommen des Zuges“ nicht."
+    },
+    {
+      "type": "table",
+      "heading": "Frequent pairs in articles",
+      "headingDe": "Häufige Paare in Zeitungsartikeln",
+      "columns": ["Verbalstil", "Nominalstil", "Formation"],
+      "columnsDe": ["Verbalstil", "Nominalstil", "Bildung"],
+      "rows": [
+        ["die Preise steigen (an)", "der Anstieg der Preise", "stem, der"],
+        ["die Zahl der Gäste geht zurück", "der Rückgang der Gästezahl", "stem, der"],
+        ["man schließt den Vertrag ab", "der Abschluss des Vertrags", "stem + vowel change, der"],
+        ["auf das Auto verzichten", "der Verzicht auf das Auto", "stem, der – the preposition stays"],
+        ["an einem Kurs teilnehmen", "die Teilnahme an einem Kurs", "-nahme, die – the preposition stays"],
+        ["der Zug kommt an", "die Ankunft des Zuges", "-kunft, die"],
+        ["man versorgt die Patienten", "die Versorgung der Patienten", "-ung, die"],
+        ["die Stadt finanziert das Projekt", "die Finanzierung des Projekts durch die Stadt", "-ierung, die; the actor → durch"],
+        ["Auto fahren", "das Autofahren", "infinitive, das"],
+        ["die Kosten sind hoch", "die Höhe der Kosten", "adjective + -e, die"]
+      ],
+      "rowsDe": [
+        ["die Preise steigen (an)", "der Anstieg der Preise", "Stamm, der"],
+        ["die Zahl der Gäste geht zurück", "der Rückgang der Gästezahl", "Stamm, der"],
+        ["man schließt den Vertrag ab", "der Abschluss des Vertrags", "Stamm + Vokalwechsel, der"],
+        ["auf das Auto verzichten", "der Verzicht auf das Auto", "Stamm, der – die Präposition bleibt"],
+        ["an einem Kurs teilnehmen", "die Teilnahme an einem Kurs", "-nahme, die – die Präposition bleibt"],
+        ["der Zug kommt an", "die Ankunft des Zuges", "-kunft, die"],
+        ["man versorgt die Patienten", "die Versorgung der Patienten", "-ung, die"],
+        ["die Stadt finanziert das Projekt", "die Finanzierung des Projekts durch die Stadt", "-ierung, die; der Handelnde → durch"],
+        ["Auto fahren", "das Autofahren", "Infinitiv, das"],
+        ["die Kosten sind hoch", "die Höhe der Kosten", "Adjektiv + -e, die"]
+      ],
+      "note": "Modal verbs become nouns too: können → die Möglichkeit, müssen → die Notwendigkeit / die Pflicht, wollen → die Absicht, dürfen → die Erlaubnis. „Man **kann** online buchen.“ → „Es besteht **die Möglichkeit** der Online-Buchung.“",
+      "noteDe": "Auch Modalverben werden zu Nomen: können → die Möglichkeit, müssen → die Notwendigkeit / die Pflicht, wollen → die Absicht, dürfen → die Erlaubnis. „Man **kann** online buchen.“ → „Es besteht **die Möglichkeit** der Online-Buchung.“"
+    },
+    {
+      "type": "text",
+      "heading": "Subject and object become attributes",
+      "headingDe": "Aus Subjekt und Objekt werden Attribute",
+      "md": "When the verb becomes a noun, its partners have to change too:\n\n- **Subject of an intransitive verb → genitive:** „Die Mieten **steigen**.“ → „der Anstieg **der Mieten**“\n- **Object of a transitive verb → genitive:** „Die Stadt **saniert die Schule**.“ → „die Sanierung **der Schule**“. To name the actor as well, add **durch** + accusative: „die Sanierung der Schule **durch die Stadt**“.\n- **Personal pronoun → possessive article:** „**Sie** ist pünktlich angekommen.“ → „**ihre** pünktliche Ankunft“; „Man hat **ihn** befördert.“ → „**seine** Beförderung“\n- **Adverb → adjective:** „Die Firma hat **schnell** reagiert.“ → „die **schnelle** Reaktion der Firma“\n- **Negation → Nicht- or a negative adjective:** „weil man die Frist **nicht eingehalten** hat“ → „wegen **Nichteinhaltung** der Frist“; „weil er **keine** Erfahrung hat“ → „wegen **fehlender** Erfahrung“\n- **No article → von + dative:** if the genitive would have neither article nor adjective, use *von*: „die Einfuhr **von** Obst“ (but: „die Einfuhr **frischen Obstes**“).",
+      "mdDe": "Wenn das Verb zum Nomen wird, müssen sich auch seine Partner ändern:\n\n- **Subjekt eines intransitiven Verbs → Genitiv:** „Die Mieten **steigen**.“ → „der Anstieg **der Mieten**“\n- **Objekt eines transitiven Verbs → Genitiv:** „Die Stadt **saniert die Schule**.“ → „die Sanierung **der Schule**“. Wenn du auch den Handelnden nennen willst, nimm **durch** + Akkusativ: „die Sanierung der Schule **durch die Stadt**“.\n- **Personalpronomen → Possessivartikel:** „**Sie** ist pünktlich angekommen.“ → „**ihre** pünktliche Ankunft“; „Man hat **ihn** befördert.“ → „**seine** Beförderung“\n- **Adverb → Adjektiv:** „Die Firma hat **schnell** reagiert.“ → „die **schnelle** Reaktion der Firma“\n- **Negation → Nicht- oder ein verneinendes Adjektiv:** „weil man die Frist **nicht eingehalten** hat“ → „wegen **Nichteinhaltung** der Frist“; „weil er **keine** Erfahrung hat“ → „wegen **fehlender** Erfahrung“\n- **Kein Artikel → von + Dativ:** Wenn der Genitiv weder Artikel noch Adjektiv hätte, nimmst du *von*: „die Einfuhr **von** Obst“ (aber: „die Einfuhr **frischen Obstes**“)."
+    },
+    {
+      "type": "table",
+      "heading": "Connector → preposition",
+      "headingDe": "Vom Konnektor zur Präposition",
+      "columns": ["Connector (clause)", "Preposition (noun)", "Verbalstil", "Nominalstil"],
+      "columnsDe": ["Konnektor (Satz)", "Präposition (Nomen)", "Verbalstil", "Nominalstil"],
+      "rows": [
+        ["weil / da", "wegen / aufgrund + Gen.", "Weil die Nachfrage gering war, wurde der Kurs abgesagt.", "Wegen der geringen Nachfrage wurde der Kurs abgesagt."],
+        ["obwohl", "trotz + Gen.", "Obwohl es stark regnete, fand das Konzert statt.", "Trotz des starken Regens fand das Konzert statt."],
+        ["wenn / falls", "bei + Dat.", "Wenn es Probleme gibt, wenden Sie sich an die Rezeption.", "Bei Problemen wenden Sie sich an die Rezeption."],
+        ["nachdem", "nach + Dat.", "Nachdem sie ihr Studium abgeschlossen hatte, zog sie nach Graz.", "Nach dem Abschluss ihres Studiums zog sie nach Graz."],
+        ["bevor", "vor + Dat.", "Bevor Sie das Gerät benutzen, lesen Sie bitte die Anleitung.", "Vor der Benutzung des Geräts lesen Sie bitte die Anleitung."],
+        ["während", "während + Gen.", "Während das Gebäude renoviert wird, bleibt die Kantine geschlossen.", "Während der Renovierung des Gebäudes bleibt die Kantine geschlossen."],
+        ["um … zu / damit", "zum / zur + Dat.", "Um die Kosten zu senken, verzichtet die Firma auf Dienstreisen.", "Zur Senkung der Kosten verzichtet die Firma auf Dienstreisen."],
+        ["indem", "durch + Akk.", "Indem man Lebensmittel richtig lagert, vermeidet man Abfall.", "Durch die richtige Lagerung von Lebensmitteln vermeidet man Abfall."],
+        ["seit(dem)", "seit + Dat.", "Seit die Brücke gesperrt ist, staut sich der Verkehr.", "Seit der Sperrung der Brücke staut sich der Verkehr."],
+        ["bis", "bis zu + Dat.", "Bis die Ergebnisse vorliegen, dauert es zwei Wochen.", "Bis zum Vorliegen der Ergebnisse dauert es zwei Wochen."]
+      ],
+      "note": "In speech you often hear „wegen dem Regen“ – in writing use the genitive: „wegen des Regens“. For a positive cause, **dank** is common: „**dank** der Unterstützung der Nachbarn“. **während** is both a conjunction and a preposition – check what follows: a clause with the verb at the end or a noun in the genitive.",
+      "noteDe": "Mündlich hörst du oft „wegen dem Regen“ – schriftlich nimmst du den Genitiv: „wegen des Regens“. Für einen positiven Grund ist **dank** üblich: „**dank** der Unterstützung der Nachbarn“. **während** ist Konjunktion und Präposition zugleich – prüfe, was folgt: ein Satz mit dem Verb am Ende oder ein Nomen im Genitiv."
+    },
+    {
+      "type": "text",
+      "heading": "Unpacking dense sentences (Lesen Teil 2)",
+      "headingDe": "Dichte Sätze auspacken (Lesen Teil 2)",
+      "md": "Why do the articles in **Lesen Teil 2** sound so dense? Nominalstil saves space and sounds objective: one noun phrase holds a whole clause, and the person who acts often disappears. A typical sentence:\n\n„**Nach der Veröffentlichung** der Studie **durch das Institut** kam es zu einer heftigen Debatte **über die Einführung** einer Gebühr **für die Nutzung** öffentlicher Ladestationen.“\n\nUnpack it in four steps:\n\n1. **Find the nouns that hide a verb** (-ung, -nahme, stem nouns, nominalised infinitives): Veröffentlichung, Debatte, Einführung, Nutzung.\n2. **Turn them back into verbs and ask: who does what?** The genitive is usually the object, *durch* + noun the actor: *das Institut veröffentlicht die Studie*.\n3. **Turn the preposition into a connector:** *nach* → *nachdem*.\n4. **Replace empty verbs.** „es kam zu einer Debatte“ = *man debattierte*. Other verbs with almost no meaning of their own: „**erfolgen**“ (Die Auszahlung **erfolgt** im März. = Das Geld wird im März ausgezahlt.), „**stattfinden**“, „**vornehmen**“ (eine Prüfung vornehmen = prüfen).\n\nResult: „**Nachdem** das Institut die Studie **veröffentlicht hatte**, **debattierte** man heftig **darüber, ob** eine Gebühr **eingeführt werden soll**, **wenn** man öffentliche Ladestationen **nutzt**.“ Longer – but now you can check the options against it.",
+      "mdDe": "Warum klingen die Artikel in **Lesen Teil 2** so dicht? Der Nominalstil spart Platz und klingt sachlich: Eine Nominalgruppe enthält einen ganzen Satz, und die handelnde Person verschwindet oft. Ein typischer Satz:\n\n„**Nach der Veröffentlichung** der Studie **durch das Institut** kam es zu einer heftigen Debatte **über die Einführung** einer Gebühr **für die Nutzung** öffentlicher Ladestationen.“\n\nPack ihn in vier Schritten aus:\n\n1. **Finde die Nomen, in denen ein Verb steckt** (-ung, -nahme, Nomen aus dem Stamm, nominalisierte Infinitive): Veröffentlichung, Debatte, Einführung, Nutzung.\n2. **Mach daraus wieder Verben und frag: Wer tut was?** Der Genitiv ist meistens das Objekt, *durch* + Nomen der Handelnde: *das Institut veröffentlicht die Studie*.\n3. **Mach aus der Präposition einen Konnektor:** *nach* → *nachdem*.\n4. **Ersetze leere Verben.** „es kam zu einer Debatte“ = *man debattierte*. Weitere Verben fast ohne eigene Bedeutung: „**erfolgen**“ (Die Auszahlung **erfolgt** im März. = Das Geld wird im März ausgezahlt.), „**stattfinden**“, „**vornehmen**“ (eine Prüfung vornehmen = prüfen).\n\nErgebnis: „**Nachdem** das Institut die Studie **veröffentlicht hatte**, **debattierte** man heftig **darüber, ob** eine Gebühr **eingeführt werden soll**, **wenn** man öffentliche Ladestationen **nutzt**.“ Länger – aber jetzt kannst du die Antworten damit vergleichen."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Aufgrund der hohen Nachfrage** bietet die Volkshochschule im Herbst zwei zusätzliche Kurse an.", "en": "Because demand is high, the adult education centre is offering two additional courses in autumn." },
+        { "de": "**Trotz der Erhöhung** der Ticketpreise ist die Zahl der Fahrgäste gestiegen.", "en": "Although ticket prices were raised, the number of passengers has gone up." },
+        { "de": "**Bei Verlust** der Karte wenden Sie sich bitte sofort an Ihre Bank.", "en": "If you lose the card, please contact your bank immediately." },
+        { "de": "**Nach Abschluss** der Bauarbeiten wird die Straße wieder für den Verkehr freigegeben.", "en": "Once the construction work is finished, the road will be reopened to traffic." },
+        { "de": "**Vor Beginn** der Prüfung müssen alle Handys ausgeschaltet werden.", "en": "Before the exam starts, all mobile phones must be switched off." },
+        { "de": "**Zur Verbesserung** der Luftqualität sollen in der Innenstadt 500 Bäume gepflanzt werden.", "en": "To improve air quality, 500 trees are to be planted in the city centre." },
+        { "de": "**Durch den Ausbau** des Radwegenetzes ist der Autoverkehr deutlich zurückgegangen.", "en": "Thanks to the expansion of the cycle path network, car traffic has fallen considerably." },
+        { "de": "**Während der Sanierung** des Hallenbads trainieren die Vereine in der Nachbargemeinde.", "en": "While the indoor pool is being renovated, the clubs train in the neighbouring town." },
+        { "de": "**Beim Ausfüllen** des Antrags hilft Ihnen gern unser Team.", "en": "Our team will be happy to help you fill in the application." },
+        { "de": "Die **Nichteinhaltung** der Frist führt zum **Verlust** des Anspruchs.", "en": "If you miss the deadline, you lose your entitlement." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:**\n\n- **Lesen Teil 2:** the text and the options say the same thing in different styles. The text writes „trotz steigender Kosten“, the right option says „obwohl es teurer wird“ – or the other way round. Unpack the noun phrases before you compare, and check *who* does *what* in genitive and *durch* phrases: a wrong actor is a classic distractor.\n- **Sprachbausteine:** look at what follows the gap. A noun phrase (often in the genitive) → preposition (*trotz, wegen, während, aufgrund*); a clause with the verb at the end → connector (*obwohl, weil, nachdem*).\n- **Schreiben:** a few nominal phrases make your e-mail sound precise: „**Aufgrund** der Verspätung …“, „**Nach** Rücksprache mit Ihrer Kollegin …“, „**Bei** Rückfragen …“. Two or three per letter are enough – long noun chains sound stiff and are easy to get wrong.\n- **Sprechen Teil 2:** when you summarise the article, *verbalise* it – spoken German prefers clauses: „Laut dem Artikel steigen die Mieten, **weil** …“.",
+      "mdDe": "**In der Prüfung:**\n\n- **Lesen Teil 2:** Text und Antworten sagen dasselbe in verschiedenen Stilen. Im Text steht „trotz steigender Kosten“, in der richtigen Antwort „obwohl es teurer wird“ – oder umgekehrt. Pack die Nominalgruppen aus, bevor du vergleichst, und prüfe bei Genitiv und *durch*, *wer* *was* tut: Ein falscher Handelnder ist eine typische Falle.\n- **Sprachbausteine:** Schau, was nach der Lücke kommt. Eine Nominalgruppe (oft im Genitiv) → Präposition (*trotz, wegen, während, aufgrund*); ein Satz mit dem Verb am Ende → Konnektor (*obwohl, weil, nachdem*).\n- **Schreiben:** Ein paar Nominalgruppen machen deine E-Mail präzise: „**Aufgrund** der Verspätung …“, „**Nach** Rücksprache mit Ihrer Kollegin …“, „**Bei** Rückfragen …“. Zwei oder drei pro Brief reichen – lange Nominalketten klingen steif, und man macht leicht Fehler.\n- **Sprechen Teil 2:** Wenn du den Artikel zusammenfasst, *verbalisiere* ihn – gesprochenes Deutsch mag Nebensätze: „Laut dem Artikel steigen die Mieten, **weil** …“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **Conjunction or preposition?** *bevor, nachdem, obwohl, weil, indem* need a clause; *vor, nach, trotz, wegen, durch* need a noun. „Bevor der Prüfung …“ and „Trotz es regnet …“ are wrong.\n- **Case after the preposition:** *wegen, trotz, während, aufgrund* + **genitive** (in writing), *bei, nach, vor, seit, zu* + **dative**, *durch* + **accusative**. „Während dem Umbau“ is colloquial – write „**während des Umbaus**“.\n- **um … zu becomes zu, not um:** „**Zur** Vorbereitung auf die Prüfung …“, not „Um die Vorbereitung …“. *zum* before masculine and neuter nouns and nominalised infinitives (zum Sparen), *zur* before feminine nouns (zur Senkung).\n- **Don't overload your own sentences.** Three genitives in a row („die Ergebnisse der Untersuchung der Qualität des Wassers“) are hard to read – use a clause or a compound instead („die Ergebnisse der Wasseruntersuchung“).",
+      "mdDe": "**Typische Fallen:**\n\n- **Konjunktion oder Präposition?** *bevor, nachdem, obwohl, weil, indem* brauchen einen Satz; *vor, nach, trotz, wegen, durch* brauchen ein Nomen. „Bevor der Prüfung …“ und „Trotz es regnet …“ sind falsch.\n- **Kasus nach der Präposition:** *wegen, trotz, während, aufgrund* + **Genitiv** (schriftlich), *bei, nach, vor, seit, zu* + **Dativ**, *durch* + **Akkusativ**. „Während dem Umbau“ ist umgangssprachlich – schreib „**während des Umbaus**“.\n- **Aus um … zu wird zu, nicht um:** „**Zur** Vorbereitung auf die Prüfung …“, nicht „Um die Vorbereitung …“. *zum* vor maskulinen und neutralen Nomen und vor nominalisierten Infinitiven (zum Sparen), *zur* vor femininen Nomen (zur Senkung).\n- **Überlade deine eigenen Sätze nicht.** Drei Genitive hintereinander („die Ergebnisse der Untersuchung der Qualität des Wassers“) sind schwer zu lesen – nimm lieber einen Nebensatz oder ein Kompositum („die Ergebnisse der Wasseruntersuchung“)."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Bevor der Abreise müssen alle Gäste ihre Zimmer räumen.",
+      "right": "Vor der Abreise müssen alle Gäste ihre Zimmer räumen.",
+      "why": "„bevor“ is a conjunction and needs a clause („Bevor sie abreisen, …“). Before a noun you need the preposition „vor“ + dative.",
+      "whyDe": "„bevor“ ist eine Konjunktion und braucht einen Nebensatz („Bevor sie abreisen, …“). Vor einem Nomen brauchst du die Präposition „vor“ + Dativ."
+    },
+    {
+      "wrong": "Trotz die Preise gestiegen sind, kaufen viele Kunden weiter im Bioladen ein.",
+      "right": "Trotz der gestiegenen Preise kaufen viele Kunden weiter im Bioladen ein.",
+      "why": "„trotz“ is a preposition + genitive and can't introduce a clause. Use the noun phrase („trotz der gestiegenen Preise“) or the conjunction („Obwohl die Preise gestiegen sind, …“).",
+      "whyDe": "„trotz“ ist eine Präposition + Genitiv und kann keinen Nebensatz einleiten. Nimm die Nominalgruppe („trotz der gestiegenen Preise“) oder die Konjunktion („Obwohl die Preise gestiegen sind, …“)."
+    },
+    {
+      "wrong": "Die Teilnehmung am Workshop ist kostenlos.",
+      "right": "Die Teilnahme am Workshop ist kostenlos.",
+      "why": "Verbs with „-nehmen“ form their noun with „-nahme“: teilnehmen → die Teilnahme, zunehmen → die Zunahme, übernehmen → die Übernahme. There is no „-nehmung“.",
+      "whyDe": "Verben mit „-nehmen“ bilden ihr Nomen mit „-nahme“: teilnehmen → die Teilnahme, zunehmen → die Zunahme, übernehmen → die Übernahme. Ein Nomen auf „-nehmung“ gibt es hier nicht."
+    },
+    {
+      "wrong": "Um die Vorbereitung auf die Prüfung hat sie einen Intensivkurs besucht.",
+      "right": "Zur Vorbereitung auf die Prüfung hat sie einen Intensivkurs besucht.",
+      "why": "In Nominalstil, „um … zu“ becomes „zu“ + dative („zum“ / „zur“). „um“ + noun has a different meaning (around, at a time).",
+      "whyDe": "Im Nominalstil wird aus „um … zu“ die Präposition „zu“ + Dativ („zum“ / „zur“). „um“ + Nomen hat eine andere Bedeutung (rund um, Uhrzeit)."
+    },
+    {
+      "wrong": "Die Erhöhung von den Beiträgen wurde gestern beschlossen.",
+      "right": "Die Erhöhung der Beiträge wurde gestern beschlossen.",
+      "why": "The object of the old verb („die Beiträge erhöhen“) becomes a genitive attribute. „von“ + dative is only standard when there is no article: „die Erhöhung von Beiträgen“.",
+      "whyDe": "Das Objekt des alten Verbs („die Beiträge erhöhen“) wird zum Genitivattribut. „von“ + Dativ ist nur ohne Artikel standardsprachlich: „die Erhöhung von Beiträgen“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "___ der hohen Nachfrage hat der Verlag eine zweite Auflage des Buches drucken lassen.",
+      "options": ["Aufgrund", "Weil", "Trotz"],
+      "answer": 0,
+      "explanation": "A genitive noun phrase follows („der hohen Nachfrage“), so you need a preposition – and the demand is the reason: „Aufgrund“. „Weil“ needs a clause with the verb at the end; „Trotz“ is a preposition too, but it would mean the opposite.",
+      "explanationDe": "Danach kommt eine Nominalgruppe im Genitiv („der hohen Nachfrage“), also brauchst du eine Präposition – und die Nachfrage ist der Grund: „Aufgrund“. „Weil“ braucht einen Nebensatz mit dem Verb am Ende; „Trotz“ ist zwar auch eine Präposition, würde aber das Gegenteil bedeuten."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ der Bauarbeiten am Hauptbahnhof halten die Fernzüge nur am Südbahnhof.",
+      "options": ["Während", "Solange", "Nachdem"],
+      "answer": 0,
+      "explanation": "„der Bauarbeiten“ is a genitive noun phrase without a verb, so only the preposition „Während“ fits. „Solange“ and „Nachdem“ are conjunctions and need a clause („Solange gebaut wird, …“).",
+      "explanationDe": "„der Bauarbeiten“ ist eine Nominalgruppe im Genitiv ohne Verb, deshalb passt nur die Präposition „Während“. „Solange“ und „Nachdem“ sind Konjunktionen und brauchen einen Nebensatz („Solange gebaut wird, …“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die ___ des Familienbetriebs durch einen Investor aus Hamburg sorgte in der Region für Unruhe.",
+      "options": ["Übernahme", "Übernehmung", "Übernehmen"],
+      "answer": 0,
+      "explanation": "Verbs with „-nehmen“ form their noun with „-nahme“: übernehmen → „die Übernahme“ (like Teilnahme, Zunahme). „Übernehmung“ does not exist, and „das Übernehmen“ doesn't fit the article „Die“.",
+      "explanationDe": "Verben mit „-nehmen“ bilden ihr Nomen mit „-nahme“: übernehmen → „die Übernahme“ (wie Teilnahme, Zunahme). „Übernehmung“ gibt es nicht, und „das Übernehmen“ passt nicht zum Artikel „Die“."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ den Einsatz einer neuen Software konnte das Bürgeramt die Bearbeitungszeit halbieren.",
+      "options": ["Durch", "Indem", "Dadurch"],
+      "answer": 0,
+      "explanation": "„den Einsatz“ is a noun in the accusative, so you need the preposition „Durch“ – the nominal form of „indem“. „Indem“ needs a clause („Indem das Amt eine neue Software einsetzte, …“), and „Dadurch“ is an adverb.",
+      "explanationDe": "„den Einsatz“ ist ein Nomen im Akkusativ, also brauchst du die Präposition „Durch“ – die nominale Form von „indem“. „Indem“ braucht einen Nebensatz („Indem das Amt eine neue Software einsetzte, …“), und „Dadurch“ ist ein Adverb."
+    },
+    {
+      "type": "mc",
+      "prompt": "„Trotz der Verlängerung der Öffnungszeiten ging die Zahl der Besucher zurück.“ – Das heißt: ___ die Öffnungszeiten verlängert worden waren, kamen weniger Besucher.",
+      "options": ["Obwohl", "Weil", "Indem"],
+      "answer": 0,
+      "explanation": "„trotz“ + noun corresponds to „obwohl“ + clause: the longer opening hours did not bring more visitors. „Weil“ would make the longer hours the reason for the drop, and „Indem“ names a method.",
+      "explanationDe": "„trotz“ + Nomen entspricht „obwohl“ + Nebensatz: Die längeren Öffnungszeiten haben nicht mehr Besucher gebracht. Mit „Weil“ wären die längeren Öffnungszeiten der Grund für den Rückgang, und „Indem“ nennt eine Methode."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Stadtbibliothek bleibt ___ eines Wasserschadens bis Ende März geschlossen.",
+      "hint": "(cause, + genitive)",
+      "hintDe": "(Grund, + Genitiv)",
+      "answers": ["wegen", "aufgrund", "auf Grund", "infolge"],
+      "explanation": "The water damage is the reason, and a genitive noun phrase follows, so you need „wegen“ or the more formal „aufgrund“ / „infolge“. „weil“ would need a clause: „…, weil es einen Wasserschaden gab“.",
+      "explanationDe": "Der Wasserschaden ist der Grund, und danach kommt eine Nominalgruppe im Genitiv, also brauchst du „wegen“ oder das formellere „aufgrund“ / „infolge“. „weil“ bräuchte einen Nebensatz: „…, weil es einen Wasserschaden gab“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bei ___ des Feueralarms verlassen Sie das Gebäude bitte über das Treppenhaus.",
+      "hint": "(ertönen)",
+      "answers": ["Ertönen"],
+      "explanation": "„wenn der Feueralarm ertönt“ becomes „bei Ertönen des Feueralarms“: the nominalised infinitive „das Ertönen“ is capitalised, and the former subject becomes a genitive.",
+      "explanationDe": "Aus „wenn der Feueralarm ertönt“ wird „bei Ertönen des Feueralarms“: Der nominalisierte Infinitiv „das Ertönen“ wird großgeschrieben, und das frühere Subjekt steht im Genitiv."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der starke ___ der Mieten trifft vor allem junge Familien.",
+      "hint": "(ansteigen)",
+      "answers": ["Anstieg"],
+      "explanation": "„ansteigen“ forms the masculine stem noun „der Anstieg“ – no -ung. The former subject „die Mieten“ becomes the genitive „der Mieten“.",
+      "explanationDe": "„ansteigen“ bildet das maskuline Nomen „der Anstieg“ aus dem Stamm – ohne -ung. Das frühere Subjekt „die Mieten“ wird zum Genitiv „der Mieten“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Kurz vor der ___ des Zuges bemerkte Frau Yilmaz, dass ihr Koffer noch auf dem Bahnsteig stand.",
+      "hint": "(abfahren)",
+      "answers": ["Abfahrt"],
+      "explanation": "„abfahren“ → „die Abfahrt“ (feminine, ending -t). „vor“ + dative replaces „bevor“: „kurz bevor der Zug abfuhr“.",
+      "explanationDe": "„abfahren“ → „die Abfahrt“ (feminin, Endung -t). „vor“ + Dativ ersetzt „bevor“: „kurz bevor der Zug abfuhr“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in Nominalstil with „trotz“.",
+      "instructionDe": "Schreib den Satz im Nominalstil mit „trotz“ um.",
+      "prompt": "Obwohl die Verhandlungen lange gedauert hatten, kam keine Einigung zustande.",
+      "answers": [
+        "Trotz der langen Verhandlungen kam keine Einigung zustande.",
+        "Trotz langer Verhandlungen kam keine Einigung zustande.",
+        "Trotz der langen Dauer der Verhandlungen kam keine Einigung zustande.",
+        "Trotz der langwierigen Verhandlungen kam keine Einigung zustande.",
+        "Trotz langwieriger Verhandlungen kam keine Einigung zustande."
+      ],
+      "explanation": "„obwohl“ becomes „trotz“ + genitive, and „lange dauern“ is expressed by the adjective: „trotz der langen Verhandlungen“. After the prepositional phrase in position 1, the verb „kam“ follows directly.",
+      "explanationDe": "Aus „obwohl“ wird „trotz“ + Genitiv, und „lange dauern“ drückst du mit dem Adjektiv aus: „trotz der langen Verhandlungen“. Nach der Präpositionalgruppe auf Position 1 folgt direkt das Verb „kam“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in Nominalstil with „nach“.",
+      "instructionDe": "Schreib den Satz im Nominalstil mit „nach“ um.",
+      "prompt": "Nachdem der Vertrag unterzeichnet worden war, begannen die Bauarbeiten.",
+      "answers": [
+        "Nach der Unterzeichnung des Vertrags begannen die Bauarbeiten.",
+        "Nach der Unterzeichnung des Vertrages begannen die Bauarbeiten.",
+        "Nach Unterzeichnung des Vertrags begannen die Bauarbeiten.",
+        "Nach Unterzeichnung des Vertrages begannen die Bauarbeiten.",
+        "Die Bauarbeiten begannen nach der Unterzeichnung des Vertrags.",
+        "Die Bauarbeiten begannen nach der Unterzeichnung des Vertrages.",
+        "Die Bauarbeiten begannen nach Unterzeichnung des Vertrags.",
+        "Die Bauarbeiten begannen nach Unterzeichnung des Vertrages."
+      ],
+      "explanation": "„unterzeichnen“ → „die Unterzeichnung“; the passive subject „der Vertrag“ becomes the genitive „des Vertrags“. „nach“ takes the dative: „nach der Unterzeichnung“.",
+      "explanationDe": "„unterzeichnen“ → „die Unterzeichnung“; das Subjekt des Passivsatzes „der Vertrag“ wird zum Genitiv „des Vertrags“. „nach“ steht mit Dativ: „nach der Unterzeichnung“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in Verbalstil with a wenn-clause.",
+      "instructionDe": "Schreib den Satz im Verbalstil mit einem wenn-Satz um.",
+      "prompt": "Bei Nichteinhaltung der Frist wird eine Mahngebühr fällig.",
+      "answers": [
+        "Wenn die Frist nicht eingehalten wird, wird eine Mahngebühr fällig.",
+        "Wenn man die Frist nicht einhält, wird eine Mahngebühr fällig.",
+        "Wenn Sie die Frist nicht einhalten, wird eine Mahngebühr fällig.",
+        "Falls die Frist nicht eingehalten wird, wird eine Mahngebühr fällig.",
+        "Falls man die Frist nicht einhält, wird eine Mahngebühr fällig.",
+        "Falls Sie die Frist nicht einhalten, wird eine Mahngebühr fällig.",
+        "Eine Mahngebühr wird fällig, wenn die Frist nicht eingehalten wird.",
+        "Eine Mahngebühr wird fällig, wenn man die Frist nicht einhält.",
+        "Eine Mahngebühr wird fällig, wenn Sie die Frist nicht einhalten."
+      ],
+      "explanation": "„bei“ + noun = „wenn“ + clause. „Nichteinhaltung“ hides a negated verb: „nicht einhalten“. As no person is named, use the passive („eingehalten wird“) or „man“.",
+      "explanationDe": "„bei“ + Nomen = „wenn“ + Nebensatz. In „Nichteinhaltung“ steckt ein verneintes Verb: „nicht einhalten“. Weil keine Person genannt wird, nimmst du das Passiv („eingehalten wird“) oder „man“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in Nominalstil with „zum“ or „zur“.",
+      "instructionDe": "Schreib den Satz im Nominalstil mit „zum“ oder „zur“ um.",
+      "prompt": "Um Energie zu sparen, schaltet die Gemeinde nachts jede zweite Straßenlaterne ab.",
+      "answers": [
+        "Zum Energiesparen schaltet die Gemeinde nachts jede zweite Straßenlaterne ab.",
+        "Zum Sparen von Energie schaltet die Gemeinde nachts jede zweite Straßenlaterne ab.",
+        "Zur Einsparung von Energie schaltet die Gemeinde nachts jede zweite Straßenlaterne ab.",
+        "Zur Energieeinsparung schaltet die Gemeinde nachts jede zweite Straßenlaterne ab.",
+        "Die Gemeinde schaltet zum Energiesparen nachts jede zweite Straßenlaterne ab.",
+        "Die Gemeinde schaltet nachts zum Energiesparen jede zweite Straßenlaterne ab.",
+        "Die Gemeinde schaltet zur Einsparung von Energie nachts jede zweite Straßenlaterne ab.",
+        "Die Gemeinde schaltet zur Energieeinsparung nachts jede zweite Straßenlaterne ab.",
+        "Die Gemeinde schaltet nachts zur Einsparung von Energie jede zweite Straßenlaterne ab.",
+        "Die Gemeinde schaltet nachts zur Energieeinsparung jede zweite Straßenlaterne ab.",
+        "Zum Energiesparen schaltet die Gemeinde jede zweite Straßenlaterne nachts ab."
+      ],
+      "explanation": "„um … zu“ becomes „zu“ + dative: „zum Energiesparen“ (nominalised infinitive, neuter) or „zur Einsparung von Energie“ (feminine -ung noun). Note „von Energie“: without an article you use „von“ instead of the genitive.",
+      "explanationDe": "Aus „um … zu“ wird „zu“ + Dativ: „zum Energiesparen“ (nominalisierter Infinitiv, neutral) oder „zur Einsparung von Energie“ (feminines Nomen auf -ung). Achte auf „von Energie“: Ohne Artikel nimmst du „von“ statt des Genitivs."
+    },
+    {
+      "type": "order",
+      "words": ["der", "Mai", "wiedereröffnet.", "Nach", "Museum", "wird", "Renovierung", "im", "Abschluss", "das"],
+      "answers": [
+        "Nach Abschluss der Renovierung wird das Museum im Mai wiedereröffnet.",
+        "Das Museum wird nach Abschluss der Renovierung im Mai wiedereröffnet.",
+        "Das Museum wird im Mai nach Abschluss der Renovierung wiedereröffnet.",
+        "Im Mai wird das Museum nach Abschluss der Renovierung wiedereröffnet."
+      ],
+      "explanation": "„Nach Abschluss der Renovierung“ (= nachdem die Renovierung abgeschlossen ist) is one unit: preposition + noun + genitive. Whatever stands in position 1, the verb „wird“ comes second and the participle „wiedereröffnet“ goes to the end.",
+      "explanationDe": "„Nach Abschluss der Renovierung“ (= nachdem die Renovierung abgeschlossen ist) ist eine Einheit: Präposition + Nomen + Genitiv. Egal, was auf Position 1 steht: Das Verb „wird“ steht an zweiter Stelle, das Partizip „wiedereröffnet“ am Ende."
+    }
+  ],
+  "related": ["genitiv", "praepositionen-mit-genitiv", "temporale-nebensaetze", "kausale-konsekutive-saetze", "konzessive-saetze-b2", "modalsaetze", "konditionalsaetze", "partizipialattribute", "nomen-verb-verbindungen-b2", "wortbildung-b2"]
+}

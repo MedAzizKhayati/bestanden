@@ -1,0 +1,111 @@
+{
+  "id": "sprachbausteine-2-07",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Tablets statt Tafel? Digitalisierung an Schulen",
+  "topic": "bildung",
+  "difficulty": 2,
+  "textType": "article",
+  "text": "Tablets statt Tafel? Was die Digitalisierung an Schulen bringt\n\nFür die meisten Jugendlichen gehören Smartphones und Tablets [[1]] zum Alltag – warum also nicht auch im Unterricht? Seit Bund und Länder mehrere Milliarden Euro in die digitale Ausstattung der Schulen investiert haben, hat sich in vielen Klassenzimmern tatsächlich einiges verändert. Eine Befragung von rund 2.000 Lehrkräften, die ein Berliner Bildungsinstitut im Frühjahr durchgeführt hat, zeichnet allerdings ein gemischtes Bild: Zwar verfügt inzwischen fast jede Schule über WLAN und Tablets, doch nur vier von zehn Befragten machen im Unterricht regelmäßig [[2]] von den neuen Geräten.\n\nDie Gründe dafür sind vielfältig. An manchen Schulen bricht das WLAN zusammen, sobald mehrere Klassen gleichzeitig online sind. Anderswo müssen sich Lehrkräfte neben ihrer eigentlichen Arbeit selbst um die Wartung der Geräte [[3]], weil Fachpersonal fehlt. Vor allem aber liegt es [[4]] mangelnden Fortbildungen: Viele Lehrerinnen und Lehrer hatten bislang kaum Gelegenheit, sich mit den neuen Programmen [[5]] zu machen.\n\nUnter Fachleuten ist zudem umstritten, [[6]] digitale Medien das Lernen überhaupt verbessern. Mehrere Studien deuten darauf hin, dass längere Texte auf Papier gründlicher gelesen und besser verstanden werden als am Bildschirm. Die Hamburger Bildungsforscherin Elisa Brandstätter warnt deshalb davor, Tablets für ein Allheilmittel zu halten. „Ein Gerät macht schlechten Unterricht nicht besser“, betont sie. Für sich genommen bringe die Technik wenig, es sei [[7]], sie werde gezielt eingesetzt – etwa für Simulationen im Physikunterricht oder für Lernprogramme, die sich dem Tempo der einzelnen Schülerinnen und Schüler [[8]]. Eine stabile Internetverbindung und gut geschulte Lehrkräfte seien dafür die wichtigsten [[9]].\n\nDass Bücher und Hefte bald ganz aus den Klassenzimmern verschwinden, glaubt Brandstätter [[10]]: Gerade beim Schreibenlernen sei der Stift durch nichts zu ersetzen.",
+  "words": [
+    { "key": "a", "text": "an" },
+    { "key": "b", "text": "anpassen" },
+    { "key": "c", "text": "befassen" },
+    { "key": "d", "text": "dann" },
+    { "key": "e", "text": "denn" },
+    { "key": "f", "text": "Gebrauch" },
+    { "key": "g", "text": "geläufig" },
+    { "key": "h", "text": "keineswegs" },
+    { "key": "i", "text": "kümmern" },
+    { "key": "j", "text": "Nutzen" },
+    { "key": "k", "text": "ob" },
+    { "key": "l", "text": "ohnehin" },
+    { "key": "m", "text": "richten" },
+    { "key": "n", "text": "vertraut" },
+    { "key": "o", "text": "Voraussetzungen" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "l",
+      "explanation": "„ohnehin“ (anyway) says that something is already the case: smartphones are part of teenagers’ everyday life anyway – hence the question „warum also nicht auch im Unterricht?“. „keineswegs“ (by no means) would make this question illogical.",
+      "explanationDe": "„ohnehin“ (= sowieso) sagt, dass etwas schon so ist: Smartphones gehören für Jugendliche sowieso zum Alltag – daher die Frage „warum also nicht auch im Unterricht?“. Mit „keineswegs“ wäre diese Frage unlogisch."
+    },
+    {
+      "n": 2,
+      "answer": "f",
+      "explanation": "„von etwas Gebrauch machen“ (to make use of something) is a fixed noun-verb combination; „machen“ and „von“ are already in the sentence. „Nutzen“ is the trap: the meaning is close, but the expression is „Nutzen aus etwas ziehen“.",
+      "explanationDe": "„von etwas Gebrauch machen“ (= etwas benutzen) ist eine feste Nomen-Verb-Verbindung; „machen“ und „von“ stehen schon im Satz. „Nutzen“ ist die Falle: Die Bedeutung ist ähnlich, aber man sagt „Nutzen aus etwas ziehen“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 3,
+      "answer": "i",
+      "explanation": "„sich um etwas kümmern“ (to take care of something): teachers have to look after the devices themselves. „befassen“ is the trap: „sich mit etwas befassen“ (to deal with) needs „mit“, not „um“.",
+      "explanationDe": "„sich um etwas kümmern“: Die Lehrkräfte müssen die Geräte selbst warten. „befassen“ ist die Falle: „sich mit etwas befassen“ braucht „mit“, nicht „um“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 4,
+      "answer": "a",
+      "explanation": "„es liegt an etwas“ (it is due to something) names the cause: the main reason is a lack of training. After the colon the text explains this cause in more detail.",
+      "explanationDe": "„es liegt an etwas“ nennt die Ursache: Der Hauptgrund sind fehlende Fortbildungen. Nach dem Doppelpunkt erklärt der Text diese Ursache genauer.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 5,
+      "answer": "n",
+      "explanation": "„sich mit etwas vertraut machen“ (to familiarise oneself with something) is a fixed expression. „geläufig“ (familiar) is the trap: the meaning is close, but it describes the thing („Das Programm ist mir geläufig“) and is never used with „sich … machen“.",
+      "explanationDe": "„sich mit etwas vertraut machen“ (= etwas kennenlernen) ist eine feste Wendung. „geläufig“ ist die Falle: Die Bedeutung ist ähnlich, aber es beschreibt die Sache („Das Programm ist mir geläufig“) und steht nie mit „sich … machen“.",
+      "grammar": "adjektive-mit-praepositionen-b2"
+    },
+    {
+      "n": 6,
+      "answer": "k",
+      "explanation": "„umstritten“ (disputed) is followed by an indirect yes/no question: it is disputed whether digital media improve learning at all. „denn“ and „dann“ cannot introduce a clause with the verb at the end („verbessern“).",
+      "explanationDe": "Nach „umstritten“ folgt eine indirekte Ja-/Nein-Frage: Es ist unklar, ob digitale Medien das Lernen überhaupt verbessern. „denn“ und „dann“ können keinen Satz mit dem Verb am Ende („verbessern“) einleiten.",
+      "grammar": "indirekte-fragen"
+    },
+    {
+      "n": 7,
+      "answer": "e",
+      "explanation": "„es sei denn, …“ (unless) is a fixed expression for an exception: technology on its own brings little unless it is used in a targeted way. „dann“ is the trap: it sounds similar, but „es sei dann“ does not exist.",
+      "explanationDe": "„es sei denn, …“ (= außer wenn) nennt eine Ausnahme: Technik allein bringt wenig – außer man setzt sie gezielt ein. „dann“ ist die Falle: Es klingt ähnlich, aber „es sei dann“ gibt es nicht.",
+      "grammar": "konditionalsaetze"
+    },
+    {
+      "n": 8,
+      "answer": "b",
+      "explanation": "„sich einer Sache anpassen“ (to adapt to something) takes the dative: „sich dem Tempo … anpassen“. „richten“ is the trap: „sich nach etwas richten“ means something similar but needs „nach“.",
+      "explanationDe": "„sich einer Sache anpassen“ steht mit Dativ: „sich dem Tempo … anpassen“. „richten“ ist die Falle: „sich nach etwas richten“ bedeutet etwas Ähnliches, braucht aber „nach“.",
+      "grammar": "verben-mit-dativ"
+    },
+    {
+      "n": 9,
+      "answer": "o",
+      "explanation": "„die Voraussetzung für etwas“ (the precondition): a stable connection and trained teachers are needed before digital lessons can work; „die wichtigsten“ needs a plural noun. „Nutzen“ means benefit, not requirement, and is hardly used in the plural.",
+      "explanationDe": "„die Voraussetzung für etwas“ (= das, was man vorher braucht): Stabiles Internet und geschulte Lehrkräfte sind nötig, damit digitaler Unterricht funktioniert; „die wichtigsten“ verlangt ein Nomen im Plural. „Nutzen“ bedeutet Vorteil, nicht Bedingung, und steht kaum im Plural.",
+      "grammar": "nomen-mit-praepositionen"
+    },
+    {
+      "n": 10,
+      "answer": "h",
+      "explanation": "„keineswegs“ (by no means) is a strong negation: she does not believe that books will disappear – after the colon comes the reason (the pen cannot be replaced). „ohnehin“ would mean she believes it anyway, which contradicts this reason.",
+      "explanationDe": "„keineswegs“ (= überhaupt nicht) ist eine starke Verneinung: Sie glaubt nicht, dass Bücher verschwinden – nach dem Doppelpunkt kommt der Grund (der Stift ist nicht zu ersetzen). Mit „ohnehin“ würde sie es sowieso glauben – das widerspricht diesem Grund.",
+      "grammar": "negation"
+    }
+  ],
+  "glossary": [
+    { "de": "die Ausstattung", "en": "equipment" },
+    { "de": "über etwas verfügen", "en": "to have something at one’s disposal" },
+    { "de": "von etwas Gebrauch machen", "en": "to make use of something" },
+    { "de": "die Wartung", "en": "maintenance" },
+    { "de": "die Fortbildung", "en": "further training" },
+    { "de": "sich mit etwas vertraut machen", "en": "to familiarise oneself with something" },
+    { "de": "umstritten", "en": "disputed, controversial" },
+    { "de": "das Allheilmittel", "en": "cure-all" },
+    { "de": "es sei denn, …", "en": "unless" },
+    { "de": "gezielt", "en": "targeted, purposeful" },
+    { "de": "die Voraussetzung", "en": "precondition, requirement" }
+  ]
+}

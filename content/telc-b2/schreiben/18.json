@@ -1,0 +1,61 @@
+{
+  "id": "schreiben-18",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Weiterbildung neben dem Beruf",
+  "topic": "bildung",
+  "difficulty": 3,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Sie arbeiten seit einigen Jahren im Einkauf eines Industrieunternehmens und möchten sich neben dem Beruf weiterqualifizieren. Ihr Arbeitgeber wäre bereit, einen Teil der Kosten zu übernehmen, Ihren Studienabschluss haben Sie jedoch nicht in Deutschland erworben. In einer Fachzeitschrift sind Sie auf folgende Anzeige gestoßen. Schreiben Sie eine E-Mail an die Akademie und bitten Sie um weitere Informationen.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Rhein-Akademie Köln – Weiterbildung, die zu Ihrem Leben passt\n\nZertifikatslehrgang „Nachhaltiges Lieferkettenmanagement“ (berufsbegleitend)\n\nUnternehmen müssen ihre Lieferketten zunehmend transparent und klimafreundlich gestalten – und suchen dafür qualifizierte Fachkräfte. In zehn Monaten erwerben Sie praxisnahes Wissen zu Risikoanalyse, Lieferantenbewertung und rechtlichen Vorgaben.\n\n• Live-Onlineseminare dienstags und donnerstags, 18–21 Uhr\n• Vier Präsenzwochenenden in Köln\n• Abschluss: Hochschulzertifikat unserer Partnerhochschule (15 ECTS-Punkte)\n• Zulassung: abgeschlossenes Studium oder Berufsausbildung mit mindestens drei Jahren Berufserfahrung\n• Gebühr: 4.200 Euro, Ratenzahlung möglich – viele Arbeitgeber beteiligen sich\n\nNächster Start: 1. März · Online-Infoabend am 14. Januar\nberatung@rhein-akademie-koeln.de"
+  },
+  "leitpunkte": [
+    "Erläutern Sie, wie Sie die Weiterbildung mit Ihrem Beruf und Ihrem Privatleben vereinbaren wollen.",
+    "Beschreiben Sie, welche Ausbildung und Berufserfahrung Sie mitbringen.",
+    "Stellen Sie weitere Fragen zu den Zulassungsvoraussetzungen und zur Finanzierung.",
+    "Legen Sie dar, warum Sie sich gerade für diesen Lehrgang interessieren."
+  ],
+  "model": {
+    "subject": "Bitte um Informationen zum Lehrgang „Nachhaltiges Lieferkettenmanagement“",
+    "text": "Sehr geehrte Damen und Herren,\n\nüber eine Anzeige in einer Fachzeitschrift bin ich auf Ihren berufsbegleitenden Zertifikatslehrgang „Nachhaltiges Lieferkettenmanagement“ aufmerksam geworden. Da ich eine Teilnahme ab März ernsthaft in Erwägung ziehe, bitte ich Sie um einige ergänzende Informationen.\n\nZunächst kurz zu meiner Person: Nach meinem Betriebswirtschaftsstudium an der Universität Porto bin ich vor sechs Jahren nach Deutschland gekommen. Seit vier Jahren arbeite ich im strategischen Einkauf eines mittelständischen Maschinenbauunternehmens in Leverkusen, wo ich inzwischen für die Auswahl und Bewertung neuer Zulieferer verantwortlich bin.\n\nGerade bei dieser Tätigkeit gewinnt Nachhaltigkeit zunehmend an Bedeutung. Angesichts der verschärften gesetzlichen Vorgaben müssen wir bei unseren Lieferanten nicht nur Preise und Qualität, sondern auch Arbeitsbedingungen und Umweltstandards prüfen. Bislang fehlt mir allerdings das nötige Fachwissen, etwa im Bereich der Risikoanalyse, weshalb mir Ihr praxisorientiertes Programm ideal erscheint.\n\nBevor ich mich anmelde, hätte ich jedoch noch zwei Fragen. Wird mein im Ausland erworbener Bachelorabschluss für die Zulassung ohne Weiteres anerkannt, oder müsste ich zusätzliche Nachweise einreichen? Außerdem hat mein Arbeitgeber angeboten, sich an der Gebühr zu beteiligen. Wäre es in diesem Fall möglich, einen Teil der Rechnung direkt an die Firma zu stellen und den Restbetrag in Raten zu begleichen?\n\nFür eine ausführliche Rückmeldung wäre ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\nAna Ferreira"
+  },
+  "modelNotes": [
+    "The model covers three points in a logical order: the writer's education and work experience (a business degree from Porto, four years in purchasing), why this particular course fits her job (stricter legal requirements, missing expertise in risk analysis) and further questions about admission and financing. How she will combine the course with work and private life is left out.",
+    "The questions grow out of the situation: a foreign degree raises the question of recognition, and an employer who pays part of the fee raises the question of how to split the invoice. This makes the text reader-oriented, as required at B2.",
+    "Upper-B2 language: Nomen-Verb-Verbindungen („in Erwägung ziehen“, „an Bedeutung gewinnen“), an extended participle („mein im Ausland erworbener Bachelorabschluss“), passive („Wird … anerkannt“), „nicht nur …, sondern auch“, „Angesichts“ + genitive.",
+    "Clear signposting guides the reader: „Zunächst kurz zu meiner Person“, „Gerade bei dieser Tätigkeit …“, „Bevor ich mich anmelde, hätte ich jedoch noch zwei Fragen.“",
+    "Polite Konjunktiv II throughout the requests: „müsste ich …“, „Wäre es … möglich“, „wäre ich Ihnen sehr dankbar“."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte in einer logischen Reihenfolge: Ausbildung und Berufserfahrung der Schreiberin (BWL-Studium in Porto, vier Jahre im Einkauf), warum gerade dieser Lehrgang zu ihrer Arbeit passt (strengere gesetzliche Vorgaben, fehlendes Wissen in der Risikoanalyse) und weitere Fragen zu Zulassung und Finanzierung. Wie sie Lehrgang, Beruf und Privatleben vereinbaren will, lässt sie weg.",
+    "Die Fragen ergeben sich aus der Situation: Ein ausländischer Abschluss führt zur Frage nach der Anerkennung, und ein Arbeitgeber, der einen Teil zahlt, führt zur Frage, wie die Rechnung aufgeteilt werden kann. So ist der Text auf den Leser ausgerichtet, wie es auf B2 verlangt wird.",
+    "Sprache auf hohem B2-Niveau: Nomen-Verb-Verbindungen („in Erwägung ziehen“, „an Bedeutung gewinnen“), ein erweitertes Partizip („mein im Ausland erworbener Bachelorabschluss“), Passiv („Wird … anerkannt“), „nicht nur …, sondern auch“, „Angesichts“ mit Genitiv.",
+    "Klare Signalwörter führen den Leser: „Zunächst kurz zu meiner Person“, „Gerade bei dieser Tätigkeit …“, „Bevor ich mich anmelde, hätte ich jedoch noch zwei Fragen.“",
+    "Höflicher Konjunktiv II in allen Bitten: „müsste ich …“, „Wäre es … möglich“, „wäre ich Ihnen sehr dankbar“."
+  ],
+  "phrases": [
+    { "de": "Ich bin auf Ihren Lehrgang aufmerksam geworden.", "en": "Your course came to my attention." },
+    { "de": "Da ich eine Teilnahme ernsthaft in Erwägung ziehe, …", "en": "As I am seriously considering taking part, …" },
+    { "de": "Zunächst kurz zu meiner Person: …", "en": "First, a few words about myself: …" },
+    { "de": "…, wo ich für … verantwortlich bin.", "en": "…, where I am responsible for …" },
+    { "de": "… gewinnt zunehmend an Bedeutung.", "en": "… is becoming increasingly important." },
+    { "de": "Ihr Programm erscheint mir ideal, um …", "en": "Your programme seems ideal to me for …" },
+    { "de": "Wird mein im Ausland erworbener Abschluss anerkannt?", "en": "Will my degree obtained abroad be recognised?" },
+    { "de": "Wäre es möglich, die Rechnung direkt an die Firma zu stellen?", "en": "Would it be possible to invoice the company directly?" },
+    { "de": "Für eine ausführliche Rückmeldung wäre ich Ihnen sehr dankbar.", "en": "I would be very grateful for a detailed reply." }
+  ],
+  "glossary": [
+    { "de": "berufsbegleitend", "en": "part-time, alongside one's job" },
+    { "de": "der Lehrgang", "en": "course, training programme" },
+    { "de": "die Lieferkette", "en": "supply chain" },
+    { "de": "die Zulassung", "en": "admission" },
+    { "de": "etwas in Erwägung ziehen", "en": "to consider something" },
+    { "de": "der Zulieferer", "en": "supplier" },
+    { "de": "einen Abschluss anerkennen", "en": "to recognise a qualification" },
+    { "de": "die Ratenzahlung", "en": "payment in instalments" },
+    { "de": "einen Betrag begleichen", "en": "to pay/settle an amount" }
+  ]
+}

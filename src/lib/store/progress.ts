@@ -37,7 +37,7 @@ export interface InProgressAttempt {
 }
 
 export interface MistakeCard {
-  id: string; // `${setId}:${n}`
+  id: string; // mistakeId(examId, setId, n) in lib/exam/scoring.ts
   examId: string;
   partId: string;
   setId: string;
@@ -104,6 +104,8 @@ export interface SpeakingRecord {
   transcript: string;
   /** The conversation turn by turn, so feedback can be requested again later (older records: transcript only). */
   turns?: Turn[];
+  /** telc B2 Teil 1: index of the topic the learner talked about. */
+  choice?: number;
   durationSec: number;
   createdAt: number;
   feedback?: SpeakingFeedback;

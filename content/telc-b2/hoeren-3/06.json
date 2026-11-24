@@ -1,0 +1,111 @@
+{
+  "id": "hoeren-3-06",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Unterwegs und in der Freizeit",
+  "topic": "freizeit",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "zug", "gender": "m", "age": "adult", "role": "Zugbegleiter" },
+    { "id": "tierarzt", "name": "Saskia Lindner", "gender": "f", "age": "young", "role": "Tierarztpraxis am Stadtpark" },
+    { "id": "radio", "gender": "m", "age": "young", "role": "Radiomoderator" },
+    { "id": "stadion", "gender": "m", "age": "senior", "role": "Stadionsprecher" },
+    { "id": "wetter", "gender": "f", "age": "adult", "role": "Wettermoderatorin" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage im Zug",
+      "context": "Sie hören eine Durchsage im Zug.",
+      "script": [
+        { "s": "zug", "t": "Meine Damen und Herren, in wenigen Minuten erreichen wir Tulln an der Donau. Bitte beachten Sie, dass unser Zug dort geteilt wird." },
+        { "s": "zug", "t": "Die vorderen drei Wagen fahren weiter nach Krems, die hinteren drei Wagen über Herzogenburg nach Sankt Pölten." },
+        { "s": "zug", "t": "Fahrgäste nach Krems, die im hinteren Zugteil sitzen, wechseln bitte jetzt schon nach vorne. Der Aufenthalt in Tulln ist nämlich sehr kurz und reicht zum Umsteigen nicht aus." },
+        { "s": "zug", "t": "Wer nach Sankt Pölten möchte und bereits hinten sitzt, kann dagegen einfach sitzen bleiben. Wir wünschen allen Fahrgästen eine angenehme Weiterfahrt." }
+      ],
+      "statement": "Wer nach Krems fährt und hinten sitzt, soll den Wagen schon vor dem Halt in Tulln wechseln.",
+      "answer": true,
+      "explanation": "„Fahrgäste nach Krems, die im hinteren Zugteil sitzen, wechseln bitte jetzt schon nach vorne“ – the stop in Tulln is too short to change there. Don't mix up the two parts of the train: the rear coaches go to „Sankt Pölten“.",
+      "explanationDe": "„Fahrgäste nach Krems, die im hinteren Zugteil sitzen, wechseln bitte jetzt schon nach vorne“ – denn der Halt in Tulln ist zu kurz zum Umsteigen. Verwechsle die Zugteile nicht: Die hinteren Wagen fahren nach „Sankt Pölten“.",
+      "evidence": "Fahrgäste nach Krems, die im hinteren Zugteil sitzen, wechseln bitte jetzt schon nach vorne."
+    },
+    {
+      "n": 2,
+      "label": "Nachricht von der Tierarztpraxis",
+      "context": "Sie hören eine Nachricht auf einer Mailbox.",
+      "script": [
+        { "s": "tierarzt", "t": "Hallo, Frau Bertram, hier ist Saskia Lindner von der Tierarztpraxis am Stadtpark. Ich wollte Ihnen kurz Bescheid geben, dass Bruno die Operation gut überstanden hat." },
+        { "s": "tierarzt", "t": "Er schläft gerade noch die Narkose aus. Sie können ihn heute ab 17 Uhr abholen, aber bitte nicht früher, weil wir ihn bis dahin noch beobachten möchten." },
+        { "s": "tierarzt", "t": "Füttern Sie ihn heute Abend bitte nicht mehr, Wasser darf er aber in kleinen Mengen trinken. Ab morgen früh bekommt er dann wieder sein normales Futter." },
+        { "s": "tierarzt", "t": "Und bringen Sie bitte eine Decke für die Fahrt mit, er wird noch etwas wackelig auf den Beinen sein." }
+      ],
+      "statement": "Bruno darf heute Abend nach der Operation weder etwas fressen noch etwas trinken.",
+      "answer": false,
+      "explanation": "Bruno must not be fed tonight, but „Wasser darf er aber in kleinen Mengen trinken“. The statement is only half right – and therefore false.",
+      "explanationDe": "Bruno soll heute Abend kein Futter mehr bekommen, doch „Wasser darf er … in kleinen Mengen trinken“. Die Aussage stimmt also nur zur Hälfte und ist deshalb falsch.",
+      "evidence": "Wasser darf er aber in kleinen Mengen trinken"
+    },
+    {
+      "n": 3,
+      "label": "Veranstaltungstipp im Radio",
+      "context": "Sie hören einen Veranstaltungstipp im Radio.",
+      "script": [
+        { "s": "radio", "t": "Und hier noch ein Tipp für alle, die sich für den Sternenhimmel begeistern: Am Samstag lädt die Volkssternwarte Hohenbergen zum Tag der offenen Tür ein." },
+        { "s": "radio", "t": "Von 14 bis 18 Uhr gibt es stündlich Führungen durch die Kuppel, und Kinder ab sechs Jahren können Sonnenuhren basteln. Dafür ist keine Anmeldung nötig." },
+        { "s": "radio", "t": "Ab 21 Uhr darf man dann selbst durch das große Teleskop schauen – allerdings nur bei klarem Himmel und nur mit einer Platzkarte, die man vorher im Internet reservieren muss." },
+        { "s": "radio", "t": "Ist es bewölkt, zeigt die Sternwarte stattdessen einen Film im Planetarium. Der Eintritt ist den ganzen Tag über frei." }
+      ],
+      "statement": "Wer abends durch das Teleskop schauen möchte, kann einfach ohne Reservierung vorbeikommen.",
+      "answer": false,
+      "explanation": "For the telescope in the evening you need „eine Platzkarte, die man vorher im Internet reservieren muss“. „Dafür ist keine Anmeldung nötig“ refers only to the afternoon tours and the crafts for children.",
+      "explanationDe": "Für den Blick durch das Teleskop am Abend brauchst du „eine Platzkarte, die man vorher im Internet reservieren muss“. Der Satz „Dafür ist keine Anmeldung nötig“ gilt nur für die Führungen und das Basteln am Nachmittag.",
+      "evidence": "nur mit einer Platzkarte, die man vorher im Internet reservieren muss"
+    },
+    {
+      "n": 4,
+      "label": "Durchsage im Stadion",
+      "context": "Sie hören eine Durchsage in einem Fußballstadion.",
+      "script": [
+        { "s": "stadion", "t": "Liebe Zuschauerinnen und Zuschauer, vielen Dank für Ihren Besuch! Bevor Sie sich auf den Heimweg machen, noch ein paar Hinweise zur Abreise." },
+        { "s": "stadion", "t": "Die Sonderzüge in Richtung Hauptbahnhof fahren heute nicht am Stadionbahnhof ab, sondern an der Haltestelle Messe Nord, etwa zehn Minuten zu Fuß von hier." },
+        { "s": "stadion", "t": "Folgen Sie dafür bitte der Beschilderung am Ausgang West. Der Ausgang Süd bleibt wegen Bauarbeiten geschlossen." },
+        { "s": "stadion", "t": "Ihre Eintrittskarte gilt bis Betriebsschluss als Fahrschein in allen Bussen und Bahnen der Stadt. Kommen Sie gut nach Hause!" }
+      ],
+      "statement": "Die Sonderzüge zum Hauptbahnhof fahren nach dem Spiel direkt am Stadionbahnhof ab.",
+      "answer": false,
+      "explanation": "The special trains leave „heute nicht am Stadionbahnhof …, sondern an der Haltestelle Messe Nord“, about ten minutes' walk away. The stadium station is only where they usually leave from.",
+      "explanationDe": "Die Sonderzüge fahren „heute nicht am Stadionbahnhof …, sondern an der Haltestelle Messe Nord“ ab – etwa zehn Minuten zu Fuß. Der Stadionbahnhof ist nur der normale Abfahrtsort.",
+      "evidence": "Die Sonderzüge in Richtung Hauptbahnhof fahren heute nicht am Stadionbahnhof ab, sondern an der Haltestelle Messe Nord"
+    },
+    {
+      "n": 5,
+      "label": "Wetterbericht",
+      "context": "Sie hören den Wetterbericht im Radio.",
+      "script": [
+        { "s": "wetter", "t": "Und nun das Wetter für die Schweiz. Über dem Mittelland hält sich in den nächsten Tagen hartnäckig Hochnebel, die Obergrenze liegt bei etwa 900 Metern." },
+        { "s": "wetter", "t": "Wer Sonne tanken möchte, muss also in die Höhe: Im Jura und in den Voralpen ist es oberhalb des Nebels strahlend schön und mit bis zu zwölf Grad ausgesprochen mild." },
+        { "s": "wetter", "t": "Im Tessin weht dagegen kräftiger Nordwind. Dort scheint zwar ebenfalls die Sonne, es bleibt aber recht kühl." },
+        { "s": "wetter", "t": "Am Sonntag zieht von Westen Regen auf, und der Nebel löst sich dann überall auf." }
+      ],
+      "statement": "Sonne und milde Temperaturen gibt es in den nächsten Tagen vor allem oberhalb der Nebelgrenze.",
+      "answer": true,
+      "explanation": "Sun and mild air come together only up high: „oberhalb des Nebels strahlend schön und … ausgesprochen mild“. The Mittelland stays under the fog, and Ticino is sunny but „recht kühl“.",
+      "explanationDe": "Sonne und milde Luft gibt es zusammen nur weiter oben: „oberhalb des Nebels strahlend schön und … ausgesprochen mild“. Das Mittelland bleibt im Nebel, und im Tessin ist es zwar sonnig, aber „recht kühl“.",
+      "evidence": "Im Jura und in den Voralpen ist es oberhalb des Nebels strahlend schön und mit bis zu zwölf Grad ausgesprochen mild."
+    }
+  ],
+  "glossary": [
+    { "de": "geteilt werden (Zug)", "en": "to be split (of a train)" },
+    { "de": "der Aufenthalt", "en": "stop (of a train); stay" },
+    { "de": "die Narkose ausschlafen", "en": "to sleep off the anaesthetic" },
+    { "de": "wackelig auf den Beinen", "en": "unsteady on one's feet" },
+    { "de": "die Sternwarte", "en": "observatory" },
+    { "de": "die Platzkarte", "en": "seat ticket, reservation card" },
+    { "de": "der Sonderzug", "en": "special train" },
+    { "de": "die Beschilderung", "en": "signposting" },
+    { "de": "der Betriebsschluss", "en": "end of service (public transport)" },
+    { "de": "der Hochnebel", "en": "low cloud, high fog" },
+    { "de": "hartnäckig", "en": "persistent, stubborn" }
+  ]
+}

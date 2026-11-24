@@ -1,0 +1,63 @@
+{
+  "id": "schreiben-22",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Standbetreuung auf der Fachmesse",
+  "topic": "arbeit",
+  "difficulty": 3,
+  "register": "semiformal",
+  "taskLabel": "Bewerbung",
+  "situation": "Sie studieren in Stuttgart und suchen für die Semesterferien eine befristete Tätigkeit, bei der Sie auch beruflich etwas lernen können. Im Stellenportal Ihrer Hochschule haben Sie die folgende Anzeige einer Messeagentur gefunden. Schreiben Sie eine Bewerbung an die Agentur.",
+  "stimulus": {
+    "kind": "ad",
+    "subject": "Kaleido Messeservice sucht Hostessen und Hosts (m/w/d)",
+    "body": "Für die Fachmesse „GrünBau“ (nachhaltiges Bauen und Sanieren) vom 9. bis 12. März auf dem Messegelände Stuttgart suchen wir zuverlässige Verstärkung für die Stände unserer Aussteller.\n\nIhre Aufgaben: Empfang und Betreuung von Fachbesuchern, Weiterleitung an die zuständigen Ansprechpartner, Erfassung von Kundenkontakten per Tablet, Bewirtung am Stand\n\nSie bringen mit: sicheres Auftreten, sehr gute Deutsch- und Englischkenntnisse (weitere Sprachen von Vorteil), Erfahrung im Kundenkontakt, Verfügbarkeit an allen vier Messetagen\n\nWir bieten: 17,50 € pro Stunde, eine bezahlte Schulung am Vortag, Verpflegung und Berufskleidung\n\nBewerbungen mit Lebenslauf bis 6. Februar an Frau Henrike Vossberg: jobs@kaleido-messeservice.de"
+  },
+  "leitpunkte": [
+    "Legen Sie dar, warum Sie sich für diese Tätigkeit interessieren.",
+    "Beschreiben Sie Ihre bisherigen Erfahrungen im Umgang mit Kundinnen und Kunden.",
+    "Erläutern Sie, welche Ihrer Kenntnisse für die Arbeit am Messestand besonders nützlich wären.",
+    "Stellen Sie weitere Fragen zur Schulung und zu den Arbeitszeiten."
+  ],
+  "model": {
+    "subject": "Bewerbung als Messehost für die Fachmesse „GrünBau“ (9.–12. März)",
+    "text": "Sehr geehrte Frau Vossberg,\n\nim Stellenportal der Universität Stuttgart bin ich auf Ihre Anzeige gestoßen und bewerbe mich hiermit als Messehost für die Fachmesse „GrünBau“. Als Student des Bauingenieurwesens im fünften Semester sehe ich in dieser Tätigkeit eine ideale Gelegenheit, Einblicke in meine künftige Branche zu gewinnen.\n\nErfahrungen im Umgang mit Kundinnen und Kunden habe ich bereits in verschiedenen Nebenjobs gesammelt. Seit zwei Jahren arbeite ich am Wochenende an der Rezeption eines Hotels, wo ich Gäste aus aller Welt empfange und auch in hektischen Situationen gelassen bleibe. Zudem wurde ich im vergangenen Herbst auf einer Verbrauchermesse als Promoter eingesetzt, sodass mir der Ablauf eines Messetages bereits vertraut ist.\n\nFür die Betreuung internationaler Fachbesucher bringe ich sowohl sehr gute Englischkenntnisse als auch Spanisch als Muttersprache mit. Dank meines Studiums wäre ich darüber hinaus in der Lage, Fragen zu Dämmstoffen oder Energieeffizienz nicht nur zu verstehen, sondern Interessenten auch gezielt an die zuständigen Fachleute weiterzuleiten.\n\nAbschließend hätte ich noch zwei Fragen: Wie lange dauert die Schulung am Vortag, und werden dabei auch Kenntnisse über die Produkte der jeweiligen Aussteller vermittelt? Außerdem wüsste ich gern, ob die Einsätze in Schichten eingeteilt werden oder ob von einer Anwesenheit während der gesamten Öffnungszeit ausgegangen wird.\n\nÜber eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen. Meinen Lebenslauf finden Sie im Anhang.\n\nMit freundlichen Grüßen\nDiego Fuentes Ramírez"
+  },
+  "modelNotes": [
+    "The model covers points 2 (experience with customers), 3 (useful knowledge) and 4 (questions about training and working hours). The motivation (point 1) appears in one sentence of the introduction only, which is not enough to count as a developed point – but it is not needed.",
+    "Every point is linked to the ad: hotel reception and a consumer fair match „Erfahrung im Kundenkontakt“, the languages match „weitere Sprachen von Vorteil“, the engineering degree matches the topic of the fair.",
+    "Upper-B2 language: Nominalstil („Für die Betreuung internationaler Fachbesucher“, „von einer Anwesenheit während der gesamten Öffnungszeit“), passive („wurde … eingesetzt“, „vermittelt“, „eingeteilt werden“, „ausgegangen wird“), Konjunktiv II („wäre ich in der Lage“, „hätte ich“, „wüsste ich gern“).",
+    "Two-part connectors – „sowohl … als auch“, „nicht nur … sondern auch“ – show the range of structures that criterion II rewards.",
+    "A typical application closing: the wish for an interview in Konjunktiv II and a reference to the attached CV, which the ad asks for."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt die Punkte 2 (Erfahrung mit Kunden), 3 (nützliche Kenntnisse) und 4 (Fragen zur Schulung und zu den Arbeitszeiten). Die Motivation (Punkt 1) steht nur in einem Satz der Einleitung – das reicht nicht für einen ausgeführten Punkt, ist aber auch nicht nötig.",
+    "Jeder Punkt hat einen Bezug zur Anzeige: Hotelrezeption und Verbrauchermesse passen zu „Erfahrung im Kundenkontakt“, die Sprachen zu „weitere Sprachen von Vorteil“, das Bauingenieurstudium zum Thema der Messe.",
+    "Sprache auf hohem B2-Niveau: Nominalstil („Für die Betreuung internationaler Fachbesucher“, „von einer Anwesenheit während der gesamten Öffnungszeit“), Passiv („wurde … eingesetzt“, „vermittelt“, „eingeteilt werden“, „ausgegangen wird“), Konjunktiv II („wäre ich in der Lage“, „hätte ich“, „wüsste ich gern“).",
+    "Zweiteilige Konnektoren – „sowohl … als auch“, „nicht nur … sondern auch“ – zeigen die Vielfalt an Strukturen, die im Kriterium II belohnt wird.",
+    "Ein typischer Schluss für eine Bewerbung: der Wunsch nach einem Gespräch im Konjunktiv II und ein Hinweis auf den Lebenslauf im Anhang, den die Anzeige verlangt."
+  ],
+  "phrases": [
+    { "de": "Im Stellenportal bin ich auf Ihre Anzeige gestoßen.", "en": "I came across your ad on the job portal." },
+    { "de": "Hiermit bewerbe ich mich als …", "en": "I hereby apply for the position of …" },
+    { "de": "In dieser Tätigkeit sehe ich eine ideale Gelegenheit, …", "en": "I see this job as an ideal opportunity to …" },
+    { "de": "Erfahrungen im Umgang mit Kunden habe ich bereits in … gesammelt.", "en": "I have already gained experience in dealing with customers in …" },
+    { "de": "Der Ablauf eines Messetages ist mir bereits vertraut.", "en": "I am already familiar with how a day at a trade fair runs." },
+    { "de": "Ich bringe sowohl … als auch … mit.", "en": "I offer both … and …" },
+    { "de": "Dank meines Studiums wäre ich in der Lage, …", "en": "Thanks to my studies I would be able to …" },
+    { "de": "Außerdem wüsste ich gern, ob …", "en": "I would also like to know whether …" },
+    { "de": "Über eine Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.", "en": "I would be very pleased to be invited to an interview." },
+    { "de": "Meinen Lebenslauf finden Sie im Anhang.", "en": "Please find my CV attached." }
+  ],
+  "glossary": [
+    { "de": "der Aussteller / die Ausstellerin", "en": "exhibitor" },
+    { "de": "die Standbetreuung", "en": "staffing / looking after a stand" },
+    { "de": "die Bewirtung", "en": "serving food and drinks, hospitality" },
+    { "de": "die Verstärkung", "en": "reinforcement, extra staff" },
+    { "de": "das Auftreten", "en": "manner, appearance" },
+    { "de": "gelassen", "en": "calm, composed" },
+    { "de": "jemanden einsetzen", "en": "to deploy someone (for a job)" },
+    { "de": "der Dämmstoff", "en": "insulating material" },
+    { "de": "in Schichten einteilen", "en": "to divide into shifts" }
+  ]
+}

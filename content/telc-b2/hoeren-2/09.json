@@ -1,0 +1,151 @@
+{
+  "id": "hoeren-2-09",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Fünf Monate auf der Scholle",
+  "topic": "umwelt",
+  "difficulty": 3,
+  "context": "Radiosendung „Wissenschaft am Abend“: Die Moderatorin spricht mit einem Meereisforscher, der vor Kurzem von einer Arktisexpedition zurückgekehrt ist",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "rieckhoff", "name": "Herr Rieckhoff", "gender": "m", "age": "adult", "role": "Meereisphysiker" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Guten Abend und willkommen bei „Wissenschaft am Abend“. Monatelang keine Dunkelheit, bis zu minus dreißig Grad und Eisbären als nächste Nachbarn – so sah bis vor Kurzem der Alltag meines heutigen Gastes aus." },
+    { "s": "mod", "t": "Malte Rieckhoff ist Meereisphysiker an einem Kieler Forschungsinstitut und vor gut zwei Wochen aus der zentralen Arktis zurückgekehrt. Herr Rieckhoff, haben Sie sich schon wieder eingelebt?" },
+    { "s": "rieckhoff", "t": "Ehrlich gesagt, nur so halb. Das Erste, was mir aufgefallen ist, als ich in Hamburg aus dem Flugzeug gestiegen bin, war der Geruch – Gras, Abgase, Pommes, alles auf einmal." },
+    { "s": "rieckhoff", "t": "Nach Monaten auf dem Eis riecht die Welt plötzlich unglaublich laut, wenn man das so sagen kann." },
+    { "s": "mod", "t": "Sie waren fünf Monate unterwegs. War das von Anfang an so geplant?" },
+    { "s": "rieckhoff", "t": "Nein, geplant war eigentlich ein gutes halbes Jahr. Wir haben unser Schiff an einer großen Eisscholle festgemacht und wollten uns mit ihr bis in den Herbst durchs Polarmeer treiben lassen." },
+    { "s": "rieckhoff", "t": "Aber Mitte August ist die Scholle regelrecht auseinandergebrochen, viel früher, als wir das für möglich gehalten hatten. Und ohne stabiles Eis unter den Füßen kann man unsere Messungen schlicht nicht machen." },
+    { "s": "mod", "t": "In einer Zeitung stand, Sie hätten die Expedition geleitet." },
+    { "s": "rieckhoff", "t": "Das hab ich auch gelesen und mich ein bisschen geschämt. Geleitet hat das Ganze eine norwegische Kollegin – ich war für das Meereisteam zuständig, also für sieben von insgesamt zweiundvierzig Leuten an Bord." },
+    { "s": "mod", "t": "Was genau haben Sie und Ihr Team auf dem Eis gemessen?" },
+    { "s": "rieckhoff", "t": "Im Grunde zwei Dinge: wie dick das Eis ist und wie viel Sonnenlicht durch das Eis hindurch ins Wasser gelangt. Das klingt banal, aber davon hängt fast alles ab, vom Plankton bis zum Wetter in Europa – etwas zugespitzt gesagt." },
+    { "s": "mod", "t": "Fangen wir mit der Dicke an." },
+    { "s": "rieckhoff", "t": "Unsere Scholle war im Schnitt etwa einen Meter zwanzig dick. Bei Messungen in derselben Gegend in den Neunzigerjahren waren es oft über zwei Meter." },
+    { "s": "rieckhoff", "t": "Ich wäre allerdings vorsichtig, aus einer einzigen Scholle gleich einen Trend abzuleiten. Die Satellitendaten der letzten Jahrzehnte zeigen aber ziemlich eindeutig in dieselbe Richtung." },
+    { "s": "mod", "t": "Und das Licht?" },
+    { "s": "rieckhoff", "t": "Da kam die eigentliche Überraschung. Im Sommer bilden sich auf dem Eis überall Schmelztümpel, also kleine Seen aus Schmelzwasser, und durch die dringt viel mehr Licht ins Meer als durch weißes, schneebedecktes Eis." },
+    { "s": "rieckhoff", "t": "Mit dem Licht wachsen unter dem Eis Algen. Mit der großen Algenblüte rechnet man dort normalerweise erst im Juli, wir haben aber schon Ende Mai dichte grüne Teppiche unter der Scholle gefunden." },
+    { "s": "mod", "t": "Ist das nun eine gute oder eine schlechte Nachricht?" },
+    { "s": "rieckhoff", "t": "Tja, darüber haben wir an Bord abends am heftigsten gestritten. Für die Algen selbst ist es erst mal gut, aber viele Tiere, die von ihnen leben, kleine Ruderfußkrebse zum Beispiel, sind auf den alten Rhythmus eingestellt." },
+    { "s": "rieckhoff", "t": "Wenn das Futter da ist, bevor die Krebse so weit sind, dann verpassen sie sozusagen das Buffet. Ob das tatsächlich passiert, können wir aber noch nicht sagen – das muss die Auswertung zeigen." },
+    { "s": "mod", "t": "Jetzt muss ich natürlich nach den Eisbären fragen. Hatten Sie Besuch?" },
+    { "s": "rieckhoff", "t": "Mehrmals. Es gab rund um die Uhr eine Eisbärenwache mit Fernglas und Signalpistole, da war jeder mal dran, auch ich." },
+    { "s": "rieckhoff", "t": "Einmal im Juni hat sich ein junges Männchen bis auf etwa fünfzig Meter an unsere Messstation herangeschlichen, während zwei Kolleginnen gerade Eiskerne gebohrt haben. Die mussten alles liegen lassen und zurück zum Schiff." },
+    { "s": "rieckhoff", "t": "Der Bär hat sich dann in aller Ruhe ein Stromkabel vorgenommen, es durchgebissen und ist wieder abgezogen. Wir haben drei Tage gebraucht, bis die Station wieder lief." },
+    { "s": "mod", "t": "Zweiundvierzig Menschen, fünf Monate auf engem Raum – wie hält man das aus?" },
+    { "s": "rieckhoff", "t": "Erstaunlich gut, muss ich sagen. Viel schwieriger, als ich dachte, war das ständige Licht, man verliert einfach jedes Zeitgefühl." },
+    { "s": "rieckhoff", "t": "Ich hab einmal um drei Uhr nachts Wäsche gewaschen und mich gewundert, warum der Waschraum so leer ist. Meine Frau hat mir dann eine Schlafmaske geschickt – also, nicht geschickt, das ging ja nicht, sie hatte sie heimlich in meinen Koffer gesteckt." },
+    { "s": "mod", "t": "Konnten Sie denn Kontakt nach Hause halten?" },
+    { "s": "rieckhoff", "t": "Kurze Textnachrichten, ja, über Satellit. Für Telefonate oder gar Videoanrufe hat die Verbindung aber nicht gereicht, und das war für die Eltern unter uns ziemlich hart." },
+    { "s": "mod", "t": "Ist das arktische Meereis überhaupt noch zu retten? Manche Fachleute meinen, die Arktis könnte schon in zwanzig Jahren im Sommer eisfrei sein." },
+    { "s": "rieckhoff", "t": "Mit Jahreszahlen bin ich da sehr zurückhaltend. Die Modelle gehen ziemlich weit auseinander, und wer Ihnen ein genaues Jahr nennt, der weiß, ehrlich gesagt, mehr als ich." },
+    { "s": "rieckhoff", "t": "Was man aber mit großer Sicherheit sagen kann: Je schneller die Emissionen sinken, desto mehr Eis bleibt erhalten. Das ist keine Meinung, das ist Physik." },
+    { "s": "mod", "t": "Wie geht es jetzt mit Ihren Daten weiter?" },
+    { "s": "rieckhoff", "t": "Die Rohdaten sind übrigens noch gar nicht bei uns in Kiel. Die Festplatten fahren mit dem Schiff, und das braucht noch gut eine Woche bis Bremerhaven." },
+    { "s": "rieckhoff", "t": "Danach sitzen wir sicher zwei, drei Jahre an der Auswertung, bis wirklich belastbare Ergebnisse vorliegen." },
+    { "s": "mod", "t": "Und Sie persönlich? Zieht es Sie bald wieder aufs Eis?" },
+    { "s": "rieckhoff", "t": "Eigentlich hatte ich mich schon für die nächste Winterfahrt eingetragen, die im Januar startet. Aber nach einem Familienrat am Küchentisch hab ich meinen Platz an einen jüngeren Kollegen abgegeben." },
+    { "s": "rieckhoff", "t": "Ich koordiniere die Messungen stattdessen von Kiel aus. Das ist zwar weniger abenteuerlich, aber meine Tochter meinte, sonst erkennt sie mich bald nicht mehr – und da ist was dran." },
+    { "s": "mod", "t": "Malte Rieckhoff, vielen Dank für diese Einblicke – und gute Erholung an Land!" },
+    { "s": "rieckhoff", "t": "Danke! Ich geh jetzt erst mal in den Wald, da riecht's nämlich nach Herbst." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Die Expedition endete vorzeitig, weil die Eisscholle nicht mehr intakt war.",
+      "answer": true,
+      "explanation": "Half a year was planned („geplant war eigentlich ein gutes halbes Jahr“), but „Mitte August ist die Scholle regelrecht auseinandergebrochen“, and without stable ice no measurements are possible – so the expedition ended after five months.",
+      "explanationDe": "Geplant war ein halbes Jahr („geplant war eigentlich ein gutes halbes Jahr“), aber „Mitte August ist die Scholle regelrecht auseinandergebrochen“, und ohne stabiles Eis kann man nicht messen – deshalb endete die Expedition schon nach fünf Monaten.",
+      "evidence": "Mitte August ist die Scholle regelrecht auseinandergebrochen"
+    },
+    {
+      "n": 2,
+      "text": "Herr Rieckhoff trug die Verantwortung für die gesamte Expedition.",
+      "answer": false,
+      "explanation": "That is what a newspaper wrote, but he corrects it: „Geleitet hat das Ganze eine norwegische Kollegin“. He was only responsible for the sea-ice team, seven of forty-two people.",
+      "explanationDe": "So stand es in einer Zeitung, aber er korrigiert das: „Geleitet hat das Ganze eine norwegische Kollegin“. Er war nur für das Meereisteam zuständig, also für sieben von zweiundvierzig Leuten.",
+      "evidence": "Geleitet hat das Ganze eine norwegische Kollegin"
+    },
+    {
+      "n": 3,
+      "text": "Er warnt davor, aus den Werten einer einzelnen Scholle allgemeine Schlüsse zu ziehen.",
+      "answer": true,
+      "explanation": "„Ich wäre allerdings vorsichtig, aus einer einzigen Scholle gleich einen Trend abzuleiten.“ The satellite data point in the same direction, but that does not change his caution about his own floe.",
+      "explanationDe": "„Ich wäre allerdings vorsichtig, aus einer einzigen Scholle gleich einen Trend abzuleiten.“ Die Satellitendaten zeigen zwar in dieselbe Richtung, aber bei seiner eigenen Scholle bleibt er vorsichtig.",
+      "evidence": "Ich wäre allerdings vorsichtig, aus einer einzigen Scholle gleich einen Trend abzuleiten."
+    },
+    {
+      "n": 4,
+      "text": "Unter dem Eis setzte das Algenwachstum früher ein, als man erwartet hatte.",
+      "answer": true,
+      "explanation": "The algal bloom is normally expected „erst im Juli“, but „wir haben aber schon Ende Mai dichte grüne Teppiche unter der Scholle gefunden“ – about two months earlier.",
+      "explanationDe": "Normalerweise rechnet man mit der Algenblüte „erst im Juli“, aber „wir haben aber schon Ende Mai dichte grüne Teppiche unter der Scholle gefunden“ – also etwa zwei Monate früher.",
+      "evidence": "wir haben aber schon Ende Mai dichte grüne Teppiche unter der Scholle gefunden"
+    },
+    {
+      "n": 5,
+      "text": "Inzwischen ist belegt, dass kleine Krebse wegen der frühen Algenblüte Nahrung verpassen.",
+      "answer": false,
+      "explanation": "Missing the „Buffet“ is only a possibility the team argued about: „Ob das tatsächlich passiert, können wir aber noch nicht sagen“. The analysis still has to show it, so it is not proven.",
+      "explanationDe": "Dass die Krebse das „Buffet“ verpassen, ist nur eine Vermutung: „Ob das tatsächlich passiert, können wir aber noch nicht sagen“. Das muss die Auswertung erst zeigen – belegt ist es also nicht.",
+      "evidence": "Ob das tatsächlich passiert, können wir aber noch nicht sagen"
+    },
+    {
+      "n": 6,
+      "text": "Ein Eisbär hat einen Teil der technischen Ausrüstung beschädigt.",
+      "answer": true,
+      "explanation": "The bear „hat sich dann in aller Ruhe ein Stromkabel vorgenommen, es durchgebissen“ – it took three days until the station worked again.",
+      "explanationDe": "Der Bär „hat sich dann in aller Ruhe ein Stromkabel vorgenommen, es durchgebissen“ – es hat drei Tage gedauert, bis die Station wieder lief.",
+      "evidence": "Der Bär hat sich dann in aller Ruhe ein Stromkabel vorgenommen, es durchgebissen und ist wieder abgezogen."
+    },
+    {
+      "n": 7,
+      "text": "Über Satellit konnten die Forschenden regelmäßig mit ihren Familien telefonieren.",
+      "answer": false,
+      "explanation": "Only short text messages were possible: „Für Telefonate oder gar Videoanrufe hat die Verbindung aber nicht gereicht“. „über Satellit“ is a trap – that was the way the messages were sent.",
+      "explanationDe": "Es gingen nur kurze Textnachrichten: „Für Telefonate oder gar Videoanrufe hat die Verbindung aber nicht gereicht“. „über Satellit“ ist eine Falle – so wurden nur die Nachrichten verschickt.",
+      "evidence": "Für Telefonate oder gar Videoanrufe hat die Verbindung aber nicht gereicht"
+    },
+    {
+      "n": 8,
+      "text": "Er will sich nicht darauf festlegen, wann die Arktis im Sommer eisfrei sein wird.",
+      "answer": true,
+      "explanation": "The twenty years are what other experts say („Manche Fachleute meinen …“), quoted by the presenter. He answers „Mit Jahreszahlen bin ich da sehr zurückhaltend“, because the models differ a lot.",
+      "explanationDe": "Die zwanzig Jahre sind die Meinung anderer, die die Moderatorin zitiert („Manche Fachleute meinen …“). Er antwortet: „Mit Jahreszahlen bin ich da sehr zurückhaltend“, weil die Modelle weit auseinandergehen.",
+      "evidence": "Mit Jahreszahlen bin ich da sehr zurückhaltend."
+    },
+    {
+      "n": 9,
+      "text": "Das Team wertet die gesammelten Messdaten bereits in Kiel aus.",
+      "answer": false,
+      "explanation": "„Die Rohdaten sind übrigens noch gar nicht bei uns in Kiel“ – the hard drives are still on the ship. The two or three years of analysis only start afterwards („Danach“).",
+      "explanationDe": "„Die Rohdaten sind übrigens noch gar nicht bei uns in Kiel“ – die Festplatten sind noch auf dem Schiff. Die zwei, drei Jahre Auswertung beginnen erst „danach“.",
+      "evidence": "Die Rohdaten sind übrigens noch gar nicht bei uns in Kiel."
+    },
+    {
+      "n": 10,
+      "text": "Im Januar bricht Herr Rieckhoff erneut zu einer Expedition ins Eis auf.",
+      "answer": false,
+      "explanation": "He had signed up („Eigentlich hatte ich mich schon … eingetragen“), but after a family discussion „hab ich meinen Platz an einen jüngeren Kollegen abgegeben“. He will coordinate from Kiel instead.",
+      "explanationDe": "Er hatte sich zwar schon angemeldet („Eigentlich hatte ich mich schon … eingetragen“), aber nach dem Familienrat „hab ich meinen Platz an einen jüngeren Kollegen abgegeben“. Er koordiniert stattdessen von Kiel aus.",
+      "evidence": "hab ich meinen Platz an einen jüngeren Kollegen abgegeben"
+    }
+  ],
+  "glossary": [
+    { "de": "die Eisscholle", "en": "ice floe" },
+    { "de": "sich treiben lassen", "en": "to drift" },
+    { "de": "auseinanderbrechen", "en": "to break apart" },
+    { "de": "einen Trend ableiten", "en": "to infer a trend" },
+    { "de": "der Schmelztümpel", "en": "melt pond (on sea ice)" },
+    { "de": "die Algenblüte", "en": "algal bloom" },
+    { "de": "sich heranschleichen", "en": "to creep up" },
+    { "de": "durchbeißen", "en": "to bite through" },
+    { "de": "zurückhaltend", "en": "cautious, reserved" },
+    { "de": "die Auswertung", "en": "analysis (of data)" },
+    { "de": "belastbare Ergebnisse", "en": "robust, reliable results" },
+    { "de": "der Familienrat", "en": "family council, family discussion" }
+  ]
+}

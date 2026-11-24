@@ -1,0 +1,118 @@
+{
+  "id": "lesen-1-06",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Einkaufen, bezahlen, unterwegs sein",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Später zahlen, schneller verschuldet: Warnung an junge Onlinekäufer" },
+    { "key": "b", "text": "Kennzeichnungspflicht für geschrumpfte Packungen beschlossen" },
+    { "key": "c", "text": "Abo statt Auto: Mehrheit will autofrei bleiben" },
+    { "key": "d", "text": "Dank Handy-App: Jugendliche auf dem Land wieder mobil" },
+    { "key": "e", "text": "Weniger Inhalt zum gleichen Preis: Verbraucherschützer schlagen Alarm" },
+    { "key": "f", "text": "Café verzichtet auf Bargeld – und gewinnt neue Stammgäste" },
+    { "key": "g", "text": "Rufbus statt Fahrplan: Angebot auf dem Land übertrifft Erwartungen" },
+    { "key": "h", "text": "Schuldnerberater fordern Verbot des Kaufs auf Rechnung" },
+    { "key": "i", "text": "Kehrtwende nach Kritik: Basler Café akzeptiert wieder Bargeld" },
+    { "key": "j", "text": "Neues Angebot: Senioren auf dem Land fahren kostenlos" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Die Chipstüte wirkt so prall gefüllt wie immer, doch statt 200 Gramm enthält sie nur noch 175 – zum selben Preis. Solche versteckten Preiserhöhungen sind nach Angaben der Hamburger Verbraucherinitiative „Klartext Einkauf“ im vergangenen Jahr deutlich häufiger geworden. Auf ihrer Liste sogenannter Mogelpackungen stehen inzwischen mehr als 140 Produkte, von Waschmittel über Kaffee bis zur Tiefkühlpizza. Betroffen sind keineswegs nur Billigmarken; auch namhafte Hersteller greifen zu diesem Mittel, weil eine geringere Füllmenge den Kunden seltener auffällt als ein höheres Preisschild. Rechtlich ist das Vorgehen zulässig, solange die Menge korrekt auf der Verpackung angegeben ist. Die Initiative hält es dennoch für irreführend und fordert, dass Händler geschrumpfte Packungen künftig ein halbes Jahr lang am Regal kennzeichnen müssen. Ob die Politik diese Forderung aufgreift, ist allerdings offen. Verbraucherinnen und Verbrauchern rät die Initiative bis auf Weiteres, beim Einkauf auf den Grundpreis pro Kilogramm oder Liter zu achten, der ohnehin am Regal angegeben werden muss. Nur so lasse sich erkennen, ob ein Produkt tatsächlich teurer geworden sei.",
+      "answer": "e",
+      "explanation": "Packs contain less for the same price („statt 200 Gramm … nur noch 175 – zum selben Preis“), and a consumer initiative criticises these „versteckten Preiserhöhungen“ as „irreführend“, so (e). Headline (b) is a trap: a labelling rule is only demanded („fordert“) – whether politicians take it up „ist allerdings offen“.",
+      "explanationDe": "In den Packungen ist weniger drin, der Preis bleibt gleich („statt 200 Gramm … nur noch 175 – zum selben Preis“), und eine Verbraucherinitiative kritisiert diese „versteckten Preiserhöhungen“ als „irreführend“. Also passt (e). Überschrift (b) ist eine Falle: Eine Kennzeichnung wird nur gefordert („fordert“) – ob die Politik sie aufgreift, „ist allerdings offen“.",
+      "evidence": [
+        "statt 200 Gramm enthält sie nur noch 175 – zum selben Preis",
+        "Die Initiative hält es dennoch für irreführend"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Als das Basler Café „Bohne & Blatt“ im Frühjahr ankündigte, nur noch Karten- und Handyzahlungen zu akzeptieren, klang die Begründung einleuchtend: Das Zählen der Kasse koste jeden Abend eine halbe Stunde, der Weg zur Bank sei umständlich und das Bargeld im Laden ein Sicherheitsrisiko. Die Reaktionen fielen jedoch heftiger aus als erwartet. Stammgäste beschwerten sich, ältere Kundinnen und Kunden blieben weg, und in sozialen Netzwerken wurde dem Café vorgeworfen, Menschen ohne Bankkarte auszuschließen. Nach nur vier Monaten hat Inhaberin Corinne Stähli ihre Entscheidung nun rückgängig gemacht: Seit dieser Woche werden Münzen und Scheine wieder angenommen. Bereuen will sie den Versuch trotzdem nicht. Der Anteil der Kartenzahlungen sei in dieser Zeit auf über 80 Prozent gestiegen und werde vermutlich hoch bleiben. Wer bar bezahlen wolle, solle das aber weiterhin dürfen. Damit trifft sie offenbar die Stimmung im Land: Einer Umfrage eines Zürcher Marktforschungsinstituts zufolge möchte eine große Mehrheit der Schweizerinnen und Schweizer nicht auf Bargeld verzichten, auch wenn sie es im Alltag immer seltener nutzt.",
+      "answer": "i",
+      "explanation": "After complaints and lost customers, the owner reversed her decision („rückgängig gemacht“): „Münzen und Scheine“ are accepted again, so (i). Headline (f) describes only the first step and gets the result wrong: regular customers complained and older customers „blieben weg“.",
+      "explanationDe": "Nach Beschwerden und verlorenen Gästen hat die Inhaberin ihre Entscheidung „rückgängig gemacht“: „Münzen und Scheine“ werden wieder angenommen. Also passt (i). Überschrift (f) beschreibt nur den ersten Schritt und nennt das falsche Ergebnis: Stammgäste beschwerten sich, und ältere Kunden „blieben weg“.",
+      "evidence": [
+        "hat Inhaberin Corinne Stähli ihre Entscheidung nun rückgängig gemacht",
+        "Seit dieser Woche werden Münzen und Scheine wieder angenommen"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Ein Klick genügt, und die neuen Turnschuhe sind bestellt; bezahlt wird erst in 30 Tagen oder in bequemen Monatsraten. Was im Onlinehandel als kundenfreundlicher Service gilt, bereitet der Linzer Schuldnerhilfe „Neustart“ zunehmend Sorgen. Nach ihren Angaben hatte im vergangenen Jahr bereits jede vierte Person unter 30, die sich an die Beratungsstelle wandte, Schulden aus solchen Zahlungsaufschüben; vor drei Jahren war es kaum jede zehnte. Die einzelnen Beträge seien meist gering, erklärt Beraterin Sabine Hörtnagl, doch genau darin liege die Gefahr: Wer bei mehreren Händlern gleichzeitig auf Rechnung kaufe, verliere schnell den Überblick, und Mahngebühren ließen kleine Summen rasch anwachsen. Gegen den Kauf auf Rechnung an sich wendet sich die Beratungsstelle ausdrücklich nicht, denn er biete Verbrauchern durchaus Vorteile, etwa bei Rücksendungen. Sie verlangt jedoch, dass Händler die Option „später bezahlen“ nicht länger als Standard voreinstellen dürfen. Außerdem will sie an Berufsschulen verstärkt über den Umgang mit Geld informieren, denn viele Betroffene hätten nie gelernt, ein Haushaltsbuch zu führen.",
+      "answer": "a",
+      "explanation": "Debts from paying later are growing among young people – „jede vierte Person unter 30“ in counselling – and the counsellors warn that people „verliere schnell den Überblick“, so (a). Headline (h) is the opposite of what the text says: the centre „wendet sich ausdrücklich nicht“ against buying on account as such.",
+      "explanationDe": "Schulden durch späteres Bezahlen nehmen bei jungen Leuten zu – „jede vierte Person unter 30“ in der Beratung –, und die Beraterin warnt, man „verliere schnell den Überblick“. Also passt (a). Überschrift (h) sagt das Gegenteil des Textes: Gegen den Kauf auf Rechnung an sich „wendet sich die Beratungsstelle ausdrücklich nicht“.",
+      "evidence": [
+        "bereits jede vierte Person unter 30, die sich an die Beratungsstelle wandte, Schulden aus solchen Zahlungsaufschüben",
+        "verliere schnell den Überblick"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Wer in einem der kleinen Dörfer im Hunsrück wohnt und kein Auto besitzt, musste bisher genau planen: Der Linienbus fuhr dort werktags dreimal, am Wochenende gar nicht. Seit einem Jahr gibt es eine Alternative. Kleinbusse mit acht Sitzplätzen holen Fahrgäste auf Bestellung an rund 300 Haltepunkten ab und bringen sie zum nächsten Bahnhof oder in die Kreisstadt, auch abends und an Sonntagen. Gebucht wird per App oder telefonisch, der Fahrpreis entspricht dem gewöhnlichen Bustarif. Die Bilanz nach zwölf Monaten fällt besser aus als erwartet: Statt der erhofften 20.000 Fahrten wurden knapp 31.000 gezählt. Überrascht hat die Verkehrsplaner vor allem, wer das Angebot nutzt. Nicht Jugendliche, sondern Menschen über 65 stellen die größte Gruppe, und die meisten von ihnen bestellen ihre Fahrt am Telefon. Billig ist das Modell allerdings nicht: Jede Fahrt wird mit durchschnittlich elf Euro bezuschusst. Ob der Kreistag die Finanzierung über das Testjahr hinaus verlängert, soll im Frühjahr entschieden werden.",
+      "answer": "g",
+      "explanation": "Minibuses come „auf Bestellung“ instead of running to a timetable, and „Statt der erhofften 20.000 Fahrten wurden knapp 31.000 gezählt“, so (g). Headline (d) names the wrong group and the wrong channel: „Nicht Jugendliche, sondern Menschen über 65“ use it most, mostly by phone.",
+      "explanationDe": "Kleinbusse kommen „auf Bestellung“ statt nach Fahrplan, und „Statt der erhofften 20.000 Fahrten wurden knapp 31.000 gezählt“. Also passt (g). Überschrift (d) nennt die falsche Gruppe und den falschen Weg: „Nicht Jugendliche, sondern Menschen über 65“ nutzen das Angebot am meisten, und zwar meist per Telefon.",
+      "evidence": [
+        "holen Fahrgäste auf Bestellung an rund 300 Haltepunkten ab",
+        "Statt der erhofften 20.000 Fahrten wurden knapp 31.000 gezählt"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Wer sein Auto abschafft, fährt ein Jahr lang kostenlos mit Bus und Bahn: Mit diesem Angebot hat die Stadt Winterthur im vergangenen Jahr Haushalte in drei dicht bebauten Quartieren angesprochen. Voraussetzung war, dass die Teilnehmenden ihre Anwohnerparkkarte zurückgeben und das Fahrzeug tatsächlich verkaufen oder abmelden. Rund 420 Haushalte machten mit, deutlich mehr, als die Verwaltung erwartet hatte. Eine Befragung zum Abschluss des Versuchs zeigt nun, dass die meisten von ihnen auch künftig ohne eigenes Auto auskommen wollen, obwohl sie ihr Abonnement ab sofort wieder selbst bezahlen müssen. Viele gaben an, den Wagen weniger vermisst zu haben als befürchtet; für größere Einkäufe oder Ausflüge greifen sie auf Carsharing zurück. Die frei gewordenen Parkplätze will die Stadt teilweise in Veloabstellplätze und kleine Grünflächen umwandeln. Kritik kommt vom örtlichen Gewerbeverband, der befürchtet, dass Kundschaft aus dem Umland künftig noch schwerer einen Parkplatz findet. Ob das Angebot in weiteren Stadtteilen wiederholt wird, will der Stadtrat bis zum Sommer klären.",
+      "answer": "c",
+      "explanation": "Households gave up their car in exchange for a free public-transport pass, and „die meisten von ihnen“ want to stay without a car even after the trial, so (c). Headline (j) is a trap: free travel was only offered for one year to households that gave up their car – it is no free ticket for older people, and in text 4 the fare „entspricht dem gewöhnlichen Bustarif“.",
+      "explanationDe": "Haushalte haben ihr Auto abgegeben und dafür ein Gratis-Abo für Bus und Bahn bekommen; „die meisten von ihnen“ wollen auch nach dem Versuch ohne Auto leben. Also passt (c). Überschrift (j) ist eine Falle: Kostenlos fahren durften nur Haushalte, die ihr Auto abgegeben haben, und nur ein Jahr lang – ein Gratisticket für Senioren gibt es nicht, und in Text 4 „entspricht“ der Fahrpreis „dem gewöhnlichen Bustarif“.",
+      "evidence": [
+        "dass die meisten von ihnen auch künftig ohne eigenes Auto auskommen wollen",
+        "Rund 420 Haushalte machten mit"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "b",
+      "why": "Text 1 only reports a demand of a consumer initiative („fordert“); nothing has been decided – „Ob die Politik diese Forderung aufgreift, ist allerdings offen.“",
+      "whyDe": "Text 1 berichtet nur von einer Forderung der Verbraucherinitiative („fordert“); beschlossen ist nichts – „Ob die Politik diese Forderung aufgreift, ist allerdings offen.“"
+    },
+    {
+      "key": "d",
+      "why": "Text 4 is about rural mobility, but the largest group of users are people over 65, not young people, and most of them book „am Telefon“, not by app.",
+      "whyDe": "In Text 4 geht es um Mobilität auf dem Land, aber die größte Gruppe sind Menschen über 65, nicht Jugendliche, und die meisten buchen „am Telefon“, nicht per App."
+    },
+    {
+      "key": "f",
+      "why": "The café in text 2 did go cashless, but it lost customers instead of winning new ones: „Stammgäste beschwerten sich, ältere Kundinnen und Kunden blieben weg“ – and now it accepts cash again.",
+      "whyDe": "Das Café in Text 2 hat zwar auf Bargeld verzichtet, aber Gäste verloren statt neue gewonnen: „Stammgäste beschwerten sich, ältere Kundinnen und Kunden blieben weg“ – und jetzt nimmt es wieder Bargeld an."
+    },
+    {
+      "key": "h",
+      "why": "Text 3 explicitly rejects a ban: „Gegen den Kauf auf Rechnung an sich wendet sich die Beratungsstelle ausdrücklich nicht“. It only wants „später bezahlen“ not to be preselected.",
+      "whyDe": "Text 3 lehnt ein Verbot ausdrücklich ab: „Gegen den Kauf auf Rechnung an sich wendet sich die Beratungsstelle ausdrücklich nicht“. Sie will nur, dass „später bezahlen“ nicht mehr voreingestellt ist."
+    },
+    {
+      "key": "j",
+      "why": "The headline mixes texts 4 and 5. Older people in the country (text 4) pay the normal fare – „der Fahrpreis entspricht dem gewöhnlichen Bustarif“; free travel in text 5 was only for households that gave up their car, for one year.",
+      "whyDe": "Die Überschrift mischt Text 4 und Text 5. Ältere Menschen auf dem Land (Text 4) zahlen den normalen Preis – „der Fahrpreis entspricht dem gewöhnlichen Bustarif“; kostenlos fahren durften in Text 5 nur Haushalte, die ihr Auto abgegeben haben, und nur ein Jahr lang."
+    }
+  ],
+  "glossary": [
+    { "de": "die Mogelpackung", "en": "deceptive packaging (less content, same-looking pack)" },
+    { "de": "die Füllmenge", "en": "net quantity, contents" },
+    { "de": "irreführend", "en": "misleading" },
+    { "de": "der Grundpreis", "en": "unit price (per kilogram or litre)" },
+    { "de": "etw. rückgängig machen", "en": "to reverse, undo sth" },
+    { "de": "der Stammgast", "en": "regular customer" },
+    { "de": "der Zahlungsaufschub", "en": "deferred payment" },
+    { "de": "die Mahngebühr", "en": "late-payment fee" },
+    { "de": "den Überblick verlieren", "en": "to lose track" },
+    { "de": "etw. bezuschussen", "en": "to subsidise sth" },
+    { "de": "ein Fahrzeug abmelden", "en": "to deregister a vehicle" },
+    { "de": "der Gewerbeverband", "en": "local business association" }
+  ]
+}

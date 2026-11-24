@@ -1,0 +1,118 @@
+{
+  "id": "lesen-1-10",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Zwischen Büro und Familie",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Umfrage: Die meisten Beschäftigten wollen kürzer arbeiten" },
+    { "key": "b", "text": "Bezahlte Umschulung: Kindergärten gewinnen Quereinsteiger" },
+    { "key": "c", "text": "Weniger Homeoffice, mehr Teamgeist: Firma zieht positive Bilanz" },
+    { "key": "d", "text": "Immer mehr Väter nehmen monatelang Elternzeit" },
+    { "key": "e", "text": "Längere Elternzeit prägt Väter auf Dauer" },
+    { "key": "f", "text": "Personalnot im Kindergarten: Ausbildung wird verkürzt" },
+    { "key": "g", "text": "Präsenzpflicht: Firma macht nach Kündigungen einen Rückzieher" },
+    { "key": "h", "text": "Mehr Stunden erwünscht: Was viele Teilzeitkräfte ausbremst" },
+    { "key": "i", "text": "Pflegende Angehörige: Firmen müssen künftig freistellen" },
+    { "key": "j", "text": "Zwischen Kindern und Eltern: Kanton will Pflegende entlasten" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Vor gut einem Jahr verpflichtete der Dortmunder IT-Dienstleister Datenwerk Ruhr seine rund 900 Beschäftigten, an mindestens drei festen Tagen pro Woche ins Büro zu kommen. Die Geschäftsführung versprach sich davon mehr Austausch zwischen den Abteilungen und einen stärkeren Zusammenhalt. Tatsächlich berichten Führungskräfte inzwischen von mehr spontanen Gesprächen auf den Fluren und von schneller gelösten Problemen. Gleichzeitig hat jedoch etwa jede achte Fachkraft das Unternehmen verlassen – überdurchschnittlich oft Eltern kleiner Kinder und Beschäftigte mit langen Anfahrtswegen –, und auf offene Stellen gingen spürbar weniger Bewerbungen ein. „Unter dem Strich ist die Bilanz ernüchternd“, räumt Personalchefin Birgit Kötter ein. „Wir haben unterschätzt, wie sehr die Flexibilität für viele inzwischen zur Lebensplanung gehört.“ Nun hat die Firma ihre Regel gelockert: Künftig sollen die Teams selbst festlegen, wie oft sie sich im Büro treffen; verbindlich bleibt lediglich ein gemeinsamer Präsenztag pro Woche. Ganz verabschieden will man sich vom Büro aber nicht – frei gewordene Arbeitsplätze werden zu Besprechungsräumen umgebaut.",
+      "answer": "g",
+      "explanation": "The company made three office days compulsory, but „etwa jede achte Fachkraft“ left, and now „hat die Firma ihre Regel gelockert“ – it backs down after the resignations, (g). Headline (c) picks out a detail (more spontaneous talks), but the HR manager calls the overall result „ernüchternd“.",
+      "explanationDe": "Die Firma hat drei Bürotage zur Pflicht gemacht, aber „etwa jede achte Fachkraft“ hat gekündigt. Jetzt „hat die Firma ihre Regel gelockert“ – sie macht also nach den Kündigungen einen Rückzieher, (g). Überschrift (c) nimmt nur ein Detail (mehr spontane Gespräche); insgesamt nennt die Personalchefin die Bilanz „ernüchternd“.",
+      "evidence": [
+        "etwa jede achte Fachkraft das Unternehmen verlassen",
+        "Nun hat die Firma ihre Regel gelockert"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Väter, die länger als die üblichen zwei Partnermonate in Elternzeit gehen, kümmern sich auch Jahre später deutlich mehr um ihre Kinder. Das geht aus einer Langzeitstudie des Leipziger Zentrums für Familienforschung hervor, für die rund 2.400 Familien über acht Jahre hinweg befragt wurden. Väter mit mindestens vier Monaten Elternzeit übernahmen demnach noch im Grundschulalter ihrer Kinder fast doppelt so häufig Aufgaben wie Arztbesuche, Elterngespräche oder die Organisation von Geburtstagsfeiern. Bemerkenswert sei, dass dieser Effekt unabhängig von Einkommen und Bildungsabschluss der Eltern auftrete, betont Studienleiter Malte Brodersen. Offenbar entstünden in den ersten Monaten Routinen, die sich später kaum noch umkehrten. Allerdings bleibt eine längere Auszeit der Väter die Ausnahme: Der Anteil derjenigen, die mehr als zwei Monate pausieren, stagniert seit Jahren bei rund zehn Prozent. Viele Männer fürchten nach wie vor berufliche Nachteile, andere verweisen auf finanzielle Einbußen, weil sie in der Familie mehr verdienen. Die Forschenden fordern deshalb, das Elterngeld für längere Partnerzeiten aufzustocken.",
+      "answer": "e",
+      "explanation": "Fathers who take longer parental leave „kümmern sich auch Jahre später deutlich mehr um ihre Kinder“, because routines from the first months „sich später kaum noch umkehrten“ – a lasting effect, (e). Headline (d) is wrong: the share of fathers taking more than two months „stagniert seit Jahren bei rund zehn Prozent“.",
+      "explanationDe": "Väter mit längerer Elternzeit „kümmern sich auch Jahre später deutlich mehr um ihre Kinder“, weil sich die Routinen aus den ersten Monaten „später kaum noch umkehrten“. Die Wirkung bleibt also, (e). Überschrift (d) ist falsch: Der Anteil der Väter, die mehr als zwei Monate pausieren, „stagniert seit Jahren bei rund zehn Prozent“.",
+      "evidence": [
+        "kümmern sich auch Jahre später deutlich mehr um ihre Kinder",
+        "Routinen, die sich später kaum noch umkehrten"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "In Tirol fehlen nach Schätzungen des Landes derzeit rund 400 Kindergartenpädagoginnen und -pädagogen; in manchen Gemeinden müssen Gruppen deshalb bereits um 13 Uhr schließen. Um die Lücke zu verkleinern, setzt das Land seit dem vergangenen Herbst verstärkt auf Quereinsteigerinnen und Quereinsteiger: Wer mindestens 25 Jahre alt ist und bereits in einem anderen Beruf gearbeitet hat, kann sich berufsbegleitend ausbilden lassen und ist währenddessen als Assistenzkraft in einem Kindergarten angestellt – bei vollem Gehalt. Die Resonanz übertraf alle Erwartungen: Auf die 120 Plätze des ersten Jahrgangs kamen fast 700 Bewerbungen, vor allem aus dem Handel, der Gastronomie und aus Büroberufen, darunter auffallend viele Männer. Gewerkschaftsvertreter hatten anfangs gewarnt, die Qualität der Betreuung könne unter einer Schnellausbildung leiden. Das Land betont jedoch, die Ausbildung werde keineswegs verkürzt, sondern lediglich auf drei statt zwei Jahre verteilt, damit sie sich mit der Arbeit vereinbaren lasse. Ob die neuen Fachkräfte dem Beruf langfristig treu bleiben, soll nun eine Begleitstudie klären.",
+      "answer": "b",
+      "explanation": "To fight the staff shortage, Tyrol trains career changers „berufsbegleitend“ while they work in a kindergarten „bei vollem Gehalt“, and almost 700 people applied for 120 places – (b). Headline (f) is a trap: the union feared a „Schnellausbildung“, but the training „werde keineswegs verkürzt“.",
+      "explanationDe": "Gegen den Personalmangel bildet Tirol Quereinsteiger „berufsbegleitend“ aus; sie arbeiten dabei im Kindergarten, „bei vollem Gehalt“. Auf 120 Plätze kamen fast 700 Bewerbungen – (b). Überschrift (f) ist eine Falle: Die Gewerkschaft fürchtete eine „Schnellausbildung“, aber die Ausbildung „werde keineswegs verkürzt“.",
+      "evidence": [
+        "setzt das Land seit dem vergangenen Herbst verstärkt auf Quereinsteigerinnen und Quereinsteiger",
+        "Auf die 120 Plätze des ersten Jahrgangs kamen fast 700 Bewerbungen"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Rund ein Drittel der Teilzeitbeschäftigten in Österreich würde gern mehr Stunden arbeiten, findet aber keine Möglichkeit dazu. Zu diesem Ergebnis kommt eine Befragung des Wiener Instituts für Arbeitszeitforschung unter 3.000 Erwerbstätigen. Besonders häufig äußerten Frauen im Handel und in der Pflege diesen Wunsch. Als größtes Hindernis nannten die Befragten fehlende Kinderbetreuung am Nachmittag, gefolgt von Arbeitgebern, die keine längeren Verträge anbieten, und von Dienstplänen, die sich kaum mit dem Familienleben vereinbaren lassen. Würden alle Betroffenen ihre Arbeitszeit wie gewünscht aufstocken, entspräche das nach Berechnungen des Instituts etwa 60.000 zusätzlichen Vollzeitstellen – angesichts des Fachkräftemangels ein beträchtliches Potenzial. Umgekehrt möchte zwar auch ein Teil der Vollzeitkräfte kürzer arbeiten, doch diese Gruppe ist mit knapp zwölf Prozent deutlich kleiner. Die Studienautorinnen warnen daher davor, Teilzeit pauschal als Wunsch nach weniger Arbeit zu deuten. Häufig handle es sich vielmehr um eine Notlösung, die sich aus fehlenden Alternativen ergebe.",
+      "answer": "h",
+      "explanation": "About a third of part-time workers „würde gern mehr Stunden arbeiten, findet aber keine Möglichkeit dazu“; the text names the obstacles, above all missing afternoon childcare – (h). Headline (a) turns the result around: only „knapp zwölf Prozent“ of full-time workers want shorter hours, a much smaller group.",
+      "explanationDe": "Etwa ein Drittel der Teilzeitkräfte „würde gern mehr Stunden arbeiten, findet aber keine Möglichkeit dazu“. Der Text nennt die Hindernisse, vor allem fehlende Kinderbetreuung am Nachmittag – (h). Überschrift (a) dreht das Ergebnis um: Nur „knapp zwölf Prozent“ der Vollzeitkräfte wollen kürzer arbeiten, eine viel kleinere Gruppe.",
+      "evidence": [
+        "würde gern mehr Stunden arbeiten, findet aber keine Möglichkeit dazu",
+        "Als größtes Hindernis nannten die Befragten fehlende Kinderbetreuung am Nachmittag"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Morgens die Kinder zur Schule bringen, mittags bei der Mutter nach dem Rechten sehen, abends noch schnell die Einkäufe für den Vater erledigen: Für viele Menschen zwischen 45 und 60 gehört diese Doppelbelastung zum Alltag. Laut einer Umfrage im Auftrag des Kantons Luzern betreut fast jede fünfte Person dieser Altersgruppe gleichzeitig eigene Kinder und pflegebedürftige Eltern. Mehr als die Hälfte von ihnen fühlt sich häufig erschöpft, rund ein Viertel hat das eigene Arbeitspensum reduziert, um alles unter einen Hut zu bringen. Der Kanton will die sogenannte Sandwich-Generation nun gezielt entlasten. Ab Januar besuchen geschulte Freiwillige ältere Menschen mehrere Stunden pro Woche, damit Angehörige sich Zeit für sich selbst nehmen können. Zudem soll eine zentrale Beratungsstelle über Unterstützungsangebote informieren, die bisher auf zahlreiche Ämter verteilt sind. Eine gesetzliche Pflicht für Arbeitgeber, Betroffene zeitweise freizustellen, wie sie Gewerkschaften seit Langem fordern, sieht das Konzept dagegen nicht vor. Der Regierungsrat setzt stattdessen auf freiwillige Vereinbarungen mit Unternehmen.",
+      "answer": "j",
+      "explanation": "The text describes people who look after „eigene Kinder und pflegebedürftige Eltern“ at the same time, and „Der Kanton will die sogenannte Sandwich-Generation nun gezielt entlasten“ – (j). Headline (i) is wrong: a legal duty for employers to give carers time off „sieht das Konzept dagegen nicht vor“.",
+      "explanationDe": "Der Text beschreibt Menschen, die sich gleichzeitig um „eigene Kinder und pflegebedürftige Eltern“ kümmern, und „Der Kanton will die sogenannte Sandwich-Generation nun gezielt entlasten“ – (j). Überschrift (i) ist falsch: Eine gesetzliche Pflicht für Arbeitgeber, Pflegende freizustellen, „sieht das Konzept dagegen nicht vor“.",
+      "evidence": [
+        "gleichzeitig eigene Kinder und pflegebedürftige Eltern",
+        "Der Kanton will die sogenannte Sandwich-Generation nun gezielt entlasten"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "a",
+      "why": "Text 4 is a survey about working hours, but most people do not want to work less: many part-timers would like more hours, and only „knapp zwölf Prozent“ of full-time workers want shorter ones.",
+      "whyDe": "Text 4 ist eine Umfrage zur Arbeitszeit, aber die meisten wollen nicht weniger arbeiten: Viele Teilzeitkräfte wünschen sich mehr Stunden, und nur „knapp zwölf Prozent“ der Vollzeitkräfte wollen kürzer arbeiten."
+    },
+    {
+      "key": "c",
+      "why": "Text 1 does mention more spontaneous conversations in the office, but overall the HR manager calls the result „ernüchternd“ because many specialists left – that is why the rule was relaxed.",
+      "whyDe": "Text 1 erwähnt zwar mehr spontane Gespräche im Büro, aber insgesamt nennt die Personalchefin die Bilanz „ernüchternd“, weil viele Fachkräfte gekündigt haben – deshalb wurde die Regel gelockert."
+    },
+    {
+      "key": "d",
+      "why": "Text 2 is about fathers on longer parental leave, but this remains „die Ausnahme“: the share „stagniert seit Jahren bei rund zehn Prozent“, so it is not growing.",
+      "whyDe": "In Text 2 geht es um Väter mit längerer Elternzeit, aber das bleibt „die Ausnahme“: Der Anteil „stagniert seit Jahren bei rund zehn Prozent“, er wächst also nicht."
+    },
+    {
+      "key": "f",
+      "why": "Text 3 mentions the union's fear of a „Schnellausbildung“, but the province says the training „werde keineswegs verkürzt“ – it is only spread over three instead of two years.",
+      "whyDe": "Text 3 erwähnt die Angst der Gewerkschaft vor einer „Schnellausbildung“, aber das Land sagt, die Ausbildung „werde keineswegs verkürzt“ – sie dauert nur drei statt zwei Jahre."
+    },
+    {
+      "key": "i",
+      "why": "Text 5 mentions time off for carers only as a trade-union demand: a legal duty for employers „sieht das Konzept dagegen nicht vor“; the canton relies on voluntary agreements.",
+      "whyDe": "Text 5 erwähnt eine Freistellung für Pflegende nur als Forderung der Gewerkschaften: Eine gesetzliche Pflicht für Arbeitgeber „sieht das Konzept dagegen nicht vor“. Der Kanton setzt auf freiwillige Vereinbarungen."
+    }
+  ],
+  "glossary": [
+    { "de": "die Präsenzpflicht", "en": "obligation to work on site (in the office)" },
+    { "de": "einen Rückzieher machen", "en": "to back down, to backtrack" },
+    { "de": "ernüchternd", "en": "sobering, disappointing" },
+    { "de": "der Anfahrtsweg", "en": "commute, journey to work" },
+    { "de": "die Elternzeit", "en": "parental leave" },
+    { "de": "die Einbuße", "en": "loss (e.g. of income)" },
+    { "de": "der Quereinsteiger / die Quereinsteigerin", "en": "career changer, someone entering a job from another field" },
+    { "de": "berufsbegleitend", "en": "alongside one's job, while working" },
+    { "de": "die Arbeitszeit aufstocken", "en": "to increase one's working hours" },
+    { "de": "die Notlösung", "en": "stopgap, makeshift solution" },
+    { "de": "pflegebedürftig", "en": "in need of (long-term) care" },
+    { "de": "jemanden freistellen", "en": "to release someone from work, to give someone time off" }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "b2-sprechen-teil-2",
+  "level": "B2",
+  "order": 105,
+  "context": "sprechen-2",
+  "title": "Diskussion",
+  "titleEn": "Discussion",
+  "description": "For Teil 2 of the B2 oral exam: present the newspaper article briefly in your own words – with reporting phrases and Konjunktiv I – and say which aspects you find interesting. Then have a real discussion: give a nuanced opinion, back it up with reasons and examples, contradict and concede, follow up on your partner's arguments and look for common ground. These phrases add to the B1 bank „Über ein Thema sprechen“; the ones addressed to your partner use „du“ – switch to „Sie“ if that is what you agreed.",
+  "descriptionDe": "Für Teil 2 der mündlichen B2-Prüfung: Stell den Zeitungsartikel kurz mit eigenen Worten vor – mit Redeeinleitungen und Konjunktiv I – und sag, welche Aspekte du interessant findest. Führ dann eine echte Diskussion: Äußere deine Meinung differenziert, begründe sie mit Argumenten und Beispielen, widersprich und räum etwas ein, hak bei den Argumenten deines Gegenübers nach und such nach Gemeinsamkeiten. Diese Redemittel ergänzen die B1-Redemittel „Über ein Thema sprechen“; die Sätze an dein Gegenüber verwenden „du“ – wechsle zu „Sie“, wenn ihr das so vereinbart habt.",
+  "groups": [
+    {
+      "title": "Den Artikel vorstellen",
+      "titleEn": "Introducing the article",
+      "register": "neutral",
+      "phrases": [
+        { "de": "In dem Artikel geht es um die Frage, ob Supermärkte auch sonntags öffnen sollten.", "en": "The article is about whether supermarkets should also open on Sundays.", "note": "Name the central question first – that gives your summary a clear frame.", "noteDe": "Nenne zuerst die zentrale Frage – so hat deine Zusammenfassung einen klaren Rahmen." },
+        { "de": "Der Text befasst sich mit einer aktuellen Studie zur Bildschirmzeit von Kindern.", "en": "The text deals with a recent study on children's screen time.", "note": "sich befassen mit + dative = to deal with", "noteDe": "sich befassen mit + Dativ = sich beschäftigen mit" },
+        { "de": "Der Artikel stammt aus der „…“ und greift eine Debatte auf, die zurzeit viele Menschen beschäftigt.", "en": "The article is from the „…“ and takes up a debate that is on many people's minds at the moment.", "note": "aufgreifen = to take up (a topic)", "noteDe": "aufgreifen = ein Thema aufnehmen und besprechen" },
+        { "de": "Ausgangspunkt ist ein Vorschlag der Stadtverwaltung, das Zentrum für Autos zu sperren.", "en": "The starting point is a proposal by the city council to close the centre to cars.", "note": "der Ausgangspunkt = starting point", "noteDe": "der Ausgangspunkt = der Anlass, der Anfang" },
+        { "de": "Zunächst werden die Ergebnisse einer Umfrage vorgestellt.", "en": "First, the results of a survey are presented.", "note": "Passive (werden + Partizip II) – typical for describing what a text does", "noteDe": "Passiv (werden + Partizip II) – typisch, wenn du beschreibst, was in einem Text passiert" },
+        { "de": "Anschließend kommen Befürworter und Gegner zu Wort.", "en": "Then supporters and opponents have their say.", "note": "zu Wort kommen = to get a chance to speak; der Befürworter = supporter", "noteDe": "zu Wort kommen = seine Meinung sagen dürfen; der Befürworter = jemand, der für etwas ist" }
+      ]
+    },
+    {
+      "title": "Wiedergeben: Redeeinleitung und Konjunktiv I",
+      "titleEn": "Reporting: introducing reported speech, Konjunktiv I",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Laut dem Artikel arbeitet inzwischen fast jeder dritte Beschäftigte regelmäßig von zu Hause aus.", "en": "According to the article, almost one in three employees now regularly works from home.", "note": "laut + dative (in writing often genitive); after „laut“ the indicative is fine", "noteDe": "laut + Dativ (schriftlich oft Genitiv); nach „laut“ ist der Indikativ in Ordnung" },
+        { "de": "Dem Bericht zufolge wollen mehrere Bundesländer das Modell testen.", "en": "According to the report, several federal states want to test the model.", "note": "zufolge comes after the noun and takes the dative", "noteDe": "zufolge steht nach dem Nomen und hat den Dativ" },
+        { "de": "Nach Angaben des Forschungsteams hat sich die Zahl seit 2015 fast verdoppelt.", "en": "According to the research team, the number has almost doubled since 2015.", "note": "nach Angaben + genitive = according to (figures from)", "noteDe": "nach Angaben + Genitiv = nach den Informationen von" },
+        { "de": "Die Autorin stellt die These auf, dass Schulnoten die Motivation eher bremsen als fördern.", "en": "The author puts forward the thesis that school grades tend to curb motivation rather than encourage it.", "note": "eine These aufstellen = to put forward a thesis", "noteDe": "„eine These aufstellen“ = eine Behauptung formulieren" },
+        { "de": "Der Bürgermeister betont, die Stadt habe keine andere Wahl.", "en": "The mayor stresses that the city has no other choice.", "note": "Konjunktiv I (er habe, sei, könne, müsse) shows that you are reporting someone else's words – also without „dass“ (then with main-clause word order).", "noteDe": "Konjunktiv I (er habe, sei, könne, müsse) zeigt, dass du die Worte einer anderen Person wiedergibst – auch ohne „dass“ (dann mit der Wortstellung eines Hauptsatzes)." },
+        { "de": "Eine Expertin wird mit den Worten zitiert, das Problem sei vor allem eine Frage des Geldes.", "en": "An expert is quoted as saying that the problem is mainly a question of money.", "note": "jemand wird mit den Worten zitiert, … = someone is quoted as saying …", "noteDe": "jemand wird mit den Worten zitiert, … = jemand hat laut Text Folgendes gesagt: …" },
+        { "de": "Die Befürworter argumentieren, eine solche Regel komme allen zugute.", "en": "Supporters argue that such a rule benefits everyone.", "note": "zugutekommen + dative = to benefit; Konjunktiv I: es komme … zugute", "noteDe": "zugutekommen + Dativ = einen Vorteil bringen; Konjunktiv I: es komme … zugute" },
+        { "de": "Kritiker wenden ein, dadurch würden vor allem kleine Betriebe belastet.", "en": "Critics object that this would mainly put a burden on small businesses.", "note": "When Konjunktiv I looks like the indicative (sie werden), use Konjunktiv II (sie würden) instead.", "noteDe": "Wenn der Konjunktiv I wie der Indikativ aussieht (sie werden), nimm stattdessen den Konjunktiv II (sie würden)." },
+        { "de": "Wie es im Text heißt, soll das Projekt zunächst zwei Jahre laufen.", "en": "As the text puts it, the project is to run for two years initially.", "note": "sollen here = it is planned / reported that", "noteDe": "sollen bedeutet hier: Es ist geplant oder es wird berichtet, dass …" },
+        { "de": "Der Verfasser kommt zu dem Schluss, dass ein Verbot allein nicht ausreicht.", "en": "The author comes to the conclusion that a ban on its own is not enough.", "note": "zu dem Schluss kommen = to conclude", "noteDe": "zu dem Schluss kommen = am Ende feststellen" }
+      ]
+    },
+    {
+      "title": "Interessante Aspekte hervorheben",
+      "titleEn": "Highlighting what you find interesting",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Besonders aufschlussreich finde ich die Zahlen zu den Pendelzeiten.", "en": "I find the figures on commuting times particularly revealing.", "note": "aufschlussreich = revealing, informative", "noteDe": "aufschlussreich = so, dass man viel daraus lernt" },
+        { "de": "Was mich an dem Artikel überrascht hat, ist die Tatsache, dass vor allem Ältere dafür sind.", "en": "What surprised me about the article is the fact that it's mainly older people who are in favour." },
+        { "de": "Ein Aspekt, der im Text nur am Rande erwähnt wird, ist meiner Meinung nach zentral: die Kosten.", "en": "One aspect that the text only mentions in passing is central in my view: the costs.", "note": "am Rande = in passing", "noteDe": "am Rande = nur kurz, nebenbei" },
+        { "de": "Ich finde es bezeichnend, dass sich gerade junge Leute für eine Pflicht aussprechen.", "en": "I find it telling that it's young people in particular who come out in favour of making it compulsory.", "note": "bezeichnend = telling; sich aussprechen für / gegen = to come out in favour of / against", "noteDe": "bezeichnend = typisch und vielsagend; sich aussprechen für / gegen = öffentlich für / gegen etwas sein" },
+        { "de": "Der Artikel lässt allerdings offen, wer das Ganze bezahlen soll.", "en": "However, the article leaves open who is supposed to pay for it all.", "note": "offenlassen = to leave open (unanswered)", "noteDe": "offenlassen = nicht beantworten, nicht entscheiden" },
+        { "de": "Mir fehlt in dem Text die Perspektive der Betroffenen.", "en": "What I miss in the text is the perspective of the people affected.", "note": "die Betroffenen = the people affected (adjective used as a noun)", "noteDe": "die Betroffenen = die Menschen, die es direkt betrifft (Adjektiv als Nomen)" }
+      ]
+    },
+    {
+      "title": "Die Meinung differenziert äußern",
+      "titleEn": "Giving a nuanced opinion",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich stehe dem Vorschlag eher skeptisch gegenüber.", "en": "I'm rather sceptical about the proposal.", "note": "einer Sache skeptisch / offen gegenüberstehen + dative", "noteDe": "einer Sache skeptisch / offen gegenüberstehen + Dativ" },
+        { "de": "Grundsätzlich halte ich das für eine gute Idee, allerdings nur unter bestimmten Bedingungen.", "en": "In principle I think it's a good idea, but only under certain conditions.", "note": "halten für + accusative = to consider", "noteDe": "halten für + Akkusativ = finden, meinen" },
+        { "de": "Ich bin in dieser Frage ehrlich gesagt hin- und hergerissen.", "en": "To be honest, I'm torn on this question.", "note": "hin- und hergerissen sein = to be torn", "noteDe": "hin- und hergerissen sein = sich nicht entscheiden können" },
+        { "de": "Ich tendiere eher zu der Auffassung, dass ein Verbot zu weit geht.", "en": "I tend towards the view that a ban goes too far.", "note": "tendieren zu + dative = to tend towards", "noteDe": "tendieren zu + Dativ = eher in eine Richtung denken" },
+        { "de": "Für mich steht außer Frage, dass sich etwas ändern muss.", "en": "For me, there's no question that something has to change.", "note": "außer Frage stehen = to be beyond doubt", "noteDe": "außer Frage stehen = ganz sicher sein" },
+        { "de": "So pauschal kann man das meiner Meinung nach nicht sagen.", "en": "I don't think you can make such a sweeping statement.", "note": "pauschal = sweeping, across the board", "noteDe": "pauschal = ohne Unterschiede, für alle gleich" },
+        { "de": "Es spricht einiges dafür, aber ebenso viel dagegen.", "en": "There's quite a lot to be said for it, but just as much against it.", "note": "Es spricht viel / einiges für / gegen … = there is a lot / quite a bit to be said for / against …", "noteDe": "Es spricht viel / einiges für / gegen … = es gibt viele / einige Argumente für / gegen …" },
+        { "de": "Ich vertrete den Standpunkt, dass der Staat hier stärker eingreifen sollte.", "en": "My position is that the state should intervene more here.", "note": "einen Standpunkt vertreten = to take a position", "noteDe": "einen Standpunkt vertreten = eine Meinung haben und verteidigen" }
+      ]
+    },
+    {
+      "title": "Argumentieren, begründen, Beispiele nennen",
+      "titleEn": "Arguing, giving reasons and examples",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Das entscheidende Argument ist für mich, dass …", "en": "For me, the decisive argument is that …" },
+        { "de": "Das liegt vor allem daran, dass viele Familien auf zwei Einkommen angewiesen sind.", "en": "That's mainly because many families depend on two incomes.", "note": "liegen an + dative: daran, dass … = to be due to; angewiesen sein auf + accusative = to depend on", "noteDe": "liegen an + Dativ: daran, dass … = der Grund ist, dass …; angewiesen sein auf + Akkusativ = etwas unbedingt brauchen" },
+        { "de": "Hinzu kommt, dass die Mieten in den Städten ständig steigen.", "en": "On top of that, rents in the cities keep rising.", "note": "Hinzu kommt, dass … = in addition, on top of that", "noteDe": "Hinzu kommt, dass … = außerdem gibt es noch den Punkt, dass …" },
+        { "de": "Je mehr Menschen das Angebot nutzen, desto günstiger wird es für alle.", "en": "The more people use the service, the cheaper it gets for everyone.", "note": "je + comparative (verb at the end), desto + comparative (verb second)", "noteDe": "je + Komparativ (Verb am Ende), desto + Komparativ (Verb auf Position 2)" },
+        { "de": "Das hätte zur Folge, dass noch mehr Menschen aufs Land ziehen.", "en": "That would mean even more people moving to the countryside.", "note": "etwas zur Folge haben = to result in something", "noteDe": "etwas zur Folge haben = etwas als Ergebnis haben" },
+        { "de": "Man sollte dabei nicht außer Acht lassen, dass nicht jeder einen Computer zu Hause hat.", "en": "We shouldn't lose sight of the fact that not everyone has a computer at home.", "note": "außer Acht lassen = to disregard", "noteDe": "außer Acht lassen = nicht beachten" },
+        { "de": "Nehmen wir zum Beispiel meine Nachbarin: Sie pflegt ihre Mutter und arbeitet trotzdem Vollzeit.", "en": "Take my neighbour, for example: she cares for her mother and still works full time." },
+        { "de": "Das zeigt sich etwa daran, dass immer mehr Betriebe Nachwuchs suchen.", "en": "You can see that, for example, in the fact that more and more firms are looking for young recruits.", "note": "sich zeigen an + dative: daran, dass …; der Nachwuchs = the next generation (of workers)", "noteDe": "sich zeigen an + Dativ: daran, dass …; der Nachwuchs = junge Leute, die neu in einen Beruf kommen" },
+        { "de": "Angenommen, das Parken in der Innenstadt würde doppelt so viel kosten – wer würde dann noch mit dem Auto kommen?", "en": "Suppose parking in the city centre cost twice as much – who would still come by car then?", "note": "Angenommen, … + Konjunktiv II = suppose …", "noteDe": "Angenommen, … + Konjunktiv II = stell dir vor, …" },
+        { "de": "In den skandinavischen Ländern beispielsweise gibt es das schon seit Jahren.", "en": "In the Scandinavian countries, for example, that has existed for years." }
+      ]
+    },
+    {
+      "title": "Widersprechen und Einwände erheben",
+      "titleEn": "Contradicting and raising objections",
+      "register": "informal",
+      "phrases": [
+        { "de": "Das überzeugt mich ehrlich gesagt nicht.", "en": "To be honest, that doesn't convince me." },
+        { "de": "Dem kann ich so nicht zustimmen.", "en": "I can't agree with that as it stands.", "note": "„dem“ (dative) refers back to what was just said", "noteDe": "„dem“ (Dativ) bezieht sich auf das, was gerade gesagt wurde" },
+        { "de": "Ich glaube, du übersiehst dabei einen wichtigen Punkt: …", "en": "I think you're overlooking an important point: …", "note": "Sie-form: „… übersehen Sie dabei …“", "noteDe": "Sie-Form: „… übersehen Sie dabei …“" },
+        { "de": "Das mag für Großstädte gelten, auf dem Land sieht die Sache aber ganz anders aus.", "en": "That may be true of big cities, but in the countryside things look quite different.", "note": "mögen + infinitive = it may well be that … (a concession before the objection)", "noteDe": "mögen + Infinitiv = es kann schon sein, dass … (ein Zugeständnis vor dem Einwand)" },
+        { "de": "Ist das nicht ein bisschen zu kurz gedacht?", "en": "Isn't that a bit short-sighted?", "note": "zu kurz gedacht = not thought through", "noteDe": "zu kurz gedacht = nicht zu Ende gedacht" },
+        { "de": "Wenn das so wäre, müssten doch längst alle Firmen die Viertagewoche eingeführt haben.", "en": "If that were the case, surely all companies would have introduced the four-day week long ago.", "note": "Konjunktiv II: show that the argument leads to an unlikely result.", "noteDe": "Konjunktiv II: Du zeigst, dass das Argument zu einem unwahrscheinlichen Ergebnis führt." },
+        { "de": "Mit diesem Argument tue ich mich schwer, weil es die Kosten völlig ausblendet.", "en": "I have trouble with that argument because it completely ignores the costs.", "note": "sich schwertun mit + dative = to have difficulty with; ausblenden = to block out", "noteDe": "sich schwertun mit + Dativ = Probleme haben mit; ausblenden = nicht beachten" }
+      ]
+    },
+    {
+      "title": "Einräumen und relativieren",
+      "titleEn": "Conceding and qualifying",
+      "register": "informal",
+      "phrases": [
+        { "de": "Da hast du zwar recht, trotzdem sollte man bedenken, dass …", "en": "You may be right there, but we should still bear in mind that …", "note": "zwar … trotzdem / aber: first concede, then object", "noteDe": "zwar … trotzdem / aber: zuerst zustimmen, dann einwenden" },
+        { "de": "Zugegeben, das ist ein starkes Argument. Allerdings …", "en": "Admittedly, that's a strong argument. However, …" },
+        { "de": "Ich räume ein, dass der Vorschlag durchaus etwas für sich hat.", "en": "I admit that the proposal certainly has something going for it.", "note": "einräumen = to concede; etwas für sich haben = to have its merits", "noteDe": "einräumen = zugeben; etwas für sich haben = auch gute Seiten haben" },
+        { "de": "In diesem Punkt muss ich dir recht geben.", "en": "On this point I have to admit you're right.", "note": "jemandem recht geben + dative; Sie-form: „… muss ich Ihnen recht geben.“", "noteDe": "jemandem recht geben + Dativ; Sie-Form: „… muss ich Ihnen recht geben.“" },
+        { "de": "So gesehen hast du natürlich recht.", "en": "Seen that way, you're right of course." },
+        { "de": "Ich gebe dir insofern recht, als die Kosten tatsächlich steigen würden.", "en": "I agree with you insofar as the costs really would go up.", "note": "insofern …, als … = insofar as (two-part connector; verb at the end after „als“)", "noteDe": "insofern …, als … = in dem Punkt, dass … (zweiteiliger Konnektor; nach „als“ steht das Verb am Ende)" },
+        { "de": "Das ist sicher richtig, nur darf man die Nebenwirkungen nicht unterschätzen.", "en": "That's certainly true – only you mustn't underestimate the side effects.", "note": "„nur“ here means „but“ and is followed directly by the verb", "noteDe": "„nur“ bedeutet hier „aber“; danach folgt direkt das Verb" }
+      ]
+    },
+    {
+      "title": "Nachhaken",
+      "titleEn": "Following up",
+      "register": "informal",
+      "phrases": [
+        { "de": "Was genau verstehst du unter „fair“?", "en": "What exactly do you mean by „fair“?", "note": "verstehen unter + dative = to mean by", "noteDe": "verstehen unter + Dativ = mit einem Wort meinen" },
+        { "de": "Woran machst du das fest?", "en": "What are you basing that on?", "note": "etwas festmachen an + dative = to base (a judgement) on", "noteDe": "etwas festmachen an + Dativ = etwas mit etwas begründen" },
+        { "de": "Und wie würdest du das konkret umsetzen?", "en": "And how would you put that into practice?", "note": "umsetzen = to put into practice, implement", "noteDe": "umsetzen = in die Praxis bringen" },
+        { "de": "Wie passt das mit dem zusammen, was du vorhin gesagt hast?", "en": "How does that fit with what you said earlier?", "note": "zusammenpassen mit + dative; „dem, was …“ = what", "noteDe": "zusammenpassen mit + Dativ; „dem, was …“ = mit der Sache, die …" },
+        { "de": "Heißt das, du wärst grundsätzlich gegen jede Form von Kontrolle?", "en": "Does that mean you'd be against any form of control on principle?" },
+        { "de": "Gilt das deiner Meinung nach auch für Familien mit kleinen Kindern?", "en": "In your opinion, does that also apply to families with small children?", "note": "Sie-form: „Gilt das Ihrer Meinung nach …?“", "noteDe": "Sie-Form: „Gilt das Ihrer Meinung nach …?“" }
+      ]
+    },
+    {
+      "title": "Gemeinsamkeiten finden und zusammenfassen",
+      "titleEn": "Finding common ground and summing up",
+      "register": "informal",
+      "phrases": [
+        { "de": "Vielleicht liegt die Wahrheit irgendwo in der Mitte.", "en": "Maybe the truth lies somewhere in between." },
+        { "de": "Eine mögliche Lösung wäre, das Angebot zunächst freiwillig zu machen.", "en": "One possible solution would be to make the scheme voluntary at first." },
+        { "de": "Könnten wir uns darauf einigen, dass es ohne staatliche Förderung nicht geht?", "en": "Could we agree that it won't work without state funding?", "note": "sich einigen auf + accusative: darauf, dass …", "noteDe": "sich einigen auf + Akkusativ: darauf, dass …" },
+        { "de": "Zumindest in einem Punkt liegen wir gar nicht so weit auseinander: …", "en": "At least on one point we're not that far apart: …", "note": "auseinanderliegen = to be far apart (of opinions)", "noteDe": "auseinanderliegen = sehr verschieden sein (bei Meinungen)" },
+        { "de": "Unterm Strich wollen wir doch beide dasselbe – nur auf unterschiedlichen Wegen.", "en": "At the end of the day we both want the same thing – just in different ways.", "note": "unterm Strich = at the end of the day, all things considered", "noteDe": "unterm Strich = wenn man alles zusammennimmt" },
+        { "de": "Fassen wir zusammen: Du legst mehr Wert auf Sicherheit, mir ist die Freiheit des Einzelnen wichtiger.", "en": "Let's sum up: you place more value on security, while individual freedom matters more to me.", "note": "Wert legen auf + accusative = to attach importance to", "noteDe": "Wert legen auf + Akkusativ = etwas wichtig finden" },
+        { "de": "Auch wenn wir nicht in allen Punkten übereinstimmen, war das eine spannende Diskussion.", "en": "Even if we don't agree on every point, that was an exciting discussion.", "note": "übereinstimmen = to agree, to be of the same opinion", "noteDe": "übereinstimmen = die gleiche Meinung haben" }
+      ]
+    }
+  ]
+}

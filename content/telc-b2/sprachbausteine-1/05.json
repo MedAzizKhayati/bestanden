@@ -1,0 +1,142 @@
+{
+  "id": "sprachbausteine-1-05",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Schon wieder kalte Heizkörper",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "text": "Sehr geehrter Herr Thielemann,\n\nhiermit wende ich mich erneut an Sie, weil die Heizung in unserem Haus in der Lindenstraße 27 seit Anfang November bereits zum dritten Mal [[1]] ist. [[2]] die Heizkörper in den unteren Etagen wenigstens lauwarm werden, bleiben sie bei uns im dritten Stock jedes Mal tagelang völlig kalt. Abends sitzen wir deshalb mit dicken Pullovern und Decken im Wohnzimmer. Besonders belastend ist die Situation für meine 82-jährige Nachbarin, die bei diesem Wetter kaum noch das Haus verlässt.\n\nBei meinem Anruf in Ihrem Büro am 14. November hat man mir lediglich mitgeteilt, ein Techniker sei bereits informiert. Danach ist jedoch eine ganze Woche lang nichts passiert, [[3]] ich angesichts der frostigen Temperaturen nicht nachvollziehen kann. Ihrem Kollegen [[4]] wurde das defekte Ventil schließlich am 21. November ausgetauscht. Zwei Tage später streikte die Anlage jedoch erneut.\n\nOffenbar hat bisher niemand nach der eigentlichen Ursache der Störungen gesucht – diesen Eindruck teilen übrigens auch alle Nachbarn, mit denen ich gesprochen habe. Ich bitte Sie daher dringend, bei den seit Wochen [[5]] Problemen endlich dauerhaft [[6]] zu schaffen, statt immer nur einzelne Teile zu ersetzen. Ich gehe [[7]] aus, dass Sie als Hausverwaltung Ihre Verantwortung gegenüber den Mietern ernst nehmen.\n\nBitte teilen Sie mir [[8]] der nächsten zehn Tage schriftlich mit, welche Maßnahmen Sie konkret planen. Ich erwarte, dass die Heizung spätestens ab Dezember wieder zuverlässig funktioniert. [[9]] werde ich die Miete angemessen mindern und mir weitere rechtliche [[10]] vorbehalten.\n\nMit freundlichen Grüßen\nJolanta Kowalczyk\nLindenstraße 27, 3. OG links",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "abgefallen" },
+        { "key": "b", "text": "ausgefallen" },
+        { "key": "c", "text": "entfallen" }
+      ],
+      "answer": "b",
+      "explanation": "„ausfallen“ is the usual verb when a machine or system stops working: „Die Heizung ist ausgefallen“. „abfallen“ means to fall off (leaves, paint), and „entfallen“ means to be cancelled or dropped (e.g. a fee) – neither fits a heating system.",
+      "explanationDe": "„ausfallen“ benutzt man, wenn ein Gerät oder eine Anlage nicht mehr funktioniert: „Die Heizung ist ausgefallen“. „abfallen“ heißt „sich lösen und herunterfallen“ (zum Beispiel Blätter oder Farbe), und „entfallen“ bedeutet „wegfallen, nicht stattfinden“ (zum Beispiel eine Gebühr) – beides passt nicht zur Heizung."
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "Seitdem" },
+        { "key": "b", "text": "Nachdem" },
+        { "key": "c", "text": "Während" }
+      ],
+      "answer": "c",
+      "explanation": "The sentence contrasts two floors: downstairs the radiators get at least lukewarm, upstairs they stay cold. „Während“ can express exactly this contrast (= whereas). „Seitdem“ (since) and „Nachdem“ (after) only express time, and there is no time sequence between the two facts.",
+      "explanationDe": "Der Satz stellt zwei Etagen gegenüber: Unten werden die Heizkörper wenigstens lauwarm, oben bleiben sie kalt. Genau diesen Gegensatz kann „Während“ ausdrücken (= wohingegen). „Seitdem“ und „Nachdem“ drücken nur eine Zeitfolge aus, und die gibt es zwischen den beiden Tatsachen nicht.",
+      "grammar": "adversative-saetze"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "was" },
+        { "key": "b", "text": "das" },
+        { "key": "c", "text": "welches" }
+      ],
+      "answer": "a",
+      "explanation": "The relative clause refers to the whole previous statement („eine ganze Woche lang nichts passiert“), not to a single noun – in that case the relative pronoun is „was“. „das“ and „welches“ would need a neuter noun to refer to.",
+      "explanationDe": "Der Relativsatz bezieht sich auf die ganze Aussage davor („eine ganze Woche lang nichts passiert“), nicht auf ein einzelnes Nomen. Dann heißt das Relativpronomen „was“. „das“ und „welches“ bräuchten ein neutrales Nomen als Bezugswort.",
+      "grammar": "relativsaetze-b2"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "laut" },
+        { "key": "b", "text": "zufolge" },
+        { "key": "c", "text": "wegen" }
+      ],
+      "answer": "b",
+      "explanation": "The writer reports what the colleague said: „Ihrem Kollegen zufolge“ = according to your colleague. „zufolge“ follows its noun and takes the dative. „laut“ has the same meaning but always comes before the noun („laut Ihrem Kollegen“), and „wegen“ gives a reason, which makes no sense here.",
+      "explanationDe": "Die Schreiberin gibt wieder, was der Kollege gesagt hat: „Ihrem Kollegen zufolge“ = nach Aussage Ihres Kollegen. „zufolge“ steht nach dem Nomen und hat den Dativ. „laut“ bedeutet dasselbe, steht aber immer vor dem Nomen („laut Ihrem Kollegen“), und „wegen“ nennt einen Grund – das ergibt hier keinen Sinn.",
+      "grammar": "praepositionen-b2"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "andauernden" },
+        { "key": "b", "text": "angedauerten" },
+        { "key": "c", "text": "andauernde" }
+      ],
+      "answer": "a",
+      "explanation": "The problems are still going on, so you need the present participle „andauernd“ as an adjective; after „bei den“ (dative plural) it ends in „-en“: „bei den … andauernden Problemen“. „andauernde“ has the wrong ending, and the past participle of „andauern“ (an intransitive verb with „haben“) cannot stand before a noun.",
+      "explanationDe": "Die Probleme dauern immer noch an, deshalb brauchst du das Partizip I „andauernd“ als Adjektiv. Nach „bei den“ (Dativ Plural) endet es auf „-en“: „bei den … andauernden Problemen“. „andauernde“ hat die falsche Endung, und das Partizip II von „andauern“ (ein intransitives Verb mit „haben“) kann nicht vor einem Nomen stehen.",
+      "grammar": "partizipialattribute"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "Absicht" },
+        { "key": "b", "text": "Abstand" },
+        { "key": "c", "text": "Abhilfe" }
+      ],
+      "answer": "c",
+      "explanation": "„Abhilfe schaffen“ is a fixed noun-verb combination meaning to remedy a problem – exactly what a tenant demands. „Absicht“ (intention) and „Abstand“ (distance) do not make sense with „bei den … Problemen … schaffen“.",
+      "explanationDe": "„Abhilfe schaffen“ ist eine feste Nomen-Verb-Verbindung und bedeutet „ein Problem beseitigen“ – genau das verlangt die Mieterin. „Absicht“ und „Abstand“ ergeben mit „bei den … Problemen … schaffen“ keinen Sinn.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "darauf" },
+        { "key": "b", "text": "davon" },
+        { "key": "c", "text": "dafür" }
+      ],
+      "answer": "b",
+      "explanation": "The fixed expression is „davon ausgehen, dass …“ (to assume that …). „darauf“ and „dafür“ do not combine with „ausgehen“ in this meaning.",
+      "explanationDe": "Der feste Ausdruck heißt „davon ausgehen, dass …“ (= annehmen, dass …). „darauf“ und „dafür“ passen in dieser Bedeutung nicht zu „ausgehen“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "außerhalb" },
+        { "key": "b", "text": "anhand" },
+        { "key": "c", "text": "innerhalb" }
+      ],
+      "answer": "c",
+      "explanation": "The writer sets a deadline: the answer must come within the next ten days – „innerhalb“ + genitive („der nächsten zehn Tage“). „außerhalb“ means the opposite (outside a period or place), and „anhand“ means „on the basis of“.",
+      "explanationDe": "Die Schreiberin setzt eine Frist: Die Antwort soll in den nächsten zehn Tagen kommen – „innerhalb“ + Genitiv („der nächsten zehn Tage“). „außerhalb“ bedeutet das Gegenteil, und „anhand“ heißt „mit Hilfe von, auf der Grundlage von“.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "Andernfalls" },
+        { "key": "b", "text": "Ebenfalls" },
+        { "key": "c", "text": "Keinesfalls" }
+      ],
+      "answer": "a",
+      "explanation": "The previous sentence states a condition („Ich erwarte, dass die Heizung … wieder zuverlässig funktioniert“); „Andernfalls“ (otherwise) introduces what happens if it is not met. „Ebenfalls“ (likewise) needs a parallel action before it, and „Keinesfalls“ (under no circumstances) would turn the threat into its opposite.",
+      "explanationDe": "Der Satz davor nennt eine Bedingung („Ich erwarte, dass die Heizung … wieder zuverlässig funktioniert“). „Andernfalls“ (= wenn nicht) leitet ein, was passiert, wenn sie nicht erfüllt wird. „Ebenfalls“ bräuchte vorher eine gleiche Handlung, und „Keinesfalls“ würde die Drohung ins Gegenteil verkehren.",
+      "grammar": "konditionalsaetze"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "Stufen" },
+        { "key": "b", "text": "Schritte" },
+        { "key": "c", "text": "Tritte" }
+      ],
+      "answer": "b",
+      "explanation": "„sich rechtliche Schritte vorbehalten“ is the fixed formula for threatening legal action. „Stufen“ are stairs or levels and „Tritte“ are kicks or footsteps – neither combines with „rechtlich“.",
+      "explanationDe": "„sich rechtliche Schritte vorbehalten“ ist die feste Formel, wenn man mit juristischen Maßnahmen droht. „Stufen“ sind Treppenstufen oder Niveaus, „Tritte“ sind Fußtritte – beides passt nicht zu „rechtlich“."
+    }
+  ],
+  "glossary": [
+    { "de": "die Hausverwaltung", "en": "property management company" },
+    { "de": "ausfallen", "en": "to break down, to fail" },
+    { "de": "der Heizkörper", "en": "radiator" },
+    { "de": "etwas nachvollziehen", "en": "to understand, to follow (someone's reasoning)" },
+    { "de": "das Ventil", "en": "valve" },
+    { "de": "streiken (ugs. für Geräte)", "en": "to pack up, to stop working (colloquial)" },
+    { "de": "Abhilfe schaffen", "en": "to remedy, to fix a problem" },
+    { "de": "von etwas ausgehen", "en": "to assume something" },
+    { "de": "die Miete mindern", "en": "to reduce the rent (because of defects)" },
+    { "de": "sich etwas vorbehalten", "en": "to reserve the right to something" }
+  ]
+}

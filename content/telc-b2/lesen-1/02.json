@@ -1,0 +1,118 @@
+{
+  "id": "lesen-1-02",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Gesund durch den Alltag",
+  "topic": "gesundheit",
+  "difficulty": 1,
+  "headlines": [
+    { "key": "a", "text": "Ältere Patienten lehnen Sprechstunde per Video ab" },
+    { "key": "b", "text": "Tofuwurst im Einkaufswagen – und das Steak daneben" },
+    { "key": "c", "text": "Personalmangel: Spital streicht nächtliche Kontrollen" },
+    { "key": "d", "text": "Arztbesuch am Bildschirm: Apotheken helfen auf dem Land" },
+    { "key": "e", "text": "Kinderflocken: Trotz Versprechen kaum weniger Zucker" },
+    { "key": "f", "text": "Stehschreibtische schützen am besten vor Rückenschmerzen" },
+    { "key": "g", "text": "Licht aus, Ruhe bitte: Spital schützt den Schlaf der Kranken" },
+    { "key": "h", "text": "Neues Gesetz: Weniger Zucker in Kinderprodukten" },
+    { "key": "i", "text": "Lieber oft kurz als einmal lang: Bewegung im Büroalltag" },
+    { "key": "j", "text": "Immer mehr Schweizer verzichten ganz auf Fleisch" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Wer im Krankenhaus liegt, schläft oft schlecht: Geräte piepen, im Flur brennt Licht, und mitten in der Nacht wird der Blutdruck gemessen. Im Berner Rosenbühl-Spital gilt deshalb seit einem halben Jahr auf vier Stationen eine Nachtruhe von 23 bis 6 Uhr. Routinekontrollen werden, sofern es medizinisch vertretbar ist, auf den späten Abend oder den frühen Morgen verlegt, das Licht in den Gängen wird gedimmt, und Telefone klingeln nur noch leise. Die erste Auswertung fällt ermutigend aus: Die Patientinnen und Patienten gaben an, deutlich besser zu schlafen, und benötigten rund ein Drittel weniger Schlafmittel als zuvor. Auch nächtliche Stürze wurden seltener, vor allem bei älteren Menschen. Für Schwerkranke und frisch Operierte gelten selbstverständlich Ausnahmen. Pflegedirektorin Regula Brunner betont, es handle sich nicht um ein Sparprogramm: „Wir haben keine einzige Stelle gestrichen, wir haben nur unsere Abläufe verändert.“ Ab Januar soll das Konzept im ganzen Haus gelten, und auch andere Kliniken haben bereits Interesse angemeldet.",
+      "answer": "g",
+      "explanation": "The hospital has introduced a „Nachtruhe“: checks are moved, the light is dimmed, and patients sleep „deutlich besser“ – the hospital protects their sleep, so (g). Headline (c) is the trap: the checks are only moved („verlegt“), and the director says „Wir haben keine einzige Stelle gestrichen“.",
+      "explanationDe": "Das Spital hat eine „Nachtruhe“ eingeführt: Kontrollen werden verlegt, das Licht wird gedimmt, und die Patienten schlafen „deutlich besser“ – das Spital schützt also ihren Schlaf, (g). Überschrift (c) ist die Falle: Die Kontrollen werden nur „verlegt“, und die Pflegedirektorin sagt: „Wir haben keine einzige Stelle gestrichen“.",
+      "evidence": [
+        "gilt deshalb seit einem halben Jahr auf vier Stationen eine Nachtruhe von 23 bis 6 Uhr",
+        "Die Patientinnen und Patienten gaben an, deutlich besser zu schlafen"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Eine Stunde Sport am Abend reicht offenbar nicht aus, um die Folgen eines langen Bürotags auszugleichen. Das zeigt eine Untersuchung des Grazer Zentrums für Bewegungsmedizin mit 180 Büroangestellten. Die eine Hälfte ging nach Feierabend eine Stunde joggen oder Rad fahren, die andere stand während der Arbeitszeit alle 30 Minuten für drei bis fünf Minuten auf und ging ein paar Schritte, etwa zum Drucker oder die Treppe hinauf. Nach zwölf Wochen hatte die zweite Gruppe deutlich bessere Blutzuckerwerte und klagte seltener über Rückenschmerzen. Die Sportgruppe war zwar insgesamt fitter, ihre Blutzuckerwerte verbesserten sich jedoch kaum. Und Stehschreibtische? Die brachten in einer früheren Studie des Zentrums wenig, weil die meisten Menschen daran zwar stehen, sich aber genauso wenig bewegen wie im Sitzen. Studienleiter Martin Pichler empfiehlt deshalb, kurze Bewegungspausen fest in den Arbeitstag einzuplanen – „am besten mit einer Erinnerung auf dem Handy“. Auf den Sport am Abend solle man trotzdem nicht verzichten, denn er stärke Herz und Kreislauf.",
+      "answer": "i",
+      "explanation": "Short breaks every 30 minutes brought „deutlich bessere Blutzuckerwerte“, while one hour of evening sport did not make up for a day of sitting – many short breaks beat one long session, so (i). Headline (f) is wrong: standing desks „brachten … wenig“.",
+      "explanationDe": "Kurze Pausen alle 30 Minuten brachten „deutlich bessere Blutzuckerwerte“, eine Stunde Sport am Abend gleicht einen Tag im Sitzen dagegen nicht aus – viele kurze Pausen sind besser als eine lange Einheit, also passt (i). Überschrift (f) ist falsch: Stehschreibtische „brachten … wenig“.",
+      "evidence": [
+        "Eine Stunde Sport am Abend reicht offenbar nicht aus, um die Folgen eines langen Bürotags auszugleichen",
+        "Nach zwölf Wochen hatte die zweite Gruppe deutlich bessere Blutzuckerwerte"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "In vielen Dörfern der Eifel gibt es keine Hausarztpraxis mehr, die nächste ist oft 30 Kilometer entfernt. Seit März können Patientinnen und Patienten deshalb in fünf Apotheken des Landkreises per Video mit einer Ärztin oder einem Arzt sprechen. In einem abgetrennten Raum misst eine Apothekerin vorher Blutdruck und Temperatur und überträgt die Werte; bei Bedarf stellt die Ärztin am Bildschirm direkt ein Rezept aus. Gedacht ist das Angebot vor allem für leichtere Beschwerden und für Kontrolltermine bei chronischen Krankheiten. Gerade ältere Menschen waren anfangs skeptisch, berichtet Apotheker Thomas Wirtz: „Viele wollten lieber den weiten Weg in Kauf nehmen, als mit einem Bildschirm zu reden.“ Inzwischen hat sich das geändert. Bei einer Befragung nach sechs Monaten zeigten sich 82 Prozent der Nutzerinnen und Nutzer zufrieden, die meisten von ihnen über 65 Jahre alt. Der Landkreis will das Projekt im kommenden Jahr auf weitere Orte ausweiten und sucht dafür noch Ärztinnen und Ärzte, die einige Stunden pro Woche übernehmen.",
+      "answer": "d",
+      "explanation": "Where there is no family doctor any more, patients can talk to a doctor „per Video“ in local pharmacies – so (d). Headline (a) is a concessive trap: older people „waren anfangs skeptisch“, but „Inzwischen hat sich das geändert“ and most of the satisfied users are over 65.",
+      "explanationDe": "Wo es keine Hausarztpraxis mehr gibt, können Patienten in Apotheken „per Video“ mit einer Ärztin oder einem Arzt sprechen – also (d). Überschrift (a) ist eine Falle: Ältere Menschen „waren anfangs skeptisch“, aber „Inzwischen hat sich das geändert“, und die meisten zufriedenen Nutzer sind über 65.",
+      "evidence": [
+        "in fünf Apotheken des Landkreises per Video mit einer Ärztin oder einem Arzt sprechen",
+        "Inzwischen hat sich das geändert"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Bunte Verpackungen, lustige Comicfiguren und jede Menge Zucker: Das Konsumentenforum Wien hat 64 Frühstücksflocken und Müslis untersucht, die sich gezielt an Kinder richten. Das Ergebnis ist ernüchternd. Zwei Drittel der Produkte enthalten mehr als 20 Gramm Zucker pro 100 Gramm, einige sogar über 30 Gramm. Eine einzige Portion deckt damit oft schon die Hälfte der Zuckermenge, die Fachleute für Kinder pro Tag als Obergrenze empfehlen. Dabei hatten sich mehrere große Hersteller vor fünf Jahren freiwillig verpflichtet, den Zuckergehalt ihrer Kinderprodukte deutlich zu senken. Tatsächlich ist der Durchschnittswert seitdem nur um knapp acht Prozent gesunken. Die Verbraucherschützer fordern deshalb verbindliche Höchstwerte und ein Werbeverbot für besonders süße Kinderprodukte. Das Gesundheitsministerium will die Vorschläge prüfen, eine Entscheidung ist aber noch nicht gefallen. Eltern rät das Forum, lieber ungesüßte Haferflocken mit frischem Obst zu servieren und beim Einkauf nicht auf die Bilder, sondern auf die Nährwerttabelle zu achten.",
+      "answer": "e",
+      "explanation": "The manufacturers had promised to cut sugar („freiwillig verpflichtet“), but the average fell „nur um knapp acht Prozent“ – so (e). Headline (h) confuses a demand with a decision: consumer advocates „fordern“ binding limits, and the decision „ist aber noch nicht gefallen“.",
+      "explanationDe": "Die Hersteller hatten versprochen, weniger Zucker zu verwenden („freiwillig verpflichtet“), aber der Durchschnitt sank „nur um knapp acht Prozent“ – also (e). Überschrift (h) verwechselt eine Forderung mit einer Entscheidung: Die Verbraucherschützer „fordern“ Höchstwerte, eine Entscheidung „ist aber noch nicht gefallen“.",
+      "evidence": [
+        "hatten sich mehrere große Hersteller vor fünf Jahren freiwillig verpflichtet, den Zuckergehalt ihrer Kinderprodukte deutlich zu senken",
+        "Tatsächlich ist der Durchschnittswert seitdem nur um knapp acht Prozent gesunken"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Pflanzliche Alternativen zu Fleisch und Milch liegen in der Schweiz im Trend – doch wer sie kauft, ist meist kein Vegetarier. Eine Umfrage des Zürcher Instituts für Konsumforschung unter 1.500 Personen zeigt: Fast die Hälfte der Befragten hat im letzten Monat mindestens einmal Tofuwürstchen, Haferdrink oder ein Schnitzel aus Erbsenprotein gekauft. Drei Viertel dieser Käuferinnen und Käufer essen aber weiterhin regelmäßig Fleisch; sie wollen ihren Konsum lediglich reduzieren. Fachleute sprechen von „Flexitariern“. Besonders verbreitet ist dieses Verhalten bei jüngeren Menschen in den Städten. Als größtes Hindernis nennen viele den Preis, denn Ersatzprodukte kosten im Schnitt deutlich mehr als das tierische Original. Auch der Geschmack überzeugt noch nicht alle, vor allem bei Käse- und Wurstalternativen. Das Institut rechnet dennoch mit weiterem Wachstum, vor allem wenn die großen Supermarktketten die Produkte günstiger anbieten. Der Anteil der Menschen, die vollständig auf Fleisch verzichten, ist dagegen seit Jahren nahezu unverändert geblieben.",
+      "answer": "b",
+      "explanation": "Many people buy plant-based products, but „Drei Viertel dieser Käuferinnen und Käufer“ still eat meat „weiterhin regelmäßig“ – tofu sausage and steak in the same trolley, so (b). Headline (j) contradicts the last sentence: the share of people who give up meat completely is „nahezu unverändert“.",
+      "explanationDe": "Viele kaufen pflanzliche Produkte, aber „Drei Viertel dieser Käuferinnen und Käufer“ essen „weiterhin regelmäßig Fleisch“ – Tofuwurst und Steak landen im selben Einkaufswagen, also (b). Überschrift (j) widerspricht dem letzten Satz: Der Anteil der Menschen, die ganz auf Fleisch verzichten, ist „nahezu unverändert“.",
+      "evidence": [
+        "doch wer sie kauft, ist meist kein Vegetarier",
+        "Drei Viertel dieser Käuferinnen und Käufer essen aber weiterhin regelmäßig Fleisch"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "a",
+      "why": "Text 3 does say that older people were sceptical at first, but this has changed: 82 percent of the users are satisfied, most of them over 65.",
+      "whyDe": "Text 3 sagt zwar, dass ältere Menschen anfangs skeptisch waren, aber das hat sich geändert: 82 Prozent der Nutzer sind zufrieden, die meisten von ihnen über 65."
+    },
+    {
+      "key": "c",
+      "why": "In text 1 the night checks are not cancelled but moved to the evening or early morning, and the reason is the patients' sleep – no job was cut.",
+      "whyDe": "In Text 1 werden die nächtlichen Kontrollen nicht gestrichen, sondern auf den Abend oder den frühen Morgen verlegt, und der Grund ist der Schlaf der Patienten – keine Stelle wurde gestrichen."
+    },
+    {
+      "key": "f",
+      "why": "Text 2 mentions standing desks, but only to say that they brought little, because people stand but do not move more.",
+      "whyDe": "Text 2 erwähnt Stehschreibtische nur, um zu sagen, dass sie wenig gebracht haben, weil man daran zwar steht, sich aber nicht mehr bewegt."
+    },
+    {
+      "key": "h",
+      "why": "In text 4 a law with maximum sugar levels is only a demand of the consumer group; the ministry wants to examine it but has not decided anything yet.",
+      "whyDe": "In Text 4 ist ein Gesetz mit Höchstwerten nur eine Forderung der Verbraucherschützer; das Ministerium will sie prüfen, hat aber noch nichts entschieden."
+    },
+    {
+      "key": "j",
+      "why": "Text 5 says the opposite: plant-based products sell well, but the share of people who give up meat completely has hardly changed for years.",
+      "whyDe": "Text 5 sagt das Gegenteil: Pflanzliche Produkte verkaufen sich gut, aber der Anteil der Menschen, die ganz auf Fleisch verzichten, hat sich seit Jahren kaum verändert."
+    }
+  ],
+  "glossary": [
+    { "de": "medizinisch vertretbar", "en": "medically justifiable" },
+    { "de": "ermutigend", "en": "encouraging" },
+    { "de": "der Sturz", "en": "fall" },
+    { "de": "der Blutzuckerwert", "en": "blood sugar level" },
+    { "de": "etwas ausgleichen", "en": "to compensate for something" },
+    { "de": "die Beschwerden (Pl.)", "en": "(health) complaints, symptoms" },
+    { "de": "etwas in Kauf nehmen", "en": "to accept something (a disadvantage)" },
+    { "de": "ernüchternd", "en": "sobering, disappointing" },
+    { "de": "sich verpflichten", "en": "to commit oneself" },
+    { "de": "verbindlich", "en": "binding, compulsory" },
+    { "de": "das Hindernis", "en": "obstacle" },
+    { "de": "auf etwas verzichten", "en": "to do without something, to give something up" }
+  ]
+}

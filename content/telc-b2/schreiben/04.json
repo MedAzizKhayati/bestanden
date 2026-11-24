@@ -1,0 +1,59 @@
+{
+  "id": "schreiben-04",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Ein Wellnesswochenende mit Mängeln",
+  "topic": "reisen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie haben im Hotel „Bergquelle“ das folgende Wellnesswochenende für zwei Personen gebucht. Vor Ort entsprach vieles nicht der Anzeige, und Ihre Beschwerden an der Rezeption haben kaum etwas bewirkt. Schreiben Sie eine Beschwerde an die Hotelleitung.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "4-Sterne-Hotel Bergquelle – Ihr Kraftort im Gasteinertal\n\nWellnesswochenende „Auszeit zu zweit“\n• zwei Nächte im Doppelzimmer mit Panoramablick auf die Hohen Tauern\n• Verwöhn-Halbpension mit regionalem Fünf-Gänge-Menü\n• eine Ganzkörpermassage (50 Minuten) pro Person\n• unbegrenzte Nutzung unserer 1.200 Quadratmeter großen Spa-Landschaft mit Hallenbad, Salzgrotte und vier Saunen\n• Bademantel und Wellnesstasche liegen auf Ihrem Zimmer bereit\n\nUnser Spa ist ein Ort der Stille: Kinder unter 14 Jahren haben keinen Zutritt.\n\nPauschalpreis: 498 Euro für zwei Personen\nHotel Bergquelle, Familie Rainer, Bad Hofgastein\nreservierung@bergquelle-gastein.at"
+  },
+  "leitpunkte": [
+    "Legen Sie dar, wie das Hotelpersonal auf Ihre Beschwerden reagiert hat.",
+    "Erläutern Sie, warum Ihnen dieses Wochenende besonders wichtig war.",
+    "Beschreiben Sie, welche Leistungen nicht dem Angebot entsprachen.",
+    "Erklären Sie, was Sie von der Hotelleitung erwarten."
+  ],
+  "model": {
+    "subject": "Beschwerde über das Wellnesswochenende „Auszeit zu zweit“ (7.–9. November)",
+    "text": "Sehr geehrte Familie Rainer,\n\nvom 7. bis 9. November haben mein Mann und ich Ihr Wellnesspaket „Auszeit zu zweit“ in Anspruch genommen. Leider entsprach unser Aufenthalt in mehreren Punkten nicht dem, was Sie in Ihrer Anzeige versprechen, weshalb ich mich heute schriftlich an Sie wende.\n\nStatt des gebuchten Zimmers mit Panoramablick wurde uns ein Zimmer zum Parkplatz zugewiesen, in dem man nachts die Lüftungsanlage der Küche hörte. Hinzu kam, dass die Salzgrotte und zwei der vier Saunen wegen Wartungsarbeiten geschlossen waren. Auch von Stille konnte keine Rede sein: Obwohl Kinder unter 14 Jahren laut Ihrer Anzeige keinen Zutritt haben, wurde am Samstag im Hallenbad ein Kindergeburtstag gefeiert.\n\nBereits am Freitagabend haben wir uns an der Rezeption beschwert. Dort wurde uns zwar ein Zimmerwechsel für den nächsten Morgen zugesagt, doch am Samstag hieß es plötzlich, das Hotel sei leider ausgebucht. Auf unsere Frage nach einer Preisminderung reagierte die Mitarbeiterin ausweichend und verwies lediglich auf die Hotelleitung.\n\nAngesichts dieser Mängel erwarte ich, dass Sie uns ein Drittel des Pauschalpreises, also 166 Euro, zurückerstatten. Alternativ wären wir auch bereit, einen Gutschein für ein weiteres Wochenende anzunehmen, vorausgesetzt, dass dann alle Leistungen tatsächlich zur Verfügung stehen.\n\nIch sehe Ihrer Stellungnahme innerhalb der nächsten zwei Wochen entgegen.\n\nMit freundlichen Grüßen\nSabine Lorenz"
+  },
+  "modelNotes": [
+    "The model covers point 3 (services that did not match the offer), point 1 (how the staff reacted) and point 4 (what the writer expects). Point 2 (why the weekend mattered) is left out: in a complaint, facts and demands carry more weight than feelings – but if you have a strong personal reason (an anniversary, a birthday present), you can use it instead of point 1.",
+    "Every complaint is tied to a promise in the ad: „Panoramablick“ → a room facing the car park, „vier Saunen“ → two of them closed, „keinen Zutritt“ for children → a children's party in the pool. This is what makes a complaint convincing.",
+    "What the staff said is reported with Konjunktiv I: „hieß es plötzlich, das Hotel sei leider ausgebucht“.",
+    "The demand is precise and calculated (a third of 498 Euro = 166 Euro), and an alternative is offered with a condition („Alternativ wären wir auch bereit, …, vorausgesetzt, dass …“).",
+    "B2 structures: passive („wurde … zugewiesen“, „wurde … zugesagt“, „wurde … gefeiert“), „zwar … doch“, „Hinzu kam, dass …“, „Angesichts dieser Mängel“ (preposition with the genitive) and the formal closing „Ich sehe Ihrer Stellungnahme … entgegen“."
+  ],
+  "modelNotesDe": [
+    "Das Modell behandelt Punkt 3 (Leistungen, die nicht dem Angebot entsprachen), Punkt 1 (wie das Personal reagiert hat) und Punkt 4 (was die Schreiberin erwartet). Punkt 2 (warum das Wochenende wichtig war) fehlt: In einer Beschwerde zählen Fakten und Forderungen mehr als Gefühle – wenn du aber einen starken persönlichen Grund hast (einen Hochzeitstag, ein Geburtstagsgeschenk), kannst du ihn statt Punkt 1 nehmen.",
+    "Jede Beschwerde bezieht sich auf ein Versprechen der Anzeige: „Panoramablick“ → Zimmer zum Parkplatz, „vier Saunen“ → zwei davon geschlossen, „keinen Zutritt“ für Kinder → ein Kindergeburtstag im Hallenbad. Genau das macht eine Beschwerde überzeugend.",
+    "Was das Personal gesagt hat, wird im Konjunktiv I wiedergegeben: „hieß es plötzlich, das Hotel sei leider ausgebucht“.",
+    "Die Forderung ist genau und nachgerechnet (ein Drittel von 498 Euro = 166 Euro), und es wird eine Alternative mit Bedingung angeboten („Alternativ wären wir auch bereit, …, vorausgesetzt, dass …“).",
+    "B2-Strukturen: Passiv („wurde … zugewiesen“, „wurde … zugesagt“, „wurde … gefeiert“), „zwar … doch“, „Hinzu kam, dass …“, „Angesichts dieser Mängel“ (Präposition mit Genitiv) und der formelle Schluss „Ich sehe Ihrer Stellungnahme … entgegen“."
+  ],
+  "phrases": [
+    { "de": "Leider entsprach unser Aufenthalt nicht dem, was Sie in Ihrer Anzeige versprechen.", "en": "Unfortunately, our stay did not match what you promise in your ad." },
+    { "de": "Statt des gebuchten … wurde uns … zugewiesen.", "en": "Instead of the … we had booked, we were given …" },
+    { "de": "Hinzu kam, dass …", "en": "On top of that, …" },
+    { "de": "Von … konnte keine Rede sein.", "en": "There was no question of …" },
+    { "de": "Dort wurde uns zwar … zugesagt, doch …", "en": "We were promised … there, but …" },
+    { "de": "Angesichts dieser Mängel erwarte ich, dass …", "en": "In view of these shortcomings, I expect that …" },
+    { "de": "Alternativ wären wir auch bereit, …, vorausgesetzt, dass …", "en": "Alternatively, we would also be willing to …, provided that …" },
+    { "de": "Ich sehe Ihrer Stellungnahme innerhalb von … entgegen.", "en": "I look forward to your response within …" }
+  ],
+  "glossary": [
+    { "de": "etwas in Anspruch nehmen", "en": "to make use of something" },
+    { "de": "der Pauschalpreis", "en": "package price" },
+    { "de": "die Salzgrotte", "en": "salt cave (a room for relaxing and breathing salty air)" },
+    { "de": "die Wartungsarbeiten (Pl.)", "en": "maintenance work" },
+    { "de": "jemandem etwas zuweisen", "en": "to allocate something to someone" },
+    { "de": "ausweichend reagieren", "en": "to react evasively" },
+    { "de": "die Preisminderung", "en": "price reduction" },
+    { "de": "die Stellungnahme", "en": "statement, response" }
+  ]
+}

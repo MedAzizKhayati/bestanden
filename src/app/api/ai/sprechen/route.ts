@@ -17,6 +17,8 @@ const Body = z.object({
   setNumber: z.string().regex(/^\d{2}$/),
   durationSec: z.number().min(0).max(3600),
   turns: z.array(z.object({ role: z.enum(["user", "partner"]), text: z.string().max(4000) })).min(1).max(80),
+  /** telc B2 Teil 1: the topic (index on the sheet) the learner talked about. */
+  choice: z.number().int().min(0).max(6).optional(),
   /** UI language – the language of the feedback. */
   locale: z.enum(LOCALES).default(DEFAULT_LOCALE),
 });
@@ -30,7 +32,7 @@ export async function POST(req: Request) {
   const resolved = configForRequest(req, locale, { bucket: "sprechen", perHour: 30, message: t.speakingLimit }, t.notConfigured);
   if ("response" in resolved) return resolved.response;
   if (!parsed.success) return NextResponse.json({ error: t.invalidRequest }, { status: 400 });
-  const { examId, partId, setNumber, turns, durationSec } = parsed.data;
+  const { examId, partId, setNumber, turns, durationSec, choice } = parsed.data;
   const exam = getExam(examId);
   const set = getSet(examId, partId, setNumber);
   if (!exam || !set || !set.type.startsWith("speaking")) return NextResponse.json({ error: t.unknownTask }, { status: 404 });
@@ -38,7 +40,7 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: t.speakMore }, { status: 400 });
 
   try {
-    const feedback = await assessSpeaking(resolved.config, exam, partId, set as SpeakingSet, turns, durationSec, locale, req.signal);
+    const feedback = await assessSpeaking(resolved.config, exam, partId, set as SpeakingSet, turns, durationSec, locale, req.signal, choice);
     return NextResponse.json({ feedback });
   } catch (e) {
     logAiError("ai/sprechen", e);

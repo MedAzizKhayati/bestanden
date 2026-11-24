@@ -1,0 +1,119 @@
+{
+  "id": "lesen-1-05",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Medienwandel und Kulturleben",
+  "topic": "medien",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Umfrage: Politik interessiert immer weniger Menschen" },
+    { "key": "b", "text": "Vor dem Aus gerettet: Leser übernehmen ihr Lokalblatt" },
+    { "key": "c", "text": "Neue Ausstellung: Erbstücke prominenter Innsbrucker" },
+    { "key": "d", "text": "Ausgebucht: Ältere lernen, Fälschungen im Netz zu durchschauen" },
+    { "key": "e", "text": "Zu geringe Einnahmen: Theater beendet Preisexperiment" },
+    { "key": "f", "text": "Aus dem Wohnzimmer ins Museum: Bürger erzählen Stadtgeschichte" },
+    { "key": "g", "text": "Lokalzeitung: Leser schreiben ihr Blatt jetzt selbst" },
+    { "key": "h", "text": "Zu viel Negatives: Immer mehr Menschen meiden Nachrichten" },
+    { "key": "i", "text": "Senioren besonders anfällig für Falschmeldungen" },
+    { "key": "j", "text": "Zahlen, was man will: Theater gewinnt neues Publikum" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Wer abends den Fernseher ausschaltet, sobald die Nachrichten beginnen, ist damit längst nicht mehr allein. Laut einer Befragung des Bremer Forschungsinstituts „Medienkompass“ gehen inzwischen 38 Prozent der Erwachsenen aktuellen Meldungen zumindest gelegentlich bewusst aus dem Weg; vor fünf Jahren waren es noch 24 Prozent. Bemerkenswert ist dabei weniger die Zahl als die Begründung. Mangelndes Interesse an Politik nennt nur eine kleine Minderheit der Befragten. Die meisten geben vielmehr an, die Flut negativer Schlagzeilen mache sie müde, ängstlich oder schlicht hilflos. Für die Untersuchung wurden im Sommer rund 3.000 Personen ab 18 Jahren online befragt. Besonders ausgeprägt ist dieses Verhalten bei Menschen zwischen 25 und 40 Jahren, die häufig Beruf und Familie unter einen Hut bringen müssen. Völlig abgeschaltet haben allerdings die wenigsten: Viele informieren sich lieber einmal am Tag gezielt, statt ständig Eilmeldungen auf dem Smartphone zu erhalten. Studienleiterin Hanna Lüdeking sieht darin auch einen Auftrag an die Redaktionen. Wer sein Publikum nicht verlieren wolle, müsse neben Problemen häufiger auch mögliche Lösungen zeigen.",
+      "answer": "h",
+      "explanation": "More and more people deliberately avoid the news – 38 instead of 24 per cent „gehen … bewusst aus dem Weg“ – and most of them say „die Flut negativer Schlagzeilen“ wears them out, so (h). Headline (a) is a trap: lack of interest in politics is named by „nur eine kleine Minderheit“.",
+      "explanationDe": "Immer mehr Menschen meiden bewusst Nachrichten – 38 statt 24 Prozent „gehen … bewusst aus dem Weg“ –, und die meisten sagen, „die Flut negativer Schlagzeilen“ mache sie müde. Also passt (h). Überschrift (a) ist eine Falle: Mangelndes Interesse an Politik nennt „nur eine kleine Minderheit“.",
+      "evidence": [
+        "gehen inzwischen 38 Prozent der Erwachsenen aktuellen Meldungen zumindest gelegentlich bewusst aus dem Weg",
+        "die Flut negativer Schlagzeilen mache sie müde, ängstlich oder schlicht hilflos"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Fast 120 Jahre lang ist der „Gailtaler Morgen“ in Kärnten täglich erschienen. Im Frühjahr schien sein Ende besiegelt: Der Verlag hatte angekündigt, die Zeitung wegen sinkender Anzeigenerlöse zum Jahresende einzustellen. Dass es nun doch anders kommt, ist den Leserinnen und Lesern zu verdanken. Rund 2.300 von ihnen haben sich zu einer Genossenschaft zusammengeschlossen und Anteile zu je mindestens 150 Euro erworben. Unter den neuen Eigentümern sind neben Privatpersonen auch Gasthäuser, Handwerksbetriebe und ein Sportverein. Mit dem Geld übernimmt die Genossenschaft den Titel samt der achtköpfigen Redaktion, die weiterhin unabhängig arbeiten soll. Ganz ohne Einschnitte geht es allerdings nicht: Die gedruckte Ausgabe erscheint künftig nur noch dreimal pro Woche, dafür wird das Online-Angebot ausgebaut. Chefredakteurin Martina Oberwalder blickt dennoch zuversichtlich nach vorn. Gerade in kleinen Gemeinden brauche es jemanden, der aus Gemeinderatssitzungen berichte und genau hinschaue, wenn öffentliches Geld ausgegeben werde. Ob sich das Modell auch wirtschaftlich trägt, muss sich erst zeigen. Die Genossenschaft rechnet frühestens in drei Jahren mit schwarzen Zahlen.",
+      "answer": "b",
+      "explanation": "The publisher had announced it would close the paper („einzustellen“), but about 2,300 readers joined together in „einer Genossenschaft“ that now takes it over, so (b). Headline (g) is wrong: the readers own the paper, but it is still written by the professional team („samt der achtköpfigen Redaktion“).",
+      "explanationDe": "Der Verlag hatte angekündigt, die Zeitung „einzustellen“, aber rund 2.300 Leserinnen und Leser haben sich zu „einer Genossenschaft“ zusammengeschlossen, die sie jetzt übernimmt. Also passt (b). Überschrift (g) ist falsch: Die Leser besitzen die Zeitung, aber geschrieben wird sie weiterhin von den Profis („samt der achtköpfigen Redaktion“).",
+      "evidence": [
+        "die Zeitung wegen sinkender Anzeigenerlöse zum Jahresende einzustellen",
+        "Rund 2.300 von ihnen haben sich zu einer Genossenschaft zusammengeschlossen",
+        "übernimmt die Genossenschaft den Titel samt der achtköpfigen Redaktion"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Ein Foto, das angeblich eine überflutete Altstadt zeigt, ein Zitat, das ein Politiker nie gesagt hat: Solche Inhalte verbreiten sich in sozialen Netzwerken oft schneller als jede Richtigstellung. Der Zürcher Verein „Digital mündig“ bietet deshalb seit diesem Herbst Kurse an, in denen Menschen über 60 lernen, Falschmeldungen zu erkennen. An vier Abenden üben die Teilnehmenden, die Herkunft von Bildern zu überprüfen, Quellen zu vergleichen und reißerische Überschriften kritisch zu lesen. Am Ende erhält jeder Teilnehmende eine Checkliste, die er neben den Computer legen kann. Die Nachfrage übertrifft alle Erwartungen: Die ersten zwölf Kurse waren innerhalb weniger Tage ausgebucht, weitere Termine sind bereits geplant. Kursleiter Beat Zollinger widerspricht dabei dem verbreiteten Vorurteil, ältere Menschen fielen besonders leicht auf Fälschungen herein. Jüngere teilten zweifelhafte Beiträge genauso häufig – nur eben schneller. Seine Teilnehmenden schätzten vor allem, dass sie in Ruhe nachfragen könnten, ohne von den eigenen Enkeln belächelt zu werden. Finanziert wird das Angebot von einer Stiftung, die Kurse sind daher kostenlos.",
+      "answer": "d",
+      "explanation": "People over 60 learn in courses „Falschmeldungen zu erkennen“, and the first courses „waren innerhalb weniger Tage ausgebucht“, so (d). Headline (i) turns the text around: the course leader rejects the „Vorurteil“ that older people fall for fakes more easily.",
+      "explanationDe": "Menschen über 60 lernen in Kursen, „Falschmeldungen zu erkennen“, und die ersten Kurse „waren innerhalb weniger Tage ausgebucht“. Also passt (d). Überschrift (i) dreht den Text um: Der Kursleiter widerspricht dem „Vorurteil“, ältere Menschen fielen besonders leicht auf Fälschungen herein.",
+      "evidence": [
+        "in denen Menschen über 60 lernen, Falschmeldungen zu erkennen",
+        "Die ersten zwölf Kurse waren innerhalb weniger Tage ausgebucht"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Leere Reihen am Dienstagabend gehören im Chemnitzer Theater an der Schleuse der Vergangenheit an. Seit einem Jahr bestimmt das Publikum an jedem ersten Dienstag im Monat selbst, was ihm ein Theaterbesuch wert ist: Bezahlt wird erst nach der Vorstellung, und zwar so viel, wie man möchte. Gespielt wird an diesen Abenden das reguläre Programm, vom Klassiker bis zur Uraufführung. Nun hat das Haus eine erste Bilanz gezogen. Die betreffenden Abende waren durchweg ausverkauft, und fast die Hälfte der Gäste gab an, zum ersten Mal überhaupt ein Theater besucht zu haben. Die Befürchtung, viele würden die Gelegenheit ausnutzen und gar nichts zahlen, hat sich nicht bestätigt. Im Durchschnitt legten die Besucherinnen und Besucher knapp 14 Euro in die Kasse – kaum weniger, als ein reguläres Ticket kostet. Intendant Florian Weidenbach will das Modell deshalb auf weitere Abende ausweiten. An den übrigen Tagen gelten zwar weiterhin die normalen Preise, doch er hofft, dass zumindest ein Teil der neuen Gäste wiederkommt – auch wenn der Eintritt dann mehr kostet.",
+      "answer": "j",
+      "explanation": "On pay-what-you-want evenings („so viel, wie man möchte“) the theatre is sold out, and almost half the guests are in a theatre „zum ersten Mal überhaupt“ – it wins a new audience, so (j). Headline (e) is wrong: guests paid on average „knapp 14 Euro“, and the director wants to extend the model („ausweiten“), not end it.",
+      "explanationDe": "An den Abenden, an denen man „so viel, wie man möchte“ bezahlt, ist das Theater ausverkauft, und fast die Hälfte der Gäste ist „zum ersten Mal überhaupt“ im Theater – es gewinnt also neues Publikum (j). Überschrift (e) ist falsch: Die Gäste zahlten im Schnitt „knapp 14 Euro“, und der Intendant will das Modell „ausweiten“, nicht beenden.",
+      "evidence": [
+        "Bezahlt wird erst nach der Vorstellung, und zwar so viel, wie man möchte",
+        "fast die Hälfte der Gäste gab an, zum ersten Mal überhaupt ein Theater besucht zu haben"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Ein Kinderwagen aus den Fünfzigerjahren, ein Röhrenradio, Liebesbriefe, ein abgegriffenes Kochbuch: Als das Innsbrucker Museum für Alltagsgeschichte im Frühjahr die Bevölkerung bat, Gegenstände aus dem eigenen Haushalt zur Verfügung zu stellen, rechnete man mit einigen Dutzend Rückmeldungen. Tatsächlich meldeten sich mehr als 900 Innsbruckerinnen und Innsbrucker; besonders viele Zusendungen stammten aus der Nachkriegszeit und den Jahren des Wiederaufbaus. Aus den angebotenen Stücken hat ein Team rund 250 ausgewählt, die ab Samstag in der Ausstellung „Was bleibt“ zu sehen sind. Im Mittelpunkt stehen nicht berühmte Persönlichkeiten, sondern der Alltag gewöhnlicher Familien über sieben Jahrzehnte. Zu jedem Objekt erzählen die Leihgeberinnen und Leihgeber in kurzen Tonaufnahmen, welche Erinnerungen sie damit verbinden. Für Kuratorin Ines Rabensteiner liegt genau darin der Kern des Projekts: Ein Gegenstand allein sage wenig, erst die Geschichte dahinter mache ihn wertvoll. Nach dem Ende der Ausstellung im März erhalten die Leihgeber ihre Stücke zurück. Einige haben sie dem Museum allerdings dauerhaft geschenkt.",
+      "answer": "f",
+      "explanation": "Residents lend objects „aus dem eigenen Haushalt“ and tell their stories in recordings; the focus is on „der Alltag gewöhnlicher Familien“, so (f). Headline (c) is a trap: the objects are personal treasures, but the text says „nicht berühmte Persönlichkeiten“.",
+      "explanationDe": "Bürgerinnen und Bürger leihen Gegenstände „aus dem eigenen Haushalt“ und erzählen in Tonaufnahmen ihre Geschichten; im Mittelpunkt steht „der Alltag gewöhnlicher Familien“. Also passt (f). Überschrift (c) ist eine Falle: Es sind zwar persönliche Erinnerungsstücke, aber der Text sagt ausdrücklich „nicht berühmte Persönlichkeiten“.",
+      "evidence": [
+        "Gegenstände aus dem eigenen Haushalt zur Verfügung zu stellen",
+        "Im Mittelpunkt stehen nicht berühmte Persönlichkeiten, sondern der Alltag gewöhnlicher Familien"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "a",
+      "why": "Text 1 is about people who avoid the news, but „Mangelndes Interesse an Politik nennt nur eine kleine Minderheit“ – the main reason is the flood of negative headlines.",
+      "whyDe": "In Text 1 geht es um Menschen, die Nachrichten meiden, aber „Mangelndes Interesse an Politik nennt nur eine kleine Minderheit“ – der Hauptgrund ist die Flut negativer Schlagzeilen."
+    },
+    {
+      "key": "c",
+      "why": "The exhibition in text 5 shows personal objects, but explicitly „nicht berühmte Persönlichkeiten“ – it is about ordinary families.",
+      "whyDe": "Die Ausstellung in Text 5 zeigt persönliche Gegenstände, aber ausdrücklich „nicht berühmte Persönlichkeiten“ – es geht um gewöhnliche Familien."
+    },
+    {
+      "key": "e",
+      "why": "Text 4 reports a success: the evenings were sold out, guests paid „knapp 14 Euro“ on average, and the director wants to extend the model, not stop it.",
+      "whyDe": "Text 4 berichtet von einem Erfolg: Die Abende waren ausverkauft, die Gäste zahlten im Schnitt „knapp 14 Euro“, und der Intendant will das Modell ausweiten, nicht beenden."
+    },
+    {
+      "key": "g",
+      "why": "In text 2 the readers buy the paper through a cooperative, but they do not write it – the professional team („samt der achtköpfigen Redaktion“) keeps working.",
+      "whyDe": "In Text 2 kaufen die Leser die Zeitung über eine Genossenschaft, aber sie schreiben sie nicht selbst – die Profis („samt der achtköpfigen Redaktion“) arbeiten weiter."
+    },
+    {
+      "key": "i",
+      "why": "Text 3 contradicts this: the course leader calls it a „Vorurteil“ and says younger people share dubious posts „genauso häufig“.",
+      "whyDe": "Text 3 sagt das Gegenteil: Der Kursleiter nennt das ein „Vorurteil“ und sagt, Jüngere teilten zweifelhafte Beiträge „genauso häufig“."
+    }
+  ],
+  "glossary": [
+    { "de": "etw. (Dat.) aus dem Weg gehen", "en": "to avoid sth" },
+    { "de": "die Eilmeldung", "en": "breaking-news alert" },
+    { "de": "etw. unter einen Hut bringen", "en": "to juggle / reconcile sth (e.g. job and family)" },
+    { "de": "eine Zeitung einstellen", "en": "to discontinue a newspaper" },
+    { "de": "die Genossenschaft", "en": "cooperative" },
+    { "de": "schwarze Zahlen schreiben", "en": "to be in the black, to make a profit" },
+    { "de": "die Richtigstellung", "en": "correction (of a false report)" },
+    { "de": "reißerisch", "en": "sensationalist" },
+    { "de": "auf etw. hereinfallen", "en": "to fall for sth" },
+    { "de": "jdn. belächeln", "en": "to smile condescendingly at sb" },
+    { "de": "der Intendant / die Intendantin", "en": "artistic director (of a theatre)" },
+    { "de": "der Leihgeber / die Leihgeberin", "en": "lender (of exhibits)" }
+  ]
+}

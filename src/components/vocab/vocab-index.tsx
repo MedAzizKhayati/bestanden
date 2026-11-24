@@ -1,10 +1,31 @@
 "use client";
 
 import {
+  Apple,
   ArrowRight,
   Bike,
   BookOpen,
+  Brain,
   Briefcase,
+  Building,
+  Drama,
+  FlaskConical,
+  HeartHandshake,
+  Lightbulb,
+  MailOpen,
+  MessagesSquare,
+  Mountain,
+  Newspaper,
+  Plane,
+  Scale,
+  Shapes,
+  ShoppingBag,
+  Sparkles,
+  Sprout,
+  Stethoscope,
+  TrendingUp,
+  UsersRound,
+  Workflow,
   CalendarClock,
   Cpu,
   FileText,
@@ -29,8 +50,10 @@ import {
   type LucideIcon,
 } from "lucide-react";
 import Link from "@/i18n/link";
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
+import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
+import { useExam } from "@/lib/exams/use-exam";
 import { useLocale, useT } from "@/i18n/client";
 import { useNow } from "@/lib/hooks/use-now";
 import { useHydrated } from "@/lib/store/hydration";
@@ -42,12 +65,16 @@ export interface ThemeCard {
   titleEn: string;
   description: string;
   icon: string;
+  level: string;
   wordIds: string[];
 }
 
 const THEME_ICONS: Record<string, LucideIcon> = {
   Bike, BookOpen, Briefcase, CalendarClock, Cpu, FileText, Globe, GraduationCap, HeartPulse, House, Home: House, Landmark, Leaf,
   Mail, Palette, PartyPopper, Shirt, ShoppingCart, Smartphone, Smile, TrainFront, Users, UtensilsCrossed, Zap,
+  // B2 themes
+  Apple, Brain, Building, Drama, FlaskConical, HeartHandshake, Lightbulb, MailOpen, MessagesSquare, Mountain, Newspaper, Plane,
+  Scale, Shapes, ShoppingBag, Sparkles, Sprout, Stethoscope, TrendingUp, UsersRound, Workflow,
 };
 
 function ThemeIcon({ name }: { name: string }) {
@@ -55,10 +82,16 @@ function ThemeIcon({ name }: { name: string }) {
   return <Icon className="size-5" />;
 }
 
-export function VocabIndex({ themes }: { themes: ThemeCard[] }) {
+export function VocabIndex({ themes: allThemes }: { themes: ThemeCard[] }) {
   const t = useT();
   const locale = useLocale();
   const labels = t.vocab.index;
+  const exam = useExam();
+  const levels = [...new Set(allThemes.map((theme) => theme.level))];
+  const [chosenLevel, setLevel] = useState<string | null>(null);
+  // The themes of the learner's exam level first; the other level is one click away.
+  const level = chosenLevel ?? (levels.includes(exam.level) ? exam.level : levels[0]);
+  const themes = allThemes.filter((theme) => theme.level === level);
   const hydrated = useHydrated();
   const cards = useVocab((s) => s.cards);
   const now = useNow();
@@ -74,6 +107,15 @@ export function VocabIndex({ themes }: { themes: ThemeCard[] }) {
 
   return (
     <div className="space-y-8">
+      {levels.length > 1 && (
+        <ToggleGroup type="single" variant="outline" size="sm" value={level} onValueChange={(v) => v && setLevel(v)}>
+          {levels.map((l) => (
+            <ToggleGroupItem key={l} value={l}>
+              {labels.levelWords(l)}
+            </ToggleGroupItem>
+          ))}
+        </ToggleGroup>
+      )}
       <div className="grid gap-3 sm:grid-cols-4">
         <Stat label={labels.statWords} value={total} />
         <Stat label={labels.statInDeck} value={hydrated ? stats.learned : 0} />

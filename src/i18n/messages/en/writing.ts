@@ -1,7 +1,7 @@
 export const writing = {
   meta: {
-    title: "Schreiben – informal and semi-formal e-mails with AI correction",
-    description: "Write telc B1 e-mails under exam conditions and get scored with the official criteria.",
+    title: "Schreiben – exam e-mails with AI correction",
+    description: "Write telc e-mails under exam conditions and get scored with the official criteria.",
     setTitle: (number: string, title: string) => `Schreiben ${number} · ${title}`,
   },
 
@@ -16,7 +16,13 @@ export const writing = {
       part: "Part",
       informal: "Informal (du)",
       semiformal: "Semi-formal (Sie)",
+      request: "Request for information",
+      complaint: "Complaint",
+      textB2: "Raters check text-type features, register and whether three points are developed in several sentences each.",
     },
+    choiceTitle: "Aufgabe A or B?",
+    choiceText:
+      "In the exam you get two tasks and choose one – within the 30 minutes. Read both situations, pick the one with the points you can develop best, and start writing within two or three minutes. The mock exams train this choice.",
     marking: {
       title: "How it is marked",
       text: "A = 5 · B = 3 · C = 1 · D = 0 per criterion, the sum × 3.",
@@ -102,7 +108,9 @@ export const writing = {
     clickHint: "Click an underlined passage to see the correction.",
     noErrors: "No errors found – excellent!",
     correctedHint: "Your text with only the mistakes fixed.",
-    improvedHint: "Your ideas at upper-B1 level – study the connectors and phrases.",
+    improvedHint: (level: string) => `Your ideas at upper-${level} level – study the connectors and phrases.`,
+    leitpunkteAll: "All four points must be dealt with.",
+    leitpunkteThree: "Three points are needed (or two plus an own aspect) – each in more than one sentence.",
     whatWorked: "What worked",
     nextTime: "Next time",
     /** Error categories reported by the AI. */
@@ -143,13 +151,14 @@ export const writing = {
     connectors: {
       label: "Linking words",
       used: (n: number, list: string) => `${n} different: ${list}`,
-      aim: " – aim for 5+.",
+      aim: (n: number) => ` – aim for ${n}+.`,
       none: "Link your points: weil, deshalb, außerdem, trotzdem, obwohl, damit …",
     },
     length: {
       label: "Length",
       detail: (words: number) =>
         `${words} ${words === 1 ? "word" : "words"} · aim for about 130–180 (no official minimum, but all 4 points need space).`,
+      detailB2: (words: number) => `${words} ${words === 1 ? "word" : "words"} · at least 150 required – aim for 180–220.`,
     },
     closing: {
       label: "Closing & sign-off",

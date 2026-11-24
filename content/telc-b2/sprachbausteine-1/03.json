@@ -1,0 +1,142 @@
+{
+  "id": "sprachbausteine-1-03",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Anfrage zum Intensivkurs C1",
+  "topic": "bildung",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "text": "Sehr geehrte Damen und Herren,\n\nauf Ihrer Internetseite habe ich gelesen, dass Sie ab Februar einen Intensivkurs „Deutsch für den Beruf – C1“ anbieten, [[1]] Teilnehmerzahl auf zwölf Personen begrenzt ist. Da mich dieses Angebot sehr anspricht, möchte ich mich nach einigen Einzelheiten [[2]]. Empfohlen hat mir Ihre Schule eine Kollegin, die im vergangenen Jahr bei Ihnen sehr gute Erfahrungen gemacht hat.\n\nZu meiner Person: Ich komme aus Porto und bin vor zwei Jahren von einem Hotel in Hannover als Rezeptionistin eingestellt [[3]]. Da mir die Hotelleitung inzwischen die Stelle der Empfangschefin in Aussicht gestellt hat, möchte ich mich gezielt weiterbilden. Gern [[4]] ich mich schon für Ihren Herbstkurs angemeldet, doch dieser war leider bereits ausgebucht.\n\n[[5]] meiner Arbeit im Schichtdienst kommt für mich nur der Vormittagskurs infrage. Mit meinem Vorgesetzten habe ich vereinbart, dass ich ab Februar ausschließlich Spätschichten übernehme, es sei [[6]], eine Kollegin fällt kurzfristig aus. Wäre es in einem solchen Fall möglich, einzelne Unterrichtsstunden in einer Nachmittagsgruppe nachzuholen?\n\nAußerdem wüsste ich gern, [[7]] sich der Kurspreis von 1.290 Euro genau zusammensetzt. Ist beispielsweise die Gebühr für die [[8]] an der Abschlussprüfung bereits enthalten, oder muss sie gesondert bezahlt werden?\n\nÜbrigens bereite ich mich schon jetzt auf den Kurs vor, [[9]] ich jeden Abend Nachrichten höre und Fachartikel aus der Hotelbranche lese. Falls möglich, würde ich vor der Anmeldung gern eine Probestunde besuchen, um Ihre Unterrichtsmethoden kennenzulernen. Für eine baldige Antwort wäre ich Ihnen sehr dankbar, [[10]] die Anmeldefrist bereits am 15. Januar endet.\n\nMit freundlichen Grüßen\nBeatriz Moura",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "deren" },
+        { "key": "b", "text": "dessen" },
+        { "key": "c", "text": "denen" }
+      ],
+      "answer": "b",
+      "explanation": "The number of participants belongs to „einen Intensivkurs“ (masculine), so the genitive relative pronoun is „dessen“. „deren“ is the trap: „Teilnehmerzahl“ is feminine, but the relative pronoun agrees with the noun it refers to, not with the noun that follows. „denen“ is dative plural.",
+      "explanationDe": "Die Teilnehmerzahl gehört zu „einen Intensivkurs“ (maskulin), also steht das Relativpronomen im Genitiv: „dessen“. „deren“ ist die Falle: „Teilnehmerzahl“ ist zwar feminin, aber das Relativpronomen richtet sich nach dem Bezugswort, nicht nach dem folgenden Nomen. „denen“ ist Dativ Plural.",
+      "grammar": "relativsaetze-b2"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "erklären" },
+        { "key": "b", "text": "ergeben" },
+        { "key": "c", "text": "erkundigen" }
+      ],
+      "answer": "c",
+      "explanation": "„sich nach etwas erkundigen“ means to inquire about something – the typical phrase in a letter of inquiry. „sich erklären“ (to explain oneself) and „sich ergeben“ (to surrender, to result) have different meanings and do not combine with „nach“.",
+      "explanationDe": "„sich nach etwas erkundigen“ bedeutet „nach etwas fragen“ – die typische Formulierung in einer Anfrage. „sich erklären“ und „sich ergeben“ haben eine ganz andere Bedeutung und passen nicht zu „nach“."
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "worden" },
+        { "key": "b", "text": "geworden" },
+        { "key": "c", "text": "wurden" }
+      ],
+      "answer": "a",
+      "explanation": "Perfect passive: „bin … eingestellt worden“. In the passive the participle of „werden“ is „worden“; „geworden“ is only used when „werden“ means „to become“ („Sie ist Chefin geworden“). „wurden“ is a conjugated form and cannot follow „bin“.",
+      "explanationDe": "Perfekt Passiv: „bin … eingestellt worden“. Im Passiv heißt das Partizip von „werden“ „worden“. „geworden“ benutzt man nur, wenn „werden“ ein Vollverb ist („Sie ist Chefin geworden“). „wurden“ ist eine konjugierte Form und passt nicht zu „bin“.",
+      "grammar": "passiv-b2"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "wäre" },
+        { "key": "b", "text": "würde" },
+        { "key": "c", "text": "hätte" }
+      ],
+      "answer": "c",
+      "explanation": "She wanted to register but could not – an unreal wish in the past: „Gern hätte ich mich … angemeldet“. „sich anmelden“ forms its perfect tenses with „haben“, so „wäre“ is wrong, and „würde“ cannot be combined with the participle „angemeldet“.",
+      "explanationDe": "Sie wollte sich anmelden, konnte aber nicht – ein irrealer Wunsch in der Vergangenheit: „Gern hätte ich mich … angemeldet“. „sich anmelden“ bildet die Perfektformen mit „haben“, deshalb ist „wäre“ falsch. „würde“ passt nicht zum Partizip „angemeldet“.",
+      "grammar": "konjunktiv-2-vergangenheit"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "Aufgrund" },
+        { "key": "b", "text": "Trotz" },
+        { "key": "c", "text": "Anstatt" }
+      ],
+      "answer": "a",
+      "explanation": "Her shift work is the reason why „nur der Vormittagskurs“ is possible, so you need the causal preposition „Aufgrund“ (+ genitive). „Trotz“ would express a contrast, and „Anstatt“ makes no sense here.",
+      "explanationDe": "Die Schichtarbeit ist der Grund, warum „nur der Vormittagskurs“ infrage kommt. Du brauchst also die kausale Präposition „Aufgrund“ (+ Genitiv). „Trotz“ würde einen Gegensatz ausdrücken, und „Anstatt“ ergibt hier keinen Sinn.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "dann" },
+        { "key": "b", "text": "denn" },
+        { "key": "c", "text": "doch" }
+      ],
+      "answer": "b",
+      "explanation": "„es sei denn“ is a fixed formula meaning „unless“: she only works late shifts unless a colleague is suddenly absent. „es sei dann“ and „es sei doch“ do not exist as connectors.",
+      "explanationDe": "„es sei denn“ ist eine feste Formel und bedeutet „außer wenn“: Sie arbeitet nur in der Spätschicht, außer wenn eine Kollegin plötzlich fehlt. „es sei dann“ und „es sei doch“ gibt es als Konnektor nicht.",
+      "grammar": "konditionalsaetze"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "worauf" },
+        { "key": "b", "text": "woraus" },
+        { "key": "c", "text": "wovon" }
+      ],
+      "answer": "b",
+      "explanation": "The verb is „sich zusammensetzen aus“ (to be made up of), so the question word in the indirect question is „woraus“. „worauf“ and „wovon“ belong to other prepositions („auf“, „von“).",
+      "explanationDe": "Das Verb heißt „sich zusammensetzen aus“. Deshalb lautet das Fragewort in der indirekten Frage „woraus“. „worauf“ und „wovon“ gehören zu anderen Präpositionen („auf“, „von“).",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "Teilung" },
+        { "key": "b", "text": "Anteilnahme" },
+        { "key": "c", "text": "Teilnahme" }
+      ],
+      "answer": "c",
+      "explanation": "„die Teilnahme an“ means taking part in something – here in the final exam. „Anteilnahme“ means sympathy (e.g. after a death), and „Teilung“ means division.",
+      "explanationDe": "„die Teilnahme an“ bedeutet, dass man bei etwas mitmacht – hier bei der Abschlussprüfung. „Anteilnahme“ ist Mitgefühl (zum Beispiel bei einem Todesfall), und „Teilung“ bedeutet, dass etwas geteilt wird."
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "indem" },
+        { "key": "b", "text": "dadurch" },
+        { "key": "c", "text": "womit" }
+      ],
+      "answer": "a",
+      "explanation": "„indem“ says how she prepares – by listening to the news and reading articles – and sends the verb to the end („höre“). „dadurch“ alone is an adverb (you would need „dadurch, dass“), and „womit“ would refer back to the whole main clause, which makes no sense.",
+      "explanationDe": "„indem“ sagt, wie sie sich vorbereitet – mit Nachrichten und Fachartikeln –, und das Verb steht am Ende („höre“). „dadurch“ allein ist ein Adverb (du bräuchtest „dadurch, dass“), und „womit“ würde sich auf den ganzen Hauptsatz beziehen – das ergibt keinen Sinn.",
+      "grammar": "modalsaetze"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "zudem" },
+        { "key": "b", "text": "zuvor" },
+        { "key": "c", "text": "zumal" }
+      ],
+      "answer": "c",
+      "explanation": "„zumal“ adds a further, especially important reason (especially since) and sends the verb to the end: „zumal die Anmeldefrist … endet“. „zudem“ (moreover) and „zuvor“ (beforehand) are adverbs and would need the verb straight after them.",
+      "explanationDe": "„zumal“ nennt einen zusätzlichen, besonders wichtigen Grund, und das Verb steht am Ende: „zumal die Anmeldefrist … endet“. „zudem“ und „zuvor“ sind Adverbien – danach müsste das Verb direkt folgen.",
+      "grammar": "kausale-konsekutive-saetze"
+    }
+  ],
+  "glossary": [
+    { "de": "jemanden ansprechen", "en": "to appeal to someone" },
+    { "de": "sich nach etwas erkundigen", "en": "to inquire about something" },
+    { "de": "jemandem etwas in Aussicht stellen", "en": "to hold out the prospect of something" },
+    { "de": "der Schichtdienst", "en": "shift work" },
+    { "de": "infrage kommen", "en": "to be an option" },
+    { "de": "kurzfristig ausfallen", "en": "to be absent at short notice" },
+    { "de": "etwas nachholen", "en": "to make up for something (e.g. a missed lesson)" },
+    { "de": "sich zusammensetzen aus", "en": "to consist of" },
+    { "de": "gesondert", "en": "separately" },
+    { "de": "die Anmeldefrist", "en": "registration deadline" }
+  ]
+}

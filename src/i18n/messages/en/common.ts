@@ -1,8 +1,8 @@
 export const common = {
   appTagline: "telc exam training",
-  siteTitle: "telc Deutsch B1 exam training",
+  siteTitle: "telc Deutsch B1 & B2 exam training",
   siteDescription:
-    "Realistic telc Deutsch B1 practice with exam timing, real audio tasks, AI writing and speaking feedback, B1 grammar and vocabulary.",
+    "Realistic telc Deutsch B1 and B2 practice with exam timing, real audio tasks, AI writing and speaking feedback, grammar and vocabulary.",
   start: "Start",
   submit: "Submit",
   next: "Next",
@@ -56,6 +56,8 @@ export const common = {
     fromText: (quote: string) => `From the text: „${quote}“`,
     noAdFits: "No ad fits this situation",
     noAdFitsShort: "No ad fits (x)",
+    noTextFits: "No info text fits this situation",
+    noTextFitsShort: "No info text fits (x)",
   },
   verdict: { excellent: "Excellent", pass: "Pass level", almost: "Almost there", practice: "Needs practice" },
 };

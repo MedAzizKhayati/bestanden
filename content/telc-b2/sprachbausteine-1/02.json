@@ -1,0 +1,141 @@
+{
+  "id": "sprachbausteine-1-02",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Endlich in der WG",
+  "topic": "wohnen",
+  "difficulty": 1,
+  "textType": "email-informal",
+  "text": "Hallo Elif,\n\nlange nichts voneinander gehört! Ich hoffe, dir geht es gut. Bei mir hat sich in den letzten Wochen viel getan: Ich bin aus dem Studentenwohnheim ausgezogen und wohne jetzt in einer WG in der Grazer Innenstadt. [[1]] wollte ich ja nie mit fremden Leuten zusammenwohnen – und jetzt bin ich total begeistert.\n\nMein Zimmer ist [[2]] etwas kleiner als das alte, aber dafür hat es einen Balkon mit Blick auf den Schlossberg. Meine drei Mitbewohner, mit [[3]] ich mich auf Anhieb gut verstanden habe, studieren alle etwas anderes. Am ersten Abend haben sie für mich gekocht und mich so herzlich aufgenommen, als [[4]] ich schon seit Jahren dazugehören.\n\nBevor ich einziehen durfte, musste ich eine [[5]] von zwei Monatsmieten überweisen. Die bekomme ich zurück, wenn ich wieder ausziehe – hoffentlich ohne Abzüge! Am letzten Wochenende haben wir nämlich gemeinsam die Küche [[6]], und dabei ist leider ziemlich viel Farbe auf dem Boden gelandet.\n\nNatürlich gibt es auch Regeln. Der an der Kühlschranktür [[7]] Putzplan wird streng eingehalten, und der Müll muss jeden Montag vor sieben Uhr an die Straße gestellt [[8]]. [[9]] der vielen Leute im Haus ist es abends erstaunlich ruhig, denn wir achten alle [[10]], dass nach 22 Uhr niemand mehr laut Musik hört.\n\nHast du nicht Lust, mich bald mal zu besuchen? Auf unserem Sofa kann man wunderbar übernachten, und die anderen würden dich sicher gern kennenlernen.\n\nLiebe Grüße aus Graz\nJonas",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "Eigentlich" },
+        { "key": "b", "text": "Außerdem" },
+        { "key": "c", "text": "Überhaupt" }
+      ],
+      "answer": "a",
+      "explanation": "„Eigentlich“ shows that something was originally meant to be different: Jonas never wanted to share a flat, „und jetzt“ he loves it. „Außerdem“ would only add another point, and „Überhaupt“ does not express this contrast.",
+      "explanationDe": "„Eigentlich“ zeigt, dass etwas ursprünglich anders gedacht war: Jonas wollte nie in einer WG wohnen, „und jetzt“ ist er begeistert. „Außerdem“ würde nur einen weiteren Punkt ergänzen, und „Überhaupt“ drückt diesen Gegensatz nicht aus."
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "sowohl" },
+        { "key": "b", "text": "weder" },
+        { "key": "c", "text": "zwar" }
+      ],
+      "answer": "c",
+      "explanation": "„zwar … aber“ admits a disadvantage and then sets an advantage against it: the room is smaller, „aber dafür“ it has a balcony. „sowohl“ needs „als auch“, and „weder“ needs „noch“.",
+      "explanationDe": "Mit „zwar … aber“ gibst du einen Nachteil zu und nennst dann einen Vorteil: Das Zimmer ist kleiner, „aber dafür“ hat es einen Balkon. „sowohl“ braucht „als auch“, und „weder“ braucht „noch“.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "deren" },
+        { "key": "b", "text": "denen" },
+        { "key": "c", "text": "die" }
+      ],
+      "answer": "b",
+      "explanation": "„sich mit jemandem verstehen“: „mit“ takes the dative, and „Meine drei Mitbewohner“ is plural, so „mit denen“. „die“ is nominative or accusative, and after the genitive „deren“ a noun would have to follow.",
+      "explanationDe": "„sich mit jemandem verstehen“: Nach „mit“ steht der Dativ, und „Meine drei Mitbewohner“ ist Plural – also „mit denen“. „die“ ist Nominativ oder Akkusativ, und nach dem Genitiv „deren“ müsste ein Nomen folgen.",
+      "grammar": "relativsaetze-b2"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "ob" },
+        { "key": "b", "text": "würde" },
+        { "key": "c", "text": "wenn" }
+      ],
+      "answer": "b",
+      "explanation": "In an unreal comparison the conjugated verb follows „als“ directly: „als würde ich … dazugehören“ (as if I had belonged for years). With „als ob“ or „als wenn“ the clause would need a conjugated verb at the end, but „dazugehören“ is only an infinitive.",
+      "explanationDe": "Im irrealen Vergleichssatz steht das konjugierte Verb direkt nach „als“: „als würde ich … dazugehören“. Mit „als ob“ oder „als wenn“ bräuchte der Satz am Ende ein konjugiertes Verb, aber „dazugehören“ ist nur ein Infinitiv.",
+      "grammar": "irreale-vergleichssaetze"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "Quittung" },
+        { "key": "b", "text": "Kündigung" },
+        { "key": "c", "text": "Kaution" }
+      ],
+      "answer": "c",
+      "explanation": "„die Kaution“ is the deposit a tenant pays before moving in and gets back when moving out – exactly what „Die bekomme ich zurück, wenn ich wieder ausziehe“ says. A „Quittung“ is a receipt and a „Kündigung“ a notice of termination; you do not transfer either as money.",
+      "explanationDe": "„die Kaution“ ist das Geld, das ein Mieter vor dem Einzug bezahlt und beim Auszug zurückbekommt – genau das beschreibt „Die bekomme ich zurück, wenn ich wieder ausziehe“. Eine „Quittung“ ist ein Beleg und eine „Kündigung“ die Beendigung eines Vertrags; beides überweist man nicht."
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "gestrichen" },
+        { "key": "b", "text": "gestreichelt" },
+        { "key": "c", "text": "gestrichelt" }
+      ],
+      "answer": "a",
+      "explanation": "The paint on the floor („Farbe auf dem Boden“) shows that they painted the kitchen: „streichen – gestrichen“. „gestreichelt“ comes from „streicheln“ (to stroke, e.g. a cat), „gestrichelt“ from „stricheln“ (to draw short lines).",
+      "explanationDe": "Die „Farbe auf dem Boden“ zeigt: Sie haben die Wände der Küche neu angemalt, also „streichen – gestrichen“. „gestreichelt“ kommt von „streicheln“ (zum Beispiel eine Katze), „gestrichelt“ von „stricheln“ (kurze Striche zeichnen)."
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "hängenden" },
+        { "key": "b", "text": "hängender" },
+        { "key": "c", "text": "hängende" }
+      ],
+      "answer": "c",
+      "explanation": "The participle „hängend“ is used like an adjective before „Putzplan“. After the definite article „Der“ in the nominative masculine it ends in „-e“: „Der … hängende Putzplan“. „hängenden“ would be accusative, dative or genitive, and „hängender“ is the ending without an article.",
+      "explanationDe": "Das Partizip „hängend“ steht wie ein Adjektiv vor „Putzplan“. Nach dem bestimmten Artikel „Der“ im Nominativ maskulin endet es auf „-e“: „Der … hängende Putzplan“. „hängenden“ wäre Akkusativ, Dativ oder Genitiv, und „hängender“ ist die Endung ohne Artikel.",
+      "grammar": "partizipialattribute"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "werden" },
+        { "key": "b", "text": "worden" },
+        { "key": "c", "text": "wird" }
+      ],
+      "answer": "a",
+      "explanation": "Passive with a modal verb: „muss“ + participle + „werden“ – „muss … gestellt werden“. „worden“ only appears in perfect passive forms („ist gestellt worden“), and „wird“ would be a second conjugated verb next to „muss“.",
+      "explanationDe": "Passiv mit Modalverb: „muss“ + Partizip II + „werden“ – „muss … gestellt werden“. „worden“ gibt es nur im Perfekt Passiv („ist gestellt worden“), und „wird“ wäre neben „muss“ ein zweites konjugiertes Verb.",
+      "grammar": "passiv-b2"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "Wegen" },
+        { "key": "b", "text": "Trotz" },
+        { "key": "c", "text": "Dank" }
+      ],
+      "answer": "b",
+      "explanation": "„erstaunlich ruhig“ signals a contrast: with so many people you would expect noise, so the concessive preposition „Trotz“ (+ genitive). „Wegen“ and „Dank“ give a reason – but the many people are not the reason for the quiet.",
+      "explanationDe": "„erstaunlich ruhig“ zeigt einen Gegensatz: Bei so vielen Leuten erwartet man Lärm – also „Trotz“ (+ Genitiv). „Wegen“ und „Dank“ nennen einen Grund, aber die vielen Leute sind nicht der Grund für die Ruhe.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "darauf" },
+        { "key": "b", "text": "daran" },
+        { "key": "c", "text": "dafür" }
+      ],
+      "answer": "a",
+      "explanation": "The verb is „achten auf“ + accusative; when a „dass“-clause follows, you need the prepositional adverb „darauf“. „daran“ belongs to verbs like „denken an“, and „dafür“ to „sorgen für“.",
+      "explanationDe": "Das Verb heißt „achten auf“ + Akkusativ. Wenn ein „dass“-Satz folgt, brauchst du das Präpositionaladverb „darauf“. „daran“ gehört zu Verben wie „denken an“, „dafür“ zu „sorgen für“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    }
+  ],
+  "glossary": [
+    { "de": "die Wohngemeinschaft (WG)", "en": "shared flat" },
+    { "de": "der Mitbewohner / die Mitbewohnerin", "en": "flatmate" },
+    { "de": "auf Anhieb", "en": "right away, from the start" },
+    { "de": "jemanden herzlich aufnehmen", "en": "to welcome someone warmly" },
+    { "de": "dazugehören", "en": "to belong" },
+    { "de": "die Kaution", "en": "(rent) deposit" },
+    { "de": "der Abzug", "en": "deduction" },
+    { "de": "streichen", "en": "to paint (walls)" },
+    { "de": "der Putzplan", "en": "cleaning rota" },
+    { "de": "etwas einhalten", "en": "to stick to, to observe (rules)" }
+  ]
+}

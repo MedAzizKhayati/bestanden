@@ -1,0 +1,58 @@
+{
+  "id": "schreiben-10",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Ärger mit der Umzugsfirma",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie sind vor zwei Wochen innerhalb von Köln umgezogen und haben dafür die Firma Kranich Umzüge beauftragt. Der Umzug ist jedoch ganz anders verlaufen, als es in der Werbung versprochen wird. Schreiben Sie eine Beschwerde an die Firma.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Kranich Umzüge – Ihr Umzug in besten Händen\n\nSeit über 20 Jahren sorgen wir in Köln und Umgebung für stressfreie Umzüge. Darauf können Sie sich verlassen:\n\n• Pünktlichkeit – unser Team ist zur vereinbarten Uhrzeit bei Ihnen\n• erfahrene und geschulte Möbelpacker\n• fachgerechter Ab- und Aufbau Ihrer Möbel\n• sichere Verpackung empfindlicher Gegenstände mit Decken und Spezialfolie\n• Festpreisgarantie – keine versteckten Kosten\n• voll versichert: Für Schäden haften wir bis zu 50.000 Euro\n\nFordern Sie jetzt Ihr kostenloses Angebot an!\nTel. 0221 509 66 18 · service@kranich-umzuege.de"
+  },
+  "leitpunkte": [
+    "Erklären Sie, was Sie von der Firma erwarten.",
+    "Beschreiben Sie, wie der Umzugstag abgelaufen ist.",
+    "Legen Sie dar, warum Sie sich für diese Firma entschieden hatten.",
+    "Erläutern Sie, welche Schäden an Ihren Möbeln entstanden sind."
+  ],
+  "model": {
+    "subject": "Beschwerde über meinen Umzug am 3. November",
+    "text": "Sehr geehrte Damen und Herren,\n\nam 3. November haben Sie meinen Umzug von Köln-Ehrenfeld nach Köln-Sülz durchgeführt. Leider sehe ich mich gezwungen, mich sowohl über den Ablauf als auch über die entstandenen Schäden zu beschweren.\n\nObwohl Ihre Mitarbeiter laut Auftrag um 8 Uhr hätten kommen sollen, standen sie erst gegen 11 Uhr vor der Tür. Weder hatte mich jemand über die Verspätung informiert, noch war Ihr Büro telefonisch zu erreichen. Da ich die alte Wohnung um 15 Uhr übergeben musste, wurde anschließend in großer Eile gepackt und geladen.\n\nDiese Hektik hatte leider Folgen. Entgegen Ihrem Versprechen wurden empfindliche Möbel nicht in Decken eingewickelt. So ist die Glastür meiner Vitrine gesprungen, und meine Kommode aus Eichenholz weist auf der Vorderseite tiefe Kratzer auf. Ein Schreiner hat die Reparaturkosten auf insgesamt 420 Euro geschätzt; den Kostenvoranschlag sowie Fotos der Schäden füge ich dieser E-Mail bei.\n\nIch erwarte daher, dass Sie mir diesen Betrag gemäß Ihrer Haftungszusage erstatten. Darüber hinaus halte ich wegen der dreistündigen Verspätung einen Nachlass auf den vereinbarten Festpreis für angebracht.\n\nIch bitte Sie, mir bis zum 30. November mitzuteilen, wie Sie die Angelegenheit regeln werden.\n\nMit freundlichen Grüßen\nMiriam Okonkwo"
+  },
+  "modelNotes": [
+    "The model covers three points: how the moving day went (paragraph 2), the damage to the furniture (paragraph 3) and what the writer expects (paragraph 4). Why the writer chose this company is left out.",
+    "The paragraphs build a chain of cause and effect: late arrival → packing in a hurry → no blankets → damage → demand. This logic makes the complaint hard to reject.",
+    "Each complaint quotes a promise from the ad: „Pünktlichkeit“, „Verpackung … mit Decken“, „Festpreisgarantie“ and „haften wir“ – hence „Entgegen Ihrem Versprechen“ and „gemäß Ihrer Haftungszusage“.",
+    "B2 structures: Konjunktiv II past with a modal verb („hätten kommen sollen“), „weder … noch“ and „sowohl … als auch“, impersonal passive („wurde … gepackt und geladen“), prepositions with the dative („entgegen“, „gemäß“) and formal phrases such as „Leider sehe ich mich gezwungen, …“ and „… weist tiefe Kratzer auf“.",
+    "The demand is concrete (420 euros plus a reduction), supported by evidence (estimate and photos) and ends with a deadline."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: wie der Umzugstag abgelaufen ist (2. Absatz), die Schäden an den Möbeln (3. Absatz) und die Erwartungen der Schreiberin (4. Absatz). Warum sie diese Firma gewählt hat, wird weggelassen.",
+    "Die Absätze bilden eine Kette von Ursache und Folge: Verspätung → Packen in Eile → keine Decken → Schäden → Forderung. Diese Logik macht es schwer, die Beschwerde abzulehnen.",
+    "Jede Beschwerde zitiert ein Versprechen aus der Anzeige: „Pünktlichkeit“, „Verpackung … mit Decken“, „Festpreisgarantie“ und „haften wir“ – daher „Entgegen Ihrem Versprechen“ und „gemäß Ihrer Haftungszusage“.",
+    "B2-Strukturen: Konjunktiv II der Vergangenheit mit Modalverb („hätten kommen sollen“), „weder … noch“ und „sowohl … als auch“, unpersönliches Passiv („wurde … gepackt und geladen“), Präpositionen mit Dativ („entgegen“, „gemäß“) und formelle Wendungen wie „Leider sehe ich mich gezwungen, …“ und „… weist tiefe Kratzer auf“.",
+    "Die Forderung ist konkret (420 Euro und ein Nachlass), mit Belegen gestützt (Kostenvoranschlag und Fotos) und endet mit einer Frist."
+  ],
+  "phrases": [
+    { "de": "Leider sehe ich mich gezwungen, mich über … zu beschweren.", "en": "Unfortunately I feel obliged to complain about …" },
+    { "de": "Laut Auftrag hätten Ihre Mitarbeiter um … kommen sollen.", "en": "According to the order, your staff should have arrived at …" },
+    { "de": "Weder hatte mich jemand informiert, noch war Ihr Büro zu erreichen.", "en": "Nobody informed me, nor could your office be reached." },
+    { "de": "Entgegen Ihrem Versprechen wurden … nicht …", "en": "Contrary to your promise, … were not …" },
+    { "de": "Die Kommode weist tiefe Kratzer auf.", "en": "The chest of drawers has deep scratches." },
+    { "de": "Den Kostenvoranschlag füge ich dieser E-Mail bei.", "en": "I am attaching the estimate to this e-mail." },
+    { "de": "Ich erwarte, dass Sie mir diesen Betrag erstatten.", "en": "I expect you to refund this amount to me." },
+    { "de": "Ich bitte Sie, mir bis zum … mitzuteilen, wie Sie die Angelegenheit regeln werden.", "en": "Please let me know by … how you are going to settle the matter." }
+  ],
+  "glossary": [
+    { "de": "fachgerecht", "en": "professional, done properly" },
+    { "de": "für etwas haften", "en": "to be liable for something" },
+    { "de": "die Festpreisgarantie", "en": "fixed-price guarantee" },
+    { "de": "eine Wohnung übergeben", "en": "to hand over a flat (to the landlord)" },
+    { "de": "der Kratzer", "en": "scratch" },
+    { "de": "der Kostenvoranschlag", "en": "cost estimate, quote" },
+    { "de": "der Nachlass", "en": "reduction, discount" }
+  ]
+}

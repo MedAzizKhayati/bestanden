@@ -1,0 +1,98 @@
+{
+  "id": "sprechen-2-08",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Innenstadt ohne Autos",
+  "topic": "umwelt",
+  "difficulty": 2,
+  "theme": "Sollten Innenstädte für Autos gesperrt werden?",
+  "article": {
+    "headline": "Ein halbes Jahr ohne Autos: Kassel zieht Bilanz",
+    "lead": "Von April bis September war die Kasseler Innenstadt für private Pkw gesperrt. Nun liegen die ersten Zahlen vor – und der Streit um eine dauerhafte Lösung beginnt.",
+    "paragraphs": [
+      "Die Stadtverwaltung wertet den Pilotversuch als Erfolg: In der Fußgängerzone und den angrenzenden Straßen sank die Belastung durch Stickstoffdioxid um 31 Prozent, auch der Lärmpegel ging spürbar zurück. Auf ehemaligen Parkplätzen entstanden Sitzbänke, Hochbeete und Spielflächen. Bei einer Befragung von rund 2.000 Passantinnen und Passanten sprachen sich 64 Prozent dafür aus, die Sperrung beizubehalten.",
+      "„Früher wollte ich nur möglichst schnell durch die Stadt, heute trinke ich mittags meinen Kaffee draußen auf dem Platz“, erzählt die Verwaltungsangestellte Corinna Weidlich. Auch die Gastronomie profitierte: Cafés und Restaurants durften ihre Terrassen vergrößern und meldeten bis zu 15 Prozent mehr Umsatz.",
+      "Weniger begeistert zeigt sich ein Teil des Einzelhandels. Mehrere Inhaber berichten von Umsatzeinbußen von bis zu 20 Prozent. „Wer einen Fernseher oder eine Waschmaschine kauft, kommt nicht mit dem Bus“, klagt Gerd Schönborn, der seit 30 Jahren ein Elektrogeschäft am Rand der Fußgängerzone betreibt. Er befürchtet, dass die Kundschaft aus dem Umland endgültig in die Einkaufszentren an der Autobahn abwandert.",
+      "Kritik kommt außerdem von Senioren- und Behindertenverbänden. Zwar durften Taxis, Lieferfahrzeuge und Autos mit Behindertenausweis weiterhin ins Zentrum fahren, doch viele ältere Menschen fühlten sich ausgeschlossen. Der Shuttlebus, der im Zehn-Minuten-Takt vom Parkhaus am Stadtrand in die Innenstadt pendelte, sei vor allem samstags häufig überfüllt gewesen.",
+      "Im Dezember will der Stadtrat entscheiden. Die Vorschläge reichen von einer dauerhaften Sperrung über eine autofreie Innenstadt nur an Wochenenden bis zur Rückkehr zum alten Zustand."
+    ],
+    "source": "Nordhessischer Tagesbote"
+  },
+  "ideas": {
+    "pro": [
+      "bessere Luft und weniger Lärm",
+      "mehr Platz für Fußgänger, Radfahrer und Grünflächen",
+      "höhere Lebensqualität und mehr Treffpunkte",
+      "Cafés und Restaurants profitieren",
+      "weniger Unfälle, mehr Sicherheit für Kinder",
+      "ein Beitrag zum Klimaschutz"
+    ],
+    "contra": [
+      "Umsatzeinbußen für manche Geschäfte",
+      "schwierig für ältere und behinderte Menschen",
+      "Kunden aus dem Umland weichen auf Einkaufszentren aus",
+      "große Einkäufe sind ohne Auto kaum möglich",
+      "Busse und Bahnen sind oft überfüllt oder fahren zu selten",
+      "der Verkehr verlagert sich in die Wohngebiete"
+    ]
+  },
+  "questions": [
+    "Wie kommen Sie normalerweise in die Innenstadt? Warum?",
+    "Wer würde von einer autofreien Innenstadt profitieren, wer hätte Nachteile?",
+    "Was müsste eine Stadt tun, damit die Menschen freiwillig auf das Auto verzichten?",
+    "Kennen Sie eine Stadt mit einem autofreien Zentrum? Wie gefällt es Ihnen dort?",
+    "Wie ist der Verkehr in den Städten Ihres Heimatlandes geregelt?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Vikram Nair", "gender": "m", "age": "adult", "role": "Teilnehmer A" },
+    { "id": "B", "name": "Elin Sandberg", "gender": "f", "age": "adult", "role": "Teilnehmerin B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Gut, dann fange ich an. Der Artikel berichtet über einen Pilotversuch in Kassel, wo ein halbes Jahr lang keine privaten Autos in die Innenstadt fahren durften. Nach Angaben der Stadt ist die Luftbelastung deutlich gesunken, und fast zwei Drittel der befragten Passanten wünschen sich, dass die Sperrung bleibt." },
+    { "s": "A", "t": "Cafés und Restaurants haben mehr Umsatz gemacht, ein Teil der Geschäftsleute klagt dagegen über Einbußen von bis zu zwanzig Prozent. Ein Händler befürchtet zum Beispiel, dass die Kunden aus dem Umland in Zukunft lieber zu den Einkaufszentren an der Autobahn fahren." },
+    { "s": "B", "t": "Danke. Was ich noch wichtig finde: Ältere und behinderte Menschen haben sich laut dem Artikel ausgeschlossen gefühlt, obwohl es einen Shuttlebus gab. Der war nämlich gerade samstags oft überfüllt." },
+    { "s": "A", "t": "Ja, das ist ein Problem, das man lösen muss. Grundsätzlich bin ich aber klar für autofreie Innenstädte, denn ich wohne selbst im Zentrum, und der Verkehrslärm geht mir jeden Abend auf die Nerven." },
+    { "s": "B", "t": "Das verstehe ich, aber ich sehe das etwas kritischer. Ich wohne auf dem Land, und bei uns fährt der Bus nur einmal pro Stunde. Ohne Auto komme ich also gar nicht in die Stadt." },
+    { "s": "A", "t": "Aber du müsstest ja nicht ganz auf das Auto verzichten. Du könntest am Stadtrand parken und mit dem Bus oder dem Fahrrad weiterfahren, so wie es in Kassel angeboten wurde." },
+    { "s": "B", "t": "Theoretisch ja. Aber stell dir vor, du hast zwei kleine Kinder und drei volle Einkaufstaschen dabei. Dann ist so ein Umstieg ziemlich mühsam." },
+    { "s": "A", "t": "Da hast du zwar recht, aber das betrifft doch vor allem große Einkäufe. Die macht man sowieso meistens im Supermarkt am Stadtrand und nicht in der Fußgängerzone." },
+    { "s": "B", "t": "Für Lebensmittel stimmt das. Aber denk mal an den Mann mit dem Elektrogeschäft: Wenn seine Kunden nicht mehr vor der Tür parken können, bestellen sie ihre Waschmaschine eben im Internet." },
+    { "s": "A", "t": "Das ist eine berechtigte Sorge. Andererseits kann man sich große Geräte doch nach Hause liefern lassen, und Lieferfahrzeuge durften ja weiterhin in die Innenstadt fahren." },
+    { "s": "B", "t": "Okay, das stimmt. Trotzdem befürchte ich, dass viele kleine Läden das nicht überleben und am Ende nur noch Cafés und Handyläden übrig bleiben." },
+    { "s": "A", "t": "Ich glaube eher das Gegenteil: Wenn die Innenstadt schöner wird, kommen mehr Leute und bleiben länger. Kennst du eine Stadt, in der das schon funktioniert?" },
+    { "s": "B", "t": "Ja, in meiner Heimatstadt in Schweden ist die Altstadt seit vielen Jahren fast autofrei. Am Anfang haben sich die Händler heftig beschwert, aber heute will dort niemand mehr zurück." },
+    { "s": "A", "t": "Siehst du, das meine ich. Man muss den Leuten einfach Zeit geben, sich an die Veränderung zu gewöhnen." },
+    { "s": "B", "t": "Mag sein. Ich bin trotzdem der Meinung, dass es ohne gute Alternativen nicht geht. Busse und Bahnen müssten zuerst häufiger fahren und günstiger werden, bevor man die Autos aussperrt." },
+    { "s": "A", "t": "Da stimme ich dir zu. Vielleicht wäre das ein guter Kompromiss: Man sperrt die Innenstadt zunächst nur an den Wochenenden und investiert gleichzeitig in den Nahverkehr und in Parkplätze am Stadtrand." },
+    { "s": "B", "t": "Damit wäre ich einverstanden. Und für Menschen, die nicht gut zu Fuß sind, sollte es auf jeden Fall weiterhin Ausnahmen geben." },
+    { "s": "A", "t": "Unbedingt. Also, unser Fazit: Autofreie Innenstädte ja, aber Schritt für Schritt und nur mit guten Alternativen." },
+    { "s": "B", "t": "Genau, so sehe ich das auch." }
+  ],
+  "phrases": [
+    { "de": "Nach Angaben der Stadt …", "en": "According to the city …" },
+    { "de": "Was ich noch wichtig finde: …", "en": "What I also find important: …" },
+    { "de": "Grundsätzlich bin ich klar für …", "en": "In principle, I'm clearly in favour of …" },
+    { "de": "Ich sehe das etwas kritischer.", "en": "I see that a bit more critically." },
+    { "de": "Stell dir vor, …", "en": "Imagine …" },
+    { "de": "Das ist eine berechtigte Sorge.", "en": "That's a legitimate concern." },
+    { "de": "Ich glaube eher das Gegenteil.", "en": "I tend to believe the opposite." },
+    { "de": "Mag sein. Ich bin trotzdem der Meinung, dass …", "en": "Maybe. I still think that …" },
+    { "de": "Vielleicht wäre das ein guter Kompromiss: …", "en": "Maybe this would be a good compromise: …" },
+    { "de": "Damit wäre ich einverstanden.", "en": "I would agree to that." },
+    { "de": "Also, unser Fazit: …", "en": "So, our conclusion: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Fußgängerzone", "en": "pedestrian zone" },
+    { "de": "die Sperrung", "en": "closure (of a road or area)" },
+    { "de": "der Pilotversuch", "en": "pilot trial" },
+    { "de": "die Luftbelastung", "en": "air pollution" },
+    { "de": "der Lärmpegel", "en": "noise level" },
+    { "de": "die Umsatzeinbuße", "en": "drop in sales" },
+    { "de": "das Umland", "en": "surrounding area" },
+    { "de": "abwandern", "en": "to move away, to go elsewhere" },
+    { "de": "der Nahverkehr", "en": "local public transport" },
+    { "de": "auf etwas verzichten", "en": "to do without something" },
+    { "de": "die Ausnahme", "en": "exception" },
+    { "de": "nicht gut zu Fuß sein", "en": "to have difficulty walking" }
+  ]
+}

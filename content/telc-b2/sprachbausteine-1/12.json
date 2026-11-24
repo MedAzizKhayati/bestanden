@@ -1,0 +1,142 @@
+{
+  "id": "sprachbausteine-1-12",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Halbzeit im Auslandssemester",
+  "topic": "bildung",
+  "difficulty": 3,
+  "textType": "email-informal",
+  "text": "Liebe Malika,\n\ndu [[1]] dich sicher schon gefragt haben, warum ich mich so lange nicht gemeldet habe. Inzwischen ist schon die Hälfte meines Auslandssemesters in Lund vorbei, und ich habe mich viel schneller [[2]], als ich gedacht hatte. Dabei wäre ich beinahe gar nicht hier gelandet: Weil ich ein Formular vergessen hatte, kam meine Bewerbung erst wenige Stunden vor Ablauf der Frist an.\n\nDas Studium unterscheidet sich ziemlich von dem in Leipzig. Bei uns schreibt man alle Klausuren am Semesterende, [[3]] hier jeder Kurs nach fünf Wochen mit einer Prüfung abgeschlossen wird. Dadurch kann man sich immer voll auf ein Fach konzentrieren. In den Seminaren wird außerdem erwartet, dass man sich aktiv beteiligt: Wer nur still zuhört, [[4]] stellt die Dozentin garantiert eine Frage. Und alle, sogar der Dekan, werden einfach mit Vornamen angesprochen.\n\nMit dem Schwedischen tue ich mich dagegen noch schwer. Ich wünschte, ich [[5]] mich schon richtig mit meinen schwedischen Mitbewohnern unterhalten – bisher verbringe ich meine Freizeit vor allem mit anderen Austauschstudierenden. Um schneller voranzukommen, nehme ich seit Oktober das Tandemprogramm der Uni in [[6]]: Zweimal pro Woche treffe ich mich mit Elin, die Germanistik studiert. Woran ich mich allerdings noch nicht gewöhnt habe, ist die schon gegen 15 Uhr [[7]] Dunkelheit. Die Schweden trösten sich mit Kerzen und ihrer geliebten Kaffeepause, der „Fika“.\n\nAlles in allem kann ich [[8]] inzwischen gut vorstellen, noch ein zweites Semester dranzuhängen. Ob das klappt, hängt allerdings vor allem [[9]] ab, ob mir die hier belegten Kurse in Leipzig [[10]] werden. Vom Prüfungsamt habe ich bisher leider noch keine Antwort.\n\nUnd wie geht es dir mit deiner Bachelorarbeit? Schreib mir bald – und vielleicht kommst du mich ja im Frühjahr besuchen, solange ich noch hier bin!\n\nHerzliche Grüße aus dem dunklen Norden\nVincent",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "wirst" },
+        { "key": "b", "text": "hast" },
+        { "key": "c", "text": "würdest" }
+      ],
+      "answer": "a",
+      "explanation": "„werden“ + Infinitiv Perfekt („gefragt haben“) expresses an assumption about the past: „du wirst dich sicher schon gefragt haben“ = you have probably wondered. „hast“ cannot be combined with the infinitive „gefragt haben“, and „würdest … gefragt haben“ would describe an unreal situation that depends on a condition.",
+      "explanationDe": "„werden“ + Infinitiv Perfekt („gefragt haben“) drückt eine Vermutung über die Vergangenheit aus: „du wirst dich sicher schon gefragt haben“ = du hast dich wahrscheinlich schon gefragt. „hast“ passt nicht zum Infinitiv „gefragt haben“, und „würdest … gefragt haben“ beschreibt eine irreale Situation, die von einer Bedingung abhängt.",
+      "grammar": "vermutungen"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "erlebt" },
+        { "key": "b", "text": "belebt" },
+        { "key": "c", "text": "eingelebt" }
+      ],
+      "answer": "c",
+      "explanation": "„sich einleben“ means to settle in somewhere new – exactly what Vincent describes after half a semester. „sich erleben“ and „sich beleben“ (to come alive, to get busier) do not describe getting used to a new place.",
+      "explanationDe": "„sich einleben“ bedeutet, sich an einem neuen Ort zu Hause fühlen – genau das beschreibt Vincent. „sich erleben“ und „sich beleben“ (lebendiger werden) passen nicht zu einem neuen Wohnort."
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "weshalb" },
+        { "key": "b", "text": "wohingegen" },
+        { "key": "c", "text": "sodass" }
+      ],
+      "answer": "b",
+      "explanation": "Vincent contrasts two systems – all exams at the end of the semester in Leipzig, an exam after every course in Lund – so you need the adversative „wohingegen“ (whereas). „weshalb“ and „sodass“ would present the Swedish system as a consequence of the German one.",
+      "explanationDe": "Vincent vergleicht zwei Systeme: In Leipzig gibt es alle Klausuren am Semesterende, in Lund nach jedem Kurs. Für diesen Gegensatz brauchst du „wohingegen“. „weshalb“ und „sodass“ würden das schwedische System als Folge des deutschen darstellen.",
+      "grammar": "adversative-saetze"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "der" },
+        { "key": "b", "text": "dem" },
+        { "key": "c", "text": "den" }
+      ],
+      "answer": "b",
+      "explanation": "In „Wer …, der/dem …“ the second pronoun takes the case its own clause needs: „jemandem eine Frage stellen“ requires the dative, so „dem stellt die Dozentin … eine Frage“. „der“ would only be right with a nominative („Wer zuhört, der lernt“), and „den“ is accusative.",
+      "explanationDe": "Bei „Wer …, der/dem …“ steht das zweite Pronomen in dem Kasus, den sein eigener Satz braucht: „jemandem eine Frage stellen“ verlangt den Dativ, also „dem stellt die Dozentin … eine Frage“. „der“ passt nur beim Nominativ („Wer zuhört, der lernt“), und „den“ ist Akkusativ.",
+      "grammar": "relativsaetze-b2"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "könnte" },
+        { "key": "b", "text": "kann" },
+        { "key": "c", "text": "konnte" }
+      ],
+      "answer": "a",
+      "explanation": "After „Ich wünschte“ the wish is unreal, so it needs Konjunktiv II: „ich könnte mich … unterhalten“. „kann“ (present) and „konnte“ (past) are indicative and cannot express an unreal wish – Vincent's Swedish is still too weak.",
+      "explanationDe": "Nach „Ich wünschte“ folgt ein irrealer Wunsch, also Konjunktiv II: „ich könnte mich … unterhalten“. „kann“ und „konnte“ sind Indikativ und drücken keinen irrealen Wunsch aus – Vincents Schwedisch ist ja noch zu schwach.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "Empfang" },
+        { "key": "b", "text": "Kauf" },
+        { "key": "c", "text": "Anspruch" }
+      ],
+      "answer": "c",
+      "explanation": "„etwas in Anspruch nehmen“ means to make use of an offer or service – he uses the university's tandem programme. „in Kauf nehmen“ is for accepting a disadvantage, and „in Empfang nehmen“ is for receiving a parcel or a guest.",
+      "explanationDe": "„etwas in Anspruch nehmen“ bedeutet, ein Angebot oder eine Leistung nutzen – Vincent nutzt das Tandemprogramm. „in Kauf nehmen“ sagt man bei einem Nachteil, den man akzeptiert, und „in Empfang nehmen“ bei einem Paket oder einem Gast.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "einsetzende" },
+        { "key": "b", "text": "eingesetzte" },
+        { "key": "c", "text": "einsetzenden" }
+      ],
+      "answer": "a",
+      "explanation": "The darkness sets in early by itself – an active, ongoing process, so you need the Partizip I „einsetzend“. After „die“ in the nominative the ending is „-e“: „die … einsetzende Dunkelheit“. „eingesetzte“ (Partizip II of „einsetzen“ = to use, to deploy) has the wrong meaning, and „einsetzenden“ has the wrong ending.",
+      "explanationDe": "Die Dunkelheit beginnt von selbst früh – ein aktiver Vorgang, deshalb brauchst du das Partizip I „einsetzend“. Nach „die“ im Nominativ ist die Endung „-e“: „die … einsetzende Dunkelheit“. „eingesetzte“ (von „einsetzen“ = benutzen) hat die falsche Bedeutung, und „einsetzenden“ hat die falsche Endung.",
+      "grammar": "partizipialattribute"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "mich" },
+        { "key": "b", "text": "sich" },
+        { "key": "c", "text": "mir" }
+      ],
+      "answer": "c",
+      "explanation": "„sich etwas vorstellen“ (to imagine something) has a dative reflexive pronoun, because the infinitive clause is the object: „kann ich mir … gut vorstellen“. „mich vorstellen“ means to introduce yourself, and „sich“ is only used for the third person.",
+      "explanationDe": "Bei „sich etwas vorstellen“ (sich etwas denken) steht das Reflexivpronomen im Dativ, denn der Infinitivsatz ist das Objekt: „kann ich mir … gut vorstellen“. „mich vorstellen“ bedeutet, sich mit Namen bekannt machen, und „sich“ benutzt du nur in der 3. Person.",
+      "grammar": "reflexive-verben"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "daran" },
+        { "key": "b", "text": "davon" },
+        { "key": "c", "text": "darauf" }
+      ],
+      "answer": "b",
+      "explanation": "The verb is „abhängen von“ (the prefix „ab“ closes the clause), so the correlate announcing the „ob“-clause is „davon“: „hängt … davon ab, ob …“. „daran“ and „darauf“ do not combine with „abhängen“.",
+      "explanationDe": "Das Verb heißt „abhängen von“ – „ab“ steht am Satzende. Das Korrelat für den „ob“-Satz ist also „davon“: „hängt … davon ab, ob …“. „daran“ und „darauf“ passen nicht zu „abhängen“.",
+      "grammar": "korrelate"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "angerechnet" },
+        { "key": "b", "text": "abgerechnet" },
+        { "key": "c", "text": "verrechnet" }
+      ],
+      "answer": "a",
+      "explanation": "„jemandem Kurse anrechnen“ means to recognise courses taken elsewhere for your own degree – exactly Vincent's worry about Leipzig. „abrechnen“ means to settle a bill, and „verrechnen“ means to offset (or, reflexive, to miscalculate).",
+      "explanationDe": "„jemandem Kurse anrechnen“ bedeutet, dass Kurse von einer anderen Uni für das eigene Studium anerkannt werden – genau darum geht es. „abrechnen“ bedeutet, eine Rechnung machen, und „verrechnen“ heißt „mit etwas ausgleichen“ (oder „sich verrechnen“ = falsch rechnen)."
+    }
+  ],
+  "glossary": [
+    { "de": "sich einleben", "en": "to settle in" },
+    { "de": "der Ablauf der Frist", "en": "expiry of the deadline" },
+    { "de": "einen Kurs abschließen", "en": "to complete a course" },
+    { "de": "sich mit etwas schwertun", "en": "to struggle with something" },
+    { "de": "etwas in Anspruch nehmen", "en": "to make use of something" },
+    { "de": "einsetzen (Dunkelheit, Regen)", "en": "to set in" },
+    { "de": "etwas dranhängen (ugs.)", "en": "to add something on" },
+    { "de": "einen Kurs belegen", "en": "to take a course" },
+    { "de": "jemandem etwas anrechnen", "en": "to credit something to someone (e.g. courses)" },
+    { "de": "das Prüfungsamt", "en": "examinations office" }
+  ]
+}

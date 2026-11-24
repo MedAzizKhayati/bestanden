@@ -1,0 +1,143 @@
+{
+  "id": "sprachbausteine-1-11",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Stellungnahme zur Ganztagsschule",
+  "topic": "bildung",
+  "difficulty": 3,
+  "textType": "email-semiformal",
+  "text": "Sehr geehrte Mitglieder des Elternbeirats,\n\nauf dem Elternabend am 8. Oktober haben Sie uns gebeten, bis Ende des Monats zu dem von der Schulleitung [[1]] Konzept für eine gebundene Ganztagsschule Stellung zu nehmen. Als Mutter zweier Kinder, die ihre Nachmittage bisher zwischen Hort, Sportverein und Musikschule aufteilen, komme ich dieser Bitte gern nach. [[2]] ich das Vorhaben grundsätzlich begrüße, halte ich einige Punkte für noch nicht ausgereift.\n\nEinerseits würden gerade Familien, in denen beide Eltern berufstätig sind, [[3]] profitieren, dass ihre Kinder verlässlich bis 16 Uhr betreut und bei den Hausaufgaben begleitet werden. [[4]] sehe ich die geplante Anwesenheitspflicht an vier Nachmittagen insofern kritisch, [[5]] den Kindern dann kaum noch Zeit für Vereine oder Musikunterricht bliebe. Schon jetzt klagen der Schwimmverein und die Musikschule über sinkende Anmeldezahlen.\n\nSorgen bereitet mir auch die Mittagsverpflegung. Die Mensa ist lediglich für 120 Kinder [[6]], [[7]] künftig aber fast dreihundert versorgen. Wie das gelingen soll, geht aus dem Konzept leider nicht hervor. [[8]] der Tatsache, dass im Hort schon heute zwei Erzieherstellen unbesetzt sind, frage ich mich zudem, woher das zusätzliche Personal kommen soll.\n\nIch halte [[9]] außerdem für einen Fehler, dass die Eltern erst so spät in die Planung einbezogen wurden. Deshalb schlage ich vor, im kommenden Schuljahr zunächst ein offenes Modell zu erproben, bei dem die Eltern zwischen drei Abholzeiten wählen können, und erst danach über eine verbindliche Lösung abzustimmen.\n\nIch wäre Ihnen dankbar, wenn Sie meine Anmerkungen bei Ihrer Sitzung am 5. November [[10]] könnten.\n\nMit freundlichen Grüßen\nFriederike Lamprecht\n(Mutter von Jannis, Klasse 2b, und Mats, Klasse 4a)",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "vorlegenden" },
+        { "key": "b", "text": "vorgelegtem" },
+        { "key": "c", "text": "vorgelegten" }
+      ],
+      "answer": "c",
+      "explanation": "The concept has been presented „von der Schulleitung“ – a passive meaning, so you need the Partizip II. After „zu dem“ (dative with article) the ending is „-en“: „zu dem … vorgelegten Konzept“. „vorgelegtem“ has the ending used without an article, and the Partizip I „vorlegenden“ would mean that the concept itself presents something.",
+      "explanationDe": "Das Konzept wurde „von der Schulleitung“ vorgelegt – das ist passiv, deshalb brauchst du das Partizip II. Nach „zu dem“ (Dativ mit Artikel) ist die Endung „-en“: „zu dem … vorgelegten Konzept“. „vorgelegtem“ ist die Endung ohne Artikel, und das Partizip I „vorlegenden“ würde bedeuten, dass das Konzept selbst etwas vorlegt.",
+      "grammar": "partizipialattribute"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "Wenngleich" },
+        { "key": "b", "text": "Sofern" },
+        { "key": "c", "text": "Zumal" }
+      ],
+      "answer": "a",
+      "explanation": "The writer welcomes the plan but still sees weaknesses – a concession, so „Wenngleich“ (= obwohl). „Zumal“ adds an extra reason („especially since“), which does not fit the criticism, and „Sofern“ introduces a condition, which makes no sense for her own opinion.",
+      "explanationDe": "Die Mutter findet das Vorhaben gut, sieht aber trotzdem Schwächen – das ist ein Gegengrund, also „Wenngleich“ (= obwohl). „Zumal“ nennt einen zusätzlichen Grund und passt nicht zur Kritik, und „Sofern“ drückt eine Bedingung aus – das ergibt bei ihrer eigenen Meinung keinen Sinn.",
+      "grammar": "konzessive-saetze-b2"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "dafür" },
+        { "key": "b", "text": "davon" },
+        { "key": "c", "text": "daran" }
+      ],
+      "answer": "b",
+      "explanation": "The verb is „profitieren von“, and the „dass“-clause is announced by the correlate „davon“: „würden … davon profitieren, dass …“. „dafür“ and „daran“ do not combine with „profitieren“.",
+      "explanationDe": "Das Verb heißt „profitieren von“. Der „dass“-Satz wird mit dem Korrelat „davon“ angekündigt: „würden … davon profitieren, dass …“. „dafür“ und „daran“ passen nicht zu „profitieren“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "Andererseits" },
+        { "key": "b", "text": "Außerdem" },
+        { "key": "c", "text": "Anschließend" }
+      ],
+      "answer": "a",
+      "explanation": "„Einerseits“ at the beginning of the previous sentence must be answered by „Andererseits“: first an advantage, then a disadvantage. „Außerdem“ (in addition) and „Anschließend“ (afterwards) do not complete this pair and do not express the contrast.",
+      "explanationDe": "Auf „Einerseits“ am Anfang des vorigen Satzes muss „Andererseits“ folgen: zuerst ein Vorteil, dann ein Nachteil. „Außerdem“ (zusätzlich) und „Anschließend“ (danach) vervollständigen dieses Paar nicht und drücken keinen Gegensatz aus.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "wie" },
+        { "key": "b", "text": "ob" },
+        { "key": "c", "text": "als" }
+      ],
+      "answer": "c",
+      "explanation": "„insofern“ in the main clause is completed by „als“ in the subordinate clause: „insofern kritisch, als …“ (critical in that …). „wie“ and „ob“ cannot be combined with „insofern“.",
+      "explanationDe": "Zu „insofern“ im Hauptsatz gehört „als“ im Nebensatz: „insofern kritisch, als …“ – so erklärt die Mutter, in welcher Hinsicht sie die Pflicht kritisch sieht. „wie“ und „ob“ kann man nicht mit „insofern“ verbinden.",
+      "grammar": "korrelate"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "ausgestellt" },
+        { "key": "b", "text": "ausgelegt" },
+        { "key": "c", "text": "ausgeliefert" }
+      ],
+      "answer": "b",
+      "explanation": "„für 120 Kinder ausgelegt sein“ means designed for a certain number of people. „ausgestellt“ (exhibited, issued) and „ausgeliefert“ (delivered) look similar but do not describe a canteen's capacity.",
+      "explanationDe": "„für 120 Kinder ausgelegt sein“ bedeutet, dass die Mensa für diese Zahl geplant und gebaut ist. „ausgestellt“ (in einer Ausstellung gezeigt, z. B. auch „ein Dokument ausstellen“) und „ausgeliefert“ (geliefert) sehen ähnlich aus, passen aber nicht."
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "musste" },
+        { "key": "b", "text": "müsse" },
+        { "key": "c", "text": "müsste" }
+      ],
+      "answer": "c",
+      "explanation": "The canteen would have to feed almost 300 children if the plan were carried out – a hypothetical consequence, so Konjunktiv II „müsste“. „musste“ is past indicative and contradicts „künftig“, and „müsse“ is Konjunktiv I, which is used for reported speech.",
+      "explanationDe": "Die Mensa würde fast dreihundert Kinder versorgen müssen, wenn der Plan umgesetzt wird – eine hypothetische Folge, also Konjunktiv II „müsste“. „musste“ ist Präteritum und passt nicht zu „künftig“, und „müsse“ ist Konjunktiv I, den man für die indirekte Rede braucht.",
+      "grammar": "konjunktiv-2"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "Angesichts" },
+        { "key": "b", "text": "Ungeachtet" },
+        { "key": "c", "text": "Anstelle" }
+      ],
+      "answer": "a",
+      "explanation": "The unfilled positions are the reason for her question about staff, so you need „Angesichts“ (in view of) + genitive. „Ungeachtet“ (regardless of) would mean the vacancies do not matter, and „Anstelle“ (instead of) makes no sense here.",
+      "explanationDe": "Die unbesetzten Stellen sind der Grund für ihre Frage nach dem Personal. Deshalb passt „Angesichts“ + Genitiv. „Ungeachtet“ würde bedeuten, dass die freien Stellen keine Rolle spielen, und „Anstelle“ ergibt hier keinen Sinn.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "ihn" },
+        { "key": "b", "text": "es" },
+        { "key": "c", "text": "sich" }
+      ],
+      "answer": "b",
+      "explanation": "When a „dass“-clause is the object of „etwas für einen Fehler halten“, the main clause uses the correlate „es“: „Ich halte es … für einen Fehler, dass …“. „ihn“ would refer to a masculine noun, and „halten für“ is not reflexive here, so „sich“ is wrong.",
+      "explanationDe": "Wenn ein „dass“-Satz das Objekt von „etwas für einen Fehler halten“ ist, steht im Hauptsatz das Korrelat „es“: „Ich halte es … für einen Fehler, dass …“. „ihn“ würde sich auf ein maskulines Nomen beziehen, und „halten für“ ist hier nicht reflexiv, deshalb ist „sich“ falsch.",
+      "grammar": "das-wort-es"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "berücksichtigen" },
+        { "key": "b", "text": "beabsichtigen" },
+        { "key": "c", "text": "beanspruchen" }
+      ],
+      "answer": "a",
+      "explanation": "„etwas berücksichtigen“ means to take something into account – she wants the council to consider her comments. „beabsichtigen“ means to intend, and „beanspruchen“ means to claim or to take up (time, space).",
+      "explanationDe": "„etwas berücksichtigen“ bedeutet, etwas bei einer Entscheidung beachten – der Elternbeirat soll ihre Anmerkungen einbeziehen. „beabsichtigen“ heißt „vorhaben“, und „beanspruchen“ heißt „fordern“ oder „Zeit/Platz brauchen“."
+    }
+  ],
+  "glossary": [
+    { "de": "der Elternbeirat", "en": "parents' council" },
+    { "de": "zu etwas Stellung nehmen", "en": "to give one's opinion on something" },
+    { "de": "die gebundene Ganztagsschule", "en": "all-day school with compulsory afternoons" },
+    { "de": "einer Bitte nachkommen", "en": "to comply with a request" },
+    { "de": "ausgereift", "en": "fully developed, well thought out" },
+    { "de": "die Anwesenheitspflicht", "en": "compulsory attendance" },
+    { "de": "die Mittagsverpflegung", "en": "provision of lunch" },
+    { "de": "für etwas ausgelegt sein", "en": "to be designed for something" },
+    { "de": "aus etwas hervorgehen", "en": "to be clear from something (a text)" },
+    { "de": "jemanden in etwas einbeziehen", "en": "to involve someone in something" },
+    { "de": "etwas erproben", "en": "to try something out" }
+  ]
+}

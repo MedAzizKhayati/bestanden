@@ -43,7 +43,7 @@ export const nav: Messages["nav"] = {
   a11y: { close: "Schließen", toggleSidebar: "Seitenleiste ein- oder ausblenden", notifications: "Benachrichtigungen", closeToast: "Benachrichtigung schließen" },
   searchGroups: { pages: "Seiten", exam: "Prüfung", exercises: "Übungen", grammar: "Grammatik", vocabulary: "Wortschatz", lists: "Listen" },
   search: {
-    grammar: "Alle Grammatikthemen für B1",
+    grammar: "Alle Grammatikthemen für B1 und B2",
     vocabulary: "Themen, Karteikarten, der/die/das",
     phrases: "Redemittel zum Schreiben und Sprechen",
     lists: "Verben mit Präpositionen, unregelmäßige Verben, Konnektoren",

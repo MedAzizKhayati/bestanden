@@ -1,0 +1,152 @@
+{
+  "id": "hoeren-2-05",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Bienen über den Dächern",
+  "topic": "umwelt",
+  "difficulty": 2,
+  "context": "Radiosendung „Grüne Stadt“: Die Moderatorin spricht am Telefon mit einem Stadtimker, der auf dem Dach eines Frankfurter Bürogebäudes Bienen hält",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "wendling", "name": "Herr Wendling", "gender": "m", "age": "adult", "role": "Stadtimker" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Guten Tag und herzlich willkommen bei „Grüne Stadt“, liebe Hörerinnen und Hörer. Unser Thema heute ist ein Hobby, das in deutschen Großstädten seit einigen Jahren einen regelrechten Boom erlebt: das Imkern." },
+    { "s": "mod", "t": "Am Telefon ist Tobias Wendling, der auf dem Dach eines Bürogebäudes in Frankfurt-Bockenheim Bienen hält. Herr Wendling, Sie stehen gerade direkt neben Ihren Bienenstöcken, oder?" },
+    { "s": "wendling", "t": "Ja, genau, ich steh hier oben im sechsten Stock, mit Blick auf die Skyline. Und falls Sie's im Hintergrund summen hören – das ist keine Störung in der Leitung." },
+    { "s": "mod", "t": "Wie viele Bienenvölker haben Sie denn da oben? In unseren Unterlagen steht etwas von zwölf." },
+    { "s": "wendling", "t": "Zwölf hatte ich im letzten Sommer, ja. Jetzt sind es neun, weil mir im Winter drei Völker eingegangen sind. Das ist leider ganz normal, sag ich mal, meistens steckt die Varroamilbe dahinter." },
+    { "s": "mod", "t": "Wie sind Sie überhaupt zum Imkern gekommen? Sie sind ja eigentlich Vermessungsingenieur." },
+    { "s": "wendling", "t": "Also, viele denken, das war so ein großes Ökoprojekt von mir. War's aber nicht, das war reiner Zufall." },
+    { "s": "wendling", "t": "Ein älterer Kollege ist vor sieben – nee, warten Sie, vor acht Jahren in Rente gegangen und zu seiner Tochter nach Portugal gezogen. Und der hat im ganzen Büro rumgefragt, wer seine beiden Bienenvölker übernimmt." },
+    { "s": "wendling", "t": "Ich hab mich sofort gemeldet, obwohl ich von Bienen null Ahnung hatte. Das Imkern hab ich dann erst hinterher in einem Kurs beim Imkerverein gelernt." },
+    { "s": "mod", "t": "Und wie sind die Bienen dann aufs Dach gekommen?" },
+    { "s": "wendling", "t": "Ich wohne in einer Mietwohnung ohne Garten, also hab ich den Eigentümer von dem Haus gefragt, in dem unser Büro ist. Der war erst skeptisch, hat dann aber Ja gesagt." },
+    { "s": "wendling", "t": "Und dann ist mir gleich im ersten Sommer ein Schwarm abgehauen. Wissen Sie, wo der gelandet ist? Am Außenspiegel von einem Auto unten auf dem Parkplatz – und zwar ausgerechnet am Auto vom Hausbesitzer." },
+    { "s": "mod", "t": "Oh nein! Dann war das Projekt wahrscheinlich ganz schnell wieder vorbei, oder?" },
+    { "s": "wendling", "t": "Das dachte ich auch, ich hab schon die Kündigung vor mir gesehen. Aber der hat bloß gelacht, Fotos gemacht und mir beim Einfangen zugeschaut. Seitdem ist er mein größter Fan." },
+    { "s": "mod", "t": "Was zahlen Sie denn für so ein Dach? Das ist doch mitten in Frankfurt sicher nicht billig." },
+    { "s": "wendling", "t": "Da haben wir eine ganz einfache Lösung gefunden. Statt Geld kriegt der Eigentümer jedes Jahr zwanzig Gläser Honig, und die verschenkt er dann zu Weihnachten an seine Mieter." },
+    { "s": "mod", "t": "Und die Leute, die in dem Gebäude arbeiten? Gab es da keine Beschwerden?" },
+    { "s": "wendling", "t": "Doch, am Anfang schon. Eine Dame aus der Buchhaltung hatte richtig Angst, weil sie mal nach einem Wespenstich eine allergische Reaktion hatte." },
+    { "s": "wendling", "t": "Ich hab sie dann einfach mal mit hochgenommen, mit Schutzanzug und allem. Und heute ist sie jedes Jahr dabei, wenn wir den Honig schleudern – freiwillig!" },
+    { "s": "mod", "t": "Viele unserer Hörer fragen sich bestimmt: Kann man Honig aus der Stadt überhaupt essen? Bei den ganzen Abgasen?" },
+    { "s": "wendling", "t": "Die Frage krieg ich ständig. Ich lass jedes Jahr eine Probe in einem Labor untersuchen, und die Werte waren bisher immer völlig unauffällig." },
+    { "s": "wendling", "t": "Auf dem Land ist das übrigens manchmal sogar problematischer, weil da auf den Feldern Pflanzenschutzmittel gespritzt werden. In der Stadt gibt's so was kaum." },
+    { "s": "mod", "t": "Wo fliegen Ihre Bienen denn eigentlich hin? In den Palmengarten?" },
+    { "s": "wendling", "t": "Das denken alle. Klar, die Parks spielen auch eine Rolle, aber den meisten Nektar holen sie sich tatsächlich von den Linden, die hier überall an den Straßen stehen." },
+    { "s": "wendling", "t": "Wenn die im Juni blühen, dann hört man das hier oben richtig. Dann ist auf dem Dach ein Betrieb wie im Hauptbahnhof im Berufsverkehr." },
+    { "s": "mod", "t": "Sie haben vorhin den Blick auf die Skyline erwähnt. Ist es da oben eigentlich nicht ziemlich windig?" },
+    { "s": "wendling", "t": "Oh ja, und wie! Ich hab die Kästen mit Spanngurten gesichert, nachdem mir im zweiten Jahr bei einem Sturm ein Deckel weggeflogen ist." },
+    { "s": "wendling", "t": "Und dann haben wir hier noch einen Nachbarn: Auf dem Hochhaus gegenüber brütet ein Wanderfalke. Den beobachte ich manchmal stundenlang, statt zu arbeiten – aber keine Sorge, der jagt Tauben, keine Bienen." },
+    { "s": "mod", "t": "Werden Sie eigentlich oft gestochen?" },
+    { "s": "wendling", "t": "So zwanzig, dreißig Mal im Jahr, schätze ich. Trotzdem arbeite ich ohne Handschuhe." },
+    { "s": "wendling", "t": "Mit Handschuhen ist man nämlich viel zu grob. Ohne spürt man jede einzelne Biene und bewegt sich automatisch ruhiger und vorsichtiger." },
+    { "s": "mod", "t": "Immer mehr Menschen in der Stadt wollen jetzt auch Bienen halten. Das freut Sie doch sicher, oder?" },
+    { "s": "wendling", "t": "Na ja, ehrlich gesagt seh ich das inzwischen mit gemischten Gefühlen. Viele Firmen stellen sich Bienenkästen aufs Dach, weil das gut fürs Image ist, und dann kümmert sich keiner richtig darum." },
+    { "s": "wendling", "t": "Und was viele nicht wissen: Die Honigbiene ist überhaupt nicht vom Aussterben bedroht. Gefährdet sind die Wildbienen, und die konkurrieren mit meinen Bienen um das Futter." },
+    { "s": "mod", "t": "Heißt das, Sie wollen gar nicht weiter wachsen?" },
+    { "s": "wendling", "t": "Genau, mehr als neun Völker werden es bei mir nicht. Eine Grundschule hier im Viertel hat zwar gefragt, ob ich bei ihnen eine kleine Schulimkerei aufbauen könnte." },
+    { "s": "wendling", "t": "Das würde mich schon reizen, aber zugesagt hab ich noch nicht. Ich muss erst mal schauen, ob ich das neben dem Job überhaupt schaffe." },
+    { "s": "mod", "t": "Zum Schluss: Was können unsere Hörerinnen und Hörer tun, wenn sie den Bienen helfen wollen?" },
+    { "s": "wendling", "t": "Man muss nicht gleich selbst Imker werden, wirklich nicht. Ein Balkonkasten mit heimischen Blumen, Glockenblumen oder Thymian zum Beispiel, bringt den Wildbienen oft mehr als ein weiterer Bienenstock auf irgendeinem Dach." },
+    { "s": "mod", "t": "Herr Wendling, vielen Dank für das Gespräch und weiterhin viel Freude mit Ihren Bienen!" },
+    { "s": "wendling", "t": "Danke schön! Und schöne Grüße an alle, die jetzt Lust auf ein Honigbrot bekommen haben." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Als Herr Wendling die ersten Bienen übernahm, hatte er bereits einen Imkerkurs besucht.",
+      "answer": false,
+      "explanation": "The order is reversed: he volunteered „obwohl ich von Bienen null Ahnung hatte“ and learned beekeeping „erst hinterher in einem Kurs“ – the course came after taking over the bees.",
+      "explanationDe": "Die Reihenfolge ist umgekehrt: Er hat sich gemeldet, „obwohl ich von Bienen null Ahnung hatte“, und das Imkern „erst hinterher in einem Kurs“ gelernt – der Kurs kam also nach der Übernahme der Bienen.",
+      "evidence": "Das Imkern hab ich dann erst hinterher in einem Kurs beim Imkerverein gelernt."
+    },
+    {
+      "n": 2,
+      "text": "Nach dem Vorfall mit dem Schwarm wollte der Hausbesitzer die Bienen loswerden.",
+      "answer": false,
+      "explanation": "That is only what Herr Wendling feared („ich hab schon die Kündigung vor mir gesehen“). In fact the owner „hat bloß gelacht“ and has been his biggest fan ever since.",
+      "explanationDe": "Das hat Herr Wendling nur befürchtet („ich hab schon die Kündigung vor mir gesehen“). In Wirklichkeit hat der Besitzer „bloß gelacht“ und ist seitdem sein größter Fan.",
+      "evidence": "Aber der hat bloß gelacht, Fotos gemacht und mir beim Einfangen zugeschaut."
+    },
+    {
+      "n": 3,
+      "text": "Für die Nutzung des Dachs erhält der Eigentümer Honig statt Geld.",
+      "answer": true,
+      "explanation": "There is no rent in euros: „Statt Geld kriegt der Eigentümer jedes Jahr zwanzig Gläser Honig“.",
+      "explanationDe": "Eine Miete in Euro gibt es nicht: „Statt Geld kriegt der Eigentümer jedes Jahr zwanzig Gläser Honig“.",
+      "evidence": "Statt Geld kriegt der Eigentümer jedes Jahr zwanzig Gläser Honig"
+    },
+    {
+      "n": 4,
+      "text": "Eine Angestellte, die anfangs Angst vor den Bienen hatte, ist heute beim Honigschleudern regelmäßig dabei.",
+      "answer": true,
+      "explanation": "The woman from accounting was afraid because of an allergic reaction, but now „ist sie jedes Jahr dabei, wenn wir den Honig schleudern“ – extracting the honey is part of the harvest.",
+      "explanationDe": "Die Frau aus der Buchhaltung hatte wegen einer Allergie Angst, aber heute „ist sie jedes Jahr dabei, wenn wir den Honig schleudern“ – das Schleudern gehört zur Honigernte.",
+      "evidence": "heute ist sie jedes Jahr dabei, wenn wir den Honig schleudern"
+    },
+    {
+      "n": 5,
+      "text": "Herr Wendling hält Honig vom Land grundsätzlich für sauberer als Honig aus der Stadt.",
+      "answer": false,
+      "explanation": "He says the opposite: his city honey always tests clean, and „Auf dem Land ist das übrigens manchmal sogar problematischer“ because of pesticides on the fields.",
+      "explanationDe": "Er sagt das Gegenteil: Sein Stadthonig ist im Labor immer unauffällig, und „Auf dem Land ist das übrigens manchmal sogar problematischer“ – wegen der Pflanzenschutzmittel auf den Feldern.",
+      "evidence": "Auf dem Land ist das übrigens manchmal sogar problematischer"
+    },
+    {
+      "n": 6,
+      "text": "Die wichtigste Nahrungsquelle der Bienen sind Bäume am Straßenrand.",
+      "answer": true,
+      "explanation": "The presenter guesses the Palmengarten, and parks do play a role, but „den meisten Nektar holen sie sich tatsächlich von den Linden, die hier überall an den Straßen stehen“.",
+      "explanationDe": "Die Moderatorin denkt an den Palmengarten, und Parks spielen auch eine Rolle. Aber „den meisten Nektar holen sie sich tatsächlich von den Linden, die hier überall an den Straßen stehen“.",
+      "evidence": "den meisten Nektar holen sie sich tatsächlich von den Linden, die hier überall an den Straßen stehen"
+    },
+    {
+      "n": 7,
+      "text": "Herr Wendling verzichtet auf Handschuhe, weil er ohne sie behutsamer arbeitet.",
+      "answer": true,
+      "explanation": "He gets stung twenty or thirty times a year but still works without gloves: „Ohne spürt man jede einzelne Biene“ and moves „ruhiger und vorsichtiger“.",
+      "explanationDe": "Er wird zwanzig- bis dreißigmal im Jahr gestochen und arbeitet trotzdem ohne Handschuhe: „Ohne spürt man jede einzelne Biene“ und bewegt sich „ruhiger und vorsichtiger“.",
+      "evidence": "Ohne spürt man jede einzelne Biene und bewegt sich automatisch ruhiger und vorsichtiger."
+    },
+    {
+      "n": 8,
+      "text": "Laut Herrn Wendling sind vor allem die Honigbienen in Deutschland gefährdet.",
+      "answer": false,
+      "explanation": "Wrong group: „Die Honigbiene ist überhaupt nicht vom Aussterben bedroht.“ The ones at risk are the wild bees („Gefährdet sind die Wildbienen“).",
+      "explanationDe": "Falsche Gruppe: „Die Honigbiene ist überhaupt nicht vom Aussterben bedroht.“ In Gefahr sind die Wildbienen („Gefährdet sind die Wildbienen“).",
+      "evidence": "Die Honigbiene ist überhaupt nicht vom Aussterben bedroht."
+    },
+    {
+      "n": 9,
+      "text": "Herr Wendling hat einer Grundschule bereits zugesichert, dort mit Kindern zu imkern.",
+      "answer": false,
+      "explanation": "A primary school asked him and the idea appeals to him, but „zugesagt hab ich noch nicht“ – he first wants to see if he has time next to his job.",
+      "explanationDe": "Eine Grundschule hat ihn gefragt, und die Idee reizt ihn. Aber „zugesagt hab ich noch nicht“ – er will erst prüfen, ob er das neben dem Job schafft.",
+      "evidence": "aber zugesagt hab ich noch nicht"
+    },
+    {
+      "n": 10,
+      "text": "Herr Wendling meint, dass man Wildbienen auch ohne eigene Bienenvölker wirksam helfen kann.",
+      "answer": true,
+      "explanation": "„Man muss nicht gleich selbst Imker werden“: a balcony box with native flowers „bringt den Wildbienen oft mehr als ein weiterer Bienenstock“.",
+      "explanationDe": "„Man muss nicht gleich selbst Imker werden“: Ein Balkonkasten mit heimischen Blumen „bringt den Wildbienen oft mehr als ein weiterer Bienenstock“.",
+      "evidence": "bringt den Wildbienen oft mehr als ein weiterer Bienenstock auf irgendeinem Dach"
+    }
+  ],
+  "glossary": [
+    { "de": "das Bienenvolk", "en": "bee colony" },
+    { "de": "imkern / der Imker", "en": "to keep bees / beekeeper" },
+    { "de": "eingehen (Tiere, Pflanzen)", "en": "to die (of animals or plants)" },
+    { "de": "der Schwarm", "en": "swarm" },
+    { "de": "die Kündigung", "en": "notice (ending a contract)" },
+    { "de": "den Honig schleudern", "en": "to extract honey (in a centrifuge)" },
+    { "de": "unauffällig", "en": "unremarkable, normal (of test results)" },
+    { "de": "das Pflanzenschutzmittel", "en": "pesticide" },
+    { "de": "die Linde", "en": "lime tree, linden" },
+    { "de": "mit gemischten Gefühlen", "en": "with mixed feelings" },
+    { "de": "konkurrieren um (+ Akk.)", "en": "to compete for" },
+    { "de": "zusagen", "en": "to agree, to say yes (to an offer)" }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "sprachbausteine-1-01",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Die ersten Wochen im neuen Job",
+  "topic": "arbeit",
+  "difficulty": 1,
+  "textType": "email-informal",
+  "text": "Liebe Johanna,\n\nvielen Dank für deine lange Nachricht! Entschuldige bitte, dass ich erst jetzt antworte, aber die ersten Wochen im neuen Job waren so aufregend, dass ich abends kaum noch zu etwas gekommen bin.\n\nWie du weißt, arbeite ich seit Anfang Oktober bei Radwerk Hollmann in Freiburg. Die Firma, [[1]] Fahrräder ich früher nur aus dem Laden kannte, ist viel größer, als ich gedacht hatte. Gleich am ersten Tag [[2]] mir eine erfahrene Kollegin zur Seite gestellt. [[3]] mich sofort mit Aufgaben zu überhäufen, hat sie mir in aller Ruhe die verschiedenen Abteilungen gezeigt. Auch die anderen im Team haben mich sehr herzlich [[4]].\n\nWas mich überrascht hat: Hier duzen sich alle, sogar der Geschäftsführer. Am Anfang fand ich das ziemlich ungewohnt, aber inzwischen habe ich mich [[5]] gewöhnt. Mein Chef [[6]] übrigens großen Wert darauf, dass Neue lieber eine Frage zu viel stellen als eine zu wenig. Das kommt mir sehr entgegen! Je mehr ich über die Abläufe erfahre, [[7]] spannender finde ich meine Aufgaben.\n\nMit meinem Chef habe ich außerdem vereinbart, dass ich zweimal pro Woche von zu Hause aus arbeiten darf, [[8]] im Team gerade kein dringendes Projekt ansteht. Das ist praktisch, denn die Fahrt nervt mich ein bisschen: Mit dem Zug brauche ich fast eine Stunde. Hätte ich das vorher gewusst, [[9]] ich mir eine Wohnung näher am Büro gesucht.\n\nUnd wie läuft es bei dir? Hast du [[10]] die Wohnung in Leipzig inzwischen angesehen? Erzähl mal, ich bin schon sehr gespannt!\n\nLiebe Grüße\nClara",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "dessen" },
+        { "key": "b", "text": "die" },
+        { "key": "c", "text": "deren" }
+      ],
+      "answer": "c",
+      "explanation": "The bikes belong to „die Firma“ (feminine), so you need the genitive relative pronoun „deren“: „deren Fahrräder“. „dessen“ only refers to masculine or neuter nouns, and „die“ cannot express possession before a noun.",
+      "explanationDe": "Die Fahrräder gehören zu „die Firma“ (feminin). Du brauchst also das Relativpronomen im Genitiv: „deren Fahrräder“. „dessen“ bezieht sich nur auf maskuline oder neutrale Nomen, und mit „die“ kannst du vor einem Nomen keinen Besitz ausdrücken.",
+      "grammar": "relativsaetze-b2"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "wurde" },
+        { "key": "b", "text": "hatte" },
+        { "key": "c", "text": "worden" }
+      ],
+      "answer": "a",
+      "explanation": "Clara did not choose the colleague – someone assigned her, so the sentence is a Präteritum passive: „wurde … zur Seite gestellt“. With „hatte“ the sentence would be active and lack an object, and „worden“ is never the conjugated verb; it only appears with „sein“ („ist … gestellt worden“).",
+      "explanationDe": "Clara hat die Kollegin nicht selbst ausgesucht – sie wurde ihr zugeteilt. Der Satz steht also im Passiv Präteritum: „wurde … zur Seite gestellt“. Mit „hatte“ wäre der Satz aktiv, und es fehlte ein Objekt. „worden“ ist nie das konjugierte Verb, es steht nur zusammen mit „sein“ („ist … gestellt worden“).",
+      "grammar": "passiv-b2"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "Anstatt" },
+        { "key": "b", "text": "Sodass" },
+        { "key": "c", "text": "Damit" }
+      ],
+      "answer": "a",
+      "explanation": "„Anstatt … zu“ + infinitive says that the colleague did something different from what Clara expected: she showed her around instead of overloading her with work. „Sodass“ and „Damit“ introduce clauses with a conjugated verb, never an infinitive with „zu“.",
+      "explanationDe": "„Anstatt … zu“ + Infinitiv zeigt, dass die Kollegin etwas anderes gemacht hat als erwartet: Sie hat Clara alles gezeigt, statt ihr sofort viele Aufgaben zu geben. Nach „Sodass“ und „Damit“ folgt ein Nebensatz mit konjugiertem Verb, nie ein Infinitiv mit „zu“.",
+      "grammar": "infinitivsaetze-b2"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "empfunden" },
+        { "key": "b", "text": "empfangen" },
+        { "key": "c", "text": "entgegengenommen" }
+      ],
+      "answer": "b",
+      "explanation": "„jemanden herzlich empfangen“ means to welcome someone warmly. „empfinden“ means to feel something, and „entgegennehmen“ is used for things such as a parcel, an order or a phone call, not for people.",
+      "explanationDe": "„jemanden herzlich empfangen“ bedeutet, jemanden freundlich begrüßen und aufnehmen. „empfinden“ heißt „fühlen“, und „entgegennehmen“ benutzt man für Dinge wie ein Paket, eine Bestellung oder einen Anruf, nicht für Menschen."
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "darauf" },
+        { "key": "b", "text": "dafür" },
+        { "key": "c", "text": "daran" }
+      ],
+      "answer": "c",
+      "explanation": "The verb is „sich gewöhnen an“ + accusative, so the prepositional adverb is „daran“: „habe mich daran gewöhnt“. „darauf“ and „dafür“ belong to other verbs, e.g. „warten auf“ or „sich interessieren für“.",
+      "explanationDe": "Das Verb heißt „sich gewöhnen an“ + Akkusativ. Das Präpositionaladverb ist also „daran“: „habe mich daran gewöhnt“. „darauf“ und „dafür“ gehören zu anderen Verben, zum Beispiel „warten auf“ oder „sich interessieren für“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "stellt" },
+        { "key": "b", "text": "legt" },
+        { "key": "c", "text": "setzt" }
+      ],
+      "answer": "b",
+      "explanation": "The fixed expression is „großen Wert auf etwas legen“ (to attach great importance to something). „Wert“ does not combine with „stellen“ or „setzen“ – learn such Nomen-Verb-Verbindungen as one unit.",
+      "explanationDe": "Die feste Verbindung heißt „großen Wert auf etwas legen“. Mit „stellen“ oder „setzen“ kann man „Wert“ nicht kombinieren – solche Nomen-Verb-Verbindungen lernst du am besten als Ganzes.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "desto" },
+        { "key": "b", "text": "als" },
+        { "key": "c", "text": "sondern" }
+      ],
+      "answer": "a",
+      "explanation": "„Je …, desto …“ links two comparatives: the more Clara learns, the more interesting her work becomes – „Je mehr …, desto spannender“. „als“ compares two things („spannender als …“), and „sondern“ needs a negation before it.",
+      "explanationDe": "„Je …, desto …“ verbindet zwei Komparative: „Je mehr …, desto spannender“. „als“ benutzt man für einen Vergleich („spannender als …“), und „sondern“ braucht vorher eine Verneinung.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "sodass" },
+        { "key": "b", "text": "indem" },
+        { "key": "c", "text": "sofern" }
+      ],
+      "answer": "c",
+      "explanation": "„sofern“ means „provided that“: Clara may work from home as long as no urgent project is coming up. „sodass“ would present this as a result of working from home and „indem“ as the method – neither makes sense.",
+      "explanationDe": "„sofern“ bedeutet „unter der Bedingung, dass“: Clara darf zu Hause arbeiten, wenn gerade kein dringendes Projekt ansteht. „sodass“ würde eine Folge ausdrücken und „indem“ ein Mittel – beides ergibt hier keinen Sinn.",
+      "grammar": "konditionalsaetze"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "wäre" },
+        { "key": "b", "text": "hätte" },
+        { "key": "c", "text": "würde" }
+      ],
+      "answer": "b",
+      "explanation": "This is an unreal condition in the past: „Hätte ich das gewusst, hätte ich mir … gesucht“. „suchen“ forms its perfect tenses with „haben“, so „wäre“ is wrong, and „würde“ cannot be combined with the participle „gesucht“.",
+      "explanationDe": "Das ist eine irreale Bedingung in der Vergangenheit: „Hätte ich das gewusst, hätte ich mir … gesucht“. „suchen“ bildet die Perfektformen mit „haben“, deshalb ist „wäre“ falsch. „würde“ passt nicht zum Partizip „gesucht“.",
+      "grammar": "konjunktiv-2-vergangenheit"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "dir" },
+        { "key": "b", "text": "dich" },
+        { "key": "c", "text": "sich" }
+      ],
+      "answer": "a",
+      "explanation": "In „sich etwas ansehen“ the reflexive pronoun is dative, because „die Wohnung“ is already the accusative object; for „du“ the dative form is „dir“. „dich“ is accusative, and „sich“ is only used for the third person.",
+      "explanationDe": "Bei „sich etwas ansehen“ steht das Reflexivpronomen im Dativ, weil „die Wohnung“ schon das Akkusativobjekt ist. Für „du“ heißt der Dativ „dir“. „dich“ ist Akkusativ, und „sich“ benutzt man nur in der 3. Person.",
+      "grammar": "reflexive-verben"
+    }
+  ],
+  "glossary": [
+    { "de": "zu etwas kommen", "en": "to find time for something" },
+    { "de": "jemandem jemanden zur Seite stellen", "en": "to assign someone to help someone" },
+    { "de": "jemanden mit etwas überhäufen", "en": "to swamp someone with something" },
+    { "de": "jemanden empfangen", "en": "to welcome, to receive someone" },
+    { "de": "sich duzen", "en": "to call each other „du“" },
+    { "de": "ungewohnt", "en": "unfamiliar" },
+    { "de": "Wert auf etwas legen", "en": "to attach importance to something" },
+    { "de": "jemandem entgegenkommen", "en": "to suit someone" },
+    { "de": "der Ablauf", "en": "process, procedure" },
+    { "de": "anstehen", "en": "to be coming up, to be due" }
+  ]
+}

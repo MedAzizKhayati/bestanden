@@ -1,0 +1,144 @@
+{
+  "id": "sprachbausteine-1-09",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Hallensanierung im Sportverein",
+  "topic": "sport",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "text": "Liebe Mitglieder des TuS Rheinauen,\n\nwie viele von Ihnen bereits aus der Zeitung erfahren haben, wird unsere Halle in der Uferstraße ab dem 3. März grundlegend saniert. Neben dem Dach, das schon seit Jahren undicht ist, werden auch die Umkleiden und Duschen erneuert. [[1]] wird mit Kosten von rund 1,2 Millionen Euro gerechnet. Den größten Teil davon übernimmt die Stadt.\n\nNach Einschätzung des Architekten [[2]] die Arbeiten bis Ende Juni dauern. In dieser Zeit ist die Halle komplett gesperrt. Wir haben jedoch erreicht, dass uns die Turnhalle der Ernst-Reuter-Schule an vier Abenden pro Woche zur [[3]] steht. Für die Kinder- und Jugendgruppen bedeutet das, dass ihr Training nicht mehr am frühen Nachmittag, sondern erst ab 17 Uhr beginnt. Uns ist bewusst, dass dies vor allem für Familien mit kleinen Kindern eine zusätzliche Belastung darstellt. [[4]] die Arbeiten abgeschlossen sind, gelten selbstverständlich wieder die gewohnten Zeiten.\n\nDa sich der Verein mit rund 40.000 Euro an den Kosten für die neue Ausstattung [[5]] muss, schlägt der Vorstand vor, den Monatsbeitrag ab Juli um drei Euro zu erhöhen. Ob diese Erhöhung tatsächlich nötig ist, [[6]] wird die Mitgliederversammlung am 14. Februar entscheiden. Den vom Kassenwart erstellten Finanzplan finden Sie im Anhang. Wer an diesem Abend verhindert ist, kann sich durch ein anderes Mitglied vertreten lassen, [[7]], die Vollmacht liegt dem Vorstand vorher schriftlich vor.\n\nZum Schluss noch eine Bitte: Für den Umzug der Sportgeräte Ende Februar sind wir auf viele helfende Hände [[8]]. Wer mit anpacken möchte, kann sich bis zum 20. Februar in die Liste [[9]], die in der Geschäftsstelle ausliegt. [[10]] der Wiedereröffnung im Juli planen wir übrigens ein großes Hallenfest.\n\nWir freuen uns darauf, möglichst viele von Ihnen bei der Versammlung begrüßen zu dürfen.\n\nMit sportlichen Grüßen\nIhr Vorstand\nRenate Ohlendorf, 1. Vorsitzende",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "Man" },
+        { "key": "b", "text": "Es" },
+        { "key": "c", "text": "Das" }
+      ],
+      "answer": "b",
+      "explanation": "In an impersonal passive the empty subject „Es“ fills the first position: „Es wird mit Kosten von … gerechnet“ (costs of … are expected). „Man“ would need an active verb („Man rechnet mit …“), and „Das“ cannot be the subject, because „mit etwas rechnen“ has no direct object that could become the subject of a passive.",
+      "explanationDe": "Im unpersönlichen Passiv steht „Es“ als Platzhalter auf Position 1: „Es wird mit Kosten von … gerechnet“. „Man“ braucht ein aktives Verb („Man rechnet mit …“), und „Das“ kann hier nicht Subjekt sein, weil „mit etwas rechnen“ kein Akkusativobjekt hat, das im Passiv zum Subjekt werden könnte.",
+      "grammar": "das-wort-es"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "möchten" },
+        { "key": "b", "text": "wollen" },
+        { "key": "c", "text": "dürften" }
+      ],
+      "answer": "c",
+      "explanation": "„Nach Einschätzung des Architekten“ shows that this is an estimate, and „dürften“ (Konjunktiv II of „dürfen“) expresses a probable assumption: the work will probably last until the end of June. „möchten“ and „wollen“ express a wish or an intention, which building work cannot have.",
+      "explanationDe": "„Nach Einschätzung des Architekten“ zeigt, dass es eine Schätzung ist. „dürften“ (Konjunktiv II von „dürfen“) drückt eine Vermutung aus: Die Arbeiten dauern wahrscheinlich bis Ende Juni. „möchten“ und „wollen“ drücken einen Wunsch oder eine Absicht aus – das passt nicht zu Bauarbeiten.",
+      "grammar": "vermutungen"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "Verfügung" },
+        { "key": "b", "text": "Verwendung" },
+        { "key": "c", "text": "Vorstellung" }
+      ],
+      "answer": "a",
+      "explanation": "The fixed expression is „jemandem zur Verfügung stehen“ (to be available to someone). „Verwendung“ (use) and „Vorstellung“ (idea, performance) do not combine with „zur … stehen“.",
+      "explanationDe": "Die feste Verbindung heißt „jemandem zur Verfügung stehen“. „Verwendung“ und „Vorstellung“ kann man nicht mit „zur … stehen“ kombinieren.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "Sobald" },
+        { "key": "b", "text": "Bis" },
+        { "key": "c", "text": "Seit" }
+      ],
+      "answer": "a",
+      "explanation": "„Sobald“ (as soon as) marks the moment from which the usual times apply again – note „wieder“. „Bis“ would mean the usual times apply only until the work is finished, and „Seit“ refers to something that has already happened, but the work has not even started yet.",
+      "explanationDe": "„Sobald“ nennt den Zeitpunkt, ab dem wieder die gewohnten Zeiten gelten – achte auf „wieder“. Mit „Bis“ würden die gewohnten Zeiten nur bis zum Ende der Arbeiten gelten, und „Seit“ passt nur zu etwas, das schon passiert ist – die Arbeiten haben aber noch nicht einmal begonnen.",
+      "grammar": "temporale-nebensaetze"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "teilnehmen" },
+        { "key": "b", "text": "mitwirken" },
+        { "key": "c", "text": "beteiligen" }
+      ],
+      "answer": "c",
+      "explanation": "The verb is reflexive: „sich an den Kosten beteiligen“ (to contribute to the costs) – note „sich“ at the start of the clause. „teilnehmen an“ and „mitwirken an“ are not reflexive and are used for events or projects, not for costs.",
+      "explanationDe": "Das Verb ist reflexiv: „sich an den Kosten beteiligen“ – achte auf „sich“ am Anfang des Nebensatzes. „teilnehmen an“ und „mitwirken an“ sind nicht reflexiv und passen zu Veranstaltungen oder Projekten, nicht zu Kosten."
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "davon" },
+        { "key": "b", "text": "darüber" },
+        { "key": "c", "text": "dafür" }
+      ],
+      "answer": "b",
+      "explanation": "The verb is „über etwas entscheiden“, so the correlate that refers back to the „ob“-clause is „darüber“. „davon“ and „dafür“ belong to other verbs, e.g. „abhängen von“ or „sich entscheiden für“ – and the latter would need „sich“.",
+      "explanationDe": "Es heißt „über etwas entscheiden“. Das Korrelat, das auf den „ob“-Satz zurückverweist, ist also „darüber“. „davon“ und „dafür“ gehören zu anderen Verben, z. B. „abhängen von“ oder „sich entscheiden für“ – dafür bräuchte man aber „sich“.",
+      "grammar": "korrelate"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "vorausgesetzt" },
+        { "key": "b", "text": "vorgesehen" },
+        { "key": "c", "text": "vorgeschrieben" }
+      ],
+      "answer": "a",
+      "explanation": "„vorausgesetzt, …“ (provided that) introduces a condition and can be followed by a main clause: members may be represented only if the written proxy is there. „vorgesehen“ (planned) and „vorgeschrieben“ (prescribed) cannot introduce a clause like this.",
+      "explanationDe": "„vorausgesetzt, …“ nennt eine Bedingung, und danach kann ein Hauptsatz folgen: Man darf sich nur vertreten lassen, wenn die Vollmacht schriftlich vorliegt. „vorgesehen“ (geplant) und „vorgeschrieben“ (Pflicht) können so keinen Satz einleiten.",
+      "grammar": "konditionalsaetze"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "abhängig" },
+        { "key": "b", "text": "angewiesen" },
+        { "key": "c", "text": "bedürftig" }
+      ],
+      "answer": "b",
+      "explanation": "„auf etwas angewiesen sein“ means to depend on something – the club needs many helpers. „abhängig“ has a similar meaning but takes „von“ („abhängig von“), and „bedürftig“ (needy) is not used with „auf“.",
+      "explanationDe": "„auf etwas angewiesen sein“ bedeutet, etwas dringend brauchen – der Verein braucht viele Helfer. „abhängig“ hat eine ähnliche Bedeutung, steht aber mit „von“ („abhängig von“), und „bedürftig“ (arm, auf Hilfe angewiesen) passt nicht zu „auf“.",
+      "grammar": "adjektive-mit-praepositionen-b2"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "einstellen" },
+        { "key": "b", "text": "einrichten" },
+        { "key": "c", "text": "eintragen" }
+      ],
+      "answer": "c",
+      "explanation": "„sich in eine Liste eintragen“ means to put your name on a list. „sich einstellen“ (to turn up, to adapt) and „sich einrichten“ (to furnish a home, to settle in) do not go with „in die Liste“.",
+      "explanationDe": "„sich in eine Liste eintragen“ bedeutet, seinen Namen auf eine Liste schreiben. „sich einstellen“ (kommen, sich anpassen) und „sich einrichten“ (Möbel aufstellen, sich einleben) passen nicht zu „in die Liste“."
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "Anlässlich" },
+        { "key": "b", "text": "Anstatt" },
+        { "key": "c", "text": "Abzüglich" }
+      ],
+      "answer": "a",
+      "explanation": "„anlässlich“ + genitive means „on the occasion of“: the festival takes place because the hall reopens. „Anstatt“ would mean the festival replaces the reopening, and „Abzüglich“ (minus, less) is used for amounts of money.",
+      "explanationDe": "„anlässlich“ + Genitiv bedeutet „aus Anlass von“: Das Fest findet statt, weil die Halle wieder eröffnet wird. „Anstatt“ würde bedeuten, dass das Fest die Wiedereröffnung ersetzt, und „Abzüglich“ (minus) benutzt man bei Geldbeträgen.",
+      "grammar": "praepositionen-mit-genitiv"
+    }
+  ],
+  "glossary": [
+    { "de": "grundlegend sanieren", "en": "to renovate thoroughly" },
+    { "de": "undicht", "en": "leaky" },
+    { "de": "die Umkleide", "en": "changing room" },
+    { "de": "mit etwas rechnen", "en": "to expect something" },
+    { "de": "jemandem zur Verfügung stehen", "en": "to be available to someone" },
+    { "de": "die Belastung", "en": "burden, strain" },
+    { "de": "sich an den Kosten beteiligen", "en": "to contribute to the costs" },
+    { "de": "der Kassenwart", "en": "treasurer (of a club)" },
+    { "de": "verhindert sein", "en": "to be unable to attend" },
+    { "de": "die Vollmacht", "en": "proxy, power of attorney" },
+    { "de": "auf etwas angewiesen sein", "en": "to depend on something" },
+    { "de": "mit anpacken", "en": "to lend a hand" }
+  ]
+}

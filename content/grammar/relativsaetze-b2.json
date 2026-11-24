@@ -1,0 +1,255 @@
+{
+  "id": "relativsaetze-b2",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 26,
+  "title": "Relativsätze mit Präposition, Genitiv und wer, was, wo(r)-",
+  "titleEn": "Relative clauses with prepositions, the genitive and wer, was, wo(r)-",
+  "summary": "Beyond der, die, das: preposition + relative pronoun, dessen/deren for possession, was and wo(r)- after indefinite words and whole clauses, and wer … der for relative clauses without a noun.",
+  "summaryDe": "Mehr als der, die, das: Präposition + Relativpronomen, dessen/deren für Besitz, was und wo(r)- nach Indefinitpronomen und ganzen Sätzen und wer … der für Relativsätze ohne Nomen.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "At B2, relative clauses go beyond der, die, das. **Preposition + pronoun:** the preposition comes first and decides the case (das Gesetz, **gegen das** viele protestieren). **dessen/deren** take their form from the **owner** – the noun before the comma – and the noun after them has **no article**. **was** follows alles, etwas, nichts, das Einzige, superlatives and whole clauses; with a preposition it becomes **wo(r)- + preposition** (worüber, womit). **wer** and **was** can open a relative clause with no noun at all; the main clause then often picks it up with **der, dem, den** or **das**.",
+      "mdDe": "Auf B2-Niveau gehen Relativsätze über der, die, das hinaus. **Präposition + Pronomen:** Die Präposition steht vorne und bestimmt den Kasus (das Gesetz, **gegen das** viele protestieren). **dessen/deren** richten sich nach dem **Besitzer** – dem Nomen vor dem Komma –, und das Nomen danach hat **keinen Artikel**. **was** steht nach alles, etwas, nichts, das Einzige, nach Superlativen und nach ganzen Sätzen; mit Präposition wird daraus **wo(r)- + Präposition** (worüber, womit). **wer** und **was** können einen Relativsatz ganz ohne Nomen einleiten; der Hauptsatz nimmt ihn dann oft mit **der, dem, den** oder **das** wieder auf."
+    },
+    {
+      "type": "text",
+      "heading": "dessen and deren: the owner decides",
+      "headingDe": "dessen und deren: Der Besitzer entscheidet",
+      "md": "**dessen** and **deren** express possession or belonging (*whose*). Their form depends only on the **owner** – the noun the relative clause refers to:\n\n- masculine or neuter owner → **dessen**: der Verein, **dessen** Mitglieder …; das Unternehmen, **dessen** Gewinn …\n- feminine or plural owner → **deren**: die Stiftung, **deren** Gründer …; die Mieter, **deren** Verträge …\n\nThe noun after dessen/deren (what is owned) has **no article**, and an adjective in front of it takes the **strong ending**, as if there were no article at all: der Autor, **dessen neuer** Roman …; mit **dessen neuem** Roman.\n\nA preposition can stand in front: die Firma, **bei deren** Tochtergesellschaft ich arbeite. The preposition belongs to the noun that follows (bei … Tochtergesellschaft), so its case shows on that noun and its adjective – **dessen and deren never change**.",
+      "mdDe": "**dessen** und **deren** drücken Besitz oder Zugehörigkeit aus (Wessen …?). Ihre Form hängt nur vom **Besitzer** ab, also von dem Nomen, auf das sich der Relativsatz bezieht:\n\n- Besitzer maskulin oder neutral → **dessen**: der Verein, **dessen** Mitglieder …; das Unternehmen, **dessen** Gewinn …\n- Besitzer feminin oder Plural → **deren**: die Stiftung, **deren** Gründer …; die Mieter, **deren** Verträge …\n\nDas Nomen nach dessen/deren (das, was jemandem gehört) hat **keinen Artikel**, und ein Adjektiv davor bekommt die **starke Endung** – so, als gäbe es keinen Artikel: der Autor, **dessen neuer** Roman …; mit **dessen neuem** Roman.\n\nDavor kann eine Präposition stehen: die Firma, **bei deren** Tochtergesellschaft ich arbeite. Die Präposition gehört zum Nomen danach (bei … Tochtergesellschaft). Deshalb zeigt sich ihr Kasus an diesem Nomen und seinem Adjektiv – **dessen und deren ändern sich nie**."
+    },
+    {
+      "type": "table",
+      "heading": "Which relative word?",
+      "headingDe": "Welches Relativwort?",
+      "columns": ["Reference", "Relative word", "Example"],
+      "columnsDe": ["Bezug", "Relativwort", "Beispiel"],
+      "rows": [
+        ["a noun + verb with a preposition", "preposition + der/die/das", "das Gesetz, gegen das viele protestiert haben"],
+        ["a noun as the owner", "dessen / deren", "die Mieterin, deren Vertrag im Mai ausläuft"],
+        ["alles, etwas, nichts, vieles, das Einzige, a superlative", "was", "das Einzige, was mich an dem Job stört"],
+        ["the same words + verb with a preposition", "wo(r)- + preposition", "Es gibt vieles, worüber wir noch reden müssen."],
+        ["the whole main clause", "was / wo(r)- + preposition", "Der Zug fiel aus, was niemanden überraschte."],
+        ["a place, a city, a country", "wo / wohin / woher", "Sie zog nach Leipzig, wohin ihr Partner versetzt worden war."],
+        ["no noun: anyone who …", "wer (wen, wem) … der (den, dem)", "Wer früh bucht, (der) spart bis zu 30 Prozent."],
+        ["no noun: whatever …", "was … das", "Was im Protokoll steht, (das) gilt."]
+      ],
+      "rowsDe": [
+        ["Nomen + Verb mit Präposition", "Präposition + der/die/das", "das Gesetz, gegen das viele protestiert haben"],
+        ["Nomen als Besitzer", "dessen / deren", "die Mieterin, deren Vertrag im Mai ausläuft"],
+        ["alles, etwas, nichts, vieles, das Einzige, Superlativ", "was", "das Einzige, was mich an dem Job stört"],
+        ["dieselben Wörter + Verb mit Präposition", "wo(r)- + Präposition", "Es gibt vieles, worüber wir noch reden müssen."],
+        ["der ganze Hauptsatz", "was / wo(r)- + Präposition", "Der Zug fiel aus, was niemanden überraschte."],
+        ["ein Ort, eine Stadt, ein Land", "wo / wohin / woher", "Sie zog nach Leipzig, wohin ihr Partner versetzt worden war."],
+        ["kein Nomen: jeder, der …", "wer (wen, wem) … der (den, dem)", "Wer früh bucht, (der) spart bis zu 30 Prozent."],
+        ["kein Nomen: alles, was …", "was … das", "Was im Protokoll steht, (das) gilt."]
+      ],
+      "note": "After a noun, standard German uses preposition + pronoun: das Thema, über das wir gesprochen haben. „das Thema, worüber …“ is heard in speech, but in the exam and in formal letters choose preposition + pronoun.",
+      "noteDe": "Nach einem Nomen verwendet man im Standarddeutsch Präposition + Pronomen: das Thema, über das wir gesprochen haben. „das Thema, worüber …“ hört man in der gesprochenen Sprache, aber in der Prüfung und in formellen Briefen wählst du Präposition + Pronomen."
+    },
+    {
+      "type": "text",
+      "heading": "was and wo(r)-: when there is no noun to agree with",
+      "headingDe": "was und wo(r)-: wenn kein Nomen da ist",
+      "md": "Use **was** when the relative clause refers to something without a gender of its own:\n\n- **indefinite words:** alles, etwas, nichts, vieles, manches, einiges → Er hat nichts gesagt, **was** wir nicht schon wussten.\n- **neuter adjectives used as nouns**, especially superlatives: das Beste, das Wichtigste, das Einzige, das Letzte → Das Wichtigste, **was** du mitbringen musst, ist Geduld.\n- **the whole main clause** – a *weiterführender Relativsatz* that comments on what has just been said: Die Stadt hat die Gebühren verdoppelt, **was** viele Familien in Schwierigkeiten bringt.\n\nIf the verb in the relative clause needs a preposition, **was** becomes **wo + preposition**, with an extra **r** before a vowel: womit, wodurch, wofür, wovon, woran, worauf, worüber, worum.\n\n- Es gibt einiges, **worum** ich mich noch kümmern muss. (sich kümmern um)\n- Der Vermieter hat die Heizung sofort repariert, **wofür** wir ihm sehr dankbar sind. (dankbar sein für)\n\nA weiterführender Relativsatz always comes **after** the complete main clause. Don't mix it up with **darüber, damit, dafür …**: these are main-clause adverbs with the verb in position 2, and they usually start a new sentence (Er hat sofort angerufen. **Darüber habe** ich mich gefreut.). **worüber, womit, wofür …** send the verb to the end (…, **worüber** ich mich **gefreut habe**).",
+      "mdDe": "Du verwendest **was**, wenn sich der Relativsatz auf etwas ohne eigenes Genus bezieht:\n\n- **Indefinitpronomen:** alles, etwas, nichts, vieles, manches, einiges → Er hat nichts gesagt, **was** wir nicht schon wussten.\n- **Adjektive als Nomen im Neutrum**, vor allem Superlative: das Beste, das Wichtigste, das Einzige, das Letzte → Das Wichtigste, **was** du mitbringen musst, ist Geduld.\n- **den ganzen Hauptsatz** – ein *weiterführender Relativsatz*, der das Gesagte kommentiert: Die Stadt hat die Gebühren verdoppelt, **was** viele Familien in Schwierigkeiten bringt.\n\nBraucht das Verb im Relativsatz eine Präposition, wird aus **was** die Form **wo + Präposition**, vor einem Vokal mit **r**: womit, wodurch, wofür, wovon, woran, worauf, worüber, worum.\n\n- Es gibt einiges, **worum** ich mich noch kümmern muss. (sich kümmern um)\n- Der Vermieter hat die Heizung sofort repariert, **wofür** wir ihm sehr dankbar sind. (dankbar sein für)\n\nEin weiterführender Relativsatz steht immer **nach** dem vollständigen Hauptsatz. Verwechsle ihn nicht mit **darüber, damit, dafür …**: Das sind Adverbien im Hauptsatz mit dem Verb auf Position 2, und meistens beginnen sie einen neuen Satz (Er hat sofort angerufen. **Darüber habe** ich mich gefreut.). Nach **worüber, womit, wofür …** steht das Verb am Ende (…, **worüber** ich mich **gefreut habe**)."
+    },
+    {
+      "type": "table",
+      "heading": "wer … der: two clauses, two cases",
+      "headingDe": "wer … der: zwei Sätze, zwei Kasus",
+      "columns": ["wer/was clause", "Main clause", "Example"],
+      "columnsDe": ["wer/was-Satz", "Hauptsatz", "Beispiel"],
+      "rows": [
+        ["wer (Nom.)", "(der) (Nom.)", "Wer früh bucht, (der) bekommt die besten Plätze."],
+        ["wer (Nom.)", "dem (Dat.)", "Wer neu im Team ist, dem hilft in den ersten Wochen eine Mentorin."],
+        ["wer (Nom.)", "den (Akk.)", "Wer unentschuldigt fehlt, den lassen wir nicht zur Prüfung zu."],
+        ["wem (Dat.)", "der (Nom.)", "Wem die neue Regel nicht passt, der sollte das in der Versammlung sagen."],
+        ["wen (Akk.)", "der (Nom.)", "Wen das Thema interessiert, der findet weitere Informationen auf unserer Website."],
+        ["was (Nom.)", "daran (Präp.)", "Was im Vertrag steht, daran müssen sich beide Seiten halten."]
+      ],
+      "note": "wer and was refer to no noun (wer = anyone who, was = whatever), and the wer-clause comes first. The case of wer depends on the relative clause; the pronoun at the start of the main clause (der, dem, den, daran …) shows the case the main clause needs. You can leave it out only in the combinations wer … der and was … das. Either way, the verb of the main clause follows immediately.",
+      "noteDe": "wer und was beziehen sich auf kein Nomen (wer = jeder, der …; was = alles, was …), und der wer-Satz steht vorne. Der Kasus von wer hängt vom Relativsatz ab; das Pronomen am Anfang des Hauptsatzes (der, dem, den, daran …) zeigt den Kasus, den der Hauptsatz braucht. Weglassen darfst du es nur bei wer … der und was … das. In beiden Fällen folgt das Verb des Hauptsatzes sofort."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Der Verlag, **dessen** Bücher vor allem online verkauft werden, eröffnet eine eigene Buchhandlung.", "en": "The publisher, whose books are mainly sold online, is opening its own bookshop." },
+        { "de": "Die Forscherin, **auf deren** Studie sich viele Zeitungen berufen, hat inzwischen selbst Zweifel geäußert.", "en": "The researcher whose study many newspapers cite has since voiced doubts herself." },
+        { "de": "Wir suchen eine Kollegin, **deren** Muttersprache Polnisch ist.", "en": "We are looking for a colleague whose native language is Polish." },
+        { "de": "Das Gesetz, **gegen das** im Frühjahr Tausende **protestiert hatten**, tritt nun doch in Kraft.", "en": "The law that thousands had protested against in spring is coming into force after all." },
+        { "de": "Das ist das Beste, **was** uns passieren **konnte**.", "en": "That's the best thing that could have happened to us." },
+        { "de": "Es gibt einiges, **worüber** wir noch **sprechen müssen**.", "en": "There are a few things we still need to talk about." },
+        { "de": "Die Messe wurde abgesagt, **was** viele Aussteller **verärgert hat**.", "en": "The trade fair was cancelled, which annoyed many exhibitors." },
+        { "de": "Die Bahn hat eine neue Direktverbindung eingeführt, **wodurch** sich die Fahrzeit nach Graz um 40 Minuten **verkürzt**.", "en": "The railway has introduced a new direct connection, which cuts the travel time to Graz by 40 minutes." },
+        { "de": "**Wer** im Ausland **studiert hat**, **dem** wird oft erst später klar, wie viel er dort gelernt hat.", "en": "Anyone who has studied abroad often only realises later how much they learned there." },
+        { "de": "**Was** in der Sitzung **beschlossen wird**, **das** gilt für alle Abteilungen.", "en": "Whatever is decided in the meeting applies to all departments." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Three traps with dessen/deren:**\n\n1. Don't choose by the noun **after** it: die Firma, **deren** Chef … (not „dessen“) – the owner „die Firma“ is feminine; „Chef“ doesn't matter.\n2. No article after it: der Kollege, **dessen** Bruder … (not „dessen der Bruder“).\n3. **derer** is not a possessive relative pronoun. It is a demonstrative that introduces a relative clause (die Zahl **derer**, die online einkaufen). For *whose*, always use **dessen** or **deren**.",
+      "mdDe": "**Drei Fallen bei dessen/deren:**\n\n1. Wähle nicht nach dem Nomen **danach**: die Firma, **deren** Chef … (nicht „dessen“) – der Besitzer „die Firma“ ist feminin, „Chef“ spielt keine Rolle.\n2. Danach kommt kein Artikel: der Kollege, **dessen** Bruder … (nicht „dessen der Bruder“).\n3. **derer** ist kein Relativpronomen für Besitz. Es ist ein Demonstrativpronomen vor einem Relativsatz (die Zahl **derer**, die online einkaufen). Für Wessen …? nimmst du immer **dessen** oder **deren**."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1**, B2 relative gaps usually offer three forms of one family: „dessen / deren / denen“, „worüber / darüber / über das“, „was / das / wo“, „wer / der / wem“. Decide step by step:\n\n1. Is there a noun before the comma? → (preposition +) der/die/das – or dessen/deren if something belongs to it: check the **owner**.\n2. Is there only alles, nichts, das Beste … or a whole clause? → **was**, with a preposition **wo(r)-**.\n3. Is there no reference word at all? → **wer / was**, and at the start of the main clause the pronoun in the case the main clause needs.\n4. Does the verb need a preposition (sich verlassen auf, rechnen mit)? Then the preposition must appear: auf den / worauf, mit dem / womit.\n\nIn **Schreiben**, a weiterführender Relativsatz is an elegant way to comment: „Die Lieferung kam zwei Wochen zu spät, was für mich mit erheblichen Kosten verbunden war.“ In **Lesen Teil 2**, long sentences with dessen/deren hide who does what – find the owner first.",
+      "mdDe": "In **Sprachbausteine Teil 1** bieten Relativ-Lücken auf B2 meistens drei Formen aus einer Familie an: „dessen / deren / denen“, „worüber / darüber / über das“, „was / das / wo“, „wer / der / wem“. Entscheide Schritt für Schritt:\n\n1. Steht vor dem Komma ein Nomen? → (Präposition +) der/die/das – oder dessen/deren, wenn ihm etwas gehört: Prüfe den **Besitzer**.\n2. Steht dort nur alles, nichts, das Beste … oder ein ganzer Satz? → **was**, mit Präposition **wo(r)-**.\n3. Gibt es gar kein Bezugswort? → **wer / was**, und am Anfang des Hauptsatzes das Pronomen in dem Kasus, den der Hauptsatz braucht.\n4. Braucht das Verb eine Präposition (sich verlassen auf, rechnen mit)? Dann muss die Präposition vorkommen: auf den / worauf, mit dem / womit.\n\nIm **Schreiben** ist ein weiterführender Relativsatz eine elegante Möglichkeit, etwas zu kommentieren: „Die Lieferung kam zwei Wochen zu spät, was für mich mit erheblichen Kosten verbunden war.“ In **Lesen Teil 2** verstecken lange Sätze mit dessen/deren, wer was tut – such zuerst den Besitzer."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Die Stiftung, dessen Vorsitzender zurückgetreten ist, sucht einen Nachfolger.",
+      "right": "Die Stiftung, deren Vorsitzender zurückgetreten ist, sucht einen Nachfolger.",
+      "why": "dessen/deren depends on the owner, not on the noun after it: „die Stiftung“ is feminine → „deren“, even though „Vorsitzender“ is masculine.",
+      "whyDe": "dessen/deren richtet sich nach dem Besitzer, nicht nach dem Nomen danach: „die Stiftung“ ist feminin → „deren“, auch wenn „Vorsitzender“ maskulin ist."
+    },
+    {
+      "wrong": "Ich kenne einen Kollegen, dessen die Tochter in Lausanne studiert.",
+      "right": "Ich kenne einen Kollegen, dessen Tochter in Lausanne studiert.",
+      "why": "dessen/deren replace the article, so the noun after them has no article of its own.",
+      "whyDe": "dessen/deren ersetzen den Artikel. Deshalb hat das Nomen danach keinen eigenen Artikel."
+    },
+    {
+      "wrong": "Er hat sich nicht entschuldigt, das ich ziemlich unhöflich finde.",
+      "right": "Er hat sich nicht entschuldigt, was ich ziemlich unhöflich finde.",
+      "why": "The relative clause refers to the whole main clause (that he didn't apologise), not to a noun. In this case the relative pronoun is always „was“.",
+      "whyDe": "Der Relativsatz bezieht sich auf den ganzen Hauptsatz (dass er sich nicht entschuldigt hat), nicht auf ein Nomen. Dann heißt das Relativpronomen immer „was“."
+    },
+    {
+      "wrong": "Sie hat die Prüfung bestanden, darüber sich ihre Eltern sehr gefreut haben.",
+      "right": "Sie hat die Prüfung bestanden, worüber sich ihre Eltern sehr gefreut haben.",
+      "why": "„darüber“ is a main-clause adverb (Darüber haben sich ihre Eltern gefreut.). A relative clause with the verb at the end needs the relative form „worüber“.",
+      "whyDe": "„darüber“ ist ein Adverb im Hauptsatz (Darüber haben sich ihre Eltern gefreut.). Ein Relativsatz mit dem Verb am Ende braucht die Relativform „worüber“."
+    },
+    {
+      "wrong": "Wer die Hausordnung nicht kennt, der kann man keinen Vorwurf machen.",
+      "right": "Wer die Hausordnung nicht kennt, dem kann man keinen Vorwurf machen.",
+      "why": "„wer“ is nominative because it is the subject of „kennt“. The main clause needs a dative („jemandem einen Vorwurf machen“), so it must start with „dem“.",
+      "whyDe": "„wer“ steht im Nominativ, weil es das Subjekt von „kennt“ ist. Der Hauptsatz braucht aber einen Dativ („jemandem einen Vorwurf machen“), deshalb muss er mit „dem“ beginnen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Die Stiftung, ___ Gründer vor zwei Jahren gestorben ist, vergibt weiterhin Stipendien.",
+      "options": ["dessen", "deren", "denen"],
+      "answer": 1,
+      "explanation": "The owner is „die Stiftung“ (feminine) → „deren“. „dessen“ is the trap: it seems to fit „Gründer“, but the noun after the gap never decides. „denen“ is the dative plural.",
+      "explanationDe": "Der Besitzer ist „die Stiftung“ (feminin) → „deren“. „dessen“ ist die Falle: Es scheint zu „Gründer“ zu passen, aber das Nomen nach der Lücke entscheidet nie. „denen“ ist Dativ Plural."
+    },
+    {
+      "type": "mc",
+      "prompt": "Gestern habe ich einen Autor kennengelernt, ___ Romane in zwölf Sprachen übersetzt worden sind.",
+      "options": ["deren", "denen", "dessen"],
+      "answer": 2,
+      "explanation": "The novels belong to the author, and „Autor“ is masculine → „dessen“. The plural „Romane“ tempts you to choose „deren“, but only the owner counts.",
+      "explanationDe": "Die Romane gehören dem Autor, und „Autor“ ist maskulin → „dessen“. Der Plural „Romane“ verführt zu „deren“, aber nur der Besitzer zählt."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das Seminar wurde kurzfristig abgesagt, ___ sich vor allem die Teilnehmenden aus Wien ärgerten.",
+      "options": ["worüber", "darüber", "was"],
+      "answer": 0,
+      "explanation": "The relative clause comments on the whole main clause, and „sich ärgern über“ needs a preposition → „worüber“. „was“ lacks the preposition; „darüber“ is a main-clause adverb and would need the verb in position 2.",
+      "explanationDe": "Der Relativsatz kommentiert den ganzen Hauptsatz, und „sich ärgern über“ braucht eine Präposition → „worüber“. Bei „was“ fehlt die Präposition; „darüber“ ist ein Adverb im Hauptsatz und bräuchte das Verb auf Position 2."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ sich für ein Ehrenamt interessiert, kann sich bis Ende März im Bürgerbüro melden.",
+      "options": ["Wen", "Wer", "Was"],
+      "answer": 1,
+      "explanation": "There is no noun before the clause, and it means „anyone who“ → „wer“. It is the subject of „interessiert“, so nominative „Wer“; „Wen“ is accusative, and „Was“ refers to things, not people.",
+      "explanationDe": "Vor dem Satz steht kein Nomen, und er bedeutet „jeder, der …“ → „wer“. Es ist das Subjekt von „interessiert“, also Nominativ „Wer“. „Wen“ ist Akkusativ, und „Was“ steht für Sachen, nicht für Personen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wer bei der Planung nicht dabei war, ___ erklären wir die Abläufe morgen noch einmal.",
+      "options": ["der", "den", "dem"],
+      "answer": 2,
+      "explanation": "„jemandem etwas erklären“: the person is dative → „dem“. „wer“ stays nominative because it is the subject of „war“; „der“ would only fit if the main clause needed a subject.",
+      "explanationDe": "„jemandem etwas erklären“: Die Person steht im Dativ → „dem“. „wer“ bleibt Nominativ, weil es das Subjekt von „war“ ist. „der“ würde nur passen, wenn der Hauptsatz ein Subjekt bräuchte."
+    },
+    {
+      "type": "gap",
+      "prompt": "Es gibt nichts, ___ ich mich im Moment mehr freue als auf den ersten Urlaubstag.",
+      "hint": "(sich freuen auf)",
+      "answers": ["worauf"],
+      "explanation": "After „nichts“ the relative word is „was“. Because „sich freuen auf“ needs a preposition, „was“ becomes „wo + auf“ – with r before the vowel: „worauf“.",
+      "explanationDe": "Nach „nichts“ heißt das Relativwort „was“. Weil „sich freuen auf“ eine Präposition braucht, wird aus „was“ die Form „wo + auf“ – vor dem Vokal mit r: „worauf“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das ist Herr Lindner, mit dessen ___ Sohn ich in Graz studiert habe.",
+      "hint": "(ältest-)",
+      "answers": ["ältestem"],
+      "explanation": "After „dessen“ the adjective takes the strong ending, as if there were no article. „mit“ needs the dative, „Sohn“ is masculine → „ältestem“ (like „mit kaltem Wasser“). „dessen“ itself never changes.",
+      "explanationDe": "Nach „dessen“ bekommt das Adjektiv die starke Endung, so als gäbe es keinen Artikel. „mit“ braucht den Dativ, „Sohn“ ist maskulin → „ältestem“ (wie „mit kaltem Wasser“). „dessen“ selbst ändert sich nie."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Agentur, für ___ Kunden ich seit drei Jahren Texte schreibe, sitzt in Hamburg.",
+      "answers": ["deren"],
+      "explanation": "The clients belong to the agency → possession. The owner „die Agentur“ is feminine → „deren“. The preposition „für“ belongs to „Kunden“ and doesn't change „deren“.",
+      "explanationDe": "Die Kunden gehören zur Agentur → Besitz. Der Besitzer „die Agentur“ ist feminin → „deren“. Die Präposition „für“ gehört zu „Kunden“ und ändert „deren“ nicht."
+    },
+    {
+      "type": "gap",
+      "prompt": "Sie hat die Stelle in Basel angenommen, ___ eigentlich niemand gerechnet hatte.",
+      "hint": "(rechnen mit)",
+      "answers": ["womit"],
+      "explanation": "The relative clause refers to the whole main clause (that she took the job). With „rechnen mit“, „was“ becomes „womit“. „damit“ would be a main-clause adverb and would need the verb in position 2.",
+      "explanationDe": "Der Relativsatz bezieht sich auf den ganzen Hauptsatz (dass sie die Stelle angenommen hat). Mit „rechnen mit“ wird aus „was“ die Form „womit“. „damit“ wäre ein Adverb im Hauptsatz und bräuchte das Verb auf Position 2."
+    },
+    {
+      "type": "order",
+      "words": ["Hilfe", "abgeschlossen", "Das", "wir", "deren", "Kollegin,", "haben.", "das", "mit", "Projekt", "ist", "die"],
+      "answers": ["Das ist die Kollegin, mit deren Hilfe wir das Projekt abgeschlossen haben."],
+      "explanation": "„mit deren Hilfe“ is one unit: preposition + „deren“ + noun without an article. It opens the relative clause, and the conjugated verb „haben“ closes it.",
+      "explanationDe": "„mit deren Hilfe“ ist eine Einheit: Präposition + „deren“ + Nomen ohne Artikel. Sie eröffnet den Relativsatz, und das konjugierte Verb „haben“ schließt ihn ab."
+    },
+    {
+      "type": "order",
+      "words": ["bleibt", "Nachholtermin.", "die", "dem", "noch", "Wer", "verpasst,", "der", "Frist", "nur"],
+      "answers": ["Wer die Frist verpasst, dem bleibt nur noch der Nachholtermin."],
+      "explanation": "The wer-clause comes first and ends with the verb „verpasst“. The main clause needs a dative („jemandem bleibt etwas“) → „dem“, followed directly by the verb „bleibt“.",
+      "explanationDe": "Der wer-Satz steht vorne und endet mit dem Verb „verpasst“. Der Hauptsatz braucht einen Dativ („jemandem bleibt etwas“) → „dem“, direkt danach folgt das Verb „bleibt“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Join the sentences with „dessen“ or „deren“.",
+      "instructionDe": "Verbinde die Sätze mit „dessen“ oder „deren“.",
+      "prompt": "Wir übernachten in einem Hotel. Sein Restaurant wurde kürzlich ausgezeichnet.",
+      "answers": [
+        "Wir übernachten in einem Hotel, dessen Restaurant kürzlich ausgezeichnet wurde.",
+        "Wir übernachten in einem Hotel, dessen Restaurant kürzlich ausgezeichnet worden ist."
+      ],
+      "explanation": "„sein Restaurant“ is the hotel's restaurant. The owner „das Hotel“ is neuter → „dessen“, which replaces the possessive „sein“. The verb „wurde“ moves to the end.",
+      "explanationDe": "„sein Restaurant“ ist das Restaurant des Hotels. Der Besitzer „das Hotel“ ist neutral → „dessen“; es ersetzt den Possessivartikel „sein“. Das Verb „wurde“ geht ans Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Join the sentences with a relative clause that comments on the whole first sentence.",
+      "instructionDe": "Verbinde die Sätze mit einem Relativsatz, der den ganzen ersten Satz kommentiert.",
+      "prompt": "Die Bibliothek öffnet jetzt auch sonntags. Darüber freuen sich vor allem Studierende.",
+      "answers": ["Die Bibliothek öffnet jetzt auch sonntags, worüber sich vor allem Studierende freuen."],
+      "explanation": "„Darüber“ refers to the whole first sentence, so it becomes the relative form „worüber“. The verb „freuen“ moves to the end; the reflexive „sich“ stays near the front.",
+      "explanationDe": "„Darüber“ bezieht sich auf den ganzen ersten Satz, deshalb wird daraus die Relativform „worüber“. Das Verb „freuen“ geht ans Ende; das Reflexivpronomen „sich“ bleibt weit vorne."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „wer“ and the right pronoun at the start of the main clause.",
+      "instructionDe": "Schreib den Satz mit „wer“ und dem richtigen Pronomen am Anfang des Hauptsatzes um.",
+      "prompt": "Allen, die den Kurs abschließen, schicken wir ein Zertifikat.",
+      "answers": ["Wer den Kurs abschließt, dem schicken wir ein Zertifikat."],
+      "explanation": "„Allen, die …“ becomes „Wer …“ with a singular verb („abschließt“). The main clause needs a dative („jemandem etwas schicken“), so it starts with „dem“, not „der“.",
+      "explanationDe": "Aus „Allen, die …“ wird „Wer …“ mit einem Verb im Singular („abschließt“). Der Hauptsatz braucht einen Dativ („jemandem etwas schicken“), deshalb beginnt er mit „dem“, nicht mit „der“."
+    }
+  ],
+  "related": ["relativsaetze", "genitiv", "verben-mit-praepositionen", "verben-mit-praepositionen-b2", "adjektivdeklination-b2", "korrelate", "satzgliedstellung"]
+}

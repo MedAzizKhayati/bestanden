@@ -1,0 +1,115 @@
+{
+  "id": "hoeren-1-09",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Radio Neckartal: Nachrichten um 17 Uhr",
+  "topic": "arbeit",
+  "difficulty": 3,
+  "speakers": [
+    { "id": "sprecherin", "name": "Sabine Kolb", "gender": "f", "age": "adult", "role": "Nachrichtensprecherin" },
+    { "id": "korrespondent", "name": "Jonas Reiter", "gender": "m", "age": "adult", "role": "Korrespondent" }
+  ],
+  "intro": [
+    { "s": "sprecherin", "t": "Hier ist Radio Neckartal mit den Nachrichten um 17 Uhr. Am Mikrofon ist Sabine Kolb." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: neue Kita-Gebühren in Heilbronn",
+      "script": [
+        { "s": "sprecherin", "t": "Heilbronn. Die Gebühren für Krippen und Kindergärten richten sich in Heilbronn ab dem kommenden Jahr nach dem Einkommen der Eltern. Der Gemeinderat hat gestern Abend mit knapper Mehrheit einer entsprechenden Satzungsänderung zugestimmt." },
+        { "s": "sprecherin", "t": "Bislang zahlen alle Familien denselben Betrag. Künftig sollen Haushalte mit geringem Einkommen vollständig von den Gebühren befreit werden, während Gutverdienende bis zu doppelt so viel zahlen wie bisher." },
+        { "s": "sprecherin", "t": "Eine Sprecherin der Stadt betonte, unterm Strich nehme die Stadt dadurch keinen Euro mehr ein. Es gehe ausschließlich darum, die Kosten gerechter zu verteilen." }
+      ],
+      "statement": "Mit dem neuen Gebührenmodell will Heilbronn in erster Linie zusätzliche Einnahmen für die Kinderbetreuung erzielen.",
+      "answer": false,
+      "explanation": "According to the city, „unterm Strich nehme die Stadt dadurch keinen Euro mehr ein“ – it earns no extra money; „Es gehe ausschließlich darum, die Kosten gerechter zu verteilen“. Higher earners pay „bis zu doppelt so viel“, but low-income families pay nothing. The Mannheim report that follows (shorter opening hours) is not scored.",
+      "explanationDe": "Laut der Stadt gilt: „unterm Strich nehme die Stadt dadurch keinen Euro mehr ein“ – sie bekommt also kein zusätzliches Geld; „Es gehe ausschließlich darum, die Kosten gerechter zu verteilen“. Gutverdienende zahlen „bis zu doppelt so viel“, dafür zahlen Familien mit wenig Geld gar nichts. Die Meldung aus Mannheim danach (kürzere Öffnungszeiten) gehört zu keiner Aufgabe.",
+      "evidence": "unterm Strich nehme die Stadt dadurch keinen Euro mehr ein"
+    },
+    {
+      "n": 2,
+      "label": "Meldung: Werkzeughersteller holt Produktion zurück",
+      "script": [
+        { "s": "sprecherin", "t": "Schwäbisch Hall. Der Werkzeughersteller Halbig holt die Fertigung seiner Akkuschrauber aus China zurück an den Stammsitz. Aus Schwäbisch Hall berichtet Jonas Reiter." },
+        { "s": "korrespondent", "t": "In einer neuen Halle sollen ab dem Herbst rund 200 Menschen arbeiten. Das Unternehmen begründete den Schritt mit gestiegenen Frachtkosten, mit Lieferzeiten von zuletzt bis zu vier Monaten und mit wiederholten Qualitätsproblemen bei einem chinesischen Zulieferer." },
+        { "s": "korrespondent", "t": "Fördermittel habe man bewusst nicht beantragt, sagte ein Firmensprecher. Man wolle sich bei der Wahl des Standorts von niemandem abhängig machen." }
+      ],
+      "statement": "Ausschlaggebend für die Rückkehr der Produktion nach Schwäbisch Hall war vor allem staatliche Förderung.",
+      "answer": false,
+      "explanation": "The company names freight costs, long delivery times and quality problems as reasons. State money played no role: „Fördermittel habe man bewusst nicht beantragt“ – the firm deliberately did not apply for subsidies so as not to depend on anyone.",
+      "explanationDe": "Das Unternehmen nennt Frachtkosten, lange Lieferzeiten und Qualitätsprobleme als Gründe. Geld vom Staat spielt keine Rolle: „Fördermittel habe man bewusst nicht beantragt“ – die Firma will von niemandem abhängig sein.",
+      "evidence": "Fördermittel habe man bewusst nicht beantragt"
+    },
+    {
+      "n": 3,
+      "label": "Meldung: Studie zu Bewegung im Homeoffice",
+      "script": [
+        { "s": "sprecherin", "t": "Tübingen. Wer von zu Hause aus arbeitet, bewegt sich einer neuen Studie zufolge deutlich weniger als Beschäftigte, die täglich ins Büro pendeln." },
+        { "s": "sprecherin", "t": "Ein Forschungsteam aus Tübingen hat ein Jahr lang die Schrittzahlen von rund 1.500 Angestellten ausgewertet. An Tagen im Homeoffice legten die Teilnehmenden im Schnitt etwa 3.000 Schritte weniger zurück." },
+        { "s": "sprecherin", "t": "Die Zeit, die durch den wegfallenden Arbeitsweg gewonnen werde, nutzten die wenigsten für Sport, erklärte die Studienleiterin. Sie rät, kurze Bewegungspausen fest in den Arbeitstag einzuplanen." }
+      ],
+      "statement": "Laut der Tübinger Studie führt die Arbeit im Homeoffice eher zu weniger als zu mehr Bewegung.",
+      "answer": true,
+      "explanation": "People working from home move „deutlich weniger“ (about 3,000 fewer steps on home-office days), and the time saved on the commute is hardly used for sport: „nutzten die wenigsten für Sport“. So working from home leads to less exercise, not more.",
+      "explanationDe": "Wer zu Hause arbeitet, bewegt sich „deutlich weniger“ (an Homeoffice-Tagen etwa 3.000 Schritte weniger). Die gewonnene Zeit ohne Arbeitsweg „nutzten die wenigsten für Sport“. Homeoffice führt also zu weniger Bewegung, nicht zu mehr.",
+      "evidence": "bewegt sich einer neuen Studie zufolge deutlich weniger als Beschäftigte, die täglich ins Büro pendeln"
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Publikum wählt Bilder für eine Ausstellung",
+      "script": [
+        { "s": "sprecherin", "t": "Stuttgart. Erstmals hat in einem Museum der Stadt das Publikum darüber entschieden, was in einer Ausstellung gezeigt wird." },
+        { "s": "sprecherin", "t": "Das Museum am Kräherwald hatte im Sommer 60 Gemälde aus seinem Depot, die seit Jahrzehnten nicht mehr ausgestellt worden waren, im Internet vorgestellt. Mehr als 14.000 Menschen beteiligten sich an der Abstimmung." },
+        { "s": "sprecherin", "t": "Die 20 Bilder mit den meisten Stimmen sind ab Samstag zu sehen. Die Auswahl habe auch das Team des Museums überrascht, sagte die Direktorin: Gewonnen hätten fast ausschließlich Werke von Malerinnen, die heute kaum noch jemand kenne." }
+      ],
+      "statement": "Bei der Auswahl der Bilder für die neue Ausstellung hat das Museum diesmal dem Publikum das letzte Wort gelassen.",
+      "answer": true,
+      "explanation": "„Die 20 Bilder mit den meisten Stimmen sind ab Samstag zu sehen“ – the public voted online, so it had the final say („das letzte Wort“). The museum team only presented 60 candidates and was itself surprised by the result („Die Auswahl habe auch das Team des Museums überrascht“).",
+      "explanationDe": "„Die 20 Bilder mit den meisten Stimmen sind ab Samstag zu sehen“ – das Publikum hat im Internet abgestimmt und hatte also „das letzte Wort“. Das Team des Museums hat nur 60 Bilder vorgestellt und war selbst vom Ergebnis überrascht („Die Auswahl habe auch das Team des Museums überrascht“).",
+      "evidence": "Die 20 Bilder mit den meisten Stimmen sind ab Samstag zu sehen."
+    },
+    {
+      "n": 5,
+      "label": "Meldung: kein Aufstieg für die Turmfalken Tübingen",
+      "script": [
+        { "s": "sprecherin", "t": "Zum Sport. Die Basketballer der Turmfalken Tübingen verzichten auf einen möglichen Aufstieg in die erste Liga, obwohl sie die Tabelle der zweiten Liga derzeit klar anführen." },
+        { "s": "sprecherin", "t": "Ihre Halle biete nur 2.000 Zuschauern Platz, verlangt seien aber mindestens 3.500, teilte der Verein mit. Eine Ausnahmegenehmigung habe die Liga abgelehnt." },
+        { "s": "sprecherin", "t": "Über den Bau einer größeren Arena berät der Gemeinderat zwar schon seit Monaten. Mit einer Entscheidung wird aber frühestens im kommenden Jahr gerechnet." }
+      ],
+      "statement": "Die Liga erlaubt den Tübinger Basketballern ausnahmsweise, trotz ihrer zu kleinen Halle in die erste Liga aufzusteigen.",
+      "answer": false,
+      "explanation": "„Eine Ausnahmegenehmigung habe die Liga abgelehnt“ – the league refused an exception, so the team „verzichten auf einen möglichen Aufstieg“. Listen to the end of the sentence: the verb „abgelehnt“ comes last.",
+      "explanationDe": "„Eine Ausnahmegenehmigung habe die Liga abgelehnt“ – die Liga hat keine Ausnahme erlaubt, deshalb „verzichten“ die Basketballer auf den Aufstieg. Hör bis zum Ende des Satzes: Das Verb „abgelehnt“ steht ganz am Schluss.",
+      "evidence": "Eine Ausnahmegenehmigung habe die Liga abgelehnt."
+    }
+  ],
+  "unscored": [
+    {
+      "after": 1,
+      "label": "Meldung: kürzere Kita-Öffnungszeiten in Mannheim",
+      "script": [
+        { "s": "sprecherin", "t": "Mannheim. Eltern in Mannheim müssen sich auf kürzere Betreuungszeiten einstellen. In etwa einem Drittel der städtischen Kitas schließen die Gruppen ab Januar bereits um 15 Uhr statt wie bisher um 17 Uhr." },
+        { "s": "sprecherin", "t": "Grund sei der anhaltende Mangel an Erzieherinnen und Erziehern, teilte die Stadtverwaltung mit; derzeit seien mehr als 120 Stellen unbesetzt." },
+        { "s": "sprecherin", "t": "Der Gesamtelternbeirat kritisierte, berufstätige Mütter und Väter würden mit dem Problem allein gelassen, und forderte zumindest eine Notbetreuung am Nachmittag." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecherin", "t": "Das waren die Nachrichten auf Radio Neckartal." }
+  ],
+  "glossary": [
+    { "de": "sich nach etwas richten", "en": "to depend on, to be based on something" },
+    { "de": "die Satzungsänderung", "en": "change to the (municipal) bylaws" },
+    { "de": "unterm Strich", "en": "all in all, on balance" },
+    { "de": "die Notbetreuung", "en": "emergency childcare" },
+    { "de": "der Stammsitz", "en": "headquarters, original site of a company" },
+    { "de": "der Zulieferer", "en": "supplier" },
+    { "de": "die Fördermittel (Pl.)", "en": "public funding, subsidies" },
+    { "de": "ausschlaggebend", "en": "decisive" },
+    { "de": "pendeln", "en": "to commute" },
+    { "de": "das Depot (im Museum)", "en": "storage, store rooms (of a museum)" },
+    { "de": "auf etwas verzichten", "en": "to do without something, to forgo" },
+    { "de": "die Ausnahmegenehmigung", "en": "special permit, exemption" }
+  ]
+}

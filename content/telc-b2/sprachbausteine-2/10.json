@@ -1,0 +1,108 @@
+{
+  "id": "sprachbausteine-2-10",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Der Trend zum Kurzurlaub",
+  "topic": "reisen",
+  "difficulty": 2,
+  "textType": "article",
+  "text": "Drei Tage Wien, zwei Nächte Lissabon: Der Kurzurlaub boomt\n\nWie aus einer aktuellen Umfrage des Rostocker Instituts für Freizeit- und Tourismusforschung [[1]], hat fast jeder zweite Erwachsene in Deutschland im vergangenen Jahr mindestens drei Kurzreisen unternommen. [[2]] früher der mehrwöchige Sommerurlaub am Meer als selbstverständlich galt, verteilen heute viele Berufstätige ihre freien Tage lieber auf mehrere verlängerte Wochenenden. Besonders [[3]] sind Ziele, die sich mit der Bahn oder dem Fernbus in wenigen Stunden erreichen lassen, etwa Hamburg, Prag oder Salzburg.\n\nDie Gründe für diese Entwicklung sind vielfältig. Viele Beschäftigte haben das Gefühl, sich eine längere Auszeit schlicht nicht leisten zu können, ohne dass sich in ihrer Abwesenheit die Arbeit auf dem Schreibtisch stapelt. Kurzreisen lassen sich zudem leichter mit familiären Verpflichtungen vereinbaren, und ein Fehlen von zwei oder drei Tagen fällt im Büro kaum ins Gewicht. Anders als beim klassischen Badeurlaub steht dabei weniger die Erholung im [[4]] als vielmehr das Erlebnis: Museen, Märkte und Restaurants sollen in möglichst kurzer Zeit erkundet werden. Je knapper das Zeitbudget, [[5]] sorgfältiger wird die Reise in der Regel im Voraus geplant.\n\nDie Tourismusbranche trägt dieser Nachfrage längst [[6]]. Hotels schnüren flexible Pakete für zwei oder drei Nächte, Buchungsportale werben mit spontanen Wochenendangeboten. Umweltverbände betrachten den Trend [[7]] seiner ökologischen Folgen hingegen kritisch. Vor allem Kurztrips mit dem Flugzeug schlagen in der Klimabilanz kräftig zu [[8]], da die An- und Abreise bei wenigen Urlaubstagen den Großteil der Emissionen verursacht.\n\nOb wenige Tage überhaupt [[9]], um sich wirklich zu erholen, ist unter Fachleuten umstritten. Der Hamburger Arbeitspsychologe Jonas Brettschneider hält Kurzurlaube durchaus für sinnvoll, [[10]] sie regelmäßig stattfinden und nicht selbst zum Stressfaktor werden. Wer allerdings auch im Hotelzimmer ständig berufliche E-Mails abrufe, dürfe sich nicht wundern, wenn er erschöpfter zurückkehre, als er aufgebrochen sei.",
+  "words": [
+    { "key": "a", "text": "ausreichen" },
+    { "key": "b", "text": "Buche" },
+    { "key": "c", "text": "damit" },
+    { "key": "d", "text": "ergibt" },
+    { "key": "e", "text": "gefragt" },
+    { "key": "f", "text": "genügend" },
+    { "key": "g", "text": "hervorgeht" },
+    { "key": "h", "text": "hinsichtlich" },
+    { "key": "i", "text": "Hintergrund" },
+    { "key": "j", "text": "Rechnung" },
+    { "key": "k", "text": "sofern" },
+    { "key": "l", "text": "Sorge" },
+    { "key": "m", "text": "umso" },
+    { "key": "n", "text": "Vordergrund" },
+    { "key": "o", "text": "während" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "g",
+      "explanation": "„aus etwas hervorgehen“ (to be evident from something) introduces the source of a finding: „Wie aus einer … Umfrage hervorgeht“. „ergibt“ is the trap: „sich aus etwas ergeben“ means the same, but it needs „sich“ („Wie sich aus … ergibt“), which is missing here.",
+      "explanationDe": "„aus etwas hervorgehen“ nennt die Quelle für ein Ergebnis: „Wie aus einer … Umfrage hervorgeht“. „ergibt“ ist die Falle: „sich aus etwas ergeben“ bedeutet dasselbe, braucht aber „sich“ („Wie sich aus … ergibt“) – und das fehlt hier.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 2,
+      "answer": "o",
+      "explanation": "„während“ (whereas) contrasts the past with the present: „früher“ the long summer holiday, „heute“ several short trips. As a subordinating conjunction it sends „galt“ to the end. „damit“ also sends the verb to the end, but it expresses a purpose, which makes no sense here.",
+      "explanationDe": "„während“ stellt früher und heute gegenüber: „früher“ der lange Sommerurlaub, „heute“ mehrere kurze Reisen. Als Konjunktion schickt es „galt“ ans Ende. „damit“ schickt das Verb auch ans Ende, drückt aber ein Ziel aus – das ergibt hier keinen Sinn.",
+      "grammar": "adversative-saetze"
+    },
+    {
+      "n": 3,
+      "answer": "e",
+      "explanation": "„gefragt sein“ (to be in demand) – destinations you can reach by train or coach within a few hours are especially popular. „genügend“ means „enough“; „Besonders genügend sind Ziele …“ makes no sense.",
+      "explanationDe": "„gefragt sein“ (= viele wollen es haben) – Ziele, die man mit Bahn oder Fernbus in wenigen Stunden erreicht, sind besonders beliebt. „genügend“ bedeutet „ausreichend“; „Besonders genügend sind Ziele …“ ergibt keinen Sinn."
+    },
+    {
+      "n": 4,
+      "answer": "n",
+      "explanation": "„im Vordergrund stehen“ (to be the main focus): on short trips the experience matters most, as the list „Museen, Märkte und Restaurants“ shows. „Hintergrund“ is the trap – „im Hintergrund stehen“ means the opposite and would claim that the experience is unimportant.",
+      "explanationDe": "„im Vordergrund stehen“ (= am wichtigsten sein): Bei Kurzreisen zählt vor allem das Erlebnis, das zeigt die Liste „Museen, Märkte und Restaurants“. „Hintergrund“ ist die Falle – „im Hintergrund stehen“ bedeutet das Gegenteil: Das Erlebnis wäre dann unwichtig.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 5,
+      "answer": "m",
+      "explanation": "„je … umso“ (the … the) links two comparatives: „Je knapper das Zeitbudget, umso sorgfältiger …“. No other word in the box can answer „je“.",
+      "explanationDe": "„je … umso“ verbindet zwei Komparative: „Je knapper das Zeitbudget, umso sorgfältiger …“. Kein anderes Wort im Kasten passt als zweiter Teil zu „je“.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 6,
+      "answer": "j",
+      "explanation": "„einer Sache Rechnung tragen“ (to take something into account and respond to it) – the industry reacts to the demand with flexible offers. „Sorge“ is the trap: „Sorge tragen“ exists, but it needs „für“ („für etwas Sorge tragen“ = to make sure) and cannot take a dative object like „dieser Nachfrage“.",
+      "explanationDe": "„einer Sache Rechnung tragen“ (= auf etwas reagieren, es berücksichtigen) – die Branche reagiert mit flexiblen Angeboten auf die Nachfrage. „Sorge“ ist die Falle: „Sorge tragen“ gibt es, aber mit „für“ („für etwas Sorge tragen“ = dafür sorgen) und nicht mit einem Dativ wie „dieser Nachfrage“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 7,
+      "answer": "h",
+      "explanation": "„hinsichtlich“ + genitive (with regard to) names the aspect under which environmental groups judge the trend: „hinsichtlich seiner ökologischen Folgen“. „während“ also takes the genitive as a preposition, but it means „during“, which makes no sense with „Folgen“.",
+      "explanationDe": "„hinsichtlich“ + Genitiv (= was … betrifft) nennt den Aspekt, unter dem die Umweltverbände den Trend bewerten: „hinsichtlich seiner ökologischen Folgen“. „während“ steht als Präposition auch mit Genitiv, bedeutet aber „in der Zeit von“ – das passt nicht zu „Folgen“.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 8,
+      "answer": "b",
+      "explanation": "„zu Buche schlagen“ (to have a noticeable effect, especially on costs or a balance) is a fixed expression: flights weigh heavily on the climate balance. No other noun in the box completes „zu … schlagen“.",
+      "explanationDe": "„zu Buche schlagen“ (= sich deutlich bemerkbar machen, besonders bei Kosten oder einer Bilanz) ist eine feste Wendung: Flüge belasten die Klimabilanz stark. Kein anderes Nomen im Kasten passt in „zu … schlagen“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 9,
+      "answer": "a",
+      "explanation": "„ausreichen, um … zu“ (to be enough to …) – the question is whether a few days are enough to really recover. The ob-clause needs a verb at the end that agrees with the plural „wenige Tage“. „genügend“ is the trap: it means „enough“, but it is not a verb, so the clause would have none.",
+      "explanationDe": "„ausreichen, um … zu“ (= genug sein für …) – die Frage ist, ob wenige Tage genug sind, um sich zu erholen. Der ob-Satz braucht am Ende ein Verb im Plural zu „wenige Tage“. „genügend“ ist die Falle: Es bedeutet „genug“, ist aber kein Verb – der Satz hätte dann keins."
+    },
+    {
+      "n": 10,
+      "answer": "k",
+      "explanation": "„sofern“ (provided that) sets a condition: short holidays are sensible if they take place regularly and do not become stressful themselves. „damit“ is the trap: it expresses a purpose, but holidays are not sensible „in order that“ they take place regularly.",
+      "explanationDe": "„sofern“ (= unter der Bedingung, dass) nennt eine Bedingung: Kurzurlaube sind sinnvoll, wenn sie regelmäßig stattfinden und keinen Stress machen. „damit“ ist die Falle: Es drückt ein Ziel aus, aber Kurzurlaube sind nicht sinnvoll, „damit“ sie regelmäßig stattfinden.",
+      "grammar": "konditionalsaetze"
+    }
+  ],
+  "glossary": [
+    { "de": "aus etwas hervorgehen", "en": "to be evident from something" },
+    { "de": "ins Gewicht fallen", "en": "to matter, to carry weight" },
+    { "de": "im Vordergrund stehen", "en": "to be the main focus" },
+    { "de": "einer Sache Rechnung tragen", "en": "to take something into account, to respond to it" },
+    { "de": "ein Paket schnüren", "en": "to put together a package (deal)" },
+    { "de": "zu Buche schlagen", "en": "to have a noticeable impact (on costs or a balance)" },
+    { "de": "die Klimabilanz", "en": "climate balance, carbon footprint" },
+    { "de": "ausreichen", "en": "to be sufficient" },
+    { "de": "aufbrechen", "en": "to set off" }
+  ]
+}

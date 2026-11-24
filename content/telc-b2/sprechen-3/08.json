@@ -1,0 +1,73 @@
+{
+  "id": "sprechen-3-08",
+  "examId": "telc-b2",
+  "type": "speaking-planning",
+  "title": "Ein Teamtag als Dankeschön",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "situation": "Sie arbeiten beide bei einem Softwareunternehmen in Stuttgart mit etwa fünfzig Beschäftigten. Nach einem anstrengenden Jahr mit vielen Überstunden möchte sich die Geschäftsführung im Oktober mit einem Teamtag bei der Belegschaft bedanken und hat Sie beide mit der Planung beauftragt. Der Ausflug findet während der Arbeitszeit statt, und pro Person stehen 80 Euro zur Verfügung. Sie sollen gemeinsam ein Programm für den Tag entwickeln.",
+  "checklist": [
+    "Ziel des Tages: Erholung, Teamgeist oder beides?",
+    "Aktivitäten, bei denen alle mitmachen können",
+    "Ablauf und Zeitrahmen",
+    "Anreise und Fahrt zwischen den Programmpunkten",
+    "Essen und Getränke",
+    "Termin und Erreichbarkeit der Firma an diesem Tag",
+    "Kosten und Aufgabenverteilung"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Nikola Jovanović", "gender": "m", "age": "adult", "role": "Teilnehmer A" },
+    { "id": "B", "name": "Meilin Chen", "gender": "f", "age": "adult", "role": "Teilnehmerin B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Nun kommen wir zum dritten Teil. Bitte planen Sie gemeinsam den Teamtag für Ihre Firma." },
+    { "s": "A", "t": "Also, Meilin, ich habe mir schon ein paar Gedanken gemacht. Viele von uns arbeiten inzwischen überwiegend im Homeoffice, und manche haben sich seit Monaten nicht persönlich gesehen. Deshalb sollte der Tag vor allem dazu dienen, dass man wieder miteinander ins Gespräch kommt." },
+    { "s": "B", "t": "Da stimme ich dir voll zu. Mein erster Gedanke war ein Kletterpark, weil man sich dort gegenseitig sichern muss und das den Teamgeist stärkt." },
+    { "s": "A", "t": "Das wäre sicher spannend, aber ich gebe zu bedenken, dass nicht alle schwindelfrei oder körperlich fit sind. Unser Kollege aus dem Einkauf hatte zum Beispiel gerade eine Knieoperation, er müsste den ganzen Tag zuschauen." },
+    { "s": "B", "t": "Stimmt, daran hatte ich gar nicht gedacht. Es soll sich natürlich niemand ausgeschlossen fühlen. Was würdest du denn vorschlagen?" },
+    { "s": "A", "t": "Ich fände es sinnvoll, wenn wir etwas Gemeinnütziges machen würden, zum Beispiel mit dem Forstamt im Stadtwald Bäume pflanzen. Da kann jeder so viel mitarbeiten, wie er kann, und am Ende hat man etwas Bleibendes geschaffen." },
+    { "s": "B", "t": "Die Idee ist gut gemeint, aber ich habe da meine Zweifel. Die Geschäftsführung will sich ja für die vielen Überstunden bedanken, und wenn die Leute dann auch noch körperlich arbeiten sollen, empfinden das manche eher als Strafe denn als Belohnung." },
+    { "s": "A", "t": "Da ist etwas dran. Wie wäre es mit einem Kompromiss: Vormittags pflanzen wir zwei oder drei Stunden lang Bäume, und am Nachmittag gibt es ein entspanntes Programm, bei dem niemand mehr etwas leisten muss." },
+    { "s": "B", "t": "Damit könnte ich leben. Für den Nachmittag würde ich eine Wanderung durch die Weinberge mit anschließender Weinprobe vorschlagen. Von dort oben hat man einen tollen Blick über die Stadt, und die Wege sind nicht besonders steil." },
+    { "s": "A", "t": "Schöne Idee, aber wir sollten daran denken, dass einige Kollegen keinen Alkohol trinken, sei es aus religiösen oder aus gesundheitlichen Gründen. Eine reine Weinprobe fände ich deshalb unglücklich." },
+    { "s": "B", "t": "Dann machen wir daraus eine Führung über ein Weingut mit einem schwäbischen Vesper, bei dem es neben Wein auch Traubensaft und andere alkoholfreie Getränke gibt. Und wer nicht so gut zu Fuß ist, fährt einfach mit dem Bus bis zum Weingut." },
+    { "s": "A", "t": "So gefällt mir das besser. Was das Budget betrifft, sind achtzig Euro pro Person nicht gerade üppig, aber das Baumpflanzen kostet uns nichts, das Forstamt freut sich ja über die Hilfe." },
+    { "s": "B", "t": "Genau, damit bliebe genug Geld für die Führung, das Vesper und den Bus. Den Bus würde ich übrigens für den ganzen Tag mieten, weil der Stadtwald mit öffentlichen Verkehrsmitteln schlecht zu erreichen ist." },
+    { "s": "A", "t": "Einverstanden, vorausgesetzt, das Angebot ist bezahlbar. Was mir noch Sorgen macht: Einige Kollegen haben Kundentermine, und der Support muss auch an diesem Tag erreichbar bleiben." },
+    { "s": "B", "t": "Deshalb sollten wir den Termin möglichst früh bekannt geben, ich würde einen Donnerstag Mitte Oktober vorschlagen. Und für den Support könnte ein kleines Notfallteam im Büro bleiben, das dafür einen zusätzlichen freien Tag bekommt." },
+    { "s": "A", "t": "Das wäre eine faire Lösung, das schlagen wir der Geschäftsführung so vor. Und was machen wir, wenn es den ganzen Tag regnet? Im Oktober ist das ja durchaus möglich." },
+    { "s": "B", "t": "Bei leichtem Regen pflanzen wir trotzdem, Handschuhe und Werkzeug stellt ja das Forstamt. Nur bei einem richtigen Unwetter würden wir den Vormittag streichen und uns gleich beim Weingut treffen, das hat einen überdachten Hof." },
+    { "s": "A", "t": "Gut. Dann fasse ich zusammen: Der Teamtag findet an einem Donnerstag Mitte Oktober statt, und wir sind den ganzen Tag mit einem gemieteten Bus unterwegs. Vormittags pflanzen wir mit dem Forstamt Bäume im Stadtwald, nachmittags gibt es eine Führung über ein Weingut mit Vesper und auch alkoholfreien Getränken." },
+    { "s": "B", "t": "Genau. Ich kümmere mich um das Weingut und den Bus und spreche mit dem Support über das Notfallteam." },
+    { "s": "A", "t": "Und ich kläre alles mit dem Forstamt, rechne nach, ob wir mit achtzig Euro pro Person auskommen, und schicke die Einladung an alle. Ich bin gespannt, wie die Idee ankommt." }
+  ],
+  "phrases": [
+    { "de": "Ich habe mir schon ein paar Gedanken gemacht.", "en": "I've already given it some thought." },
+    { "de": "Da stimme ich dir voll zu.", "en": "I completely agree with you." },
+    { "de": "Das wäre sicher spannend, aber ich gebe zu bedenken, dass …", "en": "That would certainly be exciting, but bear in mind that …" },
+    { "de": "Stimmt, daran hatte ich gar nicht gedacht.", "en": "True, I hadn't thought of that at all." },
+    { "de": "Was würdest du denn vorschlagen?", "en": "So what would you suggest?" },
+    { "de": "Die Idee ist gut gemeint, aber ich habe da meine Zweifel.", "en": "The idea is well meant, but I have my doubts." },
+    { "de": "Damit könnte ich leben.", "en": "I could live with that." },
+    { "de": "Wir sollten daran denken, dass …", "en": "We should keep in mind that …" },
+    { "de": "Einverstanden, vorausgesetzt, …", "en": "Agreed, provided that …" },
+    { "de": "Was mir noch Sorgen macht: …", "en": "What still worries me: …" },
+    { "de": "Das wäre eine faire Lösung.", "en": "That would be a fair solution." },
+    { "de": "Dann fasse ich zusammen: …", "en": "Let me sum up, then: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Belegschaft", "en": "staff, workforce" },
+    { "de": "die Geschäftsführung", "en": "management" },
+    { "de": "die Überstunde", "en": "hour of overtime" },
+    { "de": "den Teamgeist stärken", "en": "to strengthen team spirit" },
+    { "de": "schwindelfrei sein", "en": "to have a head for heights" },
+    { "de": "gemeinnützig", "en": "for the common good, charitable" },
+    { "de": "das Forstamt", "en": "forestry office" },
+    { "de": "das Weingut", "en": "winery, wine estate" },
+    { "de": "das Vesper (schwäbisch)", "en": "cold snack of bread, sausage and cheese (Swabian)" },
+    { "de": "der Kundentermin", "en": "client appointment" },
+    { "de": "erreichbar bleiben", "en": "to remain reachable, stay available" },
+    { "de": "das Notfallteam", "en": "skeleton crew for emergencies" }
+  ]
+}

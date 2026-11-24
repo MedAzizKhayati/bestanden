@@ -1,0 +1,104 @@
+{
+  "id": "sprechen-2-13",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "KI im Klassenzimmer",
+  "topic": "bildung",
+  "difficulty": 2,
+  "theme": "Sollte künstliche Intelligenz im Schulunterricht eingesetzt werden?",
+  "article": {
+    "headline": "Lernen mit dem Chatbot: Pilotprojekt spaltet Eltern und Lehrkräfte",
+    "lead": "Seit einem Jahr dürfen Jugendliche an neun Schulen in der Region Hannover im Unterricht und bei den Hausaufgaben offiziell künstliche Intelligenz nutzen. Eine erste Auswertung liefert Argumente für beide Seiten.",
+    "paragraphs": [
+      "Ob Erörterung, Vokabeltest oder Matheaufgabe – für viele Jugendliche ist der Chatbot längst ein ständiger Begleiter. Statt ihn zu verbieten, haben mehrere Gymnasien und Gesamtschulen im vergangenen Schuljahr ein Pilotprojekt gestartet: Rund 3.400 Schülerinnen und Schüler ab Klasse 8 arbeiten seither mit einer eigens geprüften KI-Lernplattform. Sie erklärt Aufgaben Schritt für Schritt, gibt Rückmeldung zu Texten und schlägt passende Übungen vor.",
+      "Die Begleitstudie, die das Institut für Bildungsforschung Nordheide jetzt vorgelegt hat, zeichnet ein widersprüchliches Bild. 71 Prozent der Jugendlichen geben an, Aufgaben mit KI-Unterstützung schneller zu verstehen. Vor allem leistungsschwächere Schülerinnen und Schüler profitierten: Ihre Mathematiknoten verbesserten sich im Schnitt um eine halbe Note. Zugleich stellten die Forschenden fest, dass die Aufsätze vieler Teilnehmender einander zunehmend ähnelten.",
+      "„Die KI ersetzt keine Lehrkraft, aber sie ist wie ein geduldiger Nachhilfelehrer, den sich längst nicht jede Familie leisten kann“, sagt Schulleiterin Birgit Osterkamp. Gerade in Klassen mit 30 Kindern hätten die Lehrkräfte dadurch mehr Zeit für diejenigen, die besondere Unterstützung brauchen.",
+      "Kritiker sehen das anders. „Wer sich jede Gliederung vorschlagen lässt, verlernt, selbst zu denken“, warnt der Lernpsychologe Henning Faltermeier. Auch der Datenschutz bereitet Sorgen: Fast 40 Prozent der befragten Eltern wissen nicht, welche Daten über ihre Kinder gespeichert werden. Zudem fürchten viele Lehrkräfte, dass sich Hausaufgaben kaum noch fair bewerten lassen, wenn unklar ist, wer sie eigentlich geschrieben hat.",
+      "Ob das Projekt auf weitere Schulen ausgeweitet wird, soll im Frühjahr entschieden werden. Die Schülervertretung hat bereits eine klare Forderung: Statt über Verbote zu streiten, solle man ein eigenes Fach einführen, in dem der kritische Umgang mit KI gelernt wird."
+    ],
+    "source": "Leinetal-Anzeiger, Bildung"
+  },
+  "ideas": {
+    "pro": [
+      "individuelle Erklärungen im eigenen Lerntempo",
+      "schwächere Schülerinnen und Schüler holen auf",
+      "kostenlose Hilfe statt teurer Nachhilfe",
+      "Lehrkräfte gewinnen Zeit für Einzelne",
+      "Jugendliche lernen den Umgang mit einer Schlüsseltechnologie",
+      "ein Verbot würde die heimliche Nutzung nur fördern"
+    ],
+    "contra": [
+      "Gefahr, das eigenständige Denken zu verlernen",
+      "Texte und Ideen werden immer ähnlicher",
+      "unklarer Datenschutz bei den Daten von Minderjährigen",
+      "Hausaufgaben und Leistungen lassen sich schwer bewerten",
+      "KI-Antworten klingen überzeugend, sind aber nicht immer richtig",
+      "Schulen ohne gute Technik geraten noch mehr ins Hintertreffen"
+    ]
+  },
+  "questions": [
+    "Welche Erfahrungen haben Sie selbst mit KI-Programmen beim Lernen gemacht?",
+    "Wie wird das Thema KI an Schulen in Ihrem Heimatland diskutiert?",
+    "Was müssten Schulen tun, damit Jugendliche KI verantwortungsvoll nutzen?",
+    "Sollten Hausaufgaben abgeschafft werden, wenn niemand mehr weiß, wer sie geschrieben hat?",
+    "Welche Aufgaben sollte eine Lehrkraft auch in Zukunft nicht einer Maschine überlassen?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Tamar Gelashvili", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Kwame Asante", "gender": "m", "age": "young", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Wir kommen jetzt zur Diskussion. Frau Gelashvili, fangen Sie bitte an." },
+    { "s": "A", "t": "Gern. In dem Artikel geht es um ein Pilotprojekt in der Region Hannover. Dort arbeiten seit einem Jahr ungefähr dreitausendvierhundert Jugendliche ab der achten Klasse mit einer geprüften KI-Lernplattform, die Aufgaben erklärt und Rückmeldung zu Texten gibt." },
+    { "s": "A", "t": "Laut einer Begleitstudie sagen einundsiebzig Prozent der Schüler, dass sie Aufgaben mit KI schneller verstehen. Besonders die schwächeren Schüler haben sich in Mathe um eine halbe Note verbessert." },
+    { "s": "A", "t": "Allerdings haben die Forscher auch festgestellt, dass die Aufsätze der Jugendlichen einander immer ähnlicher werden. Ein Lernpsychologe warnt außerdem, die Schüler würden verlernen, selbst zu denken." },
+    { "s": "B", "t": "Ich möchte noch einen Punkt ergänzen, der mir beim Lesen aufgefallen ist, nämlich den Datenschutz. Fast vierzig Prozent der Eltern wissen gar nicht, welche Daten über ihre Kinder gespeichert werden, und das finde ich ehrlich gesagt beunruhigend." },
+    { "s": "A", "t": "Das stimmt, das ist ein wichtiger Punkt. Trotzdem finde ich die Idee grundsätzlich gut. Die Schulleiterin vergleicht die KI ja mit einem geduldigen Nachhilfelehrer, und ich glaube, das trifft es ziemlich genau." },
+    { "s": "B", "t": "Wie meinst du das genau?" },
+    { "s": "A", "t": "Na ja, ich habe in der Schule selbst Nachhilfe in Chemie gebraucht, und meine Eltern mussten dafür jeden Monat viel Geld bezahlen. Ein Programm, das mir jede Aufgabe dreimal erklärt, ohne die Geduld zu verlieren, hätte mir damals sehr geholfen." },
+    { "s": "B", "t": "Da hast du zwar recht, aber ein Nachhilfelehrer merkt, wenn man etwas nicht verstanden hat und nur so tut. Ein Chatbot liefert einfach die Lösung, sobald man ihn darum bittet." },
+    { "s": "A", "t": "Nicht unbedingt. Im Artikel steht ja, dass die Plattform eigens geprüft wurde. Ich könnte mir vorstellen, dass sie so programmiert ist, dass sie Tipps gibt statt fertiger Lösungen." },
+    { "s": "B", "t": "Mag sein. Ich studiere Informatik und sehe jeden Tag, wie schnell sich solche Systeme verändern. Außerdem machen sie Fehler, klingen dabei aber immer sehr überzeugend." },
+    { "s": "A", "t": "Gerade deshalb müssen die Jugendlichen doch lernen, damit umzugehen. Sie benutzen die Programme sowieso, ob die Schule das erlaubt oder nicht." },
+    { "s": "B", "t": "Das ist ein gutes Argument, das gebe ich zu. Ein Verbot würde wahrscheinlich nur dazu führen, dass sie es heimlich tun." },
+    { "s": "A", "t": "Eben. Wie ist das eigentlich in Ghana? Wird da auch über KI an Schulen diskutiert?" },
+    { "s": "B", "t": "Ja, aber eher in den großen Städten. Viele Schulen auf dem Land haben noch nicht einmal genug Computer. Dort würde so ein Projekt die Unterschiede zwischen den Schulen eher vergrößern." },
+    { "s": "A", "t": "Das ist ein interessanter Gedanke, daran habe ich gar nicht gedacht. Gerechtigkeit ist also nicht nur ein Argument dafür, sondern auch dagegen." },
+    { "s": "P", "t": "Was halten Sie denn von der Forderung der Schülervertretung?" },
+    { "s": "B", "t": "Die finde ich sehr vernünftig. In einem eigenen Fach könnten die Schüler lernen, wie man Antworten überprüft und Quellen vergleicht. Dann wäre die KI ein Werkzeug und keine Abkürzung." },
+    { "s": "A", "t": "Da bin ich ganz deiner Meinung. Ich würde aber noch weiter gehen: Auch die Lehrkräfte bräuchten Fortbildungen, sonst wissen die Schüler am Ende mehr als sie." },
+    { "s": "B", "t": "Und was ist mit den Hausaufgaben? Sollte man die abschaffen, wenn man nicht mehr weiß, wer sie geschrieben hat?" },
+    { "s": "A", "t": "Abschaffen würde ich sie nicht. Aber vielleicht sollte man wichtige Texte öfter in der Schule schreiben lassen und zu Hause eher üben, mit oder ohne KI." },
+    { "s": "B", "t": "Das wäre ein guter Kompromiss. Dann bleibt die Bewertung fair, und trotzdem kann jeder die Hilfe nutzen, die er braucht." },
+    { "s": "A", "t": "Also, zusammengefasst: Wir sind beide dafür, KI im Unterricht zu nutzen, aber nur mit klaren Regeln und einem Fach, in dem man den kritischen Umgang damit lernt." },
+    { "s": "B", "t": "Genau. Und vorher müsste geklärt werden, was mit den Daten der Schüler passiert. Sonst würde ich mein eigenes Kind später nicht mitmachen lassen." }
+  ],
+  "phrases": [
+    { "de": "In dem Artikel geht es um …", "en": "The article is about …" },
+    { "de": "Laut einer Begleitstudie …", "en": "According to an accompanying study …" },
+    { "de": "Ich möchte noch einen Punkt ergänzen, der mir beim Lesen aufgefallen ist, nämlich …", "en": "I'd like to add a point I noticed while reading, namely …" },
+    { "de": "Ich glaube, das trifft es ziemlich genau.", "en": "I think that sums it up quite well." },
+    { "de": "Wie meinst du das genau?", "en": "What exactly do you mean?" },
+    { "de": "Da hast du zwar recht, aber …", "en": "You're right about that, but …" },
+    { "de": "Das ist ein gutes Argument, das gebe ich zu.", "en": "That's a good argument, I admit." },
+    { "de": "Daran habe ich gar nicht gedacht.", "en": "I hadn't thought of that at all." },
+    { "de": "Da bin ich ganz deiner Meinung.", "en": "I completely agree with you there." },
+    { "de": "Ich würde aber noch weiter gehen: …", "en": "But I would go even further: …" },
+    { "de": "Das wäre ein guter Kompromiss.", "en": "That would be a good compromise." },
+    { "de": "Also, zusammengefasst: …", "en": "So, to sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "die künstliche Intelligenz (KI)", "en": "artificial intelligence (AI)" },
+    { "de": "das Pilotprojekt", "en": "pilot project" },
+    { "de": "die Begleitstudie", "en": "accompanying study" },
+    { "de": "die Rückmeldung", "en": "feedback" },
+    { "de": "die Lehrkraft (die Lehrkräfte)", "en": "teacher (gender-neutral)" },
+    { "de": "die Nachhilfe", "en": "private tutoring" },
+    { "de": "von etwas profitieren", "en": "to benefit from something" },
+    { "de": "selbstständig denken", "en": "to think independently" },
+    { "de": "der Datenschutz", "en": "data protection" },
+    { "de": "die Schülervertretung", "en": "student council" },
+    { "de": "verantwortungsvoll mit etwas umgehen", "en": "to handle something responsibly" }
+  ]
+}

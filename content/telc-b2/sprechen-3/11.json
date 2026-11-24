@@ -1,0 +1,72 @@
+{
+  "id": "sprechen-3-11",
+  "examId": "telc-b2",
+  "type": "speaking-planning",
+  "title": "Willkommenstag für neue Kollegen",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "situation": "Sie arbeiten beide bei der Firma Velomax in Freiburg, einem Hersteller von Antrieben für E-Bikes. Im Oktober fangen zwölf neue Mitarbeiterinnen und Mitarbeiter an, vier von ihnen kommen aus dem Ausland und sprechen noch nicht so gut Deutsch. Bisher wurden neue Kolleginnen und Kollegen am ersten Tag einfach an ihren Arbeitsplatz gesetzt, was oft zu Frust geführt hat. Die Geschäftsführung hat Sie gebeten, für den ersten Arbeitstag einen Willkommenstag zu planen.",
+  "checklist": [
+    "Ablauf des Tages",
+    "Begrüßung und Kennenlernen",
+    "Arbeitsplatz und Technik",
+    "Ansprechpersonen für die ersten Wochen",
+    "Unterstützung für Kolleginnen und Kollegen aus dem Ausland",
+    "Begrüßungsgeschenk",
+    "Wer übernimmt welche Aufgabe?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Thandiwe Ndlovu", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Mikko Aaltonen", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Mikko, du weißt ja, dass im Oktober zwölf Neue bei uns anfangen. Ich würde vorschlagen, dass wir den Tag mit einer Begrüßung durch die Geschäftsführung beginnen, damit sich alle gleich willkommen fühlen." },
+    { "s": "B", "t": "Grundsätzlich ja, aber bitte kurz. Ich gebe zu bedenken, dass niemand am ersten Morgen eine Stunde lang Folien mit Umsatzzahlen sehen möchte." },
+    { "s": "A", "t": "Da hast du völlig recht. Was hältst du davon, wenn Herr Dornbusch nur zehn Minuten spricht und sich danach alle Neuen kurz vorstellen, vielleicht mit einer lockeren Frage wie: Was war dein erster Job?" },
+    { "s": "B", "t": "Das lockert die Stimmung auf, ja. Danach würde ich gleich einen Rundgang durch das Werk machen, denn viele verstehen erst dann, was wir hier eigentlich herstellen." },
+    { "s": "A", "t": "Einverstanden, aber ein Rundgang durch die Fertigung mit zwölf Leuten ist ziemlich laut und unübersichtlich, oder? Wäre es nicht sinnvoller, zwei Gruppen zu bilden?" },
+    { "s": "B", "t": "Doch, zumal man in der Halle Sicherheitsschuhe tragen muss und wir nicht genug Besucherschuhe für alle gleichzeitig haben. Die andere Gruppe könnte währenddessen ihre Laptops einrichten." },
+    { "s": "A", "t": "Gute Idee. Allerdings müssen Laptops und Zugänge dann wirklich fertig sein, und das hat beim letzten Mal überhaupt nicht geklappt. Eine neue Kollegin hat damals drei Tage ohne eigene E-Mail-Adresse gearbeitet." },
+    { "s": "B", "t": "Davon habe ich gehört, das war wirklich peinlich. Ich spreche mit der EDV-Abteilung und bitte darum, dass alle Geräte spätestens eine Woche vorher bereitstehen." },
+    { "s": "A", "t": "Danke. Mittags sollten alle zusammen in der Kantine essen, am besten mit ihren Paten. Mir ist es nämlich wichtig, dass jede neue Person für die ersten Wochen eine feste Ansprechperson aus dem eigenen Team bekommt." },
+    { "s": "B", "t": "Die Idee mit den Paten finde ich im Prinzip richtig. Ich befürchte nur, dass die Kollegen in der Fertigung das als zusätzliche Belastung empfinden, weil sie ohnehin schon unter Zeitdruck stehen." },
+    { "s": "A", "t": "Das kann ich nachvollziehen. Wie wäre es, wenn wir nur Freiwillige fragen und ihnen für die Patenschaft offiziell zwei Stunden pro Woche als Arbeitszeit anrechnen?" },
+    { "s": "B", "t": "Unter der Bedingung, dass die Abteilungsleiter das wirklich mittragen, bin ich dabei. Sonst bleibt am Ende doch alles an den Paten hängen." },
+    { "s": "A", "t": "Das kläre ich mit der Geschäftsführung. Was mir außerdem durch den Kopf geht, sind die vier Kollegen aus dem Ausland: Sollten wir den Tag nicht teilweise auf Englisch gestalten?" },
+    { "s": "B", "t": "Ich würde eher bei Deutsch bleiben, denn Deutsch ist unsere Arbeitssprache, und sie sollen sich ja schnell zurechtfinden. Wir könnten aber langsam und deutlich sprechen und die wichtigsten Unterlagen zweisprachig verteilen." },
+    { "s": "A", "t": "Das ist ein guter Mittelweg. Außerdem würde ich am Nachmittag eine Sprechstunde der Personalabteilung anbieten, weil viele noch Fragen zur Wohnungssuche, zum Bankkonto oder zur Anmeldung bei der Stadt haben." },
+    { "s": "B", "t": "Das wäre eine echte Hilfe, so etwas hätte ich mir bei meinem eigenen Start in Deutschland gewünscht. Und wie sieht es mit einem Begrüßungsgeschenk aus? Bisher gab es nur einen Kugelschreiber mit Firmenlogo." },
+    { "s": "A", "t": "Ich hätte an eine Tasche mit nützlichen Dingen gedacht, zum Beispiel mit einer Trinkflasche, einem Gutschein für die Kantine und einem Stadtplan mit unseren persönlichen Tipps für Freiburg." },
+    { "s": "B", "t": "Schön, aber wir bauen doch Antriebe für E-Bikes. Wie fändest du es, wenn jeder Neue für ein Wochenende eines unserer Testräder ausleihen dürfte? Das kostet uns fast nichts und bleibt bestimmt in Erinnerung." },
+    { "s": "A", "t": "Das gefällt mir sehr! Dann halten wir fest: Wir beginnen um neun Uhr mit einer kurzen Begrüßung und einer Vorstellungsrunde, danach folgen in zwei Gruppen der Rundgang und die Einrichtung der Laptops." },
+    { "s": "B", "t": "Mittags essen alle mit ihren Paten in der Kantine, und am Nachmittag bietet die Personalabteilung eine Sprechstunde an. Ich kümmere mich um die Technik, die Sicherheitsschuhe und die Testräder." },
+    { "s": "A", "t": "Und ich spreche mit der Geschäftsführung über die Paten, suche Freiwillige und stelle die Willkommenstasche und die zweisprachigen Unterlagen zusammen. Nach vier Wochen fragen wir die Neuen dann, was wir beim nächsten Mal besser machen können." }
+  ],
+  "phrases": [
+    { "de": "Ich würde vorschlagen, dass …", "en": "I'd suggest that …" },
+    { "de": "Grundsätzlich ja, aber bitte …", "en": "Basically yes, but please …" },
+    { "de": "Ich gebe zu bedenken, dass …", "en": "I'd point out that … / Bear in mind that …" },
+    { "de": "Was hältst du davon, wenn …?", "en": "What do you think about …? / How about …?" },
+    { "de": "Wäre es nicht sinnvoller, …?", "en": "Wouldn't it make more sense to …?" },
+    { "de": "Die Idee finde ich im Prinzip richtig. Ich befürchte nur, dass …", "en": "In principle I think the idea is right. I'm just afraid that …" },
+    { "de": "Das kann ich nachvollziehen.", "en": "I can understand that." },
+    { "de": "Unter der Bedingung, dass …, bin ich dabei.", "en": "I'm in, on condition that …" },
+    { "de": "Was mir außerdem durch den Kopf geht, …", "en": "Something else that's on my mind …" },
+    { "de": "Das ist ein guter Mittelweg.", "en": "That's a good middle way." },
+    { "de": "Dann halten wir fest: …", "en": "So let's record what we've agreed: …" }
+  ],
+  "vocabulary": [
+    { "de": "der Willkommenstag", "en": "welcome day (onboarding day)" },
+    { "de": "die Geschäftsführung", "en": "(executive) management" },
+    { "de": "die Vorstellungsrunde", "en": "round of introductions" },
+    { "de": "der Rundgang durch das Werk", "en": "tour of the plant" },
+    { "de": "die Fertigung", "en": "production, manufacturing" },
+    { "de": "die Sicherheitsschuhe (Plural)", "en": "safety shoes" },
+    { "de": "der Zugang", "en": "access, login (to a computer system)" },
+    { "de": "der Pate / die Patin", "en": "mentor, buddy (for a new colleague)" },
+    { "de": "die Ansprechperson", "en": "contact person" },
+    { "de": "als Arbeitszeit anrechnen", "en": "to count as working time" },
+    { "de": "die Arbeitssprache", "en": "working language" },
+    { "de": "zweisprachig", "en": "bilingual" }
+  ]
+}

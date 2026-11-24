@@ -1,0 +1,62 @@
+{
+  "id": "schreiben-19",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Falsches Auto, teure Rechnung",
+  "topic": "reisen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie haben bei der Autovermietung Falkner für ein verlängertes Wochenende einen Kombi gemietet, weil Sie mit Ihrer Familie an die Ostsee fahren wollten. Bei der Abholung und später bei der Abrechnung gab es jedoch mehrere Probleme. Schreiben Sie eine Beschwerde an die Autovermietung Falkner.",
+  "stimulus": {
+    "kind": "ad",
+    "subject": "Autovermietung Falkner – entspannt ans Ziel",
+    "body": "Ob Wochenendausflug oder Familienurlaub – bei uns finden Sie das passende Fahrzeug zum fairen Preis.\n\n• Kombis und Vans für die ganze Familie ab 49 € pro Tag\n• Ihr reserviertes Modell ist garantiert – andernfalls erhalten Sie ohne Aufpreis ein größeres Fahrzeug\n• Transparente Preise: Vollkaskoversicherung, unbegrenzte Kilometer und ein Zusatzfahrer sind immer inklusive\n• Kindersitze auf Wunsch kostenlos\n• Schnelle Übergabe ohne Wartezeit direkt am Hauptbahnhof Bremen\n\nBuchung und Service: www.falkner-mietwagen.de · Tel. 0421 9387 44 · service@falkner-mietwagen.de"
+  },
+  "leitpunkte": [
+    "Beschreiben Sie, was bei der Abholung des Fahrzeugs passiert ist.",
+    "Legen Sie dar, welche zusätzlichen Kosten Ihnen in Rechnung gestellt wurden.",
+    "Erläutern Sie, welche Folgen die Probleme für Ihre Reise hatten.",
+    "Erklären Sie, was Sie von der Autovermietung erwarten."
+  ],
+  "model": {
+    "subject": "Beschwerde zum Mietvertrag Nr. 58213 – falsches Fahrzeug und unberechtigte Zusatzkosten",
+    "text": "Sehr geehrte Damen und Herren,\n\nvom 2. bis 5. Oktober habe ich bei Ihnen einen Kombi gemietet (Mietvertrag Nr. 58213). Leider war ich mit Ihrem Service in mehreren Punkten so unzufrieden, dass ich mich hiermit beschweren möchte.\n\nBei der Abholung am Hauptbahnhof Bremen musste ich zunächst fast eine Stunde warten, obwohl Sie eine schnelle Übergabe ohne Wartezeit versprechen. Anschließend teilte mir Ihr Mitarbeiter mit, dass der reservierte Kombi nicht verfügbar sei. Statt eines größeren Fahrzeugs bekam ich jedoch einen Kleinwagen, in dem kaum Platz für unser Gepäck und den Kindersitz war.\n\nNoch mehr geärgert habe ich mich über die Abrechnung. Von meiner Kreditkarte wurden nicht nur 45 Euro für einen Zusatzfahrer, sondern auch 60 Euro für eine angebliche Sonderreinigung abgebucht. Laut Ihrer Anzeige ist ein Zusatzfahrer jedoch immer inklusive. Außerdem habe ich den Wagen sauber zurückgegeben, was im Rückgabeprotokoll ausdrücklich vermerkt wurde.\n\nDeshalb erwarte ich, dass Sie mir die zu Unrecht berechneten 105 Euro umgehend erstatten. Darüber hinaus wäre ich Ihnen dankbar, wenn Sie mir einen Teil des Mietpreises zurückzahlen würden, denn schließlich habe ich für einen Kombi bezahlt und nur einen Kleinwagen erhalten.\n\nIch hoffe auf eine baldige Antwort und eine faire Lösung.\n\nMit freundlichen Grüßen\nLucía Herrera"
+  },
+  "modelNotes": [
+    "The model covers three points: what happened at pick-up (point 1), the extra charges (point 2) and what the writer expects (point 4). The consequences for the trip (point 3) are only hinted at („kaum Platz für unser Gepäck“) – three developed points are enough.",
+    "Each point has several sentences and is compared with a concrete promise of the ad: „obwohl Sie eine schnelle Übergabe ohne Wartezeit versprechen“, „Laut Ihrer Anzeige ist ein Zusatzfahrer jedoch immer inklusive“. That is what makes a complaint convincing.",
+    "The introduction gives the dates and the contract number, so the company can find the booking at once, and states the purpose: „dass ich mich hiermit beschweren möchte“.",
+    "B2 structures: reported speech in Konjunktiv I („dass der reservierte Kombi nicht verfügbar sei“), „nicht nur … sondern auch“, passive („wurden … abgebucht“, „vermerkt wurde“), a polite request in Konjunktiv II („wäre ich Ihnen dankbar, wenn …“).",
+    "The tone is firm but polite: the demand is clear („Deshalb erwarte ich, dass …“) without insults or exaggeration."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: was bei der Abholung passiert ist (Punkt 1), die Zusatzkosten (Punkt 2) und was die Schreiberin erwartet (Punkt 4). Die Folgen für die Reise (Punkt 3) werden nur kurz angedeutet („kaum Platz für unser Gepäck“) – drei ausgeführte Punkte reichen.",
+    "Jeder Punkt hat mehrere Sätze und wird mit einem konkreten Versprechen der Anzeige verglichen: „obwohl Sie eine schnelle Übergabe ohne Wartezeit versprechen“, „Laut Ihrer Anzeige ist ein Zusatzfahrer jedoch immer inklusive“. Genau das macht eine Beschwerde überzeugend.",
+    "Die Einleitung nennt die Daten und die Vertragsnummer, damit die Firma die Buchung sofort findet, und sagt, worum es geht: „dass ich mich hiermit beschweren möchte“.",
+    "B2-Strukturen: indirekte Rede im Konjunktiv I („dass der reservierte Kombi nicht verfügbar sei“), „nicht nur … sondern auch“, Passiv („wurden … abgebucht“, „vermerkt wurde“), eine höfliche Bitte im Konjunktiv II („wäre ich Ihnen dankbar, wenn …“).",
+    "Der Ton ist bestimmt, aber höflich: Die Forderung ist klar („Deshalb erwarte ich, dass …“), ohne Beleidigungen oder Übertreibungen."
+  ],
+  "phrases": [
+    { "de": "Leider war ich mit Ihrem Service in mehreren Punkten unzufrieden.", "en": "Unfortunately I was dissatisfied with your service in several respects." },
+    { "de": "Hiermit möchte ich mich über … beschweren.", "en": "I am writing to complain about …" },
+    { "de": "…, obwohl Sie in Ihrer Anzeige … versprechen.", "en": "…, although you promise … in your ad." },
+    { "de": "Statt eines größeren Fahrzeugs bekam ich …", "en": "Instead of a larger vehicle I got …" },
+    { "de": "Von meiner Kreditkarte wurden … Euro für … abgebucht.", "en": "… euros were charged to my credit card for …" },
+    { "de": "Laut Ihrer Anzeige ist … inklusive.", "en": "According to your ad, … is included." },
+    { "de": "Das wurde im Rückgabeprotokoll ausdrücklich vermerkt.", "en": "This was explicitly noted in the return report." },
+    { "de": "Ich erwarte, dass Sie mir den Betrag umgehend erstatten.", "en": "I expect you to refund the amount immediately." },
+    { "de": "Ich wäre Ihnen dankbar, wenn Sie …", "en": "I would be grateful if you …" },
+    { "de": "Ich hoffe auf eine baldige Antwort und eine faire Lösung.", "en": "I hope for a prompt reply and a fair solution." }
+  ],
+  "glossary": [
+    { "de": "der Kombi", "en": "estate car, station wagon" },
+    { "de": "die Abholung", "en": "pick-up, collection" },
+    { "de": "der Zusatzfahrer", "en": "additional driver" },
+    { "de": "die Vollkaskoversicherung", "en": "fully comprehensive insurance" },
+    { "de": "ohne Aufpreis", "en": "at no extra charge" },
+    { "de": "etwas abbuchen", "en": "to debit, to charge (an account or card)" },
+    { "de": "das Rückgabeprotokoll", "en": "return report (signed when you return the car)" },
+    { "de": "zu Unrecht", "en": "wrongly, unjustly" }
+  ]
+}

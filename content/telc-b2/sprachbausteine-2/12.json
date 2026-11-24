@@ -1,0 +1,108 @@
+{
+  "id": "sprachbausteine-2-12",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Künstliche Intelligenz in der medizinischen Diagnostik",
+  "topic": "technik",
+  "difficulty": 3,
+  "textType": "article",
+  "text": "Der Algorithmus als zweites Augenpaar: Wie Künstliche Intelligenz die Diagnostik verändert\n\nOb Lungenröntgen, Hautkrebsvorsorge oder Untersuchungen des Augenhintergrunds: Software, die medizinische Aufnahmen auswertet, kommt in Kliniken und Arztpraxen zunehmend zum [[1]]. Die Programme lernen [[2]] Hunderttausender bereits fachärztlich beurteilter Bilder, charakteristische Muster krankhafter Veränderungen zu erkennen. Mehrere Vergleichsstudien deuten darauf hin, dass einzelne Systeme Brustkrebs auf Mammografien [[3]] zuverlässig entdecken wie erfahrene Radiologinnen und Radiologen und gelegentlich sogar winzige Auffälligkeiten aufspüren, die dem menschlichen Auge [[4]]. Gerade bei der Früherkennung kann das entscheidend sein, denn je früher ein Tumor entdeckt wird, desto besser stehen die Heilungschancen.\n\nDass Ärztinnen und Ärzte dadurch überflüssig werden, befürchten Fachleute dennoch nicht. Die Software soll die Medizinerinnen und Mediziner nicht ersetzen. [[5]] soll sie ihnen zeitraubende Routinearbeit abnehmen, damit mehr Zeit für das Gespräch mit den Patientinnen und Patienten bleibt. Die Leipziger Radiologin Katharina Wendel hält die Technik [[6]] für vielversprechend, als sie vor allem in unterversorgten ländlichen Regionen die Wartezeit auf einen Befund erheblich verkürzen könnte.\n\nAllerdings sind die Systeme nur so verlässlich wie die Daten, mit denen sie trainiert wurden. Sind diese nicht [[7]] für die gesamte Bevölkerung, weil sie etwa überwiegend von hellhäutigen Patienten mittleren Alters stammen, steigt die Fehlerquote bei anderen Gruppen deutlich an. Ein weiteres Problem: Viele Programme können nicht nachvollziehbar begründen, wie sie zu ihrem Ergebnis gelangt sind. Ungeklärt ist zudem, wer rechtlich für eine Fehldiagnose [[8]], die auf einer fehlerhaften Empfehlung der Software beruht: die behandelnde Ärztin, die Klinik oder der Hersteller?\n\n[[9]] aller technischen Fortschritte sind sich die medizinischen Fachgesellschaften deshalb weitgehend einig: Ein Algorithmus dürfe allenfalls Hinweise liefern, nicht aber das letzte Wort haben. Die endgültige Verantwortung für Diagnose und Therapie müsse auch künftig in den [[10]] eines Menschen liegen.",
+  "words": [
+    { "key": "a", "text": "anhand" },
+    { "key": "b", "text": "Ausdruck" },
+    { "key": "c", "text": "ebenso" },
+    { "key": "d", "text": "Einsatz" },
+    { "key": "e", "text": "entfallen" },
+    { "key": "f", "text": "entgehen" },
+    { "key": "g", "text": "haftet" },
+    { "key": "h", "text": "Händen" },
+    { "key": "i", "text": "insofern" },
+    { "key": "j", "text": "inwiefern" },
+    { "key": "k", "text": "repräsentativ" },
+    { "key": "l", "text": "sondern" },
+    { "key": "m", "text": "ungeachtet" },
+    { "key": "n", "text": "verantwortlich" },
+    { "key": "o", "text": "vielmehr" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "d",
+      "explanation": "„zum Einsatz kommen“ (to be used, to be put into practice) is a fixed noun-verb combination: the software is used more and more in clinics and practices. „Ausdruck“ is the trap: „zum Ausdruck kommen“ means „to be expressed“ (a feeling, an opinion), not „to be used“.",
+      "explanationDe": "„zum Einsatz kommen“ (= eingesetzt, benutzt werden) ist eine feste Nomen-Verb-Verbindung: Die Software wird in Kliniken und Praxen immer öfter benutzt. „Ausdruck“ ist die Falle: „zum Ausdruck kommen“ bedeutet „gezeigt, ausgedrückt werden“ (ein Gefühl, eine Meinung), nicht „benutzt werden“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 2,
+      "answer": "a",
+      "explanation": "„anhand“ + genitive (on the basis of, by means of) names the material the programs learn from: „anhand Hunderttausender … beurteilter Bilder“ (genitive plural). „ungeachtet“ also takes the genitive, but it means „regardless of“, which makes no sense for learning material.",
+      "explanationDe": "„anhand“ + Genitiv (= mit Hilfe von, auf der Grundlage von) nennt das Material, mit dem die Programme lernen: „anhand Hunderttausender … beurteilter Bilder“ (Genitiv Plural). „ungeachtet“ steht auch mit Genitiv, bedeutet aber „ohne Rücksicht auf“ – das passt nicht zu Lernmaterial.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 3,
+      "answer": "c",
+      "explanation": "„ebenso … wie“ (just as … as) compares two equal things: some systems find breast cancer as reliably as experienced radiologists. The „wie“ after the gap is the signal; „vielmehr“ and „insofern“ cannot form a comparison with „wie“.",
+      "explanationDe": "„ebenso … wie“ vergleicht zwei gleiche Dinge: Manche Systeme finden Brustkrebs genauso zuverlässig wie erfahrene Radiologen. Das „wie“ nach der Lücke ist das Signal; mit „vielmehr“ und „insofern“ kann man keinen Vergleich mit „wie“ bilden."
+    },
+    {
+      "n": 4,
+      "answer": "f",
+      "explanation": "„jemandem entgehen“ (to escape someone's notice) takes the dative: „die dem menschlichen Auge entgehen“ – tiny findings that the human eye misses. „entfallen“ is the trap: „etwas entfällt jemandem“ means „someone forgets something“ (or „something is cancelled“), which does not fit an eye looking at an image.",
+      "explanationDe": "„jemandem entgehen“ (= von jemandem nicht bemerkt werden) steht mit Dativ: „die dem menschlichen Auge entgehen“ – winzige Befunde, die das Auge nicht sieht. „entfallen“ ist die Falle: „etwas entfällt jemandem“ heißt „jemand vergisst etwas“ (oder „etwas fällt aus“) – das passt nicht zu einem Auge, das ein Bild ansieht."
+    },
+    {
+      "n": 5,
+      "answer": "o",
+      "explanation": "„vielmehr“ (rather, instead) corrects the negative statement before it: not replace the doctors – rather, relieve them of routine work. As an adverb it fills position 1, so the verb „soll“ follows directly. „sondern“ is the trap: it means the same, but it is a conjunction outside the clause („sondern sie soll …“) and cannot be followed directly by the verb.",
+      "explanationDe": "„vielmehr“ (= im Gegenteil, eher) korrigiert die verneinte Aussage davor: Die Software soll die Ärzte nicht ersetzen, sondern ihnen Routinearbeit abnehmen. Als Adverb steht es auf Position 1, deshalb folgt direkt das Verb „soll“. „sondern“ ist die Falle: Es bedeutet dasselbe, ist aber eine Konjunktion auf Position 0 („sondern sie soll …“) – das Verb kann nicht direkt folgen.",
+      "grammar": "adversative-saetze"
+    },
+    {
+      "n": 6,
+      "answer": "i",
+      "explanation": "„insofern … als“ (in so far as, in that) – the als-clause explains in which respect the technology is promising: it could shorten waiting times in rural areas. „inwiefern“ is the trap: it asks „to what extent?“ and introduces (indirect) questions, so it cannot be combined with „als“.",
+      "explanationDe": "„insofern … als“ (= in der Hinsicht, dass) – der als-Satz erklärt, warum die Technik vielversprechend ist: Sie könnte auf dem Land die Wartezeiten verkürzen. „inwiefern“ ist die Falle: Es fragt „in welchem Maß?“ und leitet (indirekte) Fragen ein – mit „als“ kann man es nicht verbinden.",
+      "grammar": "korrelate"
+    },
+    {
+      "n": 7,
+      "answer": "k",
+      "explanation": "„repräsentativ für“ (representative of) – training data must reflect the whole population; the weil-clause gives an example of data that do not. „verantwortlich für“ has the same preposition, but data cannot be „responsible for“ the population.",
+      "explanationDe": "„repräsentativ für“ (= ein richtiges Bild von etwas geben) – die Trainingsdaten müssen die ganze Bevölkerung abbilden; der weil-Satz nennt ein Beispiel für Daten, die das nicht tun. „verantwortlich für“ hat dieselbe Präposition, aber Daten können nicht für die Bevölkerung „verantwortlich“ sein.",
+      "grammar": "adjektive-mit-praepositionen-b2"
+    },
+    {
+      "n": 8,
+      "answer": "g",
+      "explanation": "„für etwas haften“ (to be legally liable for something) – the open question is who pays for a wrong diagnosis. The clause „wer … für eine Fehldiagnose …“ still needs its finite verb at the end. „verantwortlich“ is the trap: „verantwortlich ist“ would fit, but without „ist“ the clause has no verb.",
+      "explanationDe": "„für etwas haften“ (= rechtlich verantwortlich sein und für den Schaden zahlen) – offen ist, wer bei einer Fehldiagnose haftet. Der Nebensatz „wer … für eine Fehldiagnose …“ braucht am Ende noch sein konjugiertes Verb. „verantwortlich“ ist die Falle: „verantwortlich ist“ würde passen, aber ohne „ist“ hat der Satz kein Verb.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 9,
+      "answer": "m",
+      "explanation": "„ungeachtet“ + genitive (regardless of, despite) is concessive: in spite of all the technical progress, which would suggest giving machines more say, the final decision stays with a human. „anhand“ also takes the genitive, but „on the basis of all progress“ contradicts the conclusion.",
+      "explanationDe": "„ungeachtet“ + Genitiv (= trotz) ist konzessiv: Trotz aller technischen Fortschritte, die eigentlich für mehr Maschinen-Entscheidungen sprechen, bleibt die letzte Entscheidung beim Menschen. „anhand“ steht auch mit Genitiv, aber „auf der Grundlage aller Fortschritte“ widerspricht der Schlussfolgerung.",
+      "grammar": "konzessive-saetze-b2"
+    },
+    {
+      "n": 10,
+      "answer": "h",
+      "explanation": "„in jemandes Händen liegen“ (to be in someone's hands) – the final responsibility must stay with a human being. The dative plural „in den …“ fits „Händen“; no other noun in the box completes this idiom.",
+      "explanationDe": "„in jemandes Händen liegen“ (= jemand ist dafür verantwortlich) – die letzte Verantwortung muss bei einem Menschen bleiben. Der Dativ Plural „in den …“ passt zu „Händen“; kein anderes Nomen im Kasten ergänzt diese Wendung."
+    }
+  ],
+  "glossary": [
+    { "de": "zum Einsatz kommen", "en": "to be used, to be deployed" },
+    { "de": "anhand (+ Gen.)", "en": "on the basis of, by means of" },
+    { "de": "die Auffälligkeit", "en": "abnormality, conspicuous finding" },
+    { "de": "jemandem entgehen", "en": "to escape someone's notice" },
+    { "de": "insofern … als", "en": "in so far as, in that" },
+    { "de": "der Befund", "en": "(medical) findings, test result" },
+    { "de": "repräsentativ für", "en": "representative of" },
+    { "de": "für etwas haften", "en": "to be liable for something" },
+    { "de": "ungeachtet (+ Gen.)", "en": "regardless of, despite" },
+    { "de": "das letzte Wort haben", "en": "to have the final say" }
+  ]
+}

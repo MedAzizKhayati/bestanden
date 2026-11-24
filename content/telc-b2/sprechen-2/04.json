@@ -1,0 +1,106 @@
+{
+  "id": "sprechen-2-04",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Eine Abgabe auf Fleisch",
+  "topic": "essen",
+  "difficulty": 3,
+  "theme": "Sollte Fleisch durch eine staatliche Abgabe teurer werden?",
+  "article": {
+    "headline": "Fünfzig Cent für mehr Tierwohl",
+    "lead": "Eine Expertenkommission schlägt eine Abgabe auf Fleisch vor, deren Einnahmen in den Umbau der Ställe fließen sollen. Befürworter sprechen von einem überfälligen Schritt, Kritiker von einer Belastung einkommensschwacher Haushalte.",
+    "paragraphs": [
+      "Die von der unabhängigen Kommission „Ernährung 2040“ vorgelegten Pläne sehen eine Abgabe von 50 Cent pro Kilogramm Fleisch und Wurst vor, die beim Verkauf an Endkunden erhoben werden soll – unabhängig von der Herkunft der Ware. Nach Berechnungen der Kommission ließen sich so jährlich rund zwei Milliarden Euro einnehmen. Anders als bei Steuern üblich sollen die Mittel zweckgebunden sein: Betriebe, die ihren Tieren mehr Platz, Auslauf und Tageslicht bieten, sollen 20 Jahre lang Zuschüsse für Umbau und laufende Mehrkosten erhalten.",
+      "Begründet wird der Vorstoß mit den sogenannten versteckten Kosten der Tierhaltung. „Die Folgekosten für Klima, Grundwasser und Tiergesundheit trägt bislang die Allgemeinheit, nicht der Kunde an der Kasse“, erklärt die Agrarökonomin Henrike Malz, Mitglied der Kommission. Eine nennenswerte Verringerung des Konsums erwartet sie allerdings nicht: Bei einem durchschnittlichen Kilopreis von neun Euro für Hackfleisch falle der Aufschlag kaum ins Gewicht. Entscheidend sei daher weniger die Lenkungs- als die Finanzierungswirkung.",
+      "Beim Landesbauernverband stößt der Vorschlag auf grundsätzliche Zustimmung, aber auch auf Skepsis. „Ein Stall wird für 25 Jahre gebaut, eine Abgabe kann die nächste Regierung mit einem Federstrich abschaffen“, gibt Verbandspräsident Gerd Ruhland zu bedenken. Ohne verbindliche Finanzierungszusagen werde kaum ein Landwirt investieren. Zudem fordert der Verband eine verpflichtende Herkunftskennzeichnung, damit heimische Erzeugnisse mit höheren Haltungsstandards gegenüber billigerer Importware nicht ins Hintertreffen gerieten.",
+      "Sozialverbände kritisieren vor allem die Verteilungswirkung: Haushalte mit geringem Einkommen wenden einen deutlich größeren Anteil ihres Budgets für Lebensmittel auf und würden überproportional belastet. Die Kommission hält dem entgegen, dass eine vierköpfige Familie mit durchschnittlichem Fleischkonsum mit Mehrkosten von knapp 80 Euro jährlich zu rechnen habe – ein Betrag, der sich durch gezielte Entlastungen ausgleichen lasse.",
+      "Laut einer im Auftrag der Kommission durchgeführten Umfrage befürworten 48 Prozent der Befragten eine solche Abgabe, sofern die Einnahmen nachweislich den Tieren zugutekommen. Flössen sie in den allgemeinen Haushalt, sänke die Zustimmung auf 22 Prozent. Diskutiert wird zudem die Abschaffung des ermäßigten Mehrwertsteuersatzes auf Fleisch, deren Mehreinnahmen allerdings nicht zweckgebunden wären."
+    ],
+    "source": "Allgemeine Wochenzeitung, Wirtschaft und Verbraucher"
+  },
+  "ideas": {
+    "pro": [
+      "der Preis spiegelt endlich einen Teil der wahren Kosten für Klima, Wasser und Tierwohl wider",
+      "zweckgebundenes Geld für den Umbau der Ställe",
+      "Landwirte erhalten finanzielle Unterstützung für höhere Haltungsstandards",
+      "geringer Aufschlag pro Kilo, für die meisten bezahlbar",
+      "mögliche Lenkungswirkung: weniger, aber besseres Fleisch",
+      "geringerer Fleischkonsum wäre auch gut für die Gesundheit"
+    ],
+    "contra": [
+      "belastet einkommensschwache Haushalte überproportional",
+      "staatliche Bevormundung beim Essen",
+      "Zweifel, ob das Geld wirklich bei den Landwirten ankommt",
+      "fehlende Planungssicherheit: eine spätere Regierung kann die Abgabe abschaffen",
+      "Wettbewerbsnachteil gegenüber billigerer Importware",
+      "zusätzlicher Verwaltungsaufwand für Handel und Gastronomie"
+    ]
+  },
+  "questions": [
+    "Welche Aspekte des Artikels halten Sie für besonders wichtig?",
+    "Welche Rolle spielt Fleisch in der Esskultur Ihres Heimatlandes?",
+    "Halten Sie eine solche Abgabe für sozial gerecht? Wie könnte man einkommensschwache Haushalte entlasten?",
+    "Sollte der Staat überhaupt Einfluss darauf nehmen, was die Menschen essen?",
+    "Was wäre aus Ihrer Sicht die bessere Lösung: eine zweckgebundene Abgabe oder eine höhere Mehrwertsteuer auf Fleisch?",
+    "Würden Sie selbst weniger Fleisch kaufen, wenn es deutlich teurer würde?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Priya Nair", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Martín Herrera", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fasse den Artikel kurz zusammen. Eine unabhängige Expertenkommission schlägt vor, auf jedes Kilogramm Fleisch und Wurst eine Abgabe von fünfzig Cent zu erheben. Die Einnahmen von rund zwei Milliarden Euro im Jahr sollen zweckgebunden sein und vor allem in den Umbau der Ställe fließen." },
+    { "s": "A", "t": "Begründet wird das mit den versteckten Kosten der Tierhaltung, etwa für Klima und Grundwasser. Interessant fand ich, dass eine Agrarökonomin selbst nicht erwartet, dass die Menschen deutlich weniger Fleisch essen. Ihr zufolge gehe es vor allem um die Finanzierung und nicht um eine Verhaltensänderung." },
+    { "s": "A", "t": "Kritik kommt vom Bauernverband, der sich langfristige Planungssicherheit wünscht, und von Sozialverbänden, die befürchten, dass ärmere Haushalte überproportional belastet würden." },
+    { "s": "B", "t": "Danke, das war sehr vollständig. Ergänzen möchte ich nur die Umfrage am Ende: Knapp die Hälfte der Befragten wäre für eine Abgabe, aber nur, wenn das Geld nachweislich den Tieren zugutekommt. Sonst sind es nur noch zweiundzwanzig Prozent." },
+    { "s": "A", "t": "Genau dieser Punkt zeigt, finde ich, worum es eigentlich geht, nämlich um Vertrauen. Ich persönlich halte die Abgabe für richtig, vorausgesetzt, das Geld kommt wirklich in den Ställen an. Gemessen an den Schäden, die seine Produktion verursacht, ist Fleisch im Supermarkt einfach zu billig." },
+    { "s": "B", "t": "Da muss ich widersprechen, zumindest teilweise. Ich komme aus Argentinien, und dort ist das gemeinsame Grillen am Sonntag fast so etwas wie ein Ritual. Wenn der Staat über den Preis mitbestimmt, was auf den Tisch kommt, empfinde ich das als Bevormundung." },
+    { "s": "A", "t": "Ich verstehe, dass das ein sensibles Thema ist. Aber von Bevormundung kann man bei fünfzig Cent pro Kilo kaum sprechen. Niemandem wird etwas verboten, es wird lediglich ein Teil der Kosten sichtbar gemacht, den bisher die Allgemeinheit trägt." },
+    { "s": "B", "t": "Für dich mag das wenig sein. Aber denk an eine Rentnerin mit kleiner Rente oder an eine Familie, die jeden Euro zweimal umdrehen muss. Für solche Haushalte macht jeder Aufschlag auf Lebensmittel einen spürbaren Unterschied." },
+    { "s": "A", "t": "Da hast du zwar recht, und das Argument der Sozialverbände nehme ich ernst. Laut Kommission wären es für eine vierköpfige Familie aber knapp achtzig Euro im Jahr, und das ließe sich ausgleichen, zum Beispiel durch eine Rückzahlung an Haushalte mit geringem Einkommen." },
+    { "s": "B", "t": "Theoretisch schon. Nur bezweifle ich, dass so ein Ausgleich unbürokratisch funktionieren würde. Und dann frage ich mich, wie viel von den zwei Milliarden am Ende tatsächlich bei den Landwirten ankommt." },
+    { "s": "A", "t": "Das ist ein berechtigter Einwand. Deshalb müsste gesetzlich festgelegt werden, dass das Geld zweckgebunden ist und nicht im allgemeinen Haushalt verschwindet. Wird eigentlich in Argentinien über die Tierhaltung diskutiert?" },
+    { "s": "B", "t": "Eher am Rande. Viele Rinder stehen bei uns traditionell auf der Weide, deshalb spricht man weniger über Ställe als über Exporte und Preise. In Indien sieht man das Thema wahrscheinlich ganz anders, oder?" },
+    { "s": "A", "t": "Ja, ein beträchtlicher Teil der Bevölkerung isst wenig oder gar kein Fleisch, oft aus religiösen Gründen. Ich bin selbst so aufgewachsen und ernähre mich bis heute fast nur vegetarisch, deshalb bin ich bei diesem Thema vielleicht nicht ganz neutral." },
+    { "s": "B", "t": "Gut, dass du das so offen sagst. Mich überzeugt übrigens das Argument mit der Planungssicherheit am meisten: Ein Landwirt baut einen Stall für Jahrzehnte, aber die nächste Regierung kann die Abgabe einfach wieder abschaffen." },
+    { "s": "A", "t": "Das zeigt, dass es nicht nur um den Preis geht, sondern um verlässliche Politik. Wäre es aus deiner Sicht besser, stattdessen den ermäßigten Mehrwertsteuersatz auf Fleisch abzuschaffen, wie es im Artikel als Alternative erwähnt wird?" },
+    { "s": "B", "t": "Das wäre zwar einfacher umzusetzen, weil man dafür kein neues System bräuchte. Aber dann landet das Geld eben doch im allgemeinen Haushalt, und genau das wollen die Leute laut Umfrage nicht." },
+    { "s": "P", "t": "Sollte der Staat Ihrer Meinung nach überhaupt Einfluss darauf nehmen, was die Menschen essen?" },
+    { "s": "A", "t": "Ich finde, das tut er ohnehin schon, zum Beispiel durch Subventionen für die Landwirtschaft oder eben durch den niedrigeren Mehrwertsteuersatz. Die Frage ist also nicht, ob er Einfluss nimmt, sondern in welche Richtung." },
+    { "s": "B", "t": "Das ist ein interessanter Gedanke, den ich so noch nicht gesehen hatte. Trotzdem wäre es mir lieber, wenn der Staat informieren würde, statt über den Preis zu steuern, etwa durch eine klare Kennzeichnung, wie und wo ein Tier gehalten wurde." },
+    { "s": "A", "t": "Eine Kennzeichnung halte ich auch für unverzichtbar, aber allein reicht sie nicht. Wer wenig Geld hat, greift trotz aller Informationen zum billigsten Angebot. Ohne zusätzliches Geld für die Landwirte ändert sich in den Ställen nichts." },
+    { "s": "B", "t": "Gut, das sehe ich ein. Wenn die Abgabe gesetzlich an den Umbau der Ställe gebunden wäre und ärmere Haushalte einen Ausgleich bekämen, könnte ich mich damit anfreunden." },
+    { "s": "A", "t": "Und dazu eine verpflichtende Herkunftskennzeichnung, damit heimische Betriebe mit höheren Standards nicht gegen billige Importware verlieren. Dann hätten wir, glaube ich, einen ziemlich ausgewogenen Vorschlag." },
+    { "s": "B", "t": "Einverstanden. Ganz überzeugt bin ich zwar noch nicht, dass das in der Praxis so reibungslos funktioniert, aber als Kompromiss halte ich es für vertretbar." },
+    { "s": "A", "t": "Mehr kann man von einem Kompromiss wohl nicht verlangen. Halten wir also fest: eine zweckgebundene Abgabe mit sozialem Ausgleich, einer langfristigen Finanzierungszusage und einer klaren Kennzeichnung." }
+  ],
+  "phrases": [
+    { "de": "Begründet wird das mit …", "en": "The justification given is …" },
+    { "de": "Ihr zufolge gehe es vor allem um …", "en": "According to her, it is mainly about … (reported speech)" },
+    { "de": "Ergänzen möchte ich nur …", "en": "I'd just like to add …" },
+    { "de": "Ich halte … für richtig, vorausgesetzt, …", "en": "I think … is right, provided that …" },
+    { "de": "Da muss ich widersprechen, zumindest teilweise.", "en": "I have to disagree there, at least partly." },
+    { "de": "Von … kann man kaum sprechen.", "en": "You can hardly call it …" },
+    { "de": "Das Argument … nehme ich ernst.", "en": "I take the argument … seriously." },
+    { "de": "Theoretisch schon. Nur bezweifle ich, dass …", "en": "In theory, yes. But I doubt that …" },
+    { "de": "Die Frage ist also nicht, ob …, sondern …", "en": "So the question is not whether …, but …" },
+    { "de": "Das ist ein interessanter Gedanke, den ich so noch nicht gesehen hatte.", "en": "That's an interesting thought I hadn't considered." },
+    { "de": "Damit könnte ich mich anfreunden.", "en": "I could come round to that." },
+    { "de": "Halten wir also fest: …", "en": "So let's sum up what we agree on: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Abgabe", "en": "levy, charge" },
+    { "de": "zweckgebunden", "en": "earmarked (for a specific purpose)" },
+    { "de": "das Tierwohl", "en": "animal welfare" },
+    { "de": "die Lenkungswirkung", "en": "steering effect (on behaviour)" },
+    { "de": "die Planungssicherheit", "en": "planning certainty" },
+    { "de": "einkommensschwache Haushalte", "en": "low-income households" },
+    { "de": "überproportional belasten", "en": "to burden disproportionately" },
+    { "de": "die Herkunftskennzeichnung", "en": "labelling of origin" },
+    { "de": "der ermäßigte Mehrwertsteuersatz", "en": "reduced VAT rate" },
+    { "de": "die Bevormundung", "en": "paternalism" },
+    { "de": "ins Gewicht fallen", "en": "to carry weight, to make a difference" },
+    { "de": "ins Hintertreffen geraten", "en": "to fall behind, to lose out" }
+  ]
+}

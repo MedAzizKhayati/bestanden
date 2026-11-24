@@ -1,0 +1,117 @@
+{
+  "id": "hoeren-1-06",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Donauwelle: Nachrichten am Mittag",
+  "topic": "kultur",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "sprecherin", "name": "Theresa Haslinger", "gender": "f", "age": "adult", "role": "Nachrichtensprecherin" },
+    { "id": "wetter", "gender": "m", "age": "adult", "role": "Wettermoderator" }
+  ],
+  "intro": [
+    { "s": "sprecherin", "t": "Hier ist die Donauwelle mit den Nachrichten um zwölf Uhr. Im Studio begrüßt Sie Theresa Haslinger." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: Bürgerbudget in Steyr",
+      "script": [
+        { "s": "sprecherin", "t": "Steyr: Die Bürgerinnen und Bürger dürfen heuer erstmals selbst mitbestimmen, wofür die Stadt einen Teil ihres Geldes ausgibt." },
+        { "s": "sprecherin", "t": "Insgesamt 500.000 Euro stehen für Projekte in den Stadtteilen bereit, etwa für Spielplätze, Sitzbänke oder Radwege. Vorschläge kann jeder einreichen, der in Steyr wohnt und mindestens sechzehn Jahre alt ist." },
+        { "s": "sprecherin", "t": "Der Gemeinderat prüft lediglich, ob die Ideen rechtlich und finanziell machbar sind. Welche davon tatsächlich umgesetzt werden, entscheidet die Bevölkerung im Mai in einer Online-Abstimmung." }
+      ],
+      "statement": "In Steyr entscheiden in diesem Jahr die Einwohner selbst, wofür ein Teil des städtischen Geldes verwendet wird.",
+      "answer": true,
+      "explanation": "The council only checks whether the ideas are feasible; „Welche davon tatsächlich umgesetzt werden, entscheidet die Bevölkerung im Mai in einer Online-Abstimmung.“ So the residents themselves decide how the money is spent. The trap is the „Gemeinderat“ – it does not choose the projects.",
+      "explanationDe": "Der Gemeinderat prüft nur, ob die Ideen machbar sind. „Welche davon tatsächlich umgesetzt werden, entscheidet die Bevölkerung im Mai in einer Online-Abstimmung.“ Die Einwohner entscheiden also selbst, wofür das Geld verwendet wird. Die Falle ist der „Gemeinderat“ – er wählt die Projekte nicht aus.",
+      "evidence": "Welche davon tatsächlich umgesetzt werden, entscheidet die Bevölkerung im Mai in einer Online-Abstimmung."
+    },
+    {
+      "n": 2,
+      "label": "Meldung: schlechte Marillenernte in der Wachau",
+      "script": [
+        { "s": "sprecherin", "t": "Krems: Die Marillenbauern in der Wachau erwarten heuer die schlechteste Ernte seit mehr als zwanzig Jahren." },
+        { "s": "sprecherin", "t": "Schuld ist diesmal nicht die Trockenheit wie im vergangenen Sommer, sondern der Frost: Mehrere eiskalte Nächte Anfang April haben einen Großteil der Blüten zerstört." },
+        { "s": "sprecherin", "t": "Nach Schätzungen des Obstbauverbands dürfte nur etwa ein Viertel der üblichen Menge geerntet werden. Die Preise für Wachauer Marillen werden daher deutlich steigen." },
+        { "s": "sprecherin", "t": "Das Land hat den betroffenen Betrieben eine Soforthilfe zugesagt." }
+      ],
+      "statement": "Die Marillenbauern erwarten eine schwache Ernte, weil es auch heuer wieder viel zu trocken war.",
+      "answer": false,
+      "explanation": "Drought was last summer's problem; this year it is frost: „Schuld ist diesmal nicht die Trockenheit wie im vergangenen Sommer, sondern der Frost“. Ice-cold nights in early April destroyed most of the blossoms.",
+      "explanationDe": "Die Trockenheit war das Problem im letzten Sommer, heuer ist es der Frost: „Schuld ist diesmal nicht die Trockenheit wie im vergangenen Sommer, sondern der Frost“. Eiskalte Nächte Anfang April haben die meisten Blüten zerstört.",
+      "evidence": "Schuld ist diesmal nicht die Trockenheit wie im vergangenen Sommer, sondern der Frost"
+    },
+    {
+      "n": 3,
+      "label": "Meldung: Busunfall auf der Westautobahn",
+      "script": [
+        { "s": "sprecherin", "t": "Auf der Westautobahn bei Melk ist heute früh ein Reisebus mit einer Schulklasse aus Wels von der Fahrbahn abgekommen und in eine Böschung gestürzt." },
+        { "s": "sprecherin", "t": "Die 24 Schülerinnen und Schüler sowie ihre beiden Lehrerinnen kamen nach Angaben der Polizei mit leichten Verletzungen und dem Schrecken davon." },
+        { "s": "sprecherin", "t": "Der Fahrer wurde mit dem Hubschrauber ins Krankenhaus gebracht. Er dürfte am Steuer einen Schwächeanfall erlitten haben." },
+        { "s": "sprecherin", "t": "Die Westautobahn war in Richtung Wien rund drei Stunden lang gesperrt." }
+      ],
+      "statement": "Die Kinder und ihre Begleiterinnen haben den Unfall mit dem Reisebus ohne schwere Verletzungen überstanden.",
+      "answer": true,
+      "explanation": "The pupils and their two teachers „kamen … mit leichten Verletzungen und dem Schrecken davon“ – nobody in the class was seriously hurt. Only the driver was flown to hospital, after a sudden fainting spell at the wheel.",
+      "explanationDe": "Die Schüler und ihre beiden Lehrerinnen „kamen … mit leichten Verletzungen und dem Schrecken davon“ – niemand aus der Klasse wurde schwer verletzt. Nur der Fahrer kam mit dem Hubschrauber ins Krankenhaus, weil er am Steuer einen Schwächeanfall hatte.",
+      "evidence": "kamen nach Angaben der Polizei mit leichten Verletzungen und dem Schrecken davon"
+    },
+    {
+      "n": 4,
+      "label": "Meldung: römischer Fund in Tulln",
+      "script": [
+        { "s": "sprecherin", "t": "Tulln: Bei Bauarbeiten für eine Tiefgarage im Stadtzentrum sind Archäologen auf die Reste eines römischen Badehauses gestoßen. Die Grabungsleiterin spricht von einem der bedeutendsten Funde in Niederösterreich seit Jahrzehnten." },
+        { "s": "sprecherin", "t": "Gestoppt wird das Bauprojekt trotzdem nicht. Die Garage wird so umgeplant, dass die Mauern erhalten bleiben und später hinter einer Glaswand zu besichtigen sind." },
+        { "s": "sprecherin", "t": "Die Fertigstellung verzögert sich dadurch um etwa ein Jahr. Einen Teil der Mehrkosten übernimmt das Land." }
+      ],
+      "statement": "Wegen des archäologischen Fundes wird im Zentrum von Tulln nun doch keine Tiefgarage gebaut.",
+      "answer": false,
+      "explanation": "The car park will still be built: „Gestoppt wird das Bauprojekt trotzdem nicht.“ It is redesigned so that the Roman walls can be seen behind glass, and it will be finished about a year later.",
+      "explanationDe": "Die Tiefgarage wird trotzdem gebaut: „Gestoppt wird das Bauprojekt trotzdem nicht.“ Sie wird nur umgeplant, damit man die römischen Mauern hinter Glas sehen kann, und ist etwa ein Jahr später fertig.",
+      "evidence": "Gestoppt wird das Bauprojekt trotzdem nicht."
+    },
+    {
+      "n": 5,
+      "label": "Meldung: Spitzenspiel in der Zweiten Liga",
+      "script": [
+        { "s": "sprecherin", "t": "Fußball, Zweite Liga: Der SV Ennstal hat das Spitzenspiel gegen Union Donaubrück mit zwei zu eins gewonnen und ist damit neuer Tabellenführer." },
+        { "s": "sprecherin", "t": "Dabei hatte Donaubrück zur Pause noch mit eins zu null geführt. Erst in der Schlussphase drehte Ennstal die Partie: Der eingewechselte Lukas Hinterberger traf innerhalb von sechs Minuten zweimal." },
+        { "s": "sprecherin", "t": "Entschieden ist der Kampf um den Aufstieg damit aber noch nicht – drei Runden vor Saisonende trennt die beiden Mannschaften nur ein Punkt." }
+      ],
+      "statement": "Der SV Ennstal hat das Spitzenspiel gewonnen, obwohl er zur Halbzeit noch zurückgelegen hatte.",
+      "answer": true,
+      "explanation": "Ennstal won „mit zwei zu eins“, even though „Donaubrück zur Pause noch mit eins zu null geführt“ (Donaubrück was 1–0 up at half-time) – Ennstal turned the match around late on. Promotion is not decided yet, but the statement is only about this match.",
+      "explanationDe": "Ennstal hat „mit zwei zu eins“ gewonnen, obwohl „Donaubrück zur Pause noch mit eins zu null geführt“ hatte – die Mannschaft hat das Spiel erst am Ende gedreht. Über den Aufstieg ist noch nicht entschieden, aber darum geht es in der Aussage nicht.",
+      "evidence": "Dabei hatte Donaubrück zur Pause noch mit eins zu null geführt."
+    }
+  ],
+  "unscored": [
+    {
+      "after": 5,
+      "label": "Meldung: das Wetter",
+      "script": [
+        { "s": "wetter", "t": "Und nun das Wetter: Nach den frostigen Nächten der vergangenen Woche setzt sich jetzt mildere Luft durch." },
+        { "s": "wetter", "t": "Heute ist es in Ober- und Niederösterreich zunächst noch bewölkt, am Nachmittag lockert es von Westen her auf. Die Höchstwerte liegen zwischen vierzehn und achtzehn Grad." },
+        { "s": "wetter", "t": "Morgen wird es verbreitet sonnig und noch etwas wärmer. Erst am Sonntag sind im Bergland wieder einzelne Regenschauer möglich." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecherin", "t": "Das waren die Nachrichten auf der Donauwelle." }
+  ],
+  "glossary": [
+    { "de": "heuer", "en": "this year (Austrian, southern German)" },
+    { "de": "mitbestimmen", "en": "to have a say" },
+    { "de": "einen Vorschlag einreichen", "en": "to submit a proposal" },
+    { "de": "die Marille", "en": "apricot (Austrian)" },
+    { "de": "die Soforthilfe", "en": "emergency aid" },
+    { "de": "von der Fahrbahn abkommen", "en": "to veer off the road" },
+    { "de": "einen Schwächeanfall erleiden", "en": "to suffer a sudden fainting spell" },
+    { "de": "auf etwas stoßen", "en": "to come across something" },
+    { "de": "die Mehrkosten", "en": "additional costs" },
+    { "de": "die Partie drehen", "en": "to turn the match around" },
+    { "de": "der Tabellenführer", "en": "league leader" },
+    { "de": "sich durchsetzen", "en": "to prevail (here: milder air takes over)" }
+  ]
+}

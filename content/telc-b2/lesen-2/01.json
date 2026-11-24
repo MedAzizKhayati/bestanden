@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-01",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Jugendliche im Ehrenamt",
+  "topic": "gesellschaft",
+  "difficulty": 1,
+  "article": {
+    "headline": "Helfen ja, Vorstand nein: Wie Jugendliche das Ehrenamt verändern",
+    "lead": "Vereine beklagen seit Jahren fehlenden Nachwuchs. Eine neue Studie kommt jedoch zu einem überraschenden Ergebnis: Junge Menschen engagieren sich keineswegs weniger als früher – sie tun es nur auf andere Weise.",
+    "paragraphs": [
+      "Ob Sportverein, Kirchenchor oder Freiwillige Feuerwehr – vielerorts klingt die Klage ähnlich: Für die Jugendarbeit fehlen Betreuerinnen und Betreuer, für den Vorstand finden sich keine Kandidaten, und bei der Jahreshauptversammlung sitzen fast nur noch grauhaarige Mitglieder im Saal. Schnell ist dann von einer Generation die Rede, die lieber auf ihr Smartphone schaue, als Verantwortung zu übernehmen.",
+      "Eine Untersuchung der Forschungsstelle für Bürgerengagement in Hannover zeichnet nun ein deutlich differenzierteres Bild. Für die Studie wurden rund 4.200 Jugendliche und junge Erwachsene zwischen 14 und 24 Jahren befragt. Das Ergebnis: 43 Prozent von ihnen engagieren sich mindestens einmal im Monat freiwillig – geringfügig mehr als bei einer vergleichbaren Befragung vor zehn Jahren. Verändert hat sich allerdings die Form des Engagements. Statt sich dauerhaft an einen Verein zu binden, beteiligen sich viele lieber an zeitlich begrenzten Projekten, etwa an Spendenläufen, an Aufräumaktionen im Stadtpark oder an der Hausaufgabenhilfe für Kinder aus geflüchteten Familien.",
+      "Die Gründe dafür sieht die Studienleiterin Miriam Achterberg vor allem in veränderten Lebensläufen. „Wer nach der Schule eine Ausbildung beginnt, für das Studium in eine andere Stadt zieht oder ein Jahr im Ausland plant, weiß oft nicht, wo er in zwei Jahren wohnen wird“, erklärt die Soziologin. Ein Vorstandsamt, etwa als Kassenwart, bedeute aber eine Verpflichtung über mehrere Jahre und komme für viele daher schlicht nicht infrage. Der häufig vermutete Zeitmangel durch Schule und Nebenjob spiele dagegen eine geringere Rolle als angenommen.",
+      "Wie das in der Praxis aussieht, zeigt das Beispiel der 17-jährigen Lea Brandt aus Celle. Gemeinsam mit drei Freundinnen organisiert sie über eine Chatgruppe Vorlesenachmittage in zwei Kindergärten; wer gerade Zeit hat, trägt sich in eine Liste ein. Früher war sie Mitglied in einem Schwimmverein, trat aber nach einem Jahr wieder aus. „Dort wurde jeder Vorschlag monatelang im Vorstand diskutiert“, erzählt sie. „Bei unserem Projekt sehen wir sofort, ob etwas funktioniert.“ Dass sich ihr Engagement später in Bewerbungen gut machen könnte, sei für sie dagegen nebensächlich. Damit liegt sie im Trend: Nur knapp ein Fünftel der Befragten nennt berufliche Vorteile als wichtigen Beweggrund.",
+      "Nicht alle teilen die Gelassenheit der Forscherin. Klaus Hinrichs, Geschäftsführer eines Kreissportbundes in Niedersachsen, bezweifelt zwar nicht, dass junge Leute hilfsbereit sind. Kurzfristige Projekte könnten die kontinuierliche Arbeit in den Vereinen aber nicht ersetzen. „Ein Fußballtraining für Achtjährige findet jede Woche statt und nicht nur dann, wenn gerade jemand Lust hat“, gibt er zu bedenken. Ohne Menschen, die langfristig Verantwortung übernähmen, drohe vielen kleineren Vereinen in den kommenden Jahren die Auflösung.",
+      "Einige Vereine haben bereits reagiert. Der TSV Lindenhagen bei Oldenburg etwa hat seine Vorstandsposten in kleinere Aufgabenpakete aufgeteilt, die jeweils für ein Jahr und zu zweit übernommen werden können. Zudem hat die Jugendsprecherin seit dem vergangenen Herbst ein volles Stimmrecht im Vorstand. Die Bilanz fällt bislang gemischt aus: Bei Turnieren und Vereinsfesten helfen inzwischen doppelt so viele Jugendliche mit wie zuvor, für die neuen Teamämter haben sich bisher jedoch nur zwei junge Mitglieder gemeldet.",
+      "Für Miriam Achterberg weist das Beispiel dennoch in die richtige Richtung. „Die Vereine sollten nicht darauf warten, dass sich die Jugendlichen ändern, sondern ihre eigenen Strukturen überdenken“, sagt sie. Die Bereitschaft zum Engagement sei vorhanden – sie suche sich nur neue Wege."
+    ],
+    "source": "Elbtaler Allgemeine"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Laut der Studie aus Hannover …",
+      "options": [
+        { "key": "a", "text": "engagieren sich die meisten jungen Menschen regelmäßig in einem Verein." },
+        { "key": "b", "text": "sind junge Menschen heute mindestens so häufig freiwillig aktiv wie vor zehn Jahren." },
+        { "key": "c", "text": "ist die Hilfsbereitschaft junger Menschen wegen der Smartphones gesunken." }
+      ],
+      "answer": "b",
+      "explanation": "43 percent are active at least once a month – „geringfügig mehr als bei einer vergleichbaren Befragung vor zehn Jahren“, so at least as often as before (b). 43 percent is not „die meisten“, and many prefer projects to a club (a). The smartphone claim is the prejudice from the first paragraph that the study contradicts (c).",
+      "explanationDe": "43 Prozent sind mindestens einmal im Monat aktiv – „geringfügig mehr als bei einer vergleichbaren Befragung vor zehn Jahren“, also mindestens so oft wie früher (b). 43 Prozent sind nicht „die meisten“, und viele machen lieber bei Projekten mit als in einem Verein (a). Die Sache mit dem Smartphone ist das Vorurteil aus dem ersten Absatz, das die Studie widerlegt (c).",
+      "evidence": "geringfügig mehr als bei einer vergleichbaren Befragung vor zehn Jahren"
+    },
+    {
+      "n": 2,
+      "stem": "Viele Jugendliche übernehmen nach Ansicht von Miriam Achterberg kein Vorstandsamt, weil …",
+      "options": [
+        { "key": "a", "text": "Schule und Nebenjob ihnen dafür kaum noch freie Zeit lassen." },
+        { "key": "b", "text": "ihnen Entscheidungen in den Vereinen viel zu lange dauern." },
+        { "key": "c", "text": "sie nicht absehen können, wo sie in einigen Jahren leben werden." }
+      ],
+      "answer": "c",
+      "explanation": "Achterberg explains that young people often do not know „wo er in zwei Jahren wohnen wird“, so a multi-year office is not an option (c). Lack of time through school and side jobs „spiele dagegen eine geringere Rolle als angenommen“ (a). Slow decisions are Lea Brandt's complaint about her swimming club, not Achterberg's explanation (b).",
+      "explanationDe": "Achterberg erklärt, dass junge Leute oft nicht wissen, „wo er in zwei Jahren wohnen wird“ – deshalb passt ein Amt über mehrere Jahre nicht, also (c). Zeitmangel durch Schule und Nebenjob „spiele dagegen eine geringere Rolle als angenommen“ (a). Über langsame Entscheidungen beklagt sich Lea Brandt in Bezug auf ihren Schwimmverein – das ist nicht die Erklärung von Achterberg (b).",
+      "evidence": "weiß oft nicht, wo er in zwei Jahren wohnen wird"
+    },
+    {
+      "n": 3,
+      "stem": "Lea Brandt gefällt an ihrem jetzigen Projekt besonders, dass …",
+      "options": [
+        { "key": "a", "text": "die Wirkung ihrer Arbeit unmittelbar sichtbar wird." },
+        { "key": "b", "text": "es ihr später bei der Jobsuche nützen kann." },
+        { "key": "c", "text": "sie sich zu festen wöchentlichen Terminen verpflichtet hat." }
+      ],
+      "answer": "a",
+      "explanation": "„Bei unserem Projekt sehen wir sofort, ob etwas funktioniert“ – she can see the result of her work immediately, so (a). Advantages in job applications are „nebensächlich“ for her (b). There are no fixed dates: „wer gerade Zeit hat, trägt sich in eine Liste ein“ (c).",
+      "explanationDe": "„Bei unserem Projekt sehen wir sofort, ob etwas funktioniert“ – sie sieht das Ergebnis ihrer Arbeit sofort, also (a). Vorteile bei Bewerbungen sind für sie „nebensächlich“ (b). Feste Termine gibt es nicht: „wer gerade Zeit hat, trägt sich in eine Liste ein“ (c).",
+      "evidence": "Bei unserem Projekt sehen wir sofort, ob etwas funktioniert"
+    },
+    {
+      "n": 4,
+      "stem": "Klaus Hinrichs ist der Meinung, dass …",
+      "options": [
+        { "key": "a", "text": "junge Leute heute weniger bereit sind, anderen zu helfen." },
+        { "key": "b", "text": "ohne langfristig Verantwortliche viele kleinere Vereine in ihrem Bestand gefährdet sind." },
+        { "key": "c", "text": "kurzfristige Projekte die regelmäßige Vereinsarbeit auf Dauer ersetzen können." }
+      ],
+      "answer": "b",
+      "explanation": "Without people who take on long-term responsibility, „drohe vielen kleineren Vereinen in den kommenden Jahren die Auflösung“ – their existence is at risk, so (b). He „bezweifelt zwar nicht, dass junge Leute hilfsbereit sind“ (a), and he says short projects „könnten … nicht ersetzen“ the regular work of the clubs (c).",
+      "explanationDe": "Ohne Menschen, die langfristig Verantwortung übernehmen, „drohe vielen kleineren Vereinen in den kommenden Jahren die Auflösung“ – diese Vereine sind also gefährdet, deshalb (b). Er „bezweifelt zwar nicht, dass junge Leute hilfsbereit sind“ (a), und er sagt, dass kurze Projekte die Vereinsarbeit nicht ersetzen „könnten“ (c).",
+      "evidence": "drohe vielen kleineren Vereinen in den kommenden Jahren die Auflösung"
+    },
+    {
+      "n": 5,
+      "stem": "Beim TSV Lindenhagen hat die Neuordnung bisher dazu geführt, dass …",
+      "options": [
+        { "key": "a", "text": "der Vorstand inzwischen überwiegend aus jungen Mitgliedern besteht." },
+        { "key": "b", "text": "sich doppelt so viele Jugendliche wie früher für Teamämter gemeldet haben." },
+        { "key": "c", "text": "sich deutlich mehr Jugendliche an einzelnen Veranstaltungen beteiligen." }
+      ],
+      "answer": "c",
+      "explanation": "„Bei Turnieren und Vereinsfesten helfen inzwischen doppelt so viele Jugendliche mit wie zuvor“ – more young people help at individual events, so (c). The doubling refers to the events, not to the team offices, for which „nur zwei junge Mitglieder“ have volunteered (b) – so the board is not mainly young either (a).",
+      "explanationDe": "„Bei Turnieren und Vereinsfesten helfen inzwischen doppelt so viele Jugendliche mit wie zuvor“ – bei einzelnen Veranstaltungen helfen also mehr Jugendliche, deshalb (c). „doppelt so viele“ bezieht sich auf die Veranstaltungen, nicht auf die Teamämter, für die sich „nur zwei junge Mitglieder“ gemeldet haben (b) – deshalb besteht der Vorstand auch nicht überwiegend aus Jugendlichen (a).",
+      "evidence": "Bei Turnieren und Vereinsfesten helfen inzwischen doppelt so viele Jugendliche mit wie zuvor"
+    }
+  ],
+  "glossary": [
+    { "de": "das Ehrenamt", "en": "voluntary work, unpaid office" },
+    { "de": "der Nachwuchs", "en": "new generation, young recruits" },
+    { "de": "sich binden an (+ Akk.)", "en": "to commit oneself to" },
+    { "de": "der Kassenwart / die Kassenwartin", "en": "club treasurer" },
+    { "de": "infrage kommen", "en": "to be an option" },
+    { "de": "nebensächlich", "en": "of minor importance" },
+    { "de": "der Beweggrund", "en": "motive" },
+    { "de": "die Gelassenheit", "en": "calmness, composure" },
+    { "de": "zu bedenken geben", "en": "to point out (as a concern)" },
+    { "de": "die Auflösung", "en": "dissolution, breaking up" },
+    { "de": "das Stimmrecht", "en": "right to vote" },
+    { "de": "die Bilanz", "en": "overall result, balance" }
+  ]
+}

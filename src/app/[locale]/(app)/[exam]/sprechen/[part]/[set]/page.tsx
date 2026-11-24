@@ -35,7 +35,8 @@ export default async function SpeakingTaskPage(props: PageProps<"/[locale]/[exam
   const set = getSet(exam.id, part.id, number, locale);
   if (!set || !set.type.startsWith("speaking")) notFound();
 
-  const banks = getPhraseBanks(locale).filter((b) => b.context === part.id || b.id === "gespraechsstrategien");
+  // The exam level's banks for this part plus its general conversation strategies.
+  const banks = getPhraseBanks(locale).filter((b) => b.level === exam.level && (b.context === part.id || b.context === "allgemein"));
   const phraseGroups = banks.flatMap((b) => b.groups.map((g) => ({ title: g.title, titleEn: g.titleEn, phrases: g.phrases })));
   const nb = getSetNeighbours(exam.id, part.id, number);
 

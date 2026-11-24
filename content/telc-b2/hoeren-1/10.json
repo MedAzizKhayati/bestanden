@@ -1,0 +1,116 @@
+{
+  "id": "hoeren-1-10",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Mitteldeutsche Welle: Spätnachrichten",
+  "topic": "bildung",
+  "difficulty": 3,
+  "speakers": [
+    { "id": "sprecher", "gender": "m", "age": "adult", "role": "Nachrichtensprecher" },
+    { "id": "meteorologin", "name": "Doreen Albrecht", "gender": "f", "age": "adult", "role": "Meteorologin" }
+  ],
+  "intro": [
+    { "s": "sprecher", "t": "Mitteldeutsche Welle, es ist 22 Uhr. Guten Abend, hier sind die Spätnachrichten." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: Gesetzentwurf für kleine Grundschulen",
+      "script": [
+        { "s": "sprecher", "t": "Dresden. Kleine Grundschulen in ländlichen Regionen Sachsens sollen künftig nicht mehr wegen zu geringer Schülerzahlen geschlossen werden." },
+        { "s": "sprecher", "t": "Einen entsprechenden Gesetzentwurf hat das Kabinett heute auf den Weg gebracht. Demnach sollen Schulen auch dann erhalten bleiben, wenn sie nur noch eine Klasse pro Jahrgang haben oder mehrere Jahrgänge gemeinsam unterrichten." },
+        { "s": "sprecher", "t": "Für viele junge Familien sei eine Schule im Ort der entscheidende Grund, auf dem Land zu bleiben, hieß es aus dem Kultusministerium. Abstimmen soll der Landtag über das Gesetz im Frühjahr; mehrere Fraktionen haben bereits Zustimmung signalisiert." }
+      ],
+      "statement": "Der sächsische Landtag hat bereits entschieden, dass kleine Grundschulen auf dem Land erhalten bleiben.",
+      "answer": false,
+      "explanation": "So far there is only a draft law from the cabinet („Gesetzentwurf … auf den Weg gebracht“); „Abstimmen soll der Landtag über das Gesetz im Frühjahr“. That several parliamentary groups have „Zustimmung signalisiert“ is a sign of support, not a decision – plan, not decision.",
+      "explanationDe": "Bis jetzt gibt es nur einen Entwurf des Kabinetts („Gesetzentwurf … auf den Weg gebracht“); „Abstimmen soll der Landtag über das Gesetz im Frühjahr“. Dass mehrere Fraktionen „Zustimmung signalisiert“ haben, ist nur ein Zeichen von Unterstützung, noch keine Entscheidung – ein Plan, kein Beschluss.",
+      "evidence": "Abstimmen soll der Landtag über das Gesetz im Frühjahr"
+    },
+    {
+      "n": 2,
+      "label": "Meldung: Kunsthandwerk aus dem Erzgebirge",
+      "script": [
+        { "s": "sprecher", "t": "Annaberg-Buchholz. Nussknacker, Schwibbögen und Räuchermännchen aus dem Erzgebirge sind so gefragt wie lange nicht. Vor allem aus den USA, aus Japan und aus Skandinavien seien deutlich mehr Bestellungen eingegangen als im Vorjahr, teilte der Branchenverband mit." },
+        { "s": "sprecher", "t": "Viele Werkstätten könnten davon allerdings kaum profitieren: Der Preis für Lindenholz, aus dem die meisten Figuren gedrechselt werden, habe sich binnen zwei Jahren mehr als verdoppelt." },
+        { "s": "sprecher", "t": "Diese Kosten an die Kundschaft weiterzugeben, sei schwierig, denn schon jetzt koste ein handgefertigter Nussknacker oft mehr als 100 Euro." }
+      ],
+      "statement": "Trotz der vielen Bestellungen haben viele Werkstätten im Erzgebirge wenig davon, weil ihr wichtigstes Material viel teurer geworden ist.",
+      "answer": true,
+      "explanation": "Orders are up („so gefragt wie lange nicht“), but many workshops „könnten davon allerdings kaum profitieren“: the price of lime wood, their main material, „habe sich binnen zwei Jahren mehr als verdoppelt“, and they can hardly pass this on to customers. „kaum profitieren“ does not mean that fewer people buy.",
+      "explanationDe": "Es gibt viele Bestellungen („so gefragt wie lange nicht“), aber viele Werkstätten „könnten davon allerdings kaum profitieren“: Der Preis für Lindenholz, ihr wichtigstes Material, „habe sich binnen zwei Jahren mehr als verdoppelt“, und sie können die Kosten kaum an die Kunden weitergeben. „kaum profitieren“ heißt nicht, dass weniger Leute kaufen.",
+      "evidence": "Der Preis für Lindenholz, aus dem die meisten Figuren gedrechselt werden, habe sich binnen zwei Jahren mehr als verdoppelt."
+    },
+    {
+      "n": 3,
+      "label": "Meldung: erste Bilanz der Leipziger Notaufnahmen",
+      "script": [
+        { "s": "sprecher", "t": "Leipzig. Wer ohne Rettungswagen in eine der Notaufnahmen der Stadt kommt, wird seit dem Sommer zunächst an einer gemeinsamen Anlaufstelle der Kliniken eingeschätzt. Leichtere Fälle werden von dort an eine Bereitschaftspraxis oder an den Hausarzt weitergeleitet." },
+        { "s": "sprecher", "t": "Nach den ersten Monaten fällt die Bilanz gemischt aus: Die Zahl der Behandlungen in den Notaufnahmen ist um ein Viertel zurückgegangen." },
+        { "s": "sprecher", "t": "Spürbar kürzer seien die Wartezeiten dort allerdings nicht geworden, teilten die Kliniken mit, denn zugleich fehle es vor allem nachts an Pflegekräften." }
+      ],
+      "statement": "Durch die neue Anlaufstelle kommen Patienten in den Leipziger Notaufnahmen inzwischen deutlich schneller an die Reihe.",
+      "answer": false,
+      "explanation": "There are a quarter fewer treatments, but „Spürbar kürzer seien die Wartezeiten dort allerdings nicht geworden“, because nurses are missing at night. Fewer patients does not mean shorter waiting times. The Chemnitz report just before it is about a different practice and is not scored.",
+      "explanationDe": "Es gibt ein Viertel weniger Behandlungen, aber „Spürbar kürzer seien die Wartezeiten dort allerdings nicht geworden“, weil nachts Pflegekräfte fehlen. Weniger Patienten heißt also nicht kürzere Wartezeiten. Die Meldung aus Chemnitz direkt davor gehört zu keiner Aufgabe.",
+      "evidence": "Spürbar kürzer seien die Wartezeiten dort allerdings nicht geworden"
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Umfrage zum Lesen",
+      "script": [
+        { "s": "sprecher", "t": "Erfurt. Junge Erwachsene in Thüringen und Sachsen kaufen wieder mehr gedruckte Bücher. Das geht aus einer Umfrage im Auftrag mitteldeutscher Buchhandlungen hervor, für die gut 2.000 Menschen zwischen 16 und 29 Jahren befragt wurden." },
+        { "s": "sprecher", "t": "Fast die Hälfte gab an, mindestens einmal im Monat ein Buch zu kaufen; vor fünf Jahren sei es nur knapp ein Drittel gewesen. Der Anteil der E-Books gehe in dieser Altersgruppe dagegen seit Jahren zurück." },
+        { "s": "sprecher", "t": "Als wichtigsten Anstoß nannten die Befragten Empfehlungen in sozialen Netzwerken." }
+      ],
+      "statement": "Laut der Umfrage lesen junge Leute in Mitteldeutschland zunehmend digital statt auf Papier.",
+      "answer": false,
+      "explanation": "The trend is the opposite: young adults buy more printed books („kaufen wieder mehr gedruckte Bücher“), and „Der Anteil der E-Books gehe in dieser Altersgruppe dagegen seit Jahren zurück“. Social networks are only mentioned as the reason why they buy books.",
+      "explanationDe": "Der Trend ist umgekehrt: Junge Erwachsene „kaufen wieder mehr gedruckte Bücher“, und „Der Anteil der E-Books gehe in dieser Altersgruppe dagegen seit Jahren zurück“. Die sozialen Netzwerke sind nur der Grund, warum sie Bücher kaufen.",
+      "evidence": "Der Anteil der E-Books gehe in dieser Altersgruppe dagegen seit Jahren zurück."
+    },
+    {
+      "n": 5,
+      "label": "Meldung: das Wetter",
+      "script": [
+        { "s": "sprecher", "t": "Zum Schluss das Wetter. Doreen Albrecht, wird es jetzt winterlich?" },
+        { "s": "meteorologin", "t": "Zumindest in den Bergen, ja. In der Nacht strömt von Norden kalte Luft heran, und oberhalb von 600 Metern fällt im Erzgebirge und im Thüringer Wald der erste Schnee der Saison." },
+        { "s": "meteorologin", "t": "Bis zum Morgen sind dort bis zu 15 Zentimeter möglich. In tieferen Lagen gibt es dagegen nur Schneeregen, auf den Straßen kann es aber glatt werden." },
+        { "s": "meteorologin", "t": "Lange halten wird sich die weiße Pracht allerdings nicht: Schon ab Samstag setzt sich mildere Luft durch, und die Temperaturen steigen auf bis zu zehn Grad." }
+      ],
+      "statement": "Der erste Schnee in den Mittelgebirgen dürfte nicht lange liegen bleiben, weil es schon bald wieder wärmer wird.",
+      "answer": true,
+      "explanation": "Snow falls in the Erzgebirge and the Thüringer Wald (both „Mittelgebirge“), but „Lange halten wird sich die weiße Pracht allerdings nicht“: from Saturday milder air arrives and temperatures rise „auf bis zu zehn Grad“. „die weiße Pracht“ is a common way of saying snow.",
+      "explanationDe": "Im Erzgebirge und im Thüringer Wald (beides „Mittelgebirge“) fällt Schnee, aber „Lange halten wird sich die weiße Pracht allerdings nicht“: Ab Samstag kommt mildere Luft, und die Temperaturen steigen „auf bis zu zehn Grad“. „die weiße Pracht“ ist ein typischer Ausdruck für Schnee.",
+      "evidence": "Lange halten wird sich die weiße Pracht allerdings nicht"
+    }
+  ],
+  "unscored": [
+    {
+      "after": 2,
+      "label": "Meldung: längere Öffnungszeiten einer Bereitschaftspraxis in Chemnitz",
+      "script": [
+        { "s": "sprecher", "t": "Chemnitz. Die ärztliche Bereitschaftspraxis an einem Chemnitzer Krankenhaus ist ab Dezember auch an Wochentagen bis Mitternacht geöffnet. Bisher konnten Patientinnen und Patienten mit leichteren Beschwerden dort nur am Wochenende behandelt werden." },
+        { "s": "sprecher", "t": "Man wolle damit vor allem die Notaufnahme entlasten, in der zuletzt fast jede zweite Behandlung kein echter Notfall gewesen sei, erklärte die Klinikleitung." },
+        { "s": "sprecher", "t": "Für die zusätzlichen Dienste hätten sich rund 40 niedergelassene Ärztinnen und Ärzte aus der Region gemeldet." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecher", "t": "Das waren die Spätnachrichten der Mitteldeutschen Welle. Kommen Sie gut durch die Nacht!" }
+  ],
+  "glossary": [
+    { "de": "etwas auf den Weg bringen", "en": "to launch, to set something in motion" },
+    { "de": "der Gesetzentwurf", "en": "draft law, bill" },
+    { "de": "die Fraktion", "en": "parliamentary group" },
+    { "de": "Zustimmung signalisieren", "en": "to indicate approval" },
+    { "de": "drechseln", "en": "to turn (wood on a lathe)" },
+    { "de": "Kosten weitergeben", "en": "to pass costs on (to customers)" },
+    { "de": "die Bereitschaftspraxis", "en": "out-of-hours doctor's practice" },
+    { "de": "die Notaufnahme", "en": "accident and emergency department, emergency room" },
+    { "de": "an die Reihe kommen", "en": "to be next, to be seen (in a queue)" },
+    { "de": "der Anstoß", "en": "impulse, trigger" },
+    { "de": "das Mittelgebirge", "en": "low mountain range" },
+    { "de": "die weiße Pracht", "en": "the snow (idiomatic, literally „the white splendour“)" }
+  ]
+}

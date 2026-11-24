@@ -16,7 +16,25 @@ export const CONNECTORS = [
   "aber", "dann", "danach", "zuerst", "zuletzt", "also", "leider", "als", "ob", "nachdem", "bevor", "sodass", "nämlich",
   "jedoch", "allerdings", "trotz", "wegen", "während", "sobald", "falls", "zum schluss", "zum beispiel", "einerseits",
   "andererseits", "sowohl", "weder", "entweder", "nicht nur", "erstens", "zweitens", "übrigens", "schließlich",
+  // B2
+  "zwar", "dennoch", "zudem", "ferner", "darüber hinaus", "folglich", "infolgedessen", "indem", "sofern", "wohingegen",
+  "stattdessen", "anstatt", "aufgrund", "angesichts", "insbesondere", "vor allem", "abgesehen davon", "je", "desto", "umso",
+  "zumal", "sodass", "es sei denn", "allerdings", "hingegen", "letztlich", "somit", "daher",
 ];
+
+/** Exam-specific targets of the live checks. */
+export interface WritingTargets {
+  /** Words for "ok" and for "almost" (warning). */
+  okWords: number;
+  warnWords: number;
+  /** Different connectors for "ok". */
+  connectors: number;
+  /** Shown in the length check. */
+  level: "B1" | "B2";
+}
+
+export const B1_TARGETS: WritingTargets = { okWords: 120, warnWords: 70, connectors: 5, level: "B1" };
+export const B2_TARGETS: WritingTargets = { okWords: 150, warnWords: 120, connectors: 7, level: "B2" };
 
 const SALUTATION = /^\s*(liebe|lieber|hallo|hi|sehr geehrte|sehr geehrter|guten tag)\b/i;
 const CLOSING = /(viele|liebe|herzliche|beste|freundliche|schöne)\s+grüße|mit freundlichen grüßen|bis bald|alles liebe|bis dann|herzlichst|dein[e]?\s*\n|ihr[e]?\s*\n/i;
@@ -35,7 +53,13 @@ export function usedConnectors(text: string): string[] {
 }
 
 /** Live checks shown while writing. Labels and advice are in the UI language `locale`. */
-export function runLiveChecks(text: string, subject: string, register: "informal" | "semiformal", locale: Locale = DEFAULT_LOCALE): LiveCheck[] {
+export function runLiveChecks(
+  text: string,
+  subject: string,
+  register: "informal" | "semiformal",
+  locale: Locale = DEFAULT_LOCALE,
+  targets: WritingTargets = B1_TARGETS,
+): LiveCheck[] {
   const m = getMessages(locale).writing.checks;
   const words = wordCount(text);
   const body = sentences(text);
@@ -85,15 +109,15 @@ export function runLiveChecks(text: string, subject: string, register: "informal
       id: "connectors",
       label: m.connectors.label,
       detail: connectors.length
-        ? `${m.connectors.used(connectors.length, connectors.slice(0, 8).join(", "))}${connectors.length > 8 ? " …" : ""}${connectors.length < 5 ? m.connectors.aim : ""}`
+        ? `${m.connectors.used(connectors.length, connectors.slice(0, 8).join(", "))}${connectors.length > 8 ? " …" : ""}${connectors.length < targets.connectors ? m.connectors.aim(targets.connectors) : ""}`
         : m.connectors.none,
-      status: connectors.length >= 5 ? "ok" : connectors.length >= 2 ? "warn" : "todo",
+      status: connectors.length >= targets.connectors ? "ok" : connectors.length >= 2 ? "warn" : "todo",
     },
     {
       id: "length",
       label: m.length.label,
-      detail: m.length.detail(words),
-      status: words >= 120 ? "ok" : words >= 70 ? "warn" : "todo",
+      detail: targets.level === "B2" ? m.length.detailB2(words) : m.length.detail(words),
+      status: words >= targets.okWords ? "ok" : words >= targets.warnWords ? "warn" : "todo",
     },
     {
       id: "closing",

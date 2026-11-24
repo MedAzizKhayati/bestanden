@@ -15,6 +15,8 @@ import type {
   PlacementItem,
   PlacementTest,
   Speaker,
+  SpeakingDiscussionSet,
+  SpeakingExperienceSet,
   SpeakingIntroSet,
   SpeakingPlanningSet,
   SpeakingTopicSet,
@@ -113,6 +115,9 @@ function wordCount(text: string): number {
 
 /* ------------------------------------------------------------------ */
 
+/** Word ranges per exam: [error below, aim from, aim to, error above] are only warnings – content varies. */
+const isB2 = (s: ExamSet) => s.examId === "telc-b2";
+
 function checkHeadlineMatching(c: Collector, s: HeadlineMatchingSet) {
   expectKeys(c, s.headlines.map((h) => h.key), 10, "headlines");
   expectSequence(c, s.texts.map((t) => t.n), "texts");
@@ -131,9 +136,10 @@ function checkHeadlineMatching(c: Collector, s: HeadlineMatchingSet) {
     ),
   );
   if (answers.join("") === "abcde") c.warn("answers are a,b,c,d,e in order – shuffle the headlines");
+  const [lo, hi, aim] = isB2(s) ? [110, 230, "140–200"] : [45, 130, "55–110"];
   s.texts.forEach((t) => {
     const wc = wordCount(t.text);
-    if (wc < 45 || wc > 130) c.warn(`texts[${t.n}]: ${wc} words (aim for 55–110)`);
+    if (wc < lo || wc > hi) c.warn(`texts[${t.n}]: ${wc} words (aim for ${aim})`);
   });
 }
 
@@ -152,7 +158,8 @@ function checkTextMc(c: Collector, s: TextMcSet) {
   const counts = new Set(s.questions.map((q) => q.answer));
   if (counts.size === 1) c.warn("all answers share the same letter");
   const wc = wordCount(corpus);
-  if (wc < 300 || wc > 600) c.warn(`article has ${wc} words (aim for 350–500)`);
+  const [lo, hi, aim] = isB2(s) ? [440, 700, "500–620"] : [300, 600, "350–500"];
+  if (wc < lo || wc > hi) c.warn(`article has ${wc} words (aim for ${aim})`);
 }
 
 function checkAdMatching(c: Collector, s: AdMatchingSet) {
@@ -161,6 +168,16 @@ function checkAdMatching(c: Collector, s: AdMatchingSet) {
   const used = s.situations.map((x) => x.answer).filter((a) => a !== "x");
   const dup = duplicates(used);
   c.expect(dup.length === 0, `situations: ad(s) ${dup.join(",")} used more than once`);
+  s.ads.forEach((a) => c.expect(a.lines.length > 0 || a.text, `ads[${a.key}]: needs "lines" (ad) or "text" (info text)`));
+  if (isB2(s)) {
+    s.ads.forEach((a) => {
+      const wc = wordCount([a.text ?? "", ...a.lines].join(" "));
+      if (wc < 50 || wc > 130) c.warn(`ads[${a.key}]: ${wc} words (B2 info texts: aim for 70–110)`);
+    });
+    s.situations.forEach((x) => {
+      if (wordCount(x.text) > 22) c.warn(`situations[${x.n}]: ${wordCount(x.text)} words – B2 situations are one short sentence`);
+    });
+  }
   const xCount = s.situations.filter((x) => x.answer === "x").length;
   c.expect(xCount >= 1 && xCount <= 3, `situations: ${xCount} situations marked x (must be 1–3)`);
   if (xCount === 3) c.warn("3 situations without an ad – the real exam usually has 1–2");
@@ -174,6 +191,10 @@ function checkGapMc(c: Collector, s: GapMcSet) {
     c.expect(duplicates(g.options.map((o) => o.text)).length === 0, `gaps[${g.n}]: duplicate options`);
   });
   if (new Set(s.gaps.map((g) => g.answer)).size === 1) c.warn("all answers share the same letter");
+  if (isB2(s)) {
+    const counts = ["a", "b", "c"].map((k) => s.gaps.filter((g) => g.answer === k).length);
+    if (Math.max(...counts) > 5) c.warn(`answer letters are unbalanced (a/b/c: ${counts.join("/")})`);
+  }
 }
 
 function checkGapWordbank(c: Collector, s: GapWordbankSet) {
@@ -183,11 +204,23 @@ function checkGapWordbank(c: Collector, s: GapWordbankSet) {
   expectSequence(c, s.gaps.map((g) => g.n), "gaps");
   const dup = duplicates(s.gaps.map((g) => g.answer));
   c.expect(dup.length === 0, `gaps: word(s) ${dup.join(",")} used more than once`);
+  if (isB2(s) && s.textType !== "article") c.warn(`telc B2 Sprachbausteine Teil 2 uses a newspaper/magazine article (textType "article"), found "${s.textType}"`);
 }
 
 function checkAudioShort(c: Collector, s: AudioShortSet, partId: string) {
   expectSequence(c, s.items.map((i) => i.n), "items");
-  checkSpeakers(c, s.speakers, [...s.intro, ...s.items.flatMap((i) => i.script)], "script");
+  checkSpeakers(c, s.speakers, [...s.intro, ...s.items.flatMap((i) => i.script), ...s.unscored.flatMap((u) => u.script), ...s.outro], "script");
+  const afters = s.unscored.map((u) => u.after);
+  c.expect(duplicates(afters).length === 0, "unscored: two recordings at the same position");
+  if (isB2(s) && partId === "hoeren-1") {
+    c.expect(s.unscored.length === 1, `telc B2 Hören Teil 1: the bulletin has six reports – exactly one in "unscored", found ${s.unscored.length}`);
+    if (!s.outro.length) c.warn("telc B2 Hören Teil 1: end the bulletin with an outro (e.g. „Das waren die Nachrichten.“)");
+    [...s.items.map((i) => ({ label: `items[${i.n}]`, script: i.script })), ...s.unscored.map((u, i) => ({ label: `unscored[${i}]`, script: u.script }))].forEach((r) => {
+      const wc = wordCount(r.script.map((l) => l.t).join(" "));
+      if (wc < 45 || wc > 120) c.warn(`${r.label}: ${wc} words (news reports: aim for 55–95)`);
+    });
+  } else if (s.unscored.length) c.warn("unscored recordings are only part of telc B2 Hören Teil 1");
+  if (isB2(s) && partId === "hoeren-3") s.items.forEach((i) => c.expect(i.context, `items[${i.n}]: telc B2 Teil 3 texts start with a spoken context („Sie hören …“)`));
   s.items.forEach((i) =>
     c.expect(
       i.script.some((l) => containsQuote(l.t, i.evidence)),
@@ -212,7 +245,8 @@ function checkAudioLong(c: Collector, s: AudioLongSet) {
   const trues = s.statements.filter((x) => x.answer).length;
   if (trues < 3 || trues > 7) c.warn(`${trues}/10 statements are true – aim for 4–6`);
   const wc = wordCount(s.script.map((l) => l.t).join(" "));
-  if (wc < 380 || wc > 900) c.warn(`script has ${wc} words (aim for 450–750)`);
+  const [lo, hi, aim] = isB2(s) ? [600, 980, "650–900"] : [380, 900, "450–750"];
+  if (wc < lo || wc > hi) c.warn(`script has ${wc} words (aim for ${aim})`);
 }
 
 function checkWriting(c: Collector, s: WritingSet) {
@@ -220,13 +254,29 @@ function checkWriting(c: Collector, s: WritingSet) {
   if (!/^(Liebe|Lieber|Hallo|Hi|Sehr geehrte|Guten Tag)/m.test(text)) c.error("model: missing salutation");
   if (!/(Grüße|Gruß|Grüßen|Bis bald|Alles Liebe|Viele Grüße)/.test(text)) c.error("model: missing closing formula");
   const wc = wordCount(text);
-  if (wc < 110 || wc > 230) c.warn(`model has ${wc} words (aim for 130–190)`);
+  const [lo, hi, aim] = isB2(s) ? [165, 270, "180–240"] : [110, 230, "130–190"];
+  if (wc < lo || wc > hi) c.warn(`model has ${wc} words (aim for ${aim})`);
   if (s.register === "semiformal" && /\b(du|dich|dir|dein|deine|deinen|deinem|deiner|deines|euch|euer|eure)\b/i.test(text))
     c.warn("model: semi-formal e-mail uses du-forms");
+  if (isB2(s)) {
+    c.expect(s.register === "semiformal", "telc B2: the e-mail is semi-formal (register \"semiformal\")");
+    c.expect(s.taskLabel, "telc B2: taskLabel is required (e.g. „Bitte um Informationen“, „Beschwerde“)");
+  } else if (s.taskLabel) c.warn("taskLabel is only used by telc B2 tasks");
 }
 
-function checkSpeakingLines(c: Collector, s: SpeakingIntroSet | SpeakingTopicSet | SpeakingPlanningSet) {
+function checkSpeakingLines(
+  c: Collector,
+  s: SpeakingIntroSet | SpeakingTopicSet | SpeakingPlanningSet | SpeakingExperienceSet | SpeakingDiscussionSet,
+) {
   checkSpeakers(c, s.speakers, s.model, "model");
+  if (s.type === "speaking-experience") {
+    c.expect(s.modelTopics.A !== s.modelTopics.B, "modelTopics: A and B talk about different topics");
+    c.expect(duplicates(s.topics.map((t) => t.title)).length === 0, "topics: duplicate titles");
+  }
+  if (s.type === "speaking-discussion") {
+    const wc = wordCount([s.article.lead ?? "", ...s.article.paragraphs].join(" "));
+    if (wc < 200 || wc > 400) c.warn(`article has ${wc} words (aim for 230–350)`);
+  }
 }
 
 export function checkExamSet(set: ExamSet, partId: string): Issue[] {
@@ -260,6 +310,8 @@ export function checkExamSet(set: ExamSet, partId: string): Issue[] {
     case "speaking-intro":
     case "speaking-topic":
     case "speaking-planning":
+    case "speaking-experience":
+    case "speaking-discussion":
       checkSpeakingLines(c, set);
       break;
   }
@@ -320,6 +372,11 @@ export function checkTypography(value: unknown): Issue[] {
   return c.issues;
 }
 
+/** The three item levels of a placement test: one below the exam level, the exam level, one above. */
+export function placementBands(examId: string): ["A2", "B1", "B2"] | ["B1", "B2", "C1"] {
+  return examId === "telc-b2" ? ["B1", "B2", "C1"] : ["A2", "B1", "B2"];
+}
+
 /** Placement test: unique ids, valid answers, levels spread, clean TTS scripts, known grammar topics. */
 export function checkPlacementTest(test: PlacementTest, grammarIds: Set<string>): Issue[] {
   const c = new Collector();
@@ -356,7 +413,7 @@ export function checkPlacementTest(test: PlacementTest, grammarIds: Set<string>)
       );
     if (section.skill === "grammatik" || section.skill === "wortschatz") {
       section.items.forEach((item, i) => c.expect(item.prompt.includes("___"), `${section.skill}[${i}]: prompt needs a "___" gap`));
-      for (const level of ["A2", "B1", "B2"] as const)
+      for (const level of placementBands(test.examId))
         c.expect(section.items.some((i) => i.level === level), `${section.skill}: needs at least one ${level} item`);
     }
   }

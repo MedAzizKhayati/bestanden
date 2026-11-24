@@ -1,0 +1,61 @@
+{
+  "id": "schreiben-23",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Die Zeitung kommt zu spät",
+  "topic": "medien",
+  "difficulty": 3,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Vor drei Monaten haben Sie das Kombi-Abo des „Neckartaler Morgenblatts“ abgeschlossen. Seitdem kommt es immer wieder zu Problemen bei der Zustellung, und auch Ihr Urlaubsauftrag wurde nicht beachtet. Ihre Anrufe beim Leserservice haben bisher nichts geändert. Schreiben Sie eine Beschwerde an den Leserservice des Verlags.",
+  "stimulus": {
+    "kind": "ad",
+    "subject": "Neckartaler Morgenblatt – Ihre Region. Jeden Morgen.",
+    "body": "Lesen Sie, was in Ihrer Region wichtig ist – gedruckt und digital. Unser Kombi-Abo für nur 34,90 € im Monat:\n\n• Ihre Zeitung liegt von Montag bis Samstag spätestens um 6 Uhr im Briefkasten.\n• Das E-Paper steht schon ab 4 Uhr morgens in unserer App bereit.\n• Zustellung ausgefallen? Ein Anruf genügt – wir liefern bis 10 Uhr nach oder schreiben Ihnen den Tag gut.\n• Urlaubsservice: Wir pausieren Ihre Zeitung oder schicken sie an Ihre Urlaubsadresse – nicht gelieferte Ausgaben werden Ihnen gutgeschrieben.\n• Persönlicher Leserservice: Mo.–Fr. 7–18 Uhr\n\nLeserservice Neckartaler Morgenblatt · Tel. 07131 6650 200 · leserservice@morgenblatt-neckar.de"
+  },
+  "leitpunkte": [
+    "Beschreiben Sie, welche Probleme bei der Zustellung aufgetreten sind.",
+    "Legen Sie dar, welche Folgen die Missachtung Ihres Urlaubsauftrags für Sie hatte.",
+    "Erläutern Sie, wie Sie bisher versucht haben, die Probleme zu klären.",
+    "Erklären Sie, was Sie vom Verlag erwarten."
+  ],
+  "model": {
+    "subject": "Beschwerde über die Zustellung – Abonnement Nr. 4471093",
+    "text": "Sehr geehrte Damen und Herren,\n\nseit dem 1. August beziehe ich Ihr Kombi-Abo (Abonnement Nr. 4471093). Da die Zustellung jedoch von Anfang an äußerst unzuverlässig ist und mehrere Anrufe bei Ihrem Leserservice zu keiner Verbesserung geführt haben, wende ich mich nun schriftlich an Sie.\n\nEntgegen Ihrer Zusage, die Zeitung liege spätestens um 6 Uhr im Briefkasten, wird sie mir in der Regel erst gegen 9 Uhr zugestellt. An mindestens acht Tagen ist sie sogar ganz ausgeblieben, und eine Nachlieferung bis 10 Uhr hat trotz meiner Anrufe kein einziges Mal stattgefunden.\n\nBesonders verärgert bin ich über die Missachtung meines Urlaubsauftrags. Obwohl ich die Unterbrechung für die Zeit vom 6. bis 20. Oktober rechtzeitig beantragt und eine Bestätigung erhalten hatte, wurde die Zeitung weiterhin geliefert. Da der Briefkasten bald überquoll, stapelten sich die Ausgaben vor meiner Haustür. Hätte meine Nachbarin sie nicht regelmäßig weggeräumt, wäre jedem Einbrecher sofort aufgefallen, dass die Wohnung leer stand.\n\nIch erwarte daher, dass mir sowohl die Urlaubstage als auch sämtliche Tage ohne Zustellung gutgeschrieben werden. Sollte sich die Zustellung nicht innerhalb der nächsten zwei Wochen spürbar verbessern, sähe ich mich gezwungen, das Abonnement fristlos zu kündigen.\n\nIch bitte Sie, mir die Gutschrift schriftlich zu bestätigen.\n\nMit freundlichen Grüßen\nKatarzyna Zielińska"
+  },
+  "modelNotes": [
+    "The model covers points 1 (delivery problems), 2 (consequences of the ignored holiday order) and 4 (expectations). The phone calls (point 3) are only mentioned in the introduction and in passing, so they do not count as a developed point.",
+    "Each complaint is measured against the ad: „Entgegen Ihrer Zusage, die Zeitung liege spätestens um 6 Uhr im Briefkasten …“, „eine Nachlieferung bis 10 Uhr“ – the reader cannot deny the broken promises.",
+    "Upper-B2 grammar: reported speech in Konjunktiv I („liege“), Konjunktiv II in the past for an unreal condition („Hätte meine Nachbarin sie nicht … weggeräumt, wäre … aufgefallen“), a conditional without „wenn“ („Sollte sich … nicht … verbessern, sähe ich mich gezwungen …“), passive („wird … zugestellt“, „gutgeschrieben werden“).",
+    "Nominalstil and formal vocabulary: „die Missachtung meines Urlaubsauftrags“, „die Unterbrechung“, „Nachlieferung“, „Gutschrift“, „fristlos kündigen“.",
+    "The demand is concrete (credit for named days) and backed up by a clear but polite consequence (cancellation), which is a strong way to end a complaint."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt die Punkte 1 (Probleme bei der Zustellung), 2 (Folgen des nicht beachteten Urlaubsauftrags) und 4 (Erwartungen). Die Anrufe (Punkt 3) werden nur in der Einleitung und nebenbei erwähnt – sie zählen also nicht als ausgeführter Punkt.",
+    "Jede Beschwerde wird an der Anzeige gemessen: „Entgegen Ihrer Zusage, die Zeitung liege spätestens um 6 Uhr im Briefkasten …“, „eine Nachlieferung bis 10 Uhr“ – so kann der Verlag die gebrochenen Versprechen nicht bestreiten.",
+    "Grammatik auf hohem B2-Niveau: indirekte Rede im Konjunktiv I („liege“), Konjunktiv II der Vergangenheit für eine irreale Bedingung („Hätte meine Nachbarin sie nicht … weggeräumt, wäre … aufgefallen“), ein Bedingungssatz ohne „wenn“ („Sollte sich … nicht … verbessern, sähe ich mich gezwungen …“), Passiv („wird … zugestellt“, „gutgeschrieben werden“).",
+    "Nominalstil und formeller Wortschatz: „die Missachtung meines Urlaubsauftrags“, „die Unterbrechung“, „Nachlieferung“, „Gutschrift“, „fristlos kündigen“.",
+    "Die Forderung ist konkret (Gutschrift für bestimmte Tage) und wird durch eine klare, aber höfliche Konsequenz (Kündigung) unterstützt – so endet eine Beschwerde besonders überzeugend."
+  ],
+  "phrases": [
+    { "de": "Da mehrere Anrufe zu keiner Verbesserung geführt haben, wende ich mich nun schriftlich an Sie.", "en": "As several phone calls have not led to any improvement, I am now writing to you." },
+    { "de": "Entgegen Ihrer Zusage …", "en": "Contrary to your promise …" },
+    { "de": "In der Regel wird mir die Zeitung erst gegen … zugestellt.", "en": "As a rule, the paper is not delivered to me until around …" },
+    { "de": "An mindestens … Tagen ist die Zeitung ganz ausgeblieben.", "en": "On at least … days the paper did not come at all." },
+    { "de": "Besonders verärgert bin ich über …", "en": "I am particularly annoyed about …" },
+    { "de": "Obwohl ich … rechtzeitig beantragt hatte, …", "en": "Although I had applied for … in good time, …" },
+    { "de": "Ich erwarte, dass mir … gutgeschrieben wird.", "en": "I expect … to be credited to my account." },
+    { "de": "Sollte sich … nicht spürbar verbessern, sähe ich mich gezwungen, …", "en": "Should … not improve noticeably, I would feel obliged to …" },
+    { "de": "Ich bitte Sie, mir … schriftlich zu bestätigen.", "en": "Please confirm … in writing." }
+  ],
+  "glossary": [
+    { "de": "das Abonnement (Abo)", "en": "subscription" },
+    { "de": "die Zustellung", "en": "delivery" },
+    { "de": "der Urlaubsauftrag", "en": "holiday order (to pause or redirect delivery)" },
+    { "de": "jemandem etwas gutschreiben", "en": "to credit something to someone's account" },
+    { "de": "die Gutschrift", "en": "credit (note)" },
+    { "de": "die Missachtung", "en": "disregard" },
+    { "de": "überquellen", "en": "to overflow" },
+    { "de": "fristlos kündigen", "en": "to cancel without notice" }
+  ]
+}

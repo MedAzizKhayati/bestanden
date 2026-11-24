@@ -44,6 +44,9 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
   const audio = part.audio!;
   const num = (n: number) => officialNumber(part, n);
 
+  // A news bulletin (telc B2 Teil 1) is one recording: reports without a statement play in between.
+  const bulletin = set.unscored.length > 0;
+
   const steps = useMemo<SequenceStep[]>(() => {
     const s: SequenceStep[] = [];
     const first = officialNumber(part, 1);
@@ -54,6 +57,8 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
       s.push({ kind: "wait", seconds: audio.readingSeconds, label: `Gleich beginnt Teil ${part.teil}` });
       set.items.forEach((item, idx) => {
         s.push({ kind: "wait", seconds: 8, label: `Lesen Sie Aufgabe ${officialNumber(part, item.n)}`, focus: item.n });
+        // telc B2: the announcer introduces every text („Sie hören eine Ansage im Radio.“).
+        if (item.context) s.push({ kind: "play", lines: narratorLines(item.context), label: `Text ${idx + 1}`, focus: item.n });
         for (let p = 1; p <= audio.plays; p++) {
           s.push({ kind: "play", ...scriptAudio(item.script, item.recording), label: `Text ${idx + 1} · ${p}. Hören`, focus: item.n, pass: p as 1 | 2 });
           if (p < audio.plays) s.push({ kind: "wait", seconds: audio.repeatPauseSeconds, label: "Sie hören den Text noch einmal", focus: item.n });
@@ -63,14 +68,34 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
     } else {
       s.push({ kind: "wait", seconds: audio.readingSeconds, label: `Lesezeit: Aufgaben ${first}–${last}` });
       if (set.intro.length) s.push({ kind: "play", ...scriptAudio(set.intro, set.introRecording), label: "Einleitung" });
+      let report = 0;
+      const playUnscored = (after: number) =>
+        set.unscored
+          .filter((u) => u.after === after)
+          .forEach((u) => {
+            report++;
+            s.push({ kind: "play", lines: u.script, label: `Meldung ${report}` });
+            s.push({ kind: "wait", seconds: audio.itemPauseSeconds, label: "Richtig oder falsch?" });
+          });
+      playUnscored(0);
       set.items.forEach((item, idx) => {
-        s.push({ kind: "play", ...scriptAudio(item.script, item.recording), label: `Text ${idx + 1}`, focus: item.n });
-        s.push({ kind: "wait", seconds: audio.itemPauseSeconds, label: `Aufgabe ${officialNumber(part, item.n)}: richtig oder falsch?`, focus: item.n });
+        report++;
+        // In a bulletin the console must not reveal which report belongs to which statement.
+        const label = bulletin ? `Meldung ${report}` : `Text ${idx + 1}`;
+        s.push({ kind: "play", ...scriptAudio(item.script, item.recording), label, focus: bulletin ? undefined : item.n });
+        s.push({
+          kind: "wait",
+          seconds: audio.itemPauseSeconds,
+          label: bulletin ? "Richtig oder falsch?" : `Aufgabe ${officialNumber(part, item.n)}: richtig oder falsch?`,
+          focus: bulletin ? undefined : item.n,
+        });
+        playUnscored(idx + 1);
       });
+      if (set.outro.length) s.push({ kind: "play", lines: set.outro, label: "Ende der Sendung" });
     }
     s.push({ kind: "wait", seconds: audio.answerSeconds, label: "Letzte Sekunden zum Markieren" });
     return s;
-  }, [set, audio, part]);
+  }, [set, audio, part, bulletin]);
 
   const cast = useMemo(() => withNarrator(set.speakers), [set.speakers]);
   const seq = useAudioSequence(steps, cast, onComplete);
@@ -80,8 +105,28 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
     if (review) stopSequence();
   }, [review, stopSequence]);
 
+  /** The whole bulletin in order (training mode plays it as one recording). */
+  const bulletinLines = useMemo(() => {
+    if (!bulletin) return [];
+    const lines = [...set.intro];
+    const add = (after: number) => set.unscored.filter((u) => u.after === after).forEach((u) => lines.push(...u.script));
+    add(0);
+    set.items.forEach((item, idx) => {
+      lines.push(...item.script);
+      add(idx + 1);
+    });
+    return [...lines, ...set.outro];
+  }, [bulletin, set]);
+  /** A text with its spoken context (telc B2 Teil 3), for training playback. */
+  const itemLines = (item: AudioShortSet["items"][number]) => {
+    const rec = scriptAudio(item.script, item.recording);
+    if (!item.context) return rec;
+    return { lines: [...narratorLines(item.context), ...rec.lines], audioUrls: rec.audioUrls ? [null, ...rec.audioUrls] : undefined };
+  };
+
   const pb = usePlayback(cast);
   const [plays, setPlays] = useState<Record<number, number>>({});
+  const [bulletinPlays, setBulletinPlays] = useState(0);
   const [rate, setRate] = useState(1);
   const focus = mode === "exam" ? seq.step?.focus : undefined;
   const training = mode === "training" && !review;
@@ -102,7 +147,20 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
             </span>
           </div>
           <div className="flex items-center gap-2">
-            {set.intro.length > 0 && (
+            {bulletin && (
+              <PlayButton
+                playing={pb.playing === "bulletin"}
+                disabled={bulletinPlays >= audio.plays}
+                playsLeft={audio.plays - bulletinPlays}
+                onPlay={() => {
+                  setBulletinPlays((p) => p + 1);
+                  void pb.play("bulletin", bulletinLines, { rate });
+                }}
+                onStop={pb.stop}
+                label={a.playBulletin}
+              />
+            )}
+            {!bulletin && set.intro.length > 0 && (
               <PlayButton
                 playing={pb.playing === "intro"}
                 onPlay={() => {
@@ -138,7 +196,7 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
               <div className="flex flex-wrap items-center gap-3">
                 <ItemNumber n={num(item.n)} state={itemState(review, item.n, !!given, focus === item.n)} />
                 <p className="min-w-[12rem] flex-1 leading-snug font-medium">{item.statement}</p>
-                {training && (
+                {training && !bulletin && (
                   <PlayButton
                     playing={pb.playing === id}
                     disabled={used >= audio.plays}
@@ -146,7 +204,7 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
                     label={`Text ${idx + 1}`}
                     onPlay={() => {
                       setPlays((p) => ({ ...p, [item.n]: (p[item.n] ?? 0) + 1 }));
-                      const rec = scriptAudio(item.script, item.recording);
+                      const rec = itemLines(item);
                       void pb.play(id, rec.lines, { rate, audioUrls: rec.audioUrls });
                     }}
                     onStop={pb.stop}
@@ -179,6 +237,7 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
                       label={a.playText}
                     />
                   </div>
+                  {item.context && <p className="text-sm text-muted-foreground italic">{item.context}</p>}
                   <Transcript
                     lines={item.script}
                     speakers={set.speakers}
@@ -209,6 +268,24 @@ export function AudioShortPlayer({ set, part, answers, onAnswer, review, mode, s
           </div>
         </details>
       )}
+      {review &&
+        set.unscored.map((u, i) => (
+          <details key={i} className="rounded-xl border bg-card p-4">
+            <summary className="cursor-pointer text-sm font-semibold">
+              {a.unscoredTranscript}
+              {u.label ? ` · ${u.label}` : ""}
+            </summary>
+            <p className="mt-2 text-sm text-muted-foreground">{a.unscoredHint(u.after + 1 + i)}</p>
+            <div className="mt-3">
+              <Transcript
+                lines={u.script}
+                speakers={set.speakers}
+                activeLine={pb.playing === `unscored-${i}` ? pb.lineIndex : undefined}
+                onPlayLine={(l) => pb.play(`unscored-${i}`, u.script, { startAt: l })}
+              />
+            </div>
+          </details>
+        ))}
     </div>
   );
 }

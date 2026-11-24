@@ -12,6 +12,7 @@ export const exam = {
   overview: {
     metaTitle: (name: string) => `${name} – structure, scoring & pass marks`,
     takeMock: "Take a mock exam",
+    cefr: (level: string) => `CEFR level ${level}`,
     practiseByPart: "Practise by part",
     facts: {
       total: (n: number) => `${n} points`,

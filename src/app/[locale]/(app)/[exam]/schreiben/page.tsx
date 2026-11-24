@@ -18,6 +18,28 @@ export async function generateMetadata(): Promise<Metadata> {
   return { title: t.writing.meta.title, description: t.writing.meta.description };
 }
 
+/** telc B2: the two typical tasks side by side (formal register throughout). */
+const STRUCTURE_B2 = [
+  { part: "Betreff", informal: "Anfrage zu Ihrem Kursangebot „Business English kompakt“", formal: "Beschwerde über meinen Aufenthalt vom 3. bis 10. Mai" },
+  { part: "Anrede", informal: "Sehr geehrte Damen und Herren,", formal: "Sehr geehrte Frau Albers," },
+  {
+    part: "Einleitung",
+    informal: "mit großem Interesse habe ich Ihre Anzeige auf Ihrer Website gelesen und würde gern einige Fragen zu Ihrem Angebot stellen.",
+    formal: "leider muss ich mich über meinen Aufenthalt in Ihrem Hotel beschweren, der in keiner Weise Ihrer Werbung entsprach.",
+  },
+  {
+    part: "3 Leitpunkte",
+    informal: "Zunächst wüsste ich gern, ob … Darüber hinaus interessiert mich, inwiefern … Abschließend möchte ich Sie bitten, mir mitzuteilen, …",
+    formal: "In Ihrer Anzeige versprechen Sie … Tatsächlich war jedoch … Aus diesem Grund erwarte ich, dass Sie mir … erstatten.",
+  },
+  {
+    part: "Schluss",
+    informal: "Für eine baldige Antwort wäre ich Ihnen sehr dankbar.",
+    formal: "Sollte ich bis zum 30. Mai keine Antwort erhalten, sehe ich mich gezwungen, weitere Schritte einzuleiten.",
+  },
+  { part: "Gruß", informal: "Mit freundlichen Grüßen\nSamira Haddad", formal: "Mit freundlichen Grüßen\nSamira Haddad" },
+];
+
 const STRUCTURE = [
   { part: "Betreff", informal: "Deine Einladung zum Sommerfest", formal: "Ihre Anfrage zum Ausflug am 12. Juni" },
   { part: "Anrede", informal: "Liebe Sara, / Lieber Jonas, / Hallo Max,", formal: "Sehr geehrte Frau Weber, / Sehr geehrter Herr Kaya," },
@@ -34,6 +56,8 @@ export default async function SchreibenPage(props: PageProps<"/[locale]/[exam]/s
   const section = getSection(exam, "schreiben")!;
   const part = section.parts[0];
   const ui = SECTION_UI.schreiben;
+  const b2 = part.writing?.cover === "three";
+  const rows = b2 ? STRUCTURE_B2 : STRUCTURE;
   const sets = getSets(exam.id, part.id, locale).flatMap(({ number, set }) =>
     set.type === "writing-email"
       ? [
@@ -44,7 +68,7 @@ export default async function SchreibenPage(props: PageProps<"/[locale]/[exam]/s
             topic: set.topic,
             difficulty: set.difficulty,
             href: setHref(exam, part, number),
-            badge: set.register === "informal" ? "du" : "Sie",
+            badge: set.taskLabel ?? (set.register === "informal" ? "du" : "Sie"),
           },
         ]
       : [],
@@ -76,15 +100,15 @@ export default async function SchreibenPage(props: PageProps<"/[locale]/[exam]/s
           <section className="overflow-hidden rounded-2xl border bg-card">
             <div className="border-b px-5 py-4">
               <h2 className="font-semibold">{t.structure.title}</h2>
-              <p className="text-sm text-muted-foreground">{t.structure.text}</p>
+              <p className="text-sm text-muted-foreground">{b2 ? t.structure.textB2 : t.structure.text}</p>
             </div>
             <div className="divide-y">
               <div className="hidden grid-cols-[140px_1fr_1fr] gap-4 bg-muted/40 px-5 py-2 text-xs font-semibold tracking-wide text-muted-foreground uppercase md:grid">
                 <span>{t.structure.part}</span>
-                <span>{t.structure.informal}</span>
-                <span>{t.structure.semiformal}</span>
+                <span>{b2 ? t.structure.request : t.structure.informal}</span>
+                <span>{b2 ? t.structure.complaint : t.structure.semiformal}</span>
               </div>
-              {STRUCTURE.map((row) => (
+              {rows.map((row) => (
                 <div key={row.part} className="grid gap-2 px-5 py-3 md:grid-cols-[140px_1fr_1fr] md:gap-4">
                   <span className="text-sm font-semibold text-schreiben">{row.part}</span>
                   <span className="reading text-[14.5px] whitespace-pre-line">{row.informal}</span>
@@ -96,6 +120,12 @@ export default async function SchreibenPage(props: PageProps<"/[locale]/[exam]/s
         </div>
 
         <aside className="space-y-4">
+          {part.writing?.choice && (
+            <div className="rounded-2xl border border-schreiben/30 bg-schreiben/5 p-5">
+              <h3 className="font-semibold">{t.choiceTitle}</h3>
+              <p className="mt-1 text-sm text-muted-foreground">{t.choiceText}</p>
+            </div>
+          )}
           <div className="rounded-2xl border bg-card p-5">
             <h3 className="font-semibold">{t.marking.title}</h3>
             <p className="mt-1 text-sm text-muted-foreground">{t.marking.text}</p>

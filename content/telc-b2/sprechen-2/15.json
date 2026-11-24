@@ -1,0 +1,99 @@
+{
+  "id": "sprechen-2-15",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Gratis mit Bus und Bahn?",
+  "topic": "reisen",
+  "difficulty": 2,
+  "theme": "Sollten Busse und Bahnen in der Stadt kostenlos sein?",
+  "article": {
+    "headline": "Gratis einsteigen: Hollenbecks Nulltarif auf dem Prüfstand",
+    "lead": "Als erste Stadt ihrer Größe hat Hollenbeck die Fahrkarte für Busse und Straßenbahnen abgeschafft. Nach zwölf Monaten zeigt sich: Der Andrang ist groß, doch nicht alle Erwartungen haben sich erfüllt.",
+    "paragraphs": [
+      "Rund 180.000 Einwohnerinnen und Einwohner, 34 Buslinien, zwei Straßenbahnlinien – und kein einziger Fahrkartenautomat mehr. Seit dem vergangenen Herbst kann in Hollenbeck jeder kostenlos einsteigen, ob Pendlerin, Schüler oder Tourist. Finanziert wird das Projekt durch höhere Parkgebühren in der Innenstadt, eine Abgabe für Betriebe mit mehr als 50 Beschäftigten und Zuschüsse des Landes. Insgesamt kostet der Nulltarif die Stadt jährlich rund 41 Millionen Euro.",
+      "Seitdem ist die Zahl der Fahrgäste um 38 Prozent gestiegen. „Viele Familien sparen im Monat 100 Euro und mehr, und ältere Menschen kommen wieder öfter aus dem Haus“, freut sich Oberbürgermeisterin Katrin Seebald. Auch der Einzelhandel in der Innenstadt meldet mehr Kundschaft.",
+      "Eine Auswertung der örtlichen Hochschule dämpft allerdings die Hoffnungen auf eine Verkehrswende: Nur ein kleiner Teil der neuen Fahrgäste war vorher mit dem Auto unterwegs, die meisten gingen früher zu Fuß oder fuhren Rad. Der Autoverkehr nahm lediglich um vier Prozent ab. „Ein kostenloses Ticket allein bringt kaum jemanden dazu, sein Auto stehen zu lassen“, sagt der Verkehrsforscher Malte Gerdesmeier. „Entscheidend sind dichte Takte, zuverlässige Verbindungen und schnelle Wege ins Umland.“",
+      "Genau dort sehen viele Fahrgäste das Problem. Zu Stoßzeiten sind die Busse überfüllt, und weil Geld für zusätzliche Fahrzeuge fehlt, häufen sich die Verspätungen. „Früher hatte ich wenigstens einen Sitzplatz“, klagt die Pflegekraft Dilara Yüksel, die jeden Morgen aus einem Vorort in die Klinik pendelt. Im Frühjahr will der Stadtrat entscheiden, ob das Modell dauerhaft bleibt."
+    ],
+    "source": "Hollenbecker Tageblatt, Stadt und Region"
+  },
+  "ideas": {
+    "pro": [
+      "Entlastung für Familien und Menschen mit wenig Geld",
+      "mehr Mobilität für ältere Menschen und Jugendliche",
+      "keine Automaten, keine Kontrollen, weniger Bürokratie",
+      "gut für Klima und Luft, wenn Autofahrer umsteigen",
+      "belebt die Innenstadt und den Einzelhandel"
+    ],
+    "contra": [
+      "sehr teuer für die Stadt und die Steuerzahler",
+      "kaum weniger Autoverkehr – statt Rad und Fußweg wird Bus gefahren",
+      "überfüllte Busse und mehr Verspätungen",
+      "das Geld fehlt für dichtere Takte und neue Linien",
+      "auch Menschen, die es sich leisten könnten, fahren gratis",
+      "Pendler aus dem Umland haben wenig davon"
+    ]
+  },
+  "questions": [
+    "Wie kommen Sie selbst normalerweise zur Arbeit oder zum Kurs? Warum?",
+    "Was müsste sich ändern, damit mehr Menschen ihr Auto stehen lassen?",
+    "Wer sollte den Nahverkehr Ihrer Meinung nach bezahlen?",
+    "Wie ist der öffentliche Verkehr in Ihrem Heimatland organisiert?",
+    "Wäre ein günstiges Monatsticket eine bessere Lösung als der Nulltarif?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Minji Park", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Babak Farahani", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange mal an. Der Artikel beschreibt die Stadt Hollenbeck, wo man seit einem Jahr kostenlos mit Bus und Straßenbahn fahren kann. Bezahlt wird das unter anderem durch höhere Parkgebühren und eine Abgabe für größere Firmen." },
+    { "s": "A", "t": "Die Zahl der Fahrgäste ist um achtunddreißig Prozent gestiegen, und laut der Oberbürgermeisterin sparen Familien viel Geld. Eine Auswertung zeigt aber, dass kaum Autofahrer umgestiegen sind, sondern vor allem Leute, die vorher zu Fuß gegangen oder Rad gefahren sind. Ein Verkehrsforscher meint deshalb, ein kostenloses Ticket allein reiche nicht." },
+    { "s": "B", "t": "Ja, und ich finde noch einen Aspekt wichtig: Zu Stoßzeiten sind die Busse total überfüllt, und es gibt mehr Verspätungen. Eine Pflegekraft beschwert sich im Artikel, dass sie früher wenigstens einen Sitzplatz hatte." },
+    { "s": "A", "t": "Das kann ich mir gut vorstellen. Trotzdem finde ich die Idee eigentlich super. Als ich nach Deutschland gekommen bin, war ich wirklich schockiert, wie teuer hier eine einfache Fahrt ist." },
+    { "s": "B", "t": "Echt? Wie ist das denn in Südkorea? Ist der Nahverkehr dort billiger?" },
+    { "s": "A", "t": "Ja, deutlich. Und in Seoul fahren Menschen ab fünfundsechzig schon seit Jahrzehnten kostenlos U-Bahn. Allerdings wird bei uns gerade heftig darüber gestritten, weil die Verkehrsbetriebe deshalb große Verluste machen." },
+    { "s": "B", "t": "Siehst du, genau das ist der Punkt: Irgendjemand muss es bezahlen. Und ich glaube, die Leute steigen nicht um, weil es billig ist, sondern weil es zuverlässig ist." },
+    { "s": "B", "t": "Ich würde mein Auto sofort verkaufen, wenn abends nach acht noch ein Bus in mein Dorf fahren würde. Aber so bin ich darauf angewiesen." },
+    { "s": "A", "t": "Da hast du zwar recht, aber für viele Menschen ist der Preis eben doch entscheidend. Ich denke da an Studierende, Rentnerinnen mit kleiner Rente oder Familien mit drei Kindern." },
+    { "s": "B", "t": "Das stimmt schon. Aber muss deshalb auch jemand gratis fahren, der zweihundert Euro im Monat für einen Parkplatz ausgeben kann? Mit einundvierzig Millionen im Jahr könnte man ziemlich viele neue Busse kaufen." },
+    { "s": "A", "t": "Der Einwand ist berechtigt. Aber ein Ticket nur für Bedürftige bedeutet auch wieder Anträge, Nachweise und Kontrollen. Das kostet ebenfalls Geld und schreckt viele ab." },
+    { "s": "B", "t": "Okay, das sehe ich ein. Wie fährst du eigentlich selbst zur Arbeit?" },
+    { "s": "A", "t": "Mit dem Fahrrad, meistens jedenfalls. Und ehrlich gesagt bin ich genau so ein Fall wie im Artikel: Wenn der Bus gratis wäre, würde ich bei Regen bestimmt öfter einsteigen. Für das Klima wäre damit also nichts gewonnen." },
+    { "s": "B", "t": "Eben. Deshalb sollte man das Geld lieber in bessere Verbindungen stecken, vor allem ins Umland. Die meisten Pendler kommen doch nicht aus der Innenstadt, sondern von draußen." },
+    { "s": "A", "t": "Das ist richtig. Andererseits hat der Nulltarif auch einen Vorteil, an den man nicht sofort denkt: Ältere Menschen kommen wieder mehr unter Leute. Das ist auch etwas wert, selbst wenn es sich nicht in Zahlen ausdrücken lässt." },
+    { "s": "P", "t": "Wäre denn ein günstiges Monatsticket eine Lösung?" },
+    { "s": "B", "t": "Ich finde schon. Ein Ticket für, sagen wir, fünfzehn Euro im Monat wäre für fast alle bezahlbar, und die Stadt hätte trotzdem Einnahmen für neue Fahrzeuge." },
+    { "s": "A", "t": "Das wäre ein Kompromiss, mit dem ich leben könnte. Allerdings nur, wenn Kinder, Jugendliche und Menschen mit wenig Geld wirklich kostenlos fahren." },
+    { "s": "B", "t": "Einverstanden. Und gleichzeitig müssten die Busse öfter fahren, sonst stehen bald noch mehr Leute im vollen Bus." },
+    { "s": "A", "t": "Dann sind wir uns ja fast einig: Der Preis ist wichtig, aber noch wichtiger ist ein Angebot, auf das man sich verlassen kann." },
+    { "s": "B", "t": "Genau. Kostenlos allein reicht nicht, gut muss es auch sein." }
+  ],
+  "phrases": [
+    { "de": "Ich fange mal an.", "en": "I'll start, then." },
+    { "de": "Der Artikel beschreibt …", "en": "The article describes …" },
+    { "de": "Ich finde noch einen Aspekt wichtig: …", "en": "There's one more aspect I find important: …" },
+    { "de": "Das kann ich mir gut vorstellen.", "en": "I can easily imagine that." },
+    { "de": "Siehst du, genau das ist der Punkt: …", "en": "You see, that's exactly the point: …" },
+    { "de": "Für viele Menschen ist … eben doch entscheidend.", "en": "For many people, … is decisive after all." },
+    { "de": "Der Einwand ist berechtigt. Aber …", "en": "That's a fair objection. But …" },
+    { "de": "Okay, das sehe ich ein.", "en": "OK, I accept that." },
+    { "de": "Andererseits hat … auch einen Vorteil, an den man nicht sofort denkt.", "en": "On the other hand, … also has an advantage you don't think of straight away." },
+    { "de": "Das wäre ein Kompromiss, mit dem ich leben könnte.", "en": "That would be a compromise I could live with." },
+    { "de": "Dann sind wir uns ja fast einig: …", "en": "So we almost agree: …" }
+  ],
+  "vocabulary": [
+    { "de": "der öffentliche Nahverkehr", "en": "local public transport" },
+    { "de": "der Nulltarif", "en": "free travel, zero fare" },
+    { "de": "der Fahrgast (die Fahrgäste)", "en": "passenger(s)" },
+    { "de": "pendeln / der Pendler, die Pendlerin", "en": "to commute / commuter" },
+    { "de": "die Stoßzeit", "en": "rush hour" },
+    { "de": "der Takt", "en": "service frequency, interval" },
+    { "de": "das Umland", "en": "surrounding area" },
+    { "de": "die Parkgebühr", "en": "parking fee" },
+    { "de": "die Abgabe", "en": "levy, charge" },
+    { "de": "auf etwas umsteigen", "en": "to switch to something" },
+    { "de": "auf etwas angewiesen sein", "en": "to depend on something" },
+    { "de": "überfüllt", "en": "overcrowded" }
+  ]
+}

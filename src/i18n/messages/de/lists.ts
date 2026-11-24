@@ -8,6 +8,7 @@ export const lists: Messages["lists"] = {
     title: "Listen",
     description:
       "In Sprachbausteine Teil 2 geht es bei vielen Lücken um feste Verbindungen. Lerne sie immer als Ganzes – zu jeder Liste gibt es eine kurze Übung.",
+    levelTitle: (level) => (level === "B2" ? "B2 – der nächste Schritt (ergänzt die B1-Listen)" : `${level} – die Grundlagen`),
   },
   list: {
     metaFallback: "Wortliste",

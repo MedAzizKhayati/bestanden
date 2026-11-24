@@ -1,0 +1,142 @@
+{
+  "id": "sprachbausteine-1-06",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Psychologie oder Soziale Arbeit?",
+  "topic": "bildung",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Lieber Konstantin,\n\nwie geht es dir in Wien? Ich hoffe, du hast dich gut eingelebt und dein Studium läuft so, wie du es dir vorgestellt hast. Ich schreibe dir heute, weil ich dringend deinen Rat brauche. Du hast [[1]] nach dem Abi auch lange zwischen zwei Fächern geschwankt und weißt deshalb, wie sich das anfühlt.\n\nIm Juni bekomme ich mein Abiturzeugnis, und danach möchte ich auf jeden Fall studieren. Nur was? Mich interessieren vor allem Psychologie und Soziale Arbeit, denn ich möchte später unbedingt etwas [[2]] machen. Für Psychologie braucht man allerdings einen sehr guten Notendurchschnitt, und es ist völlig unklar, ob ich überhaupt einen [[3]] bekomme. Soziale Arbeit kann man dagegen auch an einer Fachhochschule studieren, und nach dem [[4]] findet man angeblich ziemlich schnell eine Stelle. [[5]] gut die Berufsaussichten auch sein mögen, reich wird man damit leider nicht.\n\nMeine Eltern sind mir keine große Hilfe: Mein Vater hält [[6]] das eine noch das andere für einen „richtigen Beruf“ und rät mir zu Jura, weil man damit gut verdient. Ich will mich aber nicht allein vom Gehalt leiten [[7]]. Meine Mutter meint nur, ich solle auf mein Bauchgefühl hören – vorher möchte ich aber wenigstens einigermaßen genau wissen, was mich im Studium erwartet.\n\nVielleicht könnte ich mir die Wahl dadurch erleichtern, [[8]] ich nach den Prüfungen in beiden Bereichen ein kurzes Praktikum mache. Was hältst du davon? Viel Zeit bleibt mir allerdings nicht: Auf der Website meiner Wunsch-Uni steht, die Bewerbungsunterlagen seien bis zum 15. Juli [[9]].\n\nDu kennst doch bestimmt ein paar Leute, die so etwas studieren. Wenn du Zeit hast, frag doch mal [[10]] von ihnen, wie der Studienalltag wirklich aussieht. Ich wäre dir unendlich dankbar!\n\nLiebe Grüße aus Rostock\nNele",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "denn" },
+        { "key": "b", "text": "bloß" },
+        { "key": "c", "text": "ja" }
+      ],
+      "answer": "c",
+      "explanation": "The modal particle „ja“ refers to something both writers already know: Konstantin also hesitated after his Abitur. As a particle, „denn“ only appears in questions, and „bloß“ is used in warnings or wishes („Komm bloß nicht zu spät!“) or means „only“.",
+      "explanationDe": "Die Modalpartikel „ja“ zeigt, dass beide etwas schon wissen: Konstantin hat nach dem Abi auch lange geschwankt. Als Partikel steht „denn“ nur in Fragen, und „bloß“ benutzt man in Warnungen oder Wünschen („Komm bloß nicht zu spät!“) oder im Sinn von „nur“.",
+      "grammar": "modalpartikeln"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "Sinnvolles" },
+        { "key": "b", "text": "Sinnvollem" },
+        { "key": "c", "text": "Sinnvolle" }
+      ],
+      "answer": "a",
+      "explanation": "After „etwas“ an adjective becomes a neuter noun with a strong ending; as the object of „machen“ (accusative) it is „etwas Sinnvolles“. „Sinnvolle“ lacks the „-s“, and „Sinnvollem“ would be dative („mit etwas Sinnvollem“).",
+      "explanationDe": "Nach „etwas“ wird ein Adjektiv zum neutralen Nomen mit starker Endung. Als Akkusativobjekt von „machen“ heißt es „etwas Sinnvolles“. Bei „Sinnvolle“ fehlt das „-s“, und „Sinnvollem“ wäre Dativ („mit etwas Sinnvollem“).",
+      "grammar": "adjektivdeklination-b2"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "Studienfach" },
+        { "key": "b", "text": "Studienplatz" },
+        { "key": "c", "text": "Studiengang" }
+      ],
+      "answer": "b",
+      "explanation": "Psychology requires „einen sehr guten Notendurchschnitt“, so Nele is not sure she will get „einen Studienplatz“ (a place at university). A „Studiengang“ is a degree programme that you choose rather than „bekommen“, and „Studienfach“ is neuter, so it does not fit „einen“.",
+      "explanationDe": "Für Psychologie braucht man „einen sehr guten Notendurchschnitt“, deshalb weiß Nele nicht, ob sie „einen Studienplatz“ bekommt. Einen „Studiengang“ wählt man, man „bekommt“ ihn nicht, und „Studienfach“ ist neutral – es passt nicht zu „einen“."
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "Ausschluss" },
+        { "key": "b", "text": "Abschluss" },
+        { "key": "c", "text": "Anschluss" }
+      ],
+      "answer": "b",
+      "explanation": "„nach dem Abschluss“ means after graduating – that is when you look for a job. „Anschluss“ means connection (train, internet, social contacts), and „Ausschluss“ means exclusion.",
+      "explanationDe": "„nach dem Abschluss“ heißt „wenn man das Studium mit einer Prüfung beendet hat“ – dann sucht man eine Stelle. „Anschluss“ bedeutet Verbindung (Zug, Internet, Kontakte), und „Ausschluss“ bedeutet, dass jemand nicht mehr dabei sein darf."
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "Obwohl" },
+        { "key": "b", "text": "Zwar" },
+        { "key": "c", "text": "So" }
+      ],
+      "answer": "c",
+      "explanation": "„So + adjective … auch …“ forms a concessive clause: „So gut die Berufsaussichten auch sein mögen“ = however good the prospects may be. After „Obwohl“ the adjective cannot come first („Obwohl die Berufsaussichten gut sind …“), and „Zwar“ needs a main clause with „aber“.",
+      "explanationDe": "„So + Adjektiv … auch …“ bildet einen konzessiven Satz: „So gut die Berufsaussichten auch sein mögen“ = auch wenn die Berufsaussichten sehr gut sind. Nach „Obwohl“ kann das Adjektiv nicht direkt folgen („Obwohl die Berufsaussichten gut sind …“), und „Zwar“ braucht einen Hauptsatz mit „aber“.",
+      "grammar": "konzessive-saetze-b2"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "weder" },
+        { "key": "b", "text": "entweder" },
+        { "key": "c", "text": "sowohl" }
+      ],
+      "answer": "a",
+      "explanation": "The „noch“ later in the sentence shows the two-part connector „weder … noch“ (neither … nor): the father considers neither subject a „richtigen Beruf“. „entweder“ pairs with „oder“, and „sowohl“ with „als auch“.",
+      "explanationDe": "Das „noch“ später im Satz zeigt den zweiteiligen Konnektor „weder … noch“: Der Vater hält keins der beiden Fächer für einen „richtigen Beruf“. „entweder“ gehört zu „oder“, „sowohl“ zu „als auch“.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "lassen" },
+        { "key": "b", "text": "gelassen" },
+        { "key": "c", "text": "zu lassen" }
+      ],
+      "answer": "a",
+      "explanation": "„sich von etwas leiten lassen“ (to let oneself be guided by something) follows the modal verb „will“, so „lassen“ stands as a plain infinitive at the end: „Ich will mich … leiten lassen“. After a modal verb there is no „zu“, and the participle „gelassen“ would need „haben“.",
+      "explanationDe": "„sich von etwas leiten lassen“ steht hier nach dem Modalverb „will“. Deshalb steht „lassen“ als Infinitiv ohne „zu“ am Ende: „Ich will mich … leiten lassen“. Nach Modalverben gibt es kein „zu“, und das Partizip „gelassen“ bräuchte „haben“.",
+      "grammar": "lassen"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "indem" },
+        { "key": "b", "text": "wenn" },
+        { "key": "c", "text": "dass" }
+      ],
+      "answer": "c",
+      "explanation": "„dadurch“ in the main clause announces the method, and the matching subordinate clause starts with „dass“: „dadurch …, dass ich … ein Praktikum mache“. „indem“ means the same but is used without „dadurch“ – „dadurch, indem“ is a common mistake – and „dadurch, wenn“ is not possible.",
+      "explanationDe": "„dadurch“ im Hauptsatz kündigt das Mittel an, und der passende Nebensatz beginnt mit „dass“: „dadurch …, dass ich … ein Praktikum mache“. „indem“ bedeutet dasselbe, steht aber ohne „dadurch“ – „dadurch, indem“ ist ein typischer Fehler –, und „dadurch, wenn“ gibt es nicht.",
+      "grammar": "modalsaetze"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "zu einreichen" },
+        { "key": "b", "text": "einzureichen" },
+        { "key": "c", "text": "einreichen" }
+      ],
+      "answer": "b",
+      "explanation": "„sein + zu + infinitive“ is a passive alternative meaning „must be done“: the documents must be submitted by 15 July. With separable verbs „zu“ goes between prefix and stem – „einzureichen“, not „zu einreichen“ – and „seien … einreichen“ without „zu“ is not a German verb form.",
+      "explanationDe": "„sein + zu + Infinitiv“ ist eine Passiv-Alternative und bedeutet „muss … werden“: Die Unterlagen müssen bis zum 15. Juli eingereicht werden. Bei trennbaren Verben steht „zu“ zwischen Präfix und Verb – „einzureichen“, nicht „zu einreichen“ –, und „seien … einreichen“ ohne „zu“ gibt es nicht.",
+      "grammar": "passiversatz"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "einen" },
+        { "key": "b", "text": "einem" },
+        { "key": "c", "text": "einer" }
+      ],
+      "answer": "a",
+      "explanation": "„fragen“ takes the accusative, so the indefinite pronoun for one person out of the group is „einen“: „frag … einen von ihnen“. „einem“ is dative, and „einer“ is nominative masculine or dative/genitive feminine.",
+      "explanationDe": "„fragen“ braucht den Akkusativ. Das Indefinitpronomen für eine Person aus der Gruppe heißt deshalb „einen“: „frag … einen von ihnen“. „einem“ ist Dativ, und „einer“ ist Nominativ maskulin oder Dativ/Genitiv feminin.",
+      "grammar": "pronomen"
+    }
+  ],
+  "glossary": [
+    { "de": "sich einleben", "en": "to settle in" },
+    { "de": "zwischen zwei Dingen schwanken", "en": "to waver between two things" },
+    { "de": "der Notendurchschnitt", "en": "grade average" },
+    { "de": "der Studienplatz", "en": "place at university" },
+    { "de": "die Fachhochschule", "en": "university of applied sciences" },
+    { "de": "die Berufsaussichten (Pl.)", "en": "career prospects" },
+    { "de": "sich von etwas leiten lassen", "en": "to let oneself be guided by something" },
+    { "de": "das Bauchgefühl", "en": "gut feeling" },
+    { "de": "die Bewerbungsunterlagen (Pl.)", "en": "application documents" },
+    { "de": "etwas einreichen", "en": "to submit something" }
+  ]
+}

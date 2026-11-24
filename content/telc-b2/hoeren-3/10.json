@@ -1,0 +1,111 @@
+{
+  "id": "hoeren-3-10",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Wind, Schnee und Felsen",
+  "topic": "reisen",
+  "difficulty": 3,
+  "speakers": [
+    { "id": "schiff", "gender": "m", "age": "adult", "role": "Kapitän" },
+    { "id": "fest", "gender": "m", "age": "young", "role": "Lautsprecheransage" },
+    { "id": "kasse", "gender": "f", "age": "adult", "role": "Telefonansage der Krankenkasse" },
+    { "id": "verkehr", "gender": "m", "age": "senior", "role": "Radiosprecher" },
+    { "id": "ski", "gender": "f", "age": "young", "role": "Schneetelefon" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage auf dem Schiff",
+      "context": "Sie hören eine Durchsage auf einem Schiff.",
+      "script": [
+        { "s": "schiff", "t": "Liebe Fahrgäste, hier spricht Ihr Kapitän. Wegen des starken Westwinds können wir den Hafen von Unteruhldingen heute leider nicht anlaufen und fahren direkt weiter nach Meersburg." },
+        { "s": "schiff", "t": "Wer nach Unteruhldingen möchte, steigt bitte in Meersburg aus. Dort wartet am Hafen ein Bus, der Sie in etwa einer Viertelstunde ans Ziel bringt, ohne dass Sie dafür ein weiteres Ticket lösen müssen." },
+        { "s": "schiff", "t": "Fahrräder können im Bus allerdings nicht mitgenommen werden. Radfahrer erreichen Unteruhldingen von Meersburg aus am besten über den Uferweg, das sind etwa zehn Kilometer." }
+      ],
+      "statement": "Wer nach Unteruhldingen will, muss für den Bus ab Meersburg nichts zusätzlich bezahlen.",
+      "answer": true,
+      "explanation": "The bus takes passengers to Unteruhldingen „ohne dass Sie dafür ein weiteres Ticket lösen müssen“ – so there is no extra cost. The restriction introduced by „allerdings“ concerns only bicycles, which the bus cannot take.",
+      "explanationDe": "Der Bus bringt die Fahrgäste nach Unteruhldingen, „ohne dass Sie dafür ein weiteres Ticket lösen müssen“ – es kostet also nichts extra. Die Einschränkung mit „allerdings“ betrifft nur Fahrräder, die der Bus nicht mitnimmt.",
+      "evidence": "ohne dass Sie dafür ein weiteres Ticket lösen müssen"
+    },
+    {
+      "n": 2,
+      "label": "Durchsage auf dem Stadtfest",
+      "context": "Sie hören eine Durchsage auf einem Stadtfest.",
+      "script": [
+        { "s": "fest", "t": "Liebe Festbesucherinnen und Festbesucher, wegen der starken Windböen kann das Feuerwerk über dem Neckar heute leider nicht wie geplant um 22 Uhr stattfinden." },
+        { "s": "fest", "t": "Abgesagt ist es damit aber nicht: Wir holen es morgen zur selben Uhrzeit und am selben Ort nach." },
+        { "s": "fest", "t": "Damit Sie trotzdem auf Ihre Kosten kommen, spielen die Bands auf dem Marktplatz heute eine Stunde länger als vorgesehen, nämlich bis Mitternacht." },
+        { "s": "fest", "t": "Die Sonderbusse in die Vororte fahren wie angekündigt bis ein Uhr nachts, und zwar alle zwanzig Minuten ab der Haltestelle Rathaus." }
+      ],
+      "statement": "Ohne das Feuerwerk ist auf den Bühnen am Marktplatz heute früher Schluss als geplant.",
+      "answer": false,
+      "explanation": "The opposite is true: the bands play „heute eine Stunde länger als vorgesehen, nämlich bis Mitternacht“. The fireworks are not cancelled either – they are held tomorrow instead.",
+      "explanationDe": "Das Gegenteil stimmt: Die Bands spielen „heute eine Stunde länger als vorgesehen, nämlich bis Mitternacht“. Auch das Feuerwerk fällt nicht ganz aus – es wird morgen nachgeholt.",
+      "evidence": "spielen die Bands auf dem Marktplatz heute eine Stunde länger als vorgesehen, nämlich bis Mitternacht"
+    },
+    {
+      "n": 3,
+      "label": "Telefonansage einer Krankenkasse",
+      "context": "Sie hören die Telefonansage einer Krankenkasse.",
+      "script": [
+        { "s": "kasse", "t": "Guten Tag und willkommen bei der Krankenkasse Vitalis. Ihr Anruf wird in Kürze entgegengenommen." },
+        { "s": "kasse", "t": "Bitte beachten Sie: Ihre Krankmeldung müssen Sie uns in der Regel nicht mehr selbst schicken, da die Arztpraxen sie inzwischen elektronisch an uns übermitteln." },
+        { "s": "kasse", "t": "Nur wenn Sie im Ausland krankgeschrieben wurden oder bei einem Privatarzt in Behandlung sind, laden Sie die Bescheinigung bitte in unserer App hoch oder schicken Sie sie uns per Post." },
+        { "s": "kasse", "t": "Für Fragen zu Ihrem Beitrag drücken Sie bitte die Eins, für alle anderen Anliegen bleiben Sie einfach in der Leitung." }
+      ],
+      "statement": "Wer auf einer Auslandsreise krankgeschrieben wird, muss den Nachweis selbst bei der Krankenkasse einreichen.",
+      "answer": true,
+      "explanation": "Normally the practice sends the sick note electronically, but there is an exception: „Nur wenn Sie im Ausland krankgeschrieben wurden …“ do you have to upload it in the app or send it by post yourself.",
+      "explanationDe": "Normalerweise schickt die Arztpraxis die Krankmeldung elektronisch. Es gibt aber eine Ausnahme: „Nur wenn Sie im Ausland krankgeschrieben wurden …“, musst du die Bescheinigung selbst in der App hochladen oder per Post schicken.",
+      "evidence": "Nur wenn Sie im Ausland krankgeschrieben wurden oder bei einem Privatarzt in Behandlung sind, laden Sie die Bescheinigung bitte in unserer App hoch oder schicken Sie sie uns per Post."
+    },
+    {
+      "n": 4,
+      "label": "Verkehrsmeldung im Radio",
+      "context": "Sie hören eine Verkehrsmeldung im Radio.",
+      "script": [
+        { "s": "verkehr", "t": "Eine Meldung für Bahnreisende in Tirol: Wegen eines Felssturzes ist die Strecke zwischen Wörgl und Kufstein seit heute früh gesperrt." },
+        { "s": "verkehr", "t": "Die Züge aus Innsbruck enden vorerst in Wörgl, von dort geht es mit Ersatzbussen weiter. Rechnen Sie mit rund 40 Minuten zusätzlicher Fahrzeit." },
+        { "s": "verkehr", "t": "Ursprünglich hieß es, die Strecke könne bereits heute Abend wieder freigegeben werden. Nach neuesten Auskünften der Bahn dauern die Aufräumarbeiten nun aber mindestens bis morgen Mittag." },
+        { "s": "verkehr", "t": "Die Nachtzüge nach München fallen deshalb heute ganz aus." }
+      ],
+      "statement": "Die Sperrung zwischen Wörgl und Kufstein wird länger dauern, als zunächst gemeldet wurde.",
+      "answer": true,
+      "explanation": "At first the line was to reopen „bereits heute Abend“, but „Nach neuesten Auskünften der Bahn dauern die Aufräumarbeiten nun aber mindestens bis morgen Mittag“. So the closure lasts longer than first reported.",
+      "explanationDe": "Zuerst hieß es, die Strecke sei „bereits heute Abend“ wieder frei. Dann aber: „Nach neuesten Auskünften der Bahn dauern die Aufräumarbeiten nun aber mindestens bis morgen Mittag“. Die Sperrung dauert also länger als zuerst gemeldet.",
+      "evidence": "Nach neuesten Auskünften der Bahn dauern die Aufräumarbeiten nun aber mindestens bis morgen Mittag."
+    },
+    {
+      "n": 5,
+      "label": "Ansage des Schneetelefons",
+      "context": "Sie hören die Ansage auf dem Infotelefon eines Skigebiets.",
+      "script": [
+        { "s": "ski", "t": "Grüezi und herzlich willkommen beim Schneetelefon der Bergbahnen Hochmatt. Hier die Informationen für heute, Mittwoch: Nach dem Neuschnee der letzten Nacht sind im unteren Teil des Gebiets alle Lifte in Betrieb." },
+        { "s": "ski", "t": "Der Sessellift zum Gipfel bleibt wegen Lawinengefahr vorerst geschlossen. Ob er im Laufe des Nachmittags noch öffnen kann, entscheiden wir gegen Mittag." },
+        { "s": "ski", "t": "Weil damit nur ein Teil der Pisten befahrbar ist, kostet die Tageskarte heute nicht 62, sondern 48 Franken. Kinder unter sechs Jahren fahren wie immer gratis." },
+        { "s": "ski", "t": "Die Schlittelbahn ist ab 19 Uhr beleuchtet und bis 22 Uhr geöffnet." }
+      ],
+      "statement": "Ob der Gipfellift heute noch öffnet, wird erst am späten Nachmittag entschieden.",
+      "answer": false,
+      "explanation": "The decision is made „gegen Mittag“. „Nachmittag“ is only when the lift might open – you hear the word, but it refers to something else.",
+      "explanationDe": "Entschieden wird „gegen Mittag“. Der „Nachmittag“ ist nur die Zeit, in der der Lift vielleicht öffnet – das Wort kommt vor, bezieht sich aber auf etwas anderes.",
+      "evidence": "Ob er im Laufe des Nachmittags noch öffnen kann, entscheiden wir gegen Mittag."
+    }
+  ],
+  "glossary": [
+    { "de": "einen Hafen anlaufen", "en": "to call at a port" },
+    { "de": "ein Ticket lösen", "en": "to buy a ticket" },
+    { "de": "die Windbö", "en": "gust of wind" },
+    { "de": "nachholen", "en": "to hold at a later date, to make up for" },
+    { "de": "auf seine Kosten kommen", "en": "to get one's money's worth" },
+    { "de": "übermitteln", "en": "to transmit, to send" },
+    { "de": "krankgeschrieben sein", "en": "to be on sick leave (with a doctor's note)" },
+    { "de": "der Felssturz", "en": "rockfall" },
+    { "de": "der Ersatzbus", "en": "replacement bus" },
+    { "de": "die Lawinengefahr", "en": "avalanche danger" },
+    { "de": "die Schlittelbahn (Schweiz)", "en": "toboggan run" },
+    { "de": "gratis", "en": "free of charge" }
+  ]
+}

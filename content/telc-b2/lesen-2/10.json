@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-10",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Mehrsprachig aufwachsen",
+  "topic": "familie",
+  "difficulty": 2,
+  "article": {
+    "headline": "Mehr als eine Muttersprache",
+    "lead": "Nach Schätzungen von Fachleuten wächst rund ein Drittel der Kinder unter sechs Jahren in Deutschland mit mehr als einer Sprache auf. Eine Hamburger Langzeitstudie räumt mit verbreiteten Befürchtungen auf – und benennt zugleich Hürden, die bislang unterschätzt wurden.",
+    "paragraphs": [
+      "Jahrzehntelang hielt sich hartnäckig die Annahme, Kinder seien mit dem gleichzeitigen Erwerb zweier Sprachen überfordert. Eltern mit einer anderen Familiensprache wurde deshalb nicht selten geraten, zu Hause möglichst Deutsch zu sprechen, damit ihr Kind in Kita und Schule keine Nachteile erleide. Viele folgten diesem Rat – häufig auf Kosten der eigenen Muttersprache, die ihre Kinder später nur noch bruchstückhaft beherrschten.",
+      "Das Hamburger Zentrum für Spracherwerbsforschung hat nun die Sprachentwicklung von 420 Kindern über acht Jahre hinweg begleitet, etwa die Hälfte davon mit mindestens zwei Sprachen. Zu Beginn verfügten die mehrsprachigen Kinder in jeder einzelnen Sprache tatsächlich über einen kleineren Wortschatz als ihre einsprachigen Altersgenossen. Zählte man die Wörter beider Sprachen zusammen, ergab sich jedoch kein Unterschied. Bis zum Ende der zweiten Klasse hatten die meisten von ihnen den Rückstand im Deutschen aufgeholt – vorausgesetzt, sie hatten bereits vor ihrem vierten Geburtstag regelmäßig eine deutschsprachige Kita besucht.",
+      "Auch die Sprachmischung, die Eltern und Erzieherinnen häufig beunruhigt, deutet nach den Ergebnissen der Studie keineswegs auf Verwirrung hin. „Wenn ein Kind mitten im Satz die Sprache wechselt, zeigt es vielmehr, dass es sehr genau weiß, mit wem es spricht“, erklärt die Sprachwissenschaftlerin Elif Brandauer, die das Projekt leitet. Tatsächlich mischten die Kinder vor allem dann, wenn ihr Gegenüber ebenfalls beide Sprachen verstand; im Gespräch mit einsprachigen Erwachsenen kam es dagegen nur selten dazu.",
+      "Ob die Kinder ihre Familiensprache langfristig behielten, hing weniger von strengen Regeln ab als vielfach angenommen. Das bekannte Prinzip „eine Person, eine Sprache“, bei dem jeder Elternteil konsequent nur seine eigene Sprache verwendet, erwies sich als deutlich weniger bedeutsam als die Vielfalt der Gelegenheiten, in denen die Kinder die Sprache erlebten: beim Vorlesen, beim Telefonieren mit den Großeltern, beim gemeinsamen Kochen oder in den Ferien. Auch der Bildungsabschluss der Eltern fiel weniger ins Gewicht als erwartet.",
+      "Eine bislang unterschätzte Hürde sehen die Forschenden in einer Phase, die viele Familien zwischen dem fünften und dem siebten Lebensjahr erleben: Die Kinder verstehen die Familiensprache zwar weiterhin, antworten aber zunehmend nur noch auf Deutsch. In 38 Prozent der untersuchten Familien hatte sich dieses Muster bis zum zehnten Geburtstag verfestigt. Druck sei in dieser Situation der falsche Weg, betont Brandauer. Erfolgversprechender sei es, Anlässe zu schaffen, in denen die Sprache tatsächlich gebraucht werde, etwa Ferien bei Verwandten oder Freundschaften mit Kindern derselben Herkunftssprache. Wer dagegen selbst ins Deutsche wechsle, beschleunige den Verlust in aller Regel.",
+      "Kritisch sieht die Lübecker Logopädin Katrin Sommerfeld, dass Familien bis heute widersprüchliche Ratschläge erhalten. Noch immer werde Eltern in Arztpraxen oder Kitas empfohlen, auf ihre Erstsprache zu verzichten, berichtet sie. Problematisch sei das vor allem, weil die Eltern ihren Kindern dann häufig ein fehlerhaftes Deutsch vermittelten, statt ihnen in der eigenen Sprache ein reiches sprachliches Vorbild zu bieten. Zugleich warnt Sommerfeld davor, echte Sprachentwicklungsstörungen vorschnell auf die Mehrsprachigkeit zu schieben: Solche Störungen würden bei mehrsprachigen Kindern im Durchschnitt deutlich später erkannt als bei einsprachigen.",
+      "Brandauer plädiert deshalb dafür, Mehrsprachigkeit in Kitas und Schulen stärker als Ressource zu begreifen – etwa durch Bilderbücher in verschiedenen Sprachen oder Elternabende, bei denen auch die Familiensprachen ihren Platz haben. „Kein Kind muss sich zwischen seinen Sprachen entscheiden“, sagt sie. „Aber jedes Kind spürt sehr genau, welche seiner Sprachen von den Erwachsenen geschätzt wird.“"
+    ],
+    "source": "Kinderleben – Magazin für Familie und Erziehung"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Beim Wortschatz stellte die Hamburger Studie fest, dass mehrsprachige Kinder …",
+      "options": [
+        { "key": "a", "text": "in jeder ihrer Sprachen dauerhaft weniger Wörter kennen als einsprachige Kinder." },
+        { "key": "b", "text": "ihren Rückstand im Deutschen unabhängig vom Zeitpunkt des Kita-Eintritts aufholen." },
+        { "key": "c", "text": "insgesamt über einen ebenso großen Wortschatz verfügen wie Gleichaltrige mit nur einer Sprache." }
+      ],
+      "answer": "c",
+      "explanation": "„Zählte man die Wörter beider Sprachen zusammen, ergab sich jedoch kein Unterschied“ – their total vocabulary is as large, so (c). The smaller vocabulary per language was only observed „Zu Beginn“, not permanently (a). They catch up in German only „vorausgesetzt, sie hatten bereits vor ihrem vierten Geburtstag regelmäßig eine deutschsprachige Kita besucht“ (b).",
+      "explanationDe": "„Zählte man die Wörter beider Sprachen zusammen, ergab sich jedoch kein Unterschied“ – insgesamt kennen sie gleich viele Wörter, also (c). Weniger Wörter pro Sprache gab es nur „Zu Beginn“, nicht dauerhaft (a). Den Rückstand im Deutschen holen sie nur auf, „vorausgesetzt, sie hatten bereits vor ihrem vierten Geburtstag regelmäßig eine deutschsprachige Kita besucht“ (b).",
+      "evidence": "Zählte man die Wörter beider Sprachen zusammen, ergab sich jedoch kein Unterschied"
+    },
+    {
+      "n": 2,
+      "stem": "Dass Kinder Sprachen mischen, ist nach den Ergebnissen der Studie …",
+      "options": [
+        { "key": "a", "text": "ein Zeichen dafür, dass sie die beiden Sprachen noch nicht sicher auseinanderhalten können." },
+        { "key": "b", "text": "ein Hinweis darauf, dass sie ihre Sprechweise an den jeweiligen Gesprächspartner anpassen." },
+        { "key": "c", "text": "vor allem im Kontakt mit Erwachsenen zu beobachten, die ausschließlich Deutsch sprechen." }
+      ],
+      "answer": "b",
+      "explanation": "Children mix languages „vor allem dann, wenn ihr Gegenüber ebenfalls beide Sprachen verstand“ – the child „weiß, mit wem es spricht“ and adapts, so (b). Mixing does „keineswegs auf Verwirrung“ point – that was the old fear (a). With monolingual adults mixing happened „nur selten“ (c).",
+      "explanationDe": "Die Kinder mischen „vor allem dann, wenn ihr Gegenüber ebenfalls beide Sprachen verstand“ – das Kind „weiß, mit wem es spricht“, und passt sich an, also (b). Das Mischen deutet „keineswegs auf Verwirrung“ hin – das war die alte Befürchtung (a). Mit einsprachigen Erwachsenen kam das Mischen „nur selten“ vor (c).",
+      "evidence": "Tatsächlich mischten die Kinder vor allem dann, wenn ihr Gegenüber ebenfalls beide Sprachen verstand"
+    },
+    {
+      "n": 3,
+      "stem": "Für den Erhalt der Familiensprache war laut Studie vor allem entscheidend, …",
+      "options": [
+        { "key": "a", "text": "in wie vielen unterschiedlichen Alltagssituationen die Kinder die Sprache erlebten." },
+        { "key": "b", "text": "wie konsequent jeder Elternteil ausschließlich bei seiner eigenen Sprache blieb." },
+        { "key": "c", "text": "welchen Bildungsabschluss die Eltern der betreffenden Kinder vorweisen konnten." }
+      ],
+      "answer": "a",
+      "explanation": "The rule „eine Person, eine Sprache“ was „deutlich weniger bedeutsam als die Vielfalt der Gelegenheiten, in denen die Kinder die Sprache erlebten“ – variety of situations counts most, so (a). Option (b) describes exactly that less important rule. The parents’ education „fiel weniger ins Gewicht als erwartet“ (c).",
+      "explanationDe": "Die Regel „eine Person, eine Sprache“ war „deutlich weniger bedeutsam als die Vielfalt der Gelegenheiten, in denen die Kinder die Sprache erlebten“ – am wichtigsten sind viele verschiedene Situationen, also (a). Antwort (b) beschreibt genau diese weniger wichtige Regel. Der Bildungsabschluss der Eltern „fiel weniger ins Gewicht als erwartet“ (c).",
+      "evidence": "erwies sich als deutlich weniger bedeutsam als die Vielfalt der Gelegenheiten, in denen die Kinder die Sprache erlebten"
+    },
+    {
+      "n": 4,
+      "stem": "Wenn Kinder in der Familiensprache nicht mehr antworten, rät Elif Brandauer den Eltern, …",
+      "options": [
+        { "key": "a", "text": "vorübergehend selbst ins Deutsche zu wechseln, bis diese Phase von allein endet." },
+        { "key": "b", "text": "konsequent nur noch Antworten in der Familiensprache gelten zu lassen." },
+        { "key": "c", "text": "für Situationen zu sorgen, in denen die Kinder die Sprache wirklich benötigen." }
+      ],
+      "answer": "c",
+      "explanation": "Brandauer recommends „Anlässe zu schaffen, in denen die Sprache tatsächlich gebraucht werde“, e. g. holidays with relatives, so (c). Switching to German oneself „beschleunige den Verlust in aller Regel“ (a). Insisting on answers in the family language is pressure, and „Druck sei in dieser Situation der falsche Weg“ (b).",
+      "explanationDe": "Brandauer empfiehlt, „Anlässe zu schaffen, in denen die Sprache tatsächlich gebraucht werde“, zum Beispiel Ferien bei Verwandten, also (c). Wer selbst ins Deutsche wechselt, „beschleunige den Verlust in aller Regel“ (a). Nur Antworten in der Familiensprache zu akzeptieren, ist Druck – und „Druck sei in dieser Situation der falsche Weg“ (b).",
+      "evidence": "Erfolgversprechender sei es, Anlässe zu schaffen, in denen die Sprache tatsächlich gebraucht werde"
+    },
+    {
+      "n": 5,
+      "stem": "Die Logopädin Katrin Sommerfeld kritisiert unter anderem, dass …",
+      "options": [
+        { "key": "a", "text": "Eltern noch immer geraten wird, mit ihren Kindern nicht in ihrer Erstsprache zu sprechen." },
+        { "key": "b", "text": "Sprachstörungen bei mehrsprachigen Kindern zu früh und zu häufig festgestellt werden." },
+        { "key": "c", "text": "Eltern mit einer anderen Erstsprache zu Hause zu selten Deutsch mit ihren Kindern sprechen." }
+      ],
+      "answer": "a",
+      "explanation": "„Noch immer werde Eltern in Arztpraxen oder Kitas empfohlen, auf ihre Erstsprache zu verzichten“ – she criticises this advice, so (a). She says the opposite about diagnosis: disorders are recognised „deutlich später“ in multilingual children (b). She warns that parents speaking German then pass on „ein fehlerhaftes Deutsch“ – she does not want more German at home (c).",
+      "explanationDe": "„Noch immer werde Eltern in Arztpraxen oder Kitas empfohlen, auf ihre Erstsprache zu verzichten“ – diesen Rat kritisiert sie, also (a). Bei der Diagnose sagt sie das Gegenteil: Störungen werden bei mehrsprachigen Kindern „deutlich später“ erkannt (b). Sie warnt, dass Eltern dann „ein fehlerhaftes Deutsch“ weitergeben – sie will also nicht mehr Deutsch zu Hause (c).",
+      "evidence": "Noch immer werde Eltern in Arztpraxen oder Kitas empfohlen, auf ihre Erstsprache zu verzichten"
+    }
+  ],
+  "glossary": [
+    { "de": "sich hartnäckig halten", "en": "to persist stubbornly" },
+    { "de": "der Erwerb", "en": "acquisition" },
+    { "de": "überfordert sein", "en": "to be overwhelmed" },
+    { "de": "bruchstückhaft", "en": "fragmentary, patchy" },
+    { "de": "der Altersgenosse / die Altersgenossin", "en": "peer of the same age" },
+    { "de": "den Rückstand aufholen", "en": "to catch up" },
+    { "de": "das Gegenüber", "en": "the person one is talking to" },
+    { "de": "ins Gewicht fallen", "en": "to carry weight, to matter" },
+    { "de": "sich verfestigen", "en": "to become entrenched" },
+    { "de": "erfolgversprechend", "en": "promising" },
+    { "de": "die Logopädin / der Logopäde", "en": "speech therapist" },
+    { "de": "etwas auf etwas schieben", "en": "to blame something on something" }
+  ]
+}

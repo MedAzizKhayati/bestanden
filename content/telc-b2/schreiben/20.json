@@ -1,0 +1,60 @@
+{
+  "id": "schreiben-20",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Neue Wohnungen der Genossenschaft",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Sie wohnen mit Ihrer Familie in einer Mietwohnung, die inzwischen zu klein geworden ist. In der Zeitung haben Sie die folgende Anzeige einer Wohnungsgenossenschaft gelesen. Schreiben Sie eine E-Mail an die Genossenschaft und bitten Sie um weitere Informationen.",
+  "stimulus": {
+    "kind": "ad",
+    "subject": "Wohnungsgenossenschaft Lindengraben eG – Neubauprojekt „Am Lindengraben“ in Münster",
+    "body": "Gemeinsam statt allein: Im Frühjahr 2027 sind unsere 46 neuen Genossenschaftswohnungen bezugsfertig.\n\n• 2- bis 5-Zimmer-Wohnungen von 52 bis 118 m², alle mit Balkon oder Terrasse\n• Barrierefreie Ausstattung und Aufzug in jedem Haus\n• Energiesparende Bauweise mit Solaranlage und Wärmepumpe\n• Nutzungsgebühr ab 9,40 € pro m² (ohne Nebenkosten)\n• Gemeinschaftsgarten, Fahrradwerkstatt und ein Gemeinschaftsraum für Feste\n• Lebenslanges Wohnrecht für alle Mitglieder\n\nVoraussetzung für den Einzug ist der Erwerb von Genossenschaftsanteilen. Informationsabend am 14. Januar um 19 Uhr in unserer Geschäftsstelle.\n\nKontakt: Frau Adaeze Nwosu, Mitgliederbetreuung · vermietung@lindengraben-eg.de"
+  },
+  "leitpunkte": [
+    "Beschreiben Sie Ihre derzeitige Wohnsituation.",
+    "Legen Sie dar, welche Anforderungen die neue Wohnung erfüllen sollte.",
+    "Erläutern Sie, warum Sie gern in einer Genossenschaft wohnen würden.",
+    "Stellen Sie weitere Fragen zu den Genossenschaftsanteilen und zur Vergabe der Wohnungen."
+  ],
+  "model": {
+    "subject": "Anfrage zu Ihren Neubauwohnungen „Am Lindengraben“",
+    "text": "Sehr geehrte Frau Nwosu,\n\nmit großem Interesse habe ich in der Zeitung Ihre Anzeige über das Neubauprojekt „Am Lindengraben“ gelesen. Da meine Familie dringend eine größere Wohnung sucht, möchte ich Sie um einige Informationen bitten.\n\nZurzeit wohne ich mit meinem Mann und unseren beiden Kindern in einer Dreizimmerwohnung mit 68 Quadratmetern. Seit unser Sohn in die Schule geht, bräuchte er eigentlich ein eigenes Zimmer, in dem er in Ruhe lernen kann. Außerdem liegt die Wohnung im vierten Stock eines Hauses ohne Aufzug, was mit schweren Einkäufen und dem Kinderwagen unserer kleinen Tochter sehr mühsam ist.\n\nDas genossenschaftliche Wohnen interessiert uns vor allem deshalb, weil wir langfristig planen möchten. In den letzten fünf Jahren ist unsere Miete zweimal deutlich gestiegen. Ein lebenslanges Wohnrecht würde uns dagegen endlich die nötige Sicherheit geben. Darüber hinaus gefällt uns die Idee, Garten und Gemeinschaftsraum mit den Nachbarn zu teilen, sodass unsere Kinder in einer lebendigen Hausgemeinschaft aufwachsen könnten.\n\nZum Schluss hätte ich noch einige Fragen: Wie viele Genossenschaftsanteile müssten wir für eine Vierzimmerwohnung erwerben, und wie hoch wäre der Betrag insgesamt? Außerdem würde ich gern wissen, nach welchen Kriterien die Wohnungen vergeben werden und ob Familien mit Kindern dabei bevorzugt werden.\n\nFür Ihre Antwort bedanke ich mich im Voraus. Gern komme ich auch zu Ihrem Informationsabend am 14. Januar.\n\nMit freundlichen Grüßen\nMariam Sadeghi"
+  },
+  "modelNotes": [
+    "The model covers points 1 (current flat), 3 (why a cooperative) and 4 (questions about shares and allocation). Point 2 is left out, although the description of the flat already shows indirectly what the family needs.",
+    "The introduction names the ad and the reason for writing in two sentences; the closing refers back to a detail of the ad (the information evening), which shows careful reading.",
+    "Each point is developed with reasons and examples: the son needs a room to study, the fourth floor without a lift, two rent increases – concrete details instead of general statements.",
+    "B2 structures: Konjunktiv II for wishes and polite questions („bräuchte“, „würde … geben“, „müssten wir“, „hätte ich noch einige Fragen“), the contrasting adverb „dagegen“, the consecutive „sodass“, relative clauses and an indirect question („nach welchen Kriterien …“) with a passive („vergeben werden“).",
+    "Varied sentence beginnings („Zurzeit …“, „Außerdem …“, „Das genossenschaftliche Wohnen …“, „Darüber hinaus …“, „Zum Schluss …“) make the text flow."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt die Punkte 1 (jetzige Wohnung), 3 (warum eine Genossenschaft) und 4 (Fragen zu Anteilen und Vergabe). Punkt 2 fehlt, aber die Beschreibung der Wohnung zeigt schon indirekt, was die Familie braucht.",
+    "Die Einleitung nennt in zwei Sätzen die Anzeige und den Grund für die E-Mail; der Schluss greift ein Detail der Anzeige auf (den Informationsabend) – das zeigt, dass du genau gelesen hast.",
+    "Jeder Punkt wird mit Gründen und Beispielen ausgeführt: Der Sohn braucht ein Zimmer zum Lernen, der vierte Stock ohne Aufzug, zwei Mieterhöhungen – konkrete Details statt allgemeiner Aussagen.",
+    "B2-Strukturen: Konjunktiv II für Wünsche und höfliche Fragen („bräuchte“, „würde … geben“, „müssten wir“, „hätte ich noch einige Fragen“), das adversative „dagegen“, das konsekutive „sodass“, Relativsätze und eine indirekte Frage („nach welchen Kriterien …“) mit Passiv („vergeben werden“).",
+    "Abwechslungsreiche Satzanfänge („Zurzeit …“, „Außerdem …“, „Das genossenschaftliche Wohnen …“, „Darüber hinaus …“, „Zum Schluss …“) machen den Text flüssig."
+  ],
+  "phrases": [
+    { "de": "Mit großem Interesse habe ich Ihre Anzeige über … gelesen.", "en": "I read your ad about … with great interest." },
+    { "de": "Ich möchte Sie um einige Informationen bitten.", "en": "I would like to ask you for some information." },
+    { "de": "Zurzeit wohne ich mit … in einer …-Zimmer-Wohnung.", "en": "At the moment I live with … in a …-room flat." },
+    { "de": "Das genossenschaftliche Wohnen interessiert uns vor allem deshalb, weil …", "en": "We are interested in cooperative housing above all because …" },
+    { "de": "Ein lebenslanges Wohnrecht würde uns die nötige Sicherheit geben.", "en": "A lifelong right of residence would give us the security we need." },
+    { "de": "Wie viele Anteile müssten wir erwerben?", "en": "How many shares would we have to buy?" },
+    { "de": "Ich würde gern wissen, nach welchen Kriterien die Wohnungen vergeben werden.", "en": "I would like to know according to which criteria the flats are allocated." },
+    { "de": "Für Ihre Antwort bedanke ich mich im Voraus.", "en": "Thank you in advance for your reply." }
+  ],
+  "glossary": [
+    { "de": "die Wohnungsgenossenschaft", "en": "housing cooperative" },
+    { "de": "der Genossenschaftsanteil", "en": "cooperative share (bought to become a member)" },
+    { "de": "die Nutzungsgebühr", "en": "user fee (the cooperative's word for rent)" },
+    { "de": "bezugsfertig", "en": "ready for occupancy" },
+    { "de": "barrierefrei", "en": "accessible, step-free" },
+    { "de": "das Wohnrecht", "en": "right of residence" },
+    { "de": "Wohnungen vergeben", "en": "to allocate flats" },
+    { "de": "mühsam", "en": "tiresome, laborious" }
+  ]
+}

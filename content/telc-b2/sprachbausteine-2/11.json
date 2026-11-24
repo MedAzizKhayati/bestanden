@@ -1,0 +1,111 @@
+{
+  "id": "sprachbausteine-2-11",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Wasserknappheit auch in Mitteleuropa",
+  "topic": "umwelt",
+  "difficulty": 3,
+  "textType": "article",
+  "text": "Wenn die Brunnen versiegen: Wasserknappheit erreicht Mitteleuropa\n\nLange galt Wasser in Deutschland, Österreich und der Schweiz als Ressource, die in nahezu unbegrenzter Menge zur [[1]] steht. Diese Gewissheit gerät zunehmend ins Wanken: Ausgetrocknete Bachläufe, sinkende Grundwasserspiegel und Gemeinden, die ihren Einwohnern im Hochsommer das Rasensprengen untersagen, belegen, dass anhaltende Trockenheit [[2]] nicht mehr ausschließlich ein Problem südeuropäischer Länder ist.\n\n[[3]] der steigenden Durchschnittstemperaturen verdunstet ein wachsender Teil der Niederschläge, bevor sie in tiefere Bodenschichten vordringen können. Gleichzeitig fällt der Regen immer häufiger in Form kurzer, heftiger Gewitter, deren Wassermassen der ausgedörrte Boden kaum aufzunehmen vermag. Als besonders [[4]] für Trockenstress erweisen sich die vielerorts in Monokultur angepflanzten Fichtenwälder, die inzwischen großflächig absterben. Auch für die Landwirtschaft sind die Folgen gravierend: Ernteausfälle nehmen zu, und immer mehr Betriebe müssen ihre Felder künstlich bewässern.\n\nIn manchen Regionen konkurrieren Landwirtschaft, Industrie und private Haushalte bereits [[5]] dieselben Quellen. Fachleute fordern zwar, dass die öffentliche Trinkwasserversorgung im Ernstfall [[6]] vor allen anderen Nutzungen haben müsse, verbindliche Regeln für die Verteilung knapper Vorräte fehlen jedoch vielerorts. Zahlreiche Kommunen sind auf einzelne Dürresommer kaum vorbereitet, [[7]] denn auf mehrere Trockenjahre in Folge.\n\nWasserexperten plädieren deshalb für ein grundlegendes Umdenken. [[8]] Regenwasser wie bisher möglichst rasch in die Kanalisation abzuleiten, sollten Städte es in Mulden, auf Gründächern und in unterirdischen Speichern zurückhalten, damit es versickern und das Grundwasser auffüllen kann. Einige Versorgungsunternehmen ziehen sogar in [[9]], Wasser über Fernleitungen aus niederschlagsreicheren Gegenden heranzuschaffen – ein ebenso kostspieliges wie umstrittenes Vorhaben. Ohne einen Beitrag der Bevölkerung wird es allerdings nicht gehen: Auch private Haushalte werden künftig deutlich sparsamer mit Wasser [[10]] müssen, etwa beim Bewässern ihrer Gärten oder beim Befüllen von Swimmingpools.",
+  "words": [
+    { "key": "a", "text": "anfällig" },
+    { "key": "b", "text": "anstatt" },
+    { "key": "c", "text": "Auswahl" },
+    { "key": "d", "text": "behandeln" },
+    { "key": "e", "text": "Betracht" },
+    { "key": "f", "text": "geeignet" },
+    { "key": "g", "text": "geschweige" },
+    { "key": "h", "text": "infolge" },
+    { "key": "i", "text": "längst" },
+    { "key": "j", "text": "um" },
+    { "key": "k", "text": "umgehen" },
+    { "key": "l", "text": "Verfügung" },
+    { "key": "m", "text": "Vorrang" },
+    { "key": "n", "text": "Vorteil" },
+    { "key": "o", "text": "zufolge" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "l",
+      "explanation": "„zur Verfügung stehen“ (to be available) is a fixed noun-verb combination: water was seen as available in almost unlimited amounts. „Auswahl“ is the trap: „zur Auswahl stehen“ exists too, but it means „to be one of several options to choose from“, which does not fit a resource.",
+      "explanationDe": "„zur Verfügung stehen“ (= da sein, nutzbar sein) ist eine feste Nomen-Verb-Verbindung: Wasser galt als fast unbegrenzt vorhanden. „Auswahl“ ist die Falle: „zur Auswahl stehen“ gibt es auch, es bedeutet aber „eine von mehreren Möglichkeiten sein“ – das passt nicht zu einer Ressource.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 2,
+      "answer": "i",
+      "explanation": "„längst nicht mehr“ (no longer – and not for some time) stresses that the change happened a while ago: drought is no longer only a problem of southern Europe. No other word in the box can stand before „nicht mehr“ in this sense.",
+      "explanationDe": "„längst nicht mehr“ betont, dass sich etwas schon vor einiger Zeit geändert hat: Trockenheit ist nicht mehr nur ein Problem Südeuropas. Kein anderes Wort im Kasten passt so vor „nicht mehr“."
+    },
+    {
+      "n": 3,
+      "answer": "h",
+      "explanation": "„infolge“ + genitive (as a result of) names a cause: because temperatures rise, more rain evaporates. „zufolge“ is the trap – it looks almost the same, but it means „according to“ and refers to a source („dem Bericht zufolge“), not to a cause.",
+      "explanationDe": "„infolge“ + Genitiv (= als Folge von) nennt eine Ursache: Weil die Temperaturen steigen, verdunstet mehr Regen. „zufolge“ ist die Falle – es sieht fast gleich aus, bedeutet aber „laut“ und nennt eine Quelle („dem Bericht zufolge“), keine Ursache.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 4,
+      "answer": "a",
+      "explanation": "„anfällig für etwas“ (susceptible to something) – the spruce forests suffer badly from drought and are dying. „geeignet für“ has the same preposition, but „especially suitable for drought stress“ contradicts „absterben“.",
+      "explanationDe": "„anfällig für etwas“ (= leicht von etwas geschädigt) – die Fichtenwälder leiden stark unter der Trockenheit und sterben ab. „geeignet für“ hat dieselbe Präposition, aber „besonders geeignet für Trockenstress“ widerspricht „absterben“.",
+      "grammar": "adjektive-mit-praepositionen-b2"
+    },
+    {
+      "n": 5,
+      "answer": "j",
+      "explanation": "„um etwas konkurrieren“ (to compete for something) – farmers, industry and households compete for the same sources. German uses „um“ here, as in „kämpfen um“ or „sich bewerben um“. „zufolge“ and „anstatt“ are prepositions too, but they make no sense with „konkurrieren“.",
+      "explanationDe": "„um etwas konkurrieren“ – Landwirtschaft, Industrie und Haushalte wollen dieselben Quellen nutzen. Im Deutschen steht hier „um“, wie bei „kämpfen um“ oder „sich bewerben um“. „zufolge“ und „anstatt“ sind auch Präpositionen, passen aber nicht zu „konkurrieren“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 6,
+      "answer": "m",
+      "explanation": "„Vorrang vor etwas haben“ (to have priority over something) – in an emergency, drinking water should come first. „Vorteil“ is the trap: you have „einen Vorteil gegenüber“ someone, with an article and a different preposition; „Vorteil vor allen anderen Nutzungen haben“ is wrong.",
+      "explanationDe": "„Vorrang vor etwas haben“ (= wichtiger sein und zuerst kommen) – im Notfall soll das Trinkwasser zuerst kommen. „Vorteil“ ist die Falle: Man hat „einen Vorteil gegenüber“ jemandem, mit Artikel und einer anderen Präposition; „Vorteil vor allen anderen Nutzungen haben“ ist falsch.",
+      "grammar": "nomen-mit-praepositionen"
+    },
+    {
+      "n": 7,
+      "answer": "g",
+      "explanation": "„kaum …, geschweige denn …“ (hardly …, let alone …) adds a case that is even less likely: towns are hardly prepared for one dry summer, let alone for several in a row. The „denn“ right after the gap is the signal; no other word in the box forms a pair with it.",
+      "explanationDe": "„kaum …, geschweige denn …“ nennt einen Fall, der noch unwahrscheinlicher ist: Die Gemeinden sind kaum auf einen trockenen Sommer vorbereitet, und auf mehrere Trockenjahre noch viel weniger. Das „denn“ direkt nach der Lücke ist das Signal; kein anderes Wort im Kasten bildet damit ein Paar.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 8,
+      "answer": "b",
+      "explanation": "„anstatt … zu“ (instead of …-ing) says that one action should replace another: cities should hold rainwater back instead of draining it as before. „um … zu“ is grammatically possible, but „in order to drain it as before“ contradicts „zurückhalten“.",
+      "explanationDe": "„anstatt … zu“ sagt, dass eine Handlung eine andere ersetzen soll: Die Städte sollen das Regenwasser zurückhalten, statt es wie bisher abzuleiten. „um … zu“ ist grammatisch möglich, aber „um es wie bisher abzuleiten“ widerspricht „zurückhalten“.",
+      "grammar": "modalsaetze"
+    },
+    {
+      "n": 9,
+      "answer": "e",
+      "explanation": "„etwas in Betracht ziehen“ (to consider something) – some suppliers are thinking about long-distance pipelines; the infinitive clause „Wasser … heranzuschaffen“ says what they consider. None of the other nouns („Auswahl“, „Vorteil“, „Verfügung“) combines with „in … ziehen“.",
+      "explanationDe": "„etwas in Betracht ziehen“ (= über etwas als Möglichkeit nachdenken) – einige Versorger denken über Fernleitungen nach; der Infinitivsatz „Wasser … heranzuschaffen“ sagt, worüber. Keines der anderen Nomen („Auswahl“, „Vorteil“, „Verfügung“) passt zu „in … ziehen“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 10,
+      "answer": "k",
+      "explanation": "„mit etwas umgehen“ (to handle, to use something) – households will have to use water more sparingly. „behandeln“ is the trap: it also means „to treat“, but it takes a direct object („das Wasser behandeln“), never „mit“.",
+      "explanationDe": "„mit etwas umgehen“ (= etwas nutzen, mit etwas handeln) – die Haushalte müssen sparsamer mit Wasser umgehen. „behandeln“ ist die Falle: Es hat eine ähnliche Bedeutung, steht aber mit einem Akkusativobjekt („das Wasser behandeln“), nie mit „mit“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    }
+  ],
+  "glossary": [
+    { "de": "versiegen", "en": "to dry up (of a spring or well)" },
+    { "de": "ins Wanken geraten", "en": "to begin to falter" },
+    { "de": "der Grundwasserspiegel", "en": "groundwater level, water table" },
+    { "de": "verdunsten", "en": "to evaporate" },
+    { "de": "ausgedörrt", "en": "parched" },
+    { "de": "anfällig für", "en": "susceptible to" },
+    { "de": "Vorrang vor etwas haben", "en": "to take priority over something" },
+    { "de": "geschweige denn", "en": "let alone" },
+    { "de": "versickern", "en": "to seep away (into the ground)" },
+    { "de": "etwas in Betracht ziehen", "en": "to consider something" },
+    { "de": "sparsam mit etwas umgehen", "en": "to use something sparingly" }
+  ]
+}

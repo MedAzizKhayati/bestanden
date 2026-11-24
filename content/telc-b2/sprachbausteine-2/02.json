@@ -1,0 +1,109 @@
+{
+  "id": "sprachbausteine-2-02",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Ein Jahr für andere: das Freiwillige Soziale Jahr",
+  "topic": "gesellschaft",
+  "difficulty": 1,
+  "textType": "article",
+  "text": "Ein Jahr für andere: Was junge Menschen im Freiwilligen Sozialen Jahr lernen\n\nNach dem Abitur wusste Jonas Feldmann aus Kassel nicht, ob er studieren oder lieber eine Ausbildung beginnen sollte. Statt sich vorschnell [[1]] einen Beruf festzulegen, entschied er sich für ein Freiwilliges Soziales Jahr, kurz FSJ, in einer Wohneinrichtung für Menschen mit Behinderung. Zu seinen Aufgaben [[2]] die Begleitung der Bewohnerinnen und Bewohner zu Arztterminen, die Unterstützung beim Kochen und die Planung gemeinsamer Ausflüge.\n\n„Am Anfang fiel es mir ziemlich [[3]], auf fremde Menschen zuzugehen“, erzählt der 19-Jährige. „Ich hatte ständig Angst, etwas falsch zu machen.“ Doch je länger er in der Einrichtung arbeitete, [[4]] selbstbewusster wurde er. Heute sagt er, er habe in diesem Jahr mehr [[5]] gesammelt als in der gesamten Schulzeit. Besonders gern erinnert er sich an eine Fahrt an die Ostsee, die er gemeinsam mit zwei Bewohnern vorbereitet hat.\n\nWie Jonas entscheiden sich jedes Jahr Zehntausende junge Menschen in Deutschland für einen Freiwilligendienst. Ein FSJ dauert in der [[6]] zwölf Monate und kann in Krankenhäusern, Kindergärten, Pflegeheimen oder Sportvereinen geleistet werden. Viele nutzen die Zeit gezielt, [[7]] sich beruflich zu orientieren, bevor sie eine endgültige Entscheidung treffen. Neben dem praktischen Einsatz sind mehrere Seminarwochen fester [[8]] des Programms. Dort tauschen sich die Freiwilligen über ihren Alltag aus und bilden sich weiter.\n\nKritik gibt es vor allem an der Bezahlung. Die Freiwilligen erhalten lediglich ein Taschengeld, das in teuren Großstädten kaum zum Leben [[9]]. Wer nicht bei den Eltern wohnen kann, ist deshalb oft auf zusätzliche Unterstützung angewiesen. Sozialverbände fordern daher seit Langem, das Taschengeld spürbar zu erhöhen und den Freiwilligen kostenlose Fahrkarten für Bus und Bahn zur Verfügung zu stellen. Ob sich das Jahr später auszahlt, etwa bei der Bewerbung um einen Studienplatz, hängt zudem stark [[10]] der jeweiligen Hochschule ab. Jonas bereut seine Entscheidung trotzdem nicht: Im Herbst beginnt er eine Ausbildung zum Heilerziehungspfleger.",
+  "words": [
+    { "key": "a", "text": "als" },
+    { "key": "b", "text": "auf" },
+    { "key": "c", "text": "bestanden" },
+    { "key": "d", "text": "Bestandteil" },
+    { "key": "e", "text": "damit" },
+    { "key": "f", "text": "desto" },
+    { "key": "g", "text": "Erfahrungen" },
+    { "key": "h", "text": "gehörten" },
+    { "key": "i", "text": "Lage" },
+    { "key": "j", "text": "leicht" },
+    { "key": "k", "text": "Regel" },
+    { "key": "l", "text": "reicht" },
+    { "key": "m", "text": "schwer" },
+    { "key": "n", "text": "um" },
+    { "key": "o", "text": "von" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "b",
+      "explanation": "„sich auf etwas festlegen“ (to commit oneself to something) always takes „auf“ + accusative: „sich … auf einen Beruf festlegen“. „von“ would need the dative („von einem“), and „um“ does not go with „festlegen“.",
+      "explanationDe": "„sich auf etwas festlegen“ (= sich fest für etwas entscheiden) steht immer mit „auf“ + Akkusativ: „sich … auf einen Beruf festlegen“. „von“ bräuchte den Dativ („von einem“), und „um“ passt nicht zu „festlegen“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 2,
+      "answer": "h",
+      "explanation": "„zu etwas gehören“: „Zu seinen Aufgaben gehörten …“ (his tasks included …); the subject has three parts (Begleitung, Unterstützung, Planung), so the verb is plural. „bestanden“ is the trap – „bestehen“ takes „aus“ („Seine Aufgaben bestanden aus …“), not „zu“.",
+      "explanationDe": "„zu etwas gehören“: „Zu seinen Aufgaben gehörten …“; das Subjekt hat drei Teile (Begleitung, Unterstützung, Planung), deshalb steht das Verb im Plural. „bestanden“ ist die Falle – „bestehen“ steht mit „aus“ („Seine Aufgaben bestanden aus …“), nicht mit „zu“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 3,
+      "answer": "m",
+      "explanation": "„es fällt mir schwer, etwas zu tun“ = it is hard for me to do something. The next sentence („Ich hatte ständig Angst, etwas falsch zu machen“) and „Doch … desto selbstbewusster“ show that he struggled at first, so „leicht“ says the opposite.",
+      "explanationDe": "„es fällt mir schwer, etwas zu tun“ = etwas ist für mich schwierig. Der nächste Satz („Ich hatte ständig Angst, etwas falsch zu machen“) und „Doch … desto selbstbewusster“ zeigen, dass es am Anfang schwierig war. „leicht“ sagt also das Gegenteil.",
+      "grammar": "das-wort-es"
+    },
+    {
+      "n": 4,
+      "answer": "f",
+      "explanation": "„je + comparative …, desto + comparative …“: „je länger er … arbeitete, desto selbstbewusster wurde er“. „als“ follows a comparative in comparisons („größer als“), but it cannot answer „je“.",
+      "explanationDe": "„je + Komparativ …, desto + Komparativ …“: „je länger er … arbeitete, desto selbstbewusster wurde er“. „als“ steht nach einem Komparativ beim Vergleich („größer als“), kann aber „je“ nicht ergänzen.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 5,
+      "answer": "g",
+      "explanation": "„Erfahrungen sammeln“ (to gain experience) is a fixed collocation, here with „mehr … als“. You cannot „sammeln“ a „Lage“ or a „Bestandteil“.",
+      "explanationDe": "„Erfahrungen sammeln“ ist eine feste Verbindung, hier mit „mehr … als“. „Lage“ oder „Bestandteil“ kann man nicht „sammeln“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 6,
+      "answer": "k",
+      "explanation": "„in der Regel“ (as a rule, usually) is a fixed expression: an FSJ usually lasts twelve months. „Lage“ is the trap – „in der Lage sein“ means „to be able to“ and makes no sense with „dauert“.",
+      "explanationDe": "„in der Regel“ (= normalerweise) ist eine feste Wendung: Ein FSJ dauert normalerweise zwölf Monate. „Lage“ ist die Falle – „in der Lage sein“ bedeutet „etwas können“ und passt nicht zu „dauert“."
+    },
+    {
+      "n": 7,
+      "answer": "n",
+      "explanation": "„um … zu“ + infinitive expresses the purpose: they use the time in order to explore their career options. „damit“ also expresses a purpose, but it introduces a full clause with a conjugated verb at the end, never „zu“ + infinitive.",
+      "explanationDe": "„um … zu“ + Infinitiv nennt das Ziel: Sie nutzen die Zeit, um sich beruflich zu orientieren. Auch „damit“ nennt ein Ziel, leitet aber einen Nebensatz mit konjugiertem Verb am Ende ein – nie „zu“ + Infinitiv.",
+      "grammar": "finale-saetze"
+    },
+    {
+      "n": 8,
+      "answer": "d",
+      "explanation": "„fester Bestandteil von etwas sein“ (to be an integral part of something): the seminar weeks are a fixed part of the programme. „bestanden“ looks similar, but it is a past participle and cannot follow the adjective „fester“.",
+      "explanationDe": "„fester Bestandteil von etwas sein“ (= gehört immer dazu): Die Seminarwochen gehören fest zum Programm. „bestanden“ sieht ähnlich aus, ist aber ein Partizip und kann nicht nach dem Adjektiv „fester“ stehen."
+    },
+    {
+      "n": 9,
+      "answer": "l",
+      "explanation": "„Das Geld reicht (kaum) zum Leben“ – the money is (hardly) enough to live on. The relative clause „ein Taschengeld, das …“ needs a singular verb in the present tense; „gehörten“ and „bestanden“ are plural and past.",
+      "explanationDe": "„Das Geld reicht (kaum) zum Leben“ = man kann davon (kaum) leben. Der Relativsatz „ein Taschengeld, das …“ braucht ein Verb im Singular und im Präsens; „gehörten“ und „bestanden“ sind Plural und Vergangenheit."
+    },
+    {
+      "n": 10,
+      "answer": "o",
+      "explanation": "„von etwas abhängen“ (to depend on something): „hängt … von der jeweiligen Hochschule ab“ – the separable prefix „ab“ at the end shows you the verb. „auf“ is wrong: „abhängen“ never takes „auf“.",
+      "explanationDe": "„von etwas abhängen“: „hängt … von der jeweiligen Hochschule ab“ – das Präfix „ab“ am Satzende zeigt dir das Verb. „auf“ ist falsch, denn „abhängen“ steht nie mit „auf“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    }
+  ],
+  "glossary": [
+    { "de": "sich auf etwas festlegen", "en": "to commit oneself to something" },
+    { "de": "die Wohneinrichtung", "en": "residential home" },
+    { "de": "auf jemanden zugehen", "en": "to approach someone" },
+    { "de": "Erfahrungen sammeln", "en": "to gain experience" },
+    { "de": "in der Regel", "en": "as a rule, usually" },
+    { "de": "sich beruflich orientieren", "en": "to explore career options" },
+    { "de": "der feste Bestandteil", "en": "integral part" },
+    { "de": "das Taschengeld", "en": "pocket money, small allowance" },
+    { "de": "auf etwas angewiesen sein", "en": "to depend on something" },
+    { "de": "sich auszahlen", "en": "to pay off" },
+    { "de": "von etwas abhängen", "en": "to depend on something" }
+  ]
+}

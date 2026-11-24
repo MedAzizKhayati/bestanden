@@ -74,7 +74,9 @@ export default async function SprechenPage(props: PageProps<"/[locale]/[exam]/sp
       <section className="mt-10 overflow-hidden rounded-2xl border bg-card">
         <div className="border-b px-5 py-4">
           <h2 className="font-semibold">{pg.scoringTitle}</h2>
-          <p className="text-sm text-muted-foreground">{pg.scoringText}</p>
+          <p className="text-sm text-muted-foreground">
+            {new Set(section.parts.map((p) => p.maxPoints)).size === 1 ? pg.scoringTextEqual(section.parts[0].maxPoints) : pg.scoringText}
+          </p>
         </div>
         <div className="overflow-x-auto">
           <table className="w-full min-w-[640px] text-sm">

@@ -1,0 +1,61 @@
+{
+  "id": "schreiben-21",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Ein enttäuschender Sprachkurs",
+  "topic": "bildung",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie haben bei der Sprachschule Vivace einen Italienischkurs gebucht, weil Sie im Sommer ein Praktikum in Bologna machen. Inzwischen ist die Hälfte des Kurses vorbei, und er entspricht in vielen Punkten nicht der Anzeige. Schreiben Sie eine Beschwerde an die Sprachschule.",
+  "stimulus": {
+    "kind": "ad",
+    "subject": "Sprachschule Vivace – Italienisch und Spanisch in Graz",
+    "body": "Lernen Sie die Sprache, die Sie wirklich brauchen! Unser Abendkurs „Italienisch kompakt A2“ bereitet Sie in zwölf Abenden auf Reise, Studium und Beruf vor.\n\n• Kleine Gruppen mit höchstens acht Teilnehmenden\n• Erfahrene Lehrkräfte mit Hochschulabschluss – eine feste Lehrkraft für den ganzen Kurs\n• Kostenloser Einstufungstest vor Kursbeginn, damit alle auf demselben Niveau lernen\n• Kommunikativer Unterricht mit Rollenspielen und vielen Sprechübungen\n• Ausgefallene Stunden werden immer nachgeholt\n\nKursgebühr: 360 € inkl. Lehrbuch\nKursbeginn: 3. März, dienstags und donnerstags 18:30–20:00 Uhr\nAnmeldung: info@vivace-sprachen.de · Tel. 0316 5602 318"
+  },
+  "leitpunkte": [
+    "Legen Sie dar, warum dieser Kurs für Sie besonders wichtig ist.",
+    "Beschreiben Sie, inwiefern der Kurs nicht den Angaben in der Anzeige entspricht.",
+    "Erläutern Sie, welche Folgen das für Ihren Lernfortschritt hat.",
+    "Erklären Sie, was Sie von der Sprachschule erwarten."
+  ],
+  "model": {
+    "subject": "Beschwerde über den Kurs „Italienisch kompakt A2“ (Beginn 3. März)",
+    "text": "Sehr geehrte Damen und Herren,\n\nseit dem 3. März besuche ich Ihren Abendkurs „Italienisch kompakt A2“. Da der Kurs leider in mehreren Punkten nicht dem entspricht, was in Ihrer Anzeige versprochen wird, möchte ich mich hiermit beschweren.\n\nZunächst einmal sitzen in unserer Gruppe nicht höchstens acht, sondern fünfzehn Personen. Einen Einstufungstest hat es nie gegeben, sodass einige Teilnehmende noch ganz am Anfang stehen, während andere sich schon fließend unterhalten. Hinzu kommt, dass die Lehrkraft bereits zweimal gewechselt hat und zwei Abende ersatzlos ausgefallen sind.\n\nFür mich hat das ernste Folgen, denn im Juli beginne ich ein Praktikum in Bologna, für das ich sichere Grundkenntnisse brauche. Weil die Gruppe so groß ist, komme ich pro Abend höchstens zwei- oder dreimal zu Wort. Außerdem wird vieles wiederholt, was ich längst beherrsche, weshalb ich kaum Fortschritte mache.\n\nIch erwarte daher, dass die beiden ausgefallenen Abende wie versprochen nachgeholt werden. Darüber hinaus würde ich gern in eine kleinere Gruppe meines Niveaus wechseln. Sollte das nicht möglich sein, bitte ich Sie, mir einen angemessenen Teil der Kursgebühr zurückzuerstatten.\n\nIch bitte Sie um eine Stellungnahme bis zum 31. März und hoffe, dass wir eine gute Lösung finden.\n\nMit freundlichen Grüßen\nErik Lindqvist"
+  },
+  "modelNotes": [
+    "The model covers points 2 (how the course differs from the ad), 3 (consequences for learning) and 4 (expectations). Point 1 is not a separate paragraph – the internship only appears as the reason why the consequences are serious.",
+    "Paragraph 2 compares the reality with several promises of the ad (group size, placement test, one fixed teacher, make-up lessons) – „nicht höchstens acht, sondern fünfzehn“ makes the contrast very clear.",
+    "The expectations are graded: first the minimum (make-up lessons), then a wish (a smaller group), then an alternative with a conditional without „wenn“ („Sollte das nicht möglich sein, …“).",
+    "Linking devices: „Zunächst einmal“, „Hinzu kommt, dass …“, „während“, „sodass“, „weshalb“, „Darüber hinaus“ – the reader can follow the argument easily.",
+    "Passive forms („was … versprochen wird“, „wird vieles wiederholt“, „nachgeholt werden“) and the closing with a deadline („bis zum 31. März“) are typical of a formal complaint."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt die Punkte 2 (Unterschiede zur Anzeige), 3 (Folgen für das Lernen) und 4 (Erwartungen). Punkt 1 ist kein eigener Absatz – das Praktikum erscheint nur als Grund, warum die Folgen so ernst sind.",
+    "Absatz 2 vergleicht die Wirklichkeit mit Versprechen der Anzeige (Gruppengröße, Einstufungstest, feste Lehrkraft, Nachholtermine) – „nicht höchstens acht, sondern fünfzehn“ macht den Gegensatz sehr deutlich.",
+    "Die Erwartungen sind gestuft: zuerst das Minimum (Nachholtermine), dann ein Wunsch (eine kleinere Gruppe), dann eine Alternative mit einem Bedingungssatz ohne „wenn“ („Sollte das nicht möglich sein, …“).",
+    "Verbindungen: „Zunächst einmal“, „Hinzu kommt, dass …“, „während“, „sodass“, „weshalb“, „Darüber hinaus“ – so kann der Leser der Argumentation leicht folgen.",
+    "Passivformen („was … versprochen wird“, „wird vieles wiederholt“, „nachgeholt werden“) und der Schluss mit einer Frist („bis zum 31. März“) sind typisch für eine formelle Beschwerde."
+  ],
+  "phrases": [
+    { "de": "Der Kurs entspricht in mehreren Punkten nicht dem, was in Ihrer Anzeige versprochen wird.", "en": "In several respects the course does not match what your ad promises." },
+    { "de": "In unserer Gruppe sitzen nicht …, sondern …", "en": "Our group does not have …, but …" },
+    { "de": "Hinzu kommt, dass …", "en": "On top of that, …" },
+    { "de": "Zwei Abende sind ersatzlos ausgefallen.", "en": "Two evenings were cancelled without being replaced." },
+    { "de": "Für mich hat das ernste Folgen, denn …", "en": "This has serious consequences for me, because …" },
+    { "de": "Ich komme kaum zu Wort.", "en": "I hardly get a chance to speak." },
+    { "de": "Ich erwarte daher, dass …", "en": "I therefore expect that …" },
+    { "de": "Sollte das nicht möglich sein, bitte ich Sie, …", "en": "Should this not be possible, I ask you to …" },
+    { "de": "Ich bitte Sie um eine Stellungnahme bis zum …", "en": "Please let me have your response by …" }
+  ],
+  "glossary": [
+    { "de": "der Einstufungstest", "en": "placement test" },
+    { "de": "die Lehrkraft", "en": "teacher" },
+    { "de": "Stunden nachholen", "en": "to make up for (missed) lessons" },
+    { "de": "ersatzlos ausfallen", "en": "to be cancelled without replacement" },
+    { "de": "zu Wort kommen", "en": "to get a chance to speak" },
+    { "de": "etwas beherrschen", "en": "to master something" },
+    { "de": "die Kursgebühr", "en": "course fee" },
+    { "de": "die Stellungnahme", "en": "statement, response" }
+  ]
+}

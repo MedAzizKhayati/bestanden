@@ -1,0 +1,246 @@
+{
+  "id": "adjektivdeklination-b2",
+  "level": "B2",
+  "category": "adjektive",
+  "order": 22,
+  "title": "Adjektive nach Mengenwörtern und Adjektive als Nomen",
+  "titleEn": "Adjectives after quantity words and adjectives used as nouns",
+  "summary": "Which ending after alle, sämtliche and beide (weak) and after viele, einige, mehrere and wenige (strong); adjectives and participles used as nouns (der Angestellte – ein Angestellter, Deutsche, Jugendliche); and etwas Neues, nichts Besonderes, alles Gute.",
+  "summaryDe": "Welche Endung nach alle, sämtliche und beide (schwach) und nach viele, einige, mehrere und wenige (stark); Adjektive und Partizipien als Nomen (der Angestellte – ein Angestellter, Deutsche, Jugendliche); dazu etwas Neues, nichts Besonderes, alles Gute.",
+  "examRelevance": ["sprachbausteine", "lesen", "hoeren", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The B1 principle still applies: German shows the case **once**. Quantity words that work like the article **die** – **alle, sämtliche, beide** – leave the adjective the weak ending **-en**: „alle **neuen** Kollegen“. Quantity words that work like adjectives – **viele, einige, mehrere, wenige** – give no clear signal, so the adjective takes the strong ending: „viele **neue** Kollegen“. Adjectives and participles used as **nouns** keep exactly these endings: „der Angestellt**e**“, „ein Angestellt**er**“, „viele Angestellt**e**“, „alle Angestellt**en**“.",
+      "mdDe": "Das Prinzip von B1 gilt weiter: Das Deutsche zeigt den Kasus **einmal**. Mengenwörter, die wie der Artikel **die** funktionieren – **alle, sämtliche, beide** –, lassen dem Adjektiv die schwache Endung **-en**: „alle **neuen** Kollegen“. Mengenwörter, die wie Adjektive funktionieren – **viele, einige, mehrere, wenige** –, geben kein klares Signal, deshalb bekommt das Adjektiv die starke Endung: „viele **neue** Kollegen“. Adjektive und Partizipien, die als **Nomen** benutzt werden, behalten genau diese Endungen: „der Angestellt**e**“, „ein Angestellt**er**“, „viele Angestellt**e**“, „alle Angestellt**en**“."
+    },
+    {
+      "type": "table",
+      "heading": "Plural: which quantity word, which ending?",
+      "headingDe": "Plural: welches Mengenwort, welche Endung?",
+      "columns": ["Kasus", "alle / sämtliche / beide → schwach", "viele / einige / mehrere / wenige → stark"],
+      "rows": [
+        ["Nominativ", "alle **neuen** Kollegen", "viele **neue** Kollegen"],
+        ["Akkusativ", "alle **neuen** Kollegen", "viele **neue** Kollegen"],
+        ["Dativ", "allen **neuen** Kollegen", "vielen **neuen** Kollegen"],
+        ["Genitiv", "aller **neuen** Kollegen", "vieler **neuer** Kollegen"]
+      ],
+      "note": "The difference only shows in the nominative, accusative and genitive; in the dative both groups end in -en. Numbers without an article (zwei, drei …) and the words zahlreiche and verschiedene behave like viele: „zwei **neue** Kollegen“, „zahlreiche **kleine** Läden“. With „die“ in front, everything is weak again: „die vielen **neuen** Kollegen“, „die beiden **jungen** Frauen“, „die meisten **jungen** Leute“.",
+      "noteDe": "Den Unterschied sieht man nur im Nominativ, Akkusativ und Genitiv; im Dativ enden beide Gruppen auf -en. Zahlen ohne Artikel (zwei, drei …) und die Wörter zahlreiche und verschiedene funktionieren wie viele: „zwei **neue** Kollegen“, „zahlreiche **kleine** Läden“. Steht „die“ davor, ist alles wieder schwach: „die vielen **neuen** Kollegen“, „die beiden **jungen** Frauen“, „die meisten **jungen** Leute“."
+    },
+    {
+      "type": "text",
+      "heading": "Which word belongs to which group?",
+      "headingDe": "Welches Wort gehört in welche Gruppe?",
+      "md": "- **Weak, like after die (-en):** alle, sämtliche (formal: *all, the entire*), beide – and the words you know from B1: diese, keine, meine, unsere …: „**sämtliche** beteiligten Firmen“, „**beide** großen Parteien“.\n- **Strong, like without an article:** viele, einige, mehrere, wenige, zahlreiche, verschiedene and numbers: „**einige** wichtige Fragen“, „**mehrere** große Projekte“, „mit **wenigen** guten Ideen“.\n- **manche (plural)** usually takes the strong ending („manche **alte** Häuser“); the weak ending („manche **alten** Häuser“) is also accepted.\n- **andere** is itself an adjective, so it has the **same ending** as the adjective after it: „viele **andere** junge Leute“, „alle **anderen** neuen Mitglieder“.\n- **Singular:** viel and wenig without an ending are followed by a strong adjective: „**viel** frisches Obst“, „mit **viel** gutem Willen“.",
+      "mdDe": "- **Schwach, wie nach die (-en):** alle, sämtliche (formell: *alle ohne Ausnahme*), beide – und die Wörter, die du von B1 kennst: diese, keine, meine, unsere …: „**sämtliche** beteiligten Firmen“, „**beide** großen Parteien“.\n- **Stark, wie ohne Artikel:** viele, einige, mehrere, wenige, zahlreiche, verschiedene und Zahlen: „**einige** wichtige Fragen“, „**mehrere** große Projekte“, „mit **wenigen** guten Ideen“.\n- **manche (Plural)** hat meistens die starke Endung („manche **alte** Häuser“); die schwache Endung („manche **alten** Häuser“) ist auch möglich.\n- **andere** ist selbst ein Adjektiv und hat deshalb **dieselbe Endung** wie das Adjektiv danach: „viele **andere** junge Leute“, „alle **anderen** neuen Mitglieder“.\n- **Singular:** Nach viel und wenig ohne Endung folgt ein starkes Adjektiv: „**viel** frisches Obst“, „mit **viel** gutem Willen“."
+    },
+    {
+      "type": "text",
+      "heading": "Adjectives and participles as nouns",
+      "headingDe": "Adjektive und Partizipien als Nomen",
+      "md": "Many words for people are adjectives or participles used as nouns: der/die **Angestellte**, **Bekannte**, **Verwandte**, **Erwachsene**, **Jugendliche**, **Deutsche**, **Arbeitslose**, **Kranke**, **Verletzte**, **Reisende**, **Vorsitzende**, **Auszubildende**, **Beschäftigte**, **Vorgesetzte**, **Selbstständige**, **Alleinerziehende**, **Betroffene**, **Befragte**. They are capitalised, but they keep their **adjective endings** – imagine a hidden noun after them: der Angestellte (Mann) → ein Angestellter (Mann). So the ending changes with the article, exactly as in the B1 tables.\n\nPlurals of Partizip I are popular as gender-neutral forms: **die Studierenden**, **die Teilnehmenden**, **die Mitarbeitenden**.\n\nNeuter forms name abstract things: **das Neue**, **das Wichtigste**, **das Gute daran**, **das Besondere** an diesem Ort.\n\n**Exceptions:** **der Beamte – ein Beamter**, but the woman is a normal noun: **die Beamtin**. And **der Junge** (boy) is an n-noun, not an adjective noun: ein Junge, des Jungen.",
+      "mdDe": "Viele Wörter für Personen sind Adjektive oder Partizipien, die als Nomen benutzt werden: der/die **Angestellte**, **Bekannte**, **Verwandte**, **Erwachsene**, **Jugendliche**, **Deutsche**, **Arbeitslose**, **Kranke**, **Verletzte**, **Reisende**, **Vorsitzende**, **Auszubildende**, **Beschäftigte**, **Vorgesetzte**, **Selbstständige**, **Alleinerziehende**, **Betroffene**, **Befragte**. Man schreibt sie groß, aber sie behalten ihre **Adjektivendungen** – stell dir ein verstecktes Nomen dahinter vor: der Angestellte (Mann) → ein Angestellter (Mann). Die Endung ändert sich also mit dem Artikel, genau wie in den Tabellen von B1.\n\nPluralformen von Partizip I sind als geschlechtsneutrale Formen beliebt: **die Studierenden**, **die Teilnehmenden**, **die Mitarbeitenden**.\n\nNeutrale Formen bezeichnen abstrakte Dinge: **das Neue**, **das Wichtigste**, **das Gute daran**, **das Besondere** an diesem Ort.\n\n**Ausnahmen:** **der Beamte – ein Beamter**, aber die Frau ist ein normales Nomen: **die Beamtin**. Und **der Junge** ist ein Nomen der n-Deklination, kein Adjektiv als Nomen: ein Junge, des Jungen."
+    },
+    {
+      "type": "table",
+      "heading": "Declension: der Angestellte",
+      "headingDe": "Deklination: der Angestellte",
+      "columns": ["Kasus", "der / die …", "ein / eine …", "die … (Plural)", "ohne Artikel (Plural)"],
+      "rows": [
+        ["Nominativ", "der / die Angestellt**e**", "ein Angestellt**er** / eine Angestellt**e**", "die Angestellt**en**", "Angestellt**e**"],
+        ["Akkusativ", "den Angestellt**en** / die Angestellt**e**", "einen Angestellt**en** / eine Angestellt**e**", "die Angestellt**en**", "Angestellt**e**"],
+        ["Dativ", "dem / der Angestellt**en**", "einem / einer Angestellt**en**", "den Angestellt**en**", "Angestellt**en**"],
+        ["Genitiv", "des / der Angestellt**en**", "eines / einer Angestellt**en**", "der Angestellt**en**", "Angestellt**er**"]
+      ],
+      "note": "Without an article, and after viele, einige, mehrere and wenige, the plural is strong: „viele **Angestellte**“, „einige **Jugendliche**“, „mehrere **Verletzte**“. After alle, sämtliche, beide, keine and possessives it ends in -en: „alle **Angestellten**“, „keine **Deutschen**“, „meine **Verwandten**“. The genitive plural without an article („die Rechte Angestellter“) is rare; people say „die Rechte **von** Angestellten“.",
+      "noteDe": "Ohne Artikel und nach viele, einige, mehrere und wenige ist der Plural stark: „viele **Angestellte**“, „einige **Jugendliche**“, „mehrere **Verletzte**“. Nach alle, sämtliche, beide, keine und Possessivartikeln endet er auf -en: „alle **Angestellten**“, „keine **Deutschen**“, „meine **Verwandten**“. Den Genitiv Plural ohne Artikel („die Rechte Angestellter“) benutzt man selten; man sagt lieber „die Rechte **von** Angestellten“."
+    },
+    {
+      "type": "text",
+      "heading": "etwas Neues, nichts Besonderes, alles Gute",
+      "headingDe": "etwas Neues, nichts Besonderes, alles Gute",
+      "md": "After **etwas, nichts, viel, wenig** and **mehr**, an adjective becomes a **neuter noun** with strong endings: **-es** in the nominative and accusative, **-em** in the dative:\n\n- „Gibt es **etwas Neues**?“ – „Nein, **nichts Besonderes**.“\n- „Im Programm steht **viel Interessantes**.“ – „Die Diskussion brachte **wenig Neues**.“\n- „Wir beginnen mit **etwas Einfachem**.“\n\nAfter **alles** the ending is weak: **-e**, dative **-en**: „**Alles Gute** zum Geburtstag!“, „**alles Wichtige** auf einen Blick“, „mit **allem Nötigen**“.\n\nThe adjective is now a noun, so it is **capitalised**: etwas **N**eues. Exception: **anderes** usually stays lowercase: „etwas **anderes**“, „nichts **anderes**“.",
+      "mdDe": "Nach **etwas, nichts, viel, wenig** und **mehr** wird ein Adjektiv zu einem **neutralen Nomen** mit starken Endungen: **-es** im Nominativ und Akkusativ, **-em** im Dativ:\n\n- „Gibt es **etwas Neues**?“ – „Nein, **nichts Besonderes**.“\n- „Im Programm steht **viel Interessantes**.“ – „Die Diskussion brachte **wenig Neues**.“\n- „Wir beginnen mit **etwas Einfachem**.“\n\nNach **alles** ist die Endung schwach: **-e**, im Dativ **-en**: „**Alles Gute** zum Geburtstag!“, „**alles Wichtige** auf einen Blick“, „mit **allem Nötigen**“.\n\nDas Adjektiv ist jetzt ein Nomen, deshalb schreibt man es **groß**: etwas **N**eues. Ausnahme: **anderes** bleibt meistens klein: „etwas **anderes**“, „nichts **anderes**“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Alle neuen** Mitarbeiterinnen und Mitarbeiter bekommen in der ersten Woche eine Einführung.", "en": "All new employees get an induction in their first week." },
+        { "de": "**Sämtliche beteiligten** Hochschulen haben dem Projekt zugestimmt.", "en": "All the universities involved have agreed to the project." },
+        { "de": "In der Altstadt gibt es **viele kleine** Läden und **mehrere gemütliche** Cafés.", "en": "In the old town there are many small shops and several cosy cafés." },
+        { "de": "**Einige ältere** Anwohner haben sich über den Lärm beschwert.", "en": "Some older residents have complained about the noise." },
+        { "de": "Ihr Mann ist **Deutscher**, sie selbst ist Italienerin.", "en": "Her husband is German; she herself is Italian." },
+        { "de": "Gestern habe ich **einen alten Bekannten** aus der Schulzeit getroffen.", "en": "Yesterday I met an old acquaintance from my school days." },
+        { "de": "Die Zahl der **Arbeitslosen** ist im Oktober leicht gesunken.", "en": "The number of unemployed people fell slightly in October." },
+        { "de": "**Viele Jugendliche** informieren sich fast nur noch über soziale Medien.", "en": "Many young people now get their information almost only from social media." },
+        { "de": "Die Vorsitzende dankte **allen Ehrenamtlichen** für ihren Einsatz.", "en": "The chairwoman thanked all the volunteers for their commitment." },
+        { "de": "Gibt es **etwas Neues** von der Wohnungssuche? – Leider **nichts Erfreuliches**.", "en": "Any news about the flat hunting? – Nothing good, unfortunately." },
+        { "de": "Wir wünschen dir für die Zukunft **alles Gute**!", "en": "We wish you all the best for the future!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 1:** a typical gap asks for the ending after a quantity word („viele junge / jungen“) or for the form of an adjective noun („ein Bekannter / Bekannten“). Ask yourself: weak group (alle, sämtliche, beide) or strong group (viele, einige, mehrere, wenige)? Then apply case and gender as usual.\n\n**Lesen and Hören:** surveys and reports are full of adjective nouns – die **Befragten**, **Jugendliche**, **Beschäftigte**, **Betroffene**, **Erwachsene**. Watch the quantity word in front: „**einige** Befragte“ or „**die meisten** Befragten“ is not „**alle** Befragten“ – a classic B2 trap.\n\n**Schreiben:** many useful phrases contain these forms: „eine Lösung, die für **alle Beteiligten** fair ist“, „Ich wünsche Ihnen **alles Gute**.“, „Ich würde gern **etwas Neues** ausprobieren.“",
+      "mdDe": "**Sprachbausteine Teil 1:** Eine typische Lücke fragt nach der Endung nach einem Mengenwort („viele junge / jungen“) oder nach der Form eines Adjektivs als Nomen („ein Bekannter / Bekannten“). Frag dich: schwache Gruppe (alle, sämtliche, beide) oder starke Gruppe (viele, einige, mehrere, wenige)? Dann bestimmst du Kasus und Genus wie immer.\n\n**Lesen und Hören:** Umfragen und Berichte sind voll von Adjektiven als Nomen – die **Befragten**, **Jugendliche**, **Beschäftigte**, **Betroffene**, **Erwachsene**. Achte auf das Mengenwort davor: „**einige** Befragte“ oder „**die meisten** Befragten“ ist nicht „**alle** Befragten“ – eine klassische B2-Falle.\n\n**Schreiben:** Viele nützliche Wendungen enthalten diese Formen: „eine Lösung, die für **alle Beteiligten** fair ist“, „Ich wünsche Ihnen **alles Gute**.“, „Ich würde gern **etwas Neues** ausprobieren.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Three classic traps:**\n\n1. **viele + -e, alle + -en:** „viele **Jugendliche**“, but „alle **Jugendlichen**“ – not „viele Jugendlichen“ or „alle Jugendliche“.\n2. **Masculine without an article:** „Er ist **Deutscher**.“ – „Sie ist **Deutsche**.“ – „ein **Deutscher**“. „ein Deutsche“ is wrong.\n3. **etwas/nichts + -es, alles + -e:** „etwas **Gutes**“, „nichts **Neues**“ – but „alles **Gute**“, not „alles Gutes“.",
+      "mdDe": "**Drei klassische Fallen:**\n\n1. **viele + -e, alle + -en:** „viele **Jugendliche**“, aber „alle **Jugendlichen**“ – nicht „viele Jugendlichen“ oder „alle Jugendliche“.\n2. **Maskulin ohne Artikel:** „Er ist **Deutscher**.“ – „Sie ist **Deutsche**.“ – „ein **Deutscher**“. „ein Deutsche“ ist falsch.\n3. **etwas/nichts + -es, alles + -e:** „etwas **Gutes**“, „nichts **Neues**“ – aber „alles **Gute**“, nicht „alles Gutes“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Viele Jugendlichen nutzen soziale Medien jeden Tag.",
+      "right": "Viele Jugendliche nutzen soziale Medien jeden Tag.",
+      "why": "„viele“ belongs to the strong group, so the adjective noun takes the strong ending -e in the nominative plural.",
+      "whyDe": "„viele“ gehört zur starken Gruppe, deshalb bekommt das Adjektiv als Nomen im Nominativ Plural die starke Endung -e."
+    },
+    {
+      "wrong": "Alle neue Mitarbeiter bekommen einen Laptop.",
+      "right": "Alle neuen Mitarbeiter bekommen einen Laptop.",
+      "why": "„alle“ works like the article „die“, so the adjective takes the weak ending -en.",
+      "whyDe": "„alle“ funktioniert wie der Artikel „die“, deshalb bekommt das Adjektiv die schwache Endung -en."
+    },
+    {
+      "wrong": "Mein Nachbar ist Deutsche, seine Frau ist Italienerin.",
+      "right": "Mein Nachbar ist Deutscher, seine Frau ist Italienerin.",
+      "why": "A man, no article → strong masculine ending -er: „Deutscher“. „Deutsche“ is the form for a woman or for the plural.",
+      "whyDe": "Ein Mann, kein Artikel → starke maskuline Endung -er: „Deutscher“. „Deutsche“ ist die Form für eine Frau oder für den Plural."
+    },
+    {
+      "wrong": "Gestern habe ich einen Bekannter aus der Schulzeit getroffen.",
+      "right": "Gestern habe ich einen Bekannten aus der Schulzeit getroffen.",
+      "why": "Masculine accusative after „einen“ → -en, just as in „einen alten Freund“. „ein Bekannter“ is only the nominative.",
+      "whyDe": "Maskulin Akkusativ nach „einen“ → -en, genau wie bei „einen alten Freund“. „ein Bekannter“ ist nur der Nominativ."
+    },
+    {
+      "wrong": "Wir wünschen dir zum Geburtstag alles Gutes!",
+      "right": "Wir wünschen dir zum Geburtstag alles Gute!",
+      "why": "After „alles“ the ending is weak (-e). The ending -es belongs after etwas, nichts, viel and wenig: „etwas Gutes“.",
+      "whyDe": "Nach „alles“ ist die Endung schwach (-e). Die Endung -es gehört hinter etwas, nichts, viel und wenig: „etwas Gutes“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "In unserer Abteilung arbeiten mehrere ___ Kolleginnen aus Spanien.",
+      "options": ["junge", "jungen", "junger"],
+      "answer": 0,
+      "explanation": "„mehrere“ belongs to the strong group (like viele and einige): nominative plural → „mehrere junge Kolleginnen“. „jungen“ would need a word of the weak group such as „alle“ or „die“.",
+      "explanationDe": "„mehrere“ gehört zur starken Gruppe (wie viele und einige): Nominativ Plural → „mehrere junge Kolleginnen“. „jungen“ bräuchte ein Wort der schwachen Gruppe wie „alle“ oder „die“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Alle ___ Unterlagen müssen bis spätestens Freitag eingereicht werden.",
+      "options": ["erforderlichen", "erforderliche", "erforderlicher"],
+      "answer": 0,
+      "explanation": "„alle“ works like the article „die“, so the adjective is weak → „alle erforderlichen Unterlagen“. „erforderliche“ is the ending after viele or without any article.",
+      "explanationDe": "„alle“ funktioniert wie der Artikel „die“, deshalb ist das Adjektiv schwach → „alle erforderlichen Unterlagen“. „erforderliche“ ist die Endung nach viele oder ganz ohne Artikel."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Antwort war eindeutig: ___ Befragten sprachen sich für ein Tempolimit in der Innenstadt aus.",
+      "options": ["Alle", "Viele", "Wenige"],
+      "answer": 0,
+      "explanation": "The ending -en in „Befragten“ needs a word of the weak group → „Alle Befragten“. After „viele“ or „wenige“ it would be „Befragte“ – and „eindeutig“ also fits „alle“.",
+      "explanationDe": "Die Endung -en bei „Befragten“ braucht ein Wort der schwachen Gruppe → „Alle Befragten“. Nach „viele“ oder „wenige“ müsste es „Befragte“ heißen – und „eindeutig“ passt auch inhaltlich zu „alle“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mein Bruder ist seit zwei Jahren mit einer ___ verheiratet.",
+      "options": ["Deutschen", "Deutsche", "Deutscher"],
+      "answer": 0,
+      "explanation": "„mit“ + dative, feminine „einer“ → the adjective noun ends in -en: „mit einer Deutschen“. „Deutsche“ would be nominative or accusative, „Deutscher“ is a man in the nominative.",
+      "explanationDe": "„mit“ + Dativ, feminin „einer“ → das Adjektiv als Nomen endet auf -en: „mit einer Deutschen“. „Deutsche“ wäre Nominativ oder Akkusativ, „Deutscher“ ist ein Mann im Nominativ."
+    },
+    {
+      "type": "mc",
+      "prompt": "Im Bus saßen einige ___, die laut Musik hörten.",
+      "options": ["Jugendliche", "Jugendlichen", "Jugendlicher"],
+      "answer": 0,
+      "explanation": "„einige“ belongs to the strong group: nominative plural → „einige Jugendliche“. „Jugendlichen“ would need „die“ or „alle“ in front.",
+      "explanationDe": "„einige“ gehört zur starken Gruppe: Nominativ Plural → „einige Jugendliche“. „Jugendlichen“ bräuchte „die“ oder „alle“ davor."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich wünsche dir für die neue Stelle alles ___!",
+      "options": ["Gute", "Gutes", "Guten"],
+      "answer": 0,
+      "explanation": "After „alles“ the adjective noun is weak: „alles Gute“. „Gutes“ is the form after etwas, nichts or viel („etwas Gutes“).",
+      "explanationDe": "Nach „alles“ ist das Adjektiv als Nomen schwach: „alles Gute“. „Gutes“ ist die Form nach etwas, nichts oder viel („etwas Gutes“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Gestern habe ich in der Stadt einen alten ___ getroffen.",
+      "answers": ["Bekannten"],
+      "hint": "(bekannt)",
+      "explanation": "Masculine accusative after „einen alten“ → „Bekannten“ with a capital letter, because it is used as a noun. „Bekannter“ is only the nominative („ein Bekannter“).",
+      "explanationDe": "Maskulin Akkusativ nach „einen alten“ → „Bekannten“, großgeschrieben, weil es als Nomen benutzt wird. „Bekannter“ ist nur der Nominativ („ein Bekannter“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Gibt es bei dir etwas ___? – Nein, nichts Besonderes.",
+      "answers": ["Neues"],
+      "hint": "(neu)",
+      "explanation": "After „etwas“ the adjective becomes a neuter noun with the strong ending -es and a capital letter: „etwas Neues“ – just like „nichts Besonderes“ in the answer.",
+      "explanationDe": "Nach „etwas“ wird das Adjektiv zu einem neutralen Nomen mit der starken Endung -es und großem Anfangsbuchstaben: „etwas Neues“ – genau wie „nichts Besonderes“ in der Antwort."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Gewerkschaft setzt sich für die Rechte der ___ ein.",
+      "answers": ["Beschäftigten"],
+      "hint": "(beschäftigt)",
+      "explanation": "Genitive plural after the article „der“ → weak ending -en: „der Beschäftigten“ (the employees). The participle is used as a noun, so it is capitalised.",
+      "explanationDe": "Genitiv Plural nach dem Artikel „der“ → schwache Endung -en: „der Beschäftigten“. Das Partizip wird als Nomen benutzt, deshalb schreibt man es groß."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bei dem Unfall auf der Landstraße gab es mehrere ___.",
+      "answers": ["Verletzte"],
+      "hint": "(verletzt)",
+      "explanation": "„mehrere“ belongs to the strong group, and „es gab“ takes the accusative: accusative plural strong → „mehrere Verletzte“. „Verletzten“ would need „die“ or „alle“.",
+      "explanationDe": "„mehrere“ gehört zur starken Gruppe, und nach „es gab“ steht der Akkusativ: Akkusativ Plural stark → „mehrere Verletzte“. „Verletzten“ bräuchte „die“ oder „alle“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Sorgen vieler ___ Menschen werden in der Debatte oft übersehen.",
+      "answers": ["alter"],
+      "hint": "(alt)",
+      "explanation": "After „vieler“ (genitive plural) the adjective is strong too: „vieler alter Menschen“. Compare the weak group: „aller alten Menschen“.",
+      "explanationDe": "Nach „vieler“ (Genitiv Plural) ist das Adjektiv auch stark: „vieler alter Menschen“. Vergleich mit der schwachen Gruppe: „aller alten Menschen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „Alle“ with „Viele“ and adapt the endings.",
+      "instructionDe": "Ersetze „Alle“ durch „Viele“ und passe die Endungen an.",
+      "prompt": "Alle jungen Erwachsenen wohnen noch bei ihren Eltern.",
+      "answers": ["Viele junge Erwachsene wohnen noch bei ihren Eltern."],
+      "explanation": "„viele“ belongs to the strong group, so both the adjective and the adjective noun take -e: „viele junge Erwachsene“. After „alle“ both ended in -en.",
+      "explanationDe": "„viele“ gehört zur starken Gruppe, deshalb bekommen das Adjektiv und das Adjektiv als Nomen beide -e: „viele junge Erwachsene“. Nach „alle“ endeten beide auf -en."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „Menschen, die ihre Kinder allein erziehen“ with one noun.",
+      "instructionDe": "Ersetze „Menschen, die ihre Kinder allein erziehen“ durch ein Nomen.",
+      "prompt": "Menschen, die ihre Kinder allein erziehen, bekommen von der Stadt einen Zuschuss zur Kinderbetreuung.",
+      "answers": [
+        "Alleinerziehende bekommen von der Stadt einen Zuschuss zur Kinderbetreuung.",
+        "Die Alleinerziehenden bekommen von der Stadt einen Zuschuss zur Kinderbetreuung."
+      ],
+      "explanation": "„Alleinerziehende“ is a Partizip I used as a noun. Plural without an article → strong ending -e; with the article it would be „die Alleinerziehenden“.",
+      "explanationDe": "„Alleinerziehende“ ist ein Partizip I, das als Nomen benutzt wird. Plural ohne Artikel → starke Endung -e; mit Artikel heißt es „die Alleinerziehenden“."
+    },
+    {
+      "type": "order",
+      "words": ["Grünflächen", "Befragten", "wünschen", "in", "meisten", "der", "sich", "Die", "mehr", "Innenstadt."],
+      "answers": ["Die meisten Befragten wünschen sich mehr Grünflächen in der Innenstadt."],
+      "explanation": "„die meisten“ starts with the article „die“, so the adjective noun is weak: „die meisten Befragten“. The verb „wünschen“ is in position 2, the reflexive „sich“ follows it.",
+      "explanationDe": "„die meisten“ beginnt mit dem Artikel „die“, deshalb ist das Adjektiv als Nomen schwach: „die meisten Befragten“. Das Verb „wünschen“ steht auf Position 2, das Reflexivpronomen „sich“ folgt direkt danach."
+    }
+  ],
+  "related": ["adjektivdeklination", "partizip-als-adjektiv", "partizipialattribute", "n-deklination", "pronomen", "praepositionen-mit-genitiv", "komparation"]
+}

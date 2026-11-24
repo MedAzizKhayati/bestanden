@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-04",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Rat und Hilfe in der Stadt",
+  "topic": "behoerden",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ihr Vater streitet seit Monaten mit seinem Nachbarn über einen Baum und möchte ein Gerichtsverfahren vermeiden.",
+      "answer": "c",
+      "explanation": "A dispute between neighbours, settled without a court: the Schiedsamt (c) is the place to go „Bevor Sie einen teuren Prozess anstrengen“, and an agreement there is „rechtlich verbindlich“. The Mieterverein (g) also handles conflicts, but only with a landlord, not with the neighbour.",
+      "explanationDe": "Es geht um Streit unter Nachbarn, und zwar ohne Gericht: Zum Schiedsamt (c) geht man, „Bevor Sie einen teuren Prozess anstrengen“, und eine Einigung dort ist „rechtlich verbindlich“. Der Mieterverein (g) kümmert sich auch um Konflikte, aber nur mit dem Vermieter, nicht mit dem Nachbarn."
+    },
+    {
+      "n": 2,
+      "text": "Ihre Nachbarin möchte ihre Heizkostenabrechnung überprüfen lassen, ohne dafür einem Verein beitreten zu müssen.",
+      "answer": "d",
+      "explanation": "The Verbraucherberatung (d) checks „Ihre Heiz- und Betriebskostenabrechnung“ for 35 euros – „eine Mitgliedschaft ist dafür nicht nötig“. The Mieterverein (g) would check the bill too, but „Beraten werden ausschließlich Mitglieder“.",
+      "explanationDe": "Die Verbraucherberatung (d) prüft „Ihre Heiz- und Betriebskostenabrechnung“ für 35 Euro – „eine Mitgliedschaft ist dafür nicht nötig“. Der Mieterverein (g) würde die Abrechnung auch prüfen, aber „Beraten werden ausschließlich Mitglieder“."
+    },
+    {
+      "n": 3,
+      "text": "Eine neue Kollegin aus Brasilien sucht eine englischsprachige Beratung zur Anerkennung ihrer Ausbildung als Pflegekraft.",
+      "answer": "h",
+      "explanation": "The Willkommensbüro (h) explains „ob Ihr Abschluss anerkannt werden muss“ and advises „auf Deutsch, Englisch, Spanisch und Arabisch“. The Pflegestützpunkt (e) shares the word „Pflege“, but it advises families of people who need care – and apart from German only in Turkish and Russian.",
+      "explanationDe": "Das Willkommensbüro (h) erklärt, „ob Ihr Abschluss anerkannt werden muss“, und berät „auf Deutsch, Englisch, Spanisch und Arabisch“. Beim Pflegestützpunkt (e) geht es zwar auch um „Pflege“, aber er berät Familien von pflegebedürftigen Menschen – und außer auf Deutsch nur auf Türkisch und Russisch."
+    },
+    {
+      "n": 4,
+      "text": "Ihr Schwiegervater ist seit diesem Jahr Rentner und muss erstmals eine Steuererklärung beim Finanzamt einreichen.",
+      "answer": "i",
+      "explanation": "The Lohnsteuerhilfe (i) prepares the „Einkommensteuererklärung“ and may advise „Rentnerinnen und Rentner – auch dann, wenn Sie zum ersten Mal eine Steuererklärung abgeben müssen“. The Rentenberatung (l) sounds right for a pensioner, but „Zu Fragen der Besteuerung von Renten … dürfen unsere Beraterinnen und Berater allerdings keine Auskunft geben“.",
+      "explanationDe": "Die Lohnsteuerhilfe (i) erstellt die „Einkommensteuererklärung“ und darf „Rentnerinnen und Rentner“ beraten, „auch dann, wenn Sie zum ersten Mal eine Steuererklärung abgeben müssen“. Die Rentenberatung (l) klingt passend für einen Rentner, aber „Zu Fragen der Besteuerung von Renten … dürfen unsere Beraterinnen und Berater allerdings keine Auskunft geben“."
+    },
+    {
+      "n": 5,
+      "text": "Ihr Bruder wird von seinem Vermieter verklagt und sucht sofort jemanden, der die Kosten des Prozesses übernimmt.",
+      "answer": "x",
+      "explanation": "Only the Mieterverein (g) includes „ein Rechtsschutz …, der die Kosten eines Gerichtsverfahrens übernimmt“, but it applies only „nach einer Wartezeit von drei Monaten und nur für Konflikte, die nach Ihrem Beitritt entstanden sind“ – your brother's case has already started. The Schiedsamt (c) is „Nicht zuständig … für Auseinandersetzungen zwischen Mietern und Vermietern“, so x.",
+      "explanationDe": "Nur beim Mieterverein (g) ist „ein Rechtsschutz …, der die Kosten eines Gerichtsverfahrens übernimmt“, dabei. Er gilt aber erst „nach einer Wartezeit von drei Monaten und nur für Konflikte, die nach Ihrem Beitritt entstanden sind“ – der Streit deines Bruders läuft schon. Das Schiedsamt (c) ist „Nicht zuständig … für Auseinandersetzungen zwischen Mietern und Vermietern“. Also x."
+    },
+    {
+      "n": 6,
+      "text": "Ihre Eltern möchten ihr Badezimmer altersgerecht umbauen und wünschen sich vorher eine kostenlose Beratung zu Hause.",
+      "answer": "a",
+      "explanation": "The Wohnberatung (a) visits „kostenlos zu Hause“ and suggests solutions „vom Haltegriff bis zur bodengleichen Dusche“. The Pflegestützpunkt (e) also makes home visits, but its advice is about care services and the „Pflegegrad“, not about converting a flat.",
+      "explanationDe": "Die Wohnberatung (a) kommt „kostenlos zu Hause“ vorbei und zeigt Lösungen „vom Haltegriff bis zur bodengleichen Dusche“. Der Pflegestützpunkt (e) macht auch Hausbesuche, aber er berät zu Pflegeleistungen und zum „Pflegegrad“, nicht zum Umbau einer Wohnung."
+    },
+    {
+      "n": 7,
+      "text": "Ihr Onkel kann wegen offener Rechnungen plötzlich nicht mehr über sein Konto verfügen und braucht umgehend Hilfe.",
+      "answer": "k",
+      "explanation": "An account blocked because of debts is one of the „akuten Notlagen“: the Schuldnerberatung (k) has an open consultation „wenn Ihr Konto gepfändet wurde“, without the usual eight-week wait. „Geldklar“ (f) is about money too, but it sends anyone facing a „Pfändung“ to a debt counselling service – and it is only for people aged 16 to 27.",
+      "explanationDe": "Ein gesperrtes Konto wegen Schulden gehört zu den „akuten Notlagen“: Die Schuldnerberatung (k) hat eine offene Sprechstunde, „wenn Ihr Konto gepfändet wurde“ – ohne die übliche Wartezeit von acht Wochen. „Geldklar“ (f) hat auch mit Geld zu tun, schickt aber alle, denen eine „Pfändung“ droht, zur Schuldnerberatung – und ist nur für Menschen von 16 bis 27."
+    },
+    {
+      "n": 8,
+      "text": "Ein Kollege soll künftig deutlich mehr Miete zahlen und möchte sich nach Feierabend persönlich beraten lassen.",
+      "answer": "g",
+      "explanation": "Having to pay more rent is a „Mieterhöhung“ – a case for the Mieterverein (g), which offers personal consultations „montags und donnerstags von 16 bis 19 Uhr“; he can join „unmittelbar vor dem ersten Gespräch“. The Verbraucherberatung (d) only checks utility bills and sends questions about „Mieterhöhungen“ to the tenants' associations.",
+      "explanationDe": "Mehr Miete zahlen heißt „Mieterhöhung“ – ein Fall für den Mieterverein (g). Dort gibt es persönliche Sprechstunden „montags und donnerstags von 16 bis 19 Uhr“, und dein Kollege kann „unmittelbar vor dem ersten Gespräch“ beitreten. Die Verbraucherberatung (d) prüft nur Nebenkosten und schickt Fragen zu „Mieterhöhungen“ an die Mietervereine weiter."
+    },
+    {
+      "n": 9,
+      "text": "Ihre Mutter kümmert sich zu Hause um Ihren Großvater und braucht Unterstützung bei Anträgen an die Pflegekasse.",
+      "answer": "e",
+      "explanation": "The Pflegestützpunkt (e) supports relatives „beim Antrag auf einen Pflegegrad“ and explains „welche Leistungen Ihnen zustehen“. The Wohnberatung (a) also mentions the „Pflegekasse“, but only in connection with grants for converting a flat.",
+      "explanationDe": "Der Pflegestützpunkt (e) unterstützt Angehörige „beim Antrag auf einen Pflegegrad“ und erklärt, „welche Leistungen Ihnen zustehen“. Die Wohnberatung (a) nennt zwar auch die „Pflegekasse“, aber nur bei Zuschüssen für einen Umbau."
+    },
+    {
+      "n": 10,
+      "text": "Ihre Tante kann nach einer Hüftoperation vorerst nicht aus dem Haus, braucht aber einen neuen Personalausweis.",
+      "answer": "j",
+      "explanation": "The Mobiler Bürgerservice (j) comes „direkt nach Hause“ for people who „ihre Wohnung nicht verlassen können“, and there you can „Personalausweise beantragen“. The Bürgerbüro (b) issues ID cards as well, but you have to go there: „dass Sie für die Beantragung eines Ausweises persönlich erscheinen müssen“.",
+      "explanationDe": "Der Mobile Bürgerservice (j) kommt „direkt nach Hause“ zu Menschen, die „ihre Wohnung nicht verlassen können“, und dabei lassen sich „Personalausweise beantragen“. Im Bürgerbüro (b) gibt es auch Ausweise, aber man muss hingehen: „dass Sie für die Beantragung eines Ausweises persönlich erscheinen müssen“."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Wohnberatung für Ältere und Menschen mit Behinderung",
+      "subheading": "Länger selbstständig in den eigenen vier Wänden",
+      "lines": [],
+      "text": "Stolperfallen im Flur, zu schmale Türen oder eine Badewanne, in die man kaum noch hineinkommt: Oft genügen schon kleine Veränderungen, damit ältere Menschen sicher in ihrer Wohnung bleiben können. Unsere Fachkräfte aus Architektur und Ergotherapie besuchen Sie kostenlos zu Hause, zeigen Ihnen geeignete Lösungen – vom Haltegriff bis zur bodengleichen Dusche – und erklären, welche Zuschüsse Pflegekasse und Stadt für einen Umbau gewähren. Wir beraten Mieterinnen und Mieter ebenso wie Eigentümer und unterstützen Sie bei Bedarf im Gespräch mit Ihrem Vermieter. Die Umbauarbeiten selbst führen wir nicht durch, nennen Ihnen aber zuverlässige Handwerksbetriebe.",
+      "footer": "Lindenallee 7 · Tel. 0561 7738210 · Hausbesuche nach telefonischer Vereinbarung"
+    },
+    {
+      "key": "b",
+      "heading": "Bürgerbüro im Rathaus",
+      "subheading": "Ihre erste Adresse für Ausweise und Meldeangelegenheiten",
+      "lines": [],
+      "text": "Im Bürgerbüro beantragen Sie Personalausweis und Reisepass, melden einen Umzug an oder bestellen ein Führungszeugnis. Um lange Wartezeiten zu vermeiden, werden sämtliche Anliegen ausschließlich nach vorheriger Online-Terminbuchung bearbeitet; freie Termine werden jeweils für die kommenden vier Wochen freigeschaltet. Fertige Dokumente können Sie dagegen ohne Termin abholen. Bitte beachten Sie, dass Sie für die Beantragung eines Ausweises persönlich erscheinen müssen, da Fingerabdrücke und Unterschrift vor Ort erfasst werden. Wird ein Reisepass besonders dringend benötigt, ist gegen Aufpreis ein Expressverfahren möglich: Das Dokument liegt dann innerhalb von drei Werktagen zur Abholung bereit.",
+      "footer": "Rathaus, Erdgeschoss · Montag bis Freitag 8–16 Uhr, donnerstags bis 18 Uhr · www.buergerbuero-termine.de"
+    },
+    {
+      "key": "c",
+      "heading": "Schiedsamt Nord",
+      "subheading": "Schlichten statt richten",
+      "lines": [],
+      "text": "Der Hund nebenan bellt die halbe Nacht, die Hecke des Nachbarn wuchert seit Jahren über den Zaun, oder ein Streit im Treppenhaus ist eskaliert? Bevor Sie einen teuren Prozess anstrengen, sollten Sie das Gespräch beim Schiedsamt suchen. Unsere ehrenamtlichen Schiedspersonen laden beide Seiten zu einer gemeinsamen Verhandlung ein und helfen ihnen, eine Lösung zu finden, mit der alle leben können. Eine dabei getroffene Vereinbarung ist rechtlich verbindlich. Für das Verfahren fällt lediglich eine geringe Gebühr an. Nicht zuständig sind wir für Auseinandersetzungen zwischen Mietern und Vermietern sowie für Konflikte am Arbeitsplatz.",
+      "footer": "Bürgerhaus Nord, Raum 4 · Sprechstunde jeden ersten Dienstag im Monat, 17–18 Uhr"
+    },
+    {
+      "key": "d",
+      "heading": "Verbraucherberatung Stadtmitte",
+      "subheading": "Unabhängig, neutral und ohne Verkaufsinteressen",
+      "lines": [],
+      "text": "Ein Handyvertrag, der sich unbemerkt verlängert hat, eine fragwürdige Forderung eines Inkassobüros oder eine Online-Bestellung, die nie angekommen ist: Unsere Beraterinnen und Berater prüfen Ihre Unterlagen und zeigen Ihnen, wie Sie sich wehren können. Eine persönliche Beratung von 30 Minuten kostet 20 Euro. Neu im Angebot ist unser Nebenkosten-Check: Für 35 Euro nehmen wir Ihre Heiz- und Betriebskostenabrechnung unter die Lupe – eine Mitgliedschaft ist dafür nicht nötig. Bei weitergehenden Fragen rund um Ihr Mietverhältnis, etwa zu Mieterhöhungen oder Kündigungen, verweisen wir Sie an die örtlichen Mietervereine.",
+      "footer": "Kaiserstraße 22 · Terminvereinbarung: Tel. 0561 9904410 · www.verbraucherberatung-stadtmitte.de"
+    },
+    {
+      "key": "e",
+      "heading": "Pflegestützpunkt am Klinikum",
+      "subheading": "Wenn ein Angehöriger plötzlich Hilfe braucht",
+      "lines": [],
+      "text": "Ein Schlaganfall, eine fortschreitende Demenz oder einfach das hohe Alter – wenn ein Familienmitglied pflegebedürftig wird, stehen Angehörige vor vielen Fragen. Unsere Pflegeberaterinnen informieren Sie neutral und kostenfrei darüber, welche Leistungen Ihnen zustehen, unterstützen Sie beim Antrag auf einen Pflegegrad und bereiten Sie auf den Besuch der Gutachterin oder des Gutachters vor. Außerdem helfen wir bei der Suche nach einem ambulanten Pflegedienst, einer Tagespflege oder einem Heimplatz. Wer das Haus nicht verlassen kann, wird auf Wunsch zu Hause besucht. Beratungen sind neben Deutsch auch auf Türkisch und Russisch möglich.",
+      "footer": "Am Klinikum 3, Haus B · Tel. 0561 3082715 · Montag bis Freitag 9–15 Uhr"
+    },
+    {
+      "key": "f",
+      "heading": "Geldklar",
+      "subheading": "Finanzcoaching für junge Leute von 16 bis 27",
+      "lines": [],
+      "text": "Die erste eigene Wohnung, der erste Arbeitsvertrag, vielleicht schon ein Kredit fürs Auto: Wer früh lernt, mit Geld umzugehen, gerät später seltener in finanzielle Schwierigkeiten. In unseren kostenlosen Workshops erfahren junge Erwachsene, wie man ein Haushaltsbuch führt, Verträge vergleicht und typische Kostenfallen erkennt. Darüber hinaus bieten wir Einzelcoachings an, die wahlweise im Jugendzentrum oder per Videochat stattfinden. Bitte beachten Sie: Wer bereits Schulden hat, die er nicht mehr begleichen kann, oder wem eine Pfändung droht, sollte sich direkt an eine Schuldnerberatung wenden – dort gibt es die passende Unterstützung.",
+      "footer": "Ein Projekt des Jugendamts · Anmeldung unter www.geldklar-coaching.de"
+    },
+    {
+      "key": "g",
+      "heading": "Mieterverein Kronenviertel",
+      "subheading": "Damit Sie zu Ihrem Recht kommen",
+      "lines": [],
+      "text": "Ob Mieterhöhung, Schimmel im Schlafzimmer oder Streit um die Kaution: Unsere Juristinnen und Juristen prüfen Ihre Unterlagen, schreiben an Ihren Vermieter und vertreten Ihre Interessen. Beraten werden ausschließlich Mitglieder; Sie können dem Verein aber jederzeit beitreten, auch unmittelbar vor dem ersten Gespräch. Im Monatsbeitrag von 8,50 Euro ist ein Rechtsschutz enthalten, der die Kosten eines Gerichtsverfahrens übernimmt. Dieser Schutz gilt allerdings erst nach einer Wartezeit von drei Monaten und nur für Konflikte, die nach Ihrem Beitritt entstanden sind. Persönliche Sprechstunden bieten wir montags und donnerstags von 16 bis 19 Uhr an, telefonische Auskünfte dienstags vormittags.",
+      "footer": "Kronenstraße 14 · Tel. 0561 5518720 · www.mieterverein-kronenviertel.de"
+    },
+    {
+      "key": "h",
+      "heading": "Willkommensbüro für internationale Fachkräfte",
+      "subheading": "Gut ankommen – beruflich und privat",
+      "lines": [],
+      "text": "Sie haben im Ausland eine Ausbildung oder ein Studium abgeschlossen und möchten hier in Ihrem Beruf arbeiten? Wir erklären Ihnen, ob Ihr Abschluss anerkannt werden muss, welche Stelle dafür zuständig ist und welche Unterlagen Sie benötigen. Darüber hinaus informieren wir über Aufenthaltsfragen, Sprachkurse sowie die Suche nach einer Wohnung oder einem Kitaplatz. Unsere Beratung ist kostenlos und wird auf Deutsch, Englisch, Spanisch und Arabisch angeboten, nach Absprache auch per Videogespräch, wenn Sie noch im Ausland leben. Für Menschen, die sich im Asylverfahren befinden, ist die Flüchtlingsberatung der Stadt die richtige Anlaufstelle.",
+      "footer": "Bahnhofsplatz 2, 3. Stock · Termine nach Vereinbarung · www.willkommensbuero-fachkraefte.de"
+    },
+    {
+      "key": "i",
+      "heading": "Lohnsteuerhilfe Mitte",
+      "subheading": "Ihre Steuererklärung in guten Händen",
+      "lines": [],
+      "text": "Als Lohnsteuerhilfeverein erstellen wir für unsere Mitglieder die jährliche Einkommensteuererklärung, prüfen den Steuerbescheid und legen bei Bedarf Einspruch beim Finanzamt ein. Beraten dürfen wir Arbeitnehmerinnen und Arbeitnehmer, Beamte sowie Rentnerinnen und Rentner – auch dann, wenn Sie zum ersten Mal eine Steuererklärung abgeben müssen. Der Jahresbeitrag richtet sich nach Ihrem Einkommen und beginnt bei 59 Euro. Aus rechtlichen Gründen ist es uns nicht gestattet, Personen zu beraten, die Einkünfte aus einer selbstständigen oder gewerblichen Tätigkeit erzielen. Termine sind auch abends und samstags möglich.",
+      "footer": "Gartenweg 9 · Tel. 0561 2209381 · www.lohnsteuerhilfe-mitte.de"
+    },
+    {
+      "key": "j",
+      "heading": "Mobiler Bürgerservice",
+      "subheading": "Wir kommen zu Ihnen",
+      "lines": [],
+      "text": "Für Menschen, die wegen einer Krankheit, einer Behinderung oder ihres hohen Alters ihre Wohnung nicht verlassen können, kommt unser Team mit einer mobilen Ausrüstung direkt nach Hause, ins Pflegeheim oder ins Krankenhaus. So lassen sich Personalausweise beantragen, Meldebescheinigungen ausstellen und Wohnsitze ummelden. Voraussetzung ist eine ärztliche Bescheinigung, aus der hervorgeht, dass Ihnen ein Besuch im Bürgerbüro nicht zumutbar ist. Der Hausbesuch selbst ist gebührenfrei; es fallen lediglich die üblichen Kosten für die Dokumente an. Bitte rechnen Sie mit einer Vorlaufzeit von etwa zwei Wochen.",
+      "footer": "Anmeldung: Tel. 0561 7870055 (Montag bis Donnerstag 9–12 Uhr)"
+    },
+    {
+      "key": "k",
+      "heading": "Schuldner- und Insolvenzberatung",
+      "subheading": "Wege aus der Schuldenfalle",
+      "lines": [],
+      "text": "Wenn sich Rechnungen stapeln und Mahnungen ungeöffnet in der Schublade landen, ist professionelle Hilfe gefragt. Gemeinsam mit Ihnen verschaffen wir uns einen Überblick über Ihre finanzielle Lage, verhandeln mit Gläubigern und begleiten Sie, falls nötig, durch ein Insolvenzverfahren. Die Beratung ist kostenlos und vertraulich. Wegen der großen Nachfrage beträgt die Wartezeit für ein ausführliches Erstgespräch derzeit etwa acht Wochen. In akuten Notlagen – etwa wenn Ihr Konto gepfändet wurde oder eine Stromsperre unmittelbar bevorsteht – kommen Sie bitte in unsere offene Sprechstunde, die jeden Dienstag von 9 bis 12 Uhr ohne Anmeldung stattfindet.",
+      "footer": "Sozialwerk Ostring, Ostring 31 · Tel. 0561 4471230"
+    },
+    {
+      "key": "l",
+      "heading": "Rentenberatung im Rathaus",
+      "subheading": "Kostenlose Hilfe von ehrenamtlichen Versichertenberatern",
+      "lines": [],
+      "text": "Sie möchten Ihren Rentenantrag stellen, haben Lücken in Ihrem Versicherungsverlauf entdeckt oder wollen wissen, ob Ihnen eine Erwerbsminderungsrente zustehen könnte? Unsere ehrenamtlichen Versichertenberaterinnen und -berater füllen die Formulare gemeinsam mit Ihnen aus, klären fehlende Zeiten und leiten Ihre Unterlagen direkt an den Rentenversicherungsträger weiter. Die Beratung ist für alle Versicherten kostenfrei. Bitte bringen Sie Ihren Personalausweis und Ihre Steuer-Identifikationsnummer mit. Zu Fragen der Besteuerung von Renten sowie zur privaten Altersvorsorge dürfen unsere Beraterinnen und Berater allerdings keine Auskunft geben.",
+      "footer": "Rathaus, Zimmer 112 · Termine nur nach telefonischer Vereinbarung: Tel. 0561 7871120"
+    }
+  ],
+  "glossary": [
+    { "de": "das Schiedsamt", "en": "local arbitration office for private disputes" },
+    { "de": "die Betriebskostenabrechnung", "en": "annual statement of service charges (utility bill for tenants)" },
+    { "de": "der Rechtsschutz", "en": "legal expenses cover" },
+    { "de": "die Wartezeit", "en": "waiting period (before cover starts)" },
+    { "de": "der Gläubiger", "en": "creditor" },
+    { "de": "pfänden / die Pfändung", "en": "to seize (e.g. a bank account) / seizure" },
+    { "de": "der Pflegegrad", "en": "care level (decides which care benefits you get)" },
+    { "de": "die Anerkennung eines Abschlusses", "en": "recognition of a qualification" },
+    { "de": "der Lohnsteuerhilfeverein", "en": "tax-assistance association for employees and pensioners" },
+    { "de": "zumutbar", "en": "reasonable, acceptable (to expect of someone)" },
+    { "de": "der Zuschuss", "en": "subsidy, grant" },
+    { "de": "die Vorlaufzeit", "en": "lead time, notice needed in advance" }
+  ]
+}

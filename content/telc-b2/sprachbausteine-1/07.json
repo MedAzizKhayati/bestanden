@@ -1,0 +1,142 @@
+{
+  "id": "sprachbausteine-1-07",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Ein Dank an den früheren Ausbilder",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "textType": "email-semiformal",
+  "text": "Sehr geehrter Herr Wiedemann,\n\nvielleicht wundern Sie sich, nach so langer Zeit Post von mir zu bekommen. Vor acht Jahren habe ich in Ihrer Schreinerei in Ulm meine Ausbildung begonnen, und nun möchte ich mich endlich einmal bei Ihnen melden.\n\nHeute kann ich mir keinen schöneren Beruf vorstellen. [[1]] hatte ich mich damals eher aus praktischen Gründen bei Ihnen beworben: Ihre Werkstatt lag nur fünf Minuten von meiner Wohnung entfernt. Sie haben mir in drei Jahren aber nicht nur das Handwerk [[2]], sondern auch die Freude [[3]] der Arbeit mit Holz in mir geweckt. Besonders Ihr Rat, mich von Fehlern nicht [[4]] zu lassen, begleitet mich bis heute. Ich denke oft an den missglückten Kleiderschrank aus meinem zweiten Lehrjahr: Sie haben damals nur gelacht und gesagt, ein Fehler [[5]] nur dann schlimm, wenn man nichts daraus lernt.\n\nAus der unsicheren Auszubildenden von damals ist inzwischen eine Schreinermeisterin [[6]]. Im Oktober habe ich die Meisterprüfung bestanden, und seit Anfang November führe ich in Ravensburg meine eigene kleine Werkstatt. Einerseits bin ich unglaublich stolz darauf, [[7]] spüre ich aber auch die große Verantwortung. Erst [[8]] ich selbst zwei Lehrlinge ausbilde, verstehe ich, wie viel Geduld Sie damals mit mir hatten.\n\nIch bin Ihnen sehr dankbar [[9]], dass Sie mir eine Chance gegeben haben, obwohl meine Zeugnisse alles andere als glänzend waren. Eigentlich hätte ich Ihnen das schon nach der Gesellenprüfung sagen [[10]], aber dazu fehlte mir damals wohl der Mut.\n\nFalls Sie einmal in der Gegend sind, würde ich mich sehr freuen, Ihnen meine Werkstatt zu zeigen.\n\nMit herzlichen Grüßen\nKatarina Lindholm",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "Dabei" },
+        { "key": "b", "text": "Danach" },
+        { "key": "c", "text": "Daher" }
+      ],
+      "answer": "a",
+      "explanation": "„Dabei“ introduces a surprising contrast with the previous sentence: today Katarina loves her job, and yet she originally applied for purely practical reasons. „Daher“ would introduce a consequence and „Danach“ a later point in time – but the application came first.",
+      "explanationDe": "„Dabei“ leitet einen überraschenden Gegensatz zum Satz davor ein: Heute liebt Katarina ihren Beruf, obwohl sie sich damals nur aus praktischen Gründen beworben hatte. „Daher“ würde eine Folge nennen und „Danach“ einen späteren Zeitpunkt – die Bewerbung kam aber zuerst.",
+      "grammar": "textverweise"
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "beigetragen" },
+        { "key": "b", "text": "beigestanden" },
+        { "key": "c", "text": "beigebracht" }
+      ],
+      "answer": "c",
+      "explanation": "„jemandem etwas beibringen“ means to teach someone something: „mir … das Handwerk beigebracht“. „beitragen“ needs „zu“ (to contribute to something), and „beistehen“ (to stand by someone) takes no accusative object.",
+      "explanationDe": "„jemandem etwas beibringen“ heißt „jemandem zeigen, wie etwas geht“: „mir … das Handwerk beigebracht“. „beitragen“ braucht „zu“ („zu etwas beitragen“), und „beistehen“ (jemandem helfen) hat kein Akkusativobjekt."
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "zu" },
+        { "key": "b", "text": "an" },
+        { "key": "c", "text": "für" }
+      ],
+      "answer": "b",
+      "explanation": "„Freude“ in the sense of enjoying an activity takes „an“ + dative: „die Freude an der Arbeit“. „zu“ and „für“ do not combine with „Freude“ in this meaning – and „für“ would need the accusative anyway.",
+      "explanationDe": "„Freude“ im Sinn von „Spaß an einer Tätigkeit“ steht mit „an“ + Dativ: „die Freude an der Arbeit“. „zu“ und „für“ passen in dieser Bedeutung nicht zu „Freude“ – und nach „für“ müsste sowieso der Akkusativ stehen.",
+      "grammar": "nomen-mit-praepositionen"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "zumuten" },
+        { "key": "b", "text": "entmutigen" },
+        { "key": "c", "text": "ermutigen" }
+      ],
+      "answer": "b",
+      "explanation": "„sich nicht entmutigen lassen“ means not to let something discourage you – sensible advice after mistakes. „ermutigen“ means the opposite (to encourage), and „zumuten“ (to expect too much of someone) needs a dative and an accusative object.",
+      "explanationDe": "„sich nicht entmutigen lassen“ heißt, dass man nach Fehlern nicht den Mut verliert – ein sinnvoller Rat. „ermutigen“ bedeutet das Gegenteil (Mut machen), und „zumuten“ braucht einen Dativ und einen Akkusativ („jemandem etwas zumuten“)."
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "sei" },
+        { "key": "b", "text": "seie" },
+        { "key": "c", "text": "seien" }
+      ],
+      "answer": "a",
+      "explanation": "Katarina reports what Mr Wiedemann said („gesagt, …“), so the verb is in Konjunktiv I; for „ein Fehler“ (third person singular) the form of „sein“ is „sei“. „seie“ does not exist, and „seien“ is the plural form.",
+      "explanationDe": "Katarina gibt wieder, was Herr Wiedemann gesagt hat („gesagt, …“), deshalb steht das Verb im Konjunktiv I. Für „ein Fehler“ (3. Person Singular) heißt die Form von „sein“ „sei“. „seie“ gibt es nicht, und „seien“ ist die Pluralform.",
+      "grammar": "konjunktiv-1"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "worden" },
+        { "key": "b", "text": "gewesen" },
+        { "key": "c", "text": "geworden" }
+      ],
+      "answer": "c",
+      "explanation": "Here „werden“ is a full verb meaning „to become“: „Aus der … Auszubildenden ist … eine Schreinermeisterin geworden“. „worden“ is only used in the passive together with another participle („ist geprüft worden“), and „sein“ cannot express this change („aus jemandem wird etwas“).",
+      "explanationDe": "Hier ist „werden“ ein Vollverb und bedeutet „sich zu etwas entwickeln“: „Aus der … Auszubildenden ist … eine Schreinermeisterin geworden“. „worden“ steht nur im Passiv zusammen mit einem anderen Partizip („ist geprüft worden“), und mit „sein“ kannst du diese Veränderung nicht ausdrücken („aus jemandem wird etwas“).",
+      "grammar": "passiv-b2"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "anderenfalls" },
+        { "key": "b", "text": "außerdem" },
+        { "key": "c", "text": "andererseits" }
+      ],
+      "answer": "c",
+      "explanation": "„Einerseits“ at the beginning of the sentence needs its partner „andererseits“: on the one hand pride, on the other hand responsibility. „außerdem“ only adds a point and cannot complete „einerseits“, and „anderenfalls“ means „otherwise“.",
+      "explanationDe": "„Einerseits“ am Satzanfang braucht seinen Partner „andererseits“: auf der einen Seite Stolz, auf der anderen Seite Verantwortung. „außerdem“ fügt nur etwas hinzu und kann „einerseits“ nicht ergänzen, und „anderenfalls“ bedeutet „sonst“.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "seit" },
+        { "key": "b", "text": "als" },
+        { "key": "c", "text": "bis" }
+      ],
+      "answer": "a",
+      "explanation": "Katarina started training apprentices recently and is still doing it (present tense „ausbilde“), so „Erst seit ich … ausbilde“ = only since I have been training. „als“ is used for a single past event with a past tense verb, and „bis“ (until) makes no sense with „Erst“.",
+      "explanationDe": "Katarina bildet seit Kurzem Lehrlinge aus und tut das immer noch (Präsens „ausbilde“) – also „Erst seit ich … ausbilde“. „als“ benutzt man für ein einmaliges Ereignis in der Vergangenheit mit einer Vergangenheitsform, und „bis“ ergibt mit „Erst“ keinen Sinn.",
+      "grammar": "temporale-nebensaetze"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "daran" },
+        { "key": "b", "text": "dafür" },
+        { "key": "c", "text": "darüber" }
+      ],
+      "answer": "b",
+      "explanation": "The adjective is „dankbar für“; when a „dass“-clause follows, you need the prepositional adverb „dafür“. „darüber“ belongs to adjectives like „froh“ or „traurig“, and „daran“ to „interessiert an“.",
+      "explanationDe": "Das Adjektiv heißt „dankbar für“. Wenn ein „dass“-Satz folgt, brauchst du das Präpositionaladverb „dafür“. „darüber“ gehört zu Adjektiven wie „froh“ oder „traurig“, „daran“ zu „interessiert an“.",
+      "grammar": "adjektive-mit-praepositionen-b2"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "sollen" },
+        { "key": "b", "text": "soll" },
+        { "key": "c", "text": "gesollt" }
+      ],
+      "answer": "a",
+      "explanation": "Konjunktiv II past with a modal verb: „hätte“ + infinitive + modal infinitive – „hätte … sagen sollen“ (should have told). After another infinitive the modal also stays in the infinitive (not „gesollt“), and the present form „soll“ cannot follow „hätte“.",
+      "explanationDe": "Konjunktiv II der Vergangenheit mit Modalverb: „hätte“ + Infinitiv + Modalverb im Infinitiv – „hätte … sagen sollen“. Nach einem anderen Infinitiv steht auch das Modalverb im Infinitiv (nicht „gesollt“), und die Präsensform „soll“ kann nicht nach „hätte“ stehen.",
+      "grammar": "konjunktiv-2-vergangenheit"
+    }
+  ],
+  "glossary": [
+    { "de": "die Schreinerei", "en": "joinery, carpenter's workshop" },
+    { "de": "das Handwerk", "en": "craft, trade" },
+    { "de": "jemandem etwas beibringen", "en": "to teach someone something" },
+    { "de": "sich nicht entmutigen lassen", "en": "not to let oneself be discouraged" },
+    { "de": "missglückt", "en": "failed, botched" },
+    { "de": "das Lehrjahr", "en": "year of an apprenticeship" },
+    { "de": "die Meisterprüfung", "en": "master craftsman's examination" },
+    { "de": "der Lehrling", "en": "apprentice" },
+    { "de": "die Gesellenprüfung", "en": "final exam of an apprenticeship" },
+    { "de": "alles andere als", "en": "anything but" }
+  ]
+}

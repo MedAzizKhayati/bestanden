@@ -1,0 +1,106 @@
+{
+  "id": "sprechen-2-16",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Werbeverbot für Süßes?",
+  "topic": "gesundheit",
+  "difficulty": 3,
+  "theme": "Sollte Werbung für ungesunde Lebensmittel, die sich an Kinder richtet, verboten werden?",
+  "article": {
+    "headline": "Keine Comicfiguren mehr auf Zuckerbomben? Gesetzentwurf löst heftigen Streit aus",
+    "lead": "Werbung für besonders zucker-, fett- oder salzreiche Lebensmittel soll sich künftig nicht mehr gezielt an Kinder richten dürfen. Während Kinderärzte den Vorstoß begrüßen, warnen Lebensmittelhersteller und private Sender vor Bevormundung und Einnahmeausfällen.",
+    "paragraphs": [
+      "Auslöser der Debatte sind alarmierende Zahlen: Einer Langzeitstudie des Instituts für Kindergesundheit Rhein-Main zufolge ist inzwischen jedes sechste Kind zwischen sechs und zwölf Jahren übergewichtig. Gleichzeitig begegnen Kinder im Durchschnitt täglich 15 Werbespots oder Online-Anzeigen für Lebensmittel – neun von zehn davon für Süßigkeiten, salzige Snacks oder gezuckerte Getränke.",
+      "Der Entwurf, über den der Bundestag im Frühjahr beraten soll, sieht ein Verbot entsprechender Fernsehwerbung an Werktagen zwischen 6 und 22 Uhr vor. In sozialen Netzwerken sollen Influencer solche Produkte nicht mehr bewerben dürfen, sofern ihr Publikum überwiegend minderjährig ist. Ob ein Produkt als ungesund gilt, soll sich nach Nährwertgrenzen der Weltgesundheitsorganisation richten; bei Verstößen drohen Bußgelder von bis zu 100.000 Euro.",
+      "„Kinder können Werbung bis etwa zum zehnten Lebensjahr nicht zuverlässig als solche erkennen“, erklärt die Kinderärztin Ruth Abendroth. „Wer ihnen mit bunten Figuren und Gewinnspielen Zuckerprodukte schmackhaft macht, nutzt ihre Arglosigkeit gezielt aus.“ Freiwillige Selbstverpflichtungen der Branche hätten in den vergangenen Jahren kaum Wirkung gezeigt.",
+      "Der Branchenverband der Lebensmittelhersteller hält das Vorhaben dagegen für unverhältnismäßig. Nach seinen Berechnungen wären rund 70 Prozent aller beworbenen Lebensmittel betroffen, darunter viele Fruchtjoghurts und Müslisorten. „Übergewicht hat zahlreiche Ursachen, allen voran Bewegungsmangel“, betont Verbandssprecher Thorsten Lienemann. Statt Verboten brauche es mehr Ernährungsbildung in Kitas und Schulen. Private Sender rechnen zudem mit Einbußen von bis zu 200 Millionen Euro jährlich, die vor allem dem Kinderprogramm fehlen würden.",
+      "Unter Eltern ist das Vorhaben ebenfalls umstritten. Zwar befürworten laut einer Umfrage 58 Prozent strengere Regeln, doch viele bezweifeln deren Wirksamkeit. „An der Supermarktkasse quengeln meine Kinder trotzdem“, sagt Jens Wolters, Vater von drei Kindern. „Da hilft kein Gesetz, sondern nur ein klares Nein.“"
+    ],
+    "source": "Untermain-Rundschau, Gesundheit und Verbraucher"
+  },
+  "ideas": {
+    "pro": [
+      "jüngere Kinder erkennen Werbung noch nicht als Werbung",
+      "Übergewicht bei Kindern nimmt zu, mit hohen Folgekosten für das Gesundheitssystem",
+      "Eltern geraten beim Einkaufen weniger unter Druck",
+      "freiwillige Regeln der Industrie haben kaum gewirkt",
+      "Schutz vor Influencer-Werbung, die als Unterhaltung getarnt ist",
+      "ähnliche Verbote gibt es anderswo schon seit Jahrzehnten"
+    ],
+    "contra": [
+      "Übergewicht hat viele Ursachen, vor allem Bewegungsmangel",
+      "Ernährung ist Aufgabe der Eltern, nicht des Staates",
+      "die Grenzwerte treffen auch Produkte wie Fruchtjoghurt oder Müsli",
+      "Einnahmeverluste für Sender, weniger Geld für Kinderprogramme",
+      "ohne Ernährungsbildung bewirken Verbote wenig",
+      "Werbung im Internet lässt sich kaum kontrollieren"
+    ]
+  },
+  "questions": [
+    "Welche Rolle spielt Werbung Ihrer Meinung nach für die Essgewohnheiten von Kindern?",
+    "Wo verläuft für Sie die Grenze zwischen Schutz und Bevormundung durch den Staat?",
+    "Gibt es in Ihrem Heimatland Regeln für Werbung, die sich an Kinder richtet?",
+    "Was können Eltern, Kitas und Schulen tun, damit Kinder sich gesünder ernähren?",
+    "Wie könnte man Werbung in sozialen Netzwerken wirksam kontrollieren?",
+    "Sollten stark gezuckerte Produkte zusätzlich höher besteuert werden?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Chiamaka Eze", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Étienne Gagnon", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "A", "t": "Der Artikel befasst sich mit einem Gesetzentwurf, nach dem sich Werbung für besonders zucker-, fett- oder salzreiche Lebensmittel nicht mehr gezielt an Kinder richten darf. Anlass ist eine Studie, laut der inzwischen jedes sechste Kind zwischen sechs und zwölf Jahren übergewichtig ist." },
+    { "s": "A", "t": "Geplant ist, solche Fernsehwerbung an Werktagen zwischen sechs und zweiundzwanzig Uhr zu verbieten. Auch Influencer, deren Publikum überwiegend minderjährig ist, dürften diese Produkte dann nicht mehr bewerben." },
+    { "s": "A", "t": "Eine Kinderärztin begründet das damit, dass Kinder Werbung bis zum Alter von etwa zehn Jahren gar nicht als solche erkennen. Der Branchenverband hingegen hält das Verbot für unverhältnismäßig und meint, schuld am Übergewicht sei vor allem der Bewegungsmangel." },
+    { "s": "B", "t": "Mir ist noch ein weiterer Aspekt aufgefallen, nämlich die wirtschaftliche Seite. Die privaten Sender rechnen mit Verlusten von bis zu zweihundert Millionen Euro im Jahr, und dieses Geld würde ausgerechnet beim Kinderprogramm fehlen." },
+    { "s": "B", "t": "Außerdem sind die Eltern gespalten: Zwar wünscht sich eine Mehrheit strengere Regeln, aber viele bezweifeln, dass sie tatsächlich etwas bewirken." },
+    { "s": "A", "t": "Ich muss gestehen, dass ich zunächst skeptisch war, weil ich Verbote grundsätzlich nicht mag. Aber das Argument der Kinderärztin hat mich überzeugt. Ein Achtjähriger kann sich gegen eine bunte Comicfigur nun mal nicht wehren." },
+    { "s": "B", "t": "Das sehe ich im Prinzip genauso. Ich komme aus Québec, und dort ist Werbung, die sich an Kinder unter dreizehn richtet, schon seit über vierzig Jahren verboten. Das stellt bei uns kaum jemand infrage." },
+    { "s": "A", "t": "Und hat das etwas gebracht? Ernähren sich die Kinder dort gesünder?" },
+    { "s": "B", "t": "Es gibt Hinweise, dass Familien seitdem weniger Fast Food kaufen, aber das lässt sich schwer allein auf das Verbot zurückführen. Und heute ist es viel schwieriger durchzusetzen, weil meine Neffen kaum noch fernsehen. Die Werbung erreicht sie über Videoplattformen und Influencer aus aller Welt." },
+    { "s": "A", "t": "Genau deshalb halte ich es für richtig, dass der Entwurf auch die sozialen Netzwerke einbezieht. Gerade bei Influencern merken Kinder ja überhaupt nicht, dass jemand dafür bezahlt wird, einen Schokoriegel in die Kamera zu halten." },
+    { "s": "B", "t": "Da stimme ich Ihnen zu. Allerdings frage ich mich, wie man das kontrollieren will. Viele dieser Kanäle werden aus dem Ausland betrieben, und wie alt das Publikum ist, weiß eigentlich nur die Plattform selbst." },
+    { "s": "A", "t": "Das ist zweifellos ein Schwachpunkt. Aber nur weil sich ein Gesetz nicht lückenlos durchsetzen lässt, ist es noch lange nicht sinnlos. Auch Tempolimits werden nicht überall kontrolliert, und trotzdem fahren die meisten langsamer." },
+    { "s": "B", "t": "Ein guter Vergleich. Was mich allerdings wirklich stört, ist die Liste der betroffenen Produkte. Wenn sogar Fruchtjoghurt und Müsli darunterfallen, verlieren die Leute den Respekt vor solchen Regeln." },
+    { "s": "A", "t": "Da muss ich Ihnen widersprechen. Viele Fruchtjoghurts für Kinder enthalten so viel Zucker, dass man sie eigentlich als Nachtisch bezeichnen müsste. Dass sie gesund wirken, ist ja gerade das Problem." },
+    { "s": "B", "t": "Gut, dieser Punkt geht an Sie. Trotzdem bleibe ich dabei, dass ein Verbot allein nicht reicht. Wenn Kinder sich kaum bewegen und zu Hause niemand kocht, ändert auch der beste Werbeschutz wenig." },
+    { "s": "P", "t": "Was können denn Eltern, Kitas und Schulen Ihrer Meinung nach tun?" },
+    { "s": "A", "t": "Ich halte Ernährungsbildung für ganz entscheidend, und zwar praktisch, nicht nur mit Arbeitsblättern. In der Kita meiner Tochter wird einmal pro Woche gemeinsam gekocht, und seitdem isst sie Gemüse, das sie vorher nie angerührt hätte." },
+    { "s": "B", "t": "Das finde ich vorbildlich. Ich würde mir außerdem wünschen, dass alle Schulen ein kostenloses, gesundes Mittagessen anbieten. Das würde gerade Kindern aus ärmeren Familien mehr helfen als jedes Werbeverbot." },
+    { "s": "A", "t": "Das spricht aber nicht gegen das Verbot, sondern dafür, es zu ergänzen. Wir brauchen beides: Regeln, die Kinder vor gezielter Beeinflussung schützen, und Angebote, die gesunde Ernährung selbstverständlich machen." },
+    { "s": "B", "t": "Einverstanden, wobei ich die Grenzwerte noch einmal genau prüfen lassen würde, damit wirklich nur stark gezuckerte Produkte betroffen sind. Und die Sender sollten einen Ausgleich bekommen, damit gute Kinderprogramme nicht verschwinden." },
+    { "s": "A", "t": "Ein Ausgleich aus Steuergeld? Da bin ich mir nicht so sicher. Fairer fände ich es, wenn die Hersteller stattdessen für ihre gesünderen Produkte werben würden, denn dann bliebe das Geld trotzdem beim Kinderprogramm." },
+    { "s": "B", "t": "Ein interessanter Gedanke, aber ob die Industrie da mitspielt, wage ich zu bezweifeln." },
+    { "s": "A", "t": "Mag sein. Fassen wir zusammen: Ein Werbeverbot halten wir beide für sinnvoll, vorausgesetzt, die Grenzwerte sind fair und das Verbot wird von praktischer Ernährungsbildung begleitet." },
+    { "s": "B", "t": "Genau. Ein Verbot kann den Druck auf die Familien verringern, aber gesunde Gewohnheiten entstehen letztlich am Küchentisch und in der Schule." }
+  ],
+  "phrases": [
+    { "de": "Der Artikel befasst sich mit …", "en": "The article deals with …" },
+    { "de": "Anlass ist eine Studie, laut der …", "en": "The reason is a study according to which …" },
+    { "de": "Mir ist noch ein weiterer Aspekt aufgefallen, nämlich …", "en": "I noticed another aspect, namely …" },
+    { "de": "Ich muss gestehen, dass ich zunächst skeptisch war.", "en": "I must admit I was sceptical at first." },
+    { "de": "Das stellt kaum jemand infrage.", "en": "Hardly anyone questions that." },
+    { "de": "Das lässt sich schwer sagen, weil …", "en": "That's hard to say because …" },
+    { "de": "Das ist zweifellos ein Schwachpunkt. Aber …", "en": "That's undoubtedly a weak point. But …" },
+    { "de": "Da muss ich Ihnen widersprechen.", "en": "I have to disagree with you there." },
+    { "de": "Gut, dieser Punkt geht an Sie.", "en": "All right, I'll give you that point." },
+    { "de": "Trotzdem bleibe ich dabei, dass …", "en": "Nevertheless, I still maintain that …" },
+    { "de": "Das spricht nicht gegen …, sondern dafür, es zu ergänzen.", "en": "That's not an argument against …, but for adding to it." },
+    { "de": "…, wage ich zu bezweifeln.", "en": "I rather doubt that …" }
+  ],
+  "vocabulary": [
+    { "de": "der Gesetzentwurf", "en": "draft law, bill" },
+    { "de": "übergewichtig", "en": "overweight" },
+    { "de": "etwas bewerben", "en": "to advertise something" },
+    { "de": "minderjährig", "en": "underage" },
+    { "de": "der Nährwert (die Nährwerte)", "en": "nutritional value(s)" },
+    { "de": "unverhältnismäßig", "en": "disproportionate" },
+    { "de": "der Bewegungsmangel", "en": "lack of exercise" },
+    { "de": "die Ernährungsbildung", "en": "nutrition education" },
+    { "de": "die Bevormundung", "en": "paternalism, being told what to do" },
+    { "de": "die Selbstverpflichtung", "en": "voluntary commitment" },
+    { "de": "die Einbuße (die Einbußen)", "en": "loss (of revenue)" },
+    { "de": "quengeln", "en": "to whine, to pester" }
+  ]
+}

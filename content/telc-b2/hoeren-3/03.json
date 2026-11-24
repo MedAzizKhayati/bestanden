@@ -1,0 +1,109 @@
+{
+  "id": "hoeren-3-03",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Pläne in letzter Minute",
+  "topic": "freizeit",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "flughafen", "gender": "m", "age": "adult", "role": "Lautsprecheransage" },
+    { "id": "verwaltung", "name": "Renate Kühn", "gender": "f", "age": "senior", "role": "Hausverwaltung Seidel" },
+    { "id": "radio", "gender": "m", "age": "young", "role": "Radiomoderator" },
+    { "id": "messe", "gender": "f", "age": "adult", "role": "Lautsprecheransage" },
+    { "id": "sbahn", "gender": "f", "age": "young", "role": "Lautsprecheransage" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage am Flughafen",
+      "context": "Sie hören eine Durchsage am Flughafen.",
+      "script": [
+        { "s": "flughafen", "t": "Ihre Aufmerksamkeit bitte: eine Information für Passagiere des Fluges um 14 Uhr 40 nach Zürich." },
+        { "s": "flughafen", "t": "Wegen eines technischen Problems an der Maschine wird Ihr Flug nicht von Flugsteig B 22, sondern von Flugsteig C 5 abgefertigt. Der Abflug verzögert sich voraussichtlich um rund fünfzig Minuten." },
+        { "s": "flughafen", "t": "Als kleine Entschädigung erhalten Sie gegen Vorlage Ihrer Bordkarte in allen Cafés im Bereich C ein kostenloses Getränk." },
+        { "s": "flughafen", "t": "Fluggäste, die ihren Anschlussflug ab Zürich nicht mehr erreichen, wenden sich bitte nicht an das Personal am Flugsteig, sondern schon jetzt an den Transferschalter in Halle C." }
+      ],
+      "statement": "Wer seinen Anschlussflug ab Zürich verpassen könnte, soll sich an das Personal am neuen Flugsteig wenden.",
+      "answer": false,
+      "explanation": "Passengers who will miss their connection should go „nicht an das Personal am Flugsteig, sondern schon jetzt an den Transferschalter in Halle C“. The new gate C 5 is only a competing detail that makes the statement sound plausible.",
+      "explanationDe": "Wer den Anschluss nicht mehr erreicht, soll sich „nicht an das Personal am Flugsteig, sondern schon jetzt an den Transferschalter in Halle C“ wenden. Der neue Flugsteig C 5 ist nur ein ablenkendes Detail.",
+      "evidence": "wenden sich bitte nicht an das Personal am Flugsteig, sondern schon jetzt an den Transferschalter in Halle C"
+    },
+    {
+      "n": 2,
+      "label": "Nachricht von der Hausverwaltung",
+      "context": "Sie hören eine Nachricht auf einem Anrufbeantworter.",
+      "script": [
+        { "s": "verwaltung", "t": "Guten Tag, Herr Okafor, hier ist Renate Kühn von der Hausverwaltung Seidel. Ich melde mich wegen des Wasserschadens in Ihrem Badezimmer." },
+        { "s": "verwaltung", "t": "Der Installateur kann leider nicht wie besprochen am Donnerstag kommen, sondern erst am Freitag zwischen acht und zwölf Uhr." },
+        { "s": "verwaltung", "t": "Falls Sie da arbeiten müssen, ist das kein Problem: Ihre Nachbarin, Frau Sommerfeld, würde ihm aufschließen, wenn Sie ihr bis Donnerstagabend einen Schlüssel vorbeibringen." },
+        { "s": "verwaltung", "t": "Die Reparaturkosten trägt übrigens vollständig die Versicherung des Eigentümers, Sie müssen also nichts auslegen." }
+      ],
+      "statement": "Herr Okafor muss beim Besuch des Installateurs nicht anwesend sein, wenn er vorher einen Schlüssel abgibt.",
+      "answer": true,
+      "explanation": "If he has to work on Friday, „ist das kein Problem“: the neighbour will let the plumber in „wenn Sie ihr bis Donnerstagabend einen Schlüssel vorbeibringen“. So he does not have to be at home himself.",
+      "explanationDe": "Wenn er am Freitag arbeiten muss, „ist das kein Problem“: Die Nachbarin lässt den Installateur herein, „wenn Sie ihr bis Donnerstagabend einen Schlüssel vorbeibringen“. Er muss also nicht selbst zu Hause sein.",
+      "evidence": "Falls Sie da arbeiten müssen, ist das kein Problem: Ihre Nachbarin, Frau Sommerfeld, würde ihm aufschließen, wenn Sie ihr bis Donnerstagabend einen Schlüssel vorbeibringen."
+    },
+    {
+      "n": 3,
+      "label": "Veranstaltungstipp im Radio",
+      "context": "Sie hören einen Veranstaltungstipp im Radio.",
+      "script": [
+        { "s": "radio", "t": "Krimifans aufgepasst: Am Samstag liest die Autorin Hanna Weißgerber in der Stadtbibliothek aus ihrem neuen Roman „Nebel über dem Moor“." },
+        { "s": "radio", "t": "Die Lesung beginnt um 19 Uhr, im Anschluss signiert die Autorin ihre Bücher. Der Eintritt ist frei, wegen der begrenzten Zahl an Plätzen ist allerdings eine Anmeldung erforderlich – telefonisch oder direkt an der Ausleihtheke." },
+        { "s": "radio", "t": "Wer schon am Nachmittag Zeit hat: Um 15 Uhr leitet Hanna Weißgerber einen Schreibworkshop für Jugendliche ab vierzehn. Der kostet 5 Euro, Material inklusive, und hier kann man auch spontan noch dazukommen." }
+      ],
+      "statement": "Die Lesung am Abend kostet keinen Eintritt, eine vorherige Anmeldung ist dafür nicht erforderlich.",
+      "answer": false,
+      "explanation": "Entry is free, but „wegen der begrenzten Zahl an Plätzen ist allerdings eine Anmeldung erforderlich“. You can only join spontaneously at the afternoon workshop for teenagers, which costs 5 euros.",
+      "explanationDe": "Der Eintritt ist zwar frei, aber „wegen der begrenzten Zahl an Plätzen ist allerdings eine Anmeldung erforderlich“. Spontan dazukommen kannst du nur beim Workshop für Jugendliche am Nachmittag.",
+      "evidence": "wegen der begrenzten Zahl an Plätzen ist allerdings eine Anmeldung erforderlich"
+    },
+    {
+      "n": 4,
+      "label": "Durchsage auf der Gartenmesse",
+      "context": "Sie hören eine Durchsage auf einer Messe.",
+      "script": [
+        { "s": "messe", "t": "Liebe Besucherinnen und Besucher der Gartenmesse, bitte beachten Sie eine Programmänderung." },
+        { "s": "messe", "t": "Der Vortrag „Gärtnern auf kleinem Raum“ findet heute nicht wie angekündigt um 13 Uhr in Halle 2 statt, sondern bereits um 12 Uhr in Halle 4 auf der Aktionsbühne." },
+        { "s": "messe", "t": "Die Kräuterwerkstatt für Kinder entfällt am Vormittag und wird dafür am Nachmittag zweimal angeboten, nämlich um 14 und um 16 Uhr. Treffpunkt ist der Stand der Gärtnerei Hollmann am Eingang West." }
+      ],
+      "statement": "Der Vortrag über das Gärtnern auf kleinem Raum beginnt heute eine Stunde später als geplant.",
+      "answer": false,
+      "explanation": "The talk takes place „nicht wie angekündigt um 13 Uhr …, sondern bereits um 12 Uhr“ – one hour earlier, not later. „Bereits“ signals the earlier time; the afternoon times belong to the children's herb workshop.",
+      "explanationDe": "Der Vortrag ist „nicht wie angekündigt um 13 Uhr …, sondern bereits um 12 Uhr“ – also eine Stunde früher, nicht später. Die Zeiten am Nachmittag gehören zur Kräuterwerkstatt für Kinder.",
+      "evidence": "findet heute nicht wie angekündigt um 13 Uhr in Halle 2 statt, sondern bereits um 12 Uhr in Halle 4 auf der Aktionsbühne"
+    },
+    {
+      "n": 5,
+      "label": "Durchsage in der S-Bahn",
+      "context": "Sie hören eine Durchsage in der S-Bahn.",
+      "script": [
+        { "s": "sbahn", "t": "Liebe Fahrgäste, eine Information zu den Bauarbeiten am kommenden Wochenende: Von Freitag, 22 Uhr, bis Montag früh fährt die Linie S 2 nur zwischen Hauptbahnhof und Messe." },
+        { "s": "sbahn", "t": "Zwischen Messe und Flughafen sind Ersatzbusse im Einsatz. Diese brauchen rund zwanzig Minuten länger, Fluggäste sollten deshalb entsprechend früher losfahren." },
+        { "s": "sbahn", "t": "Fahrräder können in den Ersatzbussen leider nicht mitgenommen werden. Wer mit dem Rad zum Flughafen möchte, weicht bitte auf die Regionalbahn aus, die von den Bauarbeiten nicht betroffen ist." }
+      ],
+      "statement": "Wer am Wochenende mit dem Fahrrad zum Flughafen fährt, sollte statt des Ersatzbusses die Regionalbahn nehmen.",
+      "answer": true,
+      "explanation": "Bikes „können in den Ersatzbussen leider nicht mitgenommen werden“, so cyclists are asked to use „die Regionalbahn …, die von den Bauarbeiten nicht betroffen ist“.",
+      "explanationDe": "Fahrräder „können in den Ersatzbussen leider nicht mitgenommen werden“. Wer mit dem Rad zum Flughafen will, soll deshalb auf „die Regionalbahn …, die von den Bauarbeiten nicht betroffen ist“, ausweichen.",
+      "evidence": "Wer mit dem Rad zum Flughafen möchte, weicht bitte auf die Regionalbahn aus, die von den Bauarbeiten nicht betroffen ist."
+    }
+  ],
+  "glossary": [
+    { "de": "abfertigen", "en": "to handle, to check in (a flight)" },
+    { "de": "die Entschädigung", "en": "compensation" },
+    { "de": "gegen Vorlage", "en": "on presentation of" },
+    { "de": "der Anschlussflug", "en": "connecting flight" },
+    { "de": "der Installateur", "en": "plumber" },
+    { "de": "aufschließen", "en": "to unlock, to let someone in" },
+    { "de": "Geld auslegen", "en": "to pay in advance (for someone)" },
+    { "de": "signieren", "en": "to sign (books)" },
+    { "de": "die Ausleihtheke", "en": "loans desk (in a library)" },
+    { "de": "entfallen", "en": "to be cancelled" },
+    { "de": "der Ersatzbus", "en": "replacement bus" },
+    { "de": "ausweichen auf", "en": "to switch to, to use instead" }
+  ]
+}

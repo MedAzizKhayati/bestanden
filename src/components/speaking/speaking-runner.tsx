@@ -14,7 +14,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useLocale, useT } from "@/i18n/client";
 import { formatLongDate, formatNumber, formatShortDate } from "@/i18n/format";
 import type { Messages } from "@/i18n/messages";
-import type { SpeakingSet, Turn } from "@/lib/ai/speaking-types";
+import { partnerOpens, type SpeakingSet, type Turn } from "@/lib/ai/speaking-types";
 import type { GlossaryEntry } from "@/lib/content/schemas";
 import type { PartDefinition, SpeakingRubric } from "@/lib/exams";
 import { useSecondsLeft } from "@/lib/hooks/use-countdown";
@@ -44,12 +44,19 @@ export interface SpeakingRunnerProps {
   tips: string[];
 }
 
-const PREP_SECONDS: Record<string, number> = { "sprechen-1": 60, "sprechen-2": 300, "sprechen-3": 300 };
-
-function monologuePrompt(set: SpeakingSet, m: Messages["speaking"]["monologuePrompt"]): string {
-  if (set.type === "speaking-intro") return m.intro;
-  if (set.type === "speaking-topic") return m.topic(set.cardA.name, set.theme);
-  return m.planning;
+function monologuePrompt(set: SpeakingSet, m: Messages["speaking"]["monologuePrompt"], choice: number | null): string {
+  switch (set.type) {
+    case "speaking-intro":
+      return m.intro;
+    case "speaking-topic":
+      return m.topic(set.cardA.name, set.theme);
+    case "speaking-experience":
+      return m.experience(set.topics[choice ?? set.modelTopics.A].title);
+    case "speaking-discussion":
+      return m.discussion(set.theme);
+    case "speaking-planning":
+      return set.examId === "telc-b2" ? m.planningB2 : m.planning;
+  }
 }
 
 /** Turns of an older record that only kept the transcript („Ich: …“ / „Lena: …“ per line). */
@@ -83,12 +90,13 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
   const updateSettings = useSettings((s) => s.update);
   const saveSpeaking = useProgress((s) => s.saveSpeaking);
   const history = useProgress((s) => s.speaking);
-  const previous = useMemo(() => history.filter((h) => h.setId === set.id), [history, set.id]);
+  const previous = useMemo(() => history.filter((h) => h.setId === set.id && h.examId === examId), [history, set.id, examId]);
   const aiAvailable = useAiAvailable();
   const t = useT();
   const locale = useLocale();
   const r = t.speaking.runner;
-  const selfCheck: string[] = t.speaking.selfCheck[part.id as keyof Messages["speaking"]["selfCheck"]] ?? [];
+  const b2 = examId === "telc-b2";
+  const selfCheck: string[] = (b2 ? t.speaking.selfCheckB2 : t.speaking.selfCheck)[part.id as keyof Messages["speaking"]["selfCheck"]] ?? [];
 
   // Carried: switching the UI language mid-conversation keeps the conversation (see useCarriedState).
   const [tab, setTab] = useCarriedState("speaking:tab", "practice");
@@ -97,6 +105,9 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
   const mode: Mode = aiAvailable === false ? "monologue" : chosenMode;
   const [prepEndsAt, setPrepEndsAt] = useCarriedState<number | null>("speaking:prepEndsAt", null);
   const [notes, setNotes] = useCarriedState("speaking:notes", "");
+  /** telc B2 Teil 1: the topic chosen on the sheet. */
+  const [choice, setChoice] = useCarriedState<number | null>("speaking:choice", null);
+  const needsChoice = set.type === "speaking-experience" && choice === null;
   const [speakStartedAt, setSpeakStartedAt] = useCarriedState<number | null>("speaking:startedAt", null);
   const [turns, setTurns] = useCarriedState<Turn[]>("speaking:turns", []);
   const [ended, setEnded] = useCarriedState("speaking:ended", false);
@@ -116,20 +127,22 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
 
   useFocusMode(phase === "speak");
   const prepLeft = useSecondsLeft(prepEndsAt);
-  const prepSeconds = PREP_SECONDS[part.id] ?? 120;
+  const prepSeconds = part.speaking?.prepSeconds ?? 120;
   const partner = set.speakers.find((s) => s.id === "B") ?? { id: "B", gender: "f" as const, age: "adult" as const, name: "Lena" };
   const userName = "Ich";
   const speakLimit = (part.speaking?.minutes ?? part.minutes) * 60;
 
   const beginPrep = () => setPrepEndsAt(Date.now() + prepSeconds * 1000);
   const beginSpeaking = useCallback(() => {
+    // Preparation over without a chosen topic (B2 Teil 1): take the first model topic.
+    if (set.type === "speaking-experience" && choice === null) setChoice(set.modelTopics.A);
     setPrepEndsAt(null);
     setPhase("speak");
     setSpeakStartedAt(Date.now());
     setTurns([]);
     setEnded(false);
     window.scrollTo({ top: 0 });
-  }, [setEnded, setPhase, setPrepEndsAt, setSpeakStartedAt, setTurns]);
+  }, [choice, set, setChoice, setEnded, setPhase, setPrepEndsAt, setSpeakStartedAt, setTurns]);
 
   useEffect(() => {
     if (!prepEndsAt) return;
@@ -147,13 +160,31 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
       const rec = existing ?? { id: uid(), createdAt: Date.now() };
       setCurrent(rec);
       const transcript = allTurns.map((turn) => `${turn.role === "user" ? "Ich" : (partner.name ?? "Partner")}: ${turn.text}`).join("\n");
-      const record: SpeakingRecord = { id: rec.id, examId, partId: part.id, setId: set.id, transcript, turns: allTurns, durationSec: Math.round(seconds), createdAt: rec.createdAt };
+      const record: SpeakingRecord = {
+        id: rec.id,
+        examId,
+        partId: part.id,
+        setId: set.id,
+        transcript,
+        turns: allTurns,
+        durationSec: Math.round(seconds),
+        createdAt: rec.createdAt,
+        ...(choice !== null ? { choice } : {}),
+      };
       if (!existing) saveSpeaking(record);
       if (!aiAvailable) return;
       setFbState("loading");
       setFbError(null);
       try {
-        const res = await aiFetch("/api/ai/sprechen", { examId, partId: part.id, setNumber, turns: allTurns, durationSec: Math.round(seconds), locale });
+        const res = await aiFetch("/api/ai/sprechen", {
+          examId,
+          partId: part.id,
+          setNumber,
+          turns: allTurns,
+          durationSec: Math.round(seconds),
+          locale,
+          choice: choice ?? undefined,
+        });
         const data = (await res.json().catch(() => ({}))) as { feedback?: SpeakingFeedback; error?: string };
         if (!res.ok || !data.feedback) {
           // Show the server's message as it arrives; our own text only when there is none.
@@ -169,7 +200,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
         setFbError(fallbackError);
       }
     },
-    [aiAvailable, examId, part.id, partner.name, saveSpeaking, set.id, setNumber, locale, fallbackError, setCurrent, setFeedback],
+    [aiAvailable, examId, part.id, partner.name, saveSpeaking, set.id, setNumber, locale, fallbackError, setCurrent, setFeedback, choice],
   );
 
   const finish = useCallback(
@@ -188,6 +219,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
 
   const openAttempt = (rec: SpeakingRecord) => {
     setTurns(rec.turns ?? turnsFromTranscript(rec.transcript));
+    if (rec.choice !== undefined) setChoice(rec.choice);
     setFeedback(rec.feedback ?? null);
     setDurationSec(rec.durationSec);
     setCurrent({ id: rec.id, createdAt: rec.createdAt });
@@ -212,16 +244,17 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
     setChecked({});
     setNotes("");
     setRevealB(false);
+    setChoice(null);
   };
 
-  const partnerStarts = set.type !== "speaking-topic";
+  const partnerStarts = partnerOpens(set);
 
   const practice = (
     <div className="space-y-5">
       {phase === "prepare" && (
         <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_340px]">
           <div className="space-y-4">
-            <TaskSheet set={set} revealPartner={revealB} />
+            <TaskSheet set={set} revealPartner={revealB} choice={choice ?? undefined} onChoose={setChoice} />
             <div className="rounded-2xl border bg-card p-4">
               <div className="mb-2 flex items-center justify-between">
                 <span className="text-sm font-semibold">Notizen</span>
@@ -244,7 +277,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
               {prepEndsAt ? (
                 <div className="mt-3 font-mono text-4xl font-semibold tabular">{formatClock(prepLeft)}</div>
               ) : (
-                <p className="mt-2 text-sm text-muted-foreground">{r.prepText(Math.round(prepSeconds / 60))}</p>
+                <p className="mt-2 text-sm text-muted-foreground">{(b2 ? r.prepTextB2 : r.prepText)(Math.round(prepSeconds / 60))}</p>
               )}
               <div className="mt-4 flex flex-wrap gap-2">
                 {!prepEndsAt && (
@@ -252,10 +285,11 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
                     <Timer /> {r.startPrep}
                   </Button>
                 )}
-                <Button onClick={beginSpeaking} className="bg-sprechen text-white hover:bg-sprechen/90">
+                <Button onClick={beginSpeaking} disabled={needsChoice} className="bg-sprechen text-white hover:bg-sprechen/90">
                   <Mic /> {prepEndsAt ? r.readyStart : r.startSpeaking}
                 </Button>
               </div>
+              {needsChoice && <p className="mt-2 text-xs text-muted-foreground">{r.chooseFirst}</p>}
             </div>
 
             <div className="rounded-2xl border bg-card p-4">
@@ -327,7 +361,7 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
       {phase === "speak" && (
         <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
           <div className="space-y-4 lg:sticky lg:top-32 lg:self-start">
-            <TaskSheet set={set} revealPartner={false} />
+            <TaskSheet set={set} revealPartner={false} choice={choice ?? undefined} />
             {notes.trim() && (
               <div className="rounded-2xl border bg-card p-4 text-sm whitespace-pre-wrap">
                 <div className="mb-1 font-semibold">{r.yourNotes}</div>
@@ -365,13 +399,14 @@ function Runner({ examId, part, set, setNumber, rubric, phraseGroups, links, tip
                 partner={partner}
                 userName={userName}
                 partnerStarts={partnerStarts}
+                choice={choice ?? undefined}
                 disabled={ended}
                 turns={turns}
                 onTurns={setTurns}
               />
             ) : (
               <Monologue
-                prompt={monologuePrompt(set, t.speaking.monologuePrompt)}
+                prompt={monologuePrompt(set, t.speaking.monologuePrompt, choice)}
                 targetSeconds={part.speaking?.monologueSeconds ?? 90}
                 maxSeconds={strict ? (part.speaking?.monologueSeconds ?? 90) + 60 : undefined}
                 onDone={(text, secs) => finish([{ role: "user", text }], secs)}
@@ -538,7 +573,7 @@ function PhrasesAndIdeas({ set, groups }: { set: SpeakingSet; groups: SpeakingRu
   return (
     <div className="grid gap-5 lg:grid-cols-2">
       <div className="space-y-5">
-        {set.type === "speaking-topic" && (
+        {(set.type === "speaking-topic" || set.type === "speaking-discussion") && (
           <div className="rounded-2xl border bg-card p-5">
             <h3 className="mb-3 font-semibold">{ideas.title}</h3>
             <div className="grid gap-4 sm:grid-cols-2">
@@ -567,6 +602,35 @@ function PhrasesAndIdeas({ set, groups }: { set: SpeakingSet; groups: SpeakingRu
                 ))}
               </ul>
             </div>
+          </div>
+        )}
+        {set.type === "speaking-experience" && (
+          <div className="rounded-2xl border bg-card p-5">
+            <h3 className="mb-3 font-semibold">{ideas.structure}</h3>
+            <ol className="list-decimal space-y-1 pl-5 text-sm">
+              {set.structure.map((step) => (
+                <li key={step}>{step}</li>
+              ))}
+            </ol>
+            <div className="mt-4 border-t pt-3">
+              <div className="mb-1.5 text-xs font-semibold tracking-wide text-muted-foreground uppercase">{ideas.followUp}</div>
+              <ul className="space-y-1 text-sm">
+                {set.questions.map((q) => (
+                  <li key={q}>„{q}“</li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        )}
+        {set.type === "speaking-planning" && set.examId === "telc-b2" && (
+          <div className="rounded-2xl border bg-card p-5">
+            <h3 className="font-semibold">{ideas.aspects}</h3>
+            <p className="mb-3 text-xs text-muted-foreground">{ideas.aspectsNote}</p>
+            <ul className="space-y-1 text-sm">
+              {set.checklist.map((c) => (
+                <li key={c}>• {c}</li>
+              ))}
+            </ul>
           </div>
         )}
         {set.type === "speaking-intro" && (

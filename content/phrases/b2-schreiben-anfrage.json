@@ -1,0 +1,130 @@
+{
+  "id": "b2-schreiben-anfrage",
+  "level": "B2",
+  "order": 101,
+  "context": "schreiben",
+  "title": "Bitte um Informationen & Anfrage",
+  "titleEn": "Requests for information & enquiries",
+  "description": "For the B2 e-mail in which you ask a company, a school or an office for details: refer precisely to the ad, explain who you are and why the offer interests you, then ask targeted questions about costs, conditions and documents. These Redemittel add to the B1 bank „Halbformelle E-Mails“ – vary your questions instead of writing „Ich möchte wissen …“ three times.",
+  "descriptionDe": "Für die B2-E-Mail, in der du eine Firma, eine Schule oder ein Amt um genauere Auskünfte bittest: Nimm genau Bezug auf die Anzeige, erkläre, wer du bist und warum dich das Angebot interessiert, und stelle dann gezielte Fragen zu Kosten, Bedingungen und Unterlagen. Diese Redemittel ergänzen die B1-Sammlung „Halbformelle E-Mails“ – formuliere deine Fragen abwechslungsreich, statt dreimal „Ich möchte wissen …“ zu schreiben.",
+  "groups": [
+    {
+      "title": "Bezug auf die Anzeige nehmen",
+      "titleEn": "Referring to the ad",
+      "register": "formal",
+      "phrases": [
+        { "de": "Im Internet bin ich auf Ihr Angebot für Sommerkurse gestoßen.", "en": "I came across your offer of summer courses online.", "note": "auf etwas stoßen = to come across something (Perfekt with „sein“)", "noteDe": "auf etwas (Akk.) stoßen = etwas zufällig finden (Perfekt mit „sein“)" },
+        { "de": "Ihre Anzeige in der Samstagsausgabe der Lokalzeitung hat sofort mein Interesse geweckt.", "en": "Your ad in the Saturday edition of the local paper immediately caught my interest.", "note": "das Interesse wecken – a typical Nomen-Verb-Verbindung", "noteDe": "das Interesse wecken – eine typische Nomen-Verb-Verbindung" },
+        { "de": "Ich beziehe mich auf Ihre Anzeige vom …, in der Sie … anbieten.", "en": "I am referring to your ad of …, in which you offer …", "note": "sich beziehen auf + accusative; relative clause with „in der“ (die Anzeige)", "noteDe": "sich beziehen auf + Akkusativ; Relativsatz mit „in der“ (die Anzeige)" },
+        { "de": "Durch eine Kollegin bin ich auf Ihre Sprachschule aufmerksam geworden.", "en": "I heard about your language school through a colleague.", "note": "auf etwas (acc.) aufmerksam werden = to become aware of something", "noteDe": "auf etwas (Akk.) aufmerksam werden = von etwas erfahren" },
+        { "de": "Laut Ihrer Anzeige finden die Kurse ausschließlich am Wochenende statt.", "en": "According to your ad, the courses take place only at weekends.", "note": "laut + dative/genitive = according to. Sum up what the ad says, then ask about it.", "noteDe": "laut + Dativ/Genitiv = nach Angaben von. Gib kurz wieder, was in der Anzeige steht, und frag dann nach." },
+        { "de": "In Ihrer Anzeige heißt es, dass alle Zimmer frisch renoviert sind.", "en": "Your ad says that all the rooms have just been renovated.", "note": "es heißt = it says (in a text) – a neutral way to quote", "noteDe": "es heißt = es steht (in einem Text) – eine neutrale Art, etwas wiederzugeben" },
+        { "de": "Ihr Angebot klingt genau nach dem, was ich schon länger suche.", "en": "Your offer sounds like exactly what I have been looking for for some time.", "note": "klingen nach + dative; „schon länger“ + present tense for something still going on", "noteDe": "klingen nach + Dativ; „schon länger“ + Präsens für etwas, das noch andauert" }
+      ]
+    },
+    {
+      "title": "Die eigene Situation darlegen und Interesse begründen",
+      "titleEn": "Explaining your situation and your interest",
+      "register": "formal",
+      "phrases": [
+        { "de": "Kurz zu meiner Person: Ich bin 34 Jahre alt und arbeite seit fünf Jahren als Pflegefachkraft in Bremen.", "en": "A few words about myself: I am 34 and have been working as a nurse in Bremen for five years.", "note": "A short introduction helps when your situation matters for the answer.", "noteDe": "Eine kurze Vorstellung hilft, wenn deine Situation für die Antwort wichtig ist." },
+        { "de": "Da ich beruflich häufig mit Kunden aus Frankreich zu tun habe, bin ich auf gute Französischkenntnisse angewiesen.", "en": "As I often deal with customers from France at work, I depend on a good knowledge of French.", "note": "angewiesen sein auf + accusative = to depend on; mit etwas zu tun haben = to deal with", "noteDe": "angewiesen sein auf + Akkusativ = etwas unbedingt brauchen; mit etwas zu tun haben = sich damit beschäftigen" },
+        { "de": "Ihr Angebot käme mir sehr gelegen, da ich ab Juli einige Wochen Urlaub habe.", "en": "Your offer would suit me very well, as I have a few weeks off from July.", "note": "jemandem gelegen kommen = to come at the right time; „käme“ because nothing is booked yet", "noteDe": "jemandem gelegen kommen = gut passen; „käme“ (Konjunktiv II), weil noch nichts gebucht ist" },
+        { "de": "Besonders angesprochen hat mich, dass Sie auch Kurse für Wiedereinsteiger anbieten.", "en": "What particularly appealed to me is that you also offer courses for people returning after a break.", "note": "The dass-clause is the subject – a varied alternative to „Mir gefällt, dass …“.", "noteDe": "Der dass-Satz ist das Subjekt – eine abwechslungsreiche Alternative zu „Mir gefällt, dass …“." },
+        { "de": "Großen Wert lege ich auf eine ruhige Lage, denn ich arbeite viel von zu Hause aus.", "en": "A quiet location is very important to me, as I work from home a lot.", "note": "Wert legen auf + accusative = to attach importance to", "noteDe": "Wert legen auf + Akkusativ = etwas sehr wichtig finden" },
+        { "de": "Mein Ziel ist es, mein Englisch bis zum Herbst so weit zu verbessern, dass ich Verhandlungen führen kann.", "en": "My goal is to improve my English by the autumn to the point where I can conduct negotiations.", "note": "so weit …, dass = to the point where", "noteDe": "so weit …, dass = bis zu dem Punkt, an dem …" },
+        { "de": "Gewisse Vorkenntnisse bringe ich bereits mit: Ich habe in der Schule drei Jahre Italienisch gelernt.", "en": "I already have some prior knowledge: I learned Italian at school for three years.", "note": "Vorkenntnisse mitbringen = to already know something; a full sentence after the colon starts with a capital letter.", "noteDe": "Vorkenntnisse mitbringen = schon etwas können; ein ganzer Satz nach dem Doppelpunkt beginnt groß." },
+        { "de": "Für mich kommt vor allem ein Einzelzimmer infrage, weil ich einen sehr leichten Schlaf habe.", "en": "A single room is really the only option for me, as I am a very light sleeper.", "note": "infrage kommen = to be an option; negative: „… kommt für mich nicht infrage“", "noteDe": "infrage kommen = möglich sein; verneint: „… kommt für mich nicht infrage“" }
+      ]
+    },
+    {
+      "title": "Gezielt nachfragen",
+      "titleEn": "Asking targeted questions",
+      "register": "formal",
+      "phrases": [
+        { "de": "Darüber hinaus wüsste ich gern, ob die Prüfungsgebühr im Kurspreis enthalten ist.", "en": "In addition, I would like to know whether the exam fee is included in the course price.", "note": "„wüsste“ (Konjunktiv II of wissen) sounds more refined than „Ich möchte wissen“.", "noteDe": "„wüsste“ (Konjunktiv II von „wissen“) klingt gewandter als „Ich möchte wissen“." },
+        { "de": "Könnten Sie mir Näheres zum Ablauf der ersten Woche mitteilen?", "en": "Could you give me more details about how the first week is organised?", "note": "Näheres = further details (adjective used as a noun, so capital N)", "noteDe": "Näheres = genauere Informationen (nominalisiertes Adjektiv, deshalb groß)" },
+        { "de": "Aus Ihrer Anzeige geht leider nicht hervor, ob die Unterkunft im Preis inbegriffen ist.", "en": "Unfortunately, your ad does not make clear whether accommodation is included in the price.", "note": "aus etwas (dat.) hervorgehen = to be clear from something", "noteDe": "aus etwas (Dat.) hervorgehen = in etwas klar erkennbar sein" },
+        { "de": "In diesem Zusammenhang stellt sich mir die Frage, wie die Betreuung am Nachmittag geregelt ist.", "en": "In this connection, I am wondering how supervision in the afternoon is organised.", "note": "Links your question to the point you have just made.", "noteDe": "Verbindet deine Frage mit dem Punkt, den du gerade beschrieben hast." },
+        { "de": "Außerdem möchte ich mich nach den Zahlungsmodalitäten erkundigen.", "en": "I would also like to enquire about the terms of payment.", "note": "sich erkundigen nach + dative = to enquire about", "noteDe": "sich erkundigen nach + Dativ = nach etwas fragen" },
+        { "de": "Was genau ist mit „Rundum-Betreuung“ gemeint?", "en": "What exactly is meant by „Rundum-Betreuung“ (all-round care)?", "note": "Quote a vague promise from the ad and ask what it includes.", "noteDe": "Zitiere ein ungenaues Versprechen aus der Anzeige und frag nach, was es umfasst." },
+        { "de": "Mir ist noch nicht ganz klar, ob man die Kurse auch einzeln buchen kann.", "en": "I am not quite clear yet whether the courses can also be booked individually.", "note": "A polite way to show which detail is missing.", "noteDe": "Eine höfliche Art zu zeigen, welche Information dir noch fehlt." },
+        { "de": "Gilt der angegebene Preis pro Person oder pro Zimmer?", "en": "Is the price given per person or per room?", "note": "Short direct questions between longer sentences add variety.", "noteDe": "Kurze direkte Fragen zwischen längeren Sätzen sorgen für Abwechslung." }
+      ]
+    },
+    {
+      "title": "Kosten und Bedingungen klären",
+      "titleEn": "Clarifying costs and conditions",
+      "register": "formal",
+      "phrases": [
+        { "de": "Sind Verpflegung und Ausflüge im Preis enthalten, oder fallen dafür zusätzliche Kosten an?", "en": "Are meals and excursions included in the price, or are there extra costs for them?", "note": "Kosten fallen an = costs arise (separable verb: anfallen)", "noteDe": "Kosten fallen an = es entstehen Kosten (trennbares Verb: anfallen)" },
+        { "de": "Mit welchen Nebenkosten muss ich zusätzlich zur Miete rechnen?", "en": "What additional costs should I expect on top of the rent?", "note": "rechnen mit + dative = to expect", "noteDe": "rechnen mit + Dativ = etwas erwarten" },
+        { "de": "Gewähren Sie Rabatte für Gruppen, und wenn ja, ab wie vielen Personen?", "en": "Do you offer group discounts, and if so, from how many people?", "note": "gewähren = to grant (formal); „und wenn ja, …“ adds a follow-up question", "noteDe": "gewähren = geben (formell); mit „und wenn ja, …“ hängst du eine Anschlussfrage an" },
+        { "de": "Unter welchen Bedingungen kann ich die Buchung kostenlos stornieren?", "en": "Under what conditions can I cancel the booking free of charge?", "note": "„unter einer Bedingung“ – the preposition is „unter“", "noteDe": "„unter einer Bedingung“ – die Präposition ist „unter“" },
+        { "de": "Ist die Anmeldung sofort verbindlich, oder kann ich innerhalb einer bestimmten Frist noch zurücktreten?", "en": "Is the registration binding straight away, or can I still withdraw within a certain period?", "note": "zurücktreten (von + dative) = to withdraw (from a contract)", "noteDe": "zurücktreten (von + Dativ) = einen Vertrag rückgängig machen" },
+        { "de": "Bis wann muss die Anzahlung überwiesen werden?", "en": "By when does the deposit have to be transferred?", "note": "Passive with a modal verb: muss … überwiesen werden", "noteDe": "Passiv mit Modalverb: muss … überwiesen werden" },
+        { "de": "Welche Kündigungsfrist gilt für den Mitgliedsvertrag?", "en": "What period of notice applies to the membership contract?", "note": "gelten für + accusative = to apply to", "noteDe": "gelten für + Akkusativ = für etwas verbindlich sein" },
+        { "de": "Besteht die Möglichkeit, die Kursgebühr in Raten zu bezahlen?", "en": "Is it possible to pay the course fee in instalments?", "note": "A more formal alternative to „Ist es möglich, …?“", "noteDe": "Eine formellere Alternative zu „Ist es möglich, …?“" },
+        { "de": "Kann man die nötige Ausrüstung vor Ort leihen, oder muss ich sie selbst mitbringen?", "en": "Can the necessary equipment be hired on site, or do I have to bring my own?" }
+      ]
+    },
+    {
+      "title": "Um Unterlagen und Bestätigungen bitten",
+      "titleEn": "Asking for documents and confirmation",
+      "register": "formal",
+      "phrases": [
+        { "de": "Könnten Sie mir ein unverbindliches Angebot zukommen lassen?", "en": "Could you send me a quote without obligation?", "note": "jemandem etwas zukommen lassen = to send someone something (formal)", "noteDe": "jemandem etwas zukommen lassen = jemandem etwas schicken (formell)" },
+        { "de": "Für die Zusendung Ihres aktuellen Programms wäre ich Ihnen sehr verbunden.", "en": "I would be much obliged if you could send me your current programme.", "note": "jemandem verbunden sein = to be obliged (very formal); die Zusendung = Nominalstil for „zuschicken“", "noteDe": "jemandem verbunden sein = dankbar sein (sehr formell); „die Zusendung“ = Nominalstil für „zuschicken“" },
+        { "de": "Welche Unterlagen muss ich der Anmeldung beifügen?", "en": "Which documents do I have to enclose with the registration?", "note": "etwas einer Sache (dat.) beifügen = to enclose something with", "noteDe": "etwas einer Sache (Dat.) beifügen = etwas mitschicken" },
+        { "de": "Könnten Sie mir schriftlich bestätigen, dass der Platz für mich reserviert ist?", "en": "Could you confirm in writing that the place is reserved for me?" },
+        { "de": "Bitte bestätigen Sie mir kurz den Eingang meiner Anmeldung.", "en": "Please send me a short confirmation that my registration has arrived.", "note": "der Eingang = receipt (of a letter, payment or registration)", "noteDe": "der Eingang = das Ankommen (eines Briefs, einer Zahlung, einer Anmeldung)" },
+        { "de": "Gibt es eine Broschüre, in der die Kursinhalte ausführlich beschrieben werden?", "en": "Is there a brochure in which the course content is described in detail?", "note": "Relative clause + passive: „in der … beschrieben werden“", "noteDe": "Relativsatz + Passiv: „in der … beschrieben werden“" },
+        { "de": "Bitte senden Sie mir die Vertragsbedingungen vorab per E-Mail zu.", "en": "Please send me the terms of the contract by e-mail in advance.", "note": "zusenden = to send (formal); vorab = in advance", "noteDe": "zusenden = schicken (formell); vorab = vorher, im Voraus" }
+      ]
+    },
+    {
+      "title": "Höflich bitten mit Konjunktiv II",
+      "titleEn": "Polite requests with Konjunktiv II",
+      "register": "formal",
+      "phrases": [
+        { "de": "Würden Sie mir freundlicherweise mitteilen, ob noch Plätze frei sind?", "en": "Would you kindly let me know whether there are still places available?", "note": "freundlicherweise = kindly", "noteDe": "freundlicherweise = netterweise" },
+        { "de": "Wären Sie so freundlich, mir einen Lageplan zu schicken?", "en": "Would you be so kind as to send me a map of the site?", "note": "Wären Sie so freundlich, … zu + infinitive?", "noteDe": "Wären Sie so freundlich, … zu + Infinitiv?" },
+        { "de": "Hätten Sie eventuell die Möglichkeit, mich telefonisch zu beraten?", "en": "Would you possibly be able to advise me by phone?" },
+        { "de": "Ließe es sich einrichten, dass wir das Zimmer schon am Vormittag beziehen?", "en": "Could it be arranged for us to move into the room in the morning?", "note": "Konjunktiv II of „Es lässt sich einrichten“ (= it can be arranged)", "noteDe": "Konjunktiv II von „Es lässt sich einrichten“ (= Es kann organisiert werden)" },
+        { "de": "Wäre es denkbar, den Kurs ausnahmsweise eine Woche später zu beginnen?", "en": "Would it be conceivable to start the course a week later, as an exception?", "note": "ausnahmsweise = as an exception", "noteDe": "ausnahmsweise = als Ausnahme, nur dieses eine Mal" },
+        { "de": "Es wäre mir eine große Hilfe, wenn Sie mir eine Ansprechperson vor Ort nennen könnten.", "en": "It would be a great help to me if you could give me the name of a contact person on site." },
+        { "de": "Dürfte ich Sie bitten, meine Anfrage an die zuständige Abteilung weiterzuleiten?", "en": "Might I ask you to forward my enquiry to the department responsible?", "note": "„Dürfte ich …?“ – Konjunktiv II of dürfen, very polite; zuständig = responsible", "noteDe": "„Dürfte ich …?“ – Konjunktiv II von „dürfen“, sehr höflich; zuständig = verantwortlich" },
+        { "de": "Könnten Sie mir gegebenenfalls eine passende Unterkunft in der Nähe empfehlen?", "en": "Could you recommend suitable accommodation nearby, if possible?", "note": "gegebenenfalls (ggf.) = if applicable, if need be", "noteDe": "gegebenenfalls (ggf.) = wenn nötig, wenn möglich" }
+      ]
+    },
+    {
+      "title": "Besondere Wünsche und Bedürfnisse",
+      "titleEn": "Special wishes and needs",
+      "register": "formal",
+      "phrases": [
+        { "de": "Ich ernähre mich glutenfrei. Könnte die Küche darauf Rücksicht nehmen?", "en": "I follow a gluten-free diet. Could the kitchen take that into account?", "note": "Rücksicht nehmen auf + accusative = to take into account", "noteDe": "Rücksicht nehmen auf + Akkusativ = etwas beachten" },
+        { "de": "Ein Teilnehmer unserer Gruppe sitzt im Rollstuhl. Sind alle Räume barrierefrei zugänglich?", "en": "One member of our group uses a wheelchair. Are all the rooms step-free?", "note": "barrierefrei = accessible without steps or obstacles", "noteDe": "barrierefrei = ohne Stufen und Hindernisse erreichbar" },
+        { "de": "Ich arbeite im Schichtdienst und bin deshalb zeitlich leider nicht sehr flexibel.", "en": "I work shifts, so unfortunately I am not very flexible about times." },
+        { "de": "Meine Tochter leidet an Asthma und muss ihr Notfallspray daher stets griffbereit haben.", "en": "My daughter has asthma and must therefore always have her emergency inhaler to hand.", "note": "leiden an + dative (an illness)", "noteDe": "leiden an + Dativ (bei Krankheiten)" },
+        { "de": "Lässt sich das Programm an die Bedürfnisse älterer Teilnehmer anpassen?", "en": "Can the programme be adapted to the needs of older participants?", "note": "sich … lassen + infinitive = can be done (an alternative to the passive)", "noteDe": "sich … lassen + Infinitiv = kann gemacht werden (Alternative zum Passiv)" },
+        { "de": "Für uns wäre es wichtig, dass die Zimmer nebeneinanderliegen.", "en": "It would be important for us that the rooms are next to each other." },
+        { "de": "Da ich ohne Auto anreise, spielt die Anbindung an Bus und Bahn für mich eine große Rolle.", "en": "As I am travelling without a car, connections to buses and trains matter a lot to me.", "note": "eine Rolle spielen = to matter; die Anbindung = transport connection", "noteDe": "eine Rolle spielen = wichtig sein; die Anbindung = die Verbindung zu Bus und Bahn" },
+        { "de": "Wegen einer Sehbehinderung wären Kursunterlagen in großer Schrift für mich sehr hilfreich.", "en": "Because of a visual impairment, course materials in large print would be very helpful for me." }
+      ]
+    },
+    {
+      "title": "Eine Anfrage abschließen",
+      "titleEn": "Rounding off an enquiry",
+      "register": "formal",
+      "phrases": [
+        { "de": "Da ich mich bis Ende des Monats entscheiden muss, wäre ich Ihnen für eine zeitnahe Antwort dankbar.", "en": "As I have to decide by the end of the month, I would be grateful for a prompt reply.", "note": "Give a reason why you need the answer soon; zeitnah = soon (formal)", "noteDe": "Nenne einen Grund, warum du die Antwort bald brauchst; zeitnah = bald (formell)" },
+        { "de": "Sollten Sie weitere Angaben von mir benötigen, lassen Sie es mich bitte wissen.", "en": "Should you need any further information from me, please let me know.", "note": "„Sollten Sie …“ = „Falls Sie …“: verb first, formal", "noteDe": "„Sollten Sie …“ = „Falls Sie …“: Verb an erster Stelle, formell" },
+        { "de": "Gern können Sie mich auch telefonisch unter … erreichen.", "en": "You are also welcome to reach me by phone on …" },
+        { "de": "Sobald ich Ihre Antwort erhalten habe, melde ich mich verbindlich an.", "en": "As soon as I have received your reply, I will register definitively.", "note": "sobald = as soon as; verb at the end", "noteDe": "sobald = in dem Moment, in dem …; Verb am Ende" },
+        { "de": "Ich würde mich freuen, bald von Ihnen zu hören.", "en": "I would be glad to hear from you soon.", "note": "Infinitive with zu – a varied alternative to „Ich freue mich auf Ihre Antwort“", "noteDe": "Infinitiv mit zu – eine Alternative zu „Ich freue mich auf Ihre Antwort“" },
+        { "de": "Vielen Dank, dass Sie sich die Zeit nehmen, meine Fragen zu beantworten.", "en": "Thank you for taking the time to answer my questions.", "note": "sich (dat.) die Zeit nehmen, … zu + infinitive", "noteDe": "sich (Dat.) die Zeit nehmen, … zu + Infinitiv" },
+        { "de": "Falls es Ihnen lieber ist, komme ich auch gern persönlich vorbei, um die Einzelheiten zu besprechen.", "en": "If you prefer, I would also be happy to come by in person to discuss the details." }
+      ]
+    }
+  ]
+}

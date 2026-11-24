@@ -1,0 +1,57 @@
+{
+  "id": "schreiben-08",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Busreise ins Elsass",
+  "topic": "reisen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie haben im Oktober an einer Busreise des Veranstalters Hollmann Reisen teilgenommen. Vieles entsprach jedoch nicht dem, was in der Reisebeschreibung versprochen worden war. Schreiben Sie eine Beschwerde an den Veranstalter.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Hollmann Reisen – Ihr Busreiseveranstalter aus Nordhessen\n\nHerbstzauber im Elsass\n4 Tage · 9.–12. Oktober · ab 459 Euro pro Person im Doppelzimmer\n\nLehnen Sie sich zurück: Unser moderner Fernreisebus mit Klimaanlage, WLAN und Bordtoilette bringt Sie bequem ins Elsass. Sie wohnen drei Nächte im Vier-Sterne-Hotel „Les Vignes“ mitten in der Altstadt von Colmar, Halbpension mit regionalen Spezialitäten inklusive.\n\nIhr Programm:\n• dreistündige Stadtführung durch Straßburg mit deutschsprachiger Reiseleitung\n• Fahrt über die Elsässer Weinstraße mit Weinprobe beim Winzer\n• Bootsfahrt durch „Klein-Venedig“ in Colmar\n\nZustieg in Kassel, Göttingen und Fulda\nBuchung und Beratung: 0561 487 02 33 · www.hollmann-reisen.de"
+  },
+  "leitpunkte": [
+    "Erläutern Sie, welche Folgen die Mängel für Ihren Urlaub hatten.",
+    "Beschreiben Sie, welche Leistungen nicht der Reisebeschreibung entsprachen.",
+    "Erklären Sie, was Sie vom Veranstalter erwarten.",
+    "Legen Sie dar, wie die Reiseleitung auf Ihre Beschwerde reagiert hat."
+  ],
+  "model": {
+    "subject": "Beschwerde über die Busreise ins Elsass vom 9. bis 12. Oktober",
+    "text": "Sehr geehrte Damen und Herren,\n\nvom 9. bis 12. Oktober habe ich zusammen mit meiner Frau an Ihrer Reise „Herbstzauber im Elsass“ teilgenommen. Leider muss ich mich über mehrere Mängel beschweren, da die Reise in wesentlichen Punkten nicht Ihrer Beschreibung entsprach.\n\nStatt im versprochenen Hotel in der Altstadt von Colmar wurden wir in einem einfachen Hotel an einer Schnellstraße untergebracht, etwa 20 Kilometer außerhalb der Stadt. Abends konnten wir deshalb weder durch die Gassen bummeln noch Colmar auf eigene Faust erkunden. Hinzu kommt, dass die Bordtoilette während der gesamten Hinfahrt defekt war – bei einer Fahrt von über sechs Stunden eine echte Zumutung. Auch die Stadtführung in Straßburg dauerte nur eine Stunde statt der angekündigten drei.\n\nAls wir uns am ersten Abend bei der Reiseleiterin beschwerten, erklärte sie lediglich, für die Auswahl der Hotels sei sie nicht zuständig. Eine Lösung wurde uns nicht angeboten, und auf unsere Bitte, Ihr Büro anzurufen, ging sie gar nicht erst ein.\n\nAngesichts dieser Mängel halte ich eine Erstattung von 30 Prozent des Reisepreises für angemessen. Außerdem erwarte ich, dass Sie Ihre Reisebeschreibungen künftig so formulieren, dass sie den tatsächlichen Leistungen entsprechen.\n\nIch bitte Sie, bis zum 15. November zu meiner Beschwerde Stellung zu nehmen.\n\nMit freundlichen Grüßen\nKlaus Reinhardt"
+  },
+  "modelNotes": [
+    "The model covers three points: the services that did not match the description (paragraph 2), the tour guide's reaction (paragraph 3) and what the writer expects (paragraph 4). The consequences are mentioned in passing, but not developed as a separate point.",
+    "Every complaint is checked against a concrete promise in the ad: hotel in the old town vs. 20 km outside, a working on-board toilet, a three-hour tour that lasted one hour. Precise facts make a complaint convincing.",
+    "B2 structures: passive („wurden wir … untergebracht“, „wurde uns nicht angeboten“), reported speech with Konjunktiv I („sei sie nicht zuständig“), „weder … noch“, „Hinzu kommt, dass …“ and Nominalstil („Angesichts dieser Mängel“).",
+    "The demand is concrete and justified (30 per cent refund) and the e-mail ends with a deadline – firm, but always polite and in the Sie-register."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: die Leistungen, die nicht der Beschreibung entsprachen (2. Absatz), die Reaktion der Reiseleiterin (3. Absatz) und die Erwartungen des Schreibers (4. Absatz). Die Folgen werden nebenbei erwähnt, aber nicht als eigener Punkt ausgeführt.",
+    "Jede Beschwerde wird mit einem konkreten Versprechen der Anzeige verglichen: Hotel in der Altstadt (in Wirklichkeit 20 km außerhalb), eine funktionierende Bordtoilette, eine dreistündige Führung, die nur eine Stunde dauerte. Genaue Fakten machen eine Beschwerde überzeugend.",
+    "B2-Strukturen: Passiv („wurden wir … untergebracht“, „wurde uns nicht angeboten“), indirekte Rede mit Konjunktiv I („sei sie nicht zuständig“), „weder … noch“, „Hinzu kommt, dass …“ und Nominalstil („Angesichts dieser Mängel“).",
+    "Die Forderung ist konkret und begründet (30 Prozent Erstattung), und die E-Mail endet mit einer Frist – bestimmt, aber immer höflich und in der Sie-Form."
+  ],
+  "phrases": [
+    { "de": "Leider muss ich mich über mehrere Mängel beschweren.", "en": "Unfortunately I have to complain about several shortcomings." },
+    { "de": "Die Reise entsprach in wesentlichen Punkten nicht Ihrer Beschreibung.", "en": "In essential respects the trip did not match your description." },
+    { "de": "Statt im versprochenen Hotel wurden wir in … untergebracht.", "en": "Instead of in the promised hotel, we were put up in …" },
+    { "de": "Hinzu kommt, dass …", "en": "On top of that, …" },
+    { "de": "Das war eine echte Zumutung.", "en": "That was really unacceptable." },
+    { "de": "Sie erklärte lediglich, sie sei dafür nicht zuständig.", "en": "She merely said she was not responsible for that." },
+    { "de": "Angesichts dieser Mängel halte ich … für angemessen.", "en": "In view of these shortcomings, I consider … appropriate." },
+    { "de": "Ich bitte Sie, bis zum … zu meiner Beschwerde Stellung zu nehmen.", "en": "Please respond to my complaint by …" }
+  ],
+  "glossary": [
+    { "de": "der Mangel, die Mängel", "en": "defect, shortcoming" },
+    { "de": "die Halbpension", "en": "half board" },
+    { "de": "der Zustieg", "en": "boarding point" },
+    { "de": "jemanden unterbringen", "en": "to accommodate someone, to put someone up" },
+    { "de": "auf eigene Faust", "en": "on one's own, independently" },
+    { "de": "die Zumutung", "en": "imposition, something unreasonable" },
+    { "de": "die Erstattung", "en": "refund" },
+    { "de": "zu etwas Stellung nehmen", "en": "to respond to something, to comment on something" }
+  ]
+}

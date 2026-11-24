@@ -1,0 +1,99 @@
+{
+  "id": "sprechen-2-09",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Soziale Medien erst ab 16?",
+  "topic": "medien",
+  "difficulty": 1,
+  "theme": "Sollten soziale Netzwerke erst ab 16 Jahren erlaubt sein?",
+  "article": {
+    "headline": "Erst mit 16 in die sozialen Netzwerke?",
+    "lead": "Eine Elterninitiative fordert eine gesetzliche Altersgrenze für soziale Medien. Eine neue Umfrage unter Jugendlichen liefert ihr Argumente – doch Fachleute sind sich uneinig.",
+    "paragraphs": [
+      "Die Initiative „Kindheit offline“ aus Potsdam hat in nur drei Monaten mehr als 85.000 Unterschriften gesammelt. Ihr Ziel: Kinder und Jugendliche sollen soziale Netzwerke erst ab 16 Jahren nutzen dürfen. Die Plattformen müssten das Alter ihrer Nutzerinnen und Nutzer dann zuverlässig überprüfen, andernfalls drohten ihnen hohe Strafen. Messenger-Dienste, über die man lediglich Nachrichten austauscht, wären von dem Verbot ausgenommen.",
+      "Unterstützung bekommt die Initiative durch eine aktuelle Umfrage des Instituts für Jugend und Medien in Halle. Von den 2.400 befragten Zwölf- bis Fünfzehnjährigen gab fast jeder Zweite an, täglich mehr als drei Stunden in sozialen Netzwerken zu verbringen. 38 Prozent berichteten, dass sie deshalb abends schlecht einschlafen, und knapp ein Viertel hat im Netz bereits Beleidigungen oder Mobbing erlebt. „Viele Kinder vergleichen sich ständig mit perfekten Bildern und fühlen sich dadurch schlechter“, erklärt die Kinderpsychologin Birte Ostendorf. „Eine klare Altersgrenze würde vor allem die Eltern entlasten, die heute oft allein gegen den Gruppendruck kämpfen.“",
+      "Kritiker halten den Vorschlag dagegen für wenig realistisch. „Wer unbedingt online sein will, findet einen Weg, das Verbot zu umgehen“, sagt der Medienpädagoge Bastian Riedel. Statt Verboten brauche es mehr Medienbildung in den Schulen, damit Jugendliche lernen, mit Werbung, Falschmeldungen und Hasskommentaren umzugehen. Datenschützer warnen außerdem davor, dass eine strenge Alterskontrolle nur mit dem Ausweis funktionieren würde – und damit noch mehr persönliche Daten bei den Konzernen landen würden.",
+      "Auch unter den Jugendlichen selbst sind die Meinungen geteilt. „Ich finde es gut, wenn jüngere Kinder geschützt werden“, meint die 15-jährige Lina aus Brandenburg an der Havel. „Aber für viele ist das Netz auch ein Ort, an dem sie Leute mit den gleichen Interessen finden, besonders auf dem Land.“ Die Bundesregierung hat angekündigt, den Vorschlag im Frühjahr gemeinsam mit Fachleuten zu prüfen."
+    ],
+    "source": "Havelland-Echo, Familie und Schule"
+  },
+  "ideas": {
+    "pro": [
+      "Schutz vor Cybermobbing und Hasskommentaren",
+      "mehr Schlaf und bessere Konzentration in der Schule",
+      "weniger Vergleichsdruck durch perfekte Bilder",
+      "eine klare Regel entlastet Eltern beim Gruppendruck",
+      "die Plattformen müssten mehr Verantwortung übernehmen"
+    ],
+    "contra": [
+      "ein Verbot lässt sich leicht umgehen",
+      "eine Alterskontrolle mit dem Ausweis gefährdet den Datenschutz",
+      "Medienbildung in der Schule wirkt nachhaltiger als ein Verbot",
+      "Jugendliche verlieren Kontakte zu Gleichgesinnten, besonders auf dem Land",
+      "Erziehung ist Aufgabe der Eltern, nicht des Staates"
+    ]
+  },
+  "questions": [
+    "Ab welchem Alter sollten Kinder Ihrer Meinung nach soziale Netzwerke nutzen dürfen? Warum?",
+    "Welche Erfahrungen haben Sie selbst oder Menschen in Ihrem Umfeld mit sozialen Medien gemacht?",
+    "Wer trägt die Verantwortung für den Schutz von Kindern im Netz: die Eltern, die Schulen, der Staat oder die Plattformen?",
+    "Wie könnte man eine Altersgrenze kontrollieren, ohne den Datenschutz zu verletzen?",
+    "Was sollten Schulen im Bereich Medienbildung anbieten?",
+    "Wie wird in Ihrem Heimatland über dieses Thema diskutiert?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Ilona Halász", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Yannick Okoro", "gender": "m", "age": "young", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie haben beide den Artikel über eine Altersgrenze für soziale Netzwerke gelesen. Frau Halász, möchten Sie beginnen?" },
+    { "s": "A", "t": "Gern. In dem Artikel geht es um eine Elterninitiative aus Potsdam, die mehr als fünfundachtzigtausend Unterschriften gesammelt hat. Sie fordert, dass Kinder und Jugendliche soziale Netzwerke erst ab sechzehn Jahren nutzen dürfen." },
+    { "s": "A", "t": "Laut einer Umfrage verbringt fast jeder zweite Jugendliche zwischen zwölf und fünfzehn Jahren täglich mehr als drei Stunden in sozialen Netzwerken, und viele schlafen deshalb schlecht. Eine Kinderpsychologin meint, eine klare Altersgrenze würde vor allem die Eltern entlasten." },
+    { "s": "A", "t": "Kritiker halten das Verbot dagegen für unrealistisch, weil man es leicht umgehen könne. Ein Medienpädagoge fordert stattdessen mehr Medienbildung in den Schulen." },
+    { "s": "B", "t": "Ich möchte noch einen Punkt ergänzen, der mir wichtig erscheint. Datenschützer befürchten, dass man für die Alterskontrolle seinen Ausweis vorzeigen müsste. Dann würden die Konzerne noch mehr persönliche Daten sammeln." },
+    { "s": "A", "t": "Stimmt, das hatte ich vergessen. Und wie siehst du das? Findest du eine Altersgrenze sinnvoll?" },
+    { "s": "B", "t": "Ehrlich gesagt bin ich eher skeptisch. Ich habe selbst mit dreizehn angefangen, Videos übers Skateboarden zu posten, und dadurch sogar Freunde in anderen Städten gefunden. Das hätte ich mit einem Verbot nie erlebt." },
+    { "s": "A", "t": "Das kann ich nachvollziehen. Aber ich bin Lehrerin an einer Gesamtschule und sehe jeden Tag, wie schwer es vielen Kindern fällt, das Handy wegzulegen. Manche kommen morgens völlig übermüdet in die Klasse, weil sie bis Mitternacht Videos angeschaut haben." },
+    { "s": "B", "t": "Das glaube ich dir sofort. Trotzdem frage ich mich, ob ein Verbot daran etwas ändert. Die Jugendlichen würden einfach ein falsches Geburtsdatum eingeben oder das Konto der älteren Schwester benutzen." },
+    { "s": "A", "t": "Da hast du recht, ganz verhindern kann man das nicht. Ein Gesetz setzt aber ein klares Signal. Beim Alkohol gibt es ja auch eine Altersgrenze, obwohl manche Jugendliche trotzdem trinken." },
+    { "s": "B", "t": "Der Vergleich hinkt ein bisschen, finde ich. Soziale Netzwerke sind ja nicht nur gefährlich, man kann dort auch eine Menge lernen, zum Beispiel über Politik, Musik oder Sprachen." },
+    { "s": "A", "t": "Das bestreite ich gar nicht. Mir geht es vor allem um Cybermobbing. Laut der Umfrage im Artikel ist fast ein Viertel der Jugendlichen im Netz schon einmal beleidigt oder gemobbt worden." },
+    { "s": "B", "t": "Das ist wirklich erschreckend. Aber gerade deshalb müssten die Schulen mehr tun. Wer früh lernt, wie man mit Hasskommentaren umgeht und wo man Hilfe bekommt, ist besser geschützt als durch ein Verbot." },
+    { "s": "A", "t": "Glaubst du denn, dass die Schulen dafür genug Zeit und Personal haben? Bei uns fallen schon jetzt viele Stunden aus, weil Lehrkräfte fehlen." },
+    { "s": "B", "t": "Wahrscheinlich nicht, das gebe ich zu. Wie machst du das eigentlich mit deinen eigenen Kindern?" },
+    { "s": "A", "t": "Mein Sohn ist elf. Er hat zwar ein Handy, darf damit aber nur Nachrichten schreiben und keine sozialen Netzwerke nutzen. Er beschwert sich ständig, weil angeblich alle anderen in seiner Klasse schon Videos posten." },
+    { "s": "B", "t": "Genau das ist der Gruppendruck, von dem im Artikel die Rede ist. In diesem Punkt würde eine gesetzliche Regel den Eltern tatsächlich helfen." },
+    { "s": "A", "t": "Was hältst du von einem Kompromiss? Ab dreizehn dürfen Jugendliche soziale Netzwerke nutzen, aber nur mit Zustimmung der Eltern und mit einer festen Zeitgrenze pro Tag." },
+    { "s": "B", "t": "Das klingt vernünftig. Zusätzlich sollte es an allen Schulen regelmäßig Unterricht zur Medienbildung geben, nicht nur einen Projekttag im Jahr." },
+    { "s": "A", "t": "Einverstanden. Dann sind wir uns also einig, dass Kinder im Netz Schutz brauchen, ein Verbot allein aber nicht ausreicht." },
+    { "s": "B", "t": "Genau. Am Ende kommt es darauf an, dass Eltern, Schulen und Plattformen an einem Strang ziehen." }
+  ],
+  "phrases": [
+    { "de": "In dem Artikel geht es um …", "en": "The article is about …" },
+    { "de": "Laut einer Umfrage …", "en": "According to a survey …" },
+    { "de": "Kritiker halten … dagegen für …", "en": "Critics, on the other hand, consider … to be …" },
+    { "de": "Ich möchte noch einen Punkt ergänzen, der mir wichtig erscheint.", "en": "I'd like to add a point that seems important to me." },
+    { "de": "Ehrlich gesagt bin ich eher skeptisch.", "en": "To be honest, I'm rather sceptical." },
+    { "de": "Das kann ich nachvollziehen. Aber …", "en": "I can understand that. But …" },
+    { "de": "Da hast du recht, aber …", "en": "You're right there, but …" },
+    { "de": "Der Vergleich hinkt ein bisschen.", "en": "That comparison doesn't quite work." },
+    { "de": "Das bestreite ich gar nicht.", "en": "I'm not denying that at all." },
+    { "de": "Was hältst du von einem Kompromiss?", "en": "What do you think of a compromise?" },
+    { "de": "Dann sind wir uns also einig, dass …", "en": "So we agree that …" },
+    { "de": "an einem Strang ziehen", "en": "to pull together, to work towards the same goal" }
+  ],
+  "vocabulary": [
+    { "de": "die Altersgrenze", "en": "age limit" },
+    { "de": "das soziale Netzwerk", "en": "social network" },
+    { "de": "die Alterskontrolle", "en": "age verification" },
+    { "de": "das Cybermobbing", "en": "cyberbullying" },
+    { "de": "der Hasskommentar", "en": "hateful comment" },
+    { "de": "die Medienbildung", "en": "media education, media literacy" },
+    { "de": "der Gruppendruck", "en": "peer pressure" },
+    { "de": "ein Verbot umgehen", "en": "to get around a ban" },
+    { "de": "der Datenschutz", "en": "data protection, privacy" },
+    { "de": "jemanden entlasten", "en": "to take the pressure off someone" },
+    { "de": "Unterschriften sammeln", "en": "to collect signatures" }
+  ]
+}

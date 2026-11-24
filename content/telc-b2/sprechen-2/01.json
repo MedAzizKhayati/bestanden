@@ -1,0 +1,102 @@
+{
+  "id": "sprechen-2-01",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Tempolimit auf der Autobahn",
+  "topic": "reisen",
+  "difficulty": 1,
+  "theme": "Sollte es auf deutschen Autobahnen ein allgemeines Tempolimit geben?",
+  "article": {
+    "headline": "Ein Jahr Tempo 120: weniger Unfälle, kaum Zeitverlust",
+    "lead": "Zwölf Monate lang durften Autofahrer auf einer Teststrecke im Norden Deutschlands nicht schneller als 120 Kilometer pro Stunde fahren. Jetzt liegen die Ergebnisse vor – und die alte Debatte beginnt von vorn.",
+    "paragraphs": [
+      "Auf dem 80 Kilometer langen Autobahnabschnitt wurde der Versuch vom Forschungsinstitut Mobilität und Sicherheit in Kassel wissenschaftlich begleitet. Nun liegt die Bilanz vor: Die Zahl der Unfälle mit Verletzten ging im Vergleich zum Vorjahr um 18 Prozent zurück. Gleichzeitig verbrauchten die Fahrzeuge im Durchschnitt rund neun Prozent weniger Kraftstoff. Wer die gesamte Strecke fuhr, brauchte dafür nur etwa vier Minuten länger als vorher.",
+      "„Der Verkehr ist deutlich ruhiger geworden“, sagt Projektleiterin Miriam Hollmann. „Weil alle ähnlich schnell fahren, wird weniger gebremst und überholt. Dadurch entstehen auch seltener Staus.“ Sie fordert, ein Tempolimit auf allen Autobahnen einzuführen. Rückenwind bekommt sie von einer Umfrage des Instituts: 57 Prozent der befragten Autofahrer sind dafür, 38 Prozent dagegen.",
+      "Kritik kommt vom Autofahrerverband „Freie Fahrt“. Dessen Sprecher Jürgen Albers weist darauf hin, dass Autobahnen schon heute zu den sichersten Straßen in Deutschland gehören. „Die meisten tödlichen Unfälle passieren auf Landstraßen, nicht auf der Autobahn“, betont er. Außerdem gebe es an gefährlichen Stellen längst Geschwindigkeitsbegrenzungen. Ein allgemeines Tempolimit sei deshalb vor allem Symbolpolitik.",
+      "Auch unter den Autofahrern gehen die Meinungen auseinander. Der Außendienstmitarbeiter Thomas Brehm, der jeden Tag rund 300 Kilometer zurücklegt, ärgert sich: „Wenn das Tempolimit überall kommt, verliere ich pro Woche mehr als eine Stunde.“ Die Rentnerin Helga Sander ist dagegen froh über den Versuch: „Früher bekam ich Herzklopfen, wenn hinter mir jemand mit Lichthupe auftauchte. Jetzt fahre ich viel entspannter.“",
+      "Ob auf der Teststrecke dauerhaft Tempo 120 gilt, will die Landesregierung im Frühjahr entscheiden."
+    ],
+    "source": "Neue Nordpost, Ressort Verkehr"
+  },
+  "ideas": {
+    "pro": [
+      "weniger Unfälle und weniger Schwerverletzte",
+      "weniger Kraftstoffverbrauch und weniger Abgase",
+      "gleichmäßigerer Verkehr, dadurch weniger Staus",
+      "entspannteres Fahren, weniger Drängeln und Stress",
+      "fast alle anderen Länder haben längst ein Tempolimit",
+      "kostet den Staat wenig – Schilder genügen"
+    ],
+    "contra": [
+      "Autobahnen sind schon heute die sichersten Straßen",
+      "an gefährlichen Stellen gibt es bereits Begrenzungen",
+      "Zeitverlust für Pendler und Vielfahrer",
+      "Eingriff in die persönliche Freiheit",
+      "der Beitrag zum Klimaschutz ist relativ klein",
+      "ohne Kontrollen hält sich niemand daran"
+    ]
+  },
+  "questions": [
+    "Welches Argument aus dem Artikel überzeugt Sie am meisten? Warum?",
+    "Wie ist die Geschwindigkeit auf Autobahnen in Ihrem Heimatland geregelt?",
+    "Halten Sie die Ergebnisse des Versuchs für aussagekräftig?",
+    "Sollte ein Tempolimit überall gelten oder nur auf bestimmten Strecken?",
+    "Was könnte man außer einem Tempolimit tun, um Autobahnen sicherer zu machen?",
+    "Welche Erfahrungen haben Sie selbst auf deutschen Autobahnen gemacht?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Sanne de Vries", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Tomasz Nowak", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "A", "t": "Gut, dann fasse ich den Artikel kurz zusammen. Im Artikel geht es um einen Versuch im Norden Deutschlands: Auf einem achtzig Kilometer langen Autobahnabschnitt durfte man ein Jahr lang nur hundertzwanzig Kilometer pro Stunde fahren." },
+    { "s": "A", "t": "Laut einem Forschungsinstitut aus Kassel gab es in dieser Zeit 18 Prozent weniger Unfälle mit Verletzten, und die Autos haben ungefähr neun Prozent weniger Kraftstoff verbraucht. Die Fahrt hat dabei nur etwa vier Minuten länger gedauert." },
+    { "s": "A", "t": "Die Projektleiterin fordert deshalb ein Tempolimit auf allen Autobahnen. Ein Autofahrerverband ist dagegen: Die Autobahnen seien ohnehin die sichersten Straßen, und ein allgemeines Tempolimit sei vor allem Symbolpolitik." },
+    { "s": "B", "t": "Danke, das war eine gute Zusammenfassung. Ich möchte noch ergänzen, dass auch die Autofahrer geteilter Meinung sind. Ein Mann, der beruflich viel fährt, ärgert sich über den Zeitverlust, während eine Rentnerin jetzt viel entspannter fährt." },
+    { "s": "A", "t": "Genau. Ich persönlich finde die Zahlen ziemlich überzeugend. Vier Minuten mehr für achtzig Kilometer, das ist doch kaum etwas, wenn es dafür weniger Unfälle gibt." },
+    { "s": "B", "t": "Für eine einzelne Fahrt stimmt das. Aber wenn man jeden Tag dreihundert Kilometer fährt wie der Mann im Artikel, dann summiert sich das schon. Ich kann ihn ehrlich gesagt verstehen." },
+    { "s": "A", "t": "Da hast du zwar recht, aber so wie er fahren die wenigsten. Die meisten Leute sind doch nur kurze Strecken auf der Autobahn unterwegs. Wie ist das eigentlich in Polen, gibt es dort ein Tempolimit?" },
+    { "s": "B", "t": "Ja, auf polnischen Autobahnen darf man höchstens hundertvierzig fahren. Trotzdem muss ich zugeben, dass ich hier in Deutschland auch mal schneller fahre, wenn die Strecke frei ist. Und wie ist das in den Niederlanden?" },
+    { "s": "A", "t": "Bei uns darf man tagsüber sogar nur hundert fahren, und ehrlich gesagt vermisst das kaum jemand. Man kommt trotzdem an, nur eben entspannter." },
+    { "s": "B", "t": "Hundert wäre mir ehrlich gesagt zu langsam. Aber ich gebe zu, dass das Drängeln auf deutschen Autobahnen wirklich ein Problem ist. Wenn hinter dir plötzlich jemand mit Lichthupe auftaucht, ist das kein schönes Gefühl." },
+    { "s": "A", "t": "Eben. Genau das beschreibt ja auch die Rentnerin im Artikel. Ein Tempolimit würde den Verkehr gleichmäßiger machen, und das ist nicht nur sicherer, sondern hilft auch gegen Staus." },
+    { "s": "B", "t": "Mich überzeugt aber auch das Argument des Verbands. Die meisten tödlichen Unfälle passieren nun mal auf Landstraßen. Wäre es nicht sinnvoller, sich zuerst um diese Straßen zu kümmern?" },
+    { "s": "A", "t": "Das eine schließt das andere doch nicht aus. Und vergiss den Umweltaspekt nicht: Wenn alle langsamer fahren, wird weniger Benzin verbraucht. Das ist eine Maßnahme, die fast nichts kostet." },
+    { "s": "B", "t": "Fast nichts? Man braucht neue Schilder und mehr Kontrollen, sonst hält sich niemand daran. Und ob neun Prozent weniger Verbrauch auf einer einzigen Teststrecke für das Klima wirklich viel bringen, bezweifle ich." },
+    { "s": "P", "t": "Sollte ein Tempolimit Ihrer Meinung nach überall gelten oder nur auf bestimmten Strecken?" },
+    { "s": "B", "t": "Ich wäre eher für eine flexible Lösung. Es gibt ja schon elektronische Anzeigen, die die Geschwindigkeit je nach Verkehr und Wetter anpassen. Davon könnte man viel mehr aufstellen." },
+    { "s": "A", "t": "Das wäre ein Anfang, aber solche Anlagen sind teuer, und auf vielen Strecken gibt es sie gar nicht. Ich finde eine einfache Regel für alle besser, weil jeder sie versteht. Was hältst du von einem Kompromiss, zum Beispiel Tempo 130 wie in Frankreich oder Österreich?" },
+    { "s": "B", "t": "Also, mit hundertdreißig könnte ich leben. Das ist für lange Strecken schnell genug, und die schlimmsten Raser wären trotzdem gebremst." },
+    { "s": "A", "t": "Siehst du, so weit liegen wir gar nicht auseinander. Vielleicht sollte man das Ganze erst einmal ein paar Jahre lang bundesweit testen und dann ehrlich Bilanz ziehen." },
+    { "s": "B", "t": "Einverstanden. Wichtig ist nur, dass am Ende die Zahlen entscheiden und nicht die Ideologie. Dann würden es wahrscheinlich auch mehr Autofahrer akzeptieren." },
+    { "s": "A", "t": "Da sind wir uns einig. Also: Tempo 130 auf allen Autobahnen, zuerst als Test für ein paar Jahre, und danach eine neue Bewertung." }
+  ],
+  "phrases": [
+    { "de": "Ich fasse den Artikel kurz zusammen.", "en": "I'll briefly sum up the article." },
+    { "de": "Im Artikel geht es um …", "en": "The article is about …" },
+    { "de": "Laut … gab es …", "en": "According to …, there were …" },
+    { "de": "Der Verband ist dagegen: … sei …", "en": "The association is against it: … is (reported speech) …" },
+    { "de": "Ich möchte noch ergänzen, dass …", "en": "I'd like to add that …" },
+    { "de": "Ich persönlich finde … ziemlich überzeugend.", "en": "Personally, I find … quite convincing." },
+    { "de": "Da hast du zwar recht, aber …", "en": "You're right there, but …" },
+    { "de": "Ich gebe zu, dass …", "en": "I admit that …" },
+    { "de": "Das eine schließt das andere nicht aus.", "en": "One doesn't rule out the other." },
+    { "de": "Wäre es nicht sinnvoller, …?", "en": "Wouldn't it make more sense to …?" },
+    { "de": "Was hältst du von einem Kompromiss?", "en": "What do you think of a compromise?" },
+    { "de": "So weit liegen wir gar nicht auseinander.", "en": "We're not that far apart." }
+  ],
+  "vocabulary": [
+    { "de": "das Tempolimit", "en": "speed limit" },
+    { "de": "die Geschwindigkeitsbegrenzung", "en": "speed restriction" },
+    { "de": "der Autobahnabschnitt", "en": "section of motorway" },
+    { "de": "der Kraftstoffverbrauch", "en": "fuel consumption" },
+    { "de": "drängeln", "en": "to tailgate, to push in" },
+    { "de": "die Lichthupe", "en": "flashing of headlights" },
+    { "de": "der Raser", "en": "speeder, reckless driver" },
+    { "de": "der Außendienstmitarbeiter", "en": "field sales representative" },
+    { "de": "die Landstraße", "en": "country road" },
+    { "de": "die Symbolpolitik", "en": "symbolic politics, tokenism" },
+    { "de": "Bilanz ziehen", "en": "to take stock" }
+  ]
+}

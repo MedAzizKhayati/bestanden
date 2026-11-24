@@ -1,7 +1,7 @@
 export const phrases = {
   /** /redemittel */
   metaTitle: "Redemittel for Schreiben and Sprechen",
-  metaDescription: "Ready-to-use German phrases for telc B1 e-mails and the oral exam – organised by exam part and function.",
+  metaDescription: "Ready-to-use German phrases for telc B1 and B2 e-mails and the oral exam – organised by exam part and function.",
   title: "Phrases (Redemittel)",
   description:
     "Examiners reward varied, appropriate phrases (criterion II in Schreiben, Ausdrucksfähigkeit in Sprechen). Learn a few per function and use them in every practice task.",
@@ -10,4 +10,5 @@ export const phrases = {
   /** Badge per phrase group; neutral groups get none. */
   register: { informal: "du / informal", formal: "Sie / semi-formal", neutral: "" },
   copyPhrase: "Copy phrase",
+  level: (level: string) => `For telc ${level}`,
 };

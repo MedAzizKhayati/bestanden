@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-02",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Wochenende rund um Leipzig",
+  "topic": "freizeit",
+  "difficulty": 1,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ein Kollege sucht für Samstagabend eine ungewöhnliche Führung durch die Leipziger Innenstadt.",
+      "answer": "b",
+      "explanation": "The decisive detail is Saturday evening. The night-watchman tour (b) starts „jeden Freitag und Samstag um 21 Uhr“. The vintage bus tour (i) is unusual too, but it only runs at 11 and 14 Uhr: „Abendfahrten bieten wir derzeit leider nicht an“.",
+      "explanationDe": "Entscheidend ist der Samstagabend. Die Nachtwächterführung (b) beginnt „jeden Freitag und Samstag um 21 Uhr“. Die Fahrt im Oldtimerbus (i) ist auch ungewöhnlich, startet aber nur um 11 und 14 Uhr: „Abendfahrten bieten wir derzeit leider nicht an“."
+    },
+    {
+      "n": 2,
+      "text": "Ihre Nachbarin möchte bei einem Spaziergang erfahren, welche Pflanzen gegen Erkältungen helfen.",
+      "answer": "e",
+      "explanation": "On the herb walk (e) you learn „welche Wildkräuter bei Husten, Halsschmerzen und Schnupfen helfen“ – the typical symptoms of a cold. No other text is about plants as medicine.",
+      "explanationDe": "Bei der Kräuterwanderung (e) erfährt man, „welche Wildkräuter bei Husten, Halsschmerzen und Schnupfen helfen“ – das sind typische Zeichen einer Erkältung. Kein anderer Text beschäftigt sich mit Heilpflanzen."
+    },
+    {
+      "n": 3,
+      "text": "Ein Bekannter kann nicht schwimmen, möchte aber am Wochenende trotzdem eine Tour auf dem Wasser machen.",
+      "answer": "x",
+      "explanation": "He cannot swim, and both water offers require it: on the canoe tour (g) „müssen jedoch alle Teilnehmenden sicher schwimmen können“, and the sailing trip (c) is only for people „der sicher schwimmen kann“. So x.",
+      "explanationDe": "Er kann nicht schwimmen, und beide Angebote auf dem Wasser verlangen das: Bei der Kanutour (g) „müssen jedoch alle Teilnehmenden sicher schwimmen können“, und beim Segeltörn (c) darf nur mitmachen, „der sicher schwimmen kann“. Also x."
+    },
+    {
+      "n": 4,
+      "text": "Ihre Kollegin will an einem Regentag mit ihrem achtjährigen Sohn etwas Spannendes im Trockenen unternehmen.",
+      "answer": "f",
+      "explanation": "Indoors, rain and an eight-year-old: the Entdeckerhaus (f) is for children „von 5 bis 12 Jahren“ and „das ideale Ausflugsziel für Regentage“. The climbing hall (l) is indoors too, but for children „ab zehn Jahren“; the farm (a) runs „ausschließlich im Freien“.",
+      "explanationDe": "Drinnen, Regen und ein Achtjähriger: Das Entdeckerhaus (f) ist für Kinder „von 5 bis 12 Jahren“ und „das ideale Ausflugsziel für Regentage“. Die Kletterhalle (l) ist auch drinnen, aber erst für Kinder „ab zehn Jahren“; der Bauernhof (a) findet „ausschließlich im Freien“ statt."
+    },
+    {
+      "n": 5,
+      "text": "Sie möchten als Anfänger eine Wassersportart ausprobieren, haben dafür aber nur sonntags Zeit.",
+      "answer": "c",
+      "explanation": "Beginner, water sport, Sundays only: the sailing taster trip (c) works „ganz ohne Vorkenntnisse“ and runs „jeden Sonntag von 9 bis 12 Uhr“. The canoe tour (g) also needs no experience („Vorkenntnisse sind nicht erforderlich“), but it only takes place „jeden Samstag“.",
+      "explanationDe": "Anfänger, Wassersport, nur sonntags: Der Schnuppertörn (c) klappt „ganz ohne Vorkenntnisse“ und findet „jeden Sonntag von 9 bis 12 Uhr“ statt. Auch bei der Kanutour (g) braucht man keine Erfahrung („Vorkenntnisse sind nicht erforderlich“), aber sie findet nur „jeden Samstag“ statt."
+    },
+    {
+      "n": 6,
+      "text": "Ihr Onkel möchte mit Freunden eine lange Radtour um die Seen machen, besitzt aber kein Fahrrad.",
+      "answer": "k",
+      "explanation": "The bike station (k) rents bikes and e-bikes, „ideal für längere Strecken wie den 60 Kilometer langen Rundweg um die drei großen Seen“, and groups get a discount.",
+      "explanationDe": "Die Radstation (k) verleiht Räder und E-Bikes, „ideal für längere Strecken wie den 60 Kilometer langen Rundweg um die drei großen Seen“, und Gruppen bekommen Rabatt."
+    },
+    {
+      "n": 7,
+      "text": "Ihre Schwester möchte ihrem Mann einen Kochkurs schenken, den die beiden gemeinsam besuchen können.",
+      "answer": "h",
+      "explanation": "A cooking course for two as a present: „Bei unseren Paarkursen stehen Sie zu zweit am Herd“, and the cooking school (h) sells vouchers. The spa (d) also sells „Gutscheine“, but it offers no cooking course.",
+      "explanationDe": "Ein Kochkurs zu zweit als Geschenk: „Bei unseren Paarkursen stehen Sie zu zweit am Herd“, und die Kochschule (h) verkauft Gutscheine. Die Therme (d) hat zwar auch „Gutscheine“, bietet aber keinen Kochkurs an."
+    },
+    {
+      "n": 8,
+      "text": "Ihr Mitbewohner arbeitet am Wochenende lange und will sonntags erst nach 22 Uhr in die Sauna.",
+      "answer": "x",
+      "explanation": "The spa (d) is open „von Sonntag bis Donnerstag von 9 bis 22 Uhr“. It is open longer only on Fridays and Saturdays, and the „lange Saunanacht“ is on a Saturday – so on Sunday after 22 Uhr there is nothing: x.",
+      "explanationDe": "Die Therme (d) hat „von Sonntag bis Donnerstag von 9 bis 22 Uhr“ geöffnet. Länger offen ist sie nur freitags und samstags, und auch die „lange Saunanacht“ ist an einem Samstag – sonntags nach 22 Uhr gibt es also nichts: x."
+    },
+    {
+      "n": 9,
+      "text": "Ein Freund möchte am Wochenende zusammen mit seiner zwölfjährigen Tochter das Klettern ausprobieren.",
+      "answer": "l",
+      "explanation": "The climbing centre (l) has a family course for „Eltern und Kinder ab zehn Jahren“ on Saturdays, so father and daughter can learn together.",
+      "explanationDe": "Das Kletterzentrum (l) hat samstags einen Familienkurs für „Eltern und Kinder ab zehn Jahren“, also können Vater und Tochter gemeinsam lernen."
+    },
+    {
+      "n": 10,
+      "text": "Ihr Neffe (16) möchte mit Freunden am Wochenende durch ein großes Teleskop den Sternenhimmel beobachten.",
+      "answer": "j",
+      "explanation": "At the public observatory (j) visitors look through „ein großes Spiegelteleskop“, „jeden Freitag und Samstag ab 20 Uhr“ when the sky is clear. Only „Kinder unter zwölf Jahren“ need an adult, so a 16-year-old can go with his friends.",
+      "explanationDe": "In der Volkssternwarte (j) schauen Besucher durch „ein großes Spiegelteleskop“, und zwar „jeden Freitag und Samstag ab 20 Uhr“, wenn der Himmel klar ist. Nur „Kinder unter zwölf Jahren“ brauchen eine erwachsene Begleitung – ein 16-Jähriger kann also mit seinen Freunden hingehen."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Erlebnishof Wiesengrund",
+      "subheading": "Ein Tag auf dem Bauernhof für die ganze Familie",
+      "lines": [],
+      "text": "Wie kommt die Milch aus der Kuh, und was fressen eigentlich Ziegen? Auf unserem Hof im Leipziger Umland dürfen Kinder ab vier Jahren die Tiere füttern, beim Ausmisten helfen und mit dem Traktor über die Felder fahren. Zum Abschluss wird über dem Lagerfeuer Stockbrot gebacken. Bitte beachten Sie: Unser Programm findet ausschließlich im Freien statt, und zwar bei jedem Wetter – Gummistiefel und Regenjacke gehören deshalb ins Gepäck. Geöffnet ist samstags und sonntags von 10 bis 16 Uhr. Erwachsene zahlen 8 Euro, Kinder 6 Euro. Eine Anmeldung ist nur für Gruppen ab zehn Personen erforderlich.",
+      "footer": "Wiesengrund 4, 04463 Großpösna · www.erlebnishof-wiesengrund.de"
+    },
+    {
+      "key": "b",
+      "heading": "Mit dem Nachtwächter durch die Altstadt",
+      "subheading": "Stadtgeschichte bei Laternenlicht",
+      "lines": [],
+      "text": "Wenn es dunkel wird, zieht unser Nachtwächter mit Hellebarde und Laterne los und führt Sie durch Gassen, Passagen und Höfe der Leipziger Innenstadt. Unterwegs erfahren Sie, wie die Menschen hier vor 300 Jahren lebten, wovor sie sich fürchteten und welche Regeln nach Einbruch der Dunkelheit galten. Die Führung ist unterhaltsam, manchmal auch ein wenig gruselig, und eignet sich für Erwachsene und Jugendliche ab zwölf Jahren. Termine: jeden Freitag und Samstag um 21 Uhr, Treffpunkt vor dem Alten Rathaus. Die Tour dauert rund 90 Minuten und kostet 15 Euro pro Person. Tickets gibt es in der Tourist-Information oder online.",
+      "footer": "www.leipzig-bei-nacht.de"
+    },
+    {
+      "key": "c",
+      "heading": "Segeln lernen am Lindensee",
+      "subheading": "Schnuppertörn für Einsteiger",
+      "lines": [],
+      "text": "Wind in den Haaren, Wellen am Bug: Bei unserem dreistündigen Schnuppertörn erleben Sie, wie viel Freude Segeln macht – ganz ohne Vorkenntnisse. Nach einer kurzen Einführung an Land, bei der Sie die wichtigsten Begriffe und Knoten kennenlernen, geht es mit einem erfahrenen Skipper in kleinen Gruppen aufs Wasser. Dort übernehmen Sie selbst das Ruder und bedienen die Segel. Schwimmwesten werden gestellt; mitbringen müssen Sie nur wetterfeste Kleidung und Schuhe mit heller Sohle. Die Törns finden von Mai bis September jeden Sonntag von 9 bis 12 Uhr statt. Teilnehmen kann jeder ab 14 Jahren, der sicher schwimmen kann. Der Preis beträgt 49 Euro pro Person.",
+      "footer": "Segelschule Lindensee, Strandweg 2 · Tel. 0341 8820417"
+    },
+    {
+      "key": "d",
+      "heading": "Thermalbad Auenquelle",
+      "subheading": "Entspannen bis in den späten Abend",
+      "lines": [],
+      "text": "Nach einer anstrengenden Woche einfach abschalten: In unserer Saunalandschaft mit sieben verschiedenen Saunen, einem Dampfbad und einem großen Ruhebereich mit Blick auf den Auwald finden Sie Erholung pur. Im Thermalbecken mit 34 Grad warmem Wasser lässt es sich herrlich entspannen. Geöffnet ist von Sonntag bis Donnerstag von 9 bis 22 Uhr, freitags und samstags sogar bis Mitternacht. An jedem letzten Samstag im Monat laden wir außerdem zur langen Saunanacht bis 2 Uhr ein. Eine Tageskarte inklusive Sauna kostet 29 Euro. Gutscheine erhalten Sie an der Kasse und in unserem Onlineshop.",
+      "footer": "Am Kurpark 1 · www.auenquelle-leipzig.de"
+    },
+    {
+      "key": "e",
+      "heading": "Kräuterwanderung im Auwald",
+      "subheading": "Mit der Natur gesund durch den Herbst",
+      "lines": [],
+      "text": "Viele Pflanzen, an denen wir achtlos vorbeigehen, wurden früher als Heilmittel genutzt. Auf unserer zweistündigen Wanderung zeigt Ihnen die Kräuterpädagogin Dorothea Brandl, welche Wildkräuter bei Husten, Halsschmerzen und Schnupfen helfen und wie man aus ihnen Tee oder Salben herstellt. Zum Abschluss probieren alle gemeinsam einen selbst gemischten Kräutertee. Die Wanderung findet jeden zweiten Sonntag um 10 Uhr statt; Treffpunkt ist der Parkplatz am Forsthaus. Bitte tragen Sie festes Schuhwerk. Da der Weg durch ein Naturschutzgebiet führt, dürfen Hunde leider nicht mitkommen. Kosten: 12 Euro, Kinder unter zwölf Jahren frei.",
+      "footer": "Anmeldung unter Tel. 0341 2264950"
+    },
+    {
+      "key": "f",
+      "heading": "Entdeckerhaus",
+      "subheading": "Das Mitmachmuseum für Kinder von 5 bis 12 Jahren",
+      "lines": [],
+      "text": "Hier ist Anfassen ausdrücklich erwünscht! Auf drei Etagen können junge Forscherinnen und Forscher an über 80 Stationen experimentieren: Sie lassen Wasser bergauf fließen, bauen Brücken aus Holzklötzen, erzeugen Strom mit Muskelkraft oder sehen in einer begehbaren Lochkamera die Welt auf dem Kopf stehen. Alle Experimente sind kindgerecht erklärt, und unser Museumsteam hilft gern weiter. Da sich das gesamte Angebot in unserem Gebäude befindet, ist das Entdeckerhaus das ideale Ausflugsziel für Regentage. Geöffnet ist von Dienstag bis Sonntag von 10 bis 18 Uhr. Eintritt: Kinder 7 Euro, Erwachsene 9 Euro, Familienkarte 26 Euro.",
+      "footer": "Kohlgartenstraße 12, 04315 Leipzig"
+    },
+    {
+      "key": "g",
+      "heading": "Kanutour auf der Weißen Elster",
+      "subheading": "Geführte Paddeltour durch den Auwald",
+      "lines": [],
+      "text": "Erleben Sie die Natur aus einer ungewohnten Perspektive: Im Kanu paddeln Sie gemeinsam mit unserem Guide rund 15 Kilometer durch den Leipziger Auwald, vorbei an Eisvögeln, Graureihern und uralten Bäumen. Unterwegs legen wir eine Pause an einem kleinen Badestrand ein. Vorkenntnisse sind nicht erforderlich, denn vor dem Start erklären wir Ihnen die wichtigsten Paddeltechniken. Aus Sicherheitsgründen müssen jedoch alle Teilnehmenden sicher schwimmen können; Kinder dürfen ab zehn Jahren mitfahren. Touren gibt es von April bis Oktober jeden Samstag ab 10 Uhr. Die Teilnahme kostet 35 Euro, Schwimmwesten und wasserdichte Taschen sind inklusive.",
+      "footer": "Bootsverleih Elsterufer · www.elster-kanu.de"
+    },
+    {
+      "key": "h",
+      "heading": "Kochschule Pfeffer & Salz",
+      "subheading": "Gemeinsam kochen, gemeinsam genießen",
+      "lines": [],
+      "text": "Sie suchen ein besonderes Geschenk? Wie wäre es mit einem Abend in unserer Kochschule? Bei unseren Paarkursen stehen Sie zu zweit am Herd und bereiten unter Anleitung eines Profikochs ein Menü aus vier Gängen zu – von der Vorspeise bis zum Dessert. Wechselnde Themen wie „Italienische Landküche“, „Vegetarisch genießen“ oder „Aromen Asiens“ sorgen für Abwechslung. Die Kurse finden jeden Samstag von 17 bis 21 Uhr statt; Getränke und Rezepte zum Mitnehmen sind im Preis von 145 Euro pro Paar enthalten. Gutscheine sind drei Jahre gültig und können online bestellt oder direkt in der Kochschule abgeholt werden.",
+      "footer": "Gottschedstraße 9, 04109 Leipzig"
+    },
+    {
+      "key": "i",
+      "heading": "Leipzig im Oldtimerbus",
+      "subheading": "Stadtrundfahrt mit Charme",
+      "lines": [],
+      "text": "Steigen Sie ein in unseren liebevoll restaurierten Bus aus dem Jahr 1958 und lernen Sie Leipzig auf besondere Weise kennen! Auf der etwa zweistündigen Rundfahrt sehen Sie die wichtigsten Sehenswürdigkeiten, vom Völkerschlachtdenkmal bis zum Gewandhaus, und hören dazu spannende Geschichten aus der Stadtgeschichte. An zwei Haltepunkten haben Sie Zeit für Fotos. Die Fahrten starten samstags und sonntags um 11 und um 14 Uhr am Hauptbahnhof, Ostseite. Abendfahrten bieten wir derzeit leider nicht an. Erwachsene zahlen 22 Euro, Kinder bis 14 Jahre die Hälfte. Da nur 30 Plätze zur Verfügung stehen, empfehlen wir eine Reservierung.",
+      "footer": "Tel. 0341 5517308 · www.oldtimerbus-leipzig.de"
+    },
+    {
+      "key": "j",
+      "heading": "Volkssternwarte am Fuchsberg",
+      "subheading": "Den Himmel mit eigenen Augen entdecken",
+      "lines": [],
+      "text": "Krater auf dem Mond, die Ringe des Saturn, ferne Sternhaufen: In unserer Sternwarte können Sie all das durch ein großes Spiegelteleskop selbst beobachten. Ehrenamtliche Mitglieder unseres Astronomievereins erklären, was Sie gerade sehen, und beantworten gern Ihre Fragen. Öffentliche Beobachtungsabende finden jeden Freitag und Samstag ab 20 Uhr statt – allerdings nur bei klarem Himmel. Ob die Kuppel geöffnet ist, erfahren Sie ab 17 Uhr auf unserer Website. Bei Bewölkung bieten wir stattdessen einen Vortrag im Planetarium an. Der Eintritt ist frei, über Spenden freuen wir uns. Kinder unter zwölf Jahren kommen bitte in Begleitung Erwachsener.",
+      "footer": "Astronomieverein Leipzig-Süd e. V."
+    },
+    {
+      "key": "k",
+      "heading": "Radstation am Seeufer",
+      "subheading": "Fahrräder und E-Bikes für jede Tour",
+      "lines": [],
+      "text": "Sie möchten das Seenland rund um Leipzig auf zwei Rädern erkunden? An unserer Radstation direkt am Ufer leihen Sie Trekkingräder, Tandems, Kinderräder und moderne E-Bikes – ideal für längere Strecken wie den 60 Kilometer langen Rundweg um die drei großen Seen. Helme, Fahrradschlösser und eine Tourenkarte gibt es kostenlos dazu. Gruppen ab fünf Personen erhalten zehn Prozent Rabatt. Geöffnet ist von März bis Oktober täglich von 9 bis 19 Uhr; bei schlechtem Wetter können Sie Ihre Reservierung bis zum Vorabend kostenlos stornieren. Ein Trekkingrad kostet 18 Euro pro Tag, ein E-Bike 35 Euro.",
+      "footer": "Seepromenade 7 · Tel. 0341 9938266"
+    },
+    {
+      "key": "l",
+      "heading": "Kletterzentrum Nordwand",
+      "subheading": "Klettern für Groß und Klein",
+      "lines": [],
+      "text": "Mit über 200 Routen in allen Schwierigkeitsgraden ist unsere Halle der ideale Ort, um das Klettern kennenzulernen – unabhängig vom Wetter. Besonders beliebt ist unser Familienkurs: Eltern und Kinder ab zehn Jahren lernen samstags von 10 bis 13 Uhr gemeinsam die wichtigsten Knoten, das Sichern und die ersten Schritte an der Wand. Für jüngere Kinder ist die Halle aus Sicherheitsgründen leider noch nicht geeignet. Die gesamte Ausrüstung kann vor Ort ausgeliehen werden. Der Familienkurs kostet 39 Euro pro Person. Bitte melden Sie sich spätestens bis Donnerstag online an, da die Plätze begrenzt sind.",
+      "footer": "Industriestraße 40, 04229 Leipzig · www.kletterzentrum-nordwand.de"
+    }
+  ],
+  "glossary": [
+    { "de": "das Ausmisten", "en": "mucking out (cleaning the stable)" },
+    { "de": "die Hellebarde", "en": "halberd (a long medieval weapon)" },
+    { "de": "gruselig", "en": "creepy, spooky" },
+    { "de": "der Schnuppertörn", "en": "taster sailing trip" },
+    { "de": "das Ruder übernehmen", "en": "to take the helm (steer the boat)" },
+    { "de": "die Wildkräuter (Pl.)", "en": "wild herbs" },
+    { "de": "das Naturschutzgebiet", "en": "nature reserve" },
+    { "de": "die Lochkamera", "en": "pinhole camera, camera obscura" },
+    { "de": "die Schwimmweste", "en": "life jacket" },
+    { "de": "eine Reservierung stornieren", "en": "to cancel a booking" },
+    { "de": "das Sichern", "en": "belaying (holding the rope for a climber)" },
+    { "de": "bei klarem Himmel", "en": "when the sky is clear" }
+  ]
+}

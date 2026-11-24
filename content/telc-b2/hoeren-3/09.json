@@ -1,0 +1,110 @@
+{
+  "id": "hoeren-3-09",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Das Kleingedruckte im Alltag",
+  "topic": "gesellschaft",
+  "difficulty": 3,
+  "speakers": [
+    { "id": "center", "gender": "f", "age": "adult", "role": "Lautsprecheransage" },
+    { "id": "bern", "gender": "m", "age": "young", "role": "Telefonansage der Einwohnerdienste" },
+    { "id": "radio", "gender": "f", "age": "young", "role": "Radiomoderatorin" },
+    { "id": "wetter", "gender": "m", "age": "senior", "role": "Wettermoderator" },
+    { "id": "reise", "name": "Frau Ehrenreich", "gender": "f", "age": "senior", "role": "Reisebüro Weltenbummler" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage im Einkaufszentrum",
+      "context": "Sie hören eine Durchsage in einem Einkaufszentrum.",
+      "script": [
+        { "s": "center", "t": "Liebe Kundinnen und Kunden, eine Information für alle, die mit dem Auto gekommen sind: Wegen Reinigungsarbeiten wird das obere Parkdeck heute ab 19 Uhr gesperrt." },
+        { "s": "center", "t": "Fahrzeuge, die nach dieser Uhrzeit noch dort stehen, werden zwar nicht abgeschleppt, können aber erst morgen früh ab acht Uhr wieder abgeholt werden." },
+        { "s": "center", "t": "Und denken Sie daran: Die ersten zwei Stunden parken Sie bei uns kostenlos, allerdings nur, wenn Sie Ihr Parkticket in einem unserer Geschäfte entwerten lassen. Ohne Entwertung zahlen Sie ab der ersten Minute." }
+      ],
+      "statement": "Wer sein Auto abends um halb acht noch oben stehen hat, bekommt es erst am nächsten Morgen zurück.",
+      "answer": true,
+      "explanation": "The upper deck is closed „ab 19 Uhr“, and cars still parked there „werden zwar nicht abgeschleppt, können aber erst morgen früh ab acht Uhr wieder abgeholt werden“. Don't be misled by „nicht abgeschleppt“: the car stays where it is, but you cannot get to it until the next morning.",
+      "explanationDe": "Das obere Parkdeck ist „ab 19 Uhr“ gesperrt, und Autos, die dann noch dort stehen, „werden zwar nicht abgeschleppt, können aber erst morgen früh ab acht Uhr wieder abgeholt werden“. Lass dich von „nicht abgeschleppt“ nicht täuschen: Das Auto bleibt stehen, aber du kommst erst am nächsten Morgen daran.",
+      "evidence": "werden zwar nicht abgeschleppt, können aber erst morgen früh ab acht Uhr wieder abgeholt werden"
+    },
+    {
+      "n": 2,
+      "label": "Telefonansage einer Behörde",
+      "context": "Sie hören die Telefonansage einer Behörde.",
+      "script": [
+        { "s": "bern", "t": "Willkommen bei den Einwohnerdiensten der Stadt Bern. Wer nach Bern zieht, muss sich innerhalb von 14 Tagen nach dem Umzug bei uns anmelden." },
+        { "s": "bern", "t": "Wenn Sie innerhalb der Schweiz umziehen, erledigen Sie das am einfachsten online über das Portal der Stadt; ein Besuch am Schalter ist dann nicht nötig." },
+        { "s": "bern", "t": "Personen, die aus dem Ausland zuziehen, müssen hingegen persönlich vorbeikommen, und zwar mit Pass, Mietvertrag und, falls vorhanden, der Aufenthaltsbewilligung." },
+        { "s": "bern", "t": "Unsere Schalter sind von Montag bis Freitag von 8 bis 17 Uhr geöffnet, am Donnerstag sogar bis halb sieben am Abend." }
+      ],
+      "statement": "Wer aus einem anderen Land nach Bern zieht, kann die Anmeldung bequem im Internet erledigen.",
+      "answer": false,
+      "explanation": "Online registration is only for moves „innerhalb der Schweiz“. „Personen, die aus dem Ausland zuziehen, müssen hingegen persönlich vorbeikommen“ – with passport, rental contract and residence permit.",
+      "explanationDe": "Die Anmeldung im Internet gilt nur für Umzüge „innerhalb der Schweiz“. „Personen, die aus dem Ausland zuziehen, müssen hingegen persönlich vorbeikommen“ – mit Pass, Mietvertrag und Aufenthaltsbewilligung.",
+      "evidence": "Personen, die aus dem Ausland zuziehen, müssen hingegen persönlich vorbeikommen"
+    },
+    {
+      "n": 3,
+      "label": "Veranstaltungstipp im Radio",
+      "context": "Sie hören einen Veranstaltungstipp im Radio.",
+      "script": [
+        { "s": "radio", "t": "Zum Schluss noch ein Tipp fürs Wochenende: Der alte Wasserturm am Kesselberg in Dortmund öffnet am Sonntag zum ersten Mal für Besucher." },
+        { "s": "radio", "t": "Bei den Führungen geht es über 180 Stufen hinauf bis zur Aussichtsplattform. Mitmachen dürfen deshalb nur Kinder ab zehn Jahren, und festes Schuhwerk ist Pflicht." },
+        { "s": "radio", "t": "Die Führungen beginnen zu jeder vollen Stunde zwischen 10 und 16 Uhr und kosten nichts. Da aber höchstens 15 Personen gleichzeitig auf den Turm dürfen, werden die Zählkarten, die man dafür braucht, erst am Sonntag ab neun Uhr am Eingang verteilt." },
+        { "s": "radio", "t": "Alle weiteren Informationen finden Sie auf der Internetseite der Stadt." }
+      ],
+      "statement": "Karten für die Führungen gibt es nicht im Voraus, sondern erst am Sonntagmorgen am Turm.",
+      "answer": true,
+      "explanation": "The numbered tickets you need „werden … erst am Sonntag ab neun Uhr am Eingang verteilt“ – „erst“ means not before. The website mentioned at the end only offers further information, not bookings.",
+      "explanationDe": "Die Zählkarten „werden … erst am Sonntag ab neun Uhr am Eingang verteilt“ – „erst“ heißt: nicht vorher. Die Internetseite am Ende bietet nur weitere Informationen, keine Reservierung.",
+      "evidence": "werden die Zählkarten, die man dafür braucht, erst am Sonntag ab neun Uhr am Eingang verteilt"
+    },
+    {
+      "n": 4,
+      "label": "Gesundheitswetter",
+      "context": "Sie hören das Gesundheitswetter im Radio.",
+      "script": [
+        { "s": "wetter", "t": "Und jetzt noch das Gesundheitswetter für alle Allergiker. Die Birkenpollen fliegen in diesem Jahr früher als üblich, vor allem im Rheinland ist die Belastung bereits hoch." },
+        { "s": "wetter", "t": "Beim Lüften kommt es auf den Wohnort an: In der Stadt ist die Pollenkonzentration frühmorgens am niedrigsten, auf dem Land dagegen erst am Abend." },
+        { "s": "wetter", "t": "Wer tagsüber viel draußen war, sollte außerdem vor dem Schlafengehen die Haare waschen, damit die Pollen nicht im Kopfkissen landen." },
+        { "s": "wetter", "t": "Etwas Entlastung bringt erst der Regen, der für Donnerstag erwartet wird. Danach steigen die Werte allerdings schnell wieder an." }
+      ],
+      "statement": "Wer in der Stadt wohnt, sollte seine Wohnung am besten abends lüften.",
+      "answer": false,
+      "explanation": "In the city the pollen count is lowest „frühmorgens“, so city dwellers should air their flats early in the morning. The evening („erst am Abend“) is the best time only „auf dem Land“.",
+      "explanationDe": "In der Stadt ist die Pollenkonzentration „frühmorgens am niedrigsten“ – in der Stadt lüftest du also am besten früh am Morgen. Der Abend („erst am Abend“) ist nur „auf dem Land“ die beste Zeit.",
+      "evidence": "In der Stadt ist die Pollenkonzentration frühmorgens am niedrigsten, auf dem Land dagegen erst am Abend."
+    },
+    {
+      "n": 5,
+      "label": "Nachricht vom Reisebüro",
+      "context": "Sie hören eine Nachricht auf einer Mailbox.",
+      "script": [
+        { "s": "reise", "t": "Guten Tag, Herr Haddad, hier ist Ehrenreich vom Reisebüro Weltenbummler. Es geht um Ihre Reise nach Lissabon am kommenden Freitag." },
+        { "s": "reise", "t": "Die Fluggesellschaft hat den Flugplan geändert: Sie fliegen nicht, wie in Ihren Unterlagen angegeben, um 6 Uhr 10, sondern erst um 9 Uhr 40 ab Hamburg." },
+        { "s": "reise", "t": "Ihr Hotel und den Transferdienst haben wir bereits informiert, darum müssen Sie sich nicht kümmern. Einchecken müssen Sie diesmal allerdings selbst, und zwar online, frühestens 24 Stunden vor dem Abflug." },
+        { "s": "reise", "t": "Ihre neuen Reiseunterlagen schicke ich Ihnen heute noch per E-Mail." }
+      ],
+      "statement": "Laut den neuen Informationen startet der Flug nach Lissabon früher als ursprünglich geplant.",
+      "answer": false,
+      "explanation": "The flight leaves „nicht, wie in Ihren Unterlagen angegeben, um 6 Uhr 10, sondern erst um 9 Uhr 40“ – later, not earlier. „6 Uhr 10“ is only the old time from the travel documents.",
+      "explanationDe": "Der Flug geht „nicht, wie in Ihren Unterlagen angegeben, um 6 Uhr 10, sondern erst um 9 Uhr 40“ – also später, nicht früher. „6 Uhr 10“ ist nur die alte Zeit aus den Reiseunterlagen.",
+      "evidence": "Sie fliegen nicht, wie in Ihren Unterlagen angegeben, um 6 Uhr 10, sondern erst um 9 Uhr 40 ab Hamburg."
+    }
+  ],
+  "glossary": [
+    { "de": "das Parkdeck", "en": "parking level (in a multi-storey car park)" },
+    { "de": "abschleppen", "en": "to tow away" },
+    { "de": "ein Ticket entwerten lassen", "en": "to have a ticket validated" },
+    { "de": "die Einwohnerdienste (Schweiz)", "en": "residents' registration office" },
+    { "de": "zuziehen", "en": "to move to a place" },
+    { "de": "die Aufenthaltsbewilligung (Schweiz)", "en": "residence permit" },
+    { "de": "festes Schuhwerk", "en": "sturdy footwear" },
+    { "de": "die Zählkarte", "en": "numbered ticket (to limit the number of visitors)" },
+    { "de": "die Pollenkonzentration", "en": "pollen count" },
+    { "de": "die Entlastung", "en": "relief" },
+    { "de": "frühestens", "en": "at the earliest" }
+  ]
+}

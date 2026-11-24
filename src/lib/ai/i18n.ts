@@ -63,8 +63,10 @@ export function aiText(locale: Locale) {
 }
 
 /** Instruction appended to the examiner prompts: the language of all explanatory feedback. */
-export function feedbackLanguage(locale: Locale): string {
+export function feedbackLanguage(locale: Locale, level: "B1" | "B2" = "B1"): string {
   return locale === "de"
-    ? `Feedback language: GERMAN. The learner uses the German interface. Write every comment, summary, explanation, strength and tip in clear, simple German at B1 level: short sentences, everyday words, standard German grammar terms (Akkusativ, Nebensatz, Verb am Ende, Konnektor …). Address the learner with "du". Use German quotation marks „…“.`
-    : `Feedback language: ENGLISH. Write every comment, summary, explanation, strength and tip in clear, simple English for a B1 learner. Address the learner directly as "you".`;
+    ? level === "B2"
+      ? `Feedback language: GERMAN. The learner uses the German interface. Write every comment, summary, explanation, strength and tip in clear German at B2 level: precise but not academic, standard German grammar terms (Akkusativ, Nebensatz, Konjunktiv II, Passiv, Nominalisierung, Konnektor …). Address the learner with "du". Use German quotation marks „…“.`
+      : `Feedback language: GERMAN. The learner uses the German interface. Write every comment, summary, explanation, strength and tip in clear, simple German at B1 level: short sentences, everyday words, standard German grammar terms (Akkusativ, Nebensatz, Verb am Ende, Konnektor …). Address the learner with "du". Use German quotation marks „…“.`
+    : `Feedback language: ENGLISH. Write every comment, summary, explanation, strength and tip in clear, simple English for a ${level} learner. Address the learner directly as "you".`;
 }

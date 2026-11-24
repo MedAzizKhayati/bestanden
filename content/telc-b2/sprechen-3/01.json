@@ -1,0 +1,71 @@
+{
+  "id": "sprechen-3-01",
+  "examId": "telc-b2",
+  "type": "speaking-planning",
+  "title": "Abschied in den Ruhestand",
+  "topic": "arbeit",
+  "difficulty": 1,
+  "situation": "Ihr langjähriger Kollege Gerhard Wollny geht Ende März nach 31 Jahren in Ihrer Abteilung in den Ruhestand. Das Team möchte ihm einen schönen Abschied bereiten, und die Geschäftsleitung stellt dafür 400 Euro zur Verfügung. Sie sollen gemeinsam die Abschiedsfeier planen.",
+  "checklist": [
+    "Termin und Uhrzeit",
+    "Ort der Feier",
+    "Gäste: nur das Team oder auch Familie und ehemalige Kollegen?",
+    "Essen und Getränke",
+    "Geschenk",
+    "Programm: Rede, Fotos …",
+    "Wer übernimmt welche Aufgabe?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Beatriz Campos", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Emre Yılmaz", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Also, wir sollen den Abschied von Gerhard planen. Nach einunddreißig Jahren in der Firma hat er wirklich eine schöne Feier verdient. Hast du schon eine Idee, wann wir feiern könnten?" },
+    { "s": "B", "t": "Am naheliegendsten wäre natürlich sein letzter Arbeitstag, also der letzte Freitag im März. Was hältst du davon, wenn wir direkt nach Feierabend anfangen, so gegen sechzehn Uhr?" },
+    { "s": "A", "t": "Grundsätzlich gern, aber ich gebe zu bedenken, dass freitags viele Kollegen früher gehen, vor allem die mit Kindern. Wir könnten doch schon um vierzehn Uhr beginnen und die Feier als Teil der Arbeitszeit sehen. Dafür müssten wir allerdings die Chefin fragen." },
+    { "s": "B", "t": "Das ist ein guter Punkt, ich spreche morgen mit Frau Albrecht darüber. Und wo sollen wir feiern? Unser Besprechungsraum ist ehrlich gesagt ziemlich ungemütlich." },
+    { "s": "A", "t": "Stimmt, dort fühlt man sich eher wie in einer Sitzung als auf einer Feier. Wie wäre es mit dem Restaurant Zur Mühle gleich um die Ecke? Da hat Gerhard doch jahrelang mittags gegessen." },
+    { "s": "B", "t": "Die Idee gefällt mir, weil sie einen persönlichen Bezug hat. Allerdings sind wir mit allen Kollegen fast vierzig Personen, und vierhundert Euro reichen in einem Restaurant höchstens für Getränke und ein paar Vorspeisen." },
+    { "s": "A", "t": "Da hast du recht. Dann schlage ich einen Kompromiss vor: Wir feiern in der Kantine, die können wir ja kostenlos nutzen, und bestellen ein Buffet bei der Mühle. Das ist deutlich günstiger, und Gerhard bekommt trotzdem seine Lieblingsgerichte." },
+    { "s": "B", "t": "Das finde ich eine gute Lösung. Wenn wir die Kantine mit Fotos und ein paar Blumen dekorieren, wirkt sie bestimmt viel freundlicher. Wen sollten wir eigentlich alles einladen?" },
+    { "s": "A", "t": "Auf jeden Fall unsere Abteilung und die Geschäftsleitung. Ich würde aber auch seine Frau einladen und vielleicht ein paar ehemalige Kollegen, die schon in Rente sind." },
+    { "s": "B", "t": "Seine Frau einzuladen finde ich schön, aber bei den Ehemaligen wäre ich vorsichtig. Wir wissen gar nicht, mit wem er noch Kontakt hat, und wir wollen ja niemanden vergessen." },
+    { "s": "A", "t": "Dann frage ich einfach seine Frau, sie weiß das sicher am besten. Gerhard darf davon natürlich nichts erfahren." },
+    { "s": "B", "t": "Genau. Jetzt zum Geschenk: Weißt du, was er im Ruhestand vorhat? Ich habe gehört, er möchte mit dem Wohnmobil durch Skandinavien fahren." },
+    { "s": "A", "t": "Ja, davon erzählt er ständig! Wir könnten ihm einen guten Reiseführer und einen Gutschein für einen Campingplatz in Norwegen schenken. Das wäre persönlich und würde ihn bestimmt freuen." },
+    { "s": "B", "t": "Schöne Idee. Das Problem ist nur, dass das Geld knapp wird, wenn wir schon das Buffet davon bezahlen. Vielleicht sammeln wir für das Geschenk zusätzlich unter den Kollegen?" },
+    { "s": "A", "t": "Ja, aber nur unter der Bedingung, dass es freiwillig bleibt und sich niemand unter Druck gesetzt fühlt. Fünf oder zehn Euro pro Person wären völlig in Ordnung." },
+    { "s": "B", "t": "Einverstanden. Und sollte jemand eine Rede halten? Am besten wäre wohl die Chefin, weil sie ihn am längsten kennt." },
+    { "s": "A", "t": "Eine kurze Rede von ihr, gern. Außerdem könnten wir eine kleine Präsentation mit alten Fotos aus seinen Jahren bei uns zeigen. Darum würde ich mich kümmern." },
+    { "s": "B", "t": "Super. Dann übernehme ich die Bestellung bei der Mühle und rede wegen der Uhrzeit mit Frau Albrecht. Das Geld für das Geschenk kann ich auch einsammeln." },
+    { "s": "A", "t": "Gut. Ich schreibe die Einladungen, melde mich bei seiner Frau und kaufe den Reiseführer und den Gutschein." },
+    { "s": "B", "t": "Also, fassen wir zusammen: Wir feiern am letzten Freitag im März ab vierzehn Uhr in der Kantine, das Buffet kommt aus der Mühle, die Chefin hält eine Rede und du zeigst die Fotos." },
+    { "s": "A", "t": "Genau, und als Geschenk bekommt er alles für seine Reise nach Skandinavien. Ich glaube, Gerhard wird sich riesig freuen." }
+  ],
+  "phrases": [
+    { "de": "Am naheliegendsten wäre …", "en": "The most obvious option would be …" },
+    { "de": "Was hältst du davon, wenn wir …?", "en": "What do you think about us …ing?" },
+    { "de": "Ich gebe zu bedenken, dass …", "en": "I'd like to point out that …" },
+    { "de": "Wir könnten doch …", "en": "We could …, couldn't we?" },
+    { "de": "Das ist ein guter Punkt.", "en": "That's a good point." },
+    { "de": "Dann schlage ich einen Kompromiss vor: …", "en": "Then I suggest a compromise: …" },
+    { "de": "Bei … wäre ich vorsichtig.", "en": "I'd be careful with …" },
+    { "de": "Das Problem ist nur, dass …", "en": "The only problem is that …" },
+    { "de": "… nur unter der Bedingung, dass …", "en": "… only on condition that …" },
+    { "de": "Darum würde ich mich kümmern.", "en": "I'd take care of that." },
+    { "de": "Also, fassen wir zusammen: …", "en": "So, let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "in den Ruhestand gehen", "en": "to retire" },
+    { "de": "jemandem einen schönen Abschied bereiten", "en": "to give someone a nice send-off" },
+    { "de": "die Geschäftsleitung", "en": "management" },
+    { "de": "etwas zur Verfügung stellen", "en": "to provide something, to make something available" },
+    { "de": "nach Feierabend", "en": "after work" },
+    { "de": "die Kantine", "en": "staff canteen" },
+    { "de": "ehemalige Kollegen", "en": "former colleagues" },
+    { "de": "Geld einsammeln", "en": "to collect money" },
+    { "de": "eine Rede halten", "en": "to give a speech" },
+    { "de": "der Gutschein", "en": "voucher" },
+    { "de": "das Wohnmobil", "en": "camper van, motorhome" }
+  ]
+}

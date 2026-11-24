@@ -1,0 +1,143 @@
+{
+  "id": "b2-sprechen-teil-1",
+  "level": "B2",
+  "order": 104,
+  "context": "sprechen-1",
+  "title": "Über Erfahrungen sprechen",
+  "titleEn": "Talking about experiences",
+  "description": "For Teil 1 of the B2 oral exam, which you prepare at home: introduce your topic, tell your story in a clear order, describe how you felt and what went wrong, evaluate the experience and draw conclusions – then ask your partner real follow-up questions and answer theirs. These phrases add to the B1 Redemittel: more varied past tenses (Präteritum, Plusquamperfekt), Konjunktiv II for looking back and idiomatic B2 expressions. The questions to your partner use „du“ – switch to „Sie“ if that is what you agreed.",
+  "descriptionDe": "Für Teil 1 der mündlichen B2-Prüfung, den du zu Hause vorbereitest: Stell dein Thema vor, erzähl deine Geschichte in einer klaren Reihenfolge, beschreib deine Gefühle und die Schwierigkeiten, bewerte die Erfahrung und zieh Bilanz – und stell danach deinem Gegenüber echte Anschlussfragen und beantworte seine Fragen. Diese Redemittel ergänzen die B1-Redemittel: abwechslungsreichere Vergangenheitsformen (Präteritum, Plusquamperfekt), Konjunktiv II für den Rückblick und idiomatische B2-Ausdrücke. Die Fragen an dein Gegenüber verwenden „du“ – wechsle zu „Sie“, wenn ihr das so vereinbart habt.",
+  "groups": [
+    {
+      "title": "Das Thema einleiten",
+      "titleEn": "Introducing your topic",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich habe mir das Thema „Eine Entscheidung, die mein Leben verändert hat“ ausgesucht.", "en": "I've chosen the topic „A decision that changed my life“.", "note": "Adapt the title on the sheet: „Ihr Leben“ becomes „mein Leben“.", "noteDe": "Pass den Titel vom Aufgabenblatt an: Aus „Ihr Leben“ wird „mein Leben“." },
+        { "de": "Ich möchte von einem Praktikum erzählen, das ich während meines Studiums bei einer Werbeagentur in Lissabon gemacht habe.", "en": "I'd like to talk about an internship I did at an advertising agency in Lisbon while I was at university." },
+        { "de": "Dieses Thema liegt mir besonders am Herzen, weil …", "en": "This topic means a lot to me because …", "note": "jemandem am Herzen liegen = to matter a great deal to someone", "noteDe": "jemandem am Herzen liegen = für jemanden sehr wichtig sein" },
+        { "de": "Das ist zwar schon eine Weile her, aber ich habe noch alles genau vor Augen.", "en": "It was quite a while ago, but I can still picture it all clearly.", "note": "etwas vor Augen haben = to picture something clearly", "noteDe": "etwas vor Augen haben = sich etwas genau vorstellen können" },
+        { "de": "Zuerst ein paar Worte zum Hintergrund: …", "en": "First, a few words about the background: …" },
+        { "de": "Um das Ganze besser zu verstehen, muss man wissen, wie meine Situation damals aussah.", "en": "To understand the whole thing better, you need to know what my situation was like at the time." },
+        { "de": "Ich habe dieses Thema gewählt, weil es für mich ein echter Wendepunkt war.", "en": "I chose this topic because it was a real turning point for me.", "note": "der Wendepunkt = turning point", "noteDe": "der Wendepunkt = der Moment, in dem sich etwas grundlegend ändert" }
+      ]
+    },
+    {
+      "title": "Chronologisch erzählen",
+      "titleEn": "Telling the story in order",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Angefangen hat alles damit, dass mir eine Kollegin von einem Austauschprogramm erzählt hat.", "en": "It all started when a colleague told me about an exchange programme.", "note": "anfangen damit, dass … – „damit“ points forward to the dass-clause", "noteDe": "anfangen damit, dass … – „damit“ verweist auf den dass-Satz" },
+        { "de": "Zunächst lief alles wie geplant.", "en": "At first everything went according to plan.", "note": "„lief“ (Präteritum of laufen) is common in speech too: „es lief gut / schlecht“.", "noteDe": "„lief“ (Präteritum von laufen) ist auch mündlich üblich: „es lief gut / schlecht“." },
+        { "de": "Kurz darauf kam dann die erste Überraschung.", "en": "Shortly afterwards came the first surprise." },
+        { "de": "Bevor es losging, hatte ich mich wochenlang darauf vorbereitet.", "en": "Before it started, I had spent weeks preparing for it.", "note": "Plusquamperfekt (hatte … vorbereitet) for something that happened even earlier", "noteDe": "Plusquamperfekt (hatte … vorbereitet) für etwas, das noch früher passiert ist" },
+        { "de": "Nachdem ich die Zusage bekommen hatte, musste alles sehr schnell gehen.", "en": "Once I'd been accepted, everything had to happen very quickly.", "note": "nachdem + Plusquamperfekt; in the main clause Präteritum or Perfekt. die Zusage = acceptance", "noteDe": "nachdem + Plusquamperfekt; im Hauptsatz Präteritum oder Perfekt. die Zusage = die positive Antwort" },
+        { "de": "Während ich noch auf die Antwort wartete, habe ich schon angefangen, Kartons zu packen.", "en": "While I was still waiting for the answer, I already started packing boxes." },
+        { "de": "Nach und nach habe ich mich dort zurechtgefunden.", "en": "Gradually I found my way around there.", "note": "nach und nach = gradually; sich zurechtfinden = to find your way around, to cope", "noteDe": "nach und nach = langsam, Schritt für Schritt; sich zurechtfinden = gut klarkommen" },
+        { "de": "Ausgerechnet am letzten Tag ist dann etwas völlig Unerwartetes passiert.", "en": "And then, on the last day of all days, something completely unexpected happened.", "note": "ausgerechnet = of all (days, people …) – stresses an unlucky coincidence", "noteDe": "ausgerechnet betont einen unglücklichen Zufall" },
+        { "de": "Von da an bin ich jeden Morgen mit dem Rad zur Arbeit gefahren.", "en": "From then on I cycled to work every morning." },
+        { "de": "Am Ende hat sich dann doch alles zum Guten gewendet.", "en": "In the end, everything turned out well after all.", "note": "sich zum Guten wenden = to take a turn for the better", "noteDe": "sich zum Guten wenden = gut ausgehen" }
+      ]
+    },
+    {
+      "title": "Gefühle und Eindrücke beschreiben",
+      "titleEn": "Describing feelings and impressions",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich war ziemlich nervös, weil ich nicht wusste, was auf mich zukommen würde.", "en": "I was pretty nervous because I didn't know what lay ahead of me.", "note": "auf jemanden zukommen = to lie ahead of someone", "noteDe": "auf jemanden zukommen = jemanden in der Zukunft erwarten" },
+        { "de": "Ich hatte ein mulmiges Gefühl im Bauch.", "en": "I had an uneasy feeling in my stomach.", "note": "mulmig = uneasy, queasy (colloquial)", "noteDe": "mulmig = unsicher, ein bisschen ängstlich (umgangssprachlich)" },
+        { "de": "Ich war regelrecht überwältigt von der Gastfreundschaft der Leute.", "en": "I was absolutely overwhelmed by people's hospitality.", "note": "überwältigt von + dative; regelrecht = downright", "noteDe": "überwältigt von + Dativ; regelrecht = wirklich, geradezu" },
+        { "de": "Am meisten hat mich überrascht, wie offen die Menschen dort waren.", "en": "What surprised me most was how open the people there were." },
+        { "de": "Anfangs hatte ich das Gefühl, nicht richtig dazuzugehören.", "en": "At first I felt as if I didn't really belong.", "note": "das Gefühl haben + zu-infinitive; dazugehören is separable: dazuzugehören", "noteDe": "das Gefühl haben + Infinitiv mit zu; dazugehören ist trennbar: dazuzugehören" },
+        { "de": "Ich war unglaublich erleichtert, als endlich alles vorbei war.", "en": "I was incredibly relieved when it was all finally over.", "note": "erleichtert = relieved", "noteDe": "erleichtert = froh, dass eine Sorge vorbei ist" },
+        { "de": "Die Stimmung war einfach unbeschreiblich.", "en": "The atmosphere was simply indescribable." },
+        { "de": "Ich schwankte die ganze Zeit zwischen Vorfreude und Angst.", "en": "I kept swinging between excitement and fear.", "note": "schwanken zwischen + dative = to waver between; die Vorfreude = looking forward to something", "noteDe": "schwanken zwischen + Dativ = mal das eine, mal das andere fühlen; die Vorfreude = die Freude auf etwas, das noch kommt" },
+        { "de": "Das hat mich nachhaltig beeindruckt.", "en": "That made a lasting impression on me.", "note": "nachhaltig = lasting", "noteDe": "nachhaltig = lange wirkend" }
+      ]
+    },
+    {
+      "title": "Schwierigkeiten schildern",
+      "titleEn": "Describing difficulties",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Das größte Problem war, dass ich am Anfang kaum jemanden kannte.", "en": "The biggest problem was that I hardly knew anyone at first." },
+        { "de": "Leider ist nicht alles so gelaufen, wie ich es mir vorgestellt hatte.", "en": "Unfortunately, not everything went the way I had imagined.", "note": "Plusquamperfekt: the expectation came before the events", "noteDe": "Plusquamperfekt: Die Vorstellung war vor den Ereignissen da." },
+        { "de": "Plötzlich stand ich vor der Frage, ob ich weitermachen oder aufgeben sollte.", "en": "Suddenly I was faced with the question of whether to carry on or give up.", "note": "vor einer Frage / Entscheidung stehen = to be faced with a question / decision", "noteDe": "vor einer Frage / Entscheidung stehen = eine Frage / Entscheidung klären müssen" },
+        { "de": "Zum Glück hat mir ein Nachbar aus der Patsche geholfen.", "en": "Luckily a neighbour helped me out of a tight spot.", "note": "jemandem aus der Patsche helfen = to get someone out of a fix (colloquial)", "noteDe": "jemandem aus der Patsche helfen = jemandem in einer schwierigen Lage helfen (umgangssprachlich)" },
+        { "de": "Irgendwann habe ich beschlossen, die Sache selbst in die Hand zu nehmen.", "en": "At some point I decided to take matters into my own hands." },
+        { "de": "Mit der Zeit habe ich gelernt, mit solchen Situationen gelassener umzugehen.", "en": "Over time I learned to deal with situations like that more calmly.", "note": "gelassen = calm, relaxed; umgehen mit + dative = to deal with", "noteDe": "gelassen = ruhig, entspannt; umgehen mit + Dativ = mit etwas zurechtkommen" },
+        { "de": "Das hat mich damals ganz schön Nerven gekostet.", "en": "That was really nerve-racking for me at the time.", "note": "jemanden Nerven kosten = to be a strain on someone", "noteDe": "jemanden Nerven kosten = für jemanden sehr anstrengend sein" }
+      ]
+    },
+    {
+      "title": "Bewerten und Bilanz ziehen",
+      "titleEn": "Evaluating and drawing conclusions",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Rückblickend würde ich sagen, dass sich der ganze Aufwand gelohnt hat.", "en": "Looking back, I'd say all the effort was worth it.", "note": "sich lohnen = to be worth it; der Aufwand = effort", "noteDe": "sich lohnen = den Einsatz wert sein; der Aufwand = die Mühe, die Arbeit" },
+        { "de": "Wenn ich es mir recht überlege, hat mich diese Zeit selbstständiger gemacht.", "en": "Now that I think about it, that time made me more independent.", "note": "„Wenn ich es mir recht überlege“ = on reflection", "noteDe": "„Wenn ich es mir recht überlege“ = wenn ich genau darüber nachdenke" },
+        { "de": "Hätte ich damals gewusst, wie anstrengend das sein würde, hätte ich mich wahrscheinlich gar nicht getraut.", "en": "If I'd known back then how exhausting it would be, I probably wouldn't have dared at all.", "note": "Konjunktiv II past (hätte/wäre + Partizip II) for things that didn't happen – here without „wenn“, so the verb comes first.", "noteDe": "Konjunktiv II der Vergangenheit (hätte/wäre + Partizip II) für Dinge, die nicht passiert sind – hier ohne „wenn“, deshalb steht das Verb am Anfang." },
+        { "de": "Heute würde ich einiges anders angehen, vor allem die Planung.", "en": "Today I'd approach some things differently, above all the planning.", "note": "etwas angehen = to tackle, approach something", "noteDe": "etwas angehen = etwas anpacken, mit etwas beginnen" },
+        { "de": "Aus dieser Erfahrung habe ich vor allem eines mitgenommen: …", "en": "Above all, I took one thing away from this experience: …", "note": "etwas mitnehmen (aus) = to take away a lesson (from)", "noteDe": "etwas mitnehmen (aus) = etwas aus einer Erfahrung lernen" },
+        { "de": "Insgesamt überwiegen für mich ganz klar die positiven Seiten.", "en": "Overall, the positive sides clearly outweigh the negative ones for me.", "note": "überwiegen = to predominate (not separable)", "noteDe": "überwiegen = stärker sein, mehr Gewicht haben (nicht trennbar)" },
+        { "de": "Ohne diese Erfahrung wäre ich heute nicht da, wo ich bin.", "en": "Without this experience I wouldn't be where I am today." },
+        { "de": "Diese Zeit hat meinen Blick auf … grundlegend verändert.", "en": "That time fundamentally changed the way I see …", "note": "der Blick auf + accusative = view of, perspective on", "noteDe": "der Blick auf + Akkusativ = die Sicht auf, die Perspektive" },
+        { "de": "Ich kann jedem nur empfehlen, so etwas mindestens einmal im Leben auszuprobieren.", "en": "I can only recommend that everyone tries something like that at least once in their life." }
+      ]
+    },
+    {
+      "title": "Zum Schluss kommen",
+      "titleEn": "Rounding off your talk",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Damit bin ich auch schon am Ende meiner Geschichte.", "en": "And that brings me to the end of my story." },
+        { "de": "Alles in allem bin ich froh, dass ich diesen Schritt gewagt habe.", "en": "All in all, I'm glad I dared to take that step.", "note": "einen Schritt wagen = to dare to take a step", "noteDe": "einen Schritt wagen = den Mut haben, etwas Neues zu tun" },
+        { "de": "Das war meine Geschichte in groben Zügen.", "en": "That was my story in broad outline.", "note": "in groben Zügen = roughly, in broad strokes", "noteDe": "in groben Zügen = ungefähr, ohne Details" },
+        { "de": "Wenn ich es in einem Satz zusammenfassen müsste: …", "en": "If I had to sum it up in one sentence: …" }
+      ]
+    },
+    {
+      "title": "Anschlussfragen stellen",
+      "titleEn": "Asking follow-up questions",
+      "register": "informal",
+      "phrases": [
+        { "de": "Du hast vorhin erwähnt, dass du anfangs Heimweh hattest. Wie bist du damit umgegangen?", "en": "You mentioned earlier that you were homesick at first. How did you deal with that?", "note": "Picking up a detail from the talk shows you really listened – that counts in the exam.", "noteDe": "Wenn du ein Detail aus dem Vortrag aufgreifst, zeigst du, dass du wirklich zugehört hast – das zählt in der Prüfung." },
+        { "de": "Wie haben eigentlich deine Familie und deine Freunde darauf reagiert?", "en": "How did your family and friends actually react to that?", "note": "reagieren auf + accusative", "noteDe": "reagieren auf + Akkusativ" },
+        { "de": "Was hat dich damals am meisten Überwindung gekostet?", "en": "What was the hardest thing for you to bring yourself to do back then?", "note": "Überwindung kosten = to take a lot of willpower", "noteDe": "Überwindung kosten = viel Mut oder Kraft brauchen" },
+        { "de": "Gab es einen Moment, in dem du am liebsten alles hingeschmissen hättest?", "en": "Was there a moment when you'd have liked to just throw it all in?", "note": "hinschmeißen (colloquial) = to give up; Konjunktiv II past", "noteDe": "hinschmeißen (umgangssprachlich) = aufgeben; Konjunktiv II der Vergangenheit" },
+        { "de": "Inwiefern hat dich diese Erfahrung verändert?", "en": "In what way did this experience change you?", "note": "inwiefern = in what way, to what extent", "noteDe": "inwiefern = in welcher Hinsicht, wie genau" },
+        { "de": "Mich würde interessieren, wie es danach weitergegangen ist.", "en": "I'd be interested to know what happened next.", "note": "A polite indirect question – the verb goes to the end.", "noteDe": "Eine höfliche indirekte Frage – das Verb steht am Ende." },
+        { "de": "Was hättest du gemacht, wenn das nicht geklappt hätte?", "en": "What would you have done if it hadn't worked out?" },
+        { "de": "Hast du heute noch Kontakt zu den Leuten von damals?", "en": "Are you still in touch with the people from back then?", "note": "Kontakt haben zu + dative", "noteDe": "Kontakt haben zu + Dativ" },
+        { "de": "Was würdest du jemandem raten, der so etwas zum ersten Mal macht?", "en": "What advice would you give someone who's doing something like that for the first time?", "note": "Sie-form: „Was würden Sie jemandem raten, …?“", "noteDe": "Sie-Form: „Was würden Sie jemandem raten, …?“" }
+      ]
+    },
+    {
+      "title": "Auf Fragen reagieren",
+      "titleEn": "Answering your partner's questions",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Das ist ein Punkt, den ich vorhin nur kurz angesprochen habe.", "en": "That's a point I only touched on briefly earlier.", "note": "ansprechen = to mention, raise (a topic)", "noteDe": "ansprechen = ein Thema kurz erwähnen" },
+        { "de": "Da muss ich ein bisschen weiter ausholen.", "en": "I need to go back a bit further for that.", "note": "weit ausholen = to start further back, give more background", "noteDe": "weit ausholen = mit mehr Hintergrund beginnen" },
+        { "de": "Um ehrlich zu sein, habe ich anfangs sogar ans Aufgeben gedacht.", "en": "To be honest, at first I even thought about giving up.", "note": "„Um ehrlich zu sein“ takes position 1 – the verb follows directly.", "noteDe": "„Um ehrlich zu sein“ steht auf Position 1 – danach kommt direkt das Verb." },
+        { "de": "Jein, eher teils, teils: Die Arbeit war toll, die Unterkunft weniger.", "en": "Yes and no – a bit of both: the work was great, the accommodation less so.", "note": "„Jein“ (ja + nein) and „teils, teils“ are colloquial – always explain what you mean.", "noteDe": "„Jein“ (ja + nein) und „teils, teils“ sind umgangssprachlich – erklär danach immer, was du meinst." },
+        { "de": "Wie gesagt, das war am Anfang alles andere als leicht.", "en": "As I said, it was anything but easy at first.", "note": "alles andere als = anything but", "noteDe": "alles andere als = überhaupt nicht" },
+        { "de": "Ja, auf jeden Fall – vor allem deshalb, weil ich dort gelernt habe, Verantwortung zu übernehmen.", "en": "Yes, definitely – mainly because that's where I learned to take on responsibility.", "note": "deshalb, weil … stresses the reason", "noteDe": "deshalb, weil … betont den Grund" },
+        { "de": "Genau an diesem Punkt habe ich gemerkt, dass ich mich verändert hatte.", "en": "That was exactly the point at which I realised I had changed." }
+      ]
+    },
+    {
+      "title": "Sich erinnern und Zeit gewinnen",
+      "titleEn": "Remembering and gaining time",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Wie war das noch gleich? Ach ja, …", "en": "How did it go again? Oh yes, …" },
+        { "de": "Moment, das muss im Frühjahr 2019 gewesen sein.", "en": "Hang on, that must have been in spring 2019.", "note": "müssen + perfect infinitive (gewesen sein) = a confident guess about the past", "noteDe": "müssen + Infinitiv Perfekt (gewesen sein) = eine sichere Vermutung über die Vergangenheit" },
+        { "de": "Wenn ich mich richtig erinnere, waren wir zu fünft.", "en": "If I remember correctly, there were five of us.", "note": "zu fünft = as a group of five", "noteDe": "zu fünft = als Gruppe von fünf Personen" },
+        { "de": "Das kann ich nicht mehr genau sagen, aber ich schätze, es waren ungefähr 300 Euro.", "en": "I can't say exactly any more, but I reckon it was about 300 euros.", "note": "schätzen = to estimate, reckon", "noteDe": "schätzen = ungefähr berechnen, vermuten" },
+        { "de": "Das genaue Datum weiß ich nicht mehr, aber an den Geruch im Treppenhaus erinnere ich mich bis heute.", "en": "I can't remember the exact date, but I still remember the smell in the stairwell to this day.", "note": "A concrete detail makes your story vivid – even if you have forgotten the facts.", "noteDe": "Ein konkretes Detail macht deine Geschichte lebendig – auch wenn du die Fakten vergessen hast." },
+        { "de": "Da muss ich erst einmal meine Gedanken sortieren.", "en": "I need to sort out my thoughts first.", "note": "Gains you a few seconds without sounding lost.", "noteDe": "So gewinnst du ein paar Sekunden, ohne unsicher zu wirken." }
+      ]
+    }
+  ]
+}

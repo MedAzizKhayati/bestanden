@@ -1,0 +1,283 @@
+{
+  "id": "praepositionen-mit-genitiv",
+  "level": "B2",
+  "category": "praepositionen",
+  "order": 20,
+  "title": "Präpositionen mit Genitiv",
+  "titleEn": "Prepositions with the genitive",
+  "summary": "The formal genitive prepositions of articles, news and official letters – aufgrund, angesichts, infolge, anlässlich, bezüglich, mangels, zugunsten, seitens and more: what they mean, which endings follow without an article, and when the dative or „von“ takes over.",
+  "summaryDe": "Die formellen Präpositionen mit Genitiv aus Artikeln, Nachrichten und offiziellen Briefen – aufgrund, angesichts, infolge, anlässlich, bezüglich, mangels, zugunsten, seitens und mehr: was sie bedeuten, welche Endungen ohne Artikel folgen und wann der Dativ oder „von“ übernimmt.",
+  "examRelevance": ["lesen", "sprachbausteine", "hoeren", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "At B1 you learned **wegen, trotz, während, statt, innerhalb** and **außerhalb**. Written German has many more genitive prepositions, and most of them are **formal**: they belong to newspapers, news bulletins, official letters and reports – exactly the texts of the B2 exam. They all take the **genitive**: „**angesichts der** hohen Kosten“, „**anlässlich des** Jubiläums“, „**bezüglich Ihrer** Anfrage“. The genitive forms themselves are explained in the B1 topic „Der Genitiv“.",
+      "mdDe": "Auf B1 hast du **wegen, trotz, während, statt, innerhalb** und **außerhalb** gelernt. Im geschriebenen Deutsch gibt es viel mehr Präpositionen mit Genitiv, und die meisten sind **formell**: Sie stehen in Zeitungen, Nachrichten, offiziellen Briefen und Berichten – also genau in den Texten der B2-Prüfung. Alle verlangen den **Genitiv**: „**angesichts der** hohen Kosten“, „**anlässlich des** Jubiläums“, „**bezüglich Ihrer** Anfrage“. Die Formen des Genitivs selbst findest du im B1-Thema „Der Genitiv“."
+    },
+    {
+      "type": "table",
+      "heading": "The most important genitive prepositions",
+      "headingDe": "Die wichtigsten Präpositionen mit Genitiv",
+      "columns": ["Präposition", "English", "Beispiel"],
+      "columnsDe": ["Präposition", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["aufgrund (auf Grund)", "due to; on the basis of", "**Aufgrund der** hohen Nachfrage verlängert das Museum die Ausstellung."],
+        ["infolge", "as a result of (an event)", "**Infolge des** Unwetters war die Bahnstrecke stundenlang gesperrt."],
+        ["angesichts", "in view of, given (a situation)", "**Angesichts der** steigenden Energiepreise spart die Stadt bei der Straßenbeleuchtung."],
+        ["mangels", "for lack of", "**Mangels ausreichender** Nachfrage fällt der Kurs aus."],
+        ["trotz", "despite", "**Trotz intensiver** Verhandlungen gab es keine Einigung."],
+        ["während", "during (the whole time)", "**Während der** Sanierung bleibt die Bibliothek geschlossen."],
+        ["innerhalb / außerhalb", "within / outside (time or place)", "**Außerhalb der** Sprechzeiten erreichen Sie uns per E-Mail."],
+        ["oberhalb / unterhalb", "above / below", "Die Hütte liegt **oberhalb des** Dorfes."],
+        ["unweit", "not far from", "Das Hotel liegt **unweit des** Hauptbahnhofs."],
+        ["anlässlich", "on the occasion of", "**Anlässlich ihres** 50-jährigen Bestehens lädt die Firma zu einem Tag der offenen Tür ein."],
+        ["bezüglich / hinsichtlich", "regarding, concerning", "**Hinsichtlich der** Kosten gibt es noch offene Fragen."],
+        ["statt / anstatt / anstelle (an Stelle)", "instead of", "**Anstelle eines** Geschenks wünscht sich das Paar eine Spende."],
+        ["mithilfe (mit Hilfe)", "with the help of, by means of", "**Mithilfe einer** App lässt sich der Stromverbrauch genau verfolgen."],
+        ["zugunsten (zu Gunsten)", "in favour of, for the benefit of", "Das Gericht entschied **zugunsten der** Mieterin."],
+        ["seitens", "on the part of (very formal)", "**Seitens der** Geschäftsleitung gab es noch keine Stellungnahme."]
+      ],
+      "rowsDe": [
+        ["aufgrund (auf Grund)", "Grund, formell; auch: auf der Basis von", "**Aufgrund der** hohen Nachfrage verlängert das Museum die Ausstellung."],
+        ["infolge", "als Folge von (einem Ereignis)", "**Infolge des** Unwetters war die Bahnstrecke stundenlang gesperrt."],
+        ["angesichts", "mit Blick auf (eine Situation)", "**Angesichts der** steigenden Energiepreise spart die Stadt bei der Straßenbeleuchtung."],
+        ["mangels", "weil etwas fehlt", "**Mangels ausreichender** Nachfrage fällt der Kurs aus."],
+        ["trotz", "Gegengrund (wie obwohl)", "**Trotz intensiver** Verhandlungen gab es keine Einigung."],
+        ["während", "in der ganzen Zeit von", "**Während der** Sanierung bleibt die Bibliothek geschlossen."],
+        ["innerhalb / außerhalb", "in / nicht in einem Zeitraum oder Bereich", "**Außerhalb der** Sprechzeiten erreichen Sie uns per E-Mail."],
+        ["oberhalb / unterhalb", "höher / tiefer als", "Die Hütte liegt **oberhalb des** Dorfes."],
+        ["unweit", "nicht weit von", "Das Hotel liegt **unweit des** Hauptbahnhofs."],
+        ["anlässlich", "aus Anlass von (Fest, Jubiläum)", "**Anlässlich ihres** 50-jährigen Bestehens lädt die Firma zu einem Tag der offenen Tür ein."],
+        ["bezüglich / hinsichtlich", "in Bezug auf", "**Hinsichtlich der** Kosten gibt es noch offene Fragen."],
+        ["statt / anstatt / anstelle (an Stelle)", "als Ersatz für", "**Anstelle eines** Geschenks wünscht sich das Paar eine Spende."],
+        ["mithilfe (mit Hilfe)", "mit Unterstützung von; mit", "**Mithilfe einer** App lässt sich der Stromverbrauch genau verfolgen."],
+        ["zugunsten (zu Gunsten)", "zum Vorteil von", "Das Gericht entschied **zugunsten der** Mieterin."],
+        ["seitens", "von Seiten, von (sehr formell)", "**Seitens der** Geschäftsleitung gab es noch keine Stellungnahme."]
+      ],
+      "note": "The spellings in brackets are also correct. „aufgrund“, „infolge“ and „angesichts“ are very frequent in news; „seitens“, „hinsichtlich“ and „mangels“ are typical of official texts. In conversation people usually say „wegen“, „in Bezug auf“ or „statt“.",
+      "noteDe": "Die Schreibweisen in Klammern sind auch richtig. „aufgrund“, „infolge“ und „angesichts“ liest und hörst du sehr oft in Nachrichten; „seitens“, „hinsichtlich“ und „mangels“ sind typisch für offizielle Texte. Im Gespräch sagt man meistens „wegen“, „in Bezug auf“ oder „statt“."
+    },
+    {
+      "type": "text",
+      "heading": "Similar meanings – what is the difference?",
+      "headingDe": "Ähnliche Bedeutungen – was ist der Unterschied?",
+      "md": "- **wegen / aufgrund** name a neutral reason. „aufgrund“ is more formal and can also mean *on the basis of*: „aufgrund der Daten“ = based on the data.\n- **infolge** names an **event** and what followed from it: „**Infolge des** Streiks fielen 200 Flüge aus.“ First the strike, then the cancellations.\n- **angesichts** names a **situation** that people look at and react to – usually with a decision or an opinion: „**Angesichts der** Lage rät die Polizei von Reisen in die Region ab.“\n- **mangels** says that something is **missing**: „**mangels** Beweisen“ (because there was no evidence), „**mangels ausreichender** Nachfrage“.\n- **bezüglich / hinsichtlich** introduce the **topic**, like *regarding*: „**Bezüglich Ihrer** Anfrage …“ – typical at the start of a formal letter.\n- **innerhalb** sets a **time limit** (at some point before the end): „**innerhalb einer** Woche“. **während** covers the **whole time**: „**während der** Woche“.\n- **seitens** names who acts or speaks, in very formal style: „**Seitens der** Stadt wurde zugesagt, …“ = Die Stadt hat zugesagt, …",
+      "mdDe": "- **wegen / aufgrund** nennen einen neutralen Grund. „aufgrund“ ist formeller und kann auch *auf der Basis von* bedeuten: „aufgrund der Daten“ = auf der Grundlage der Daten.\n- **infolge** nennt ein **Ereignis** und das, was danach daraus folgte: „**Infolge des** Streiks fielen 200 Flüge aus.“ Zuerst der Streik, dann die Ausfälle.\n- **angesichts** nennt eine **Situation**, die man betrachtet und auf die man reagiert – meistens mit einer Entscheidung oder einer Meinung: „**Angesichts der** Lage rät die Polizei von Reisen in die Region ab.“\n- **mangels** sagt, dass etwas **fehlt**: „**mangels** Beweisen“ (weil es keine Beweise gab), „**mangels ausreichender** Nachfrage“.\n- **bezüglich / hinsichtlich** leiten das **Thema** ein, wie *in Bezug auf*: „**Bezüglich Ihrer** Anfrage …“ – typisch am Anfang eines formellen Briefs.\n- **innerhalb** setzt eine **Frist** (irgendwann vor dem Ende): „**innerhalb einer** Woche“. **während** meint die **ganze Zeit**: „**während der** Woche“.\n- **seitens** nennt, wer handelt oder spricht, in sehr formellem Stil: „**Seitens der** Stadt wurde zugesagt, …“ = Die Stadt hat zugesagt, …"
+    },
+    {
+      "type": "table",
+      "heading": "Genitive without an article: the endings",
+      "headingDe": "Genitiv ohne Artikel: die Endungen",
+      "columns": ["Genus", "Endungen", "Beispiel"],
+      "rows": [
+        ["maskulin", "Adjektiv -en, Nomen -(e)s", "trotz **starken** Regen**s**"],
+        ["neutral", "Adjektiv -en, Nomen -(e)s", "aufgrund **schlechten** Wetter**s**"],
+        ["feminin", "Adjektiv -er", "mangels **ausreichender** Nachfrage"],
+        ["Plural", "Adjektiv -er", "angesichts **steigender** Preise"]
+      ],
+      "note": "Masculine and neuter: the noun already shows the genitive with -s, so the adjective only needs **-en** – „trotz starken Regens“, never „trotz starkes Regens“. Feminine and plural: the adjective takes over the ending of the missing article „der“ → **-er**. News texts are full of these phrases: „angesichts knapper Kassen“, „infolge anhaltender Regenfälle“.",
+      "noteDe": "Maskulin und neutral: Das Nomen zeigt den Genitiv schon mit -s, deshalb braucht das Adjektiv nur **-en** – „trotz starken Regens“, nie „trotz starkes Regens“. Feminin und Plural: Das Adjektiv übernimmt die Endung des fehlenden Artikels „der“ → **-er**. Nachrichtentexte sind voll von solchen Ausdrücken: „angesichts knapper Kassen“, „infolge anhaltender Regenfälle“."
+    },
+    {
+      "type": "text",
+      "heading": "When the genitive is not visible: von + dative",
+      "headingDe": "Wenn man den Genitiv nicht sieht: von + Dativ",
+      "md": "A plural noun **without an article and without an adjective** does not show the genitive – „Bauarbeiten“, „Spenden“ or „Kosten“ look the same in every case. German then switches to the dative:\n\n- Most genitive prepositions add **von**: „**innerhalb von** drei Tagen“, „**aufgrund von** Bauarbeiten“, „**mithilfe von** Spenden“, „**anstelle von** Blumen“, „**außerhalb von** Ortschaften“.\n- A few short ones, above all **mangels**, simply take the dative: „**mangels Beweisen**“.\n- As soon as an article or an adjective shows the genitive, „von“ disappears: „**innerhalb weniger** Tage“, „**aufgrund umfangreicher** Bauarbeiten“, „**aufgrund der** Bauarbeiten“.\n\n**Spoken German** often uses the dative even where the genitive would be visible: „wegen **dem** Wetter“, „während **dem** Essen“. You will hear this in interviews, but in Schreiben and Sprachbausteine the **genitive** is correct. With personal pronouns, written German uses one word: „wegen mir“ → **meinetwegen**, „wegen Ihnen“ → **Ihretwegen** (also deinetwegen, seinetwegen, unseretwegen).",
+      "mdDe": "Ein Nomen im Plural **ohne Artikel und ohne Adjektiv** zeigt den Genitiv nicht – „Bauarbeiten“, „Spenden“ oder „Kosten“ sehen in jedem Kasus gleich aus. Dann wechselt das Deutsche zum Dativ:\n\n- Die meisten Präpositionen mit Genitiv nehmen **von** dazu: „**innerhalb von** drei Tagen“, „**aufgrund von** Bauarbeiten“, „**mithilfe von** Spenden“, „**anstelle von** Blumen“, „**außerhalb von** Ortschaften“.\n- Einige kurze, vor allem **mangels**, nehmen einfach den Dativ: „**mangels Beweisen**“.\n- Sobald ein Artikel oder ein Adjektiv den Genitiv zeigt, fällt „von“ weg: „**innerhalb weniger** Tage“, „**aufgrund umfangreicher** Bauarbeiten“, „**aufgrund der** Bauarbeiten“.\n\nIn der **gesprochenen Sprache** hört man oft den Dativ, auch wo man den Genitiv sehen würde: „wegen **dem** Wetter“, „während **dem** Essen“. Das hörst du in Interviews, aber in Schreiben und Sprachbausteine ist der **Genitiv** richtig. Mit Personalpronomen schreibt man ein Wort: „wegen mir“ → **meinetwegen**, „wegen Ihnen“ → **Ihretwegen** (ebenso deinetwegen, seinetwegen, unseretwegen)."
+    },
+    {
+      "type": "text",
+      "heading": "From clause to phrase: Nominalstil",
+      "headingDe": "Vom Nebensatz zur Präpositionalgruppe: Nominalstil",
+      "md": "In articles and formal letters, a genitive preposition + noun often replaces a whole clause. The sentence becomes shorter and more formal – one of the B2 structures examiners like to see in Schreiben.\n\n- Weil die Nachfrage stark gestiegen ist, … → **Aufgrund der stark gestiegenen Nachfrage** …\n- Obwohl es heftig regnete, … → **Trotz des heftigen Regens** …\n- Während die Halle saniert wird, … → **Während der Sanierung der Halle** …\n- Weil sich nicht genug Helfer gemeldet haben, … → **Mangels freiwilliger Helfer** …\n- Als die Schule ihr 50-jähriges Bestehen feierte, … → **Anlässlich des 50-jährigen Bestehens der Schule** …\n\nThe verb becomes a noun (sanieren → die Sanierung), the adverb becomes an adjective (heftig regnen → der heftige Regen), and the subject of the clause often becomes a second genitive (die Sanierung **der Halle**). More on this in the topic „Nominalisierung“.",
+      "mdDe": "In Artikeln und formellen Briefen ersetzt eine Präposition mit Genitiv + Nomen oft einen ganzen Nebensatz. Der Satz wird kürzer und formeller – eine B2-Struktur, die Prüfende in Schreiben gern sehen.\n\n- Weil die Nachfrage stark gestiegen ist, … → **Aufgrund der stark gestiegenen Nachfrage** …\n- Obwohl es heftig regnete, … → **Trotz des heftigen Regens** …\n- Während die Halle saniert wird, … → **Während der Sanierung der Halle** …\n- Weil sich nicht genug Helfer gemeldet haben, … → **Mangels freiwilliger Helfer** …\n- Als die Schule ihr 50-jähriges Bestehen feierte, … → **Anlässlich des 50-jährigen Bestehens der Schule** …\n\nDas Verb wird zum Nomen (sanieren → die Sanierung), das Adverb wird zum Adjektiv (heftig regnen → der heftige Regen), und das Subjekt des Nebensatzes wird oft zu einem zweiten Genitiv (die Sanierung **der Halle**). Mehr dazu im Thema „Nominalisierung“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Aufgrund eines technischen Defekts** verspätet sich unser Zug um etwa 30 Minuten.", "en": "Due to a technical fault, our train is delayed by about 30 minutes." },
+        { "de": "**Infolge anhaltender Regenfälle** sind mehrere Straßen im Landkreis überflutet.", "en": "As a result of persistent rainfall, several roads in the district are flooded." },
+        { "de": "**Angesichts der angespannten Lage** auf dem Wohnungsmarkt plant die Stadt 800 neue Sozialwohnungen.", "en": "In view of the tense situation on the housing market, the city is planning 800 new social housing units." },
+        { "de": "**Anlässlich des Stadtjubiläums** sind alle Museen am Wochenende kostenlos geöffnet.", "en": "On the occasion of the city's anniversary, all museums are open free of charge at the weekend." },
+        { "de": "**Bezüglich Ihrer Reklamation** vom 4. März bitten wir Sie noch um etwas Geduld.", "en": "Regarding your complaint of 4 March, we ask you to be patient a little longer." },
+        { "de": "Die Kündigung muss **innerhalb von zwei Wochen** schriftlich erfolgen.", "en": "Notice must be given in writing within two weeks." },
+        { "de": "**Mangels ausreichender Beweise** wurde das Verfahren eingestellt.", "en": "For lack of sufficient evidence, the proceedings were dropped." },
+        { "de": "Das Gericht entschied **zugunsten der Mieterin**.", "en": "The court ruled in favour of the tenant." },
+        { "de": "Das Ferienhaus liegt ruhig und doch **unweit des Stadtzentrums**.", "en": "The holiday home is quiet and yet not far from the town centre." },
+        { "de": "**Seitens der Behörden** hieß es, die Brücke sei sicher.", "en": "The authorities said the bridge was safe." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**Sprachbausteine Teil 2:** formal prepositions are typical words in the box – aufgrund, angesichts, hinsichtlich, innerhalb, mithilfe, zugunsten. Check two things: does a **genitive** (or „von“) follow, and does the **meaning** fit – cause, consequence, topic, time limit, replacement, benefit? A connector such as weil, obwohl or sodass never fits directly before a noun.\n\n**Lesen Teil 2 and Hören Teil 1:** „infolge“, „aufgrund“ and „angesichts“ carry the cause-and-effect logic of a text. Wrong options like to reverse it – ask yourself what came first and what followed.\n\n**Schreiben:** a few of these phrases make your letter clearly B2: „**Bezüglich Ihrer** Anzeige vom …“, „**Aufgrund eines** Missverständnisses …“, „Ich bitte Sie, mir den Betrag **innerhalb von** 14 Tagen zu erstatten.“",
+      "mdDe": "**Sprachbausteine Teil 2:** Formelle Präpositionen sind typische Wörter im Kasten – aufgrund, angesichts, hinsichtlich, innerhalb, mithilfe, zugunsten. Prüfe zwei Dinge: Folgt ein **Genitiv** (oder „von“), und passt die **Bedeutung** – Grund, Folge, Thema, Frist, Ersatz, Vorteil? Ein Konnektor wie weil, obwohl oder sodass passt nie direkt vor ein Nomen.\n\n**Lesen Teil 2 und Hören Teil 1:** „infolge“, „aufgrund“ und „angesichts“ tragen die Logik von Ursache und Folge in einem Text. Falsche Antworten drehen sie gern um – frag dich, was zuerst kam und was danach folgte.\n\n**Schreiben:** Mit einigen dieser Ausdrücke klingt dein Brief deutlich nach B2: „**Bezüglich Ihrer** Anzeige vom …“, „**Aufgrund eines** Missverständnisses …“, „Ich bitte Sie, mir den Betrag **innerhalb von** 14 Tagen zu erstatten.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Three traps:**\n\n1. **„von“ only without article and adjective:** „aufgrund **von** Bauarbeiten“, but „aufgrund **der** Bauarbeiten“ – never „aufgrund von der …“.\n2. **Masculine and neuter without an article:** the adjective ends in **-en**: „trotz **starken** Regens“, „wegen **schlechten** Wetters“ – not „starkes“, „schlechtes“.\n3. **Preposition or connector?** A preposition needs a noun: „**Trotz des** Staus kam sie pünktlich.“ A clause needs a connector: „**Obwohl** es Stau gab, …“. Only **während** can be both: „während **des** Urlaubs“ – „während **ich** im Urlaub war“.",
+      "mdDe": "**Drei Fallen:**\n\n1. **„von“ nur ohne Artikel und Adjektiv:** „aufgrund **von** Bauarbeiten“, aber „aufgrund **der** Bauarbeiten“ – nie „aufgrund von der …“.\n2. **Maskulin und neutral ohne Artikel:** Das Adjektiv endet auf **-en**: „trotz **starken** Regens“, „wegen **schlechten** Wetters“ – nicht „starkes“, „schlechtes“.\n3. **Präposition oder Konnektor?** Eine Präposition braucht ein Nomen: „**Trotz des** Staus kam sie pünktlich.“ Ein Nebensatz braucht einen Konnektor: „**Obwohl** es Stau gab, …“. Nur **während** kann beides sein: „während **des** Urlaubs“ – „während **ich** im Urlaub war“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Aufgrund von dem schlechten Wetter wurde das Spiel abgesagt.",
+      "right": "Aufgrund des schlechten Wetters wurde das Spiel abgesagt.",
+      "why": "„von“ + dative is only a replacement when nothing shows the genitive (aufgrund von Regenfällen). Here the article can show it, so use the genitive: „aufgrund des schlechten Wetters“.",
+      "whyDe": "„von“ + Dativ ist nur ein Ersatz, wenn nichts den Genitiv zeigt (aufgrund von Regenfällen). Hier kann der Artikel ihn zeigen, also nimm den Genitiv: „aufgrund des schlechten Wetters“."
+    },
+    {
+      "wrong": "Trotz starkes Regens fand das Konzert im Freien statt.",
+      "right": "Trotz starken Regens fand das Konzert im Freien statt.",
+      "why": "Genitive masculine without an article: the noun shows the case with -s („Regens“), so the adjective ends in -en, not -es.",
+      "whyDe": "Genitiv maskulin ohne Artikel: Das Nomen zeigt den Kasus mit -s („Regens“), deshalb endet das Adjektiv auf -en, nicht auf -es."
+    },
+    {
+      "wrong": "Bezüglich Ihre Anfrage vom 3. April möchte ich Ihnen mitteilen, …",
+      "right": "Bezüglich Ihrer Anfrage vom 3. April möchte ich Ihnen mitteilen, …",
+      "why": "„bezüglich“ takes the genitive; „die Anfrage“ is feminine, so the possessive must be „Ihrer“. „Ihre“ is nominative or accusative.",
+      "whyDe": "„bezüglich“ verlangt den Genitiv; „die Anfrage“ ist feminin, also muss der Possessivartikel „Ihrer“ heißen. „Ihre“ ist Nominativ oder Akkusativ."
+    },
+    {
+      "wrong": "Anstelle Blumen bittet die Familie um eine Spende für das Tierheim.",
+      "right": "Anstelle von Blumen bittet die Familie um eine Spende für das Tierheim.",
+      "why": "„Blumen“ is a plural without an article or adjective, so the genitive is not visible – add „von“: „anstelle von Blumen“.",
+      "whyDe": "„Blumen“ ist ein Plural ohne Artikel und ohne Adjektiv, man sieht den Genitiv also nicht – nimm „von“ dazu: „anstelle von Blumen“."
+    },
+    {
+      "wrong": "Wegen mir müsst ihr nicht auf das Dessert verzichten.",
+      "right": "Meinetwegen müsst ihr nicht auf das Dessert verzichten.",
+      "why": "„wegen mir“ is colloquial. In written German, „wegen“ + personal pronoun becomes one word: meinetwegen, deinetwegen, Ihretwegen.",
+      "whyDe": "„wegen mir“ ist Umgangssprache. Im geschriebenen Deutsch werden „wegen“ und Personalpronomen zu einem Wort: meinetwegen, deinetwegen, Ihretwegen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "___ der stark gestiegenen Energiepreise will die Stadt nachts die Straßenbeleuchtung reduzieren.",
+      "options": ["Angesichts", "Anlässlich", "Anstelle"],
+      "answer": 0,
+      "explanation": "„Angesichts“ names a situation people react to: the high prices lead to the decision to save electricity. „Anlässlich“ is used for occasions such as anniversaries, and „Anstelle“ (instead of) makes no sense here.",
+      "explanationDe": "„Angesichts“ nennt eine Situation, auf die man reagiert: Die hohen Preise führen zu der Entscheidung, Strom zu sparen. „Anlässlich“ benutzt man für Anlässe wie ein Jubiläum, und „Anstelle“ (als Ersatz für) ergibt hier keinen Sinn."
+    },
+    {
+      "type": "mc",
+      "prompt": "Telefonisch sind wir montags bis freitags von 8 bis 16 Uhr für Sie da. ___ dieser Zeiten schreiben Sie uns bitte eine E-Mail.",
+      "options": ["Innerhalb", "Außerhalb", "Während"],
+      "answer": 1,
+      "explanation": "The e-mail is for the times when nobody answers the phone → „Außerhalb dieser Zeiten“. „Innerhalb“ and „Während“ would mean during the phone hours, which contradicts the first sentence.",
+      "explanationDe": "Die E-Mail ist für die Zeiten, in denen niemand ans Telefon geht → „Außerhalb dieser Zeiten“. „Innerhalb“ und „Während“ würden „in den Telefonzeiten“ bedeuten – das widerspricht dem ersten Satz."
+    },
+    {
+      "type": "mc",
+      "prompt": "Nur drei Anmeldungen: Der Kochkurs fällt ___ ausreichender Nachfrage leider aus.",
+      "options": ["mangels", "infolge", "trotz"],
+      "answer": 0,
+      "explanation": "Three registrations are not enough – the reason is that demand is missing → „mangels“ (for lack of). „infolge ausreichender Nachfrage“ would mean there was enough demand, which contradicts „Nur drei Anmeldungen“, and „trotz“ makes no logical sense.",
+      "explanationDe": "Drei Anmeldungen sind zu wenig – der Grund ist, dass Nachfrage fehlt → „mangels“. „infolge ausreichender Nachfrage“ würde bedeuten, dass es genug Nachfrage gab; das widerspricht „Nur drei Anmeldungen“, und „trotz“ ergibt logisch keinen Sinn."
+    },
+    {
+      "type": "mc",
+      "prompt": "Trotz ___ Regens kamen über 5000 Besucherinnen und Besucher zum Stadtfest.",
+      "options": ["starken", "starkes", "starkem"],
+      "answer": 0,
+      "explanation": "Genitive masculine without an article: the noun „Regens“ already shows the case with -s, so the adjective ends in -en → „trotz starken Regens“. „starkes“ copies the article ending „des“, which is not used here; „starkem“ is dative.",
+      "explanationDe": "Genitiv maskulin ohne Artikel: Das Nomen „Regens“ zeigt den Kasus schon mit -s, deshalb endet das Adjektiv auf -en → „trotz starken Regens“. „starkes“ kopiert die Artikelendung „des“, die hier nicht benutzt wird; „starkem“ ist Dativ."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ der Anwohner gingen bei der Stadt zahlreiche Beschwerden über den Baulärm ein.",
+      "options": ["Seitens", "Zugunsten", "Anstelle"],
+      "answer": 0,
+      "explanation": "The complaints come from the residents → „Seitens der Anwohner“ (on the part of the residents). „Zugunsten“ means in favour of someone and „Anstelle“ instead of someone – neither says who complained.",
+      "explanationDe": "Die Beschwerden kommen von den Anwohnern → „Seitens der Anwohner“. „Zugunsten“ heißt „zum Vorteil von“ und „Anstelle“ „als Ersatz für“ – keins von beiden sagt, wer sich beschwert hat."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bitte überweisen Sie den offenen Betrag innerhalb ___ 14 Tagen.",
+      "answers": ["von"],
+      "hint": "(Präposition)",
+      "explanation": "„14 Tagen“ has no article and no adjective, so the genitive is not visible – German adds „von“ + dative: „innerhalb von 14 Tagen“. With an article or adjective, „von“ disappears: „innerhalb weniger Tage“.",
+      "explanationDe": "„14 Tagen“ hat keinen Artikel und kein Adjektiv, man sieht den Genitiv also nicht – deshalb kommt „von“ + Dativ dazu: „innerhalb von 14 Tagen“. Mit Artikel oder Adjektiv fällt „von“ weg: „innerhalb weniger Tage“."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ Ihrer Anfrage vom 12. Mai können wir Ihnen mitteilen, dass das Doppelzimmer noch frei ist.",
+      "answers": ["Bezüglich", "Hinsichtlich", "Betreffs"],
+      "hint": "(in Bezug auf – ein Wort)",
+      "explanation": "„Bezüglich“ (or the equally formal „Hinsichtlich“) introduces the topic of a formal letter: regarding your enquiry. Both take the genitive – „Ihrer Anfrage“.",
+      "explanationDe": "„Bezüglich“ (oder das ebenso formelle „Hinsichtlich“) leitet das Thema eines formellen Briefs ein: in Bezug auf Ihre Anfrage. Beide verlangen den Genitiv – „Ihrer Anfrage“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Benefizkonzert findet ___ eines Kinderhospizes statt – alle Einnahmen werden gespendet.",
+      "answers": ["zugunsten", "zu Gunsten"],
+      "hint": "(zum Vorteil von)",
+      "explanation": "All the money goes to the hospice, so the concert takes place for its benefit → „zugunsten“ (also written „zu Gunsten“), followed by the genitive „eines Kinderhospizes“.",
+      "explanationDe": "Das ganze Geld geht an das Hospiz, das Konzert findet also zu seinem Vorteil statt → „zugunsten“ (auch „zu Gunsten“), danach der Genitiv „eines Kinderhospizes“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Angesichts ___ Mieten ziehen immer mehr Familien ins Umland.",
+      "answers": ["steigender"],
+      "hint": "(steigend)",
+      "explanation": "Genitive plural without an article: the adjective takes the ending of the missing article „der“ → „steigender Mieten“. „steigenden“ would need an article: „angesichts der steigenden Mieten“.",
+      "explanationDe": "Genitiv Plural ohne Artikel: Das Adjektiv übernimmt die Endung des fehlenden Artikels „der“ → „steigender Mieten“. „steigenden“ bräuchte einen Artikel: „angesichts der steigenden Mieten“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the two sentences into one. Use „trotz“ + noun.",
+      "instructionDe": "Verbinde die beiden Sätze zu einem Satz. Benutze „trotz“ + Nomen.",
+      "prompt": "Es regnete heftig. Trotzdem fand das Open-Air-Konzert statt.",
+      "answers": [
+        "Trotz des heftigen Regens fand das Open-Air-Konzert statt.",
+        "Trotz heftigen Regens fand das Open-Air-Konzert statt.",
+        "Das Open-Air-Konzert fand trotz des heftigen Regens statt.",
+        "Das Open-Air-Konzert fand trotz heftigen Regens statt."
+      ],
+      "explanation": "„heftig regnen“ becomes the noun phrase „der heftige Regen“, in the genitive after „trotz“: „trotz des heftigen Regens“ (without an article: „trotz heftigen Regens“). „Trotzdem“ disappears because „trotz“ already expresses the contrast.",
+      "explanationDe": "Aus „heftig regnen“ wird die Nominalgruppe „der heftige Regen“, im Genitiv nach „trotz“: „trotz des heftigen Regens“ (ohne Artikel: „trotz heftigen Regens“). „Trotzdem“ fällt weg, weil „trotz“ den Gegensatz schon ausdrückt."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the weil clause with „aufgrund“ + noun (Nominalstil).",
+      "instructionDe": "Ersetze den weil-Satz durch „aufgrund“ + Nomen (Nominalstil).",
+      "prompt": "Weil die Nachfrage groß ist, verlängert das Museum die Ausstellung bis Ende Juni.",
+      "answers": [
+        "Aufgrund der großen Nachfrage verlängert das Museum die Ausstellung bis Ende Juni.",
+        "Aufgrund großer Nachfrage verlängert das Museum die Ausstellung bis Ende Juni.",
+        "Auf Grund der großen Nachfrage verlängert das Museum die Ausstellung bis Ende Juni.",
+        "Das Museum verlängert die Ausstellung aufgrund der großen Nachfrage bis Ende Juni.",
+        "Das Museum verlängert die Ausstellung aufgrund großer Nachfrage bis Ende Juni."
+      ],
+      "explanation": "„die Nachfrage ist groß“ → „die große Nachfrage“, in the genitive after „aufgrund“: „aufgrund der großen Nachfrage“. After the prepositional phrase in position 1, the verb „verlängert“ follows directly.",
+      "explanationDe": "„die Nachfrage ist groß“ → „die große Nachfrage“, im Genitiv nach „aufgrund“: „aufgrund der großen Nachfrage“. Nach der Präpositionalgruppe auf Position 1 folgt direkt das Verb „verlängert“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the während clause with „während“ + noun. You need two genitives.",
+      "instructionDe": "Ersetze den während-Satz durch „während“ + Nomen. Du brauchst zwei Genitive.",
+      "prompt": "Während die Schwimmhalle saniert wird, trainieren die Vereine im Hallenbad Neustadt.",
+      "answers": [
+        "Während der Sanierung der Schwimmhalle trainieren die Vereine im Hallenbad Neustadt.",
+        "Die Vereine trainieren während der Sanierung der Schwimmhalle im Hallenbad Neustadt."
+      ],
+      "explanation": "„saniert werden“ becomes „die Sanierung“, and the subject „die Schwimmhalle“ becomes a second genitive: „während der Sanierung der Schwimmhalle“. The verb „trainieren“ stays in position 2.",
+      "explanationDe": "Aus „saniert werden“ wird „die Sanierung“, und das Subjekt „die Schwimmhalle“ wird zu einem zweiten Genitiv: „während der Sanierung der Schwimmhalle“. Das Verb „trainieren“ bleibt auf Position 2."
+    },
+    {
+      "type": "order",
+      "words": ["geschlossen.", "Bauarbeiten", "bleibt", "von", "Mai", "die", "Aufgrund", "Ende", "Stadtbibliothek", "bis"],
+      "answers": [
+        "Aufgrund von Bauarbeiten bleibt die Stadtbibliothek bis Ende Mai geschlossen.",
+        "Die Stadtbibliothek bleibt aufgrund von Bauarbeiten bis Ende Mai geschlossen.",
+        "Die Stadtbibliothek bleibt bis Ende Mai aufgrund von Bauarbeiten geschlossen.",
+        "Bis Ende Mai bleibt die Stadtbibliothek aufgrund von Bauarbeiten geschlossen."
+      ],
+      "explanation": "„Bauarbeiten“ has no article, so „aufgrund“ needs „von“: „aufgrund von Bauarbeiten“. The verb „bleibt“ is in position 2, „geschlossen“ goes to the end.",
+      "explanationDe": "„Bauarbeiten“ hat keinen Artikel, deshalb braucht „aufgrund“ ein „von“: „aufgrund von Bauarbeiten“. Das Verb „bleibt“ steht auf Position 2, „geschlossen“ kommt ans Ende."
+    }
+  ],
+  "related": ["genitiv", "praepositionen-mit-kasus", "praepositionen-b2", "nominalisierung", "kausale-konsekutive-saetze", "konzessive-saetze-b2", "adjektivdeklination-b2", "temporale-praepositionen"]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "konjunktiv-1",
+  "level": "B2",
+  "category": "verben",
+  "order": 22,
+  "title": "Konjunktiv I und indirekte Rede",
+  "titleEn": "Konjunktiv I and reported speech",
+  "summary": "Pass on what others said without making it your own claim: the Konjunktiv I forms (er sei, sie habe, es gebe), when the Konjunktiv II replaces them, one past form for all past tenses, reported questions and requests with sollen and mögen – the language of the news, Hören Teil 1 and Lesen.",
+  "summaryDe": "Gib wieder, was andere gesagt haben, ohne es selbst zu behaupten: die Formen des Konjunktiv I (er sei, sie habe, es gebe), wann der Konjunktiv II sie ersetzt, eine Vergangenheitsform für alle Vergangenheitszeiten, indirekte Fragen und Aufforderungen mit sollen und mögen – die Sprache der Nachrichten, von Hören Teil 1 und Lesen.",
+  "examRelevance": ["hoeren", "lesen", "sprachbausteine", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The **Konjunktiv I** marks **reported (indirect) speech**: *someone else said this – I am only passing it on.* Form it from the **infinitive stem + -e, -est, -e, -en, -et, -en**: er **komme**, sie **habe**, es **gebe**, man **müsse**. **sein** is irregular: ich/er **sei**, wir/sie **seien**. If a Konjunktiv I form looks exactly like the indicative (wir haben, sie kommen), use the **Konjunktiv II** instead: wir **hätten**, sie **kämen** / **würden kommen**.",
+      "mdDe": "Der **Konjunktiv I** kennzeichnet die **indirekte Rede**: *Das hat jemand anders gesagt – ich gebe es nur weiter.* Du bildest ihn aus dem **Infinitivstamm + -e, -est, -e, -en, -et, -en**: er **komme**, sie **habe**, es **gebe**, man **müsse**. **sein** ist unregelmäßig: ich/er **sei**, wir/sie **seien**. Wenn eine Form des Konjunktiv I genauso aussieht wie der Indikativ (wir haben, sie kommen), nimmst du stattdessen den **Konjunktiv II**: wir **hätten**, sie **kämen** / **würden kommen**."
+    },
+    {
+      "type": "table",
+      "heading": "Konjunktiv I forms – and their replacements",
+      "headingDe": "Formen des Konjunktiv I – und ihr Ersatz",
+      "columns": ["Person", "sein", "haben", "werden", "können", "kommen"],
+      "rows": [
+        ["ich", "**sei**", "(habe) → **hätte**", "(werde) → **würde**", "**könne**", "(komme) → **käme**"],
+        ["du", "**sei(e)st**", "**habest**", "**werdest**", "**könnest**", "**kommest**"],
+        ["er/sie/es/man", "**sei**", "**habe**", "**werde**", "**könne**", "**komme**"],
+        ["wir", "**seien**", "(haben) → **hätten**", "(werden) → **würden**", "(können) → **könnten**", "(kommen) → **kämen**"],
+        ["ihr", "**seiet**", "**habet**", "(werdet) → **würdet**", "**könnet**", "**kommet**"],
+        ["sie/Sie", "**seien**", "(haben) → **hätten**", "(werden) → **würden**", "(können) → **könnten**", "(kommen) → **kämen**"]
+      ],
+      "note": "Forms in brackets look exactly like the indicative, so the Konjunktiv II after the arrow replaces them. The du and ihr forms (habest, kommet) are correct but sound very old-fashioned – people use the Konjunktiv II here too (du hättest, ihr würdet kommen). In practice you mainly need the 3rd person singular and the forms of sein.",
+      "noteDe": "Die Formen in Klammern sehen genauso aus wie der Indikativ, deshalb ersetzt sie der Konjunktiv II nach dem Pfeil. Die Formen für du und ihr (habest, kommet) sind korrekt, klingen aber sehr altmodisch – auch hier nimmt man meistens den Konjunktiv II (du hättest, ihr würdet kommen). In der Praxis brauchst du vor allem die 3. Person Singular und die Formen von sein."
+    },
+    {
+      "type": "text",
+      "heading": "When the Konjunktiv II steps in",
+      "headingDe": "Wann der Konjunktiv II einspringt",
+      "md": "Reported speech must be **recognisable** as reported speech. So you go step by step:\n\n1. **Konjunktiv I**, if it differs from the indicative: „Der Chef sagt, er **habe** keine Zeit.“ (indicative: *er hat*)\n2. **Konjunktiv II**, if the Konjunktiv I looks like the indicative: „Die Kollegen sagen, sie **hätten** keine Zeit.“ (*sie haben* = indicative)\n3. **würde + infinitive**, if the Konjunktiv II also looks like the indicative – with regular verbs it is identical to the Präteritum: „Die Mieter klagen, sie **würden** zu hohe Nebenkosten **zahlen**.“ (*sie zahlen* = indicative, *sie zahlten* = Präteritum)\n\nWith **sein, haben** and the **modal verbs**, never use *würde*: sie **hätten**, sie **könnten**, sie **müssten**. Many irregular verbs have a clear Konjunktiv II of their own (sie **kämen**, sie **gäben**, sie **wüssten**); if it sounds too stiff, *würde* + infinitive is always acceptable.\n\nYou also know the Konjunktiv I from fixed phrases: „Gott **sei** Dank“, „es **sei** denn“, „Es **lebe** die Freiheit!“ – and from old recipes: „Man **nehme** 200 Gramm Mehl …“.",
+      "mdDe": "Die indirekte Rede muss als indirekte Rede **erkennbar** sein. Deshalb gehst du Schritt für Schritt vor:\n\n1. **Konjunktiv I**, wenn er sich vom Indikativ unterscheidet: „Der Chef sagt, er **habe** keine Zeit.“ (Indikativ: *er hat*)\n2. **Konjunktiv II**, wenn der Konjunktiv I wie der Indikativ aussieht: „Die Kollegen sagen, sie **hätten** keine Zeit.“ (*sie haben* = Indikativ)\n3. **würde + Infinitiv**, wenn auch der Konjunktiv II wie der Indikativ aussieht – bei regelmäßigen Verben ist er identisch mit dem Präteritum: „Die Mieter klagen, sie **würden** zu hohe Nebenkosten **zahlen**.“ (*sie zahlen* = Indikativ, *sie zahlten* = Präteritum)\n\nBei **sein, haben** und den **Modalverben** nimmst du nie *würde*: sie **hätten**, sie **könnten**, sie **müssten**. Viele unregelmäßige Verben haben eine eigene, deutliche Form im Konjunktiv II (sie **kämen**, sie **gäben**, sie **wüssten**); wenn sie dir zu steif klingt, ist *würde* + Infinitiv immer möglich.\n\nDen Konjunktiv I kennst du auch aus festen Wendungen: „Gott **sei** Dank“, „es **sei** denn“, „Es **lebe** die Freiheit!“ – und aus alten Rezepten: „Man **nehme** 200 Gramm Mehl …“."
+    },
+    {
+      "type": "table",
+      "heading": "Time in reported speech: three levels, no backshift",
+      "headingDe": "Zeit in der indirekten Rede: drei Stufen, keine Verschiebung",
+      "columns": ["Time", "Direct speech", "Reported speech"],
+      "columnsDe": ["Zeit", "Direkte Rede", "Indirekte Rede"],
+      "rows": [
+        ["present", "„Ich bin krank.“", "Sie sagte, sie **sei** krank."],
+        ["present (Konjunktiv II replaces)", "„Wir haben keine Zeit.“", "Sie sagten, sie **hätten** keine Zeit."],
+        ["past (Präteritum, Perfekt or Plusquamperfekt)", "„Ich las den Vertrag.“ / „Ich habe den Vertrag gelesen.“", "Er sagte, er **habe** den Vertrag **gelesen**."],
+        ["past with sein", "„Wir sind zu spät gekommen.“", "Sie sagten, sie **seien** zu spät **gekommen**."],
+        ["past in the passive", "„Der Antrag wurde abgelehnt.“", "Sie teilte mit, der Antrag **sei** abgelehnt **worden**."],
+        ["future", "„Ich werde mich bewerben.“", "Er sagte, er **werde** sich **bewerben**."],
+        ["future (Konjunktiv II replaces)", "„Wir werden umziehen.“", "Sie sagten, sie **würden** **umziehen**."]
+      ],
+      "rowsDe": [
+        ["Gegenwart", "„Ich bin krank.“", "Sie sagte, sie **sei** krank."],
+        ["Gegenwart (Konjunktiv II als Ersatz)", "„Wir haben keine Zeit.“", "Sie sagten, sie **hätten** keine Zeit."],
+        ["Vergangenheit (Präteritum, Perfekt oder Plusquamperfekt)", "„Ich las den Vertrag.“ / „Ich habe den Vertrag gelesen.“", "Er sagte, er **habe** den Vertrag **gelesen**."],
+        ["Vergangenheit mit sein", "„Wir sind zu spät gekommen.“", "Sie sagten, sie **seien** zu spät **gekommen**."],
+        ["Vergangenheit im Passiv", "„Der Antrag wurde abgelehnt.“", "Sie teilte mit, der Antrag **sei** abgelehnt **worden**."],
+        ["Zukunft", "„Ich werde mich bewerben.“", "Er sagte, er **werde** sich **bewerben**."],
+        ["Zukunft (Konjunktiv II als Ersatz)", "„Wir werden umziehen.“", "Sie sagten, sie **würden** **umziehen**."]
+      ],
+      "note": "The tense of the introducing verb does not matter: „Er sagt / sagte / hat gesagt, er sei krank“ always means that he is ill at the moment he speaks. Unlike English, German never shifts the tense back. All three past tenses of direct speech become habe/sei + Partizip II.",
+      "noteDe": "Die Zeitform des einleitenden Verbs spielt keine Rolle: „Er sagt / sagte / hat gesagt, er sei krank“ bedeutet immer, dass er in dem Moment krank ist, in dem er spricht. Anders als im Englischen verschiebt man die Zeit im Deutschen nie nach hinten. Alle drei Vergangenheitszeiten der direkten Rede werden zu habe/sei + Partizip II."
+    },
+    {
+      "type": "text",
+      "heading": "Reported speech in news and reports",
+      "headingDe": "Indirekte Rede in Nachrichten und Berichten",
+      "md": "In news, press releases and minutes, the Konjunktiv I shows that the writer is **reporting, not claiming**: „Der Sprecher erklärte, die Verhandlungen **seien** gescheitert.“ That does not mean the statement is false – only that it comes from someone else.\n\nThe reported clause usually follows **without dass**, in main-clause word order; with *dass* the verb goes to the end: „Sie sagte, sie **habe** keine Zeit.“ = „Sie sagte, dass sie keine Zeit **habe**.“ Because the verb form itself marks the report, a text can stay in reported speech for several sentences:\n\n„Die Ministerin verteidigte das neue Gesetz. Es **schütze** vor allem Familien mit kleinen Kindern. Die Kritik der Opposition **halte** sie für unbegründet.“ – the last two sentences are still *her* view, not the journalist's.\n\nThe introducing verb often adds meaning of its own – read it carefully:\n\n- **behaupten** (claim – the writer keeps a distance), **betonen / versichern** (stress / assure)\n- **einräumen / zugeben** (admit), **bestreiten / dementieren** (deny)\n- **warnen / befürchten** (warn / fear), **fordern / verlangen** (demand – often with *müsse* or *solle*)\n\nWithout a verb, the source is named with **laut** + dative („**Laut** der Studie …“), **zufolge** after a noun in the dative („Der Studie **zufolge** …“) or **nach Angaben** + genitive („**Nach Angaben** der Polizei …“). After a **wie** clause the writer accepts the information, so the main clause stays in the indicative: „**Wie** die Polizei **mitteilte**, **wurde** niemand verletzt.“\n\nIn everyday speech, people mostly use the indicative or the Konjunktiv II („Er hat gesagt, er **ist** krank“). That is fine when you speak; in formal writing and in the news, the Konjunktiv I is the standard.",
+      "mdDe": "In Nachrichten, Pressemitteilungen und Protokollen zeigt der Konjunktiv I, dass der Schreiber **berichtet und nicht selbst behauptet**: „Der Sprecher erklärte, die Verhandlungen **seien** gescheitert.“ Das heißt nicht, dass die Aussage falsch ist – nur, dass sie von jemand anderem kommt.\n\nDer berichtete Satz folgt meistens **ohne dass**, mit der Wortstellung eines Hauptsatzes; mit *dass* steht das Verb am Ende: „Sie sagte, sie **habe** keine Zeit.“ = „Sie sagte, dass sie keine Zeit **habe**.“ Weil schon die Verbform die Wiedergabe markiert, kann ein Text mehrere Sätze lang in der indirekten Rede bleiben:\n\n„Die Ministerin verteidigte das neue Gesetz. Es **schütze** vor allem Familien mit kleinen Kindern. Die Kritik der Opposition **halte** sie für unbegründet.“ – die letzten beiden Sätze sind immer noch *ihre* Meinung, nicht die des Journalisten.\n\nDas einleitende Verb hat oft eine eigene Bedeutung – lies es genau:\n\n- **behaupten** (der Schreiber hält Abstand), **betonen / versichern** (hervorheben / zusichern)\n- **einräumen / zugeben** (eingestehen), **bestreiten / dementieren** (abstreiten)\n- **warnen / befürchten** (auf eine Gefahr hinweisen / Angst haben), **fordern / verlangen** (oft mit *müsse* oder *solle*)\n\nOhne Verb nennt man die Quelle mit **laut** + Dativ („**Laut** der Studie …“), mit **zufolge** nach einem Nomen im Dativ („Der Studie **zufolge** …“) oder mit **nach Angaben** + Genitiv („**Nach Angaben** der Polizei …“). Nach einem **wie**-Satz übernimmt der Schreiber die Information, deshalb bleibt der Hauptsatz im Indikativ: „**Wie** die Polizei **mitteilte**, **wurde** niemand verletzt.“\n\nIm Alltag benutzen die meisten Leute den Indikativ oder den Konjunktiv II („Er hat gesagt, er **ist** krank“). Beim Sprechen ist das in Ordnung; in formellen Texten und in den Nachrichten ist der Konjunktiv I der Standard."
+    },
+    {
+      "type": "text",
+      "heading": "Reported questions, requests and the change of perspective",
+      "headingDe": "Indirekte Fragen, Aufforderungen und der Perspektivwechsel",
+      "md": "**Questions** become indirect questions (see „Indirekte Fragen“) with the verb at the end – in the Konjunktiv I:\n\n- W-question: „Wann **beginnt** die Sitzung?“ → Sie fragte, **wann** die Sitzung **beginne**.\n- Yes/no question: „**Gibt** es noch freie Plätze?“ → Er wollte wissen, **ob** es noch freie Plätze **gebe**.\n\n**Requests and instructions** (imperatives) need a modal verb:\n\n- **sollen** for instructions, advice and demands: „Bringen Sie die Unterlagen mit!“ → Sie sagte, ich **solle** die Unterlagen **mitbringen**.\n- **mögen** (Konjunktiv I: *möge*) for polite, formal requests – typical of written reports: „Bitte melden Sie sich bis Freitag.“ → Die Lehrerin bat den Vater, er **möge** sich bis Freitag **melden**.\n- Often shorter: a verb of asking + **zu-infinitive**: „Sie bat mich, die Unterlagen **mitzubringen**.“\n\n**Persons and possessives change** to the reporter's point of view: „**Ich** schicke **Ihnen** morgen **meinen** Bericht.“ → Frau Kern sagte, **sie** schicke **mir** morgen **ihren** Bericht. If you report later or somewhere else, words like *heute, morgen, hier* change too (*an diesem Tag, am nächsten Tag, dort*).",
+      "mdDe": "**Fragen** werden zu indirekten Fragen (siehe „Indirekte Fragen“) mit dem Verb am Ende – im Konjunktiv I:\n\n- W-Frage: „Wann **beginnt** die Sitzung?“ → Sie fragte, **wann** die Sitzung **beginne**.\n- Ja/Nein-Frage: „**Gibt** es noch freie Plätze?“ → Er wollte wissen, **ob** es noch freie Plätze **gebe**.\n\n**Bitten und Aufforderungen** (Imperative) brauchen ein Modalverb:\n\n- **sollen** für Anweisungen, Ratschläge und Forderungen: „Bringen Sie die Unterlagen mit!“ → Sie sagte, ich **solle** die Unterlagen **mitbringen**.\n- **mögen** (Konjunktiv I: *möge*) für höfliche, formelle Bitten – typisch für schriftliche Berichte: „Bitte melden Sie sich bis Freitag.“ → Die Lehrerin bat den Vater, er **möge** sich bis Freitag **melden**.\n- Oft kürzer: ein Verb des Bittens + **Infinitiv mit zu**: „Sie bat mich, die Unterlagen **mitzubringen**.“\n\n**Personen und Possessivartikel ändern sich** und passen sich der Perspektive des Berichtenden an: „**Ich** schicke **Ihnen** morgen **meinen** Bericht.“ → Frau Kern sagte, **sie** schicke **mir** morgen **ihren** Bericht. Wenn du später oder an einem anderen Ort berichtest, ändern sich auch Wörter wie *heute, morgen, hier* (*an diesem Tag, am nächsten Tag, dort*)."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Die Polizei teilte mit, der Fahrer **sei** leicht verletzt **worden**.", "en": "The police said that the driver had been slightly injured." },
+        { "de": "Der Bürgermeister erklärte, die Stadt **müsse** in den nächsten Jahren deutlich mehr Wohnungen bauen.", "en": "The mayor explained that the city had to build considerably more flats in the coming years." },
+        { "de": "Die Forschenden betonen, ihre Ergebnisse **seien** noch nicht endgültig.", "en": "The researchers stress that their results are not yet final." },
+        { "de": "Viele Eltern beklagen, sie **hätten** zu spät von der Schließung **erfahren**.", "en": "Many parents complain that they found out about the closure too late." },
+        { "de": "Der Sprecher räumte ein, man **habe** die Kosten zu niedrig **eingeschätzt**.", "en": "The spokesman admitted that the costs had been underestimated." },
+        { "de": "Die Kundin wollte wissen, **ob** der Preis die Lieferung **einschließe**.", "en": "The customer wanted to know whether the price included delivery." },
+        { "de": "Die Ärztin riet mir, ich **solle** mehr Pausen **machen**.", "en": "The doctor advised me to take more breaks." },
+        { "de": "Die Veranstalter baten, man **möge** die Notausgänge **freihalten**.", "en": "The organisers asked people to keep the emergency exits clear." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In **Hören Teil 1** (the news) and **Lesen Teil 2**, the Konjunktiv I tells you **whose** statement it is. „Der Verband warnt, die neuen Regeln **würden** Arbeitsplätze kosten“ does not say that jobs *will* be lost – only that the association fears it. Check who says what, and whether a verb like *behaupten*, *befürchten* or *bestreiten* changes the meaning – wrong options like to turn a claim into a fact or to swap the speakers.\n\nIn **Sprachbausteine Teil 1** typical options are „sei / ist / wäre“, „habe / hätte / hat“ or „solle / sollte / soll“. Look for a verb of saying, then check person and number: a singular subject takes *sei / habe*, a plural subject *seien / hätten*.\n\nIn **Sprechen Teil 2** you summarise a newspaper article: „Der Autor ist der Meinung, das Verbot **sei** kaum durchsetzbar.“ – „Laut dem Artikel **hätten** viele Städte schon gute Erfahrungen gemacht.“ Two or three correct Konjunktiv I forms show the examiners that you can report at B2 level.",
+      "mdDe": "**In der Prüfung:** In **Hören Teil 1** (Nachrichten) und **Lesen Teil 2** zeigt dir der Konjunktiv I, **wessen** Aussage es ist. „Der Verband warnt, die neuen Regeln **würden** Arbeitsplätze kosten“ sagt nicht, dass Arbeitsplätze verloren gehen *werden* – nur, dass der Verband das befürchtet. Prüf, wer was sagt und ob ein Verb wie *behaupten*, *befürchten* oder *bestreiten* die Bedeutung verändert – falsche Antworten machen gern aus einer Behauptung eine Tatsache oder vertauschen die Sprecher.\n\nIn **Sprachbausteine Teil 1** sind typische Optionen „sei / ist / wäre“, „habe / hätte / hat“ oder „solle / sollte / soll“. Such ein Verb des Sagens und prüf dann Person und Zahl: Ein Subjekt im Singular braucht *sei / habe*, ein Subjekt im Plural *seien / hätten*.\n\nIn **Sprechen Teil 2** fasst du einen Zeitungsartikel zusammen: „Der Autor ist der Meinung, das Verbot **sei** kaum durchsetzbar.“ – „Laut dem Artikel **hätten** viele Städte schon gute Erfahrungen gemacht.“ Zwei oder drei korrekte Formen im Konjunktiv I zeigen den Prüfenden, dass du auf B2-Niveau berichten kannst."
+    },
+    {
+      "type": "warning",
+      "md": "**Three traps:**\n\n1. **No backshift.** „Sie sagte, sie **war** krank“ means she had been ill *before*. For „Ich bin krank“ say: „Sie sagte, sie **sei** krank.“\n2. **Only one past.** Every past tense becomes **habe/sei + Partizip II**: „Er sagte, er **habe** gestern lange **gearbeitet**“ – not *er arbeite gestern* or *er arbeitete gestern*.\n3. **Word order with and without dass.** Without *dass* the verb is in position 2 („…, sie **habe** keine Zeit“); with *dass* it goes to the end („…, dass sie keine Zeit **habe**“). Mixed forms like *…, dass sie habe keine Zeit* are wrong.",
+      "mdDe": "**Drei Fallen:**\n\n1. **Keine Zeitverschiebung.** „Sie sagte, sie **war** krank“ bedeutet, dass sie *vorher* krank war. Für „Ich bin krank“ sagst du: „Sie sagte, sie **sei** krank.“\n2. **Nur eine Vergangenheit.** Jede Vergangenheitszeit wird zu **habe/sei + Partizip II**: „Er sagte, er **habe** gestern lange **gearbeitet**“ – nicht *er arbeite gestern* oder *er arbeitete gestern*.\n3. **Wortstellung mit und ohne dass.** Ohne *dass* steht das Verb auf Position 2 („…, sie **habe** keine Zeit“); mit *dass* steht es am Ende („…, dass sie keine Zeit **habe**“). Mischformen wie *…, dass sie habe keine Zeit* sind falsch."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Herr Lenz sagte am Telefon, er war krank und konnte heute nicht kommen.",
+      "right": "Herr Lenz sagte am Telefon, er sei krank und könne heute nicht kommen.",
+      "why": "German does not shift the tense back after a past introducing verb. „war“ and „konnte“ would describe an earlier time; for his situation at the moment of the call use the Konjunktiv I „sei“ and „könne“.",
+      "whyDe": "Im Deutschen verschiebt man die Zeit nach einem einleitenden Verb in der Vergangenheit nicht. „war“ und „konnte“ würden eine frühere Zeit beschreiben; für seine Situation im Moment des Anrufs nimmst du den Konjunktiv I „sei“ und „könne“."
+    },
+    {
+      "wrong": "Der Zeuge sagte, er sehe den Täter gestern am Bahnhof.",
+      "right": "Der Zeuge sagte, er habe den Täter gestern am Bahnhof gesehen.",
+      "why": "„gestern“ shows a past event. In reported speech the past is always Konjunktiv I of haben/sein + Partizip II: „habe … gesehen“.",
+      "whyDe": "„gestern“ zeigt ein Ereignis in der Vergangenheit. In der indirekten Rede bildest du die Vergangenheit immer mit dem Konjunktiv I von haben/sein + Partizip II: „habe … gesehen“."
+    },
+    {
+      "wrong": "Die Firma teilte mit, dass sie müsse 50 Stellen abbauen.",
+      "right": "Die Firma teilte mit, dass sie 50 Stellen abbauen müsse.",
+      "why": "After „dass“ the conjugated verb goes to the end. Without „dass“ it would be correct in position 2: „…, sie müsse 50 Stellen abbauen.“",
+      "whyDe": "Nach „dass“ steht das konjugierte Verb am Ende. Ohne „dass“ wäre Position 2 richtig: „…, sie müsse 50 Stellen abbauen.“"
+    },
+    {
+      "wrong": "Die Ärztin sagte mir, machen Sie mehr Pausen.",
+      "right": "Die Ärztin sagte mir, ich solle mehr Pausen machen.",
+      "why": "An imperative can't simply be reported. It becomes „sollen“ in the Konjunktiv I (or a zu-infinitive: „Die Ärztin riet mir, mehr Pausen zu machen.“).",
+      "whyDe": "Einen Imperativ kannst du nicht einfach wiedergeben. Er wird zu „sollen“ im Konjunktiv I (oder zu einem Infinitiv mit zu: „Die Ärztin riet mir, mehr Pausen zu machen.“)."
+    },
+    {
+      "wrong": "Frau Kern hat mir gesagt, ich schicke Ihnen morgen meinen Bericht.",
+      "right": "Frau Kern hat mir gesagt, sie schicke mir morgen ihren Bericht.",
+      "why": "The persons change to the reporter's point of view: Frau Kern's „ich“ becomes „sie“, „Ihnen“ becomes „mir“ and „meinen“ becomes „ihren“.",
+      "whyDe": "Die Personen passen sich der Perspektive des Berichtenden an: Aus Frau Kerns „ich“ wird „sie“, aus „Ihnen“ wird „mir“ und aus „meinen“ wird „ihren“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Ein Sprecher der Stadtwerke erklärte, die Störung ___ inzwischen behoben.",
+      "options": ["sei", "seien", "habe"],
+      "answer": 0,
+      "explanation": "„die Störung“ is singular, and „behoben sein“ (the fault is fixed now) needs sein: „sei“. „seien“ is plural, and „habe … behoben“ would mean that the fault itself repaired something.",
+      "explanationDe": "„die Störung“ steht im Singular, und „behoben sein“ (die Störung ist jetzt beseitigt) braucht sein: „sei“. „seien“ ist Plural, und „habe … behoben“ würde bedeuten, dass die Störung selbst etwas repariert hat."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Studierende klagen, sie ___ in der Stadt kaum noch ein bezahlbares Zimmer.",
+      "options": ["fänden", "finde", "fände"],
+      "answer": 0,
+      "explanation": "„sie“ refers to „Studierende“, so you need a plural form. The Konjunktiv I „sie finden“ looks like the indicative, so the Konjunktiv II „fänden“ replaces it. „finde“ and „fände“ are singular.",
+      "explanationDe": "„sie“ bezieht sich auf „Studierende“, du brauchst also eine Pluralform. Der Konjunktiv I „sie finden“ sieht wie der Indikativ aus, deshalb ersetzt ihn der Konjunktiv II „fänden“. „finde“ und „fände“ sind Singular."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Zeugin gab an, sie ___ den Unfall vom Balkon aus beobachtet.",
+      "options": ["habe", "sei", "werde"],
+      "answer": 0,
+      "explanation": "„beobachten“ forms the Perfekt with haben, so the reported past is „habe … beobachtet“. „sei“ is for verbs of movement or change, and „werde … beobachtet“ would be a passive (she is being watched).",
+      "explanationDe": "„beobachten“ bildet das Perfekt mit haben, deshalb heißt die Vergangenheit in der indirekten Rede „habe … beobachtet“. „sei“ passt zu Verben der Bewegung oder Veränderung, und „werde … beobachtet“ wäre Passiv (sie wird beobachtet)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Kursleiter sagte: „Geben Sie die Hausarbeit bis Freitag ab!“ – Er sagte, wir ___ die Hausarbeit bis Freitag abgeben.",
+      "options": ["sollten", "würden", "hätten"],
+      "answer": 0,
+      "explanation": "An imperative becomes „sollen“ in reported speech. The Konjunktiv I „wir sollen“ looks like the indicative, so it's „sollten“. „würden … abgeben“ would report a statement about the future, not an instruction, and „hätten … abgeben“ is not a correct form.",
+      "explanationDe": "Ein Imperativ wird in der indirekten Rede zu „sollen“. Der Konjunktiv I „wir sollen“ sieht wie der Indikativ aus, deshalb heißt es „sollten“. „würden … abgeben“ würde eine Aussage über die Zukunft wiedergeben, keine Anweisung, und „hätten … abgeben“ ist keine korrekte Form."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wie ein Sprecher des Flughafens ___, wurden am Morgen 40 Flüge gestrichen.",
+      "options": ["mitteilte", "mitteile", "mitgeteilt habe"],
+      "answer": 0,
+      "explanation": "A „wie“ clause only names the source, and the writer treats the information as a fact – both clauses stay in the indicative: „Wie … mitteilte, wurden …“. The Konjunktiv I forms don't fit here.",
+      "explanationDe": "Ein „wie“-Satz nennt nur die Quelle, und der Schreiber behandelt die Information als Tatsache – beide Sätze bleiben im Indikativ: „Wie … mitteilte, wurden …“. Die Formen im Konjunktiv I passen hier nicht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Konzern ___, von den Sicherheitsmängeln gewusst zu haben – interne E-Mails belegen jedoch das Gegenteil.",
+      "options": ["bestreitet", "räumt ein", "betont"],
+      "answer": 0,
+      "explanation": "„jedoch das Gegenteil“ shows that the company says it did not know: „bestreiten“ = to deny. With „räumt ein“ (admits) or „betont“ (stresses), the company would say that it knew – then the e-mails would not contradict it.",
+      "explanationDe": "„jedoch das Gegenteil“ zeigt, dass der Konzern sagt, er habe nichts gewusst: „bestreiten“ = abstreiten. Mit „räumt ein“ (gibt zu) oder „betont“ (hebt hervor) würde der Konzern sagen, dass er es wusste – dann würden die E-Mails nicht widersprechen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Anwohner beschweren sich, sie ___ seit drei Wochen kein warmes Wasser.",
+      "hint": "(haben, indirekte Rede)",
+      "answers": ["hätten"],
+      "explanation": "The Konjunktiv I „sie haben“ is identical to the indicative, so the Konjunktiv II „hätten“ replaces it. „würden haben“ is wrong – haben has its own Konjunktiv II.",
+      "explanationDe": "Der Konjunktiv I „sie haben“ ist identisch mit dem Indikativ, deshalb ersetzt ihn der Konjunktiv II „hätten“. „würden haben“ ist falsch – haben hat eine eigene Form im Konjunktiv II."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Firma teilte mit, man ___ wegen der hohen Energiekosten 200 Stellen streichen.",
+      "hint": "(müssen, indirekte Rede)",
+      "answers": ["müsse"],
+      "explanation": "„man“ is 3rd person singular: Konjunktiv I „müsse“ (indicative „muss“). The form is clearly different from the indicative, so it is the right choice for a news text.",
+      "explanationDe": "„man“ ist 3. Person Singular: Konjunktiv I „müsse“ (Indikativ „muss“). Die Form unterscheidet sich deutlich vom Indikativ, deshalb ist sie in einem Nachrichtentext die richtige Wahl."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Sängerin erzählte im Interview, sie ___ als Kind oft bei ihren Großeltern in Graz gewesen.",
+      "hint": "(sein)",
+      "answers": ["sei"],
+      "explanation": "The past in reported speech = Konjunktiv I of the auxiliary + Partizip II. „gewesen“ forms the Perfekt with sein, so it's „sei … gewesen“ – not the indicative „war“.",
+      "explanationDe": "Vergangenheit in der indirekten Rede = Konjunktiv I des Hilfsverbs + Partizip II. „gewesen“ bildet das Perfekt mit sein, also heißt es „sei … gewesen“ – nicht der Indikativ „war“."
+    },
+    {
+      "type": "order",
+      "words": ["teurer", "fragte,", "Projekt", "sei.", "Die", "so", "warum", "geworden", "Journalistin", "viel", "das"],
+      "answers": ["Die Journalistin fragte, warum das Projekt so viel teurer geworden sei."],
+      "explanation": "A reported W-question: „warum“ starts the clause, and the verb goes to the end. The past is „geworden sei“ – Partizip II + Konjunktiv I of sein.",
+      "explanationDe": "Eine indirekte W-Frage: „warum“ leitet den Satz ein, und das Verb steht am Ende. Die Vergangenheit heißt „geworden sei“ – Partizip II + Konjunktiv I von sein."
+    },
+    {
+      "type": "order",
+      "words": ["man", "abholen.", "bat,", "die", "pünktlich", "Die", "möge", "Kinder", "Schulleiterin"],
+      "answers": ["Die Schulleiterin bat, man möge die Kinder pünktlich abholen."],
+      "explanation": "A polite request in reported speech: „man möge“ (Konjunktiv I of mögen) in position 2 of the reported clause, the infinitive „abholen“ at the end.",
+      "explanationDe": "Eine höfliche Bitte in der indirekten Rede: „man möge“ (Konjunktiv I von mögen) steht auf Position 2 des berichteten Satzes, der Infinitiv „abholen“ am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Report the statement in the Konjunktiv I. Start with „Die Pressesprecherin sagte, …“.",
+      "instructionDe": "Gib die Aussage im Konjunktiv I wieder. Beginne mit „Die Pressesprecherin sagte, …“.",
+      "prompt": "Die Pressesprecherin: „Das Museum bleibt wegen Bauarbeiten bis Ende März geschlossen.“",
+      "answers": [
+        "Die Pressesprecherin sagte, das Museum bleibe wegen Bauarbeiten bis Ende März geschlossen.",
+        "Die Pressesprecherin sagte, dass das Museum wegen Bauarbeiten bis Ende März geschlossen bleibe."
+      ],
+      "explanation": "„bleibt“ becomes the Konjunktiv I „bleibe“, which is clearly different from the indicative. Without „dass“, „bleibe“ stays in position 2; with „dass“ it goes to the end.",
+      "explanationDe": "Aus „bleibt“ wird der Konjunktiv I „bleibe“, der sich deutlich vom Indikativ unterscheidet. Ohne „dass“ bleibt „bleibe“ auf Position 2; mit „dass“ steht es am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Report the statement in the Konjunktiv I. Start with „Der Zeuge sagte, …“.",
+      "instructionDe": "Gib die Aussage im Konjunktiv I wieder. Beginne mit „Der Zeuge sagte, …“.",
+      "prompt": "Der Zeuge: „Ich habe den Mann gegen 22 Uhr am Bahnhof gesehen.“",
+      "answers": [
+        "Der Zeuge sagte, er habe den Mann gegen 22 Uhr am Bahnhof gesehen.",
+        "Der Zeuge sagte, dass er den Mann gegen 22 Uhr am Bahnhof gesehen habe."
+      ],
+      "explanation": "„ich“ becomes „er“, and the Perfekt is formed with the Konjunktiv I of haben: „er hat gesehen“ → „er habe … gesehen“.",
+      "explanationDe": "Aus „ich“ wird „er“, und das Perfekt bildest du mit dem Konjunktiv I von haben: „er hat gesehen“ → „er habe … gesehen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Report the question. Start with „Die Kundin fragte, …“.",
+      "instructionDe": "Gib die Frage indirekt wieder. Beginne mit „Die Kundin fragte, …“.",
+      "prompt": "Die Kundin: „Kann ich die Jacke auch in einer anderen Filiale umtauschen?“",
+      "answers": ["Die Kundin fragte, ob sie die Jacke auch in einer anderen Filiale umtauschen könne."],
+      "explanation": "A yes/no question becomes an „ob“ clause with the verb at the end. „ich kann“ becomes „sie könne“ – the person changes and the modal verb takes the Konjunktiv I.",
+      "explanationDe": "Eine Ja/Nein-Frage wird zu einem „ob“-Satz mit dem Verb am Ende. Aus „ich kann“ wird „sie könne“ – die Person ändert sich, und das Modalverb steht im Konjunktiv I."
+    }
+  ],
+  "related": ["konjunktiv-2", "indirekte-fragen", "modalverben", "perfekt", "konjunktiv-2-vergangenheit", "vermutungen", "irreale-vergleichssaetze", "passiv-b2", "infinitivsaetze-b2"]
+}

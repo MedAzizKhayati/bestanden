@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-08",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Was die Schlafforschung über guten Schlaf weiß",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "article": {
+    "headline": "Acht Stunden sind kein Gesetz: Was die Schlafforschung über erholsame Nächte weiß",
+    "lead": "Schlaftracker, Spezialkissen und Einschlaf-Apps versprechen ungestörte Nachtruhe. Die Wissenschaft setzt andere Schwerpunkte – und räumt dabei mit manchem hartnäckigen Mythos auf.",
+    "paragraphs": [
+      "Laut dem aktuellen Schlafreport der Hanseatischen Krankenkasse klagt etwa jeder dritte Erwachsene regelmäßig über Ein- oder Durchschlafprobleme, und entsprechend floriert das Geschäft mit dem guten Schlaf. Allein der Markt für Schlaftracker, also Armbänder und Ringe, die nächtliche Schlafphasen aufzeichnen sollen, wächst seit Jahren zweistellig. Doch was weiß die Forschung tatsächlich darüber, was eine erholsame Nacht ausmacht?",
+      "Zunächst einmal räumt sie mit einer verbreiteten Faustregel auf. Einen allgemeingültigen Idealwert von acht Stunden gebe es nicht, erklärt Lorenz Wiedemeier, Leiter des Freiburger Instituts für Chronobiologie und Schlafmedizin. Der individuelle Schlafbedarf gesunder Erwachsener schwanke zwischen sechs und neun Stunden und sei zu einem erheblichen Teil genetisch festgelegt. Weitaus bedeutsamer als die bloße Dauer sei die Regelmäßigkeit. In einer dreijährigen Langzeitstudie seines Instituts mit 2.400 Teilnehmenden schnitten Personen mit stark schwankenden Schlafzeiten bei Konzentrations- und Gedächtnistests schlechter ab als solche, die zwar kürzer, aber zu stets gleichen Zeiten schliefen.",
+      "Eng damit verbunden ist der sogenannte Chronotyp. Ob jemand zu den frühaktiven „Lerchen“ oder zu den abendaktiven „Eulen“ gehört, lässt sich nach heutigem Kenntnisstand nur begrenzt beeinflussen. Müssen Eulen wegen ihres Arbeitsbeginns früh aufstehen, entsteht ein Schlafdefizit, das viele am Wochenende auszugleichen versuchen. Das ausgedehnte Ausschlafen verschafft zwar kurzfristig Erleichterung, verschiebt den inneren Rhythmus jedoch weiter nach hinten, sodass das Aufstehen am Montag umso schwerer fällt. Fachleute sprechen in diesem Zusammenhang von einem „sozialen Jetlag“.",
+      "Skeptisch beurteilt Wiedemeier auch den Boom der Schlaftracker. Die meisten Geräte erfassten nicht etwa die Hirnströme, die im Schlaflabor gemessen werden, sondern lediglich Bewegungen und Pulsschlag, aus denen sie die Schlafphasen nur grob errechneten. Problematischer findet er jedoch einen anderen Effekt: In seiner Sprechstunde begegneten ihm zunehmend Menschen, die erst durch die ständige Auswertung ihrer Daten in Sorge gerieten und gerade deshalb schlechter schliefen. Für die Erforschung der Schlafgewohnheiten großer Bevölkerungsgruppen seien die Geräte dagegen durchaus nützlich, räumt er ein.",
+      "Wer dauerhaft unter Schlaflosigkeit leidet, greift häufig zu Schlafmitteln. Diese seien allenfalls für wenige Tage vertretbar, betont die Münchner Schlafpsychologin Selma Kaya, da sie rasch abhängig machen könnten. Als Behandlung der ersten Wahl gilt inzwischen eine spezielle Verhaltenstherapie, deren zentraler Baustein zunächst paradox erscheint: Die Betroffenen verbringen anfangs bewusst weniger Zeit im Bett, damit sich ein stärkerer Schlafdruck aufbaut. Wer nach etwa zwanzig Minuten nicht einschlafen kann, soll außerdem aufstehen, statt sich grübelnd hin und her zu wälzen. „Das Bett soll wieder mit Schlafen verknüpft werden, nicht mit Wachliegen“, erklärt Kaya.",
+      "Auch bei alltäglichen Ratschlägen hat sich der Blick der Forschung verschoben. Lange galt das blaue Licht von Smartphone-Displays als Hauptursache für verzögertes Einschlafen. Neuere Untersuchungen deuten jedoch darauf hin, dass dieser Effekt bei üblicher Nutzungsdauer eher gering ist; weitaus stärker wachhaltend wirken aufregende Inhalte wie Nachrichten, Diskussionen in sozialen Netzwerken oder spannende Serien. Mindestens ebenso wichtig ist ausreichend Tageslicht am Morgen, das die innere Uhr stabilisiert. Und wer abends zum Glas Wein greift, schläft zwar oft schneller ein, wacht in der zweiten Nachthälfte aber häufiger auf.",
+      "Den wichtigsten Rat hebt sich Wiedemeier bis zum Schluss auf: mehr Gelassenheit. Gelegentliche schlechte Nächte seien völlig normal und würden vom Körper in aller Regel problemlos ausgeglichen. „Wer jede unruhige Nacht als Alarmsignal versteht, setzt sich unter Druck – und genau dieser Druck ist einer der zuverlässigsten Schlafräuber“, sagt er."
+    ],
+    "source": "Medizin aktuell – Das Gesundheitsmagazin für die ganze Familie"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Aus der Langzeitstudie des Freiburger Instituts geht hervor, dass …",
+      "options": [
+        { "key": "a", "text": "gesunde Erwachsene in der Regel mindestens acht Stunden Schlaf benötigen." },
+        { "key": "b", "text": "ein gleichmäßiger Schlafrhythmus wichtiger ist als eine möglichst lange Nachtruhe." },
+        { "key": "c", "text": "Menschen mit kurzer Schlafdauer bei Gedächtnistests am schlechtesten abschneiden." }
+      ],
+      "answer": "b",
+      "explanation": "People with irregular sleeping times did worse „als solche, die zwar kürzer, aber zu stets gleichen Zeiten schliefen“ – regularity matters more than length, so (b). Wiedemeier says there is no „allgemeingültigen Idealwert von acht Stunden“; the need varies between six and nine hours (a). (c) reverses the result: the short but regular sleepers did better than the irregular ones.",
+      "explanationDe": "Wer unregelmäßig schlief, schnitt schlechter ab „als solche, die zwar kürzer, aber zu stets gleichen Zeiten schliefen“ – Regelmäßigkeit ist also wichtiger als die Dauer (b). Einen „allgemeingültigen Idealwert von acht Stunden“ gibt es laut Wiedemeier nicht; der Bedarf liegt zwischen sechs und neun Stunden (a). (c) dreht das Ergebnis um: Wer kürzer, aber regelmäßig schlief, war besser als die Unregelmäßigen.",
+      "evidence": "schnitten Personen mit stark schwankenden Schlafzeiten bei Konzentrations- und Gedächtnistests schlechter ab als solche, die zwar kürzer, aber zu stets gleichen Zeiten schliefen"
+    },
+    {
+      "n": 2,
+      "stem": "Wer am Wochenende ausschläft, um versäumten Schlaf nachzuholen, …",
+      "options": [
+        { "key": "a", "text": "bringt dadurch seine innere Uhr zusätzlich aus dem Takt." },
+        { "key": "b", "text": "kann das Schlafdefizit der Arbeitswoche auf diese Weise vollständig ausgleichen." },
+        { "key": "c", "text": "gehört nach Auffassung der Forschung meistens zu den sogenannten Lerchen." }
+      ],
+      "answer": "a",
+      "explanation": "Sleeping in brings short-term relief but „verschiebt den inneren Rhythmus jedoch weiter nach hinten“ – it disturbs the body clock even more, so (a). The relief is only „kurzfristig“, and Monday morning becomes harder, so the deficit is not made up (b). The people with the deficit are the „Eulen“ who have to get up early, not the larks (c).",
+      "explanationDe": "Ausschlafen bringt zwar kurz Erleichterung, „verschiebt den inneren Rhythmus jedoch weiter nach hinten“ – die innere Uhr gerät noch mehr durcheinander, also (a). Die Erleichterung ist nur „kurzfristig“, und am Montag fällt das Aufstehen noch schwerer – das Defizit wird also nicht ausgeglichen (b). Das Schlafdefizit haben die „Eulen“, die früh aufstehen müssen, nicht die Lerchen (c).",
+      "evidence": "verschiebt den inneren Rhythmus jedoch weiter nach hinten"
+    },
+    {
+      "n": 3,
+      "stem": "Lorenz Wiedemeier sieht Schlaftracker kritisch, unter anderem weil …",
+      "options": [
+        { "key": "a", "text": "sie zur Messung des Schlafs vor allem die Hirnströme auswerten." },
+        { "key": "b", "text": "sie sich für die Untersuchung großer Bevölkerungsgruppen kaum eignen." },
+        { "key": "c", "text": "manche Menschen gerade durch die Beschäftigung mit ihren Messwerten schlechter schlafen." }
+      ],
+      "answer": "c",
+      "explanation": "He meets more and more people „die erst durch die ständige Auswertung ihrer Daten in Sorge gerieten und gerade deshalb schlechter schliefen“ – so (c). The devices do not analyse brain waves at all („nicht etwa die Hirnströme“), only movement and pulse (a). For research on large population groups he calls them „durchaus nützlich“ (b).",
+      "explanationDe": "Er trifft immer mehr Menschen, „die erst durch die ständige Auswertung ihrer Daten in Sorge gerieten und gerade deshalb schlechter schliefen“ – also (c). Die Geräte messen „nicht etwa die Hirnströme“, sondern nur Bewegungen und Puls – Hirnströme werten sie also gar nicht aus (a). Für die Erforschung großer Bevölkerungsgruppen sind sie laut Wiedemeier „durchaus nützlich“ (b).",
+      "evidence": "die erst durch die ständige Auswertung ihrer Daten in Sorge gerieten und gerade deshalb schlechter schliefen"
+    },
+    {
+      "n": 4,
+      "stem": "Bei der Behandlung anhaltender Schlafstörungen setzt die Psychologin Selma Kaya darauf, dass die Betroffenen …",
+      "options": [
+        { "key": "a", "text": "die Zeit, die sie im Bett verbringen, zunächst gezielt verkürzen." },
+        { "key": "b", "text": "vor Beginn der Therapie über mehrere Wochen ein Schlafmittel einnehmen." },
+        { "key": "c", "text": "auch bei längerem Wachliegen im Bett bleiben, bis sie wieder einschlafen." }
+      ],
+      "answer": "a",
+      "explanation": "„Die Betroffenen verbringen anfangs bewusst weniger Zeit im Bett, damit sich ein stärkerer Schlafdruck aufbaut“ – so (a). Sleeping pills are acceptable „allenfalls für wenige Tage“ because they can be addictive (b). Whoever cannot fall asleep after about twenty minutes „soll … aufstehen“ (c).",
+      "explanationDe": "„Die Betroffenen verbringen anfangs bewusst weniger Zeit im Bett, damit sich ein stärkerer Schlafdruck aufbaut“ – also (a). Schlafmittel sind „allenfalls für wenige Tage“ vertretbar, weil sie abhängig machen können (b). Wer nach etwa zwanzig Minuten nicht einschläft, „soll … aufstehen“ (c).",
+      "evidence": "Die Betroffenen verbringen anfangs bewusst weniger Zeit im Bett, damit sich ein stärkerer Schlafdruck aufbaut"
+    },
+    {
+      "n": 5,
+      "stem": "Was den Abend vor dem Schlafengehen betrifft, weiß die Forschung heute, dass …",
+      "options": [
+        { "key": "a", "text": "vor allem das blaue Licht von Smartphones das Einschlafen verzögert." },
+        { "key": "b", "text": "spannende Nachrichten und Serien stärker wach halten als das Licht der Displays." },
+        { "key": "c", "text": "ein Glas Wein die Nachtruhe insgesamt verbessert, weil man rascher einschläft." }
+      ],
+      "answer": "b",
+      "explanation": "Newer studies show that „weitaus stärker wachhaltend wirken aufregende Inhalte“ such as news or exciting series – more than the light, so (b). Blue light was long seen as the main cause, but its effect is now considered „eher gering“ (a). With wine you fall asleep faster („zwar oft schneller ein“), but you wake up more often in the second half of the night, so it does not improve sleep (c).",
+      "explanationDe": "Neuere Untersuchungen zeigen: „weitaus stärker wachhaltend wirken aufregende Inhalte“ wie Nachrichten oder spannende Serien – stärker als das Licht, also (b). Das blaue Licht galt lange als Hauptursache, sein Effekt ist aber „eher gering“ (a). Mit Wein schläft man „zwar oft schneller ein“, wacht aber in der zweiten Nachthälfte häufiger auf – der Schlaf wird also nicht besser (c).",
+      "evidence": "weitaus stärker wachhaltend wirken aufregende Inhalte wie Nachrichten, Diskussionen in sozialen Netzwerken oder spannende Serien"
+    }
+  ],
+  "glossary": [
+    { "de": "der Schlaftracker", "en": "sleep tracker (device that records sleep)" },
+    { "de": "die Faustregel", "en": "rule of thumb" },
+    { "de": "schwanken", "en": "to vary, to fluctuate" },
+    { "de": "ausschlafen", "en": "to sleep in, to have a lie-in" },
+    { "de": "das Schlafdefizit", "en": "sleep deficit, lack of sleep" },
+    { "de": "die Hirnströme (Pl.)", "en": "brain waves" },
+    { "de": "einräumen", "en": "to concede, to admit" },
+    { "de": "vertretbar", "en": "justifiable, acceptable" },
+    { "de": "der Schlafdruck", "en": "sleep pressure (the body's growing need for sleep)" },
+    { "de": "sich hin und her wälzen", "en": "to toss and turn" },
+    { "de": "grübeln", "en": "to brood, to ruminate" },
+    { "de": "die Gelassenheit", "en": "calmness, composure" }
+  ]
+}

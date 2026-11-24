@@ -1,0 +1,60 @@
+{
+  "id": "schreiben-16",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Ehrenamt im Tierheim",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Anfrage",
+  "situation": "Sie sind vor Kurzem nach Innsbruck gezogen und möchten sich in Ihrer Freizeit ehrenamtlich engagieren. Auf der Internetseite eines Tierheims haben Sie folgende Anzeige gefunden. Schreiben Sie eine Anfrage an das Tierheim.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Tierheim Sonnenhang Innsbruck – Ehrenamtliche gesucht!\n\nRund 150 Hunde, Katzen und Kleintiere warten bei uns auf ein neues Zuhause – und bis dahin auf Menschen, die ihnen Zeit schenken. Werden Sie Teil unseres Teams!\n\nWir suchen Unterstützung\n• beim Gassigehen mit unseren Hunden (auch am Wochenende)\n• bei der Pflege und Beschäftigung von Katzen und Kaninchen\n• bei der Organisation von Flohmärkten und Infoständen\n\nWir bieten\n• eine kostenlose Einführungsschulung\n• feste Ansprechpersonen und flexible Einsatzzeiten\n• die Erstattung Ihrer Fahrtkosten\n\nVoraussetzungen: Mindestalter 16 Jahre, mindestens zwei Stunden Zeit pro Woche\n\nKontakt: Mag. Sabine Hollerer, Koordination Ehrenamt\nehrenamt@tierheim-sonnenhang.at · Tel. 0512 48 27 90"
+  },
+  "leitpunkte": [
+    "Legen Sie dar, wann und wie oft Sie Zeit für die Mitarbeit hätten.",
+    "Stellen Sie weitere Fragen zur Einführungsschulung und zu den Aufgaben.",
+    "Beschreiben Sie, welche Erfahrungen Sie mit Tieren haben.",
+    "Erläutern Sie, warum Sie sich gerade in einem Tierheim engagieren möchten."
+  ],
+  "model": {
+    "subject": "Anfrage: ehrenamtliche Mitarbeit im Tierheim Sonnenhang",
+    "text": "Sehr geehrte Frau Mag. Hollerer,\n\nmit großem Interesse habe ich auf Ihrer Internetseite gelesen, dass Sie ehrenamtliche Helferinnen und Helfer suchen. Da ich mich gern bei Ihnen engagieren würde, möchte ich mich kurz vorstellen und Ihnen einige Fragen stellen.\n\nVor drei Monaten bin ich aus beruflichen Gründen nach Innsbruck gezogen. Weil ich in meiner Mietwohnung leider keine Haustiere halten darf, suche ich eine sinnvolle Möglichkeit, trotzdem regelmäßig mit Tieren zu tun zu haben. Außerdem bin ich der Meinung, dass man sich für diejenigen einsetzen sollte, die sich selbst nicht helfen können.\n\nErfahrung mit Tieren habe ich durchaus: Meine Eltern hatten zwei Hunde, um die ich mich jahrelang mitgekümmert habe. Während meines Studiums in Salzburg habe ich zudem ein Jahr lang in einer Katzenpension ausgeholfen. Dort habe ich vor allem gelernt, wie man mit ängstlichen Tieren geduldig umgeht.\n\nBevor ich mich verbindlich anmelde, hätte ich allerdings noch einige Fragen. Wie lange dauert die Einführungsschulung, und wann findet die nächste statt? Darf man sich als Neuling auch schon um größere Hunde kümmern, oder wird man zunächst bei den Kleintieren eingesetzt? Schließlich würde mich interessieren, ob ich mich später auch an der Organisation der Flohmärkte beteiligen könnte, da ich beruflich im Veranstaltungsbereich tätig bin.\n\nIch würde mich freuen, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\nLukas Brenner"
+  },
+  "modelNotes": [
+    "The model covers three points: why the writer wants to volunteer in an animal shelter (no pets allowed in his flat, helping those who cannot help themselves), his experience with animals (the family dogs, a cattery) and further questions about the training and the tasks. When and how often he has time is left out.",
+    "In Austria, academic titles are part of the salutation: „Sehr geehrte Frau Mag. Hollerer“. If the ad gives no name, write „Sehr geehrte Damen und Herren“.",
+    "Every point is backed up with concrete details. This makes the text credible and shows the differentiated position the rubric asks for at B2.",
+    "The last question is linked to the writer's job („da ich beruflich im Veranstaltungsbereich tätig bin“) – a smart way to turn a simple question into a developed point.",
+    "B2 structures: „diejenigen, die …“, a relative clause with a preposition („um die ich mich … mitgekümmert habe“), a passive question („wird man … eingesetzt“) and Konjunktiv II („hätte“, „würde mich interessieren“, „könnte“)."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: warum der Schreiber sich gerade in einem Tierheim engagieren möchte (keine Haustiere in der Mietwohnung erlaubt, Hilfe für alle, die sich selbst nicht helfen können), welche Erfahrungen er mit Tieren hat (die Hunde der Familie, eine Katzenpension) und weitere Fragen zur Schulung und zu den Aufgaben. Wann und wie oft er Zeit hat, lässt er weg.",
+    "In Österreich gehören akademische Titel in die Anrede: „Sehr geehrte Frau Mag. Hollerer“. Wenn die Anzeige keinen Namen nennt, schreibst du „Sehr geehrte Damen und Herren“.",
+    "Jeder Punkt wird mit konkreten Details gestützt. So wirkt der Text glaubwürdig und zeigt die differenzierte Position, die die Bewertung auf B2 verlangt.",
+    "Die letzte Frage ist mit dem Beruf des Schreibers verbunden („da ich beruflich im Veranstaltungsbereich tätig bin“) – so wird aus einer einfachen Frage ein ausgebauter Punkt.",
+    "B2-Strukturen: „diejenigen, die …“, ein Relativsatz mit Präposition („um die ich mich … mitgekümmert habe“), eine Frage im Passiv („wird man … eingesetzt“) und Konjunktiv II („hätte“, „würde mich interessieren“, „könnte“)."
+  ],
+  "phrases": [
+    { "de": "Mit großem Interesse habe ich gelesen, dass …", "en": "I read with great interest that …" },
+    { "de": "Ich würde mich gern bei Ihnen engagieren.", "en": "I would like to volunteer with you." },
+    { "de": "Ich bin der Meinung, dass man sich für diejenigen einsetzen sollte, die …", "en": "I believe one should stand up for those who …" },
+    { "de": "Erfahrung mit … habe ich durchaus: …", "en": "I do have experience with …: …" },
+    { "de": "Dort habe ich gelernt, wie man mit … umgeht.", "en": "There I learned how to deal with …" },
+    { "de": "Bevor ich mich verbindlich anmelde, hätte ich noch einige Fragen.", "en": "Before I sign up for good, I would have a few more questions." },
+    { "de": "Darf man sich als Neuling auch schon um … kümmern?", "en": "Can newcomers already look after …?" },
+    { "de": "…, da ich beruflich im … tätig bin.", "en": "…, as I work in … professionally." },
+    { "de": "Ich würde mich freuen, bald von Ihnen zu hören.", "en": "I would be glad to hear from you soon." }
+  ],
+  "glossary": [
+    { "de": "ehrenamtlich", "en": "voluntary, unpaid" },
+    { "de": "sich engagieren", "en": "to get involved, to volunteer" },
+    { "de": "das Gassigehen", "en": "walking dogs" },
+    { "de": "die Einführungsschulung", "en": "induction training" },
+    { "de": "die Ansprechperson", "en": "contact person" },
+    { "de": "die Katzenpension", "en": "cattery (boarding for cats)" },
+    { "de": "der Neuling", "en": "newcomer" },
+    { "de": "verbindlich", "en": "binding, for certain" }
+  ]
+}

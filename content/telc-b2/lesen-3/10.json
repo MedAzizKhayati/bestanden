@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-10",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Nachhaltig leben in Nürnberg",
+  "topic": "umwelt",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ein Freund möchte für seine Gartenparty mehrere schwere Getränkekisten transportieren, besitzt aber kein Auto.",
+      "answer": "d",
+      "explanation": "He needs a way to carry heavy crates without a car. Lastenrad „Fritz“ (d) lends cargo bikes free of charge for „schwere Einkäufe für ein Fest“ – „ohne Auto“. The Leihladen (e) is tempting because it lends „Partyzelte“, but it does not lend „Fahrräder“ and offers nothing for transport.",
+      "explanationDe": "Dein Freund braucht ein Transportmittel ohne Auto. Lastenrad „Fritz“ (d) verleiht kostenlos Lastenräder für „schwere Einkäufe für ein Fest“ – „ohne Auto“. Der Leihladen (e) lockt mit „Partyzelte“, verleiht aber keine „Fahrräder“ und hilft beim Transport nicht."
+    },
+    {
+      "n": 2,
+      "text": "Ihre Nachbarn, die einen staatlichen Mietzuschuss erhalten, wollen ihre Wohnung gratis vor Ort energetisch überprüfen lassen.",
+      "answer": "g",
+      "explanation": "„einen staatlichen Mietzuschuss erhalten“ means receiving „Wohngeld“. EnergieKlar (g) checks „Fenster, Heizung und Stromverbrauch vor Ort“, and this check is free for „Haushalte, die Wohngeld oder Bürgergeld beziehen“. The solar workshop (h) explicitly offers no „individuelle Beratung bei Ihnen zu Hause“.",
+      "explanationDe": "Mit einem „staatlichen Mietzuschuss“ ist hier „Wohngeld“ gemeint. EnergieKlar (g) prüft „Fenster, Heizung und Stromverbrauch vor Ort“, und für „Haushalte, die Wohngeld oder Bürgergeld beziehen“, ist dieser Check kostenlos. Der Solar-Workshop (h) bietet ausdrücklich keine „individuelle Beratung bei Ihnen zu Hause“ an."
+    },
+    {
+      "n": 3,
+      "text": "Ein Kollege möchte seine defekte Waschmaschine reparieren lassen und dafür einen städtischen Zuschuss bekommen.",
+      "answer": "c",
+      "explanation": "Only Hausgeräte-Service Brandl (c) repairs „Großgeräte“ such as a „Waschmaschine“, and through the „Reparaturbonus“ the city pays „die Hälfte der Rechnung“. The Repair-Café (a) is free, but it does not accept „Großgeräte wie Waschmaschinen oder Kühlschränke“.",
+      "explanationDe": "Nur der Hausgeräte-Service Brandl (c) repariert „Großgeräte“ wie eine „Waschmaschine“, und mit dem „Reparaturbonus“ übernimmt die Stadt „die Hälfte der Rechnung“. Das Repair-Café (a) ist zwar kostenlos, nimmt aber keine „Großgeräte wie Waschmaschinen oder Kühlschränke“ an."
+    },
+    {
+      "n": 4,
+      "text": "Ihr Onkel möchte sich für ein paar Tage einen Rasenmäher ausleihen, anstatt selbst einen zu kaufen.",
+      "answer": "x",
+      "explanation": "The Leihladen (e) works on the principle „Leihen statt kaufen“, but it says: „Fahrräder und motorbetriebene Geräte wie Rasenmäher verleihen wir aus Versicherungsgründen leider nicht.“ No other text lends garden machines, so x.",
+      "explanationDe": "Der Leihladen (e) arbeitet nach dem Motto „Leihen statt kaufen“, schreibt aber: „Fahrräder und motorbetriebene Geräte wie Rasenmäher verleihen wir aus Versicherungsgründen leider nicht.“ Kein anderer Text verleiht Gartengeräte, also x."
+    },
+    {
+      "n": 5,
+      "text": "Ihre Nachbarin sucht für ihren zehnjährigen Sohn ein mehrtägiges Umweltprogramm in den Sommerferien.",
+      "answer": "l",
+      "explanation": "„Junge Klimaforscher“ (l) runs five-day courses for „Kinder zwischen acht und zwölf Jahren“ in the „Sommerferien“. The clean-up campaign (k) has a group for „Kinder unter zwölf Jahren“, but it takes place on a single Saturday morning „im März und im Oktober“.",
+      "explanationDe": "„Junge Klimaforscher“ (l) bietet fünftägige Kurse für „Kinder zwischen acht und zwölf Jahren“ in den „Sommerferien“ an. Die Müllsammelaktion (k) hat zwar eine Gruppe für „Kinder unter zwölf Jahren“, findet aber nur an einem Samstagvormittag „im März und im Oktober“ statt."
+    },
+    {
+      "n": 6,
+      "text": "Ihre Kollegin möchte unter fachkundiger Anleitung ihr Fahrrad selbst reparieren, hat aber nur abends Zeit.",
+      "answer": "b",
+      "explanation": "At „Kettenblatt“ (b) „Erfahrene Ehrenamtliche erklären Ihnen jeden Handgriff“, and it is open „dienstags und donnerstags von 17 bis 21 Uhr“. The Repair-Café (a) also helps you repair things yourself, but only on Saturday afternoons („zwischen 14 und 17 Uhr“) and for appliances and clothes, not bikes.",
+      "explanationDe": "Bei „Kettenblatt“ (b) gilt: „Erfahrene Ehrenamtliche erklären Ihnen jeden Handgriff“, und die Werkstatt hat „dienstags und donnerstags von 17 bis 21 Uhr“ geöffnet. Auch im Repair-Café (a) reparierst du selbst, aber nur samstagnachmittags („zwischen 14 und 17 Uhr“) und nur Geräte und Kleidung, keine Fahrräder."
+    },
+    {
+      "n": 7,
+      "text": "Ihre Mutter möchte ihren Balkon insektenfreundlich bepflanzen und sucht dafür eine kostenlose persönliche Beratung.",
+      "answer": "i",
+      "explanation": "The Naturgarten-Sprechstunde (i) helps to turn „Ihren Balkon“ into a paradise „für Wildbienen, Schmetterlinge und Vögel“, explains „welche heimischen Pflanzen sich eignen“, and „die Beratung ist kostenlos“. The solar workshop (h) is also about balconies, but about electricity, and it costs „10 Euro“.",
+      "explanationDe": "Die Naturgarten-Sprechstunde (i) hilft, „Ihren Balkon“ in ein Paradies „für Wildbienen, Schmetterlinge und Vögel“ zu verwandeln, erklärt, „welche heimischen Pflanzen sich eignen“, und „die Beratung ist kostenlos“. Im Solar-Workshop (h) geht es auch um den Balkon, aber um Strom – und er kostet „10 Euro“."
+    },
+    {
+      "n": 8,
+      "text": "Ihre Schwester braucht für ein verlängertes Wochenende am See ein Zelt, möchte aber keines kaufen.",
+      "answer": "e",
+      "explanation": "The Leihladen (e) lends „Campingausrüstung“, and members can borrow items „jeweils bis zu einer Woche“ – enough for a long weekend. „Fritz“ (d) also lends things, but only cargo bikes.",
+      "explanationDe": "Der Leihladen (e) verleiht „Campingausrüstung“, und Mitglieder können Dinge „jeweils bis zu einer Woche“ ausleihen – das reicht für ein langes Wochenende. Bei „Fritz“ (d) kann man auch etwas leihen, aber nur Lastenräder."
+    },
+    {
+      "n": 9,
+      "text": "Ein Bekannter, der zur Miete wohnt, möchte bei einer Abendveranstaltung lernen, wie man auf dem Balkon Solarstrom erzeugt.",
+      "answer": "h",
+      "explanation": "The workshop (h) explains how „auch Mieterinnen und Mieter“ can produce electricity with a „Solarmodul auf dem Balkon“; it takes place „jeden zweiten Dienstag um 18.30 Uhr“. EnergieKlar (g) gives individual advice „am Telefon oder per Video“ or at home – it is not an evening event and not about balcony modules.",
+      "explanationDe": "Der Workshop (h) erklärt, wie „auch Mieterinnen und Mieter“ mit einem „Solarmodul auf dem Balkon“ Strom erzeugen können, und zwar „jeden zweiten Dienstag um 18.30 Uhr“. EnergieKlar (g) berät einzeln „am Telefon oder per Video“ oder zu Hause – das ist keine Abendveranstaltung und hat nichts mit Balkonmodulen zu tun."
+    },
+    {
+      "n": 10,
+      "text": "Ein Student ohne Gartenerfahrung möchte gemeinsam mit anderen Gemüse anbauen, ohne dafür Beiträge zu zahlen.",
+      "answer": "j",
+      "explanation": "In the community garden „Wurzelwerk“ (j) vegetables grow in shared beds, „Vorkenntnisse braucht man keine“ and „Einen Mitgliedsbeitrag erheben wir nicht“. The Naturgarten-Sprechstunde (i) only gives advice, and the Leihladen (e) charges a „Jahresbeitrag“.",
+      "explanationDe": "Im Gemeinschaftsgarten „Wurzelwerk“ (j) wächst Gemüse in gemeinsamen Beeten, „Vorkenntnisse braucht man keine“, und „Einen Mitgliedsbeitrag erheben wir nicht“. Die Naturgarten-Sprechstunde (i) gibt nur Tipps, und der Leihladen (e) verlangt einen „Jahresbeitrag“."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Repair-Café Gostenhof",
+      "subheading": "Wegwerfen? Nicht mit uns!",
+      "lines": [],
+      "text": "Jeden ersten Samstag im Monat verwandelt sich der Gemeindesaal der Martinskirche in eine offene Werkstatt. Ehrenamtliche Elektriker, Schneiderinnen und Bastler helfen Ihnen dabei, defekte Toaster, Lampen, Radios oder Kleidungsstücke selbst wieder instand zu setzen. Eine Anmeldung ist nicht nötig; bringen Sie Ihren Gegenstand einfach zwischen 14 und 17 Uhr vorbei. Die Hilfe ist kostenlos, über eine Spende für Ersatzteile und Kaffee freuen wir uns aber. Bitte beachten Sie, dass wir aus Sicherheitsgründen keine Großgeräte wie Waschmaschinen oder Kühlschränke annehmen und keine Garantie für den Erfolg einer Reparatur übernehmen können.",
+      "footer": "Gemeindesaal der Martinskirche, Kernweg 12 · www.repaircafe-gostenhof.de"
+    },
+    {
+      "key": "b",
+      "heading": "Fahrradwerkstatt „Kettenblatt“",
+      "subheading": "Selbst schrauben statt bezahlen",
+      "lines": [],
+      "text": "In unserer Selbsthilfewerkstatt im Jugendzentrum Südstadt finden Sie alles, was Sie brauchen, um Ihr Fahrrad wieder in Schuss zu bringen: Montageständer, Spezialwerkzeug und gebrauchte Ersatzteile zum Selbstkostenpreis. Erfahrene Ehrenamtliche erklären Ihnen jeden Handgriff, die Arbeit erledigen Sie allerdings selbst – ein Reparaturservice sind wir nicht. Geöffnet ist dienstags und donnerstags von 17 bis 21 Uhr. Für die Nutzung der Werkstatt bitten wir um 3 Euro pro Besuch; Jugendliche unter 18 Jahren sind kostenlos dabei. Einmal im Monat bieten wir außerdem einen Einsteigerkurs zum Thema „Reifen flicken und Bremsen einstellen“ an.",
+      "footer": "Jugendzentrum Südstadt, Lindenhofweg 7"
+    },
+    {
+      "key": "c",
+      "heading": "Hausgeräte-Service Brandl",
+      "subheading": "Ihr Meisterbetrieb seit 1987",
+      "lines": [],
+      "text": "Ihre Waschmaschine pumpt nicht mehr ab, der Geschirrspüler bleibt kalt? Unsere Techniker kommen innerhalb von 48 Stunden zu Ihnen nach Hause und reparieren Großgeräte aller gängigen Marken – auch wenn diese schon älter als zehn Jahre sind. Vorab erhalten Sie einen verbindlichen Kostenvoranschlag. Lohnt sich eine Reparatur nicht mehr, beraten wir Sie ehrlich zu sparsamen Neugeräten. Gut zu wissen: Seit diesem Jahr übernimmt die Stadt im Rahmen des Reparaturbonus die Hälfte der Rechnung, höchstens jedoch 100 Euro, sofern Sie Ihren Hauptwohnsitz in Nürnberg haben. Den Antrag füllen wir gern gemeinsam mit Ihnen aus.",
+      "footer": "Tel. 0911 4471230 · www.brandl-hausgeraete.de"
+    },
+    {
+      "key": "d",
+      "heading": "Lastenrad „Fritz“",
+      "subheading": "Freie Fahrt für schwere Lasten",
+      "lines": [],
+      "text": "Sie wollen den Wocheneinkauf, schwere Einkäufe für ein Fest oder sogar Ihre Kinder ohne Auto transportieren? Dann leihen Sie sich eines unserer sechs Lastenräder aus. Die Ausleihe ist kostenlos und funktioniert ganz einfach: online einen freien Zeitraum wählen, das Rad an einer unserer Stationen – etwa im Bioladen am Plärrer oder in der Stadtteilbibliothek Nord – abholen und dort auch wieder zurückgeben. Ein Rad kann für höchstens drei Tage am Stück gebucht werden. Bei der Abholung zeigen Sie bitte Ihren Personalausweis vor. Kindersitze und Regenverdecke sind an allen Rädern montiert. Mit einer Spende helfen Sie uns, Wartung und Versicherung zu finanzieren.",
+      "footer": "Buchung: www.fritz-lastenrad.de"
+    },
+    {
+      "key": "e",
+      "heading": "Leihladen Nordstadt",
+      "subheading": "Leihen statt kaufen",
+      "lines": [],
+      "text": "Eine Bohrmaschine, die die meiste Zeit im Keller liegt, oder ein Zelt, das man nur einmal im Jahr braucht? In unserem Leihladen finden Sie über 400 Gegenstände für den seltenen Gebrauch: Werkzeug, Campingausrüstung, Partyzelte, Nähmaschinen, Beamer und vieles mehr. Wer Mitglied wird, zahlt einen Jahresbeitrag von 30 Euro (ermäßigt 15 Euro) und kann danach so oft ausleihen, wie er möchte – jeweils bis zu einer Woche. Geöffnet ist mittwochs und freitags von 16 bis 19 Uhr sowie samstags von 10 bis 13 Uhr. Fahrräder und motorbetriebene Geräte wie Rasenmäher verleihen wir aus Versicherungsgründen leider nicht.",
+      "footer": "Am Wiesengrund 5 · www.leihladen-nordstadt.de"
+    },
+    {
+      "key": "f",
+      "heading": "Kleidertausch im Kulturladen",
+      "subheading": "Neue Lieblingsstücke – ganz ohne Geld",
+      "lines": [],
+      "text": "Ihr Kleiderschrank ist voll, aber Sie haben trotzdem nichts zum Anziehen? Bei unserer Tauschbörse am letzten Sonntag jedes Monats geben Sie gut erhaltene Kleidung, Schuhe und Accessoires ab und nehmen dafür mit, was Ihnen gefällt. Pro Person können bis zu zehn Teile getauscht werden; sie sollten sauber und ohne Löcher sein. Was am Ende übrig bleibt, spenden wir an die Kleiderkammer der Bahnhofsmission. Kinderkleidung tauschen wir übrigens nur an zwei separaten Terminen im März und im September, weil der Andrang sonst zu groß wäre. Der Eintritt ist frei, los geht es um 11 Uhr.",
+      "footer": "Kulturladen Süd, Hainstraße 3"
+    },
+    {
+      "key": "g",
+      "heading": "EnergieKlar e. V.",
+      "subheading": "Unabhängige Energieberatung für Nürnberg",
+      "lines": [],
+      "text": "Hohe Heizkosten, eine unerklärlich hohe Stromrechnung oder Pläne für eine neue Heizung? Unsere unabhängigen Energieberaterinnen und -berater helfen Ihnen weiter – ohne Verkaufsinteresse. Ein halbstündiges Erstgespräch am Telefon oder per Video ist für alle kostenlos. Auf Wunsch kommen wir auch zu Ihnen nach Hause und prüfen Fenster, Heizung und Stromverbrauch vor Ort; dieser Gebäude-Check kostet normalerweise 40 Euro. Haushalte, die Wohngeld oder Bürgergeld beziehen, erhalten ihn kostenlos. Termine vereinbaren Sie montags bis donnerstags zwischen 9 und 16 Uhr unter der unten angegebenen Nummer.",
+      "footer": "Tel. 0911 2305566 · www.energieklar-nuernberg.de"
+    },
+    {
+      "key": "h",
+      "heading": "Strom vom eigenen Balkon",
+      "subheading": "Workshop der Solarinitiative Nürnberg",
+      "lines": [],
+      "text": "Mit einem steckerfertigen Solarmodul auf dem Balkon können auch Mieterinnen und Mieter ihren eigenen Strom erzeugen. Doch welches Gerät ist das richtige, wie wird es sicher befestigt und was muss man dem Vermieter und dem Netzbetreiber melden? Antworten auf diese Fragen bekommen Sie in unserem zweistündigen Workshop, der jeden zweiten Dienstag um 18.30 Uhr im Umweltzentrum stattfindet. Die Teilnahme kostet 10 Euro; um Anmeldung wird gebeten. Eine individuelle Beratung bei Ihnen zu Hause oder die Montage selbst bieten wir nicht an – gern nennen wir Ihnen aber zertifizierte Fachbetriebe in Ihrer Nähe.",
+      "footer": "Anmeldung: workshop@solarinitiative-nbg.de"
+    },
+    {
+      "key": "i",
+      "heading": "Naturgarten-Sprechstunde",
+      "subheading": "Mehr Leben auf Balkon und Beet",
+      "lines": [],
+      "text": "Sie möchten Ihren Garten, Ihren Hinterhof oder auch nur Ihren Balkon in ein kleines Paradies für Wildbienen, Schmetterlinge und Vögel verwandeln? Die Ehrenamtlichen unseres Naturschutzvereins beraten Sie gern dazu, welche heimischen Pflanzen sich eignen und wie Sie ohne Gift gegen Schädlinge vorgehen. Unsere Gartensprechstunde findet von April bis September jeden Samstagvormittag an unserem Stand auf dem Hauptmarkt statt; die Beratung ist kostenlos. Bringen Sie gern Fotos Ihrer Fläche mit. Für größere Projekte, etwa die Umgestaltung eines Firmen- oder Schulgeländes, besuchen wir Sie auch vor Ort; dafür berechnen wir eine Aufwandsentschädigung von 50 Euro.",
+      "footer": "Naturschutzverein Pegnitzgrund e. V."
+    },
+    {
+      "key": "j",
+      "heading": "Gemeinschaftsgarten „Wurzelwerk“",
+      "subheading": "Gemeinsam säen, gemeinsam ernten",
+      "lines": [],
+      "text": "Auf einer ehemaligen Brachfläche hinter dem Nordbahnhof gärtnern seit drei Jahren rund 60 Menschen aus der Nachbarschaft. Gemüse, Kräuter und Obst wachsen in Hochbeeten, die alle zusammen pflegen – eigene Parzellen gibt es bei uns bewusst nicht. Neue Mitgärtnerinnen und Mitgärtner sind jederzeit willkommen. Vorkenntnisse braucht man keine, wohl aber die Bereitschaft, sich mindestens zwei Stunden pro Woche einzubringen. Unsere gemeinsamen Gartentage sind mittwochs ab 17 Uhr und samstags ab 10 Uhr. Die Ernte wird unter allen Aktiven aufgeteilt. Einen Mitgliedsbeitrag erheben wir nicht, Spenden für Saatgut und Werkzeug nehmen wir aber gern an.",
+      "footer": "www.wurzelwerk-nuernberg.de"
+    },
+    {
+      "key": "k",
+      "heading": "Aktion „Saubere Pegnitz“",
+      "subheading": "Packen Sie mit an!",
+      "lines": [],
+      "text": "Plastikflaschen, Zigarettenkippen, sogar Einkaufswagen: Was sich jedes Jahr am Ufer der Pegnitz ansammelt, ist erschreckend. Deshalb rufen wir zweimal im Jahr – im März und im Oktober – zur großen Müllsammelaktion auf. Treffpunkt ist jeweils samstags um 9 Uhr an der Fleischbrücke; Handschuhe, Greifzangen und Müllsäcke stellen wir. Familien sind ausdrücklich willkommen: Für Kinder unter zwölf Jahren gibt es eine eigene Gruppe mit spielerischen Aufgaben rund um das Thema Müll. Zum Abschluss lädt die Stadt alle Helferinnen und Helfer zu einer Suppe ein. Anmelden müssen sich nur Gruppen ab zehn Personen, zum Beispiel Schulklassen oder Firmenteams.",
+      "footer": "Bürgerverein Pegnitzufer e. V. · Tel. 0911 2317790"
+    },
+    {
+      "key": "l",
+      "heading": "Junge Klimaforscher",
+      "subheading": "Ferienkurse für neugierige Kinder",
+      "lines": [],
+      "text": "Wie viel Wasser steckt in einer Jeans? Warum brauchen Bienen Blumenwiesen? In unseren Ferienkursen gehen Kinder zwischen acht und zwölf Jahren solchen Fragen mit Experimenten, Ausflügen und kleinen Bastelprojekten nach. Ein Kurs dauert jeweils fünf Tage, von Montag bis Freitag zwischen 9 und 15 Uhr, und wird in den Oster-, Pfingst- und Sommerferien angeboten. Ein Mittagessen aus regionalen Bio-Zutaten ist im Preis von 120 Euro enthalten. Für Kinder aus Familien mit geringem Einkommen übernimmt unser Förderverein die Kosten. Wegen der großen Nachfrage empfehlen wir, sich frühzeitig anzumelden.",
+      "footer": "Umweltstation Am Weiher · www.junge-klimaforscher.de"
+    }
+  ],
+  "glossary": [
+    { "de": "instand setzen", "en": "to repair, to restore" },
+    { "de": "der Kostenvoranschlag", "en": "cost estimate" },
+    { "de": "der Hauptwohnsitz", "en": "main place of residence" },
+    { "de": "das Lastenrad", "en": "cargo bike" },
+    { "de": "der Jahresbeitrag", "en": "annual membership fee" },
+    { "de": "der Andrang", "en": "rush, crowd" },
+    { "de": "das Wohngeld", "en": "housing benefit (state rent subsidy)" },
+    { "de": "steckerfertig", "en": "plug-in, ready to plug in" },
+    { "de": "der Netzbetreiber", "en": "grid operator" },
+    { "de": "die Aufwandsentschädigung", "en": "expense allowance, small fee" },
+    { "de": "die Brachfläche", "en": "unused plot of land" },
+    { "de": "sich einbringen", "en": "to contribute, to get involved" }
+  ]
+}

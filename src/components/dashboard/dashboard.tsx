@@ -23,7 +23,7 @@ import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
 import { SECTION_UI } from "@/lib/exam/ui";
 import { partHref } from "@/lib/exams";
-import { useExam } from "@/lib/exams/use-exam";
+import { useCurrentExamSlug, useExam } from "@/lib/exams/use-exam";
 import { useNow } from "@/lib/hooks/use-now";
 import { usePartStats } from "@/lib/hooks/use-stats";
 import { useHydrated } from "@/lib/store/hydration";
@@ -34,18 +34,25 @@ import { cn } from "@/lib/utils";
 import { currentStreak, dayKey } from "@/lib/utils/time";
 
 export interface DashboardData {
-  examSlug: string;
-  /** partId → ordered list of sets with links */
-  sets: Record<string, { id: string; href: string; title: string }[]>;
-  counts: { grammar: number; words: number; phrases: number; sets: number };
+  /** Per exam slug – the dashboard shows the learner's current exam. */
+  exams: Record<
+    string,
+    {
+      /** partId → ordered list of sets with links */
+      sets: Record<string, { id: string; href: string; title: string }[]>;
+      counts: { grammar: number; words: number; phrases: number; sets: number };
+    }
+  >;
 }
 
-export function Dashboard({ data }: { data: DashboardData }) {
+export function Dashboard({ data: all }: { data: DashboardData }) {
   const hydrated = useHydrated();
   const locale = useLocale();
   const t = useT();
   const tr = t.dashboard;
-  const exam = useExam(data.examSlug);
+  const exam = useExam();
+  const slug = useCurrentExamSlug();
+  const data = all.exams[slug] ?? Object.values(all.exams)[0];
   const attempts = useProgress((s) => s.attempts);
   const inProgress = useProgress((s) => s.inProgress);
   const mistakes = useProgress((s) => s.mistakes);
@@ -60,9 +67,12 @@ export function Dashboard({ data }: { data: DashboardData }) {
   const now = useNow();
   const derived = (() => {
     const today = activity[dayKey(now)];
-    const doneSets = new Set([...attempts.map((a) => a.setId), ...writing.map((w) => w.setId)]);
-    // Resume an unfinished attempt first.
-    const resumeKey = Object.keys(inProgress).find((k) => k.startsWith("practice:"));
+    const doneSets = new Set([
+      ...attempts.filter((a) => a.examId === exam.id).map((a) => a.setId),
+      ...writing.filter((w) => w.examId === exam.id).map((w) => w.setId),
+    ]);
+    // Resume an unfinished attempt of this exam first.
+    const resumeKey = Object.keys(inProgress).find((k) => k.startsWith(`practice:${exam.id}:`));
     let resume: { href: string; title: string } | undefined;
     if (resumeKey) {
       const setId = resumeKey.split(":")[2];
@@ -117,7 +127,7 @@ export function Dashboard({ data }: { data: DashboardData }) {
 
   return (
     <div className="space-y-6">
-      <FirstSteps examSlug={data.examSlug} firstPartHref={partHref(exam, firstPart)} />
+      <FirstSteps examSlug={exam.slug} firstPartHref={partHref(exam, firstPart)} />
       <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_340px]">
         {/* Hero / next step */}
         <section className="relative overflow-hidden rounded-3xl border bg-linear-to-br from-primary/15 via-card to-card p-6 sm:p-8">
@@ -137,9 +147,11 @@ export function Dashboard({ data }: { data: DashboardData }) {
             </div>
             <div>
               <h1 className="text-3xl font-semibold tracking-tight text-balance sm:text-4xl">
-                {isNew ? tr.hero.titleNew : derived.streak > 1 ? tr.hero.titleStreak(derived.streak) : tr.hero.titleBack}
+                {isNew ? tr.hero.titleNew(exam.level) : derived.streak > 1 ? tr.hero.titleStreak(derived.streak) : tr.hero.titleBack}
               </h1>
-              <p className="mt-2 max-w-xl text-pretty text-muted-foreground">{isNew ? tr.hero.introNew(data.counts.sets) : tr.hero.introBack}</p>
+              <p className="mt-2 max-w-xl text-pretty text-muted-foreground">
+                {isNew ? tr.hero.introNew(data.counts.sets, exam.level) : tr.hero.introBack}
+              </p>
             </div>
 
             {derived.resume ? (
@@ -251,7 +263,7 @@ export function Dashboard({ data }: { data: DashboardData }) {
           <h2 className="mb-3 text-lg font-semibold tracking-tight">{tr.learn.title}</h2>
           <div className="grid gap-3 sm:grid-cols-2">
             <LearnTile href="/grammatik" icon={<BookMarked className="size-5" />} title={t.nav.grammar} text={tr.learn.grammar(data.counts.grammar)} />
-            <LearnTile href="/wortschatz" icon={<Languages className="size-5" />} title={t.nav.vocabulary} text={tr.learn.vocab(data.counts.words, derived.learnedCards)} />
+            <LearnTile href="/wortschatz" icon={<Languages className="size-5" />} title={t.nav.vocabulary} text={tr.learn.vocab(data.counts.words, derived.learnedCards, exam.level)} />
             <LearnTile href="/redemittel" icon={<MessageSquareQuote className="size-5" />} title={tr.learn.phrasesTitle} text={tr.learn.phrases(data.counts.phrases)} />
             <LearnTile href={`/${exam.slug}/strategien`} icon={<Lightbulb className="size-5" />} title={t.nav.strategies} text={tr.learn.strategies} />
           </div>

@@ -1,0 +1,107 @@
+{
+  "id": "sprachbausteine-2-03",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Wie Städte fahrradfreundlich werden",
+  "topic": "reisen",
+  "difficulty": 2,
+  "textType": "article",
+  "text": "Freie Fahrt fürs Rad: Wie Städte fahrradfreundlich werden\n\nDas Fahrrad gilt als gesund, klimafreundlich und preiswert. Trotzdem lassen es viele Menschen im Alltag lieber stehen – vor allem, weil sie sich zwischen Autos, Bussen und Lieferwagen nicht sicher fühlen. Verkehrsforscher sind sich daher weitgehend [[1]]: Wer mehr Menschen zum Umstieg bewegen will, muss in eine sichere und lückenlose Infrastruktur investieren.\n\nWie das gelingen kann, zeigt die niedersächsische Kleinstadt Ostbrück. Die Verwaltung hat dort innerhalb von fünf Jahren ein zusammenhängendes Netz aus breiten, baulich getrennten Radwegen geschaffen, [[2]] sie zahlreiche Fahrspuren und Parkplätze umgewidmet hat. Der [[3]] der Wege, die mit dem Rad zurückgelegt werden, ist seither von 14 auf 23 Prozent gestiegen. Inzwischen pendeln sogar viele Beschäftigte aus den umliegenden Dörfern mit dem E-Bike zur Arbeit.\n\nEntscheidend war nach Ansicht von Stadtbaurätin Leonie Hartwig nicht allein der Ausbau der Wege, [[4]] auch die frühzeitige Beteiligung der Bevölkerung. Vor allem Einzelhändler hatten anfangs heftige [[5]] an den Plänen geübt. Ihre Sorge ist durchaus nachvollziehbar, [[6]] gerade kleine Fachgeschäfte auf jeden einzelnen Kunden angewiesen sind. Eine Erhebung der örtlichen Handelskammer ergab jedoch, dass die befürchteten Umsatzeinbußen ausblieben: Radfahrende kaufen zwar kleinere Mengen ein, kommen aber deutlich häufiger vorbei.\n\nNeue Konflikte entstehen inzwischen eher zwischen Rad- und Fußverkehr. Auf gemeinsam genutzten Wegen fühlen sich vor allem ältere Menschen und Familien mit kleinen Kindern von schnellen Radfahrern bedrängt. Hartwig appelliert deshalb an alle Radfahrenden, mehr [[7]] auf Fußgängerinnen und Fußgänger zu nehmen. Der Ausbau des Radnetzes dürfe keinesfalls auf [[8]] der Gehwege gehen.\n\nVon Verhältnissen wie in Ostbrück sind die meisten deutschen Großstädte [[9]] weit entfernt. Häufig scheitern Projekte an langwierigen Genehmigungsverfahren oder am Widerstand einzelner Interessengruppen. Hartwig ist dennoch überzeugt, dass sich der Aufwand [[10]]: Langfristig spare eine Stadt sogar Geld, weil sie weniger für Straßensanierungen und Parkhäuser ausgeben müsse.",
+  "words": [
+    { "key": "a", "text": "Anteil" },
+    { "key": "b", "text": "bereits" },
+    { "key": "c", "text": "bezahlt" },
+    { "key": "d", "text": "bislang" },
+    { "key": "e", "text": "dadurch" },
+    { "key": "f", "text": "einig" },
+    { "key": "g", "text": "einverstanden" },
+    { "key": "h", "text": "indem" },
+    { "key": "i", "text": "Kosten" },
+    { "key": "j", "text": "Kritik" },
+    { "key": "k", "text": "lohnt" },
+    { "key": "l", "text": "obwohl" },
+    { "key": "m", "text": "Rücksicht" },
+    { "key": "n", "text": "sondern" },
+    { "key": "o", "text": "zumal" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "f",
+      "explanation": "„sich einig sein“ (to agree) is reflexive: „Verkehrsforscher sind sich … weitgehend einig“. „einverstanden“ is the trap: it is never used with „sich“ and needs „mit etwas“ („mit dem Plan einverstanden sein“).",
+      "explanationDe": "„sich einig sein“ (= dieselbe Meinung haben) ist reflexiv: „Verkehrsforscher sind sich … weitgehend einig“. „einverstanden“ ist die Falle: Es steht nie mit „sich“, sondern mit „mit etwas“ („mit dem Plan einverstanden sein“)."
+    },
+    {
+      "n": 2,
+      "answer": "h",
+      "explanation": "„indem“ says how something was achieved: the town created the network by converting car lanes and parking spaces. „dadurch“ has a similar meaning, but it is an adverb – it would need „dadurch, dass …“ or main-clause word order, while „hat“ stands at the end here.",
+      "explanationDe": "„indem“ sagt, wie etwas erreicht wurde: Die Stadt hat das Netz geschaffen, und zwar so: Sie hat Fahrspuren und Parkplätze umgewidmet. „dadurch“ hat eine ähnliche Bedeutung, ist aber ein Adverb – es bräuchte „dadurch, dass …“ oder die Wortstellung eines Hauptsatzes, hier steht „hat“ aber am Ende.",
+      "grammar": "modalsaetze"
+    },
+    {
+      "n": 3,
+      "answer": "a",
+      "explanation": "„der Anteil“ is the share of a whole, often in per cent: the share of trips made by bike rose from 14 to 23 per cent. The article „Der“ and the singular verb „ist … gestiegen“ rule out „Kosten“ (plural) and the feminine nouns „Kritik“ and „Rücksicht“.",
+      "explanationDe": "„der Anteil“ ist ein Teil vom Ganzen, oft in Prozent: Der Anteil der Wege mit dem Rad ist von 14 auf 23 Prozent gestiegen. Der Artikel „Der“ und das Verb im Singular „ist … gestiegen“ schließen „Kosten“ (Plural) und die femininen Nomen „Kritik“ und „Rücksicht“ aus."
+    },
+    {
+      "n": 4,
+      "answer": "n",
+      "explanation": "„nicht (allein/nur) …, sondern auch …“ is a two-part connector: not only the expansion of the paths, but also the early involvement of residents. „obwohl“ cannot link two nouns like this.",
+      "explanationDe": "„nicht (allein/nur) …, sondern auch …“ ist ein zweiteiliger Konnektor: nicht nur der Ausbau der Wege, sondern auch die frühe Beteiligung der Bürger. „obwohl“ kann nicht zwei Nomen so verbinden.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 5,
+      "answer": "j",
+      "explanation": "„Kritik an etwas üben“ (to criticise something) is a fixed noun-verb combination; „heftige“ and „an den Plänen“ confirm it. „Rücksicht“ goes with „nehmen auf“, not with „üben an“.",
+      "explanationDe": "„Kritik an etwas üben“ (= etwas kritisieren) ist eine feste Nomen-Verb-Verbindung; „heftige“ und „an den Plänen“ bestätigen das. „Rücksicht“ steht mit „nehmen auf“, nicht mit „üben an“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 6,
+      "answer": "o",
+      "explanation": "„zumal“ (especially since) adds a reason that makes the previous statement even more understandable: small specialist shops depend on every single customer. „obwohl“ would introduce a contradiction, but this reason supports the shopkeepers’ worry.",
+      "explanationDe": "„zumal“ (= besonders weil) nennt einen zusätzlichen Grund, der die Aussage noch verständlicher macht: Kleine Fachgeschäfte brauchen jeden einzelnen Kunden. „obwohl“ würde einen Gegensatz einleiten, aber dieser Grund unterstützt die Sorge der Händler.",
+      "grammar": "kausale-konsekutive-saetze"
+    },
+    {
+      "n": 7,
+      "answer": "m",
+      "explanation": "„Rücksicht auf jemanden nehmen“ (to show consideration for someone): cyclists should be more considerate towards pedestrians. „Kritik“ and „Anteil“ do not combine with „auf … nehmen“.",
+      "explanationDe": "„Rücksicht auf jemanden nehmen“ (= an andere denken und vorsichtig sein): Radfahrende sollen mehr auf Fußgänger achten. „Kritik“ und „Anteil“ passen nicht zu „auf … nehmen“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 8,
+      "answer": "i",
+      "explanation": "„auf Kosten einer Sache gehen“ (to be at the expense of something) is followed by a genitive: „auf Kosten der Gehwege“ – the new cycle paths must not take space away from pavements. „Rücksicht“ would need „Rücksicht auf die Gehwege“, not „auf … der Gehwege“.",
+      "explanationDe": "„auf Kosten einer Sache gehen“ (= einer Sache schaden, ihr etwas wegnehmen) steht mit Genitiv: „auf Kosten der Gehwege“ – die neuen Radwege sollen den Gehwegen keinen Platz wegnehmen. Mit „Rücksicht“ müsste es „Rücksicht auf die Gehwege“ heißen."
+    },
+    {
+      "n": 9,
+      "answer": "d",
+      "explanation": "„bislang“ (so far, until now): most big cities are still far from such conditions, and the next sentence explains why projects fail. „bereits“ (already) is the trap – „already far away“ makes no sense here.",
+      "explanationDe": "„bislang“ (= bis jetzt): Die meisten Großstädte sind noch weit von solchen Verhältnissen entfernt; der nächste Satz erklärt, warum Projekte scheitern. „bereits“ (= schon) ist die Falle – „schon weit entfernt“ ergibt hier keinen Sinn."
+    },
+    {
+      "n": 10,
+      "answer": "k",
+      "explanation": "„sich lohnen“ (to be worth it): „dass sich der Aufwand lohnt“; after the colon comes the reason – the town even saves money. „bezahlt“ is the trap: the expression is „sich bezahlt machen“, and „machen“ is missing.",
+      "explanationDe": "„sich lohnen“ (= den Aufwand wert sein): „dass sich der Aufwand lohnt“; nach dem Doppelpunkt folgt die Begründung – die Stadt spart sogar Geld. „bezahlt“ ist die Falle: Die Wendung heißt „sich bezahlt machen“, und „machen“ fehlt."
+    }
+  ],
+  "glossary": [
+    { "de": "sich einig sein", "en": "to agree" },
+    { "de": "der Umstieg", "en": "switch (to another means of transport)" },
+    { "de": "baulich getrennt", "en": "physically separated" },
+    { "de": "umwidmen", "en": "to repurpose, to reassign" },
+    { "de": "einen Weg zurücklegen", "en": "to cover a distance, to make a trip" },
+    { "de": "Kritik an etwas üben", "en": "to criticise something" },
+    { "de": "die Umsatzeinbuße", "en": "loss of sales" },
+    { "de": "Rücksicht auf jemanden nehmen", "en": "to show consideration for someone" },
+    { "de": "auf Kosten einer Sache gehen", "en": "to be at the expense of something" },
+    { "de": "das Genehmigungsverfahren", "en": "approval procedure" },
+    { "de": "sich lohnen", "en": "to be worthwhile" }
+  ]
+}

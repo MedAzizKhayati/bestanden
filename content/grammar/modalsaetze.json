@@ -1,0 +1,258 @@
+{
+  "id": "modalsaetze",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 20,
+  "title": "Modalsätze: indem, dadurch dass, ohne dass, (an)statt dass",
+  "titleEn": "Clauses of manner: indem, dadurch dass, ohne dass, (an)statt dass",
+  "summary": "Say how something is achieved (indem, dadurch, dass), which expected action does not happen (ohne dass / ohne … zu) and which action is replaced by another ((an)statt dass / (an)statt … zu).",
+  "summaryDe": "Sag, wie etwas erreicht wird (indem, dadurch, dass), welche erwartete Handlung nicht passiert (ohne dass / ohne … zu) und welche Handlung durch eine andere ersetzt wird ((an)statt dass / (an)statt … zu).",
+  "examRelevance": ["sprachbausteine", "schreiben", "lesen", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**Modalsätze** answer the questions *Wie?* and *Wodurch?*: they name the **means or method** (**indem**, **dadurch, dass**). Two related pairs describe what does **not** happen: **ohne dass / ohne … zu** (an expected side action is missing) and **(an)statt dass / (an)statt … zu** (an alternative that is not chosen). **indem** and the dass-forms start subordinate clauses with the conjugated verb at the end; the zu-forms are infinitive clauses and need the **same subject** as the main clause.",
+      "mdDe": "**Modalsätze** beantworten die Fragen *Wie?* und *Wodurch?*: Sie nennen das **Mittel oder die Methode** (**indem**, **dadurch, dass**). Zwei verwandte Paare beschreiben, was **nicht** passiert: **ohne dass / ohne … zu** (eine erwartete Begleithandlung fehlt) und **(an)statt dass / (an)statt … zu** (eine Alternative, die man nicht wählt). **indem** und die Formen mit dass leiten Nebensätze ein, das konjugierte Verb steht am Ende; die Formen mit zu sind Infinitivsätze und brauchen **dasselbe Subjekt** wie der Hauptsatz."
+    },
+    {
+      "type": "text",
+      "heading": "indem or dadurch, dass?",
+      "headingDe": "indem oder dadurch, dass?",
+      "md": "Both name the means. „Wie hat die Bäckerei ihre Kosten gesenkt?“ – „Sie hat ihre Kosten gesenkt, **indem** sie die Öfen nachts mit günstigem Strom betreibt.“\n\nWith **dadurch, dass** the word **dadurch** stands in the main clause and points forward to the dass-clause. This puts extra weight on the means – it is the typical answer to *Wodurch?*:\n\n- „Die Bäckerei hat ihre Kosten **dadurch** gesenkt, **dass** sie die Öfen nachts betreibt.“\n- „**Dadurch, dass** sie die Öfen nachts betreibt, hat die Bäckerei ihre Kosten gesenkt.“\n\nThe difference: **indem** describes a method that someone uses **on purpose**, so the subject of the main clause is normally also the person who acts in the indem-clause. **dadurch, dass** can also name a **circumstance** that simply leads to a result – often with a different subject and without any intention: „**Dadurch, dass** die Brücke gesperrt war, kamen viele Pendler zu spät.“ (not: *Indem die Brücke gesperrt war …*). So **dadurch, dass** can almost always replace **indem**, but not the other way round.\n\nIn articles (Lesen) the means is often a noun: **durch** + accusative or **mithilfe** + genitive – „**Durch** den Betrieb der Öfen in der Nacht …“, „**mithilfe** einer neuen Software“.",
+      "mdDe": "Beide nennen das Mittel. „Wie hat die Bäckerei ihre Kosten gesenkt?“ – „Sie hat ihre Kosten gesenkt, **indem** sie die Öfen nachts mit günstigem Strom betreibt.“\n\nBei **dadurch, dass** steht **dadurch** im Hauptsatz und verweist auf den dass-Satz. So bekommt das Mittel mehr Gewicht – das ist die typische Antwort auf *Wodurch?*:\n\n- „Die Bäckerei hat ihre Kosten **dadurch** gesenkt, **dass** sie die Öfen nachts betreibt.“\n- „**Dadurch, dass** sie die Öfen nachts betreibt, hat die Bäckerei ihre Kosten gesenkt.“\n\nDer Unterschied: **indem** beschreibt eine Methode, die jemand **absichtlich** benutzt. Das Subjekt des Hauptsatzes ist deshalb normalerweise auch die Person, die im indem-Satz handelt. **dadurch, dass** kann auch einen **Umstand** nennen, der einfach zu einem Ergebnis führt – oft mit einem anderen Subjekt und ohne Absicht: „**Dadurch, dass** die Brücke gesperrt war, kamen viele Pendler zu spät.“ (nicht: *Indem die Brücke gesperrt war …*). **dadurch, dass** kann also fast immer **indem** ersetzen, aber nicht umgekehrt.\n\nIn Zeitungsartikeln (Lesen) steht das Mittel oft als Nomen: **durch** + Akkusativ oder **mithilfe** + Genitiv – „**Durch** den Betrieb der Öfen in der Nacht …“, „**mithilfe** einer neuen Software“."
+    },
+    {
+      "type": "table",
+      "heading": "Means, missing action, alternative",
+      "headingDe": "Mittel, fehlende Handlung, Alternative",
+      "columns": ["Connector", "Meaning", "Structure", "Example"],
+      "columnsDe": ["Konnektor", "Bedeutung", "Struktur", "Beispiel"],
+      "rows": [
+        ["indem", "means / method (Wie?)", "subordinate clause, verb at the end", "Sie hat Geld gespart, indem sie auf das Auto verzichtet hat."],
+        ["dadurch …, dass", "means or circumstance (Wodurch?)", "dadurch in the main clause + dass-clause", "Sie hat dadurch Geld gespart, dass sie auf das Auto verzichtet hat."],
+        ["durch / mithilfe", "means as a noun (Nominalstil)", "durch + accusative, mithilfe + genitive", "Durch den Verzicht auf das Auto hat sie Geld gespart."],
+        ["ohne dass", "an expected action does not happen", "subordinate clause, any subject", "Der Vertrag wurde geändert, ohne dass die Mieter informiert wurden."],
+        ["ohne … zu", "the same, same subject", "infinitive clause", "Er hat den Vertrag unterschrieben, ohne ihn zu lesen."],
+        ["(an)statt dass", "an alternative that is not chosen", "subordinate clause, mostly different subjects", "Statt dass die Stadt das Hallenbad saniert, soll es geschlossen werden."],
+        ["(an)statt … zu", "the same, same subject", "infinitive clause", "Statt das Auto zu nehmen, fährt sie mit dem Rad."]
+      ],
+      "rowsDe": [
+        ["indem", "Mittel / Methode (Wie?)", "Nebensatz, Verb am Ende", "Sie hat Geld gespart, indem sie auf das Auto verzichtet hat."],
+        ["dadurch …, dass", "Mittel oder Umstand (Wodurch?)", "dadurch im Hauptsatz + dass-Satz", "Sie hat dadurch Geld gespart, dass sie auf das Auto verzichtet hat."],
+        ["durch / mithilfe", "Mittel als Nomen (Nominalstil)", "durch + Akkusativ, mithilfe + Genitiv", "Durch den Verzicht auf das Auto hat sie Geld gespart."],
+        ["ohne dass", "eine erwartete Handlung passiert nicht", "Nebensatz, beliebiges Subjekt", "Der Vertrag wurde geändert, ohne dass die Mieter informiert wurden."],
+        ["ohne … zu", "dasselbe, gleiches Subjekt", "Infinitivsatz", "Er hat den Vertrag unterschrieben, ohne ihn zu lesen."],
+        ["(an)statt dass", "eine Alternative, die man nicht wählt", "Nebensatz, meist verschiedene Subjekte", "Statt dass die Stadt das Hallenbad saniert, soll es geschlossen werden."],
+        ["(an)statt … zu", "dasselbe, gleiches Subjekt", "Infinitivsatz", "Statt das Auto zu nehmen, fährt sie mit dem Rad."]
+      ],
+      "note": "„ohne“ and „(an)statt“ are also prepositions: „ohne vorherige Anmeldung“ (+ accusative), „statt eines Briefes“ (+ genitive).",
+      "noteDe": "„ohne“ und „(an)statt“ sind auch Präpositionen: „ohne vorherige Anmeldung“ (+ Akkusativ), „statt eines Briefes“ (+ Genitiv)."
+    },
+    {
+      "type": "text",
+      "heading": "ohne and (an)statt at B2",
+      "headingDe": "ohne und (an)statt auf B2-Niveau",
+      "md": "You know the basic rule from B1 (see „Infinitiv mit zu“): same subject → **ohne … zu / statt … zu**, different subjects → **ohne dass / statt dass**. At B2 three things are added:\n\n1. **Perfect and passive infinitives.** If the missing action should have happened *before*, use the perfect infinitive: „Er hat gekündigt, **ohne** sich vorher **informiert zu haben**.“ For a passive meaning use the passive infinitive: „Viele Beschäftigte wurden versetzt, **ohne gefragt zu werden**.“\n2. **Konjunktiv II after ohne dass.** Because the action did not happen, written German often uses Konjunktiv II: „Er verließ den Saal, **ohne dass** es jemand **bemerkt hätte**.“ The indicative („bemerkt hat“) is also correct.\n3. **statt dass with the same subject sounds clumsy.** „Statt dass er spart, gibt er alles aus“ is understandable, but the infinitive is much better style: „**Statt zu sparen**, gibt er alles aus.“",
+      "mdDe": "Die Grundregel kennst du von B1 (siehe „Infinitiv mit zu“): gleiches Subjekt → **ohne … zu / statt … zu**, verschiedene Subjekte → **ohne dass / statt dass**. Auf B2-Niveau kommen drei Dinge dazu:\n\n1. **Infinitiv Perfekt und Infinitiv Passiv.** Wenn die fehlende Handlung *vorher* hätte passieren sollen, nimm den Infinitiv Perfekt: „Er hat gekündigt, **ohne** sich vorher **informiert zu haben**.“ Für eine passive Bedeutung nimmst du den Infinitiv Passiv: „Viele Beschäftigte wurden versetzt, **ohne gefragt zu werden**.“\n2. **Konjunktiv II nach ohne dass.** Weil die Handlung nicht passiert ist, steht in geschriebenen Texten oft Konjunktiv II: „Er verließ den Saal, **ohne dass** es jemand **bemerkt hätte**.“ Der Indikativ („bemerkt hat“) ist auch korrekt.\n3. **statt dass mit gleichem Subjekt klingt ungeschickt.** „Statt dass er spart, gibt er alles aus“ versteht man, aber der Infinitiv ist viel besserer Stil: „**Statt zu sparen**, gibt er alles aus.“"
+    },
+    {
+      "type": "text",
+      "heading": "indem, damit or sodass?",
+      "headingDe": "indem, damit oder sodass?",
+      "md": "These three are classic distractors. Ask the right question:\n\n- **Wie? / Wodurch?** → **indem**: „Er hält sich fit, **indem** er jeden Tag die Treppe nimmt.“ (the method)\n- **Wozu? / Mit welchem Ziel?** → **damit**: „Er nimmt jeden Tag die Treppe, **damit** er fit bleibt.“ (the goal)\n- **Mit welcher Folge?** → **sodass**: „Er nimmt jeden Tag die Treppe, **sodass** er kaum noch außer Atem kommt.“ (the result)\n\nNotice the direction: with **indem** the subordinate clause contains the action and the main clause the result. With **damit** it is the other way round – the main clause is the action, the damit-clause the goal.",
+      "mdDe": "Diese drei sind klassische Distraktoren. Stell die richtige Frage:\n\n- **Wie? / Wodurch?** → **indem**: „Er hält sich fit, **indem** er jeden Tag die Treppe nimmt.“ (die Methode)\n- **Wozu? / Mit welchem Ziel?** → **damit**: „Er nimmt jeden Tag die Treppe, **damit** er fit bleibt.“ (das Ziel)\n- **Mit welcher Folge?** → **sodass**: „Er nimmt jeden Tag die Treppe, **sodass** er kaum noch außer Atem kommt.“ (die Folge)\n\nAchte auf die Richtung: Bei **indem** steht die Handlung im Nebensatz und das Ergebnis im Hauptsatz. Bei **damit** ist es umgekehrt – der Hauptsatz ist die Handlung, der damit-Satz das Ziel."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Unsere Abteilung spart jedes Jahr Tausende Blatt Papier, **indem** sie Rechnungen nur noch digital **verschickt**.", "en": "Our department saves thousands of sheets of paper every year by sending invoices only digitally." },
+        { "de": "Man kann Missverständnisse **dadurch** vermeiden, **dass** man Absprachen schriftlich **festhält**.", "en": "You can avoid misunderstandings by putting agreements in writing." },
+        { "de": "**Dadurch, dass** der Zug zwei Stunden Verspätung **hatte**, verpasste sie ihr Vorstellungsgespräch.", "en": "Because the train was two hours late, she missed her job interview." },
+        { "de": "Der Konzern hat drei Filialen geschlossen, **ohne dass** die Belegschaft vorher **informiert worden wäre**.", "en": "The group closed three branches without the staff having been informed beforehand." },
+        { "de": "Herr Kaya hat den Kredit aufgenommen, **ohne** die Bedingungen genau **geprüft zu haben**.", "en": "Mr Kaya took out the loan without having checked the terms carefully." },
+        { "de": "**Statt** ihre Beschwerde schriftlich **einzureichen**, rief sie direkt beim Geschäftsführer an.", "en": "Instead of submitting her complaint in writing, she phoned the managing director directly." },
+        { "de": "**Anstatt dass** die Kinder mit dem Bus **fahren**, bringen die Eltern sie jeden Morgen mit dem Auto zur Schule.", "en": "Instead of the children taking the bus, their parents drive them to school every morning." },
+        { "de": "**Durch** konsequentes Wiederholen hat Amira ihren Wortschatz in drei Monaten verdoppelt.", "en": "Through consistent revision Amira doubled her vocabulary in three months." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In Sprachbausteine Teil 1 (items 21–30) you often choose between **indem / damit / sodass** or **ohne / statt / außer**. Check two things:\n\n1. **Logic:** method (*Wie?*) → indem; goal (*Wozu?*) → damit; result → sodass; missing action → ohne; replaced action → statt.\n2. **Form:** Is there a **dadurch** earlier in the sentence? Then the gap is **dass**. Does the clause end with a **zu**-infinitive? Then you need **ohne / statt** without „dass“.\n\nIn **Schreiben** (a complaint or a request) these structures make your e-mail precise: „Ich habe versucht, das Problem selbst zu lösen, **indem** ich das Gerät zurückgesetzt habe.“ / „Der Betrag wurde abgebucht, **ohne dass** ich eine Rechnung erhalten habe.“ / „**Statt** mir einen Ersatz **anzubieten**, hat mich Ihr Mitarbeiter an den Hersteller verwiesen.“",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 (Aufgaben 21–30) musst du oft zwischen **indem / damit / sodass** oder **ohne / statt / außer** wählen. Prüfe zwei Dinge:\n\n1. **Logik:** Methode (*Wie?*) → indem; Ziel (*Wozu?*) → damit; Folge → sodass; fehlende Handlung → ohne; ersetzte Handlung → statt.\n2. **Form:** Steht weiter vorn im Satz **dadurch**? Dann gehört **dass** in die Lücke. Endet der Satz mit einem **zu**-Infinitiv? Dann brauchst du **ohne / statt** ohne „dass“.\n\nIm **Schreiben** (Beschwerde oder Anfrage) machen diese Strukturen deine E-Mail präzise: „Ich habe versucht, das Problem selbst zu lösen, **indem** ich das Gerät zurückgesetzt habe.“ / „Der Betrag wurde abgebucht, **ohne dass** ich eine Rechnung erhalten habe.“ / „**Statt** mir einen Ersatz **anzubieten**, hat mich Ihr Mitarbeiter an den Hersteller verwiesen.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Two classic traps:**\n\n- **No double negation.** „ohne“ already contains the *not*. „Sie ging, ohne kein Wort zu sagen“ is wrong → „Sie ging, **ohne ein** Wort zu sagen.“ In the same way use **jemand** instead of *niemand* and **etwas** instead of *nichts*: „…, ohne dass **jemand** etwas gemerkt hat.“\n- **indem ≠ in dem.** „indem“ (one word) is the connector. „in dem“ (two words) is a preposition + relative pronoun: „das Haus, **in dem** ich wohne“.",
+      "mdDe": "**Zwei klassische Fallen:**\n\n- **Keine doppelte Verneinung.** „ohne“ enthält schon das *nicht*. „Sie ging, ohne kein Wort zu sagen“ ist falsch → „Sie ging, **ohne ein** Wort zu sagen.“ Genauso nimmst du **jemand** statt *niemand* und **etwas** statt *nichts*: „…, ohne dass **jemand** etwas gemerkt hat.“\n- **indem ≠ in dem.** „indem“ (ein Wort) ist der Konnektor. „in dem“ (zwei Wörter) ist Präposition + Relativpronomen: „das Haus, **in dem** ich wohne“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich habe mein Deutsch verbessert, indem ich habe jeden Tag Podcasts gehört.",
+      "right": "Ich habe mein Deutsch verbessert, indem ich jeden Tag Podcasts gehört habe.",
+      "why": "„indem“ starts a subordinate clause, so the conjugated verb „habe“ goes to the end.",
+      "whyDe": "„indem“ leitet einen Nebensatz ein, deshalb steht das konjugierte Verb „habe“ am Ende."
+    },
+    {
+      "wrong": "Man kann Stress abbauen, damit man regelmäßig Sport treibt.",
+      "right": "Man kann Stress abbauen, indem man regelmäßig Sport treibt.",
+      "why": "Sport is the method (Wie?), not the goal (Wozu?) → „indem“. With „damit“, doing sport would be the purpose of reducing stress.",
+      "whyDe": "Sport ist die Methode (Wie?), nicht das Ziel (Wozu?) → „indem“. Mit „damit“ wäre Sport das Ziel des Stressabbaus."
+    },
+    {
+      "wrong": "Die Kinder spielten im Wald, ohne ihre Eltern davon zu wissen.",
+      "right": "Die Kinder spielten im Wald, ohne dass ihre Eltern davon wussten.",
+      "why": "The subjects are different („die Kinder“ / „ihre Eltern“), so you need „ohne dass“ + a conjugated verb. A zu-infinitive always refers to the subject of the main clause.",
+      "whyDe": "Die Subjekte sind verschieden („die Kinder“ / „ihre Eltern“), deshalb brauchst du „ohne dass“ + konjugiertes Verb. Ein zu-Infinitiv bezieht sich immer auf das Subjekt des Hauptsatzes."
+    },
+    {
+      "wrong": "Er hat die Wohnung gekündigt, ohne dass er vorher mit seiner Frau zu sprechen.",
+      "right": "Er hat die Wohnung gekündigt, ohne vorher mit seiner Frau zu sprechen.",
+      "why": "Don't mix the two structures: either „ohne … zu“ + infinitive or „ohne dass“ + conjugated verb. With the same subject the infinitive is the better choice.",
+      "whyDe": "Misch die beiden Strukturen nicht: entweder „ohne … zu“ + Infinitiv oder „ohne dass“ + konjugiertes Verb. Bei gleichem Subjekt ist der Infinitiv die bessere Wahl."
+    },
+    {
+      "wrong": "Statt ich das Auto nehme, fahre ich mit dem Rad zur Arbeit.",
+      "right": "Statt das Auto zu nehmen, fahre ich mit dem Rad zur Arbeit.",
+      "why": "„statt“ alone cannot start a clause with its own subject. Same subject → „statt … zu“; different subjects → „statt dass“.",
+      "whyDe": "„statt“ allein kann keinen Satz mit eigenem Subjekt einleiten. Gleiches Subjekt → „statt … zu“; verschiedene Subjekte → „statt dass“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Die Gemeinde will die Innenstadt beleben, ___ sie leer stehende Läden günstig an junge Gründerinnen und Gründer vermietet.",
+      "options": ["damit", "indem", "sodass"],
+      "answer": 1,
+      "explanation": "Renting out empty shops cheaply is the method (*Wie* will die Gemeinde die Innenstadt beleben?) → „indem“. „damit“ would turn the renting into the goal and „sodass“ into a result – but the goal („beleben“) is already in the main clause.",
+      "explanationDe": "Leere Läden günstig zu vermieten ist die Methode (*Wie* will die Gemeinde die Innenstadt beleben?) → „indem“. Mit „damit“ wäre das Vermieten das Ziel, mit „sodass“ eine Folge – aber das Ziel („beleben“) steht schon im Hauptsatz."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Unfälle ließen sich ___ vermeiden, dass Radwege baulich von der Fahrbahn getrennt werden.",
+      "options": ["deshalb", "indem", "dadurch"],
+      "answer": 2,
+      "explanation": "The dass-clause at the end needs a pointer word in the main clause: „dadurch …, dass“ names the means. „deshalb“ is not combined with „dass“ (but with „weil“), and „indem“ cannot stand inside the main clause.",
+      "explanationDe": "Der dass-Satz am Ende braucht ein Verweiswort im Hauptsatz: „dadurch …, dass“ nennt das Mittel. „deshalb“ steht nicht mit „dass“ (sondern mit „weil“), und „indem“ kann nicht im Hauptsatz stehen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Vertrag wurde verlängert, ___ der Betriebsrat vorher gefragt worden wäre.",
+      "options": ["ohne dass", "statt dass", "indem"],
+      "answer": 0,
+      "explanation": "The works council should have been asked, but it wasn't – a missing action → „ohne dass“, here with Konjunktiv II („worden wäre“). „statt dass“ would mean that extending the contract replaced asking the council, which makes no sense.",
+      "explanationDe": "Der Betriebsrat hätte gefragt werden sollen, wurde es aber nicht – eine fehlende Handlung → „ohne dass“, hier mit Konjunktiv II („worden wäre“). „statt dass“ würde bedeuten, dass die Verlängerung die Frage an den Betriebsrat ersetzt hat – das ergibt keinen Sinn."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ die Beschäftigten ständig Überstunden machen, sollte die Firma lieber zusätzliches Personal einstellen.",
+      "options": ["Indem", "Ohne dass", "Statt dass"],
+      "answer": 2,
+      "explanation": "„lieber“ shows that hiring staff should **replace** the overtime → „Statt dass“ (different subjects: „die Beschäftigten“ / „die Firma“). „Indem“ would make the overtime the method of hiring, and „Ohne dass“ does not go with „lieber“.",
+      "explanationDe": "„lieber“ zeigt, dass neues Personal die Überstunden **ersetzen** soll → „Statt dass“ (verschiedene Subjekte: „die Beschäftigten“ / „die Firma“). Mit „Indem“ wären die Überstunden die Methode der Einstellung, und „Ohne dass“ passt nicht zu „lieber“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Stadtbibliothek hat ihre Besucherzahlen ___ verdoppelt, dass sie jetzt auch sonntags geöffnet hat.",
+      "hint": "(pointer word for „dass“)",
+      "hintDe": "(Verweiswort für „dass“)",
+      "answers": ["dadurch", "damit"],
+      "explanation": "The dass-clause names the means, so the main clause needs „dadurch“ (*Wodurch* hat sie die Zahlen verdoppelt?). In spoken German you also hear „damit …, dass“ with this meaning.",
+      "explanationDe": "Der dass-Satz nennt das Mittel, deshalb braucht der Hauptsatz „dadurch“ (*Wodurch* hat sie die Zahlen verdoppelt?). In der gesprochenen Sprache hörst du mit dieser Bedeutung auch „damit …, dass“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Straße wurde monatelang gesperrt, ___ die Anwohner rechtzeitig informiert worden wären.",
+      "hint": "(without – two words)",
+      "hintDe": "(fehlende Handlung – zwei Wörter)",
+      "answers": ["ohne dass"],
+      "explanation": "The residents were not informed – a missing action with a different subject („die Anwohner“) → „ohne dass“. The Konjunktiv II „worden wären“ is typical after „ohne dass“.",
+      "explanationDe": "Die Anwohner wurden nicht informiert – eine fehlende Handlung mit einem anderen Subjekt („die Anwohner“) → „ohne dass“. Der Konjunktiv II „worden wären“ ist typisch nach „ohne dass“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Herr Brandt hat den Mietvertrag unterschrieben, ohne ihn vorher gründlich ___.",
+      "hint": "(lesen)",
+      "answers": ["gelesen zu haben", "zu lesen"],
+      "explanation": "Same subject (Herr Brandt) → „ohne … zu“. The perfect infinitive „gelesen zu haben“ stresses that the reading should have come first; „zu lesen“ is also correct.",
+      "explanationDe": "Gleiches Subjekt (Herr Brandt) → „ohne … zu“. Der Infinitiv Perfekt „gelesen zu haben“ betont, dass das Lesen vorher hätte passieren sollen; „zu lesen“ ist auch richtig."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ sich über den Lärm zu beschweren, hat Frau Petrović die Musiker von nebenan zu ihrer Geburtstagsfeier eingeladen.",
+      "hint": "(instead of)",
+      "hintDe": "(Alternative)",
+      "answers": ["Statt", "Anstatt"],
+      "explanation": "She did something else in place of complaining → „Statt“ / „Anstatt“ + zu-infinitive (same subject: Frau Petrović).",
+      "explanationDe": "Sie hat etwas anderes getan, statt sich zu beschweren → „Statt“ / „Anstatt“ + zu-Infinitiv (gleiches Subjekt: Frau Petrović)."
+    },
+    {
+      "type": "order",
+      "words": ["sind", "die", "Busse", "Dadurch,", "kürzer", "Stadt", "dass", "geworden.", "die", "deutlich", "mehr", "einsetzt,", "Wartezeiten"],
+      "answers": [
+        "Dadurch, dass die Stadt mehr Busse einsetzt, sind die Wartezeiten deutlich kürzer geworden.",
+        "Die Wartezeiten sind dadurch, dass die Stadt mehr Busse einsetzt, deutlich kürzer geworden."
+      ],
+      "explanation": "„Dadurch, dass …“ forms position 1 together with its clause („einsetzt“ at the end), so the main clause continues with the verb „sind“. „dadurch, dass“ can also stand in the middle of the main clause.",
+      "explanationDe": "„Dadurch, dass …“ bildet zusammen mit seinem Nebensatz die Position 1 („einsetzt“ am Ende), deshalb geht der Hauptsatz mit dem Verb „sind“ weiter. „dadurch, dass“ kann auch mitten im Hauptsatz stehen."
+    },
+    {
+      "type": "order",
+      "words": ["verabschieden.", "von", "Sie", "ohne", "Büro", "zu", "hat", "sich", "den", "verlassen,", "das", "Kollegen"],
+      "answers": ["Sie hat das Büro verlassen, ohne sich von den Kollegen zu verabschieden."],
+      "explanation": "Same subject („sie“) → „ohne … zu“. The reflexive pronoun „sich“ comes right after „ohne“, „zu“ stands directly before the infinitive.",
+      "explanationDe": "Gleiches Subjekt („sie“) → „ohne … zu“. Das Reflexivpronomen „sich“ steht direkt nach „ohne“, „zu“ direkt vor dem Infinitiv."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „indem“. Keep the first sentence at the beginning.",
+      "instructionDe": "Verbinde die Sätze mit „indem“. Der erste Satz bleibt am Anfang.",
+      "prompt": "Jonas hat seine Aussprache verbessert. Er hat jeden Abend Zeitungsartikel laut vorgelesen.",
+      "answers": [
+        "Jonas hat seine Aussprache verbessert, indem er jeden Abend Zeitungsartikel laut vorgelesen hat.",
+        "Jonas hat seine Aussprache verbessert, indem er jeden Abend laut Zeitungsartikel vorgelesen hat.",
+        "Jonas hat seine Aussprache verbessert, indem er jeden Abend Zeitungsartikel laut vorlas."
+      ],
+      "explanation": "Reading aloud is the method (*Wie* hat er seine Aussprache verbessert?) → „indem“. The conjugated verb „hat“ moves to the end: „… vorgelesen hat“.",
+      "explanationDe": "Das laute Vorlesen ist die Methode (*Wie* hat er seine Aussprache verbessert?) → „indem“. Das konjugierte Verb „hat“ rückt ans Ende: „… vorgelesen hat“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the noun phrase with a clause. Start with „Dadurch, dass“.",
+      "instructionDe": "Ersetze die Nominalgruppe durch einen Nebensatz. Beginne mit „Dadurch, dass“.",
+      "prompt": "Durch den Ausbau der Radwege ist der Autoverkehr in der Innenstadt zurückgegangen.",
+      "answers": [
+        "Dadurch, dass die Radwege ausgebaut wurden, ist der Autoverkehr in der Innenstadt zurückgegangen.",
+        "Dadurch, dass die Radwege ausgebaut worden sind, ist der Autoverkehr in der Innenstadt zurückgegangen.",
+        "Dadurch, dass man die Radwege ausgebaut hat, ist der Autoverkehr in der Innenstadt zurückgegangen."
+      ],
+      "explanation": "„der Ausbau der Radwege“ becomes a passive clause: „die Radwege wurden ausgebaut“ (no one is named, so the passive or „man“ fits). The verb goes to the end, then the main clause starts with „ist“.",
+      "explanationDe": "Aus „der Ausbau der Radwege“ wird ein Passivsatz: „die Radwege wurden ausgebaut“ (es wird niemand genannt, deshalb passt das Passiv oder „man“). Das Verb steht am Ende, dann beginnt der Hauptsatz mit „ist“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „ohne dass“.",
+      "instructionDe": "Verbinde die Sätze mit „ohne dass“.",
+      "prompt": "Die Firma hat den Standort geschlossen. Die Belegschaft wurde vorher nicht gefragt.",
+      "answers": [
+        "Die Firma hat den Standort geschlossen, ohne dass die Belegschaft vorher gefragt wurde.",
+        "Die Firma hat den Standort geschlossen, ohne dass die Belegschaft vorher gefragt worden ist.",
+        "Die Firma hat den Standort geschlossen, ohne dass die Belegschaft vorher gefragt worden wäre."
+      ],
+      "explanation": "Different subjects („die Firma“ / „die Belegschaft“) → „ohne dass“. Drop „nicht“: „ohne“ already says that the asking did not happen.",
+      "explanationDe": "Verschiedene Subjekte („die Firma“ / „die Belegschaft“) → „ohne dass“. Lass „nicht“ weg: „ohne“ sagt schon, dass niemand gefragt wurde."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite with „statt … zu“. Start with „Statt“.",
+      "instructionDe": "Schreib den Satz mit „statt … zu“ um. Beginne mit „Statt“.",
+      "prompt": "Herr Albers ruft nicht beim Kundenservice an. Er schreibt lieber eine lange Beschwerde-E-Mail.",
+      "answers": ["Statt beim Kundenservice anzurufen, schreibt Herr Albers lieber eine lange Beschwerde-E-Mail."],
+      "explanation": "Same subject → „statt … zu“. With a separable verb „zu“ goes between prefix and stem: „anzurufen“. The infinitive clause is position 1, so the verb „schreibt“ follows.",
+      "explanationDe": "Gleiches Subjekt → „statt … zu“. Bei trennbaren Verben steht „zu“ zwischen Vorsilbe und Stamm: „anzurufen“. Der Infinitivsatz ist Position 1, deshalb folgt das Verb „schreibt“."
+    }
+  ],
+  "related": ["infinitiv-mit-zu", "finale-saetze", "kausale-konsekutive-saetze", "nebensaetze-grundlagen", "adversative-saetze", "konditionalsaetze", "konsekutivsaetze-b2", "infinitivsaetze-b2", "korrelate", "nominalisierung"]
+}

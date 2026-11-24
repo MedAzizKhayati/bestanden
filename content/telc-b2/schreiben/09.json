@@ -1,0 +1,57 @@
+{
+  "id": "schreiben-09",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Musikschule für Erwachsene",
+  "topic": "freizeit",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Sie möchten in Ihrer Freizeit (wieder) ein Musikinstrument spielen. Auf der Website einer Musikschule in Graz haben Sie folgendes Angebot gefunden. Schreiben Sie eine E-Mail an die Musikschule, um mehr über das Angebot zu erfahren.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Klangwerk Graz – Musikschule für Erwachsene\n\nEs ist nie zu spät! Ob Sie als Kind schon einmal ein Instrument gespielt haben oder ganz von vorn beginnen: Bei uns lernen Anfänger und Wiedereinsteiger jeden Alters in entspannter Atmosphäre – ganz ohne Prüfungsdruck.\n\n• Klavier, Gitarre, Saxofon, Cello und Gesang\n• Einzelunterricht (45 Minuten) oder Kleingruppen mit höchstens vier Personen\n• flexible Termine von Montag bis Samstag, auch spätabends\n• Zehnerkarte statt Jahresvertrag: ab 290 Euro\n• Leihinstrumente und Übungsräume vor Ort\n• erste Probestunde kostenlos\n\nKlangwerk · Feldgasse 17 · 8020 Graz\ninfo@klangwerk-graz.at · www.klangwerk-graz.at"
+  },
+  "leitpunkte": [
+    "Beschreiben Sie, welche Ziele Sie mit dem Unterricht verfolgen.",
+    "Legen Sie dar, welche musikalischen Vorkenntnisse Sie haben.",
+    "Stellen Sie weitere Fragen zu den Kosten und zur Organisation des Unterrichts.",
+    "Erläutern Sie, welche Unterrichtsform für Sie infrage kommt und warum."
+  ],
+  "model": {
+    "subject": "Gitarrenunterricht für Wiedereinsteiger – Fragen zu Ihrem Angebot",
+    "text": "Sehr geehrte Damen und Herren,\n\nauf Ihrer Website habe ich gelesen, dass Sie Unterricht speziell für Erwachsene anbieten. Da ich nach über fünfzehn Jahren Pause wieder Gitarre spielen möchte, würde ich gern mehr über Ihr Angebot erfahren.\n\nMein wichtigstes Ziel ist es, bei der Hochzeit meiner Schwester im nächsten Sommer zwei Lieder zu begleiten. Langfristig würde ich außerdem gern in einer kleinen Band mitspielen, die einige Kollegen gerade gründen. Deshalb möchte ich nicht nur Akkorde üben, sondern auch lernen, nach Gehör zu spielen.\n\nWas die Unterrichtsform betrifft, kommt für mich vor allem Einzelunterricht infrage. Zum einen habe ich wegen meiner Schichtarbeit keine festen freien Abende, zum anderen möchte ich gezielt an meinen alten Schwächen arbeiten, etwa am schnellen Wechsel zwischen den Akkorden. In einer Gruppe wäre das vermutlich kaum möglich.\n\nDarüber hinaus hätte ich einige Fragen zur Organisation: Wie lange ist die Zehnerkarte gültig, und müssen kurzfristig abgesagte Stunden trotzdem bezahlt werden? Könnte ich die Termine jeweils von Woche zu Woche mit der Lehrkraft vereinbaren? Schließlich wüsste ich gern, ob die kostenlose Probestunde auch an einem Samstagvormittag stattfinden kann.\n\nIch würde mich freuen, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\nFlorian Pichler"
+  },
+  "modelNotes": [
+    "The model covers three points: the writer's goals (paragraph 2), the type of lessons and why (paragraph 3) and questions about costs and organisation (paragraph 4). The previous knowledge is only mentioned in half a sentence in the introduction – it does not count as a fourth point, and it does not need to.",
+    "The points are tied to the writer's life: a wedding next summer, a band, shift work. Personal, concrete reasons make the text differentiated, which is what criterion I expects at B2.",
+    "The questions are linked to the ad („Zehnerkarte“, „flexible Termine“, „Probestunde“) and ask for information the ad does not give.",
+    "B2 structures: two-part connectors („nicht nur … sondern auch“, „zum einen … zum anderen“), „Was … betrifft, …“, passive with a modal verb („bezahlt werden“) and Konjunktiv II („wäre“, „könnte“, „wüsste“)."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: die Ziele des Schreibers (2. Absatz), die passende Unterrichtsform mit Begründung (3. Absatz) und Fragen zu Kosten und Organisation (4. Absatz). Die Vorkenntnisse werden in der Einleitung nur in einem halben Satz erwähnt – das zählt nicht als vierter Punkt und muss es auch nicht.",
+    "Die Punkte sind mit dem Leben des Schreibers verbunden: eine Hochzeit im nächsten Sommer, eine Band, Schichtarbeit. Persönliche, konkrete Gründe machen den Text differenziert – genau das erwartet Kriterium I auf B2-Niveau.",
+    "Die Fragen beziehen sich auf die Anzeige („Zehnerkarte“, „flexible Termine“, „Probestunde“) und fragen nach Informationen, die in der Anzeige fehlen.",
+    "B2-Strukturen: zweiteilige Konnektoren („nicht nur … sondern auch“, „zum einen … zum anderen“), „Was … betrifft, …“, Passiv mit Modalverb („bezahlt werden“) und Konjunktiv II („wäre“, „könnte“, „wüsste“)."
+  ],
+  "phrases": [
+    { "de": "Ich würde gern mehr über Ihr Angebot erfahren.", "en": "I would like to find out more about your offer." },
+    { "de": "Mein wichtigstes Ziel ist es, … zu …", "en": "My main goal is to …" },
+    { "de": "Langfristig würde ich gern …", "en": "In the long term I would like to …" },
+    { "de": "Was die Unterrichtsform betrifft, kommt für mich vor allem … infrage.", "en": "As far as the type of lessons is concerned, … is the main option for me." },
+    { "de": "Zum einen …, zum anderen …", "en": "On the one hand …, on the other hand …" },
+    { "de": "In einer Gruppe wäre das vermutlich kaum möglich.", "en": "In a group that would probably hardly be possible." },
+    { "de": "Müssen kurzfristig abgesagte Stunden trotzdem bezahlt werden?", "en": "Do lessons cancelled at short notice still have to be paid for?" },
+    { "de": "Ich würde mich freuen, bald von Ihnen zu hören.", "en": "I look forward to hearing from you soon." }
+  ],
+  "glossary": [
+    { "de": "der Wiedereinsteiger, die Wiedereinsteigerin", "en": "someone starting again after a long break" },
+    { "de": "der Prüfungsdruck", "en": "exam pressure" },
+    { "de": "die Zehnerkarte", "en": "card for ten lessons" },
+    { "de": "das Leihinstrument", "en": "instrument on loan" },
+    { "de": "die Probestunde", "en": "trial lesson" },
+    { "de": "nach Gehör spielen", "en": "to play by ear" },
+    { "de": "etwas kommt infrage", "en": "something is an option" },
+    { "de": "die Schichtarbeit", "en": "shift work" }
+  ]
+}

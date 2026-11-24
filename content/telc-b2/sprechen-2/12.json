@@ -1,0 +1,108 @@
+{
+  "id": "sprechen-2-12",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Organspende: Widerspruch statt Zustimmung?",
+  "topic": "gesundheit",
+  "difficulty": 3,
+  "theme": "Sollte jeder Mensch als Organspender gelten, solange er nicht widerspricht?",
+  "article": {
+    "headline": "Wer schweigt, spendet? Neuer Anlauf für die Widerspruchslösung",
+    "lead": "Die große Mehrheit der Bevölkerung steht der Organspende positiv gegenüber – und dennoch warten mehr als 8.000 schwer kranke Menschen auf ein Spenderorgan. Abgeordnete mehrerer Fraktionen wollen die Regeln deshalb grundlegend ändern.",
+    "paragraphs": [
+      "Ihr Gesetzentwurf sieht vor, dass künftig jede volljährige Person als mögliche Spenderin oder möglicher Spender gilt, sofern sie zu Lebzeiten nicht widersprochen hat. Der Widerspruch soll jederzeit und ohne Begründung in einem digitalen Register eingetragen werden können. Liegt keine Erklärung vor, werden die Angehörigen lediglich gefragt, ob ihnen ein entgegenstehender Wille der verstorbenen Person bekannt ist.",
+      "Anlass für den Vorstoß sind ernüchternde Zahlen: Laut einer repräsentativen Umfrage des Bremer Instituts für Gesundheitskommunikation befürworten 84 Prozent der Befragten die Organspende grundsätzlich, doch nur 41 Prozent haben ihre Entscheidung dokumentiert. Folglich müssen häufig Angehörige in einer ohnehin belastenden Situation entscheiden – und lehnen im Zweifel ab. „Die Widerspruchslösung nimmt niemandem die Freiheit, Nein zu sagen. Sie verlangt lediglich, dass man sich einmal im Leben mit der Frage auseinandersetzt“, betont die Transplantationsmedizinerin Katharina Seebach.",
+      "Kritiker sehen darin hingegen einen Eingriff in das Selbstbestimmungsrecht. Eine Spende müsse ein bewusstes Geschenk bleiben, Schweigen dürfe nicht als Zustimmung gewertet werden, argumentiert der Medizinethiker Paul Hennings. Gerade Menschen, die kaum Deutsch sprechen oder mit Behördenschreiben überfordert sind, könnten ungewollt zu Spendern werden.",
+      "Umstritten ist zudem die Wirksamkeit der Neuregelung. Zwar wird in Ländern wie Spanien, wo eine Widerspruchsregelung gilt, deutlich häufiger gespendet. Fachleute führen dies jedoch vor allem auf die bessere Organisation in den Kliniken zurück, in denen speziell geschulte Teams mögliche Spender erkennen und die Gespräche mit den Familien führen.",
+      "Für Betroffene ist die Debatte alles andere als abstrakt. Die 52-jährige Sabine Harms aus Oldenburg wartet seit vier Jahren auf eine Spenderniere und muss dreimal pro Woche zur Dialyse. „Ich respektiere jeden, der Nein sagt“, erklärt sie. „Ich wünsche mir nur, dass sich alle überhaupt entscheiden.“ Abgestimmt werden soll im Frühjahr – ohne Fraktionszwang."
+    ],
+    "source": "Küstenblatt am Sonntag, Gesundheit und Gesellschaft"
+  },
+  "ideas": {
+    "pro": [
+      "mehr Organe für schwer kranke Menschen auf der Warteliste",
+      "jeder muss sich mindestens einmal mit der Frage beschäftigen",
+      "Angehörige müssen nicht mehr in einer Ausnahmesituation entscheiden",
+      "ein Nein bleibt jederzeit und ohne Begründung möglich",
+      "entspricht der positiven Haltung der großen Mehrheit",
+      "in vielen europäischen Ländern bereits üblich"
+    ],
+    "contra": [
+      "Schweigen ist keine Zustimmung",
+      "Eingriff in das Selbstbestimmungsrecht über den eigenen Körper",
+      "benachteiligt Menschen mit Sprach- oder Informationsproblemen",
+      "eine Spende sollte ein freiwilliges Geschenk bleiben",
+      "das eigentliche Problem ist die Organisation in den Kliniken",
+      "Zwang könnte das Vertrauen in die Transplantationsmedizin beschädigen"
+    ]
+  },
+  "questions": [
+    "Halten Sie die Widerspruchslösung für gerechtfertigt? Begründen Sie Ihre Meinung.",
+    "Wie ist die Organspende in Ihrem Heimatland geregelt, und wie offen wird darüber gesprochen?",
+    "Wie könnte man mehr Menschen dazu bewegen, eine bewusste Entscheidung zu treffen?",
+    "Welche Rolle sollten die Angehörigen bei der Entscheidung spielen?",
+    "Darf der Staat bei so persönlichen Fragen davon ausgehen, dass jemand einverstanden ist?",
+    "Sollte das Thema Organspende schon in der Schule behandelt werden? Warum (nicht)?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Joaquín Medina", "gender": "m", "age": "adult", "role": "Teilnehmer A" },
+    { "id": "B", "name": "Dragana Ilić", "gender": "f", "age": "adult", "role": "Teilnehmerin B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie haben beide den Artikel zur Organspende gelesen. Herr Medina, beginnen Sie bitte mit einer kurzen Zusammenfassung." },
+    { "s": "A", "t": "Gern. Der Artikel berichtet über einen Gesetzentwurf, nach dem künftig jeder Erwachsene als möglicher Organspender gelten soll, solange er nicht ausdrücklich widersprochen hat. Diesen Widerspruch könnte man jederzeit und ohne Begründung in einem Register eintragen." },
+    { "s": "A", "t": "Hintergrund ist, dass zwar vierundachtzig Prozent der Menschen die Organspende grundsätzlich befürworten, aber nur gut vierzig Prozent ihre Entscheidung festgehalten haben. Eine Transplantationsmedizinerin betont, die Regelung nehme niemandem die Freiheit, Nein zu sagen, sondern verlange nur, dass man sich einmal mit der Frage beschäftige." },
+    { "s": "A", "t": "Ein Medizinethiker hält dagegen, Schweigen dürfe nicht als Zustimmung gewertet werden, weil eine Spende ein bewusstes Geschenk bleiben müsse." },
+    { "s": "B", "t": "Ich möchte noch ergänzen, dass im Artikel auch Zweifel geäußert werden, ob die Neuregelung überhaupt wirkt. In Spanien wird zwar viel häufiger gespendet, Fachleute erklären das aber vor allem mit der besseren Organisation in den Krankenhäusern." },
+    { "s": "A", "t": "Richtig, das ist ein wichtiger Punkt. Wie siehst du die Sache denn grundsätzlich?" },
+    { "s": "B", "t": "Ich bin ehrlich gesagt hin- und hergerissen. Einerseits finde ich es furchtbar, dass so viele Menschen jahrelang auf eine Niere warten müssen, wie die Patientin im Artikel. Andererseits habe ich ein ungutes Gefühl dabei, wenn der Staat einfach davon ausgeht, dass ich einverstanden bin." },
+    { "s": "A", "t": "Das kann ich nachvollziehen. Ich sehe es allerdings so: Niemand wird gezwungen. Wer nicht spenden möchte, braucht nur zwei Minuten, um das im Register einzutragen." },
+    { "s": "B", "t": "Für dich und mich sind das vielleicht zwei Minuten. Aber denk mal an Menschen, die kaum Deutsch sprechen oder mit Behördenbriefen überfordert sind. Die wissen womöglich gar nicht, dass sie widersprechen müssten." },
+    { "s": "A", "t": "Das ist ein berechtigter Einwand, den man nicht unterschätzen sollte. Deshalb müsste der Staat alle Bürgerinnen und Bürger mehrmals und in verschiedenen Sprachen anschreiben, bevor die Regelung in Kraft tritt." },
+    { "s": "B", "t": "Selbst dann bleibt ein grundsätzlicher Unterschied, finde ich. Bei der jetzigen Lösung ist eine Spende ein bewusstes Ja. Bei der Widerspruchslösung wird aus einem Geschenk eine Art Pflicht, von der man sich erst befreien muss." },
+    { "s": "A", "t": "Ich verstehe, was du meinst. Aber ist die jetzige Lösung wirklich so viel besser? Wenn jemand keine Entscheidung hinterlassen hat, müssen die Angehörigen im schlimmsten Moment ihres Lebens entscheiden, und viele sagen dann aus Unsicherheit Nein." },
+    { "s": "B", "t": "Da muss ich dir recht geben. Als mein Onkel nach einem Unfall gestorben ist, wurde meine Tante im Krankenhaus genau das gefragt. Sie war völlig überfordert und hat sich danach lange Vorwürfe gemacht." },
+    { "s": "A", "t": "Das tut mir leid, das muss für deine Familie sehr schwer gewesen sein. Genau solche Situationen könnte eine klare Regelung doch vermeiden, oder?" },
+    { "s": "B", "t": "Nicht unbedingt, denn laut dem Entwurf werden die Angehörigen ja trotzdem gefragt, ob sie einen anderen Willen kennen. Ich glaube eher, dass meiner Tante ein ausgefüllter Organspendeausweis geholfen hätte, ganz egal mit welcher Antwort." },
+    { "s": "A", "t": "Da ist etwas dran. Vielleicht liegt das eigentliche Problem also gar nicht im Gesetz, sondern darin, dass die meisten Menschen das Thema verdrängen." },
+    { "s": "B", "t": "So sehe ich das auch. Und wenn Spanien wirklich vor allem wegen der Organisation so erfolgreich ist, sollte man zuerst in den Kliniken ansetzen: mehr geschultes Personal und mehr Zeit für Gespräche mit den Familien." },
+    { "s": "A", "t": "Das eine schließt das andere aber nicht aus. Ich könnte mir vorstellen, dass man beim Beantragen des Personalausweises verbindlich angeben muss, ob man spenden möchte, ob man nicht spenden möchte oder ob man sich noch nicht festlegen will." },
+    { "s": "B", "t": "Das finde ich einen guten Kompromiss, weil sich dann jeder mit der Frage beschäftigen muss, ohne dass ihm die Entscheidung abgenommen wird. Allerdings dürfte niemand unter Druck gesetzt werden, sofort am Schalter zu antworten." },
+    { "s": "A", "t": "Einverstanden. Wer unsicher ist, sollte vorher in Ruhe eine unabhängige Beratung bekommen, zum Beispiel in der Hausarztpraxis." },
+    { "s": "B", "t": "Und ganz wichtig: Jede Entscheidung, auch ein Nein, muss respektiert werden. Sonst verlieren die Menschen das Vertrauen in die Transplantationsmedizin." },
+    { "s": "A", "t": "Gut, dann halten wir fest: Wir sind beide für eine verbindliche Abfrage beim Ausweis und für bessere Strukturen in den Kliniken. Falls das nicht reicht, wäre ich weiterhin für die Widerspruchslösung, du eher nicht." },
+    { "s": "B", "t": "Richtig, in diesem Punkt bleiben wir unterschiedlicher Meinung, und bei einer so persönlichen Frage ist das auch in Ordnung. Mit unserem Vorschlag wäre aber schon viel gewonnen." },
+    { "s": "P", "t": "Vielen Dank. Haben Sie selbst schon einmal über einen Organspendeausweis nachgedacht?" },
+    { "s": "A", "t": "Ja, ich habe seit einigen Jahren einen. Seitdem fühle ich mich eigentlich erleichtert, weil meine Familie im Ernstfall weiß, was ich möchte." },
+    { "s": "B", "t": "Ich habe ehrlich gesagt noch keinen. Aber nach diesem Gespräch werde ich mir das ernsthaft überlegen, wie auch immer meine Entscheidung am Ende ausfällt." }
+  ],
+  "phrases": [
+    { "de": "Der Artikel berichtet über einen Gesetzentwurf, nach dem …", "en": "The article reports on a draft law according to which …" },
+    { "de": "… betont, die Regelung nehme niemandem die Freiheit, …", "en": "… stresses that the rule takes away nobody's freedom to … (reported speech)" },
+    { "de": "… hält dagegen, …", "en": "… counters that …" },
+    { "de": "Ich bin ehrlich gesagt hin- und hergerissen.", "en": "To be honest, I'm torn." },
+    { "de": "Einerseits …, andererseits …", "en": "On the one hand …, on the other hand …" },
+    { "de": "Ich habe ein ungutes Gefühl dabei, wenn …", "en": "I feel uneasy about it when …" },
+    { "de": "Das ist ein berechtigter Einwand, den man nicht unterschätzen sollte.", "en": "That's a valid objection that shouldn't be underestimated." },
+    { "de": "Ich verstehe, was du meinst. Aber …", "en": "I understand what you mean. But …" },
+    { "de": "Da muss ich dir recht geben.", "en": "I have to agree with you there." },
+    { "de": "Da ist etwas dran.", "en": "There's something in that." },
+    { "de": "Das eine schließt das andere nicht aus.", "en": "The one doesn't rule out the other." },
+    { "de": "In diesem Punkt bleiben wir unterschiedlicher Meinung.", "en": "On this point we'll have to agree to disagree." }
+  ],
+  "vocabulary": [
+    { "de": "die Widerspruchslösung", "en": "opt-out system (presumed consent)" },
+    { "de": "die Zustimmungslösung", "en": "opt-in system (explicit consent)" },
+    { "de": "der Organspendeausweis", "en": "organ donor card" },
+    { "de": "das Spenderorgan", "en": "donor organ" },
+    { "de": "die Warteliste", "en": "waiting list" },
+    { "de": "der/die Angehörige", "en": "relative, next of kin" },
+    { "de": "das Selbstbestimmungsrecht", "en": "right to self-determination" },
+    { "de": "der Gesetzentwurf", "en": "draft bill" },
+    { "de": "einer Sache widersprechen", "en": "to object to something, to opt out" },
+    { "de": "ohne Fraktionszwang abstimmen", "en": "to hold a free vote (no party whip)" },
+    { "de": "die Dialyse", "en": "dialysis" },
+    { "de": "etwas verdrängen", "en": "to push something out of one's mind" }
+  ]
+}

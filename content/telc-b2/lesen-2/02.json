@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-02",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Reparieren statt Wegwerfen",
+  "topic": "umwelt",
+  "difficulty": 1,
+  "article": {
+    "headline": "Schraubenzieher statt Mülltonne: Was Reparaturcafés leisten – und was nicht",
+    "lead": "Toaster defekt, Reißverschluss kaputt? Immer mehr Menschen bringen solche Dinge nicht zum Wertstoffhof, sondern in ein Reparaturcafé. Eine erste umfassende Auswertung zeigt, wie erfolgreich die Initiativen tatsächlich sind.",
+    "paragraphs": [
+      "Samstagvormittag im Gemeindesaal einer Kirche im Leipziger Osten: An sechs Tischen wird geschraubt, gelötet und genäht. Ein pensionierter Elektriker beugt sich über eine Stehlampe, eine Schneiderin erklärt einer Studentin, wie man einen Saum ausbessert, und vor der Tür warten bereits die nächsten Besucher mit Kaffeemaschinen, Radios und Fahrradlichtern. Seit acht Jahren treffen sich hier an jedem ersten Samstag im Monat Ehrenamtliche, um gemeinsam mit den Besitzern zu reparieren, was andernfalls im Müll landen würde.",
+      "Gegründet wurde das Café von Heike Sommerfeld, einer früheren Fernmeldetechnikerin, die sich nach ihrem Eintritt in den Ruhestand nicht damit abfinden wollte, dass Geräte schon wegen eines defekten Schalters ersetzt werden. Das Prinzip ist bis heute dasselbe geblieben: Wer ein kaputtes Gerät mitbringt, gibt es nicht einfach ab, sondern bleibt dabei und schraubt unter Anleitung selbst mit. „Wir sind keine kostenlose Werkstatt, sondern ein Ort, an dem man etwas lernt“, betont Sommerfeld. Bezahlt wird nichts; über eine Spende in die Kaffeekasse freut man sich allerdings.",
+      "Wie viel die bundesweit rund 1.100 Reparaturinitiativen bewirken, hat nun erstmals die Arbeitsgemeinschaft Reparaturkultur systematisch untersucht. Ausgewertet wurden die Protokolle von mehr als 18.000 Reparaturversuchen aus zwei Jahren. Demnach konnten knapp sechs von zehn Gegenständen wieder funktionsfähig gemacht werden. Die Unterschiede zwischen den Produktgruppen sind allerdings beträchtlich: Während bei Kleidung und Fahrrädern rund 80 Prozent der Reparaturen gelangen, war es bei Smartphones und Tablets nur etwa ein Drittel. Als Hauptgrund für das Scheitern nennen die Helferinnen und Helfer nicht etwa mangelndes Fachwissen, sondern verklebte Gehäuse und fehlende Ersatzteile.",
+      "Lohnt sich der Aufwand also aus ökologischer Sicht? Der Magdeburger Umweltökonom Torsten Wiegand hat berechnet, dass jede gelungene Reparatur eines Elektrogeräts im Durchschnitt rund 24 Kilogramm Kohlendioxid einspart, weil kein neues Gerät hergestellt und transportiert werden muss. Gemessen an der gesamten Menge an Elektroschrott falle der Beitrag der Reparaturcafés jedoch kaum ins Gewicht, räumt er ein. Ihre eigentliche Bedeutung liege woanders: „Wer einmal erlebt hat, dass sich ein Toaster mit wenigen Handgriffen retten lässt, kauft beim nächsten Mal bewusster ein und fragt nach Ersatzteilen.“",
+      "Genau bei den Ersatzteilen beginnen allerdings die Probleme. Zwar sind die Hersteller mancher Haushaltsgeräte inzwischen verpflichtet, Ersatzteile über mehrere Jahre bereitzuhalten. Die Preise dafür seien jedoch häufig so hoch, dass sich eine Reparatur kaum lohne, kritisiert Heike Sommerfeld. „Wenn ein neuer Akku fast so viel kostet wie ein neuer Rasierer, wundert sich niemand, dass die Leute das alte Gerät wegwerfen.“ Einfache Kunststoffteile wie Knöpfe oder Halterungen stellt ein junger Helfer inzwischen mit einem 3D-Drucker selbst her; für Akkus oder elektronische Bauteile gibt es diese Möglichkeit jedoch nicht.",
+      "Lange begegnete das Handwerk den Initiativen mit Misstrauen, weil es Konkurrenz durch kostenlose Hilfe fürchtete. Diese Sorge hat sich aus Sicht von Ralf Köhler, Inhaber eines Elektrofachbetriebs im Leipziger Stadtteil Reudnitz, nicht bestätigt. Im Gegenteil: Kunden, die im Reparaturcafé gelernt hätten, dass sich ein Defekt beheben lässt, kämen mit komplizierteren Fällen nun häufiger zu ihm. „Und wenn jemand nur einen Wackelkontakt im Stecker hat, schicke ich ihn ins Café – dafür lohnt sich eine Rechnung von uns gar nicht.“",
+      "Für Heike Sommerfeld ist das die schönste Entwicklung. „Wir wollen niemandem die Arbeit wegnehmen“, sagt sie. „Wir wollen nur, dass Reparieren wieder etwas Selbstverständliches wird.“"
+    ],
+    "source": "Mitteldeutsches Umweltjournal"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Im Reparaturcafé von Heike Sommerfeld …",
+      "options": [
+        { "key": "a", "text": "sollen die Besucher bei der Reparatur ihrer Geräte selbst mithelfen." },
+        { "key": "b", "text": "können defekte Geräte abgegeben und später repariert abgeholt werden." },
+        { "key": "c", "text": "muss für jede Reparatur ein kleiner Betrag bezahlt werden." }
+      ],
+      "answer": "a",
+      "explanation": "Whoever brings a broken device „gibt es nicht einfach ab, sondern bleibt dabei und schraubt unter Anleitung selbst mit“ – visitors help with the repair, so (a). Dropping off and collecting later is exactly what does not happen (b). „Bezahlt wird nichts“ – a donation is voluntary (c).",
+      "explanationDe": "Wer ein kaputtes Gerät mitbringt, „gibt es nicht einfach ab, sondern bleibt dabei und schraubt unter Anleitung selbst mit“ – die Besucher helfen also mit, deshalb (a). Abgeben und später abholen ist genau das, was dort nicht passiert (b). „Bezahlt wird nichts“ – eine Spende ist freiwillig (c).",
+      "evidence": "bleibt dabei und schraubt unter Anleitung selbst mit"
+    },
+    {
+      "n": 2,
+      "stem": "Die Auswertung der Reparaturprotokolle hat ergeben, dass …",
+      "options": [
+        { "key": "a", "text": "mehr als drei Viertel aller mitgebrachten Gegenstände repariert werden konnten." },
+        { "key": "b", "text": "Reparaturen meistens am fehlenden Wissen der Ehrenamtlichen scheitern." },
+        { "key": "c", "text": "mobile Geräte wie Handys erheblich seltener wieder funktionieren als kaputte Kleidungsstücke." }
+      ],
+      "answer": "c",
+      "explanation": "Clothing and bikes were repaired in about 80 percent of cases, „bei Smartphones und Tablets nur etwa ein Drittel“ – mobile devices work again much less often, so (c). The 80 percent applies only to clothing and bikes; overall it is „knapp sechs von zehn“ (a). Failure is caused „nicht etwa“ by a lack of expertise, but by glued cases and missing spare parts (b).",
+      "explanationDe": "Kleidung und Fahrräder ließen sich in rund 80 Prozent der Fälle reparieren, „bei Smartphones und Tablets nur etwa ein Drittel“ – Handys und Tablets funktionieren also viel seltener wieder, deshalb (c). Die 80 Prozent gelten nur für Kleidung und Fahrräder; insgesamt sind es „knapp sechs von zehn“ (a). Der Grund für das Scheitern ist „nicht etwa mangelndes Fachwissen“, sondern verklebte Gehäuse und fehlende Ersatzteile (b).",
+      "evidence": "Während bei Kleidung und Fahrrädern rund 80 Prozent der Reparaturen gelangen, war es bei Smartphones und Tablets nur etwa ein Drittel"
+    },
+    {
+      "n": 3,
+      "stem": "Torsten Wiegand sieht den wichtigsten Nutzen der Reparaturcafés darin, dass …",
+      "options": [
+        { "key": "a", "text": "sie die Menge des Elektroschrotts spürbar verringern." },
+        { "key": "b", "text": "sie die Besucher zu einem bewussteren Kaufverhalten anregen." },
+        { "key": "c", "text": "bei jeder Reparatur durchschnittlich 24 Kilogramm Elektroschrott vermieden werden." }
+      ],
+      "answer": "b",
+      "explanation": "Their real importance lies elsewhere: someone who has saved a toaster „kauft beim nächsten Mal bewusster ein und fragt nach Ersatzteilen“ – the cafés change buying behaviour, so (b). Compared with all electronic waste their contribution „falle … kaum ins Gewicht“ (a). The 24 kilograms refer to carbon dioxide that is saved, not to waste (c).",
+      "explanationDe": "Die eigentliche Bedeutung liegt woanders: Wer einen Toaster gerettet hat, „kauft beim nächsten Mal bewusster ein und fragt nach Ersatzteilen“ – das Kaufverhalten ändert sich, also (b). Im Vergleich zur ganzen Menge an Elektroschrott „falle“ der Beitrag „kaum ins Gewicht“ (a). Die 24 Kilogramm beziehen sich auf eingespartes Kohlendioxid, nicht auf Müll (c).",
+      "evidence": "kauft beim nächsten Mal bewusster ein und fragt nach Ersatzteilen"
+    },
+    {
+      "n": 4,
+      "stem": "Über Ersatzteile erfährt man, dass …",
+      "options": [
+        { "key": "a", "text": "sie für manche Geräte zwar bereitgehalten werden müssen, aber oft unverhältnismäßig viel kosten." },
+        { "key": "b", "text": "Hersteller sie für Haushaltsgeräte nur noch wenige Monate anbieten müssen." },
+        { "key": "c", "text": "das Café die meisten von ihnen inzwischen mit einem 3D-Drucker selbst herstellt." }
+      ],
+      "answer": "a",
+      "explanation": "Manufacturers of some appliances must keep spare parts available, but „Die Preise dafür seien jedoch häufig so hoch, dass sich eine Reparatur kaum lohne“ – so (a). The obligation lasts „über mehrere Jahre“, not a few months (b). The 3D printer only makes simple plastic parts such as „Knöpfe oder Halterungen“, not most spare parts (c).",
+      "explanationDe": "Die Hersteller mancher Haushaltsgeräte müssen Ersatzteile bereithalten, aber „Die Preise dafür seien jedoch häufig so hoch, dass sich eine Reparatur kaum lohne“ – also (a). Die Pflicht gilt „über mehrere Jahre“, nicht nur wenige Monate (b). Mit dem 3D-Drucker werden nur einfache Teile wie „Knöpfe oder Halterungen“ hergestellt, nicht die meisten Ersatzteile (c).",
+      "evidence": "Die Preise dafür seien jedoch häufig so hoch, dass sich eine Reparatur kaum lohne"
+    },
+    {
+      "n": 5,
+      "stem": "Ralf Köhler, der Inhaber eines Elektrofachbetriebs, …",
+      "options": [
+        { "key": "a", "text": "fürchtet bis heute, dass ihm das Reparaturcafé Kunden wegnimmt." },
+        { "key": "b", "text": "übernimmt für das Café vor allem die einfachen Reparaturen." },
+        { "key": "c", "text": "hat durch das Reparaturcafé eher zusätzliche Aufträge bekommen." }
+      ],
+      "answer": "c",
+      "explanation": "Customers who learned in the café that a defect can be fixed „kämen mit komplizierteren Fällen nun häufiger zu ihm“ – he gets more work, so (c). The fear of competition „hat sich … nicht bestätigt“ (a). It is the other way round: Köhler sends simple cases such as a „Wackelkontakt im Stecker“ to the café (b).",
+      "explanationDe": "Kunden, die im Café gelernt haben, dass man einen Defekt beheben kann, „kämen mit komplizierteren Fällen nun häufiger zu ihm“ – er bekommt also mehr Aufträge, deshalb (c). Die Angst vor Konkurrenz „hat sich … nicht bestätigt“ (a). Es ist umgekehrt: Köhler schickt einfache Fälle wie einen „Wackelkontakt im Stecker“ ins Café (b).",
+      "evidence": "kämen mit komplizierteren Fällen nun häufiger zu ihm"
+    }
+  ],
+  "glossary": [
+    { "de": "der Wertstoffhof", "en": "recycling centre" },
+    { "de": "löten", "en": "to solder" },
+    { "de": "einen Saum ausbessern", "en": "to mend a hem" },
+    { "de": "sich mit etwas abfinden", "en": "to resign oneself to sth., to accept sth." },
+    { "de": "unter Anleitung", "en": "under guidance" },
+    { "de": "das Gehäuse", "en": "casing, housing" },
+    { "de": "verklebt", "en": "glued (shut)" },
+    { "de": "kaum ins Gewicht fallen", "en": "to hardly matter" },
+    { "de": "einräumen", "en": "to admit, to concede" },
+    { "de": "bereithalten", "en": "to keep available" },
+    { "de": "der Wackelkontakt", "en": "loose connection" },
+    { "de": "einen Defekt beheben", "en": "to fix a fault" }
+  ]
+}

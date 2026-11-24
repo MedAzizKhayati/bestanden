@@ -1,0 +1,138 @@
+{
+  "id": "b2-schreiben-beschwerde",
+  "level": "B2",
+  "order": 102,
+  "context": "schreiben",
+  "title": "Beschwerde & Reklamation",
+  "titleEn": "Complaints & claims",
+  "description": "For the B2 complaint or claim: name the occasion with facts (date, product, booking), describe the defects objectively, quote what the ad promised, explain the consequences and say clearly what you expect – with a deadline. Stay firm but polite: criterion II rewards a consistently formal register, not anger. These Redemittel add to the B1 bank „Halbformelle E-Mails“.",
+  "descriptionDe": "Für die B2-Beschwerde oder -Reklamation: Nenne den Anlass mit Fakten (Datum, Produkt, Buchung), beschreibe die Mängel sachlich, zitiere die Versprechen der Anzeige, erkläre die Folgen und sag klar, was du erwartest – mit einer Frist. Bleib bestimmt, aber höflich: Im Kriterium II zählt ein durchgehend formeller Stil, nicht Ärger. Diese Redemittel ergänzen die B1-Sammlung „Halbformelle E-Mails“.",
+  "groups": [
+    {
+      "title": "Den Anlass nennen",
+      "titleEn": "Stating the reason for writing",
+      "register": "formal",
+      "phrases": [
+        { "de": "Ich wende mich heute mit einer Beschwerde über Ihren Lieferservice an Sie.", "en": "I am contacting you today with a complaint about your delivery service.", "note": "sich wenden an + accusative = to contact, to turn to", "noteDe": "sich wenden an + Akkusativ = sich an jemanden richten" },
+        { "de": "Am 3. März habe ich in Ihrem Onlineshop eine Kaffeemaschine bestellt (Bestellnummer KM-48217).", "en": "On 3 March I ordered a coffee machine from your online shop (order number KM-48217).", "note": "Start with the facts: date, product, order or booking number.", "noteDe": "Beginne mit den Fakten: Datum, Produkt, Bestell- oder Buchungsnummer." },
+        { "de": "Hiermit reklamiere ich die Winterjacke, die ich am 12. November bei Ihnen gekauft habe.", "en": "I am hereby making a claim regarding the winter jacket I bought from you on 12 November.", "note": "reklamieren = to complain about a faulty product and ask for a remedy (not „to reclaim“)", "noteDe": "reklamieren = sich über eine fehlerhafte Ware beschweren und eine Lösung verlangen" },
+        { "de": "Ich schreibe Ihnen wegen meines Aufenthalts in Ihrem Hotel vom 2. bis 9. August.", "en": "I am writing to you about my stay at your hotel from 2 to 9 August.", "note": "wegen + genitive in written German", "noteDe": "wegen + Genitiv in der Schriftsprache" },
+        { "de": "Leider entsprach die Reise in keiner Weise meinen Erwartungen.", "en": "Unfortunately the trip did not meet my expectations in any way.", "note": "entsprechen + dative; „in keiner Weise“ = not at all (formal)", "noteDe": "entsprechen + Dativ; „in keiner Weise“ = überhaupt nicht (formell)" },
+        { "de": "Als langjährige Kundin hätte ich nicht erwartet, so behandelt zu werden.", "en": "As a long-standing customer, I would not have expected to be treated like this.", "note": "Konjunktiv II past + passive infinitive; a man writes „Als langjähriger Kunde …“.", "noteDe": "Konjunktiv II der Vergangenheit + Infinitiv Passiv; ein Mann schreibt „Als langjähriger Kunde …“." },
+        { "de": "Mit Ihrem Service bin ich äußerst unzufrieden, und zwar aus folgenden Gründen:", "en": "I am extremely dissatisfied with your service, for the following reasons:", "note": "„und zwar“ announces the details that follow.", "noteDe": "„und zwar“ kündigt die genauen Einzelheiten an." }
+      ]
+    },
+    {
+      "title": "Mängel sachlich darlegen",
+      "titleEn": "Describing defects objectively",
+      "register": "formal",
+      "phrases": [
+        { "de": "Gleich nach dem Auspacken fiel mir auf, dass das Display einen Sprung hat.", "en": "Straight after unpacking it, I noticed that the display has a crack.", "note": "jemandem fällt etwas auf = someone notices something (the thing noticed is the subject)", "noteDe": "jemandem fällt etwas auf = jemand bemerkt etwas (das Bemerkte ist das Subjekt)" },
+        { "de": "Der Koffer weist an zwei Stellen deutliche Risse auf.", "en": "The suitcase has clear tears in two places.", "note": "aufweisen = to have, to show (formal, typical for defects)", "noteDe": "aufweisen = haben, zeigen (formell, typisch für Mängel)" },
+        { "de": "Nach nur drei Wochen ist der Akku vollständig ausgefallen.", "en": "After only three weeks the battery stopped working completely.", "note": "ausfallen = to fail, to stop working (Perfekt with „sein“)", "noteDe": "ausfallen = nicht mehr funktionieren (Perfekt mit „sein“)" },
+        { "de": "Statt des bestellten Modells in Grau wurde mir ein schwarzes geliefert.", "en": "Instead of the grey model I ordered, I was sent a black one.", "note": "statt + genitive; passive with a dative: „wurde mir geliefert“", "noteDe": "statt + Genitiv; Passiv mit Dativ: „wurde mir geliefert“" },
+        { "de": "Außerdem fehlten im Paket die Montageanleitung und mehrere Schrauben.", "en": "In addition, the assembly instructions and several screws were missing from the parcel." },
+        { "de": "Das Zimmer befand sich in einem unzumutbaren Zustand: Die Bettwäsche war fleckig, und im Bad roch es nach Schimmel.", "en": "The room was in an unacceptable state: the bed linen was stained and the bathroom smelled of mould.", "note": "unzumutbar = unacceptable, more than anyone can be expected to put up with", "noteDe": "unzumutbar = so schlecht, dass man es nicht hinnehmen muss" },
+        { "de": "Die Heizung funktioniert nur eingeschränkt, sodass die Temperatur nachts auf 15 Grad sinkt.", "en": "The heating only works partly, so the temperature drops to 15 degrees at night.", "note": "eingeschränkt = to a limited extent", "noteDe": "eingeschränkt = nur teilweise" },
+        { "de": "Als Beleg sende ich Ihnen Fotos der beschädigten Teile im Anhang.", "en": "As evidence, I am attaching photos of the damaged parts.", "note": "der Beleg = proof, evidence (also: receipt)", "noteDe": "der Beleg = Nachweis, Beweis (auch: Quittung)" }
+      ]
+    },
+    {
+      "title": "Sich auf die Versprechen der Anzeige berufen",
+      "titleEn": "Quoting what the ad promised",
+      "register": "formal",
+      "phrases": [
+        { "de": "In Ihrer Anzeige werben Sie mit einem „persönlichen Service rund um die Uhr“.", "en": "In your ad you advertise a „personal service around the clock“.", "note": "werben mit + dative = to advertise something; quote the exact words", "noteDe": "werben mit + Dativ = etwas in der Werbung versprechen; zitiere die genauen Worte" },
+        { "de": "Ihrem Prospekt zufolge sollte das Frühstück im Preis inbegriffen sein.", "en": "According to your brochure, breakfast was supposed to be included in the price.", "note": "„zufolge“ + dative comes after the noun; „sollte“ = was supposed to", "noteDe": "„zufolge“ + Dativ steht nach dem Nomen; „sollte“ = so war es versprochen" },
+        { "de": "Sie versprechen „Erholung pur“ – davon konnte jedoch keine Rede sein.", "en": "You promise „pure relaxation“ – but there was no question of that.", "note": "davon kann keine Rede sein = that is not true at all", "noteDe": "davon kann keine Rede sein = das stimmt überhaupt nicht" },
+        { "de": "Anders als in Ihrer Anzeige angekündigt, war der Pool während unseres gesamten Aufenthalts geschlossen.", "en": "Contrary to what your ad announced, the pool was closed for our entire stay.", "note": "„Anders als angekündigt“ is position 1 – the verb follows straight after the comma.", "noteDe": "„Anders als angekündigt“ steht auf Position 1 – das Verb folgt direkt nach dem Komma." },
+        { "de": "Entgegen Ihrer Zusage wurde die Ware nicht innerhalb von drei Werktagen geliefert.", "en": "Contrary to your promise, the goods were not delivered within three working days.", "note": "entgegen + dative = contrary to", "noteDe": "entgegen + Dativ = im Gegensatz zu" },
+        { "de": "Von der versprochenen fachlichen Betreuung war nichts zu merken.", "en": "There was no sign of the professional supervision you promised.", "note": "von etwas ist nichts zu merken = there is no sign of something", "noteDe": "von etwas ist nichts zu merken = es gibt keine Spur davon" },
+        { "de": "Die Wirklichkeit sah leider ganz anders aus.", "en": "Unfortunately, the reality was completely different.", "note": "A short sentence that contrasts the promise with what really happened.", "noteDe": "Ein kurzer Satz, der das Versprechen der Wirklichkeit gegenüberstellt." },
+        { "de": "Gerade wegen der zentralen Lage hatte ich mich für Ihr Hotel entschieden.", "en": "It was precisely because of the central location that I had chosen your hotel.", "note": "Plusquamperfekt: the decision came before the problems.", "noteDe": "Plusquamperfekt: Die Entscheidung lag vor den Problemen." }
+      ]
+    },
+    {
+      "title": "Folgen schildern",
+      "titleEn": "Describing the consequences",
+      "register": "formal",
+      "phrases": [
+        { "de": "Dadurch sind mir zusätzliche Kosten in Höhe von 120 Euro entstanden.", "en": "As a result, I have incurred additional costs of 120 euros.", "note": "jemandem entstehen Kosten = someone incurs costs; „in Höhe von“ = amounting to", "noteDe": "jemandem entstehen Kosten = jemand muss zusätzlich bezahlen; „in Höhe von“ nennt den Betrag" },
+        { "de": "Infolgedessen musste ich mir einen Tag freinehmen, um auf den Techniker zu warten.", "en": "As a result, I had to take a day off to wait for the technician.", "note": "infolgedessen = as a result; the verb follows immediately", "noteDe": "infolgedessen = als Folge davon; das Verb folgt direkt danach" },
+        { "de": "Das hatte zur Folge, dass wir unseren Anschlussflug verpassten.", "en": "As a consequence, we missed our connecting flight.", "note": "etwas zur Folge haben = to result in something", "noteDe": "etwas zur Folge haben = etwas verursachen" },
+        { "de": "Unser Familienurlaub war somit alles andere als erholsam.", "en": "Our family holiday was therefore anything but relaxing.", "note": "alles andere als = anything but", "noteDe": "alles andere als = überhaupt nicht" },
+        { "de": "Hätte ich das gewusst, hätte ich die Reise nie gebucht.", "en": "Had I known that, I would never have booked the trip.", "note": "Konjunktiv II past without „wenn“ – the verb comes first.", "noteDe": "Konjunktiv II der Vergangenheit ohne „wenn“ – das Verb steht am Anfang." },
+        { "de": "Der Ausfall des Aufzugs stellt für meine 82-jährige Mutter eine erhebliche Belastung dar.", "en": "The lift being out of order is a considerable burden for my 82-year-old mother.", "note": "eine Belastung darstellen = to be a burden (formal); erheblich = considerable", "noteDe": "eine Belastung darstellen = eine Belastung sein (formell); erheblich = groß, deutlich" },
+        { "de": "Zudem habe ich durch zahllose Telefonate viel Zeit verloren.", "en": "What is more, I have lost a lot of time through countless phone calls.", "note": "zudem = moreover (formal)", "noteDe": "zudem = außerdem (formell)" }
+      ]
+    },
+    {
+      "title": "Bisherige Reaktionen darstellen",
+      "titleEn": "Describing how they have responded so far",
+      "register": "formal",
+      "phrases": [
+        { "de": "Den Mangel habe ich bereits am 5. Oktober telefonisch gemeldet.", "en": "I already reported the defect by phone on 5 October." },
+        { "de": "Die Mitarbeiterin an der Rezeption versicherte mir, das Problem werde umgehend behoben.", "en": "The receptionist assured me that the problem would be fixed immediately.", "note": "Konjunktiv I (werde) for reported speech; beheben = to fix", "noteDe": "Konjunktiv I (werde) für die indirekte Rede; beheben = in Ordnung bringen" },
+        { "de": "Auf meine E-Mail vom 18. Mai habe ich bis heute keine Antwort erhalten.", "en": "To this day, I have not received a reply to my e-mail of 18 May.", "note": "„bis heute“ stresses how long you have been waiting.", "noteDe": "„bis heute“ betont, wie lange du schon wartest." },
+        { "de": "Man hat mich immer wieder auf den nächsten Tag vertröstet.", "en": "I was put off again and again until the next day.", "note": "jemanden (auf + accusative) vertrösten = to put someone off with promises", "noteDe": "jemanden (auf + Akkusativ) vertrösten = jemanden mit Versprechen auf später warten lassen" },
+        { "de": "Statt einer Lösung bekam ich lediglich zu hören, dass man nichts machen könne.", "en": "Instead of a solution, all I was told was that nothing could be done.", "note": "lediglich = only, merely; „könne“ = Konjunktiv I in reported speech", "noteDe": "lediglich = nur; „könne“ = Konjunktiv I in der indirekten Rede" },
+        { "de": "Leider zeigte die Hotelleitung wenig Verständnis für mein Anliegen.", "en": "Unfortunately, the hotel management showed little understanding of my concern.", "note": "das Anliegen = concern, request", "noteDe": "das Anliegen = die Sache, um die es dir geht" },
+        { "de": "Mein Hinweis wurde zwar notiert, passiert ist seitdem jedoch nichts.", "en": "My complaint was noted, it is true, but nothing has happened since.", "note": "zwar … jedoch: concession first, then the real problem", "noteDe": "zwar … jedoch: zuerst das Zugeständnis, dann das eigentliche Problem" }
+      ]
+    },
+    {
+      "title": "Forderungen stellen und Fristen setzen",
+      "titleEn": "Making demands and setting deadlines",
+      "register": "formal",
+      "phrases": [
+        { "de": "Ich erwarte, dass Sie das Gerät bis spätestens zum 30. Juni kostenlos reparieren oder austauschen.", "en": "I expect you to repair or replace the appliance free of charge by 30 June at the latest.", "note": "Always name a concrete date – „so schnell wie möglich“ is too weak.", "noteDe": "Nenne immer ein konkretes Datum – „so schnell wie möglich“ ist zu schwach." },
+        { "de": "Ich fordere Sie hiermit auf, mir innerhalb von 14 Tagen einen neuen Termin zu nennen.", "en": "I hereby ask you to give me a new appointment within 14 days.", "note": "jemanden auffordern, … zu + infinitive – firm and formal", "noteDe": "jemanden auffordern, … zu + Infinitiv – bestimmt und formell" },
+        { "de": "Ich bestehe auf einem kostenlosen Ersatz.", "en": "I insist on a free replacement.", "note": "bestehen auf + dative = to insist on", "noteDe": "bestehen auf + Dativ = etwas unbedingt verlangen" },
+        { "de": "Ich gehe davon aus, dass Sie den Schaden auf Ihre Kosten beheben lassen.", "en": "I assume that you will have the damage repaired at your expense.", "note": "davon ausgehen, dass … = to assume – firm but polite", "noteDe": "davon ausgehen, dass … = annehmen – bestimmt, aber höflich" },
+        { "de": "Hierfür setze ich Ihnen eine Frist bis zum 15. Februar.", "en": "I am giving you until 15 February to do this.", "note": "eine Frist setzen = to set a deadline", "noteDe": "eine Frist setzen = einen letzten Termin bestimmen" },
+        { "de": "Bitte teilen Sie mir bis Ende der Woche schriftlich mit, wie Sie in dieser Angelegenheit vorgehen werden.", "en": "Please let me know in writing by the end of the week how you are going to proceed in this matter.", "note": "die Angelegenheit = the matter", "noteDe": "die Angelegenheit = die Sache" },
+        { "de": "Außerdem erwarte ich eine Erklärung, wie es zu diesem Fehler kommen konnte.", "en": "I also expect an explanation of how this mistake could happen.", "note": "es kommt zu etwas = something happens", "noteDe": "es kommt zu etwas = etwas passiert" }
+      ]
+    },
+    {
+      "title": "Entschädigung und Erstattung verlangen",
+      "titleEn": "Asking for compensation and refunds",
+      "register": "formal",
+      "phrases": [
+        { "de": "Angesichts dieser Mängel halte ich eine Minderung des Reisepreises um 30 Prozent für angemessen.", "en": "In view of these defects, I consider a 30 per cent reduction in the price of the trip to be appropriate.", "note": "angesichts + genitive = in view of; halten für + accusative = to consider", "noteDe": "angesichts + Genitiv = wenn man … bedenkt; halten für + Akkusativ = einschätzen als" },
+        { "de": "Ich bitte Sie, mir den vollen Kaufpreis zu erstatten.", "en": "I ask you to refund the full purchase price.", "note": "erstatten = to refund; die Erstattung = refund", "noteDe": "erstatten = Geld zurückzahlen; die Erstattung = die Rückzahlung" },
+        { "de": "Bitte überweisen Sie den Betrag auf das Konto, von dem ich die Zahlung geleistet habe.", "en": "Please transfer the amount to the account from which I made the payment.", "note": "eine Zahlung leisten = to make a payment (formal)", "noteDe": "eine Zahlung leisten = bezahlen (formell)" },
+        { "de": "Zusätzlich verlange ich, dass mir die Taxikosten ersetzt werden; die Quittung liegt dieser E-Mail bei.", "en": "In addition, I request reimbursement of the taxi fare; the receipt is attached to this e-mail.", "note": "Kosten ersetzen = to reimburse; „liegt bei“ = is enclosed", "noteDe": "Kosten ersetzen = Kosten zurückzahlen; „liegt bei“ = ist angehängt" },
+        { "de": "Als Entschädigung für die verlorenen Urlaubstage schlage ich eine Gutschrift über 200 Euro vor.", "en": "As compensation for the lost days of holiday, I suggest a credit of 200 euros.", "note": "die Gutschrift = credit (an amount credited to you)", "noteDe": "die Gutschrift = ein Betrag, der dir gutgeschrieben wird" },
+        { "de": "Mit einem Gutschein wäre ich nur dann einverstanden, wenn er unbefristet gültig wäre.", "en": "I would only accept a voucher if it were valid indefinitely.", "note": "Konjunktiv II shows you are open to a compromise – under one condition.", "noteDe": "Der Konjunktiv II zeigt, dass du zu einem Kompromiss bereit bist – unter einer Bedingung." },
+        { "de": "Ein Umtausch kommt für mich nicht infrage, da ich das Vertrauen in dieses Modell verloren habe.", "en": "An exchange is out of the question for me, as I have lost confidence in this model.", "note": "das Vertrauen in + accusative verlieren = to lose confidence in", "noteDe": "das Vertrauen in + Akkusativ verlieren" },
+        { "de": "Ich möchte von meinem Recht Gebrauch machen, vom Vertrag zurückzutreten.", "en": "I wish to exercise my right to withdraw from the contract.", "note": "von etwas Gebrauch machen = to make use of something (formal)", "noteDe": "von etwas Gebrauch machen = etwas nutzen (formell)" }
+      ]
+    },
+    {
+      "title": "Konsequenzen ankündigen – bestimmt, aber höflich",
+      "titleEn": "Announcing consequences – firm but polite",
+      "register": "formal",
+      "phrases": [
+        { "de": "Sollte ich bis zum genannten Termin nichts von Ihnen hören, werde ich einen Anwalt einschalten.", "en": "Should I not hear from you by the date mentioned, I will bring in a lawyer.", "note": "„Sollte ich …“ = „Falls ich …“ (verb first, formal); einschalten = to bring in", "noteDe": "„Sollte ich …“ = „Falls ich …“ (Verb an erster Stelle, formell); einschalten = hinzuziehen" },
+        { "de": "Andernfalls sehe ich mich gezwungen, mich an die Verbraucherzentrale zu wenden.", "en": "Otherwise I will have no choice but to contact the consumer advice centre.", "note": "andernfalls = otherwise; sich gezwungen sehen = to feel obliged", "noteDe": "andernfalls = sonst; sich gezwungen sehen = keine andere Wahl haben" },
+        { "de": "Ich behalte mir rechtliche Schritte ausdrücklich vor.", "en": "I expressly reserve the right to take legal action.", "note": "sich (dat.) etwas vorbehalten = to reserve the right to something", "noteDe": "sich (Dat.) etwas vorbehalten = sich das Recht offenhalten, etwas später zu tun" },
+        { "de": "Unter diesen Umständen kann ich Ihr Unternehmen leider nicht weiterempfehlen.", "en": "Under these circumstances, I am afraid I cannot recommend your company to others." },
+        { "de": "Es wäre schade, wenn Sie nach so vielen Jahren eine treue Kundin verlieren würden.", "en": "It would be a pity if you lost a loyal customer after so many years.", "note": "Gentle pressure in Konjunktiv II – firm without being rude", "noteDe": "Sanfter Druck im Konjunktiv II – bestimmt, ohne unhöflich zu sein" },
+        { "de": "Ich möchte betonen, dass mir an einer gütlichen Einigung gelegen ist.", "en": "I would like to stress that I am interested in an amicable settlement.", "note": "jemandem ist an etwas (dat.) gelegen = something matters to someone; gütlich = amicable", "noteDe": "jemandem ist an etwas (Dat.) gelegen = jemandem ist etwas wichtig; gütlich = ohne Streit" },
+        { "de": "Ich hoffe, dass sich die Angelegenheit ohne weitere Schritte klären lässt.", "en": "I hope the matter can be settled without any further steps.", "note": "sich klären lassen = can be settled (an alternative to the passive)", "noteDe": "sich klären lassen = geklärt werden können (Alternative zum Passiv)" }
+      ]
+    },
+    {
+      "title": "Die Beschwerde abschließen",
+      "titleEn": "Closing a complaint",
+      "register": "formal",
+      "phrases": [
+        { "de": "Ich sehe Ihrer Stellungnahme bis zum 10. April entgegen.", "en": "I look forward to your response by 10 April.", "note": "einer Sache (dat.) entgegensehen = to await something (very formal); die Stellungnahme = statement, response", "noteDe": "einer Sache (Dat.) entgegensehen = auf etwas warten (sehr formell); die Stellungnahme = Antwort, Erklärung" },
+        { "de": "Ich bin zuversichtlich, dass wir gemeinsam eine zufriedenstellende Lösung finden.", "en": "I am confident that together we will find a satisfactory solution." },
+        { "de": "Für eine rasche Bearbeitung meiner Reklamation wäre ich Ihnen dankbar.", "en": "I would be grateful if you could deal with my claim quickly.", "note": "die Bearbeitung = processing (Nominalstil)", "noteDe": "die Bearbeitung = das Bearbeiten (Nominalstil)" },
+        { "de": "Ich vertraue auf Ihr Entgegenkommen und eine faire Lösung.", "en": "I am counting on your goodwill and a fair solution.", "note": "vertrauen auf + accusative; das Entgegenkommen = willingness to meet someone halfway", "noteDe": "vertrauen auf + Akkusativ; das Entgegenkommen = die Bereitschaft, jemandem zu helfen oder einen Kompromiss zu finden" }
+      ]
+    }
+  ]
+}

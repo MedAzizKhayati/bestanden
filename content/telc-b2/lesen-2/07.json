@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-07",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Mehrgenerationenwohnen",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "article": {
+    "headline": "Zwischen Krabbelgruppe und Kaffeekränzchen: Wie gut funktioniert Wohnen über Generationen hinweg?",
+    "lead": "Gemeinschaftliche Wohnprojekte für Jung und Alt gelten als Antwort auf Einsamkeit und Wohnungsnot. Eine Auswertung aus Österreich zeigt, wo die Idee hält, was sie verspricht – und wo sie an Grenzen stößt.",
+    "paragraphs": [
+      "Die Zahl der Mehrgenerationenprojekte im deutschsprachigen Raum hat sich innerhalb von fünfzehn Jahren nahezu verdreifacht. Hinter diesem Wachstum steht der Wunsch vieler Menschen nach einer Alternative sowohl zur Vereinsamung im Alter als auch zur Anonymität großstädtischer Wohnanlagen. Gemessen am gesamten Wohnungsmarkt handelt es sich allerdings nach wie vor um eine Nische: Weniger als ein Prozent aller Wohnungen entfällt auf gemeinschaftliche Wohnformen dieser Art.",
+      "Eines der bekanntesten Beispiele ist das Generationenhaus Sonnleiten in Graz. In 38 Wohnungen leben dort Menschen zwischen wenigen Monaten und 89 Jahren, die sich einen Gemeinschaftsraum, einen großen Garten und eine Gästewohnung teilen. Die 78-jährige Herta Haselbacher ist nach dem Tod ihres Mannes eingezogen und betreut seither zweimal pro Woche die Kinder der benachbarten Familie Rainer, die im Gegenzug für sie einkauft. „Wir sind aber weder eine Großfamilie noch ein Pflegeheim“, stellt sie klar. Jede Form der Unterstützung beruhe auf Freiwilligkeit, verpflichtet sei niemand zu irgendetwas.",
+      "Wie sich das Zusammenleben in solchen Projekten tatsächlich gestaltet, hat das Linzer Institut für Wohn- und Sozialforschung untersucht. Befragt wurden rund 900 Bewohnerinnen und Bewohner aus 40 Projekten in Österreich, Deutschland und der Schweiz. Die Ergebnisse fallen überwiegend positiv aus: Ältere Befragte berichteten deutlich seltener von Einsamkeit als Gleichaltrige in herkömmlichen Mietwohnungen, junge Eltern schätzten vor allem die Entlastung bei der Kinderbetreuung. Als dauerhaftes Problem erweist sich hingegen die Altersmischung. Familien ziehen häufig aus, sobald die Kinder größere Zimmer benötigen, während die Gründergeneration bleibt – mit der Folge, dass zahlreiche Projekte gemeinsam mit ihren Gründerinnen und Gründern altern.",
+      "Auch Konflikte bleiben nicht aus. Zwar empfinden viele Befragte die langwierigen Hausversammlungen, in denen Entscheidungen möglichst einvernehmlich getroffen werden sollen, als anstrengend. Der häufigste Anlass für Streit ist laut der Studie jedoch nicht etwa der Lärm spielender Kinder, wie oft vermutet wird, sondern die Frage, wer sich um Garten, Waschküche und Gemeinschaftsräume kümmert. „Wenn immer dieselben fünf Leute den Rasen mähen, kippt irgendwann die Stimmung“, sagt Studienautor Markus Feichtinger.",
+      "An ihre Grenzen stoßen die Gemeinschaften spätestens dann, wenn Bewohnerinnen oder Bewohner pflegebedürftig werden. Die Grazer Gerontologin Ulrike Stadlober hält es für eine gefährliche Illusion, Nachbarschaftshilfe als Ersatz für professionelle Pflege zu betrachten. Ein Einkauf oder ein Gespräch am Gartenzaun könne zwar viel bewirken, die Versorgung eines demenzkranken Menschen überfordere jedoch jede noch so engagierte Hausgemeinschaft. Projekte, die frühzeitig Kooperationen mit ambulanten Pflegediensten eingingen, seien daher klar im Vorteil.",
+      "Wer selbst ein solches Projekt gründen möchte, braucht vor allem Geduld. Von der ersten Idee bis zum Einzug vergehen der Linzer Studie zufolge im Durchschnitt sechs bis acht Jahre, und nicht wenige Initiativen scheitern an hohen Grundstückspreisen oder an Banken, die Kredite für Baugemeinschaften und Genossenschaften nur zögerlich gewähren. Einige Kommunen vergeben städtisches Bauland deshalb inzwischen nicht mehr an den Meistbietenden, sondern an das überzeugendste Nutzungskonzept.",
+      "Herta Haselbacher hat ihren Umzug jedenfalls nicht bereut. „Allein in meiner alten Wohnung hätte ich wahrscheinlich tagelang mit niemandem gesprochen“, sagt sie. „Hier muss ich eher aufpassen, dass mir noch genügend Zeit für mich selbst bleibt.“"
+    ],
+    "source": "Wohnen & Leben – Das österreichische Magazin für Bauen und Zusammenleben"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Über die Verbreitung von Mehrgenerationenprojekten erfährt man, dass …",
+      "options": [
+        { "key": "a", "text": "sie trotz ihres Wachstums nur einen sehr kleinen Teil des Wohnungsangebots ausmachen." },
+        { "key": "b", "text": "sich ihre Zahl allein im vergangenen Jahrzehnt nahezu verdreifacht hat." },
+        { "key": "c", "text": "sie vor allem von Menschen gesucht werden, die die Anonymität der Großstadt schätzen." }
+      ],
+      "answer": "a",
+      "explanation": "The projects have grown, but „Weniger als ein Prozent aller Wohnungen entfällt auf gemeinschaftliche Wohnformen dieser Art“ – they are still a niche, so (a). The number almost tripled „innerhalb von fünfzehn Jahren“, not within ten years (b). People are looking for an alternative „zur Anonymität großstädtischer Wohnanlagen“, so they do not value anonymity (c).",
+      "explanationDe": "Die Projekte sind zwar gewachsen, aber „Weniger als ein Prozent aller Wohnungen entfällt auf gemeinschaftliche Wohnformen dieser Art“ – sie sind immer noch eine Nische, also (a). Die Zahl hat sich „innerhalb von fünfzehn Jahren“ fast verdreifacht, nicht in zehn Jahren (b). Die Menschen suchen eine Alternative „zur Anonymität großstädtischer Wohnanlagen“ – sie schätzen die Anonymität also gerade nicht (c).",
+      "evidence": "Weniger als ein Prozent aller Wohnungen entfällt auf gemeinschaftliche Wohnformen dieser Art"
+    },
+    {
+      "n": 2,
+      "stem": "Über das Zusammenleben im Generationenhaus Sonnleiten erfährt man, dass …",
+      "options": [
+        { "key": "a", "text": "die jüngeren Bewohner die Pflege ihrer älteren Nachbarn übernehmen." },
+        { "key": "b", "text": "sich Frau Haselbacher täglich um die Kinder der Familie Rainer kümmert." },
+        { "key": "c", "text": "die Bewohner einander unterstützen, ohne dazu verpflichtet zu sein." }
+      ],
+      "answer": "c",
+      "explanation": "„Jede Form der Unterstützung beruhe auf Freiwilligkeit, verpflichtet sei niemand zu irgendetwas“ – people help each other voluntarily, so (c). Mrs Haselbacher says the house is „weder eine Großfamilie noch ein Pflegeheim“, so younger residents do not provide care (a). She looks after the children „zweimal pro Woche“, not every day (b).",
+      "explanationDe": "„Jede Form der Unterstützung beruhe auf Freiwilligkeit, verpflichtet sei niemand zu irgendetwas“ – man hilft sich freiwillig, also (c). Frau Haselbacher sagt, das Haus sei „weder eine Großfamilie noch ein Pflegeheim“ – die Jüngeren übernehmen also keine Pflege (a). Sie betreut die Kinder „zweimal pro Woche“, nicht täglich (b).",
+      "evidence": "Jede Form der Unterstützung beruhe auf Freiwilligkeit, verpflichtet sei niemand zu irgendetwas"
+    },
+    {
+      "n": 3,
+      "stem": "Die Linzer Untersuchung hat unter anderem ergeben, dass …",
+      "options": [
+        { "key": "a", "text": "sich ältere Bewohner dort ähnlich häufig einsam fühlen wie in gewöhnlichen Mietwohnungen." },
+        { "key": "b", "text": "es vielen Projekten schwerfällt, ein ausgewogenes Verhältnis zwischen Jung und Alt zu bewahren." },
+        { "key": "c", "text": "die Gründerinnen und Gründer die Projekte häufig verlassen, sobald ihre Kinder größer werden." }
+      ],
+      "answer": "b",
+      "explanation": "„Als dauerhaftes Problem erweist sich hingegen die Altersmischung“: families move out, the founders stay, and many projects grow old – keeping a balance of young and old is difficult, so (b). Older residents reported loneliness „deutlich seltener“ than people of the same age in normal flats (a). It is the families who move out; „die Gründergeneration bleibt“ (c).",
+      "explanationDe": "„Als dauerhaftes Problem erweist sich hingegen die Altersmischung“: Familien ziehen aus, die Gründer bleiben, und viele Projekte altern – ein Gleichgewicht zwischen Jung und Alt ist schwer zu halten, also (b). Ältere berichteten „deutlich seltener“ von Einsamkeit als Gleichaltrige in normalen Mietwohnungen (a). Es sind die Familien, die ausziehen; „die Gründergeneration bleibt“ (c).",
+      "evidence": "Als dauerhaftes Problem erweist sich hingegen die Altersmischung"
+    },
+    {
+      "n": 4,
+      "stem": "Am häufigsten kommt es in den untersuchten Projekten zum Streit, …",
+      "options": [
+        { "key": "a", "text": "weil Entscheidungen in langen Versammlungen gemeinsam getroffen werden müssen." },
+        { "key": "b", "text": "weil sich ältere Bewohner durch spielende Kinder in ihrer Ruhe gestört fühlen." },
+        { "key": "c", "text": "wenn es darum geht, wie die Arbeit in gemeinschaftlich genutzten Bereichen verteilt wird." }
+      ],
+      "answer": "c",
+      "explanation": "The most frequent reason for conflict is „die Frage, wer sich um Garten, Waschküche und Gemeinschaftsräume kümmert“ – who does the work in shared areas, so (c). Long house meetings are only described as tiring („Zwar … als anstrengend“), not as the main source of conflict (a). Noise from children is „nicht etwa“ the most common reason, even though people often assume so (b).",
+      "explanationDe": "Der häufigste Anlass für Streit ist „die Frage, wer sich um Garten, Waschküche und Gemeinschaftsräume kümmert“ – also die Verteilung der Arbeit in gemeinsamen Bereichen (c). Die langen Hausversammlungen empfinden viele zwar „als anstrengend“, sie sind aber nicht der häufigste Grund für Streit (a). Der Lärm von Kindern ist „nicht etwa“ der häufigste Anlass, auch wenn man das oft vermutet (b).",
+      "evidence": "sondern die Frage, wer sich um Garten, Waschküche und Gemeinschaftsräume kümmert"
+    },
+    {
+      "n": 5,
+      "stem": "Die Gerontologin Ulrike Stadlober hält es für problematisch, …",
+      "options": [
+        { "key": "a", "text": "wenn pflegebedürftige Bewohner in ihren Wohnungen von ambulanten Diensten versorgt werden." },
+        { "key": "b", "text": "die Hilfe von Nachbarn als vollwertigen Ersatz für fachliche Pflege anzusehen." },
+        { "key": "c", "text": "dass in vielen Projekten immer dieselben Bewohner die gemeinsamen Arbeiten erledigen." }
+      ],
+      "answer": "b",
+      "explanation": "She calls it „eine gefährliche Illusion, Nachbarschaftshilfe als Ersatz für professionelle Pflege zu betrachten“ – so (b). Projects that cooperate with outpatient care services early are „klar im Vorteil“ in her view, so she approves of this (a). That always the same few people do the shared work is study author Feichtinger's point („immer dieselben fünf Leute“), not Stadlober's (c).",
+      "explanationDe": "Sie nennt es „eine gefährliche Illusion, Nachbarschaftshilfe als Ersatz für professionelle Pflege zu betrachten“ – also (b). Projekte, die früh mit ambulanten Pflegediensten zusammenarbeiten, sind für sie „klar im Vorteil“ – das findet sie also gut (a). Dass „immer dieselben fünf Leute“ die Arbeit machen, kritisiert Studienautor Feichtinger, nicht Stadlober (c).",
+      "evidence": "hält es für eine gefährliche Illusion, Nachbarschaftshilfe als Ersatz für professionelle Pflege zu betrachten"
+    }
+  ],
+  "glossary": [
+    { "de": "die Vereinsamung", "en": "(growing) isolation, loneliness" },
+    { "de": "die Nische", "en": "niche" },
+    { "de": "im Gegenzug", "en": "in return" },
+    { "de": "die Entlastung", "en": "relief (from a burden)" },
+    { "de": "die Altersmischung", "en": "mix of age groups" },
+    { "de": "einvernehmlich", "en": "by mutual agreement, by consensus" },
+    { "de": "die Waschküche", "en": "laundry room" },
+    { "de": "pflegebedürftig", "en": "in need of (long-term) care" },
+    { "de": "der Gerontologe / die Gerontologin", "en": "gerontologist (expert on ageing)" },
+    { "de": "ambulante Pflegedienste (Pl.)", "en": "outpatient / home care services" },
+    { "de": "zögerlich", "en": "hesitantly, reluctantly" },
+    { "de": "der / die Meistbietende", "en": "highest bidder" }
+  ]
+}

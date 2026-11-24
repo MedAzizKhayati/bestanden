@@ -60,11 +60,21 @@ export function AdCard({
       )}
       <div className={cn("leading-tight", style.head)}>{ad.heading}</div>
       {ad.subheading && <div className={cn("mt-1 text-sm text-paper-foreground/80", style.sub)}>{ad.subheading}</div>}
-      <ul className={cn("mt-2 space-y-0.5 text-[13.5px] leading-snug", style.box.includes("text-center") && "text-center")}>
-        {ad.lines.map((l, i) => (
-          <li key={i}>{l}</li>
-        ))}
-      </ul>
+      {ad.lines.length > 0 && (
+        <ul className={cn("mt-2 space-y-0.5 text-[13.5px] leading-snug", style.box.includes("text-center") && "text-center")}>
+          {ad.lines.map((l, i) => (
+            <li key={i}>{l}</li>
+          ))}
+        </ul>
+      )}
+      {/* Info texts (telc B2): running text, read left-aligned whatever the card style. */}
+      {ad.text && (
+        <div className="reading mt-2 space-y-1.5 text-left text-[14px] leading-snug">
+          {ad.text.split(/\n+/).map((p, i) => (
+            <p key={i}>{p}</p>
+          ))}
+        </div>
+      )}
       {ad.footer && <div className="mt-2 border-t border-paper-foreground/15 pt-1.5 text-xs font-medium text-paper-foreground/75">{ad.footer}</div>}
     </Comp>
   );
@@ -73,7 +83,8 @@ export function AdCard({
 export function AdMatchingPlayer({ set, part, answers, onAnswer, review }: PlayerProps<AdMatchingSet>) {
   const isDesktop = useIsDesktop();
   const t = useT();
-  const m = t.runner.ads;
+  // telc B2 uses info texts instead of classified ads.
+  const m = set.ads.some((a) => a.text) ? t.runner.infoTexts : t.runner.ads;
   const [active, setActive] = useState<number>(() => set.situations.find((s) => !answers[s.n])?.n ?? 1);
   const [drawerFor, setDrawerFor] = useState<number | null>(null);
   const num = (n: number) => officialNumber(part, n);

@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-11",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Rund ums Studium",
+  "topic": "bildung",
+  "difficulty": 3,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ihr Cousin, der vor einem halben Jahr seinen Master abgeschlossen hat, möchte seine Bewerbungsmappe durchsehen lassen.",
+      "answer": "g",
+      "explanation": "The Career Service (g) checks „Bewerbungsunterlagen“, and its services can still be used „bis zu zwölf Monate nach dem Abschluss“ – six months after the master's degree is within that limit. The Studienberatung (h) addresses „Berufstätige ohne Abitur“ who want to start studying, not graduates looking for a job.",
+      "explanationDe": "Der Career Service (g) prüft „Bewerbungsunterlagen“, und man kann ihn noch „bis zu zwölf Monate nach dem Abschluss“ nutzen – ein halbes Jahr nach dem Master passt also. Die Studienberatung (h) richtet sich an „Berufstätige ohne Abitur“, die ein Studium beginnen wollen, nicht an Absolventen auf Jobsuche."
+    },
+    {
+      "n": 2,
+      "text": "Ein Kommilitone möchte seine fertige Bachelorarbeit vor der Abgabe sprachlich überprüfen lassen.",
+      "answer": "x",
+      "explanation": "He wants his finished thesis proofread. The Schreibzentrum (f) seems perfect, but it says „dass wir Ihre Arbeit weder korrigieren noch Korrektur lesen“ – it only shows you how to revise texts yourself. No other text offers proofreading, so x.",
+      "explanationDe": "Er möchte, dass jemand seine fertige Arbeit Korrektur liest. Das Schreibzentrum (f) wirkt passend, schreibt aber, „dass wir Ihre Arbeit weder korrigieren noch Korrektur lesen“ – es zeigt nur, wie du deine Texte selbst überarbeitest. Kein anderer Text bietet das an, also x."
+    },
+    {
+      "n": 3,
+      "text": "Eine Studentin, die neben dem Studium ihre pflegebedürftige Mutter versorgt, sucht eine monatliche Förderung.",
+      "answer": "b",
+      "explanation": "Caring for her mother counts as taking on responsibility: the Lindenau-Stipendium (b) mentions responsibility „bei der Pflege eines Angehörigen“ and pays „300 Euro monatlich“ to students „aller Semester“. Stiftung Bildungsaufbruch (a) also pays monthly, but only to the first in their family to study and only „höchstens im zweiten Fachsemester“.",
+      "explanationDe": "Die Pflege der Mutter zählt als Verantwortung: Das Lindenau-Stipendium (b) nennt ausdrücklich Verantwortung „bei der Pflege eines Angehörigen“ und zahlt Studierenden „aller Semester“ „300 Euro monatlich“. Die Stiftung Bildungsaufbruch (a) zahlt auch monatlich, aber nur für die Ersten in ihrer Familie, die studieren, und nur „höchstens im zweiten Fachsemester“."
+    },
+    {
+      "n": 4,
+      "text": "Eine Masterstudentin möchte ein fünfmonatiges Pflichtpraktikum in Brasilien machen und sucht dafür finanzielle Unterstützung.",
+      "answer": "c",
+      "explanation": "Brazil is outside Europe, five months is more than „mindestens drei Monate“, a compulsory internship is „als Teil des Studiums anerkannt“, and „Masterstudierende“ may apply – so the Fernweh-Fonds (c). The other grants (a, b) are general monthly stipends with other conditions, not support for a stay abroad.",
+      "explanationDe": "Brasilien liegt außerhalb Europas, fünf Monate sind mehr als „mindestens drei Monate“, ein Pflichtpraktikum wird „als Teil des Studiums anerkannt“, und „Masterstudierende“ dürfen sich bewerben – also der Fernweh-Fonds (c). Die anderen Stipendien (a, b) sind allgemeine monatliche Förderungen mit anderen Bedingungen, keine Hilfe für einen Auslandsaufenthalt."
+    },
+    {
+      "n": 5,
+      "text": "Ein Bekannter, der als Erzieher arbeitet und kein Abitur hat, möchte sich über ein Studium beraten lassen.",
+      "answer": "h",
+      "explanation": "The Zentrale Studienberatung (h) explicitly addresses „Berufstätige ohne Abitur, die aufgrund ihrer beruflichen Qualifikation studieren möchten“. The Career Service (g) is for enrolled students and recent graduates who want to move into a job, not for people who want to start studying.",
+      "explanationDe": "Die Zentrale Studienberatung (h) richtet sich ausdrücklich an „Berufstätige ohne Abitur, die aufgrund ihrer beruflichen Qualifikation studieren möchten“. Der Career Service (g) ist für eingeschriebene Studierende und Absolventen, die in den Beruf wechseln – nicht für Menschen, die erst ein Studium beginnen wollen."
+    },
+    {
+      "n": 6,
+      "text": "Eine Kommilitonin muss wegen ihrer Abschlussprüfungen ihren Minijob aufgeben und braucht Geld, das sie nicht zurückzahlen muss.",
+      "answer": "d",
+      "explanation": "The decisive detail is in a relative clause: whoever gives up a side job „in der Examensphase“ can apply for an „Abschlusszuschuss, der nicht zurückgezahlt werden muss“ (d). The normal loan in the same text must be paid back; the stipends (a, b) are for the first semesters or require social engagement and an application „im Juli“.",
+      "explanationDe": "Das Entscheidende steht in einem Relativsatz: Wer „in der Examensphase“ den Nebenjob aufgibt, kann einen „Abschlusszuschuss, der nicht zurückgezahlt werden muss“, beantragen (d). Das normale Darlehen im selben Text muss man zurückzahlen; die Stipendien (a, b) gelten für die ersten Semester oder verlangen Engagement und eine Bewerbung „im Juli“."
+    },
+    {
+      "n": 7,
+      "text": "Eine wissenschaftliche Mitarbeiterin braucht für ihren zweijährigen Sohn zweimal wöchentlich von 16 bis 19 Uhr eine Betreuung.",
+      "answer": "i",
+      "explanation": "She is an employee, not a student – the Kinderinsel (i) looks after „Kinder von Studierenden und Beschäftigten der Universität“ from one to ten years „montags bis freitags von 8 bis 20 Uhr“, and six hours a week stay below the limit of „15 Stunden pro Woche“. The hall of residence (l) has apartments for „Studierende mit Kind“, but it offers no childcare.",
+      "explanationDe": "Sie ist Mitarbeiterin, keine Studentin – die Kinderinsel (i) betreut „Kinder von Studierenden und Beschäftigten der Universität“ zwischen einem und zehn Jahren „montags bis freitags von 8 bis 20 Uhr“, und sechs Stunden pro Woche liegen unter der Grenze von „15 Stunden pro Woche“. Das Wohnheim (l) hat Apartments für „Studierende mit Kind“, bietet aber keine Kinderbetreuung."
+    },
+    {
+      "n": 8,
+      "text": "Ihr Mitbewohner will im Sommer an einem vierwöchigen Sprachkurs in Tokio teilnehmen und sucht dafür einen Reisekostenzuschuss.",
+      "answer": "x",
+      "explanation": "The Fernweh-Fonds (c) pays a „Reisekostenpauschale“ for Japan, but only if the stay lasts „mindestens drei Monate“, and „Sprachkurse, Sommerschulen und andere Kurzaufenthalte werden nicht gefördert“. The Sprachenzentrum (k) states „Kurse im Ausland vermitteln wir nicht“. So x.",
+      "explanationDe": "Der Fernweh-Fonds (c) zahlt zwar eine „Reisekostenpauschale“ für Japan, aber nur, wenn der Aufenthalt „mindestens drei Monate“ dauert, und „Sprachkurse, Sommerschulen und andere Kurzaufenthalte werden nicht gefördert“. Das Sprachenzentrum (k) schreibt: „Kurse im Ausland vermitteln wir nicht“. Also x."
+    },
+    {
+      "n": 9,
+      "text": "Ihre Freundin hat vor ihrer morgigen Prüfung große Angst und braucht noch heute ohne Termin Hilfe.",
+      "answer": "e",
+      "explanation": "The Psychosoziale Beratung (e) deals with „Prüfungsangst“, and in urgent cases you can come „ohne Anmeldung in unsere offene Sprechstunde“. The Career Service (g) also has „Kurzberatungen ohne Termin“, but only on Tuesdays and about careers, not anxiety.",
+      "explanationDe": "Die Psychosoziale Beratung (e) hilft bei „Prüfungsangst“, und wenn es dringend ist, kannst du „ohne Anmeldung in unsere offene Sprechstunde“ kommen. Der Career Service (g) hat auch „Kurzberatungen ohne Termin“, aber nur dienstags und zum Thema Beruf, nicht bei Angst."
+    },
+    {
+      "n": 10,
+      "text": "Ein studierendes Paar, das ein Baby erwartet, sucht eine bezahlbare gemeinsame Wohnung in Campusnähe.",
+      "answer": "l",
+      "explanation": "The hall of residence „Am Kanal“ (l), „nur zehn Fahrradminuten vom Campus entfernt“, has „30 Apartments für Paare und Studierende mit Kind“. „Wohnen für Hilfe“ (j) is also cheap, but „Vermittelt werden ausschließlich Einzelzimmer für eine Person“.",
+      "explanationDe": "Das Wohnheim „Am Kanal“ (l) liegt „nur zehn Fahrradminuten vom Campus entfernt“ und hat „30 Apartments für Paare und Studierende mit Kind“. „Wohnen für Hilfe“ (j) ist zwar auch günstig, aber „Vermittelt werden ausschließlich Einzelzimmer für eine Person“."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Stiftung Bildungsaufbruch",
+      "subheading": "Als Erste an die Uni – wir begleiten Sie",
+      "lines": [],
+      "text": "Niemand in Ihrer Familie hat bisher studiert, und Sie wagen nun als Erste oder Erster den Schritt an die Hochschule? Dann ist unser Förderprogramm vielleicht genau das Richtige für Sie. Neben einem monatlichen Stipendium von 300 Euro, das nicht zurückgezahlt werden muss, erhalten Sie eine persönliche Mentorin oder einen Mentor aus der Berufswelt und können an Seminaren zu Lerntechniken und Zeitmanagement teilnehmen. Bewerben können sich Studierende aller Fachrichtungen an staatlich anerkannten Hochschulen, vorausgesetzt, sie befinden sich zum Zeitpunkt der Bewerbung höchstens im zweiten Fachsemester. Die Förderung läuft bis zum Ende der Regelstudienzeit; Bewerbungsschluss ist jeweils der 15. Januar.",
+      "footer": "www.bildungsaufbruch-stiftung.de"
+    },
+    {
+      "key": "b",
+      "heading": "Lindenau-Stipendium „Engagiert studieren“",
+      "subheading": "Universität Lindenau",
+      "lines": [],
+      "text": "Nicht nur Noten zählen: Mit unserem Stipendium zeichnen wir Studierende aus, die neben dem Studium Verantwortung übernehmen – etwa in einem Verein, in der Nachbarschaftshilfe oder bei der Pflege eines Angehörigen. Gefördert werden Studierende aller Semester und Nationalitäten, die an unserer Universität eingeschrieben sind, und zwar mit 300 Euro monatlich für zunächst ein Jahr. Die Hälfte des Betrags stammt von privaten Förderern aus der Region, die Sie bei Interesse auch persönlich kennenlernen können. Da das Stipendium nicht auf das BAföG angerechnet wird, lohnt sich eine Bewerbung auch für BAföG-Empfänger. Bewerbungen nehmen wir jedes Jahr im Juli über das Online-Portal entgegen.",
+      "footer": "www.uni-lindenau.de/engagiert"
+    },
+    {
+      "key": "c",
+      "heading": "Fernweh-Fonds",
+      "subheading": "Mobilitätsstipendien für Ziele in Übersee",
+      "lines": [],
+      "text": "Erasmus fördert Aufenthalte in Europa – doch was, wenn es Sie nach Kanada, Japan oder Chile zieht? Der Fernweh-Fonds unterstützt Studierende der Universität Lindenau bei Studien- und Praktikumsaufenthalten außerhalb Europas mit einer Reisekostenpauschale von bis zu 1.500 Euro sowie einem monatlichen Zuschuss. Voraussetzung ist, dass der Aufenthalt mindestens drei Monate dauert und als Teil des Studiums anerkannt wird. Bewerben können sich Bachelorstudierende ab dem dritten Semester sowie Masterstudierende. Da die Mittel begrenzt sind, empfiehlt es sich, den Antrag spätestens sechs Monate vor der Abreise einzureichen. Sprachkurse, Sommerschulen und andere Kurzaufenthalte werden nicht gefördert.",
+      "footer": "International Office, Raum 1.14 · www.uni-lindenau.de/fernweh"
+    },
+    {
+      "key": "d",
+      "heading": "Darlehensfonds des Studierendenwerks",
+      "subheading": "Schnelle Hilfe, wenn das Geld knapp wird",
+      "lines": [],
+      "text": "Der Nebenjob fällt weg, die BAföG-Zahlung verzögert sich oder eine unerwartete Rechnung bringt Sie in Schwierigkeiten? Wenn Sie unverschuldet in eine finanzielle Notlage geraten, hilft Ihnen unser Darlehensfonds schnell und unbürokratisch. Wir gewähren zinslose Darlehen von bis zu 1.000 Euro, die innerhalb von zwei Jahren in kleinen Raten zurückgezahlt werden. Wer in der Examensphase den Nebenjob aufgibt, um sich ganz auf den Abschluss zu konzentrieren, kann stattdessen auch einen Abschlusszuschuss, der nicht zurückgezahlt werden muss, beantragen. Antragsberechtigt ist, wer seit mindestens einem Semester an der Universität Lindenau eingeschrieben ist. Das Geld wird in der Regel innerhalb einer Woche überwiesen.",
+      "footer": "Studierendenwerk Lindenau, Sozialberatung · Mensagebäude, 1. Stock"
+    },
+    {
+      "key": "e",
+      "heading": "Psychosoziale Beratung",
+      "subheading": "Studierendenwerk Lindenau",
+      "lines": [],
+      "text": "Prüfungsangst, Schreibblockaden, Einsamkeit oder Zweifel am gewählten Fach – Krisen gehören für viele zum Studium dazu. Unser Team aus Psychologinnen und Psychologen bietet vertrauliche Einzelgespräche an, die kostenlos sind und auf Wunsch anonym bleiben. Termine vergeben wir in der Regel innerhalb von zwei Wochen; wenn es dringend ist, können Sie ohne Anmeldung in unsere offene Sprechstunde kommen, die montags bis freitags von 11 bis 12 Uhr stattfindet. Darüber hinaus bieten wir in jedem Semester Gruppenworkshops an, etwa „Gelassen in die Prüfung“. Eine Psychotherapie können wir nicht ersetzen, wir unterstützen Sie aber bei der Suche nach einem Therapieplatz.",
+      "footer": "Tel. 0341 9927410 · beratung@stw-lindenau.de"
+    },
+    {
+      "key": "f",
+      "heading": "Schreibzentrum",
+      "subheading": "Gemeinsam zum besseren Text",
+      "lines": [],
+      "text": "Ob erste Hausarbeit oder Masterarbeit: Im Schreibzentrum unterstützen speziell geschulte Studierende höherer Semester Sie in allen Phasen des Schreibens – von der Themenfindung über die Gliederung bis zum Umgang mit Fachliteratur. In einer 45-minütigen Beratung besprechen wir Ihre Fragen und Ihre Texte; bringen Sie dazu bitte einen Ausschnitt von höchstens fünf Seiten mit. Beachten Sie, dass wir Ihre Arbeit weder korrigieren noch Korrektur lesen, sondern Ihnen zeigen, wie Sie Ihre Texte selbst überarbeiten. Für Studierende, deren Erstsprache nicht Deutsch ist, gibt es außerdem die Schreibgruppe „Wissenschaftlich schreiben auf Deutsch“, die donnerstags um 16 Uhr stattfindet.",
+      "footer": "Universitätsbibliothek, Erdgeschoss · www.uni-lindenau.de/schreiben"
+    },
+    {
+      "key": "g",
+      "heading": "Career Service",
+      "subheading": "Vom Hörsaal in den Beruf",
+      "lines": [],
+      "text": "Wie schreibe ich ein überzeugendes Anschreiben? Welche Berufe passen zu meinem Studium? Der Career Service begleitet Sie beim Übergang vom Studium in den Beruf. Wir prüfen Ihre Bewerbungsunterlagen, trainieren mit Ihnen Vorstellungsgespräche und vermitteln über unsere Praktikumsbörse Kontakte zu mehr als 300 Unternehmen aus der Region. Einmal im Semester findet zudem die Firmenkontaktmesse „Campus trifft Karriere“ statt. Unsere Angebote stehen allen eingeschriebenen Studierenden offen und können darüber hinaus bis zu zwölf Monate nach dem Abschluss kostenlos genutzt werden. Einzeltermine buchen Sie online; Kurzberatungen ohne Termin gibt es dienstags von 13 bis 15 Uhr.",
+      "footer": "Hauptgebäude, Raum 0.08 · www.uni-lindenau.de/karriere"
+    },
+    {
+      "key": "h",
+      "heading": "Zentrale Studienberatung",
+      "subheading": "Orientierung vor und während des Studiums",
+      "lines": [],
+      "text": "Sie wissen noch nicht, welches Fach zu Ihnen passt, oder überlegen, Ihr Studium zu wechseln oder ganz abzubrechen? Die Zentrale Studienberatung hilft Ihnen, Ihre Interessen und Möglichkeiten zu klären – neutral und ergebnisoffen. Wir informieren über Studiengänge, Zulassungsvoraussetzungen und Bewerbungsfristen und zeigen Ihnen, welche Alternativen es gibt, etwa eine duale Ausbildung. Unsere Beratung richtet sich ausdrücklich auch an Schülerinnen und Schüler sowie an Berufstätige ohne Abitur, die aufgrund ihrer beruflichen Qualifikation studieren möchten. Gespräche sind persönlich, telefonisch oder per Video möglich; einmal im Monat bieten wir außerdem einen Informationsabend für Eltern an.",
+      "footer": "Tel. 0341 9927100 · www.uni-lindenau.de/studienberatung"
+    },
+    {
+      "key": "i",
+      "heading": "Kinderinsel",
+      "subheading": "Flexible Kinderbetreuung auf dem Campus",
+      "lines": [],
+      "text": "Das Seminar endet um 18 Uhr, die Kita schließt aber schon um 16 Uhr? In der Kinderinsel auf dem Campus betreuen pädagogische Fachkräfte Kinder von Studierenden und Beschäftigten der Universität im Alter von einem bis zu zehn Jahren stundenweise – montags bis freitags von 8 bis 20 Uhr, in der Prüfungszeit auch samstags. Pro Stunde zahlen Sie 2 Euro. Eine Betreuung ist allerdings erst möglich, wenn Ihr Kind an einem Kennenlerntermin teilgenommen hat, den Sie mit etwa einer Woche Vorlauf vereinbaren sollten. Die Kinderinsel ersetzt keinen regulären Kitaplatz: Mehr als 15 Stunden pro Woche können wir pro Kind nicht anbieten.",
+      "footer": "Familienservice der Universität Lindenau · Tel. 0341 9927350"
+    },
+    {
+      "key": "j",
+      "heading": "Wohnen für Hilfe",
+      "subheading": "Ein Zimmer gegen Unterstützung im Alltag",
+      "lines": [],
+      "text": "Günstig wohnen und gleichzeitig Gutes tun: Unser Projekt bringt Studierende, die ein Zimmer suchen, mit älteren Menschen, Familien oder Menschen mit Behinderung zusammen, die Wohnraum zur Verfügung stellen. Statt Miete zu zahlen, helfen die Studierenden im Haushalt, beim Einkaufen oder im Garten; als Faustregel gilt eine Stunde Hilfe pro Monat und Quadratmeter Wohnfläche. Lediglich die Nebenkosten werden anteilig übernommen. Pflegerische Tätigkeiten sind ausdrücklich ausgeschlossen. Wir lernen beide Seiten vorab persönlich kennen, vermitteln passende Wohnpartnerschaften und begleiten sie auch danach. Vermittelt werden ausschließlich Einzelzimmer für eine Person.",
+      "footer": "Seniorenbüro Lindenau in Kooperation mit dem Studierendenwerk"
+    },
+    {
+      "key": "k",
+      "heading": "Sprachenzentrum",
+      "subheading": "Universität Lindenau",
+      "lines": [],
+      "text": "Das Sprachenzentrum bietet in jedem Semester über 120 Kurse in 16 Sprachen an – von Arabisch bis Schwedisch. Für eingeschriebene Studierende sind Kurse bis zum Niveau B1 kostenlos; für Kurse ab Niveau B2 sowie für die Vorbereitung auf international anerkannte Sprachzertifikate wird eine Gebühr von 60 Euro erhoben. Wer lieber flexibel lernt, kann unser Selbstlernzentrum mit Lernsoftware und Lektüren nutzen oder über die Tandembörse jemanden finden, mit dem er sich gegenseitig eine Sprache beibringt. Die Anmeldung zu den Kursen ist nur in der ersten Vorlesungswoche möglich; für die meisten Kurse ist außerdem ein Einstufungstest erforderlich. Kurse im Ausland vermitteln wir nicht.",
+      "footer": "www.uni-lindenau.de/sprachen"
+    },
+    {
+      "key": "l",
+      "heading": "Wohnheim „Am Kanal“",
+      "subheading": "Studierendenwerk Lindenau",
+      "lines": [],
+      "text": "Unser Wohnheim liegt nur zehn Fahrradminuten vom Campus entfernt und bietet 240 möblierte Einzelzimmer sowie 30 Apartments für Paare und Studierende mit Kind. Die Warmmiete beträgt je nach Größe zwischen 290 und 420 Euro und schließt Strom, Internet und die Nutzung der Waschküche ein. Einziehen kann, wer an einer staatlichen Hochschule der Stadt eingeschrieben ist; Studierende im ersten Semester und internationale Gäste werden bei der Vergabe bevorzugt. Die Mietdauer ist auf sechs Semester begrenzt. Da die Warteliste lang ist, sollten Sie Ihren Antrag möglichst ein halbes Jahr vor dem gewünschten Einzug stellen. Haustiere sind leider nicht erlaubt.",
+      "footer": "Kanalstraße 21–25 · www.stw-lindenau.de/wohnen"
+    }
+  ],
+  "glossary": [
+    { "de": "das Fachsemester", "en": "semester of study in one's subject" },
+    { "de": "die Regelstudienzeit", "en": "standard length of a degree programme" },
+    { "de": "auf etw. anrechnen", "en": "to count against, to deduct from" },
+    { "de": "die Reisekostenpauschale", "en": "flat-rate travel allowance" },
+    { "de": "zinslos", "en": "interest-free" },
+    { "de": "unverschuldet", "en": "through no fault of one's own" },
+    { "de": "Korrektur lesen", "en": "to proofread" },
+    { "de": "ergebnisoffen", "en": "open-ended, without a fixed outcome" },
+    { "de": "der Vorlauf", "en": "lead time, advance notice" },
+    { "de": "die Faustregel", "en": "rule of thumb" },
+    { "de": "anteilig", "en": "proportionally, pro rata" },
+    { "de": "die Warmmiete", "en": "rent including heating and utilities" }
+  ]
+}

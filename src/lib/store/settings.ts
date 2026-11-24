@@ -12,6 +12,8 @@ export interface SettingsState {
   voiceMale?: string;
   speechRate: number; // 0.8 – 1.15
   examDate?: string; // yyyy-mm-dd
+  /** The exam the learner prepares for (slug, e.g. "telc-b2"); drives the dashboard, plan and level check. */
+  examSlug?: string;
   dailyGoalMinutes: number;
   /** The welcome flow was finished or skipped. */
   onboarded: boolean;

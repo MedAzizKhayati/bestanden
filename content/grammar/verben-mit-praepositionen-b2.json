@@ -1,0 +1,322 @@
+{
+  "id": "verben-mit-praepositionen-b2",
+  "level": "B2",
+  "category": "verben",
+  "order": 25,
+  "title": "Verben mit Präpositionen für B2",
+  "titleEn": "Verbs with prepositions for B2",
+  "summary": "Formal verbs with fixed prepositions for articles, reports and letters (sich auseinandersetzen mit, beitragen zu, verfügen über, beruhen auf …), da-words versus preposition + pronoun, and verbs whose meaning changes with the preposition (bestehen aus/auf/in, leiden an/unter, zählen zu/auf).",
+  "summaryDe": "Formelle Verben mit fester Präposition für Artikel, Berichte und Briefe (sich auseinandersetzen mit, beitragen zu, verfügen über, beruhen auf …), da-Wörter oder Präposition + Pronomen und Verben, deren Bedeutung sich mit der Präposition ändert (bestehen aus/auf/in, leiden an/unter, zählen zu/auf).",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "At B2 the verbs become **more formal and more abstract** – sich auseinandersetzen **mit**, beitragen **zu**, verfügen **über**, beruhen **auf** – but the principle stays the same: learn **verb + preposition + case** as one unit. For things and whole statements use **da(r)- / wo(r)-** (dazu, worauf), for people **preposition + pronoun** (an ihm, auf wen). And watch out: with some verbs another preposition means something completely different (bestehen **aus** = to consist of, bestehen **auf** = to insist on).",
+      "mdDe": "Auf B2-Niveau werden die Verben **formeller und abstrakter** – sich auseinandersetzen **mit**, beitragen **zu**, verfügen **über**, beruhen **auf** –, aber das Prinzip bleibt gleich: Lerne **Verb + Präposition + Kasus** als eine Einheit. Für Sachen und ganze Aussagen benutzt du **da(r)- / wo(r)-** (dazu, worauf), für Personen **Präposition + Pronomen** (an ihm, auf wen). Und Achtung: Bei manchen Verben bedeutet eine andere Präposition etwas ganz anderes (bestehen **aus** = sich aus Teilen zusammensetzen, bestehen **auf** = etwas unbedingt fordern)."
+    },
+    {
+      "type": "text",
+      "heading": "Formal verbs for articles and letters",
+      "headingDe": "Formelle Verben für Artikel und Briefe",
+      "md": "Newspaper articles, reports and formal e-mails use verbs that you rarely hear in everyday conversation. Many of them are formal partners of verbs you already know:\n\n- sich auseinandersetzen **mit** / sich befassen **mit** ≈ sich beschäftigen mit\n- verfügen **über** ≈ haben\n- beruhen / basieren **auf** ≈ als Grundlage haben\n- sich eignen **für** ≈ gut passen für\n- zählen **zu** ≈ gehören zu\n- sich richten **nach** ≈ abhängen von\n\nThe case rules from B1 still help (für, gegen, um → accusative; mit, von, zu, nach, aus, bei → dative; über with verbs → accusative). But the two-way prepositions **auf** and **an** need extra care at B2:\n\n- **auf + dative** is rare, but important: beruhen **auf**, basieren **auf**, bestehen **auf** („Die Zahlen beruhen **auf einer** Umfrage.“). Most other auf-verbs take the accusative: sich stützen **auf**, sich einstellen **auf**, zurückgreifen **auf**.\n- **an + dative**: mitwirken **an**, scheitern **an**, festhalten **an**, sich orientieren **an** (like teilnehmen an and arbeiten an). **an + accusative** when you address someone: appellieren **an**, sich wenden **an**.",
+      "mdDe": "In Zeitungsartikeln, Berichten und formellen E-Mails stehen Verben, die du im Alltag selten hörst. Viele davon sind formelle Partner von Verben, die du schon kennst:\n\n- sich auseinandersetzen **mit** / sich befassen **mit** ≈ sich beschäftigen mit\n- verfügen **über** ≈ haben\n- beruhen / basieren **auf** ≈ als Grundlage haben\n- sich eignen **für** ≈ gut passen für\n- zählen **zu** ≈ gehören zu\n- sich richten **nach** ≈ abhängen von\n\nDie Kasusregeln von B1 helfen weiter (für, gegen, um → Akkusativ; mit, von, zu, nach, aus, bei → Dativ; über bei Verben → Akkusativ). Aber bei den Wechselpräpositionen **auf** und **an** musst du auf B2-Niveau genauer hinschauen:\n\n- **auf + Dativ** ist selten, aber wichtig: beruhen **auf**, basieren **auf**, bestehen **auf** („Die Zahlen beruhen **auf einer** Umfrage.“). Die meisten anderen auf-Verben haben den Akkusativ: sich stützen **auf**, sich einstellen **auf**, zurückgreifen **auf**.\n- **an + Dativ**: mitwirken **an**, scheitern **an**, festhalten **an**, sich orientieren **an** (wie teilnehmen an und arbeiten an). **an + Akkusativ**, wenn du dich an jemanden richtest: appellieren **an**, sich wenden **an**."
+    },
+    {
+      "type": "table",
+      "heading": "Important B2 verbs with prepositions",
+      "headingDe": "Wichtige B2-Verben mit Präpositionen",
+      "columns": ["Verb", "Präposition + Kasus", "Beispiel", "English"],
+      "columnsDe": ["Verb", "Präposition + Kasus", "Beispiel", "Bedeutung"],
+      "rows": [
+        ["sich auseinandersetzen", "mit + Dat.", "Im Seminar setzen wir uns mit dem Thema Armut auseinander.", "to examine critically, to grapple with"],
+        ["sich befassen", "mit + Dat.", "Die Kommission befasst sich mit der Reform der Pflege.", "to deal with, to look into"],
+        ["beitragen", "zu + Dat.", "Bäume tragen zu einem besseren Stadtklima bei.", "to contribute to"],
+        ["verfügen", "über + Akk.", "Das Hotel verfügt über einen eigenen Parkplatz.", "to have, to have at one's disposal"],
+        ["beruhen / basieren", "auf + Dat.", "Die Prognose beruht auf aktuellen Daten.", "to be based on"],
+        ["sich stützen", "auf + Akk.", "Die Autorin stützt sich auf mehrere Studien.", "to rely on, to draw on"],
+        ["sich eignen", "für + Akk.", "Die Wohnung eignet sich gut für eine Familie mit Kindern.", "to be suitable for"],
+        ["zählen", "zu + Dat.", "Die Brücke zählt zu den ältesten Bauwerken der Stadt.", "to be one of, to rank among"],
+        ["neigen", "zu + Dat.", "Er neigt zu vorschnellen Urteilen.", "to tend to"],
+        ["sich orientieren", "an + Dat.", "Die Mieten orientieren sich am örtlichen Mietspiegel.", "to be guided by"],
+        ["mitwirken", "an + Dat.", "Über hundert Freiwillige haben an dem Festival mitgewirkt.", "to be involved in, to help create"],
+        ["scheitern", "an + Dat.", "Das Projekt ist an den hohen Kosten gescheitert.", "to fail because of"],
+        ["festhalten", "an + Dat.", "Die Regierung hält an ihren Plänen fest.", "to stick to, to hold on to"],
+        ["appellieren", "an + Akk.", "Die Polizei appelliert an alle Autofahrer, vorsichtig zu fahren.", "to appeal to"],
+        ["sich richten", "nach + Dat.", "Der Preis richtet sich nach der Größe der Wohnung.", "to depend on, to go by"],
+        ["streben", "nach + Dat.", "Viele Menschen streben nach Sicherheit.", "to strive for"],
+        ["profitieren", "von + Dat.", "Auch kleine Betriebe profitieren von der Förderung.", "to benefit from"],
+        ["ausgehen", "von + Dat.", "Wir gehen von steigenden Preisen aus.", "to assume"],
+        ["abraten", "von + Dat.", "Die Ärztin rät von langen Flugreisen ab.", "to advise against"],
+        ["sich abfinden", "mit + Dat.", "Mit der Absage wollte sie sich nicht abfinden.", "to accept, to resign oneself to"],
+        ["sich einstellen", "auf + Akk.", "Die Bahn stellt sich auf mehr Fahrgäste ein.", "to prepare for, to adjust to"],
+        ["zurückgreifen", "auf + Akk.", "Wir können auf erfahrene Fachleute zurückgreifen.", "to fall back on, to draw on"],
+        ["verstoßen", "gegen + Akk.", "Die Firma hat gegen den Datenschutz verstoßen.", "to violate, to break (a rule)"],
+        ["plädieren", "für + Akk.", "Die Expertin plädiert für eine Vier-Tage-Woche.", "to argue for, to advocate"],
+        ["sich ergeben", "aus + Dat.", "Aus der Umfrage ergeben sich klare Trends.", "to result from, to emerge from"]
+      ],
+      "rowsDe": [
+        ["sich auseinandersetzen", "mit + Dat.", "Im Seminar setzen wir uns mit dem Thema Armut auseinander.", "sich intensiv und kritisch mit etwas beschäftigen"],
+        ["sich befassen", "mit + Dat.", "Die Kommission befasst sich mit der Reform der Pflege.", "sich mit einem Thema beschäftigen"],
+        ["beitragen", "zu + Dat.", "Bäume tragen zu einem besseren Stadtklima bei.", "ein Teil der Ursache für ein Ergebnis sein"],
+        ["verfügen", "über + Akk.", "Das Hotel verfügt über einen eigenen Parkplatz.", "etwas haben, besitzen"],
+        ["beruhen / basieren", "auf + Dat.", "Die Prognose beruht auf aktuellen Daten.", "etwas als Grundlage haben"],
+        ["sich stützen", "auf + Akk.", "Die Autorin stützt sich auf mehrere Studien.", "etwas als Grundlage oder Beweis benutzen"],
+        ["sich eignen", "für + Akk.", "Die Wohnung eignet sich gut für eine Familie mit Kindern.", "gut für etwas passen"],
+        ["zählen", "zu + Dat.", "Die Brücke zählt zu den ältesten Bauwerken der Stadt.", "zu einer Gruppe gehören"],
+        ["neigen", "zu + Dat.", "Er neigt zu vorschnellen Urteilen.", "eine Tendenz zu etwas haben"],
+        ["sich orientieren", "an + Dat.", "Die Mieten orientieren sich am örtlichen Mietspiegel.", "etwas als Maßstab nehmen"],
+        ["mitwirken", "an + Dat.", "Über hundert Freiwillige haben an dem Festival mitgewirkt.", "aktiv bei etwas mitmachen"],
+        ["scheitern", "an + Dat.", "Das Projekt ist an den hohen Kosten gescheitert.", "wegen etwas keinen Erfolg haben"],
+        ["festhalten", "an + Dat.", "Die Regierung hält an ihren Plänen fest.", "etwas nicht aufgeben oder ändern"],
+        ["appellieren", "an + Akk.", "Die Polizei appelliert an alle Autofahrer, vorsichtig zu fahren.", "jemanden dringend auffordern"],
+        ["sich richten", "nach + Dat.", "Der Preis richtet sich nach der Größe der Wohnung.", "von etwas abhängen; einer Regel folgen"],
+        ["streben", "nach + Dat.", "Viele Menschen streben nach Sicherheit.", "etwas unbedingt erreichen wollen"],
+        ["profitieren", "von + Dat.", "Auch kleine Betriebe profitieren von der Förderung.", "einen Vorteil von etwas haben"],
+        ["ausgehen", "von + Dat.", "Wir gehen von steigenden Preisen aus.", "etwas annehmen, für wahrscheinlich halten"],
+        ["abraten", "von + Dat.", "Die Ärztin rät von langen Flugreisen ab.", "empfehlen, etwas nicht zu tun"],
+        ["sich abfinden", "mit + Dat.", "Mit der Absage wollte sie sich nicht abfinden.", "etwas akzeptieren, obwohl man es nicht gut findet"],
+        ["sich einstellen", "auf + Akk.", "Die Bahn stellt sich auf mehr Fahrgäste ein.", "sich auf etwas vorbereiten"],
+        ["zurückgreifen", "auf + Akk.", "Wir können auf erfahrene Fachleute zurückgreifen.", "etwas Vorhandenes nutzen"],
+        ["verstoßen", "gegen + Akk.", "Die Firma hat gegen den Datenschutz verstoßen.", "eine Regel oder ein Gesetz nicht beachten"],
+        ["plädieren", "für + Akk.", "Die Expertin plädiert für eine Vier-Tage-Woche.", "sich öffentlich für etwas aussprechen"],
+        ["sich ergeben", "aus + Dat.", "Aus der Umfrage ergeben sich klare Trends.", "die Folge von etwas sein"]
+      ],
+      "note": "auf + dative is rare – remember beruhen auf, basieren auf and bestehen auf: „auf einer Umfrage“, „auf seinem Recht“. All other verbs in this table with „auf“ take the accusative.",
+      "noteDe": "auf + Dativ ist selten – merk dir beruhen auf, basieren auf und bestehen auf: „auf einer Umfrage“, „auf seinem Recht“. Alle anderen Verben mit „auf“ in dieser Tabelle stehen mit Akkusativ."
+    },
+    {
+      "type": "text",
+      "heading": "da-word or preposition + pronoun?",
+      "headingDe": "da-Wort oder Präposition + Pronomen?",
+      "md": "You know the basic rule from B1: **things → da(r)- + preposition**, **people → preposition + pronoun**. At B2 three more points matter:\n\n1. **A da-word can refer back to a whole statement**, not just to one noun: „Die Mieten steigen seit Jahren. **Darauf** muss die Politik endlich reagieren.“ / „Immer mehr Menschen fahren mit dem Rad zur Arbeit. **Dazu** hat auch der neue Radweg beigetragen.“\n2. **Institutions and groups** that act like people (die Firma, die Behörde, der Verein) are treated like people: „Die Stadtverwaltung? Wir haben uns schon zweimal **an sie** gewandt.“ – not *daran*.\n3. **Questions and relative clauses:** for things use **wo(r)-** („**Worauf** stützt sich die Studie?“), for people **preposition + wen/wem** („**Auf wen** können wir zählen?“). A wo-word also starts a relative clause after *das, alles, etwas, nichts* or after a whole clause: „Das ist genau das, **worauf** sich unsere Kritik bezieht.“ / „Er hat sich bei allen entschuldigt, **womit** niemand gerechnet hatte.“\n\n*Auf was?* or *mit was?* are colloquial – in writing use **worauf**, **womit**. And don't forget the da-word that **points forward** to a dass- or zu-clause: „Wir weisen Sie **darauf** hin, dass …“, „Das Projekt hat **dazu** beigetragen, Kosten zu senken.“ (more in „Korrelate“).",
+      "mdDe": "Die Grundregel kennst du von B1: **Sachen → da(r)- + Präposition**, **Personen → Präposition + Pronomen**. Auf B2-Niveau sind drei weitere Punkte wichtig:\n\n1. **Ein da-Wort kann sich auf eine ganze Aussage beziehen**, nicht nur auf ein Nomen: „Die Mieten steigen seit Jahren. **Darauf** muss die Politik endlich reagieren.“ / „Immer mehr Menschen fahren mit dem Rad zur Arbeit. **Dazu** hat auch der neue Radweg beigetragen.“\n2. **Institutionen und Gruppen**, die wie Personen handeln (die Firma, die Behörde, der Verein), behandelst du wie Personen: „Die Stadtverwaltung? Wir haben uns schon zweimal **an sie** gewandt.“ – nicht *daran*.\n3. **Fragen und Relativsätze:** Bei Sachen nimmst du **wo(r)-** („**Worauf** stützt sich die Studie?“), bei Personen **Präposition + wen/wem** („**Auf wen** können wir zählen?“). Ein wo-Wort leitet auch einen Relativsatz ein – nach *das, alles, etwas, nichts* oder nach einem ganzen Satz: „Das ist genau das, **worauf** sich unsere Kritik bezieht.“ / „Er hat sich bei allen entschuldigt, **womit** niemand gerechnet hatte.“\n\n*Auf was?* oder *mit was?* ist Umgangssprache – schriftlich benutzt du **worauf**, **womit**. Und vergiss nicht das da-Wort, das **nach vorn** auf einen dass- oder zu-Satz zeigt: „Wir weisen Sie **darauf** hin, dass …“, „Das Projekt hat **dazu** beigetragen, Kosten zu senken.“ (mehr dazu unter „Korrelate“)."
+    },
+    {
+      "type": "table",
+      "heading": "Same verb – different preposition – different meaning",
+      "headingDe": "Gleiches Verb – andere Präposition – andere Bedeutung",
+      "columns": ["Verb + Präposition", "English", "Beispiel"],
+      "columnsDe": ["Verb + Präposition", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["sich freuen auf + Akk.", "to look forward to (future)", "Wir freuen uns auf die Konferenz im Mai."],
+        ["sich freuen über + Akk.", "to be pleased about (now or past)", "Wir freuen uns über die vielen Anmeldungen."],
+        ["bestehen aus + Dat.", "to consist of", "Die Jury besteht aus fünf Fachleuten."],
+        ["bestehen auf + Dat.", "to insist on", "Der Mieter besteht auf einer schriftlichen Bestätigung."],
+        ["bestehen in + Dat.", "to consist in, to lie in", "Die größte Schwierigkeit besteht in der Finanzierung."],
+        ["leiden an + Dat.", "to suffer from (an illness)", "Sie leidet an einer chronischen Krankheit."],
+        ["leiden unter + Dat.", "to suffer from (a situation, a burden)", "Viele Anwohner leiden unter dem Fluglärm."],
+        ["zählen zu + Dat.", "to be one of", "Sie zählt zu den besten Spielerinnen des Vereins."],
+        ["zählen auf + Akk.", "to count on", "Beim Umzug kannst du auf mich zählen."],
+        ["handeln von + Dat.", "to be about (a book, a film)", "Der Roman handelt von zwei Schwestern."],
+        ["handeln mit + Dat.", "to trade in", "Die Firma handelt mit gebrauchten Maschinen."],
+        ["es handelt sich um + Akk.", "it is (a matter of)", "Es handelt sich um ein Missverständnis."],
+        ["schließen aus + Dat.", "to conclude from", "Aus den Zahlen schließen wir, dass der Trend anhält."],
+        ["schließen auf + Akk.", "to infer, to suggest", "Die Spuren lassen auf einen Einbruch schließen."],
+        ["es kommt zu + Dat.", "something happens (as a result)", "Wegen des Streiks kam es zu langen Staus."],
+        ["kommen auf + Akk.", "to come up with, to think of", "Wie bist du auf diese Idee gekommen?"]
+      ],
+      "rowsDe": [
+        ["sich freuen auf + Akk.", "auf etwas Zukünftiges gespannt sein", "Wir freuen uns auf die Konferenz im Mai."],
+        ["sich freuen über + Akk.", "froh sein über etwas, das schon da ist", "Wir freuen uns über die vielen Anmeldungen."],
+        ["bestehen aus + Dat.", "sich aus Teilen zusammensetzen", "Die Jury besteht aus fünf Fachleuten."],
+        ["bestehen auf + Dat.", "etwas unbedingt fordern", "Der Mieter besteht auf einer schriftlichen Bestätigung."],
+        ["bestehen in + Dat.", "der Kern von etwas sein", "Die größte Schwierigkeit besteht in der Finanzierung."],
+        ["leiden an + Dat.", "eine Krankheit haben", "Sie leidet an einer chronischen Krankheit."],
+        ["leiden unter + Dat.", "von einer Situation belastet sein", "Viele Anwohner leiden unter dem Fluglärm."],
+        ["zählen zu + Dat.", "zu einer Gruppe gehören", "Sie zählt zu den besten Spielerinnen des Vereins."],
+        ["zählen auf + Akk.", "sich auf jemanden verlassen", "Beim Umzug kannst du auf mich zählen."],
+        ["handeln von + Dat.", "das Thema (eines Buches, Films) sein", "Der Roman handelt von zwei Schwestern."],
+        ["handeln mit + Dat.", "etwas kaufen und verkaufen", "Die Firma handelt mit gebrauchten Maschinen."],
+        ["es handelt sich um + Akk.", "es ist, es geht um", "Es handelt sich um ein Missverständnis."],
+        ["schließen aus + Dat.", "aus etwas eine Folgerung ziehen", "Aus den Zahlen schließen wir, dass der Trend anhält."],
+        ["schließen auf + Akk.", "etwas aus Hinweisen ableiten", "Die Spuren lassen auf einen Einbruch schließen."],
+        ["es kommt zu + Dat.", "etwas passiert (als Folge)", "Wegen des Streiks kam es zu langen Staus."],
+        ["kommen auf + Akk.", "eine Idee haben, an etwas denken", "Wie bist du auf diese Idee gekommen?"]
+      ],
+      "note": "In Sprachbausteine Teil 2, several of these prepositions can be in the word box at the same time – read the whole sentence before you decide which meaning is meant.",
+      "noteDe": "In Sprachbausteine Teil 2 können mehrere dieser Präpositionen gleichzeitig im Kasten stehen – lies den ganzen Satz, bevor du entscheidest, welche Bedeutung gemeint ist."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Im Seminar **setzen** wir **uns** kritisch **mit** den Folgen des Tourismus **auseinander**.", "en": "In the seminar we take a critical look at the consequences of tourism." },
+        { "de": "Die neue Brücke **hat** erheblich **dazu beigetragen**, den Verkehr im Zentrum zu verringern.", "en": "The new bridge has contributed considerably to reducing traffic in the centre." },
+        { "de": "Das Gästehaus **verfügt über** zwölf barrierefreie Zimmer.", "en": "The guesthouse has twelve accessible rooms." },
+        { "de": "Die Ergebnisse **beruhen auf einer** Befragung von 2.000 Beschäftigten.", "en": "The results are based on a survey of 2,000 employees." },
+        { "de": "Der Plan **ist an** der fehlenden Finanzierung **gescheitert**.", "en": "The plan failed because of a lack of funding." },
+        { "de": "Unsere Teamleiterin? **Auf sie** können wir immer **zählen**.", "en": "Our team leader? We can always count on her." },
+        { "de": "**Worauf stützt sich** diese Behauptung? – **Auf** eine Studie aus dem Jahr 2024.", "en": "What is this claim based on? – On a study from 2024." },
+        { "de": "Die Patientin **besteht auf** einem Gespräch mit dem Chefarzt.", "en": "The patient insists on talking to the head physician." },
+        { "de": "Viele Kinder **leiden unter** dem Druck in der Schule, manche **leiden** sogar **an** Schlafstörungen.", "en": "Many children suffer from the pressure at school; some even suffer from sleep disorders." },
+        { "de": "Wir **weisen** Sie **darauf hin**, dass die Bibliothek im August geschlossen ist.", "en": "Please note that the library is closed in August." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 2** is decided by exactly these collocations. If the gap follows a verb like *beitragen*, *verfügen* or *sich eignen*, look for its fixed preposition (zu, über, für) – or for the da-word (**dazu**, **darauf**) if a dass- or zu-clause follows. If the gap comes **before** a preposition („… über einen eigenen Garten“), the missing word may be the verb: only one verb in the box fits that preposition.\n- **Sprachbausteine Teil 1** tests the case after the preposition („beruht auf **einer** Umfrage“) and the choice between *darauf / worauf / auf ihn*.\n- **Lesen:** *beruhen auf*, *sich stützen auf* and *ausgehen von* tell you **where a claim comes from** – often the key to a multiple-choice item.\n- **Schreiben:** „Ich beziehe mich auf Ihre Anzeige vom …“, „Ich möchte Sie darauf hinweisen, dass …“, „Ich bestehe darauf, dass …“ (complaint).\n- **Sprechen Teil 2:** „Ich gehe davon aus, dass …“, „Ich plädiere dafür, …“, „Das trägt dazu bei, dass …“.",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 2** wird genau durch diese festen Verbindungen entschieden. Steht die Lücke nach einem Verb wie *beitragen*, *verfügen* oder *sich eignen*, suchst du die feste Präposition (zu, über, für) – oder das da-Wort (**dazu**, **darauf**), wenn ein dass- oder zu-Satz folgt. Steht die Lücke **vor** einer Präposition („… über einen eigenen Garten“), fehlt vielleicht das Verb: Nur ein Verb im Kasten passt zu dieser Präposition.\n- **Sprachbausteine Teil 1** prüft den Kasus nach der Präposition („beruht auf **einer** Umfrage“) und die Wahl zwischen *darauf / worauf / auf ihn*.\n- **Lesen:** *beruhen auf*, *sich stützen auf* und *ausgehen von* zeigen dir, **woher eine Behauptung kommt** – oft der Schlüssel zu einer Multiple-Choice-Aufgabe.\n- **Schreiben:** „Ich beziehe mich auf Ihre Anzeige vom …“, „Ich möchte Sie darauf hinweisen, dass …“, „Ich bestehe darauf, dass …“ (Beschwerde).\n- **Sprechen Teil 2:** „Ich gehe davon aus, dass …“, „Ich plädiere dafür, …“, „Das trägt dazu bei, dass …“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **auf + dative** with beruhen, basieren and bestehen: „Die Studie beruht **auf einer** Umfrage.“ – not *auf eine*.\n- **verfügen über + accusative**, not *mit*: „Das Zimmer verfügt **über einen** Balkon.“ (English *equipped with* tempts you to use *mit*).\n- **dazu, not dafür, with beitragen:** „Das trägt **dazu** bei, dass …“.\n- **Same verb, other meaning:** „Er besteht **auf** einer Antwort.“ (he insists) ≠ „Die Antwort besteht **aus** drei Teilen.“ (it consists of). „Sie leidet **an** Migräne.“ (an illness) ≠ „Sie leidet **unter** dem Stress.“ (a situation).\n- **People never get a da-word:** „Meine Mentorin? Ich orientiere mich **an ihr**.“ – not *daran*.",
+      "mdDe": "**Typische Fallen:**\n\n- **auf + Dativ** bei beruhen, basieren und bestehen: „Die Studie beruht **auf einer** Umfrage.“ – nicht *auf eine*.\n- **verfügen über + Akkusativ**, nicht *mit*: „Das Zimmer verfügt **über einen** Balkon.“ (Das englische *equipped with* verführt zu *mit*.)\n- **dazu, nicht dafür, bei beitragen:** „Das trägt **dazu** bei, dass …“.\n- **Gleiches Verb, andere Bedeutung:** „Er besteht **auf** einer Antwort.“ (er fordert sie) ≠ „Die Antwort besteht **aus** drei Teilen.“ (sie setzt sich zusammen). „Sie leidet **an** Migräne.“ (eine Krankheit) ≠ „Sie leidet **unter** dem Stress.“ (eine Situation).\n- **Personen bekommen nie ein da-Wort:** „Meine Mentorin? Ich orientiere mich **an ihr**.“ – nicht *daran*."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Die Prognose beruht auf aktuelle Zahlen des Statistikamts.",
+      "right": "Die Prognose beruht auf aktuellen Zahlen des Statistikamts.",
+      "why": "„beruhen auf“ is one of the few verbs with „auf“ + dative, so the plural ending is „aktuellen Zahlen“.",
+      "whyDe": "„beruhen auf“ ist eines der wenigen Verben mit „auf“ + Dativ, deshalb heißt es im Plural „aktuellen Zahlen“."
+    },
+    {
+      "wrong": "Die Wohnung verfügt mit einer modernen Küche.",
+      "right": "Die Wohnung verfügt über eine moderne Küche.",
+      "why": "The fixed preposition is „über“ + accusative. Don't translate English *equipped with*.",
+      "whyDe": "Die feste Präposition ist „über“ + Akkusativ. Übersetze nicht das englische *equipped with*."
+    },
+    {
+      "wrong": "Mit Ihrer Spende tragen Sie dafür bei, dass mehr Kinder schwimmen lernen.",
+      "right": "Mit Ihrer Spende tragen Sie dazu bei, dass mehr Kinder schwimmen lernen.",
+      "why": "„beitragen zu“ → the da-word before the dass-clause is „dazu“. „dafür“ belongs to verbs with „für“ such as „sorgen für“.",
+      "whyDe": "„beitragen zu“ → das da-Wort vor dem dass-Satz ist „dazu“. „dafür“ gehört zu Verben mit „für“ wie „sorgen für“."
+    },
+    {
+      "wrong": "Der Kunde besteht aus einer Erstattung des vollen Preises.",
+      "right": "Der Kunde besteht auf einer Erstattung des vollen Preises.",
+      "why": "To insist on something is „bestehen auf“ + dative. „bestehen aus“ means *to consist of*.",
+      "whyDe": "Etwas unbedingt fordern heißt „bestehen auf“ + Dativ. „bestehen aus“ bedeutet „sich aus Teilen zusammensetzen“."
+    },
+    {
+      "wrong": "Orientierst du dich an deiner Mentorin? – Ja, ich orientiere mich oft daran.",
+      "right": "Orientierst du dich an deiner Mentorin? – Ja, ich orientiere mich oft an ihr.",
+      "why": "„deine Mentorin“ is a person, so you keep the preposition and use a pronoun. „an“ takes the dative here: „an ihr“.",
+      "whyDe": "„deine Mentorin“ ist eine Person, deshalb bleibt die Präposition, und du benutzt ein Pronomen. „an“ steht hier mit Dativ: „an ihr“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Das neue Gemeindezentrum verfügt ___ einen Saal für bis zu 200 Personen.",
+      "options": ["über", "mit", "auf"],
+      "answer": 0,
+      "explanation": "„verfügen über“ + accusative = to have („einen Saal“). „mit“ is the English-style trap (*equipped with*), and „verfügen auf“ does not exist.",
+      "explanationDe": "„verfügen über“ + Akkusativ = haben („einen Saal“). „mit“ ist die Falle aus dem Englischen (*equipped with*), und „verfügen auf“ gibt es nicht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das Museum zählt ___ den meistbesuchten Ausstellungshäusern des Landes.",
+      "options": ["zu", "auf", "unter"],
+      "answer": 0,
+      "explanation": "„zählen zu“ + dative = to be one of („den meistbesuchten Ausstellungshäusern“). „zählen auf“ means *to count on*, which makes no sense for a museum.",
+      "explanationDe": "„zählen zu“ + Dativ = zu einer Gruppe gehören („den meistbesuchten Ausstellungshäusern“). „zählen auf“ bedeutet „sich verlassen auf“ – das passt nicht zu einem Museum."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Menschen neigen ___, ihre eigenen Fähigkeiten zu überschätzen.",
+      "options": ["dazu", "darauf", "dafür"],
+      "answer": 0,
+      "explanation": "„neigen zu“ → before the zu-infinitive the da-word is „dazu“. „darauf“ and „dafür“ belong to verbs with „auf“ and „für“.",
+      "explanationDe": "„neigen zu“ → vor dem zu-Infinitiv steht das da-Wort „dazu“. „darauf“ und „dafür“ gehören zu Verben mit „auf“ und „für“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Frau Brandt besteht ___, dass jede Änderung des Vertrags schriftlich festgehalten wird.",
+      "options": ["darauf", "daraus", "darin"],
+      "answer": 0,
+      "explanation": "A person who insists on something: „bestehen auf“ → „darauf“. „bestehen darin“ needs a subject like „das Problem“ (= it lies in), and „bestehen aus“ means *to consist of*.",
+      "explanationDe": "Eine Person fordert etwas unbedingt: „bestehen auf“ → „darauf“. „bestehen darin“ braucht ein Subjekt wie „das Problem“ (= der Kern ist), und „bestehen aus“ bedeutet „sich aus Teilen zusammensetzen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Seit dem Umzug an die Hauptstraße leiden wir sehr ___ dem Verkehrslärm.",
+      "options": ["unter", "an", "über"],
+      "answer": 0,
+      "explanation": "Noise is a burdensome situation, so it is „leiden unter“ + dative. „leiden an“ is used for illnesses („an Migräne“), and „leiden über“ does not exist.",
+      "explanationDe": "Lärm ist eine belastende Situation, deshalb heißt es „leiden unter“ + Dativ. „leiden an“ benutzt man für Krankheiten („an Migräne“), und „leiden über“ gibt es nicht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Orientierst du dich bei deinen Entscheidungen an deinem Mentor? – Ja, ich orientiere mich oft ___.",
+      "options": ["an ihm", "daran", "an ihn"],
+      "answer": 0,
+      "explanation": "„dein Mentor“ is a person, so you keep the preposition and use a pronoun. „sich orientieren an“ takes the dative: „an ihm“. „daran“ is only for things, „an ihn“ is the wrong case.",
+      "explanationDe": "„dein Mentor“ ist eine Person, deshalb bleibt die Präposition, und du benutzt ein Pronomen. „sich orientieren an“ steht mit Dativ: „an ihm“. „daran“ gibt es nur für Sachen, „an ihn“ ist der falsche Kasus."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Höhe des Zuschusses richtet sich ___ dem Einkommen der Eltern.",
+      "answers": ["nach"],
+      "explanation": "„sich richten nach“ + dative = to depend on, to be based on. The amount depends on the parents' income.",
+      "explanationDe": "„sich richten nach“ + Dativ = von etwas abhängen. Die Höhe hängt vom Einkommen der Eltern ab."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Erfolg des Festivals beruht vor allem auf ___ Engagement der vielen Freiwilligen.",
+      "hint": "(das)",
+      "answers": ["dem"],
+      "explanation": "„beruhen auf“ takes the dative, not the accusative. „das Engagement“ is neuter → „auf dem Engagement“.",
+      "explanationDe": "„beruhen auf“ steht mit Dativ, nicht mit Akkusativ. „das Engagement“ ist neutral → „auf dem Engagement“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Verhandlungen sind letztlich ___ der Frage der Finanzierung gescheitert.",
+      "answers": ["an"],
+      "explanation": "„scheitern an“ + dative names the obstacle that made something fail: „an der Frage der Finanzierung“.",
+      "explanationDe": "„scheitern an“ + Dativ nennt das Hindernis, wegen dem etwas keinen Erfolg hat: „an der Frage der Finanzierung“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der neue Radweg hat erheblich ___ beigetragen, dass mehr Menschen mit dem Fahrrad zur Arbeit fahren.",
+      "answers": ["dazu"],
+      "explanation": "„beitragen zu“ → the da-word that announces the dass-clause is „dazu“ (not „dafür“).",
+      "explanationDe": "„beitragen zu“ → das da-Wort, das den dass-Satz ankündigt, ist „dazu“ (nicht „dafür“)."
+    },
+    {
+      "type": "order",
+      "words": ["mit", "setzen", "der", "kritisch", "Im", "auseinander.", "Folgen", "uns", "Digitalisierung", "wir", "den", "Seminar"],
+      "answers": [
+        "Im Seminar setzen wir uns kritisch mit den Folgen der Digitalisierung auseinander.",
+        "Im Seminar setzen wir uns mit den Folgen der Digitalisierung kritisch auseinander.",
+        "Wir setzen uns im Seminar kritisch mit den Folgen der Digitalisierung auseinander.",
+        "Wir setzen uns im Seminar mit den Folgen der Digitalisierung kritisch auseinander.",
+        "Mit den Folgen der Digitalisierung setzen wir uns im Seminar kritisch auseinander."
+      ],
+      "explanation": "„sich auseinandersetzen mit“ is separable: „setzen“ stands in position 2, „auseinander“ at the end. The reflexive pronoun „uns“ follows the subject, and „mit“ + dative („mit den Folgen“) stays together.",
+      "explanationDe": "„sich auseinandersetzen mit“ ist trennbar: „setzen“ steht auf Position 2, „auseinander“ am Ende. Das Reflexivpronomen „uns“ folgt dem Subjekt, und „mit“ + Dativ („mit den Folgen“) bleibt zusammen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the part in brackets with a pronoun or a da-word.",
+      "instructionDe": "Ersetze den Teil in Klammern durch ein Pronomen oder ein da-Wort.",
+      "prompt": "In schwierigen Situationen können wir immer (auf unsere Teamleiterin) zählen.",
+      "answers": ["In schwierigen Situationen können wir immer auf sie zählen."],
+      "explanation": "„unsere Teamleiterin“ is a person, so you keep „auf“ and use the accusative pronoun „sie“. „darauf“ would be only for things.",
+      "explanationDe": "„unsere Teamleiterin“ ist eine Person, deshalb bleibt „auf“, und du benutzt das Akkusativpronomen „sie“. „darauf“ gibt es nur für Sachen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Ask a question about the part in brackets.",
+      "instructionDe": "Frag nach dem Teil in Klammern.",
+      "prompt": "Die Prognose stützt sich (auf aktuelle Daten des Statistikamts).",
+      "answers": ["Worauf stützt sich die Prognose?"],
+      "explanation": "The data are a thing, so the question word is wo(r)- + preposition: „auf“ starts with a vowel → „Worauf“. The verb follows in position 2.",
+      "explanationDe": "Die Daten sind eine Sache, deshalb ist das Fragewort wo(r)- + Präposition: „auf“ beginnt mit einem Vokal → „Worauf“. Das Verb folgt auf Position 2."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „sich eignen für“.",
+      "instructionDe": "Schreib den Satz mit „sich eignen für“ um.",
+      "prompt": "Der Raum ist für Veranstaltungen mit vielen Gästen nicht geeignet.",
+      "answers": [
+        "Der Raum eignet sich nicht für Veranstaltungen mit vielen Gästen.",
+        "Der Raum eignet sich für Veranstaltungen mit vielen Gästen nicht."
+      ],
+      "explanation": "„geeignet sein für“ becomes the reflexive verb „sich eignen für“ + accusative. The verb „eignet“ moves to position 2, followed by „sich“.",
+      "explanationDe": "Aus „geeignet sein für“ wird das reflexive Verb „sich eignen für“ + Akkusativ. Das Verb „eignet“ steht auf Position 2, danach kommt „sich“."
+    }
+  ],
+  "related": ["verben-mit-praepositionen", "korrelate", "adjektive-mit-praepositionen-b2", "nomen-mit-praepositionen", "relativsaetze-b2", "reflexive-verben", "nomen-verb-verbindungen-b2"]
+}

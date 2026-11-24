@@ -1,0 +1,110 @@
+{
+  "id": "hoeren-3-07",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Fristen, Pausen und Umwege",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "pruefungsamt", "gender": "f", "age": "adult", "role": "Telefonansage des Prüfungsamts" },
+    { "id": "fernbus", "gender": "m", "age": "adult", "role": "Busfahrer" },
+    { "id": "verkehr", "gender": "f", "age": "young", "role": "Radiosprecherin" },
+    { "id": "baumarkt", "gender": "m", "age": "young", "role": "Lautsprecheransage" },
+    { "id": "radio", "gender": "m", "age": "senior", "role": "Radiosprecher" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Telefonansage des Prüfungsamts",
+      "context": "Sie hören die Telefonansage einer Hochschule.",
+      "script": [
+        { "s": "pruefungsamt", "t": "Sie sind verbunden mit dem Prüfungsamt der Hochschule Rheinau. Zurzeit erreichen uns sehr viele Anrufe zur Anmeldung für die Prüfungen am Ende des Semesters." },
+        { "s": "pruefungsamt", "t": "Bitte beachten Sie: Anmelden können Sie sich ausschließlich über das Online-Portal, und zwar bis zum fünfzehnten Januar." },
+        { "s": "pruefungsamt", "t": "Ein Rücktritt ist ohne Angabe von Gründen noch bis eine Woche vor dem jeweiligen Prüfungstermin möglich. Wer danach wegen Krankheit nicht teilnehmen kann, muss innerhalb von drei Tagen ein ärztliches Attest einreichen." },
+        { "s": "pruefungsamt", "t": "Persönlich erreichen Sie uns dienstags und donnerstags von 10 bis 12 Uhr." }
+      ],
+      "statement": "Bis eine Woche vor der Prüfung kann man sich nur mit einem Attest wieder abmelden.",
+      "answer": false,
+      "explanation": "Up to one week before the exam you can withdraw „ohne Angabe von Gründen“ – no certificate is needed. The „ärztliches Attest“ is only required if you fall ill after that deadline.",
+      "explanationDe": "Bis eine Woche vor der Prüfung ist ein Rücktritt „ohne Angabe von Gründen“ möglich – ein Attest brauchst du dafür nicht. Ein „ärztliches Attest“ musst du nur einreichen, wenn du nach dieser Frist krank wirst.",
+      "evidence": "Ein Rücktritt ist ohne Angabe von Gründen noch bis eine Woche vor dem jeweiligen Prüfungstermin möglich."
+    },
+    {
+      "n": 2,
+      "label": "Durchsage im Fernbus",
+      "context": "Sie hören eine Durchsage in einem Fernbus.",
+      "script": [
+        { "s": "fernbus", "t": "Liebe Fahrgäste, in wenigen Minuten erreichen wir die Raststätte Hasselberg. Dort legen wir eine Pause von 45 Minuten ein, weil ich meine vorgeschriebene Ruhezeit einhalten muss." },
+        { "s": "fernbus", "t": "Bitte seien Sie spätestens um 14 Uhr 45 wieder am Bus. Auf einzelne Fahrgäste können wir leider nicht warten, sonst verpassen viele von Ihnen ihren Anschluss in Nürnberg." },
+        { "s": "fernbus", "t": "Wertsachen nehmen Sie bitte mit, Ihr übriges Handgepäck kann im Bus bleiben. Ich schließe die Türen während der Pause ab." },
+        { "s": "fernbus", "t": "Rauchen ist übrigens nur im markierten Bereich hinter der Tankstelle erlaubt." }
+      ],
+      "statement": "Der Bus fährt nach der Pause pünktlich weiter, auch wenn noch Fahrgäste fehlen.",
+      "answer": true,
+      "explanation": "The driver says „Auf einzelne Fahrgäste können wir leider nicht warten“ because many passengers have a connection in Nuremberg. So the bus leaves on time even if someone is missing.",
+      "explanationDe": "Der Fahrer sagt: „Auf einzelne Fahrgäste können wir leider nicht warten“ – sonst verpassen viele den Anschluss in Nürnberg. Der Bus fährt also pünktlich ab, auch wenn jemand fehlt.",
+      "evidence": "Auf einzelne Fahrgäste können wir leider nicht warten, sonst verpassen viele von Ihnen ihren Anschluss in Nürnberg."
+    },
+    {
+      "n": 3,
+      "label": "Verkehrsmeldung im Radio",
+      "context": "Sie hören eine Verkehrsmeldung im Radio.",
+      "script": [
+        { "s": "verkehr", "t": "Und nun zur Verkehrslage in Wien. Wegen des Stadtmarathons ist die Ringstraße am Sonntag von sechs Uhr früh bis etwa 15 Uhr für den gesamten Verkehr gesperrt." },
+        { "s": "verkehr", "t": "Davon sind auch die Straßenbahnen betroffen: Die Linien 1 und 2 fahren in dieser Zeit nur bis zum Schwedenplatz, die Linie 71 fällt ganz aus." },
+        { "s": "verkehr", "t": "Die U-Bahn fährt dagegen ohne Einschränkungen, am Vormittag sogar in kürzeren Abständen." },
+        { "s": "verkehr", "t": "Wer mit dem Auto unterwegs ist, sollte die Innenstadt am Sonntag besser großräumig meiden, denn auch viele Seitenstraßen sind für die Zuschauer abgesperrt." }
+      ],
+      "statement": "Wegen des Marathons fährt die U-Bahn am Sonntagvormittag sogar öfter als sonst.",
+      "answer": true,
+      "explanation": "The underground runs „ohne Einschränkungen“ and in the morning even „in kürzeren Abständen“ – that means more often than usual. Only the trams are restricted: lines 1 and 2 go only as far as Schwedenplatz, and line 71 is cancelled.",
+      "explanationDe": "Die U-Bahn fährt „ohne Einschränkungen“ und am Vormittag sogar „in kürzeren Abständen“ – also öfter als sonst. Eingeschränkt sind nur die Straßenbahnen: Die Linien 1 und 2 fahren nur bis zum Schwedenplatz, die Linie 71 fällt aus.",
+      "evidence": "Die U-Bahn fährt dagegen ohne Einschränkungen, am Vormittag sogar in kürzeren Abständen."
+    },
+    {
+      "n": 4,
+      "label": "Durchsage im Baumarkt",
+      "context": "Sie hören eine Durchsage in einem Baumarkt.",
+      "script": [
+        { "s": "baumarkt", "t": "Liebe Kundinnen und Kunden, unser Holzzuschnitt schließt heute bereits um 18 Uhr, also zwei Stunden vor Ladenschluss." },
+        { "s": "baumarkt", "t": "Wenn Sie noch Platten zuschneiden lassen möchten, ziehen Sie bitte bis spätestens 17 Uhr 30 eine Nummer am Automaten. Die ersten fünf Schnitte sind kostenlos, jeder weitere kostet 50 Cent." },
+        { "s": "baumarkt", "t": "Und noch ein Tipp für den Heimtransport: Unsere Transporter können Sie an der Information bis zu drei Stunden lang kostenlos ausleihen, Sie bezahlen nur den Kraftstoff. Bitte denken Sie an Ihren Führerschein." }
+      ],
+      "statement": "Wer seine Holzplatten zuschneiden lässt, zahlt dafür unabhängig von der Zahl der Schnitte nichts.",
+      "answer": false,
+      "explanation": "Only „Die ersten fünf Schnitte sind kostenlos“ – „jeder weitere kostet 50 Cent“. The word „kostenlos“ also comes up for the vans, which you can borrow free of charge for up to three hours.",
+      "explanationDe": "Nur „Die ersten fünf Schnitte sind kostenlos“, danach gilt: „jeder weitere kostet 50 Cent“. Das Wort „kostenlos“ hörst du auch bei den Transportern – die kann man bis zu drei Stunden gratis ausleihen.",
+      "evidence": "Die ersten fünf Schnitte sind kostenlos, jeder weitere kostet 50 Cent."
+    },
+    {
+      "n": 5,
+      "label": "Programmhinweis im Radio",
+      "context": "Sie hören einen Programmhinweis im Radio.",
+      "script": [
+        { "s": "radio", "t": "Liebe Hörerinnen und Hörer, eine Änderung in unserem Abendprogramm: Wegen der Live-Übertragung des Pokalspiels beginnt das Hörspiel „Die letzte Fähre“ heute nicht um 20 Uhr, sondern erst um 22 Uhr 05, direkt nach dem Spiel." },
+        { "s": "radio", "t": "Das Wissensmagazin, das sonst um diese Zeit läuft, entfällt heute ganz und wird in der kommenden Woche nachgeholt." },
+        { "s": "radio", "t": "Und für alle, die nicht so lange aufbleiben möchten: Das Hörspiel steht ab morgen früh dreißig Tage lang in unserer Mediathek bereit, und am Sonntag wiederholen wir es um 15 Uhr." }
+      ],
+      "statement": "Wer das Hörspiel heute verpasst, kann es am Sonntagabend noch einmal im Radio hören.",
+      "answer": false,
+      "explanation": "The repeat is „am Sonntag … um 15 Uhr“ – in the afternoon, not in the evening. „22 Uhr 05“ is only today's new start time; you can also listen to the play online in the „Mediathek“.",
+      "explanationDe": "Die Wiederholung kommt „am Sonntag … um 15 Uhr“, also am Nachmittag und nicht am Abend. „22 Uhr 05“ ist nur die neue Anfangszeit von heute; außerdem kannst du das Hörspiel in der „Mediathek“ hören.",
+      "evidence": "am Sonntag wiederholen wir es um 15 Uhr"
+    }
+  ],
+  "glossary": [
+    { "de": "das Prüfungsamt", "en": "examinations office" },
+    { "de": "der Rücktritt", "en": "withdrawal" },
+    { "de": "ohne Angabe von Gründen", "en": "without giving reasons" },
+    { "de": "das ärztliche Attest", "en": "doctor's certificate" },
+    { "de": "die Raststätte", "en": "motorway service area" },
+    { "de": "die Ruhezeit", "en": "(compulsory) rest period" },
+    { "de": "betroffen sein (von)", "en": "to be affected (by)" },
+    { "de": "in kürzeren Abständen", "en": "at shorter intervals" },
+    { "de": "großräumig meiden", "en": "to give a wide berth to" },
+    { "de": "der Zuschnitt", "en": "cutting to size" },
+    { "de": "entfallen", "en": "to be cancelled, to be dropped" },
+    { "de": "die Mediathek", "en": "online media library (of a broadcaster)" }
+  ]
+}

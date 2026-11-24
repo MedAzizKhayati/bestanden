@@ -15,6 +15,7 @@ export default async function ListsPage() {
   const locale = await getLocale();
   const t = getMessages(locale);
   const lists = getReferenceLists(locale);
+  const levels = [...new Set(lists.map((l) => l.level))];
   return (
     <PageContainer wide>
       <PageHeader
@@ -26,8 +27,11 @@ export default async function ListsPage() {
         title={t.lists.index.title}
         description={t.lists.index.description}
       />
-      <div className="mt-8 grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
-        {lists.map((l) => (
+      {levels.map((level) => (
+        <section key={level} className="mt-8">
+          {levels.length > 1 && <h2 className="mb-3 text-lg font-semibold tracking-tight">{t.lists.index.levelTitle(level)}</h2>}
+          <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
+        {lists.filter((l) => l.level === level).map((l) => (
           <Link key={l.id} href={`/listen/${l.id}`} className="group flex flex-col gap-2 rounded-2xl border bg-card p-5 transition-all hover:-translate-y-0.5 hover:shadow-md">
             <div className="flex items-start justify-between gap-2">
               <div>
@@ -42,7 +46,9 @@ export default async function ListsPage() {
             </span>
           </Link>
         ))}
-      </div>
+          </div>
+        </section>
+      ))}
     </PageContainer>
   );
 }

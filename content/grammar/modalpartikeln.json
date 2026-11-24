@@ -1,0 +1,250 @@
+{
+  "id": "modalpartikeln",
+  "level": "B2",
+  "category": "wortschatz",
+  "order": 21,
+  "title": "Modalpartikeln: doch, ja, mal, eben, halt, wohl, eigentlich, schon",
+  "titleEn": "Modal particles: doch, ja, mal, eben, halt, wohl, eigentlich, schon",
+  "summary": "Small unstressed words that show the speaker's attitude: ja (shared knowledge, surprise), doch (reminder, reproach, friendly urging), mal (casual requests), eben/halt (that's just how it is), wohl (assumption), eigentlich (new topic, plan vs. reality) and schon (concession, reassurance) – where they stand, how stress changes them, and why they don't belong in a formal e-mail.",
+  "summaryDe": "Kleine, unbetonte Wörter, die die Haltung des Sprechers zeigen: ja (gemeinsames Wissen, Überraschung), doch (Erinnerung, Vorwurf, freundliches Drängen), mal (lockere Bitten), eben/halt (Das ist nun mal so), wohl (Vermutung), eigentlich (neues Thema, Plan und Wirklichkeit) und schon (Zugeständnis, Beruhigung) – wo sie stehen, wie die Betonung sie verändert und warum sie nicht in eine formelle E-Mail gehören.",
+  "examRelevance": ["hoeren", "sprechen", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**Modal particles** (Modalpartikeln) are short, **unstressed** words in the **middle field** of a sentence – after the conjugated verb, never in position 1. They don't change the facts; they show the speaker's **attitude**: what the listener is expected to know, whether the speaker is surprised, impatient, resigned or simply friendly. „Komm mit!“ is an order, „Komm **doch** mit!“ a friendly invitation, „Komm **doch mal** mit!“ an even softer one. They are typical of **spoken German** and informal writing.",
+      "mdDe": "**Modalpartikeln** sind kurze, **unbetonte** Wörter im **Mittelfeld** des Satzes – nach dem konjugierten Verb, nie auf Position 1. Sie ändern nichts an den Fakten, sondern zeigen die **Haltung** des Sprechers: was der Hörer schon wissen sollte, ob der Sprecher überrascht, ungeduldig, resigniert oder einfach freundlich ist. „Komm mit!“ ist eine Aufforderung, „Komm **doch** mit!“ eine freundliche Einladung, „Komm **doch mal** mit!“ eine noch weichere. Sie sind typisch für **gesprochenes Deutsch** und informelle Texte."
+    },
+    {
+      "type": "table",
+      "heading": "The eight particles at a glance",
+      "headingDe": "Die acht Partikeln auf einen Blick",
+      "columns": ["Particle", "Typical sentence", "What it signals", "Example"],
+      "columnsDe": ["Partikel", "Typischer Satz", "Was sie signalisiert", "Beispiel"],
+      "rows": [
+        ["ja", "statement, exclamation", "as we both know; surprise at something you see", "Ich habe **ja** morgen frei. – Du bist **ja** ganz blass!"],
+        ["doch", "statement, imperative", "reminder (often a reproach); urging or friendly advice", "Das habe ich dir **doch** gesagt! – Setz dich **doch**!"],
+        ["mal", "imperative, yes/no question", "makes a request casual and less demanding", "Kannst du **mal** kurz kommen?"],
+        ["eben / halt", "statement", "that's just how it is – no alternative, resignation", "Dann nehmen wir **eben** den nächsten Zug. – Ich bin **halt** kein Morgenmensch."],
+        ["wohl", "statement", "assumption: probably", "Sie hat den Termin **wohl** vergessen."],
+        ["eigentlich", "question; statement", "question: casual change of topic; statement: in principle – but …", "Woher kommst du **eigentlich**? – Ich wollte **eigentlich** früher gehen."],
+        ["schon", "statement", "concession before „aber“; reassurance", "Das ist **schon** richtig, aber … – Das klappt **schon**."]
+      ],
+      "rowsDe": [
+        ["ja", "Aussagesatz, Ausruf", "wie wir beide wissen; Überraschung über etwas, das man sieht", "Ich habe **ja** morgen frei. – Du bist **ja** ganz blass!"],
+        ["doch", "Aussagesatz, Imperativ", "Erinnerung (oft ein Vorwurf); Drängen oder freundlicher Rat", "Das habe ich dir **doch** gesagt! – Setz dich **doch**!"],
+        ["mal", "Imperativ, Ja/Nein-Frage", "macht eine Bitte locker und weniger fordernd", "Kannst du **mal** kurz kommen?"],
+        ["eben / halt", "Aussagesatz", "Das ist nun mal so – keine Alternative, Resignation", "Dann nehmen wir **eben** den nächsten Zug. – Ich bin **halt** kein Morgenmensch."],
+        ["wohl", "Aussagesatz", "Vermutung: wahrscheinlich", "Sie hat den Termin **wohl** vergessen."],
+        ["eigentlich", "Frage; Aussagesatz", "Frage: lockerer Themenwechsel; Aussage: im Prinzip – aber …", "Woher kommst du **eigentlich**? – Ich wollte **eigentlich** früher gehen."],
+        ["schon", "Aussagesatz", "Zugeständnis vor „aber“; Beruhigung", "Das ist **schon** richtig, aber … – Das klappt **schon**."]
+      ],
+      "note": "halt is more common in southern Germany, Austria and Switzerland, eben in the north – the meaning is the same. In questions you will also often hear denn („Was ist denn los?“): it makes a question sound interested and less abrupt.",
+      "noteDe": "halt hört man eher in Süddeutschland, Österreich und der Schweiz, eben eher im Norden – die Bedeutung ist gleich. In Fragen hörst du außerdem oft denn („Was ist denn los?“): Damit klingt eine Frage interessiert und weniger direkt."
+    },
+    {
+      "type": "text",
+      "heading": "Where particles go: the middle field",
+      "headingDe": "Wo die Partikeln stehen: das Mittelfeld",
+      "md": "Modal particles stand **after the conjugated verb** and **before the new, important information** of the sentence:\n\n- **Unstressed pronouns come first:** Ich habe **es dir doch** gesagt. – Gib **mir mal** den Stift!\n- **The new information follows the particle:** Wir können **ja** am Samstag **ins Kino** gehen.\n- **„nicht“ usually comes after the particle:** Das ist **doch nicht** schlimm. – Er kommt **wohl nicht** mehr.\n\nThey **never stand in position 1**: not „Doch komm mit!“, but „Komm **doch** mit!“.\n\nParticles can be combined, and the order is fixed: **doch mal** (Ruf **doch mal** an!), **ja wohl** (Das ist **ja wohl** ein Witz!), **halt mal** (Dann frag **halt mal** nach!). „mal“ comes after doch, ja and halt.",
+      "mdDe": "Modalpartikeln stehen **nach dem konjugierten Verb** und **vor der neuen, wichtigen Information** im Satz:\n\n- **Unbetonte Pronomen stehen davor:** Ich habe **es dir doch** gesagt. – Gib **mir mal** den Stift!\n- **Die neue Information folgt nach der Partikel:** Wir können **ja** am Samstag **ins Kino** gehen.\n- **„nicht“ steht meistens nach der Partikel:** Das ist **doch nicht** schlimm. – Er kommt **wohl nicht** mehr.\n\nSie stehen **nie auf Position 1**: nicht „Doch komm mit!“, sondern „Komm **doch** mit!“.\n\nMan kann Partikeln kombinieren, und die Reihenfolge ist fest: **doch mal** (Ruf **doch mal** an!), **ja wohl** (Das ist **ja wohl** ein Witz!), **halt mal** (Dann frag **halt mal** nach!). „mal“ steht nach doch, ja und halt."
+    },
+    {
+      "type": "text",
+      "heading": "Stress makes the difference",
+      "headingDe": "Die Betonung macht den Unterschied",
+      "md": "As modal particles, these words are **always unstressed**. Stressed – or in another position – the same word has a different meaning. This matters in Hören, where you hear every text only once:\n\n- Er hat sich **doch** beworben. (unstressed: as you know, he applied) – Er hat sich **DOCH** beworben. (stressed: after all – although he had said he wouldn't)\n- Vergiss **JA** nicht den Schlüssel! – stressed „ja“ in an imperative is a warning: make absolutely sure you don't …\n- Bist du **schon** fertig? – here „schon“ is the time adverb *already*, not the particle of „Das klappt schon“.\n- Ich war **mal** in Graz. – here „mal“ is short for „einmal“: once, at some point.\n- Sie ist **eben** gegangen. – here „eben“ means *just now*.\n\n„**Eigentlich**“ at the start of a sentence is an ordinary adverb, but its message is the same as the particle: „Eigentlich wollte ich Lehrerin werden …“ announces that reality turned out differently.",
+      "mdDe": "Als Modalpartikeln sind diese Wörter **immer unbetont**. Betont – oder an einer anderen Stelle – hat dasselbe Wort eine andere Bedeutung. Das ist wichtig im Hören, wo du jeden Text nur einmal hörst:\n\n- Er hat sich **doch** beworben. (unbetont: wie du weißt, hat er sich beworben) – Er hat sich **DOCH** beworben. (betont: trotzdem – obwohl er gesagt hatte, er macht es nicht)\n- Vergiss **JA** nicht den Schlüssel! – Betontes „ja“ im Imperativ ist eine Warnung: Pass unbedingt auf, dass du nicht …\n- Bist du **schon** fertig? – Hier ist „schon“ das Zeitadverb *bereits*, nicht die Partikel aus „Das klappt schon“.\n- Ich war **mal** in Graz. – Hier ist „mal“ die Kurzform von „einmal“: irgendwann früher.\n- Sie ist **eben** gegangen. – Hier bedeutet „eben“ *gerade, vor einem Moment*.\n\n„**Eigentlich**“ am Satzanfang ist ein normales Adverb, aber die Botschaft ist dieselbe wie bei der Partikel: „Eigentlich wollte ich Lehrerin werden …“ kündigt an, dass die Wirklichkeit anders aussah."
+    },
+    {
+      "type": "text",
+      "heading": "Particles in typical situations",
+      "headingDe": "Partikeln in typischen Situationen",
+      "md": "- **Requests and suggestions** – mal, doch (mal): „Kannst du **mal** das Fenster zumachen?“ sounds casual and friendly. „Frag **doch mal** bei der Hotline nach!“ is a suggestion or a piece of advice.\n- **Reproaches** – doch, eigentlich, ja wohl: „Du hast **doch** versprochen, pünktlich zu sein!“ – „Was denkst du dir **eigentlich**?“ – „Das ist **ja wohl** nicht dein Ernst!“\n- **Explanations and justifications** – ja, eben, halt: „Ich kann nicht lange bleiben, ich muss **ja** morgen früh raus.“ (you know that) – „Die Preise sind **halt** gestiegen.“ (nothing can be done about it)\n- **Questions** – eigentlich, mal: „Wie lange wohnst du **eigentlich** schon hier?“ opens a new topic casually. „Kannst du mir **mal** zeigen, wie das geht?“\n- **Assumptions and concessions** – wohl, schon: „Bei dem Wetter fällt das Spiel **wohl** aus.“ – „Das stimmt **schon**, aber …“\n\nOne particle can do different jobs: „doch“ in an imperative is friendly („Setz dich doch!“), in a statement about the past it often sounds like a reproach („Ich hab's dir doch gesagt!“). Intonation and context decide.",
+      "mdDe": "- **Bitten und Vorschläge** – mal, doch (mal): „Kannst du **mal** das Fenster zumachen?“ klingt locker und freundlich. „Frag **doch mal** bei der Hotline nach!“ ist ein Vorschlag oder ein Rat.\n- **Vorwürfe** – doch, eigentlich, ja wohl: „Du hast **doch** versprochen, pünktlich zu sein!“ – „Was denkst du dir **eigentlich**?“ – „Das ist **ja wohl** nicht dein Ernst!“\n- **Erklärungen und Begründungen** – ja, eben, halt: „Ich kann nicht lange bleiben, ich muss **ja** morgen früh raus.“ (das weißt du) – „Die Preise sind **halt** gestiegen.“ (daran kann man nichts ändern)\n- **Fragen** – eigentlich, mal: „Wie lange wohnst du **eigentlich** schon hier?“ leitet locker ein neues Thema ein. „Kannst du mir **mal** zeigen, wie das geht?“\n- **Vermutungen und Zugeständnisse** – wohl, schon: „Bei dem Wetter fällt das Spiel **wohl** aus.“ – „Das stimmt **schon**, aber …“\n\nEine Partikel kann verschiedene Aufgaben haben: „doch“ im Imperativ ist freundlich („Setz dich doch!“), in einer Aussage über die Vergangenheit klingt es oft wie ein Vorwurf („Ich hab's dir doch gesagt!“). Intonation und Kontext entscheiden."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Komm **doch** am Samstag vorbei, wir grillen!", "en": "Why don't you come round on Saturday – we're having a barbecue!" },
+        { "de": "Könntest du mir **mal** kurz helfen? Der Drucker streikt schon wieder.", "en": "Could you help me for a second? The printer is playing up again." },
+        { "de": "Ich kann heute nicht mitkommen, ich habe **ja** morgen meine Prüfung.", "en": "I can't come today – I've got my exam tomorrow, as you know." },
+        { "de": "Du hast **doch** gesagt, dass du die Karten besorgst!", "en": "But you said you'd get the tickets!" },
+        { "de": "Der Laden hat schon zu? Dann bestellen wir **halt** eine Pizza.", "en": "The shop's already closed? Well, then we'll just order a pizza." },
+        { "de": "Bei den Nachbarn ist seit Tagen alles dunkel – die sind **wohl** im Urlaub.", "en": "The neighbours' flat has been dark for days – they're probably on holiday." },
+        { "de": "Was machst du **eigentlich** beruflich?", "en": "By the way, what do you do for a living?" },
+        { "de": "Mehr Homeoffice ist **schon** sinnvoll, aber nicht in jedem Beruf.", "en": "More working from home does make sense, but not in every job." },
+        { "de": "So ist das **eben**, wenn man zu spät bucht.", "en": "That's just how it is when you book too late." },
+        { "de": "Ich wollte **eigentlich** nur ein Jahr bleiben – jetzt lebe ich seit zwanzig Jahren hier.", "en": "I actually only meant to stay for a year – now I've been living here for twenty years." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**Sprechen Teil 2 and 3:** a few particles make you sound natural and cooperative instead of blunt – that counts for *Ausdrucksfähigkeit* and *Aufgabenbewältigung*:\n\n- conceding a point before you disagree: „Da hast du **schon** recht, aber …“ – „Das ist **ja** ein wichtiger Punkt, aber …“\n- softening proposals: „Wir könnten **ja** auch …“ – „Lass uns **doch** erst mal klären, wer was übernimmt.“\n- accepting a compromise: „Dann machen wir es **eben** so.“\n\n**Hören Teil 2:** in interviews, particles reveal what the speaker really thinks. „**eigentlich**“ often announces that reality is different („Eigentlich wollte ich Ärztin werden …“ – and then things turned out differently), „**wohl**“ marks a guess, not a fact, and a stressed „**DOCH**“ means *after all*. The statements in the task often test exactly this: plan or reality, assumption or fact.",
+      "mdDe": "**Sprechen Teil 2 und 3:** Mit ein paar Partikeln klingst du natürlich und kooperativ statt schroff – das zählt für *Ausdrucksfähigkeit* und *Aufgabenbewältigung*:\n\n- etwas zugeben, bevor du widersprichst: „Da hast du **schon** recht, aber …“ – „Das ist **ja** ein wichtiger Punkt, aber …“\n- Vorschläge weicher machen: „Wir könnten **ja** auch …“ – „Lass uns **doch** erst mal klären, wer was übernimmt.“\n- einen Kompromiss annehmen: „Dann machen wir es **eben** so.“\n\n**Hören Teil 2:** In Interviews zeigen dir die Partikeln, was die Person wirklich denkt. „**eigentlich**“ kündigt oft an, dass die Wirklichkeit anders ist („Eigentlich wollte ich Ärztin werden …“ – und dann kam es anders), „**wohl**“ zeigt eine Vermutung, keine Tatsache, und ein betontes „**DOCH**“ heißt *trotzdem, anders als erwartet*. Die Aussagen in der Aufgabe prüfen oft genau das: Plan oder Wirklichkeit, Vermutung oder Tatsache."
+    },
+    {
+      "type": "warning",
+      "md": "**Schreiben: no casual particles in a semi-formal e-mail.** „mal“, „halt“, „eben“ and „ja“ make an e-mail to a company or an office sound too casual, and „doch“ or „ja wohl“ turn a complaint into an angry reproach. Both cost points in criterion II (register).\n\n- Not „Können Sie mir **mal** sagen, …?“ but „Könnten Sie mir **bitte** mitteilen, …?“\n- Not „Die Heizung ist **halt** seit Wochen kaputt.“ but „Die Heizung ist **leider** seit drei Wochen defekt.“\n- Not „Das war **doch** so vereinbart!“ but „Dies war **ausdrücklich** so vereinbart.“\n\n„eigentlich“ is fine in moderation: „Die Lieferung war eigentlich für den 3. Mai zugesagt.“ When speaking, don't overdo it either: one or two particles per turn sound natural, a particle in every sentence sounds affected.",
+      "mdDe": "**Schreiben: keine lockeren Partikeln in einer halbformellen E-Mail.** Mit „mal“, „halt“, „eben“ und „ja“ klingt eine E-Mail an eine Firma oder ein Amt zu locker, und mit „doch“ oder „ja wohl“ wird eine Beschwerde zum wütenden Vorwurf. Beides kostet Punkte im Kriterium II (Register).\n\n- Nicht „Können Sie mir **mal** sagen, …?“, sondern „Könnten Sie mir **bitte** mitteilen, …?“\n- Nicht „Die Heizung ist **halt** seit Wochen kaputt.“, sondern „Die Heizung ist **leider** seit drei Wochen defekt.“\n- Nicht „Das war **doch** so vereinbart!“, sondern „Dies war **ausdrücklich** so vereinbart.“\n\n„eigentlich“ ist in Maßen in Ordnung: „Die Lieferung war eigentlich für den 3. Mai zugesagt.“ Auch beim Sprechen solltest du nicht übertreiben: Ein oder zwei Partikeln pro Redebeitrag klingen natürlich, eine Partikel in jedem Satz klingt gekünstelt."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Doch ruf mich heute Abend an!",
+      "right": "Ruf mich doch heute Abend an!",
+      "why": "Modal particles never stand in position 1. In an imperative they follow the verb and the unstressed pronoun: „Ruf mich doch …“.",
+      "whyDe": "Modalpartikeln stehen nie auf Position 1. Im Imperativ stehen sie nach dem Verb und dem unbetonten Pronomen: „Ruf mich doch …“."
+    },
+    {
+      "wrong": "Ich habe doch es dir gestern erklärt.",
+      "right": "Ich habe es dir doch gestern erklärt.",
+      "why": "Unstressed pronouns („es“, „dir“) come right after the verb, before the particle. The particle stands between the known and the new information.",
+      "whyDe": "Unbetonte Pronomen („es“, „dir“) stehen direkt nach dem Verb, vor der Partikel. Die Partikel steht zwischen der bekannten und der neuen Information."
+    },
+    {
+      "wrong": "Mach mal doch die Tür zu!",
+      "right": "Mach doch mal die Tür zu!",
+      "why": "When particles are combined, their order is fixed: „doch mal“, never „mal doch“.",
+      "whyDe": "Wenn man Partikeln kombiniert, ist die Reihenfolge fest: „doch mal“, nie „mal doch“."
+    },
+    {
+      "wrong": "Stell dir vor, ich habe ja eine neue Stelle!",
+      "right": "Stell dir vor, ich habe eine neue Stelle!",
+      "why": "„ja“ signals that the listener already knows the information. News introduced with „Stell dir vor“ is new to the listener, so „ja“ contradicts the situation.",
+      "whyDe": "„ja“ zeigt, dass der Hörer die Information schon kennt. Eine Neuigkeit mit „Stell dir vor“ ist für den Hörer neu – „ja“ passt deshalb nicht zur Situation."
+    },
+    {
+      "wrong": "Sehr geehrte Damen und Herren, können Sie mir mal sagen, ob der Kurs halt auch am Wochenende stattfindet?",
+      "right": "Sehr geehrte Damen und Herren, könnten Sie mir bitte mitteilen, ob der Kurs auch am Wochenende stattfindet?",
+      "why": "„mal“ and „halt“ belong to casual speech. In a semi-formal e-mail they break the register (criterion II); use Konjunktiv II and „bitte“ instead.",
+      "whyDe": "„mal“ und „halt“ gehören zur lockeren gesprochenen Sprache. In einer halbformellen E-Mail passen sie nicht zum Register (Kriterium II); nimm stattdessen den Konjunktiv II und „bitte“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "„Warum gehst du nicht ans Telefon?“ – „Ich habe dir ___ gestern schon gesagt, dass mein Handy kaputt ist. Hast du das etwa vergessen?“",
+      "options": ["doch", "mal", "wohl", "halt"],
+      "answer": 0,
+      "explanation": "The speaker reminds the other person of something they should know and is a little annoyed („Hast du das etwa vergessen?“) → „doch“. With „wohl“ the speaker would only be guessing about their own words, „mal“ does not fit a statement about yesterday, and „halt“ does not express a reminder.",
+      "explanationDe": "Die Person erinnert an etwas, das der andere wissen müsste, und ist etwas genervt („Hast du das etwa vergessen?“) → „doch“. Mit „wohl“ würde sie nur vermuten, was sie selbst gesagt hat, „mal“ passt nicht zu einer Aussage über gestern, und „halt“ drückt keine Erinnerung aus."
+    },
+    {
+      "type": "mc",
+      "prompt": "Herr Brandt ist heute nicht im Büro und geht nicht ans Telefon. Niemand weiß, warum. Eine Kollegin vermutet: „Er ist ___ krank – gestern hat er schon die ganze Zeit gehustet.“",
+      "options": ["wohl", "halt", "doch"],
+      "answer": 0,
+      "explanation": "Nobody knows the reason, the colleague is only guessing → „wohl“ = probably. „doch“ would remind the others of a fact they already know, and „halt“ would present the illness as an accepted fact.",
+      "explanationDe": "Niemand kennt den Grund, die Kollegin vermutet nur → „wohl“ = wahrscheinlich. „doch“ würde an eine Tatsache erinnern, die alle schon kennen, und „halt“ würde die Krankheit als Tatsache darstellen, die man hinnehmen muss."
+    },
+    {
+      "type": "mc",
+      "prompt": "„Der letzte Bus ist schon weg.“ – „Na ja, dann gehen wir ___ zu Fuß. Es sind ja nur zwanzig Minuten.“",
+      "options": ["halt", "ja", "eigentlich"],
+      "answer": 0,
+      "explanation": "There is no alternative, and the speaker accepts it calmly („Na ja“) → „halt“ (or „eben“): that's just how it is. „ja“ would refer to knowledge both already share, and „eigentlich“ would suggest a plan that is not carried out – the opposite of what happens.",
+      "explanationDe": "Es gibt keine Alternative, und die Person akzeptiert das gelassen („Na ja“) → „halt“ (oder „eben“): Das ist nun mal so. „ja“ würde auf gemeinsames Wissen verweisen, und „eigentlich“ würde einen Plan andeuten, der nicht umgesetzt wird – das Gegenteil von dem, was passiert."
+    },
+    {
+      "type": "order",
+      "words": ["mal", "Schlüssel!", "doch", "Gib", "den", "mir"],
+      "answers": ["Gib mir doch mal den Schlüssel!"],
+      "explanation": "In the imperative the verb comes first, then the unstressed pronoun „mir“, then the particles in their fixed order „doch mal“. The thing you ask for („den Schlüssel“) usually follows the particles.",
+      "explanationDe": "Im Imperativ steht das Verb vorne, dann das unbetonte Pronomen „mir“, dann die Partikeln in der festen Reihenfolge „doch mal“. Das, worum man bittet („den Schlüssel“), folgt meistens nach den Partikeln."
+    },
+    {
+      "type": "mc",
+      "prompt": "In der Mittagspause reden zwei Kolleginnen über das Essen. Plötzlich fällt Mira eine ganz andere Frage ein: „Sag mal, wie lange arbeitest du ___ schon bei uns?“",
+      "options": ["eigentlich", "halt", "ja"],
+      "answer": 0,
+      "explanation": "In a question, „eigentlich“ opens a new topic casually – like English *by the way*. „halt“ and „ja“ are not used as particles in w-questions.",
+      "explanationDe": "In einer Frage leitet „eigentlich“ locker ein neues Thema ein – ähnlich wie „übrigens“. „halt“ und „ja“ stehen als Partikeln nicht in W-Fragen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Tom kommt zur Tür herein. Seine Mitbewohnerin sieht ihn und ist überrascht: „Du bist ___ ganz nass! Regnet es etwa?“",
+      "options": ["ja", "mal", "halt"],
+      "answer": 0,
+      "explanation": "In an exclamation about something you can see right now, unstressed „ja“ expresses surprise. „mal“ belongs in requests, and „halt“ would present the wet clothes as an old fact you simply have to accept.",
+      "explanationDe": "In einem Ausruf über etwas, das man gerade sieht, drückt unbetontes „ja“ Überraschung aus. „mal“ gehört zu Bitten, und mit „halt“ würde die nasse Kleidung wie eine bekannte Tatsache klingen, die man einfach hinnehmen muss."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich wäre heute gern früher gegangen, aber der Bericht musste noch raus. Da kann man ___ nichts machen.",
+      "answers": ["halt", "eben"],
+      "hint": "(resignation: that's just how it is)",
+      "hintDe": "(Resignation: Das ist nun mal so.)",
+      "explanation": "„halt“ and „eben“ present the situation as something you have to accept – there is no alternative. Both are correct; „halt“ is more common in the south, „eben“ in the north.",
+      "explanationDe": "„halt“ und „eben“ stellen die Situation als etwas dar, das man akzeptieren muss – es gibt keine Alternative. Beide sind richtig; „halt“ hört man eher im Süden, „eben“ eher im Norden."
+    },
+    {
+      "type": "mc",
+      "prompt": "In der Prüfung (Sprechen Teil 2) gibt Paula ihrem Partner zuerst teilweise recht und widerspricht dann: „Homeoffice spart viel Zeit, das stimmt ___. Aber viele fühlen sich zu Hause auch isoliert.“",
+      "options": ["schon", "mal", "halt"],
+      "answer": 0,
+      "explanation": "„schon“ followed by „aber“ marks a concession: I partly agree, but … – a typical move in a discussion. „mal“ belongs in requests, and „halt“ would sound resigned instead of leading to a counter-argument.",
+      "explanationDe": "„schon“ mit folgendem „aber“ zeigt ein Zugeständnis: Ich gebe dir teilweise recht, aber … – ein typischer Schritt in einer Diskussion. „mal“ gehört zu Bitten, und „halt“ würde resigniert klingen, statt zu einem Gegenargument zu führen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich kann dir am Samstag leider nicht beim Umzug helfen. Ich habe ___ Nachtschicht – das hatte ich dir erzählt.",
+      "answers": ["ja", "doch"],
+      "hint": "(the listener already knows this)",
+      "hintDe": "(Der Hörer weiß das schon.)",
+      "explanation": "The speaker justifies the refusal with something the listener already knows („das hatte ich dir erzählt“) → „ja“. „doch“ is also possible; it sounds a little more like *you should remember that*.",
+      "explanationDe": "Die Person begründet die Absage mit etwas, das der andere schon weiß („das hatte ich dir erzählt“) → „ja“. Auch „doch“ ist möglich; es klingt etwas mehr nach *das müsstest du eigentlich wissen*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Eine Gründerin erzählt im Radiointerview: „Alle haben uns gewarnt, dass sich ein Café in dieser Straße nicht lohnt. Wir haben es dann DOCH eröffnet.“ (DOCH ist betont.) Das bedeutet: Das Café wurde ___.",
+      "options": ["trotz der Warnungen eröffnet", "wegen der Warnungen nicht eröffnet", "auf Anraten der anderen eröffnet"],
+      "answer": 0,
+      "explanation": "Stressed „DOCH“ is not a modal particle: it means *after all, contrary to what was expected*. They opened the café although everyone had warned them. „auf Anraten der anderen“ reverses the relation – the others advised against it.",
+      "explanationDe": "Betontes „DOCH“ ist keine Modalpartikel: Es bedeutet *trotzdem, anders als erwartet*. Sie haben das Café eröffnet, obwohl alle sie gewarnt hatten. „auf Anraten der anderen“ dreht die Beziehung um – die anderen haben ja abgeraten."
+    },
+    {
+      "type": "transform",
+      "instruction": "Add „eigentlich“ to show that the plan will not work out.",
+      "instructionDe": "Ergänze „eigentlich“, um zu zeigen, dass der Plan nicht klappt.",
+      "prompt": "Ich wollte heute joggen gehen, aber es regnet.",
+      "answers": [
+        "Eigentlich wollte ich heute joggen gehen, aber es regnet.",
+        "Ich wollte eigentlich heute joggen gehen, aber es regnet.",
+        "Ich wollte heute eigentlich joggen gehen, aber es regnet."
+      ],
+      "explanation": "„eigentlich“ with a plan in the past announces that reality is different. It can stand in position 1 (then the verb follows directly: „Eigentlich wollte ich …“) or in the middle field after „wollte“.",
+      "explanationDe": "„eigentlich“ zusammen mit einem Plan in der Vergangenheit kündigt an, dass die Wirklichkeit anders ist. Es kann auf Position 1 stehen (dann folgt direkt das Verb: „Eigentlich wollte ich …“) oder im Mittelfeld nach „wollte“."
+    },
+    {
+      "type": "order",
+      "words": ["wohl", "Ernst!", "ist", "nicht", "Das", "ja", "dein"],
+      "answers": ["Das ist ja wohl nicht dein Ernst!"],
+      "explanation": "A strong reproach: the particles come right after the verb in their fixed order „ja wohl“, and „nicht“ follows them.",
+      "explanationDe": "Ein starker Vorwurf: Die Partikeln stehen direkt nach dem Verb in der festen Reihenfolge „ja wohl“, und „nicht“ folgt danach."
+    },
+    {
+      "type": "mc",
+      "prompt": "Sie schreiben eine Beschwerde-E-Mail an ein Hotel. Welcher Satz passt am besten? ___",
+      "options": [
+        "Leider war das Zimmer bei unserer Ankunft nicht gereinigt.",
+        "Das Zimmer war halt nicht sauber, als wir ankamen.",
+        "Das Zimmer war ja wohl total dreckig!"
+      ],
+      "answer": 0,
+      "explanation": "A semi-formal complaint needs a factual, polite register: „Leider war … nicht gereinigt.“ „halt“ sounds casual and resigned, „ja wohl … total dreckig“ sounds like an angry reproach – both cost points in criterion II (register).",
+      "explanationDe": "Eine halbformelle Beschwerde braucht ein sachliches, höfliches Register: „Leider war … nicht gereinigt.“ „halt“ klingt locker und resigniert, „ja wohl … total dreckig“ klingt wie ein wütender Vorwurf – beides kostet Punkte im Kriterium II (Register)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the request for a semi-formal e-mail: replace „mal“ with „bitte“ and use the Konjunktiv II of „können“.",
+      "instructionDe": "Schreibe die Bitte für eine halbformelle E-Mail um: Ersetze „mal“ durch „bitte“ und nimm den Konjunktiv II von „können“.",
+      "prompt": "Können Sie mir mal sagen, wann der Kurs anfängt?",
+      "answers": ["Könnten Sie mir bitte sagen, wann der Kurs anfängt?"],
+      "explanation": "„mal“ is too casual for an e-mail to a language school or an office. „Könnten Sie mir bitte …“ is the polite standard for requests in Schreiben.",
+      "explanationDe": "„mal“ ist zu locker für eine E-Mail an eine Sprachschule oder ein Amt. „Könnten Sie mir bitte …“ ist die höfliche Standardform für Bitten im Schreiben."
+    }
+  ],
+  "related": ["imperativ", "konjunktiv-2", "vermutungen", "satzgliedstellung", "konzessive-saetze-b2", "verbindungsadverbien"]
+}

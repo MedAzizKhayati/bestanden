@@ -1,0 +1,247 @@
+{
+  "id": "vermutungen",
+  "level": "B2",
+  "category": "verben",
+  "order": 24,
+  "title": "Vermutungen: Modalverben, Futur I und II",
+  "titleEn": "Assumptions: modal verbs, Futur I and II",
+  "summary": "Say how sure you are: subjective modal verbs (muss, dürfte, kann/könnte, mag) with the present or the perfect infinitive, sollen and wollen for other people's claims, Futur I and II with wohl – and adverbs from bestimmt to vielleicht.",
+  "summaryDe": "Sag, wie sicher du bist: subjektive Modalverben (muss, dürfte, kann/könnte, mag) mit dem Infinitiv Präsens oder dem Infinitiv Perfekt, sollen und wollen für Behauptungen anderer, Futur I und II mit wohl – und Adverbien von bestimmt bis vielleicht.",
+  "examRelevance": ["lesen", "hoeren", "sprachbausteine", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Modal verbs have two uses. **Objective**: they describe ability, duty or permission – „Sie **muss** heute arbeiten.“ (she has to). **Subjective**: they show **how sure the speaker is** – „Sie **muss** krank sein.“ (I'm almost sure she's ill). For an assumption about the **present**, use modal verb + **infinitive**; about the **past**, modal verb + **Infinitiv Perfekt** (Partizip II + haben/sein): „Sie **muss** krank **gewesen sein**.“ – „Er **dürfte** den Zug **verpasst haben**.“ The **Futur I and II** with *wohl* do the same job.",
+      "mdDe": "Modalverben haben zwei Funktionen. **Objektiv** beschreiben sie Fähigkeit, Pflicht oder Erlaubnis – „Sie **muss** heute arbeiten.“ (Sie ist dazu verpflichtet.) **Subjektiv** zeigen sie, **wie sicher sich der Sprecher ist** – „Sie **muss** krank sein.“ (Ich bin fast sicher, dass sie krank ist.) Für eine Vermutung über die **Gegenwart** nimmst du Modalverb + **Infinitiv**; über die **Vergangenheit** Modalverb + **Infinitiv Perfekt** (Partizip II + haben/sein): „Sie **muss** krank **gewesen sein**.“ – „Er **dürfte** den Zug **verpasst haben**.“ **Futur I und II** mit *wohl* erfüllen dieselbe Aufgabe."
+    },
+    {
+      "type": "table",
+      "heading": "From almost certain to just possible",
+      "headingDe": "Von fast sicher bis nur möglich",
+      "columns": ["Certainty", "Verb", "Adverbs with a similar meaning", "Example"],
+      "columnsDe": ["Sicherheit", "Verb", "Adverbien mit ähnlicher Bedeutung", "Beispiel"],
+      "rows": [
+        ["almost certain", "müssen", "bestimmt, sicher(lich), zweifellos", "Das Paket **muss** schon **angekommen sein**."],
+        ["impossible (almost certain that not)", "nicht können", "auf keinen Fall, sicher nicht", "Das **kann** nicht **stimmen**."],
+        ["very probable", "werden (+ wohl)", "wohl, sehr wahrscheinlich", "Er **wird** wohl im Stau **stehen**."],
+        ["probable", "dürfte (Konjunktiv II)", "wahrscheinlich, vermutlich", "Die Reparatur **dürfte** etwa 300 Euro **kosten**."],
+        ["possible", "können / könnte", "vielleicht, möglicherweise, eventuell", "Sie **könnte** die Nachricht **übersehen haben**."],
+        ["rough estimate or concession", "mögen", "etwa, zwar … aber", "Sie **mag** etwa vierzig **sein**. / Das **mag** **stimmen**, aber …"]
+      ],
+      "rowsDe": [
+        ["fast sicher", "müssen", "bestimmt, sicher(lich), zweifellos", "Das Paket **muss** schon **angekommen sein**."],
+        ["unmöglich (fast sicher, dass nicht)", "nicht können", "auf keinen Fall, sicher nicht", "Das **kann** nicht **stimmen**."],
+        ["sehr wahrscheinlich", "werden (+ wohl)", "wohl, sehr wahrscheinlich", "Er **wird** wohl im Stau **stehen**."],
+        ["wahrscheinlich", "dürfte (Konjunktiv II)", "wahrscheinlich, vermutlich", "Die Reparatur **dürfte** etwa 300 Euro **kosten**."],
+        ["möglich", "können / könnte", "vielleicht, möglicherweise, eventuell", "Sie **könnte** die Nachricht **übersehen haben**."],
+        ["grobe Schätzung oder Zugeständnis", "mögen", "etwa, zwar … aber", "Sie **mag** etwa vierzig **sein**. / Das **mag** **stimmen**, aber …"]
+      ],
+      "note": "könnte sounds a little more cautious than kann. If you are unsure about a modal verb, an adverb alone expresses the same degree: „Er ist vermutlich schon zu Hause.“ = „Er dürfte schon zu Hause sein.“",
+      "noteDe": "könnte klingt etwas vorsichtiger als kann. Wenn du dir bei einem Modalverb unsicher bist, drückt ein Adverb allein denselben Grad aus: „Er ist vermutlich schon zu Hause.“ = „Er dürfte schon zu Hause sein.“"
+    },
+    {
+      "type": "text",
+      "heading": "Present or past? The Infinitiv Perfekt",
+      "headingDe": "Gegenwart oder Vergangenheit? Der Infinitiv Perfekt",
+      "md": "In an assumption the modal verb itself stays in the **present** (or in the forms *dürfte / könnte*); the **time of the event** is shown by the infinitive at the end:\n\n- Present or future event: modal verb + **infinitive** – „Sie **dürfte** jetzt im Büro **sein**.“\n- Past event: modal verb + **Partizip II + haben/sein** (the Infinitiv Perfekt) – „Sie **dürfte** schon nach Hause **gegangen sein**.“ – „Er **muss** die Mail **gelesen haben**.“ Choose haben or sein exactly as in the Perfekt.\n- Past event in the passive: Partizip II + **worden sein** – „Das Fenster **muss** aufgebrochen **worden sein**.“\n\nIn a subordinate clause the conjugated modal verb goes to the very end: „Ich fürchte, dass sie den Termin **vergessen haben könnte**.“\n\nDon't confuse this with the **Präteritum** or **Perfekt** of an objective modal verb: „Sie **musste** lange warten.“ / „Sie **hat** lange **warten müssen**.“ = she had to wait (a fact). „Sie **muss** lange **gewartet haben**.“ = she must have waited a long time (an assumption).",
+      "mdDe": "Bei einer Vermutung bleibt das Modalverb selbst im **Präsens** (oder in den Formen *dürfte / könnte*); die **Zeit des Ereignisses** zeigt der Infinitiv am Ende:\n\n- Ereignis in der Gegenwart oder Zukunft: Modalverb + **Infinitiv** – „Sie **dürfte** jetzt im Büro **sein**.“\n- Ereignis in der Vergangenheit: Modalverb + **Partizip II + haben/sein** (der Infinitiv Perfekt) – „Sie **dürfte** schon nach Hause **gegangen sein**.“ – „Er **muss** die Mail **gelesen haben**.“ haben oder sein wählst du genau wie im Perfekt.\n- Ereignis in der Vergangenheit im Passiv: Partizip II + **worden sein** – „Das Fenster **muss** aufgebrochen **worden sein**.“\n\nIm Nebensatz steht das konjugierte Modalverb ganz am Ende: „Ich fürchte, dass sie den Termin **vergessen haben könnte**.“\n\nVerwechsle das nicht mit dem **Präteritum** oder **Perfekt** eines objektiven Modalverbs: „Sie **musste** lange warten.“ / „Sie **hat** lange **warten müssen**.“ = Sie war gezwungen zu warten (eine Tatsache). „Sie **muss** lange **gewartet haben**.“ = Ich nehme an, dass sie lange gewartet hat (eine Vermutung)."
+    },
+    {
+      "type": "text",
+      "heading": "Futur I and Futur II as assumptions",
+      "headingDe": "Futur I und Futur II als Vermutung",
+      "md": "In everyday German the Futur very often expresses an **assumption**, not the future. With **wohl, sicher, bestimmt** or **wahrscheinlich** it shows a fairly confident guess:\n\n- **Futur I** (werden + infinitive) – assumption about the **present**: „Paul geht nicht ans Telefon. Er **wird** wohl noch beim Training **sein**.“\n- **Futur II** (werden + Partizip II + haben/sein) – assumption about the **past**: „Die Haustür ist offen. Jemand **wird** sie wohl nicht **abgeschlossen haben**.“ – „Die Gäste **werden** den letzten Bus **verpasst haben**.“\n\nThe Futur II also has its original meaning – an action **completed by a point in the future**: „Bis Freitag **werde** ich den Bericht **geschrieben haben**.“ In speech, though, people prefer the Perfekt here: „Bis Freitag **habe** ich den Bericht **geschrieben**.“ A future time expression (*bis Freitag, in zwei Wochen*) signals this use; *wohl* or *sicher* signals an assumption.",
+      "mdDe": "Im Alltag drückt das Futur sehr oft eine **Vermutung** aus, nicht die Zukunft. Mit **wohl, sicher, bestimmt** oder **wahrscheinlich** zeigt es eine ziemlich sichere Annahme:\n\n- **Futur I** (werden + Infinitiv) – Vermutung über die **Gegenwart**: „Paul geht nicht ans Telefon. Er **wird** wohl noch beim Training **sein**.“\n- **Futur II** (werden + Partizip II + haben/sein) – Vermutung über die **Vergangenheit**: „Die Haustür ist offen. Jemand **wird** sie wohl nicht **abgeschlossen haben**.“ – „Die Gäste **werden** den letzten Bus **verpasst haben**.“\n\nDas Futur II hat auch seine ursprüngliche Bedeutung – eine Handlung, die **bis zu einem Zeitpunkt in der Zukunft abgeschlossen** ist: „Bis Freitag **werde** ich den Bericht **geschrieben haben**.“ Beim Sprechen nimmt man hier aber lieber das Perfekt: „Bis Freitag **habe** ich den Bericht **geschrieben**.“ Eine Zeitangabe in der Zukunft (*bis Freitag, in zwei Wochen*) zeigt diese Bedeutung; *wohl* oder *sicher* zeigen eine Vermutung."
+    },
+    {
+      "type": "text",
+      "heading": "sollen and wollen: what others claim",
+      "headingDe": "sollen und wollen: Was andere behaupten",
+      "md": "Two modal verbs pass on a **claim** – the speaker does not vouch for it:\n\n- **sollen** = *people say / reportedly*. The source is other people, the media or rumours: „Der neue Chef **soll** sehr streng **sein**.“ – „Bei dem Brand **sollen** drei Menschen verletzt **worden sein**.“\n- **wollen** = *the subject claims something about itself* – and the speaker has doubts: „Er **will** den Unfall nicht **gesehen haben**.“ (He says he didn't see it – I'm not so sure.) – „Sie **will** schon dreimal in Australien **gewesen sein**.“\n\nThese forms are short alternatives to „Man sagt, dass …“ / „Es heißt, dass …“ and „Er behauptet, dass …“ and are very common in the news. For this meaning only the **present** of *sollen/wollen* is used; „Er **sollte** kommen“ means something else (he was supposed to come / he ought to come).",
+      "mdDe": "Zwei Modalverben geben eine **Behauptung** weiter – der Sprecher garantiert nicht dafür:\n\n- **sollen** = *man sagt / angeblich*. Die Quelle sind andere Leute, die Medien oder Gerüchte: „Der neue Chef **soll** sehr streng **sein**.“ – „Bei dem Brand **sollen** drei Menschen verletzt **worden sein**.“\n- **wollen** = *das Subjekt behauptet etwas über sich selbst* – und der Sprecher hat Zweifel: „Er **will** den Unfall nicht **gesehen haben**.“ (Er sagt, er habe ihn nicht gesehen – ich bin da nicht so sicher.) – „Sie **will** schon dreimal in Australien **gewesen sein**.“\n\nDiese Formen sind kurze Alternativen zu „Man sagt, dass …“ / „Es heißt, dass …“ und „Er behauptet, dass …“ und kommen in Nachrichten sehr oft vor. In dieser Bedeutung benutzt man nur das **Präsens** von *sollen/wollen*; „Er **sollte** kommen“ bedeutet etwas anderes (er hatte den Auftrag zu kommen / es wäre gut, wenn er käme)."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Im Büro brennt noch Licht. Frau Albers **muss** noch **da sein**.", "en": "The light is still on in the office. Ms Albers must still be here." },
+        { "de": "Die Straße ist nass. Es **muss** in der Nacht **geregnet haben**.", "en": "The road is wet. It must have rained during the night." },
+        { "de": "Die Reparatur **dürfte** etwa zwei Wochen **dauern**.", "en": "The repair will probably take about two weeks." },
+        { "de": "Mein Kollege antwortet nicht. Er **wird** wohl schon im Urlaub **sein**.", "en": "My colleague isn't answering. He's probably already on holiday." },
+        { "de": "Jonas ist nicht gekommen. Er **wird** den Termin **vergessen haben**.", "en": "Jonas hasn't come. He will have forgotten the appointment." },
+        { "de": "Die Unterlagen **könnten** im falschen Ordner **gelandet sein**.", "en": "The documents might have ended up in the wrong folder." },
+        { "de": "Die Schauspielerin **soll** eine Rolle in einer amerikanischen Serie **abgelehnt haben**.", "en": "The actress is said to have turned down a role in an American series." },
+        { "de": "Der Angeklagte **will** zur Tatzeit zu Hause **gewesen sein**.", "en": "The defendant claims to have been at home at the time of the crime." },
+        { "de": "Das **mag** zwar **stimmen**, aber es löst unser Problem nicht.", "en": "That may well be true, but it doesn't solve our problem." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In **Lesen** and **Hören**, the verb decides whether something is a **fact**, an **assumption** or **someone's claim**. „Der Politiker **soll** von den Plänen **gewusst haben**“ only reports what people say; „Der Politiker wusste von den Plänen“ states a fact – a typical trap in the answer options. In the same way, „Die Kosten **dürften** steigen“ is a forecast, not a decision.\n\nIn **Sprachbausteine Teil 1** check the end of the clause. After a participle, the auxiliary follows the Perfekt: „Er muss gestürzt **sein**“ – „Er muss es gesehen **haben**“ – „Es muss gestohlen **worden sein**“. Before a modal verb gap, the context decides how sure the writer is: evidence → *muss*, a guess → *dürfte / könnte*, hearsay → *soll*.\n\nIn **Sprechen Teil 2**, graded assumptions make your arguments sound careful and convincing: „Das **dürfte** vor allem für Familien ein Problem sein.“ – „Viele Leute **werden** das wohl anders **sehen**.“ – „Das **mag** sein, aber …“ is an elegant way to concede a point before you disagree.",
+      "mdDe": "**In der Prüfung:** In **Lesen** und **Hören** entscheidet das Verb, ob etwas eine **Tatsache**, eine **Vermutung** oder **die Behauptung von jemandem** ist. „Der Politiker **soll** von den Plänen **gewusst haben**“ gibt nur wieder, was man sagt; „Der Politiker wusste von den Plänen“ nennt eine Tatsache – eine typische Falle in den Antworten. Genauso ist „Die Kosten **dürften** steigen“ eine Prognose, keine Entscheidung.\n\nIn **Sprachbausteine Teil 1** prüfst du das Ende des Satzes. Nach einem Partizip richtet sich das Hilfsverb nach dem Perfekt: „Er muss gestürzt **sein**“ – „Er muss es gesehen **haben**“ – „Es muss gestohlen **worden sein**“. Bei einer Lücke für das Modalverb entscheidet der Kontext, wie sicher der Schreiber ist: ein Beweis → *muss*, eine Annahme → *dürfte / könnte*, etwas Gehörtes → *soll*.\n\nIn **Sprechen Teil 2** klingen deine Argumente mit abgestuften Vermutungen vorsichtig und überzeugend: „Das **dürfte** vor allem für Familien ein Problem sein.“ – „Viele Leute **werden** das wohl anders **sehen**.“ – „Das **mag** sein, aber …“ ist eine elegante Art, einem Punkt zuzustimmen, bevor du widersprichst."
+    },
+    {
+      "type": "warning",
+      "md": "**Three pairs that change the meaning:**\n\n1. **Assumption or reproach?** „Er **muss** die Mail **gelesen haben**.“ = I'm sure he read it. „Er **hätte** die Mail **lesen müssen**.“ = he should have read it – but he didn't (see „Konjunktiv II der Vergangenheit“).\n2. **dürfte or darf?** „Das **dürfte** teuer werden.“ = that will probably be expensive. „Das **darf** nicht teuer werden.“ = it mustn't be expensive (a rule, not an assumption).\n3. **kann nicht or muss nicht?** The opposite of *muss* (almost certain) is **kann nicht** (impossible): „Das **kann** nicht **stimmen**.“ *muss nicht* only means *not necessarily*: „Das **muss** nicht **stimmen**.“ (It might be wrong.)",
+      "mdDe": "**Drei Paare, die die Bedeutung verändern:**\n\n1. **Vermutung oder Vorwurf?** „Er **muss** die Mail **gelesen haben**.“ = Ich bin sicher, dass er sie gelesen hat. „Er **hätte** die Mail **lesen müssen**.“ = Er hätte sie lesen sollen – hat es aber nicht getan (siehe „Konjunktiv II der Vergangenheit“).\n2. **dürfte oder darf?** „Das **dürfte** teuer werden.“ = Das wird wahrscheinlich teuer. „Das **darf** nicht teuer werden.“ = Es ist nicht erlaubt, dass es teuer wird (eine Regel, keine Vermutung).\n3. **kann nicht oder muss nicht?** Das Gegenteil von *muss* (fast sicher) ist **kann nicht** (unmöglich): „Das **kann** nicht **stimmen**.“ *muss nicht* bedeutet nur *nicht unbedingt*: „Das **muss** nicht **stimmen**.“ (Es könnte falsch sein.)"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er muss gestern krank gewesen haben.",
+      "right": "Er muss gestern krank gewesen sein.",
+      "why": "sein forms its Perfekt with sein (er ist krank gewesen), so the Infinitiv Perfekt is „gewesen sein“.",
+      "whyDe": "sein bildet das Perfekt mit sein (er ist krank gewesen), deshalb heißt der Infinitiv Perfekt „gewesen sein“."
+    },
+    {
+      "wrong": "Anna ist noch nicht da. Sie hat den Zug verpassen müssen.",
+      "right": "Anna ist noch nicht da. Sie muss den Zug verpasst haben.",
+      "why": "„hat … verpassen müssen“ is the Perfekt of the objective modal verb: she was forced to miss the train. For an assumption, „muss“ stays in the present and the main verb takes the Infinitiv Perfekt: „muss … verpasst haben“.",
+      "whyDe": "„hat … verpassen müssen“ ist das Perfekt des objektiven Modalverbs: Sie war gezwungen, den Zug zu verpassen. Für eine Vermutung bleibt „muss“ im Präsens, und das Hauptverb steht im Infinitiv Perfekt: „muss … verpasst haben“."
+    },
+    {
+      "wrong": "Der Minister soll gestern zurückgetreten haben.",
+      "right": "Der Minister soll gestern zurückgetreten sein.",
+      "why": "„zurücktreten“ forms the Perfekt with sein (er ist zurückgetreten), so the Infinitiv Perfekt is „zurückgetreten sein“.",
+      "whyDe": "„zurücktreten“ bildet das Perfekt mit sein (er ist zurückgetreten), deshalb heißt der Infinitiv Perfekt „zurückgetreten sein“."
+    },
+    {
+      "wrong": "Der Kassenbon zeigt 80 Euro, aber ich habe nur Brot und Milch gekauft. Das muss nicht stimmen!",
+      "right": "Der Kassenbon zeigt 80 Euro, aber ich habe nur Brot und Milch gekauft. Das kann nicht stimmen!",
+      "why": "To say that something is impossible, negate „können“: „kann nicht“. „muss nicht“ only means „not necessarily“.",
+      "whyDe": "Wenn du sagen willst, dass etwas unmöglich ist, verneinst du „können“: „kann nicht“. „muss nicht“ bedeutet nur „nicht unbedingt“."
+    },
+    {
+      "wrong": "Tim ist noch nicht da. Er wird wohl den Bus verpasst.",
+      "right": "Tim ist noch nicht da. Er wird wohl den Bus verpasst haben.",
+      "why": "The Futur II needs „haben“ or „sein“ after the participle: werden + Partizip II + haben/sein.",
+      "whyDe": "Das Futur II braucht nach dem Partizip „haben“ oder „sein“: werden + Partizip II + haben/sein."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Im Wohnzimmer brennt Licht. Die Nachbarn ___ also schon aus dem Urlaub zurück sein.",
+      "options": ["müssen", "sollen", "wollen"],
+      "answer": 0,
+      "explanation": "„also“ shows that the speaker draws a conclusion from evidence (the light) – that is „müssen“: almost certain. „sollen“ would pass on what others say, „wollen“ what the neighbours claim themselves.",
+      "explanationDe": "„also“ zeigt, dass der Sprecher aus einem Hinweis (dem Licht) einen Schluss zieht – das ist „müssen“: fast sicher. „sollen“ würde wiedergeben, was andere sagen, „wollen“, was die Nachbarn selbst behaupten."
+    },
+    {
+      "type": "mc",
+      "prompt": "Laut einem Zeitungsbericht ___ der Bürgermeister das Grundstück weit unter Wert verkauft haben.",
+      "options": ["soll", "will", "muss"],
+      "answer": 0,
+      "explanation": "The source is a newspaper report, not the mayor and not the speaker's own conclusion: „soll … verkauft haben“ = he reportedly sold it. „will“ would mean that the mayor himself claims it, „muss“ that the speaker is almost sure.",
+      "explanationDe": "Die Quelle ist ein Zeitungsbericht – nicht der Bürgermeister und nicht der eigene Schluss des Sprechers: „soll … verkauft haben“ = angeblich hat er es verkauft. „will“ würde bedeuten, dass der Bürgermeister es selbst behauptet, „muss“, dass der Sprecher fast sicher ist."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Angeklagte bleibt bei seiner Aussage: Er ___ zur Tatzeit bei seiner Schwester gewesen sein.",
+      "options": ["will", "soll", "dürfte"],
+      "answer": 0,
+      "explanation": "„bei seiner Aussage“ shows that the defendant himself makes the claim – that is „wollen“. „soll“ would pass on what other people say, and „dürfte“ would be the speaker's own assumption.",
+      "explanationDe": "„bei seiner Aussage“ zeigt, dass der Angeklagte selbst das behauptet – das ist „wollen“. „soll“ würde wiedergeben, was andere sagen, und „dürfte“ wäre eine eigene Vermutung des Sprechers."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Sitzung hat um neun Uhr begonnen und dauert normalerweise zwei Stunden. Jetzt ist es Viertel nach elf – sie ___ also inzwischen zu Ende sein.",
+      "options": ["dürfte", "darf", "durfte"],
+      "answer": 0,
+      "explanation": "The speaker makes a well-founded guess: „dürfte“ = probably. „darf“ and „durfte“ express permission, which makes no sense for a meeting that ends.",
+      "explanationDe": "Der Sprecher stellt eine gut begründete Vermutung an: „dürfte“ = wahrscheinlich. „darf“ und „durfte“ drücken eine Erlaubnis aus, und das passt nicht zu einer Sitzung, die zu Ende geht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ich bin mir nicht sicher, aber jemand ___ Kaffee über die Tastatur geschüttet haben.",
+      "options": ["könnte", "muss", "will"],
+      "answer": 0,
+      "explanation": "„Ich bin mir nicht sicher“ shows a mere possibility: „könnte … geschüttet haben“. „muss“ would mean the speaker is almost sure, and „will“ would mean someone claims it about himself.",
+      "explanationDe": "„Ich bin mir nicht sicher“ zeigt eine reine Möglichkeit: „könnte … geschüttet haben“. „muss“ würde bedeuten, dass der Sprecher fast sicher ist, und „will“, dass jemand das über sich selbst behauptet."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das ___ nicht stimmen – ich habe die Rechnung selbst dreimal nachgerechnet.",
+      "options": ["kann", "muss", "soll"],
+      "answer": 0,
+      "explanation": "The speaker has checked three times and is sure it's wrong: „kann nicht“ = impossible. „muss nicht“ only means „not necessarily“, and „soll nicht“ would pass on what others say.",
+      "explanationDe": "Der Sprecher hat dreimal nachgerechnet und ist sicher, dass es falsch ist: „kann nicht“ = unmöglich. „muss nicht“ bedeutet nur „nicht unbedingt“, und „soll nicht“ würde wiedergeben, was andere sagen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Straße ist ganz nass. Es muss in der Nacht stark ___ haben.",
+      "hint": "(regnen)",
+      "answers": ["geregnet"],
+      "explanation": "An assumption about the past: „muss“ + Infinitiv Perfekt. „regnen“ forms the Perfekt with haben, so it's „geregnet haben“.",
+      "explanationDe": "Eine Vermutung über die Vergangenheit: „muss“ + Infinitiv Perfekt. „regnen“ bildet das Perfekt mit haben, also heißt es „geregnet haben“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bei dem Unfall auf der A7 sollen mehrere Menschen verletzt ___ sein.",
+      "hint": "(werden)",
+      "answers": ["worden"],
+      "explanation": "A reported claim about the past in the passive: „sollen“ + Partizip II + „worden sein“. The passive participle is „worden“, not „geworden“.",
+      "explanationDe": "Eine Behauptung über die Vergangenheit im Passiv: „sollen“ + Partizip II + „worden sein“. Das Partizip im Passiv heißt „worden“, nicht „geworden“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Unterlagen sind nicht angekommen. Sie könnten bei der Post verloren gegangen ___.",
+      "hint": "(haben/sein)",
+      "answers": ["sein"],
+      "explanation": "„verloren gehen“ forms the Perfekt with sein (sie sind verloren gegangen), so the Infinitiv Perfekt is „verloren gegangen sein“.",
+      "explanationDe": "„verloren gehen“ bildet das Perfekt mit sein (sie sind verloren gegangen), deshalb heißt der Infinitiv Perfekt „verloren gegangen sein“."
+    },
+    {
+      "type": "order",
+      "words": ["wohl", "Termin", "haben.", "Er", "vergessen", "den", "wird"],
+      "answers": [
+        "Er wird den Termin wohl vergessen haben.",
+        "Er wird wohl den Termin vergessen haben.",
+        "Den Termin wird er wohl vergessen haben."
+      ],
+      "explanation": "Futur II as an assumption about the past: „wird“ in position 2, „vergessen haben“ at the end, „wohl“ in the middle field.",
+      "explanationDe": "Futur II als Vermutung über die Vergangenheit: „wird“ auf Position 2, „vergessen haben“ am Ende, „wohl“ im Mittelfeld."
+    },
+    {
+      "type": "order",
+      "words": ["will.", "nichts", "Es", "dass", "gewusst", "mich,", "er", "ärgert", "von", "haben"],
+      "answers": ["Es ärgert mich, dass er von nichts gewusst haben will."],
+      "explanation": "„wollen“ = he claims it himself. In the dass clause the conjugated modal verb „will“ goes to the very end, after the Infinitiv Perfekt „gewusst haben“.",
+      "explanationDe": "„wollen“ = er behauptet es selbst. Im dass-Satz steht das konjugierte Modalverb „will“ ganz am Ende, nach dem Infinitiv Perfekt „gewusst haben“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Express the assumption with a modal verb.",
+      "instructionDe": "Drück die Vermutung mit einem Modalverb aus.",
+      "prompt": "Ich bin fast sicher, dass sie die Prüfung bestanden hat.",
+      "answers": ["Sie muss die Prüfung bestanden haben."],
+      "explanation": "„fast sicher“ = „müssen“. The event is in the past, so the main verb takes the Infinitiv Perfekt: „bestanden haben“.",
+      "explanationDe": "„fast sicher“ = „müssen“. Das Ereignis liegt in der Vergangenheit, deshalb steht das Hauptverb im Infinitiv Perfekt: „bestanden haben“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Express the assumption with „dürfte“.",
+      "instructionDe": "Drück die Vermutung mit „dürfte“ aus.",
+      "prompt": "Vermutlich ist der letzte Bus schon abgefahren.",
+      "answers": ["Der letzte Bus dürfte schon abgefahren sein."],
+      "explanation": "„vermutlich“ = „dürfte“. „abfahren“ forms the Perfekt with sein (ist abgefahren), so the end of the sentence is „abgefahren sein“.",
+      "explanationDe": "„vermutlich“ = „dürfte“. „abfahren“ bildet das Perfekt mit sein (ist abgefahren), deshalb endet der Satz mit „abgefahren sein“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Express the assumption with the Futur II and „wohl“.",
+      "instructionDe": "Drück die Vermutung mit dem Futur II und „wohl“ aus.",
+      "prompt": "Wahrscheinlich hat der Hausmeister die Tür schon abgeschlossen.",
+      "answers": [
+        "Der Hausmeister wird die Tür wohl schon abgeschlossen haben.",
+        "Der Hausmeister wird wohl die Tür schon abgeschlossen haben.",
+        "Der Hausmeister wird wohl schon die Tür abgeschlossen haben.",
+        "Die Tür wird der Hausmeister wohl schon abgeschlossen haben."
+      ],
+      "explanation": "Futur II = „wird“ + Partizip II + „haben“. „wohl“ replaces „wahrscheinlich“ and stands in the middle field.",
+      "explanationDe": "Futur II = „wird“ + Partizip II + „haben“. „wohl“ ersetzt „wahrscheinlich“ und steht im Mittelfeld."
+    }
+  ],
+  "related": ["modalverben", "futur-1", "perfekt", "konjunktiv-2", "konjunktiv-1", "konjunktiv-2-vergangenheit", "passiv-b2", "modalpartikeln"]
+}

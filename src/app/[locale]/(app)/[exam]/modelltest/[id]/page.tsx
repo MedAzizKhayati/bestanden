@@ -5,7 +5,7 @@ import { MockRunner, type MockPart } from "@/components/mock/mock-runner";
 import { getMessages } from "@/i18n/messages";
 import { getLocale, getT } from "@/i18n/server";
 import { getSet } from "@/lib/content/load";
-import { MOCK_PARTS } from "@/lib/exam/mock";
+import { MOCK_PARTS, WRITING_ALT, WRITING_PART } from "@/lib/exam/mock";
 import { listMocks } from "@/lib/exam/mock-server";
 import { isScoredSet } from "@/lib/exam/scoring";
 import { EXAMS, getPart, getSection } from "@/lib/exams";
@@ -37,6 +37,13 @@ export default async function MockPage(props: PageProps<"/[locale]/[exam]/modell
     if (!set || (!isScoredSet(set) && set.type !== "writing-email")) notFound();
     return { part, sectionName: getSection(exam, part.sectionId)!.short, number: mock.numbers[partId], set };
   });
+  // telc B2: Aufgabe B to choose instead of Aufgabe A.
+  const altNumber = mock.numbers[WRITING_ALT];
+  const altSet = altNumber ? getSet(exam.id, WRITING_PART, altNumber, locale) : undefined;
+  const writingB: MockPart | undefined =
+    altSet?.type === "writing-email"
+      ? { part: getPart(exam, WRITING_PART)!, sectionName: getSection(exam, "schreiben")!.short, number: altNumber, set: altSet }
+      : undefined;
 
   return (
     <PageContainer wide className="pt-0 sm:pt-0">
@@ -46,6 +53,7 @@ export default async function MockPage(props: PageProps<"/[locale]/[exam]/modell
           mockId={`${exam.id}-${id}`}
           title={`${exam.name} · ${t.mock.title(mock.k)}`}
           parts={parts}
+          writingB={writingB}
           rubric={exam.writingRubric}
           listHref={`/${exam.slug}/modelltest`}
         />

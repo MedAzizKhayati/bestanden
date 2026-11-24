@@ -1,0 +1,191 @@
+{
+  "id": "lesen-3-01",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Weiterbildung in Bremen",
+  "topic": "bildung",
+  "difficulty": 1,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ein Kollege soll bald vor Kunden einen Vortrag halten und hat große Angst davor, frei zu sprechen.",
+      "answer": "e",
+      "explanation": "His problem is fear of speaking in front of others. The rhetoric seminar (e) teaches you to turn „Lampenfieber in positive Energie“ and to speak „ohne vom Blatt abzulesen“. Business English (a) also practises „Präsentationen“, but it is a course for improving your English.",
+      "explanationDe": "Sein Problem ist die Angst, vor anderen zu sprechen. Im Rhetorik-Seminar (e) lernst du, „Lampenfieber in positive Energie“ zu verwandeln und zu reden, „ohne vom Blatt abzulesen“. Der Sprachkurs der Akademie (a) übt zwar auch „Präsentationen“, ist aber ein Kurs, in dem man sein Englisch verbessert."
+    },
+    {
+      "n": 2,
+      "text": "Ihr Bruder möchte sein Schulfranzösisch auffrischen, arbeitet aber im Schichtdienst mit ständig wechselnden Arbeitszeiten.",
+      "answer": "j",
+      "explanation": "Changing shifts mean he cannot attend fixed course times. The online course (j) is made for that: you learn „genau dann, wenn Sie Zeit haben“, and even the live session is „freiwillig“. The Sprachcafé (g) has a French table, but only „Jeden Donnerstag von 18 bis 20 Uhr“.",
+      "explanationDe": "Wegen der wechselnden Schichten kann er keine festen Kurstermine wahrnehmen. Der Onlinekurs (j) ist genau dafür gemacht: Man lernt „genau dann, wenn Sie Zeit haben“, und sogar die Live-Sprechstunde ist „freiwillig“. Das Sprachcafé (g) hat zwar einen Französisch-Tisch, aber nur „Jeden Donnerstag von 18 bis 20 Uhr“."
+    },
+    {
+      "n": 3,
+      "text": "Ihre Schwester möchte das Abitur nachholen, ihre Vollzeitstelle bei einer Bank aber unbedingt behalten.",
+      "answer": "c",
+      "explanation": "She wants to keep her full-time job. At the evening grammar school (c) lessons start at 17.30 Uhr, „sodass Sie tagsüber weiterhin berufstätig sein können“. The Hansa-Kolleg (h) also leads to the Abitur, but lessons are „an fünf Vormittagen“, so „eine Berufstätigkeit lässt sich damit kaum vereinbaren“.",
+      "explanationDe": "Sie will ihre Vollzeitstelle behalten. Am Abendgymnasium (c) beginnt der Unterricht um 17.30 Uhr, „sodass Sie tagsüber weiterhin berufstätig sein können“. Das Hansa-Kolleg (h) führt auch zum Abitur, aber der Unterricht ist „an fünf Vormittagen“, und „eine Berufstätigkeit lässt sich damit kaum vereinbaren“."
+    },
+    {
+      "n": 4,
+      "text": "Ein Bekannter möchte abends Italienisch lernen, hat aber noch nie ein Wort dieser Sprache gesprochen.",
+      "answer": "x",
+      "explanation": "He is a complete beginner and needs an evening course. The Italian course (b) is in the evening, but „Teilnehmende ganz ohne Vorkenntnisse können wir leider nicht aufnehmen“. The Sprachcafé (g) has no Italian table, and the beginners’ course (d) teaches Spanish – so x.",
+      "explanationDe": "Er ist absoluter Anfänger und sucht einen Abendkurs. Der Italienischkurs (b) findet zwar abends statt, aber: „Teilnehmende ganz ohne Vorkenntnisse können wir leider nicht aufnehmen“. Im Sprachcafé (g) gibt es keinen Italienisch-Tisch, und der Anfängerkurs (d) ist ein Spanischkurs – also x."
+    },
+    {
+      "n": 5,
+      "text": "Ihre Nichte will in den Semesterferien vor einer Reise nach Peru schnell Spanisch von Grund auf lernen.",
+      "answer": "d",
+      "explanation": "She is a beginner and wants to learn fast during the summer break. The two-week intensive course (d) works „ganz ohne Vorkenntnisse“ and starts in August, with teachers from Lima and Bogotá. The Sprachcafé (g) has a Spanish table, but „Deshalb sollten Sie bereits über Grundkenntnisse verfügen“.",
+      "explanationDe": "Sie ist Anfängerin und will in den Ferien schnell lernen. Der zweiwöchige Intensivkurs (d) funktioniert „ganz ohne Vorkenntnisse“ und beginnt im August, mit Lehrkräften aus Lima und Bogotá. Das Sprachcafé (g) hat zwar einen Spanisch-Tisch, aber: „Deshalb sollten Sie bereits über Grundkenntnisse verfügen“."
+    },
+    {
+      "n": 6,
+      "text": "Ihre Tante möchte die Sprache lernen, in der sich ihr gehörloser Enkel mit anderen verständigt.",
+      "answer": "f",
+      "explanation": "Her grandson is deaf („gehörlos“), so the language she needs is sign language. The course (f) teaches „Deutsche Gebärdensprache“ to beginners and is aimed at „Angehörige“, among others.",
+      "explanationDe": "Ihr Enkel ist gehörlos, sie braucht also die Gebärdensprache. Der Kurs (f) bringt Anfängern die „Deutsche Gebärdensprache“ bei und richtet sich unter anderem an „Angehörige“."
+    },
+    {
+      "n": 7,
+      "text": "Ein Freund möchte eine Woche Bildungsurlaub nehmen, um im Beruf gelassener mit Druck umzugehen.",
+      "answer": "k",
+      "explanation": "The five-day seminar (k) teaches you to recognise your „Stressauslöser“ and is „als Bildungsurlaub anerkannt“. The rhetoric seminar (e) also deals with nerves, but it only lasts one weekend and is not Bildungsurlaub.",
+      "explanationDe": "Im fünftägigen Seminar (k) lernt man, seine „Stressauslöser“ zu erkennen, und es ist „als Bildungsurlaub anerkannt“. Das Rhetorik-Seminar (e) hilft zwar auch gegen Nervosität, dauert aber nur ein Wochenende und ist kein Bildungsurlaub."
+    },
+    {
+      "n": 8,
+      "text": "Sie sprechen schon ordentlich Englisch und möchten berufliche Gespräche sicherer führen, haben aber nur am Wochenende Zeit.",
+      "answer": "a",
+      "explanation": "Business English (a) is for people „mit soliden Vorkenntnissen“, trains phone conferences and negotiations and takes place „an acht Samstagen“. The Sprachcafé (g) has an English table, but on Thursday evenings; the online course (j) offers „ausschließlich Französisch“.",
+      "explanationDe": "Der Samstagskurs (a) ist für Leute „mit soliden Vorkenntnissen“, trainiert Telefonkonferenzen und Verhandlungen und findet „an acht Samstagen“ statt. Das Sprachcafé (g) hat einen Englisch-Tisch, aber donnerstagabends; der Onlinekurs (j) bietet „ausschließlich Französisch“ an."
+    },
+    {
+      "n": 9,
+      "text": "Ihr Nachbar ist seit Kurzem arbeitslos und möchte sich ohne eigene Kosten zum Softwareentwickler weiterbilden.",
+      "answer": "i",
+      "explanation": "He is unemployed and does not want to pay. For the programming course (i), unemployed people can have the costs paid by a „Bildungsgutschein der Agentur für Arbeit vollständig“. The evening grammar school (c) is also free („Schulgeld wird nicht erhoben“), but it leads to the Abitur, not to a job in IT.",
+      "explanationDe": "Er ist arbeitslos und möchte nichts bezahlen. Beim Programmierkurs (i) können Arbeitslose die Kosten über einen „Bildungsgutschein der Agentur für Arbeit vollständig“ übernehmen lassen. Das Abendgymnasium (c) ist zwar auch kostenlos („Schulgeld wird nicht erhoben“), führt aber zum Abitur und nicht zu einem Job in der IT."
+    },
+    {
+      "n": 10,
+      "text": "Eine Freundin macht sich bald als Fotografin selbstständig und weiß kaum etwas über Steuern.",
+      "answer": "l",
+      "explanation": "She is starting her own business and needs basic tax knowledge. The course (l) is aimed „ausdrücklich an Freiberufler und Kleingewerbetreibende ohne kaufmännische Ausbildung“ and covers „Umsatzsteuer und Steuererklärung“.",
+      "explanationDe": "Sie macht sich selbstständig und braucht Grundwissen über Steuern. Der Kurs (l) richtet sich „ausdrücklich an Freiberufler und Kleingewerbetreibende ohne kaufmännische Ausbildung“ und behandelt „Umsatzsteuer und Steuererklärung“."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Business English am Samstag",
+      "subheading": "Akademie für Wirtschaft und Sprache",
+      "lines": [],
+      "text": "Telefonkonferenzen, Verhandlungen, E-Mails an internationale Kunden: In diesem Kurs trainieren Sie genau die Situationen, in denen Sie im Berufsalltag Englisch brauchen. Er richtet sich an Berufstätige mit soliden Vorkenntnissen (mindestens Niveau B1); ein kostenloser Einstufungstest vor Kursbeginn stellt sicher, dass Sie in der passenden Gruppe landen. Unterrichtet wird an acht Samstagen jeweils von 9 bis 14 Uhr – niemand muss dafür Urlaub nehmen. Einen Schwerpunkt bilden Präsentationen, die Sie vor der Gruppe halten und anschließend gemeinsam auswerten. Zum Abschluss erhalten Sie ein Zertifikat. Kursgebühr: 560 Euro; viele Unternehmen übernehmen die Kosten für ihre Beschäftigten.",
+      "footer": "Am Brill 8, 28195 Bremen · www.awis-bremen.de"
+    },
+    {
+      "key": "b",
+      "heading": "Italienisch für Wiedereinsteiger",
+      "subheading": "Abendkurs im Kulturhaus Walle",
+      "lines": [],
+      "text": "Sie haben vor Jahren Italienisch gelernt, im Urlaub ein wenig gesprochen und inzwischen vieles wieder vergessen? Dieser Kurs frischt Ihre Kenntnisse auf, ohne bei null zu beginnen. Wir wiederholen die wichtigsten Zeitformen, erweitern Ihren Wortschatz rund um Reisen, Essen und Alltag und sprechen dabei so viel wie möglich. Vorausgesetzt werden Kenntnisse auf dem Niveau A2; Teilnehmende ganz ohne Vorkenntnisse können wir leider nicht aufnehmen, da die Gruppe sonst zu unterschiedlich wäre. Unterrichtet wird montags und mittwochs von 19 bis 20.30 Uhr, insgesamt zwölf Wochen lang. Die Gebühr beträgt 168 Euro; Studierende sowie Rentnerinnen und Rentner erhalten eine Ermäßigung.",
+      "footer": "Kulturhaus Walle, Schleswiger Straße 4 · Tel. 0421 6170293"
+    },
+    {
+      "key": "c",
+      "heading": "Weser-Abendgymnasium",
+      "subheading": "Das Abitur auf dem zweiten Bildungsweg",
+      "lines": [],
+      "text": "Sie haben eine Ausbildung abgeschlossen und möchten jetzt das Abitur nachholen, ohne Ihren Arbeitsplatz aufzugeben? Bei uns ist das möglich: Der Unterricht findet montags bis donnerstags von 17.30 bis 21.30 Uhr statt, sodass Sie tagsüber weiterhin berufstätig sein können. Der Weg zur allgemeinen Hochschulreife dauert in der Regel drei Jahre. Aufgenommen wird, wer mindestens 19 Jahre alt ist und eine Berufsausbildung oder eine mindestens zweijährige Berufstätigkeit nachweisen kann. Schulgeld wird nicht erhoben. Anmeldungen für den Jahrgang, der im Februar beginnt, nehmen wir bis zum 15. Dezember entgegen.",
+      "footer": "Infoabend jeden ersten Mittwoch im Monat um 18 Uhr"
+    },
+    {
+      "key": "d",
+      "heading": "Spanisch kompakt im Sommer",
+      "subheading": "Sprachinstitut Babel",
+      "lines": [],
+      "text": "Sie planen eine Reise nach Spanien oder Lateinamerika und möchten sich vor Ort verständigen können? In unserem zweiwöchigen Intensivkurs lernen Sie ganz ohne Vorkenntnisse das Wichtigste: sich vorstellen, nach dem Weg fragen, im Restaurant bestellen, ein Zimmer reservieren. Unterrichtet wird montags bis freitags jeweils von 9 bis 13 Uhr in Kleingruppen mit höchstens acht Teilnehmenden. Unsere Lehrkräfte stammen aus Madrid, Bogotá und Lima und bereiten Sie auch auf regionale Besonderheiten vor. Die Kurse beginnen am 3. und am 17. August. Die Gebühr von 390 Euro umfasst sämtliche Lernmaterialien sowie einen gemeinsamen Abschlussabend.",
+      "footer": "Ostertorsteinweg 54, 28203 Bremen · www.babel-sprachen.de"
+    },
+    {
+      "key": "e",
+      "heading": "Souverän auftreten, frei sprechen",
+      "subheading": "Rhetorik-Seminar mit Videotraining",
+      "lines": [],
+      "text": "Bei Vorträgen zittert Ihnen die Stimme, und vor wichtigen Besprechungen schlafen Sie schlecht? In unserem Wochenendseminar lernen Sie, Ihr Lampenfieber in positive Energie zu verwandeln. Sie üben, eine Rede klar aufzubauen, ohne vom Blatt abzulesen, und mit Stimme und Körpersprache zu überzeugen. Jede Übung wird auf Video aufgezeichnet und anschließend gemeinsam besprochen – stets behutsam und in einer Gruppe von höchstens zehn Personen. Das Seminar findet von Freitag, 18 Uhr, bis Sonntag, 16 Uhr, im Bildungshaus am Bürgerpark statt. Die Teilnahmegebühr von 320 Euro schließt die Verpflegung ein.",
+      "footer": "Anmeldung: www.redekunst-bremen.de"
+    },
+    {
+      "key": "f",
+      "heading": "Gebärdensprache von Anfang an",
+      "subheading": "Grundkurs Deutsche Gebärdensprache",
+      "lines": [],
+      "text": "Zehntausende Menschen in Deutschland kommunizieren in Deutscher Gebärdensprache. In unserem Grundkurs lernen Sie die ersten 400 Gebärden, das Fingeralphabet und die wichtigsten Grammatikregeln, sodass Sie sich schon nach wenigen Wochen über einfache Alltagsthemen unterhalten können. Unterrichtet wird von gehörlosen Lehrkräften, die von der ersten Stunde an ausschließlich gebärden – das klingt ungewohnt, funktioniert aber erstaunlich gut. Der Kurs richtet sich an Angehörige, an Fachkräfte aus sozialen Berufen und an alle Interessierten; Vorkenntnisse sind nicht nötig. Zehn Termine, jeweils mittwochs von 18 bis 20 Uhr. Die Gebühr beträgt 150 Euro, für Eltern gehörloser Kinder ist der Kurs kostenlos.",
+      "footer": "Gehörlosenzentrum Bremen · Anmeldung per E-Mail: kurse@dgs-bremen.de"
+    },
+    {
+      "key": "g",
+      "heading": "Sprachcafé International",
+      "subheading": "Jeden Donnerstag in der Stadtbibliothek",
+      "lines": [],
+      "text": "Jeden Donnerstag von 18 bis 20 Uhr wird das Lesecafé der Stadtbibliothek zum Treffpunkt für alle, die eine Fremdsprache im Gespräch üben wollen. An verschiedenen Tischen wird Englisch, Spanisch, Französisch, Türkisch und Polnisch gesprochen; ehrenamtliche Muttersprachlerinnen und Muttersprachler leiten die Runden. Klassischen Unterricht gibt es nicht, Grammatik wird nur erklärt, wenn jemand danach fragt. Deshalb sollten Sie bereits über Grundkenntnisse verfügen. Eine Anmeldung ist nicht nötig, und die Teilnahme ist kostenlos – über eine kleine Spende für Kaffee und Kuchen freuen wir uns trotzdem. Wer möchte, findet hier auch einen festen Tandempartner."
+    },
+    {
+      "key": "h",
+      "heading": "Hansa-Kolleg",
+      "subheading": "In Vollzeit zum Abitur",
+      "lines": [],
+      "text": "Am Hansa-Kolleg erwerben Erwachsene in drei Jahren die allgemeine Hochschulreife. Der Unterricht findet an fünf Vormittagen pro Woche statt; eine Berufstätigkeit lässt sich damit kaum vereinbaren. Dafür können Sie sich ganz auf das Lernen konzentrieren und erhalten in der Regel BAföG, das Sie nicht zurückzahlen müssen. Voraussetzung sind ein mittlerer Schulabschluss sowie eine abgeschlossene Berufsausbildung oder mehrjährige Berufserfahrung. Wer in Mathematik oder Englisch noch Lücken hat, kann vor Beginn einen kostenlosen Vorkurs besuchen. Das Schuljahr beginnt jeweils im August; Bewerbungen sind bis Ende März möglich.",
+      "footer": "www.hansa-kolleg.de"
+    },
+    {
+      "key": "i",
+      "heading": "In zwölf Wochen zum Programmierjob",
+      "subheading": "CodeStart Bremen",
+      "lines": [],
+      "text": "Sie möchten beruflich neu anfangen und in die IT-Branche wechseln? Unser Vollzeitkurs vermittelt Ihnen in zwölf Wochen die Grundlagen der Programmiersprache Python, der Webentwicklung und der Arbeit mit Datenbanken. Vorkenntnisse brauchen Sie nicht, wohl aber Ausdauer: Unterricht und Projektarbeit finden montags bis freitags von 8.30 bis 16 Uhr statt. Wer arbeitslos oder arbeitsuchend gemeldet ist, kann die Kosten über einen Bildungsgutschein der Agentur für Arbeit vollständig übernehmen lassen. Im letzten Kursmonat vermitteln wir Praktika bei Partnerunternehmen aus der Region. Kostenlose Infoabende finden jeden ersten Dienstag im Monat statt.",
+      "footer": "Überseestadt, Konsul-Smidt-Straße 20 · www.codestart-bremen.de"
+    },
+    {
+      "key": "j",
+      "heading": "Französisch online",
+      "subheading": "Lernen, wann es Ihnen passt",
+      "lines": [],
+      "text": "Feste Kurszeiten passen nicht in Ihren Alltag? Auf unserer Lernplattform bearbeiten Sie Lektionen, Hörübungen und Ausspracheaufgaben genau dann, wenn Sie Zeit haben – am Computer oder per App auf dem Smartphone. Angeboten wird ausschließlich Französisch, und zwar auf allen Stufen von A1 bis C1; ein kurzer Einstufungstest zeigt Ihnen, wo Sie einsteigen sollten. Jeden Mittwochabend gibt es zusätzlich eine Live-Sprechstunde mit einer Tutorin. Die Teilnahme ist freiwillig, und wer den Termin verpasst, kann sich die Aufzeichnung später ansehen. Das Abonnement kostet 24 Euro im Monat und ist monatlich kündbar.",
+      "footer": "www.parlez-online.de"
+    },
+    {
+      "key": "k",
+      "heading": "Gelassen bleiben im Berufsalltag",
+      "subheading": "Bildungsurlaub in Worpswede",
+      "lines": [],
+      "text": "Termindruck, ständige Erreichbarkeit, volle Postfächer: Viele Beschäftigte stehen dauerhaft unter Strom. In diesem fünftägigen Seminar lernen Sie, Ihre persönlichen Stressauslöser zu erkennen, Prioritäten zu setzen und Grenzen zu ziehen. Kurze Entspannungsübungen und Spaziergänge durch das Teufelsmoor ergänzen das Programm. Das Seminar ist in Bremen und Niedersachsen als Bildungsurlaub anerkannt; Ihr Arbeitgeber muss Sie also von Montag bis Freitag bei voller Bezahlung freistellen. Reichen Sie den Antrag bitte spätestens sechs Wochen vorher bei ihm ein. Übernachtung im Einzelzimmer und Vollpension im Tagungshaus sind im Preis von 640 Euro enthalten.",
+      "footer": "Tagungshaus Moorlicht · Tel. 04792 950318"
+    },
+    {
+      "key": "l",
+      "heading": "Gut gerüstet in die Selbstständigkeit",
+      "subheading": "Buchhaltung und Steuern für Gründerinnen und Gründer",
+      "lines": [],
+      "text": "Wer sich selbstständig macht, muss sich plötzlich um Rechnungen, Umsatzsteuer und Steuererklärung kümmern. An fünf Abenden erklärt Ihnen eine erfahrene Steuerberaterin, welche Pflichten auf Sie zukommen, wie Sie Belege richtig ablegen und eine einfache Einnahmenüberschussrechnung erstellen. Außerdem erfahren Sie, welche Ausgaben Sie steuerlich absetzen können und wann sich eine Buchhaltungssoftware lohnt. Der Kurs richtet sich ausdrücklich an Freiberufler und Kleingewerbetreibende ohne kaufmännische Ausbildung. Termine: ab 6. Oktober immer montags von 18.30 bis 21 Uhr im Haus der Wirtschaft. Gebühr: 180 Euro; Teilnehmende des städtischen Gründerprogramms zahlen die Hälfte.",
+      "footer": "Gründungszentrum Bremen · www.gruenden-bremen.de"
+    }
+  ],
+  "glossary": [
+    { "de": "das Lampenfieber", "en": "stage fright" },
+    { "de": "der Bildungsgutschein", "en": "training voucher (paid by the employment agency)" },
+    { "de": "die Vorkenntnisse (Pl.)", "en": "prior knowledge" },
+    { "de": "der Einstufungstest", "en": "placement test" },
+    { "de": "der Bildungsurlaub", "en": "paid educational leave" },
+    { "de": "jemanden freistellen", "en": "to release someone from work" },
+    { "de": "die Hochschulreife", "en": "university entrance qualification" },
+    { "de": "der zweite Bildungsweg", "en": "second-chance education for adults" },
+    { "de": "die Gebärdensprache", "en": "sign language" },
+    { "de": "etwas steuerlich absetzen", "en": "to deduct something from tax" },
+    { "de": "der Freiberufler / die Freiberuflerin", "en": "freelancer" },
+    { "de": "unter Strom stehen", "en": "to be under constant pressure (colloquial)" }
+  ]
+}

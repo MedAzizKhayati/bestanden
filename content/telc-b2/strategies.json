@@ -1,0 +1,1038 @@
+{
+  "examId": "telc-b2",
+  "guides": [
+    {
+      "partId": "allgemein",
+      "title": "Exam day, timing and the answer sheet",
+      "titleDe": "Prüfungstag, Zeiteinteilung und Antwortbogen",
+      "summary": "The written exam takes 140 minutes in a fixed order: Lesen and Sprachbausteine share one 90-minute block, then comes Hören (about 20 minutes, paced by the recording – every text is played only once), and finally Schreiben (30 minutes). The oral exam is taken in pairs, on the same day or on another day: 20 minutes of preparation for Teil 2 and 3, about a minute of unscored warm-up, then about 15 minutes of exam. To pass, you need at least 60% in both the written exam (135 of 225 points) and the oral exam (45 of 75 points).",
+      "summaryDe": "Die schriftliche Prüfung dauert 140 Minuten in fester Reihenfolge: Leseverstehen und Sprachbausteine teilen sich einen Block von 90 Minuten, danach kommt das Hörverstehen (etwa 20 Minuten, die Aufnahme gibt das Tempo vor – jeder Text läuft nur einmal) und zum Schluss der Schriftliche Ausdruck (30 Minuten). Die mündliche Prüfung machst du zu zweit, am selben Tag oder an einem anderen Tag: 20 Minuten Vorbereitung für Teil 2 und 3, etwa eine Minute Aufwärmen ohne Bewertung, dann etwa 15 Minuten Prüfung. Zum Bestehen brauchst du in beiden Teilen mindestens 60 %: 135 von 225 Punkten in der schriftlichen und 45 von 75 Punkten in der mündlichen Prüfung.",
+      "whatIsTested": "Not a language skill, but how well you handle the format. Items 1–60 (Lesen, Sprachbausteine, Hören) are scored only from the answer sheet: wrong answers cost nothing, blanks earn nothing. Items are not worth the same: 5 points each in Lesen Teil 1 and 2 and in Hören Teil 1 and 3, 2.5 in Lesen Teil 3 and Hören Teil 2, and 1.5 per Sprachbausteine gap. Schreiben gives up to 45 points, each of the three Sprechen parts up to 25. The final grade comes from all 300 points: from 270 „sehr gut“, from 240 „gut“, from 210 „befriedigend“, from 180 „ausreichend“.",
+      "whatIsTestedDe": "Keine Sprachfertigkeit, sondern wie gut du mit dem Prüfungsformat umgehst. Die Aufgaben 1–60 (Leseverstehen, Sprachbausteine, Hörverstehen) werden nur über den Antwortbogen bewertet: Falsche Antworten kosten nichts, leere Felder bringen nichts. Nicht alle Aufgaben sind gleich viel wert: je 5 Punkte in Lesen Teil 1 und 2 und in Hören Teil 1 und 3, 2,5 in Lesen Teil 3 und Hören Teil 2 und 1,5 pro Lücke in den Sprachbausteinen. Der Schriftliche Ausdruck bringt bis zu 45 Punkte, jeder der drei Teile der mündlichen Prüfung bis zu 25. Die Gesamtnote ergibt sich aus allen 300 Punkten: ab 270 „sehr gut“, ab 240 „gut“, ab 210 „befriedigend“, ab 180 „ausreichend“.",
+      "steps": [
+        {
+          "title": "Set target times for the 90-minute block",
+          "titleDe": "Setz dir Zielzeiten für den 90-Minuten-Block",
+          "detail": "The recommended times – Lesen Teil 1: 15 minutes, Teil 2: 20, Teil 3: 20, Sprachbausteine Teil 1: 15, Teil 2: 20 – add up to exactly 90, so there is no buffer. Plan one minute less for each part and write your target end times on the booklet. If you start at 9:00: Lesen 1 by 9:14, Lesen 2 by 9:33, Lesen 3 by 9:52, Sprachbausteine 1 by 10:06, Sprachbausteine 2 by 10:25 – five minutes left to check.",
+          "detailDe": "Die empfohlenen Zeiten – Lesen Teil 1: 15 Minuten, Teil 2: 20, Teil 3: 20, Sprachbausteine Teil 1: 15, Teil 2: 20 – ergeben genau 90 Minuten, es gibt also keinen Puffer. Plane pro Teil eine Minute weniger ein und notiere deine Zielzeiten auf dem Aufgabenheft. Wenn du um 9:00 Uhr anfängst: Lesen 1 bis 9:14, Lesen 2 bis 9:33, Lesen 3 bis 9:52, Sprachbausteine 1 bis 10:06, Sprachbausteine 2 bis 10:25 Uhr – dann bleiben fünf Minuten zum Kontrollieren."
+        },
+        {
+          "title": "Spend your time where the points are",
+          "titleDe": "Investiere deine Zeit dort, wo die Punkte sind",
+          "detail": "One item in Lesen Teil 1 or 2 is worth 5 points – more than three Sprachbausteine gaps together (3 × 1.5 = 4.5). If a gap or a Lesen Teil 3 situation (2.5 points) takes longer than a minute, mark your best guess, circle the number in the booklet and come back to it at the end.",
+          "detailDe": "Eine Aufgabe in Lesen Teil 1 oder 2 bringt 5 Punkte – mehr als drei Lücken in den Sprachbausteinen zusammen (3 × 1,5 = 4,5). Wenn eine Lücke oder eine Situation in Lesen Teil 3 (2,5 Punkte) länger als eine Minute dauert, markiere deine beste Vermutung, kreise die Nummer im Aufgabenheft ein und komm am Ende darauf zurück."
+        },
+        {
+          "title": "Transfer answers after every part",
+          "titleDe": "Übertrag die Antworten nach jedem Teil",
+          "detail": "Copy your answers to the answer sheet as soon as you finish a part – don't count on extra time at the end. Mark the boxes exactly as the supervisor explains, erase changes completely, and check every five items that the number on the sheet matches the booklet.",
+          "detailDe": "Übertrag deine Antworten auf den Antwortbogen, sobald du mit einem Teil fertig bist – rechne nicht mit extra Zeit am Ende. Markiere die Kästchen genau so, wie die Aufsicht es erklärt, radiere Änderungen vollständig aus und prüfe alle fünf Aufgaben, ob die Nummer auf dem Bogen zum Aufgabenheft passt."
+        },
+        {
+          "title": "Get ready to hear everything only once",
+          "titleDe": "Stell dich darauf ein, alles nur einmal zu hören",
+          "detail": "Hören follows the reading block, and at B2 every text is played only once – there is no second chance. Use every second of reading time to underline the key words in the statements, decide while you listen, and never dwell on a statement you missed: guess and follow the recording. Use the short pause after each part to complete the answer sheet.",
+          "detailDe": "Das Hörverstehen folgt auf den Leseblock, und bei B2 läuft jeder Text nur einmal – eine zweite Chance gibt es nicht. Nutze jede Sekunde Lesezeit, um die Schlüsselwörter in den Aussagen zu unterstreichen, entscheide beim Hören und bleib nie an einer verpassten Aussage hängen: Rate und folg der Aufnahme weiter. Nutze die kurze Pause nach jedem Teil, um den Antwortbogen zu vervollständigen."
+        },
+        {
+          "title": "Choose the writing task quickly",
+          "titleDe": "Wähl die Schreibaufgabe schnell",
+          "detail": "Schreiben comes last, when you are already tired. The 30 minutes include choosing between Aufgabe A and B: give yourself two minutes at most, pick the task where you can say something substantial on three points, and don't switch once you have started.",
+          "detailDe": "Der Schriftliche Ausdruck kommt zum Schluss, wenn du schon müde bist. Die 30 Minuten schließen die Wahl zwischen Aufgabe A und B ein: Nimm dir höchstens zwei Minuten, wähl die Aufgabe, zu der du bei drei Punkten wirklich etwas sagen kannst, und wechsle nicht mehr, wenn du einmal angefangen hast."
+        },
+        {
+          "title": "Prepare the oral exam in two stages",
+          "titleDe": "Bereite die mündliche Prüfung in zwei Etappen vor",
+          "detail": "Teil 1 gets no preparation time on the day, so prepare it at home: collect experiences and phrases for typical topics (a trip, a course, a job, a celebration, a decision) and practise telling them freely – without learning a text by heart. In the 20 minutes before the exam you prepare Teil 2 (the article) and Teil 3 (the plan), about ten minutes each, in keywords only. The exam opens with about a minute of unscored small talk („Einander kennenlernen“) – use it to warm up and get used to your partner.",
+          "detailDe": "Für Teil 1 gibt es am Prüfungstag keine Vorbereitungszeit – bereite ihn deshalb zu Hause vor: Sammle Erlebnisse und Redemittel zu typischen Themen (eine Reise, ein Kurs, ein Job, ein Fest, eine Entscheidung) und übe, frei davon zu erzählen, ohne einen Text auswendig zu lernen. In den 20 Minuten vor der Prüfung bereitest du Teil 2 (den Artikel) und Teil 3 (die Planung) vor, je etwa zehn Minuten, nur in Stichwörtern. Die Prüfung beginnt mit etwa einer Minute Small Talk ohne Bewertung („Einander kennenlernen“) – nutz sie, um warm zu werden und dich auf dein Gegenüber einzustellen."
+        }
+      ],
+      "traps": [
+        "Letting Lesen Teil 2 run to 30 minutes – the block has no buffer, so Sprachbausteine Teil 2 then gets done in a rush. Check your target times after every part.",
+        "Writing answers only in the booklet: anything that isn't on the answer sheet scores zero.",
+        "Waiting for the second play you know from B1 – at B2 every text is heard once, so an answer you postpone is an answer you lose.",
+        "Spending five minutes deciding between Aufgabe A and B – that time is missing later when you check your e-mail.",
+        "Counting on the written exam to make up for a weak oral exam: written and oral each need 60% on their own.",
+        "Arriving late or without a valid photo ID – you may not be allowed to take the exam. Dictionaries are not allowed, and phones and smartwatches must be switched off and put away."
+      ],
+      "trapsDe": [
+        "Lesen Teil 2 auf 30 Minuten ausdehnen – der Block hat keinen Puffer, deshalb machst du die Sprachbausteine Teil 2 dann in Eile. Prüfe nach jedem Teil deine Zielzeiten.",
+        "Antworten nur ins Aufgabenheft schreiben: Alles, was nicht auf dem Antwortbogen steht, bringt null Punkte.",
+        "Auf das zweite Hören warten, das du von B1 kennst – bei B2 hörst du jeden Text nur einmal. Eine Antwort, die du verschiebst, ist verloren.",
+        "Fünf Minuten zwischen Aufgabe A und B schwanken – diese Zeit fehlt dir später beim Kontrollieren deiner E-Mail.",
+        "Darauf hoffen, dass die schriftliche Prüfung eine schwache mündliche Prüfung ausgleicht: Schriftlich und mündlich brauchst du jeweils für sich 60 %.",
+        "Zu spät oder ohne gültigen Ausweis mit Foto kommen – dann darfst du die Prüfung vielleicht nicht machen. Wörterbücher sind nicht erlaubt, Handys und Smartwatches müssen ausgeschaltet und weggepackt sein."
+      ],
+      "timeAdvice": "Written exam, 140 minutes: Lesen + Sprachbausteine 90 (target 14 + 19 + 19 + 14 + 19, plus 5 to check), Hören about 20 (paced by the recording: Teil 1 about 6, Teil 2 about 8, Teil 3 about 6), Schreiben 30 (2 to choose, 4 to plan, 19 to write, 5 to check). Oral exam: 20 minutes of preparation (about 10 each for Teil 2 and 3), about a minute of warm-up, then about 15 minutes – about 5 per part.",
+      "timeAdviceDe": "Schriftliche Prüfung, 140 Minuten: Leseverstehen + Sprachbausteine 90 (Ziel: 14 + 19 + 19 + 14 + 19, dazu 5 zum Kontrollieren), Hörverstehen ca. 20 (die Aufnahme gibt das Tempo vor: Teil 1 ca. 6, Teil 2 ca. 8, Teil 3 ca. 6), Schriftlicher Ausdruck 30 (2 zum Wählen, 4 zum Planen, 19 zum Schreiben, 5 zum Kontrollieren). Mündliche Prüfung: 20 Minuten Vorbereitung (je ca. 10 für Teil 2 und 3), etwa eine Minute Aufwärmen, dann ca. 15 Minuten – etwa 5 pro Teil.",
+      "checklist": [
+        "Valid photo ID and exam invitation packed",
+        "Target end times for all five reading and Sprachbausteine parts written on the booklet",
+        "All answers 1–60 on the answer sheet – no blanks",
+        "Item numbers on the sheet checked against the booklet",
+        "Writing task chosen within two minutes",
+        "Sprechen Teil 1 prepared at home; oral notes in keywords only"
+      ],
+      "checklistDe": [
+        "Gültiger Ausweis mit Foto und Einladung zur Prüfung eingepackt",
+        "Zielzeiten für alle fünf Teile von Leseverstehen und Sprachbausteinen auf dem Aufgabenheft notiert",
+        "Alle Antworten 1–60 auf dem Antwortbogen – nichts leer gelassen",
+        "Aufgabennummern auf dem Bogen mit dem Aufgabenheft abgeglichen",
+        "Schreibaufgabe in höchstens zwei Minuten gewählt",
+        "Sprechen Teil 1 zu Hause vorbereitet, Notizen für die mündliche Prüfung nur in Stichwörtern"
+      ]
+    },
+    {
+      "partId": "lesen-1",
+      "title": "Lesen Teil 1: headlines for texts on shared topics",
+      "titleDe": "Lesen Teil 1: Überschriften zu Texten mit gemeinsamen Themen",
+      "summary": "Five press texts of about 150–200 words (items 1–5) and ten headlines (a–j). Each text matches exactly one headline, each headline can be used only once, and five are left over. At B2 the texts come from two topic areas – for example three on work and two on travel – so several headlines look plausible for more than one text. Each correct answer is worth 5 points, 25 in total.",
+      "summaryDe": "Fünf Pressetexte mit je etwa 150–200 Wörtern (Aufgaben 1–5) und zehn Überschriften (a–j). Zu jedem Text passt genau eine Überschrift, jede Überschrift kannst du nur einmal benutzen, und fünf bleiben übrig. Bei B2 stammen die Texte aus zwei Themenbereichen – zum Beispiel drei zum Thema Arbeit und zwei zum Thema Reisen –, deshalb wirken mehrere Überschriften für mehr als einen Text passend. Jede richtige Antwort bringt 5 Punkte, insgesamt 25.",
+      "whatIsTested": "Reading for gist: can you tell what a whole text is about, not just what it mentions? The right headline sums up the main message, often in completely different words. The five leftover headlines fit a detail, a different group of people, a reversed cause and effect or an exaggerated version of a text.",
+      "whatIsTestedDe": "Globalverstehen: Erkennst du, worum es im ganzen Text geht – und nicht nur, was darin vorkommt? Die richtige Überschrift fasst die Hauptaussage zusammen, oft mit ganz anderen Wörtern. Die fünf übrigen Überschriften passen zu einem Detail, zu einer anderen Personengruppe, zu einer vertauschten Ursache und Wirkung oder zu einer übertriebenen Version eines Textes.",
+      "steps": [
+        {
+          "title": "Read the headlines and sort them into the two topics",
+          "titleDe": "Lies die Überschriften und sortiere sie nach den zwei Themen",
+          "detail": "Spend about two minutes on a–j. Put each headline into one of the two topic areas (e.g. A = Arbeit, R = Reisen) and underline its core: who, what, and in which direction – more or less, new or abolished, planned or decided?",
+          "detailDe": "Nimm dir etwa zwei Minuten für a–j. Ordne jede Überschrift einem der beiden Themenbereiche zu (z. B. A = Arbeit, R = Reisen) und unterstreiche ihren Kern: Wer? Was? In welche Richtung – mehr oder weniger, neu oder abgeschafft, geplant oder beschlossen?"
+        },
+        {
+          "title": "Read each text for its main message",
+          "titleDe": "Lies jeden Text und such die Hauptaussage",
+          "detail": "Read the whole text without stopping at unknown words. The core is often in the first two sentences – or after a turn such as „doch“, „allerdings“ or „inzwischen“, when the text first describes the old situation and then the new one.",
+          "detailDe": "Lies den ganzen Text, ohne bei unbekannten Wörtern anzuhalten. Der Kern steht oft in den ersten beiden Sätzen – oder nach einer Wende wie „doch“, „allerdings“ oder „inzwischen“, wenn der Text zuerst die alte und dann die neue Situation beschreibt."
+        },
+        {
+          "title": "Sum it up in your own words",
+          "titleDe": "Fass ihn mit eigenen Worten zusammen",
+          "detail": "Write a short note next to the text, e.g. „Firma testet Viertagewoche – Bilanz gemischt“. Compare this note, not single words, with the headlines of the matching topic area.",
+          "detailDe": "Schreib eine kurze Notiz neben den Text, z. B. „Firma testet Viertagewoche – Bilanz gemischt“. Vergleiche diese Notiz – nicht einzelne Wörter – mit den Überschriften aus dem passenden Themenbereich."
+        },
+        {
+          "title": "Test every element of the headline",
+          "titleDe": "Prüfe jedes Element der Überschrift",
+          "detail": "A headline only fits if all of it is true for the whole text: who acts, what happens, in which direction and on what scale. „Bahn streicht Nachtzüge in ganz Europa“ is wrong if one operator cancels two routes.",
+          "detailDe": "Eine Überschrift passt nur, wenn alles daran für den ganzen Text stimmt: wer handelt, was passiert, in welche Richtung und in welchem Umfang. „Bahn streicht Nachtzüge in ganz Europa“ ist falsch, wenn ein Unternehmen zwei Verbindungen einstellt."
+        },
+        {
+          "title": "Compare competing headlines directly",
+          "titleDe": "Vergleiche konkurrierende Überschriften direkt",
+          "detail": "When two headlines fit the same text, ask which one covers the whole text and which only one paragraph. The other one is either a trap or belongs to a sister text on the same topic – check that text before you decide.",
+          "detailDe": "Wenn zwei Überschriften zum selben Text passen, frag dich: Welche deckt den ganzen Text ab, welche nur einen Absatz? Die andere ist entweder eine Falle oder gehört zu einem anderen Text mit demselben Thema – prüf diesen Text, bevor du dich entscheidest."
+        },
+        {
+          "title": "Clear matches first, then transfer items 1–5",
+          "titleDe": "Klare Fälle zuerst, dann die Antworten 1–5 übertragen",
+          "detail": "Assign the texts you are sure about and cross out those headlines – the choice for the others shrinks. Mark the letters on the answer sheet before you start Teil 2.",
+          "detailDe": "Ordne zuerst die Texte zu, bei denen du sicher bist, und streich diese Überschriften durch – so wird die Auswahl für die anderen kleiner. Markiere die Buchstaben auf dem Antwortbogen, bevor du mit Teil 2 anfängst."
+        }
+      ],
+      "traps": [
+        "The sister text: two texts share a topic, and the headline you chose fits the other one better – compare before you commit.",
+        "A detail instead of the main message: the headline matches one striking sentence (a number, a quote) but not the text as a whole.",
+        "Reversed relation: the text says that higher rents push people out of the city, the headline says that people moving away lower the rents.",
+        "Wrong group or wrong scope: the text is about trainees in one region, the headline about all employees in the country.",
+        "A plan presented as a fact – or a debate as a decision: „Ministerium prüft …“ is not „Ministerium beschließt …“.",
+        "Exaggeration: the text reports a slight increase or first positive results, the headline speaks of a boom or a breakthrough."
+      ],
+      "trapsDe": [
+        "Der Nachbartext: Zwei Texte haben dasselbe Thema, und deine Überschrift passt eigentlich besser zum anderen – vergleiche, bevor du dich festlegst.",
+        "Ein Detail statt der Hauptaussage: Die Überschrift passt zu einem auffälligen Satz (einer Zahl, einem Zitat), aber nicht zum Text als Ganzes.",
+        "Umgekehrter Zusammenhang: Der Text sagt, dass höhere Mieten Menschen aus der Stadt drängen; die Überschrift sagt, dass Menschen, die wegziehen, die Mieten senken.",
+        "Falsche Gruppe oder falscher Umfang: Der Text handelt von Auszubildenden in einer Region, die Überschrift von allen Beschäftigten im ganzen Land.",
+        "Ein Plan als Tatsache – oder eine Debatte als Entscheidung: „Ministerium prüft …“ ist nicht „Ministerium beschließt …“.",
+        "Übertreibung: Der Text berichtet von einem leichten Anstieg oder ersten positiven Ergebnissen, die Überschrift spricht von einem Boom oder einem Durchbruch."
+      ],
+      "timeAdvice": "About 15 minutes: 2 for the headlines, about 2 per text (10 in total) and 2–3 to compare competing headlines and transfer your answers. If you are torn between two headlines for one text, decide by elimination and move on – Teil 2 needs its full 20 minutes.",
+      "timeAdviceDe": "Etwa 15 Minuten: 2 für die Überschriften, etwa 2 pro Text (insgesamt 10) und 2–3, um konkurrierende Überschriften zu vergleichen und die Antworten zu übertragen. Wenn du bei einem Text zwischen zwei Überschriften schwankst, entscheide nach dem Ausschlussprinzip und mach weiter – Teil 2 braucht seine vollen 20 Minuten.",
+      "checklist": [
+        "Headlines sorted into the two topic areas.",
+        "I can sum up each text in one sentence of my own.",
+        "Every element of each chosen headline – who, what, direction, scale – is supported by the whole text.",
+        "No headline is used twice.",
+        "Items 1–5 are on the answer sheet."
+      ],
+      "checklistDe": [
+        "Überschriften den beiden Themenbereichen zugeordnet.",
+        "Ich kann jeden Text in einem eigenen Satz zusammenfassen.",
+        "Jedes Element der gewählten Überschriften – wer, was, Richtung, Umfang – wird vom ganzen Text bestätigt.",
+        "Keine Überschrift ist doppelt benutzt.",
+        "Die Antworten 1–5 stehen auf dem Antwortbogen."
+      ]
+    },
+    {
+      "partId": "lesen-2",
+      "title": "Lesen Teil 2: one dense article, five questions",
+      "titleDe": "Lesen Teil 2: ein dichter Artikel, fünf Aufgaben",
+      "summary": "One demanding article of about 500–600 words – a study, a social trend, a debate or an economic development – and five multiple-choice items (6–10) with three options each. The items follow the order of the text. Each item is worth 5 points – 25 in total, as much as Teil 1.",
+      "summaryDe": "Ein anspruchsvoller Artikel mit etwa 500–600 Wörtern – eine Studie, ein gesellschaftlicher Trend, eine Debatte oder eine wirtschaftliche Entwicklung – und fünf Multiple-Choice-Aufgaben (6–10) mit je drei Lösungen. Die Aufgaben folgen der Reihenfolge des Textes. Jede Aufgabe bringt 5 Punkte – insgesamt 25, genauso viel wie Teil 1.",
+      "whatIsTested": "Reading for detail in a dense text full of Nominalstil: understanding arguments, causes and conditions, and who holds which view. The options never repeat the text word for word – they paraphrase it. The wrong options use words from the text but change the relation, the quantity or the speaker, or turn a claim into its opposite.",
+      "whatIsTestedDe": "Detailverstehen in einem dichten Text mit viel Nominalstil: Du musst Argumente, Ursachen und Bedingungen verstehen und erkennen, wer welche Meinung vertritt. Die Lösungen wiederholen den Text nie wörtlich, sondern umschreiben ihn. Die falschen Lösungen benutzen Wörter aus dem Text, verändern aber den Zusammenhang, die Menge oder die Person – oder sie drehen eine Aussage ins Gegenteil.",
+      "steps": [
+        {
+          "title": "Read the whole article first",
+          "titleDe": "Lies zuerst den ganzen Artikel",
+          "detail": "Spend about five minutes on a first reading without the items. Note in the margin what each paragraph does (study result, example, criticism, outlook) and who speaks: the author, a researcher, a critic, someone affected.",
+          "detailDe": "Nimm dir etwa fünf Minuten für ein erstes Lesen ohne die Aufgaben. Notiere am Rand, was jeder Absatz macht (Studienergebnis, Beispiel, Kritik, Ausblick) und wer spricht: die Autorin oder der Autor, eine Forscherin, ein Kritiker, eine betroffene Person."
+        },
+        {
+          "title": "Turn each stem into a question",
+          "titleDe": "Mach aus jedem Aufgabenanfang eine Frage",
+          "detail": "Read the stem without the options and ask yourself what the text says about it. „Die Forscher führen den Rückgang darauf zurück, …“ means: what is the cause, according to the researchers?",
+          "detailDe": "Lies den Satzanfang ohne die Lösungen und frag dich, was der Text dazu sagt. „Die Forscher führen den Rückgang darauf zurück, …“ bedeutet: Was ist laut den Forschern die Ursache?"
+        },
+        {
+          "title": "Find the passage – the items follow the text",
+          "titleDe": "Such die Stelle – die Aufgaben folgen dem Text",
+          "detail": "Item 6 refers to the beginning, item 10 to the end. Use your margin notes to jump to the right paragraph and read that passage again carefully, including the sentence before and after it.",
+          "detailDe": "Aufgabe 6 bezieht sich auf den Anfang, Aufgabe 10 auf das Ende. Spring mithilfe deiner Randnotizen zum richtigen Absatz und lies diese Stelle noch einmal genau – auch den Satz davor und danach."
+        },
+        {
+          "title": "Decode the paraphrase",
+          "titleDe": "Entschlüssle die Umschreibung",
+          "detail": "Expect the right option to say the same thing in other words: „nahm deutlich ab“ → „ging spürbar zurück“, „die Mehrheit der Befragten“ → „mehr als die Hälfte“. Nouns become verbs and the other way round.",
+          "detailDe": "Rechne damit, dass die richtige Lösung dasselbe mit anderen Worten sagt: „nahm deutlich ab“ → „ging spürbar zurück“, „die Mehrheit der Befragten“ → „mehr als die Hälfte“. Aus Nomen werden Verben und umgekehrt."
+        },
+        {
+          "title": "Prove each option right or wrong",
+          "titleDe": "Beweise jede Lösung – richtig oder falsch",
+          "detail": "Check all three options against the passage. Cross out an option only when you can point to the words that contradict it; the remaining one must be fully supported – not just partly.",
+          "detailDe": "Prüfe alle drei Lösungen an der Textstelle. Streich eine Lösung erst durch, wenn du auf die Wörter zeigen kannst, die ihr widersprechen; die übrige Lösung muss vollständig belegt sein – nicht nur teilweise."
+        },
+        {
+          "title": "Answer from the text, then transfer items 6–10",
+          "titleDe": "Antworte nach dem Text und übertrag die Antworten 6–10",
+          "detail": "What sounds sensible or what you know about the topic doesn't count – only what this article says. Mark your answers on the answer sheet before you start Teil 3.",
+          "detailDe": "Was vernünftig klingt oder was du selbst über das Thema weißt, zählt nicht – nur, was in diesem Artikel steht. Markiere deine Antworten auf dem Antwortbogen, bevor du mit Teil 3 anfängst."
+        }
+      ],
+      "traps": [
+        "Word match: the option repeats a striking word from the text („Pendler“, „Studie“) but puts it in a relation the text doesn't make.",
+        "Wrong speaker: the text quotes a critic, but the option presents the critic's view as the result of the study or as the author's opinion.",
+        "Quantifier shift: „viele Betriebe“ becomes „die meisten“, „bisher kaum“ becomes „nie“, „in Großstädten“ becomes „überall“.",
+        "A negation or concession hidden in a subordinate clause: „nicht etwa, weil die Kosten gestiegen sind, sondern …“ or „Zwar …, doch …“ – the main point comes after the turn.",
+        "Cause and effect reversed, or a correlation presented as a cause: the text says two things happen together, the option says one causes the other.",
+        "Choosing the option that is true in real life or sounds most reasonable, although the article says something different – or nothing at all about it."
+      ],
+      "trapsDe": [
+        "Gleiche Wörter: Die Lösung wiederholt ein auffälliges Wort aus dem Text („Pendler“, „Studie“), stellt es aber in einen Zusammenhang, den der Text nicht herstellt.",
+        "Falsche Person: Der Text zitiert einen Kritiker, aber die Lösung stellt seine Meinung als Ergebnis der Studie oder als Meinung des Autors dar.",
+        "Verschobene Mengenangaben: Aus „viele Betriebe“ wird „die meisten“, aus „bisher kaum“ wird „nie“, aus „in Großstädten“ wird „überall“.",
+        "Eine Verneinung oder Einschränkung im Nebensatz: „nicht etwa, weil die Kosten gestiegen sind, sondern …“ oder „Zwar …, doch …“ – das Entscheidende steht nach der Wende.",
+        "Ursache und Wirkung vertauscht oder ein Zusammenhang als Ursache dargestellt: Der Text sagt, dass zwei Dinge gleichzeitig auftreten; die Lösung behauptet, dass das eine das andere verursacht.",
+        "Die Lösung wählen, die im echten Leben stimmt oder am vernünftigsten klingt, obwohl der Artikel etwas anderes – oder gar nichts dazu – sagt."
+      ],
+      "timeAdvice": "About 20 minutes: 5 for a first reading with margin notes, about 2.5 per item (12–13 in total) and 2 to check and transfer. Don't let one item take five minutes: mark your best choice, put a „?“ in the booklet and come back if time is left.",
+      "timeAdviceDe": "Etwa 20 Minuten: 5 für das erste Lesen mit Randnotizen, etwa 2,5 pro Aufgabe (insgesamt 12–13) und 2 zum Kontrollieren und Übertragen. Lass dich von keiner Aufgabe fünf Minuten aufhalten: Markiere deine beste Wahl, setz ein „?“ ins Aufgabenheft und komm zurück, wenn Zeit bleibt.",
+      "checklist": [
+        "Each paragraph labelled in the margin, speakers marked.",
+        "For each item, I found the passage that proves my answer.",
+        "Both wrong options are ruled out by concrete words in the text.",
+        "I checked who says what – author, study or critic.",
+        "Items 6–10 are on the answer sheet."
+      ],
+      "checklistDe": [
+        "Jeder Absatz am Rand beschriftet, die Sprecher markiert.",
+        "Für jede Aufgabe habe ich die Textstelle gefunden, die meine Antwort belegt.",
+        "Beide falschen Lösungen sind durch konkrete Wörter im Text ausgeschlossen.",
+        "Ich habe geprüft, wer was sagt – Autor, Studie oder Kritiker.",
+        "Die Antworten 6–10 stehen auf dem Antwortbogen."
+      ]
+    },
+    {
+      "partId": "lesen-3",
+      "title": "Lesen Teil 3: twelve info texts, ten situations",
+      "titleDe": "Lesen Teil 3: zwölf Info-Texte, zehn Situationen",
+      "summary": "Ten one-line situations (items 11–20) and twelve info texts (a–l) of about 80–100 words each – course descriptions, services, offers, brochure and website texts, about 1,000 words in all. Find the text that fits each situation. Each text can be used only once; if none fits, mark x. Each item is worth 2.5 points.",
+      "summaryDe": "Zehn Situationen in je einem Satz (Aufgaben 11–20) und zwölf Info-Texte (a–l) mit je etwa 80–100 Wörtern – Kursbeschreibungen, Dienstleistungen, Angebote, Texte aus Broschüren und von Websites, insgesamt etwa 1.000 Wörter. Finde zu jeder Situation den passenden Text. Jeder Text kann nur einmal verwendet werden; wenn keiner passt, markierst du x. Jede Aufgabe bringt 2,5 Punkte.",
+      "whatIsTested": "Scanning a lot of text under time pressure: finding the one or two conditions that decide – who it's for, when, where, at what cost, under which conditions – and noticing when a text that looks perfect fails one of them. Several texts share a sub-topic, and usually one or two situations have no matching text.",
+      "whatIsTestedDe": "Selektives Lesen unter Zeitdruck: Du suchst in viel Text die ein oder zwei Bedingungen, die entscheiden – für wen, wann, wo, zu welchem Preis, unter welchen Voraussetzungen – und erkennst, wenn ein Text, der perfekt aussieht, an einer davon scheitert. Mehrere Texte haben dasselbe Unterthema, und meist gibt es für ein oder zwei Situationen keinen passenden Text.",
+      "steps": [
+        {
+          "title": "Underline the conditions in the situations",
+          "titleDe": "Unterstreiche die Bedingungen in den Situationen",
+          "detail": "The situations are short, so every word counts. „Eine Kollegin möchte sich am Wochenende zur Mediatorin weiterbilden lassen, ohne ihren Job aufzugeben“ contains three conditions: mediation, weekends, alongside her job.",
+          "detailDe": "Die Situationen sind kurz, deshalb zählt jedes Wort. In „Eine Kollegin möchte sich am Wochenende zur Mediatorin weiterbilden lassen, ohne ihren Job aufzugeben“ stecken drei Bedingungen: Mediation, Wochenende, berufsbegleitend."
+        },
+        {
+          "title": "Label the texts by sub-topic",
+          "titleDe": "Beschrifte die Texte nach Unterthema",
+          "detail": "Skim the headings and first lines of a–l and write a keyword next to each (Sprachkurs, Coworking, Stadtführung …). You'll usually find two or three texts on the same sub-topic – those are the ones to compare.",
+          "detailDe": "Überfliege die Überschriften und ersten Zeilen von a–l und schreib ein Stichwort daneben (Sprachkurs, Coworking, Stadtführung …). Meist findest du zwei oder drei Texte zum selben Unterthema – genau diese musst du vergleichen."
+        },
+        {
+          "title": "Scan for the condition, don't read everything",
+          "titleDe": "Such gezielt nach der Bedingung, lies nicht alles",
+          "detail": "For each situation, look only at the texts on the matching sub-topic and search them for the decisive details: dates, prices, target groups, requirements, „nur“, „ausschließlich“, „ab“, „bis“.",
+          "detailDe": "Schau dir zu jeder Situation nur die Texte mit passendem Unterthema an und durchsuche sie nach den entscheidenden Details: Termine, Preise, Zielgruppen, Voraussetzungen, „nur“, „ausschließlich“, „ab“, „bis“."
+        },
+        {
+          "title": "Every condition must be met",
+          "titleDe": "Jede Bedingung muss erfüllt sein",
+          "detail": "A text fits only if it meets all conditions of the situation. If the topic is right but the course runs only on weekdays, or requires knowledge the person doesn't have, it's the near miss – not the answer.",
+          "detailDe": "Ein Text passt nur, wenn er alle Bedingungen der Situation erfüllt. Wenn das Thema stimmt, der Kurs aber nur werktags läuft oder Vorkenntnisse verlangt, die die Person nicht hat, ist das der Beinahe-Treffer – nicht die Lösung."
+        },
+        {
+          "title": "Use x on purpose",
+          "titleDe": "Setz x bewusst ein",
+          "detail": "If every text on the sub-topic fails a condition, mark x. x can be the answer more than once, but don't choose it just because a situation is hard – first check whether a text with a different-looking topic covers it.",
+          "detailDe": "Wenn jeder Text zum Unterthema an einer Bedingung scheitert, markiere x. x kann mehrmals die Lösung sein, aber wähl es nicht nur, weil eine Situation schwierig ist – prüf zuerst, ob ein Text mit scheinbar anderem Thema sie abdeckt."
+        },
+        {
+          "title": "Clear matches first, then transfer items 11–20",
+          "titleDe": "Klare Fälle zuerst, dann die Antworten 11–20 übertragen",
+          "detail": "Assign the obvious pairs first and cross out those texts – each text you use makes the rest easier. Then fill in the letters (or x) on the answer sheet.",
+          "detailDe": "Ordne zuerst die eindeutigen Paare zu und streich diese Texte durch – jeder benutzte Text macht den Rest leichter. Trag dann die Buchstaben (oder x) auf dem Antwortbogen ein."
+        }
+      ],
+      "traps": [
+        "Topic match, condition mismatch: the text offers exactly the right course – but only for companies, only in the evenings or only in person, and the situation needs something else.",
+        "Paraphrased conditions: the situation says „ohne Vorkenntnisse“, the text says „für Einsteigerinnen und Einsteiger“ – or the text asks for „Grundkenntnisse“, which rules it out.",
+        "The decisive detail at the end: an exception, a deadline or a restriction in the last sentence or the small print („Anmeldung bis …“, „gilt nicht für …“).",
+        "Using the same text twice – if two situations seem to fit one text, one of them needs another text or x.",
+        "Never marking x and forcing a text that fails one condition – or marking x too quickly without checking all texts on the sub-topic.",
+        "Reading all twelve texts in full for every situation – about 1,000 words, ten times over, doesn't fit into 20 minutes."
+      ],
+      "trapsDe": [
+        "Thema passt, Bedingung nicht: Der Text bietet genau den richtigen Kurs an – aber nur für Firmen, nur abends oder nur vor Ort, und die Situation verlangt etwas anderes.",
+        "Umschriebene Bedingungen: In der Situation steht „ohne Vorkenntnisse“, im Text „für Einsteigerinnen und Einsteiger“ – oder der Text verlangt „Grundkenntnisse“, und damit fällt er weg.",
+        "Das entscheidende Detail am Ende: eine Ausnahme, eine Frist oder eine Einschränkung im letzten Satz oder im Kleingedruckten („Anmeldung bis …“, „gilt nicht für …“).",
+        "Denselben Text zweimal verwenden – wenn zwei Situationen zu einem Text zu passen scheinen, braucht eine davon einen anderen Text oder x.",
+        "Nie x markieren und einen Text erzwingen, der an einer Bedingung scheitert – oder zu schnell x markieren, ohne alle Texte zum Unterthema zu prüfen.",
+        "Für jede Situation alle zwölf Texte vollständig lesen – zehnmal etwa 1.000 Wörter passen nicht in 20 Minuten."
+      ],
+      "timeAdvice": "About 20 minutes: 2 to underline the conditions, 2 to label the texts, about 1.5 per situation (15 in total) and 1 to transfer. Each item is worth only 2.5 points – if one situation blocks you, guess, mark it and move on.",
+      "timeAdviceDe": "Etwa 20 Minuten: 2 zum Unterstreichen der Bedingungen, 2 zum Beschriften der Texte, etwa 1,5 pro Situation (insgesamt 15) und 1 zum Übertragen. Jede Aufgabe bringt nur 2,5 Punkte – wenn dich eine Situation blockiert, rate, markiere sie und mach weiter.",
+      "checklist": [
+        "Conditions underlined in all ten situations.",
+        "Each chosen text meets every condition of its situation.",
+        "No text is used twice.",
+        "x only where every text on the sub-topic fails a condition.",
+        "Items 11–20 are on the answer sheet."
+      ],
+      "checklistDe": [
+        "Bedingungen in allen zehn Situationen unterstrichen.",
+        "Jeder gewählte Text erfüllt alle Bedingungen seiner Situation.",
+        "Kein Text ist doppelt verwendet.",
+        "x nur dort, wo jeder Text zum Unterthema an einer Bedingung scheitert.",
+        "Die Antworten 11–20 stehen auf dem Antwortbogen."
+      ]
+    },
+    {
+      "partId": "sprachbausteine-1",
+      "title": "Sprachbausteine Teil 1: grammar in a letter",
+      "titleDe": "Sprachbausteine Teil 1: Grammatik in einem Brief",
+      "summary": "A personal or semi-formal letter or e-mail of about 250 words with ten gaps (items 21–30). For each gap you choose a, b or c. Most gaps test grammar, two or three test word choice. Each gap is worth 1.5 points – 15 in total.",
+      "summaryDe": "Ein persönlicher oder halbformeller Brief bzw. eine E-Mail mit etwa 250 Wörtern und zehn Lücken (Aufgaben 21–30). Für jede Lücke wählst du a, b oder c. Die meisten Lücken prüfen Grammatik, zwei oder drei die Wortwahl. Jede Lücke bringt 1,5 Punkte – insgesamt 15.",
+      "whatIsTested": "B2 grammar in context: connectors and two-part connectors (sodass, indem, sofern, es sei denn, anstatt, zwar … aber, je … desto), relative pronouns including dessen/deren and wo-forms, prepositional adverbs (darauf, worauf), verbs with fixed prepositions, passive and Konjunktiv II forms, participles, pronouns and „es“ – plus a few gaps where three similar words compete in meaning.",
+      "whatIsTestedDe": "B2-Grammatik im Zusammenhang: Konnektoren und zweiteilige Konnektoren (sodass, indem, sofern, es sei denn, anstatt, zwar … aber, je … desto), Relativpronomen einschließlich dessen/deren und wo-Formen, Präpositionaladverbien (darauf, worauf), Verben mit festen Präpositionen, Passiv- und Konjunktiv-II-Formen, Partizipien, Pronomen und „es“ – dazu einige Lücken, bei denen drei ähnliche Wörter mit ihrer Bedeutung konkurrieren.",
+      "steps": [
+        {
+          "title": "Read the whole letter first",
+          "titleDe": "Lies zuerst den ganzen Brief",
+          "detail": "One minute for content and register: who writes to whom, with du or Sie, and why? Many gaps depend on what was said two sentences earlier – e.g. which noun a pronoun refers to.",
+          "detailDe": "Eine Minute für Inhalt und Register: Wer schreibt wem, mit du oder Sie, und warum? Viele Lücken hängen davon ab, was zwei Sätze vorher steht – z. B. auf welches Nomen sich ein Pronomen bezieht."
+        },
+        {
+          "title": "Look at both sides of the gap",
+          "titleDe": "Schau auf beide Seiten der Lücke",
+          "detail": "Read to the end of the sentence. Where is the verb? Verb at the end → you need a subordinating conjunction or a relative pronoun; verb right after the gap → an adverb like „deshalb“ or „trotzdem“; a fixed partner elsewhere in the sentence („zwar“ … „aber“, „je“ … „desto“) decides the missing half.",
+          "detailDe": "Lies bis zum Satzende. Wo steht das Verb? Verb am Ende → du brauchst eine Subjunktion oder ein Relativpronomen; Verb direkt nach der Lücke → ein Adverb wie „deshalb“ oder „trotzdem“; ein fester Partner an anderer Stelle im Satz („zwar“ … „aber“, „je“ … „desto“) entscheidet über die fehlende Hälfte."
+        },
+        {
+          "title": "Find what governs the gap",
+          "titleDe": "Finde, was die Lücke bestimmt",
+          "detail": "Relative pronouns take gender and number from the noun before them and case from their own clause („die Kollegin, deren Vorschlag …“). After a verb with a fixed preposition, the gap is often the matching prepositional adverb: „Ich freue mich darauf, dass …“, „…, worauf ich mich freue“.",
+          "detailDe": "Relativpronomen bekommen Genus und Numerus vom Nomen davor, den Kasus aus ihrem eigenen Satz („die Kollegin, deren Vorschlag …“). Nach einem Verb mit fester Präposition ist die Lücke oft das passende Präpositionaladverb: „Ich freue mich darauf, dass …“, „…, worauf ich mich freue“."
+        },
+        {
+          "title": "Test each option in the sentence",
+          "titleDe": "Teste jede Lösung im Satz",
+          "detail": "Read the sentence with a, b and c. Often two options are grammatically possible but differ in meaning („obwohl“ or „weil“, „sofern“ or „sodass“) – choose the one that fits the logic of the letter.",
+          "detailDe": "Lies den Satz mit a, b und c. Oft sind zwei Lösungen grammatisch möglich, unterscheiden sich aber in der Bedeutung („obwohl“ oder „weil“, „sofern“ oder „sodass“) – wähl die, die zur Logik des Briefes passt."
+        },
+        {
+          "title": "Decide the word-choice gaps by collocation",
+          "titleDe": "Entscheide die Wortschatz-Lücken nach Kollokation",
+          "detail": "For the lexical gaps (e.g. „eigentlich / überhaupt / außerdem“ or „treffen / fassen / nehmen“) ask which word typically goes with its neighbours: „eine Entscheidung treffen“, „einen Entschluss fassen“, „Rücksicht nehmen“.",
+          "detailDe": "Bei den Wortschatz-Lücken (z. B. „eigentlich / überhaupt / außerdem“ oder „treffen / fassen / nehmen“) frag dich, welches Wort typischerweise zu seinen Nachbarn passt: „eine Entscheidung treffen“, „einen Entschluss fassen“, „Rücksicht nehmen“."
+        },
+        {
+          "title": "Read it through and transfer items 21–30",
+          "titleDe": "Lies alles durch und übertrag die Antworten 21–30",
+          "detail": "Read the whole letter again with your answers – a wrong connector often only shows in the flow of the text. Then mark the answer sheet.",
+          "detailDe": "Lies den ganzen Brief noch einmal mit deinen Antworten – ein falscher Konnektor fällt oft erst im Lesefluss auf. Markiere dann den Antwortbogen."
+        }
+      ],
+      "traps": [
+        "Overlooking the partner of a two-part connector: if „als auch“ comes later in the sentence, the gap needs „sowohl“; „zwar“ is followed by „aber“ or „doch“, „je“ by „desto“ – always read the whole sentence.",
+        "A relative pronoun in the wrong case: „der Kollege, dem ich geholfen habe“ (helfen + Dativ), not „den“; „das Projekt, dessen Leitung …“, not „das“.",
+        "Mixing up similar connectors: „sodass“ (result) and „damit“ (purpose), „indem“ (how) and „während“ (time or contrast), „falls“ (condition) and „ob“ (indirect question).",
+        "The wrong prepositional adverb: „sich erinnern an“ → „daran“, „sich kümmern um“ → „darum“, „Angst haben vor“ → „davor“ – the preposition of the verb decides.",
+        "Konjunktiv II and passive forms that look alike: „hätte … gemacht werden müssen“, „wäre … gewesen“, „wurde“ or „würde“ – check tense and meaning, not only the auxiliary.",
+        "Deciding a gap from its own sentence when the letter decides it: a pronoun or article may refer to a noun in the previous sentence."
+      ],
+      "trapsDe": [
+        "Den Partner eines zweiteiligen Konnektors übersehen: Wenn später im Satz „als auch“ steht, braucht die Lücke „sowohl“; nach „zwar“ kommt „aber“ oder „doch“, nach „je“ kommt „desto“ – lies immer den ganzen Satz.",
+        "Ein Relativpronomen im falschen Kasus: „der Kollege, dem ich geholfen habe“ (helfen + Dativ), nicht „den“; „das Projekt, dessen Leitung …“, nicht „das“.",
+        "Ähnliche Konnektoren verwechseln: „sodass“ (Folge) und „damit“ (Zweck), „indem“ (Art und Weise) und „während“ (Zeit oder Gegensatz), „falls“ (Bedingung) und „ob“ (indirekte Frage).",
+        "Das falsche Präpositionaladverb: „sich erinnern an“ → „daran“, „sich kümmern um“ → „darum“, „Angst haben vor“ → „davor“ – die Präposition des Verbs entscheidet.",
+        "Konjunktiv-II- und Passivformen, die sich ähneln: „hätte … gemacht werden müssen“, „wäre … gewesen“, „wurde“ oder „würde“ – prüf Zeit und Bedeutung, nicht nur das Hilfsverb.",
+        "Eine Lücke nur nach ihrem eigenen Satz entscheiden, obwohl der Brief sie bestimmt: Ein Pronomen oder Artikel kann sich auf ein Nomen im Satz davor beziehen."
+      ],
+      "timeAdvice": "About 15 minutes: 1 to read the letter, about 1 per gap (10 in total) and 2–3 to read it through and transfer your answers. Each gap is worth only 1.5 points – if one takes longer than a minute, guess and come back later.",
+      "timeAdviceDe": "Etwa 15 Minuten: 1 zum Lesen des Briefes, etwa 1 pro Lücke (insgesamt 10) und 2–3 zum Durchlesen und Übertragen. Jede Lücke bringt nur 1,5 Punkte – wenn eine länger als eine Minute dauert, rate und komm später darauf zurück.",
+      "checklist": [
+        "I know who writes to whom and in which register.",
+        "Verb position checked for every connector gap.",
+        "Gender, number and case of the relative pronouns checked.",
+        "The letter reads logically with all ten answers.",
+        "Items 21–30 are on the answer sheet."
+      ],
+      "checklistDe": [
+        "Ich weiß, wer wem schreibt und in welchem Register.",
+        "Die Verbstellung bei jeder Konnektor-Lücke geprüft.",
+        "Genus, Numerus und Kasus der Relativpronomen geprüft.",
+        "Der Brief ergibt mit allen zehn Antworten einen logischen Sinn.",
+        "Die Antworten 21–30 stehen auf dem Antwortbogen."
+      ]
+    },
+    {
+      "partId": "sprachbausteine-2",
+      "title": "Sprachbausteine Teil 2: the article with a word box",
+      "titleDe": "Sprachbausteine Teil 2: der Zeitungsartikel mit Wortkasten",
+      "summary": "A newspaper or magazine article of about 300 words with ten gaps (items 31–40) and a box of fifteen words (a–o). Each word fits only once, and five are left over. Each gap is worth 1.5 points – 15 in total.",
+      "summaryDe": "Ein Zeitungs- oder Zeitschriftenartikel mit etwa 300 Wörtern, zehn Lücken (Aufgaben 31–40) und einem Kasten mit fünfzehn Wörtern (a–o). Jedes Wort passt nur einmal, fünf bleiben übrig. Jede Lücke bringt 1,5 Punkte – insgesamt 15.",
+      "whatIsTested": "Vocabulary in the style of the press: fixed prepositions (abhängig von, im Vergleich zu, sich beschäftigen mit), collocations and Nomen-Verb-Verbindungen (Maßnahmen ergreifen, zur Verfügung stellen, in Kraft treten), connectors and adverbs (dennoch, während, zudem) and words that only fit by meaning. The five leftover words are chosen so that they look possible in at least one gap.",
+      "whatIsTestedDe": "Wortschatz im Pressestil: feste Präpositionen (abhängig von, im Vergleich zu, sich beschäftigen mit), Kollokationen und Nomen-Verb-Verbindungen (Maßnahmen ergreifen, zur Verfügung stellen, in Kraft treten), Konnektoren und Adverbien (dennoch, während, zudem) und Wörter, die nur von der Bedeutung her passen. Die fünf übrigen Wörter sind so gewählt, dass sie in mindestens einer Lücke möglich aussehen.",
+      "steps": [
+        {
+          "title": "Sort the word box",
+          "titleDe": "Sortiere den Wortkasten",
+          "detail": "Group the fifteen words: prepositions, connectors, adverbs, verbs, nouns, adjectives. Note fixed partners you already know – „Verfügung“ needs „zur … stellen“, „hinsichtlich“ takes the genitive.",
+          "detailDe": "Teile die fünfzehn Wörter in Gruppen ein: Präpositionen, Konnektoren, Adverbien, Verben, Nomen, Adjektive. Notiere feste Partner, die du schon kennst – „Verfügung“ verlangt „zur … stellen“, „hinsichtlich“ verlangt den Genitiv."
+        },
+        {
+          "title": "Read the article and follow its argument",
+          "titleDe": "Lies den Artikel und folge der Argumentation",
+          "detail": "Headline and first paragraph give you the topic; then follow the logic: problem, causes, measures, criticism, outlook. Connector gaps depend on this logic – contrast, addition, consequence or time.",
+          "detailDe": "Überschrift und erster Absatz nennen das Thema; dann folgst du der Logik: Problem, Ursachen, Maßnahmen, Kritik, Ausblick. Konnektor-Lücken hängen von dieser Logik ab – Gegensatz, Ergänzung, Folge oder Zeit."
+        },
+        {
+          "title": "Decide what kind of word each gap needs",
+          "titleDe": "Entscheide, welche Wortart jede Lücke braucht",
+          "detail": "Look at the neighbours: article or adjective before → noun; verb with a fixed preposition → that preposition; verb at the end of the clause → subordinating conjunction; gap at the start of the sentence with the verb right after it → an adverb like „dennoch“ or „zudem“.",
+          "detailDe": "Schau dir die Nachbarwörter an: Artikel oder Adjektiv davor → Nomen; Verb mit fester Präposition → genau diese Präposition; Verb am Satzende → Subjunktion; Lücke am Satzanfang und das Verb direkt danach → ein Adverb wie „dennoch“ oder „zudem“."
+        },
+        {
+          "title": "Fill the fixed expressions first",
+          "titleDe": "Füll zuerst die festen Ausdrücke",
+          "detail": "Collocations and fixed prepositions are the quickest and safest points: „einen Beitrag leisten“, „Kritik üben an“, „im Rahmen“. Cross out each word as soon as you use it.",
+          "detailDe": "Kollokationen und feste Präpositionen sind die schnellsten und sichersten Punkte: „einen Beitrag leisten“, „Kritik üben an“, „im Rahmen“. Streich jedes Wort durch, sobald du es benutzt hast."
+        },
+        {
+          "title": "Check the meaning for the remaining gaps",
+          "titleDe": "Prüf bei den übrigen Lücken die Bedeutung",
+          "detail": "For each open gap, test the remaining words of the right kind. Two connectors may take the same word order but mean the opposite („deshalb“ / „dennoch“) – only the logic of the article decides.",
+          "detailDe": "Teste für jede offene Lücke die restlichen Wörter der passenden Wortart. Zwei Konnektoren können dieselbe Wortstellung haben und doch das Gegenteil bedeuten („deshalb“ / „dennoch“) – nur die Logik des Artikels entscheidet."
+        },
+        {
+          "title": "Read it through and transfer items 31–40",
+          "titleDe": "Lies alles durch und übertrag die Antworten 31–40",
+          "detail": "Read the whole article once more with your answers, then mark the answer sheet. Use any minutes left in the block to check all answers 1–40.",
+          "detailDe": "Lies den ganzen Artikel noch einmal mit deinen Antworten und markiere dann den Antwortbogen. Nutze die restlichen Minuten des Blocks, um alle Antworten 1–40 zu kontrollieren."
+        }
+      ],
+      "traps": [
+        "Using a word twice – each word fits only once.",
+        "Expecting every word to fit: five are distractors, and they are chosen to look possible somewhere.",
+        "A preposition that fits the case but not the verb or noun: „abhängig ___ der Region“ needs „von“, „Interesse ___ dem Projekt“ needs „an“.",
+        "The wrong verb in a Nomen-Verb-Verbindung: „eine Entscheidung treffen“, not „machen“; „in Anspruch nehmen“, not „bringen“.",
+        "A connector that is grammatically fine but logically wrong: „zudem“ adds an argument, „dennoch“ introduces a contrast, „folglich“ a consequence.",
+        "Deciding by the single sentence: in an article, a gap often refers back to a figure or a claim in the previous sentence („Diese Entwicklung …“, „Im Gegensatz dazu …“)."
+      ],
+      "trapsDe": [
+        "Ein Wort zweimal verwenden – jedes Wort passt nur einmal.",
+        "Erwarten, dass jedes Wort passt: Fünf sind Ablenker, und sie sind so gewählt, dass sie irgendwo möglich aussehen.",
+        "Eine Präposition, die zum Kasus passt, aber nicht zum Verb oder Nomen: „abhängig ___ der Region“ braucht „von“, „Interesse ___ dem Projekt“ braucht „an“.",
+        "Das falsche Verb in einer Nomen-Verb-Verbindung: „eine Entscheidung treffen“, nicht „machen“; „in Anspruch nehmen“, nicht „bringen“.",
+        "Ein Konnektor, der grammatisch passt, aber logisch falsch ist: „zudem“ ergänzt ein Argument, „dennoch“ leitet einen Gegensatz ein, „folglich“ eine Folge.",
+        "Nur nach dem einzelnen Satz entscheiden: In einem Artikel bezieht sich eine Lücke oft auf eine Zahl oder Aussage im Satz davor („Diese Entwicklung …“, „Im Gegensatz dazu …“)."
+      ],
+      "timeAdvice": "About 20 minutes – aim for 18: 2 to sort the words, 3 to read the article, about 1 per gap (10 in total) and 3 to read through and transfer. Keep the last minutes of the 90-minute block to check the whole answer sheet.",
+      "timeAdviceDe": "Etwa 20 Minuten – besser 18: 2 zum Sortieren der Wörter, 3 zum Lesen des Artikels, etwa 1 pro Lücke (insgesamt 10) und 3 zum Durchlesen und Übertragen. Heb dir die letzten Minuten des 90-Minuten-Blocks auf, um den ganzen Antwortbogen zu kontrollieren.",
+      "checklist": [
+        "Words sorted by part of speech before filling the gaps.",
+        "Each word used at most once; five left over.",
+        "Fixed prepositions and Nomen-Verb-Verbindungen checked.",
+        "The article makes sense with my answers – especially the connectors.",
+        "Items 31–40 are on the answer sheet."
+      ],
+      "checklistDe": [
+        "Wörter vor dem Ausfüllen nach Wortart sortiert.",
+        "Jedes Wort höchstens einmal benutzt, fünf bleiben übrig.",
+        "Feste Präpositionen und Nomen-Verb-Verbindungen geprüft.",
+        "Der Artikel ergibt mit meinen Antworten Sinn – besonders die Konnektoren.",
+        "Die Antworten 31–40 stehen auf dem Antwortbogen."
+      ]
+    },
+    {
+      "partId": "hoeren-1",
+      "title": "Hören Teil 1: the news bulletin – heard once",
+      "titleDe": "Hören Teil 1: die Nachrichtensendung – nur einmal gehört",
+      "summary": "A radio news bulletin with six short reports – politics, economy, society, science, culture, sport, weather. There are only five statements (items 41–45): one report has no statement. You have 30 seconds to read the statements, then you hear the bulletin once and decide richtig or falsch while you listen. Each item is worth 5 points – among the most valuable items in the exam.",
+      "summaryDe": "Eine Nachrichtensendung im Radio mit sechs kurzen Meldungen – Politik, Wirtschaft, Gesellschaft, Wissenschaft, Kultur, Sport, Wetter. Es gibt aber nur fünf Aussagen (Aufgaben 41–45): Zu einer Meldung gibt es keine Aussage. Du hast 30 Sekunden Zeit, die Aussagen zu lesen, dann hörst du die Sendung einmal und entscheidest beim Hören: richtig oder falsch. Jede Aufgabe bringt 5 Punkte – sie gehören zu den wertvollsten Aufgaben der Prüfung.",
+      "whatIsTested": "Listening for gist in news register: recognising which report a statement belongs to and grasping its core – who decided what, what changed, what the result was. False statements contradict the report: the wrong actor, the wrong cause, a reversed trend, or a plan presented as a decision. „Falsch“ never just means that something wasn't mentioned.",
+      "whatIsTestedDe": "Globalverstehen im Nachrichtenstil: Du erkennst, zu welcher Meldung eine Aussage gehört, und verstehst ihren Kern – wer hat was entschieden, was hat sich geändert, was war das Ergebnis? Falsche Aussagen widersprechen der Meldung: die falsche Person oder Institution, die falsche Ursache, eine umgekehrte Entwicklung oder ein Plan, der als Entscheidung dargestellt wird. „Falsch“ heißt nie nur, dass etwas nicht erwähnt wurde.",
+      "steps": [
+        {
+          "title": "Use the 30 seconds for topic words",
+          "titleDe": "Nutze die 30 Sekunden für Themenwörter",
+          "detail": "Thirty seconds for five statements is six seconds each. Underline one topic word per statement (Mietpreise, Hochwasser, Museum …) so you recognise the right report – and one core word: the actor, the verb or the direction (steigt / sinkt, beschlossen / geplant).",
+          "detailDe": "Dreißig Sekunden für fünf Aussagen sind sechs Sekunden pro Aussage. Unterstreiche pro Aussage ein Themenwort (Mietpreise, Hochwasser, Museum …), damit du die richtige Meldung erkennst – und ein Kernwort: wer handelt, das Verb oder die Richtung (steigt / sinkt, beschlossen / geplant)."
+        },
+        {
+          "title": "Match reports to statements",
+          "titleDe": "Ordne Meldungen und Aussagen einander zu",
+          "detail": "The statements follow the order of the bulletin, but there are six reports for five statements. After each report, ask: was this the topic of the current statement? If not, it may be the extra report – keep your pencil on the statement and wait for the next report.",
+          "detailDe": "Die Aussagen folgen der Reihenfolge der Sendung, aber es gibt sechs Meldungen für fünf Aussagen. Frag dich nach jeder Meldung: War das das Thema der aktuellen Aussage? Wenn nicht, ist es vielleicht die zusätzliche Meldung – bleib mit dem Stift bei der Aussage und warte auf die nächste Meldung."
+        },
+        {
+          "title": "Listen for the core, not every detail",
+          "titleDe": "Achte auf den Kern, nicht auf jedes Detail",
+          "detail": "News reports put the core first: place, actor, what happened. Background, quotes and numbers follow – but a „jedoch“ or „allerdings“ later on can still change the picture. The statement usually tests the core, not a side detail.",
+          "detailDe": "Nachrichten nennen das Wichtigste zuerst: Ort, wer handelt, was passiert ist. Danach folgen Hintergrund, Zitate und Zahlen – aber ein „jedoch“ oder „allerdings“ weiter hinten kann das Bild noch verändern. Die Aussage prüft meistens den Kern, kein Nebendetail."
+        },
+        {
+          "title": "Decide while the bulletin is running",
+          "titleDe": "Entscheide, solange die Sendung läuft",
+          "detail": "There is no second play. Mark richtig or falsch as soon as the report is over, then switch your attention to the next statement. If you're unsure, go with your first impression – thinking it over costs you the next report.",
+          "detailDe": "Es gibt kein zweites Hören. Markiere richtig oder falsch, sobald die Meldung vorbei ist, und richte deine Aufmerksamkeit dann auf die nächste Aussage. Wenn du unsicher bist, nimm deinen ersten Eindruck – langes Nachdenken kostet dich die nächste Meldung."
+        },
+        {
+          "title": "Falsch means a contradiction",
+          "titleDe": "Falsch heißt: Widerspruch",
+          "detail": "A statement is falsch because the report says something different – another actor, the opposite trend, a different reason. If you think nothing was said about it, you probably missed the passage: choose what fits what you did understand of the report.",
+          "detailDe": "Eine Aussage ist falsch, weil die Meldung etwas anderes sagt – eine andere Person, die umgekehrte Entwicklung, einen anderen Grund. Wenn du meinst, dass dazu nichts gesagt wurde, hast du die Stelle wahrscheinlich verpasst: Wähl, was zu dem passt, was du von der Meldung verstanden hast."
+        },
+        {
+          "title": "Complete items 41–45 right away",
+          "titleDe": "Trag die Antworten 41–45 sofort ein",
+          "detail": "Use the short pause after the bulletin to make sure all five answers are on the answer sheet – Teil 2 starts straight away with its own reading time.",
+          "detailDe": "Nutze die kurze Pause nach der Sendung, damit alle fünf Antworten auf dem Antwortbogen stehen – Teil 2 beginnt gleich danach mit seiner eigenen Lesezeit."
+        }
+      ],
+      "traps": [
+        "The extra report: assigning a statement to the report that has none – and then being one report out of step for the rest of the bulletin.",
+        "Wrong actor: the report says the city council decided, the statement says the federal government – or a union demands what the statement says a company has already agreed to.",
+        "Plan vs. decision: „Die Regierung will …“, „soll ab Herbst …“ or „wird geprüft“ is not „hat beschlossen“.",
+        "Reversed trend or wrong number: „um drei Prozent gesunken“ is not „auf drei Prozent“; fewer visitors than last year is not fewer than expected.",
+        "Wrong cause: the report names one reason („wegen des Personalmangels“), the statement gives another one that was only mentioned in passing.",
+        "Reacting to the first sentence only: the report starts with a project („Die Stadt wollte …“) and ends with the actual result („… hat der Rat jedoch abgelehnt“)."
+      ],
+      "trapsDe": [
+        "Die zusätzliche Meldung: Eine Aussage der Meldung zuordnen, zu der es gar keine Aussage gibt – und danach für den Rest der Sendung eine Meldung verrutscht sein.",
+        "Falsche Person oder Institution: Laut Meldung hat der Stadtrat entschieden, laut Aussage die Bundesregierung – oder eine Gewerkschaft fordert, was laut Aussage eine Firma schon zugesagt hat.",
+        "Plan oder Entscheidung: „Die Regierung will …“, „soll ab Herbst …“ oder „wird geprüft“ ist nicht „hat beschlossen“.",
+        "Umgekehrte Entwicklung oder falsche Zahl: „um drei Prozent gesunken“ ist nicht „auf drei Prozent“; weniger Besucher als im Vorjahr ist nicht weniger als erwartet.",
+        "Falsche Ursache: Die Meldung nennt einen Grund („wegen des Personalmangels“), die Aussage einen anderen, der nur nebenbei erwähnt wurde.",
+        "Nur auf den ersten Satz reagieren: Die Meldung beginnt mit einem Vorhaben („Die Stadt wollte …“) und endet mit dem eigentlichen Ergebnis („… hat der Rat jedoch abgelehnt“)."
+      ],
+      "timeAdvice": "About 6 minutes: 30 seconds of reading, about 4 minutes of bulletin (six reports of 30–45 seconds each) and a short pause to complete the answer sheet.",
+      "timeAdviceDe": "Etwa 6 Minuten: 30 Sekunden Lesezeit, etwa 4 Minuten Nachrichtensendung (sechs Meldungen mit je 30–45 Sekunden) und eine kurze Pause, um den Antwortbogen zu vervollständigen.",
+      "checklist": [
+        "One topic word and one core word underlined in each statement.",
+        "I noticed which report had no statement.",
+        "Actor, direction and plan vs. decision checked for each statement.",
+        "No statement left open – a guess is better than a blank.",
+        "Items 41–45 are on the answer sheet."
+      ],
+      "checklistDe": [
+        "In jeder Aussage ein Themenwort und ein Kernwort unterstrichen.",
+        "Ich habe gemerkt, zu welcher Meldung es keine Aussage gibt.",
+        "Bei jeder Aussage geprüft: wer handelt, welche Richtung, Plan oder Entscheidung.",
+        "Keine Aussage offen gelassen – Raten ist besser als ein leeres Feld.",
+        "Die Antworten 41–45 stehen auf dem Antwortbogen."
+      ]
+    },
+    {
+      "partId": "hoeren-2",
+      "title": "Hören Teil 2: the radio interview – heard once",
+      "titleDe": "Hören Teil 2: das Rundfunkinterview – nur einmal gehört",
+      "summary": "A radio interview of six to seven minutes between a presenter and one or two guests. You have 60 seconds to read ten statements (items 46–55), then you hear the interview once and decide richtig or falsch while you listen. The statements follow the order of the interview. Each item is worth 2.5 points.",
+      "summaryDe": "Ein Rundfunkinterview von sechs bis sieben Minuten zwischen einer Moderatorin oder einem Moderator und einem oder zwei Gästen. Du hast 60 Sekunden Zeit, zehn Aussagen (Aufgaben 46–55) zu lesen, dann hörst du das Interview einmal und entscheidest beim Hören: richtig oder falsch. Die Aussagen folgen der Reihenfolge des Interviews. Jede Aufgabe bringt 2,5 Punkte.",
+      "whatIsTested": "Listening for detail in spontaneous speech: the guests talk freely, digress, correct themselves and may have a regional accent. You need to follow opinions, experiences, reasons and plans – telling opinions from facts, and the guest's own view from what others said. The statements paraphrase what is said, and there are long stretches in which nothing is tested.",
+      "whatIsTestedDe": "Detailverstehen bei spontanem Sprechen: Die Gäste reden frei, schweifen ab, korrigieren sich und sprechen vielleicht mit regionaler Färbung. Du musst Meinungen, Erfahrungen, Gründe und Pläne verfolgen – und dabei Meinungen von Tatsachen unterscheiden und erkennen, ob der Gast seine eigene Sicht äußert oder wiedergibt, was andere gesagt haben. Die Aussagen umschreiben das Gesagte, und es gibt lange Abschnitte, zu denen nichts gefragt wird.",
+      "steps": [
+        {
+          "title": "Use the full minute of reading time",
+          "titleDe": "Nutze die ganze Minute Lesezeit",
+          "detail": "Six seconds per statement: underline the topic word you will hear and the word that decides the claim: „früher“ / „heute“, „alle“ / „einige“, „bereut“, „plant“, „hält … für überflüssig“.",
+          "detailDe": "Sechs Sekunden pro Aussage: Unterstreiche das Themenwort, das du hören wirst, und das Wort, das über die Behauptung entscheidet: „früher“ / „heute“, „alle“ / „einige“, „bereut“, „plant“, „hält … für überflüssig“."
+        },
+        {
+          "title": "Read the statements as a story",
+          "titleDe": "Lies die Aussagen als Geschichte",
+          "detail": "Ten statements in order give you a rough outline of the interview: who the guest is, what they did, what went wrong, what they plan. Knowing where the conversation is heading makes it much easier to follow.",
+          "detailDe": "Zehn Aussagen in der richtigen Reihenfolge geben dir einen groben Überblick über das Interview: wer der Gast ist, was er gemacht hat, was schiefging, was er plant. Wenn du weißt, wohin das Gespräch geht, kannst du viel leichter folgen."
+        },
+        {
+          "title": "Use the presenter's questions as signposts",
+          "titleDe": "Nutze die Fragen der Moderation als Wegweiser",
+          "detail": "Each new question usually opens a new topic – and often the next statement. When the presenter asks something new, check that you have decided the current statement and move your pencil on.",
+          "detailDe": "Jede neue Frage eröffnet meist ein neues Thema – und oft die nächste Aussage. Wenn die Moderation etwas Neues fragt, prüf, ob du die aktuelle Aussage entschieden hast, und geh mit dem Stift weiter."
+        },
+        {
+          "title": "Listen through fillers and digressions",
+          "titleDe": "Hör über Füllwörter und Abschweifungen hinweg",
+          "detail": "„Also“, „na ja“, „sag ich mal“, a self-correction or a story on the side – don't let them throw you. Wait for the point the guest finally makes: the corrected version counts, not the first attempt.",
+          "detailDe": "„Also“, „na ja“, „sag ich mal“, eine Selbstkorrektur oder eine Geschichte nebenbei – lass dich davon nicht aus dem Konzept bringen. Warte auf das, worauf der Gast am Ende hinauswill: Es zählt die korrigierte Version, nicht der erste Anlauf."
+        },
+        {
+          "title": "Decide on the spot and move on",
+          "titleDe": "Entscheide sofort und mach weiter",
+          "detail": "There is no second play. Mark each answer as soon as the passage is over. If you missed one, guess immediately and listen for the next statement – getting stuck costs you the next two or three.",
+          "detailDe": "Es gibt kein zweites Hören. Markiere jede Antwort, sobald die Stelle vorbei ist. Wenn du eine verpasst hast, rate sofort und hör auf die nächste Aussage – wer hängen bleibt, verpasst auch die nächsten zwei oder drei."
+        },
+        {
+          "title": "Complete items 46–55",
+          "titleDe": "Vervollständige die Antworten 46–55",
+          "detail": "Use the pause after the interview to check that all ten answers are on the answer sheet. Remember: a false statement contradicts what was said – it is never false just because something wasn't mentioned.",
+          "detailDe": "Nutze die Pause nach dem Interview, um zu prüfen, ob alle zehn Antworten auf dem Antwortbogen stehen. Denk daran: Eine falsche Aussage widerspricht dem Gesagten – sie ist nie falsch, nur weil etwas nicht erwähnt wurde."
+        }
+      ],
+      "traps": [
+        "Opinion vs. fact: the guest says „Ich glaube, dass die meisten …“ – the statement turns it into a proven fact, or the other way round.",
+        "Someone else's view: „Meine Eltern fanden das damals verrückt“ is not the guest's own opinion.",
+        "Self-correction: „Das war 2015 – nein, warte, 2016“ or „eigentlich wollte ich …, aber dann …“ – the statement may use the first version.",
+        "Then vs. now, plan vs. reality: „Am Anfang hatten wir kaum Kunden“ – the statement claims that's still the case; „Wir überlegen, …“ is not „Wir haben beschlossen, …“.",
+        "Concession: „Klar, das war anstrengend, aber ich würde es sofort wieder machen“ – a statement that the guest regrets it is falsch.",
+        "Getting stuck on a missed statement and losing the thread – one guess costs at most 2.5 points, losing the thread costs far more."
+      ],
+      "trapsDe": [
+        "Meinung oder Tatsache: Der Gast sagt „Ich glaube, dass die meisten …“ – die Aussage macht daraus eine bewiesene Tatsache, oder umgekehrt.",
+        "Die Meinung von jemand anderem: „Meine Eltern fanden das damals verrückt“ ist nicht die eigene Meinung des Gastes.",
+        "Selbstkorrektur: „Das war 2015 – nein, warte, 2016“ oder „eigentlich wollte ich …, aber dann …“ – die Aussage nimmt vielleicht die erste Version.",
+        "Damals oder heute, Plan oder Wirklichkeit: „Am Anfang hatten wir kaum Kunden“ – die Aussage behauptet, dass das immer noch so ist; „Wir überlegen, …“ ist nicht „Wir haben beschlossen, …“.",
+        "Einräumung: „Klar, das war anstrengend, aber ich würde es sofort wieder machen“ – eine Aussage, nach der der Gast es bereut, ist falsch.",
+        "An einer verpassten Aussage hängen bleiben und den Faden verlieren – einmal raten kostet höchstens 2,5 Punkte, den Faden zu verlieren viel mehr."
+      ],
+      "timeAdvice": "About 8 minutes: 60 seconds of reading, six to seven minutes of interview and about 30 seconds at the end to complete the answer sheet.",
+      "timeAdviceDe": "Etwa 8 Minuten: 60 Sekunden Lesezeit, sechs bis sieben Minuten Interview und etwa 30 Sekunden am Ende, um den Antwortbogen zu vervollständigen.",
+      "checklist": [
+        "Topic word and deciding word underlined in all ten statements.",
+        "I moved on with every new question from the presenter.",
+        "Opinions, plans and other people's views checked against the statements.",
+        "No statement left open.",
+        "Items 46–55 are on the answer sheet."
+      ],
+      "checklistDe": [
+        "In allen zehn Aussagen Themenwort und entscheidendes Wort unterstrichen.",
+        "Bei jeder neuen Frage der Moderation bin ich weitergegangen.",
+        "Meinungen, Pläne und Ansichten anderer Personen mit den Aussagen abgeglichen.",
+        "Keine Aussage offen gelassen.",
+        "Die Antworten 46–55 stehen auf dem Antwortbogen."
+      ]
+    },
+    {
+      "partId": "hoeren-3",
+      "title": "Hören Teil 3: five announcements – heard once",
+      "titleDe": "Hören Teil 3: fünf Ansagen – nur einmal gehört",
+      "summary": "Five short texts (items 56–60): voicemail and hotline messages, radio tips, traffic and weather reports, announcements at stations, airports, shops or museums. Each text is introduced by a sentence that describes the situation („Sie hören eine Nachricht auf einer Mailbox.“). You read one statement, hear the text once and decide richtig or falsch. Each item is worth 5 points.",
+      "summaryDe": "Fünf kurze Texte (Aufgaben 56–60): Nachrichten auf einer Mailbox oder von einer Hotline, Radiotipps, Verkehrs- und Wetterberichte, Durchsagen am Bahnhof, am Flughafen, im Geschäft oder im Museum. Vor jedem Text steht ein Satz, der die Situation beschreibt („Sie hören eine Nachricht auf einer Mailbox.“). Du liest eine Aussage, hörst den Text einmal und entscheidest: richtig oder falsch. Jede Aufgabe bringt 5 Punkte.",
+      "whatIsTested": "Selective listening: catching the one practical detail the statement asks about – when, where, how, what it costs, who may take part, what you have to do – among several competing details. The texts like to change plans halfway through („nicht wie angekündigt …, sondern …“).",
+      "whatIsTestedDe": "Selektives Hören: Du fängst das eine praktische Detail auf, nach dem die Aussage fragt – wann, wo, wie, was es kostet, wer mitmachen darf, was du tun musst – zwischen mehreren konkurrierenden Details. Die Texte ändern gern mittendrin die Pläne („nicht wie angekündigt …, sondern …“).",
+      "steps": [
+        {
+          "title": "Read the statement and predict",
+          "titleDe": "Lies die Aussage und stell dich darauf ein",
+          "detail": "You have only a few seconds per statement. Find the detail it asks about (a time, a place, a condition) and predict what you'll hear: if the statement says „Der Kurs beginnt am Montag“, listen for days and dates.",
+          "detailDe": "Du hast pro Aussage nur wenige Sekunden. Finde das Detail, nach dem gefragt wird (eine Zeit, einen Ort, eine Bedingung), und überleg, was du hören wirst: Wenn die Aussage lautet „Der Kurs beginnt am Montag“, achte auf Tage und Daten."
+        },
+        {
+          "title": "Use the context sentence",
+          "titleDe": "Nutze den Satz zur Situation",
+          "detail": "The sentence before each text tells you the situation – a mailbox message, a station announcement, a radio tip. It tells you what kind of information to expect and who is speaking to whom.",
+          "detailDe": "Der Satz vor jedem Text nennt dir die Situation – eine Nachricht auf der Mailbox, eine Durchsage am Bahnhof, ein Radiotipp. So weißt du, welche Art von Information kommt und wer zu wem spricht."
+        },
+        {
+          "title": "Wait for the final version",
+          "titleDe": "Warte auf die endgültige Version",
+          "detail": "Announcements often give a detail and then change it: a delay, a new platform, a postponed date, closing earlier than usual for once. The version that is valid at the end decides.",
+          "detailDe": "Ansagen nennen oft ein Detail und ändern es dann: eine Verspätung, ein neues Gleis, ein verschobener Termin, ausnahmsweise früher geschlossen. Es zählt die Version, die am Ende gilt."
+        },
+        {
+          "title": "Decide immediately",
+          "titleDe": "Entscheide sofort",
+          "detail": "Each text is heard only once. Mark the answer straight after the text – after a short pause the next context sentence follows.",
+          "detailDe": "Du hörst jeden Text nur einmal. Markiere die Antwort direkt nach dem Text – nach einer kurzen Pause folgt schon der nächste Satz zur Situation."
+        },
+        {
+          "title": "Falsch means a different detail",
+          "titleDe": "Falsch heißt: ein anderes Detail",
+          "detail": "If the statement says the museum is open until 20 Uhr and you heard 18 Uhr, it's falsch. A statement is never falsch just because its detail wasn't mentioned – so if you heard nothing about it, you probably missed it: guess, using what you did understand.",
+          "detailDe": "Wenn laut Aussage das Museum bis 20 Uhr geöffnet ist und du 18 Uhr gehört hast, ist sie falsch. Eine Aussage ist nie falsch, nur weil ihr Detail nicht erwähnt wurde – wenn du nichts dazu gehört hast, hast du es wahrscheinlich verpasst: Rate und nutze dabei das, was du verstanden hast."
+        },
+        {
+          "title": "Complete items 56–60",
+          "titleDe": "Vervollständige die Antworten 56–60",
+          "detail": "After the last text, check that all five answers are on the answer sheet. The written exam then continues with Schreiben.",
+          "detailDe": "Prüfe nach dem letzten Text, ob alle fünf Antworten auf dem Antwortbogen stehen. Danach geht die schriftliche Prüfung mit dem Schriftlichen Ausdruck weiter."
+        }
+      ],
+      "traps": [
+        "Competing details: two times, two prices, two platforms – „Der Zug nach Linz fährt heute nicht von Gleis 4, sondern von Gleis 7“.",
+        "Conditions and target groups: the offer is free – but only for members, only with registration or only for children under 12.",
+        "What you must do vs. what you can do: „Sie können …“ is an option, „Sie müssen …“ an obligation – the statement may mix them up.",
+        "Wrong place or wrong direction in traffic reports: the jam is on the A8 towards Munich, not in the other direction; the detour goes via a different exit.",
+        "Old vs. new information: the voicemail first repeats the original appointment and only then announces the change.",
+        "Missing the start: the decisive detail can come in the very first sentence after the context sentence – be ready before the text begins."
+      ],
+      "trapsDe": [
+        "Konkurrierende Details: zwei Uhrzeiten, zwei Preise, zwei Gleise – „Der Zug nach Linz fährt heute nicht von Gleis 4, sondern von Gleis 7“.",
+        "Bedingungen und Zielgruppen: Das Angebot ist kostenlos – aber nur für Mitglieder, nur mit Anmeldung oder nur für Kinder unter 12.",
+        "Was du tun musst oder tun kannst: „Sie können …“ ist eine Möglichkeit, „Sie müssen …“ eine Pflicht – die Aussage verwechselt das vielleicht.",
+        "Falscher Ort oder falsche Richtung im Verkehrsfunk: Der Stau ist auf der A8 in Richtung München, nicht in der Gegenrichtung; die Umleitung führt über eine andere Ausfahrt.",
+        "Alte oder neue Information: Die Nachricht auf der Mailbox wiederholt zuerst den ursprünglichen Termin und nennt erst dann die Änderung.",
+        "Den Anfang verpassen: Das entscheidende Detail kann gleich im ersten Satz nach der Situationsangabe kommen – sei bereit, bevor der Text beginnt."
+      ],
+      "timeAdvice": "About 6 minutes: for each of the five texts a few seconds to read the statement, the context sentence, about 30–45 seconds of text and a short pause to mark your answer.",
+      "timeAdviceDe": "Etwa 6 Minuten: für jeden der fünf Texte ein paar Sekunden zum Lesen der Aussage, der Satz zur Situation, etwa 30–45 Sekunden Text und eine kurze Pause zum Markieren deiner Antwort.",
+      "checklist": [
+        "The detail each statement asks about is underlined.",
+        "I listened to the end of each text for changes.",
+        "Conditions („nur“, „müssen“, „ab“, „bis“) checked.",
+        "No statement left open.",
+        "Items 56–60 are on the answer sheet."
+      ],
+      "checklistDe": [
+        "Das Detail, nach dem jede Aussage fragt, ist unterstrichen.",
+        "Ich habe jeden Text bis zum Ende auf Änderungen hin gehört.",
+        "Bedingungen („nur“, „müssen“, „ab“, „bis“) geprüft.",
+        "Keine Aussage offen gelassen.",
+        "Die Antworten 56–60 stehen auf dem Antwortbogen."
+      ]
+    },
+    {
+      "partId": "schreiben",
+      "title": "Schreiben: the semi-formal e-mail",
+      "titleDe": "Schriftlicher Ausdruck: die halbformelle E-Mail",
+      "summary": "You choose one of two tasks (Aufgabe A or B) and write a semi-formal e-mail of at least 150 words – a request for information, a complaint, an enquiry or an application – in reply to an ad or info text. You deal with three of the four guiding points, or with two plus an aspect of your own. Three criteria are marked A–D (5, 3, 1 or 0 points): task completion, communicative design and accuracy. The sum is multiplied by 3, so the maximum is 45 points.",
+      "summaryDe": "Du wählst eine von zwei Aufgaben (Aufgabe A oder B) und schreibst eine halbformelle E-Mail mit mindestens 150 Wörtern – eine Bitte um Informationen, eine Beschwerde, eine Anfrage oder eine Bewerbung – als Reaktion auf eine Anzeige oder einen Info-Text. Du behandelst drei der vier Leitpunkte oder zwei davon und einen eigenen Aspekt. Drei Kriterien werden mit A–D bewertet (5, 3, 1 oder 0 Punkte): Aufgabenbewältigung, Kommunikative Gestaltung und Formale Richtigkeit. Die Summe wird mit 3 multipliziert, das Maximum sind also 45 Punkte.",
+      "whatIsTested": "I – Aufgabenbewältigung: are three points (or two plus your own aspect) dealt with appropriately at B2 – each developed in more than one sentence, with a differentiated position suited to the reader? Three = A, two = B, one = C. II – Kommunikative Gestaltung: a consistent semi-formal register, a broad range of vocabulary and structures, varied connectors, and the parts of an e-mail – without subject line, salutation and closing formula, no A. III – Formale Richtigkeit: grammar, spelling and punctuation.",
+      "whatIsTestedDe": "I – Aufgabenbewältigung: Sind drei Punkte (oder zwei und ein eigener Aspekt) auf B2-Niveau angemessen behandelt – jeder in mehr als einem Satz ausgeführt, mit einer differenzierten Position, die zur Leserin oder zum Leser passt? Drei = A, zwei = B, einer = C. II – Kommunikative Gestaltung: ein durchgehend halbformelles Register, ein breites Spektrum an Wortschatz und Strukturen, abwechslungsreiche Konnektoren und die Bestandteile einer E-Mail – ohne Betreff, Anrede und Grußformel gibt es kein A. III – Formale Richtigkeit: Grammatik, Rechtschreibung und Zeichensetzung.",
+      "steps": [
+        {
+          "title": "Choose your task in two minutes",
+          "titleDe": "Wähl deine Aufgabe in zwei Minuten",
+          "detail": "Read both situations and their points quickly. Pick the task where you can say something substantial on three points – not the topic you like better. Once you have started, don't switch: the 30 minutes include the choice.",
+          "detailDe": "Lies beide Situationen und ihre Leitpunkte schnell durch. Nimm die Aufgabe, zu der du bei drei Punkten wirklich etwas sagen kannst – nicht das Thema, das dir besser gefällt. Wenn du einmal angefangen hast, wechsle nicht mehr: Die 30 Minuten schließen die Wahl ein."
+        },
+        {
+          "title": "Pick three points and an order (about 4 minutes)",
+          "titleDe": "Wähl drei Punkte und eine Reihenfolge (etwa 4 Minuten)",
+          "detail": "Choose the three points you can develop best – or two plus an own aspect that clearly belongs to the situation. Put them in a logical order (reason for writing → problem or interest → expectation → question) and note two or three keywords for each: a reason, an example, a consequence.",
+          "detailDe": "Nimm die drei Punkte, die du am besten ausführen kannst – oder zwei und einen eigenen Aspekt, der eindeutig zur Situation gehört. Bring sie in eine logische Reihenfolge (Anlass → Problem oder Interesse → Erwartung → Frage) und notiere zu jedem zwei oder drei Stichwörter: einen Grund, ein Beispiel, eine Folge."
+        },
+        {
+          "title": "Build the frame",
+          "titleDe": "Bau den Rahmen",
+          "detail": "Subject line („Ihre Anzeige vom … – Bitte um weitere Informationen“), salutation („Sehr geehrte Damen und Herren,“ or a name if the ad gives one), an introduction with the reason for writing, the three points, a closing sentence and „Mit freundlichen Grüßen“ with your name. Sender, address and date aren't needed.",
+          "detailDe": "Betreff („Ihre Anzeige vom … – Bitte um weitere Informationen“), Anrede („Sehr geehrte Damen und Herren,“ oder ein Name, wenn die Anzeige einen nennt), eine Einleitung mit dem Anlass, die drei Punkte, ein Schlusssatz und „Mit freundlichen Grüßen“ mit deinem Namen. Absender, Adresse und Datum brauchst du nicht."
+        },
+        {
+          "title": "Develop each point in two to four sentences",
+          "titleDe": "Führ jeden Punkt in zwei bis vier Sätzen aus",
+          "detail": "One sentence – even a long one – doesn't count as dealing with a point. Give your position, a reason and an example or consequence: „Besonders interessiert mich …, da … Allerdings geht aus Ihrer Anzeige nicht hervor, ob … Deshalb wäre ich Ihnen dankbar, wenn …“",
+          "detailDe": "Ein Satz – auch ein langer – zählt nicht als Bearbeitung eines Punktes. Nenne deine Position, einen Grund und ein Beispiel oder eine Folge: „Besonders interessiert mich …, da … Allerdings geht aus Ihrer Anzeige nicht hervor, ob … Deshalb wäre ich Ihnen dankbar, wenn …“"
+        },
+        {
+          "title": "Show B2 range",
+          "titleDe": "Zeig dein B2-Spektrum",
+          "detail": "Link the points with varied connectors (zudem, allerdings, daher, zwar … aber, nicht nur … sondern auch), use Konjunktiv II for polite requests („Könnten Sie mir mitteilen, …“), the passive where it is natural („Mir wurde zugesichert, dass …“) and vary your sentence openings. Stay with Sie throughout.",
+          "detailDe": "Verbinde die Punkte mit abwechslungsreichen Konnektoren (zudem, allerdings, daher, zwar … aber, nicht nur … sondern auch), benutze den Konjunktiv II für höfliche Bitten („Könnten Sie mir mitteilen, …“), das Passiv, wo es natürlich ist („Mir wurde zugesichert, dass …“), und variiere deine Satzanfänge. Bleib die ganze Zeit beim Sie."
+        },
+        {
+          "title": "Check in three passes (about 5 minutes)",
+          "titleDe": "Kontrolliere in drei Durchgängen (etwa 5 Minuten)",
+          "detail": "1) Three points ticked off, each with more than one sentence; subject line, salutation and closing formula present. 2) Verb position, endings, cases after prepositions. 3) Sie, Ihnen and Ihr capitalised everywhere, commas before subordinate clauses. Count roughly: at least 150 words.",
+          "detailDe": "1) Drei Punkte abgehakt, jeder mit mehr als einem Satz; Betreff, Anrede und Grußformel vorhanden. 2) Verbstellung, Endungen, Kasus nach Präpositionen. 3) Sie, Ihnen und Ihr überall großgeschrieben, Kommas vor Nebensätzen. Zähl grob nach: mindestens 150 Wörter."
+        }
+      ],
+      "traps": [
+        "One sentence per point: a point covered in a single sentence – even a complex one – doesn't count as dealt with. Three such points can cost you most of criterion I.",
+        "Missing subject line, salutation or closing formula – no A in criterion II, however good the rest is.",
+        "Switching register: starting with „Sehr geehrte Damen und Herren“ and then writing „Kannst du mir sagen …“ or ending with „Liebe Grüße“ – a wrong or mixed register rules out even a B in criterion II.",
+        "Writing to the wrong situation, e.g. an application where a request for information is asked for: criterion I drops to D. An off-topic text gets D in every criterion.",
+        "Playing it safe with B1 language: short main clauses linked only by „und“, „aber“ and „deshalb“. Simplified content or language is marked down at B2, and points that are just listed without links rule out a B in criterion II.",
+        "Copying phrases from the ad or the task – they show nothing of your own German. Refer to the ad, but say it in your own words."
+      ],
+      "trapsDe": [
+        "Ein Satz pro Punkt: Ein Punkt, der nur in einem Satz – auch einem komplexen – vorkommt, gilt nicht als bearbeitet. Drei solche Punkte können dich fast das ganze Kriterium I kosten.",
+        "Betreff, Anrede oder Grußformel fehlen – dann gibt es im Kriterium II kein A, egal wie gut der Rest ist.",
+        "Das Register wechseln: mit „Sehr geehrte Damen und Herren“ anfangen und dann „Kannst du mir sagen …“ schreiben oder mit „Liebe Grüße“ enden – ein falsches oder gemischtes Register schließt im Kriterium II sogar ein B aus.",
+        "Zur falschen Situation schreiben, z. B. eine Bewerbung statt einer Bitte um Informationen: Kriterium I fällt auf D. Ein Text, der das Thema verfehlt, bekommt in allen Kriterien ein D.",
+        "Auf Nummer sicher gehen mit B1-Sprache: kurze Hauptsätze, nur mit „und“, „aber“ und „deshalb“ verbunden. Wer Inhalt oder Sprache vereinfacht, wird bei B2 abgewertet, und Punkte, die nur aufgezählt und nicht verbunden sind, schließen im Kriterium II ein B aus.",
+        "Formulierungen aus der Anzeige oder der Aufgabe abschreiben – sie zeigen nichts von deinem eigenen Deutsch. Bezieh dich auf die Anzeige, aber sag es mit deinen eigenen Worten."
+      ],
+      "timeAdvice": "30 minutes, including the choice: 2 to choose, about 4 to plan, about 19 to write and 5 to check. Aim for about 180–220 words – enough for three developed points plus introduction and closing, without creating extra chances for errors.",
+      "timeAdviceDe": "30 Minuten, die Wahl inklusive: 2 zum Wählen, etwa 4 zum Planen, etwa 19 zum Schreiben und 5 zum Kontrollieren. Plane etwa 180–220 Wörter ein – genug für drei ausgeführte Punkte mit Einleitung und Schluss, ohne dass du dir unnötig viele Fehlerquellen schaffst.",
+      "checklist": [
+        "Task chosen within two minutes – and not changed.",
+        "Subject line, salutation, introduction, closing sentence and „Mit freundlichen Grüßen“ with my name.",
+        "Three points (or two plus an own aspect that fits the situation), each in at least two sentences.",
+        "Sie throughout, with Sie, Ihnen and Ihr capitalised.",
+        "At least five different connectors and one or two polite requests in Konjunktiv II.",
+        "At least 150 words."
+      ],
+      "checklistDe": [
+        "Aufgabe in höchstens zwei Minuten gewählt – und nicht mehr gewechselt.",
+        "Betreff, Anrede, Einleitung, Schlusssatz und „Mit freundlichen Grüßen“ mit meinem Namen.",
+        "Drei Punkte (oder zwei und ein eigener Aspekt, der zur Situation passt), jeder in mindestens zwei Sätzen.",
+        "Durchgehend Sie, und Sie, Ihnen und Ihr großgeschrieben.",
+        "Mindestens fünf verschiedene Konnektoren und ein oder zwei höfliche Bitten im Konjunktiv II.",
+        "Mindestens 150 Wörter."
+      ]
+    },
+    {
+      "partId": "sprechen-1",
+      "title": "Sprechen Teil 1: talking about an experience",
+      "titleDe": "Sprechen Teil 1: über Erfahrungen sprechen",
+      "summary": "After about a minute of unscored warm-up („Einander kennenlernen“), you choose one of seven topics on the sheet – a trip, a course, a job, a celebration, a decision … – and tell your partner about your experience for about 1½ minutes. Then your partner asks you questions – and you ask questions about your partner's talk. There is no preparation time for this part on the day, so you prepare it at home. Worth up to 25 points.",
+      "summaryDe": "Nach etwa einer Minute Aufwärmen ohne Bewertung („Einander kennenlernen“) wählst du eines von sieben Themen auf dem Aufgabenblatt – eine Reise, einen Kurs, einen Job, ein Fest, eine Entscheidung … – und erzählst deinem Gegenüber etwa 1½ Minuten von deiner Erfahrung. Danach stellt dir dein Gegenüber Fragen – und du stellst Fragen zu seinem Beitrag. Am Prüfungstag gibt es für diesen Teil keine Vorbereitungszeit, du bereitest ihn also zu Hause vor. Bis zu 25 Punkte.",
+      "whatIsTested": "Whether you can narrate an experience in a structured, lively way – what happened, how it went, how you see it today – and then hold a real exchange: answering questions spontaneously and asking good follow-up questions. The examiners rate Ausdrucksfähigkeit, Aufgabenbewältigung (taking part, conversation strategies, fluency), Formale Richtigkeit and Aussprache und Intonation; the first three give up to 7 points each, pronunciation up to 4.",
+      "whatIsTestedDe": "Ob du eine Erfahrung strukturiert und lebendig erzählen kannst – was passiert ist, wie es lief, wie du es heute siehst – und danach ein echtes Gespräch führst: spontan auf Fragen antworten und gute Nachfragen stellen. Die Prüfenden bewerten Ausdrucksfähigkeit, Aufgabenbewältigung (Teilnahme am Gespräch, Gesprächsstrategien, Flüssigkeit), Formale Richtigkeit sowie Aussprache und Intonation; die ersten drei bringen je bis zu 7 Punkte, die Aussprache bis zu 4.",
+      "steps": [
+        {
+          "title": "Prepare experiences, not texts, at home",
+          "titleDe": "Bereite zu Hause Erlebnisse vor, keine Texte",
+          "detail": "Collect two or three real experiences that fit many topic types – a trip where something went wrong, a course or job that changed something, a difficult decision. For each, note keywords and the vocabulary you need. Practise telling them freely and a little differently each time – never learn a text by heart.",
+          "detailDe": "Sammle zwei oder drei echte Erlebnisse, die zu vielen Themen passen – eine Reise, bei der etwas schiefging, ein Kurs oder Job, der etwas verändert hat, eine schwierige Entscheidung. Notiere zu jedem Stichwörter und den Wortschatz, den du brauchst. Übe, frei und jedes Mal ein bisschen anders davon zu erzählen – lern nie einen Text auswendig."
+        },
+        {
+          "title": "Use the warm-up",
+          "titleDe": "Nutze das Aufwärmen",
+          "detail": "The exam opens with about a minute of getting to know each other – name, where you're from, what you do. It isn't scored: use it to get your German going and to agree with your partner on du or Sie.",
+          "detailDe": "Die Prüfung beginnt mit etwa einer Minute Kennenlernen – Name, Herkunft, was du machst. Das wird nicht bewertet: Nutze es, um mit deinem Deutsch warm zu werden, und kläre mit deinem Gegenüber, ob ihr euch duzt oder siezt."
+        },
+        {
+          "title": "Choose quickly and give a frame",
+          "titleDe": "Wähl schnell und gib einen Rahmen",
+          "detail": "Pick the topic your prepared experience fits and start with an orientation: „Ich möchte von … erzählen. Das war vor zwei Jahren, als …“ Use the cues in brackets only as far as they help you.",
+          "detailDe": "Nimm das Thema, zu dem dein vorbereitetes Erlebnis passt, und beginne mit einer Orientierung: „Ich möchte von … erzählen. Das war vor zwei Jahren, als …“ Die Stichpunkte in Klammern nutzt du nur, soweit sie dir helfen."
+        },
+        {
+          "title": "Narrate, then evaluate",
+          "titleDe": "Erst erzählen, dann bewerten",
+          "detail": "About a minute for the story (past tenses, time connectors: zunächst, nachdem, als, schließlich) and half a minute for your view: what you learnt, what you would do differently („Im Nachhinein hätte ich …“), why it mattered to you.",
+          "detailDe": "Etwa eine Minute für die Geschichte (Vergangenheitsformen, Zeitkonnektoren: zunächst, nachdem, als, schließlich) und eine halbe Minute für deine Bewertung: was du gelernt hast, was du anders machen würdest („Im Nachhinein hätte ich …“), warum es dir wichtig war."
+        },
+        {
+          "title": "Answer questions fully and freely",
+          "titleDe": "Beantworte Fragen ausführlich und frei",
+          "detail": "When your partner asks, answer with a detail, a reason or an example – not just ja or nein. If you don't understand, ask back („Meinst du, ob …?“) – that counts as a conversation strategy, not as a weakness.",
+          "detailDe": "Wenn dein Gegenüber fragt, antworte mit einem Detail, einem Grund oder einem Beispiel – nicht nur mit ja oder nein. Wenn du etwas nicht verstehst, frag nach („Meinst du, ob …?“) – das zählt als Gesprächsstrategie, nicht als Schwäche."
+        },
+        {
+          "title": "Listen to your partner and ask real questions",
+          "titleDe": "Hör deinem Gegenüber zu und stell echte Fragen",
+          "detail": "While your partner talks, note two things you'd like to know more about. Then ask open questions that show you listened: „Du hast erwähnt, dass … – wie kam es dazu?“, „Würdest du so etwas noch einmal machen?“",
+          "detailDe": "Während dein Gegenüber spricht, notier dir zwei Dinge, über die du mehr wissen möchtest. Stell dann offene Fragen, die zeigen, dass du zugehört hast: „Du hast erwähnt, dass … – wie kam es dazu?“, „Würdest du so etwas noch einmal machen?“"
+        }
+      ],
+      "traps": [
+        "Reciting a memorised text: it sounds unnatural, the examiners notice it, and you get stuck as soon as a question doesn't fit your script.",
+        "Forcing a prepared story onto a topic it doesn't fit – talking about a trip after choosing „Eine Entscheidung, die Ihr Leben verändert hat“ without putting the decision at the centre.",
+        "Listing facts without a story or an evaluation: „Ich war in Spanien. Es war schön. Das Essen war gut.“ shows little B2 range.",
+        "Running far over or under 1½ minutes – three minutes of monologue leave no time for questions, 40 seconds aren't enough to show what you can do.",
+        "Not listening to your partner and then asking something they have already answered – or asking only yes/no questions.",
+        "Careless past tenses: Perfekt and Präteritum are both fine, but haben or sein in the Perfekt and the past participles must be right."
+      ],
+      "trapsDe": [
+        "Einen auswendig gelernten Text aufsagen: Das klingt unnatürlich, die Prüfenden merken es, und du bleibst hängen, sobald eine Frage nicht zu deinem Text passt.",
+        "Eine vorbereitete Geschichte einem Thema überstülpen, zu dem sie nicht passt – von einer Reise erzählen, nachdem du „Eine Entscheidung, die Ihr Leben verändert hat“ gewählt hast, ohne die Entscheidung in den Mittelpunkt zu stellen.",
+        "Fakten aufzählen ohne Geschichte und Bewertung: „Ich war in Spanien. Es war schön. Das Essen war gut.“ zeigt wenig B2-Spektrum.",
+        "Weit über oder unter 1½ Minuten bleiben – drei Minuten Monolog lassen keine Zeit für Fragen, 40 Sekunden reichen nicht, um zu zeigen, was du kannst.",
+        "Dem Gegenüber nicht zuhören und dann etwas fragen, was schon beantwortet ist – oder nur Ja-Nein-Fragen stellen.",
+        "Unsaubere Vergangenheitsformen: Perfekt und Präteritum sind beide in Ordnung, aber haben oder sein im Perfekt und die Partizipien müssen stimmen."
+      ],
+      "timeAdvice": "About 5 minutes for both of you: about 1½ minutes of talk each, each followed by about a minute of questions and answers. Practise at home with a timer until 1½ minutes feels natural.",
+      "timeAdviceDe": "Etwa 5 Minuten für euch beide: jeweils etwa 1½ Minuten Erzählung, danach jeweils etwa eine Minute Fragen und Antworten. Übe zu Hause mit einer Stoppuhr, bis sich 1½ Minuten natürlich anfühlen.",
+      "checklist": [
+        "Two or three experiences prepared in keywords and practised freely – not memorised.",
+        "My talk has a frame, a story and an evaluation.",
+        "I answered my partner's questions with details and reasons.",
+        "I asked at least two open questions about my partner's talk.",
+        "I stayed close to 1½ minutes."
+      ],
+      "checklistDe": [
+        "Zwei oder drei Erlebnisse in Stichwörtern vorbereitet und frei geübt – nicht auswendig gelernt.",
+        "Mein Beitrag hat einen Rahmen, eine Geschichte und eine Bewertung.",
+        "Ich habe die Fragen meines Gegenübers mit Details und Gründen beantwortet.",
+        "Ich habe mindestens zwei offene Fragen zum Beitrag meines Gegenübers gestellt.",
+        "Ich bin nah an 1½ Minuten geblieben."
+      ]
+    },
+    {
+      "partId": "sprechen-2",
+      "title": "Sprechen Teil 2: the discussion",
+      "titleDe": "Sprechen Teil 2: die Diskussion",
+      "summary": "In the preparation time you both read the same newspaper article on a controversial question. In the exam you first comment briefly on the text – at most a minute – and report the arguments or aspects you find interesting. Then you discuss with your partner: bring in your own arguments, opinions and experiences, respond to your partner's points and make suggestions. About 5 minutes, worth up to 25 points.",
+      "summaryDe": "In der Vorbereitungszeit lest ihr beide denselben Zeitungsartikel zu einer umstrittenen Frage. In der Prüfung äußerst du dich zuerst kurz zum Text – höchstens eine Minute – und gibst die Argumente oder Aspekte wieder, die du interessant findest. Dann diskutierst du mit deinem Gegenüber: Bring eigene Argumente, Meinungen und Erfahrungen ein, geh auf die Punkte deines Gegenübers ein und mach Vorschläge. Etwa 5 Minuten, bis zu 25 Punkte.",
+      "whatIsTested": "Summarising a text in your own words, then arguing at B2 level: giving reasons and examples, weighing up, conceding a point and countering it, and reacting to what your partner actually said. A real discussion scores – two prepared monologues don't. Rated on Ausdrucksfähigkeit, Aufgabenbewältigung, Formale Richtigkeit and Aussprache.",
+      "whatIsTestedDe": "Einen Text mit eigenen Worten zusammenfassen und dann auf B2-Niveau argumentieren: Gründe und Beispiele nennen, abwägen, einen Punkt einräumen und dagegenhalten und auf das reagieren, was dein Gegenüber wirklich gesagt hat. Eine echte Diskussion bringt Punkte – zwei vorbereitete Monologe nicht. Bewertet werden Ausdrucksfähigkeit, Aufgabenbewältigung, Formale Richtigkeit und Aussprache.",
+      "steps": [
+        {
+          "title": "Prepare the article in about ten minutes",
+          "titleDe": "Bereite den Artikel in etwa zehn Minuten vor",
+          "detail": "Read it once for the question it raises and once for the arguments. Note in keywords: topic, the main claim or study, two or three arguments on each side, one figure or example. Then add your own opinion, a reason and one experience or example from your country.",
+          "detailDe": "Lies ihn einmal, um die Frage zu erkennen, um die es geht, und einmal für die Argumente. Notiere in Stichwörtern: Thema, die Hauptaussage oder Studie, zwei oder drei Argumente auf jeder Seite, eine Zahl oder ein Beispiel. Ergänze dann deine eigene Meinung, einen Grund und eine Erfahrung oder ein Beispiel aus deinem Land."
+        },
+        {
+          "title": "Summarise briefly in reported speech",
+          "titleDe": "Fass kurz in indirekter Rede zusammen",
+          "detail": "At most a minute: topic, core statement, the aspects you find interesting. Use reporting phrases: „In dem Artikel geht es um …“, „Laut einer Umfrage …“, „Der Autor ist der Ansicht, dass …“, „Kritiker wenden ein, dass …“. Don't read sentences out – paraphrase.",
+          "detailDe": "Höchstens eine Minute: Thema, Kernaussage, die Aspekte, die du interessant findest. Benutze Redemittel zum Wiedergeben: „In dem Artikel geht es um …“, „Laut einer Umfrage …“, „Der Autor ist der Ansicht, dass …“, „Kritiker wenden ein, dass …“. Lies keine Sätze vor – formuliere um."
+        },
+        {
+          "title": "Mark the switch to your own opinion",
+          "titleDe": "Zeig, wann deine eigene Meinung beginnt",
+          "detail": "Make it clear when you stop reporting and start arguing: „Ich persönlich sehe das etwas anders …“, „Meiner Erfahrung nach …“. Support each opinion with a reason and an example.",
+          "detailDe": "Mach deutlich, wann du aufhörst wiederzugeben und anfängst zu argumentieren: „Ich persönlich sehe das etwas anders …“, „Meiner Erfahrung nach …“. Stütze jede Meinung mit einem Grund und einem Beispiel."
+        },
+        {
+          "title": "React to what your partner says",
+          "titleDe": "Reagiere auf das, was dein Gegenüber sagt",
+          "detail": "Pick up your partner's last point before adding yours: agree and extend („Genau, und außerdem …“), concede and counter („Da hast du zwar recht, aber …“), ask for clarification or an example („Wie meinst du das genau?“).",
+          "detailDe": "Greif den letzten Punkt deines Gegenübers auf, bevor du deinen eigenen bringst: zustimmen und ergänzen („Genau, und außerdem …“), einräumen und widersprechen („Da hast du zwar recht, aber …“), nachfragen oder um ein Beispiel bitten („Wie meinst du das genau?“)."
+        },
+        {
+          "title": "Make suggestions and weigh up",
+          "titleDe": "Mach Vorschläge und wäge ab",
+          "detail": "The task asks for suggestions: „Man könnte doch …“, „Ein Kompromiss wäre, …“, „Unter der Bedingung, dass …, fände ich das sinnvoll.“ Konjunktiv II and conditions show B2 range.",
+          "detailDe": "Die Aufgabe verlangt Vorschläge: „Man könnte doch …“, „Ein Kompromiss wäre, …“, „Unter der Bedingung, dass …, fände ich das sinnvoll.“ Konjunktiv II und Bedingungen zeigen dein B2-Spektrum."
+        },
+        {
+          "title": "Share the floor and round off",
+          "titleDe": "Lass deinem Gegenüber Raum und runde ab",
+          "detail": "Keep your turns short enough for a real exchange, bring your partner in („Wie siehst du das?“) and at the end sum up where you agree and where you don't.",
+          "detailDe": "Halte deine Beiträge so kurz, dass ein echter Austausch entsteht, bezieh dein Gegenüber ein („Wie siehst du das?“) und fass am Ende zusammen, wo ihr euch einig seid und wo nicht."
+        }
+      ],
+      "traps": [
+        "Reading the article aloud or summarising it for three minutes – the summary should be brief and in your own words.",
+        "Mixing up the article's position with your own – the examiners can't tell whether you agree.",
+        "Two monologues: each of you delivers prepared arguments without referring to the other.",
+        "Agreeing with everything: „Ja, stimmt.“ shows little range. Polite disagreement with reasons makes the discussion – and your score – better.",
+        "Dominating the conversation or interrupting rudely – taking part well includes letting your partner finish.",
+        "Writing full sentences in the preparation time and reading them out – it kills fluency and sounds unnatural."
+      ],
+      "trapsDe": [
+        "Den Artikel vorlesen oder drei Minuten lang zusammenfassen – die Zusammenfassung soll kurz sein und mit eigenen Worten.",
+        "Die Position des Artikels mit deiner eigenen vermischen – dann wissen die Prüfenden nicht, ob du zustimmst.",
+        "Zwei Monologe: Jeder trägt vorbereitete Argumente vor, ohne sich auf den anderen zu beziehen.",
+        "Allem zustimmen: „Ja, stimmt.“ zeigt wenig Spektrum. Höflicher Widerspruch mit Gründen macht die Diskussion – und deine Bewertung – besser.",
+        "Das Gespräch dominieren oder unhöflich unterbrechen – gute Gesprächsteilnahme heißt auch, dein Gegenüber ausreden zu lassen.",
+        "In der Vorbereitungszeit ganze Sätze aufschreiben und sie dann vorlesen – das zerstört den Sprechfluss und klingt unnatürlich."
+      ],
+      "timeAdvice": "About 5 minutes in the exam: at most a minute each for the summary, then three to four minutes of discussion. Of the 20 minutes of preparation, spend about 10 on the article.",
+      "timeAdviceDe": "Etwa 5 Minuten in der Prüfung: jeweils höchstens eine Minute für die Zusammenfassung, dann drei bis vier Minuten Diskussion. Von den 20 Minuten Vorbereitung nimmst du etwa 10 für den Artikel.",
+      "checklist": [
+        "Topic, main claim and two or three arguments per side noted in keywords.",
+        "Summary in my own words, at most a minute, with reporting phrases.",
+        "My own opinion with reasons and an example – the switch made clear.",
+        "I reacted to my partner's arguments: agreed, conceded, countered.",
+        "At least one concrete suggestion or compromise."
+      ],
+      "checklistDe": [
+        "Thema, Hauptaussage und zwei oder drei Argumente pro Seite in Stichwörtern notiert.",
+        "Zusammenfassung mit eigenen Worten, höchstens eine Minute, mit Redemitteln zum Wiedergeben.",
+        "Meine eigene Meinung mit Gründen und einem Beispiel – der Wechsel deutlich gemacht.",
+        "Ich habe auf die Argumente meines Gegenübers reagiert: zugestimmt, eingeräumt, widersprochen.",
+        "Mindestens ein konkreter Vorschlag oder Kompromiss."
+      ]
+    },
+    {
+      "partId": "sprechen-3",
+      "title": "Sprechen Teil 3: planning something together",
+      "titleDe": "Sprechen Teil 3: gemeinsam etwas planen",
+      "summary": "You and your partner plan something together – a farewell party, a city tour for guests, a charity event, a club anniversary, a trip. The sheet only describes the situation: unlike at B1, there is no list of points to work through, so you bring in your own ideas, react to your partner's, negotiate and agree on a plan. About 5 minutes, worth up to 25 points.",
+      "summaryDe": "Ihr plant gemeinsam etwas – eine Abschiedsfeier, eine Stadtführung für Gäste, eine Benefizveranstaltung, ein Vereinsjubiläum, einen Ausflug. Das Aufgabenblatt beschreibt nur die Situation: Anders als bei B1 gibt es keine Liste mit Punkten zum Abarbeiten. Du bringst also eigene Ideen ein, reagierst auf die Ideen deines Gegenübers, verhandelst und einigst dich mit ihm auf einen Plan. Etwa 5 Minuten, bis zu 25 Punkte.",
+      "whatIsTested": "Cooperative interaction: making and justifying suggestions, accepting, rejecting politely and offering alternatives, finding compromises and dividing tasks – with your own ideas, since the sheet gives you none. The examiners look at how actively and flexibly you take part, not at how perfect the plan is.",
+      "whatIsTestedDe": "Zusammenarbeit im Gespräch: Vorschläge machen und begründen, annehmen, höflich ablehnen und Alternativen anbieten, Kompromisse finden und Aufgaben verteilen – mit eigenen Ideen, denn das Aufgabenblatt gibt dir keine vor. Die Prüfenden achten darauf, wie aktiv und flexibel du dich beteiligst, nicht darauf, wie perfekt der Plan ist.",
+      "steps": [
+        {
+          "title": "Build your own checklist in the preparation time",
+          "titleDe": "Erstell in der Vorbereitungszeit deine eigene Checkliste",
+          "detail": "In about ten minutes, list the aspects the plan needs: date and time, place, programme, food and drink, budget and financing, invitations and publicity, getting there, who does what. Add one or two concrete ideas for each – keywords only.",
+          "detailDe": "Notiere in etwa zehn Minuten die Aspekte, die der Plan braucht: Datum und Uhrzeit, Ort, Programm, Essen und Getränke, Budget und Finanzierung, Einladungen und Werbung, Anfahrt, wer was übernimmt. Ergänze zu jedem ein oder zwei konkrete Ideen – nur Stichwörter."
+        },
+        {
+          "title": "Open with a structure",
+          "titleDe": "Beginne mit einer Struktur",
+          "detail": "Start by naming the task and proposing an order: „Wir sollen ja … organisieren. Wollen wir zuerst über den Termin sprechen und dann über das Programm?“ That gives both of you a thread to follow.",
+          "detailDe": "Nenne zu Beginn die Aufgabe und schlag eine Reihenfolge vor: „Wir sollen ja … organisieren. Wollen wir zuerst über den Termin sprechen und dann über das Programm?“ So habt ihr beide einen roten Faden."
+        },
+        {
+          "title": "Propose with reasons",
+          "titleDe": "Mach Vorschläge mit Begründung",
+          "detail": "Every suggestion needs a reason: „Ich fände es sinnvoll, die Feier im Gemeinschaftsraum zu machen, weil wir dort keine Miete zahlen.“ Vary the phrases: „Was hältst du davon, wenn …?“, „Wie wäre es mit …?“, „Ich würde vorschlagen, …“.",
+          "detailDe": "Jeder Vorschlag braucht einen Grund: „Ich fände es sinnvoll, die Feier im Gemeinschaftsraum zu machen, weil wir dort keine Miete zahlen.“ Variiere die Redemittel: „Was hältst du davon, wenn …?“, „Wie wäre es mit …?“, „Ich würde vorschlagen, …“."
+        },
+        {
+          "title": "React, object and negotiate",
+          "titleDe": "Reagiere, wende ein und verhandle",
+          "detail": "Respond to each of your partner's ideas before adding yours. Accept with an addition, or object politely with an alternative: „Die Idee gefällt mir, allerdings gebe ich zu bedenken, dass … Vielleicht könnten wir stattdessen …“ Disagreement that ends in a compromise shows more than agreeing with everything.",
+          "detailDe": "Geh auf jede Idee deines Gegenübers ein, bevor du deine eigene bringst. Nimm sie an und ergänze etwas – oder widersprich höflich mit einer Alternative: „Die Idee gefällt mir, allerdings gebe ich zu bedenken, dass … Vielleicht könnten wir stattdessen …“ Ein Widerspruch, der in einem Kompromiss endet, zeigt mehr, als allem zuzustimmen."
+        },
+        {
+          "title": "Divide the tasks",
+          "titleDe": "Teil die Aufgaben auf",
+          "detail": "A plan becomes concrete when you decide who does what: „Ich kümmere mich um die Einladungen, könntest du den Raum reservieren?“",
+          "detailDe": "Ein Plan wird konkret, wenn ihr festlegt, wer was macht: „Ich kümmere mich um die Einladungen, könntest du den Raum reservieren?“"
+        },
+        {
+          "title": "Summarise the result",
+          "titleDe": "Fass das Ergebnis zusammen",
+          "detail": "Before time is up, sum up what you have agreed: „Also, dann halten wir fest: …“ You don't have to cover every aspect – it's better to discuss four aspects properly than to rush through eight.",
+          "detailDe": "Fass zusammen, worauf ihr euch geeinigt habt, bevor die Zeit um ist: „Also, dann halten wir fest: …“ Du musst nicht jeden Aspekt schaffen – es ist besser, vier Aspekte gründlich zu besprechen, als acht im Eiltempo abzuhaken."
+        }
+      ],
+      "traps": [
+        "Waiting for a checklist that isn't there – and running out of ideas after the date and the place.",
+        "Agreeing with everything („Ja, gute Idee.“ „Ja, okay.“) – without your own proposals and objections there's little to rate.",
+        "Taking over: presenting your whole plan in one go and leaving your partner nothing to react to.",
+        "Suggestions without reasons, or rejections without an alternative: „Nein, das finde ich nicht gut.“ ends the negotiation instead of moving it on.",
+        "Ignoring the situation on the sheet – the budget, the target group or the occasion given there should shape your ideas.",
+        "Ending without a result: no summary, no decision about who does what."
+      ],
+      "trapsDe": [
+        "Auf eine Checkliste warten, die es nicht gibt – und nach Datum und Ort keine Ideen mehr haben.",
+        "Allem zustimmen („Ja, gute Idee.“ „Ja, okay.“) – ohne eigene Vorschläge und Einwände gibt es wenig zu bewerten.",
+        "Alles an dich reißen: deinen ganzen Plan auf einmal vortragen und deinem Gegenüber nichts übrig lassen, worauf es reagieren kann.",
+        "Vorschläge ohne Begründung oder Ablehnungen ohne Alternative: „Nein, das finde ich nicht gut.“ beendet die Verhandlung, statt sie weiterzubringen.",
+        "Die Situation auf dem Aufgabenblatt ignorieren – das Budget, die Zielgruppe oder der Anlass, die dort stehen, sollten deine Ideen prägen.",
+        "Ohne Ergebnis aufhören: keine Zusammenfassung, keine Entscheidung darüber, wer was übernimmt."
+      ],
+      "timeAdvice": "About 5 minutes in the exam. Of the 20 minutes of preparation, spend about 10 on this part: 3–4 to list the aspects, the rest to note concrete ideas and phrases for proposing, objecting and agreeing.",
+      "timeAdviceDe": "Etwa 5 Minuten in der Prüfung. Von den 20 Minuten Vorbereitung nimmst du etwa 10 für diesen Teil: 3–4, um die Aspekte zu sammeln, den Rest für konkrete Ideen und Redemittel zum Vorschlagen, Einwenden und Zustimmen.",
+      "checklist": [
+        "My own list of six to eight aspects, with one or two ideas each.",
+        "Each of my suggestions came with a reason.",
+        "I reacted to every idea of my partner's – accepted, extended or offered an alternative.",
+        "At least one compromise reached.",
+        "Tasks divided: who does what.",
+        "Result summarised at the end."
+      ],
+      "checklistDe": [
+        "Eigene Liste mit sechs bis acht Aspekten und je ein oder zwei Ideen.",
+        "Jeder meiner Vorschläge hatte eine Begründung.",
+        "Ich bin auf jede Idee meines Gegenübers eingegangen – angenommen, ergänzt oder eine Alternative angeboten.",
+        "Mindestens einen Kompromiss gefunden.",
+        "Aufgaben verteilt: wer macht was.",
+        "Ergebnis am Ende zusammengefasst."
+      ]
+    }
+  ]
+}

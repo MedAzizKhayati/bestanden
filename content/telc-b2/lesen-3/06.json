@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-06",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Kultur erleben",
+  "topic": "kultur",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ihre Nachbarin kann nicht hören und möchte an einer Kunstführung teilnehmen, die sie ohne Dolmetscher versteht.",
+      "answer": "d",
+      "explanation": "„Kann nicht hören“ means she is deaf. In the Kunsthalle (d) „eine gehörlose Kunstvermittlerin … in Deutscher Gebärdensprache“ leads a tour once a month. The Städtische Bühnen (l) offer an „induktive Höranlage“, but that only helps people who are hard of hearing – and it is theatre, not a guided tour.",
+      "explanationDe": "„Kann nicht hören“ heißt: Sie ist gehörlos. In der Kunsthalle (d) führt einmal im Monat „eine gehörlose Kunstvermittlerin … in Deutscher Gebärdensprache“. Die Städtischen Bühnen (l) haben eine „induktive Höranlage“, aber die hilft nur schwerhörigen Menschen – und das ist Theater, keine Führung."
+    },
+    {
+      "n": 2,
+      "text": "Ihr sechzehnjähriger Neffe schreibt in seiner Freizeit Erzählungen und möchte sie mit professioneller Hilfe weiterentwickeln.",
+      "answer": "j",
+      "explanation": "The festival „Wortwechsel“ (j) runs a „Schreibwerkstatt“ in which „Jugendliche zwischen 14 und 19 Jahren unter Anleitung einer Krimiautorin an eigenen Kurzgeschichten“ work. To take part, he only has to send a „Textprobe“ by mid-March.",
+      "explanationDe": "Das Festival „Wortwechsel“ (j) bietet eine „Schreibwerkstatt“ an, in der „Jugendliche zwischen 14 und 19 Jahren unter Anleitung einer Krimiautorin an eigenen Kurzgeschichten“ arbeiten. Dafür muss er nur bis Mitte März eine „Textprobe“ schicken."
+    },
+    {
+      "n": 3,
+      "text": "Ihr Vater sitzt im Rollstuhl und möchte bei einer Führung die mittelalterlichen Gewölbe unter der Stadt kennenlernen.",
+      "answer": "x",
+      "explanation": "Only „Unter der Altstadt“ (b) goes into the medieval cellars, but they are „nur über steile, schmale Treppen erreichbar“ and „für Menschen mit Gehbehinderung … nicht geeignet“. The night-watchman tour (g) works „mit Kinderwagen oder Rollstuhl“, but it stays above ground in the streets – so x.",
+      "explanationDe": "Nur „Unter der Altstadt“ (b) führt in die mittelalterlichen Keller, aber sie sind „nur über steile, schmale Treppen erreichbar“ und „für Menschen mit Gehbehinderung … nicht geeignet“. Die Nachtwächter-Führung (g) geht zwar „mit Kinderwagen oder Rollstuhl“, bleibt aber oben in den Gassen. Also x."
+    },
+    {
+      "n": 4,
+      "text": "Ihre Mitbewohnerin möchte an warmen Sommerabenden im Freien internationale Filme in der Originalsprache anschauen.",
+      "answer": "h",
+      "explanation": "„Kino unter Sternen“ (h) shows films „unter freiem Himmel“ in July and August, on Tuesdays and Thursdays „in der Originalfassung mit deutschen Untertiteln“. The Programmkino (c) has original versions too, but indoors – and „In den Monaten Juli und August bleibt das Kino … geschlossen“.",
+      "explanationDe": "„Kino unter Sternen“ (h) zeigt im Juli und August Filme „unter freiem Himmel“, dienstags und donnerstags „in der Originalfassung mit deutschen Untertiteln“. Das Programmkino (c) hat auch Originalfassungen, aber drinnen – und „In den Monaten Juli und August bleibt das Kino … geschlossen“."
+    },
+    {
+      "n": 5,
+      "text": "Ihre Chefin sucht für den Betriebsausflug eine unterhaltsame Abendführung, an der nur Ihr Team teilnimmt.",
+      "answer": "g",
+      "explanation": "The night watchman (g) tells stories „auf humorvolle Weise“ after dark, and „Firmen, Vereine und Familien“ can book „eine private Gruppenführung“ all year round. „Industriekultur per Rad“ (k) also takes closed groups, but only „tagsüber“.",
+      "explanationDe": "Der Nachtwächter (g) erzählt im Dunkeln „auf humorvolle Weise“, und „Firmen, Vereine und Familien“ können das ganze Jahr „eine private Gruppenführung“ buchen. „Industriekultur per Rad“ (k) nimmt auch geschlossene Gruppen, aber nur „tagsüber“."
+    },
+    {
+      "n": 6,
+      "text": "Eine Freundin aus Polen möchte mit ihren Kindern ein Theaterstück sehen, das man ohne Deutschkenntnisse versteht.",
+      "answer": "e",
+      "explanation": "The Figurentheaterfestival (e) has a programme „für Familien mit Kindern ab vier Jahren“, and „viele Inszenierungen ganz ohne Worte auskommen“. The Stadtmuseum (f) has a Polish audio guide, but it is a museum, and the Städtische Bühnen (l) show operas only „mit deutschen und englischen Übertiteln“.",
+      "explanationDe": "Das Figurentheaterfestival (e) hat ein Programm „für Familien mit Kindern ab vier Jahren“, und viele Stücke kommen „ganz ohne Worte“ aus. Das Stadtmuseum (f) hat zwar einen Audioguide auf Polnisch, ist aber kein Theater, und die Städtischen Bühnen (l) zeigen Opern nur „mit deutschen und englischen Übertiteln“."
+    },
+    {
+      "n": 7,
+      "text": "Ihr Kommilitone möchte heute Abend spontan und möglichst günstig eine Opernaufführung besuchen.",
+      "answer": "l",
+      "explanation": "At the Städtische Bühnen (l) students get „Restkarten für 9 Euro“ at the box office „30 Minuten vor Vorstellungsbeginn“ – ideal for a spontaneous visit. The Figurentheaterfestival (e) has evening shows too, but puppet theatre is not opera.",
+      "explanationDe": "Bei den Städtischen Bühnen (l) bekommen Studierende „30 Minuten vor Vorstellungsbeginn“ an der Abendkasse „Restkarten für 9 Euro“ – perfekt für einen spontanen Besuch. Das Figurentheaterfestival (e) hat auch Abendvorstellungen, aber Figurentheater ist keine Oper."
+    },
+    {
+      "n": 8,
+      "text": "Ihre Schwester möchte den Geburtstag ihrer Tochter schon in der kommenden Woche in einem Museum feiern.",
+      "answer": "x",
+      "explanation": "The Kindermuseum (i) offers birthday parties, but they must be booked „spätestens vier Wochen im Voraus“ – next week is too soon. No other museum offers parties, so x.",
+      "explanationDe": "Das Kindermuseum (i) bietet Kindergeburtstage an, aber man muss sie „spätestens vier Wochen im Voraus“ buchen – nächste Woche ist zu kurzfristig. Kein anderes Museum bietet Feiern an. Also x."
+    },
+    {
+      "n": 9,
+      "text": "Ein Bekannter möchte die früheren Fabrikgelände der Stadt auf zwei Rädern erkunden, besitzt aber selbst kein Fahrrad.",
+      "answer": "k",
+      "explanation": "„Industriekultur per Rad“ (k) shows „stillgelegte Baumwollspinnereien“ and „ehemalige Arbeiterquartiere“, and anyone without a bike can reserve „ein Leihrad“ for 8 euros. The night-watchman tour (g) is also a city tour, but on foot through the medieval old town.",
+      "explanationDe": "„Industriekultur per Rad“ (k) zeigt „stillgelegte Baumwollspinnereien“ und „ehemalige Arbeiterquartiere“, und wer kein Fahrrad hat, kann für 8 Euro „ein Leihrad“ reservieren. Die Nachtwächter-Führung (g) ist auch eine Stadtführung, aber zu Fuß durch die mittelalterliche Altstadt."
+    },
+    {
+      "n": 10,
+      "text": "Sie möchten an einem einzigen Abend mehrere Museen besuchen, ohne jedes Mal Eintritt bezahlen zu müssen.",
+      "answer": "a",
+      "explanation": "During the Museumsnacht (a) museums are open „bis 1 Uhr nachts“, and one „Kombiticket“ is valid „für den Eintritt in sämtliche teilnehmenden Häuser“. The Stadtmuseum (f) is free „Am ersten Sonntag jedes Monats“, but that is only one museum and not in the evening.",
+      "explanationDe": "Bei der Museumsnacht (a) haben die Museen „bis 1 Uhr nachts“ geöffnet, und ein „Kombiticket“ gilt „für den Eintritt in sämtliche teilnehmenden Häuser“. Das Stadtmuseum (f) ist „Am ersten Sonntag jedes Monats“ kostenlos, aber das ist nur ein Museum und nicht am Abend."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Lange Nacht der Museen",
+      "subheading": "Ein Ticket – über 40 Häuser",
+      "lines": [],
+      "text": "Einmal im Jahr öffnen Museen, Galerien und Archive bis 1 Uhr nachts ihre Türen und locken mit Sonderführungen, Konzerten und Mitmachaktionen. Das Kombiticket für 16 Euro gilt für den Eintritt in sämtliche teilnehmenden Häuser sowie für die Shuttlebusse, die im Viertelstundentakt zwischen den Stationen pendeln. Kinder unter 12 Jahren haben freien Eintritt. Wer früh plant, spart: Im Vorverkauf, der bis zum Vortag läuft, kostet das Ticket nur 13 Euro. Die diesjährige Museumsnacht findet am zweiten Samstag im Mai statt; das vollständige Programm erscheint Mitte April online und als gedrucktes Heft.",
+      "footer": "Tickets in allen teilnehmenden Museen und unter www.museumsnacht-tickets.de"
+    },
+    {
+      "key": "b",
+      "heading": "Unter der Altstadt",
+      "subheading": "Führungen durch Gewölbekeller und Gänge",
+      "lines": [],
+      "text": "Unter dem Pflaster der Altstadt verbirgt sich ein weit verzweigtes Netz aus mittelalterlichen Kellern, in denen einst Bier gebraut, Wein gelagert und im Krieg Schutz gesucht wurde. Auf unserer neunzigminütigen Führung steigen Sie bis zu zwölf Meter in die Tiefe und erfahren Spannendes aus acht Jahrhunderten Stadtgeschichte. Die Führungen beginnen täglich um 14 und 16 Uhr am Brunnen auf dem Marktplatz, samstags um 12 Uhr zusätzlich auf Englisch. Bitte beachten Sie: Die Gänge sind nur über steile, schmale Treppen erreichbar und daher für Menschen mit Gehbehinderung sowie für Kinder unter acht Jahren leider nicht geeignet.",
+      "footer": "Treffpunkt: Marktbrunnen · Tickets (12 Euro) in der Tourist-Information"
+    },
+    {
+      "key": "c",
+      "heading": "Programmkino Lichtspiel",
+      "subheading": "Filme abseits des Mainstreams",
+      "lines": [],
+      "text": "Seit über dreißig Jahren zeigt unser kleines Kino mit zwei Sälen anspruchsvolle Filme aus aller Welt, die in den großen Multiplexkinos selten zu sehen sind. Jeden Mittwoch präsentieren wir unter dem Motto „Original statt synchron“ einen aktuellen Film in der Originalfassung mit Untertiteln, häufig ergänzt durch ein Filmgespräch mit Regisseurinnen oder Schauspielern. Mit der Zehnerkarte für 65 Euro sparen Stammgäste fast ein Drittel des regulären Eintrittspreises. In den Monaten Juli und August bleibt das Kino wegen Renovierungsarbeiten geschlossen. Unser Bistro im Foyer öffnet jeweils eine Stunde vor der ersten Vorstellung.",
+      "footer": "Lindenauer Weg 3 · Programm: www.lichtspiel-kino.de"
+    },
+    {
+      "key": "d",
+      "heading": "Kunsthalle am Wasserturm",
+      "subheading": "Kunst für alle Sinne",
+      "lines": [],
+      "text": "Unsere Sammlung mit Gemälden und Skulpturen vom Mittelalter bis zur Gegenwart soll allen Menschen offenstehen. Das gesamte Haus ist stufenlos zugänglich, Rollstühle können kostenlos an der Kasse ausgeliehen werden. Für blinde und sehbehinderte Gäste bieten wir Tastführungen an, bei denen ausgewählte Skulpturen berührt werden dürfen. Am letzten Sonntag jedes Monats führt eine gehörlose Kunstvermittlerin um 11 Uhr in Deutscher Gebärdensprache durch die aktuelle Ausstellung. Alle Führungen sind im Eintrittspreis von 10 Euro enthalten; eine Anmeldung ist nur für Tastführungen erforderlich. Donnerstags ist das Museum bis 21 Uhr geöffnet.",
+      "footer": "Am Wasserturm 5 · www.kunsthalle-wasserturm.de"
+    },
+    {
+      "key": "e",
+      "heading": "Internationales Figurentheaterfestival",
+      "subheading": "Eine Woche Puppen, Objekte und Schatten für alle Generationen",
+      "lines": [],
+      "text": "Zum fünfundzwanzigsten Mal verwandeln Ensembles aus zwölf Ländern die Stadt eine Woche lang in eine große Bühne für Figuren- und Objekttheater. Neben Abendvorstellungen für Erwachsene steht jeden Vormittag und Nachmittag ein Programm für Familien mit Kindern ab vier Jahren auf dem Spielplan. Da viele Inszenierungen ganz ohne Worte auskommen und allein mit Bildern, Musik und Bewegung erzählen, eignet sich das Festival hervorragend für Gäste, die kein Deutsch verstehen; im Programmheft sind diese Stücke besonders gekennzeichnet. Familienvorstellungen kosten 7 Euro pro Person, Abendvorstellungen 15 Euro. Das Festival findet jedes Jahr in der letzten Juniwoche statt.",
+      "footer": "Programm und Karten: www.figurentheater-festival.de"
+    },
+    {
+      "key": "f",
+      "heading": "Stadtgeschichtliches Museum im Alten Rathaus",
+      "subheading": "Achthundert Jahre Stadtgeschichte erleben",
+      "lines": [],
+      "text": "Von der mittelalterlichen Handelsstadt über die Zeit der Industrialisierung bis zur friedlichen Revolution: Unsere Dauerausstellung erzählt anhand von über 3.000 Objekten, wie sich das Leben der Menschen in der Stadt im Lauf der Jahrhunderte verändert hat. Ein Audioguide in acht Sprachen, darunter Polnisch, Tschechisch und Japanisch, führt Sie durch die Räume. Am ersten Sonntag jedes Monats ist der Eintritt frei, sonst kostet er 8 Euro. Öffentliche Führungen auf Deutsch finden samstags und sonntags um 14 Uhr statt. Bitte beachten Sie, dass das Museum montags geschlossen ist.",
+      "footer": "Markt 1 · Dienstag bis Sonntag 10–18 Uhr"
+    },
+    {
+      "key": "g",
+      "heading": "Mit dem Nachtwächter durch die Gassen",
+      "subheading": "Stadtgeschichte bei Laternenschein",
+      "lines": [],
+      "text": "Wenn es dunkel wird, zieht unser Nachtwächter mit Hellebarde und Laterne los und erzählt auf humorvolle Weise von Hexenprozessen, Stadtbränden und dem harten Alltag der Bürger im Mittelalter. Die etwa zweistündige Tour führt über ebene Wege durch die Altstadt und ist daher auch mit Kinderwagen oder Rollstuhl gut zu bewältigen. Öffentliche Führungen finden von Mai bis September freitags um 21 Uhr statt; Tickets gibt es für 14 Euro in der Tourist-Information. Firmen, Vereine und Familien können den Nachtwächter darüber hinaus ganzjährig für eine private Gruppenführung buchen – auf Wunsch mit anschließendem Umtrunk in einer historischen Weinstube.",
+      "footer": "Buchung von Gruppenführungen: Tel. 0341 2218840"
+    },
+    {
+      "key": "h",
+      "heading": "Kino unter Sternen",
+      "subheading": "Sommerkino im Schlosspark",
+      "lines": [],
+      "text": "Von Anfang Juli bis Ende August verwandelt sich die große Wiese hinter dem Schloss jeden Abend in einen Kinosaal unter freiem Himmel. Gezeigt werden aktuelle Arthouse-Filme, Klassiker und Dokumentationen – dienstags und donnerstags in der Originalfassung mit deutschen Untertiteln, an den übrigen Tagen auf Deutsch. Die Vorstellungen beginnen mit Einbruch der Dunkelheit, gegen 21.30 Uhr. Tickets kosten 9 Euro; Liegestühle können für 3 Euro zusätzlich reserviert werden. Bei Regen werden die Filme in die benachbarte Orangerie verlegt, deren Platzzahl allerdings begrenzt ist. Eigene Speisen und Getränke dürfen mitgebracht werden, Glasflaschen sind nicht erlaubt.",
+      "footer": "Schlosspark, Eingang Parkallee · Programm: www.kino-unter-sternen.de"
+    },
+    {
+      "key": "i",
+      "heading": "Kindermuseum Entdeckerkiste",
+      "subheading": "Hier darf alles angefasst werden",
+      "lines": [],
+      "text": "Wie funktioniert ein Flaschenzug? Warum schwimmt ein Schiff aus Stahl? Im Kindermuseum gehen Kinder zwischen 4 und 12 Jahren an über 60 Stationen naturwissenschaftlichen Fragen auf den Grund – ausprobieren, bauen und experimentieren ist hier nicht nur erlaubt, sondern erwünscht. In der offenen Werkstatt basteln die jungen Gäste unter Anleitung kleine Erfindungen, die sie mit nach Hause nehmen dürfen. Besonders beliebt sind unsere Kindergeburtstage: Zwei Stunden lang erforscht die Geburtstagsgesellschaft mit einer Museumspädagogin ein Thema ihrer Wahl, anschließend wird im Partyraum gefeiert. Wegen der großen Nachfrage müssen Geburtstagsfeiern spätestens vier Wochen im Voraus gebucht werden.",
+      "footer": "Dienstag bis Sonntag 10–18 Uhr · Buchung von Geburtstagen: Tel. 0341 9087712"
+    },
+    {
+      "key": "j",
+      "heading": "Literaturfestival Wortwechsel",
+      "subheading": "Zehn Tage Lesungen, Debatten und Schreibwerkstätten",
+      "lines": [],
+      "text": "Jedes Frühjahr lädt das Festival bekannte Autorinnen und Autoren sowie junge Talente zu über 80 Veranstaltungen in Buchhandlungen, Bibliotheken und Cafés ein. Ein besonderer Schwerpunkt liegt in diesem Jahr auf der Nachwuchsförderung: In einer viertägigen Schreibwerkstatt arbeiten Jugendliche zwischen 14 und 19 Jahren unter Anleitung einer Krimiautorin an eigenen Kurzgeschichten, die zum Abschluss öffentlich vorgelesen werden. Die Teilnahme ist kostenlos, die Zahl der Plätze jedoch auf 15 begrenzt. Interessierte schicken bis Mitte März eine Textprobe von höchstens zwei Seiten an das Festivalbüro. Karten für alle Lesungen gibt es ab Februar im Vorverkauf.",
+      "footer": "Festivalbüro, Buchmarkt 3 · www.wortwechsel-festival.de"
+    },
+    {
+      "key": "k",
+      "heading": "Industriekultur per Rad",
+      "subheading": "Fabriken, Kanäle und Arbeitersiedlungen entdecken",
+      "lines": [],
+      "text": "Der Westen der Stadt war einst eines der wichtigsten Industriegebiete Mitteldeutschlands. Auf einer dreistündigen Radtour zeigen Ihnen unsere Gästeführerinnen und Gästeführer stillgelegte Baumwollspinnereien, prächtige Fabrikantenvillen und ehemalige Arbeiterquartiere, in denen heute Ateliers, Galerien und Cafés untergebracht sind. Die Strecke von rund 18 Kilometern ist flach und auch für ungeübte Radfahrer geeignet. Wer kein eigenes Fahrrad mitbringen kann, reserviert gegen eine Gebühr von 8 Euro ein Leihrad. Öffentliche Touren starten von April bis Oktober jeden Sonntag um 10 Uhr; geschlossene Gruppen ab acht Personen können zusätzliche Termine tagsüber vereinbaren.",
+      "footer": "Start: Kulturbahnhof West · Anmeldung: www.industriekultur-rad.de"
+    },
+    {
+      "key": "l",
+      "heading": "Städtische Bühnen",
+      "subheading": "Oper, Schauspiel und Ballett unter einem Dach",
+      "lines": [],
+      "text": "Mit rund 600 Vorstellungen pro Spielzeit gehören die Städtischen Bühnen zu den größten Theaterbetrieben des Landes. Damit möglichst viele Menschen in den Genuss von Kultur kommen, bieten wir zahlreiche Ermäßigungen an: Schülerinnen, Schüler und Studierende erhalten gegen Vorlage ihres Ausweises 30 Minuten vor Vorstellungsbeginn an der Abendkasse Restkarten für 9 Euro – für alle Sparten und auf allen Plätzen. Opern werden mit deutschen und englischen Übertiteln gezeigt. Für schwerhörige Besucherinnen und Besucher steht in beiden Häusern eine induktive Höranlage zur Verfügung; außerdem gibt es in jedem Saal Plätze für Rollstuhlfahrer.",
+      "footer": "Theaterkasse am Opernplatz · Tel. 0341 1260900 · www.staedtische-buehnen-spielplan.de"
+    }
+  ],
+  "glossary": [
+    { "de": "die Gebärdensprache", "en": "sign language" },
+    { "de": "der Gewölbekeller", "en": "vaulted cellar" },
+    { "de": "die Gehbehinderung", "en": "walking disability" },
+    { "de": "die Übertitel (Pl.)", "en": "surtitles (text shown above the stage)" },
+    { "de": "die Restkarte", "en": "remaining (unsold) ticket" },
+    { "de": "die Abendkasse", "en": "box office open on the evening of the show" },
+    { "de": "die Originalfassung mit Untertiteln", "en": "original-language version with subtitles" },
+    { "de": "der Vorverkauf", "en": "advance ticket sale" },
+    { "de": "die Schreibwerkstatt", "en": "writing workshop" },
+    { "de": "die Textprobe", "en": "writing sample" },
+    { "de": "stillgelegt", "en": "disused, shut down (factory, mine)" },
+    { "de": "im Voraus buchen", "en": "to book in advance" }
+  ]
+}

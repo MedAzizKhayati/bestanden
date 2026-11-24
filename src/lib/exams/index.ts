@@ -1,14 +1,14 @@
 import type { ExamDefinition, PartDefinition, PlannedExam, SectionDefinition } from "./types";
 import { telcB1 } from "./telc-b1";
+import { telcB2 } from "./telc-b2";
 
 export * from "./types";
 export { localizeExam } from "./localize";
 
 /** Exams with content. Adding a level = add a definition here + its /content folder. */
-export const EXAMS: ExamDefinition[] = [telcB1];
+export const EXAMS: ExamDefinition[] = [telcB1, telcB2];
 
 export const PLANNED_EXAMS: PlannedExam[] = [
-  { slug: "telc-b2", name: "telc Deutsch B2", level: "B2", status: "preparing" },
   { slug: "telc-c1", name: "telc Deutsch C1", level: "C1", status: "preparing" },
   { slug: "dtz", name: "Deutsch-Test für Zuwanderer", level: "B1", status: "planned" },
 ];

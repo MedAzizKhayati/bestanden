@@ -1,0 +1,142 @@
+{
+  "id": "sprachbausteine-1-08",
+  "examId": "telc-b2",
+  "type": "gap-mc",
+  "title": "Eine Hochzeit in Portugal",
+  "topic": "familie",
+  "difficulty": 2,
+  "textType": "email-informal",
+  "text": "Liebe Ronja,\n\nseit Dienstag bin ich zurück aus Portugal, und ich muss dir unbedingt von der Hochzeit meines Bruders erzählen! Du weißt ja, dass Jannik seine Freundin Inês vor vier Jahren in Hamburg kennengelernt hat. Gefeiert haben die beiden aber in Inês' Heimat, einem kleinen Ort in der Nähe von Porto.\n\nDie [[1]] fand am Samstagvormittag in einer winzigen Kapelle statt, die gerade einmal fünfzig Gästen Platz bot. Anschließend fuhren alle zu einem Weingut, [[2]] einem Onkel der Braut gehört. [[3]] einer gemeinsamen Sprache habe ich mich mit den meisten Verwandten nur mit Händen und Füßen unterhalten. [[4]] habe ich mich keine Minute fremd gefühlt, so herzlich wurden wir aufgenommen.\n\nBeim Essen gab es neben portugiesischen Spezialitäten auch ein paar deutsche Gerichte, [[5]] sich meine Mutter extra gekümmert hatte. Später musste ich als Trauzeuge eine Rede [[6]], natürlich halb auf Deutsch und halb auf Englisch. Mir haben die Knie gezittert, aber die Gäste haben begeistert applaudiert und mit Portwein auf das Brautpaar [[7]].\n\nWährend bei uns eine Hochzeitsfeier meistens gegen Mitternacht zu Ende ist, [[8]] dort bis vier Uhr morgens getanzt – sogar Inês' Großmutter hat bis zum Schluss durchgehalten! Ehrlich gesagt war der ganze Tag viel zu schön, [[9]] dass ich ihn dir in einer kurzen Mail angemessen beschreiben könnte.\n\nIch bin jedenfalls sehr froh, mich trotz der teuren Flüge für die Reise [[10]] zu haben. Wenn du magst, zeige ich dir nächste Woche die Fotos – dann erzähle ich dir auch, was beim Werfen des Brautstraußes passiert ist.\n\nGanz liebe Grüße\nLeander",
+  "gaps": [
+    {
+      "n": 1,
+      "options": [
+        { "key": "a", "text": "Treue" },
+        { "key": "b", "text": "Trauung" },
+        { "key": "c", "text": "Trauer" }
+      ],
+      "answer": "b",
+      "explanation": "„die Trauung“ is the wedding ceremony itself, which „fand … in einer winzigen Kapelle statt“. „die Trauer“ means grief (e.g. after a death), and „die Treue“ means faithfulness – neither is an event that takes place.",
+      "explanationDe": "„die Trauung“ ist die Zeremonie, bei der das Paar heiratet – sie „fand … in einer winzigen Kapelle statt“. „die Trauer“ ist das Gefühl nach einem Todesfall, und „die Treue“ bedeutet, dass man einem Menschen verbunden bleibt – beides ist kein Ereignis, das stattfindet."
+    },
+    {
+      "n": 2,
+      "options": [
+        { "key": "a", "text": "das" },
+        { "key": "b", "text": "dem" },
+        { "key": "c", "text": "dessen" }
+      ],
+      "answer": "a",
+      "explanation": "In the relative clause the winery is the subject: „ein Weingut, das einem Onkel der Braut gehört“ (the uncle is the dative object of „gehören“). „dem“ is the trap – the dative is already taken by „einem Onkel“ – and „dessen“ would have to be followed by a noun („dessen Besitzer“).",
+      "explanationDe": "Im Relativsatz ist das Weingut das Subjekt: „ein Weingut, das einem Onkel der Braut gehört“ (der Onkel ist das Dativobjekt von „gehören“). „dem“ ist die Falle – der Dativ ist schon mit „einem Onkel“ besetzt –, und nach „dessen“ müsste ein Nomen folgen („dessen Besitzer“).",
+      "grammar": "relativsaetze-b2"
+    },
+    {
+      "n": 3,
+      "options": [
+        { "key": "a", "text": "Wegen" },
+        { "key": "b", "text": "Dank" },
+        { "key": "c", "text": "Mangels" }
+      ],
+      "answer": "c",
+      "explanation": "Leander had to talk „mit Händen und Füßen“ because there was no common language – „mangels“ + genitive means „for lack of“. „Dank“ and „Wegen“ would make the common language the reason, which contradicts the sentence.",
+      "explanationDe": "Leander musste sich „mit Händen und Füßen“ unterhalten, weil es keine gemeinsame Sprache gab – „mangels“ + Genitiv bedeutet „weil … fehlt“. Mit „Dank“ oder „Wegen“ wäre die gemeinsame Sprache der Grund – das widerspricht dem Satz.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 4,
+      "options": [
+        { "key": "a", "text": "Obwohl" },
+        { "key": "b", "text": "Deswegen" },
+        { "key": "c", "text": "Dennoch" }
+      ],
+      "answer": "c",
+      "explanation": "Despite the language problems Leander never felt like a stranger – a contrast with the previous sentence, expressed by the adverb „Dennoch“ with the verb in second position. „Obwohl“ would send the verb to the end, and „Deswegen“ would make the missing language the reason for feeling at home.",
+      "explanationDe": "Trotz der Sprachprobleme hat Leander sich nie fremd gefühlt – ein Gegensatz zum Satz davor, also das Adverb „Dennoch“ mit dem Verb auf Position 2. Nach „Obwohl“ müsste das Verb am Ende stehen, und mit „Deswegen“ wäre die fehlende Sprache der Grund dafür, dass er sich wohlgefühlt hat.",
+      "grammar": "konzessive-saetze-b2"
+    },
+    {
+      "n": 5,
+      "options": [
+        { "key": "a", "text": "um denen" },
+        { "key": "b", "text": "um die" },
+        { "key": "c", "text": "für die" }
+      ],
+      "answer": "b",
+      "explanation": "The verb is „sich kümmern um“ + accusative, and „Gerichte“ is plural, so „um die“. „um denen“ has the wrong case (dative), and „sich kümmern“ is never used with „für“.",
+      "explanationDe": "Das Verb heißt „sich kümmern um“ + Akkusativ, und „Gerichte“ ist Plural – also „um die“. „um denen“ hat den falschen Kasus (Dativ), und „sich kümmern“ steht nie mit „für“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 6,
+      "options": [
+        { "key": "a", "text": "halten" },
+        { "key": "b", "text": "sprechen" },
+        { "key": "c", "text": "führen" }
+      ],
+      "answer": "a",
+      "explanation": "The fixed combination is „eine Rede halten“ (to give a speech). „eine Rede führen“ and „eine Rede sprechen“ are not idiomatic – „führen“ goes with „ein Gespräch“, „sprechen“ with a language or „ein Gebet“.",
+      "explanationDe": "Die feste Verbindung heißt „eine Rede halten“. „eine Rede führen“ und „eine Rede sprechen“ sagt man nicht – „führen“ passt zu „ein Gespräch“, „sprechen“ zu einer Sprache oder zu „ein Gebet“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 7,
+      "options": [
+        { "key": "a", "text": "angestellt" },
+        { "key": "b", "text": "angestoßen" },
+        { "key": "c", "text": "angespielt" }
+      ],
+      "answer": "b",
+      "explanation": "„auf jemanden anstoßen“ means to clink glasses and drink to someone – here with port wine to the bride and groom. „auf etwas anspielen“ means to hint at something, and „anstellen“ means to employ someone or to switch something on.",
+      "explanationDe": "„auf jemanden anstoßen“ heißt, dass man mit den Gläsern anstößt und auf jemanden trinkt – hier mit Portwein auf das Brautpaar. „auf etwas anspielen“ bedeutet „indirekt auf etwas hinweisen“, und „anstellen“ heißt „jemandem eine Stelle geben“ oder „einschalten“."
+    },
+    {
+      "n": 8,
+      "options": [
+        { "key": "a", "text": "hatte" },
+        { "key": "b", "text": "war" },
+        { "key": "c", "text": "wurde" }
+      ],
+      "answer": "c",
+      "explanation": "This clause has no subject – it is not about particular people but about the fact that there was dancing. German expresses this with a subjectless passive: „wurde dort … getanzt“. „hatte … getanzt“ would need a subject („die Gäste hatten getanzt“), and „war … getanzt“ is not a possible form.",
+      "explanationDe": "Dieser Satz hat kein Subjekt – es geht nicht um bestimmte Personen, sondern darum, dass getanzt wurde. Dafür benutzt man ein Passiv ohne Subjekt: „wurde dort … getanzt“. „hatte … getanzt“ bräuchte ein Subjekt („die Gäste hatten getanzt“), und „war … getanzt“ ist keine mögliche Form.",
+      "grammar": "passiv-b2"
+    },
+    {
+      "n": 9,
+      "options": [
+        { "key": "a", "text": "als" },
+        { "key": "b", "text": "ohne" },
+        { "key": "c", "text": "statt" }
+      ],
+      "answer": "a",
+      "explanation": "„zu + adjective“ in the main clause is followed by „als dass“ + Konjunktiv II: „viel zu schön, als dass ich ihn … beschreiben könnte“ = too beautiful to be described. „statt dass“ and „ohne dass“ do not combine with „zu schön“.",
+      "explanationDe": "Auf „zu + Adjektiv“ im Hauptsatz folgt „als dass“ + Konjunktiv II: „viel zu schön, als dass ich ihn … beschreiben könnte“ = so schön, dass ich ihn nicht beschreiben kann. „statt dass“ und „ohne dass“ passen nicht zu „zu schön“.",
+      "grammar": "konsekutivsaetze-b2"
+    },
+    {
+      "n": 10,
+      "options": [
+        { "key": "a", "text": "entschied" },
+        { "key": "b", "text": "entschieden" },
+        { "key": "c", "text": "entscheiden" }
+      ],
+      "answer": "b",
+      "explanation": "The decision was made before Leander feels glad about it, so the infinitive clause uses the perfect infinitive: participle + „zu haben“ – „mich … entschieden zu haben“. „entscheiden zu haben“ and „entschied zu haben“ are not possible forms.",
+      "explanationDe": "Die Entscheidung liegt vor dem Gefühl „Ich bin froh“, deshalb steht der Infinitiv Perfekt: Partizip II + „zu haben“ – „mich … entschieden zu haben“. „entscheiden zu haben“ und „entschied zu haben“ sind keine möglichen Formen.",
+      "grammar": "infinitivsaetze-b2"
+    }
+  ],
+  "glossary": [
+    { "de": "die Trauung", "en": "wedding ceremony" },
+    { "de": "das Weingut", "en": "wine estate, winery" },
+    { "de": "mangels (+ Gen.)", "en": "for lack of" },
+    { "de": "sich mit Händen und Füßen unterhalten", "en": "to communicate with gestures" },
+    { "de": "der Trauzeuge", "en": "best man, (wedding) witness" },
+    { "de": "eine Rede halten", "en": "to give a speech" },
+    { "de": "jemandem zittern die Knie", "en": "someone's knees are shaking" },
+    { "de": "auf jemanden anstoßen", "en": "to drink a toast to someone" },
+    { "de": "durchhalten", "en": "to keep going, to hold out" },
+    { "de": "der Brautstrauß", "en": "bridal bouquet" }
+  ]
+}

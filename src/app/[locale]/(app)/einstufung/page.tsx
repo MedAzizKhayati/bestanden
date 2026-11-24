@@ -4,7 +4,8 @@ import { PageContainer } from "@/components/common/page-header";
 import { PlacementRunner } from "@/components/placement/placement-runner";
 import { getLocale, getT } from "@/i18n/server";
 import { getGrammarTopics, getPlacementTest } from "@/lib/content/load";
-import { DEFAULT_EXAM } from "@/lib/exams";
+import type { PlacementTest } from "@/lib/content/schemas";
+import { EXAMS } from "@/lib/exams";
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getT();
@@ -13,12 +14,17 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default async function PlacementPage() {
   const locale = await getLocale();
-  const test = getPlacementTest(DEFAULT_EXAM.id, locale);
-  if (!test) notFound();
+  // Every exam's level check is rendered; the learner's current exam picks one in the browser.
+  const tests: Record<string, PlacementTest> = {};
+  for (const exam of EXAMS) {
+    const test = getPlacementTest(exam.id, locale);
+    if (test) tests[exam.slug] = test;
+  }
+  if (!Object.keys(tests).length) notFound();
   const grammarTitles = Object.fromEntries(getGrammarTopics(locale).map((topic) => [topic.id, topic.title]));
   return (
     <PageContainer>
-      <PlacementRunner test={test} examSlug={DEFAULT_EXAM.slug} grammarTitles={grammarTitles} />
+      <PlacementRunner tests={tests} grammarTitles={grammarTitles} />
     </PageContainer>
   );
 }

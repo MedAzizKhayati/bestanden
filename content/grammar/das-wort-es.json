@@ -1,0 +1,240 @@
+{
+  "id": "das-wort-es",
+  "level": "B2",
+  "category": "nomen",
+  "order": 21,
+  "title": "Das Wort „es“: Platzhalter, Subjekt und Objekt",
+  "titleEn": "The word „es“: placeholder, subject and object",
+  "summary": "es does many jobs: formal subject (Es regnet, es gibt), placeholder in position 1 (Es kamen viele Gäste), correlate (Es ist wichtig, dass …) and object in fixed expressions (es eilig haben). The key B2 question: does es stay when another word comes first?",
+  "summaryDe": "es hat viele Aufgaben: formales Subjekt (Es regnet, es gibt), Platzhalter auf Position 1 (Es kamen viele Gäste), Korrelat (Es ist wichtig, dass …) und Objekt in festen Wendungen (es eilig haben). Die wichtigste B2-Frage: Bleibt es, wenn ein anderes Wort am Anfang steht?",
+  "examRelevance": ["sprachbausteine", "lesen", "hoeren", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**Impersonal es** is a real (formal) subject and **always stays**: Es regnet. → Heute regnet **es**. / Es gibt … → Hier gibt **es** … **Placeholder es** only fills position 1 when the real subject comes later; it **disappears** as soon as another word takes position 1: **Es** kamen viele Gäste. → Gestern kamen viele Gäste.",
+      "mdDe": "Das **unpersönliche es** ist ein echtes (formales) Subjekt und **bleibt immer**: Es regnet. → Heute regnet **es**. / Es gibt … → Hier gibt **es** … Das **Platzhalter-es** füllt nur Position 1, wenn das echte Subjekt später kommt; es **fällt weg**, sobald ein anderes Wort auf Position 1 steht: **Es** kamen viele Gäste. → Gestern kamen viele Gäste."
+    },
+    {
+      "type": "text",
+      "heading": "Impersonal es: weather, time, es gibt and more",
+      "headingDe": "Unpersönliches es: Wetter, Zeit, es gibt und mehr",
+      "md": "Some verbs have no real actor. Then **es** is the grammatical subject – it cannot be replaced and stays in every position:\n\n- **Weather and nature:** Es regnet / schneit / donnert / hagelt. Es ist neblig. Es wird dunkel.\n- **Time:** Es ist halb acht. Es ist schon spät. Es wird Herbst.\n- **es gibt + accusative** (there is / there are – always singular **gibt**): In der Stadt gibt **es** drei neue Kitas.\n- **Fixed verbs:** es geht um (Worum geht **es**?), es handelt sich um, es kommt auf … an, es kommt zu, es fehlt an, es klingelt / klopft, es riecht nach, es zieht (there's a draught).\n- **How someone is:** Wie geht **es** dir? – Mir geht **es** gut.\n\nCompare: with **mir ist kalt / schlecht / schwindelig** German normally starts with the dative and uses **no** es: **Mir ist** kalt. Ist **dir** schlecht?",
+      "mdDe": "Manche Verben haben keinen echten Handelnden. Dann ist **es** das grammatische Subjekt – man kann es nicht ersetzen, und das Wort bleibt in jeder Position:\n\n- **Wetter und Natur:** Es regnet / schneit / donnert / hagelt. Es ist neblig. Es wird dunkel.\n- **Zeit:** Es ist halb acht. Es ist schon spät. Es wird Herbst.\n- **es gibt + Akkusativ** (immer Singular **gibt**): In der Stadt gibt **es** drei neue Kitas.\n- **Feste Verben:** es geht um (Worum geht **es**?), es handelt sich um, es kommt auf … an, es kommt zu, es fehlt an, es klingelt / klopft, es riecht nach, es zieht (= kalte Luft kommt herein).\n- **Befinden:** Wie geht **es** dir? – Mir geht **es** gut.\n\nVergleich: Bei **mir ist kalt / schlecht / schwindelig** beginnt man normalerweise mit dem Dativ und benutzt **kein** es: **Mir ist** kalt. Ist **dir** schlecht?"
+    },
+    {
+      "type": "text",
+      "heading": "Placeholder es in position 1",
+      "headingDe": "Das Platzhalter-es auf Position 1",
+      "md": "In news, reports and announcements, sentences often start with **es** so that the real subject comes later, where it gets more attention. This es is **not** the subject – the verb agrees with the real subject:\n\n- **Es** kamen mehr als 500 Besucher. (subject: mehr als 500 Besucher → plural verb)\n- **Es** haben sich zwanzig Firmen beworben.\n- **Es** besteht die Gefahr, dass die Brücke gesperrt wird.\n\nThe same placeholder appears in the **impersonal passive**, which has no subject at all: **Es** wird viel gelacht. / **Es** darf hier nicht geraucht werden.\n\nAs soon as another element takes position 1 – or in a subordinate clause or a yes/no question – the placeholder **disappears**:\n\n- Gestern kamen mehr als 500 Besucher.\n- Hier darf nicht geraucht werden.\n- Ich weiß, dass auf der Feier viel gelacht wurde.\n- Haben sich viele Firmen beworben?",
+      "mdDe": "In Nachrichten, Berichten und Durchsagen beginnen Sätze oft mit **es**, damit das echte Subjekt später kommt – dort bekommt es mehr Aufmerksamkeit. Dieses es ist **nicht** das Subjekt – das Verb richtet sich nach dem echten Subjekt:\n\n- **Es** kamen mehr als 500 Besucher. (Subjekt: mehr als 500 Besucher → Verb im Plural)\n- **Es** haben sich zwanzig Firmen beworben.\n- **Es** besteht die Gefahr, dass die Brücke gesperrt wird.\n\nDasselbe Platzhalter-es steht im **unpersönlichen Passiv**, das gar kein Subjekt hat: **Es** wird viel gelacht. / **Es** darf hier nicht geraucht werden.\n\nSobald ein anderes Satzglied auf Position 1 steht – und im Nebensatz oder in einer Ja/Nein-Frage – **fällt** der Platzhalter **weg**:\n\n- Gestern kamen mehr als 500 Besucher.\n- Hier darf nicht geraucht werden.\n- Ich weiß, dass auf der Feier viel gelacht wurde.\n- Haben sich viele Firmen beworben?"
+    },
+    {
+      "type": "table",
+      "heading": "Does es stay when another word comes first?",
+      "headingDe": "Bleibt es, wenn ein anderes Wort vorne steht?",
+      "columns": ["Type", "Basic sentence", "Another word in position 1", "es"],
+      "columnsDe": ["Typ", "Grundsatz", "Anderes Wort auf Position 1", "es"],
+      "rows": [
+        ["weather / time", "Es schneit seit Stunden.", "Seit Stunden schneit es.", "stays"],
+        ["es gibt", "Es gibt hier kein Netz.", "Hier gibt es kein Netz.", "stays"],
+        ["es geht um / es handelt sich um", "Es geht um viel Geld.", "Bei dem Streit geht es um viel Geld.", "stays"],
+        ["fixed expression with es", "Ich habe es eilig.", "Heute habe ich es eilig.", "stays"],
+        ["placeholder es", "Es kamen viele Gäste.", "Gestern kamen viele Gäste.", "disappears"],
+        ["impersonal passive", "Es wird nicht gearbeitet.", "Am Sonntag wird nicht gearbeitet.", "disappears"],
+        ["correlate es (subject clause)", "Es freut mich, dass du kommst.", "Dass du kommst, freut mich.", "disappears"]
+      ],
+      "rowsDe": [
+        ["Wetter / Zeit", "Es schneit seit Stunden.", "Seit Stunden schneit es.", "bleibt"],
+        ["es gibt", "Es gibt hier kein Netz.", "Hier gibt es kein Netz.", "bleibt"],
+        ["es geht um / es handelt sich um", "Es geht um viel Geld.", "Bei dem Streit geht es um viel Geld.", "bleibt"],
+        ["feste Wendung mit es", "Ich habe es eilig.", "Heute habe ich es eilig.", "bleibt"],
+        ["Platzhalter-es", "Es kamen viele Gäste.", "Gestern kamen viele Gäste.", "fällt weg"],
+        ["unpersönliches Passiv", "Es wird nicht gearbeitet.", "Am Sonntag wird nicht gearbeitet.", "fällt weg"],
+        ["Korrelat-es (Subjektsatz)", "Es freut mich, dass du kommst.", "Dass du kommst, freut mich.", "fällt weg"]
+      ],
+      "note": "Test: put another element in position 1. If the sentence still needs es, it is a real subject or object; if es has to go, it was only a placeholder.",
+      "noteDe": "Test: Stell ein anderes Satzglied auf Position 1. Braucht der Satz es dann noch, ist es ein echtes Subjekt oder Objekt; muss es verschwinden, war es nur ein Platzhalter."
+    },
+    {
+      "type": "text",
+      "heading": "es as an object and in fixed expressions",
+      "headingDe": "es als Objekt und in festen Wendungen",
+      "md": "As an accusative object, **es** refers to a neuter noun or to a whole statement: Weißt du, dass Mia kündigt? – Ja, ich weiß **es**.\n\nMany fixed expressions contain an object es that never disappears: **es eilig haben** (to be in a hurry), **es gut / schwer haben**, **es ernst meinen**, **es satthaben** (to be fed up), **es zu etwas bringen** (to be successful), **es sich bequem machen**.\n\nTwo rules for object es:\n\n- **Never in position 1:** unstressed es cannot start a sentence as an object. Use **das** instead: **Das** habe ich nicht gewusst. (not: Es habe ich nicht gewusst.)\n- **After a preposition** es becomes a da-word: über es → **darüber**, mit es → **damit**.\n\nes can also announce a dass- or infinitive clause (Es ist wichtig, dass … / Ich finde es gut, dass …). This correlate es disappears when the clause comes first – details in *Korrelate*.",
+      "mdDe": "Als Akkusativobjekt bezieht sich **es** auf ein neutrales Nomen oder auf eine ganze Aussage: Weißt du, dass Mia kündigt? – Ja, ich weiß **es**.\n\nViele feste Wendungen enthalten ein Objekt-es, das nie wegfällt: **es eilig haben** (= wenig Zeit haben), **es gut / schwer haben**, **es ernst meinen**, **es satthaben** (= genug von etwas haben), **es zu etwas bringen** (= Erfolg haben), **es sich bequem machen**.\n\nZwei Regeln für das Objekt-es:\n\n- **Nie auf Position 1:** Unbetontes es kann einen Satz nicht als Objekt beginnen. Nimm stattdessen **das**: **Das** habe ich nicht gewusst. (nicht: Es habe ich nicht gewusst.)\n- **Nach einer Präposition** wird es zum da-Wort: über es → **darüber**, mit es → **damit**.\n\nes kann auch einen dass- oder Infinitivsatz ankündigen (Es ist wichtig, dass … / Ich finde es gut, dass …). Dieses Korrelat-es fällt weg, wenn der Nebensatz vorne steht – mehr dazu unter *Korrelate*."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "In der Nacht hat **es** stark gestürmt, deshalb fallen heute viele Züge aus.", "en": "There was a heavy storm overnight, so many trains are cancelled today." },
+        { "de": "In unserem Viertel gibt **es** seit Kurzem ein Repair-Café.", "en": "Our neighbourhood has recently got a repair café." },
+        { "de": "Bei der Klage handelt **es** sich um einen Streit über Lärmschutz.", "en": "The lawsuit concerns a dispute over noise protection." },
+        { "de": "**Es** meldeten sich deutlich mehr Freiwillige als erwartet.", "en": "Considerably more volunteers came forward than expected." },
+        { "de": "Auf der Konferenz **wurde** vor allem über Datenschutz diskutiert.", "en": "At the conference, the discussion was mainly about data protection." },
+        { "de": "Wegen des Streiks kam **es** zu langen Wartezeiten am Flughafen.", "en": "Because of the strike there were long waiting times at the airport." },
+        { "de": "Entschuldige, ich habe **es** heute wirklich eilig.", "en": "Sorry, I'm really in a hurry today." },
+        { "de": "Glaubst du, dass er **es** ernst meint? – **Das** weiß ich nicht.", "en": "Do you think he means it? – I don't know." },
+        { "de": "Auf dem Schiff war **mir** die ganze Zeit schlecht.", "en": "I felt sick the whole time on the ship." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 1:** a gap may test whether es is needed: „In der Region gibt ___ kaum Arbeitsplätze“ → es. If another word already stands in position 1, a placeholder es is wrong: „Gestern wurde lange verhandelt“, not „Gestern wurde es lange verhandelt“. Also check the verb: with placeholder es it agrees with the real subject – „Es **haben** sich 20 Personen angemeldet“.\n- **Lesen and Hören:** news texts love impersonal es („Es kam zu Verzögerungen“ – es stays: „Gestern kam es zu …“) and placeholder es („Es besteht kein Grund zur Sorge“ – the subject is „kein Grund“). Look for the real subject after the verb.\n- **Schreiben:** impersonal phrases sound objective in a complaint: „Leider kam es mehrfach zu Verspätungen.“ – „Es handelt sich um meine Buchung vom 3. Mai.“ – „Es wäre schön, wenn Sie …“.",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 1:** Eine Lücke kann prüfen, ob es nötig ist: „In der Region gibt ___ kaum Arbeitsplätze“ → es. Steht schon ein anderes Wort auf Position 1, ist ein Platzhalter-es falsch: „Gestern wurde lange verhandelt“, nicht „Gestern wurde es lange verhandelt“. Prüf auch das Verb: Beim Platzhalter-es richtet es sich nach dem echten Subjekt – „Es **haben** sich 20 Personen angemeldet“.\n- **Lesen und Hören:** Nachrichtentexte lieben das unpersönliche es („Es kam zu Verzögerungen“ – es bleibt: „Gestern kam es zu …“) und das Platzhalter-es („Es besteht kein Grund zur Sorge“ – das Subjekt ist „kein Grund“). Such das echte Subjekt nach dem Verb.\n- **Schreiben:** Unpersönliche Formulierungen klingen in einer Beschwerde sachlich: „Leider kam es mehrfach zu Verspätungen.“ – „Es handelt sich um meine Buchung vom 3. Mai.“ – „Es wäre schön, wenn Sie …“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **es gibt never loses es:** „Heute gibt **es** …“ – not „Heute gibt …“.\n- **Placeholder es only in position 1:** „Gestern wurde lange diskutiert“ – not „Gestern wurde es lange diskutiert“.\n- **Agreement:** with placeholder es the verb follows the real subject: „Es **sind** noch drei Plätze frei“ – not „Es ist noch drei Plätze frei“.\n- **es gibt or es sind?** „es gibt“ (+ accusative, always singular) says that something exists; „es sind / es waren“ (+ nominative, plural verb with a plural subject) describes who or what is present in a concrete situation: „Es waren 200 Leute auf der Party.“",
+      "mdDe": "**Typische Fallen:**\n\n- **es gibt verliert nie sein es:** „Heute gibt **es** …“ – nicht „Heute gibt …“.\n- **Platzhalter-es nur auf Position 1:** „Gestern wurde lange diskutiert“ – nicht „Gestern wurde es lange diskutiert“.\n- **Kongruenz:** Beim Platzhalter-es richtet sich das Verb nach dem echten Subjekt: „Es **sind** noch drei Plätze frei“ – nicht „Es ist noch drei Plätze frei“.\n- **es gibt oder es sind?** „es gibt“ (+ Akkusativ, immer Singular) sagt, dass etwas existiert; „es sind / es waren“ (+ Nominativ, Verb im Plural bei einem Subjekt im Plural) beschreibt, wer oder was in einer konkreten Situation da ist: „Es waren 200 Leute auf der Party.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Heute gibt viele Probleme mit dem Internet.",
+      "right": "Heute gibt es viele Probleme mit dem Internet.",
+      "why": "In „es gibt“ the es is the formal subject and never disappears, even when another word comes first.",
+      "whyDe": "In „es gibt“ ist es das formale Subjekt und fällt nie weg – auch nicht, wenn ein anderes Wort vorne steht."
+    },
+    {
+      "wrong": "Gestern wurde es im Bundestag über das neue Gesetz abgestimmt.",
+      "right": "Gestern wurde im Bundestag über das neue Gesetz abgestimmt.",
+      "why": "In the impersonal passive, es is only a placeholder for position 1. Here „Gestern“ is in position 1, so es disappears.",
+      "whyDe": "Im unpersönlichen Passiv ist es nur ein Platzhalter für Position 1. Hier steht „Gestern“ auf Position 1, also fällt es weg."
+    },
+    {
+      "wrong": "Es hat viele Leute am Wettbewerb teilgenommen.",
+      "right": "Es haben viele Leute am Wettbewerb teilgenommen.",
+      "why": "Placeholder es is not the subject. The verb agrees with the real subject „viele Leute“ (plural).",
+      "whyDe": "Das Platzhalter-es ist nicht das Subjekt. Das Verb richtet sich nach dem echten Subjekt „viele Leute“ (Plural)."
+    },
+    {
+      "wrong": "Es habe ich leider nicht gewusst.",
+      "right": "Das habe ich leider nicht gewusst.",
+      "why": "Unstressed es cannot stand in position 1 as an object. Use „das“ – or keep es after the verb: „Ich habe es leider nicht gewusst.“",
+      "whyDe": "Unbetontes es kann als Objekt nicht auf Position 1 stehen. Nimm „das“ – oder lass es hinter dem Verb: „Ich habe es leider nicht gewusst.“"
+    },
+    {
+      "wrong": "Dass du mir geholfen hast, freut es mich sehr.",
+      "right": "Dass du mir geholfen hast, freut mich sehr.",
+      "why": "When the dass-clause stands in position 1, it is the subject itself, and the correlate es disappears.",
+      "whyDe": "Wenn der dass-Satz auf Position 1 steht, ist er selbst das Subjekt, und das Korrelat es fällt weg."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Gestern ___ in unserer Straße ein neues Café eröffnet.",
+      "options": ["wurde", "wurde es", "es wurde"],
+      "answer": 0,
+      "explanation": "„Gestern“ is in position 1 and „ein neues Café“ is the subject, so there is no placeholder es. „es wurde“ also breaks the rule that the verb is in position 2.",
+      "explanationDe": "„Gestern“ steht auf Position 1, und „ein neues Café“ ist das Subjekt – es gibt also kein Platzhalter-es. „es wurde“ verletzt außerdem die Regel, dass das Verb auf Position 2 steht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Am Wochenende ___ in der Altstadt mehrere Straßenfeste gefeiert.",
+      "options": ["werden", "wird es", "es werden"],
+      "answer": 0,
+      "explanation": "The subject is „mehrere Straßenfeste“ (plural) → „werden“. „Am Wochenende“ fills position 1, so there is no room for a placeholder es.",
+      "explanationDe": "Das Subjekt ist „mehrere Straßenfeste“ (Plural) → „werden“. „Am Wochenende“ besetzt Position 1, deshalb ist kein Platz für ein Platzhalter-es."
+    },
+    {
+      "type": "mc",
+      "prompt": "Es ___ sich mehr als hundert Freiwillige für das Projekt gemeldet.",
+      "options": ["haben", "hat", "ist"],
+      "answer": 0,
+      "explanation": "Placeholder es is not the subject. The real subject is „mehr als hundert Freiwillige“ (plural), and „sich melden“ forms its Perfekt with „haben“ → „haben“.",
+      "explanationDe": "Das Platzhalter-es ist nicht das Subjekt. Das echte Subjekt ist „mehr als hundert Freiwillige“ (Plural), und „sich melden“ bildet das Perfekt mit „haben“ → „haben“."
+    },
+    {
+      "type": "mc",
+      "prompt": "In diesem Bericht geht ___ um die Folgen der Trockenheit für die Landwirtschaft.",
+      "options": ["es", "sich", "das"],
+      "answer": 0,
+      "explanation": "„es geht um“ is a fixed impersonal expression; es stays even though „In diesem Bericht“ comes first. „sich“ belongs to „es handelt sich um“.",
+      "explanationDe": "„es geht um“ ist ein fester unpersönlicher Ausdruck; es bleibt, auch wenn „In diesem Bericht“ vorne steht. „sich“ gehört zu „es handelt sich um“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Weißt du schon, dass Lara ein Baby bekommt? – Ja, ___ hat mir ihre Schwester gestern erzählt.",
+      "options": ["das", "es", "sie"],
+      "answer": 0,
+      "explanation": "The object refers to the whole statement and stands in position 1. Unstressed es cannot start a sentence as an object, so you need „das“. „sie“ would refer to Lara herself.",
+      "explanationDe": "Das Objekt bezieht sich auf die ganze Aussage und steht auf Position 1. Unbetontes es kann einen Satz nicht als Objekt beginnen, deshalb brauchst du „das“. „sie“ würde sich auf Lara selbst beziehen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Auf der Fähre war ___ die ganze Zeit schlecht.",
+      "options": ["mir", "es mich", "ich"],
+      "answer": 0,
+      "explanation": "„mir ist schlecht“ uses the dative and normally no es. „es mich“ has the wrong case, and „ich war schlecht“ would mean that you performed badly.",
+      "explanationDe": "„mir ist schlecht“ steht mit Dativ und normalerweise ohne es. „es mich“ hat den falschen Kasus, und „ich war schlecht“ würde bedeuten, dass deine Leistung schlecht war."
+    },
+    {
+      "type": "gap",
+      "prompt": "In unserer Stadt gibt ___ kaum noch bezahlbare Wohnungen.",
+      "answers": ["es"],
+      "explanation": "In „es gibt“ the es is the formal subject. It stays even when „In unserer Stadt“ takes position 1.",
+      "explanationDe": "In „es gibt“ ist es das formale Subjekt. Es bleibt, auch wenn „In unserer Stadt“ auf Position 1 steht."
+    },
+    {
+      "type": "gap",
+      "prompt": "Tut mir leid, ich kann nicht länger bleiben – ich habe ___ heute sehr eilig.",
+      "answers": ["es"],
+      "explanation": "„es eilig haben“ (to be in a hurry) is a fixed expression with an object es that never disappears.",
+      "explanationDe": "„es eilig haben“ (= wenig Zeit haben) ist eine feste Wendung mit einem Objekt-es, das nie wegfällt."
+    },
+    {
+      "type": "gap",
+      "prompt": "Laut Wetterbericht wird ___ morgen früh in weiten Teilen Bayerns Glätte geben.",
+      "answers": ["es"],
+      "explanation": "„es gibt“ in the future: „es wird … geben“. es is the formal subject and stays, although „Laut Wetterbericht“ is in position 1.",
+      "explanationDe": "„es gibt“ im Futur: „es wird … geben“. es ist das formale Subjekt und bleibt, obwohl „Laut Wetterbericht“ auf Position 1 steht."
+    },
+    {
+      "type": "transform",
+      "instruction": "Start the sentence with the words in brackets.",
+      "instructionDe": "Beginne den Satz mit den Wörtern in Klammern.",
+      "prompt": "Es wurde auf der Versammlung heftig gestritten. (Auf der Versammlung)",
+      "answers": ["Auf der Versammlung wurde heftig gestritten."],
+      "explanation": "Impersonal passive: es is only a placeholder. When „Auf der Versammlung“ takes position 1, es disappears.",
+      "explanationDe": "Unpersönliches Passiv: es ist nur ein Platzhalter. Wenn „Auf der Versammlung“ auf Position 1 steht, fällt es weg."
+    },
+    {
+      "type": "transform",
+      "instruction": "Start the sentence with the words in brackets.",
+      "instructionDe": "Beginne den Satz mit den Wörtern in Klammern.",
+      "prompt": "Es regnet seit dem frühen Morgen. (Seit dem frühen Morgen)",
+      "answers": ["Seit dem frühen Morgen regnet es."],
+      "explanation": "With weather verbs es is the real (formal) subject, so it stays and moves behind the verb: „regnet es“.",
+      "explanationDe": "Bei Wetterverben ist es das echte (formale) Subjekt, deshalb bleibt es und steht hinter dem Verb: „regnet es“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Start the sentence with placeholder „es“.",
+      "instructionDe": "Beginne den Satz mit dem Platzhalter „es“.",
+      "prompt": "Zwei wichtige Unterlagen fehlen noch.",
+      "answers": ["Es fehlen noch zwei wichtige Unterlagen."],
+      "explanation": "es takes position 1, the real subject „zwei wichtige Unterlagen“ moves behind the verb – and the verb stays plural: „Es fehlen“.",
+      "explanationDe": "es steht auf Position 1, das echte Subjekt „zwei wichtige Unterlagen“ rückt hinter das Verb – und das Verb bleibt im Plural: „Es fehlen“."
+    },
+    {
+      "type": "order",
+      "words": ["es", "einmalige", "Bei", "handelt", "Gelegenheit.", "um", "Angebot", "sich", "diesem", "eine"],
+      "answers": [
+        "Bei diesem Angebot handelt es sich um eine einmalige Gelegenheit.",
+        "Es handelt sich bei diesem Angebot um eine einmalige Gelegenheit."
+      ],
+      "explanation": "„es handelt sich um“ is a fixed expression: es stays even when „Bei diesem Angebot“ comes first. Then the order is verb – es – sich.",
+      "explanationDe": "„es handelt sich um“ ist eine feste Wendung: es bleibt, auch wenn „Bei diesem Angebot“ vorne steht. Dann ist die Reihenfolge Verb – es – sich."
+    },
+    {
+      "type": "order",
+      "words": ["telefoniert", "In", "darf", "laut", "der", "werden.", "nicht", "Bibliothek"],
+      "answers": ["In der Bibliothek darf nicht laut telefoniert werden."],
+      "explanation": "Impersonal passive with a modal verb. „In der Bibliothek“ takes position 1, so there is no placeholder es; „telefoniert werden“ goes to the end.",
+      "explanationDe": "Unpersönliches Passiv mit Modalverb. „In der Bibliothek“ steht auf Position 1, also gibt es kein Platzhalter-es; „telefoniert werden“ steht am Ende."
+    }
+  ],
+  "related": ["pronomen", "passiv", "satzbau-hauptsatz", "verben-mit-praepositionen", "korrelate", "passiv-b2", "satzgliedstellung"]
+}

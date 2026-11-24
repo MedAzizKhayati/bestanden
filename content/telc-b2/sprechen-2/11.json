@@ -1,0 +1,104 @@
+{
+  "id": "sprechen-2-11",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Studiengebühren – ja oder nein?",
+  "topic": "bildung",
+  "difficulty": 2,
+  "theme": "Sollten Studierende an staatlichen Hochschulen Studiengebühren zahlen?",
+  "article": {
+    "headline": "Erst studieren, später zahlen?",
+    "lead": "Mehr als zehn Jahre nach ihrer Abschaffung könnten Studiengebühren in einem Bundesland zurückkehren – allerdings in neuer Form. Ein Gutachten sorgt für heftige Diskussionen.",
+    "paragraphs": [
+      "Eine von der Landesregierung eingesetzte Expertenkommission empfiehlt, dass Studierende künftig 600 Euro pro Semester zur Finanzierung ihrer Hochschule beitragen. Bezahlt werden soll allerdings nicht während des Studiums, sondern erst danach – und nur dann, wenn das Einkommen der Absolventinnen und Absolventen 35.000 Euro im Jahr übersteigt. Nach Berechnungen der Kommission kämen so jährlich rund 280 Millionen Euro zusammen, die vollständig in kleinere Seminare, längere Öffnungszeiten der Bibliotheken und digitale Lehrangebote fließen sollen.",
+      "Die Befürworter verweisen auf die Lage an vielen Hochschulen: überfüllte Hörsäle, sanierungsbedürftige Gebäude, zu wenig Betreuung. „Es ist nicht gerecht, dass der Handwerker mit seinen Steuern das Studium der künftigen Ärztin finanziert“, argumentiert der Bildungsökonom Frank Seidlitz, Mitglied der Kommission. Wer von einem Studium profitiere, solle sich auch an dessen Kosten beteiligen. Zudem zeigten Erfahrungen aus anderen Ländern, dass nachgelagerte Gebühren kaum abschreckend wirkten.",
+      "Genau das bezweifeln die Studierendenvertretungen. Sie berufen sich auf eine Umfrage unter 3.100 Studieninteressierten, nach der 27 Prozent derjenigen, deren Eltern nicht studiert haben, bei einer Gebühr „eher nicht“ oder „sicher nicht“ studieren würden. Unter Akademikerkindern waren es lediglich neun Prozent. „Schon die Angst vor Schulden hält junge Menschen aus ärmeren Familien vom Studium ab – auch wenn die Rückzahlung erst Jahre später fällig wird“, sagt Nele Ahrendt vom Landesverband der Studierenden.",
+      "Auch die Hochschulleitungen reagieren zurückhaltend. Sie befürchten, dass das Land seine eigenen Zuschüsse kürzen könnte, sobald Gebühren fließen. Die 20-jährige Lehramtsstudentin Mira Topal sieht noch ein anderes Problem: „Ich jobbe schon jetzt zwölf Stunden pro Woche neben dem Studium. Wenn ich am Ende auch noch Schulden habe, überlege ich mir zweimal, ob ich einen Master mache.“ Der Landtag will das Gutachten im Frühjahr beraten."
+    ],
+    "source": "Elbe-Saale-Zeitung, Hochschule und Beruf"
+  },
+  "ideas": {
+    "pro": [
+      "mehr Geld für bessere Lehre und Betreuung",
+      "wer vom Studium profitiert, beteiligt sich an den Kosten",
+      "Zahlung erst nach dem Studium und nur bei gutem Einkommen",
+      "Entlastung der Steuerzahler ohne Hochschulabschluss",
+      "Studierende studieren möglicherweise zielstrebiger"
+    ],
+    "contra": [
+      "Angst vor Schulden schreckt Kinder aus Nichtakademikerfamilien ab",
+      "Bildung sollte nicht vom Geldbeutel abhängen",
+      "der Staat könnte seine eigenen Zuschüsse kürzen",
+      "Gutverdienende zahlen ohnehin mehr Steuern",
+      "hoher Verwaltungsaufwand für Erhebung und Rückzahlung",
+      "viele Studierende arbeiten schon jetzt neben dem Studium"
+    ]
+  },
+  "questions": [
+    "Sollte ein Studium Ihrer Meinung nach kostenlos sein? Begründen Sie Ihre Meinung.",
+    "Wie wird das Studium in Ihrem Heimatland finanziert?",
+    "Wer profitiert am meisten davon, dass Menschen gut ausgebildet sind: die Einzelnen oder die Gesellschaft?",
+    "Unter welchen Bedingungen fänden Sie Studiengebühren akzeptabel?",
+    "Was könnten Hochschulen tun, um junge Menschen aus Nichtakademikerfamilien zu unterstützen?",
+    "Welche Erfahrungen haben Sie mit einem Studium oder einer Ausbildung neben der Arbeit gemacht?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Zehra Tunç", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Jonas Ekström", "gender": "m", "age": "young", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie haben beide den Artikel über Studiengebühren gelesen. Fassen Sie bitte kurz zusammen, worum es geht, und diskutieren Sie dann miteinander." },
+    { "s": "A", "t": "In dem Artikel geht es um den Vorschlag einer Expertenkommission, wieder Studiengebühren einzuführen, und zwar sechshundert Euro pro Semester. Das Besondere ist, dass man erst nach dem Studium zahlen soll und nur dann, wenn man mehr als fünfunddreißigtausend Euro im Jahr verdient." },
+    { "s": "A", "t": "Ein Bildungsökonom aus der Kommission argumentiert, es sei ungerecht, dass alle Steuerzahler das Studium finanzieren, obwohl vor allem die Akademiker davon profitieren. Mit dem Geld sollen unter anderem kleinere Seminare und längere Öffnungszeiten der Bibliotheken bezahlt werden." },
+    { "s": "A", "t": "Die Studierendenvertretungen sind dagegen. Laut einer Umfrage würde mehr als ein Viertel der jungen Leute, deren Eltern nicht studiert haben, bei einer Gebühr wahrscheinlich nicht studieren." },
+    { "s": "B", "t": "Mich hat noch ein anderer Punkt überrascht: Auch die Hochschulleitungen sind skeptisch. Sie befürchten, dass das Land seine eigenen Zahlungen kürzt, sobald Gebühren fließen, und die Hochschulen am Ende gar nicht mehr Geld haben." },
+    { "s": "A", "t": "Ja, das fand ich auch bemerkenswert. Und wie stehst du dazu? Du studierst doch gerade, oder?" },
+    { "s": "B", "t": "Genau, Maschinenbau im vierten Semester. Ich muss sagen, dass ich die Idee gar nicht so schlecht finde. In Schweden, wo ich herkomme, kostet das Studium zwar nichts, aber viele nehmen einen staatlichen Kredit für die Lebenshaltungskosten auf und zahlen ihn später zurück." },
+    { "s": "A", "t": "Aber ist das nicht genau das Problem? Wer aus einer Familie kommt, in der niemand studiert hat, hat oft Angst vor Schulden. Meine Eltern hätten mir wahrscheinlich geraten, lieber eine Ausbildung zu machen." },
+    { "s": "B", "t": "Das verstehe ich, aber man zahlt ja nur, wenn man später gut verdient. Wer keinen gut bezahlten Job findet, zahlt gar nichts. Das ist doch eigentlich fairer als eine Gebühr, die man sofort bezahlen muss." },
+    { "s": "A", "t": "Rein rechnerisch hast du recht. Aber Angst ist nicht immer rational. Die Umfrage zeigt ja, dass schon die Vorstellung von Schulden abschreckt, auch wenn die Rückzahlung erst Jahre später kommt." },
+    { "s": "B", "t": "Das ist ein Argument, das ich ernst nehme. Andererseits sehe ich jeden Tag, wie schlecht die Bedingungen an meiner Uni sind. In manchen Vorlesungen sitzen die Leute auf der Treppe, und auf einen Termin bei der Studienberatung wartet man drei Wochen." },
+    { "s": "A", "t": "Das kenne ich, bei uns ist es ähnlich. Aber ist es wirklich die Aufgabe der Studierenden, das zu bezahlen? Bildung ist doch eine Investition, von der die ganze Gesellschaft profitiert, nicht nur der Einzelne." },
+    { "s": "B", "t": "Natürlich profitiert die Gesellschaft. Aber wer später als Ärztin oder Ingenieur gut verdient, profitiert eben am meisten. Ich finde es nicht falsch, wenn solche Leute einen kleinen Teil zurückgeben." },
+    { "s": "A", "t": "Dafür gibt es doch schon die Einkommensteuer. Wer mehr verdient, zahlt auch mehr Steuern. Warum sollte man dann noch extra zahlen?" },
+    { "s": "B", "t": "Gute Frage. Vielleicht, weil so sichergestellt wäre, dass das Geld direkt bei den Hochschulen ankommt und nicht irgendwo im Landeshaushalt verschwindet." },
+    { "s": "A", "t": "Wenn das garantiert wäre, könnte ich mich vielleicht damit anfreunden. Aber genau das bezweifeln ja die Hochschulleitungen." },
+    { "s": "B", "t": "Was hältst du davon, wenn man das gesetzlich festschreibt? Die Gebühren dürfen nur für die Lehre verwendet werden, und das Land darf seine Zuschüsse nicht kürzen." },
+    { "s": "A", "t": "Das wäre ein Anfang. Außerdem müsste es Stipendien und Ausnahmen geben, zum Beispiel für Studierende, die Kinder haben oder Angehörige pflegen." },
+    { "s": "B", "t": "Absolut. Und man müsste Schülerinnen und Schüler früh und gut informieren, damit niemand aus Angst vor Schulden auf ein Studium verzichtet." },
+    { "s": "A", "t": "Da sind wir uns einig. Grundsätzlich bin ich zwar immer noch gegen Gebühren, aber unter solchen Bedingungen wäre das Modell für mich zumindest diskutabel." },
+    { "s": "B", "t": "Und ich muss zugeben, dass ich das Problem mit der Angst vor Schulden vorher unterschätzt habe." },
+    { "s": "P", "t": "Vielen Dank. Was würden Sie einer jungen Person raten, die aus Angst vor den Kosten nicht studieren möchte?" },
+    { "s": "A", "t": "Ich würde ihr raten, sich zuerst gut beraten zu lassen. Viele wissen gar nicht, welche Stipendien und Förderungen es gibt." },
+    { "s": "B", "t": "Und ich würde ihr sagen, dass ein Studium nicht der einzige Weg ist. Mit einer guten Ausbildung hat man heute ebenfalls sehr gute Chancen." }
+  ],
+  "phrases": [
+    { "de": "In dem Artikel geht es um den Vorschlag, …", "en": "The article is about the proposal to …" },
+    { "de": "Das Besondere ist, dass …", "en": "What is special is that …" },
+    { "de": "… argumentiert, es sei ungerecht, dass …", "en": "… argues that it is unfair that …" },
+    { "de": "Mich hat noch ein anderer Punkt überrascht: …", "en": "Another point surprised me: …" },
+    { "de": "Wie stehst du dazu?", "en": "What's your position on this?" },
+    { "de": "Rein rechnerisch hast du recht, aber …", "en": "Mathematically speaking you're right, but …" },
+    { "de": "Das ist ein Argument, das ich ernst nehme.", "en": "That's an argument I take seriously." },
+    { "de": "Andererseits …", "en": "On the other hand …" },
+    { "de": "Damit könnte ich mich vielleicht anfreunden.", "en": "I could perhaps come round to that." },
+    { "de": "Was hältst du davon, wenn …?", "en": "What do you think about …?" },
+    { "de": "Grundsätzlich bin ich zwar …, aber …", "en": "In principle I'm …, but …" },
+    { "de": "Ich muss zugeben, dass ich … unterschätzt habe.", "en": "I have to admit that I underestimated …" }
+  ],
+  "vocabulary": [
+    { "de": "die Studiengebühr", "en": "tuition fee" },
+    { "de": "nachgelagert", "en": "deferred (payable later)" },
+    { "de": "der Absolvent / die Absolventin", "en": "graduate" },
+    { "de": "die Studierendenvertretung", "en": "student union, student representatives" },
+    { "de": "die Nichtakademikerfamilie", "en": "family without a university background" },
+    { "de": "das Stipendium", "en": "scholarship, grant" },
+    { "de": "die Lebenshaltungskosten (Pl.)", "en": "cost of living" },
+    { "de": "die Rückzahlung", "en": "repayment" },
+    { "de": "jemanden abschrecken", "en": "to deter someone" },
+    { "de": "das Gutachten", "en": "expert report" },
+    { "de": "der Hörsaal", "en": "lecture hall" },
+    { "de": "der Zuschuss", "en": "subsidy, grant" }
+  ]
+}

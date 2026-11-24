@@ -1,0 +1,241 @@
+{
+  "id": "irreale-vergleichssaetze",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 27,
+  "title": "Irreale Vergleiche: als ob, als wenn, als + Konjunktiv II",
+  "titleEn": "Unreal comparisons: als ob, als wenn, als + Konjunktiv II",
+  "summary": "Say what something looks, sounds or feels like although it isn't true: als ob / als wenn with the verb at the end, or als with the verb right after it – in the Konjunktiv II, in formal texts also the Konjunktiv I.",
+  "summaryDe": "Sag, wie etwas aussieht, klingt oder sich anfühlt, obwohl es nicht stimmt: als ob / als wenn mit dem Verb am Ende oder als mit dem Verb direkt danach – im Konjunktiv II, in formellen Texten auch im Konjunktiv I.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "An unreal comparison says what something **looks, sounds or feels like** – although it is **not true** or at least doubtful. There are three forms with the same meaning:\n\n- **als ob** … verb at the end: Er tut so, **als ob** er nichts **wüsste**.\n- **als wenn** … verb at the end (a little more colloquial): Er tut so, **als wenn** er nichts **wüsste**.\n- **als** + verb **directly after it**: Er tut so, **als wüsste** er nichts.\n\nThe verb is in the **Konjunktiv II** (in formal writing also in the Konjunktiv I).",
+      "mdDe": "Ein irrealer Vergleich sagt, wie etwas **aussieht, klingt oder sich anfühlt** – obwohl es **nicht stimmt** oder zumindest zweifelhaft ist. Es gibt drei Formen mit derselben Bedeutung:\n\n- **als ob** … Verb am Ende: Er tut so, **als ob** er nichts **wüsste**.\n- **als wenn** … Verb am Ende (etwas umgangssprachlicher): Er tut so, **als wenn** er nichts **wüsste**.\n- **als** + Verb **direkt danach**: Er tut so, **als wüsste** er nichts.\n\nDas Verb steht im **Konjunktiv II** (in formellen Texten auch im Konjunktiv I)."
+    },
+    {
+      "type": "text",
+      "heading": "Verbs and phrases that introduce them",
+      "headingDe": "Verben und Ausdrücke, die sie einleiten",
+      "md": "Unreal comparisons usually depend on a verb of impression or behaviour, often with **so** in the main clause:\n\n- **so tun, als ob** – to pretend: Sie tut **so**, als hätte sie die Nachricht nicht gelesen.\n- **aussehen, klingen, sich anhören, sich anfühlen, riechen, schmecken**: Das klingt, als ob du dich schon entschieden hättest.\n- **wirken, scheinen, sich verhalten, sich benehmen**: Er benimmt sich, als wäre er hier der Chef.\n- **Es kommt mir so vor / Ich habe das Gefühl, als ob …**: Es kommt mir so vor, als ob die Tage immer kürzer würden.\n- **den Eindruck erwecken, als ob** – typical of critical articles: Die Werbung erweckt den Eindruck, als sei das Produkt völlig klimaneutral.\n\nOn its own, **Als ob …!** is an indignant exclamation that means the opposite: „Als ob ich das nicht selbst wüsste!“ = Of course I know that.",
+      "mdDe": "Irreale Vergleiche hängen meistens von einem Verb des Eindrucks oder des Verhaltens ab, oft mit **so** im Hauptsatz:\n\n- **so tun, als ob** – etwas vortäuschen: Sie tut **so**, als hätte sie die Nachricht nicht gelesen.\n- **aussehen, klingen, sich anhören, sich anfühlen, riechen, schmecken**: Das klingt, als ob du dich schon entschieden hättest.\n- **wirken, scheinen, sich verhalten, sich benehmen**: Er benimmt sich, als wäre er hier der Chef.\n- **Es kommt mir so vor / Ich habe das Gefühl, als ob …**: Es kommt mir so vor, als ob die Tage immer kürzer würden.\n- **den Eindruck erwecken, als ob** – typisch für kritische Artikel: Die Werbung erweckt den Eindruck, als sei das Produkt völlig klimaneutral.\n\nAllein stehend ist **Als ob …!** ein empörter Ausruf, der das Gegenteil meint: „Als ob ich das nicht selbst wüsste!“ = Natürlich weiß ich das."
+    },
+    {
+      "type": "table",
+      "heading": "Same time, earlier, later",
+      "headingDe": "Gleichzeitig, vorher, nachher",
+      "columns": ["Time relation", "als ob …", "als …"],
+      "columnsDe": ["Zeitverhältnis", "als ob …", "als …"],
+      "rows": [
+        ["at the same time", "als ob er krank wäre", "als wäre er krank"],
+        ["at the same time (other verbs)", "als ob sie alles wüsste / wissen würde", "als wüsste sie alles / als würde sie alles wissen"],
+        ["earlier (with haben)", "als ob er die ganze Nacht gearbeitet hätte", "als hätte er die ganze Nacht gearbeitet"],
+        ["earlier (with sein)", "als ob sie gerade aus dem Urlaub gekommen wäre", "als wäre sie gerade aus dem Urlaub gekommen"],
+        ["later", "als ob es gleich regnen würde", "als würde es gleich regnen"],
+        ["passive, earlier", "als ob das Haus nie renoviert worden wäre", "als wäre das Haus nie renoviert worden"]
+      ],
+      "rowsDe": [
+        ["gleichzeitig", "als ob er krank wäre", "als wäre er krank"],
+        ["gleichzeitig (andere Verben)", "als ob sie alles wüsste / wissen würde", "als wüsste sie alles / als würde sie alles wissen"],
+        ["vorher (mit haben)", "als ob er die ganze Nacht gearbeitet hätte", "als hätte er die ganze Nacht gearbeitet"],
+        ["vorher (mit sein)", "als ob sie gerade aus dem Urlaub gekommen wäre", "als wäre sie gerade aus dem Urlaub gekommen"],
+        ["nachher", "als ob es gleich regnen würde", "als würde es gleich regnen"],
+        ["Passiv, vorher", "als ob das Haus nie renoviert worden wäre", "als wäre das Haus nie renoviert worden"]
+      ],
+      "note": "The tense of the main clause does not change the form: Er sieht aus / sah aus / hat ausgesehen, als ob er krank wäre. Only the time relation between the two clauses counts.",
+      "noteDe": "Die Zeitform des Hauptsatzes ändert die Form nicht: Er sieht aus / sah aus / hat ausgesehen, als ob er krank wäre. Nur das Zeitverhältnis zwischen den beiden Sätzen zählt."
+    },
+    {
+      "type": "text",
+      "heading": "Konjunktiv II, Konjunktiv I or indicative?",
+      "headingDe": "Konjunktiv II, Konjunktiv I oder Indikativ?",
+      "md": "- **Konjunktiv II** is the normal choice and always correct: als ob er krank **wäre**, als **hätte** sie es gewusst.\n- In newspapers and formal texts you will often read the **Konjunktiv I**, especially after als: Der Minister tat so, als **sei** nichts geschehen. – Die Firma handelte, als **habe** es die Warnungen nie gegeben. Recognise these forms; in your own texts the Konjunktiv II is enough.\n- In everyday speech you will also hear the **indicative** after als ob / als wenn when the speaker thinks the impression may well be true: Es sieht so aus, als ob es heute noch regnet. After **als** with the verb directly behind it, the indicative is impossible: „als ist er krank“ is wrong.\n- **wie wenn** instead of als wenn is regional and colloquial (southern Germany, Austria, Switzerland). „wie ob“ does not exist.",
+      "mdDe": "- Der **Konjunktiv II** ist die normale Wahl und immer richtig: als ob er krank **wäre**, als **hätte** sie es gewusst.\n- In Zeitungen und formellen Texten liest du oft den **Konjunktiv I**, besonders nach als: Der Minister tat so, als **sei** nichts geschehen. – Die Firma handelte, als **habe** es die Warnungen nie gegeben. Diese Formen solltest du erkennen; in deinen eigenen Texten reicht der Konjunktiv II.\n- Im Alltag hörst du nach als ob / als wenn auch den **Indikativ**, wenn der Sprecher den Eindruck für gut möglich hält: Es sieht so aus, als ob es heute noch regnet. Nach **als** mit dem Verb direkt dahinter ist der Indikativ unmöglich: „als ist er krank“ ist falsch.\n- **wie wenn** statt als wenn ist regional und umgangssprachlich (Süddeutschland, Österreich, Schweiz). „wie ob“ gibt es nicht."
+    },
+    {
+      "type": "text",
+      "heading": "wie, als or als ob?",
+      "headingDe": "wie, als oder als ob?",
+      "md": "- **wie** compares two things that are equal – and real: Sie spricht **wie** ihre Mutter. – Es ist so gekommen, **wie** du gesagt hast.\n- **als** after a comparative compares two things that are different – also real: Die Reise war teurer, **als** wir gedacht hatten.\n- **als ob / als** + Konjunktiv II compares with something **imagined**: Sie spricht, **als ob** sie Muttersprachlerin **wäre**.\n- And temporal **als** (when, in the past) has the indicative and the verb at the end: **Als** ich ankam, **war** das Büro schon geschlossen.\n\nSo: **als** + verb directly after it + Konjunktiv II = unreal comparison. **als** + … + indicative verb at the end = a time clause or a comparison after a comparative.",
+      "mdDe": "- **wie** vergleicht zwei Dinge, die gleich sind – und real: Sie spricht **wie** ihre Mutter. – Es ist so gekommen, **wie** du gesagt hast.\n- **als** nach einem Komparativ vergleicht zwei Dinge, die verschieden sind – auch real: Die Reise war teurer, **als** wir gedacht hatten.\n- **als ob / als** + Konjunktiv II vergleicht mit etwas **Vorgestelltem**: Sie spricht, **als ob** sie Muttersprachlerin **wäre**.\n- Und das temporale **als** (in der Vergangenheit) hat den Indikativ und das Verb am Ende: **Als** ich ankam, **war** das Büro schon geschlossen.\n\nAlso: **als** + Verb direkt danach + Konjunktiv II = irrealer Vergleich. **als** + … + Verb im Indikativ am Ende = Temporalsatz oder Vergleich nach einem Komparativ."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Der Vermieter tut so, **als ob** er von dem Schimmel nichts **wüsste**.", "en": "The landlord is acting as if he knew nothing about the mould." },
+        { "de": "Nach der Sitzung sah sie aus, **als hätte** sie eine schlechte Nachricht **bekommen**.", "en": "After the meeting she looked as if she had received bad news." },
+        { "de": "Das klingt, **als wäre** die Entscheidung längst **gefallen**.", "en": "That sounds as if the decision had been made long ago." },
+        { "de": "In diesem Moment fühlte es sich an, **als würde** die Zeit **stillstehen**.", "en": "At that moment it felt as if time was standing still." },
+        { "de": "Er spricht so fließend Japanisch, **als wäre** er in Osaka **aufgewachsen**.", "en": "He speaks Japanese so fluently, as if he had grown up in Osaka." },
+        { "de": "Die Kantine wirkte, **als wenn** dort seit Tagen niemand mehr **geputzt hätte**.", "en": "The canteen looked as if nobody had cleaned it for days." },
+        { "de": "Die Pressesprecherin tat so, **als sei** nichts **geschehen**.", "en": "The press spokeswoman acted as if nothing had happened." },
+        { "de": "Das Paket sah aus, **als wäre** es aus dem dritten Stock **geworfen worden**.", "en": "The parcel looked as if it had been thrown from the third floor." },
+        { "de": "**Als ob** ich keine anderen Sorgen **hätte**!", "en": "As if I didn't have other things to worry about!" }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Three traps:**\n\n1. **Word order:** after **als ob / als wenn** the verb goes to the end; after **als** alone it comes immediately: „als ob er müde wäre“ – „als wäre er müde“. Mixed forms like „als ob wäre er müde“ or „als er wäre müde“ are wrong.\n2. **No plain past tense:** for something happening at the same time use wäre/hätte/würde …; for something earlier use hätte/wäre + participle – never the Präteritum or Perfekt: „Sie sah aus, als ob sie nicht geschlafen hätte“, not „… als ob sie nicht schlief“.\n3. **als ob, not wie ob:** the comparison word is always als.",
+      "mdDe": "**Drei Fallen:**\n\n1. **Wortstellung:** Nach **als ob / als wenn** steht das Verb am Ende, nach **als** allein direkt danach: „als ob er müde wäre“ – „als wäre er müde“. Mischformen wie „als ob wäre er müde“ oder „als er wäre müde“ sind falsch.\n2. **Kein einfaches Präteritum:** Für etwas Gleichzeitiges nimmst du wäre/hätte/würde …, für etwas Früheres hätte/wäre + Partizip II – nie Präteritum oder Perfekt: „Sie sah aus, als ob sie nicht geschlafen hätte“, nicht „… als ob sie nicht schlief“.\n3. **als ob, nicht wie ob:** Das Vergleichswort ist immer als."
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1** you usually have to choose either the connector („als / ob / wie“ before an inverted verb, „als ob / weil / damit“ before a verb-final clause) or the verb form („wäre / war / ist“, „gewusst hätte / gewusst hatte“). First look where the verb stands: right after the gap → **als**; at the end → **als ob / als wenn**. Then check the time: earlier → hätte/wäre + participle.\n\nIn **Lesen** and **Hören**, als ob signals that an impression is false or doubtful: „Die Firma tut so, als hätte sie das Problem gelöst“ means the problem is **not** solved – a classic trap in richtig/falsch statements.\n\nIn a **Schreiben** complaint, an unreal comparison describes a problem vividly and shows B2 grammar: „Das Zimmer sah aus, als wäre es seit Wochen nicht geputzt worden.“",
+      "mdDe": "In **Sprachbausteine Teil 1** musst du meistens entweder das Bindewort wählen („als / ob / wie“ vor einem Verb in Inversion, „als ob / weil / damit“ vor einem Satz mit Verb am Ende) oder die Verbform („wäre / war / ist“, „gewusst hätte / gewusst hatte“). Schau zuerst, wo das Verb steht: direkt nach der Lücke → **als**; am Ende → **als ob / als wenn**. Prüfe dann die Zeit: vorher → hätte/wäre + Partizip II.\n\nIn **Lesen** und **Hören** zeigt als ob, dass ein Eindruck falsch oder zweifelhaft ist: „Die Firma tut so, als hätte sie das Problem gelöst“ heißt, das Problem ist **nicht** gelöst – eine typische Falle bei Richtig-/Falsch-Aussagen.\n\nIn einer Beschwerde im **Schreiben** beschreibt ein irrealer Vergleich ein Problem anschaulich und zeigt B2-Grammatik: „Das Zimmer sah aus, als wäre es seit Wochen nicht geputzt worden.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er tut so, als ob er hat keine Zeit.",
+      "right": "Er tut so, als ob er keine Zeit hätte.",
+      "why": "After „als ob“ the conjugated verb goes to the end, and the Konjunktiv II („hätte“) shows that the claim is doubtful.",
+      "whyDe": "Nach „als ob“ steht das konjugierte Verb am Ende, und der Konjunktiv II („hätte“) zeigt, dass die Behauptung zweifelhaft ist."
+    },
+    {
+      "wrong": "Am Morgen sah sie aus, als ob sie die ganze Nacht nicht schlief.",
+      "right": "Am Morgen sah sie aus, als ob sie die ganze Nacht nicht geschlafen hätte.",
+      "why": "The night came before the morning, so you need the Konjunktiv II of the past (hätte + participle), not the Präteritum.",
+      "whyDe": "Die Nacht war vor dem Morgen. Deshalb brauchst du den Konjunktiv II der Vergangenheit (hätte + Partizip II), nicht das Präteritum."
+    },
+    {
+      "wrong": "Das klingt, als er hätte keine Lust.",
+      "right": "Das klingt, als hätte er keine Lust.",
+      "why": "With „als“ alone, the conjugated verb comes directly after „als“, followed by the subject.",
+      "whyDe": "Bei „als“ allein steht das konjugierte Verb direkt nach „als“, danach folgt das Subjekt."
+    },
+    {
+      "wrong": "Du redest, wie ob du alles besser wüsstest.",
+      "right": "Du redest, als ob du alles besser wüsstest.",
+      "why": "„wie ob“ does not exist. Unreal comparisons always use „als ob“, „als wenn“ or „als“.",
+      "whyDe": "„wie ob“ gibt es nicht. Irreale Vergleiche bildest du immer mit „als ob“, „als wenn“ oder „als“."
+    },
+    {
+      "wrong": "Als ob ich hätte das nicht gewusst!",
+      "right": "Als ob ich das nicht gewusst hätte!",
+      "why": "Even as an exclamation, „Als ob …!“ is a subordinate clause: the conjugated verb goes to the very end.",
+      "whyDe": "Auch als Ausruf ist „Als ob …!“ ein Nebensatz: Das konjugierte Verb steht ganz am Ende."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Am Morgen sah Lea aus, als ob sie die ganze Nacht nicht ___.",
+      "options": ["schlief", "geschlafen hätte", "geschlafen hat"],
+      "answer": 1,
+      "explanation": "The sleepless night came before the morning → Konjunktiv II of the past: „geschlafen hätte“. „schlief“ and „geschlafen hat“ are indicative and would present it as a plain fact.",
+      "explanationDe": "Die schlaflose Nacht war vor dem Morgen → Konjunktiv II der Vergangenheit: „geschlafen hätte“. „schlief“ und „geschlafen hat“ sind Indikativ und würden es als einfache Tatsache darstellen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Nach dem Umzug fühlte es sich an, ___ wir schon jahrelang in diesem Viertel wohnen würden.",
+      "options": ["als", "als ob", "wenn"],
+      "answer": 1,
+      "explanation": "The conjugated verb („würden“) stands at the end, so you need „als ob“. „als“ alone needs the verb directly after it („als würden wir …“); „wenn“ makes no comparison.",
+      "explanationDe": "Das konjugierte Verb („würden“) steht am Ende, also brauchst du „als ob“. „als“ allein braucht das Verb direkt danach („als würden wir …“); „wenn“ bildet keinen Vergleich."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Vermieter reagierte, ___ zum ersten Mal von dem Wasserschaden gehört.",
+      "options": ["als hätte er", "als ob er hätte", "als er hätte"],
+      "answer": 0,
+      "explanation": "With „als“ alone, the conjugated verb comes directly after it, then the subject: „als hätte er … gehört“. With „als ob“, „hätte“ would have to go to the end („als ob er … gehört hätte“).",
+      "explanationDe": "Bei „als“ allein kommt das konjugierte Verb direkt danach, dann das Subjekt: „als hätte er … gehört“. Bei „als ob“ müsste „hätte“ am Ende stehen („als ob er … gehört hätte“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "In der Pressekonferenz trat der Minister so auf, als ___ es die Kritik der letzten Wochen nie gegeben.",
+      "options": ["hat", "hatte", "habe"],
+      "answer": 2,
+      "explanation": "In news language, „als“ is often followed by the Konjunktiv I: „als habe es … nie gegeben“ (= „als hätte es …“). The indicative forms „hat“ and „hatte“ are impossible after „als“ in an unreal comparison.",
+      "explanationDe": "In der Sprache der Nachrichten folgt nach „als“ oft der Konjunktiv I: „als habe es … nie gegeben“ (= „als hätte es …“). Die Indikativformen „hat“ und „hatte“ sind nach „als“ in einem irrealen Vergleich unmöglich."
+    },
+    {
+      "type": "mc",
+      "prompt": "„Als ob ich keine Zeit für dich hätte!“ – Die Sprecherin meint: Ich habe ___ Zeit für dich.",
+      "options": ["leider keine", "natürlich", "erst später"],
+      "answer": 1,
+      "explanation": "„Als ob …!“ on its own rejects an idea as absurd, so the opposite is true: she does have time. „leider keine“ takes the sentence literally.",
+      "explanationDe": "„Als ob …!“ allein weist eine Idee als absurd zurück – das Gegenteil stimmt: Sie hat Zeit. „leider keine“ versteht den Satz wörtlich."
+    },
+    {
+      "type": "gap",
+      "prompt": "Er redete so selbstbewusst, als ___ er das ganze Projekt allein geleitet.",
+      "hint": "(haben)",
+      "answers": ["hätte", "habe"],
+      "explanation": "After „als“ the conjugated verb comes directly: Konjunktiv II „hätte“ (in formal texts also Konjunktiv I „habe“). The leading happened before, so the participle „geleitet“ stands at the end.",
+      "explanationDe": "Nach „als“ kommt das konjugierte Verb direkt: Konjunktiv II „hätte“ (in formellen Texten auch Konjunktiv I „habe“). Das Leiten war vorher, deshalb steht das Partizip II „geleitet“ am Ende."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Himmel ist so dunkel, als ___ es jeden Moment anfangen zu regnen.",
+      "hint": "(werden)",
+      "answers": ["würde", "werde"],
+      "explanation": "The rain is expected later → „würde“ + infinitive. The verb comes right after „als“; the indicative „wird“ is not possible here.",
+      "explanationDe": "Der Regen wird erst erwartet → „würde“ + Infinitiv. Das Verb steht direkt nach „als“; der Indikativ „wird“ ist hier nicht möglich."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Altbauwohnung sah aus, als ob sie gerade erst renoviert ___.",
+      "hint": "(passive, past)",
+      "hintDe": "(Passiv, Vergangenheit)",
+      "answers": ["worden wäre", "worden sei"],
+      "explanation": "Passive of the past in the Konjunktiv II: participle + „worden wäre“ at the end of the als-ob clause (in formal texts also „worden sei“). Without „worden“ it would not be the passive of an action.",
+      "explanationDe": "Passiv der Vergangenheit im Konjunktiv II: Partizip II + „worden wäre“ am Ende des als-ob-Satzes (in formellen Texten auch „worden sei“). Ohne „worden“ wäre es kein Passiv einer Handlung."
+    },
+    {
+      "type": "order",
+      "words": ["nie", "hätte", "so,", "bekommen.", "Er", "E-Mail", "als", "tat", "die", "er"],
+      "answers": ["Er tat so, als hätte er die E-Mail nie bekommen.", "Er tat so, als hätte er nie die E-Mail bekommen."],
+      "explanation": "„als“ is followed directly by the conjugated verb „hätte“ and then the subject „er“. The participle „bekommen“ closes the clause.",
+      "explanationDe": "Nach „als“ folgt direkt das konjugierte Verb „hätte“, dann das Subjekt „er“. Das Partizip II „bekommen“ schließt den Satz ab."
+    },
+    {
+      "type": "order",
+      "words": ["lange", "würde.", "kam", "Stadt", "ob", "vor,", "die", "Es", "schon", "ich", "so", "als", "mir", "kennen"],
+      "answers": ["Es kam mir so vor, als ob ich die Stadt schon lange kennen würde.", "Mir kam es so vor, als ob ich die Stadt schon lange kennen würde."],
+      "explanation": "„Es kommt mir so vor“ introduces an impression. After „als ob“ the subject comes first and the verb group „kennen würde“ goes to the end.",
+      "explanationDe": "„Es kommt mir so vor“ leitet einen Eindruck ein. Nach „als ob“ steht zuerst das Subjekt, und die Verbgruppe „kennen würde“ steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „als“ instead of „als ob“.",
+      "instructionDe": "Schreib den Satz mit „als“ statt „als ob“ um.",
+      "prompt": "Das Paket sah aus, als ob es aus dem dritten Stock geworfen worden wäre.",
+      "answers": ["Das Paket sah aus, als wäre es aus dem dritten Stock geworfen worden.", "Das Paket sah aus, als sei es aus dem dritten Stock geworfen worden."],
+      "explanation": "Only the conjugated verb „wäre“ moves directly behind „als“; the subject „es“ follows it, and „geworfen worden“ stays at the end.",
+      "explanationDe": "Nur das konjugierte Verb „wäre“ rückt direkt hinter „als“; danach folgt das Subjekt „es“, und „geworfen worden“ bleibt am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Join the sentences into one unreal comparison with „als ob“.",
+      "instructionDe": "Verbinde die Sätze zu einem irrealen Vergleich mit „als ob“.",
+      "prompt": "Die Nachbarn tun so. Sie kennen uns nicht. (In Wirklichkeit kennen sie uns gut.)",
+      "answers": [
+        "Die Nachbarn tun so, als ob sie uns nicht kennen würden.",
+        "Die Nachbarn tun so, als ob sie uns nicht kennten."
+      ],
+      "explanation": "„so tun, als ob“ + Konjunktiv II at the end: „kennen würden“ (the rare form „kennten“ is also correct). The indicative „kennen“ would not show that it's only a pretence.",
+      "explanationDe": "„so tun, als ob“ + Konjunktiv II am Ende: „kennen würden“ (die seltene Form „kennten“ ist auch richtig). Der Indikativ „kennen“ würde nicht zeigen, dass es nur gespielt ist."
+    },
+    {
+      "type": "transform",
+      "instruction": "Make one sentence with „als“ + Konjunktiv II. Growing up happened earlier, so use the past.",
+      "instructionDe": "Bilde einen Satz mit „als“ + Konjunktiv II. Das Aufwachsen war früher, also brauchst du die Vergangenheit.",
+      "prompt": "Sie spricht sehr gut Schweizerdeutsch. Man könnte glauben, sie ist in Bern aufgewachsen. (Das stimmt aber nicht.)",
+      "answers": [
+        "Sie spricht so gut Schweizerdeutsch, als wäre sie in Bern aufgewachsen.",
+        "Sie spricht sehr gut Schweizerdeutsch, als wäre sie in Bern aufgewachsen.",
+        "Sie spricht so gut Schweizerdeutsch, als sei sie in Bern aufgewachsen.",
+        "Sie spricht Schweizerdeutsch, als wäre sie in Bern aufgewachsen.",
+        "Sie spricht so gut Schweizerdeutsch, als ob sie in Bern aufgewachsen wäre.",
+        "Sie spricht sehr gut Schweizerdeutsch, als ob sie in Bern aufgewachsen wäre."
+      ],
+      "explanation": "„aufwachsen“ forms its past with „sein“ → „wäre … aufgewachsen“. With „als“, „wäre“ comes directly after it (with „als ob“ it goes to the end: „als ob sie in Bern aufgewachsen wäre“). „so gut …, als wäre …“ sounds most natural.",
+      "explanationDe": "„aufwachsen“ bildet die Vergangenheit mit „sein“ → „wäre … aufgewachsen“. Bei „als“ steht „wäre“ direkt danach (bei „als ob“ steht es am Ende: „als ob sie in Bern aufgewachsen wäre“). „so gut …, als wäre …“ klingt am natürlichsten."
+    }
+  ],
+  "related": ["konjunktiv-2", "konjunktiv-2-vergangenheit", "konjunktiv-1", "nebensaetze-grundlagen", "komparation", "temporale-nebensaetze"]
+}

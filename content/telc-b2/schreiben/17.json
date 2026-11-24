@@ -1,0 +1,60 @@
+{
+  "id": "schreiben-17",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Enttäuschendes Open-Air-Festival",
+  "topic": "kultur",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie haben im Juli mit einer Freundin das Open-Air-Festival „Elbklang“ in Dresden besucht, auf das Sie sich lange gefreut hatten. Leider lief vieles ganz anders, als es in der Werbung versprochen wurde. Schreiben Sie eine Beschwerde an den Veranstalter.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "ELBKLANG Open Air – zwei Tage Musik direkt am Dresdner Elbufer!\n\nAm 18. und 19. Juli erwarten Sie zwölf Bands auf zwei Bühnen. Höhepunkt am Samstagabend: die Indie-Band „Fernlicht“ mit ihrem neuen Album.\n\n• Schneller Einlass ohne lange Wartezeiten dank Online-Tickets\n• Große Auswahl an regionalen Speisen, kostenloses Trinkwasser an allen Bühnen\n• Shuttlebusse zum Hauptbahnhof alle zehn Minuten bis 2 Uhr nachts\n• Barrierefreier Zugang und reservierte Plätze für Menschen mit Behinderung\n\nTagesticket: 69 Euro, Festivalticket: 119 Euro\nBei Programmänderungen informieren wir Sie rechtzeitig per E-Mail.\n\nElbklang Events GmbH · kundenservice@elbklang-festival.de"
+  },
+  "leitpunkte": [
+    "Erläutern Sie, warum Sie die Absage der Hauptband besonders ärgert.",
+    "Erklären Sie, was Sie vom Veranstalter erwarten.",
+    "Beschreiben Sie, was beim Einlass und bei der Verpflegung schiefgelaufen ist.",
+    "Legen Sie dar, welche Schwierigkeiten Sie bei der Rückfahrt hatten."
+  ],
+  "model": {
+    "subject": "Beschwerde über das Elbklang Open Air am 18. Juli – Bestellnummer EK-0931",
+    "text": "Sehr geehrte Damen und Herren,\n\nam 18. Juli habe ich gemeinsam mit einer Freundin Ihr Festival am Elbufer besucht, für das wir zwei Tagestickets zu je 69 Euro gekauft hatten. Leider wurden unsere Erwartungen in mehrfacher Hinsicht enttäuscht, weshalb ich mich heute an Sie wende.\n\nSchon der Einlass verlief völlig anders als angekündigt. Trotz unserer Online-Tickets mussten wir fast anderthalb Stunden in der prallen Sonne warten, sodass wir die ersten beiden Bands verpasst haben. Auf dem Gelände selbst haben wir vergeblich nach dem versprochenen kostenlosen Trinkwasser gesucht. Stattdessen kostete eine kleine Flasche Wasser vier Euro.\n\nBesonders geärgert hat mich außerdem, dass von dem angekündigten barrierefreien Zugang kaum etwas zu spüren war. Meine Freundin sitzt im Rollstuhl, doch der Zugang zur Hauptbühne führte über eine Wiese ohne befestigte Wege. Die reservierten Plätze für Menschen mit Behinderung lagen zudem so weit von der Bühne entfernt, dass sie kaum etwas sehen konnte.\n\nAngesichts dieser Mängel erwarte ich, dass Sie uns mindestens die Hälfte des Ticketpreises erstatten. Darüber hinaus würde ich mir wünschen, dass Sie Ihr Konzept für den Einlass und die Barrierefreiheit gründlich überarbeiten, damit andere Gäste im nächsten Jahr nicht dieselben Erfahrungen machen müssen.\n\nIch sehe Ihrer Stellungnahme mit Interesse entgegen.\n\nMit freundlichen Grüßen\nMiriam Seidel"
+  },
+  "modelNotes": [
+    "This model uses option b): two guiding points plus an own aspect. It covers what went wrong at the entrance and with food and drink (90 minutes' wait, no free drinking water) and what the writer expects, and adds her own aspect – the missing step-free access for her friend in a wheelchair. The cancelled headliner and the journey home are left out.",
+    "An own aspect counts only if it fits the situation and is developed like a guiding point. Here it refers to a promise in the ad („Barrierefreier Zugang“) and is explained in three sentences.",
+    "Each complaint contrasts the ad with reality: „verlief völlig anders als angekündigt“, „vergeblich nach dem versprochenen … Trinkwasser gesucht“, „kaum etwas zu spüren“.",
+    "B2 structures: passive („wurden … enttäuscht“), „Trotz“ and „Angesichts“ with the genitive, consequence clauses („sodass“, „so weit …, dass“), a purpose clause („damit“) and Konjunktiv II („würde ich mir wünschen“).",
+    "The ending is formal and typical of complaints: „Ich sehe Ihrer Stellungnahme mit Interesse entgegen.“"
+  ],
+  "modelNotesDe": [
+    "Dieser Mustertext nutzt Möglichkeit b): zwei Leitpunkte und einen eigenen Aspekt. Er behandelt, was beim Einlass und bei der Verpflegung schiefgelaufen ist (90 Minuten Wartezeit, kein kostenloses Trinkwasser) und was die Schreiberin erwartet. Dazu kommt ihr eigener Aspekt – der fehlende barrierefreie Zugang für ihre Freundin im Rollstuhl. Die Absage der Hauptband und die Rückfahrt lässt sie weg.",
+    "Ein eigener Aspekt zählt nur, wenn er zur Situation passt und so ausführlich behandelt wird wie ein Leitpunkt. Hier bezieht er sich auf ein Versprechen aus der Anzeige („Barrierefreier Zugang“) und wird in drei Sätzen erklärt.",
+    "Jede Beschwerde stellt die Anzeige der Wirklichkeit gegenüber: „verlief völlig anders als angekündigt“, „vergeblich nach dem versprochenen … Trinkwasser gesucht“, „kaum etwas zu spüren“.",
+    "B2-Strukturen: Passiv („wurden … enttäuscht“), „Trotz“ und „Angesichts“ mit Genitiv, Folgesätze („sodass“, „so weit …, dass“), ein Finalsatz („damit“) und Konjunktiv II („würde ich mir wünschen“).",
+    "Der Schluss ist formell und typisch für Beschwerden: „Ich sehe Ihrer Stellungnahme mit Interesse entgegen.“"
+  ],
+  "phrases": [
+    { "de": "Leider wurden unsere Erwartungen in mehrfacher Hinsicht enttäuscht.", "en": "Unfortunately, our expectations were disappointed in several respects." },
+    { "de": "… verlief völlig anders als angekündigt.", "en": "… went completely differently from what was announced." },
+    { "de": "Trotz unserer Online-Tickets mussten wir … warten.", "en": "Despite our online tickets we had to wait …" },
+    { "de": "Wir haben vergeblich nach … gesucht.", "en": "We looked in vain for …" },
+    { "de": "Von … war kaum etwas zu spüren.", "en": "There was hardly any sign of …" },
+    { "de": "Angesichts dieser Mängel erwarte ich, dass …", "en": "In view of these shortcomings, I expect that …" },
+    { "de": "… mindestens die Hälfte des Ticketpreises erstatten", "en": "to refund at least half of the ticket price" },
+    { "de": "…, damit andere Gäste nicht dieselben Erfahrungen machen müssen.", "en": "…, so that other guests do not have to go through the same." },
+    { "de": "Ich sehe Ihrer Stellungnahme mit Interesse entgegen.", "en": "I look forward to your response." }
+  ],
+  "glossary": [
+    { "de": "der Einlass", "en": "admission, entry" },
+    { "de": "das Gelände", "en": "grounds, site" },
+    { "de": "barrierefrei", "en": "accessible, step-free" },
+    { "de": "die Programmänderung", "en": "change to the programme" },
+    { "de": "vergeblich", "en": "in vain" },
+    { "de": "der Mangel (die Mängel)", "en": "shortcoming, defect" },
+    { "de": "erstatten", "en": "to refund" },
+    { "de": "die Stellungnahme", "en": "statement, response" }
+  ]
+}

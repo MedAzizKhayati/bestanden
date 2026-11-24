@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-04",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Weiterbildung im Beruf",
+  "topic": "bildung",
+  "difficulty": 2,
+  "article": {
+    "headline": "Lebenslanges Lernen – aber nicht für alle?",
+    "lead": "Weiterbildung gilt als Schlüssel, um mit dem raschen Wandel der Arbeitswelt Schritt zu halten. Eine aktuelle Erhebung zeigt jedoch, dass ausgerechnet diejenigen am seltensten an Kursen teilnehmen, die am stärksten vom Wandel betroffen sind.",
+    "paragraphs": [
+      "Ob in der Automobilindustrie, in der öffentlichen Verwaltung oder im Einzelhandel: Durch die Digitalisierung und den zunehmenden Einsatz künstlicher Intelligenz verändern sich berufliche Tätigkeiten heute schneller als je zuvor. Fähigkeiten, die vor zehn Jahren noch als unverzichtbar galten, verlieren an Bedeutung, während ständig neue Anforderungen hinzukommen. In der Forderung nach lebenslangem Lernen sind sich Politik, Wirtschaft und Gewerkschaften daher ausnahmsweise einig.",
+      "Wie es um die Weiterbildungsbeteiligung tatsächlich bestellt ist, hat das Bremer Institut für Erwachsenenbildung in einer repräsentativen Befragung von rund 6.000 Erwerbstätigen untersucht. Zwar gab gut die Hälfte an, sich in den vergangenen zwölf Monaten mindestens einmal beruflich fortgebildet zu haben. Hinter diesem Durchschnittswert verbergen sich jedoch erhebliche Unterschiede: Während Beschäftigte mit Hochschulabschluss zu 68 Prozent an Kursen, Seminaren oder Schulungen teilnahmen, waren es bei Personen ohne Berufsabschluss lediglich 19 Prozent. Ähnlich ausgeprägt ist das Gefälle zwischen Großunternehmen und Kleinbetrieben, in denen Weiterbildung häufig dem Zufall überlassen bleibt.",
+      "Nach den Gründen gefragt, nannten die Nichtteilnehmenden nicht etwa mangelndes Interesse an ihrer beruflichen Entwicklung, sondern in erster Linie Zeitmangel sowie Zweifel daran, ob sich der Aufwand überhaupt auszahle. Die Kosten spielten dagegen nur für eine Minderheit eine Rolle, da Fortbildungen überwiegend vom Arbeitgeber finanziert werden. Bemerkenswert ist ein weiterer Befund: Fast die Hälfte der Befragten ohne Weiterbildung gab an, von ihren Vorgesetzten nie auf entsprechende Angebote hingewiesen worden zu sein.",
+      "Für die Studienleiterin Katrin Hollmann greifen rein organisatorische Erklärungen allerdings zu kurz. „Viele Menschen, die selten an Kursen teilnehmen, verbinden Lernen mit Misserfolgen aus ihrer Schulzeit“, sagt die Erziehungswissenschaftlerin. Ein Wochenendseminar in einem Tagungshotel, an dessen Ende womöglich noch eine Prüfung stehe, wirke auf sie eher abschreckend als motivierend. Erfolgversprechender seien kurze, praxisnahe Lerneinheiten, die direkt in den Arbeitsalltag eingebettet sind und bei denen erfahrene Kolleginnen und Kollegen als Ansprechpartner zur Verfügung stehen.",
+      "Wie das aussehen kann, zeigt ein Logistikunternehmen in Bremerhaven, das vor zwei Jahren ein digitales Lagerverwaltungssystem eingeführt hat. Statt die Belegschaft zu mehrtägigen Schulungen zu schicken, setzte die Geschäftsführung auf zwanzigminütige Lerneinheiten am Tablet während der Arbeitszeit, begleitet von sogenannten Lernpaten aus den eigenen Reihen. Der 54-jährige Lagerist Dariusz Nowak, der seit seiner Ausbildung keinen einzigen Kurs mehr besucht hatte, gibt zu, anfangs skeptisch gewesen zu sein. „Dass mir ein Kollege das System erklärt hat und kein Trainer von außen, hat mir die Hemmungen genommen“, sagt er. Inzwischen ist er selbst Lernpate für zwei neue Mitarbeiter.",
+      "Auf politischer Ebene wird unterdessen über einen Rechtsanspruch auf bezahlte Weiterbildung gestritten. Während die Gewerkschaften einen solchen Anspruch für alle Beschäftigten fordern, sieht die Arbeitgeberseite die Verantwortung für die eigene Qualifizierung in erster Linie bei den Beschäftigten selbst. Hollmann hält einen gesetzlichen Anspruch durchaus für sinnvoll, warnt jedoch vor überzogenen Erwartungen: Schon heute nehme nur ein Bruchteil der Berechtigten die in den meisten Bundesländern bestehende Bildungszeit in Anspruch. „Ein Recht, das niemand nutzt, verändert wenig“, so Hollmann. Entscheidend sei vielmehr, dass Betriebe eine Lernkultur schaffen, in der Fragen und Fehler ausdrücklich erwünscht sind."
+    ],
+    "source": "Perspektive Arbeit – Magazin für Personal und Bildung"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Die Befragung des Bremer Instituts zeigt, dass …",
+      "options": [
+        { "key": "a", "text": "sich mehr als zwei Drittel aller Erwerbstätigen regelmäßig beruflich weiterbilden." },
+        { "key": "b", "text": "Geringqualifizierte erheblich seltener an beruflichen Lernangeboten teilnehmen als Akademiker." },
+        { "key": "c", "text": "rund die Hälfte der Beschäftigten ohne Berufsabschluss eine Fortbildung besucht hat." }
+      ],
+      "answer": "b",
+      "explanation": "68 percent of graduates took part, but „bei Personen ohne Berufsabschluss lediglich 19 Prozent“ – people with low qualifications train far less often, so (b). Two thirds is the figure for graduates only, not for all workers (a). „gut die Hälfte“ refers to all respondents, not to people without a vocational qualification (c).",
+      "explanationDe": "68 Prozent der Akademiker haben teilgenommen, aber „bei Personen ohne Berufsabschluss lediglich 19 Prozent“ – Geringqualifizierte bilden sich also viel seltener weiter, deshalb (b). Mehr als zwei Drittel gilt nur für Menschen mit Hochschulabschluss, nicht für alle (a). „gut die Hälfte“ bezieht sich auf alle Befragten, nicht auf Menschen ohne Berufsabschluss (c).",
+      "evidence": "bei Personen ohne Berufsabschluss lediglich 19 Prozent"
+    },
+    {
+      "n": 2,
+      "stem": "Viele Befragte haben sich nicht weitergebildet, weil sie …",
+      "options": [
+        { "key": "a", "text": "keine Zeit dafür fanden oder am Nutzen einer Fortbildung zweifelten." },
+        { "key": "b", "text": "sich kaum für ihre berufliche Weiterentwicklung interessierten." },
+        { "key": "c", "text": "die Kurse in den meisten Fällen aus eigener Tasche hätten bezahlen müssen." }
+      ],
+      "answer": "a",
+      "explanation": "Non-participants named „nicht etwa mangelndes Interesse …, sondern in erster Linie Zeitmangel sowie Zweifel daran, ob sich der Aufwand überhaupt auszahle“ – so (a), while (b) is the reason the text explicitly rules out. Costs mattered „nur für eine Minderheit“, because employers usually pay (c).",
+      "explanationDe": "Die Nichtteilnehmenden nannten „nicht etwa mangelndes Interesse …, sondern in erster Linie Zeitmangel sowie Zweifel daran, ob sich der Aufwand überhaupt auszahle“ – also (a); (b) schließt der Text ausdrücklich aus. Die Kosten waren „nur für eine Minderheit“ wichtig, weil meistens der Arbeitgeber bezahlt (c).",
+      "evidence": "sondern in erster Linie Zeitmangel sowie Zweifel daran, ob sich der Aufwand überhaupt auszahle"
+    },
+    {
+      "n": 3,
+      "stem": "Katrin Hollmann empfiehlt, …",
+      "options": [
+        { "key": "a", "text": "mehr Seminare außerhalb der Arbeitszeit anzubieten, damit der Betrieb ungestört bleibt." },
+        { "key": "b", "text": "Lernangebote enger mit den täglichen Aufgaben am Arbeitsplatz zu verknüpfen." },
+        { "key": "c", "text": "Weiterbildungen grundsätzlich mit einer Abschlussprüfung zu beenden." }
+      ],
+      "answer": "b",
+      "explanation": "Hollmann finds short, practical learning units more promising, „die direkt in den Arbeitsalltag eingebettet sind“ – so (b). A weekend seminar is „eher abschreckend als motivierend“ (a), and an exam at the end is part of what puts people off (c).",
+      "explanationDe": "Hollmann findet kurze, praxisnahe Lerneinheiten besser, „die direkt in den Arbeitsalltag eingebettet sind“ – also (b). Ein Wochenendseminar wirkt „eher abschreckend als motivierend“ (a), und eine Prüfung am Ende gehört genau zu dem, was die Leute abschreckt (c).",
+      "evidence": "die direkt in den Arbeitsalltag eingebettet sind"
+    },
+    {
+      "n": 4,
+      "stem": "Über den Lageristen Dariusz Nowak erfährt man, dass …",
+      "options": [
+        { "key": "a", "text": "er mittlerweile sämtliche neuen Beschäftigten im Lager einarbeitet." },
+        { "key": "b", "text": "er sich bereits vor der Einführung des Systems regelmäßig fortgebildet hatte." },
+        { "key": "c", "text": "ihm die Unterstützung durch einen Kollegen den Einstieg erleichtert hat." }
+      ],
+      "answer": "c",
+      "explanation": "„Dass mir ein Kollege das System erklärt hat und kein Trainer von außen, hat mir die Hemmungen genommen“ – a colleague's support made the start easier, so (c). He is a learning mentor for only „zwei neue Mitarbeiter“, not for all new staff (a), and he had not attended a single course since his apprenticeship (b).",
+      "explanationDe": "„Dass mir ein Kollege das System erklärt hat und kein Trainer von außen, hat mir die Hemmungen genommen“ – die Hilfe eines Kollegen hat ihm den Anfang leichter gemacht, also (c). Er ist nur für „zwei neue Mitarbeiter“ Lernpate, nicht für alle (a), und er hatte seit seiner Ausbildung „keinen einzigen Kurs mehr besucht“ (b).",
+      "evidence": "hat mir die Hemmungen genommen"
+    },
+    {
+      "n": 5,
+      "stem": "Katrin Hollmann ist der Ansicht, dass ein Rechtsanspruch auf Weiterbildung …",
+      "options": [
+        { "key": "a", "text": "überflüssig ist, weil jeder selbst für seine Qualifizierung verantwortlich ist." },
+        { "key": "b", "text": "die Zahl der Teilnehmenden automatisch deutlich erhöhen würde." },
+        { "key": "c", "text": "zwar zu begrüßen ist, ohne eine veränderte Lernkultur in den Betrieben aber wenig bewirkt." }
+      ],
+      "answer": "c",
+      "explanation": "Hollmann „hält einen gesetzlichen Anspruch durchaus für sinnvoll“, but warns: „Ein Recht, das niemand nutzt, verändert wenig“ – a learning culture in the companies is decisive, so (c). Placing responsibility on the employees is the employers' view, not hers (a). She explicitly warns against „überzogenen Erwartungen“, so a right alone will not automatically raise participation (b).",
+      "explanationDe": "Hollmann „hält einen gesetzlichen Anspruch durchaus für sinnvoll“, warnt aber: „Ein Recht, das niemand nutzt, verändert wenig“ – entscheidend ist die Lernkultur in den Betrieben, also (c). Dass die Verantwortung bei den Beschäftigten liegt, meint die Arbeitgeberseite, nicht Hollmann (a). Sie warnt ausdrücklich vor „überzogenen Erwartungen“ – ein Recht allein bringt also nicht automatisch mehr Teilnehmende (b).",
+      "evidence": "Ein Recht, das niemand nutzt, verändert wenig"
+    }
+  ],
+  "glossary": [
+    { "de": "mit etwas Schritt halten", "en": "to keep pace with sth." },
+    { "de": "die Erwerbstätigen (Pl.)", "en": "people in employment" },
+    { "de": "Wie ist es um … bestellt?", "en": "What is the state of …?" },
+    { "de": "das Gefälle", "en": "gap, disparity" },
+    { "de": "sich auszahlen", "en": "to pay off" },
+    { "de": "der Befund", "en": "finding, result" },
+    { "de": "zu kurz greifen", "en": "to fall short, to be too simplistic" },
+    { "de": "abschreckend", "en": "off-putting, deterrent" },
+    { "de": "einbetten in (+ Akk.)", "en": "to embed in" },
+    { "de": "die Hemmung", "en": "inhibition" },
+    { "de": "der Bruchteil", "en": "fraction" },
+    { "de": "etwas in Anspruch nehmen", "en": "to make use of sth." }
+  ]
+}

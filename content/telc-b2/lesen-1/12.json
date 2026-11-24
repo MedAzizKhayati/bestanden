@@ -1,0 +1,118 @@
+{
+  "id": "lesen-1-12",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Vom Feld bis zur Steckdose",
+  "topic": "essen",
+  "difficulty": 3,
+  "headlines": [
+    { "key": "a", "text": "Rückspeisen ins Netz: Batterien verschleißen schneller als gedacht" },
+    { "key": "b", "text": "Regionale Lebensmittel landen seltener in der Tonne" },
+    { "key": "c", "text": "Hof ohne Erben? Übergabe an Fremde als Ausweg" },
+    { "key": "d", "text": "Unter Solarmodulen reifen größere Äpfel" },
+    { "key": "e", "text": "Selbstbedienung am Bauernhof: Ehrliche Kundschaft, neue Bezahlwege" },
+    { "key": "f", "text": "Junge Leute wollen keine Bauernhöfe mehr übernehmen" },
+    { "key": "g", "text": "Zu viel im Einkaufswagen: Warum Haushalte Essen wegwerfen" },
+    { "key": "h", "text": "Autobatterien als Stromspeicher: Technik bereit, Regeln noch nicht" },
+    { "key": "i", "text": "Hofläden rüsten sich mit Kameras gegen Diebe" },
+    { "key": "j", "text": "Solardach statt Hagelnetz: Schutz und Strom mit Abstrichen" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Auf mehr als der Hälfte der Bauernhöfe im Allgäu, deren Inhaber älter als 55 Jahre sind, ist die Nachfolge ungeklärt, weil die eigenen Kinder andere Berufe gewählt haben oder schlicht kein Interesse an Stall und Feld zeigen. Gleichzeitig suchen zahlreiche junge Menschen, die eine landwirtschaftliche Ausbildung oder ein Agrarstudium abgeschlossen haben, vergeblich nach einem eigenen Betrieb, weil Land kaum zu bezahlen ist und Pachtflächen fast ausschließlich innerhalb der Familien weitergegeben werden. Eine Vermittlungsstelle in Kempten bringt beide Seiten seit drei Jahren zusammen und hat inzwischen 35 sogenannte außerfamiliäre Hofübergaben begleitet. Üblich ist dabei eine mehrjährige Übergangsphase, in der Alt- und Jungbauern den Betrieb gemeinsam führen, bevor er schrittweise übertragen wird. Nicht jede Partnerschaft hält: In sechs Fällen trennten sich die Beteiligten vorzeitig, meist wegen unterschiedlicher Vorstellungen über die Zukunft des Hofes. Als größte Hürde gilt jedoch die Finanzierung, denn Banken gewähren jungen Landwirten ohne Eigenkapital nur zögerlich Kredite. Die Vermittlungsstelle fordert deshalb staatliche Bürgschaften für Hofübernahmen außerhalb der Familie.",
+      "answer": "c",
+      "explanation": "Many farms have no successor in the family, while young farmers look for a farm in vain; an agency arranges „außerfamiliäre Hofübergaben“ – handovers to people from outside the family, (c). Headline (f) is a trap: it is the farmers' own children who lose interest, whereas „zahlreiche junge Menschen“ with agricultural training „suchen … vergeblich nach einem eigenen Betrieb“.",
+      "explanationDe": "Viele Höfe haben in der Familie keinen Nachfolger, und gleichzeitig suchen junge Landwirte vergeblich einen Hof. Eine Vermittlungsstelle organisiert „außerfamiliäre Hofübergaben“ – also Übergaben an Menschen außerhalb der Familie, (c). Überschrift (f) ist eine Falle: Nur die eigenen Kinder der Bauern haben oft kein Interesse; „zahlreiche junge Menschen“ mit landwirtschaftlicher Ausbildung „suchen … vergeblich nach einem eigenen Betrieb“.",
+      "evidence": [
+        "ist die Nachfolge ungeklärt",
+        "35 sogenannte außerfamiliäre Hofübergaben begleitet"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Als im vergangenen Sommer schwere Hagelgewitter über die Oststeiermark zogen, verloren viele Obstbauern einen großen Teil ihrer Apfelernte. Auf dem Betrieb von Markus Halbedl bei Gleisdorf blieben die Bäume dagegen nahezu unversehrt, denn sie stehen seit zwei Jahren unter einem Dach aus Solarmodulen, das das bisherige Hagelnetz ersetzt. Die Anlage liefert jährlich so viel Strom, wie rund 250 Haushalte verbrauchen, und verschafft dem Landwirt eine zusätzliche, vom Wetter weitgehend unabhängige Einnahmequelle. Die Begleitforschung einer Fachhochschule zeigt allerdings auch Nachteile: Weil die Module mehr Licht abhalten als ein Netz, fielen die Äpfel etwas kleiner aus, und der Ertrag lag in einem normalen Jahr um rund sechs Prozent unter dem einer Vergleichsfläche mit herkömmlichem Hagelschutz. Dafür benötigten die Bäume im heißen Juli fast ein Viertel weniger Bewässerung, da der Boden im Schatten langsamer austrocknet. Halbedl will sein Projekt dennoch nicht als Patentrezept verstanden wissen: Die Investition sei hoch, die Genehmigung habe über ein Jahr gedauert, und nicht jede Obstsorte vertrage den zusätzlichen Schatten.",
+      "answer": "j",
+      "explanation": "The solar roof „das das bisherige Hagelnetz ersetzt“ protected the trees from hail and produces electricity, but the research „zeigt allerdings auch Nachteile“ (smaller apples, lower yield) – (j). Headline (d) is the opposite: under the panels „fielen die Äpfel etwas kleiner aus“.",
+      "explanationDe": "Das Solardach, „das das bisherige Hagelnetz ersetzt“, hat die Bäume vor Hagel geschützt und liefert Strom. Die Forschung „zeigt allerdings auch Nachteile“ (kleinere Äpfel, weniger Ertrag) – (j). Überschrift (d) sagt das Gegenteil: Unter den Modulen „fielen die Äpfel etwas kleiner aus“.",
+      "evidence": [
+        "unter einem Dach aus Solarmodulen, das das bisherige Hagelnetz ersetzt",
+        "zeigt allerdings auch Nachteile"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Fast sechs Kilogramm Lebensmittel pro Kopf und Monat – so viel warfen die 400 Hamburger Haushalte weg, die Forschende der Hochschule für Ernährung und Konsum vier Wochen lang begleitet haben. Die Teilnehmenden mussten jedes entsorgte Lebensmittel wiegen und den Grund dafür in einer App notieren. Anders als häufig angenommen, spielt das Mindesthaltbarkeitsdatum dabei nur eine Nebenrolle: Lediglich jedes achte Produkt, das im Müll landete, war tatsächlich abgelaufen. Weitaus häufiger wurden Brot, Obst und Gemüse weggeworfen, weil zu viel davon eingekauft worden war oder angebrochene Packungen und Reste im Kühlschrank in Vergessenheit gerieten. Besonders hoch fielen die Mengen in Haushalten aus, die nur einmal pro Woche einen Großeinkauf erledigen. Ob die Waren aus dem Supermarkt, vom Wochenmarkt oder direkt vom Bauernhof stammten, machte dagegen kaum einen Unterschied. Studienleiterin Jana Oltmanns rät daher, vor jedem Einkauf einen Blick in den Kühlschrank zu werfen, lieber häufiger kleinere Mengen zu kaufen und Reste so aufzubewahren, dass man sie sofort sieht.",
+      "answer": "g",
+      "explanation": "The study asks why households throw food away; the main reasons are „weil zu viel davon eingekauft worden war“ and forgotten leftovers, especially after one big weekly shop – (g). Headline (b) is a trap: whether the food came from the supermarket or the farm „machte dagegen kaum einen Unterschied“.",
+      "explanationDe": "Die Studie fragt, warum Haushalte Essen wegwerfen. Die Hauptgründe: „weil zu viel davon eingekauft worden war“ und vergessene Reste, besonders nach einem großen Wocheneinkauf – (g). Überschrift (b) ist eine Falle: Ob die Lebensmittel aus dem Supermarkt oder vom Bauernhof kamen, „machte dagegen kaum einen Unterschied“.",
+      "evidence": [
+        "weil zu viel davon eingekauft worden war",
+        "Besonders hoch fielen die Mengen in Haushalten aus, die nur einmal pro Woche einen Großeinkauf erledigen"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Die meiste Zeit des Tages stehen Elektroautos ungenutzt herum – warum also ihre Batterien nicht als Speicher für das Stromnetz nutzen? Diese Idee hat der Winterthurer Energieversorger Eulachwerk in einem zweijährigen Pilotversuch mit fünfzig Fahrzeugen erprobt. Die teilnehmenden Halterinnen und Halter luden ihre Autos tagsüber mit Solarstrom und speisten in den Abendstunden, wenn der Verbrauch in den Haushalten seinen Höhepunkt erreicht, einen Teil der Energie ins Netz zurück; dafür erhielten sie eine Vergütung von durchschnittlich 300 Franken pro Jahr. Technisch verlief der Versuch nach Angaben der Projektleitung reibungslos, und die befürchtete zusätzliche Abnutzung der Batterien fiel nach den bisherigen Messungen gering aus. Dass das Modell trotzdem vorerst nicht flächendeckend eingeführt wird, liegt an den Rahmenbedingungen: Für zurückgespeisten Strom fallen bislang unter Umständen doppelte Netzgebühren an, und viele der auf dem Markt erhältlichen Fahrzeuge und Ladestationen sind für das Rückspeisen gar nicht ausgelegt. Der Energieversorger hofft nun auf eine Gesetzesänderung, die der Bund für das kommende Jahr in Aussicht gestellt hat.",
+      "answer": "h",
+      "explanation": "Technically the pilot ran „reibungslos“, but that the model is not introduced widely „liegt an den Rahmenbedingungen“ – double grid fees and unsuitable cars; a change in the law is still awaited – (h). Headline (a) is wrong: the feared battery wear „fiel nach den bisherigen Messungen gering aus“.",
+      "explanationDe": "Technisch lief der Versuch „reibungslos“, aber dass das Modell noch nicht überall eingeführt wird, „liegt an den Rahmenbedingungen“ – doppelte Netzgebühren und ungeeignete Autos; eine Gesetzesänderung fehlt noch – (h). Überschrift (a) ist falsch: Die befürchtete Abnutzung der Batterien „fiel nach den bisherigen Messungen gering aus“.",
+      "evidence": [
+        "Technisch verlief der Versuch nach Angaben der Projektleitung reibungslos",
+        "liegt an den Rahmenbedingungen"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Ein Kühlschrank mit Milch und Käse, ein Regal mit Eiern und Erdäpfeln, daneben eine Kassa, in die man das Geld selbst einwirft: Rund um Freistadt im Mühlviertel gibt es inzwischen mehr als sechzig Hofläden, die ohne Personal auskommen und oft rund um die Uhr geöffnet sind. Eine Befragung des Vereins Mühlviertler Direktvermarkter unter den Betreiberfamilien widerlegt nun die verbreitete Annahme, solche Läden würden vor allem zum Stehlen einladen: Im Schnitt fehlten weniger als zwei Prozent des Umsatzes. Bemerkenswert ist, dass Läden mit Videoüberwachung dabei kaum besser abschnitten als solche ohne Kamera, sodass viele Betriebe auf die teure Technik inzwischen verzichten. Deutlich spürbar war hingegen die Einführung bargeldloser Zahlungsmöglichkeiten: Wo Kundinnen und Kunden per Karte oder QR-Code bezahlen können, stieg der Umsatz um fast ein Drittel, weil immer weniger Menschen Münzen bei sich tragen. Einige Familien berichten zudem, dass der Hofladen für sie mittlerweile ein wichtigeres Standbein sei als die Lieferung an die Molkerei.",
+      "answer": "e",
+      "explanation": "In farm shops without staff „fehlten weniger als zwei Prozent des Umsatzes“ (honest customers), and paying by card or QR code raised sales by almost a third (new ways to pay) – (e). Headline (i) is wrong: cameras hardly helped, „sodass viele Betriebe auf die teure Technik inzwischen verzichten“.",
+      "explanationDe": "In Hofläden ohne Personal „fehlten weniger als zwei Prozent des Umsatzes“ (ehrliche Kundschaft), und mit Karte oder QR-Code stieg der Umsatz um fast ein Drittel (neue Bezahlwege) – (e). Überschrift (i) ist falsch: Kameras haben kaum geholfen, „sodass viele Betriebe auf die teure Technik inzwischen verzichten“.",
+      "evidence": [
+        "Im Schnitt fehlten weniger als zwei Prozent des Umsatzes",
+        "Deutlich spürbar war hingegen die Einführung bargeldloser Zahlungsmöglichkeiten"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "a",
+      "why": "Text 4 mentions battery wear only as a fear that did not come true: it „fiel nach den bisherigen Messungen gering aus“. The problem is the rules, not the technology.",
+      "whyDe": "Text 4 erwähnt die Abnutzung der Batterien nur als Befürchtung, die sich nicht bestätigt hat: Sie „fiel nach den bisherigen Messungen gering aus“. Das Problem sind die Regeln, nicht die Technik."
+    },
+    {
+      "key": "b",
+      "why": "Text 3 mentions weekly markets and farms, but the origin of the food „machte dagegen kaum einen Unterschied“ – regional food is not thrown away less often.",
+      "whyDe": "Text 3 erwähnt Wochenmarkt und Bauernhof, aber die Herkunft der Lebensmittel „machte dagegen kaum einen Unterschied“ – regionale Lebensmittel werden nicht seltener weggeworfen."
+    },
+    {
+      "key": "d",
+      "why": "Text 2 is about apple trees under solar panels, but the apples became smaller („fielen die Äpfel etwas kleiner aus“) because the panels block more light, and the yield was about six per cent lower.",
+      "whyDe": "In Text 2 geht es um Apfelbäume unter Solarmodulen, aber die Äpfel wurden kleiner („fielen die Äpfel etwas kleiner aus“), weil die Module mehr Licht abhalten, und der Ertrag lag rund sechs Prozent niedriger."
+    },
+    {
+      "key": "f",
+      "why": "Text 1 says that the farmers' own children often have no interest, but many other young people with agricultural training „suchen … vergeblich nach einem eigenen Betrieb“ – they want farms but cannot afford land.",
+      "whyDe": "Text 1 sagt, dass die eigenen Kinder der Bauern oft kein Interesse haben. Viele andere junge Menschen mit landwirtschaftlicher Ausbildung „suchen … vergeblich nach einem eigenen Betrieb“ – sie wollen einen Hof, können sich aber kein Land leisten."
+    },
+    {
+      "key": "i",
+      "why": "Text 5 mentions video surveillance, but shops with cameras did hardly better than shops without, „sodass viele Betriebe auf die teure Technik inzwischen verzichten“.",
+      "whyDe": "Text 5 erwähnt Videoüberwachung, aber Läden mit Kamera schnitten kaum besser ab als Läden ohne, „sodass viele Betriebe auf die teure Technik inzwischen verzichten“."
+    }
+  ],
+  "glossary": [
+    { "de": "die Hofübergabe", "en": "handing over a farm (to a successor)" },
+    { "de": "die Pachtfläche", "en": "leased land" },
+    { "de": "das Eigenkapital", "en": "equity, own capital" },
+    { "de": "die Bürgschaft", "en": "(loan) guarantee" },
+    { "de": "unversehrt", "en": "undamaged, intact" },
+    { "de": "der Ertrag", "en": "yield, harvest" },
+    { "de": "die Bewässerung", "en": "irrigation" },
+    { "de": "das Mindesthaltbarkeitsdatum", "en": "best-before date" },
+    { "de": "in Vergessenheit geraten", "en": "to be forgotten" },
+    { "de": "(Strom) ins Netz zurückspeisen", "en": "to feed (electricity) back into the grid" },
+    { "de": "die Rahmenbedingungen (Pl.)", "en": "general conditions, (legal) framework" },
+    { "de": "das Standbein", "en": "mainstay, (source of) income" }
+  ]
+}

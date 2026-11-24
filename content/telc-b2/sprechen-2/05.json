@@ -1,0 +1,98 @@
+{
+  "id": "sprechen-2-05",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Ein soziales Pflichtjahr für alle?",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "theme": "Sollte ein soziales Pflichtjahr für junge Menschen eingeführt werden?",
+  "article": {
+    "headline": "Ein Jahr für die Gemeinschaft – Chance oder Zumutung?",
+    "lead": "Eine Expertenkommission will junge Erwachsene nach der Schule zu zwölf Monaten Dienst an der Gesellschaft verpflichten. Der Vorschlag spaltet das Land.",
+    "paragraphs": [
+      "Geht es nach der Kommission „Zusammenhalt 2030“, sollen künftig alle jungen Menschen zwischen 18 und 25 Jahren ein Jahr lang in Pflegeheimen, Kitas, Sportvereinen oder im Katastrophenschutz mitarbeiten. Vorgesehen sind eine Vergütung von rund 600 Euro im Monat sowie ein kostenloses Bahnticket. Nach Berechnungen der Kommission stünden dadurch jedes Jahr etwa 650.000 zusätzliche Helferinnen und Helfer zur Verfügung – eine erhebliche Entlastung für Einrichtungen, die seit Langem unter Personalmangel leiden.",
+      "Die Befürworter verweisen vor allem auf den gesellschaftlichen Nutzen. „Viele junge Leute bewegen sich nur noch in ihrer eigenen Blase“, sagt die Soziologin Henrike Lommatzsch, Mitglied der Kommission. „Ein gemeinsamer Dienst bringt Menschen aus unterschiedlichen Milieus zusammen und macht Solidarität erfahrbar.“ Zudem könne das Jahr bei der Berufsorientierung helfen: Wer zwölf Monate in einem Krankenhaus verbracht habe, entdecke dort womöglich seinen Traumberuf.",
+      "Scharfe Kritik kommt dagegen von Jugendverbänden und Juristen. Ein verpflichtender Dienst greife massiv in die persönliche Freiheit ein, argumentiert der Verfassungsrechtler Matthias Ebner; für seine Einführung wäre eine Änderung des Grundgesetzes mit Zweidrittelmehrheit nötig. Sozialverbände befürchten zudem, dass unmotivierte Pflichtkräfte das Fachpersonal eher belasten als entlasten. „Wer gezwungen wird, alte Menschen zu betreuen, tut das selten mit Herzblut“, gibt die Pflegedienstleiterin Selin Aydın zu bedenken.",
+      "Wie gespalten die Bevölkerung ist, zeigt eine aktuelle Umfrage des Instituts Civis Monitor: Während 58 Prozent der über 50-Jährigen ein Pflichtjahr befürworten, sind es bei den 18- bis 24-Jährigen lediglich 27 Prozent. Viele junge Befragte plädieren stattdessen dafür, die bestehenden Freiwilligendienste attraktiver zu gestalten – etwa durch eine bessere Bezahlung oder Vorteile bei der Vergabe von Studienplätzen."
+    ],
+    "source": "Münsterländer Morgenpost"
+  },
+  "ideas": {
+    "pro": [
+      "mehr Unterstützung für Pflegeheime, Kitas und Vereine",
+      "junge Menschen aus verschiedenen Milieus lernen sich kennen",
+      "Orientierung für die spätere Berufswahl",
+      "stärkt Solidarität und Gemeinsinn",
+      "wichtige Lebenserfahrung und mehr Selbstständigkeit"
+    ],
+    "contra": [
+      "massiver Eingriff in die persönliche Freiheit",
+      "unmotivierte Helfer belasten das Fachpersonal",
+      "ein Jahr Verzögerung bei Ausbildung oder Studium",
+      "Gefahr billiger Arbeitskräfte statt fairer Löhne in der Pflege",
+      "hohe Kosten für den Staat",
+      "attraktivere Freiwilligendienste wären die bessere Lösung"
+    ]
+  },
+  "questions": [
+    "Welche Vorteile hätte ein soziales Pflichtjahr Ihrer Meinung nach für die Gesellschaft?",
+    "Was spricht aus Ihrer Sicht gegen eine solche Pflicht?",
+    "Haben Sie selbst schon einmal ehrenamtlich gearbeitet oder einen Freiwilligendienst gemacht? Welche Erfahrungen haben Sie gesammelt?",
+    "Gibt es in Ihrem Heimatland einen Pflichtdienst für junge Menschen? Wie wird er dort gesehen?",
+    "Wie könnte man junge Menschen auch ohne Zwang für soziale Arbeit gewinnen?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Rania Khoury", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Andrei Popescu", "gender": "m", "age": "young", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange mal an. In dem Artikel geht es um den Vorschlag einer Expertenkommission, ein soziales Pflichtjahr für alle jungen Menschen zwischen achtzehn und fünfundzwanzig einzuführen. Sie sollen zwölf Monate lang zum Beispiel in Pflegeheimen, Kitas oder Sportvereinen mitarbeiten und dafür etwa sechshundert Euro im Monat bekommen." },
+    { "s": "A", "t": "Die Befürworter meinen, dass ein solcher Dienst Menschen aus verschiedenen Milieus zusammenbringe und bei der Berufswahl helfen könne. Kritiker sehen darin dagegen einen massiven Eingriff in die persönliche Freiheit, und eine Pflegedienstleiterin gibt zu bedenken, dass Leute, die gezwungen werden, selten mit Herzblut arbeiten." },
+    { "s": "B", "t": "Danke, das hast du gut zusammengefasst. Mich hat noch die Umfrage am Ende interessiert: Von den über Fünfzigjährigen ist mehr als die Hälfte dafür, von den Jungen aber nur gut ein Viertel. Das finde ich ziemlich bezeichnend, denn die Älteren müssten den Dienst ja gar nicht mehr leisten." },
+    { "s": "A", "t": "Da ist was dran. Trotzdem finde ich die Idee grundsätzlich richtig, denn in vielen Pflegeheimen fehlt Personal. Schon ein bisschen Unterstützung beim Vorlesen oder bei Spaziergängen würde den Bewohnern viel bringen." },
+    { "s": "B", "t": "Aber genau da sehe ich das Problem. Das sind ja keine ausgebildeten Pflegekräfte, und ich befürchte, dass sich der Staat auf diese Weise billige Arbeitskräfte holt, statt endlich die Löhne in der Pflege zu erhöhen." },
+    { "s": "A", "t": "Das ist ein berechtigter Einwand. Man müsste natürlich klar regeln, dass die jungen Leute nur zusätzliche Aufgaben übernehmen und keine regulären Stellen ersetzen. Aber wie siehst du die Sache mit der Freiheit?" },
+    { "s": "B", "t": "Für mich ist das der wichtigste Punkt. Ich habe nach der Schule direkt eine Ausbildung angefangen, weil ich genau wusste, was ich wollte. Hätte man mich damals zu einem Pflichtjahr gezwungen, hätte ich mich ziemlich bevormundet gefühlt." },
+    { "s": "A", "t": "Das kann ich verstehen. Andererseits gibt es ja auch eine Schulpflicht, und die empfindet kaum jemand als Zumutung. Eine Gesellschaft darf meiner Meinung nach durchaus etwas von jungen Menschen verlangen." },
+    { "s": "B", "t": "Na ja, in der Schule lernt man vor allem für sich selbst. Beim Pflichtjahr arbeitet man für andere, und zwar für sehr wenig Geld. Hast du selbst schon einmal so etwas gemacht?" },
+    { "s": "A", "t": "Ja, nach der Schule habe ich ein halbes Jahr freiwillig in einem Kinderheim geholfen. Das war anstrengend, aber ich habe dort mehr über das Leben gelernt als in meinen ersten Semestern an der Uni." },
+    { "s": "B", "t": "Siehst du, du hast das freiwillig gemacht, und genau deshalb hat es dir wahrscheinlich so viel gebracht. Wer gezwungen wird, hat eine ganz andere Motivation." },
+    { "s": "A", "t": "Da hast du zwar recht, aber manche entdecken ihr Interesse erst, wenn sie etwas ausprobieren. Ein Freund von mir wollte eigentlich Informatik studieren und ist nach seinem Zivildienst Krankenpfleger geworden." },
+    { "s": "B", "t": "Okay, das ist ein gutes Beispiel. Aber wer soll das Ganze eigentlich bezahlen? Sechshundert Euro im Monat für über sechshunderttausend junge Leute, das sind mehrere Milliarden Euro im Jahr." },
+    { "s": "A", "t": "Billig wäre es sicher nicht. Andererseits würden Vereine, Kitas und Heime enorm entlastet, und das hat ja auch einen Wert für die ganze Gesellschaft." },
+    { "s": "B", "t": "Trotzdem: Müsste man dann nicht eher die Freiwilligendienste attraktiver machen, so wie es die jungen Leute in der Umfrage vorschlagen?" },
+    { "s": "A", "t": "Das wäre zumindest ein erster Schritt. Wenn man im Freiwilligendienst ordentlich verdient und dafür zum Beispiel bei der Vergabe von Studienplätzen Vorteile bekommt, würden sich bestimmt viel mehr Leute melden." },
+    { "s": "B", "t": "Genau. Und der Dienst sollte flexibel sein, also auch in Teilzeit oder in mehreren Abschnitten möglich. Dann wäre er für Leute wie mich kein Hindernis." },
+    { "s": "A", "t": "Einverstanden. Allerdings würde ich nach ein paar Jahren prüfen, ob das reicht. Falls sich trotzdem kaum jemand meldet, sollte man noch einmal über eine Pflicht nachdenken." },
+    { "s": "B", "t": "Damit kann ich leben. Also lieber Anreize statt Zwang, und eine Pflicht nur als letzte Möglichkeit." },
+    { "s": "A", "t": "Ja, so könnte man es zusammenfassen. Beim Thema Freiheit sind wir uns zwar nicht ganz einig, aber das ist ja auch in Ordnung." }
+  ],
+  "phrases": [
+    { "de": "In dem Artikel geht es um den Vorschlag, …", "en": "The article is about the proposal to …" },
+    { "de": "Die Befürworter meinen, dass …", "en": "Supporters argue that …" },
+    { "de": "Kritiker sehen darin dagegen …", "en": "Critics, on the other hand, see it as …" },
+    { "de": "Mich hat noch … interessiert.", "en": "I also found … interesting." },
+    { "de": "Da ist was dran.", "en": "There's something in that." },
+    { "de": "Aber genau da sehe ich das Problem.", "en": "But that's exactly where I see the problem." },
+    { "de": "Das ist ein berechtigter Einwand.", "en": "That's a fair objection." },
+    { "de": "Da hast du zwar recht, aber …", "en": "You're right about that, but …" },
+    { "de": "Müsste man dann nicht eher …?", "en": "Shouldn't we rather …?" },
+    { "de": "Das wäre zumindest ein erster Schritt.", "en": "That would at least be a first step." },
+    { "de": "Damit kann ich leben.", "en": "I can live with that." },
+    { "de": "So könnte man es zusammenfassen.", "en": "That's one way to sum it up." }
+  ],
+  "vocabulary": [
+    { "de": "das Pflichtjahr", "en": "compulsory year (of service)" },
+    { "de": "der Freiwilligendienst", "en": "voluntary service" },
+    { "de": "der Personalmangel", "en": "staff shortage" },
+    { "de": "die Entlastung", "en": "relief (of workload)" },
+    { "de": "die Berufsorientierung", "en": "career orientation" },
+    { "de": "der Eingriff in die persönliche Freiheit", "en": "interference with personal freedom" },
+    { "de": "etwas befürworten", "en": "to be in favour of something" },
+    { "de": "jemanden bevormunden", "en": "to patronise someone, to tell someone what to do" },
+    { "de": "die Zumutung", "en": "unreasonable demand, imposition" },
+    { "de": "der Anreiz", "en": "incentive" },
+    { "de": "der Gemeinsinn", "en": "community spirit" },
+    { "de": "mit Herzblut", "en": "with passion, wholeheartedly" }
+  ]
+}

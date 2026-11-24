@@ -1,0 +1,119 @@
+{
+  "id": "hoeren-1-05",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Radio Ruhrstadt: Nachrichten am Morgen",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "sprecher", "name": "Jan Kowalczyk", "gender": "m", "age": "adult", "role": "Nachrichtensprecher" },
+    { "id": "reporterin", "name": "Lena Brauer", "gender": "f", "age": "adult", "role": "Reporterin" }
+  ],
+  "intro": [
+    { "s": "sprecher", "t": "Radio Ruhrstadt, es ist sieben Uhr. Guten Morgen, hier sind die Nachrichten mit Jan Kowalczyk." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: Wohnungstausch für ältere Mieter",
+      "script": [
+        { "s": "sprecher", "t": "Dortmund: Ältere Menschen, die allein in großen Wohnungen leben, sollen leichter in eine kleinere Wohnung umziehen können." },
+        { "s": "sprecher", "t": "Die städtische Wohnungsgesellschaft übernimmt ab Januar die Umzugskosten und garantiert, dass die Miete pro Quadratmeter nach dem Wechsel nicht steigt. Die frei werdenden großen Wohnungen sollen vorrangig an Familien mit Kindern vergeben werden." },
+        { "s": "sprecher", "t": "Gezwungen wird allerdings niemand: Das Angebot ist ausdrücklich freiwillig." },
+        { "s": "sprecher", "t": "Der Mieterverein begrüßte das Programm, wies aber darauf hin, dass in vielen Stadtteilen kaum kleine Wohnungen frei seien." }
+      ],
+      "statement": "Die Stadt Dortmund verpflichtet ältere Alleinstehende, ihre großen Wohnungen für Familien freizumachen.",
+      "answer": false,
+      "explanation": "„Gezwungen wird allerdings niemand: Das Angebot ist ausdrücklich freiwillig.“ Older tenants get help if they want to move (the moving costs are paid), but nobody has to. The trap: the large flats are meant for families – but only if older tenants leave of their own accord.",
+      "explanationDe": "„Gezwungen wird allerdings niemand: Das Angebot ist ausdrücklich freiwillig.“ Ältere Mieter bekommen Hilfe, wenn sie umziehen wollen (die Umzugskosten werden übernommen), aber niemand muss umziehen. Die Falle: Die großen Wohnungen sollen an Familien gehen – aber nur, wenn die älteren Mieter freiwillig ausziehen.",
+      "evidence": "Gezwungen wird allerdings niemand: Das Angebot ist ausdrücklich freiwillig."
+    },
+    {
+      "n": 2,
+      "label": "Meldung: neue Strom- und Gaspreise",
+      "script": [
+        { "s": "sprecher", "t": "Bochum: Der regionale Energieversorger Revierstrom senkt zum ersten Januar seine Strompreise. Ein Durchschnittshaushalt spart dadurch nach Angaben des Unternehmens rund 70 Euro im Jahr." },
+        { "s": "sprecher", "t": "Beim Gas ändert sich dagegen vorerst nichts. Hier seien die Einkaufspreise nach wie vor zu hoch, hieß es." },
+        { "s": "sprecher", "t": "Verbraucherschützer kritisierten, die Senkung komme viel zu spät: An der Strombörse seien die Preise bereits seit dem Frühjahr deutlich gefallen." }
+      ],
+      "statement": "Kundinnen und Kunden von Revierstrom zahlen ab Januar sowohl für Strom als auch für Gas weniger.",
+      "answer": false,
+      "explanation": "Only electricity gets cheaper: Revierstrom „senkt … seine Strompreise“, but „Beim Gas ändert sich dagegen vorerst nichts.“ So customers do not pay less for both.",
+      "explanationDe": "Nur der Strom wird billiger: Revierstrom „senkt … seine Strompreise“, aber „Beim Gas ändert sich dagegen vorerst nichts.“ Die Kunden zahlen also nicht für beides weniger.",
+      "evidence": "Beim Gas ändert sich dagegen vorerst nichts."
+    },
+    {
+      "n": 3,
+      "label": "Meldung: Studie zum späteren Schulbeginn",
+      "script": [
+        { "s": "sprecher", "t": "Essen: Ein späterer Unterrichtsbeginn macht Jugendliche ausgeschlafener, aber nicht automatisch besser in der Schule. Zu diesem Ergebnis kommt eine Studie der Hochschule Emschertal." },
+        { "s": "sprecher", "t": "An drei Essener Gesamtschulen hatte der Unterricht ein Schuljahr lang erst um neun statt um acht Uhr begonnen." },
+        { "s": "sprecher", "t": "Die Schülerinnen und Schüler schliefen dadurch im Schnitt vierzig Minuten länger und fehlten seltener. Bei den Noten stellten die Forschenden dagegen kaum Unterschiede fest." },
+        { "s": "sprecher", "t": "Die Stadt will nun prüfen, ob weitere Schulen das Modell übernehmen." }
+      ],
+      "statement": "Durch den späteren Unterrichtsbeginn haben die Jugendlichen zwar mehr geschlafen, ihre Leistungen aber kaum verbessert.",
+      "answer": true,
+      "explanation": "The pupils „schliefen … vierzig Minuten länger“, but „Bei den Noten stellten die Forschenden dagegen kaum Unterschiede fest.“ – more sleep, hardly better results. The first sentence already says so: „ausgeschlafener, aber nicht automatisch besser“.",
+      "explanationDe": "Die Jugendlichen „schliefen … vierzig Minuten länger“, aber „Bei den Noten stellten die Forschenden dagegen kaum Unterschiede fest.“ – mehr Schlaf, aber kaum bessere Leistungen. Schon der erste Satz sagt das: „ausgeschlafener, aber nicht automatisch besser“.",
+      "evidence": "Bei den Noten stellten die Forschenden dagegen kaum Unterschiede fest."
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Zukunft eines Bergmannschors",
+      "script": [
+        { "s": "sprecher", "t": "Gelsenkirchen: Der Knappenchor Glückauf, einer der ältesten Bergmannschöre im Ruhrgebiet, macht doch weiter." },
+        { "s": "sprecher", "t": "Eigentlich wollte sich der Chor nach fast hundert Jahren zum Jahresende auflösen. Von einst achtzig Sängern sind nur noch vierzehn übrig, die meisten von ihnen über siebzig." },
+        { "s": "sprecher", "t": "Nun hat sich ein Jugendchor aus dem Stadtteil gemeldet: Ab Januar proben beide Gruppen gemeinsam." },
+        { "s": "sprecher", "t": "Das traditionelle Steigerlied bleibt im Programm, dazu kommen Popsongs und Lieder aus den Herkunftsländern der jungen Sängerinnen und Sänger." }
+      ],
+      "statement": "Der alte Bergmannschor kann bestehen bleiben, weil er künftig zusammen mit jungen Leuten singt.",
+      "answer": true,
+      "explanation": "The choir had planned to disband („Eigentlich wollte sich der Chor … auflösen“), but it „macht doch weiter“ because a youth choir has joined: „Ab Januar proben beide Gruppen gemeinsam.“ Careful: „auflösen“ was only the old plan.",
+      "explanationDe": "Der Chor wollte sich eigentlich auflösen („Eigentlich wollte sich der Chor … auflösen“), aber er „macht doch weiter“, weil ein Jugendchor dazukommt: „Ab Januar proben beide Gruppen gemeinsam.“ Pass auf: „auflösen“ war nur der alte Plan.",
+      "evidence": "Ab Januar proben beide Gruppen gemeinsam."
+    },
+    {
+      "n": 5,
+      "label": "Meldung: Großbrand in Herne",
+      "script": [
+        { "s": "sprecher", "t": "Herne: Bei einem Großbrand in einer Lagerhalle ist in der Nacht ein Schaden in Millionenhöhe entstanden. Aus Herne berichtet Lena Brauer." },
+        { "s": "reporterin", "t": "Das Feuer war gegen Mitternacht in der Halle eines Verpackungsherstellers ausgebrochen. Verletzt wurde niemand, die Löscharbeiten dauern aber noch an." },
+        { "s": "reporterin", "t": "Wegen der starken Rauchentwicklung hatte die Feuerwehr die Menschen in mehreren Stadtteilen per Warn-App aufgefordert, Fenster und Türen geschlossen zu halten und ihre Wohnungen nicht zu verlassen." },
+        { "s": "reporterin", "t": "Am frühen Morgen wurde die Warnung aufgehoben: Messungen hätten keine gefährlichen Schadstoffe in der Luft ergeben. Zur Brandursache ermittelt die Polizei." }
+      ],
+      "statement": "Wegen des Rauchs mussten viele Anwohner in Herne in der Nacht ihre Wohnungen verlassen.",
+      "answer": false,
+      "explanation": "People were told to stay at home: the fire brigade asked them to keep windows and doors shut „und ihre Wohnungen nicht zu verlassen“. Nobody had to leave their flat, and the warning has since been lifted.",
+      "explanationDe": "Die Menschen sollten zu Hause bleiben: Die Feuerwehr bat sie, Fenster und Türen geschlossen zu halten „und ihre Wohnungen nicht zu verlassen“. Niemand musste also die Wohnung verlassen, und die Warnung ist inzwischen aufgehoben.",
+      "evidence": "Fenster und Türen geschlossen zu halten und ihre Wohnungen nicht zu verlassen"
+    }
+  ],
+  "unscored": [
+    {
+      "after": 2,
+      "label": "Meldung: Arbeitsmarkt im Ruhrgebiet",
+      "script": [
+        { "s": "sprecher", "t": "Die Zahl der Arbeitslosen im Ruhrgebiet ist im Oktober leicht zurückgegangen. Nach Angaben der Arbeitsagenturen waren rund 5.000 Menschen weniger ohne Job als im September." },
+        { "s": "sprecher", "t": "Die Arbeitslosenquote sank damit auf 9,4 Prozent. Besonders gefragt sind Fachkräfte in der Pflege, im Handwerk und in der Logistik." },
+        { "s": "sprecher", "t": "Schwierig bleibt dagegen die Lage junger Menschen ohne Berufsabschluss: In dieser Gruppe ist die Arbeitslosigkeit im Vergleich zum Vorjahr sogar gestiegen." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecher", "t": "Das waren die Nachrichten von Radio Ruhrstadt." }
+  ],
+  "glossary": [
+    { "de": "die Wohnungsgesellschaft", "en": "housing company" },
+    { "de": "vorrangig", "en": "with priority, primarily" },
+    { "de": "der Mieterverein", "en": "tenants' association" },
+    { "de": "der Energieversorger", "en": "energy supplier" },
+    { "de": "die Strombörse", "en": "electricity exchange" },
+    { "de": "der Berufsabschluss", "en": "vocational qualification" },
+    { "de": "ausgeschlafen", "en": "well-rested" },
+    { "de": "sich auflösen", "en": "to disband" },
+    { "de": "der Knappenchor", "en": "miners' choir" },
+    { "de": "die Rauchentwicklung", "en": "build-up of smoke" },
+    { "de": "eine Warnung aufheben", "en": "to lift a warning" },
+    { "de": "ermitteln", "en": "to investigate" }
+  ]
+}

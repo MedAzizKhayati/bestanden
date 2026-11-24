@@ -10,6 +10,7 @@ export const telcB1: ExamDefinition = {
   name: "telc Deutsch B1",
   alias: "Zertifikat Deutsch",
   level: "B1",
+  studyLevels: ["B1", "A2"],
   description:
     "The most widely taken B1 certificate in Germany – accepted for citizenship, permanent residence, jobs and university preparation.",
   written: { maxPoints: 225, passPoints: 135, minutes: 150 },
@@ -267,6 +268,7 @@ export const telcB1: ExamDefinition = {
             "Reply to the e-mail and write something about all four points. Before writing, think about a sensible order, a subject line, a salutation, an introduction and a closing.",
           description:
             "Rated on task completion (the 4 Leitpunkte), communicative design (structure, connectors, register) and accuracy.",
+          writing: { minWords: 0, cover: "all", choice: false },
         },
       ],
     },
@@ -296,7 +298,7 @@ export const telcB1: ExamDefinition = {
           instruction: "Unterhalten Sie sich mit Ihrer Partnerin bzw. Ihrem Partner über folgende Themen:",
           instructionEn: "Talk with your partner about the following topics:",
           description: "Introduce yourself and ask your partner questions – a natural, two-way conversation.",
-          speaking: { minutes: 3, monologueSeconds: 90 },
+          speaking: { minutes: 3, monologueSeconds: 90, prepSeconds: 60 },
         },
         {
           id: "sprechen-2",
@@ -317,7 +319,7 @@ export const telcB1: ExamDefinition = {
             "Report the opinion on your sheet to your partner, then discuss the topic: give your opinion and talk about your own experiences.",
           description:
             "Each candidate has a different opinion card on the same topic. Present it, then discuss, compare and share experiences.",
-          speaking: { minutes: 6, monologueSeconds: 75 },
+          speaking: { minutes: 6, monologueSeconds: 75, prepSeconds: 300 },
         },
         {
           id: "sprechen-3",
@@ -338,7 +340,7 @@ export const telcB1: ExamDefinition = {
             "Plan together: make and justify suggestions, react to your partner's ideas, and agree on what needs to be done and who does what.",
           description:
             "Organise an event or trip with your partner using a checklist. Suggesting, agreeing, objecting politely and reaching a decision are assessed.",
-          speaking: { minutes: 6 },
+          speaking: { minutes: 6, prepSeconds: 300 },
         },
       ],
     },

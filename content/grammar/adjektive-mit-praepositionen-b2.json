@@ -1,0 +1,283 @@
+{
+  "id": "adjektive-mit-praepositionen-b2",
+  "level": "B2",
+  "category": "adjektive",
+  "order": 21,
+  "title": "Adjektive mit Präpositionen für B2",
+  "titleEn": "Adjectives with prepositions for B2",
+  "summary": "Formal adjectives with fixed prepositions (angewiesen auf, beteiligt an, betroffen von, verpflichtet zu, skeptisch gegenüber …), pairs that are easy to confuse (zuständig/verantwortlich für, bekannt für/mit, besorgt um/über, abhängig/unabhängig von) and how to use them in Nominalstil.",
+  "summaryDe": "Formelle Adjektive mit fester Präposition (angewiesen auf, beteiligt an, betroffen von, verpflichtet zu, skeptisch gegenüber …), Paare, die man leicht verwechselt (zuständig/verantwortlich für, bekannt für/mit, besorgt um/über, abhängig/unabhängig von), und wie du sie im Nominalstil benutzt.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "B2 texts use many **formal adjectives with a fixed preposition**: angewiesen **auf** + Akk., beteiligt **an** + Dat., betroffen **von** + Dat., skeptisch **gegenüber** + Dat. As at B1, the preposition decides the case, and the prepositional phrase usually comes **before** the adjective: „Viele Familien sind **auf** das Kindergeld **angewiesen**.“ New at B2: the whole phrase also works **inside a noun phrase** – „die **an dem Projekt beteiligten** Firmen“.",
+      "mdDe": "In B2-Texten stehen viele **formelle Adjektive mit fester Präposition**: angewiesen **auf** + Akk., beteiligt **an** + Dat., betroffen **von** + Dat., skeptisch **gegenüber** + Dat. Wie auf B1-Niveau bestimmt die Präposition den Kasus, und der Ausdruck mit der Präposition steht meistens **vor** dem Adjektiv: „Viele Familien sind **auf** das Kindergeld **angewiesen**.“ Neu auf B2-Niveau: Der ganze Ausdruck funktioniert auch **innerhalb einer Nominalgruppe** – „die **an dem Projekt beteiligten** Firmen“."
+    },
+    {
+      "type": "text",
+      "heading": "What's new at B2",
+      "headingDe": "Was ist neu auf B2-Niveau?",
+      "md": "Many of the new adjectives come from **participles** (angewiesen, beteiligt, betroffen, verpflichtet, berechtigt) or describe **attitudes** (skeptisch, aufgeschlossen, misstrauisch). They are typical of reports, articles and formal letters.\n\nCase reminders:\n\n- **auf** → accusative: angewiesen **auf**, gefasst **auf**.\n- **an** → dative: beteiligt **an**, arm **an** (like interessiert an, reich an).\n- **zu** → dative, often with a nominalised verb: verpflichtet **zur** Verschwiegenheit, berechtigt **zum** Kauf eines ermäßigten Tickets, fähig **zu** einem Kompromiss.\n- **gegenüber** → dative. It can stand before or **after** its noun – and always after a pronoun: „Sie ist **neuen Ideen gegenüber** aufgeschlossen.“ / „Er war **mir gegenüber** sehr misstrauisch.“\n\nIn speech, a long prepositional phrase can also follow the adjective: „Wir sind **angewiesen auf** die Hilfe der Nachbarn.“ In writing it normally stands before it.",
+      "mdDe": "Viele der neuen Adjektive kommen von **Partizipien** (angewiesen, beteiligt, betroffen, verpflichtet, berechtigt) oder beschreiben **Einstellungen** (skeptisch, aufgeschlossen, misstrauisch). Sie sind typisch für Berichte, Artikel und formelle Briefe.\n\nZur Erinnerung beim Kasus:\n\n- **auf** → Akkusativ: angewiesen **auf**, gefasst **auf**.\n- **an** → Dativ: beteiligt **an**, arm **an** (wie interessiert an, reich an).\n- **zu** → Dativ, oft mit einem nominalisierten Verb: verpflichtet **zur** Verschwiegenheit, berechtigt **zum** Kauf eines ermäßigten Tickets, fähig **zu** einem Kompromiss.\n- **gegenüber** → Dativ. Es kann vor oder **nach** seinem Nomen stehen – nach einem Pronomen immer: „Sie ist **neuen Ideen gegenüber** aufgeschlossen.“ / „Er war **mir gegenüber** sehr misstrauisch.“\n\nBeim Sprechen kann ein langer Ausdruck mit Präposition auch nach dem Adjektiv stehen: „Wir sind **angewiesen auf** die Hilfe der Nachbarn.“ Schriftlich steht er normalerweise davor."
+    },
+    {
+      "type": "table",
+      "heading": "Important B2 adjectives with prepositions",
+      "headingDe": "Wichtige B2-Adjektive mit Präpositionen",
+      "columns": ["Adjektiv + Präposition", "Kasus", "English", "Beispiel"],
+      "columnsDe": ["Adjektiv + Präposition", "Kasus", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["angewiesen auf", "Akk", "dependent on, reliant on", "Viele Senioren auf dem Land sind auf ihr Auto angewiesen."],
+        ["gefasst auf", "Akk", "prepared for (something bad)", "Wir müssen auf weitere Verspätungen gefasst sein."],
+        ["beteiligt an", "Dat", "involved in", "An dem Projekt sind vier Schulen beteiligt."],
+        ["arm an", "Dat", "low in, poor in", "Die Region ist arm an Rohstoffen."],
+        ["betroffen von", "Dat", "affected by", "Von dem Streik sind vor allem Pendler betroffen."],
+        ["unabhängig von", "Dat", "independent of; regardless of", "Das Angebot gilt unabhängig vom Alter."],
+        ["frei von", "Dat", "free of", "Das Produkt ist frei von Konservierungsstoffen."],
+        ["verpflichtet zu", "Dat", "obliged to", "Ärztinnen und Ärzte sind zur Verschwiegenheit verpflichtet."],
+        ["berechtigt zu", "Dat", "entitled to", "Studierende sind zum Kauf eines ermäßigten Tickets berechtigt."],
+        ["entschlossen zu", "Dat", "determined to", "Die Bürgerinitiative ist zum Widerstand gegen das Projekt entschlossen."],
+        ["fähig zu", "Dat", "capable of", "Ist er überhaupt zu einem Kompromiss fähig?"],
+        ["vertraut mit", "Dat", "familiar with", "Sind Sie mit dem Programm vertraut?"],
+        ["befreundet mit", "Dat", "friends with", "Ich bin seit der Schulzeit mit ihrer Schwester befreundet."],
+        ["verbunden mit", "Dat", "connected with, involving", "Ein Umzug ist immer mit hohen Kosten verbunden."],
+        ["vereinbar mit", "Dat", "compatible with", "Der Job ist gut mit dem Studium vereinbar."],
+        ["behilflich bei", "Dat", "helpful with (formal)", "Darf ich Ihnen bei der Suche behilflich sein?"],
+        ["süchtig nach", "Dat", "addicted to", "Manche Jugendliche sind regelrecht süchtig nach ihrem Handy."],
+        ["charakteristisch für", "Akk", "characteristic of", "Lange, schneereiche Winter sind charakteristisch für die Region."],
+        ["ausschlaggebend für", "Akk", "decisive for", "Der Preis war ausschlaggebend für unsere Entscheidung."],
+        ["empört über", "Akk", "outraged at", "Die Eltern sind empört über die Schließung der Kita."],
+        ["erstaunt über", "Akk", "astonished at", "Wir waren erstaunt über die vielen Rückmeldungen."],
+        ["skeptisch gegenüber", "Dat", "sceptical of", "Viele Bürger sind gegenüber dem Plan skeptisch."],
+        ["aufgeschlossen gegenüber", "Dat", "open-minded about", "Sie ist neuen Ideen gegenüber sehr aufgeschlossen."],
+        ["misstrauisch gegenüber", "Dat", "suspicious of", "Er ist Fremden gegenüber misstrauisch."]
+      ],
+      "rowsDe": [
+        ["angewiesen auf", "Akk", "braucht etwas oder jemanden unbedingt", "Viele Senioren auf dem Land sind auf ihr Auto angewiesen."],
+        ["gefasst auf", "Akk", "rechnet mit etwas Unangenehmem", "Wir müssen auf weitere Verspätungen gefasst sein."],
+        ["beteiligt an", "Dat", "macht bei etwas mit, ist ein Teil davon", "An dem Projekt sind vier Schulen beteiligt."],
+        ["arm an", "Dat", "hat wenig von etwas", "Die Region ist arm an Rohstoffen."],
+        ["betroffen von", "Dat", "spürt die Folgen von etwas", "Von dem Streik sind vor allem Pendler betroffen."],
+        ["unabhängig von", "Dat", "nicht abhängig von; egal, wie …", "Das Angebot gilt unabhängig vom Alter."],
+        ["frei von", "Dat", "enthält etwas nicht", "Das Produkt ist frei von Konservierungsstoffen."],
+        ["verpflichtet zu", "Dat", "muss etwas tun (Regel, Gesetz, Vertrag)", "Ärztinnen und Ärzte sind zur Verschwiegenheit verpflichtet."],
+        ["berechtigt zu", "Dat", "darf etwas offiziell tun oder bekommen", "Studierende sind zum Kauf eines ermäßigten Tickets berechtigt."],
+        ["entschlossen zu", "Dat", "hat sich fest für etwas entschieden", "Die Bürgerinitiative ist zum Widerstand gegen das Projekt entschlossen."],
+        ["fähig zu", "Dat", "kann etwas tun", "Ist er überhaupt zu einem Kompromiss fähig?"],
+        ["vertraut mit", "Dat", "kennt etwas gut", "Sind Sie mit dem Programm vertraut?"],
+        ["befreundet mit", "Dat", "ist mit jemandem eng verbunden, ist sein Freund", "Ich bin seit der Schulzeit mit ihrer Schwester befreundet."],
+        ["verbunden mit", "Dat", "bringt etwas mit sich", "Ein Umzug ist immer mit hohen Kosten verbunden."],
+        ["vereinbar mit", "Dat", "passt gut zusammen mit", "Der Job ist gut mit dem Studium vereinbar."],
+        ["behilflich bei", "Dat", "hilft bei etwas (formell)", "Darf ich Ihnen bei der Suche behilflich sein?"],
+        ["süchtig nach", "Dat", "kann ohne etwas kaum leben", "Manche Jugendliche sind regelrecht süchtig nach ihrem Handy."],
+        ["charakteristisch für", "Akk", "ist typisch für", "Lange, schneereiche Winter sind charakteristisch für die Region."],
+        ["ausschlaggebend für", "Akk", "ist der wichtigste Grund für", "Der Preis war ausschlaggebend für unsere Entscheidung."],
+        ["empört über", "Akk", "ist sehr wütend über", "Die Eltern sind empört über die Schließung der Kita."],
+        ["erstaunt über", "Akk", "ist sehr überrascht über", "Wir waren erstaunt über die vielen Rückmeldungen."],
+        ["skeptisch gegenüber", "Dat", "glaubt nicht recht an etwas", "Viele Bürger sind gegenüber dem Plan skeptisch."],
+        ["aufgeschlossen gegenüber", "Dat", "ist offen für Neues", "Sie ist neuen Ideen gegenüber sehr aufgeschlossen."],
+        ["misstrauisch gegenüber", "Dat", "vertraut jemandem nicht", "Er ist Fremden gegenüber misstrauisch."]
+      ],
+      "note": "The B1 adjectives (stolz auf, zufrieden mit, interessiert an …) are in „Adjektive mit Präpositionen“. This table only lists additions for B2.",
+      "noteDe": "Die B1-Adjektive (stolz auf, zufrieden mit, interessiert an …) findest du unter „Adjektive mit Präpositionen“. Diese Tabelle zeigt nur die Ergänzungen für B2."
+    },
+    {
+      "type": "text",
+      "heading": "Pairs that are easy to confuse",
+      "headingDe": "Paare, die man leicht verwechselt",
+      "md": "Some adjectives you know from B1 have a twin with another preposition or another meaning:\n\n- **zuständig für** = it is your official job or area: „Für Bauanträge ist das Bauamt **zuständig**.“ **verantwortlich für** = you are accountable – also for mistakes and damage: „Der Fahrer war **für** den Unfall **verantwortlich**.“ (*zuständig* is impossible here).\n- **bekannt für** + Akk. = famous for: „Die Region ist **für** ihren Käse **bekannt**.“ **bekannt mit** + Dat. = acquainted with a person: „Ich bin **mit** dem Bürgermeister gut **bekannt**.“ **jemandem bekannt sein** = to be known to someone: „Das Problem ist **uns** seit Langem **bekannt**.“\n- **besorgt um** + Akk. = worried about someone's or something's well-being: „Sie ist **um** ihren Vater **besorgt**.“ **besorgt über** + Akk. = concerned about a development: „Fachleute sind **über** den Anstieg der Mieten **besorgt**.“\n- **abhängig von** = depending on, dependent on. Its opposite **unabhängig von** often means *regardless of*, and before a clause it becomes **unabhängig davon, ob / wie / wann …**: „**Unabhängig davon, ob** Sie Mitglied sind, ist der Eintritt frei.“\n- **enttäuscht von** + Dat. (a person, a product) vs. **enttäuscht über** + Akk. (a result, a decision).",
+      "mdDe": "Manche Adjektive, die du von B1 kennst, haben einen Zwilling mit einer anderen Präposition oder einer anderen Bedeutung:\n\n- **zuständig für** = das ist offiziell deine Aufgabe oder dein Bereich: „Für Bauanträge ist das Bauamt **zuständig**.“ **verantwortlich für** = du musst für etwas geradestehen – auch für Fehler und Schäden: „Der Fahrer war **für** den Unfall **verantwortlich**.“ (*zuständig* ist hier unmöglich).\n- **bekannt für** + Akk. = berühmt wegen: „Die Region ist **für** ihren Käse **bekannt**.“ **bekannt mit** + Dat. = eine Person kennen: „Ich bin **mit** dem Bürgermeister gut **bekannt**.“ **jemandem bekannt sein** = jemand weiß davon: „Das Problem ist **uns** seit Langem **bekannt**.“\n- **besorgt um** + Akk. = Angst, dass es jemandem oder etwas schlecht geht: „Sie ist **um** ihren Vater **besorgt**.“ **besorgt über** + Akk. = beunruhigt wegen einer Entwicklung: „Fachleute sind **über** den Anstieg der Mieten **besorgt**.“\n- **abhängig von** = bestimmt durch, angewiesen auf. Das Gegenteil **unabhängig von** bedeutet oft „egal, wie …“, und vor einem Nebensatz wird daraus **unabhängig davon, ob / wie / wann …**: „**Unabhängig davon, ob** Sie Mitglied sind, ist der Eintritt frei.“\n- **enttäuscht von** + Dat. (eine Person, ein Produkt) oder **enttäuscht über** + Akk. (ein Ergebnis, eine Entscheidung)."
+    },
+    {
+      "type": "text",
+      "heading": "Adjectives with prepositions in Nominalstil",
+      "headingDe": "Adjektive mit Präpositionen im Nominalstil",
+      "md": "In articles and reports the whole phrase often moves **in front of a noun**. The adjective then takes a normal adjective ending, and the prepositional phrase stands **between the article and the adjective**:\n\n- Die Firmen sind **an dem Projekt beteiligt**. → die **an dem Projekt beteiligten** Firmen\n- Die Behörde ist **für Visa zuständig**. → die **für Visa zuständige** Behörde\n- Die Familien sind **vom Hochwasser betroffen**. → die **vom Hochwasser betroffenen** Familien\n\nMany of these adjectives have a noun with the same preposition: beteiligt an → die **Beteiligung an**, abhängig von → die **Abhängigkeit von**, zuständig für → die **Zuständigkeit für**, verantwortlich für → die **Verantwortung für** (see „Nomen mit Präpositionen“).\n\nBefore a dass-clause or an infinitive, use the da-word: „Wir sind **darauf** angewiesen, **dass** der Bus pünktlich fährt.“ / „Ich wäre Ihnen **dafür** dankbar, **wenn** Sie mir bald antworten könnten.“",
+      "mdDe": "In Artikeln und Berichten steht der ganze Ausdruck oft **vor einem Nomen**. Das Adjektiv bekommt dann eine normale Adjektivendung, und der Ausdruck mit der Präposition steht **zwischen Artikel und Adjektiv**:\n\n- Die Firmen sind **an dem Projekt beteiligt**. → die **an dem Projekt beteiligten** Firmen\n- Die Behörde ist **für Visa zuständig**. → die **für Visa zuständige** Behörde\n- Die Familien sind **vom Hochwasser betroffen**. → die **vom Hochwasser betroffenen** Familien\n\nViele dieser Adjektive haben ein Nomen mit derselben Präposition: beteiligt an → die **Beteiligung an**, abhängig von → die **Abhängigkeit von**, zuständig für → die **Zuständigkeit für**, verantwortlich für → die **Verantwortung für** (siehe „Nomen mit Präpositionen“).\n\nVor einem dass-Satz oder einem Infinitiv benutzt du das da-Wort: „Wir sind **darauf** angewiesen, **dass** der Bus pünktlich fährt.“ / „Ich wäre Ihnen **dafür** dankbar, **wenn** Sie mir bald antworten könnten.“"
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Viele Pflegebedürftige sind **auf** die Unterstützung ihrer Angehörigen **angewiesen**.", "en": "Many people in need of care depend on the support of their relatives." },
+        { "de": "**An** der Studie waren Forschende aus vier Ländern **beteiligt**.", "en": "Researchers from four countries were involved in the study." },
+        { "de": "**Von** den Bauarbeiten sind vor allem die Geschäfte in der Altstadt **betroffen**.", "en": "Above all, the shops in the old town are affected by the construction work." },
+        { "de": "Mieter sind **dazu verpflichtet**, Schäden sofort zu melden.", "en": "Tenants are obliged to report damage immediately." },
+        { "de": "Viele ältere Menschen sind dem Online-Banking **gegenüber** noch **skeptisch**.", "en": "Many older people are still sceptical about online banking." },
+        { "de": "Ein Wechsel an eine andere Schule ist für Kinder oft **mit** viel Stress **verbunden**.", "en": "Changing to another school often involves a lot of stress for children." },
+        { "de": "**Für** die Verlängerung des Visums ist die Ausländerbehörde **zuständig**.", "en": "The immigration office is responsible for extending the visa." },
+        { "de": "**Unabhängig davon, wie** die Abstimmung ausgeht, wird das Projekt fortgesetzt.", "en": "Regardless of how the vote turns out, the project will continue." },
+        { "de": "Die **an** dem Wettbewerb **beteiligten** Schulen erhalten eine Urkunde.", "en": "The schools taking part in the competition receive a certificate." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam**\n\n- **Sprachbausteine Teil 2** is decided by exactly these collocations: the gap is often the fixed preposition („**auf** Spenden angewiesen“, „**an** der Planung beteiligt“) – or, if the preposition is there, the adjective itself. *betroffen*, *beteiligt* and *angewiesen* look similar, but the preposition in the sentence tells you which one fits: von → betroffen, an → beteiligt, auf → angewiesen.\n- **Sprachbausteine Teil 1** tests the case („angewiesen auf **einen** Nebenjob“, „gegenüber **dem** Plan“) and da-words before dass („**darauf** angewiesen, dass …“).\n- **Schreiben:** „Wer ist bei Ihnen **für** Reklamationen **zuständig**?“, „Ich bin **auf** eine schnelle Lösung **angewiesen**, da …“, „Ich wäre Ihnen **dafür** dankbar, wenn …“.\n- **Sprechen Teil 2:** „Ich bin solchen Verboten **gegenüber** eher **skeptisch**.“, „**Unabhängig davon**, ob …“, „Das ist **mit** hohen Kosten **verbunden**.“",
+      "mdDe": "**In der Prüfung**\n\n- **Sprachbausteine Teil 2** wird genau durch diese festen Verbindungen entschieden: In der Lücke fehlt oft die feste Präposition („**auf** Spenden angewiesen“, „**an** der Planung beteiligt“) – oder, wenn die Präposition schon dasteht, das Adjektiv selbst. *betroffen*, *beteiligt* und *angewiesen* sehen ähnlich aus, aber die Präposition im Satz zeigt dir, welches passt: von → betroffen, an → beteiligt, auf → angewiesen.\n- **Sprachbausteine Teil 1** prüft den Kasus („angewiesen auf **einen** Nebenjob“, „gegenüber **dem** Plan“) und da-Wörter vor dass („**darauf** angewiesen, dass …“).\n- **Schreiben:** „Wer ist bei Ihnen **für** Reklamationen **zuständig**?“, „Ich bin **auf** eine schnelle Lösung **angewiesen**, da …“, „Ich wäre Ihnen **dafür** dankbar, wenn …“.\n- **Sprechen Teil 2:** „Ich bin solchen Verboten **gegenüber** eher **skeptisch**.“, „**Unabhängig davon**, ob …“, „Das ist **mit** hohen Kosten **verbunden**.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **angewiesen auf + accusative:** „auf **einen** Nebenjob angewiesen“ – not *auf einem*.\n- **beteiligt an**, not *in* (English *involved in*): „**an** dem Projekt beteiligt“.\n- **bekannt für** (famous for) ≠ **bekannt mit** (acquainted with a person).\n- **zuständig** is never about blame: „Wer ist **für** den Schaden **verantwortlich**?“\n- **gegenüber + dative:** „gegenüber **dem** neuen Plan“ / „**dem** neuen Plan gegenüber“.\n- **In a noun phrase** the prepositional phrase goes **before** the adjective: „die **an dem Projekt** beteiligten Firmen“ – not *die beteiligten an dem Projekt Firmen*.",
+      "mdDe": "**Typische Fallen:**\n\n- **angewiesen auf + Akkusativ:** „auf **einen** Nebenjob angewiesen“ – nicht *auf einem*.\n- **beteiligt an**, nicht *in* (englisch *involved in*): „**an** dem Projekt beteiligt“.\n- **bekannt für** (berühmt wegen) ≠ **bekannt mit** (eine Person kennen).\n- **zuständig** hat nie etwas mit Schuld zu tun: „Wer ist **für** den Schaden **verantwortlich**?“\n- **gegenüber + Dativ:** „gegenüber **dem** neuen Plan“ / „**dem** neuen Plan gegenüber“.\n- **In einer Nominalgruppe** steht der Ausdruck mit Präposition **vor** dem Adjektiv: „die **an dem Projekt** beteiligten Firmen“ – nicht *die beteiligten an dem Projekt Firmen*."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Viele Studierende sind auf einem Nebenjob angewiesen.",
+      "right": "Viele Studierende sind auf einen Nebenjob angewiesen.",
+      "why": "„angewiesen auf“ takes the accusative: „der Nebenjob“ → „auf einen Nebenjob“.",
+      "whyDe": "„angewiesen auf“ steht mit Akkusativ: „der Nebenjob“ → „auf einen Nebenjob“."
+    },
+    {
+      "wrong": "Fünf Hochschulen sind in dem Forschungsprojekt beteiligt.",
+      "right": "Fünf Hochschulen sind an dem Forschungsprojekt beteiligt.",
+      "why": "The fixed preposition is „an“ + dative. Don't translate English *involved in*.",
+      "whyDe": "Die feste Präposition ist „an“ + Dativ. Übersetze nicht das englische *involved in*."
+    },
+    {
+      "wrong": "Die Stadt ist bekannt mit ihrem Weihnachtsmarkt.",
+      "right": "Die Stadt ist für ihren Weihnachtsmarkt bekannt.",
+      "why": "Famous for something = „bekannt für“ + accusative. „bekannt mit“ means that you know a person.",
+      "whyDe": "Berühmt wegen etwas = „bekannt für“ + Akkusativ. „bekannt mit“ bedeutet, dass man eine Person kennt."
+    },
+    {
+      "wrong": "Viele Anwohner sind gegenüber den neuen Plan skeptisch.",
+      "right": "Viele Anwohner sind gegenüber dem neuen Plan skeptisch.",
+      "why": "„gegenüber“ always takes the dative: „der Plan“ → „gegenüber dem neuen Plan“.",
+      "whyDe": "Nach „gegenüber“ steht immer der Dativ: „der Plan“ → „gegenüber dem neuen Plan“."
+    },
+    {
+      "wrong": "Die beteiligten an der Studie Forschenden kommen aus vier Ländern.",
+      "right": "Die an der Studie beteiligten Forschenden kommen aus vier Ländern.",
+      "why": "In a noun phrase the prepositional phrase stands between the article and the adjective: „die an der Studie beteiligten …“.",
+      "whyDe": "In einer Nominalgruppe steht der Ausdruck mit Präposition zwischen Artikel und Adjektiv: „die an der Studie beteiligten …“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Viele ältere Menschen auf dem Land sind ___ angewiesen, dass der Bus regelmäßig fährt.",
+      "options": ["darauf", "davon", "dazu"],
+      "answer": 0,
+      "explanation": "„angewiesen auf“ → before the dass-clause the da-word is „darauf“. „davon“ would fit „abhängig“, „dazu“ would fit „verpflichtet“.",
+      "explanationDe": "„angewiesen auf“ → vor dem dass-Satz steht das da-Wort „darauf“. „davon“ würde zu „abhängig“ passen, „dazu“ zu „verpflichtet“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Von der Schließung der Bankfiliale sind vor allem ältere Kundinnen und Kunden ___.",
+      "options": ["betroffen", "beteiligt", "angewiesen"],
+      "answer": 0,
+      "explanation": "The preposition „von“ decides: „betroffen von“ = affected by. „beteiligt“ needs „an“, „angewiesen“ needs „auf“.",
+      "explanationDe": "Die Präposition „von“ entscheidet: „betroffen von“ = die Folgen spüren. „beteiligt“ braucht „an“, „angewiesen“ braucht „auf“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Fahrer war für den Unfall ___, weil er bei Rot über die Kreuzung gefahren ist.",
+      "options": ["verantwortlich", "zuständig", "beteiligt"],
+      "answer": 0,
+      "explanation": "The driver caused the accident, so he is accountable: „verantwortlich für“. „zuständig für“ only means that something is your official job, and „beteiligt“ would need „an“.",
+      "explanationDe": "Der Fahrer hat den Unfall verursacht, er trägt also die Schuld: „verantwortlich für“. „zuständig für“ bedeutet nur, dass etwas offiziell deine Aufgabe ist, und „beteiligt“ bräuchte „an“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Kleinstadt ist weit über die Region hinaus ___ ihren Weihnachtsmarkt bekannt.",
+      "options": ["für", "mit", "über"],
+      "answer": 0,
+      "explanation": "Famous for something = „bekannt für“ + accusative („ihren Weihnachtsmarkt“). „bekannt mit“ means *acquainted with a person*.",
+      "explanationDe": "Berühmt wegen etwas = „bekannt für“ + Akkusativ („ihren Weihnachtsmarkt“). „bekannt mit“ bedeutet, dass man eine Person kennt."
+    },
+    {
+      "type": "mc",
+      "prompt": "Seit der Operation ist sie sehr ___ die Gesundheit ihres Vaters besorgt.",
+      "options": ["um", "für", "an"],
+      "answer": 0,
+      "explanation": "Worried about someone's well-being = „besorgt um“ + accusative. „besorgt für“ and „besorgt an“ do not exist.",
+      "explanationDe": "Angst, dass es jemandem schlecht geht = „besorgt um“ + Akkusativ. „besorgt für“ und „besorgt an“ gibt es nicht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Viele Bürgerinnen und Bürger sind ___ neuen Verkehrskonzept gegenüber skeptisch.",
+      "options": ["dem", "das", "des"],
+      "answer": 0,
+      "explanation": "„gegenüber“ takes the dative, even when it stands after the noun: „das Verkehrskonzept“ → „dem neuen Verkehrskonzept gegenüber“.",
+      "explanationDe": "Nach „gegenüber“ steht der Dativ, auch wenn es hinter dem Nomen steht: „das Verkehrskonzept“ → „dem neuen Verkehrskonzept gegenüber“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Teilnahme an der Exkursion ist ___ zusätzlichen Kosten verbunden.",
+      "answers": ["mit"],
+      "explanation": "„verbunden mit“ + dative = involving: the excursion brings extra costs with it.",
+      "explanationDe": "„verbunden mit“ + Dativ = etwas mit sich bringen: Die Exkursion kostet extra."
+    },
+    {
+      "type": "gap",
+      "prompt": "Alle Beschäftigten sind ___ Verschwiegenheit über interne Daten verpflichtet.",
+      "answers": ["zur"],
+      "explanation": "„verpflichtet zu“ + dative: „zu der Verschwiegenheit“ is contracted to „zur Verschwiegenheit“.",
+      "explanationDe": "„verpflichtet zu“ + Dativ: „zu der Verschwiegenheit“ wird zu „zur Verschwiegenheit“ zusammengezogen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Angebot gilt für alle, ___ davon, ob sie Mitglied im Verein sind oder nicht.",
+      "hint": "(opposite of „abhängig“)",
+      "hintDe": "(Gegenteil von „abhängig“)",
+      "answers": ["unabhängig"],
+      "explanation": "„unabhängig davon, ob …“ = regardless of whether … The da-word „davon“ points to the ob-clause.",
+      "explanationDe": "„unabhängig davon, ob …“ = egal, ob … Das da-Wort „davon“ zeigt auf den ob-Satz."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die an der Umfrage ___ Unternehmen stammen überwiegend aus Süddeutschland.",
+      "hint": "(beteiligt)",
+      "answers": ["beteiligten"],
+      "explanation": "„an der Umfrage beteiligt“ stands in front of the noun, so „beteiligt“ needs an adjective ending: „die … beteiligten Unternehmen“ (plural after „die“ → -en).",
+      "explanationDe": "„an der Umfrage beteiligt“ steht vor dem Nomen, deshalb braucht „beteiligt“ eine Adjektivendung: „die … beteiligten Unternehmen“ (Plural nach „die“ → -en)."
+    },
+    {
+      "type": "order",
+      "words": ["Firmen", "zur", "an", "verpflichtet.", "Die", "beteiligten", "sind", "Projekt", "dem", "Zusammenarbeit"],
+      "answers": [
+        "Die an dem Projekt beteiligten Firmen sind zur Zusammenarbeit verpflichtet.",
+        "Zur Zusammenarbeit sind die an dem Projekt beteiligten Firmen verpflichtet."
+      ],
+      "explanation": "The noun phrase „die an dem Projekt beteiligten Firmen“ is the subject: article – prepositional phrase – adjective with ending – noun. „zur Zusammenarbeit verpflichtet“ ends the sentence.",
+      "explanationDe": "Die Nominalgruppe „die an dem Projekt beteiligten Firmen“ ist das Subjekt: Artikel – Ausdruck mit Präposition – Adjektiv mit Endung – Nomen. „zur Zusammenarbeit verpflichtet“ steht am Satzende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „angewiesen sein auf“.",
+      "instructionDe": "Schreib den Satz mit „angewiesen sein auf“ um.",
+      "prompt": "Viele Studierende brauchen unbedingt einen Nebenjob.",
+      "answers": [
+        "Viele Studierende sind auf einen Nebenjob angewiesen.",
+        "Viele Studierende sind unbedingt auf einen Nebenjob angewiesen.",
+        "Viele Studierende sind dringend auf einen Nebenjob angewiesen.",
+        "Viele Studierende sind auf einen Nebenjob dringend angewiesen.",
+        "Viele Studierende sind auf einen Nebenjob unbedingt angewiesen."
+      ],
+      "explanation": "„etwas unbedingt brauchen“ = „(dringend) auf etwas angewiesen sein“. „auf“ takes the accusative: „auf einen Nebenjob“; the adjective goes to the end.",
+      "explanationDe": "„etwas unbedingt brauchen“ = „(dringend) auf etwas angewiesen sein“. „auf“ steht mit Akkusativ: „auf einen Nebenjob“; das Adjektiv steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the relative clause into an extended attribute in front of the noun.",
+      "instructionDe": "Mach aus dem Relativsatz ein erweitertes Attribut vor dem Nomen.",
+      "prompt": "Die Behörde, die für Visa zuständig ist, hat neue Öffnungszeiten.",
+      "answers": ["Die für Visa zuständige Behörde hat neue Öffnungszeiten."],
+      "explanation": "„für Visa zuständig“ moves between the article and the noun, and „zuständig“ takes the ending -e (nominative feminine after „die“).",
+      "explanationDe": "„für Visa zuständig“ rückt zwischen Artikel und Nomen, und „zuständig“ bekommt die Endung -e (Nominativ feminin nach „die“)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the part in brackets with a pronoun or a da-word.",
+      "instructionDe": "Ersetze den Teil in Klammern durch ein Pronomen oder ein da-Wort.",
+      "prompt": "Sind Sie (mit dem neuen Buchungssystem) schon vertraut?",
+      "answers": ["Sind Sie damit schon vertraut?", "Sind Sie schon damit vertraut?"],
+      "explanation": "The booking system is a thing, so „mit + it“ becomes the da-word „damit“.",
+      "explanationDe": "Das Buchungssystem ist eine Sache, deshalb wird aus „mit + ihm“ das da-Wort „damit“."
+    }
+  ],
+  "related": ["adjektive-mit-praepositionen", "verben-mit-praepositionen-b2", "nomen-mit-praepositionen", "partizipialattribute", "korrelate", "adjektivdeklination-b2"]
+}

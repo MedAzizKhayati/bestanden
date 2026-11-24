@@ -1,0 +1,148 @@
+{
+  "id": "hoeren-2-07",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Unterwegs im Veedel",
+  "topic": "kultur",
+  "difficulty": 2,
+  "context": "Radiosendung „Unterwegs in Deutschland“: Die Moderatorin spricht im Studio mit einem Kölner Stadtführer",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "krings", "name": "Herr Krings", "gender": "m", "age": "senior", "role": "Stadtführer" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Willkommen bei „Unterwegs in Deutschland“, liebe Hörerinnen und Hörer. Heute geht die Reise an den Rhein, nach Köln – und zwar mit jemandem, der seine Stadt wirklich in- und auswendig kennt." },
+    { "s": "mod", "t": "Bei mir im Studio sitzt Heinz-Peter Krings, seit sechs Jahren Stadtführer in Köln. Herzlich willkommen, Herr Krings!" },
+    { "s": "krings", "t": "Danke schön! Und sagen Sie ruhig Hein, das tun alle. Bei Heinz-Peter denk ich immer, ich hätte was ausgefressen." },
+    { "s": "mod", "t": "Gern, Hein. Sie waren vor Ihrer Zeit als Stadtführer Lehrer, habe ich gelesen?" },
+    { "s": "krings", "t": "Nä, Gott bewahre, Lehrerin war meine Frau! Ich bin dreiunddreißig Jahre lang Straßenbahn gefahren, einmal quer durch die ganze Stadt." },
+    { "s": "mod", "t": "Und wie wird man vom Straßenbahnfahrer zum Stadtführer?" },
+    { "s": "krings", "t": "Also, an der Endhaltestelle hab ich mich oft mit Touristen unterhalten, die wollten immer wissen, was sie sich angucken sollen." },
+    { "s": "krings", "t": "Und irgendwann hat meine Frau gesagt: Hein, du erzählst doch eh jedem Fahrgast die halbe Stadtgeschichte, dann lass dich wenigstens dafür bezahlen. Die Idee kam also eigentlich von ihr." },
+    { "s": "krings", "t": "Nach der Rente hab ich dann eine Ausbildung zum Gästeführer gemacht, mit Prüfung und allem Drum und Dran." },
+    { "s": "mod", "t": "Wenn man an Köln denkt, denkt man natürlich zuerst an den Dom. Der ist bei Ihnen sicher der Höhepunkt jeder Tour?" },
+    { "s": "krings", "t": "Ganz ehrlich? Den Dom zeig ich nur von außen. Für drinnen gibt's die Domführer, die wissen da viel mehr als ich, und ich will mich ja nicht blamieren." },
+    { "s": "krings", "t": "Am liebsten geh ich mit den Leuten in die Veedel – so sagen wir zu den Stadtvierteln –, also nach Nippes oder in die Südstadt, wo sonst kaum ein Tourist hinkommt." },
+    { "s": "krings", "t": "Da zeig ich dann zum Beispiel mein Lieblingsbüdchen, also einen Kiosk, wo es seit vierzig Jahren dieselben sauren Gurken aus dem Glas gibt. Klingt banal, aber die Leute lieben das." },
+    { "s": "mod", "t": "Wie lange dauert denn so eine Führung bei Ihnen?" },
+    { "s": "krings", "t": "Offiziell zwei Stunden. Meistens werden es aber eher drei, weil ich mich unterwegs verquatsche – das sagt jedenfalls meine Frau, und die muss es ja wissen." },
+    { "s": "mod", "t": "Sie sprechen ja auch Kölsch, also den Dialekt. Verstehen die Leute Sie da überhaupt?" },
+    { "s": "krings", "t": "Kommt drauf an. Ich hatte mal an einem Tag zwei Gruppen hintereinander, morgens Leute aus München und nachmittags eine Gruppe aus Maastricht." },
+    { "s": "krings", "t": "Die Münchner haben kein Wort verstanden, die Gäste aus Maastricht fast alles. Bis dahin ist es ja auch nicht weit, und die Dialekte sind sich gar nicht so fremd." },
+    { "s": "mod", "t": "Was überrascht die Touristen in Köln denn am meisten?" },
+    { "s": "krings", "t": "Das Brauhaus, ganz klar. Da läuft der Köbes rum, so heißt bei uns der Kellner, und der fragt nicht lange." },
+    { "s": "krings", "t": "Der stellt einem so lange ein neues Kölsch hin, bis man den Bierdeckel oben aufs Glas legt. Ich hatte mal einen Herrn aus Stuttgart dabei, der wusste das nicht und hat am Ende neun Gläser bezahlt." },
+    { "s": "krings", "t": "Und dann bestellt garantiert einer einen Halven Hahn und wartet auf ein halbes Hähnchen. Was kommt, ist ein Roggenbrötchen mit einem dicken Stück Käse und Senf – da guckt dann jeder erst mal ziemlich verdutzt." },
+    { "s": "mod", "t": "Und dann gibt es ja noch das berühmte Kölsche Grundgesetz." },
+    { "s": "krings", "t": "Ja, mein Lieblingsartikel ist: Et hätt noch immer jot jejange. Auf Hochdeutsch heißt das: Es ist noch immer gut gegangen." },
+    { "s": "krings", "t": "Das ist einerseits wunderbar, diese Gelassenheit. Da könnte sich manche andere Stadt eine Scheibe von abschneiden." },
+    { "s": "krings", "t": "Andererseits ist das manchmal auch eine ziemlich bequeme Ausrede. Wenn bei uns eine Baustelle doppelt so lange dauert wie geplant, dann zuckt man halt mit den Schultern." },
+    { "s": "mod", "t": "Sie sind sicher auch ein großer Karnevalist, oder?" },
+    { "s": "krings", "t": "Jetzt muss ich Sie enttäuschen. Als junger Mann war ich jedes Jahr dabei, aber inzwischen ist mir das zu laut und zu voll." },
+    { "s": "krings", "t": "Seit ein paar Jahren fahr ich mit meiner Frau über Karneval in die Eifel, in ein kleines Ferienhaus. Da ist dann himmlische Ruhe – aber das dürfen Sie in Köln keinem erzählen." },
+    { "s": "mod", "t": "Gibt es Pläne für die Zukunft? Neue Touren vielleicht?" },
+    { "s": "krings", "t": "Ja, ab dem Frühjahr probier ich zum ersten Mal eine Tour auf Englisch. Dafür nehm ich gerade Unterricht an der Volkshochschule, mein Schulenglisch war nämlich, na ja, sagen wir mal: ziemlich eingerostet." },
+    { "s": "krings", "t": "Und mein Enkel will unbedingt, dass ich kleine Videos fürs Internet drehe. Ob ich mir das antue, hab ich aber noch nicht entschieden." },
+    { "s": "mod", "t": "Zum Schluss, Hein: Haben Sie einen Lieblingsspruch, den unsere Hörerinnen und Hörer mitnehmen können?" },
+    { "s": "krings", "t": "Jede Jeck es anders. Das heißt so viel wie: Jeder Mensch ist anders, und das ist auch gut so." },
+    { "s": "krings", "t": "Das hab ich in dreiunddreißig Jahren Straßenbahn gelernt. Da sitzt der Professor neben dem Bauarbeiter und die Oma neben dem Punk, und meistens kommen alle prima miteinander aus." },
+    { "s": "mod", "t": "Hein Krings, vielen Dank für Ihren Besuch bei uns im Studio!" },
+    { "s": "krings", "t": "Gern geschehen! Und wenn Sie mal in Köln sind: Kommen Sie vorbei, dann zeig ich Ihnen mein Veedel." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Bevor Herr Krings Stadtführer wurde, war er als Lehrer tätig.",
+      "answer": false,
+      "explanation": "Wrong person: „Lehrerin war meine Frau!“ He himself drove a tram for thirty-three years.",
+      "explanationDe": "Falsche Person: „Lehrerin war meine Frau!“ Er selbst ist dreiunddreißig Jahre lang Straßenbahn gefahren.",
+      "evidence": "Lehrerin war meine Frau"
+    },
+    {
+      "n": 2,
+      "text": "Dass Herr Krings Führungen anbietet, geht ursprünglich auf einen Vorschlag seiner Frau zurück.",
+      "answer": true,
+      "explanation": "He chatted with tourists at the terminus, but it was his wife who told him to get paid for it: „Die Idee kam also eigentlich von ihr.“",
+      "explanationDe": "Er hat sich an der Endhaltestelle oft mit Touristen unterhalten, aber seine Frau hat ihm geraten, sich dafür bezahlen zu lassen: „Die Idee kam also eigentlich von ihr.“",
+      "evidence": "Die Idee kam also eigentlich von ihr."
+    },
+    {
+      "n": 3,
+      "text": "Bei seinen Führungen besichtigt Herr Krings mit den Gruppen auch das Innere des Doms.",
+      "answer": false,
+      "explanation": "The presenter expects the cathedral to be the highlight, but „Den Dom zeig ich nur von außen“ – the inside is left to the cathedral guides.",
+      "explanationDe": "Die Moderatorin erwartet, dass der Dom der Höhepunkt ist, aber „Den Dom zeig ich nur von außen“ – innen führen die Domführer.",
+      "evidence": "Den Dom zeig ich nur von außen."
+    },
+    {
+      "n": 4,
+      "text": "Herr Krings führt seine Gäste am liebsten durch Viertel abseits der bekannten Sehenswürdigkeiten.",
+      "answer": true,
+      "explanation": "He prefers the „Veedel“ (districts) like Nippes or the Südstadt, „wo sonst kaum ein Tourist hinkommt“.",
+      "explanationDe": "Am liebsten geht er in die „Veedel“ (Stadtviertel) wie Nippes oder die Südstadt, „wo sonst kaum ein Tourist hinkommt“.",
+      "evidence": "wo sonst kaum ein Tourist hinkommt"
+    },
+    {
+      "n": 5,
+      "text": "Gäste aus Maastricht verstanden den Kölner Dialekt besser als eine Gruppe aus München.",
+      "answer": true,
+      "explanation": "On the same day: „Die Münchner haben kein Wort verstanden, die Gäste aus Maastricht fast alles.“",
+      "explanationDe": "Am selben Tag: „Die Münchner haben kein Wort verstanden, die Gäste aus Maastricht fast alles.“",
+      "evidence": "Die Münchner haben kein Wort verstanden, die Gäste aus Maastricht fast alles."
+    },
+    {
+      "n": 6,
+      "text": "Im Brauhaus bekommt man nur dann ein neues Bier, wenn man ausdrücklich eins bestellt.",
+      "answer": false,
+      "explanation": "It is the other way round: the waiter „fragt nicht lange“ and keeps bringing beer „bis man den Bierdeckel oben aufs Glas legt“ – that is why the man from Stuttgart paid for nine glasses.",
+      "explanationDe": "Es ist umgekehrt: Der Köbes „fragt nicht lange“ und bringt so lange Bier, „bis man den Bierdeckel oben aufs Glas legt“ – deshalb hat der Herr aus Stuttgart neun Gläser bezahlt.",
+      "evidence": "Der stellt einem so lange ein neues Kölsch hin, bis man den Bierdeckel oben aufs Glas legt."
+    },
+    {
+      "n": 7,
+      "text": "Herr Krings sieht in der Kölner Gelassenheit ausschließlich Vorteile.",
+      "answer": false,
+      "explanation": "„Einerseits wunderbar“ – but „Andererseits ist das manchmal auch eine ziemlich bequeme Ausrede“, for example when building sites take twice as long.",
+      "explanationDe": "„Einerseits wunderbar“ – aber „Andererseits ist das manchmal auch eine ziemlich bequeme Ausrede“, zum Beispiel, wenn Baustellen doppelt so lange dauern.",
+      "evidence": "Andererseits ist das manchmal auch eine ziemlich bequeme Ausrede."
+    },
+    {
+      "n": 8,
+      "text": "Die Karnevalstage verbringt Herr Krings inzwischen meistens außerhalb von Köln.",
+      "answer": true,
+      "explanation": "Against the cliché of the Cologne carnival fan: carnival is too loud for him now, so „fahr ich mit meiner Frau über Karneval in die Eifel“.",
+      "explanationDe": "Anders als das Klischee vom Kölner Karnevalsfan: Karneval ist ihm heute zu laut, deshalb „fahr ich mit meiner Frau über Karneval in die Eifel“.",
+      "evidence": "Seit ein paar Jahren fahr ich mit meiner Frau über Karneval in die Eifel"
+    },
+    {
+      "n": 9,
+      "text": "Herr Krings bietet seine Führungen schon seit Längerem auch auf Englisch an.",
+      "answer": false,
+      "explanation": "That is only a plan: „ab dem Frühjahr probier ich zum ersten Mal eine Tour auf Englisch“ – he is still taking lessons to refresh his rusty school English.",
+      "explanationDe": "Das ist erst ein Plan: „ab dem Frühjahr probier ich zum ersten Mal eine Tour auf Englisch“ – er nimmt gerade noch Unterricht, weil sein Schulenglisch eingerostet ist.",
+      "evidence": "ab dem Frühjahr probier ich zum ersten Mal eine Tour auf Englisch"
+    },
+    {
+      "n": 10,
+      "text": "Seinen Lieblingsspruch verbindet Herr Krings mit Erfahrungen aus seinem früheren Beruf.",
+      "answer": true,
+      "explanation": "„Jede Jeck es anders“ means everyone is different, and he says: „Das hab ich in dreiunddreißig Jahren Straßenbahn gelernt.“",
+      "explanationDe": "„Jede Jeck es anders“ heißt: Jeder Mensch ist anders. Und er sagt: „Das hab ich in dreiunddreißig Jahren Straßenbahn gelernt.“",
+      "evidence": "Das hab ich in dreiunddreißig Jahren Straßenbahn gelernt."
+    }
+  ],
+  "glossary": [
+    { "de": "in- und auswendig kennen", "en": "to know inside out" },
+    { "de": "etwas ausgefressen haben (ugs.)", "en": "to have been up to no good" },
+    { "de": "die Endhaltestelle", "en": "last stop, terminus" },
+    { "de": "sich blamieren", "en": "to embarrass oneself" },
+    { "de": "das Veedel (Kölsch)", "en": "neighbourhood, city district (= das Viertel)" },
+    { "de": "das Büdchen (Kölsch)", "en": "kiosk, corner shop" },
+    { "de": "der Köbes (Kölsch)", "en": "waiter in a Cologne brewery pub" },
+    { "de": "das Kölsch", "en": "Cologne's beer – and also its dialect" },
+    { "de": "verdutzt", "en": "puzzled, taken aback" },
+    { "de": "die Gelassenheit", "en": "calmness, composure" },
+    { "de": "eine bequeme Ausrede", "en": "a convenient excuse" },
+    { "de": "eingerostet", "en": "rusty (out of practice)" }
+  ]
+}

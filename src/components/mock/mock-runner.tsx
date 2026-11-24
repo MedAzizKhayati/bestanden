@@ -55,6 +55,8 @@ export interface MockRunnerProps {
   mockId: string;
   title: string;
   parts: MockPart[];
+  /** telc B2: the second writing task (Aufgabe B); the writing part in `parts` is Aufgabe A. */
+  writingB?: MockPart;
   rubric: WritingRubric;
   listHref: string;
 }
@@ -71,7 +73,7 @@ export function MockRunner(props: MockRunnerProps) {
   );
 }
 
-function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerProps) {
+function Runner({ examId, mockId, title, parts, writingB, rubric, listHref }: MockRunnerProps) {
   const exam = useExam(examId);
   const locale = useLocale();
   const t = useT();
@@ -100,12 +102,16 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
 
   const reading = parts.filter((p) => (READING_PARTS as readonly string[]).includes(p.part.id));
   const listening = parts.filter((p) => (LISTENING_PARTS as readonly string[]).includes(p.part.id));
-  const writingPart = parts.find((p) => p.set.type === "writing-email") as (MockPart & { set: WritingSet }) | undefined;
+  const writingA = parts.find((p) => p.set.type === "writing-email") as (MockPart & { set: WritingSet }) | undefined;
+  /** The task being written – Aufgabe B only when the learner chose it. */
+  const chosenTask = (choice: "A" | "B" | undefined) => (choice === "B" && writingB ? (writingB as MockPart & { set: WritingSet }) : writingA);
+  const writingPart = chosenTask(run?.writing.choice);
 
   const finishExam = useCallback(async () => {
     const current = useMock.getState().runs[mockId];
     if (!current) return;
     const now = Date.now();
+    const writingPart = chosenTask(current.writing.choice);
     const partScores: MockResult["parts"] = {};
     let points = 0;
     for (const p of [...reading, ...listening]) {
@@ -145,7 +151,7 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
       mockId,
       finishedAt: now,
       parts: partScores,
-      writing: { text: current.writing.text, subject: current.writing.subject },
+      writing: { text: current.writing.text, subject: current.writing.subject, ...(current.writing.choice ? { choice: current.writing.choice } : {}) },
       writtenPoints: points,
     };
     saveResult(res);
@@ -186,11 +192,22 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
         toast.error(tr.toasts.feedbackFailed);
       }
     }
-  }, [abandon, examId, finishAttempt, listening, locale, mockId, reading, saveResult, saveWriting, setResultId, tr, writingPart]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- chosenTask only reads writingA/writingB
+  }, [abandon, examId, finishAttempt, listening, locale, mockId, reading, saveResult, saveWriting, setResultId, tr, writingA, writingB]);
 
   /* ---------------- results ---------------- */
   if (result)
-    return <MockResults result={result} parts={parts} rubric={rubric} examSlug={exam.slug} listHref={listHref} writing={writingPart?.set} onClose={closeResult} />;
+    return (
+      <MockResults
+        result={result}
+        parts={parts}
+        rubric={rubric}
+        examSlug={exam.slug}
+        listHref={listHref}
+        writing={chosenTask(result.writing?.choice)?.set}
+        onClose={closeResult}
+      />
+    );
 
   /* ---------------- intro ---------------- */
   if (!run) {
@@ -206,8 +223,16 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
             <p className="text-muted-foreground">{tr.intro.text}</p>
             <ol className="space-y-2">
               <Stage icon={<BookOpen className="size-4" />} title="Leseverstehen + Sprachbausteine" text={tr.intro.reading(READING_MINUTES)} />
-              <Stage icon={<Headphones className="size-4" />} title="Hörverstehen" text={tr.intro.listening} />
-              <Stage icon={<PenLine className="size-4" />} title="Schriftlicher Ausdruck" text={tr.intro.writing(WRITING_MINUTES)} />
+              <Stage
+                icon={<Headphones className="size-4" />}
+                title="Hörverstehen"
+                text={listening.every((p) => p.part.audio?.plays === 1) ? tr.intro.listeningOnce : tr.intro.listening}
+              />
+              <Stage
+                icon={<PenLine className="size-4" />}
+                title="Schriftlicher Ausdruck"
+                text={writingB ? tr.intro.writingChoice(WRITING_MINUTES) : tr.intro.writing(WRITING_MINUTES)}
+              />
             </ol>
             <div className="flex items-start gap-2 rounded-xl border bg-background/80 p-3 text-sm">
               <ShieldCheck className="mt-0.5 size-4 shrink-0 text-primary" />
@@ -313,11 +338,15 @@ function Runner({ examId, mockId, title, parts, rubric, listHref }: MockRunnerPr
           }
         />
       )}
-      {run.stage === "writing" && writingPart && (
+      {run.stage === "writing" && writingA && writingB && !run.writing.choice && (
+        <TaskChoice a={writingA.set} b={writingB.set as WritingSet} onChoose={(choice) => patch(mockId, { writing: { ...run.writing, choice } })} />
+      )}
+      {run.stage === "writing" && writingPart && (!writingB || run.writing.choice) && (
         <WritingStage
           task={writingPart.set}
+          part={writingPart.part}
           value={run.writing}
-          onChange={(w) => patch(mockId, { writing: w })}
+          onChange={(w) => patch(mockId, { writing: { ...run.writing, ...w } })}
           onFinish={() => void finishExam()}
         />
       )}
@@ -541,18 +570,54 @@ function ListeningStage({
   );
 }
 
+/** telc B2: choose Aufgabe A or B – the 30 minutes are already running. */
+function TaskChoice({ a, b, onChoose }: { a: WritingSet; b: WritingSet; onChoose: (choice: "A" | "B") => void }) {
+  const tr = useT().mock.choice;
+  return (
+    <div className="space-y-4">
+      <div className="rounded-2xl border bg-card p-5">
+        <h2 className="text-lg font-semibold">Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B.</h2>
+        <p className="mt-1 text-sm text-muted-foreground">{tr.hint}</p>
+      </div>
+      <div className="grid gap-4 lg:grid-cols-2">
+        {([["A", a], ["B", b]] as const).map(([key, task]) => (
+          <div key={key} className="flex flex-col gap-3 rounded-2xl border bg-card p-5">
+            <div className="flex items-center gap-2">
+              <Badge className="bg-schreiben text-white">Aufgabe {key}</Badge>
+              {task.taskLabel && <span className="font-semibold">{task.taskLabel}</span>}
+            </div>
+            <p className="text-sm font-medium">{task.situation}</p>
+            <EmailCard stimulus={task.stimulus} className="text-sm" />
+            <ul className="list-disc space-y-1 pl-5 text-sm">
+              {task.leitpunkte.map((p) => (
+                <li key={p}>{p}</li>
+              ))}
+            </ul>
+            <Button className="mt-auto" onClick={() => onChoose(key)}>
+              {tr.choose(key)}
+            </Button>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 function WritingStage({
   task,
+  part,
   value,
   onChange,
   onFinish,
 }: {
   task: WritingSet;
+  part: PartDefinition;
   value: { subject: string; text: string };
   onChange: (v: { subject: string; text: string }) => void;
   onFinish: () => void;
 }) {
   const tr = useT().mock.writing;
+  const three = part.writing?.cover === "three";
   const ref = useRef<HTMLTextAreaElement>(null);
   const [confirm, setConfirm] = useState(false);
   const words = wordCount(value.text);
@@ -570,11 +635,14 @@ function WritingStage({
     <div className="grid gap-5 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
       <div className="space-y-4">
         <div className="rounded-xl border bg-card p-4">
+          {task.taskLabel && <div className="mb-1 text-xs font-semibold tracking-wide text-schreiben uppercase">{task.taskLabel}</div>}
           <p className="font-medium">{task.situation}</p>
         </div>
         <EmailCard stimulus={task.stimulus} />
         <div className="rounded-xl border bg-card p-4 text-sm">
-          <div className="mb-2 font-semibold">Schreiben Sie etwas zu allen vier Punkten:</div>
+          <div className="mb-2 font-semibold">
+            {three ? "Behandeln Sie drei der folgenden Punkte – oder zwei und einen weiteren Aspekt Ihrer Wahl:" : "Schreiben Sie etwas zu allen vier Punkten:"}
+          </div>
           <ul className="list-disc space-y-1 pl-5">
             {task.leitpunkte.map((p) => (
               <li key={p}>{p}</li>
@@ -599,7 +667,10 @@ function WritingStage({
             lang="de"
             className="reading block min-h-[24rem] w-full resize-y bg-paper px-5 py-4 text-[16px] text-paper-foreground outline-none"
           />
-          <div className="border-t px-4 py-2 text-right text-xs text-muted-foreground tabular">{tr.words(words)}</div>
+          <div className="border-t px-4 py-2 text-right text-xs text-muted-foreground tabular">
+            {tr.words(words)}
+            {part.writing?.minWords ? ` / ${part.writing.minWords}` : ""}
+          </div>
         </div>
         <Button className="w-full" size="lg" onClick={() => setConfirm(true)}>
           {tr.submit}

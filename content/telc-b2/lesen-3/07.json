@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-07",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Sport, Verein und Ehrenamt",
+  "topic": "sport",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ein Freund, der problemlos längere Strecken Brust schwimmt, möchte endlich die Kraultechnik richtig erlernen.",
+      "answer": "c",
+      "explanation": "Your friend already swims breaststroke well and wants to learn front crawl. The crawl course (c) is for people who „schwimmen aber seit jeher nur Brust“ and requires that you can swim „mindestens 200 Meter ohne Pause sicher“ – he can. „Keine Angst vorm Wasser“ (k) is for adults who are afraid of water, not for learning a new stroke.",
+      "explanationDe": "Dein Freund schwimmt schon sicher Brust und will kraulen lernen. Der Kraulkurs (c) ist für Leute, die sich im Wasser wohlfühlen, aber „seit jeher nur Brust“ schwimmen, und verlangt „mindestens 200 Meter ohne Pause sicher“ – das schafft er. „Keine Angst vorm Wasser“ (k) ist für Erwachsene mit Angst vor dem Wasser, nicht zum Lernen einer neuen Schwimmart."
+    },
+    {
+      "n": 2,
+      "text": "Ihr Mitbewohner trainiert ehrenamtlich eine Jugendmannschaft und möchte dafür eine offizielle Trainerqualifikation erwerben.",
+      "answer": "l",
+      "explanation": "He already coaches a youth team and wants an official coaching qualification. Text (l) offers „Die Ausbildung zur Übungsleiterin oder zum Übungsleiter C“ for people who „engagieren sich bereits in einem Sportverein“, ending with a licence. The volunteer agency (d) also mentions „Fortbildungen“, but you only get „einen Nachweis über Ihr Engagement“ – a certificate of volunteering, not a coaching qualification.",
+      "explanationDe": "Er trainiert schon eine Jugendmannschaft und will eine offizielle Trainerqualifikation. Text (l) bietet „Die Ausbildung zur Übungsleiterin oder zum Übungsleiter C“ für Leute, die sich „bereits in einem Sportverein“ engagieren – am Ende steht eine Lizenz. Die Ehrenamtsagentur (d) nennt zwar „Fortbildungen“, aber man bekommt nur „einen Nachweis über Ihr Engagement“ – das ist keine Trainerqualifikation."
+    },
+    {
+      "n": 3,
+      "text": "Ein Kollege möchte nach einem Eingriff am Knie unter fachkundiger Anleitung trainieren, ohne dafür selbst zu bezahlen.",
+      "answer": "a",
+      "explanation": "After knee surgery he wants supervised training that costs him nothing. Rehasport (a) is for people „Nach einer Operation“, led by trained instructors, and „Die Kosten werden dann vollständig übernommen“. The back course (j) is „ausdrücklich nicht geeignet“ after an operation and you pay first; Nordic Walking (e) is gentle on the knees but costs „60 Euro“.",
+      "explanationDe": "Nach der Knie-OP will er unter Anleitung trainieren, ohne etwas zu bezahlen. Der Rehasport (a) ist für Menschen „Nach einer Operation“, die Gruppen leiten speziell ausgebildete Übungsleiter, und „Die Kosten werden dann vollständig übernommen“. Der Rückenkurs (j) ist nach einer Operation „ausdrücklich nicht geeignet“, und man zahlt zuerst selbst; Nordic Walking (e) schont zwar die Knie, kostet aber „60 Euro“."
+    },
+    {
+      "n": 4,
+      "text": "Sie möchten vor Arbeitsbeginn in Gesellschaft joggen, ohne dafür Geld auszugeben oder einem Verein beizutreten.",
+      "answer": "b",
+      "explanation": "You want to run with others before work, for free and without joining a club. The Lauftreff (b) meets „vor Arbeitsbeginn“ at 6.15, and „Die Teilnahme ist kostenlos und an keine Vereinsmitgliedschaft gebunden“. The half-marathon course (h) costs „189 Euro“ and trains in the evening; the back course (j) starts at 7.30 but is a paid course, not running.",
+      "explanationDe": "Du willst vor der Arbeit mit anderen laufen – kostenlos und ohne Verein. Der Lauftreff (b) trifft sich „vor Arbeitsbeginn“ um 6.15 Uhr, und „Die Teilnahme ist kostenlos und an keine Vereinsmitgliedschaft gebunden“. Die Laufakademie (h) kostet „189 Euro“ und trainiert abends; der Rückenkurs (j) beginnt zwar um 7.30 Uhr, ist aber ein bezahlter Kurs und kein Lauftraining."
+    },
+    {
+      "n": 5,
+      "text": "Ihr zwölfjähriger Neffe möchte in den Sommerferien gern einmal Stand-up-Paddling ausprobieren.",
+      "answer": "x",
+      "explanation": "Only the Paddelzentrum (g) offers stand-up paddling in summer, but „Aus Sicherheitsgründen können wir ausschließlich Personen ab 14 Jahren aufnehmen“ – and „eine Begleitung durch Erwachsene ändert daran nichts“. Your nephew is twelve, so no text fits: x.",
+      "explanationDe": "Nur das Paddelzentrum (g) bietet im Sommer Stand-up-Paddling an, aber dort steht: „Aus Sicherheitsgründen können wir ausschließlich Personen ab 14 Jahren aufnehmen“ – und „eine Begleitung durch Erwachsene ändert daran nichts“. Dein Neffe ist zwölf, also passt kein Text: x."
+    },
+    {
+      "n": 6,
+      "text": "Ein Kollege, der im Rollstuhl sitzt, sucht eine Mannschaftssportart, die er gemeinsam mit nichtbehinderten Freunden ausüben kann.",
+      "answer": "f",
+      "explanation": "He uses a wheelchair and wants a team sport together with friends without a disability. At „Sport ohne Grenzen“ (f) „spielen Menschen mit und ohne Behinderung in gemischten Mannschaften“, and „Wer zu Fuß kommt, erhält einen unserer Sportrollstühle“. Rehasport (a) works in groups, but it is therapy on prescription, not a team sport with friends.",
+      "explanationDe": "Er sitzt im Rollstuhl und sucht einen Mannschaftssport zusammen mit Freunden ohne Behinderung. Bei „Sport ohne Grenzen“ (f) „spielen Menschen mit und ohne Behinderung in gemischten Mannschaften“, und „Wer zu Fuß kommt, erhält einen unserer Sportrollstühle“. Rehasport (a) findet zwar in Gruppen statt, ist aber Therapie mit Verordnung und kein Mannschaftssport mit Freunden."
+    },
+    {
+      "n": 7,
+      "text": "Ihre Schwester hat zwar keine Rückenschmerzen, möchte ihnen aber mit gezieltem Training rechtzeitig vorbeugen.",
+      "answer": "j",
+      "explanation": "She has no back pain yet and wants to prevent it. „Rückenfit“ (j) is for adults „die noch keine akuten Beschwerden haben und frühzeitig gegensteuern möchten“. Rehasport (a) also has „Orthopädiegruppen für Rücken“, but it is for people after an operation or with chronic illness and needs „eine Verordnung“ – a healthy person does not get one.",
+      "explanationDe": "Sie hat noch keine Rückenschmerzen und will vorbeugen. „Rückenfit“ (j) ist für Erwachsene, „die noch keine akuten Beschwerden haben und frühzeitig gegensteuern möchten“. Der Rehasport (a) hat zwar „Orthopädiegruppen für Rücken“, ist aber für Menschen nach einer Operation oder mit chronischer Krankheit und braucht „eine Verordnung“ – die bekommt eine gesunde Person nicht."
+    },
+    {
+      "n": 8,
+      "text": "Eine Bekannte würde gern bei einem Sportereignis mithelfen, ohne sich längerfristig an einen Verein zu binden.",
+      "answer": "i",
+      "explanation": "She wants to help at one sports event without a long-term commitment. Via „Sport braucht Hände“ (i) you sign up „für einzelne Einsätze“, and „Eine dauerhafte Verpflichtung gehen Sie dabei nicht ein“. The volunteer agency (d) is the trap: its clubs expect „eine Mitarbeit über mindestens sechs Monate“.",
+      "explanationDe": "Sie will bei einer Sportveranstaltung helfen, sich aber nicht lange binden. Bei „Sport braucht Hände“ (i) meldet man sich „für einzelne Einsätze“, und „Eine dauerhafte Verpflichtung gehen Sie dabei nicht ein“. Die Ehrenamtsagentur (d) ist die Falle: Dort erwarten die Vereine „eine Mitarbeit über mindestens sechs Monate“."
+    },
+    {
+      "n": 9,
+      "text": "Ihre Nachbarin möchte endlich die Panik überwinden, die sie im tiefen Wasser jedes Mal überkommt.",
+      "answer": "k",
+      "explanation": "She panics in deep water. „Keine Angst vorm Wasser“ (k) helps adults to reduce such fears, starting in a pool „in dem Sie überall stehen können“, until they feel safe enough „um ins tiefe Becken zu wechseln“. The crawl course (c) is the trap: it takes place „ausschließlich im Schwimmerbecken“ and requires safe swimming.",
+      "explanationDe": "Sie bekommt im tiefen Wasser Panik. „Keine Angst vorm Wasser“ (k) hilft Erwachsenen, diese Angst abzubauen – zuerst in einem Becken, „in dem Sie überall stehen können“, bis man sich sicher genug fühlt, „um ins tiefe Becken zu wechseln“. Der Kraulkurs (c) ist die Falle: Er findet „ausschließlich im Schwimmerbecken“ statt und verlangt sicheres Schwimmen."
+    },
+    {
+      "n": 10,
+      "text": "Eine Kollegin, die schon eine Stunde am Stück joggt, will sich gezielt auf einen Halbmarathon vorbereiten.",
+      "answer": "h",
+      "explanation": "She can already run for an hour and wants targeted preparation for a half marathon. The Laufakademie (h) prepares you „In zwölf Wochen zum ersten Halbmarathon“ with a personal training plan, and „Teilnehmen kann, wer bereits eine Stunde ohne Gehpause laufen kann“. The Lauftreff (b) says the opposite: „Wer gezielt auf einen Wettkampf hinarbeiten möchte“ should look elsewhere.",
+      "explanationDe": "Sie läuft schon eine Stunde ohne Pause und will sich gezielt auf einen Halbmarathon vorbereiten. Die Laufakademie (h) führt „In zwölf Wochen zum ersten Halbmarathon“, mit persönlichem Trainingsplan, und „Teilnehmen kann, wer bereits eine Stunde ohne Gehpause laufen kann“. Der Lauftreff (b) sagt das Gegenteil: „Wer gezielt auf einen Wettkampf hinarbeiten möchte“, soll ein anderes Angebot suchen."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Rehasport im TSV Grünhöfe",
+      "subheading": "Zurück in Bewegung – mit ärztlicher Verordnung",
+      "lines": [],
+      "text": "Nach einer Operation, einem Unfall oder bei chronischen Erkrankungen hilft Rehabilitationssport dabei, verloren gegangene Kraft und Beweglichkeit Schritt für Schritt zurückzugewinnen. Unsere Gruppen werden von Übungsleiterinnen und Übungsleitern mit einer speziellen Zusatzqualifikation betreut und sind auf höchstens fünfzehn Personen begrenzt. Angeboten werden Orthopädiegruppen für Rücken, Knie und Hüfte sowie Herzsport unter ärztlicher Aufsicht. Voraussetzung ist eine Verordnung Ihrer Ärztin oder Ihres Arztes, die von der Krankenkasse genehmigt werden muss. Die Kosten werden dann vollständig übernommen, eine Vereinsmitgliedschaft ist nicht erforderlich. In der Regel umfasst eine Verordnung 50 Übungseinheiten, die innerhalb von 18 Monaten wahrgenommen werden können.",
+      "footer": "TSV Grünhöfe · Geschäftsstelle, Am Sportpark 4 · Tel. 0421 5581220"
+    },
+    {
+      "key": "b",
+      "heading": "Lauftreff Morgenrunde",
+      "subheading": "Gemeinsam in den Tag starten",
+      "lines": [],
+      "text": "Seit über zehn Jahren treffen sich bei uns Frühaufsteherinnen und Frühaufsteher, um vor Arbeitsbeginn ein paar Kilometer entlang der Weser zurückzulegen. Treffpunkt ist jeweils montags, mittwochs und freitags um 6.15 Uhr am Haupteingang des Bürgerparks. Vor Ort bilden sich je nach Tempo kleine Gruppen, sodass niemand allein unterwegs sein muss. Die Teilnahme ist kostenlos und an keine Vereinsmitgliedschaft gebunden; eine Anmeldung ist nicht nötig. Bitte beachten Sie, dass wir ein lockerer Zusammenschluss ohne Trainerinnen und Trainer sind: Wer gezielt auf einen Wettkampf hinarbeiten möchte und dafür einen individuellen Plan benötigt, ist bei einem anderen Angebot besser aufgehoben.",
+      "footer": "Kontakt: morgenrunde@laufpost-bremen.de"
+    },
+    {
+      "key": "c",
+      "heading": "Kraulkurs für Erwachsene",
+      "subheading": "Schwimmverein Wellenbrecher 1921",
+      "lines": [],
+      "text": "Sie fühlen sich im Wasser wohl, schwimmen aber seit jeher nur Brust? In unserem Technikkurs lernen Sie an zehn Abenden die Kraulbewegung von Grund auf – von der richtigen Wasserlage über den Armzug bis zur Atmung. Mithilfe von Unterwasseraufnahmen analysieren unsere Trainer Ihre Bewegungen und geben Ihnen individuelle Rückmeldungen. Besonders gefragt ist der Kurs bei Menschen, die sich auf einen Triathlon oder ein Freiwasserschwimmen vorbereiten. Da ausschließlich im Schwimmerbecken trainiert wird, müssen Sie mindestens 200 Meter ohne Pause sicher zurücklegen können. Termine: dienstags von 20 bis 21 Uhr im Hallenbad Vegesack; die Kursgebühr von 95 Euro schließt den Eintritt ein.",
+      "footer": "Anmeldung: www.wellenbrecher1921.de/kurse"
+    },
+    {
+      "key": "d",
+      "heading": "Ehrenamtsagentur Sport",
+      "subheading": "Vereine suchen Verstärkung",
+      "lines": [],
+      "text": "Viele Sportvereine könnten deutlich mehr Gruppen anbieten, wenn sie genügend Menschen fänden, die regelmäßig mit anpacken. Wir bringen Interessierte und Vereine zusammen: In einem persönlichen Gespräch klären wir, welche Aufgabe zu Ihren Fähigkeiten und Ihrem Zeitbudget passt – von der Betreuung einer Kindergruppe über die Mitgliederverwaltung bis zur Öffentlichkeitsarbeit. Damit sich die Einarbeitung für beide Seiten lohnt, erwarten die Vereine eine Mitarbeit über mindestens sechs Monate mit etwa zwei Stunden pro Woche. Im Gegenzug können Sie kostenlos an Fortbildungen teilnehmen und erhalten nach einem Jahr einen Nachweis über Ihr Engagement.",
+      "footer": "Sprechzeiten: dienstags 16–19 Uhr, Haus des Sports, Raum 12"
+    },
+    {
+      "key": "e",
+      "heading": "Nordic Walking für Einsteiger",
+      "subheading": "Gelenkschonend in Form kommen",
+      "lines": [],
+      "text": "Nordic Walking trainiert Ausdauer und Muskulatur, ohne Knie und Hüften übermäßig zu belasten. Es eignet sich daher besonders für Menschen, die lange keinen Sport getrieben haben oder nach einer längeren Pause behutsam wieder einsteigen möchten. In acht Kurseinheiten vermittelt Ihnen unsere Übungsleiterin die richtige Stocktechnik und gibt Tipps für das selbstständige Training. Stöcke werden gestellt, Sie benötigen lediglich bequeme Kleidung und festes Schuhwerk. Wir treffen uns samstags um 9.30 Uhr am Parkplatz des Waldbads. Die Kursgebühr beträgt 60 Euro; Mitglieder unseres Vereins zahlen ermäßigt 40 Euro.",
+      "footer": "TuS Blockland · Anmeldung unter Tel. 0421 6390418"
+    },
+    {
+      "key": "f",
+      "heading": "Rollstuhlbasketball bei Sport ohne Grenzen",
+      "subheading": "Ein Spiel für alle",
+      "lines": [],
+      "text": "Bei uns spielen Menschen mit und ohne Behinderung in gemischten Mannschaften – und zwar ausnahmslos im Rollstuhl. Wer zu Fuß kommt, erhält einen unserer Sportrollstühle als Leihgabe und merkt schnell, wie rasant und körperbetont dieses Spiel ist. Trainiert wird zweimal wöchentlich in der Sporthalle der Berufsschule Ost, die vollständig barrierefrei zugänglich ist. Unsere erste Mannschaft tritt in der Regionalliga an; daneben gibt es eine Freizeitgruppe ohne Wettkampfbetrieb. Interessierte können dreimal unverbindlich mittrainieren, bevor sie sich für eine Mitgliedschaft entscheiden. Der Monatsbeitrag liegt bei 12 Euro, für Schülerinnen, Schüler und Studierende bei 6 Euro.",
+      "footer": "Infos und Trainingszeiten: www.sport-ohne-grenzen-bremen.de"
+    },
+    {
+      "key": "g",
+      "heading": "Paddelzentrum Wümmeufer",
+      "subheading": "Stand-up-Paddling und Kanu zum Ausprobieren",
+      "lines": [],
+      "text": "Von Mai bis September bieten wir an jedem Wochenende Schnupperkurse an, in denen Sie die Grundlagen des Stehpaddelns oder des Kanufahrens kennenlernen. Boards, Boote, Paddel und Schwimmwesten werden selbstverständlich gestellt. Nach einer kurzen Einweisung an Land geht es auf einen ruhigen Seitenarm des Flusses, wo auch Anfängerinnen und Anfänger rasch Erfolgserlebnisse haben. Aus Sicherheitsgründen können wir ausschließlich Personen ab 14 Jahren aufnehmen, die schwimmen können; eine Begleitung durch Erwachsene ändert daran nichts. Ein Kurs dauert drei Stunden und kostet 45 Euro, Gruppen ab sechs Personen erhalten zehn Prozent Rabatt. Bei Gewitter oder starkem Wind fällt der Termin aus.",
+      "footer": "Buchung online: www.paddelzentrum-wuemmeufer.de"
+    },
+    {
+      "key": "h",
+      "heading": "Laufakademie Tempowechsel",
+      "subheading": "In zwölf Wochen zum ersten Halbmarathon",
+      "lines": [],
+      "text": "Unser Vorbereitungskurs richtet sich an Hobbyläuferinnen und Hobbyläufer, die erstmals die Distanz von gut 21 Kilometern bewältigen wollen. Zu Beginn ermitteln wir im Rahmen einer Leistungsdiagnostik Ihre Ausgangswerte. Auf dieser Grundlage erstellt ein lizenzierter Trainer Ihren persönlichen Trainingsplan, der alle zwei Wochen an Ihre Fortschritte angepasst wird. Zweimal pro Woche trainieren Sie abends in der Gruppe, die übrigen Einheiten absolvieren Sie eigenständig. Teilnehmen kann, wer bereits eine Stunde ohne Gehpause laufen kann. Die Gebühr von 189 Euro umfasst außerdem eine Ernährungsberatung. Der nächste Kurs startet Anfang März, also rechtzeitig vor der Saison der Frühjahrsläufe.",
+      "footer": "Laufakademie Tempowechsel · Lindenhofstraße 18 · www.tempowechsel-lauf.de"
+    },
+    {
+      "key": "i",
+      "heading": "Freiwilligenbörse „Sport braucht Hände“",
+      "subheading": "Helfen, wann es passt",
+      "lines": [],
+      "text": "Ob Stadtlauf, Jugendturnier oder Schwimmfest: Bei größeren Sportveranstaltungen sind die ausrichtenden Vereine auf zusätzliche Helferinnen und Helfer angewiesen. Über unsere Online-Börse können Sie sich gezielt für einzelne Einsätze melden, etwa an einer Verpflegungsstation, bei der Startnummernausgabe oder als Streckenposten. Eine dauerhafte Verpflichtung gehen Sie dabei nicht ein, denn jeder Einsatz wird einzeln vereinbart. Vor Ort erhalten Sie eine kurze Einweisung, Verpflegung sowie ein Helfershirt; während Ihrer Tätigkeit sind Sie über den Veranstalter versichert. Besondere Vorkenntnisse werden nicht verlangt – wichtig ist lediglich, dass Sie volljährig sind und pünktlich erscheinen.",
+      "footer": "www.sport-braucht-haende.de"
+    },
+    {
+      "key": "j",
+      "heading": "Rückenfit – Präventionskurs",
+      "subheading": "Gesundheitszentrum Kastanienhof",
+      "lines": [],
+      "text": "Langes Sitzen, wenig Bewegung, einseitige Belastung: Rückenbeschwerden zählen zu den häufigsten Ursachen für Krankschreibungen. Unser zertifizierter Kurs richtet sich an Erwachsene, die noch keine akuten Beschwerden haben und frühzeitig gegensteuern möchten. In zehn Einheiten kräftigen Sie Ihre Rumpfmuskulatur und lernen Übungen kennen, die sich mühelos in den Berufsalltag einbauen lassen. Die Kursgebühr von 110 Euro zahlen Sie zunächst selbst; bei regelmäßiger Teilnahme erstatten Ihnen die meisten Krankenkassen anschließend bis zu 80 Prozent. Für Personen, die sich gerade von einer Operation erholen, ist der Kurs ausdrücklich nicht geeignet. Kurstermine: mittwochs um 18.30 Uhr oder freitags um 7.30 Uhr.",
+      "footer": "Gesundheitszentrum Kastanienhof · Kastanienweg 9 · Tel. 0421 3077145"
+    },
+    {
+      "key": "k",
+      "heading": "Keine Angst vorm Wasser",
+      "subheading": "Wassergewöhnung für Erwachsene",
+      "lines": [],
+      "text": "Viele Erwachsene meiden Schwimmbäder, weil sie als Kind schlechte Erfahrungen gemacht oder nie richtig schwimmen gelernt haben. Unser Kurs bietet Ihnen einen geschützten Rahmen, um diese Ängste behutsam abzubauen. Geübt wird in kleinen Gruppen von höchstens sechs Personen im Lehrschwimmbecken, in dem Sie überall stehen können. Zwei speziell geschulte Kursleiterinnen begleiten Sie, bis Sie sich sicher genug fühlen, um ins tiefe Becken zu wechseln. Vorkenntnisse sind nicht erforderlich, und niemand wird zu etwas gedrängt, wozu er noch nicht bereit ist. Der Kurs umfasst acht Termine am Donnerstagvormittag und kostet 120 Euro.",
+      "footer": "Anmeldung: Bäderbetriebe Nord, Tel. 0421 6610030"
+    },
+    {
+      "key": "l",
+      "heading": "Ausbildung zur Übungsleitung C",
+      "subheading": "Kreissportbund Weser-Nord",
+      "lines": [],
+      "text": "Sie engagieren sich bereits in einem Sportverein und möchten Ihre praktische Erfahrung durch eine anerkannte Qualifikation untermauern? Die Ausbildung zur Übungsleiterin oder zum Übungsleiter C vermittelt in 120 Lerneinheiten Grundlagen der Trainingslehre und Methodik, Erste Hilfe im Sport sowie Fragen der Aufsichtspflicht bei Minderjährigen. Die Lehrgänge finden an fünf verlängerten Wochenenden statt und schließen mit einer Lehrprobe ab. Teilnehmen können Vereinsmitglieder ab 16 Jahren. Die Gebühr von 280 Euro übernimmt in vielen Fällen der entsendende Verein. Mit der erworbenen Lizenz können Vereine übrigens Zuschüsse für ihre Trainerinnen und Trainer beantragen.",
+      "footer": "Lehrgangsplan und Anmeldung: www.ksb-weser-nord.de/bildung"
+    }
+  ],
+  "glossary": [
+    { "de": "die (ärztliche) Verordnung", "en": "(doctor's) prescription or referral" },
+    { "de": "der Eingriff", "en": "(surgical) procedure, operation" },
+    { "de": "die Leistungsdiagnostik", "en": "fitness/performance testing" },
+    { "de": "gegensteuern", "en": "to counteract, take preventive action" },
+    { "de": "erstatten", "en": "to reimburse" },
+    { "de": "die Wassergewöhnung", "en": "getting used to the water (for non-swimmers)" },
+    { "de": "körperbetont", "en": "physical, with a lot of body contact" },
+    { "de": "der Streckenposten", "en": "course marshal (at a race)" },
+    { "de": "volljährig", "en": "of age (18 or older)" },
+    { "de": "die Aufsichtspflicht", "en": "duty of supervision (for minors)" },
+    { "de": "die Lehrprobe", "en": "practical teaching test" },
+    { "de": "mit anpacken", "en": "to lend a hand" }
+  ]
+}

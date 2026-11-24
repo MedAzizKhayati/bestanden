@@ -1,0 +1,59 @@
+{
+  "id": "schreiben-13",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Die falsche Küchenmaschine",
+  "topic": "einkaufen",
+  "difficulty": 1,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie haben vor drei Wochen im Onlineshop „KochWerk“ eine Küchenmaschine bestellt. Das Paket kam viel später als versprochen, und darin war ein anderes Modell in der falschen Farbe. Auch am Telefon konnte man Ihnen nicht weiterhelfen. Schreiben Sie eine Beschwerde an den Kundenservice von KochWerk.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "KochWerk – Ihr Onlineshop für Küche und Haushalt\n\nÜber 8.000 Markengeräte zu fairen Preisen!\n\n• Lieferung innerhalb von 2–3 Werktagen – garantiert\n• Versandkostenfrei ab 50 Euro Bestellwert\n• 30 Tage Rückgaberecht, kostenlose Rücksendung\n• Persönlicher Kundenservice: Wir lösen Ihr Anliegen beim ersten Anruf!\n\nAktion im Oktober: Küchenmaschine „Chefia 900“ für nur 289 Euro statt 349 Euro – erhältlich in Weiß, Rot und Anthrazit\n\nKundenservice: Mo–Fr 8–20 Uhr, Tel. 0800 5624 300\nservice@kochwerk-shop.de · www.kochwerk-shop.de"
+  },
+  "leitpunkte": [
+    "Legen Sie dar, warum Sie mit dem Kundenservice unzufrieden sind.",
+    "Erläutern Sie, wofür Sie die Küchenmaschine dringend gebraucht hätten.",
+    "Beschreiben Sie, welche Probleme es mit Ihrer Bestellung gab.",
+    "Erklären Sie, was Sie jetzt von KochWerk erwarten."
+  ],
+  "model": {
+    "subject": "Beschwerde zu Bestellung Nr. 40-77815 – verspätete und falsche Lieferung",
+    "text": "Sehr geehrte Damen und Herren,\n\nam 2. Oktober habe ich in Ihrem Onlineshop die Küchenmaschine „Chefia 900“ in Weiß zum Aktionspreis von 289 Euro bestellt. Leider bin ich mit dem Ablauf dieser Bestellung in keiner Weise zufrieden, weshalb ich mich heute schriftlich an Sie wende.\n\nObwohl Sie in Ihrer Werbung eine Lieferung innerhalb von zwei bis drei Werktagen garantieren, ist das Paket erst nach fast zwei Wochen bei mir angekommen. Als ich es endlich öffnete, musste ich außerdem feststellen, dass man mir ein ganz anderes Modell geschickt hatte, und zwar in Rot statt in Weiß.\n\nNoch mehr geärgert hat mich allerdings Ihr Kundenservice. Insgesamt habe ich dreimal angerufen und jedes Mal über zwanzig Minuten in der Warteschleife verbracht. Die Mitarbeiterin, die ich schließlich erreicht habe, konnte mir weder sagen, wo sich das richtige Gerät befindet, noch wann ich es bekomme. Von einer Lösung „beim ersten Anruf“ kann also keine Rede sein.\n\nIch erwarte daher, dass Sie mir die bestellte Küchenmaschine in Weiß innerhalb einer Woche zusenden und das falsche Gerät auf Ihre Kosten abholen lassen. Darüber hinaus fände ich eine kleine Entschädigung für die lange Wartezeit, zum Beispiel einen Gutschein, angemessen.\n\nIch hoffe auf eine rasche Antwort und eine schnelle Lösung.\n\nMit freundlichen Grüßen\nJonas Wehrmann"
+  },
+  "modelNotes": [
+    "The model covers three of the four points: what went wrong with the order (late delivery, wrong model and colour), why the customer service was unhelpful, and what the writer expects now. The point about why he needed the machine urgently is left out – that is allowed.",
+    "Each point gets its own paragraph with several sentences and concrete details (order date, price, three calls, twenty minutes on hold). Vague complaints score lower.",
+    "The writer quotes the ad's promises („innerhalb von zwei bis drei Werktagen“, „beim ersten Anruf“) to show the contrast with reality – a strong technique for any complaint.",
+    "B2 structures: „Obwohl …“, Plusquamperfekt („geschickt hatte“), „weder … noch“, „Von … kann keine Rede sein“, Konjunktiv II „fände ich … angemessen“.",
+    "The tone stays firm but polite: a clear demand with a deadline („innerhalb einer Woche“), no insults, a formal salutation and „Mit freundlichen Grüßen“."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei der vier Punkte: was bei der Bestellung schiefgelaufen ist (späte Lieferung, falsches Modell und falsche Farbe), warum der Kundenservice nicht geholfen hat und was der Schreiber jetzt erwartet. Den Punkt, wofür er die Maschine dringend gebraucht hätte, lässt er weg – das ist erlaubt.",
+    "Jeder Punkt bekommt einen eigenen Absatz mit mehreren Sätzen und konkreten Details (Bestelldatum, Preis, drei Anrufe, zwanzig Minuten Warteschleife). Ungenaue Beschwerden bekommen weniger Punkte.",
+    "Der Schreiber zitiert die Versprechen aus der Anzeige („innerhalb von zwei bis drei Werktagen“, „beim ersten Anruf“) und zeigt so den Unterschied zur Wirklichkeit – eine starke Technik für jede Beschwerde.",
+    "B2-Strukturen: „Obwohl …“, Plusquamperfekt („geschickt hatte“), „weder … noch“, „Von … kann keine Rede sein“, Konjunktiv II „fände ich … angemessen“.",
+    "Der Ton bleibt bestimmt, aber höflich: eine klare Forderung mit Frist („innerhalb einer Woche“), keine Beleidigungen, eine formelle Anrede und „Mit freundlichen Grüßen“."
+  ],
+  "phrases": [
+    { "de": "Leider bin ich mit … in keiner Weise zufrieden.", "en": "Unfortunately, I am not at all satisfied with …" },
+    { "de": "Obwohl Sie in Ihrer Werbung … garantieren, …", "en": "Although you guarantee … in your advertising, …" },
+    { "de": "Ich musste feststellen, dass …", "en": "I found (to my dismay) that …" },
+    { "de": "Noch mehr geärgert hat mich allerdings …", "en": "What annoyed me even more, however, was …" },
+    { "de": "Sie konnte mir weder sagen, …, noch …", "en": "She could neither tell me … nor …" },
+    { "de": "Von … kann keine Rede sein.", "en": "There is no question of … / … is simply not the case." },
+    { "de": "Ich erwarte daher, dass Sie …", "en": "I therefore expect you to …" },
+    { "de": "… auf Ihre Kosten abholen lassen", "en": "to have … collected at your expense" },
+    { "de": "Ich hoffe auf eine rasche Antwort.", "en": "I hope for a prompt reply." }
+  ],
+  "glossary": [
+    { "de": "der Werktag", "en": "working day" },
+    { "de": "das Rückgaberecht", "en": "right to return goods" },
+    { "de": "das Anliegen", "en": "concern, request" },
+    { "de": "der Aktionspreis", "en": "special offer price" },
+    { "de": "die Warteschleife", "en": "being on hold (phone queue)" },
+    { "de": "die Entschädigung", "en": "compensation" },
+    { "de": "der Gutschein", "en": "voucher" }
+  ]
+}

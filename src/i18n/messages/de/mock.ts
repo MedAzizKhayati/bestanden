@@ -3,8 +3,8 @@ import type { Messages } from "../en";
 export const mock: Messages["mock"] = {
   title: (n) => `Modelltest ${n}`,
   page: {
-    metaTitle: "Modelltests – die ganze schriftliche telc-B1-Prüfung",
-    metaDescription: "Komplette schriftliche Modelltests für telc B1 mit offiziellen Zeiten und offizieller Bewertung.",
+    metaTitle: "Modelltests – die ganze schriftliche telc-Prüfung",
+    metaDescription: "Komplette schriftliche Modelltests für telc B1 und B2 mit offiziellen Zeiten und offizieller Bewertung.",
     crumb: "Modelltests",
     title: "Modelltests",
     description:
@@ -26,7 +26,9 @@ export const mock: Messages["mock"] = {
     text: "Die ganze schriftliche Prüfung – in der echten Reihenfolge und mit den echten Zeiten. Plane ca. 2½ Stunden an einem ruhigen Ort ein.",
     reading: (minutes) => `${minutes} Minuten für fünf Teile – du kannst frei zwischen den Teilen wechseln.`,
     listening: "Drei Teile ohne Pause – Teil 1 hörst du einmal, Teil 2 und 3 zweimal.",
+    listeningOnce: "Drei Teile ohne Pause – du hörst jeden Text nur einmal.",
     writing: (minutes) => `${minutes} Minuten für eine E-Mail.`,
+    writingChoice: (minutes) => `${minutes} Minuten: Wähle Aufgabe A oder B und schreib dann eine E-Mail mit mindestens 150 Wörtern.`,
     strictOn: "Das strenge Zeitlimit ist an: Jeder Abschnitt endet automatisch, wenn die Zeit um ist – auch wenn du die Seite neu lädst.",
     strictOff: "Das strenge Zeitlimit ist in deinen Einstellungen aus – die Abschnitte enden nicht automatisch. Schalte es für eine echte Prüfungssimulation ein.",
     start: "Schriftliche Prüfung starten",
@@ -57,6 +59,10 @@ export const mock: Messages["mock"] = {
   listening: {
     header: (teil, total) => `Hörverstehen · Teil ${teil} von ${total}`,
     start: (teil) => `Teil ${teil} starten`,
+  },
+  choice: {
+    hint: "Die 30 Minuten laufen schon – lies beide Aufgaben kurz und nimm die, zu der du am meisten schreiben kannst.",
+    choose: (key) => `Aufgabe ${key} schreiben`,
   },
   writing: {
     words: (n) => (n === 1 ? "1 Wort" : `${n} Wörter`),

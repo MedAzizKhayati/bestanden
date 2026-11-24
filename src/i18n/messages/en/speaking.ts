@@ -1,7 +1,7 @@
 export const speaking = {
   meta: {
     title: "Sprechen – oral exam practice with an AI partner",
-    description: "All three parts of the telc B1 oral exam with model dialogues, Redemittel and an AI conversation partner.",
+    description: "All three parts of the telc oral exam with model dialogues, Redemittel and an AI conversation partner.",
     partTitle: (teil: number, name: string) => `Sprechen Teil ${teil} – ${name}`,
     setTitle: (teil: number, title: string) => `Sprechen Teil ${teil} · ${title}`,
   },
@@ -23,6 +23,7 @@ export const speaking = {
     practise: "Practise",
     scoringTitle: "How the examiners score you",
     scoringText: "Each part is rated A–D on four criteria. Teil 1 counts half as much as Teil 2 and Teil 3.",
+    scoringTextEqual: (points: number) => `Each part is rated A–D on four criteria – all three parts count the same (${points} points each).`,
     criterion: "Criterion",
     assessed: "What is assessed",
   },
@@ -41,6 +42,9 @@ export const speaking = {
     notesHint: "Keywords only – in the exam you may not read out your notes.",
     preparation: "Preparation",
     prepText: (minutes: number) => `In the exam you get 20 minutes for all three parts. Here: ${minutes} min for this part – notes allowed.`,
+    prepTextB2: (minutes: number) =>
+      `In the exam you prepare Teil 1 at home and get 20 minutes for Teil 2 and 3. Here: ${minutes} min for this part – notes allowed.`,
+    chooseFirst: "Choose your topic on the sheet first.",
     startPrep: "Start preparation",
     readyStart: "I'm ready – start speaking",
     startSpeaking: "Start speaking",
@@ -104,6 +108,34 @@ export const speaking = {
     ],
   },
 
+  /** telc B2: what examiners listen for, per part. */
+  selfCheckB2: {
+    "sprechen-1": [
+      "I named my topic and said why I chose it",
+      "I told my experience in a clear order (what, when, where, with whom, what happened)",
+      "I evaluated the experience – what it meant to me, what I learned",
+      "I spoke for about 1½ minutes without reading out notes",
+      "I answered my partner's questions with details",
+      "I asked my partner at least two real follow-up questions about their talk",
+    ],
+    "sprechen-2": [
+      "I summarised the main points of the article briefly in my own words",
+      "I said which arguments I find convincing or interesting – and why",
+      "I gave my own opinion with reasons and an example",
+      "I reacted to my partner's arguments (agreed in part, objected, conceded a point)",
+      "I asked my partner questions and kept the discussion going",
+      "I made a suggestion or a compromise",
+    ],
+    "sprechen-3": [
+      "I brought in several concrete ideas of my own",
+      "I gave reasons for my proposals",
+      "I reacted to my partner's proposals – accepted, questioned or politely rejected them with an alternative",
+      "We negotiated a compromise where we disagreed",
+      "We agreed on who takes care of what",
+      "We summarised the plan at the end",
+    ],
+  },
+
   /** Task for the "record your own turn" mode. */
   monologuePrompt: {
     intro:
@@ -111,6 +143,11 @@ export const speaking = {
     topic: (name: string, theme: string) =>
       `Report the opinion of ${name} to your partner in your own words, then say what you think about „${theme}“ and why, with an example from your life.`,
     planning: "Open the planning: make two or three concrete suggestions for the checklist points and give a reason for each.",
+    experience: (topic: string) =>
+      `Talk for about 1½ minutes about „${topic}“: what happened, when and where, who was there, why it mattered to you and how you see it today.`,
+    discussion: (theme: string) =>
+      `Comment briefly on the article about „${theme}“ (main points, what you find interesting), then give your own opinion with reasons and an example.`,
+    planningB2: "Open the planning: bring in two or three ideas for the project, give reasons and suggest who could take care of what.",
   },
 
   /** "Phrases & ideas" tab. */
@@ -121,6 +158,10 @@ export const speaking = {
     examinerQuestions: "Questions the examiner may ask",
     partnerQuestions: "Questions to ask your partner",
     taskPhrases: "Phrases for this task",
+    structure: "How to structure your 1½ minutes",
+    followUp: "Questions a partner may ask",
+    aspects: "Aspects to think about",
+    aspectsNote: "Your own preparation – the exam sheet shows only the task.",
     vocabulary: "Vocabulary",
   },
 
@@ -207,6 +248,7 @@ export const speaking = {
 
   taskSheet: {
     partnerHidden: "Your partner has a different opinion on this topic – you'll hear it in the conversation.",
+    chooseTopic: "Choose the topic you want to talk about – in the exam you prepare it at home.",
   },
 
   /** Speech recognition errors (src/lib/audio/recognition.ts). */

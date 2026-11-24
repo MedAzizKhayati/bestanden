@@ -1,0 +1,150 @@
+{
+  "id": "hoeren-2-06",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Wache am Ostseestrand",
+  "topic": "sport",
+  "difficulty": 2,
+  "context": "Radiosendung „Sportplatz Sommer“: Der Moderator spricht am Telefon mit einer Rettungsschwimmerin, die am Strand eines Ostseebads Wache hält",
+  "speakers": [
+    { "id": "mod", "name": "Moderator", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "feddersen", "name": "Frau Feddersen", "gender": "f", "age": "young", "role": "Rettungsschwimmerin" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Moin und herzlich willkommen bei „Sportplatz Sommer“, liebe Hörerinnen und Hörer! Heute schauen wir an die Küste, und zwar zu den Menschen, die dafür sorgen, dass beim Baden nichts passiert." },
+    { "s": "mod", "t": "Am Telefon ist Jana Feddersen, Rettungsschwimmerin im Ostseebad Heidkoppel. Frau Feddersen, wo erreichen wir Sie gerade?" },
+    { "s": "feddersen", "t": "Moin! Ich sitz hier oben auf unserem Turm, vor mir der Strand und ganz viel Ostsee. Das Wasser hat heute neunzehn Grad, also perfekt, und entsprechend voll ist es auch." },
+    { "s": "mod", "t": "Sie sind ja ein echter Profi. Das machen Sie hauptberuflich, oder?" },
+    { "s": "feddersen", "t": "Nee, gar nicht, das ist ein Missverständnis, das hör ich ganz oft. Ich bin eigentlich Physiotherapeutin in Leipzig, und hier an der Küste verbringe ich jeden Sommer drei Wochen von meinem Urlaub." },
+    { "s": "mod", "t": "Drei Wochen Urlaub opfern – und das völlig umsonst?" },
+    { "s": "feddersen", "t": "Na ja, nicht ganz umsonst. Wir kriegen eine Unterkunft, Verpflegung und eine kleine Aufwandsentschädigung. Reich wird davon keiner, sag ich mal, aber darum geht's ja auch nicht." },
+    { "s": "mod", "t": "Wie sieht denn so ein ganz normaler Tag bei Ihnen aus?" },
+    { "s": "feddersen", "t": "Um halb neun treffen wir uns an der Station, dann wird die Flagge gehisst und das Boot klargemacht. Von neun bis achtzehn Uhr ist der Turm besetzt." },
+    { "s": "feddersen", "t": "Oben wechseln wir uns ungefähr jede Stunde ab, weil man sich sonst einfach nicht mehr richtig konzentrieren kann." },
+    { "s": "mod", "t": "Und was passiert dann den ganzen Tag? Ich stell mir das ziemlich dramatisch vor." },
+    { "s": "feddersen", "t": "Das denken alle, aber das meiste ist eigentlich Kleinkram. Ganz oben auf der Liste stehen Kinder, die ihre Eltern verloren haben – oder umgekehrt, je nachdem, wie man's sieht." },
+    { "s": "feddersen", "t": "Danach kommen Wespenstiche und kleine Schnittwunden von Muscheln. Und ab und zu eine Feuerqualle, die tut dann richtig weh." },
+    { "s": "mod", "t": "Gibt es auch Gäste, die Ihnen das Leben schwer machen?" },
+    { "s": "feddersen", "t": "Die schlimmsten Gäste sind ehrlich gesagt die Möwen. Die klauen den Leuten die Fischbrötchen direkt aus der Hand, da sind die völlig schmerzfrei." },
+    { "s": "feddersen", "t": "Letzte Woche hat eine einem älteren Herrn sogar die Sonnenbrille vom Kopf gerissen. Die haben wir dann zwei Strandkörbe weiter im Sand gefunden – die Brille, nicht die Möwe." },
+    { "s": "mod", "t": "Und der Ernstfall? Mussten Sie schon mal jemanden richtig retten?" },
+    { "s": "feddersen", "t": "Ja, letzten Sommer. Da hatten wir ablandigen Wind, also Wind, der vom Strand aufs Meer hinausweht, und ein Mann ist auf seinem Paddelbrett immer weiter rausgetrieben." },
+    { "s": "feddersen", "t": "Ich hab ihn durchs Fernglas beobachtet, und irgendwann war er bestimmt sechshundert Meter draußen. Mein Kollege Hauke ist dann sofort mit dem Motorboot raus." },
+    { "s": "feddersen", "t": "Ich selbst musste leider auf dem Turm bleiben, sonst hätte ja keiner mehr den Strand im Blick gehabt." },
+    { "s": "mod", "t": "Und der Mann war bestimmt heilfroh, oder?" },
+    { "s": "feddersen", "t": "Von wegen! Der war erst mal richtig beleidigt und meinte, er hätte das auch allein zurück geschafft. Gegen diesen Wind – keine Chance." },
+    { "s": "feddersen", "t": "Am nächsten Morgen stand er dann aber mit einem riesigen Butterkuchen vor der Station. Ich glaub, im Nachhinein ist ihm klar geworden, wie knapp das war." },
+    { "s": "mod", "t": "Viele Urlauber halten die Ostsee ja für ein eher harmloses Meer, gerade im Vergleich zur Nordsee. Es gibt ja keine Ebbe und Flut." },
+    { "s": "feddersen", "t": "Genau das ist leider ein gefährlicher Irrtum. Gezeiten haben wir zwar keine, aber an den Buhnen, also diesen Holzwänden, die ins Wasser gebaut sind, entstehen Strömungen." },
+    { "s": "feddersen", "t": "Und die ziehen einen ganz schnell raus, auch gute Schwimmer. Bei Sturm werden die Wellen hier außerdem locker zwei Meter hoch." },
+    { "s": "mod", "t": "Woran erkennen die Badegäste denn, ob es gefährlich ist?" },
+    { "s": "feddersen", "t": "An den Flaggen. Rot-gelb heißt: Hier wird bewacht. Rot heißt Badeverbot, das verstehen eigentlich auch alle." },
+    { "s": "feddersen", "t": "Aber mit der gelben Flagge haben viele ein Problem. Die halten das für so eine Art freundliche Empfehlung, dabei bedeutet sie, dass Kinder und ungeübte Schwimmer auf keinen Fall ins Wasser sollten." },
+    { "s": "mod", "t": "Man hört ja immer wieder, dass immer weniger Kinder richtig schwimmen können. Merken Sie das am Strand?" },
+    { "s": "feddersen", "t": "Also, Zahlen hab ich dazu keine, das ist wirklich nur mein persönlicher Eindruck. Aber ich hab schon das Gefühl, dass es jedes Jahr mehr Kinder gibt, die im Wasser ziemlich unsicher sind." },
+    { "s": "feddersen", "t": "Und wenn ich dann höre, dass in manchen Schulen der Schwimmunterricht ausfällt, weil das nächste Hallenbad geschlossen ist, macht mir das schon Sorgen." },
+    { "s": "mod", "t": "Was raten Sie Eltern, die mit kleinen Kindern an den Strand kommen?" },
+    { "s": "feddersen", "t": "Ganz einfach: Kinder nie aus den Augen lassen, auch nicht für fünf Minuten. Schwimmflügel sind schön und gut, aber die ersetzen keine Aufsicht, das muss man ganz klar sagen." },
+    { "s": "mod", "t": "Kommen Sie nächsten Sommer wieder nach Heidkoppel?" },
+    { "s": "feddersen", "t": "Auf jeden Fall! Man hat mich gefragt, ob ich nächstes Jahr als Wachführerin die Station leiten will. Dafür muss ich im Winter aber erst noch einen Lehrgang machen." },
+    { "s": "feddersen", "t": "Angemeldet hab ich mich schon, im Februar geht's los. Und wenn ich die Prüfung bestehe, sitz ich nächsten Sommer hier oben als Chefin." },
+    { "s": "mod", "t": "Dann drücken wir die Daumen! Jana Feddersen, vielen Dank und weiterhin ruhige Tage am Strand." },
+    { "s": "feddersen", "t": "Danke! Und denken Sie dran: Am besten immer da baden, wo die rot-gelbe Flagge weht." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Für ihren Einsatz an der Küste nimmt sich Frau Feddersen Urlaub.",
+      "answer": true,
+      "explanation": "The presenter thinks she is a professional lifeguard, but she is a physiotherapist and spends „jeden Sommer drei Wochen von meinem Urlaub“ at the coast.",
+      "explanationDe": "Der Moderator hält sie für eine hauptberufliche Rettungsschwimmerin. Sie ist aber Physiotherapeutin und verbringt „jeden Sommer drei Wochen von meinem Urlaub“ an der Küste.",
+      "evidence": "hier an der Küste verbringe ich jeden Sommer drei Wochen von meinem Urlaub"
+    },
+    {
+      "n": 2,
+      "text": "Die Rettungsschwimmer bekommen für ihre Arbeit nur wenig Geld.",
+      "answer": true,
+      "explanation": "Not „völlig umsonst“, as the presenter suggests: they get board and lodging and „eine kleine Aufwandsentschädigung“ – „Reich wird davon keiner“.",
+      "explanationDe": "Nicht „völlig umsonst“, wie der Moderator meint: Sie bekommen Unterkunft, Verpflegung und „eine kleine Aufwandsentschädigung“ – „Reich wird davon keiner“.",
+      "evidence": "eine kleine Aufwandsentschädigung"
+    },
+    {
+      "n": 3,
+      "text": "Am häufigsten müssen die Rettungsschwimmer kleinere Verletzungen von Badegästen versorgen.",
+      "answer": false,
+      "explanation": "Small injuries only come second („Danach kommen Wespenstiche …“). Top of the list: „Ganz oben auf der Liste stehen Kinder, die ihre Eltern verloren haben“.",
+      "explanationDe": "Kleine Verletzungen kommen erst an zweiter Stelle („Danach kommen Wespenstiche …“). Ganz vorne liegen verlorene Kinder: „Ganz oben auf der Liste stehen Kinder, die ihre Eltern verloren haben“.",
+      "evidence": "Ganz oben auf der Liste stehen Kinder, die ihre Eltern verloren haben"
+    },
+    {
+      "n": 4,
+      "text": "Frau Feddersen ist mit dem Boot zu dem Mann auf dem Paddelbrett hinausgefahren.",
+      "answer": false,
+      "explanation": "Wrong person: she only watched him through binoculars. „Mein Kollege Hauke ist dann sofort mit dem Motorboot raus“ – she had to stay on the tower.",
+      "explanationDe": "Falsche Person: Sie hat ihn nur durchs Fernglas beobachtet. „Mein Kollege Hauke ist dann sofort mit dem Motorboot raus“ – sie selbst musste auf dem Turm bleiben.",
+      "evidence": "Mein Kollege Hauke ist dann sofort mit dem Motorboot raus."
+    },
+    {
+      "n": 5,
+      "text": "Der Mann auf dem Paddelbrett war über die Rettung zunächst nicht erfreut.",
+      "answer": true,
+      "explanation": "The presenter expects him to be relieved, but „Von wegen!“ – „Der war erst mal richtig beleidigt“. Only the next morning did he bring a cake.",
+      "explanationDe": "Der Moderator erwartet, dass er froh war, aber „Von wegen!“ – „Der war erst mal richtig beleidigt“. Erst am nächsten Morgen kam er mit einem Kuchen.",
+      "evidence": "Der war erst mal richtig beleidigt"
+    },
+    {
+      "n": 6,
+      "text": "Frau Feddersen hält die Ostsee für ungefährlich, weil es dort keine Gezeiten gibt.",
+      "answer": false,
+      "explanation": "According to the presenter, many tourists think so. She calls it „ein gefährlicher Irrtum“: there are no tides, but strong currents near the groynes.",
+      "explanationDe": "So denken laut Moderator viele Urlauber. Sie nennt das „ein gefährlicher Irrtum“: Gezeiten gibt es zwar nicht, aber starke Strömungen an den Buhnen.",
+      "evidence": "Genau das ist leider ein gefährlicher Irrtum."
+    },
+    {
+      "n": 7,
+      "text": "Viele Badegäste nehmen die gelbe Flagge nicht ernst genug.",
+      "answer": true,
+      "explanation": "Red is understood by everyone, but people treat yellow as advice: „Die halten das für so eine Art freundliche Empfehlung“, although it means children and weak swimmers must stay out.",
+      "explanationDe": "Rot verstehen alle, aber Gelb sehen viele nur als Tipp: „Die halten das für so eine Art freundliche Empfehlung“ – dabei sollen Kinder und ungeübte Schwimmer dann nicht ins Wasser.",
+      "evidence": "Die halten das für so eine Art freundliche Empfehlung"
+    },
+    {
+      "n": 8,
+      "text": "Ihre Sorge um unsichere Schwimmer begründet Frau Feddersen mit Statistiken.",
+      "answer": false,
+      "explanation": "Opinion, not data: „Zahlen hab ich dazu keine, das ist wirklich nur mein persönlicher Eindruck.“",
+      "explanationDe": "Das ist eine Meinung, keine Statistik: „Zahlen hab ich dazu keine, das ist wirklich nur mein persönlicher Eindruck.“",
+      "evidence": "Zahlen hab ich dazu keine, das ist wirklich nur mein persönlicher Eindruck."
+    },
+    {
+      "n": 9,
+      "text": "Frau Feddersen hält Schwimmflügel für einen ausreichenden Schutz für kleine Kinder.",
+      "answer": false,
+      "explanation": "„Schwimmflügel sind schön und gut“ sounds positive, but she continues „aber die ersetzen keine Aufsicht“ – parents must never take their eyes off their children.",
+      "explanationDe": "„Schwimmflügel sind schön und gut“ klingt positiv, aber dann sagt sie: „aber die ersetzen keine Aufsicht“ – Eltern müssen ihre Kinder immer im Blick behalten.",
+      "evidence": "aber die ersetzen keine Aufsicht"
+    },
+    {
+      "n": 10,
+      "text": "Für eine Weiterbildung im Winter hat sich Frau Feddersen bereits angemeldet.",
+      "answer": true,
+      "explanation": "To lead the station she needs a course first, and „Angemeldet hab ich mich schon“. Whether she becomes the boss is still open – it depends on the exam.",
+      "explanationDe": "Um die Station zu leiten, braucht sie erst einen Lehrgang, und „Angemeldet hab ich mich schon“. Ob sie Chefin wird, ist noch offen – das hängt von der Prüfung ab.",
+      "evidence": "Angemeldet hab ich mich schon, im Februar geht's los."
+    }
+  ],
+  "glossary": [
+    { "de": "der Rettungsschwimmer / die Rettungsschwimmerin", "en": "lifeguard" },
+    { "de": "die Aufwandsentschädigung", "en": "expense allowance" },
+    { "de": "die Flagge hissen", "en": "to raise the flag" },
+    { "de": "ablandiger Wind", "en": "offshore wind (blowing from the land out to sea)" },
+    { "de": "beleidigt sein", "en": "to be offended, to be in a huff" },
+    { "de": "die Gezeiten (Pl.) / Ebbe und Flut", "en": "tides" },
+    { "de": "die Buhne", "en": "groyne (low wall built out into the sea)" },
+    { "de": "die Strömung", "en": "current" },
+    { "de": "ungeübt", "en": "inexperienced, out of practice" },
+    { "de": "die Aufsicht", "en": "supervision" },
+    { "de": "der Lehrgang", "en": "training course" },
+    { "de": "jemandem die Daumen drücken", "en": "to keep one's fingers crossed for someone" }
+  ]
+}

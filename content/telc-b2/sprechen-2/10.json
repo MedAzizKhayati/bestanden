@@ -1,0 +1,104 @@
+{
+  "id": "sprechen-2-10",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Eintritt für die Altstadt",
+  "topic": "reisen",
+  "difficulty": 2,
+  "theme": "Sollten beliebte Städte von Tagestouristen Eintritt verlangen?",
+  "article": {
+    "headline": "Sechs Euro für die Altstadt: Brunnhofen zieht Bilanz",
+    "lead": "Seit Mai verlangt Brunnhofen an besonders gefragten Tagen Eintritt von Tagestouristen. Nach der ersten Saison zieht die Stadtverwaltung eine positive Bilanz – doch längst nicht alle teilen ihre Begeisterung.",
+    "paragraphs": [
+      "Wer nicht in Brunnhofen übernachtet, muss an 30 ausgewählten Tagen im Jahr sechs Euro zahlen, bevor er die historische Altstadt betreten darf. Das Ticket wird online gebucht und als QR-Code an den Zugängen kontrolliert. Hotelgäste, Einheimische, Berufspendler und Kinder unter 14 Jahren sind von der Gebühr befreit.",
+      "Hintergrund des Pilotprojekts ist der Ansturm der vergangenen Jahre: An Spitzentagen drängten sich bis zu 25.000 Tagesgäste durch die engen Gassen – bei gerade einmal 9.000 Menschen, die in der Altstadt wohnen. Nach Angaben der Stadtverwaltung ging die Zahl der Tagesbesucher an den gebührenpflichtigen Tagen um 18 Prozent zurück, gleichzeitig nahm die Stadt rund 1,3 Millionen Euro ein. Das Geld soll in die Müllentsorgung, zusätzliche öffentliche Toiletten und die Sanierung der Stadtmauer fließen.",
+      "„Zum ersten Mal seit Jahren konnte ich an einem Samstag ohne Gedränge zum Bäcker gehen“, erzählt Gertrud Bachhuber, die seit 40 Jahren am Marktplatz lebt. In einer Befragung der Stadt sprachen sich 68 Prozent der Bewohnerinnen und Bewohner dafür aus, das Modell fortzusetzen.",
+      "Der örtliche Einzelhandel sieht das deutlich kritischer. Mehrere Souvenirläden und Cafés meldeten an den betroffenen Tagen Umsatzeinbußen von bis zu einem Viertel. „Wer seine Gäste mit einer Gebühr begrüßt, darf sich nicht wundern, wenn sie wegbleiben“, warnt Matthias Kranz vom Gewerbeverein. Sozialverbände kritisieren zudem, dass ein Tagesausflug für Familien mit geringem Einkommen nun noch teurer werde.",
+      "Die Tourismusforscherin Carola Wachtel hält Eintrittsgelder grundsätzlich für ein geeignetes Instrument, allerdings nur als Teil eines Gesamtkonzepts. „Eine Gebühr allein verteilt die Besucherströme nicht. Entscheidend ist, dass eine Stadt auch Reisebusse, Parkplätze und ihre eigene Werbung gezielt steuert.“ Der Stadtrat will im Februar entscheiden, ob die Gebühr dauerhaft eingeführt wird."
+    ],
+    "source": "Tauber-Bote, Reise und Region"
+  },
+  "ideas": {
+    "pro": [
+      "weniger Gedränge und mehr Lebensqualität für die Anwohner",
+      "Einnahmen für Müllentsorgung, Toiletten und Denkmalpflege",
+      "Besucherströme lassen sich besser planen und verteilen",
+      "Tagesgäste beteiligen sich an den Kosten, die sie verursachen",
+      "Übernachtungsgäste, die mehr Geld in der Stadt lassen, werden bevorzugt"
+    ],
+    "contra": [
+      "Straßen und Plätze sollten für alle frei zugänglich bleiben",
+      "Umsatzeinbußen für Geschäfte, Cafés und Restaurants",
+      "sozial ungerecht für Familien mit geringem Einkommen",
+      "hoher Aufwand für Buchungssystem und Kontrollen",
+      "eine Gebühr allein löst das Problem der Massen nicht",
+      "die Stadt wirkt wie ein Freizeitpark"
+    ]
+  },
+  "questions": [
+    "Wären Sie bereit, für den Besuch einer Stadt Eintritt zu bezahlen? Unter welchen Bedingungen?",
+    "Welche Erfahrungen haben Sie mit überfüllten Sehenswürdigkeiten oder Altstädten gemacht?",
+    "Welche anderen Maßnahmen gegen zu viele Touristen halten Sie für sinnvoll?",
+    "Wer sollte Ihrer Meinung nach von einer solchen Gebühr befreit sein?",
+    "Welche Vor- und Nachteile bringt der Tourismus für die Menschen, die in einer Stadt leben?",
+    "Wie geht man in Ihrem Heimatland mit Massentourismus um?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Arvid Holm", "gender": "m", "age": "adult", "role": "Teilnehmer A" },
+    { "id": "B", "name": "Giorgia Lombardi", "gender": "f", "age": "adult", "role": "Teilnehmerin B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "P", "t": "Sie haben beide den Artikel über eine Eintrittsgebühr für Tagestouristen gelesen. Bitte fassen Sie den Text zunächst kurz zusammen und diskutieren Sie dann miteinander." },
+    { "s": "A", "t": "Gut, dann fange ich an. Der Artikel berichtet über die Stadt Brunnhofen, die seit Mai an dreißig besonders gefragten Tagen sechs Euro Eintritt von Tagesgästen verlangt. Wer dort übernachtet oder wohnt, muss nichts bezahlen." },
+    { "s": "A", "t": "Laut der Stadtverwaltung sei die Zahl der Tagesbesucher an diesen Tagen um achtzehn Prozent zurückgegangen, und die Stadt habe über eine Million Euro eingenommen. Die Mehrheit der Einwohner möchte das Modell fortsetzen, weil es in der Altstadt endlich ruhiger geworden ist." },
+    { "s": "A", "t": "Die Geschäftsleute sehen das allerdings kritisch, weil manche Läden und Cafés an diesen Tagen bis zu einem Viertel weniger Umsatz gemacht haben." },
+    { "s": "B", "t": "Ich möchte noch einen Aspekt ergänzen, den ich interessant fand. Eine Tourismusforscherin betont, dass eine Gebühr allein nicht ausreiche, sondern nur als Teil eines Gesamtkonzepts funktioniere. Außerdem kritisieren Sozialverbände, dass Ausflüge für ärmere Familien noch teurer würden." },
+    { "s": "A", "t": "Genau. Und was hältst du persönlich davon? Würdest du für einen Spaziergang durch eine Altstadt Eintritt bezahlen?" },
+    { "s": "B", "t": "Ehrlich gesagt finde ich die Idee ziemlich befremdlich. Eine Stadt ist doch kein Museum und auch kein Freizeitpark. Straßen und Plätze gehören allen und sollten frei zugänglich bleiben." },
+    { "s": "A", "t": "Das sehe ich anders. Ich habe zwei Sommer lang in einem kleinen Ort in den Alpen gearbeitet, und dort standen jeden Tag Dutzende Reisebusse. Die Einwohner hatten den Lärm und den Müll, aber kaum etwas davon." },
+    { "s": "B", "t": "Kaum etwas davon? Die Touristen kaufen doch Souvenirs, gehen essen und sichern Arbeitsplätze. Das zeigt ja auch der Artikel: Sobald weniger Gäste kommen, verlieren die Geschäfte Geld." },
+    { "s": "A", "t": "Das stimmt zwar, aber Tagesgäste geben im Vergleich zu Hotelgästen relativ wenig aus. Viele bringen ihr Essen sogar mit und fahren nach drei Stunden wieder weg." },
+    { "s": "B", "t": "Das mag sein. Trotzdem halte ich es für ungerecht, dass ausgerechnet Familien mit wenig Geld benachteiligt werden. Wenn die Kinder schon älter als vierzehn sind, zahlt eine vierköpfige Familie vierundzwanzig Euro, bevor sie überhaupt ein Eis gekauft hat." },
+    { "s": "A", "t": "Das ist ein berechtigter Einwand. Man könnte die Gebühr aber auf Wochenenden und Feiertage beschränken. Wer unter der Woche kommt, zahlt nichts und erlebt die Stadt sogar entspannter." },
+    { "s": "B", "t": "Das setzt allerdings voraus, dass man unter der Woche frei hat. Schüler und Berufstätige können meistens nur am Wochenende verreisen." },
+    { "s": "A", "t": "Stimmt, daran habe ich nicht gedacht. Wie ist das eigentlich in Italien? Dort gibt es doch auch viele Städte, die unter dem Massentourismus leiden." },
+    { "s": "B", "t": "Ja, in Venedig wird so eine Gebühr schon ausprobiert. Meine Cousine wohnt dort und erzählt, dass die Gassen trotzdem voll sind. Für viele Touristen ist der Betrag einfach zu niedrig, um sie abzuschrecken." },
+    { "s": "A", "t": "Das passt genau zu dem, was die Forscherin im Artikel sagt. Vielleicht wäre es wirksamer, die Zahl der Reisebusse zu begrenzen und das Parken in der Innenstadt deutlich teurer zu machen." },
+    { "s": "B", "t": "Das halte ich für eine gute Idee, weil sie die großen Reisegruppen trifft und nicht den einzelnen Besucher. Mit den Einnahmen könnte man außerdem einen kostenlosen Pendelbus vom Stadtrand in die Altstadt finanzieren." },
+    { "s": "A", "t": "Wäre es nicht trotzdem sinnvoll, die Gebühr an einigen Spitzentagen beizubehalten? Die Anwohner haben schließlich auch ein Recht darauf, samstags in Ruhe einzukaufen." },
+    { "s": "B", "t": "Einverstanden, aber nur unter zwei Bedingungen: Es muss Ermäßigungen für Familien mit geringem Einkommen geben, und die Stadt muss offenlegen, wofür sie das Geld verwendet." },
+    { "s": "A", "t": "Damit kann ich gut leben. Also halten wir fest: Eintritt nur an den vollsten Tagen, soziale Ausnahmen und zusätzlich klare Regeln für Reisebusse." },
+    { "s": "B", "t": "Genau. Ganz überzeugt bin ich vom Eintritt zwar immer noch nicht, aber als Teil eines Gesamtkonzepts kann ich ihn mir vorstellen." },
+    { "s": "P", "t": "Vielen Dank. Wären Sie persönlich bereit, für den Besuch einer Stadt Eintritt zu bezahlen?" },
+    { "s": "A", "t": "Ja, wenn ich sicher weiß, dass das Geld wirklich der Stadt zugutekommt, zum Beispiel für saubere Toiletten oder die Restaurierung alter Gebäude." },
+    { "s": "B", "t": "Ich eher nicht. Dann würde ich lieber eine weniger bekannte Stadt in der Nähe besuchen, und das wäre vielleicht sogar ein positiver Nebeneffekt." }
+  ],
+  "phrases": [
+    { "de": "Der Artikel berichtet über …", "en": "The article reports on …" },
+    { "de": "Laut der Stadtverwaltung sei …", "en": "According to the city administration, … (reported speech)" },
+    { "de": "Ich möchte noch einen Aspekt ergänzen, den ich interessant fand.", "en": "I'd like to add an aspect I found interesting." },
+    { "de": "Ehrlich gesagt finde ich die Idee ziemlich befremdlich.", "en": "To be honest, I find the idea rather strange." },
+    { "de": "Das sehe ich anders.", "en": "I see it differently." },
+    { "de": "Das mag sein. Trotzdem halte ich es für …, dass …", "en": "That may be. Still, I think it is … that …" },
+    { "de": "Das ist ein berechtigter Einwand.", "en": "That's a fair objection." },
+    { "de": "Das setzt allerdings voraus, dass …", "en": "That assumes, however, that …" },
+    { "de": "Wäre es nicht trotzdem sinnvoll, …?", "en": "Wouldn't it still make sense to …?" },
+    { "de": "Einverstanden, aber nur unter zwei Bedingungen: …", "en": "Agreed, but only on two conditions: …" },
+    { "de": "Damit kann ich gut leben.", "en": "I can live with that." },
+    { "de": "Also halten wir fest: …", "en": "So let's sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "der Tagestourist / der Tagesgast", "en": "day tripper" },
+    { "de": "die Eintrittsgebühr", "en": "entrance fee" },
+    { "de": "das Gedränge", "en": "crush, crowding" },
+    { "de": "der Ansturm", "en": "rush, onslaught (of visitors)" },
+    { "de": "die Besucherströme lenken", "en": "to steer the flow of visitors" },
+    { "de": "die Umsatzeinbuße", "en": "drop in sales" },
+    { "de": "der Anwohner / die Anwohnerin", "en": "local resident" },
+    { "de": "von einer Gebühr befreit sein", "en": "to be exempt from a fee" },
+    { "de": "der Massentourismus", "en": "mass tourism" },
+    { "de": "die Lebensqualität", "en": "quality of life" },
+    { "de": "jemandem zugutekommen", "en": "to benefit someone" }
+  ]
+}

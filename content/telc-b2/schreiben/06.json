@@ -1,0 +1,59 @@
+{
+  "id": "schreiben-06",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Beschädigte Möbel, späte Lieferung",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Reklamation",
+  "situation": "Sie haben bei dem Online-Möbelhändler „Holzwerk Nord“ das folgende Esstisch-Set bestellt. Die Möbel kamen viel später als versprochen, und einige Teile waren beschädigt. Schreiben Sie eine Reklamation an den Kundenservice.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Holzwerk Nord – Massivholzmöbel direkt vom Hersteller\n\nEsstisch-Set „Kopenhagen“\nTisch aus geölter Eiche, 200 × 100 cm, ausziehbar auf 280 cm, mit sechs passenden Stühlen mit Leinenbezug\nSet-Preis: 1.890 Euro\n\n• Lieferung innerhalb von zehn Werktagen – garantiert!\n• Premium-Service: Lieferung bis in Ihre Wohnung, Aufbau durch unser Fachpersonal, Mitnahme der Verpackung\n• Liefertermin nach Ihren Wünschen – wir kündigen uns einen Tag vorher telefonisch an\n• 30 Tage Rückgaberecht, fünf Jahre Garantie auf alle Möbel\n\nKundenservice: service@holzwerk-nord-moebel.de · Mo.–Fr. 8–18 Uhr"
+  },
+  "leitpunkte": [
+    "Legen Sie dar, welche Schäden Sie festgestellt haben.",
+    "Erläutern Sie, welche Folgen die verspätete Lieferung für Sie hatte.",
+    "Erklären Sie, was Sie von Holzwerk Nord erwarten.",
+    "Beschreiben Sie, wie die Lieferung abgelaufen ist."
+  ],
+  "model": {
+    "subject": "Reklamation – Bestellung Nr. 58-2291, Esstisch-Set „Kopenhagen“",
+    "text": "Sehr geehrte Damen und Herren,\n\nAnfang Oktober habe ich bei Ihnen das Esstisch-Set „Kopenhagen“ zum Preis von 1.890 Euro bestellt. Leider bin ich mit der Lieferung in keiner Weise zufrieden und möchte die Ware deshalb reklamieren.\n\nObwohl Sie eine Lieferung innerhalb von zehn Werktagen garantieren, wurden die Möbel erst nach knapp fünf Wochen geliefert, und zwar ohne vorherige Ankündigung an einem Vormittag, an dem ich zufällig im Homeoffice war. Statt des versprochenen Premium-Services stellten die beiden Fahrer die Kartons lediglich im Treppenhaus ab und fuhren sofort weiter. Den Tisch musste ich deshalb mit einem Nachbarn selbst aufbauen, und die Verpackung lagert noch immer in meinem Keller.\n\nBeim Auspacken habe ich außerdem mehrere Schäden festgestellt. Die Tischplatte weist an einer Ecke einen etwa zehn Zentimeter langen, tiefen Kratzer auf. Bei zwei Stühlen ist der Leinenbezug eingerissen, und an einem davon wackelt zudem ein Bein so stark, dass man nicht sicher darauf sitzen kann. Fotos der Schäden habe ich dieser E-Mail beigefügt.\n\nIch erwarte, dass die beiden beschädigten Stühle innerhalb von zwei Wochen kostenlos ausgetauscht werden. Für den Kratzer in der Tischplatte halte ich eine Preisminderung von 15 Prozent für angemessen. Darüber hinaus bitte ich Sie, die Verpackung abholen zu lassen. Sollte ich innerhalb von zehn Tagen keine Antwort erhalten, sehe ich mich gezwungen, von meinem Rückgaberecht Gebrauch zu machen.\n\nMit freundlichen Grüßen\nMehmet Kaya"
+  },
+  "modelNotes": [
+    "The model covers point 4 (how the delivery went), point 1 (the damage) and point 3 (what the writer expects). Point 2 (consequences of the delay) is left out: the delay is mentioned in one clause, but one sentence never counts as a developed point – so the writer spends his words on the damage and the demands instead.",
+    "A „Reklamation“ is about faulty goods: the defects are described precisely (size and position of the scratch, which chairs, what exactly is wrong) and backed up with photos.",
+    "Each broken promise is contrasted with the ad: „Obwohl Sie … garantieren, …“, „Statt des versprochenen Premium-Services …“.",
+    "The demands are concrete and graded – exchange, price reduction, collection of the packaging – and end with a polite but clear consequence („Sollte ich … keine Antwort erhalten, sehe ich mich gezwungen, … Gebrauch zu machen“).",
+    "B2 structures: passive („wurden … geliefert“, „ausgetauscht werden“), causative „lassen“ („abholen zu lassen“), „und zwar“, „so stark, dass …“ and noun–verb combinations („einen Kratzer aufweisen“, „von etwas Gebrauch machen“, „sich gezwungen sehen“)."
+  ],
+  "modelNotesDe": [
+    "Das Modell behandelt Punkt 4 (wie die Lieferung abgelaufen ist), Punkt 1 (die Schäden) und Punkt 3 (was der Schreiber erwartet). Punkt 2 (Folgen der Verspätung) fehlt: Die Verspätung wird zwar in einem Nebensatz erwähnt, aber ein einzelner Satz zählt nie als ausgeführter Punkt – deshalb nutzt der Schreiber seine Wörter lieber für die Schäden und die Forderungen.",
+    "Bei einer „Reklamation“ geht es um mangelhafte Ware: Die Mängel werden genau beschrieben (Größe und Stelle des Kratzers, welche Stühle, was genau kaputt ist) und mit Fotos belegt.",
+    "Jedes gebrochene Versprechen wird der Anzeige gegenübergestellt: „Obwohl Sie … garantieren, …“, „Statt des versprochenen Premium-Services …“.",
+    "Die Forderungen sind konkret und abgestuft – Austausch, Preisminderung, Abholung der Verpackung – und enden mit einer höflichen, aber klaren Konsequenz („Sollte ich … keine Antwort erhalten, sehe ich mich gezwungen, … Gebrauch zu machen“).",
+    "B2-Strukturen: Passiv („wurden … geliefert“, „ausgetauscht werden“), „lassen“ im Sinne von „veranlassen“ („abholen zu lassen“), „und zwar“, „so stark, dass …“ und Nomen-Verb-Verbindungen („einen Kratzer aufweisen“, „von etwas Gebrauch machen“, „sich gezwungen sehen“)."
+  ],
+  "phrases": [
+    { "de": "Leider bin ich mit der Lieferung in keiner Weise zufrieden.", "en": "Unfortunately, I am not at all satisfied with the delivery." },
+    { "de": "Ich möchte die Ware deshalb reklamieren.", "en": "I would therefore like to make a claim about the goods." },
+    { "de": "Obwohl Sie … garantieren, wurden die Möbel erst nach … geliefert.", "en": "Although you guarantee …, the furniture was only delivered after …" },
+    { "de": "Die Tischplatte weist einen … Kratzer auf.", "en": "The table top has a … scratch." },
+    { "de": "Fotos der Schäden habe ich dieser E-Mail beigefügt.", "en": "I have attached photos of the damage to this e-mail." },
+    { "de": "Ich erwarte, dass … kostenlos ausgetauscht werden.", "en": "I expect … to be replaced free of charge." },
+    { "de": "Für … halte ich eine Preisminderung von … Prozent für angemessen.", "en": "For … I consider a price reduction of … per cent appropriate." },
+    { "de": "Sollte ich keine Antwort erhalten, sehe ich mich gezwungen, von meinem Rückgaberecht Gebrauch zu machen.", "en": "Should I receive no reply, I will be forced to exercise my right of return." }
+  ],
+  "glossary": [
+    { "de": "die Reklamation", "en": "complaint about faulty goods (claim)" },
+    { "de": "der Werktag", "en": "working day" },
+    { "de": "die Ankündigung", "en": "advance notice" },
+    { "de": "einen Kratzer aufweisen", "en": "to have a scratch" },
+    { "de": "eingerissen", "en": "torn" },
+    { "de": "wackeln", "en": "to wobble" },
+    { "de": "das Rückgaberecht", "en": "right of return" },
+    { "de": "von etwas Gebrauch machen", "en": "to make use of something" }
+  ]
+}

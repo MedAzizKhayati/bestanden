@@ -1,0 +1,109 @@
+{
+  "id": "hoeren-3-08",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Umzug, Fundsachen und Seehunde",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "fundbuero", "gender": "f", "age": "adult", "role": "Telefonansage des Fundbüros" },
+    { "id": "bibliothek", "gender": "m", "age": "young", "role": "Lautsprecheransage" },
+    { "id": "tierpark", "gender": "f", "age": "young", "role": "Lautsprecheransage" },
+    { "id": "umzug", "name": "Herr Brückner", "gender": "m", "age": "senior", "role": "Brückner Umzüge" },
+    { "id": "verkehr", "gender": "m", "age": "adult", "role": "Verkehrsredaktion" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Ansage des Fundbüros",
+      "context": "Sie hören die Ansage einer Service-Hotline.",
+      "script": [
+        { "s": "fundbuero", "t": "Willkommen beim Fundbüro der Städtischen Verkehrsbetriebe. Sie haben etwas in einem unserer Busse oder in einer Straßenbahn verloren?" },
+        { "s": "fundbuero", "t": "Dann melden Sie den Verlust bitte über das Formular auf unserer Internetseite. Fundsachen werden erst nach zwei bis drei Tagen aus den Fahrzeugen zu uns gebracht, ein Anruf am selben Tag hilft Ihnen deshalb leider nicht weiter." },
+        { "s": "fundbuero", "t": "Abholen können Sie Ihre Sachen montags bis freitags im Kundenzentrum am Hauptbahnhof. Bringen Sie dafür bitte Ihren Ausweis mit; für die Aufbewahrung berechnen wir eine Gebühr von 5 Euro." }
+      ],
+      "statement": "Wer am selben Tag anruft, erfährt sofort, ob sein verlorener Gegenstand gefunden wurde.",
+      "answer": false,
+      "explanation": "Lost items reach the office only „nach zwei bis drei Tagen“, so „ein Anruf am selben Tag hilft Ihnen deshalb leider nicht weiter“. You are asked to report the loss via the online form instead.",
+      "explanationDe": "Fundsachen kommen erst „nach zwei bis drei Tagen“ ins Fundbüro. Darum sagt die Ansage: „ein Anruf am selben Tag hilft Ihnen … leider nicht weiter“. Melde den Verlust besser über das Formular im Internet.",
+      "evidence": "ein Anruf am selben Tag hilft Ihnen deshalb leider nicht weiter"
+    },
+    {
+      "n": 2,
+      "label": "Durchsage in der Bibliothek",
+      "context": "Sie hören eine Durchsage in einer Bibliothek.",
+      "script": [
+        { "s": "bibliothek", "t": "Geschätzte Besucherinnen und Besucher, die Stadtbibliothek Winterthur schließt in 15 Minuten. Bitte beenden Sie Ihre Arbeit und vergessen Sie Ihre persönlichen Sachen nicht." },
+        { "s": "bibliothek", "t": "Medien, die Sie heute noch ausleihen möchten, verbuchen Sie bitte selbst an den Geräten im Erdgeschoss, denn die Ausleihtheke ist bereits geschlossen." },
+        { "s": "bibliothek", "t": "Rückgaben sind auch nach der Schließung jederzeit über den Rückgabekasten beim Seiteneingang möglich." },
+        { "s": "bibliothek", "t": "Bitte beachten Sie außerdem: Am kommenden Samstag öffnen wir wegen einer internen Weiterbildung erst um 13 Uhr, dafür bleiben wir an diesem Tag bis 20 Uhr geöffnet." }
+      ],
+      "statement": "Wer am kommenden Samstag in die Bibliothek möchte, kann erst am frühen Nachmittag kommen.",
+      "answer": true,
+      "explanation": "On Saturday the library opens „erst um 13 Uhr“ – in the early afternoon – because of internal training. In return it stays open until 20 Uhr.",
+      "explanationDe": "Am Samstag öffnet die Bibliothek „erst um 13 Uhr“, also am frühen Nachmittag, weil es eine interne Weiterbildung gibt. Dafür bleibt sie bis 20 Uhr geöffnet.",
+      "evidence": "Am kommenden Samstag öffnen wir wegen einer internen Weiterbildung erst um 13 Uhr"
+    },
+    {
+      "n": 3,
+      "label": "Durchsage im Tierpark",
+      "context": "Sie hören eine Durchsage in einem Tierpark.",
+      "script": [
+        { "s": "tierpark", "t": "Liebe Besucherinnen und Besucher, eine Information zu unserem Nachmittagsprogramm: Die Fütterung der Seehunde findet heute ausnahmsweise nicht um 15 Uhr, sondern bereits um 14 Uhr 30 statt." },
+        { "s": "tierpark", "t": "Die Pinguinparade fällt wegen der Hitze leider aus. Dafür öffnet unser neues Affenhaus um 16 Uhr zum ersten Mal seine Türen." },
+        { "s": "tierpark", "t": "Und bitte beachten Sie: Das Streichelgehege schließt heute schon um 17 Uhr. Kinder unter acht Jahren dürfen es nur in Begleitung eines Erwachsenen betreten." }
+      ],
+      "statement": "Die Seehunde bekommen ihr Futter heute eine halbe Stunde später als an anderen Tagen.",
+      "answer": false,
+      "explanation": "The feeding is „nicht um 15 Uhr, sondern bereits um 14 Uhr 30“ – half an hour earlier, not later. The word „bereits“ shows that the time has been brought forward.",
+      "explanationDe": "Die Fütterung ist „nicht um 15 Uhr, sondern bereits um 14 Uhr 30“ – also eine halbe Stunde früher, nicht später. Das Wort „bereits“ zeigt, dass der Termin nach vorne verschoben wurde.",
+      "evidence": "Die Fütterung der Seehunde findet heute ausnahmsweise nicht um 15 Uhr, sondern bereits um 14 Uhr 30 statt."
+    },
+    {
+      "n": 4,
+      "label": "Nachricht von der Umzugsfirma",
+      "context": "Sie hören eine Nachricht auf einem Anrufbeantworter.",
+      "script": [
+        { "s": "umzug", "t": "Guten Tag, Frau Nowak, hier spricht Brückner von der Firma Brückner Umzüge. Ich rufe wegen Ihres Umzugs am Samstag an." },
+        { "s": "umzug", "t": "Wir kommen nicht wie besprochen um acht, sondern schon um sieben Uhr, weil wir am Nachmittag noch einen zweiten Auftrag haben. Ich hoffe, das passt Ihnen." },
+        { "s": "umzug", "t": "Die Halteverbotsschilder vor Ihrem Haus stellen wir am Donnerstag selbst auf, darum müssen Sie sich nicht kümmern. Die Kartons packen Sie aber bitte bis Freitagabend fertig, denn das Einpacken ist in unserem Angebot nicht enthalten." },
+        { "s": "umzug", "t": "Falls es damit Probleme gibt, rufen Sie mich einfach zurück. Auf Wiederhören!" }
+      ],
+      "statement": "Frau Nowak muss ihre Sachen vor dem Umzug selbst in Kartons verpacken.",
+      "answer": true,
+      "explanation": "She has to pack the boxes by Friday evening, „denn das Einpacken ist in unserem Angebot nicht enthalten“. The company only takes care of the no-parking signs („darum müssen Sie sich nicht kümmern“).",
+      "explanationDe": "Sie soll die Kartons bis Freitagabend selbst packen, „denn das Einpacken ist in unserem Angebot nicht enthalten“. Die Firma kümmert sich nur um die Halteverbotsschilder („darum müssen Sie sich nicht kümmern“).",
+      "evidence": "denn das Einpacken ist in unserem Angebot nicht enthalten"
+    },
+    {
+      "n": 5,
+      "label": "Verkehrsmeldung im Radio",
+      "context": "Sie hören eine Verkehrsmeldung im Radio.",
+      "script": [
+        { "s": "verkehr", "t": "Und nun die Verkehrslage. Vor dem Gotthard-Straßentunnel staut sich der Reiseverkehr in Richtung Süden auf sieben Kilometern, das bedeutet etwa eine Stunde Wartezeit." },
+        { "s": "verkehr", "t": "Als Alternative bietet sich die Route über den San Bernardino an; dort kommt man im Moment ohne Verzögerung voran." },
+        { "s": "verkehr", "t": "Der Gotthardpass selbst ist dagegen noch bis mindestens Freitag wegen Schnee gesperrt." },
+        { "s": "verkehr", "t": "In der Gegenrichtung, also nach Norden, rollt der Verkehr am Gotthard flüssig. Auf der A 1 zwischen Bern und Zürich ist nach einem Unfall bei Aarau nur eine Spur frei." }
+      ],
+      "statement": "Wer nach Süden will, kann den Stau vor dem Tunnel über den Gotthardpass umfahren.",
+      "answer": false,
+      "explanation": "The pass road is „noch bis mindestens Freitag wegen Schnee gesperrt“. The alternative recommended in the report is the route „über den San Bernardino“.",
+      "explanationDe": "Die Passstraße ist „noch bis mindestens Freitag wegen Schnee gesperrt“. Als Alternative empfiehlt die Meldung die Route „über den San Bernardino“.",
+      "evidence": "Der Gotthardpass selbst ist dagegen noch bis mindestens Freitag wegen Schnee gesperrt."
+    }
+  ],
+  "glossary": [
+    { "de": "das Fundbüro", "en": "lost property office" },
+    { "de": "die Fundsache", "en": "found item, lost property" },
+    { "de": "die Aufbewahrung", "en": "storage, safekeeping" },
+    { "de": "verbuchen", "en": "to check out, to register (in a library)" },
+    { "de": "die Ausleihtheke", "en": "lending desk" },
+    { "de": "die Weiterbildung", "en": "(further) training" },
+    { "de": "die Fütterung", "en": "feeding" },
+    { "de": "das Streichelgehege", "en": "petting zoo" },
+    { "de": "das Halteverbot", "en": "no-stopping zone" },
+    { "de": "im Angebot enthalten sein", "en": "to be included in the quote" },
+    { "de": "flüssig rollen", "en": "to flow smoothly (traffic)" }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "hoeren-1-04",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Welle Ostsee: Nachrichten am Abend",
+  "topic": "reisen",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "sprecherin", "gender": "f", "age": "adult", "role": "Nachrichtensprecherin" },
+    { "id": "meteorologe", "name": "Lars Brandt", "gender": "m", "age": "adult", "role": "Meteorologe" }
+  ],
+  "intro": [
+    { "s": "sprecherin", "t": "Welle Ostsee, es ist 18 Uhr. Guten Abend, hier sind die Nachrichten." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: Praxisbusse für Dörfer in Vorpommern",
+      "script": [
+        { "s": "sprecherin", "t": "Schwerin. Mecklenburg-Vorpommern will dem Ärztemangel auf dem Land mit rollenden Praxen begegnen." },
+        { "s": "sprecherin", "t": "Ab Februar sollen zwei umgebaute Busse abwechselnd 14 Dörfer in Vorpommern anfahren, in denen es seit Jahren keine Hausarztpraxis mehr gibt. Finanziert wird das zunächst auf drei Jahre angelegte Projekt vom Land und von den Krankenkassen." },
+        { "s": "sprecherin", "t": "Der Hausärzteverband nannte die Busse zwar einen Schritt in die richtige Richtung, warnte aber davor, sie als Ersatz für feste Praxen zu betrachten. Nötig seien vor allem mehr Studienplätze für Medizin." }
+      ],
+      "statement": "Der Hausärzteverband hält die Praxisbusse für eine dauerhafte Lösung gegen den Ärztemangel auf dem Land.",
+      "answer": false,
+      "explanation": "The association does call the buses „einen Schritt in die richtige Richtung“, but it „warnte aber davor, sie als Ersatz für feste Praxen zu betrachten“ and asks for more places to study medicine. So it does not see them as a permanent solution.",
+      "explanationDe": "Der Verband nennt die Busse zwar „einen Schritt in die richtige Richtung“, „warnte aber davor, sie als Ersatz für feste Praxen zu betrachten“, und fordert mehr Studienplätze. Er sieht sie also nicht als dauerhafte Lösung.",
+      "evidence": "warnte aber davor, sie als Ersatz für feste Praxen zu betrachten"
+    },
+    {
+      "n": 2,
+      "label": "Meldung: mehr Gäste außerhalb der Sommersaison",
+      "script": [
+        { "s": "sprecherin", "t": "Rostock. Die Ostseeküste wird immer mehr zum Reiseziel für das ganze Jahr." },
+        { "s": "sprecherin", "t": "Nach Angaben des Landesamts für Statistik ist die Zahl der Übernachtungen in den Monaten Oktober bis März im Vergleich zum Vorjahreszeitraum um elf Prozent gestiegen, während sie in der Sommersaison leicht zurückging." },
+        { "s": "sprecherin", "t": "Die Tourismusbranche führt das unter anderem auf neue Wellnesshotels und Radwege zurück, aber auch darauf, dass viele Urlauber die überfüllten Strände im Juli und August meiden. Für Saisonkräfte bedeute das mehr Arbeit, die sich gleichmäßiger über das Jahr verteile." }
+      ],
+      "statement": "In den Herbst- und Wintermonaten haben mehr Gäste an der Ostsee übernachtet als im Vorjahr, im Sommer dagegen etwas weniger.",
+      "answer": true,
+      "explanation": "Overnight stays „in den Monaten Oktober bis März“ rose „um elf Prozent“, „während sie in der Sommersaison leicht zurückging“ – the statement says the same in other words („Herbst- und Wintermonaten“, „etwas weniger“).",
+      "explanationDe": "Die Übernachtungen „in den Monaten Oktober bis März“ sind „um elf Prozent gestiegen“, „während sie in der Sommersaison leicht zurückging“. Die Aussage sagt dasselbe mit anderen Worten („Herbst- und Wintermonaten“, „etwas weniger“).",
+      "evidence": "im Vergleich zum Vorjahreszeitraum um elf Prozent gestiegen, während sie in der Sommersaison leicht zurückging"
+    },
+    {
+      "n": 3,
+      "label": "Meldung: Seegras in der Kieler Bucht",
+      "script": [
+        { "s": "sprecherin", "t": "Kiel. Ein Projekt zur Wiederansiedlung von Seegras in der Kieler Bucht ist erfolgreicher verlaufen als erwartet." },
+        { "s": "sprecherin", "t": "Taucherinnen und Taucher hatten vor zwei Jahren auf einer Fläche von etwa einem Hektar junge Pflanzen gesetzt. Inzwischen hat sich die Wiese nach Angaben der beteiligten Meeresbiologen fast verdreifacht." },
+        { "s": "sprecherin", "t": "Seegras gilt als wichtiger Klimaschützer, weil es große Mengen Kohlendioxid im Meeresboden speichert. Zudem bietet es Jungfischen Schutz. Ob sich die Methode auch für andere Stellen der Ostsee eignet, sei allerdings noch offen." }
+      ],
+      "statement": "Das neu gepflanzte Seegras in der Kieler Bucht hat sich stärker ausgebreitet, als die Fachleute angenommen hatten.",
+      "answer": true,
+      "explanation": "The project „ist erfolgreicher verlaufen als erwartet“: in two years the meadow has „fast verdreifacht“. Only whether the method works elsewhere in the Baltic „sei allerdings noch offen“ – that does not change the result in Kiel Bay.",
+      "explanationDe": "Das Projekt „ist erfolgreicher verlaufen als erwartet“: In zwei Jahren hat sich die Wiese „fast verdreifacht“. Offen ist nur, ob die Methode auch an anderen Stellen der Ostsee funktioniert – das ändert nichts am Ergebnis in der Kieler Bucht.",
+      "evidence": "ist erfolgreicher verlaufen als erwartet"
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Publikumspreis für einen Dokumentarfilm",
+      "script": [
+        { "s": "sprecherin", "t": "Greifswald. Der Dokumentarfilm „Netze im Nebel“ der Greifswalder Regisseurin Ina Brockmann hat beim Filmfest Ostseeküste den Publikumspreis gewonnen." },
+        { "s": "sprecherin", "t": "Der Film begleitet ein Jahr lang drei Fischerfamilien aus Ueckermünde, die nach den strengen Fangbeschränkungen der letzten Jahre um ihre Existenz kämpfen. Den mit 10.000 Euro dotierten Hauptpreis der Jury erhielt dagegen ein Spielfilm aus Finnland." },
+        { "s": "sprecherin", "t": "Brockmann zeigte sich trotzdem begeistert: Dass ausgerechnet die Zuschauer ihren Film ausgezeichnet hätten, bedeute ihr mehr als jeder Jurypreis." }
+      ],
+      "statement": "Die Jury des Filmfests hat den Dokumentarfilm über die Fischerfamilien mit dem Hauptpreis ausgezeichnet.",
+      "answer": false,
+      "explanation": "The documentary won „den Publikumspreis“ – the audience award. „Den mit 10.000 Euro dotierten Hauptpreis der Jury erhielt dagegen ein Spielfilm aus Finnland“, so the jury chose a different film.",
+      "explanationDe": "Der Dokumentarfilm hat „den Publikumspreis“ gewonnen, also den Preis der Zuschauer. „Den mit 10.000 Euro dotierten Hauptpreis der Jury erhielt dagegen ein Spielfilm aus Finnland“ – die Jury hat also einen anderen Film ausgezeichnet.",
+      "evidence": "Hauptpreis der Jury erhielt dagegen ein Spielfilm aus Finnland"
+    },
+    {
+      "n": 5,
+      "label": "Meldung: das Wetter",
+      "script": [
+        { "s": "sprecherin", "t": "Und nun das Wetter mit Lars Brandt." },
+        { "s": "meteorologe", "t": "Das Sturmtief über der Ostsee zieht in der Nacht nach Osten ab. Morgen lässt der Wind an der Küste deutlich nach, und von Westen setzt sich trockenere Luft durch." },
+        { "s": "meteorologe", "t": "Allerdings wird es spürbar kälter: Tagsüber werden nur noch vier bis sieben Grad erreicht, und in der Nacht zum Freitag ist im Binnenland zum ersten Mal in diesem Herbst mit Frost zu rechnen." },
+        { "s": "meteorologe", "t": "Am Wochenende bleibt es überwiegend sonnig. An der Küste frischt der Wind am Sonntag aber wieder auf." }
+      ],
+      "statement": "Nach dem Sturm wird es an der Küste zunächst ruhiger, dafür aber auch deutlich kälter.",
+      "answer": true,
+      "explanation": "The wind drops („Morgen lässt der Wind an der Küste deutlich nach“), and at the same time „Allerdings wird es spürbar kälter“ – only four to seven degrees and the first frost inland. The wind picks up again only on Sunday, which is why the statement says „zunächst“.",
+      "explanationDe": "Der Wind wird schwächer: „Morgen lässt der Wind an der Küste deutlich nach“. Gleichzeitig heißt es: „Allerdings wird es spürbar kälter“ – nur vier bis sieben Grad und der erste Frost im Binnenland. Erst am Sonntag frischt der Wind wieder auf, deshalb steht in der Aussage „zunächst“.",
+      "evidence": "Morgen lässt der Wind an der Küste deutlich nach"
+    }
+  ],
+  "unscored": [
+    {
+      "after": 4,
+      "label": "Meldung: Uferweg auf Rügen gesperrt",
+      "script": [
+        { "s": "sprecherin", "t": "Rügen. Nach mehreren Abbrüchen an der Steilküste bleibt der beliebte Hochuferweg im Norden der Insel bis auf Weiteres gesperrt." },
+        { "s": "sprecherin", "t": "Durch den Dauerregen der vergangenen Wochen sei die Kreide stark aufgeweicht, teilte der Landkreis mit. Geologen wollen den Hang in den kommenden Tagen mit Drohnen untersuchen." },
+        { "s": "sprecherin", "t": "Wer trotz der Absperrung am Strand unterhalb der Kreidefelsen spazieren gehe, riskiere ein Bußgeld von bis zu 1.000 Euro – vor allem aber sein Leben." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecherin", "t": "Das waren die Nachrichten von Welle Ostsee." }
+  ],
+  "glossary": [
+    { "de": "einer Sache begegnen", "en": "to tackle, to counter something" },
+    { "de": "der Ersatz", "en": "replacement, substitute" },
+    { "de": "die Übernachtung", "en": "overnight stay" },
+    { "de": "die Saisonkraft", "en": "seasonal worker" },
+    { "de": "die Wiederansiedlung", "en": "reintroduction (of a plant or animal)" },
+    { "de": "sich eignen", "en": "to be suitable" },
+    { "de": "die Fangbeschränkung", "en": "fishing restriction, catch limit" },
+    { "de": "dotiert sein mit", "en": "to be endowed with (prize money)" },
+    { "de": "die Steilküste", "en": "cliff coast" },
+    { "de": "das Bußgeld", "en": "fine" },
+    { "de": "das Sturmtief", "en": "storm depression" },
+    { "de": "auffrischen (Wind)", "en": "to pick up, to freshen (wind)" }
+  ]
+}

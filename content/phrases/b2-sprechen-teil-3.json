@@ -1,0 +1,128 @@
+{
+  "id": "b2-sprechen-teil-3",
+  "level": "B2",
+  "order": 106,
+  "context": "sprechen-3",
+  "title": "Gemeinsam etwas planen",
+  "titleEn": "Planning together",
+  "description": "For Teil 3 of the B2 oral exam: there is no checklist on the sheet, so you structure the planning yourselves. Clarify the task, put forward and justify ideas, weigh up alternatives, voice concerns, agree on a solution, share out the tasks and sum up your concept. B2 means more Konjunktiv II and more precise wording than the B1 bank „Gemeinsam etwas planen“. The phrases use „du“ – switch to „Sie“ if that is what you agreed.",
+  "descriptionDe": "Für Teil 3 der mündlichen B2-Prüfung: Auf dem Aufgabenblatt steht keine Checkliste, also strukturiert ihr die Planung selbst. Klärt die Aufgabe, bringt Ideen ein und begründet sie, wägt Alternativen ab, äußert Bedenken, einigt euch auf eine Lösung, verteilt die Aufgaben und fasst euer Konzept zusammen. B2 heißt: mehr Konjunktiv II und genauere Formulierungen als in den B1-Redemitteln „Gemeinsam etwas planen“. Die Redemittel verwenden „du“ – wechsle zu „Sie“, wenn ihr das so vereinbart habt.",
+  "groups": [
+    {
+      "title": "Die Aufgabe klären und einsteigen",
+      "titleEn": "Clarifying the task and getting started",
+      "register": "informal",
+      "phrases": [
+        { "de": "Wir sollen also gemeinsam ein Programm für den Besuch unserer Partnerschule entwickeln.", "en": "So we're supposed to develop a programme together for the visit from our partner school.", "note": "Paraphrase the task in your own words – that shows you've understood it.", "noteDe": "Gib die Aufgabe mit eigenen Worten wieder – so zeigst du, dass du sie verstanden hast." },
+        { "de": "Bevor wir ins Detail gehen, sollten wir klären, wie viel Geld uns zur Verfügung steht.", "en": "Before we go into detail, we should clarify how much money we have available.", "note": "zur Verfügung stehen = to be available", "noteDe": "zur Verfügung stehen = da sein, genutzt werden können" },
+        { "de": "Ich würde vorschlagen, dass wir zuerst die Rahmenbedingungen festlegen: Termin, Ort und Budget.", "en": "I'd suggest we first settle the basics: date, venue and budget.", "note": "die Rahmenbedingungen = the basic conditions, the framework", "noteDe": "die Rahmenbedingungen = die wichtigsten Grundlagen, der Rahmen" },
+        { "de": "Für wen genau ist das Ganze eigentlich gedacht?", "en": "Who exactly is the whole thing actually meant for?", "note": "gedacht sein für + accusative = to be intended for", "noteDe": "gedacht sein für + Akkusativ = für jemanden geplant sein" },
+        { "de": "Was wollen wir mit der Veranstaltung eigentlich erreichen?", "en": "What do we actually want to achieve with the event?" },
+        { "de": "Lass uns erst einmal sammeln, was alles dazugehört.", "en": "Let's first collect everything that's involved.", "note": "Without a checklist on the sheet, a quick brainstorm gives your conversation a structure. Sie-form: „Lassen Sie uns …“", "noteDe": "Ohne Checkliste auf dem Blatt gibt eine kurze Ideensammlung eurem Gespräch eine Struktur. Sie-Form: „Lassen Sie uns …“" }
+      ]
+    },
+    {
+      "title": "Vorschläge einbringen",
+      "titleEn": "Putting forward ideas",
+      "register": "informal",
+      "phrases": [
+        { "de": "Ich könnte mir gut vorstellen, dass wir die Feier im Innenhof machen.", "en": "I could well imagine us holding the party in the courtyard.", "note": "sich (dative) etwas vorstellen = to imagine", "noteDe": "sich (Dativ) etwas vorstellen = sich etwas denken" },
+        { "de": "Mein Vorschlag wäre, den Abend mit einem kleinen Quiz zu beginnen.", "en": "My suggestion would be to start the evening with a little quiz." },
+        { "de": "Wie fändest du es, wenn jeder Gast etwas Selbstgekochtes mitbringen würde?", "en": "How would you feel about every guest bringing something home-made?", "note": "More tentative than „Wie findest du …?“; Sie-form: „Wie fänden Sie es, …?“", "noteDe": "Vorsichtiger als „Wie findest du …?“; Sie-Form: „Wie fänden Sie es, …?“" },
+        { "de": "Man könnte zum Beispiel einen Sportverein aus der Gegend mit ins Boot holen.", "en": "We could, for example, get a local sports club on board.", "note": "jemanden mit ins Boot holen = to get someone on board", "noteDe": "jemanden mit ins Boot holen = jemanden als Partner gewinnen" },
+        { "de": "Spricht etwas dagegen, den Termin auf einen Samstag zu legen?", "en": "Is there any reason not to put the date on a Saturday?", "note": "einen Termin auf … legen = to schedule for …", "noteDe": "einen Termin auf … legen = einen Termin für … planen" },
+        { "de": "Darf ich einen etwas ungewöhnlichen Vorschlag machen?", "en": "May I make a slightly unusual suggestion?" },
+        { "de": "Ich würde dafür plädieren, die Anmeldung online zu organisieren.", "en": "I'd argue for organising registration online.", "note": "plädieren für + accusative = to argue in favour of; here: dafür, … zu …", "noteDe": "plädieren für + Akkusativ = sich für etwas aussprechen; hier: dafür, … zu …" },
+        { "de": "Wir sollten unbedingt auch an Gäste denken, die nicht so gut zu Fuß sind.", "en": "We should definitely also think of guests who can't walk so well.", "note": "gut / schlecht zu Fuß sein = to be good / bad at walking", "noteDe": "gut / schlecht zu Fuß sein = gut / schlecht laufen können" },
+        { "de": "Wäre es eine Option, das Ganze mit einem Flohmarkt zu verbinden?", "en": "Would it be an option to combine the whole thing with a flea market?" }
+      ]
+    },
+    {
+      "title": "Vorschläge begründen",
+      "titleEn": "Making the case for your idea",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Das würde sich auch deshalb anbieten, weil die Halle direkt am Bahnhof liegt.", "en": "That would also be the obvious choice because the hall is right by the station.", "note": "sich anbieten = to be the obvious choice", "noteDe": "sich anbieten = naheliegend, passend sein" },
+        { "de": "Auf diese Weise würden wir zwei Fliegen mit einer Klappe schlagen.", "en": "That way we'd kill two birds with one stone.", "note": "zwei Fliegen mit einer Klappe schlagen = to kill two birds with one stone", "noteDe": "zwei Fliegen mit einer Klappe schlagen = mit einer Sache zwei Ziele erreichen" },
+        { "de": "Der große Pluspunkt dabei wäre, dass wir kaum Miete zahlen müssten.", "en": "The big plus would be that we'd hardly have to pay any rent." },
+        { "de": "Damit würden wir auch Leute erreichen, die sonst eher zu Hause bleiben.", "en": "That way we'd also reach people who would otherwise tend to stay at home." },
+        { "de": "Das hat sich bei uns im Verein schon mehrmals bewährt.", "en": "That has already proved its worth several times in our club.", "note": "sich bewähren = to prove its worth", "noteDe": "sich bewähren = sich als gut erweisen" },
+        { "de": "So hätten alle etwas davon.", "en": "That way everyone would get something out of it.", "note": "etwas von etwas haben = to benefit from something", "noteDe": "etwas von etwas haben = einen Nutzen davon haben" },
+        { "de": "Gerade für die Gäste aus dem Ausland wäre das eine gute Gelegenheit, die Stadt kennenzulernen.", "en": "Especially for the guests from abroad, it would be a good opportunity to get to know the city." }
+      ]
+    },
+    {
+      "title": "Alternativen abwägen",
+      "titleEn": "Weighing up alternatives",
+      "register": "informal",
+      "phrases": [
+        { "de": "Im Grunde haben wir zwei Möglichkeiten: Entweder wir feiern im Restaurant, oder wir organisieren alles selbst.", "en": "Basically we have two options: either we celebrate in a restaurant, or we organise everything ourselves.", "note": "entweder … oder = either … or", "noteDe": "entweder … oder = eine von zwei Möglichkeiten" },
+        { "de": "Ein Saal hätte den Vorteil, dass wir vom Wetter unabhängig wären.", "en": "A hall would have the advantage that we'd be independent of the weather.", "note": "Konjunktiv II for options you are still considering", "noteDe": "Konjunktiv II für Möglichkeiten, über die ihr noch nachdenkt" },
+        { "de": "Der Nachteil wäre allerdings, dass wir den Raum schon um 22 Uhr räumen müssten.", "en": "The downside, however, would be that we'd have to vacate the room by 10 pm." },
+        { "de": "Im Vergleich dazu wäre ein Buffet deutlich günstiger.", "en": "By comparison, a buffet would be much cheaper." },
+        { "de": "Beide Varianten wären denkbar.", "en": "Both options would be conceivable." },
+        { "de": "Lass uns mal durchspielen, was passiert, wenn weniger Leute kommen als erwartet.", "en": "Let's play through what happens if fewer people come than expected.", "note": "durchspielen = to play through (a scenario)", "noteDe": "durchspielen = eine Situation in Gedanken ausprobieren" },
+        { "de": "Wenn man die Kosten berücksichtigt, spricht eigentlich alles für die zweite Variante.", "en": "If you take the costs into account, everything actually points to the second option.", "note": "berücksichtigen = to take into account", "noteDe": "berücksichtigen = an etwas denken, etwas beachten" },
+        { "de": "Unter diesen Umständen wäre es vernünftiger, die Feier zu verschieben.", "en": "Under these circumstances it would be more sensible to postpone the celebration." }
+      ]
+    },
+    {
+      "title": "Bedenken äußern",
+      "titleEn": "Voicing concerns",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich gebe zu bedenken, dass viele im Team freitags schon mittags gehen.", "en": "I'd like to point out that many people on the team leave at midday on Fridays.", "note": "zu bedenken geben = to point out (a concern)", "noteDe": "zu bedenken geben = auf ein mögliches Problem hinweisen" },
+        { "de": "Ich habe da ein paar Bedenken, was die Kosten angeht.", "en": "I have a few concerns as far as the costs are concerned.", "note": "was … angeht = as far as … is concerned", "noteDe": "was … angeht = in Bezug auf …" },
+        { "de": "Klingt gut, aber ist das organisatorisch überhaupt machbar?", "en": "Sounds good, but is that even feasible in terms of organisation?", "note": "machbar = feasible", "noteDe": "machbar = möglich, realisierbar" },
+        { "de": "Ich fürchte, das sprengt unser Budget.", "en": "I'm afraid that would blow our budget.", "note": "das Budget sprengen = to go far over budget", "noteDe": "das Budget sprengen = viel mehr kosten, als man ausgeben kann" },
+        { "de": "Ich sehe da ein praktisches Problem: Wer soll das alles auf- und wieder abbauen?", "en": "I see a practical problem there: who's going to set it all up and take it down again?" },
+        { "de": "Und was machen wir, falls es an dem Tag in Strömen regnet?", "en": "And what do we do if it's pouring with rain that day?", "note": "in Strömen regnen = to pour with rain", "noteDe": "in Strömen regnen = sehr stark regnen" },
+        { "de": "Wäre das für ältere Gäste nicht zu anstrengend?", "en": "Wouldn't that be too tiring for older guests?" },
+        { "de": "Das hört sich verlockend an, aber ich bin skeptisch, ob genügend Leute mitmachen.", "en": "That sounds tempting, but I'm sceptical whether enough people will take part.", "note": "verlockend = tempting", "noteDe": "verlockend = attraktiv, reizvoll" }
+      ]
+    },
+    {
+      "title": "Aufeinander eingehen und sich einigen",
+      "titleEn": "Responding and reaching agreement",
+      "register": "informal",
+      "phrases": [
+        { "de": "Das ist ein guter Gedanke – daran könnten wir anknüpfen.", "en": "That's a good thought – we could build on that.", "note": "anknüpfen an + accusative = to build on", "noteDe": "anknüpfen an + Akkusativ = darauf aufbauen, weiterführen" },
+        { "de": "Die Idee gefällt mir, ich würde sie nur ein bisschen abwandeln: …", "en": "I like the idea, I'd just modify it a bit: …", "note": "abwandeln = to modify, vary", "noteDe": "abwandeln = ein bisschen verändern" },
+        { "de": "Treffen wir uns doch in der Mitte: Wir fangen um 17 Uhr an.", "en": "Let's meet halfway: we'll start at 5 pm.", "note": "sich in der Mitte treffen = to meet halfway", "noteDe": "sich in der Mitte treffen = einen Kompromiss finden, bei dem beide nachgeben" },
+        { "de": "Damit kann ich gut leben.", "en": "I can live with that.", "note": "A colloquial way of accepting a compromise", "noteDe": "Umgangssprachliche Art, einen Kompromiss anzunehmen" },
+        { "de": "Okay, ich lasse mich überzeugen.", "en": "Okay, I'll let myself be persuaded.", "note": "sich überzeugen lassen = to let yourself be convinced", "noteDe": "sich überzeugen lassen = seine Meinung ändern, weil die Argumente gut sind" },
+        { "de": "Ich mache dir einen Vorschlag: Du kümmerst dich um die Technik, dafür bin ich mit dem späteren Termin einverstanden.", "en": "I'll make you an offer: you take care of the technical side, and in return I'll agree to the later date.", "note": "dafür = in return – a classic way to trade concessions", "noteDe": "dafür = als Gegenleistung – so tauscht ihr Zugeständnisse aus" },
+        { "de": "Einverstanden, aber unter einer Bedingung: Die Musik darf nicht zu laut sein.", "en": "Agreed, but on one condition: the music mustn't be too loud." },
+        { "de": "Dann bleibt es also beim Samstag.", "en": "So Saturday it is, then.", "note": "bei etwas bleiben = to stick with something", "noteDe": "bei etwas bleiben = etwas nicht mehr ändern" }
+      ]
+    },
+    {
+      "title": "Aufgaben verteilen",
+      "titleEn": "Sharing out the tasks",
+      "register": "informal",
+      "phrases": [
+        { "de": "Am besten teilen wir die Arbeit so auf: …", "en": "The best thing would be to divide up the work like this: …", "note": "aufteilen = to divide up", "noteDe": "aufteilen = in Teile trennen und verteilen" },
+        { "de": "Die Werbung könnte ich übernehmen – ich kenne mich mit sozialen Medien ganz gut aus.", "en": "I could take on the advertising – I know my way around social media pretty well.", "note": "sich auskennen mit + dative = to know a lot about", "noteDe": "sich auskennen mit + Dativ = viel über etwas wissen" },
+        { "de": "Wärst du bereit, die Gespräche mit den Sponsoren zu führen?", "en": "Would you be willing to handle the talks with the sponsors?", "note": "Gespräche führen = to hold talks; Sie-form: „Wären Sie bereit, …?“", "noteDe": "Gespräche führen = mit jemandem verhandeln; Sie-Form: „Wären Sie bereit, …?“" },
+        { "de": "Es wäre gut, wenn einer von uns den Überblick über die Finanzen behalten würde.", "en": "It would be good if one of us kept track of the finances.", "note": "den Überblick behalten = to keep track", "noteDe": "den Überblick behalten = immer wissen, wie der Stand ist" },
+        { "de": "Für die Anmeldungen wärst dann du zuständig, oder?", "en": "So you'd be responsible for the registrations, right?", "note": "zuständig sein für + accusative = to be responsible for", "noteDe": "zuständig sein für + Akkusativ = verantwortlich sein für" },
+        { "de": "Bis wann sollte das erledigt sein?", "en": "By when should that be done?", "note": "Agreeing on deadlines makes your plan concrete.", "noteDe": "Wenn ihr Fristen vereinbart, wird euer Plan konkret." },
+        { "de": "Sollten wir noch jemanden um Unterstützung bitten?", "en": "Should we ask someone else for support?", "note": "jemanden um etwas bitten = to ask someone for something", "noteDe": "jemanden um etwas bitten = jemanden fragen, ob er etwas tut oder gibt" }
+      ]
+    },
+    {
+      "title": "Das Ergebnis zusammenfassen",
+      "titleEn": "Summing up the result",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Halten wir fest: Das Fest findet am 14. Juni im Gemeindesaal statt.", "en": "Let's record what we've decided: the party takes place on 14 June in the community hall.", "note": "festhalten = to record, note down", "noteDe": "festhalten = notieren, als Ergebnis sichern" },
+        { "de": "Dann fasse ich unser Konzept noch einmal kurz zusammen: …", "en": "Then I'll briefly sum up our concept once more: …" },
+        { "de": "Wir haben uns also darauf geeinigt, dass jeder Gast fünf Euro Eintritt zahlt.", "en": "So we've agreed that every guest pays five euros to get in." },
+        { "de": "Offen ist nur noch die Frage, wer die Getränke organisiert.", "en": "The only open question is who organises the drinks." },
+        { "de": "Ich denke, mit diesem Plan sind wir gut aufgestellt.", "en": "I think we're in good shape with this plan.", "note": "gut aufgestellt sein = to be well prepared, in a good position", "noteDe": "gut aufgestellt sein = gut vorbereitet sein" },
+        { "de": "Falls noch etwas dazwischenkommt, sprechen wir uns kurzfristig ab.", "en": "If anything comes up, we'll coordinate at short notice.", "note": "dazwischenkommen = to come up unexpectedly; sich absprechen = to coordinate", "noteDe": "dazwischenkommen = unerwartet passieren; sich absprechen = sich abstimmen" },
+        { "de": "Insgesamt haben wir jetzt ein Programm, bei dem für jeden etwas dabei ist.", "en": "Overall, we now have a programme with something for everyone." }
+      ]
+    }
+  ]
+}

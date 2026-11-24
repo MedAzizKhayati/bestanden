@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-09",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Rund ums Wohnen und Umziehen",
+  "topic": "wohnen",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ihre Großmutter möchte ihre Wohnung an ihre nachlassende Beweglichkeit anpassen und dafür finanzielle Unterstützung beantragen.",
+      "answer": "d",
+      "explanation": "She wants to adapt her flat to her reduced mobility and apply for financial help. The Beratungsstelle (d) plans such changes and informs „über Zuschüsse der Pflegekasse“ and helps „beim Ausfüllen der Anträge“. The repair service (f) offers the „Montage von Haltegriffen im Bad“, but it does no larger conversions and does not help with subsidies.",
+      "explanationDe": "Sie will ihre Wohnung an ihre eingeschränkte Beweglichkeit anpassen und Geld dafür beantragen. Die Beratungsstelle (d) plant solche Umbauten, informiert „über Zuschüsse der Pflegekasse“ und hilft „beim Ausfüllen der Anträge“. Der Reparaturdienst (f) bietet zwar die „Montage von Haltegriffen im Bad“, übernimmt aber keine größeren Umbauten und hilft nicht bei Zuschüssen."
+    },
+    {
+      "n": 2,
+      "text": "Sie haben einem Privatverkäufer ein gebrauchtes Sofa abgekauft, können es aber nicht selbst transportieren.",
+      "answer": "a",
+      "explanation": "You need one piece of furniture delivered. The Möbeltaxi (a) „bringt einzelne Möbelstücke und Haushaltsgeräte“ to your home – for example something bought „über eine Kleinanzeige“. Brenner & Söhne (c) only take jobs „ab einer Zweizimmerwohnung“, and at LagerPlatz (e) you could only rent a van and drive yourself.",
+      "explanationDe": "Du brauchst den Transport von einem einzelnen Möbelstück. Das Möbeltaxi (a) „bringt einzelne Möbelstücke und Haushaltsgeräte“ zu dir nach Hause, auch wenn du sie „über eine Kleinanzeige“ gekauft hast. Brenner & Söhne (c) nehmen Aufträge erst „ab einer Zweizimmerwohnung“ an, und bei LagerPlatz (e) könntest du nur einen Transporter mieten und selbst fahren."
+    },
+    {
+      "n": 3,
+      "text": "Sie bezweifeln, dass die Heizkosten in Ihrer letzten Nebenkostenabrechnung richtig berechnet worden sind.",
+      "answer": "b",
+      "explanation": "You want your heating bill checked. The Mietergemeinschaft (b) writes: „Besonders häufig prüfen wir Betriebs- und Heizkostenabrechnungen“, and you can join and get advice „sofort“. The energy advice (j) is the trap: it helps you save heating energy, but „Ob Ihre Heizkostenabrechnung formal korrekt ist, können wir nicht beurteilen“.",
+      "explanationDe": "Du willst deine Heizkostenabrechnung prüfen lassen. Bei der Mietergemeinschaft (b) heißt es: „Besonders häufig prüfen wir Betriebs- und Heizkostenabrechnungen“, und du kannst eintreten und dich „sofort“ beraten lassen. Die Energieberatung (j) ist die Falle: Sie hilft beim Heizen sparen, aber „Ob Ihre Heizkostenabrechnung formal korrekt ist, können wir nicht beurteilen“."
+    },
+    {
+      "n": 4,
+      "text": "Ein Kollege arbeitet ab Herbst ein Jahr im Ausland und sucht so lange einen Platz für seine Möbel.",
+      "answer": "e",
+      "explanation": "He needs storage for a whole year. At LagerPlatz (e) you choose the rental period „von einem Monat bis zu mehreren Jahren“, explicitly also during „eines Auslandsaufenthalts“. Brenner & Söhne (c) also store furniture, but only „bis zu vier Wochen“.",
+      "explanationDe": "Er braucht ein ganzes Jahr lang einen Lagerplatz. Bei LagerPlatz (e) bestimmt man die Mietdauer selbst – „von einem Monat bis zu mehreren Jahren“, ausdrücklich auch während „eines Auslandsaufenthalts“. Brenner & Söhne (c) lagern zwar auch Möbel, aber nur „bis zu vier Wochen“."
+    },
+    {
+      "n": 5,
+      "text": "Ihr Bruder zieht innerhalb der Stadt um, hat bereits einen Kleintransporter gemietet und braucht nur noch Träger.",
+      "answer": "i",
+      "explanation": "He has a van and only needs people to carry. The student helpers (i) help „beim Tragen schwerer Möbel“, „kommen ohne Fahrzeug“ and work „im Stadtgebiet“ – exactly right. Brenner & Söhne (c) organise the whole move („vollständig“), which he does not need, and the Möbeltaxi (a) transports single items, not a whole move.",
+      "explanationDe": "Er hat schon einen Transporter und braucht nur Leute zum Tragen. Die Studi-Umzugshelfer (i) helfen „beim Tragen schwerer Möbel“, „kommen ohne Fahrzeug“ und arbeiten „im Stadtgebiet“ – das passt genau. Brenner & Söhne (c) organisieren den ganzen Umzug („vollständig“), das braucht er nicht, und das Möbeltaxi (a) fährt nur einzelne Möbelstücke, „Komplette Umzüge“ macht es nicht."
+    },
+    {
+      "n": 6,
+      "text": "Ihre Kollegin möchte ihre alte Wohnung noch in dieser Woche von Fachleuten streichen lassen.",
+      "answer": "x",
+      "explanation": "The painters (k) do exactly this work, but „planen Sie bitte mindestens drei Wochen Vorlauf ein“ – too late. The repair service (f) comes „meist schon am nächsten Werktag“, but it says that „wir keine Maler- und Tapezierarbeiten übernehmen“. Brenner & Söhne (c) only offer cleaning („Endreinigung“). So x.",
+      "explanationDe": "Die Malerwerkstatt (k) macht genau diese Arbeit, aber dort heißt es: „planen Sie bitte mindestens drei Wochen Vorlauf ein“ – das ist zu spät. Der Reparaturdienst (f) kommt „meist schon am nächsten Werktag“, schreibt aber, dass „wir keine Maler- und Tapezierarbeiten übernehmen“. Brenner & Söhne (c) bieten nur eine „Endreinigung“ an. Also x."
+    },
+    {
+      "n": 7,
+      "text": "Ein Freund möchte gut erhaltene Möbel spenden und sucht jemanden, der sie kostenlos bei ihm abholt.",
+      "answer": "l",
+      "explanation": "He wants to donate furniture and have it picked up for free. The Sozialkaufhaus (l) depends on „Spenden aus der Bevölkerung“ and collects furniture in good condition „kostenlos bei Ihnen“. The clearance service (h) also passes usable things on to social institutions, but it charges „einen verbindlichen Festpreis“.",
+      "explanationDe": "Er will Möbel spenden und sie kostenlos abholen lassen. Das Sozialkaufhaus (l) lebt von „Spenden aus der Bevölkerung“ und holt gut erhaltene Möbel „kostenlos bei Ihnen“ ab. Der Räumungsdienst (h) gibt Brauchbares zwar auch an soziale Einrichtungen weiter, verlangt aber „einen verbindlichen Festpreis“."
+    },
+    {
+      "n": 8,
+      "text": "Ihre Nachbarin muss die Wohnung ihres verstorbenen Vaters möglichst bald komplett leer räumen lassen.",
+      "answer": "h",
+      "explanation": "She needs a whole flat cleared quickly after a death. The Räumungsdienst (h) works „nach einem Todesfall“, clears flats „vollständig“, and „In dringenden Fällen können wir eine Wohnung innerhalb von drei Werktagen räumen“. The Sozialkaufhaus (l) is the trap: „Ganze Haushalte können wir aus Kapazitätsgründen leider nicht räumen“.",
+      "explanationDe": "Sie muss nach einem Todesfall schnell eine ganze Wohnung räumen lassen. Der Räumungsdienst (h) arbeitet „nach einem Todesfall“, räumt Wohnungen „vollständig“, und es heißt: „In dringenden Fällen können wir eine Wohnung innerhalb von drei Werktagen räumen“. Das Sozialkaufhaus (l) ist die Falle: „Ganze Haushalte können wir aus Kapazitätsgründen leider nicht räumen“."
+    },
+    {
+      "n": 9,
+      "text": "Eine Studentin sucht eine preiswerte Unterkunft und würde dafür einem älteren Menschen im Haushalt helfen.",
+      "answer": "g",
+      "explanation": "She wants cheap accommodation in exchange for helping an older person. In „Wohnen für Hilfe“ (g) students „wohnen mietfrei in einem Zimmer und unterstützen ihre Gastgeber im Gegenzug im Alltag“. The student helpers (i) also offer work for students, but that is a job carrying furniture, not a place to live.",
+      "explanationDe": "Sie sucht ein günstiges Zimmer und würde dafür einer älteren Person helfen. Bei „Wohnen für Hilfe“ (g) heißt es: Die Studierenden „wohnen mietfrei in einem Zimmer und unterstützen ihre Gastgeber im Gegenzug im Alltag“. Bei den Studi-Umzugshelfern (i) arbeiten zwar auch Studierende, aber das ist ein Job beim Möbeltragen, keine Unterkunft."
+    },
+    {
+      "n": 10,
+      "text": "Ein Bekannter möchte wissen, wie er in seiner Mietwohnung den Energieverbrauch fürs Heizen senken kann.",
+      "answer": "j",
+      "explanation": "He wants to use less heating energy in his rented flat. EnergieCheck (j) examines „Wo geht Wärme verloren?“ and sends a report „mit konkreten Spartipps, die sich auch in Mietwohnungen ohne bauliche Veränderungen umsetzen lassen“. The Mietergemeinschaft (b) checks heating bills, but it gives legal advice, not tips on saving energy.",
+      "explanationDe": "Er will in seiner Mietwohnung weniger Heizenergie verbrauchen. EnergieCheck (j) untersucht: „Wo geht Wärme verloren?“ Danach bekommst du einen Bericht „mit konkreten Spartipps, die sich auch in Mietwohnungen ohne bauliche Veränderungen umsetzen lassen“. Die Mietergemeinschaft (b) prüft zwar Heizkostenabrechnungen, berät aber rechtlich und gibt keine Spartipps."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Möbeltaxi Quadrate",
+      "subheading": "Einzelstücke schnell und sicher ans Ziel",
+      "lines": [],
+      "text": "Sie haben auf dem Flohmarkt einen Schrank entdeckt, im Möbelhaus ein Regal gekauft oder über eine Kleinanzeige eine Waschmaschine ergattert, aber kein passendes Fahrzeug? Unser Möbeltaxi bringt einzelne Möbelstücke und Haushaltsgeräte innerhalb des Stadtgebiets zu Ihnen nach Hause. Unsere Fahrer helfen beim Tragen bis in die Wohnung, auch wenn es keinen Aufzug gibt. Abgerechnet wird pauschal: Eine Fahrt kostet 49 Euro, jedes weitere Teil 10 Euro. Komplette Umzüge oder Wohnungsauflösungen übernehmen wir grundsätzlich nicht. Buchungen sind werktags bis 12 Uhr für denselben Tag möglich, am Wochenende nach Absprache.",
+      "footer": "Möbeltaxi Quadrate · Tel. 0621 7730452 · www.moebeltaxi-quadrate.de"
+    },
+    {
+      "key": "b",
+      "heading": "Mietergemeinschaft Neckarstadt",
+      "subheading": "Rat und Rückhalt rund um Ihr Mietverhältnis",
+      "lines": [],
+      "text": "Ob Mieterhöhung, Kündigung, Schimmel in der Wohnung oder Streit um die Kaution: Unsere Juristinnen und Juristen beraten Sie in allen Fragen des Mietrechts. Besonders häufig prüfen wir Betriebs- und Heizkostenabrechnungen, denn erfahrungsgemäß enthält ein erheblicher Teil davon Fehler, die Mieterinnen und Mieter bares Geld kosten. Die Beratung ist für Mitglieder kostenlos; der Beitrag beträgt 8 Euro im Monat. Sie können auch kurzfristig eintreten und sich sofort beraten lassen. Kommt es zu einem Rechtsstreit, sind Sie über unsere Rechtsschutzversicherung abgesichert – allerdings erst nach einer Wartezeit von drei Monaten.",
+      "footer": "Beratungszeiten: Mo. und Mi. 16–19 Uhr · Tel. 0621 3398170"
+    },
+    {
+      "key": "c",
+      "heading": "Umzüge Brenner & Söhne",
+      "subheading": "Ihr Umzug in besten Händen – seit 1978",
+      "lines": [],
+      "text": "Von der ersten Besichtigung bis zum letzten aufgebauten Schrank: Wir planen und organisieren Ihren Umzug vollständig. Auf Wunsch verpacken unsere Mitarbeiter Ihren gesamten Hausstand, beantragen die Halteverbotszone vor Ihrer Haustür und montieren Küche und Möbel in der neuen Wohnung. Sollte Ihr neues Zuhause noch nicht bezugsfertig sein, lagern wir Ihr Umzugsgut bis zu vier Wochen in unserem gesicherten Lager zwischen. Gegen Aufpreis übernehmen wir zudem die Endreinigung der alten Räume. Bitte haben Sie Verständnis dafür, dass wir Aufträge erst ab einer Zweizimmerwohnung annehmen. Ein verbindliches Festpreisangebot erhalten Sie nach einem kostenlosen Besichtigungstermin.",
+      "footer": "Brenner & Söhne GmbH · Industriestraße 40 · Tel. 0621 8812340"
+    },
+    {
+      "key": "d",
+      "heading": "Beratungsstelle Wohnen im Alter",
+      "subheading": "Möglichst lange in den eigenen vier Wänden",
+      "lines": [],
+      "text": "Eine bodengleiche Dusche statt der Badewanne, breitere Türen, ein Treppenlift: Oft lässt sich eine Wohnung mit überschaubarem Aufwand an veränderte Bedürfnisse anpassen. Unsere Architektinnen und Ergotherapeuten besuchen Sie zu Hause, analysieren gemeinsam mit Ihnen mögliche Hindernisse und schlagen geeignete Lösungen vor. Darüber hinaus informieren wir Sie über Zuschüsse der Pflegekasse und anderer Stellen und helfen Ihnen beim Ausfüllen der Anträge. Auf Wunsch vermitteln wir qualifizierte Handwerksbetriebe, die Erfahrung mit barrierefreien Umbauten haben. Die Beratung ist kostenlos und wird von der Stadt finanziert. Hausbesuche sind in der Regel innerhalb von zwei Wochen möglich.",
+      "footer": "Beratungsstelle Wohnen im Alter · Tel. 0621 2905516"
+    },
+    {
+      "key": "e",
+      "heading": "LagerPlatz Neckarau",
+      "subheading": "Platz schaffen – flexibel und sicher",
+      "lines": [],
+      "text": "Ob während einer Renovierung, eines Auslandsaufenthalts oder weil die neue Wohnung schlicht kleiner ist: In unseren trockenen, videoüberwachten Lagerräumen bringen Sie Möbel, Kartons und Fahrräder sicher unter. Die Abteile sind zwischen einem und dreißig Quadratmetern groß, sodass Sie nur für den Platz bezahlen, den Sie tatsächlich brauchen. Die Mietdauer bestimmen Sie selbst – von einem Monat bis zu mehreren Jahren; gekündigt werden kann jeweils zum Monatsende. Mit Ihrer persönlichen Zugangskarte erreichen Sie Ihr Abteil täglich von 6 bis 22 Uhr. Transportwagen stehen kostenlos bereit, einen Transporter können Sie bei uns stundenweise mieten.",
+      "footer": "LagerPlatz Neckarau · Hafenweg 7 · www.lagerplatz-neckarau.de"
+    },
+    {
+      "key": "f",
+      "heading": "Reparaturdienst Fix & Fertig",
+      "subheading": "Kleine Reparaturen ohne lange Wartezeit",
+      "lines": [],
+      "text": "Der Wasserhahn tropft, die Schranktür hängt schief oder die neue Deckenlampe muss angeschlossen werden? Für solche Arbeiten einen Handwerksbetrieb zu finden, ist oft mühsam. Unsere vielseitig ausgebildeten Fachkräfte kommen meist schon am nächsten Werktag zu Ihnen und erledigen kleinere Reparaturen und Montagen – vom Anbringen von Regalen über den Austausch von Dichtungen bis zur Montage von Haltegriffen im Bad. Abgerechnet wird im Viertelstundentakt zu einem Stundensatz von 58 Euro zuzüglich Material. Bitte beachten Sie, dass wir keine Maler- und Tapezierarbeiten übernehmen. Auch umfangreichere Umbauten gehören nicht zu unserem Leistungsumfang.",
+      "footer": "Fix & Fertig · Tel. 0621 4471900 (Mo.–Fr. 7–18 Uhr)"
+    },
+    {
+      "key": "g",
+      "heading": "Wohnen für Hilfe",
+      "subheading": "Ein Projekt für Jung und Alt",
+      "lines": [],
+      "text": "Viele ältere Menschen leben allein in Wohnungen, die für sie eigentlich zu groß geworden sind, während Studierende händeringend bezahlbaren Wohnraum suchen. Unser Projekt bringt beide Seiten zusammen: Die Studierenden wohnen mietfrei in einem Zimmer und unterstützen ihre Gastgeber im Gegenzug im Alltag – etwa beim Einkaufen, bei der Gartenarbeit oder im Umgang mit dem Smartphone. Als Faustregel gilt eine Stunde Hilfe im Monat pro Quadratmeter Wohnfläche; lediglich die Nebenkosten werden anteilig übernommen. Pflegerische Tätigkeiten sind ausdrücklich ausgeschlossen. Wir führen mit allen Interessierten ausführliche Vorgespräche und begleiten die Wohnpartnerschaften auch danach.",
+      "footer": "Wohnen für Hilfe · Tel. 0621 1840273 · wohnenfuerhilfe@stadtteilnetz-mannheim.de"
+    },
+    {
+      "key": "h",
+      "heading": "Räumungsdienst Kessler",
+      "subheading": "Haushaltsauflösungen und Entrümpelungen",
+      "lines": [],
+      "text": "Ob nach einem Todesfall, beim Umzug ins Pflegeheim oder wenn sich im Keller über Jahrzehnte zu viel angesammelt hat: Wir räumen Wohnungen, Häuser und Dachböden vollständig und übergeben die Räume besenrein. Was noch brauchbar ist, geben wir an soziale Einrichtungen weiter; alles Übrige wird fachgerecht entsorgt. Nach einer kostenlosen Besichtigung erhalten Sie einen verbindlichen Festpreis, bei dem der Wert verkäuflicher Gegenstände bereits angerechnet ist. In dringenden Fällen können wir eine Wohnung innerhalb von drei Werktagen räumen. Auf Wunsch kümmern wir uns außerdem um die Übergabe an den Vermieter, damit Sie nicht persönlich anwesend sein müssen.",
+      "footer": "Räumungsdienst Kessler · Tel. 0621 6620185 · www.kessler-raeumung.de"
+    },
+    {
+      "key": "i",
+      "heading": "Studi-Umzugshelfer Mannheim",
+      "subheading": "Starke Hände zum fairen Preis",
+      "lines": [],
+      "text": "Das Fahrzeug ist organisiert, aber es fehlen Leute, die mit anpacken? Wir vermitteln zuverlässige Studentinnen und Studenten, die beim Ein- und Ausladen, beim Tragen schwerer Möbel und beim Ab- und Aufbau von Betten und Schränken helfen. Gebucht wird für mindestens drei Stunden, eine Helferstunde kostet 22 Euro. Bitte beachten Sie: Unsere Helferinnen und Helfer kommen ohne Fahrzeug und arbeiten nur im Stadtgebiet sowie in den direkt angrenzenden Gemeinden; für Umzüge in andere Städte vermitteln wir keine Teams. Kurzfristige Anfragen sind willkommen, an Wochenenden sollten Sie allerdings mindestens eine Woche im Voraus buchen.",
+      "footer": "Buchung: www.studi-umzugshelfer-mannheim.de"
+    },
+    {
+      "key": "j",
+      "heading": "EnergieCheck Kurpfalz",
+      "subheading": "Heizkosten senken – mit unabhängigem Rat",
+      "lines": [],
+      "text": "Steigende Energiepreise machen sich in vielen Haushalten deutlich bemerkbar. Bei einem Termin vor Ort untersucht eine unabhängige Energieberaterin Ihre Wohnung: Wo geht Wärme verloren? Sind Heizkörper und Thermostate richtig eingestellt? Lohnt sich der Austausch alter Geräte? Anschließend erhalten Sie einen schriftlichen Bericht mit konkreten Spartipps, die sich auch in Mietwohnungen ohne bauliche Veränderungen umsetzen lassen. Der Check kostet dank öffentlicher Förderung nur 30 Euro. Bitte beachten Sie, dass wir keine Rechtsberatung leisten: Ob Ihre Heizkostenabrechnung formal korrekt ist, können wir nicht beurteilen.",
+      "footer": "EnergieCheck Kurpfalz · Terminvereinbarung unter Tel. 0621 5023361"
+    },
+    {
+      "key": "k",
+      "heading": "Malerwerkstatt Farbton",
+      "subheading": "Renovierung beim Auszug – sauber und zuverlässig",
+      "lines": [],
+      "text": "Viele Mietverträge verpflichten dazu, die Wohnung beim Auszug renoviert zu übergeben. Wir übernehmen das für Sie: Wände und Decken streichen, Tapeten erneuern, Heizkörper und Türen lackieren – auf Wunsch einschließlich der Abnahme mit Ihrem Vermieter. Vorab erstellen wir nach einer Besichtigung ein schriftliches Angebot, damit Sie die Kosten genau kennen. Da unsere Auftragsbücher derzeit gut gefüllt sind, planen Sie bitte mindestens drei Wochen Vorlauf ein; kurzfristigere Termine können wir leider nicht zusagen. Für Seniorinnen und Senioren rücken wir die Möbel kostenlos beiseite und decken alles sorgfältig ab.",
+      "footer": "Malerwerkstatt Farbton · Lindenweg 22 · Tel. 0621 7140096"
+    },
+    {
+      "key": "l",
+      "heading": "Sozialkaufhaus Zweite Chance",
+      "subheading": "Gebrauchte Möbel für Menschen mit kleinem Budget",
+      "lines": [],
+      "text": "In unserem Sozialkaufhaus erhalten Menschen mit geringem Einkommen gut erhaltene Möbel und Haushaltsgegenstände zu symbolischen Preisen. Möglich ist das nur dank Spenden aus der Bevölkerung. Wenn Sie Schränke, Tische, Betten oder Sofas abgeben möchten, holt unser Team diese kostenlos bei Ihnen ab – vorausgesetzt, die Stücke sind sauber, vollständig und ohne größere Schäden. Bitte schicken Sie uns vorab Fotos, damit wir einschätzen können, ob wir Ihre Spende annehmen können. Ganze Haushalte können wir aus Kapazitätsgründen leider nicht räumen, und Gegenstände, die wir nicht weitergeben können, nehmen wir nicht mit.",
+      "footer": "Sozialkaufhaus Zweite Chance · Abholtermine unter Tel. 0621 3955120"
+    }
+  ],
+  "glossary": [
+    { "de": "die Halteverbotszone", "en": "no-parking zone (reserved for a removal van)" },
+    { "de": "bezugsfertig", "en": "ready to move into" },
+    { "de": "zwischenlagern", "en": "to store temporarily" },
+    { "de": "die Endreinigung", "en": "final cleaning (when moving out)" },
+    { "de": "die Nebenkostenabrechnung", "en": "annual statement of service charges (heating, water …)" },
+    { "de": "die Haushaltsauflösung", "en": "clearing out a household" },
+    { "de": "besenrein", "en": "swept clean" },
+    { "de": "der Vorlauf", "en": "lead time, advance notice" },
+    { "de": "der Zuschuss", "en": "subsidy, grant" },
+    { "de": "bodengleich", "en": "level with the floor (step-free)" },
+    { "de": "anteilig", "en": "proportionally, on a pro-rata basis" },
+    { "de": "ergattern", "en": "to manage to get hold of (a bargain)" }
+  ]
+}

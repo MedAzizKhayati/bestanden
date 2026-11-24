@@ -1,0 +1,257 @@
+{
+  "id": "konjunktiv-2-vergangenheit",
+  "level": "B2",
+  "category": "verben",
+  "order": 23,
+  "title": "Konjunktiv II der Vergangenheit",
+  "titleEn": "Konjunktiv II past: what would have happened",
+  "summary": "Talk about a past that did not happen: hätte/wäre + Partizip II for unreal conditions, wishes and regrets, the double infinitive with modal verbs (hätte machen sollen/müssen/können) for reproaches and missed chances – and where hätte goes in a subordinate clause.",
+  "summaryDe": "Sprich über eine Vergangenheit, die nicht passiert ist: hätte/wäre + Partizip II für irreale Bedingungen, Wünsche und Bedauern, der doppelte Infinitiv mit Modalverben (hätte machen sollen/müssen/können) für Vorwürfe und verpasste Chancen – und wo hätte im Nebensatz steht.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The **Konjunktiv II past** talks about things that **could have happened but did not**. Form: **hätte / wäre + Partizip II** – you choose *hätte* or *wäre* exactly as in the Perfekt: „Ich **hätte** dich **angerufen**.“ – „Wir **wären** früher **gekommen**.“ With a **modal verb**, use **hätte + infinitive + modal verb in the infinitive** (the double infinitive): „Du **hättest** mich **fragen sollen**.“ There is only **one** past form of the Konjunktiv II – it covers Präteritum, Perfekt and Plusquamperfekt.",
+      "mdDe": "Mit dem **Konjunktiv II der Vergangenheit** sprichst du über Dinge, die **hätten passieren können, aber nicht passiert sind**. Form: **hätte / wäre + Partizip II** – du wählst *hätte* oder *wäre* genau wie im Perfekt: „Ich **hätte** dich **angerufen**.“ – „Wir **wären** früher **gekommen**.“ Mit einem **Modalverb** nimmst du **hätte + Infinitiv + Modalverb im Infinitiv** (den doppelten Infinitiv): „Du **hättest** mich **fragen sollen**.“ Es gibt nur **eine** Vergangenheitsform des Konjunktiv II – sie steht für Präteritum, Perfekt und Plusquamperfekt."
+    },
+    {
+      "type": "table",
+      "heading": "The forms",
+      "headingDe": "Die Formen",
+      "columns": ["Person", "with haben", "with sein", "with a modal verb", "passive"],
+      "columnsDe": ["Person", "mit haben", "mit sein", "mit Modalverb", "Passiv"],
+      "rows": [
+        ["ich", "**hätte** gewusst", "**wäre** gefahren", "**hätte** bleiben **müssen**", "**wäre** informiert **worden**"],
+        ["du", "**hättest** gewusst", "**wär(e)st** gefahren", "**hättest** bleiben **müssen**", "**wär(e)st** informiert **worden**"],
+        ["er/sie/es", "**hätte** gewusst", "**wäre** gefahren", "**hätte** bleiben **müssen**", "**wäre** informiert **worden**"],
+        ["wir", "**hätten** gewusst", "**wären** gefahren", "**hätten** bleiben **müssen**", "**wären** informiert **worden**"],
+        ["ihr", "**hättet** gewusst", "**wär(e)t** gefahren", "**hättet** bleiben **müssen**", "**wär(e)t** informiert **worden**"],
+        ["sie/Sie", "**hätten** gewusst", "**wären** gefahren", "**hätten** bleiben **müssen**", "**wären** informiert **worden**"]
+      ],
+      "note": "sein and haben themselves: „wäre gewesen“, „hätte gehabt“. Avoid „würde … gemacht haben“ – the form exists, but it sounds clumsy; hätte/wäre + Partizip II is always the better choice.",
+      "noteDe": "sein und haben selbst: „wäre gewesen“, „hätte gehabt“. Vermeide „würde … gemacht haben“ – die Form gibt es, sie klingt aber umständlich; hätte/wäre + Partizip II ist immer die bessere Wahl."
+    },
+    {
+      "type": "text",
+      "heading": "Unreal conditions in the past",
+      "headingDe": "Irreale Bedingungen in der Vergangenheit",
+      "md": "At B1 you learnt unreal conditions about the present (see „Konjunktiv II“): „Wenn ich Zeit **hätte**, **würde** ich **kommen**.“ For the past, **both** clauses take hätte/wäre + Partizip II:\n\n„Wenn der Zug pünktlich **gewesen wäre**, **hätten** wir den Anschluss **erreicht**.“ (In fact the train was late, and we missed the connection.)\n\n- **Without wenn**, the verb comes first, and the main clause often starts with *dann* or *so*: „**Wäre** der Zug pünktlich **gewesen**, (dann) **hätten** wir den Anschluss **erreicht**.“\n- **Mixed times** are possible – a past condition with a present result: „Wenn ich damals Informatik **studiert hätte**, **hätte** ich heute bessere Chancen.“ Or the other way round – a permanent condition with a past result: „Wenn ich nicht so ungeduldig **wäre**, **hätte** ich die Anleitung **gelesen**.“\n- **Without a clause** at all: „**Ohne** deine Hilfe **hätte** ich den Umzug nicht **geschafft**.“ – „An deiner Stelle **hätte** ich sofort **gekündigt**.“ – „**Fast** / **Beinahe** **wäre** ich **gestürzt**.“ (It almost happened – but it didn't.)",
+      "mdDe": "Auf B1-Niveau hast du irreale Bedingungen in der Gegenwart gelernt (siehe „Konjunktiv II“): „Wenn ich Zeit **hätte**, **würde** ich **kommen**.“ In der Vergangenheit stehen **beide** Sätze mit hätte/wäre + Partizip II:\n\n„Wenn der Zug pünktlich **gewesen wäre**, **hätten** wir den Anschluss **erreicht**.“ (In Wirklichkeit hatte der Zug Verspätung, und wir haben den Anschluss verpasst.)\n\n- **Ohne wenn** steht das Verb am Anfang, und der Hauptsatz beginnt oft mit *dann* oder *so*: „**Wäre** der Zug pünktlich **gewesen**, (dann) **hätten** wir den Anschluss **erreicht**.“\n- **Gemischte Zeiten** sind möglich – eine Bedingung in der Vergangenheit mit einer Folge in der Gegenwart: „Wenn ich damals Informatik **studiert hätte**, **hätte** ich heute bessere Chancen.“ Oder umgekehrt – eine dauerhafte Bedingung mit einer Folge in der Vergangenheit: „Wenn ich nicht so ungeduldig **wäre**, **hätte** ich die Anleitung **gelesen**.“\n- **Ganz ohne Nebensatz**: „**Ohne** deine Hilfe **hätte** ich den Umzug nicht **geschafft**.“ – „An deiner Stelle **hätte** ich sofort **gekündigt**.“ – „**Fast** / **Beinahe** **wäre** ich **gestürzt**.“ (Es wäre fast passiert – ist es aber nicht.)"
+    },
+    {
+      "type": "text",
+      "heading": "Wishes, regrets and polite criticism",
+      "headingDe": "Wünsche, Bedauern und höfliche Kritik",
+      "md": "Unreal wishes about the past express **regret**:\n\n- „Wenn ich doch nur früher **angefangen hätte**!“ = „**Hätte** ich doch nur früher **angefangen**!“ (verb first, with *doch*, *nur* or *bloß*)\n- „Ich wünschte, ich **hätte** mehr Fotos **gemacht**.“\n- „Es **wäre** besser **gewesen**, wenn wir vorher **angerufen hätten**.“\n- „Ich **hätte** gern länger in Wien **gelebt**.“\n\nIn formal letters, the same form expresses an expectation that was **not met** – polite, but clear: „Ich **hätte erwartet**, dass Sie mich rechtzeitig informieren.“ – „Es **wäre** schön **gewesen**, wenn jemand auf meine E-Mail **geantwortet hätte**.“",
+      "mdDe": "Irreale Wünsche über die Vergangenheit drücken **Bedauern** aus:\n\n- „Wenn ich doch nur früher **angefangen hätte**!“ = „**Hätte** ich doch nur früher **angefangen**!“ (Verb am Anfang, mit *doch*, *nur* oder *bloß*)\n- „Ich wünschte, ich **hätte** mehr Fotos **gemacht**.“\n- „Es **wäre** besser **gewesen**, wenn wir vorher **angerufen hätten**.“\n- „Ich **hätte** gern länger in Wien **gelebt**.“\n\nIn formellen Briefen drückt dieselbe Form eine Erwartung aus, die **nicht erfüllt** wurde – höflich, aber deutlich: „Ich **hätte erwartet**, dass Sie mich rechtzeitig informieren.“ – „Es **wäre** schön **gewesen**, wenn jemand auf meine E-Mail **geantwortet hätte**.“"
+    },
+    {
+      "type": "text",
+      "heading": "Modal verbs: the double infinitive",
+      "headingDe": "Modalverben: der doppelte Infinitiv",
+      "md": "With modal verbs the Konjunktiv II past is **hätte + infinitive + modal verb in the infinitive** – never a participle like *gemusst* or *gesollt*:\n\n- „Wir **hätten** früher **buchen sollen**.“ (it would have been right – but we didn't)\n- „Sie **hätte** den Fehler **bemerken müssen**.“ (it was her duty – but she didn't notice it)\n- „Ich **hätte** dir **helfen können**.“ (it was possible – but I didn't help)\n- „Das **hätte** nicht **passieren dürfen**.“ (it was wrong that it happened)\n\nThe auxiliary is **always hätte** – even with verbs that normally take sein: „Ich **hätte** früher **losfahren sollen**.“ (not *wäre*).\n\n**In a subordinate clause**, *hätte* does **not** go to the end – it stands **before** the double infinitive: „Mir ist klar, dass ich dich **hätte anrufen sollen**.“ – not *…, dass ich dich anrufen sollen hätte*. The same happens in the passive with a modal verb: „…, weil die Brücke längst **hätte saniert werden müssen**.“",
+      "mdDe": "Mit Modalverben heißt der Konjunktiv II der Vergangenheit **hätte + Infinitiv + Modalverb im Infinitiv** – nie ein Partizip wie *gemusst* oder *gesollt*:\n\n- „Wir **hätten** früher **buchen sollen**.“ (es wäre richtig gewesen – aber wir haben es nicht getan)\n- „Sie **hätte** den Fehler **bemerken müssen**.“ (es war ihre Pflicht – aber sie hat ihn nicht bemerkt)\n- „Ich **hätte** dir **helfen können**.“ (es war möglich – aber ich habe nicht geholfen)\n- „Das **hätte** nicht **passieren dürfen**.“ (es war falsch, dass es passiert ist)\n\nDas Hilfsverb ist **immer hätte** – auch bei Verben, die sonst sein brauchen: „Ich **hätte** früher **losfahren sollen**.“ (nicht *wäre*).\n\n**Im Nebensatz** steht *hätte* **nicht** am Ende, sondern **vor** dem doppelten Infinitiv: „Mir ist klar, dass ich dich **hätte anrufen sollen**.“ – nicht *…, dass ich dich anrufen sollen hätte*. Dasselbe gilt im Passiv mit Modalverb: „…, weil die Brücke längst **hätte saniert werden müssen**.“"
+    },
+    {
+      "type": "table",
+      "heading": "What the modal verb tells you",
+      "headingDe": "Was das Modalverb ausdrückt",
+      "columns": ["Form", "Meaning", "Example"],
+      "columnsDe": ["Form", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["hätte … sollen", "advice or reproach: it would have been right – but it didn't happen", "Du **hättest** mir früher Bescheid **sagen sollen**."],
+        ["hätte … müssen", "stronger: it was necessary or a duty – but it didn't happen", "Die Firma **hätte** die Kunden **warnen müssen**."],
+        ["hätte … können", "a chance that was not used (often a reproach)", "Wir **hätten** das Problem ganz einfach **lösen können**."],
+        ["hätte nicht … dürfen", "it was wrong that it happened", "Das **hätte** nicht **passieren dürfen**."],
+        ["hätte nicht zu … brauchen", "it was not necessary – but it was done anyway", "Sie **hätten** mich nicht vom Bahnhof **abzuholen brauchen**."]
+      ],
+      "rowsDe": [
+        ["hätte … sollen", "Rat oder Vorwurf: Es wäre richtig gewesen – ist aber nicht passiert", "Du **hättest** mir früher Bescheid **sagen sollen**."],
+        ["hätte … müssen", "stärker: Es war notwendig oder eine Pflicht – ist aber nicht passiert", "Die Firma **hätte** die Kunden **warnen müssen**."],
+        ["hätte … können", "eine Möglichkeit, die man nicht genutzt hat (oft ein Vorwurf)", "Wir **hätten** das Problem ganz einfach **lösen können**."],
+        ["hätte nicht … dürfen", "Es war falsch, dass es passiert ist", "Das **hätte** nicht **passieren dürfen**."],
+        ["hätte nicht zu … brauchen", "Es war nicht nötig – wurde aber trotzdem gemacht", "Sie **hätten** mich nicht vom Bahnhof **abzuholen brauchen**."]
+      ],
+      "note": "In reproaches, sollen and müssen are often interchangeable; müssen sounds stronger, like a duty that was not fulfilled.",
+      "noteDe": "In Vorwürfen sind sollen und müssen oft austauschbar; müssen klingt stärker, wie eine Pflicht, die nicht erfüllt wurde."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Wenn ich die Mail früher **gelesen hätte**, **wäre** ich nicht umsonst ins Büro **gefahren**.", "en": "If I had read the e-mail earlier, I wouldn't have gone to the office for nothing." },
+        { "de": "**Hätten** wir den Vertrag genauer **geprüft**, **wären** uns die versteckten Kosten **aufgefallen**.", "en": "Had we checked the contract more carefully, we would have noticed the hidden costs." },
+        { "de": "Ohne den Hinweis der Nachbarin **wäre** der Brand viel später **entdeckt worden**.", "en": "Without the neighbour's warning, the fire would have been discovered much later." },
+        { "de": "Beinahe **hätte** ich den Termin beim Bürgeramt **vergessen**.", "en": "I almost forgot the appointment at the citizens' office." },
+        { "de": "**Hätte** ich doch bloß auf meine Schwester **gehört**!", "en": "If only I had listened to my sister!" },
+        { "de": "Ich **hätte** mich besser auf das Vorstellungsgespräch **vorbereiten sollen**.", "en": "I should have prepared better for the job interview." },
+        { "de": "Die Hausverwaltung **hätte** uns rechtzeitig über die Bauarbeiten **informieren müssen**.", "en": "The property management ought to have informed us about the building work in good time." },
+        { "de": "Mir ist klar, dass wir das Projekt früher **hätten stoppen müssen**.", "en": "I realise that we should have stopped the project earlier." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** **Sprachbausteine Teil 1** loves the choices „hätte / wäre / würde“ and „hatte / hätte“. Look at the end of the clause first: a participle of a verb of movement or change (*gefahren, gekommen, geblieben, passiert*) → **wäre**; most other participles (*gemacht, gesehen, gewusst*) → **hätte**; two infinitives (*buchen sollen*) → **hätte**. The past of „wäre“ is „wäre … gewesen“.\n\nIn the **B2 complaint** (Schreiben), this form lets you criticise politely but clearly: „Sie **hätten** mich zumindest über die Verzögerung **informieren müssen**.“ – „Bei einer rechtzeitigen Absage **hätte** ich die Reise noch **stornieren können**.“ In **Sprechen Teil 1** (talking about an experience) it makes your evaluation richer: „Im Nachhinein **hätte** ich mir mehr Zeit **nehmen sollen**.“ – „Wenn ich das **gewusst hätte**, **wäre** ich früher **hingegangen**.“",
+      "mdDe": "**In der Prüfung:** In **Sprachbausteine Teil 1** kommen oft die Optionen „hätte / wäre / würde“ und „hatte / hätte“ vor. Schau zuerst ans Ende des Satzes: ein Partizip eines Verbs der Bewegung oder Veränderung (*gefahren, gekommen, geblieben, passiert*) → **wäre**; die meisten anderen Partizipien (*gemacht, gesehen, gewusst*) → **hätte**; zwei Infinitive (*buchen sollen*) → **hätte**. Die Vergangenheit von „wäre“ heißt „wäre … gewesen“.\n\nIn der **B2-Beschwerde** (Schreiben) kannst du mit dieser Form höflich, aber deutlich kritisieren: „Sie **hätten** mich zumindest über die Verzögerung **informieren müssen**.“ – „Bei einer rechtzeitigen Absage **hätte** ich die Reise noch **stornieren können**.“ In **Sprechen Teil 1** (über ein Erlebnis berichten) macht sie deine Bewertung reicher: „Im Nachhinein **hätte** ich mir mehr Zeit **nehmen sollen**.“ – „Wenn ich das **gewusst hätte**, **wäre** ich früher **hingegangen**.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Three traps:**\n\n1. **No *gemusst* or *gesollt* next to an infinitive.** „Ich hätte das machen gemusst“ is wrong → „Ich **hätte** das **machen müssen**.“\n2. **hatte ≠ hätte.** „Ich **hatte** den Termin vergessen“ is a fact (Plusquamperfekt). „Ich **hätte** den Termin fast **vergessen**“ – it did not happen.\n3. **Reproach or assumption?** „Er **hätte** den Brief **lesen müssen**.“ = he should have read it (but he didn't). „Er **muss** den Brief **gelesen haben**.“ = I'm sure he read it (see „Vermutungen“).",
+      "mdDe": "**Drei Fallen:**\n\n1. **Kein *gemusst* oder *gesollt* neben einem Infinitiv.** „Ich hätte das machen gemusst“ ist falsch → „Ich **hätte** das **machen müssen**.“\n2. **hatte ≠ hätte.** „Ich **hatte** den Termin vergessen“ ist eine Tatsache (Plusquamperfekt). „Ich **hätte** den Termin fast **vergessen**“ – es ist nicht passiert.\n3. **Vorwurf oder Vermutung?** „Er **hätte** den Brief **lesen müssen**.“ = Er hätte ihn lesen sollen (hat es aber nicht getan). „Er **muss** den Brief **gelesen haben**.“ = Ich bin sicher, dass er ihn gelesen hat (siehe „Vermutungen“)."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wenn ich mehr Zeit gehabt hätte, würde ich mitgekommen.",
+      "right": "Wenn ich mehr Zeit gehabt hätte, wäre ich mitgekommen.",
+      "why": "In a past unreal condition the main clause also needs hätte/wäre + Partizip II. „würde“ + participle is not a past form, and „mitkommen“ forms the Perfekt with sein.",
+      "whyDe": "In einer irrealen Bedingung in der Vergangenheit braucht auch der Hauptsatz hätte/wäre + Partizip II. „würde“ + Partizip ist keine Vergangenheitsform, und „mitkommen“ bildet das Perfekt mit sein."
+    },
+    {
+      "wrong": "Du hättest mich vorher anrufen gesollt.",
+      "right": "Du hättest mich vorher anrufen sollen.",
+      "why": "Next to another infinitive, the modal verb stays in the infinitive (double infinitive): „anrufen sollen“, not „anrufen gesollt“.",
+      "whyDe": "Neben einem anderen Infinitiv bleibt das Modalverb im Infinitiv (doppelter Infinitiv): „anrufen sollen“, nicht „anrufen gesollt“."
+    },
+    {
+      "wrong": "Ich weiß, dass wir den Antrag früher stellen müssen hätten.",
+      "right": "Ich weiß, dass wir den Antrag früher hätten stellen müssen.",
+      "why": "With a double infinitive, „hätte“ does not go to the very end of a subordinate clause – it stands before the two infinitives.",
+      "whyDe": "Bei einem doppelten Infinitiv steht „hätte“ im Nebensatz nicht ganz am Ende, sondern vor den beiden Infinitiven."
+    },
+    {
+      "wrong": "Wenn der Bus pünktlich gekommen hätte, hätte ich den Zug erreicht.",
+      "right": "Wenn der Bus pünktlich gekommen wäre, hätte ich den Zug erreicht.",
+      "why": "„kommen“ forms the Perfekt with sein (ist gekommen), so the Konjunktiv II past is „gekommen wäre“. „erreichen“ takes haben – so the two clauses need different auxiliaries.",
+      "whyDe": "„kommen“ bildet das Perfekt mit sein (ist gekommen), deshalb heißt der Konjunktiv II der Vergangenheit „gekommen wäre“. „erreichen“ braucht haben – die beiden Sätze brauchen also verschiedene Hilfsverben."
+    },
+    {
+      "wrong": "Wenn ich das gewusst hatte, hätte ich dir geholfen.",
+      "right": "Wenn ich das gewusst hätte, hätte ich dir geholfen.",
+      "why": "The condition is unreal (I didn't know), so it needs the Konjunktiv II „hätte“. „hatte“ is the indicative Plusquamperfekt and would describe a fact.",
+      "whyDe": "Die Bedingung ist irreal (ich wusste es nicht), deshalb braucht sie den Konjunktiv II „hätte“. „hatte“ ist Plusquamperfekt im Indikativ und würde eine Tatsache beschreiben."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Wenn ich damals Informatik studiert hätte, ___ ich heute einen besser bezahlten Job.",
+      "options": ["hätte", "hätte gehabt", "hatte"],
+      "answer": 0,
+      "explanation": "Mixed times: the condition lies in the past, but „heute“ shows a present result – so the main clause takes the present Konjunktiv II „hätte“. „hätte gehabt“ would refer to the past, and „hatte“ is an indicative fact.",
+      "explanationDe": "Gemischte Zeiten: Die Bedingung liegt in der Vergangenheit, aber „heute“ zeigt eine Folge in der Gegenwart – deshalb steht im Hauptsatz der Konjunktiv II der Gegenwart „hätte“. „hätte gehabt“ würde sich auf die Vergangenheit beziehen, und „hatte“ ist eine Tatsache im Indikativ."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ohne die schnelle Hilfe der Nachbarn ___ der Schaden viel größer gewesen.",
+      "options": ["wäre", "hätte", "würde"],
+      "answer": 0,
+      "explanation": "„gewesen“ is the participle of sein, and sein forms the Perfekt with sein: „wäre … gewesen“. „hätte … gewesen“ has the wrong auxiliary, and „würde“ would need „gewesen sein“.",
+      "explanationDe": "„gewesen“ ist das Partizip von sein, und sein bildet das Perfekt mit sein: „wäre … gewesen“. „hätte … gewesen“ hat das falsche Hilfsverb, und „würde“ bräuchte „gewesen sein“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Du hättest mir ruhig sagen ___, dass die Feier ausfällt.",
+      "options": ["können", "gekonnt", "konntest"],
+      "answer": 0,
+      "explanation": "After „hättest … sagen“ the modal verb is in the infinitive (double infinitive): „sagen können“. „gekonnt“ is only used when können stands alone, and „konntest“ is a conjugated form.",
+      "explanationDe": "Nach „hättest … sagen“ steht das Modalverb im Infinitiv (doppelter Infinitiv): „sagen können“. „gekonnt“ benutzt man nur, wenn können allein steht, und „konntest“ ist eine konjugierte Form."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mir ist erst später klar geworden, dass ich die Kündigung schriftlich ___.",
+      "options": ["hätte einreichen müssen", "einreichen müssen hätte", "hätte eingereicht müssen"],
+      "answer": 0,
+      "explanation": "In a subordinate clause with a double infinitive, „hätte“ stands before the two infinitives: „hätte einreichen müssen“. The participle „eingereicht“ is wrong next to „müssen“.",
+      "explanationDe": "Im Nebensatz mit doppeltem Infinitiv steht „hätte“ vor den beiden Infinitiven: „hätte einreichen müssen“. Das Partizip „eingereicht“ ist neben „müssen“ falsch."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Zug hatte 40 Minuten Verspätung. Beinahe ___ ich meinen Anschlussflug verpasst.",
+      "options": ["hätte", "wäre", "würde"],
+      "answer": 0,
+      "explanation": "„beinahe“ shows that it almost happened but didn't, so you need the Konjunktiv II past. „verpassen“ has an accusative object and forms the Perfekt with haben: „hätte … verpasst“. „würde“ can't combine with the participle here.",
+      "explanationDe": "„beinahe“ zeigt, dass es fast passiert wäre, aber nicht passiert ist – du brauchst also den Konjunktiv II der Vergangenheit. „verpassen“ hat ein Akkusativobjekt und bildet das Perfekt mit haben: „hätte … verpasst“. „würde“ passt hier nicht zum Partizip."
+    },
+    {
+      "type": "mc",
+      "prompt": "Danke für den Kuchen! Aber du hättest dir wirklich nicht so viel Mühe zu machen ___.",
+      "options": ["brauchen", "gebraucht", "müssen"],
+      "answer": 0,
+      "explanation": "„nicht zu … brauchen“ means that it wasn't necessary. Like a modal verb, „brauchen“ stays in the infinitive in the double infinitive. „müssen“ never takes „zu“, and „gebraucht“ is wrong next to an infinitive.",
+      "explanationDe": "„nicht zu … brauchen“ bedeutet, dass es nicht nötig war. Wie ein Modalverb bleibt „brauchen“ im doppelten Infinitiv im Infinitiv. „müssen“ steht nie mit „zu“, und „gebraucht“ ist neben einem Infinitiv falsch."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wenn das Paket rechtzeitig ___ wäre, hätten wir kein Geschenk im Laden kaufen müssen.",
+      "hint": "(ankommen)",
+      "answers": ["angekommen"],
+      "explanation": "„wäre“ needs the Partizip II: „angekommen wäre“ (ankommen forms the Perfekt with sein). The main clause shows the double infinitive with „hätten … kaufen müssen“.",
+      "explanationDe": "„wäre“ braucht das Partizip II: „angekommen wäre“ (ankommen bildet das Perfekt mit sein). Der Hauptsatz zeigt den doppelten Infinitiv mit „hätten … kaufen müssen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Präsentation lief nicht gut. Ich hätte die Folien vorher noch einmal ___ sollen.",
+      "hint": "(überprüfen)",
+      "answers": ["überprüfen"],
+      "explanation": "Before „sollen“ you need the infinitive, not the participle „überprüft“: „hätte … überprüfen sollen“ = I should have checked them.",
+      "explanationDe": "Vor „sollen“ brauchst du den Infinitiv, nicht das Partizip „überprüft“: „hätte … überprüfen sollen“ = Es wäre richtig gewesen, sie zu überprüfen."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ ich doch bloß nicht so viel Geld für das alte Auto ausgegeben!",
+      "hint": "(haben)",
+      "answers": ["Hätte"],
+      "explanation": "An unreal wish about the past without „wenn“: the Konjunktiv II „Hätte“ comes first, „doch bloß“ follows. „ausgeben“ forms the Perfekt with haben.",
+      "explanationDe": "Ein irrealer Wunsch über die Vergangenheit ohne „wenn“: Der Konjunktiv II „Hätte“ steht am Anfang, danach folgt „doch bloß“. „ausgeben“ bildet das Perfekt mit haben."
+    },
+    {
+      "type": "order",
+      "words": ["billiger", "wir", "gewesen.", "Hätten", "die", "früher", "wäre", "gebucht,", "Reise"],
+      "answers": ["Hätten wir früher gebucht, wäre die Reise billiger gewesen."],
+      "explanation": "A past condition without „wenn“: „Hätten“ starts the sentence, the participle „gebucht“ ends the clause. The main clause begins directly with „wäre“ and ends with „gewesen“.",
+      "explanationDe": "Eine Bedingung in der Vergangenheit ohne „wenn“: „Hätten“ steht am Anfang, das Partizip „gebucht“ am Ende des Nebensatzes. Der Hauptsatz beginnt direkt mit „wäre“ und endet mit „gewesen“."
+    },
+    {
+      "type": "order",
+      "words": ["dich", "Mir", "sollen.", "dass", "hätte", "ist", "anrufen", "klar,", "ich"],
+      "answers": ["Mir ist klar, dass ich dich hätte anrufen sollen."],
+      "explanation": "In the dass clause, „hätte“ stands before the double infinitive „anrufen sollen“ – not at the very end.",
+      "explanationDe": "Im dass-Satz steht „hätte“ vor dem doppelten Infinitiv „anrufen sollen“ – nicht ganz am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences into an unreal condition in the past with „wenn“.",
+      "instructionDe": "Verbinde die Sätze zu einer irrealen Bedingung in der Vergangenheit mit „wenn“.",
+      "prompt": "Ich habe den Wecker nicht gehört. Deshalb bin ich zu spät gekommen.",
+      "answers": [
+        "Wenn ich den Wecker gehört hätte, wäre ich nicht zu spät gekommen.",
+        "Wenn ich den Wecker gehört hätte, wäre ich pünktlich gekommen.",
+        "Ich wäre nicht zu spät gekommen, wenn ich den Wecker gehört hätte.",
+        "Ich wäre pünktlich gekommen, wenn ich den Wecker gehört hätte."
+      ],
+      "explanation": "Both facts are reversed in the unreal version: „nicht gehört“ → „gehört hätte“, „zu spät gekommen“ → „nicht zu spät gekommen“. „kommen“ takes sein, so it's „wäre … gekommen“.",
+      "explanationDe": "In der irrealen Version drehst du beide Tatsachen um: „nicht gehört“ → „gehört hätte“, „zu spät gekommen“ → „nicht zu spät gekommen“. „kommen“ braucht sein, also heißt es „wäre … gekommen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the fact into a reproach with „hätte … sollen“.",
+      "instructionDe": "Mach aus der Tatsache einen Vorwurf mit „hätte … sollen“.",
+      "prompt": "Du hast den Mietvertrag nicht genau gelesen.",
+      "answers": ["Du hättest den Mietvertrag genau lesen sollen.", "Du hättest den Mietvertrag genauer lesen sollen."],
+      "explanation": "What didn't happen becomes what should have happened, so „nicht“ disappears. „hättest“ + the infinitive „lesen“ + „sollen“ – no participle.",
+      "explanationDe": "Was nicht passiert ist, wird zu dem, was hätte passieren sollen – deshalb fällt „nicht“ weg. „hättest“ + Infinitiv „lesen“ + „sollen“ – kein Partizip."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „ohne“ + noun instead of the wenn clause.",
+      "instructionDe": "Schreib den Satz mit „ohne“ + Nomen statt des wenn-Satzes.",
+      "prompt": "Wenn du mir nicht geholfen hättest, hätte ich die Prüfung nicht bestanden.",
+      "answers": ["Ohne deine Hilfe hätte ich die Prüfung nicht bestanden.", "Ich hätte die Prüfung ohne deine Hilfe nicht bestanden."],
+      "explanation": "„wenn du mir nicht geholfen hättest“ becomes „ohne deine Hilfe“ (accusative). The main clause keeps „hätte … bestanden“; after the „ohne“ phrase in position 1, the verb follows directly.",
+      "explanationDe": "Aus „wenn du mir nicht geholfen hättest“ wird „ohne deine Hilfe“ (Akkusativ). Der Hauptsatz behält „hätte … bestanden“; nach „ohne deine Hilfe“ auf Position 1 folgt direkt das Verb."
+    }
+  ],
+  "related": ["konjunktiv-2", "plusquamperfekt", "perfekt", "modalverben", "konditionalsaetze", "irreale-vergleichssaetze", "konjunktiv-1", "vermutungen", "passiv-b2", "konsekutivsaetze-b2"]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "sprachbausteine-2-06",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Insektensterben: Was Gärten und Balkone beitragen können",
+  "topic": "umwelt",
+  "difficulty": 2,
+  "textType": "article",
+  "text": "Summen statt Schotter: Was Gärten und Balkone gegen das Insektensterben tun können\n\nWer früher im Sommer über Land fuhr, musste regelmäßig Insekten von der Windschutzscheibe wischen. Heute bleibt die Scheibe meist sauber – und dieser Eindruck täuscht nicht. Eine Langzeituntersuchung eines Forschungsteams aus Gießen kommt zu dem [[1]], dass die Masse der Fluginsekten in mehreren hessischen Schutzgebieten innerhalb von drei Jahrzehnten um mehr als die Hälfte geschrumpft ist. Als wichtigste Ursachen [[2]] die intensive Landwirtschaft, der Einsatz von Pestiziden sowie der Verlust natürlicher Lebensräume durch Straßen und Neubaugebiete.\n\n[[3]] dieser Entwicklung rücken zunehmend auch private Gärten in den Blick des Naturschutzes. Zusammengenommen bedecken sie eine beachtliche Fläche, doch viele von ihnen sind für Insekten nahezu wertlos. Kurz geschorener Rasen, exotische Ziersträucher und vor allem die beliebten Schottergärten sind arm [[4]] Blüten, die Nektar und Pollen liefern.\n\nDabei können schon kleine Gärten der Artenvielfalt einen wertvollen [[5]] erweisen, [[6]] dass ihre Besitzer dafür viel Geld ausgeben müssen. Fachleute empfehlen heimische Wildpflanzen wie Wiesensalbei, Glockenblumen oder Natternkopf, weil zahlreiche Wildbienenarten auf ganz bestimmte Pflanzen spezialisiert sind. Wer außerdem einen Teil des Rasens [[7]] einer Blumenwiese aufgibt, vergrößert das Nahrungsangebot zusätzlich. Laub und Totholz, die im Herbst liegen bleiben, dienen Käfern und anderen Insekten als Winterquartier.\n\nAuch auf dem Balkon lässt sich einiges bewirken. Geranien und Petunien sehen zwar hübsch aus, bieten Bienen und Schmetterlingen aber [[8]] Nahrung. Ein Kasten mit Lavendel, Thymian oder Wildblumen wird hingegen selbst im vierten Stock eifrig angeflogen. Skeptisch sieht die Biologin Ruth Kerschbaumer vom Landesverband für Artenvielfalt die beliebten Insektenhotels: „Sie nützen wenig, [[9]] in der Umgebung keine passenden Futterpflanzen wachsen.“\n\nKerschbaumer [[10]] deshalb bei Städten und Gemeinden für mehr Blühstreifen an Straßenrändern und in Parks. Erst wenn viele kleine grüne Inseln entstünden, könnten sich die Bestände dauerhaft erholen.",
+  "words": [
+    { "key": "a", "text": "an" },
+    { "key": "b", "text": "angesichts" },
+    { "key": "c", "text": "anstelle" },
+    { "key": "d", "text": "Dienst" },
+    { "key": "e", "text": "durchaus" },
+    { "key": "f", "text": "Einfluss" },
+    { "key": "g", "text": "Ergebnis" },
+    { "key": "h", "text": "Erkenntnis" },
+    { "key": "i", "text": "gelten" },
+    { "key": "j", "text": "halten" },
+    { "key": "k", "text": "kaum" },
+    { "key": "l", "text": "ohne" },
+    { "key": "m", "text": "solange" },
+    { "key": "n", "text": "wirbt" },
+    { "key": "o", "text": "zugunsten" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "g",
+      "explanation": "„zu dem Ergebnis kommen, dass …“ (to come to the conclusion that) is the fixed expression for studies. „Erkenntnis“ is the trap: the meaning is close, but the word is feminine („zu der Erkenntnis kommen“) and cannot follow „dem“.",
+      "explanationDe": "„zu dem Ergebnis kommen, dass …“ ist die feste Wendung für Studien. „Erkenntnis“ ist die Falle: Die Bedeutung ist ähnlich, aber das Wort ist feminin („zu der Erkenntnis kommen“) und passt nicht nach „dem“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 2,
+      "answer": "i",
+      "explanation": "„als etwas gelten“ (to be regarded as something): agriculture, pesticides and the loss of habitats are regarded as the main causes; the plural subject needs „gelten“. „halten“ is the trap: it needs a person as subject and „für“ („Fachleute halten … für die Ursachen“).",
+      "explanationDe": "„als etwas gelten“ (= als etwas angesehen werden): Landwirtschaft, Pestizide und der Verlust von Lebensräumen werden als Hauptursachen angesehen; das Subjekt steht im Plural, also „gelten“. „halten“ ist die Falle: Es braucht eine Person als Subjekt und „für“ („Fachleute halten … für die Ursachen“)."
+    },
+    {
+      "n": 3,
+      "answer": "b",
+      "explanation": "„angesichts“ + genitive (in view of): in view of the insect decline, private gardens are getting more attention. „anstelle“ (instead of) also takes the genitive, but nothing is being replaced here.",
+      "explanationDe": "„angesichts“ + Genitiv (= wenn man … sieht): Wegen des Insektensterbens bekommen private Gärten mehr Aufmerksamkeit. „anstelle“ (= statt) steht auch mit Genitiv, aber hier wird nichts ersetzt.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 4,
+      "answer": "a",
+      "explanation": "„arm an etwas sein“ (poor in something, having little of it) always takes „an“ + dative: „arm an Blüten“. Its opposite works the same way: „reich an“.",
+      "explanationDe": "„arm an etwas sein“ (= wenig von etwas haben) steht immer mit „an“ + Dativ: „arm an Blüten“. Das Gegenteil funktioniert genauso: „reich an“.",
+      "grammar": "adjektive-mit-praepositionen-b2"
+    },
+    {
+      "n": 5,
+      "answer": "d",
+      "explanation": "„jemandem einen Dienst erweisen“ (to do someone a service) is a fixed noun-verb combination, and „einen wertvollen“ needs a masculine noun. „Einfluss“ is masculine too and the trap, but it goes with „nehmen“ or „haben“, never with „erweisen“.",
+      "explanationDe": "„jemandem einen Dienst erweisen“ (= jemandem helfen) ist eine feste Nomen-Verb-Verbindung, und „einen wertvollen“ verlangt ein maskulines Nomen. „Einfluss“ ist auch maskulin und die Falle, aber man sagt „Einfluss nehmen“ oder „Einfluss haben“, nie „Einfluss erweisen“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 6,
+      "answer": "l",
+      "explanation": "„ohne dass“ says that something you might expect does not happen: gardens can help without their owners having to spend a lot of money. „solange“ can never be followed by „dass“.",
+      "explanationDe": "„ohne dass“ sagt, dass etwas Erwartetes nicht passiert: Gärten können helfen, und die Besitzer müssen dafür kein großes Geld ausgeben. Nach „solange“ kann nie „dass“ stehen.",
+      "grammar": "modalsaetze"
+    },
+    {
+      "n": 7,
+      "answer": "o",
+      "explanation": "„zugunsten“ + genitive (in favour of): part of the lawn is given up in favour of a flower meadow. „anstelle“ (instead of) is the trap: giving up the lawn „instead of a meadow“ makes no sense.",
+      "explanationDe": "„zugunsten“ + Genitiv (= damit etwas anderes Platz bekommt): Ein Teil des Rasens wird für eine Blumenwiese aufgegeben. „anstelle“ (= statt) ist die Falle: Den Rasen „statt einer Blumenwiese“ aufzugeben, ergibt keinen Sinn.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 8,
+      "answer": "k",
+      "explanation": "„zwar … aber“ needs a contrast: geraniums look pretty but offer hardly any food – the next sentence with „hingegen“ confirms that lavender is the better choice. „durchaus“ (certainly) is the trap: it would say the opposite and destroy the contrast.",
+      "explanationDe": "„zwar … aber“ braucht einen Gegensatz: Geranien sehen hübsch aus, bieten aber fast keine Nahrung – der nächste Satz mit „hingegen“ bestätigt, dass Lavendel besser ist. „durchaus“ ist die Falle: Es würde das Gegenteil sagen, dann gäbe es keinen Gegensatz mehr."
+    },
+    {
+      "n": 9,
+      "answer": "m",
+      "explanation": "„solange“ (as long as) names the period during which something is true: insect hotels are of little use as long as no suitable food plants grow nearby. „ohne“ would need „dass“ and makes no sense together with „keine“.",
+      "explanationDe": "„solange“ nennt den Zeitraum, in dem etwas gilt: Insektenhotels nützen wenig, solange in der Nähe keine Futterpflanzen wachsen. „ohne“ bräuchte „dass“ und ergibt zusammen mit „keine“ keinen Sinn.",
+      "grammar": "konditionalsaetze"
+    },
+    {
+      "n": 10,
+      "answer": "n",
+      "explanation": "„(bei jemandem) für etwas werben“ (to campaign for something): she asks towns and municipalities for more flower strips. The subject „Kerschbaumer“ is singular, so the plural forms „gelten“ and „halten“ are already wrong in form.",
+      "explanationDe": "„(bei jemandem) für etwas werben“ (= sich für etwas einsetzen): Sie bittet Städte und Gemeinden um mehr Blühstreifen. Das Subjekt „Kerschbaumer“ steht im Singular – die Pluralformen „gelten“ und „halten“ passen schon von der Form her nicht.",
+      "grammar": "verben-mit-praepositionen-b2"
+    }
+  ],
+  "glossary": [
+    { "de": "die Windschutzscheibe", "en": "windscreen" },
+    { "de": "schrumpfen", "en": "to shrink" },
+    { "de": "der Lebensraum", "en": "habitat" },
+    { "de": "der Schottergarten", "en": "gravel garden" },
+    { "de": "arm an etwas sein", "en": "to be poor in something" },
+    { "de": "jemandem einen Dienst erweisen", "en": "to do someone a service" },
+    { "de": "zugunsten (+ Genitiv)", "en": "in favour of" },
+    { "de": "das Totholz", "en": "dead wood" },
+    { "de": "für etwas werben", "en": "to campaign for something" },
+    { "de": "der Blühstreifen", "en": "strip of flowering plants" },
+    { "de": "sich erholen", "en": "to recover" }
+  ]
+}

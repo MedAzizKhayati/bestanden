@@ -1,0 +1,98 @@
+{
+  "id": "sprechen-2-14",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Länger arbeiten für die Rente?",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "theme": "Sollte das Rentenalter weiter angehoben werden?",
+  "article": {
+    "headline": "Rente mit 70? Kommission legt umstrittenen Vorschlag vor",
+    "lead": "Weil immer weniger Beschäftigte für immer mehr Rentnerinnen und Rentner aufkommen müssen, empfehlen Fachleute, das Rentenalter an die Lebenserwartung zu koppeln. Gewerkschaften und Sozialverbände laufen Sturm.",
+    "paragraphs": [
+      "Die Zahlen sind eindeutig: Kamen vor dreißig Jahren noch fast drei Erwerbstätige auf eine Person im Ruhestand, sind es heute nur noch knapp zwei. Bis 2045 könnte das Verhältnis sogar auf drei zu zwei sinken. Die unabhängige Kommission „Zukunft der Alterssicherung“ schlägt deshalb vor, das Rentenalter ab 2032 schrittweise anzuheben: Für jedes zusätzliche Lebensjahr sollen Beschäftigte acht Monate länger arbeiten. Langfristig liefe das auf eine Rente mit 69 oder 70 hinaus.",
+      "„Wir leben heute im Durchschnitt sieben Jahre länger als unsere Großeltern und sind dabei deutlich gesünder“, argumentiert die Ökonomin Charlotte Behrendsen, die der Kommission angehört. Ohne Reform müssten entweder die Beiträge kräftig steigen oder die Renten sinken – beides träfe vor allem die junge Generation. Außerdem fehlten vielen Betrieben schon heute erfahrene Fachkräfte.",
+      "Kritiker halten dagegen, dass längst nicht alle so lange durchhalten können. „Ein Dachdecker oder eine Altenpflegerin ist mit Mitte sechzig oft körperlich am Ende“, betont Gewerkschaftssprecher Uwe Dannemann. Für viele bedeute die Reform in Wahrheit eine Rentenkürzung, weil sie vorzeitig aufhören und dafür Abschläge in Kauf nehmen müssten. Laut einer aktuellen Umfrage lehnen 64 Prozent der Befragten den Vorschlag ab, unter den 18- bis 29-Jährigen sind es allerdings nur 48 Prozent.",
+      "Auch unter den Betroffenen gehen die Meinungen auseinander. Die 61-jährige Buchhalterin Sabine Ortlepp aus Bielefeld könnte sich vorstellen, länger zu arbeiten – „aber nur in Teilzeit und freiwillig“. Ihr Nachbar, ein Lagerarbeiter, zählt dagegen schon jetzt die Jahre bis zur Rente.",
+      "Die Kommission empfiehlt deshalb Ausnahmen für körperlich besonders belastende Berufe. Wie diese konkret aussehen sollen, lässt der Bericht allerdings offen."
+    ],
+    "source": "Ravensberger Bote, Wirtschaft"
+  },
+  "ideas": {
+    "pro": [
+      "die Menschen leben länger und bleiben länger gesund",
+      "das Rentensystem bleibt bezahlbar",
+      "die junge Generation wird nicht durch hohe Beiträge überlastet",
+      "Betriebe behalten erfahrene Fachkräfte",
+      "Arbeit gibt vielen Älteren Struktur und soziale Kontakte"
+    ],
+    "contra": [
+      "körperlich schwere Berufe sind bis 70 kaum zu schaffen",
+      "wer früher aufhören muss, bekommt Abschläge – faktisch eine Rentenkürzung",
+      "ältere Arbeitslose finden ohnehin kaum eine Stelle",
+      "weniger Zeit für Familie, Enkel und Ehrenamt",
+      "Menschen mit geringem Einkommen haben oft eine kürzere Lebenserwartung",
+      "unklar, wie gerechte Ausnahmen aussehen sollen"
+    ]
+  },
+  "questions": [
+    "Bis zu welchem Alter möchten Sie selbst berufstätig sein? Warum?",
+    "Wie ist die Rente in Ihrem Heimatland geregelt?",
+    "Wie könnte man Menschen in körperlich anstrengenden Berufen besser schützen?",
+    "Was könnten Unternehmen tun, damit ältere Beschäftigte gern länger arbeiten?",
+    "Sollte jeder selbst entscheiden dürfen, wann er in Rente geht?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Oleksandr Melnyk", "gender": "m", "age": "adult", "role": "Teilnehmer A" },
+    { "id": "B", "name": "Lan Hoàng", "gender": "f", "age": "adult", "role": "Teilnehmerin B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ja, dann fange ich an. Der Artikel berichtet über den Vorschlag einer Expertenkommission. Weil immer weniger Beschäftigte für immer mehr Rentner bezahlen müssen, soll das Rentenalter ab dem Jahr zweitausendzweiunddreißig an die Lebenserwartung gekoppelt werden." },
+    { "s": "A", "t": "Konkret heißt das: Für jedes zusätzliche Lebensjahr soll man acht Monate länger arbeiten. Langfristig würde das eine Rente mit neunundsechzig oder siebzig bedeuten." },
+    { "s": "A", "t": "Eine Ökonomin aus der Kommission meint, dass wir heute länger und gesünder leben als frühere Generationen. Ein Gewerkschaftssprecher hält dagegen, dass viele Menschen in körperlich schweren Berufen gar nicht so lange arbeiten können." },
+    { "s": "B", "t": "Ich würde gern noch die Umfrage ergänzen, die im Artikel erwähnt wird. Vierundsechzig Prozent der Befragten lehnen den Vorschlag ab, bei den jungen Leuten aber nur knapp die Hälfte. Das hat mich überrascht, weil die Reform ja vor allem die Jüngeren betrifft." },
+    { "s": "A", "t": "Vielleicht befürchten die Jungen, dass sie sonst die hohen Beiträge allein tragen müssen. Ehrlich gesagt kann ich die Kommission ein Stück weit verstehen. Irgendjemand muss die Renten ja bezahlen." },
+    { "s": "B", "t": "Das bestreite ich gar nicht. Aber meine Mutter war dreißig Jahre lang Krankenschwester im Schichtdienst. Mit dreiundsechzig hatte sie solche Rückenprobleme, dass sie keine Patienten mehr heben konnte." },
+    { "s": "A", "t": "Das glaube ich Ihnen sofort. Für solche Berufe müsste es natürlich Ausnahmen geben, und die schlägt die Kommission ja auch vor." },
+    { "s": "B", "t": "Schon, aber im Artikel steht auch, dass noch völlig offen ist, wie diese Ausnahmen aussehen sollen. Wer entscheidet denn, ob zum Beispiel eine Erzieherin oder ein Busfahrer körperlich schwer genug arbeitet?" },
+    { "s": "A", "t": "Da haben Sie recht, das ist schwierig. Vielleicht könnte man es nicht nach Berufen, sondern nach Beitragsjahren regeln. Wer mit sechzehn eine Ausbildung angefangen hat, dürfte dann früher aufhören als jemand, der lange studiert hat." },
+    { "s": "B", "t": "Das finde ich eine gute Idee, das wäre gerechter. Wie ist das eigentlich in der Ukraine geregelt?" },
+    { "s": "A", "t": "Bei uns gehen die meisten früher in Rente als in Deutschland, aber die Renten sind so niedrig, dass viele Ältere nebenbei weiterarbeiten. Mein Onkel fährt zum Beispiel mit achtundsechzig immer noch Taxi, nicht aus Freude, sondern weil das Geld sonst nicht reicht." },
+    { "s": "B", "t": "Genau das ist meine Sorge. Ein höheres Rentenalter klingt auf dem Papier vernünftig, aber für viele bedeutet es in Wahrheit eine Kürzung, weil sie früher aufhören müssen und dann Abschläge bekommen." },
+    { "s": "P", "t": "Was könnten denn die Unternehmen tun, damit Ältere länger im Beruf bleiben?" },
+    { "s": "A", "t": "Ich denke, flexible Modelle wären wichtig, also Teilzeit oder keine Nachtschichten mehr ab einem bestimmten Alter. Die Buchhalterin aus dem Artikel würde ja auch länger bleiben, aber eben nur in Teilzeit." },
+    { "s": "B", "t": "Außerdem sollten die Firmen endlich aufhören, Bewerber über fünfundfünfzig auszusortieren. Ich kenne einige Leute, die mit Ende fünfzig arbeitslos geworden sind und nie wieder eine Stelle gefunden haben." },
+    { "s": "A", "t": "Das ist ein wichtiger Einwand. Ein höheres Rentenalter nützt nichts, wenn die Menschen vorher gar keine Arbeit mehr bekommen." },
+    { "s": "B", "t": "Eben. Ich wäre eher dafür, dass jeder selbst entscheiden kann: Wer länger arbeitet, bekommt eine deutlich höhere Rente, und wer früher aufhört, eben etwas weniger." },
+    { "s": "A", "t": "Ein flexibler Übergang statt einer starren Grenze, das klingt überzeugend. Ganz ohne längeres Arbeiten wird es aber wohl nicht gehen, wenn das System bezahlbar bleiben soll." },
+    { "s": "B", "t": "Da sind wir uns wohl nicht ganz einig. Aber in einem Punkt schon: Die Reform darf nicht auf Kosten derjenigen gehen, die körperlich am härtesten arbeiten." },
+    { "s": "A", "t": "Ja, darauf können wir uns einigen. Wer länger arbeiten kann und will, sollte belohnt werden, aber niemand sollte gezwungen werden, bis zur völligen Erschöpfung durchzuhalten." }
+  ],
+  "phrases": [
+    { "de": "Der Artikel berichtet über …", "en": "The article reports on …" },
+    { "de": "Ich würde gern noch einen Punkt ergänzen, der im Artikel erwähnt wird: …", "en": "I'd like to add a point that is mentioned in the article: …" },
+    { "de": "Das hat mich überrascht, weil …", "en": "That surprised me because …" },
+    { "de": "Ich kann … ein Stück weit verstehen.", "en": "I can understand … to some extent." },
+    { "de": "Das bestreite ich gar nicht. Aber …", "en": "I'm not denying that at all. But …" },
+    { "de": "Das glaube ich Ihnen sofort.", "en": "I can well believe that." },
+    { "de": "Vielleicht könnte man es … regeln.", "en": "Perhaps it could be regulated by …" },
+    { "de": "Das ist ein wichtiger Einwand.", "en": "That's an important objection." },
+    { "de": "Ich wäre eher dafür, dass …", "en": "I'd be more in favour of …" },
+    { "de": "Da sind wir uns wohl nicht ganz einig.", "en": "We probably don't quite agree on that." },
+    { "de": "Darauf können wir uns einigen.", "en": "We can agree on that." }
+  ],
+  "vocabulary": [
+    { "de": "das Rentenalter", "en": "retirement age" },
+    { "de": "die Lebenserwartung", "en": "life expectancy" },
+    { "de": "etwas an etwas koppeln", "en": "to link something to something" },
+    { "de": "der Ruhestand", "en": "retirement" },
+    { "de": "der Beitrag (die Beiträge)", "en": "contribution(s)" },
+    { "de": "der Abschlag", "en": "deduction (e.g. for early retirement)" },
+    { "de": "die Erwerbstätigen (Pl.)", "en": "people in employment" },
+    { "de": "die Gewerkschaft", "en": "trade union" },
+    { "de": "der Schichtdienst", "en": "shift work" },
+    { "de": "die Rentenkürzung", "en": "pension cut" },
+    { "de": "körperlich belastend", "en": "physically demanding" }
+  ]
+}

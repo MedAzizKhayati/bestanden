@@ -1,0 +1,117 @@
+{
+  "id": "lesen-1-11",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Rathaus und neue Heimat",
+  "topic": "behoerden",
+  "difficulty": 3,
+  "headlines": [
+    { "key": "a", "text": "Per Los ins Rathaus: Gemeinderat übernimmt viele Bürgerideen" },
+    { "key": "b", "text": "Einfache Sprache: Mehr Widersprüche gegen städtische Bescheide" },
+    { "key": "c", "text": "Zu wenige Freiwillige: Stadt verpflichtet Bürger als Wahlhelfer" },
+    { "key": "d", "text": "Pflegeberufe: Ausländische Abschlüsse werden schneller anerkannt" },
+    { "key": "e", "text": "Freiwillige erledigen Behördengänge für Zugewanderte" },
+    { "key": "f", "text": "Klartext statt Amtsdeutsch: Verwaltung zieht erfreuliche Bilanz" },
+    { "key": "g", "text": "Bürgerrat erhält das letzte Wort über leere Geschäfte" },
+    { "key": "h", "text": "Ausländische Pflegekräfte: Sprachnachweis künftig nicht mehr nötig" },
+    { "key": "i", "text": "Am Ende ohne Zwang: Genug Freiwillige für die Wahllokale" },
+    { "key": "j", "text": "Neu in der Stadt: Ehrenamtliche Tandems erleichtern den Start" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Wer einen Bescheid vom Amt erhält, versteht oft nur die Hälfte und greift deshalb zum Telefon. Die Stadt Kassel hat in den vergangenen zwei Jahren gemeinsam mit einer Forschungsgruppe für verständliche Verwaltungssprache rund vierzig Standardschreiben überarbeitet, darunter Bescheide über Wohngeld, Kita-Gebühren und Bewohnerparkausweise. Bandwurmsätze wurden aufgelöst, Fachbegriffe erklärt, und am Anfang jedes Schreibens steht nun in zwei Sätzen, was die Empfängerin oder der Empfänger tun muss und bis wann. Die erste Auswertung übertrifft die Erwartungen: Die Zahl der Rückfragen beim Bürgertelefon ist um ein Drittel gesunken, und auch Widersprüche, die lediglich auf Missverständnissen beruhten, gingen deutlich zurück. Besonders skeptisch war zu Beginn die Rechtsabteilung, die befürchtet hatte, vereinfachte Formulierungen könnten vor Gericht angreifbar sein. Diese Sorge hat sich bislang nicht bestätigt, zumal die juristisch verbindlichen Passagen weiterhin vollständig im Anhang abgedruckt werden. Bis Ende des kommenden Jahres sollen sämtliche Vordrucke der Stadtverwaltung nach demselben Prinzip umgestaltet werden, wofür eigens zwei zusätzliche Stellen geschaffen wurden.",
+      "answer": "f",
+      "explanation": "Kassel rewrote its standard letters in plain language, and „Die erste Auswertung übertrifft die Erwartungen“: a third fewer calls and fewer objections – (f). Headline (b) reverses the result: objections based on misunderstandings „gingen deutlich zurück“.",
+      "explanationDe": "Kassel hat seine Standardschreiben in verständlicher Sprache neu formuliert, und „Die erste Auswertung übertrifft die Erwartungen“: ein Drittel weniger Rückfragen und weniger Widersprüche – (f). Überschrift (b) dreht das Ergebnis um: Widersprüche wegen Missverständnissen „gingen deutlich zurück“.",
+      "evidence": [
+        "Die erste Auswertung übertrifft die Erwartungen",
+        "Die Zahl der Rückfragen beim Bürgertelefon ist um ein Drittel gesunken"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Pflegekräfte, die ihre Ausbildung im Ausland absolviert haben, mussten in Baden-Württemberg bislang im Schnitt elf Monate warten, bis ihr Abschluss anerkannt war – eine Zeit, in der viele nur als Hilfskräfte arbeiten durften oder in andere Bundesländer abwanderten. Seit dem Frühjahr bündelt eine neu eingerichtete zentrale Anerkennungsstelle in Stuttgart die Verfahren, die zuvor auf mehrere regionale Behörden verteilt waren. Anträge lassen sich nun vollständig digital einreichen, und statt jedes Zeugnis Fach für Fach mit dem deutschen Lehrplan zu vergleichen, können Antragstellende direkt eine praktische Kenntnisprüfung ablegen. Nach Angaben der neuen Behörde hat sich die durchschnittliche Bearbeitungsdauer dadurch auf knapp vier Monate verkürzt. An einer Voraussetzung wird allerdings nicht gerüttelt: Wer als Pflegefachkraft arbeiten will, muss weiterhin Deutschkenntnisse auf dem Niveau B2 nachweisen. Gerade hier sehen Kliniken und Pflegeheime inzwischen den eigentlichen Engpass, da die Wartelisten für berufsbezogene Sprachkurse lang sind. Ein Bündnis privater Pflegeanbieter fordert deshalb, Sprachkurse und Anerkennungsverfahren künftig parallel statt nacheinander zu organisieren.",
+      "answer": "d",
+      "explanation": "A new central office accepts online applications and offers a practical exam, so the average processing time fell from eleven months „auf knapp vier Monate“ – (d). Headline (h) is the opposite: nurses must „weiterhin Deutschkenntnisse auf dem Niveau B2 nachweisen“.",
+      "explanationDe": "Eine neue zentrale Stelle nimmt Anträge digital an und bietet eine praktische Prüfung an. Deshalb ist die Bearbeitungsdauer von elf Monaten „auf knapp vier Monate“ gesunken – (d). Überschrift (h) sagt das Gegenteil: Pflegekräfte müssen „weiterhin Deutschkenntnisse auf dem Niveau B2 nachweisen“.",
+      "evidence": [
+        "hat sich die durchschnittliche Bearbeitungsdauer dadurch auf knapp vier Monate verkürzt"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Was soll mit den leer stehenden Geschäften in der Linzer Innenstadt geschehen? Über diese Frage haben im Frühjahr fünfunddreißig Bürgerinnen und Bürger beraten, die nicht etwa von Parteien entsandt, sondern per Los aus dem Melderegister ausgewählt worden waren. Unter ihnen waren eine Studentin, ein pensionierter Busfahrer und eine Unternehmerin – bewusst so zusammengesetzt, dass Alter, Geschlecht und Wohnbezirke der Bevölkerung entsprachen. An vier Wochenenden hörten sie Fachleute an, diskutierten in Kleingruppen und einigten sich schließlich auf vierzehn Empfehlungen, etwa befristete Mietverträge für Kunsthandwerker oder Gemeinschaftsräume für Vereine. Bindend sind diese Vorschläge nicht, denn die Entscheidung liegt weiterhin beim Gemeinderat. Dieser hat in seiner jüngsten Sitzung jedoch neun der vierzehn Empfehlungen übernommen, zwei weitere sollen noch geprüft werden. Kritiker aus der Opposition bemängeln, ein ausgeloster Rat sei demokratisch nicht ausreichend legitimiert. Die Teilnehmenden selbst ziehen ein positives Fazit: Viele gaben an, politische Entscheidungen nun besser nachvollziehen zu können, auch wenn nicht jede ihrer Ideen umgesetzt werde.",
+      "answer": "a",
+      "explanation": "Citizens chosen „per Los aus dem Melderegister“ made fourteen recommendations, and the city council „hat … neun der vierzehn Empfehlungen übernommen“ – (a). Headline (g) exaggerates: the proposals are not binding, „die Entscheidung liegt weiterhin beim Gemeinderat“.",
+      "explanationDe": "Bürger, die „per Los aus dem Melderegister“ ausgewählt wurden, haben vierzehn Empfehlungen gemacht, und der Gemeinderat „hat … neun der vierzehn Empfehlungen übernommen“ – (a). Überschrift (g) übertreibt: Die Vorschläge sind nicht bindend, „die Entscheidung liegt weiterhin beim Gemeinderat“.",
+      "evidence": [
+        "per Los aus dem Melderegister ausgewählt worden waren",
+        "neun der vierzehn Empfehlungen übernommen"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Ein Formular für die Krankenkasse, ein Elternabend in der Schule, die erste Wohnungsbesichtigung: Für Menschen, die neu in die Schweiz kommen, sind solche Situationen oft eine größere Hürde als der Sprachkurs. Die Stadt St. Gallen bringt deshalb seit drei Jahren zugewanderte Familien mit Einheimischen zusammen, die sie im ersten Jahr ehrenamtlich begleiten. Die sogenannten Tandempartner sollen den Familien die Wege dabei ausdrücklich nicht abnehmen, sondern sie beim ersten Mal begleiten und erklären, wie Ämter, Schulen und Vereine funktionieren, damit die Familien ihre Angelegenheiten später selbstständig regeln können. Eine externe Evaluation zeigt nun, dass sich der Ansatz bewährt: Erwachsene aus Tandemfamilien fanden im Durchschnitt vier Monate früher eine Stelle als Vergleichsgruppen, und ihre Kinder nahmen häufiger an Freizeitangeboten teil. Bemerkenswert ist zudem, dass auch die Freiwilligen profitieren, denn über zwei Drittel von ihnen gaben an, durch das Projekt ihre eigene Stadt neu kennengelernt zu haben. Schwierig bleibt allerdings, genügend Männer und jüngere Menschen für das Ehrenamt zu gewinnen, weshalb die Stadt inzwischen gezielt in Betrieben und an Hochschulen um Freiwillige wirbt.",
+      "answer": "j",
+      "explanation": "Local volunteers accompany newly arrived families in their first year, and the evaluation shows „dass sich der Ansatz bewährt“ – adults found jobs four months earlier, (j). Headline (e) is a trap: the partners should „den Familien die Wege dabei ausdrücklich nicht abnehmen“, so that the families can manage on their own later.",
+      "explanationDe": "Ehrenamtliche aus der Stadt begleiten neu zugewanderte Familien im ersten Jahr, und die Evaluation zeigt, „dass sich der Ansatz bewährt“ – die Erwachsenen fanden vier Monate früher eine Stelle, (j). Überschrift (e) ist eine Falle: Die Tandempartner sollen „den Familien die Wege dabei ausdrücklich nicht abnehmen“, damit die Familien später alles allein regeln können.",
+      "evidence": [
+        "zugewanderte Familien mit Einheimischen zusammen, die sie im ersten Jahr ehrenamtlich begleiten",
+        "dass sich der Ansatz bewährt"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Rund 2.600 Wahlhelferinnen und Wahlhelfer benötigt die Stadt Chemnitz, damit an einem Wahlsonntag alle Wahllokale besetzt sind und die Stimmen am Abend zügig ausgezählt werden können. Bei der vergangenen Wahl hatten sich bis wenige Wochen vor dem Termin jedoch nur knapp zwei Drittel davon freiwillig gemeldet. Das Wahlamt bereitete daher bereits Schreiben vor, mit denen Bürgerinnen und Bürger zu dem Ehrenamt verpflichtet werden sollten – ein Schritt, den das Gesetz durchaus erlaubt, der in der Stadt bislang aber nie nötig gewesen war. Dazu kam es letztlich nicht: Nachdem die Stadt das sogenannte Erfrischungsgeld von 40 auf 80 Euro verdoppelt und gezielt Studierende sowie Beschäftigte städtischer Unternehmen angesprochen hatte, meldeten sich innerhalb von zehn Tagen mehr als tausend zusätzliche Freiwillige. Ob allein das höhere Entgelt den Ausschlag gab, ist allerdings unklar; viele der neuen Helferinnen und Helfer gaben in einer Umfrage an, sie hätten schlicht nicht gewusst, dass überhaupt Unterstützung gesucht werde. Für die kommenden Wahlen will die Stadt deshalb früher und breiter um Freiwillige werben.",
+      "answer": "i",
+      "explanation": "The city had prepared letters to oblige citizens to help, but „Dazu kam es letztlich nicht“: after the allowance was doubled, „mehr als tausend zusätzliche Freiwillige“ came forward – (i). Headline (c) presents the plan as a fact: in the end nobody had to be obliged.",
+      "explanationDe": "Die Stadt hatte schon Schreiben vorbereitet, um Bürger zu verpflichten, aber „Dazu kam es letztlich nicht“: Nachdem das Erfrischungsgeld verdoppelt wurde, meldeten sich „mehr als tausend zusätzliche Freiwillige“ – (i). Überschrift (c) stellt den Plan als Tatsache dar: Am Ende musste niemand verpflichtet werden.",
+      "evidence": [
+        "Dazu kam es letztlich nicht",
+        "meldeten sich innerhalb von zehn Tagen mehr als tausend zusätzliche Freiwillige"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "b",
+      "why": "Text 1 mentions objections („Widersprüche“), but they decreased: those based on misunderstandings „gingen deutlich zurück“. The legal department's fear of problems in court „hat sich bislang nicht bestätigt“.",
+      "whyDe": "Text 1 erwähnt „Widersprüche“, aber sie sind weniger geworden: Widersprüche wegen Missverständnissen „gingen deutlich zurück“. Die Angst der Rechtsabteilung vor Problemen vor Gericht „hat sich bislang nicht bestätigt“."
+    },
+    {
+      "key": "c",
+      "why": "Text 5 mentions obliging citizens only as a prepared step: „Dazu kam es letztlich nicht“, because enough volunteers came forward after the allowance was doubled.",
+      "whyDe": "Text 5 erwähnt die Verpflichtung von Bürgern nur als vorbereiteten Schritt: „Dazu kam es letztlich nicht“, weil sich nach der Verdopplung des Erfrischungsgelds genug Freiwillige gemeldet haben."
+    },
+    {
+      "key": "e",
+      "why": "In text 4 the volunteers go with the families to offices and schools the first time, but they do not do it for them: they should „den Familien die Wege dabei ausdrücklich nicht abnehmen“.",
+      "whyDe": "In Text 4 begleiten die Freiwilligen die Familien beim ersten Mal zu Ämtern und Schulen, aber sie erledigen nichts für sie: Sie sollen „den Familien die Wege dabei ausdrücklich nicht abnehmen“."
+    },
+    {
+      "key": "g",
+      "why": "In text 3 the citizens' council only makes recommendations: „Bindend sind diese Vorschläge nicht“ – the city council still decides and has accepted only nine of fourteen.",
+      "whyDe": "In Text 3 gibt der Bürgerrat nur Empfehlungen: „Bindend sind diese Vorschläge nicht“ – der Gemeinderat entscheidet weiterhin und hat nur neun von vierzehn übernommen."
+    },
+    {
+      "key": "h",
+      "why": "Text 2 is about foreign nurses, but „An einer Voraussetzung wird allerdings nicht gerüttelt“: they still have to prove German at level B2.",
+      "whyDe": "In Text 2 geht es um ausländische Pflegekräfte, aber „An einer Voraussetzung wird allerdings nicht gerüttelt“: Sie müssen weiterhin Deutsch auf dem Niveau B2 nachweisen."
+    }
+  ],
+  "glossary": [
+    { "de": "der Bescheid", "en": "official decision, notice (from an authority)" },
+    { "de": "der Widerspruch (gegen einen Bescheid)", "en": "formal objection (to an official decision)" },
+    { "de": "angreifbar", "en": "open to challenge, contestable" },
+    { "de": "der Vordruck", "en": "(pre-printed) form" },
+    { "de": "die Anerkennung (eines Abschlusses)", "en": "recognition (of a qualification)" },
+    { "de": "der Engpass", "en": "bottleneck" },
+    { "de": "an etwas nicht rütteln", "en": "not to call something into question, to leave something unchanged" },
+    { "de": "per Los", "en": "by lot, by drawing lots" },
+    { "de": "legitimiert sein", "en": "to be legitimised, to have a mandate" },
+    { "de": "sich bewähren", "en": "to prove itself, to prove successful" },
+    { "de": "jemandem etwas abnehmen", "en": "to do something for someone, to take something off someone's hands" },
+    { "de": "den Ausschlag geben", "en": "to be the decisive factor" }
+  ]
+}

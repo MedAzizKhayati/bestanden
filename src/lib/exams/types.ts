@@ -20,6 +20,17 @@ export interface SpeakingFlow {
   minutes: number;
   /** Target length of the candidate's own monologue turn, if any. */
   monologueSeconds?: number;
+  /** Preparation time offered before practising this part (seconds). */
+  prepSeconds?: number;
+}
+
+export interface WritingFlow {
+  /** Minimum length the task asks for (0 = no minimum stated). */
+  minWords: number;
+  /** "all": every Leitpunkt (B1). "three": three of four, or two plus an own aspect (B2). */
+  cover: "all" | "three";
+  /** The exam offers two tasks (Aufgabe A / B) to choose from. */
+  choice: boolean;
 }
 
 export interface PartDefinition {
@@ -41,6 +52,7 @@ export interface PartDefinition {
   description: string; // English: what this part tests
   audio?: AudioFlow;
   speaking?: SpeakingFlow;
+  writing?: WritingFlow;
 }
 
 export interface SectionDefinition {
@@ -97,6 +109,8 @@ export interface ExamDefinition {
   name: string; // "telc Deutsch B1"
   alias?: string; // "Zertifikat Deutsch"
   level: Level;
+  /** Grammar/vocabulary levels this exam builds on, most relevant first (e.g. B2 → B2, B1). */
+  studyLevels: Level[];
   description: string;
   written: { maxPoints: number; passPoints: number; minutes: number };
   oral: { maxPoints: number; passPoints: number; minutes: number; prepMinutes: number };

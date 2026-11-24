@@ -1,0 +1,57 @@
+{
+  "id": "schreiben-14",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Ferienbetreuung im Sommer",
+  "topic": "familie",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Ihr Kind hat im Sommer sechs Wochen Schulferien, aber Sie und Ihre Partnerin bzw. Ihr Partner müssen in dieser Zeit größtenteils arbeiten. Deshalb suchen Sie eine Ferienbetreuung und haben im Internet folgendes Angebot gefunden. Schreiben Sie eine E-Mail an den Veranstalter und bitten Sie um weitere Informationen.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Ferienwerkstatt „Entdeckerzeit“ – Sommer in Nürnberg\n\nLangeweile in den Ferien? Nicht bei uns! Für Kinder von 6 bis 12 Jahren bieten wir in den Sommerferien ein abwechslungsreiches Programm: Forschen im Kinderlabor, Ausflüge in den Reichswald, Theater und Werkstattprojekte.\n\n• Wochenweise buchbar (Montag–Freitag, 8–16 Uhr)\n• Frühbetreuung ab 7 Uhr gegen Aufpreis\n• Gesundes Mittagessen aus unserer Bio-Küche\n• Betreuung durch ausgebildete Pädagoginnen und Pädagogen, höchstens 12 Kinder pro Gruppe\n• 165 Euro pro Woche, Geschwisterrabatt 20 %\n\nAnmeldung bis 31. Mai – die Plätze sind begrenzt!\n\nKinder- und Jugendforum Nürnberg-Süd e. V. · Ilka Brandner\nferien@kjf-nuernberg-sued.de · Tel. 0911 4472 615"
+  },
+  "leitpunkte": [
+    "Erklären Sie, was Sie von den Betreuerinnen und Betreuern erwarten.",
+    "Stellen Sie weitere Fragen zu den Kosten und zur Anmeldung.",
+    "Beschreiben Sie, warum Sie für Ihr Kind eine Ferienbetreuung suchen.",
+    "Erläutern Sie, welche Interessen und Bedürfnisse Ihr Kind hat."
+  ],
+  "model": {
+    "subject": "Anfrage zur Ferienwerkstatt „Entdeckerzeit“ – drei Wochen im Juli",
+    "text": "Sehr geehrte Frau Brandner,\n\nauf Ihrer Internetseite bin ich auf die Ferienwerkstatt „Entdeckerzeit“ gestoßen. Da ich für meinen Sohn einen Platz in diesem Sommer suche, möchte ich Sie um einige zusätzliche Informationen bitten.\n\nMattis ist acht Jahre alt und hat im Sommer sechs Wochen Ferien. Sowohl meine Frau als auch ich arbeiten jedoch Vollzeit, und weil die Großeltern in Nigeria leben, sind wir in mindestens drei dieser Wochen auf eine zuverlässige Betreuung angewiesen.\n\nIhr Angebot hat mich vor allem deshalb überzeugt, weil Mattis gern draußen ist und sich sehr für Tiere und Pflanzen interessiert. Die Ausflüge in den Reichswald würden ihm daher sicher großen Spaß machen. Allerdings hat er eine Nussallergie, weshalb ich gern wüsste, ob Ihre Küche darauf Rücksicht nehmen kann. Außerdem ist er anfangs eher schüchtern und braucht etwas Zeit, bis er sich in einer neuen Gruppe wohlfühlt.\n\nSchließlich hätte ich noch einige Fragen zu den Kosten und zur Anmeldung. Ist das Mittagessen im Wochenpreis von 165 Euro bereits enthalten, und wie hoch ist der Aufpreis für die Frühbetreuung? Darüber hinaus würde mich interessieren, ob man eine gebuchte Woche im Krankheitsfall kostenlos stornieren kann.\n\nÜber eine baldige Antwort würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nDaniel Okafor"
+  },
+  "modelNotes": [
+    "The model covers three points in a logical order that differs from the task sheet: why the family needs childcare (both parents work full-time, the grandparents live far away), the child's interests and needs (nature, a nut allergy, shyness) and further questions about costs and booking. The point about what you expect from the carers is left out.",
+    "The questions target real gaps in the ad: Is lunch included in the 165 Euro? How much does early care cost? Can you cancel if the child is ill? Questions like these show that you have read the ad carefully.",
+    "Konjunktiv II makes requests and questions polite: „würden ihm … Spaß machen“, „wüsste ich gern“, „hätte ich noch einige Fragen“, „würde mich interessieren“.",
+    "Varied connectors link the ideas: „Da“, „sowohl … als auch“, „jedoch“, „vor allem deshalb, weil“, „Allerdings … weshalb“, „Außerdem“, „Schließlich“, „Darüber hinaus“."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte in einer logischen Reihenfolge, die nicht der Aufgabe folgt: warum die Familie eine Betreuung braucht (beide Eltern arbeiten Vollzeit, die Großeltern wohnen weit weg), welche Interessen und Bedürfnisse das Kind hat (Natur, Nussallergie, Schüchternheit) und weitere Fragen zu Kosten und Anmeldung. Den Punkt, was du von den Betreuern erwartest, lässt der Text weg.",
+    "Die Fragen zielen auf echte Lücken in der Anzeige: Ist das Mittagessen in den 165 Euro enthalten? Was kostet die Frühbetreuung? Kann man bei Krankheit stornieren? Solche Fragen zeigen, dass du die Anzeige genau gelesen hast.",
+    "Der Konjunktiv II macht Bitten und Fragen höflich: „würden ihm … Spaß machen“, „wüsste ich gern“, „hätte ich noch einige Fragen“, „würde mich interessieren“.",
+    "Abwechslungsreiche Konnektoren verbinden die Gedanken: „Da“, „sowohl … als auch“, „jedoch“, „vor allem deshalb, weil“, „Allerdings … weshalb“, „Außerdem“, „Schließlich“, „Darüber hinaus“."
+  ],
+  "phrases": [
+    { "de": "Auf Ihrer Internetseite bin ich auf … gestoßen.", "en": "I came across … on your website." },
+    { "de": "Ich möchte Sie um einige zusätzliche Informationen bitten.", "en": "I would like to ask you for some additional information." },
+    { "de": "Sowohl meine Frau als auch ich arbeiten Vollzeit.", "en": "Both my wife and I work full-time." },
+    { "de": "Wir sind auf eine zuverlässige Betreuung angewiesen.", "en": "We depend on reliable childcare." },
+    { "de": "Ihr Angebot hat mich vor allem deshalb überzeugt, weil …", "en": "Your offer convinced me above all because …" },
+    { "de": "…, weshalb ich gern wüsste, ob …", "en": "…, which is why I would like to know whether …" },
+    { "de": "Ist … im Preis bereits enthalten?", "en": "Is … already included in the price?" },
+    { "de": "Darüber hinaus würde mich interessieren, ob …", "en": "I would also be interested to know whether …" },
+    { "de": "Über eine baldige Antwort würde ich mich sehr freuen.", "en": "I would be very pleased to hear from you soon." }
+  ],
+  "glossary": [
+    { "de": "die Ferienbetreuung", "en": "holiday childcare" },
+    { "de": "wochenweise buchbar", "en": "can be booked by the week" },
+    { "de": "der Aufpreis", "en": "extra charge, surcharge" },
+    { "de": "der Geschwisterrabatt", "en": "sibling discount" },
+    { "de": "auf etwas angewiesen sein", "en": "to depend on something" },
+    { "de": "auf etwas Rücksicht nehmen", "en": "to take something into account" },
+    { "de": "stornieren", "en": "to cancel (a booking)" }
+  ]
+}

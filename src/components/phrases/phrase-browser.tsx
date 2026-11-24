@@ -2,6 +2,8 @@
 
 import { Copy, Search } from "lucide-react";
 import { useState } from "react";
+import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
+import { useExam } from "@/lib/exams/use-exam";
 import { toast } from "sonner";
 import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -10,16 +12,31 @@ import { useLocale, useT } from "@/i18n/client";
 import type { PhraseBank } from "@/lib/content/schemas";
 import { spokenPhrase } from "@/lib/content/spoken";
 
-export function PhraseBrowser({ banks }: { banks: PhraseBank[] }) {
+export function PhraseBrowser({ banks: allBanks }: { banks: PhraseBank[] }) {
   const t = useT();
   const locale = useLocale();
   const labels = t.phrases;
+  const exam = useExam();
+  const levels = [...new Set(allBanks.map((b) => b.level))];
+  const [chosenLevel, setLevel] = useState<string | null>(null);
+  // The Redemittel of the learner's exam level first (B2 banks add to the B1 ones).
+  const level = chosenLevel ?? (levels.includes(exam.level as "B1" | "B2") ? exam.level : levels[0]);
+  const banks = allBanks.filter((b) => b.level === level);
   const [query, setQuery] = useState("");
   const q = query.trim().toLowerCase();
   const match = (de: string, en: string) => !q || de.toLowerCase().includes(q) || en.toLowerCase().includes(q);
 
   return (
     <div className="space-y-5">
+      {levels.length > 1 && (
+        <ToggleGroup type="single" variant="outline" size="sm" value={level} onValueChange={(v) => v && setLevel(v)}>
+          {levels.map((l) => (
+            <ToggleGroupItem key={l} value={l}>
+              {labels.level(l)}
+            </ToggleGroupItem>
+          ))}
+        </ToggleGroup>
+      )}
       <label className="relative block max-w-md">
         <Search className="absolute top-1/2 left-3 size-4 -translate-y-1/2 text-muted-foreground" />
         <input
@@ -29,7 +46,7 @@ export function PhraseBrowser({ banks }: { banks: PhraseBank[] }) {
           className="h-10 w-full rounded-xl border bg-background pr-3 pl-9 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
         />
       </label>
-      <Tabs defaultValue={banks[0]?.id}>
+      <Tabs key={level} defaultValue={banks[0]?.id}>
         <TabsList className="h-auto flex-wrap justify-start">
           {banks.map((b) => (
             <TabsTrigger key={b.id} value={b.id}>

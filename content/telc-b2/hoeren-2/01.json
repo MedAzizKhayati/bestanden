@@ -1,0 +1,153 @@
+{
+  "id": "hoeren-2-01",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Bergführerin im Ötztal",
+  "topic": "umwelt",
+  "difficulty": 1,
+  "context": "Rundfunkinterview in der Sendung „Bergauf, bergab“ mit der Tiroler Berg- und Skiführerin Johanna Falkner, die von einer Hütte im Ötztal aus am Telefon zugeschaltet ist",
+  "speakers": [
+    { "id": "mod", "name": "Moderator", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "falkner", "name": "Frau Falkner", "gender": "f", "age": "adult", "role": "Bergführerin" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Einen schönen Nachmittag und willkommen bei „Bergauf, bergab“. Heute geht es um einen Beruf, von dem viele träumen, über den die meisten aber wenig wissen." },
+    { "s": "mod", "t": "Am Telefon begrüße ich Johanna Falkner, staatlich geprüfte Berg- und Skiführerin aus dem Ötztal in Tirol. Frau Falkner, wo erreichen wir Sie gerade?" },
+    { "s": "falkner", "t": "Grüß Gott! Ich sitz grad auf der Terrasse von einer Hütte auf knapp dreitausend Metern, die Sonne scheint, also ich kann mich nicht beschweren. Morgen in der Früh geht's mit zwei Gästen auf die Wildspitze." },
+    { "s": "mod", "t": "Wie sind Sie eigentlich zu diesem Beruf gekommen? Ich nehme an, Sie waren schon als Kind ständig in den Bergen unterwegs." },
+    { "s": "falkner", "t": "Eben nicht, das glaubt mir nur nie jemand. Meine Eltern hatten eine Gärtnerei im Inntal, da wurde am Wochenende gearbeitet, nicht gewandert." },
+    { "s": "falkner", "t": "Zum Klettern bin ich erst mit neunzehn gekommen, über eine Studienfreundin. Ich hab ja eigentlich Lehramt studiert, Biologie und Sport." },
+    { "s": "mod", "t": "Und das Studium haben Sie dann für die Berge an den Nagel gehängt?" },
+    { "s": "falkner", "t": "Nein, nein, das hab ich schon fertig gemacht, und danach hab ich sogar zwei Jahre an einem Gymnasium in Innsbruck unterrichtet. Aber in allen Ferien war ich am Berg, und irgendwann hab ich mir gedacht: Wenn, dann jetzt." },
+    { "s": "mod", "t": "Die Ausbildung zur Bergführerin gilt als ausgesprochen hart. Ist da was dran?" },
+    { "s": "falkner", "t": "Doch, das kann man schon so sagen. Bei uns in Österreich dauert sie ungefähr drei Jahre, mit Prüfungen im Fels, im Eis und auf Skiern." },
+    { "s": "falkner", "t": "Aus meinem Kurs hat, wenn ich mich richtig erinnere, nicht einmal die Hälfte am Ende das Abzeichen bekommen. Und ich war unter lauter Männern die einzige Frau, das war damals halt noch so." },
+    { "s": "mod", "t": "Hat sich das inzwischen geändert?" },
+    { "s": "falkner", "t": "Ein bisschen schon. In Tirol sind wir mittlerweile ein paar Dutzend Frauen, aber immer noch eine kleine Minderheit." },
+    { "s": "falkner", "t": "Ein Herr aus München hat mich einmal am Treffpunkt gefragt, wann denn jetzt der Bergführer kommt. Da hab ich gesagt: Der steht vor Ihnen, nur halt mit Zopf." },
+    { "s": "falkner", "t": "Am Ende der Woche hat er sich dann mit einer Flasche Wein entschuldigt." },
+    { "s": "mod", "t": "Kommen wir zur Sicherheit. Was ist für Sie die wichtigste Regel am Berg?" },
+    { "s": "falkner", "t": "Ganz klar: umkehren können. Das klingt banal, aber das Schwierigste in meinem Beruf ist nicht das Klettern, sondern die Entscheidung, wann man aufhört." },
+    { "s": "falkner", "t": "Die Gäste haben ja oft viel Geld bezahlt und monatelang trainiert, und dann stehen sie zweihundert Meter unter dem Gipfel, und ich sag: Heute nicht." },
+    { "s": "mod", "t": "Wie oft kommt so etwas vor?" },
+    { "s": "falkner", "t": "Öfter, als man denkt. Letzten Sommer bin ich bei jeder vierten – nein, wart, eher bei jeder fünften Hochtour vor dem Gipfel umgedreht, meistens wegen Gewittern, die am Nachmittag aufziehen." },
+    { "s": "falkner", "t": "Deshalb gehen wir meistens schon um vier Uhr in der Früh mit der Stirnlampe los, damit wir zu Mittag wieder unten sind. Heuer war's bis jetzt zum Glück eher ruhig." },
+    { "s": "mod", "t": "Haben Sie selbst schon einmal eine richtig gefährliche Situation erlebt?" },
+    { "s": "falkner", "t": "Einmal, vor bestimmt zwölf Jahren. Da ist ein Gast von mir in eine Gletscherspalte gestürzt, zum Glück nur ein paar Meter tief, weil wir angeseilt waren." },
+    { "s": "falkner", "t": "Ihn wieder herauszuholen hat fast eine Stunde gedauert. Und das Verrückte war: Hinterher hat er gelacht und Fotos gemacht, während mir noch die Knie gezittert haben." },
+    { "s": "falkner", "t": "Ich hab in der Nacht danach kein Auge zugetan, er hat geschlafen wie ein Murmeltier." },
+    { "s": "mod", "t": "Damit sind wir beim Eis. Sie sind seit über zwanzig Jahren im Ötztal unterwegs. Was hat sich in dieser Zeit verändert?" },
+    { "s": "falkner", "t": "Ehrlich gesagt: fast alles. Die Gletscher werden nicht nur kürzer, sondern vor allem dünner, und wo früher im August noch Schnee gelegen ist, ist heute blankes Eis oder Geröll." },
+    { "s": "falkner", "t": "Von der Hütte hier zum Gletscher zum Beispiel, das war, als ich angefangen hab, ein Spaziergang von einer Viertelstunde. Heute brauchen wir fast eine Stunde, über eine steile Moräne mit losem Gestein." },
+    { "s": "mod", "t": "Das klingt so, als wäre es auch gefährlicher geworden." },
+    { "s": "falkner", "t": "Auf jeden Fall. Wenn der Permafrost auftaut, also das Eis, das die Felsen sozusagen zusammenhält, dann bricht viel mehr Gestein ab." },
+    { "s": "falkner", "t": "Ein paar klassische Routen gehen wir deswegen im Hochsommer gar nicht mehr, sondern nur noch im Frühsommer oder im Herbst." },
+    { "s": "mod", "t": "Macht Sie das traurig?" },
+    { "s": "falkner", "t": "Na ja, traurig ist vielleicht das falsche Wort, ich bin eher wachsamer geworden. Die Berge haben sich immer verändert, aber so schnell wie jetzt, das ist schon was anderes." },
+    { "s": "falkner", "t": "Was mich eher ärgert: Manche Gäste fliegen für ein verlängertes Wochenende zum Klettern her und beschweren sich dann, dass der Gletscher so grau aussieht. Da muss ich mir schon manchmal auf die Zunge beißen, gell." },
+    { "s": "mod", "t": "Sprechen Sie Ihre Gäste darauf an?" },
+    { "s": "falkner", "t": "Mittlerweile schon. Wer mit dem Zug anreist, bekommt bei mir zehn Prozent Rabatt auf die Tour." },
+    { "s": "falkner", "t": "Ich hab auch schon überlegt, ob ich nur noch Gäste nehme, die mit der Bahn kommen. Aber so weit bin ich noch nicht, sag ich mal, davon leben muss ich ja auch." },
+    { "s": "mod", "t": "Zum Schluss: Würden Sie den Beruf jungen Leuten heute noch empfehlen?" },
+    { "s": "falkner", "t": "Unbedingt, aber man sollte nicht nur Bergführer sein. Fast alle Kollegen, die ich kenne, haben ein zweites Standbein, weil man bei schlechtem Wetter oder hoher Lawinengefahr oft tagelang nichts verdient." },
+    { "s": "falkner", "t": "Ich zum Beispiel unterrichte im Winter wieder zwei Tage in der Woche an einer Schule in Imst. Also eigentlich bin ich zu meinem ersten Beruf zurückgekehrt, nur halt in Teilzeit." },
+    { "s": "mod", "t": "Frau Falkner, vielen Dank und morgen viel Glück auf der Wildspitze!" },
+    { "s": "falkner", "t": "Danke schön! Und wenn's regnet, bleiben wir halt in der Hütte und spielen Karten." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Frau Falkner hat ihr Studium abgebrochen, um Bergführerin zu werden.",
+      "answer": false,
+      "explanation": "The presenter assumes she gave up her studies, but she answers „Nein, nein, das hab ich schon fertig gemacht“ – afterwards she even taught at a Gymnasium for two years.",
+      "explanationDe": "Der Moderator vermutet, dass sie das Studium aufgegeben hat. Sie antwortet aber „Nein, nein, das hab ich schon fertig gemacht“ – danach hat sie sogar zwei Jahre an einem Gymnasium unterrichtet.",
+      "evidence": "Nein, nein, das hab ich schon fertig gemacht"
+    },
+    {
+      "n": 2,
+      "text": "Außer Frau Falkner gab es in ihrem Ausbildungskurs keine Frau.",
+      "answer": true,
+      "explanation": "She says „ich war unter lauter Männern die einzige Frau“. Don't let the other detail distract you: fewer than half of the course passed, but that is about everyone, not about the women.",
+      "explanationDe": "Sie sagt „ich war unter lauter Männern die einzige Frau“. Lass dich nicht vom anderen Detail ablenken: Weniger als die Hälfte hat bestanden – das betrifft alle, nicht nur die Frauen.",
+      "evidence": "ich war unter lauter Männern die einzige Frau"
+    },
+    {
+      "n": 3,
+      "text": "Am anspruchsvollsten findet Frau Falkner bei ihrer Arbeit das Klettern.",
+      "answer": false,
+      "explanation": "She contrasts the two: „das Schwierigste in meinem Beruf ist nicht das Klettern, sondern die Entscheidung, wann man aufhört“. The hardest part is deciding to turn back.",
+      "explanationDe": "Sie stellt beides gegenüber: „das Schwierigste in meinem Beruf ist nicht das Klettern, sondern die Entscheidung, wann man aufhört“. Am schwersten ist also die Entscheidung umzukehren.",
+      "evidence": "das Schwierigste in meinem Beruf ist nicht das Klettern"
+    },
+    {
+      "n": 4,
+      "text": "Letzten Sommer musste Frau Falkner etwa ein Fünftel ihrer Hochtouren vor dem Gipfel beenden.",
+      "answer": true,
+      "explanation": "She first says „jeder vierten“ but corrects herself: „nein, wart, eher bei jeder fünften Hochtour“ – one tour in five is a fifth. The first number is the trap.",
+      "explanationDe": "Zuerst sagt sie „jeder vierten“, dann korrigiert sie sich: „nein, wart, eher bei jeder fünften Hochtour“ – jede fünfte Tour ist ein Fünftel. Die erste Zahl ist die Falle.",
+      "evidence": "nein, wart, eher bei jeder fünften Hochtour vor dem Gipfel umgedreht"
+    },
+    {
+      "n": 5,
+      "text": "Der Gast, der in die Gletscherspalte stürzte, blieb danach ruhiger als Frau Falkner.",
+      "answer": true,
+      "explanation": "„Hinterher hat er gelacht und Fotos gemacht, während mir noch die Knie gezittert haben“ – the guest stayed calm, while the guide was shaking and could not sleep that night.",
+      "explanationDe": "„Hinterher hat er gelacht und Fotos gemacht, während mir noch die Knie gezittert haben“ – der Gast war entspannt, die Bergführerin dagegen hat gezittert und in der Nacht nicht geschlafen.",
+      "evidence": "Hinterher hat er gelacht und Fotos gemacht, während mir noch die Knie gezittert haben."
+    },
+    {
+      "n": 6,
+      "text": "Als Frau Falkner anfing, brauchte man von der Hütte zum Gletscher fast eine Stunde.",
+      "answer": false,
+      "explanation": "The hour is today's figure: „Heute brauchen wir fast eine Stunde“. When she started, it was only „ein Spaziergang von einer Viertelstunde“, because the glacier reached further down.",
+      "explanationDe": "Die Stunde gilt für heute: „Heute brauchen wir fast eine Stunde“. Als sie angefangen hat, war es nur „ein Spaziergang von einer Viertelstunde“, weil der Gletscher damals weiter hinunterreichte.",
+      "evidence": "das war, als ich angefangen hab, ein Spaziergang von einer Viertelstunde"
+    },
+    {
+      "n": 7,
+      "text": "Einige bekannte Touren unternimmt Frau Falkner mitten im Sommer nicht mehr.",
+      "answer": true,
+      "explanation": "Because thawing permafrost loosens the rock, „Ein paar klassische Routen gehen wir deswegen im Hochsommer gar nicht mehr“ – only in early summer or in autumn.",
+      "explanationDe": "Weil der Permafrost auftaut und Steine abbrechen, sagt sie: „Ein paar klassische Routen gehen wir deswegen im Hochsommer gar nicht mehr“ – nur noch im Frühsommer oder im Herbst.",
+      "evidence": "Ein paar klassische Routen gehen wir deswegen im Hochsommer gar nicht mehr"
+    },
+    {
+      "n": 8,
+      "text": "Frau Falkner nimmt inzwischen nur noch Gäste an, die mit der Bahn kommen.",
+      "answer": false,
+      "explanation": "She has only thought about it („Ich hab auch schon überlegt …“) and then says „Aber so weit bin ich noch nicht“. So far, guests who come by train simply get a ten per cent discount.",
+      "explanationDe": "Sie hat nur darüber nachgedacht („Ich hab auch schon überlegt …“) und sagt dann „Aber so weit bin ich noch nicht“. Bis jetzt bekommen Gäste mit dem Zug nur zehn Prozent Rabatt.",
+      "evidence": "Aber so weit bin ich noch nicht"
+    },
+    {
+      "n": 9,
+      "text": "Laut Frau Falkner können die meisten Bergführer allein von ihrem Beruf leben.",
+      "answer": false,
+      "explanation": "The opposite: „Fast alle Kollegen, die ich kenne, haben ein zweites Standbein“, because bad weather or avalanche danger can mean days without any income.",
+      "explanationDe": "Das Gegenteil stimmt: „Fast alle Kollegen, die ich kenne, haben ein zweites Standbein“, weil man bei schlechtem Wetter oder Lawinengefahr oft tagelang nichts verdient.",
+      "evidence": "Fast alle Kollegen, die ich kenne, haben ein zweites Standbein"
+    },
+    {
+      "n": 10,
+      "text": "Im Winter arbeitet Frau Falkner nebenbei wieder als Lehrerin.",
+      "answer": true,
+      "explanation": "„Ich zum Beispiel unterrichte im Winter wieder zwei Tage in der Woche an einer Schule“ – she has gone back to her first job, „nur halt in Teilzeit“.",
+      "explanationDe": "„Ich zum Beispiel unterrichte im Winter wieder zwei Tage in der Woche an einer Schule“ – sie arbeitet also wieder in ihrem ersten Beruf, „nur halt in Teilzeit“.",
+      "evidence": "unterrichte im Winter wieder zwei Tage in der Woche an einer Schule"
+    }
+  ],
+  "glossary": [
+    { "de": "etwas an den Nagel hängen", "en": "to give something up" },
+    { "de": "umkehren", "en": "to turn back" },
+    { "de": "die Hochtour", "en": "high-altitude tour on glaciers and rock" },
+    { "de": "die Gletscherspalte", "en": "crevasse" },
+    { "de": "angeseilt sein", "en": "to be roped together" },
+    { "de": "kein Auge zutun", "en": "not to sleep a wink" },
+    { "de": "das Geröll", "en": "scree, loose stones" },
+    { "de": "der Permafrost", "en": "permanently frozen ground" },
+    { "de": "sich auf die Zunge beißen", "en": "to bite one's tongue" },
+    { "de": "das zweite Standbein", "en": "second source of income" },
+    { "de": "heuer (österr., süddt.)", "en": "this year" },
+    { "de": "gell (süddt., österr.)", "en": "isn't it? / you know (tag question)" }
+  ]
+}

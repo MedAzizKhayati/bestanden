@@ -1,0 +1,101 @@
+{
+  "id": "sprechen-2-02",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Recht auf Homeoffice",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "theme": "Sollte es einen gesetzlichen Anspruch auf Homeoffice geben?",
+  "article": {
+    "headline": "Zwei Tage zu Hause – per Gesetz?",
+    "lead": "Ein Bündnis aus Gewerkschaften und Familienverbänden fordert einen Rechtsanspruch auf Homeoffice. Eine neue Umfrage zeigt, wie groß der Wunsch danach ist – und wo die Grenzen liegen.",
+    "paragraphs": [
+      "Wer im Büro arbeitet, soll künftig an bis zu zwei Tagen pro Woche von zu Hause aus arbeiten dürfen – es sei denn, der Arbeitgeber kann nachweisen, dass dringende betriebliche Gründe dagegensprechen. Das verlangt das Bündnis „Arbeit neu denken“. Bisher hängt es allein vom Wohlwollen der Vorgesetzten ab, ob Beschäftigte zu Hause arbeiten dürfen.",
+      "Unterstützung erhält die Forderung durch eine Umfrage des Mannheimer Instituts für Arbeitsmarktanalyse unter 4200 Beschäftigten. Demnach könnten 61 Prozent der Befragten ihre Arbeit zumindest teilweise von zu Hause erledigen; von ihnen wünschen sich 72 Prozent mindestens zwei Homeoffice-Tage pro Woche. Als wichtigste Gründe nennen sie wegfallende Pendelzeiten und die bessere Vereinbarkeit von Beruf und Familie. „Ich spare jeden Tag fast zwei Stunden im Zug“, berichtet die Steuerberaterin Julia Rentsch, Mutter von zwei Kindern. „Diese Zeit habe ich jetzt für meine Familie.“",
+      "Arbeitgeberverbände lehnen einen gesetzlichen Anspruch dagegen ab. Karin Vogt, Geschäftsführerin eines Maschinenbauunternehmens mit 180 Beschäftigten bei Stuttgart, hält ihn für ungerecht: „In der Produktion kann niemand zu Hause arbeiten. Ein solches Gesetz würde eine Zweiklassengesellschaft in den Betrieben schaffen.“ Zudem funktionierten flexible Lösungen in vielen Firmen schon heute – ganz ohne Gesetz. Kleine Betriebe fürchten außerdem zusätzliche Bürokratie, wenn sie jede Ablehnung schriftlich begründen müssen.",
+      "Zurückhaltend äußert sich die Arbeitspsychologin Sabine Okafor. Homeoffice könne zwar Stress reduzieren, gleichzeitig verschwimme bei vielen die Grenze zwischen Arbeit und Freizeit. „Gerade Berufseinsteiger fühlen sich zu Hause oft isoliert und lernen weniger von erfahrenen Kollegen“, warnt sie. Ein Recht auf Homeoffice sei nur dann sinnvoll, wenn zugleich klare Regeln zur Erreichbarkeit gälten.",
+      "Im Bundestag ist die Forderung umstritten. Mit einer Entscheidung wird nicht vor dem nächsten Jahr gerechnet."
+    ],
+    "source": "Mittelland-Kurier, Wirtschaft"
+  },
+  "ideas": {
+    "pro": [
+      "keine langen Pendelwege, mehr Zeit für Familie und Freizeit",
+      "bessere Vereinbarkeit von Beruf und Familie",
+      "weniger Verkehr und weniger Abgase",
+      "Beschäftigte hängen nicht mehr vom Wohlwollen der Vorgesetzten ab",
+      "konzentriertes Arbeiten ohne Störungen im Großraumbüro",
+      "Unternehmen können Bürofläche einsparen"
+    ],
+    "contra": [
+      "ungerecht gegenüber Beschäftigten in Produktion, Pflege oder Handel",
+      "zusätzliche Bürokratie, besonders für kleine Betriebe",
+      "Gefahr der Isolation, weniger Austausch im Team",
+      "die Grenze zwischen Arbeit und Freizeit verschwimmt",
+      "Berufseinsteiger lernen weniger von erfahrenen Kollegen",
+      "flexible Lösungen gibt es auch ohne Gesetz"
+    ]
+  },
+  "questions": [
+    "Welche Argumente aus dem Artikel finden Sie besonders wichtig?",
+    "Haben Sie selbst schon im Homeoffice gearbeitet? Welche Erfahrungen haben Sie gemacht?",
+    "Wie ist das Arbeiten von zu Hause in Ihrem Heimatland geregelt?",
+    "Wäre ein Recht auf Homeoffice ungerecht gegenüber Menschen, die nicht zu Hause arbeiten können?",
+    "Welche Regeln bräuchte man, damit Homeoffice nicht krank macht?",
+    "Wie wird sich die Arbeitswelt in den nächsten zehn Jahren verändern?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Ricardo Alves", "gender": "m", "age": "adult", "role": "Teilnehmer A" },
+    { "id": "B", "name": "Hanna Lindqvist", "gender": "f", "age": "adult", "role": "Teilnehmerin B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich beginne mal mit dem Inhalt. Im Artikel geht es um die Forderung eines Bündnisses aus Gewerkschaften und Familienverbänden: Wer im Büro arbeitet, soll gesetzlich das Recht bekommen, an bis zu zwei Tagen pro Woche zu Hause zu arbeiten." },
+    { "s": "A", "t": "Laut einer Umfrage könnten über sechzig Prozent der Beschäftigten zumindest teilweise von zu Hause arbeiten, und die meisten davon wünschen sich mindestens zwei Tage Homeoffice pro Woche. Als Gründe werden vor allem die gesparte Pendelzeit und die bessere Vereinbarkeit von Beruf und Familie genannt." },
+    { "s": "A", "t": "Die Arbeitgeber sind dagegen. Eine Unternehmerin meint, ein solches Gesetz schaffe eine Zweiklassengesellschaft, weil in der Produktion niemand zu Hause arbeiten könne." },
+    { "s": "B", "t": "Danke. Ich finde, ein wichtiger Punkt fehlt noch: Eine Arbeitspsychologin warnt, dass im Homeoffice die Grenze zwischen Arbeit und Freizeit verschwimme und sich besonders Berufseinsteiger isoliert fühlten. Deshalb brauche man klare Regeln zur Erreichbarkeit." },
+    { "s": "A", "t": "Richtig. Also, ich bin grundsätzlich für so ein Recht. Ich arbeite in einer Softwarefirma und bin jeden Tag über eine Stunde pro Strecke unterwegs. An meinen Homeoffice-Tagen bin ich viel ausgeruhter und arbeite sogar konzentrierter." },
+    { "s": "B", "t": "Das glaube ich dir sofort. Aber ich sehe das ein bisschen anders, vielleicht weil ich als Physiotherapeutin in einer Klinik arbeite. Ich könnte niemals von zu Hause arbeiten, und deshalb verstehe ich die Unternehmerin im Artikel gut: Da entstehen zwei Gruppen mit unterschiedlichen Rechten." },
+    { "s": "A", "t": "Da hast du zwar recht, aber ist das ein Grund, es niemandem zu erlauben? Gleitzeit gibt es auch nicht in jedem Beruf, und trotzdem käme niemand auf die Idee, sie deshalb abzuschaffen." },
+    { "s": "B", "t": "Das ist ein gutes Argument, das gebe ich zu. Aber verbieten will ja niemand etwas. Die Frage ist doch, ob man dafür wirklich ein Gesetz braucht, denn in vielen Firmen klappt es schon heute ohne." },
+    { "s": "A", "t": "In guten Firmen, ja. Aber im Moment hängt alles vom Wohlwollen des Chefs ab. Wenn ein neuer Chef kommt, der Homeoffice nicht mag, ist es damit vorbei. Wie ist das eigentlich in Schweden?" },
+    { "s": "B", "t": "Bei uns ist Homeoffice sehr verbreitet, aber soweit ich weiß, gibt es kein allgemeines Recht darauf. Das wird meistens zwischen Firma und Mitarbeitern vereinbart, und die Arbeitskultur beruht stark auf Vertrauen. Und wie ist es in Portugal?" },
+    { "s": "A", "t": "In Portugal gibt es seit ein paar Jahren ein Gesetz, nach dem Eltern kleiner Kinder unter bestimmten Bedingungen ein Recht auf Telearbeit haben. Außerdem darf der Arbeitgeber seine Leute nach Feierabend grundsätzlich nicht mehr kontaktieren." },
+    { "s": "B", "t": "Das finde ich interessant, denn das passt genau zu dem, was die Psychologin fordert. Ehrlich gesagt sehe ich da das größere Problem: Viele Leute sitzen abends noch am Laptop, weil der Arbeitsplatz einfach im Wohnzimmer steht." },
+    { "s": "A", "t": "Das stimmt leider, mir passiert das auch manchmal. Ich glaube aber, dass man das mit klaren Regeln in den Griff bekommt, zum Beispiel mit festen Zeiten, in denen man erreichbar sein muss, und danach ist Schluss." },
+    { "s": "B", "t": "Und was ist mit den Berufseinsteigern? Als ich angefangen habe zu arbeiten, habe ich am meisten gelernt, indem ich erfahrenen Kolleginnen über die Schulter geschaut habe. Über den Bildschirm geht das kaum." },
+    { "s": "A", "t": "Deshalb sagt ja auch niemand, dass man nur noch zu Hause arbeiten soll. Zwei Tage zu Hause bedeuten drei Tage im Büro, und das ist doch eine gute Mischung." },
+    { "s": "P", "t": "Wäre ein Recht auf Homeoffice Ihrer Meinung nach ungerecht gegenüber Menschen, die nicht zu Hause arbeiten können?" },
+    { "s": "B", "t": "Ein bisschen schon, ja. Wenn es so ein Gesetz gibt, sollten die anderen Beschäftigten zumindest auch etwas bekommen, zum Beispiel mehr Mitsprache bei den Schichtplänen." },
+    { "s": "A", "t": "Das ist ein guter Vorschlag, denn Flexibilität sollte nicht nur für Büroleute gelten. Ich frage mich nur, wie man das in einer Klinik organisieren soll, in der ohnehin Personal fehlt." },
+    { "s": "B", "t": "Einfach ist das nicht, da hast du recht. Aber es wäre schon viel gewonnen, wenn die Schichtpläne früher feststünden. Dann könnte man sein Privatleben besser planen." },
+    { "s": "A", "t": "Also, wenn ich zusammenfassen darf: Ich bin weiterhin für einen Anspruch auf Homeoffice, aber nur zusammen mit Regeln zur Erreichbarkeit und mit mehr Flexibilität auch für die, die nicht von zu Hause arbeiten können." },
+    { "s": "B", "t": "Damit kann ich leben. Ich bin zwar immer noch nicht ganz überzeugt, dass man dafür ein Gesetz braucht, aber dieser Kompromiss klingt für mich fair." }
+  ],
+  "phrases": [
+    { "de": "Ich beginne mal mit dem Inhalt.", "en": "Let me start with the content." },
+    { "de": "Als Gründe werden … genannt.", "en": "… are given as reasons." },
+    { "de": "Eine Unternehmerin meint, ein solches Gesetz schaffe …", "en": "A businesswoman thinks such a law would create … (reported speech)" },
+    { "de": "Ich finde, ein wichtiger Punkt fehlt noch: …", "en": "I think one important point is still missing: …" },
+    { "de": "Ich sehe das ein bisschen anders.", "en": "I see that a little differently." },
+    { "de": "Das ist ein gutes Argument, das gebe ich zu.", "en": "That's a good argument, I admit." },
+    { "de": "Die Frage ist doch, ob …", "en": "The real question is whether …" },
+    { "de": "Das passt genau zu dem, was … fordert.", "en": "That fits exactly with what … is calling for." },
+    { "de": "Es wäre schon viel gewonnen, wenn …", "en": "It would already help a lot if …" },
+    { "de": "Wenn ich zusammenfassen darf: …", "en": "If I may sum up: …" },
+    { "de": "Damit kann ich leben.", "en": "I can live with that." }
+  ],
+  "vocabulary": [
+    { "de": "der gesetzliche Anspruch (auf + Akk.)", "en": "legal entitlement (to)" },
+    { "de": "die Vereinbarkeit von Beruf und Familie", "en": "work–family balance" },
+    { "de": "die Pendelzeit", "en": "commuting time" },
+    { "de": "das Wohlwollen", "en": "goodwill" },
+    { "de": "betriebliche Gründe", "en": "operational reasons" },
+    { "de": "die Erreichbarkeit", "en": "availability, being reachable" },
+    { "de": "die Zweiklassengesellschaft", "en": "two-tier society" },
+    { "de": "die Gewerkschaft", "en": "trade union" },
+    { "de": "der Berufseinsteiger", "en": "career starter, new entrant" },
+    { "de": "verschwimmen", "en": "to become blurred" },
+    { "de": "die Mitsprache", "en": "say, voice (in decisions)" }
+  ]
+}

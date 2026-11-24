@@ -1,0 +1,139 @@
+{
+  "id": "b2-gespraechsstrategien",
+  "level": "B2",
+  "order": 107,
+  "context": "allgemein",
+  "title": "Gesprächsstrategien für B2",
+  "titleEn": "Conversation strategies for B2",
+  "description": "Advanced strategies for all three parts of the B2 oral exam: take the floor and hold it, interrupt politely, ask for and give clarification, talk your way around a missing word, clear up misunderstandings, steer the conversation, bring your partner in and soften what you say. They add to the B1 bank „Gesprächsstrategien“. telc rates how well you manage the conversation together – these phrases show it. The phrases addressed to your partner use „du“ – switch to „Sie“ if that is what you agreed.",
+  "descriptionDe": "Fortgeschrittene Strategien für alle drei Teile der mündlichen B2-Prüfung: das Wort ergreifen und behalten, höflich unterbrechen, nachfragen und genauer erklären, ein fehlendes Wort umschreiben, Missverständnisse klären, das Gespräch lenken, dein Gegenüber einbeziehen und Kritik höflich abschwächen. Sie ergänzen die B1-Redemittel „Gesprächsstrategien“. telc bewertet, wie gut ihr das Gespräch gemeinsam gestaltet – mit diesen Redemitteln zeigst du es. Die Sätze an dein Gegenüber verwenden „du“ – wechsle zu „Sie“, wenn ihr das so vereinbart habt.",
+  "groups": [
+    {
+      "title": "Das Wort ergreifen",
+      "titleEn": "Taking the floor",
+      "register": "informal",
+      "phrases": [
+        { "de": "Ich möchte gern an deinen letzten Punkt anschließen.", "en": "I'd like to follow on from your last point.", "note": "anschließen an + accusative = to follow on from; Sie-form: „… an Ihren letzten Punkt …“", "noteDe": "anschließen an + Akkusativ = direkt weitermachen mit; Sie-Form: „… an Ihren letzten Punkt …“" },
+        { "de": "Darf ich an dieser Stelle einen weiteren Aspekt ins Spiel bringen?", "en": "May I bring in another aspect at this point?", "note": "etwas ins Spiel bringen = to bring something up", "noteDe": "etwas ins Spiel bringen = etwas Neues ins Gespräch einbringen" },
+        { "de": "Wo wir gerade beim Thema sind: …", "en": "Speaking of which: …" },
+        { "de": "Wenn ich mich kurz zu Wort melden darf: …", "en": "If I may say something here: …", "note": "sich zu Wort melden = to ask to speak", "noteDe": "sich zu Wort melden = zeigen, dass man etwas sagen möchte" },
+        { "de": "Das bringt mich auf einen anderen Gedanken: …", "en": "That brings another thought to mind: …", "note": "jemanden auf einen Gedanken bringen = to give someone an idea", "noteDe": "jemanden auf einen Gedanken bringen = jemandem eine Idee geben" },
+        { "de": "Ich würde gern noch eine andere Perspektive einbringen.", "en": "I'd like to bring in a different perspective.", "note": "einbringen = to contribute, bring in", "noteDe": "einbringen = zum Gespräch beitragen" }
+      ]
+    },
+    {
+      "title": "Unterbrechen und das Wort behalten",
+      "titleEn": "Interrupting and holding the floor",
+      "register": "informal",
+      "phrases": [
+        { "de": "Darf ich da kurz einhaken?", "en": "May I just come in here?", "note": "einhaken = to cut in on a point", "noteDe": "einhaken = sich einmischen, um auf einen Punkt einzugehen" },
+        { "de": "Entschuldige, dass ich dir ins Wort falle, aber …", "en": "Sorry to cut you off, but …", "note": "jemandem ins Wort fallen = to interrupt someone; Sie-form: „Entschuldigen Sie, dass ich Ihnen ins Wort falle …“", "noteDe": "jemandem ins Wort fallen = jemanden unterbrechen; Sie-Form: „Entschuldigen Sie, dass ich Ihnen ins Wort falle …“" },
+        { "de": "Nur ganz kurz dazu: …", "en": "Just very briefly on that: …" },
+        { "de": "Lass mich bitte noch kurz meinen Gedanken zu Ende führen.", "en": "Please let me just finish my thought.", "note": "Say it calmly if your partner interrupts you – it shows you can manage the conversation.", "noteDe": "Sag das ruhig, wenn dein Gegenüber dich unterbricht – so zeigst du, dass du das Gespräch steuern kannst." },
+        { "de": "Einen Moment noch, ich bin gleich fertig.", "en": "Just a moment, I'm almost finished." },
+        { "de": "Darauf komme ich gleich noch zurück.", "en": "I'll come back to that in a moment.", "note": "zurückkommen auf + accusative", "noteDe": "zurückkommen auf + Akkusativ" },
+        { "de": "Oh, ich glaube, ich habe dich unterbrochen – was wolltest du gerade sagen?", "en": "Oh, I think I interrupted you – what were you about to say?" }
+      ]
+    },
+    {
+      "title": "Nachfragen und präzisieren",
+      "titleEn": "Asking for and giving clarification",
+      "register": "informal",
+      "phrases": [
+        { "de": "Worauf willst du genau hinaus?", "en": "What exactly are you getting at?", "note": "hinauswollen auf + accusative = to be getting at", "noteDe": "hinauswollen auf + Akkusativ = etwas Bestimmtes sagen wollen" },
+        { "de": "Könntest du das an einem Beispiel verdeutlichen?", "en": "Could you illustrate that with an example?", "note": "verdeutlichen = to make clear, illustrate", "noteDe": "verdeutlichen = klarer machen" },
+        { "de": "Kannst du das noch etwas genauer ausführen?", "en": "Can you go into that in a bit more detail?", "note": "ausführen = to elaborate", "noteDe": "ausführen = genauer erklären" },
+        { "de": "Wenn ich dich richtig verstehe, geht es dir vor allem um die Kosten.", "en": "If I understand you correctly, it's mainly the costs you're concerned about.", "note": "es geht jemandem um + accusative = someone is concerned with", "noteDe": "es geht jemandem um + Akkusativ = etwas ist für jemanden das Wichtigste" },
+        { "de": "Konkret heißt das: …", "en": "In concrete terms, that means: …" },
+        { "de": "Ich meine damit nicht, dass alles schlecht ist, sondern dass man es besser machen kann.", "en": "I don't mean that everything is bad, but that it can be done better." },
+        { "de": "Anders ausgedrückt: …", "en": "In other words: …", "note": "Use it to rephrase your own point more simply.", "noteDe": "Damit formulierst du deinen eigenen Punkt noch einmal einfacher." },
+        { "de": "Lass mich das kurz präzisieren: …", "en": "Let me make that a bit more precise: …", "note": "präzisieren = to make more precise", "noteDe": "präzisieren = genauer sagen" }
+      ]
+    },
+    {
+      "title": "Umschreiben, wenn ein Wort fehlt",
+      "titleEn": "Talking around a missing word",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Das Wort liegt mir auf der Zunge …", "en": "The word is on the tip of my tongue …", "note": "auf der Zunge liegen = to be on the tip of your tongue", "noteDe": "auf der Zunge liegen = man kennt das Wort, aber es fällt einem gerade nicht ein" },
+        { "de": "Ich weiß nicht, ob das der richtige Begriff ist, aber …", "en": "I don't know if that's the right term, but …" },
+        { "de": "Das ist so etwas wie eine Mischung aus … und …", "en": "It's something like a mix of … and …" },
+        { "de": "Das ist eine Art …, nur kleiner.", "en": "It's a kind of …, only smaller.", "note": "eine Art + noun, usually without an article: eine Art Tasche", "noteDe": "eine Art + Nomen, meist ohne Artikel: eine Art Tasche" },
+        { "de": "Das ist der Vorgang, bei dem …", "en": "It's the process in which …", "note": "Relative clause with a preposition: bei dem / durch den / mit dem …", "noteDe": "Relativsatz mit Präposition: bei dem / durch den / mit dem …" },
+        { "de": "Ich meine das, was man macht, wenn man …", "en": "I mean what you do when you …", "note": "das, was … = what (relative clause after „das“)", "noteDe": "das, was … = die Sache, die … (Relativsatz nach „das“)" },
+        { "de": "Man benutzt das vor allem, um …", "en": "You use it mainly to …" },
+        { "de": "In meiner Sprache sagt man „…“ – gibt es dafür ein deutsches Wort?", "en": "In my language we say „…“ – is there a German word for it?" },
+        { "de": "Ich nenne es jetzt einfach mal „…“.", "en": "I'll just call it „…“ for now.", "note": "Give it a provisional name and keep talking – speaking fluently counts more than the exact word.", "noteDe": "Gib der Sache einen vorläufigen Namen und sprich weiter – flüssiges Sprechen zählt mehr als das genaue Wort." }
+      ]
+    },
+    {
+      "title": "Missverständnisse klären",
+      "titleEn": "Clearing up misunderstandings",
+      "register": "informal",
+      "phrases": [
+        { "de": "Da haben wir uns wohl missverstanden.", "en": "We seem to have misunderstood each other there.", "note": "„wohl“ = probably, apparently – it softens the statement", "noteDe": "„wohl“ = wahrscheinlich – es macht die Aussage weicher" },
+        { "de": "So habe ich das nicht gemeint.", "en": "That's not what I meant." },
+        { "de": "Das war vielleicht etwas missverständlich formuliert.", "en": "Perhaps that was worded a little misleadingly." },
+        { "de": "Ich glaube, wir reden gerade aneinander vorbei.", "en": "I think we're talking at cross purposes.", "note": "aneinander vorbeireden = to talk at cross purposes", "noteDe": "aneinander vorbeireden = über verschiedene Dinge sprechen, ohne es zu merken" },
+        { "de": "Ich wollte damit nicht sagen, dass du unrecht hast – nur, dass es auch andere Sichtweisen gibt.", "en": "I didn't mean to say you're wrong – only that there are other ways of looking at it too.", "note": "unrecht haben = to be wrong", "noteDe": "unrecht haben = nicht recht haben" },
+        { "de": "Um das klarzustellen: …", "en": "Just to be clear: …", "note": "klarstellen = to make clear, set straight; with zu: klarzustellen", "noteDe": "klarstellen = deutlich sagen, was gemeint ist; mit zu: klarzustellen" },
+        { "de": "Ach so, dann sind wir uns ja eigentlich einig!", "en": "Oh, I see – so we actually agree!", "note": "„ja“ here is a modal particle: it marks a surprising realisation.", "noteDe": "„ja“ ist hier eine Modalpartikel: Es zeigt eine überraschende Feststellung." }
+      ]
+    },
+    {
+      "title": "Das Gespräch lenken",
+      "titleEn": "Steering the conversation",
+      "register": "informal",
+      "phrases": [
+        { "de": "Ich glaube, wir sind ein bisschen vom Thema abgekommen.", "en": "I think we've drifted off the topic a bit.", "note": "vom Thema abkommen = to drift off the topic", "noteDe": "vom Thema abkommen = über etwas anderes sprechen" },
+        { "de": "Lass uns wieder zur eigentlichen Frage zurückkehren.", "en": "Let's get back to the actual question." },
+        { "de": "Diesen Punkt sollten wir vielleicht kurz zurückstellen.", "en": "Maybe we should put this point aside for a moment.", "note": "zurückstellen = to put aside, postpone", "noteDe": "zurückstellen = auf später verschieben" },
+        { "de": "Ich schlage vor, wir gehen zum nächsten Punkt über.", "en": "I suggest we move on to the next point.", "note": "übergehen zu + dative = to move on to", "noteDe": "übergehen zu + Dativ = mit etwas Neuem weitermachen" },
+        { "de": "Was wir bisher noch gar nicht berücksichtigt haben, ist die Frage der Sicherheit.", "en": "Something we haven't considered at all yet is the question of safety." },
+        { "de": "Die Zeit läuft – wir sollten langsam zu einem Ergebnis kommen.", "en": "Time is running – we should start coming to a conclusion.", "note": "Useful in Teil 3: the examiners want to hear a result.", "noteDe": "Nützlich in Teil 3: Die Prüfenden möchten ein Ergebnis hören." },
+        { "de": "Ich glaube, diesen Punkt haben wir jetzt ausführlich genug besprochen.", "en": "I think we've discussed this point in enough detail now." }
+      ]
+    },
+    {
+      "title": "Das Gegenüber einbeziehen",
+      "titleEn": "Bringing your partner in",
+      "register": "informal",
+      "phrases": [
+        { "de": "Ich habe jetzt lange geredet – ich bin gespannt auf deine Meinung.", "en": "I've been talking for a long time – I'm curious to hear your opinion.", "note": "gespannt sein auf + accusative = to be eager to hear / see", "noteDe": "gespannt sein auf + Akkusativ = etwas mit Neugier erwarten" },
+        { "de": "Vorhin hast du angedeutet, dass du skeptisch bist – magst du das noch etwas erklären?", "en": "Earlier you hinted that you're sceptical – would you like to explain that a bit more?", "note": "andeuten = to hint at; „magst du …?“ = would you like to …? (colloquial)", "noteDe": "andeuten = nur kurz erwähnen; „magst du …?“ = möchtest du …? (umgangssprachlich)" },
+        { "de": "Teilst du diese Einschätzung?", "en": "Do you share this assessment?", "note": "eine Einschätzung teilen = to share an assessment", "noteDe": "eine Einschätzung teilen = etwas genauso beurteilen" },
+        { "de": "Du schaust so nachdenklich – was stört dich an dem Vorschlag?", "en": "You look so thoughtful – what's bothering you about the suggestion?" },
+        { "de": "Wie stehst du eigentlich dazu?", "en": "What's your position on it, actually?", "note": "zu etwas stehen = to have a position on something; Sie-form: „Wie stehen Sie dazu?“", "noteDe": "zu etwas stehen = eine Meinung zu etwas haben; Sie-Form: „Wie stehen Sie dazu?“" },
+        { "de": "Kannst du dem etwas abgewinnen?", "en": "Can you see anything positive in it?", "note": "einer Sache etwas abgewinnen können = to see some merit in something", "noteDe": "einer Sache etwas abgewinnen können = an etwas auch gute Seiten sehen" },
+        { "de": "Du hast damit doch beruflich zu tun – wie beurteilst du das?", "en": "You deal with this at work, don't you – how do you assess it?", "note": "mit etwas zu tun haben = to deal with something", "noteDe": "mit etwas zu tun haben = sich mit etwas beschäftigen" },
+        { "de": "Ich bin neugierig: Was spricht aus deiner Sicht dafür?", "en": "I'm curious: what speaks in favour of it from your point of view?" }
+      ]
+    },
+    {
+      "title": "Auf Beiträge reagieren",
+      "titleEn": "Reacting to what your partner says",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Das leuchtet mir ein.", "en": "That makes sense to me.", "note": "einleuchten + dative = to make sense to someone", "noteDe": "einleuchten + Dativ = für jemanden logisch sein" },
+        { "de": "Da ist was dran.", "en": "There's something in that.", "note": "Colloquial; „was“ = „etwas“", "noteDe": "Umgangssprachlich; „was“ = „etwas“" },
+        { "de": "Darauf wäre ich gar nicht gekommen.", "en": "I'd never have thought of that.", "note": "auf etwas kommen = to think of, hit upon something", "noteDe": "auf etwas kommen = eine Idee haben" },
+        { "de": "Das ist ein Gesichtspunkt, den ich so noch gar nicht gesehen habe.", "en": "That's an angle I hadn't looked at like that before.", "note": "der Gesichtspunkt = aspect, point of view", "noteDe": "der Gesichtspunkt = der Aspekt" },
+        { "de": "Das gibt mir wirklich zu denken.", "en": "That really makes me think.", "note": "jemandem zu denken geben = to give someone food for thought", "noteDe": "jemandem zu denken geben = jemanden nachdenklich machen" }
+      ]
+    },
+    {
+      "title": "Höflich abschwächen",
+      "titleEn": "Softening what you say",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Ich würde fast sagen, dass das eher ein Nachteil ist.", "en": "I'd almost say that's more of a disadvantage.", "note": "Konjunktiv II makes a strong opinion sound less direct.", "noteDe": "Mit Konjunktiv II klingt eine starke Meinung weniger direkt." },
+        { "de": "Wäre es vielleicht denkbar, das anders zu lösen?", "en": "Might it be possible to solve this differently?" },
+        { "de": "Soweit ich weiß, ist das in Österreich etwas anders geregelt.", "en": "As far as I know, it's handled somewhat differently in Austria.", "note": "soweit ich weiß = as far as I know", "noteDe": "soweit ich weiß = nach meinen Informationen" },
+        { "de": "Ich frage mich nur, ob das wirklich so einfach ist.", "en": "I just wonder whether it's really that simple.", "note": "„nur“ softens the criticism", "noteDe": "„nur“ macht die Kritik weicher" },
+        { "de": "Das ist sicher gut gemeint, aber …", "en": "That's certainly well meant, but …" },
+        { "de": "Ich will nicht schwarzmalen, aber …", "en": "I don't want to paint too gloomy a picture, but …", "note": "schwarzmalen = to be pessimistic", "noteDe": "schwarzmalen = alles negativ sehen" },
+        { "de": "Es kann gut sein, dass ich mich irre, aber …", "en": "I may well be wrong, but …", "note": "sich irren = to be mistaken", "noteDe": "sich irren = einen Fehler machen, falschliegen" }
+      ]
+    }
+  ]
+}

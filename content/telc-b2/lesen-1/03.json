@@ -1,0 +1,118 @@
+{
+  "id": "lesen-1-03",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Lernen im digitalen Wandel",
+  "topic": "bildung",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Täglich still lesen: Schwächere Kinder holen auf" },
+    { "key": "b", "text": "Wegen KI: Hochschule schafft Hausarbeiten ab" },
+    { "key": "c", "text": "Studienabbruch: Häufiger eine Frage des Geldes als der Leistung" },
+    { "key": "d", "text": "Hacker haben es vor allem auf Großkonzerne abgesehen" },
+    { "key": "e", "text": "Cyberangriffe: Kleine Firmen wiegen sich in falscher Sicherheit" },
+    { "key": "f", "text": "Leseförderung nützt vor allem den guten Schülern" },
+    { "key": "g", "text": "Studienabbrecher: Die meisten scheitern schon im ersten Jahr" },
+    { "key": "h", "text": "Hausarbeit plus Gespräch: Hochschule reagiert auf KI" },
+    { "key": "i", "text": "Behördengang ade: Ummeldung bald nur noch digital" },
+    { "key": "j", "text": "Umzug melden per Smartphone: Wartezeiten deutlich kürzer" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Wer sein Studium abbricht, scheitert seltener an den fachlichen Anforderungen, als häufig angenommen wird. Eine Langzeitstudie des Bremer Instituts für Bildungsverläufe, für die mehr als 6.000 Studierende über vier Jahre hinweg regelmäßig befragt wurden, kommt zu einem bemerkenswerten Ergebnis: Die meisten Abbrüche erfolgen nicht in den ersten beiden Semestern, sondern im dritten und vierten. Ausschlaggebend ist dabei weniger der Leistungsdruck als die finanzielle Belastung. Wer neben dem Studium mehr als 15 Stunden pro Woche arbeiten muss, um Miete und Lebenshaltungskosten zu finanzieren, gibt den Daten zufolge etwa doppelt so häufig auf wie Kommilitoninnen und Kommilitonen ohne Nebenjob. Nicht bestandene Prüfungen nannten dagegen nur 18 Prozent der Betroffenen als Hauptgrund. Weit häufiger war von Zeitmangel und Erschöpfung durch die Doppelbelastung aus Studium und Job die Rede. Die Autorinnen der Studie plädieren deshalb für eine Reform der staatlichen Studienfinanzierung, die sich stärker an den tatsächlichen Wohnkosten in Hochschulstädten orientieren müsse. Zudem sollten Beratungsangebote gezielt Studierende in der Mitte ihres Studiums ansprechen – und nicht, wie bislang üblich, fast ausschließlich Erstsemester.",
+      "answer": "c",
+      "explanation": "„Ausschlaggebend ist dabei weniger der Leistungsdruck als die finanzielle Belastung“ – students who must work many hours give up twice as often, while failed exams are the main reason for only 18 percent, so (c). Headline (g) is wrong about the time: most drop out „nicht in den ersten beiden Semestern, sondern im dritten und vierten“.",
+      "explanationDe": "„Ausschlaggebend ist dabei weniger der Leistungsdruck als die finanzielle Belastung“ – wer viele Stunden jobben muss, bricht doppelt so oft ab, nicht bestandene Prüfungen sind nur für 18 Prozent der Hauptgrund, also (c). Überschrift (g) nennt die falsche Zeit: Die meisten brechen „nicht in den ersten beiden Semestern, sondern im dritten und vierten“ ab.",
+      "evidence": [
+        "Ausschlaggebend ist dabei weniger der Leistungsdruck als die finanzielle Belastung",
+        "Nicht bestandene Prüfungen nannten dagegen nur 18 Prozent der Betroffenen als Hauptgrund"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Seit Programme mit künstlicher Intelligenz in Sekunden ganze Seminararbeiten verfassen können, stehen Hochschulen vor einer heiklen Frage: Wie lässt sich noch überprüfen, was Studierende tatsächlich selbst geleistet haben? Die Hochschule am Limmat in Zürich hat nun eine Antwort gefunden, die ohne Verbote auskommt. Ab dem kommenden Herbstsemester bleibt die schriftliche Hausarbeit zwar Bestandteil vieler Module, sie wird jedoch durch ein zwanzigminütiges Prüfungsgespräch ergänzt, in dem die Studierenden ihre Argumentation erläutern und gegen kritische Nachfragen verteidigen müssen. Der Einsatz von KI-Werkzeugen ist ausdrücklich erlaubt, sofern er im Anhang offengelegt wird. „Uns interessiert nicht, mit welchen Hilfsmitteln jemand arbeitet, sondern ob er versteht, was er abgibt“, erklärt Prorektorin Andrea Meili. Wer die eigene Arbeit überzeugend erklären könne, habe auch dann etwas gelernt, wenn ein Programm beim Formulieren geholfen habe. Der zusätzliche Aufwand für die Lehrenden ist allerdings beträchtlich; die Hochschule schafft deshalb 14 neue Assistenzstellen. Kritik kommt von der Studierendenvertretung: Sie befürchtet, dass Studierende mit Prüfungsangst durch die mündlichen Gespräche benachteiligt werden könnten.",
+      "answer": "h",
+      "explanation": "Because of AI, the written paper is now „durch ein zwanzigminütiges Prüfungsgespräch ergänzt“ – paper plus oral defence, so (h). Headline (b) is the trap: the paper „bleibt … zwar Bestandteil vieler Module“; the only thing the university „schafft“ is new assistant posts.",
+      "explanationDe": "Wegen der KI wird die schriftliche Arbeit jetzt „durch ein zwanzigminütiges Prüfungsgespräch ergänzt“ – Hausarbeit plus Gespräch, also (h). Überschrift (b) ist die Falle: Die Hausarbeit „bleibt … zwar Bestandteil vieler Module“; die Hochschule „schafft“ nur neue Assistenzstellen, sie schafft nichts ab.",
+      "evidence": [
+        "sie wird jedoch durch ein zwanzigminütiges Prüfungsgespräch ergänzt",
+        "Seit Programme mit künstlicher Intelligenz in Sekunden ganze Seminararbeiten verfassen können"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Zwanzig Minuten Lesen am Tag – mehr verlangt das Projekt „Lesezeit“ nicht, das vor zwei Jahren an 32 Kärntner Volksschulen gestartet wurde. Jeden Morgen legen dort alle Kinder und Lehrkräfte ihre übrigen Aufgaben beiseite und lesen still in einem Buch ihrer Wahl; Comics und Sachbücher sind ausdrücklich erlaubt. Wer möchte, darf sich dafür auch in die Leseecke zurückziehen oder auf einem Kissen am Boden lesen. Die nun veröffentlichte Begleitstudie des Klagenfurter Instituts für Leseforschung belegt deutliche Effekte, allerdings nicht bei allen Kindern im gleichen Ausmaß. Am stärksten profitierten diejenigen, die zu Beginn als schwache Leserinnen und Leser eingestuft worden waren: Ihr Rückstand gegenüber dem Durchschnitt verringerte sich innerhalb eines Schuljahres um fast die Hälfte. Bei Kindern, die schon vorher gern und flüssig gelesen hatten, fielen die Verbesserungen dagegen gering aus. Die Forschenden führen den Erfolg vor allem darauf zurück, dass das Lesen weder benotet noch abgefragt wird und die Kinder ihren Lesestoff selbst auswählen dürfen. Das Bildungsministerium prüft derzeit, ob sich das Modell auf andere Bundesländer übertragen lässt.",
+      "answer": "a",
+      "explanation": "Pupils read silently every day, and „Am stärksten profitierten diejenigen, die zu Beginn als schwache Leserinnen und Leser eingestuft worden waren“ – weaker children catch up, so (a). Headline (f) reverses the result: for good readers the improvements „fielen … gering aus“.",
+      "explanationDe": "Die Kinder lesen jeden Tag still, und „Am stärksten profitierten diejenigen, die zu Beginn als schwache Leserinnen und Leser eingestuft worden waren“ – schwächere Kinder holen also auf, (a). Überschrift (f) dreht das Ergebnis um: Bei guten Leserinnen und Lesern „fielen die Verbesserungen dagegen gering aus“.",
+      "evidence": [
+        "Am stärksten profitierten diejenigen, die zu Beginn als schwache Leserinnen und Leser eingestuft worden waren",
+        "Ihr Rückstand gegenüber dem Durchschnitt verringerte sich innerhalb eines Schuljahres um fast die Hälfte"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Wer in Leipzig umzieht, muss für die Ummeldung seit dem Frühjahr nicht mehr persönlich im Bürgeramt erscheinen. Über das städtische Serviceportal lässt sich der neue Wohnsitz inzwischen vollständig online anmelden; die Identität wird mithilfe des Personalausweises und einer App auf dem Smartphone bestätigt. Nach Angaben der Stadtverwaltung werden bereits 55 Prozent aller Ummeldungen auf diesem Weg erledigt. Besonders gefragt ist das Angebot bei jüngeren Menschen und bei Familien, die nach einem Umzug ohnehin genug zu organisieren haben. Die Wartezeit auf einen Termin vor Ort, die vor einem Jahr noch bei durchschnittlich fünf Wochen lag, ist dadurch auf unter zehn Tage gesunken – wovon auch alle profitieren, die einen neuen Reisepass oder eine Meldebescheinigung benötigen. Nicht alle sind jedoch zufrieden: Seniorenverbände kritisieren, dass Menschen ohne Smartphone oder mit geringen digitalen Kenntnissen benachteiligt würden. Die Stadt betont, dass die Schalter keinesfalls geschlossen werden sollen. Zusätzlich bietet sie in den Stadtteilbibliotheken einmal wöchentlich eine Sprechstunde an, in der Ehrenamtliche beim Ausfüllen der Online-Formulare helfen.",
+      "answer": "j",
+      "explanation": "The change of address can now be done „vollständig online“ with an app, and the waiting time for appointments has fallen from five weeks „auf unter zehn Tage“, so (j). Headline (i) is an exaggeration: the city stresses „dass die Schalter keinesfalls geschlossen werden sollen“.",
+      "explanationDe": "Die Ummeldung geht jetzt „vollständig online“ mit einer App, und die Wartezeit auf einen Termin ist von fünf Wochen „auf unter zehn Tage gesunken“, also (j). Überschrift (i) übertreibt: Die Stadt betont, „dass die Schalter keinesfalls geschlossen werden sollen“.",
+      "evidence": [
+        "lässt sich der neue Wohnsitz inzwischen vollständig online anmelden",
+        "ist dadurch auf unter zehn Tage gesunken"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Kleine Unternehmen unterschätzen die Gefahr durch Cyberangriffe offenbar erheblich. Das geht aus einer Umfrage des Wirtschaftsverbands Mittlerer Neckar unter 850 Betrieben mit weniger als 50 Beschäftigten hervor. Fast jeder dritte Betrieb gab an, im vergangenen Jahr Ziel eines Angriffs gewesen zu sein – etwa durch gefälschte Rechnungen per E-Mail oder durch Schadsoftware, die Firmendaten verschlüsselt und erst gegen Lösegeld wieder freigibt. Dennoch hält nur ein Viertel der Befragten das eigene Unternehmen für ein lohnendes Ziel; die meisten glauben, Kriminelle interessierten sich vor allem für Großkonzerne. Ein folgenschwerer Irrtum, wie der Verband betont: Gerade kleinere Betriebe seien attraktiv, weil sie sich schlechter schützten. Entsprechend dürftig ist die Vorsorge. Mehr als die Hälfte verfügt über keinen Notfallplan, und regelmäßige Schulungen für die Belegschaft sind die Ausnahme; viele Inhaberinnen und Inhaber verweisen auf fehlende Zeit und hohe Kosten. Dabei entstünden die meisten Schäden, so der Verband, durch einen einzigen unvorsichtigen Klick. Ab Januar bietet der Verband deshalb kostenlose Online-Kurse an, in denen Beschäftigte lernen, betrügerische Nachrichten zu erkennen.",
+      "answer": "e",
+      "explanation": "Small firms „unterschätzen die Gefahr“: almost a third were attacked, yet only a quarter think they are a worthwhile target and most have no emergency plan – a false sense of security, so (e). Headline (d) turns an opinion into a fact: only „die meisten glauben“ that criminals prefer big corporations, and the association calls this „Ein folgenschwerer Irrtum“.",
+      "explanationDe": "Kleine Firmen „unterschätzen die Gefahr“: Fast jede dritte wurde angegriffen, aber nur ein Viertel hält sich für ein lohnendes Ziel, und die meisten haben keinen Notfallplan – sie fühlen sich also falsch sicher, (e). Überschrift (d) macht aus einer Meinung eine Tatsache: Nur „die meisten glauben“, dass Kriminelle vor allem Großkonzerne angreifen, und der Verband nennt das „Ein folgenschwerer Irrtum“.",
+      "evidence": [
+        "Kleine Unternehmen unterschätzen die Gefahr durch Cyberangriffe offenbar erheblich",
+        "Dennoch hält nur ein Viertel der Befragten das eigene Unternehmen für ein lohnendes Ziel"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "b",
+      "why": "Text 2 is about a university reacting to AI, but it keeps the written paper („bleibt … zwar Bestandteil“) and only adds an oral exam. The verb „schafft“ in the text refers to new jobs, not to abolishing anything.",
+      "whyDe": "Text 2 handelt von einer Hochschule, die auf KI reagiert, aber die Hausarbeit „bleibt … zwar Bestandteil“; es kommt nur ein Gespräch dazu. Das Verb „schafft“ bezieht sich im Text auf neue Stellen, nicht auf das Abschaffen der Hausarbeit."
+    },
+    {
+      "key": "d",
+      "why": "In text 5 this is only what most small firms believe („die meisten glauben“). The association calls it a serious mistake: small businesses are attractive targets because they are less protected.",
+      "whyDe": "In Text 5 ist das nur die Meinung der meisten kleinen Firmen („die meisten glauben“). Der Verband nennt das einen folgenschweren Irrtum: Gerade kleine Betriebe sind attraktiv, weil sie sich schlechter schützen."
+    },
+    {
+      "key": "f",
+      "why": "Text 3 shows the opposite: weak readers profited most, while children who already read well improved only a little.",
+      "whyDe": "Text 3 zeigt das Gegenteil: Schwache Leserinnen und Leser profitierten am meisten, Kinder, die schon gut lasen, verbesserten sich nur wenig."
+    },
+    {
+      "key": "g",
+      "why": "Text 1 is about dropping out, but most students leave in the third and fourth semester, not in the first year, and failed exams are rarely the main reason.",
+      "whyDe": "In Text 1 geht es um Studienabbrüche, aber die meisten brechen im dritten und vierten Semester ab, nicht im ersten Jahr, und nicht bestandene Prüfungen sind selten der Hauptgrund."
+    },
+    {
+      "key": "i",
+      "why": "In text 4 the change of address can be done online, but it is not the only way: the city says the counters will definitely not be closed.",
+      "whyDe": "In Text 4 kann man sich zwar online ummelden, aber das ist nicht der einzige Weg: Die Stadt sagt, dass die Schalter keinesfalls geschlossen werden."
+    }
+  ],
+  "glossary": [
+    { "de": "ausschlaggebend", "en": "decisive" },
+    { "de": "die Lebenshaltungskosten (Pl.)", "en": "cost of living" },
+    { "de": "für etwas plädieren", "en": "to argue in favour of something" },
+    { "de": "heikel", "en": "tricky, delicate" },
+    { "de": "etwas offenlegen", "en": "to disclose something" },
+    { "de": "beträchtlich", "en": "considerable" },
+    { "de": "der Rückstand", "en": "gap, backlog (being behind)" },
+    { "de": "jemanden einstufen", "en": "to classify, to assess someone's level" },
+    { "de": "die Meldebescheinigung", "en": "certificate of registered address" },
+    { "de": "der/die Ehrenamtliche", "en": "volunteer" },
+    { "de": "folgenschwer", "en": "with serious consequences" },
+    { "de": "dürftig", "en": "poor, meagre" }
+  ]
+}

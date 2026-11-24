@@ -3,11 +3,11 @@ export const dashboard = {
   daysUntilExam: (n: number) => (n === 1 ? "1 day until your exam" : `${n} days until your exam`),
   setExamDate: "Set your exam date",
   hero: {
-    titleNew: "Pass telc B1 – with a plan.",
+    titleNew: (level: string) => `Pass telc ${level} – with a plan.`,
     titleStreak: (day: number) => `Day ${day} – weiter so!`,
     titleBack: "Willkommen zurück!",
-    introNew: (sets: number) =>
-      `${sets} original exam sets with real timing, listening with audio, AI feedback on your writing and speaking, and every B1 grammar topic.`,
+    introNew: (sets: number, level: string) =>
+      `${sets} original exam sets with real timing, listening with audio, AI feedback on your writing and speaking, and every ${level} grammar topic.`,
     introBack: "Here is the most useful thing to do next.",
   },
   next: {
@@ -30,7 +30,7 @@ export const dashboard = {
   learn: {
     title: "Learn & revise",
     grammar: (topics: number) => `${topics} topics with drills – every point Sprachbausteine tests.`,
-    vocab: (words: number, inCards: number) => `${words} B1 words · ${inCards} in your flashcards.`,
+    vocab: (words: number, inCards: number, level: string) => `${words} ${level} words · ${inCards} in your flashcards.`,
     phrasesTitle: "Redemittel",
     phrases: (n: number) => `${n} phrases for Schreiben and Sprechen.`,
     strategies: "How to approach every part – and the traps to avoid.",

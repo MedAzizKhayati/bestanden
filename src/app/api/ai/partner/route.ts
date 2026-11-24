@@ -15,6 +15,8 @@ const Body = z.object({
   partId: z.enum(["sprechen-1", "sprechen-2", "sprechen-3"]),
   setNumber: z.string().regex(/^\d{2}$/),
   turns: z.array(z.object({ role: z.enum(["user", "partner"]), text: z.string().max(2000) })).max(60),
+  /** telc B2 Teil 1: the topic (index on the sheet) the learner talks about. */
+  choice: z.number().int().min(0).max(6).optional(),
   /** UI language – only affects error messages; the partner always speaks German. */
   locale: z.enum(LOCALES).default(DEFAULT_LOCALE),
 });
@@ -28,13 +30,13 @@ export async function POST(req: Request) {
   const resolved = configForRequest(req, locale, { bucket: "partner", perHour: 240, message: t.partnerLimit }, t.partnerNotConfigured);
   if ("response" in resolved) return resolved.response;
   if (!parsed.success) return NextResponse.json({ error: t.invalidRequest }, { status: 400 });
-  const { examId, partId, setNumber, turns } = parsed.data;
+  const { examId, partId, setNumber, turns, choice } = parsed.data;
   const set = getSet(examId, partId, setNumber);
   if (!set || !set.type.startsWith("speaking")) return NextResponse.json({ error: t.unknownTask }, { status: 404 });
 
   const abort = new AbortController();
   req.signal.addEventListener("abort", () => abort.abort());
-  const chunks = streamPartnerReply(resolved.config, partId, set as SpeakingSet, turns, abort.signal)[Symbol.asyncIterator]();
+  const chunks = streamPartnerReply(resolved.config, partId, set as SpeakingSet, turns, abort.signal, choice)[Symbol.asyncIterator]();
 
   // Read the first chunk before answering, so configuration and auth errors become a JSON error.
   let first: IteratorResult<string>;

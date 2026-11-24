@@ -90,6 +90,13 @@ export const runner = {
     noAd: "x – no ad fits",
     drawerTitle: (n: number) => `Ad for situation ${n}`,
   },
+  /** Lesen Teil 3 with info texts (telc B2). */
+  infoTexts: {
+    noAdFits: "x (no text fits)",
+    noAdForSituation: (n: number) => `x – no text fits situation ${n}`,
+    noAd: "x – no text fits",
+    drawerTitle: (n: number) => `Info text for situation ${n}`,
+  },
 
   /** Lesen Teil 2 – multiple choice. */
   textMc: {
@@ -128,6 +135,10 @@ export const runner = {
     transcriptHint: "Transcript – click a line to hear it",
     playText: "Play text",
     introTranscript: "Introduction transcript",
+    playBulletin: "Play the news",
+    unscoredTranscript: "Report without a statement",
+    unscoredHint: (position: number) =>
+      `Report ${position} of the bulletin had no statement – part of the task was to notice that and not to match it to one.`,
     playAgain: "Play again",
     playConversation: "Play conversation",
     playsLeft: (left: number, total: number) => `${left} of ${total} plays left`,

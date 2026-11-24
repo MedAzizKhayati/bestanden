@@ -1,0 +1,109 @@
+{
+  "id": "sprachbausteine-2-08",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Coworking auf dem Land",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "textType": "article",
+  "text": "Laptop statt Landflucht: Coworking erobert die Dörfer\n\nLange galten Coworking-Spaces als typisches Großstadtphänomen: Freiberufler und junge Unternehmen, die sich in Berlin oder Hamburg einen Schreibtisch auf Zeit mieten. Inzwischen entstehen solche Gemeinschaftsbüros jedoch zunehmend auch [[1]] der Ballungsräume – in stillgelegten Bahnhöfen, leer stehenden Gasthöfen oder umgebauten Scheunen.\n\nHintergrund ist der Wandel der Arbeitswelt. Seit der Pandemie arbeiten viele Angestellte zumindest tageweise nicht mehr in der Firmenzentrale. Doch nicht jeder fühlt sich im Homeoffice wohl: Mal fehlt ein ruhiges Arbeitszimmer, mal stört der Familienalltag, und auf Dauer [[2]] viele den persönlichen Austausch mit Kolleginnen und Kollegen.\n\nGenau hier setzt das „Arbeitsnest“ in Kleinwalden an, einer Gemeinde mit 1.800 Einwohnern im Westerwald. In der ehemaligen Sparkassenfiliale können Berufstätige seit dem vergangenen Jahr Schreibtische tage- oder monatsweise mieten. Gegründet hat es die Grafikdesignerin Lena Hufnagel, die nach zwölf Jahren in Frankfurt in ihr Heimatdorf zurückgekehrt ist. „Ich wollte nicht länger täglich zwei Stunden im Stau [[3]]“, erzählt sie. Ein Umzug zurück in die Großstadt kommt für sie nicht mehr in [[4]].\n\nAnfangs standen viele Alteingesessene dem Projekt eher [[5]] gegenüber. Inzwischen hat sich das Büro jedoch zu einem Treffpunkt für das ganze Dorf [[6]]: Abends nutzen Vereine den Besprechungsraum, und an Markttagen gibt es Kaffee für alle.\n\nAuch die Kommunen setzen große Hoffnungen in solche Projekte. Sie wollen damit die [[7]] junger Familien bremsen und die Ortskerne wiederbeleben. Eine Untersuchung des Kasseler Instituts für ländliche Entwicklung zeigt allerdings, dass sich viele Dorfbüros wirtschaftlich kaum tragen. Die Mieteinnahmen reichen meist nicht aus, [[8]] die Betreiber auf Zuschüsse von Land oder Gemeinde angewiesen sind.\n\nHufnagel ist [[9]] zuversichtlich. „Die Nachfrage [[10]] flexiblen Arbeitsplätzen auf dem Land wächst“, sagt sie. „Viele merken erst bei uns, wie viel Lebensqualität sie gewinnen, wenn das Pendeln wegfällt.“",
+  "words": [
+    { "key": "a", "text": "abseits" },
+    { "key": "b", "text": "Abwanderung" },
+    { "key": "c", "text": "dennoch" },
+    { "key": "d", "text": "deshalb" },
+    { "key": "e", "text": "entwickelt" },
+    { "key": "f", "text": "fehlen" },
+    { "key": "g", "text": "Frage" },
+    { "key": "h", "text": "geworden" },
+    { "key": "i", "text": "nach" },
+    { "key": "j", "text": "Sinn" },
+    { "key": "k", "text": "skeptisch" },
+    { "key": "l", "text": "verbringen" },
+    { "key": "m", "text": "vermissen" },
+    { "key": "n", "text": "weshalb" },
+    { "key": "o", "text": "Zuwanderung" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "a",
+      "explanation": "„abseits“ + genitive (away from): co-working spaces now also open far from the big conurbations – the examples are stations, inns and barns in the countryside. „nach“ takes the dative and cannot be followed by „der Ballungsräume“.",
+      "explanationDe": "„abseits“ + Genitiv (= weit weg von): Gemeinschaftsbüros entstehen jetzt auch fern der großen Städte – die Beispiele sind Bahnhöfe, Gasthöfe und Scheunen auf dem Land. „nach“ steht mit Dativ und passt nicht zu „der Ballungsräume“.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 2,
+      "answer": "m",
+      "explanation": "„etwas vermissen“ (to miss something): the person is the subject and the thing is in the accusative – „viele vermissen den Austausch“. „fehlen“ is the trap: there the roles are reversed – „vielen fehlt der Austausch“.",
+      "explanationDe": "„etwas vermissen“: Die Person ist das Subjekt, die Sache steht im Akkusativ – „viele vermissen den Austausch“. „fehlen“ ist die Falle: Dort ist es umgekehrt – „vielen fehlt der Austausch“."
+    },
+    {
+      "n": 3,
+      "answer": "l",
+      "explanation": "„Zeit (irgendwo) verbringen“ (to spend time somewhere): she no longer wanted to spend two hours a day in traffic jams. Neither „vermissen“ nor „fehlen“ makes sense with „zwei Stunden im Stau“.",
+      "explanationDe": "„Zeit (irgendwo) verbringen“: Sie wollte nicht mehr jeden Tag zwei Stunden im Stau stehen. Weder „vermissen“ noch „fehlen“ ergibt mit „zwei Stunden im Stau“ einen Sinn."
+    },
+    {
+      "n": 4,
+      "answer": "g",
+      "explanation": "„nicht in Frage kommen“ (to be out of the question) is a fixed expression: moving back to the city is no longer an option for her. „Sinn“ is the trap: the expression is „in den Sinn kommen“ (to occur to someone) – with an article and a different meaning.",
+      "explanationDe": "„nicht in Frage kommen“ (= keine Möglichkeit sein) ist eine feste Wendung: Ein Umzug zurück in die Stadt ist für sie keine Option mehr. „Sinn“ ist die Falle: Man sagt „in den Sinn kommen“ (= einfallen) – mit Artikel und mit anderer Bedeutung.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 5,
+      "answer": "k",
+      "explanation": "„einer Sache skeptisch gegenüberstehen“ (to be sceptical about something): at first many long-time residents had doubts. „Anfangs“ and the contrast „Inzwischen … jedoch“ in the next sentence show that their attitude has changed.",
+      "explanationDe": "„einer Sache skeptisch gegenüberstehen“ (= Zweifel an etwas haben): Am Anfang hatten viele Alteingesessene Zweifel. „Anfangs“ und der Gegensatz „Inzwischen … jedoch“ im nächsten Satz zeigen, dass sich ihre Meinung geändert hat."
+    },
+    {
+      "n": 6,
+      "answer": "e",
+      "explanation": "„sich zu etwas entwickeln“ (to develop into something): over time, the office has become a meeting place for the whole village. „geworden“ is the trap: „werden“ is not reflexive and forms the Perfekt with „sein“ – it would have to be „ist … zu einem Treffpunkt geworden“.",
+      "explanationDe": "„sich zu etwas entwickeln“: Mit der Zeit ist das Büro ein Treffpunkt für das ganze Dorf geworden. „geworden“ ist die Falle: „werden“ hat kein „sich“ und bildet das Perfekt mit „sein“ – richtig wäre „ist … zu einem Treffpunkt geworden“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 7,
+      "answer": "b",
+      "explanation": "„die Abwanderung“ means people moving away: the municipalities want to stop young families from leaving and bring life back to the village centres. „Zuwanderung“ (people moving in) is the opposite – no village wants to slow that down.",
+      "explanationDe": "„die Abwanderung“ heißt, dass Menschen wegziehen: Die Gemeinden wollen verhindern, dass junge Familien gehen, und die Ortskerne beleben. „Zuwanderung“ (= Menschen ziehen zu) ist das Gegenteil – das will kein Dorf bremsen.",
+      "grammar": "wortbildung-b2"
+    },
+    {
+      "n": 8,
+      "answer": "n",
+      "explanation": "„weshalb“ (which is why) starts a subordinate clause with the verb at the end („angewiesen sind“) and gives the consequence of the low rental income. „deshalb“ is the trap: it means the same, but it is an adverb and needs main-clause word order („deshalb sind die Betreiber … angewiesen“).",
+      "explanationDe": "„weshalb“ leitet einen Nebensatz mit dem Verb am Ende ein („angewiesen sind“) und nennt die Folge der niedrigen Einnahmen. „deshalb“ ist die Falle: Es bedeutet dasselbe, ist aber ein Adverb und braucht die Wortstellung eines Hauptsatzes („deshalb sind die Betreiber … angewiesen“).",
+      "grammar": "konsekutivsaetze-b2"
+    },
+    {
+      "n": 9,
+      "answer": "c",
+      "explanation": "„dennoch“ (nevertheless) marks a contrast with the previous paragraph: despite the financial problems, Ms Hufnagel is confident. „deshalb“ would make the money problems the reason for her optimism – illogical.",
+      "explanationDe": "„dennoch“ (= trotzdem) zeigt den Gegensatz zum Absatz davor: Trotz der Geldprobleme ist Frau Hufnagel zuversichtlich. Mit „deshalb“ wären die Geldprobleme der Grund für ihren Optimismus – das ist unlogisch.",
+      "grammar": "konzessive-saetze-b2"
+    },
+    {
+      "n": 10,
+      "answer": "i",
+      "explanation": "„die Nachfrage nach etwas“ (demand for something) – like the verb „fragen nach“, the noun takes „nach“ + dative: „nach flexiblen Arbeitsplätzen“.",
+      "explanationDe": "„die Nachfrage nach etwas“ – wie beim Verb „fragen nach“ steht das Nomen mit „nach“ + Dativ: „nach flexiblen Arbeitsplätzen“.",
+      "grammar": "nomen-mit-praepositionen"
+    }
+  ],
+  "glossary": [
+    { "de": "der Ballungsraum", "en": "conurbation, metropolitan area" },
+    { "de": "stillgelegt", "en": "disused, closed down" },
+    { "de": "der Austausch", "en": "exchange, contact" },
+    { "de": "nicht in Frage kommen", "en": "to be out of the question" },
+    { "de": "die Alteingesessenen", "en": "long-time residents" },
+    { "de": "einer Sache skeptisch gegenüberstehen", "en": "to be sceptical about something" },
+    { "de": "die Abwanderung", "en": "people moving away, out-migration" },
+    { "de": "den Ortskern wiederbeleben", "en": "to revive the village centre" },
+    { "de": "sich (wirtschaftlich) tragen", "en": "to be financially self-supporting" },
+    { "de": "der Zuschuss", "en": "subsidy, grant" },
+    { "de": "zuversichtlich", "en": "confident, optimistic" }
+  ]
+}

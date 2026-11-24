@@ -1,0 +1,251 @@
+{
+  "id": "partizipialattribute",
+  "level": "B2",
+  "category": "adjektive",
+  "order": 20,
+  "title": "Erweiterte Partizipialattribute und Gerundiv",
+  "titleEn": "Extended participle attributes and the gerundive",
+  "summary": "Read and build long noun phrases like „die seit Jahren steigenden Mieten“, „das vom Rat beschlossene Gesetz“ and „das zu lösende Problem“ – and turn them into relative clauses and back.",
+  "summaryDe": "Lange Nominalgruppen wie „die seit Jahren steigenden Mieten“, „das vom Rat beschlossene Gesetz“ und „das zu lösende Problem“ verstehen und bilden – und sie in Relativsätze umformen und zurück.",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "An **extended participle attribute** is a relative clause packed in front of the noun: **article + extensions + participle with adjective ending + noun**. There are three types:\n\n- **Partizip I** (active, at the same time): die **seit Jahren steigenden** Mieten = die Mieten, die seit Jahren steigen\n- **Partizip II** (passive or completed): das **vom Rat beschlossene** Gesetz = das Gesetz, das vom Rat beschlossen wurde\n- **Gerundiv, zu + Partizip I** (must or can be done): das **zu lösende** Problem = das Problem, das gelöst werden muss",
+      "mdDe": "Ein **erweitertes Partizipialattribut** ist ein Relativsatz, der vor das Nomen gepackt wird: **Artikel + Erweiterungen + Partizip mit Adjektivendung + Nomen**. Es gibt drei Typen:\n\n- **Partizip I** (aktiv, gleichzeitig): die **seit Jahren steigenden** Mieten = die Mieten, die seit Jahren steigen\n- **Partizip II** (passiv oder abgeschlossen): das **vom Rat beschlossene** Gesetz = das Gesetz, das vom Rat beschlossen wurde\n- **Gerundiv, zu + Partizip I** (muss oder kann gemacht werden): das **zu lösende** Problem = das Problem, das gelöst werden muss"
+    },
+    {
+      "type": "table",
+      "heading": "The types and the relative clause behind them",
+      "headingDe": "Die Typen und der Relativsatz dahinter",
+      "columns": ["Type", "Participle attribute", "Relative clause"],
+      "columnsDe": ["Typ", "Partizipialattribut", "Relativsatz"],
+      "rows": [
+        ["Partizip I – active, at the same time", "die **seit Jahren steigenden** Mieten", "die Mieten, die seit Jahren **steigen**"],
+        ["Partizip II of a verb with an accusative object – passive", "das **vom Rat beschlossene** Gesetz", "das Gesetz, das vom Rat **beschlossen worden ist**"],
+        ["Partizip II of a verb with sein – active, completed", "der **vor einer Stunde gelandete** Flug", "der Flug, der vor einer Stunde **gelandet ist**"],
+        ["Partizip II as a state (Zustandspassiv)", "die **seit Mai gesperrte** Brücke", "die Brücke, die seit Mai **gesperrt ist**"],
+        ["Gerundiv: zu + Partizip I – must or can be done", "das **noch zu lösende** Problem", "das Problem, das noch **gelöst werden muss**"]
+      ],
+      "rowsDe": [
+        ["Partizip I – aktiv, gleichzeitig", "die **seit Jahren steigenden** Mieten", "die Mieten, die seit Jahren **steigen**"],
+        ["Partizip II eines Verbs mit Akkusativobjekt – passiv", "das **vom Rat beschlossene** Gesetz", "das Gesetz, das vom Rat **beschlossen worden ist**"],
+        ["Partizip II eines Verbs mit sein – aktiv, abgeschlossen", "der **vor einer Stunde gelandete** Flug", "der Flug, der vor einer Stunde **gelandet ist**"],
+        ["Partizip II als Zustand (Zustandspassiv)", "die **seit Mai gesperrte** Brücke", "die Brücke, die seit Mai **gesperrt ist**"],
+        ["Gerundiv: zu + Partizip I – muss oder kann gemacht werden", "das **noch zu lösende** Problem", "das Problem, das noch **gelöst werden muss**"]
+      ],
+      "note": "Partizip I and II also differ in time: „die steigenden Preise“ are still rising, „die gestiegenen Preise“ have already risen.",
+      "noteDe": "Partizip I und II unterscheiden sich auch in der Zeit: „die steigenden Preise“ steigen noch, „die gestiegenen Preise“ sind schon gestiegen."
+    },
+    {
+      "type": "text",
+      "heading": "How to read them",
+      "headingDe": "So liest du sie",
+      "md": "Newspaper texts sometimes put ten words or more between the article and its noun. Read in four steps:\n\n1. Find the **article** (or preposition + article): **die** …\n2. **Jump to the noun** – it comes right after the participle with an ending: … **Parkgebühr**\n3. Find the **participle** in front of it: … eingeführte und … kritisierte\n4. Read the **middle part** as a relative clause.\n\n„**die** von der Stadt im vergangenen Jahr **eingeführte** und von vielen Anwohnern **kritisierte Parkgebühr**“ = die Parkgebühr, die von der Stadt im vergangenen Jahr eingeführt und von vielen Anwohnern kritisiert wurde.\n\n**Signal:** an article followed directly by a preposition or an adverb – „die **von** …“, „das **seit** …“, „der **im** …“, „den **bereits** …“ – almost always opens a participle attribute. The article agrees with the noun at the end, not with the words right after it: mit **den** seit Generationen im Dorf lebenden **Familien**.",
+      "mdDe": "Zeitungstexte setzen manchmal zehn Wörter oder mehr zwischen den Artikel und sein Nomen. Lies in vier Schritten:\n\n1. Finde den **Artikel** (oder Präposition + Artikel): **die** …\n2. **Spring zum Nomen** – es steht direkt nach dem Partizip mit Endung: … **Parkgebühr**\n3. Finde das **Partizip** davor: … eingeführte und … kritisierte\n4. Lies den **Mittelteil** als Relativsatz.\n\n„**die** von der Stadt im vergangenen Jahr **eingeführte** und von vielen Anwohnern **kritisierte Parkgebühr**“ = die Parkgebühr, die von der Stadt im vergangenen Jahr eingeführt und von vielen Anwohnern kritisiert wurde.\n\n**Signal:** Ein Artikel, nach dem direkt eine Präposition oder ein Adverb kommt – „die **von** …“, „das **seit** …“, „der **im** …“, „den **bereits** …“ –, öffnet fast immer ein Partizipialattribut. Der Artikel passt zum Nomen am Ende, nicht zu den Wörtern direkt danach: mit **den** seit Generationen im Dorf lebenden **Familien**."
+    },
+    {
+      "type": "text",
+      "heading": "Relative clause → attribute and back",
+      "headingDe": "Relativsatz → Attribut und zurück",
+      "md": "1. **Delete the relative pronoun** and the **auxiliary verbs** (wird, wurde, ist … worden, ist): die Studie, die im Herbst veröffentlicht wurde → im Herbst veröffentlicht\n2. **Choose the participle:** active present → Partizip I; passive or Perfekt with sein → Partizip II; passive with müssen/können/sollen → zu + Partizip I.\n3. **Keep the other words in their order** and put them between the article and the participle.\n4. **Add the adjective ending** the noun needs: die **im Herbst veröffentlichte** Studie – in der **im Herbst veröffentlichten** Studie.\n\nThe way back works in reverse: the relative pronoun takes gender and number from the noun and its case from its role in the clause. For Partizip II use a passive (wurde / ist … worden) or, with sein verbs, the Perfekt.\n\nA relative clause with an **active Perfekt with haben** cannot become an attribute: der Autor, der den Roman geschrieben hat – „der den Roman geschriebene Autor“ is wrong. Keep the relative clause.",
+      "mdDe": "1. **Streich das Relativpronomen** und die **Hilfsverben** (wird, wurde, ist … worden, ist): die Studie, die im Herbst veröffentlicht wurde → im Herbst veröffentlicht\n2. **Wähle das Partizip:** Aktiv Präsens → Partizip I; Passiv oder Perfekt mit sein → Partizip II; Passiv mit müssen/können/sollen → zu + Partizip I.\n3. **Lass die anderen Wörter in ihrer Reihenfolge** und stell sie zwischen Artikel und Partizip.\n4. **Ergänze die Adjektivendung**, die das Nomen braucht: die **im Herbst veröffentlichte** Studie – in der **im Herbst veröffentlichten** Studie.\n\nDer Weg zurück funktioniert umgekehrt: Das Relativpronomen nimmt Genus und Numerus vom Nomen und den Kasus von seiner Rolle im Satz. Beim Partizip II nimmst du ein Passiv (wurde / ist … worden) oder bei Verben mit sein das Perfekt.\n\nEin Relativsatz mit **aktivem Perfekt mit haben** kann kein Attribut werden: der Autor, der den Roman geschrieben hat – „der den Roman geschriebene Autor“ ist falsch. Behalte den Relativsatz."
+    },
+    {
+      "type": "text",
+      "heading": "The gerundive: zu + Partizip I",
+      "headingDe": "Das Gerundiv: zu + Partizip I",
+      "md": "The **Gerundiv** is the attribute form of **sein + zu** (see „Passiversatz“): Das Problem **ist zu lösen**. → das **zu lösende** Problem.\n\n- Usually it means **must/should**: die bis Freitag **einzureichenden** Unterlagen (= die Unterlagen, die bis Freitag eingereicht werden müssen)\n- With **nicht, kaum, leicht** it often means **can**: ein **kaum zu überhörender** Lärm (= ein Lärm, den man kaum überhören kann) – ein **nicht zu unterschätzendes** Risiko (= ein Risiko, das man nicht unterschätzen darf)\n- Frequent phrases: die **zu erwartenden** Kosten (the expected costs), der **zu zahlende** Betrag (the amount to be paid)\n\nSpelling: zu is a separate word („zu lösende“), but with separable verbs it goes inside: **einzureichende**, **abzugebende**, **anzuerkennende**.",
+      "mdDe": "Das **Gerundiv** ist die Attributform von **sein + zu** (siehe „Passiversatz“): Das Problem **ist zu lösen**. → das **zu lösende** Problem.\n\n- Meistens bedeutet es **müssen/sollen**: die bis Freitag **einzureichenden** Unterlagen (= die Unterlagen, die bis Freitag eingereicht werden müssen)\n- Mit **nicht, kaum, leicht** bedeutet es oft **können**: ein **kaum zu überhörender** Lärm (= ein Lärm, den man kaum überhören kann) – ein **nicht zu unterschätzendes** Risiko (= ein Risiko, das man nicht unterschätzen darf)\n- Häufige Ausdrücke: die **zu erwartenden** Kosten (die Kosten, mit denen man rechnen muss), der **zu zahlende** Betrag (der Betrag, den man zahlen muss)\n\nRechtschreibung: zu steht allein („zu lösende“), aber bei trennbaren Verben steht es in der Mitte: **einzureichende**, **abzugebende**, **anzuerkennende**."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Die **seit Jahren steigenden** Mieten treiben viele Familien an den Stadtrand.", "en": "Rents, which have been rising for years, are driving many families to the outskirts." },
+        { "de": "Das **vom Bundestag beschlossene** Gesetz tritt im Januar in Kraft.", "en": "The law passed by the Bundestag comes into force in January." },
+        { "de": "Das größte **noch zu lösende** Problem ist die Finanzierung.", "en": "The biggest problem still to be solved is the funding." },
+        { "de": "Die **gestern Abend in Frankfurt gelandete** Maschine musste sofort gewartet werden.", "en": "The plane that landed in Frankfurt last night had to be serviced immediately." },
+        { "de": "Die **von der Krise besonders stark betroffenen** Branchen erhalten staatliche Hilfe.", "en": "The sectors hit particularly hard by the crisis receive state aid." },
+        { "de": "Die **bis zum 30. April einzureichenden** Anträge finden Sie auf unserer Website.", "en": "You can find the applications, which must be submitted by 30 April, on our website." },
+        { "de": "Ein **nicht zu unterschätzender** Vorteil ist die gute Verkehrsanbindung.", "en": "One advantage that should not be underestimated is the good transport links." },
+        { "de": "Die **im Bericht genannten** Zahlen sind bereits veraltet.", "en": "The figures mentioned in the report are already out of date." },
+        { "de": "Wir suchen eine **im Umgang mit Kunden erfahrene** Fachkraft.", "en": "We are looking for a specialist with experience in dealing with customers." },
+        { "de": "In der **seit Mai gesperrten** Unterführung wird jetzt endlich gearbeitet.", "en": "Work is finally being done in the underpass that has been closed since May." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**Lesen Teil 2:** long participle attributes are typical of Nominalstil. The options usually paraphrase them as a relative clause or with a verb – „die von der Kommission vorgeschlagenen Maßnahmen“ becomes „Maßnahmen, die die Kommission vorschlägt“. Check **who** does what: the person after **von** is the agent, and wrong options like to swap it. In **Lesen Teil 1**, headlines love short attributes: „Lang erwartete Studie bestätigt …“.\n\n**Sprachbausteine Teil 1:** you choose the ending („die von der Firma angebotenen / angebotene Kurse“) or the type: Partizip I, Partizip II or zu + Partizip I („die steigenden / gestiegenen / zu erwartenden Kosten“) – the time words in the sentence decide.\n\n**Schreiben:** one or two attributes make a formal letter precise: „die in Ihrer Anzeige versprochenen Leistungen“, „das von mir am 3. Mai gebuchte Zimmer“, „die bis heute nicht erstattete Anzahlung“. Don't overdo it – three in one sentence are hard to read.",
+      "mdDe": "**Lesen Teil 2:** Lange Partizipialattribute sind typisch für den Nominalstil. Die Antworten formulieren sie meistens als Relativsatz oder mit einem Verb um – aus „die von der Kommission vorgeschlagenen Maßnahmen“ wird „Maßnahmen, die die Kommission vorschlägt“. Prüfe, **wer** was macht: Die Person nach **von** ist der Handelnde, und falsche Antworten vertauschen ihn gern. In **Lesen Teil 1** lieben Überschriften kurze Attribute: „Lang erwartete Studie bestätigt …“.\n\n**Sprachbausteine Teil 1:** Du wählst die Endung („die von der Firma angebotenen / angebotene Kurse“) oder den Typ: Partizip I, Partizip II oder zu + Partizip I („die steigenden / gestiegenen / zu erwartenden Kosten“) – die Zeitangaben im Satz entscheiden.\n\n**Schreiben:** Ein oder zwei Attribute machen einen formellen Brief genau: „die in Ihrer Anzeige versprochenen Leistungen“, „das von mir am 3. Mai gebuchte Zimmer“, „die bis heute nicht erstattete Anzahlung“. Übertreib es nicht – drei in einem Satz sind schwer zu lesen."
+    },
+    {
+      "type": "warning",
+      "md": "**Watch the meaning – Partizip I is active, Partizip II is passive:**\n\n- die **überzeugenden** Argumente (the arguments convince) – die **überzeugten** Wähler (the voters are convinced)\n- die **betreuende** Ärztin (she looks after someone) – der **betreute** Patient (he is looked after)\n\n**The ending goes only on the participle** – the words in front of it never change: die seit drei Jahren **geplanten** Projekte, mit **den** von uns bestellten Möbeln (dative plural → -en).",
+      "mdDe": "**Achte auf die Bedeutung – Partizip I ist aktiv, Partizip II ist passiv:**\n\n- die **überzeugenden** Argumente (die Argumente überzeugen) – die **überzeugten** Wähler (die Wähler sind überzeugt)\n- die **betreuende** Ärztin (sie betreut jemanden) – der **betreute** Patient (er wird betreut)\n\n**Nur das Partizip bekommt eine Endung** – die Wörter davor verändern sich nie: die seit drei Jahren **geplanten** Projekte, mit **den** von uns bestellten Möbeln (Dativ Plural → -en)."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Die von der Stadt geplante Radwege sind umstritten.",
+      "right": "Die von der Stadt geplanten Radwege sind umstritten.",
+      "why": "The participle takes the normal adjective ending: definite article + plural → „-en“. The words in between do not change anything.",
+      "whyDe": "Das Partizip bekommt die normale Adjektivendung: bestimmter Artikel + Plural → „-en“. Die Wörter dazwischen ändern daran nichts."
+    },
+    {
+      "wrong": "Das vom Rat beschließende Gesetz gilt ab Januar.",
+      "right": "Das vom Rat beschlossene Gesetz gilt ab Januar.",
+      "why": "The law does not decide anything – it was decided by the council (passive) → Partizip II „beschlossene“. Partizip I would mean that the law itself decides.",
+      "whyDe": "Das Gesetz beschließt nichts – es wurde vom Rat beschlossen (Passiv) → Partizip II „beschlossene“. Partizip I würde bedeuten, dass das Gesetz selbst etwas beschließt."
+    },
+    {
+      "wrong": "Die das Projekt geleitete Ingenieurin hat die Firma verlassen.",
+      "right": "Die Ingenieurin, die das Projekt geleitet hat, hat die Firma verlassen.",
+      "why": "The engineer led the project – an active Perfekt with haben. Such a clause cannot become a Partizip II attribute (that would be passive), so keep the relative clause.",
+      "whyDe": "Die Ingenieurin hat das Projekt geleitet – ein aktives Perfekt mit haben. So ein Satz kann kein Attribut mit Partizip II werden (das wäre passiv), deshalb bleibt der Relativsatz."
+    },
+    {
+      "wrong": "Die zu bezahlte Rechnung liegt auf dem Tisch.",
+      "right": "Die zu bezahlende Rechnung liegt auf dem Tisch.",
+      "why": "The gerundive is always zu + Partizip I („bezahlend“ → „zu bezahlende“), never zu + Partizip II.",
+      "whyDe": "Das Gerundiv ist immer zu + Partizip I („bezahlend“ → „zu bezahlende“), nie zu + Partizip II."
+    },
+    {
+      "wrong": "Bitte schicken Sie die bis Montag zu einreichenden Unterlagen per E-Mail.",
+      "right": "Bitte schicken Sie die bis Montag einzureichenden Unterlagen per E-Mail.",
+      "why": "With separable verbs „zu“ goes between the prefix and the stem and everything is written as one word: „einzureichenden“.",
+      "whyDe": "Bei trennbaren Verben steht „zu“ zwischen Präfix und Verb, und alles wird zusammengeschrieben: „einzureichenden“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Die im letzten Winter stark ___ Heizkosten sind inzwischen wieder etwas gesunken.",
+      "options": ["gestiegenen", "steigenden", "steigende"],
+      "answer": 0,
+      "explanation": "„im letzten Winter“ and „inzwischen wieder gesunken“ show that the rise is over → Partizip II „gestiegenen“ (= die gestiegen sind). „steigenden“ would mean they are still rising; „steigende“ has the wrong ending after „die“.",
+      "explanationDe": "„im letzten Winter“ und „inzwischen wieder gesunken“ zeigen: Der Anstieg ist vorbei → Partizip II „gestiegenen“ (= die gestiegen sind). „steigenden“ würde bedeuten, dass sie noch steigen; „steigende“ hat nach „die“ die falsche Endung."
+    },
+    {
+      "type": "mc",
+      "prompt": "Das im März vom Stadtrat ___ Verkehrskonzept gilt seit Juli.",
+      "options": ["beschlossene", "beschließende", "zu beschließende"],
+      "answer": 0,
+      "explanation": "The concept was decided by the council („vom Stadtrat“, passive) in March and is already in force → Partizip II „beschlossene“. „zu beschließende“ would mean it still has to be decided, which contradicts „gilt seit Juli“.",
+      "explanationDe": "Das Konzept wurde im März vom Stadtrat beschlossen (Passiv) und gilt schon → Partizip II „beschlossene“. „zu beschließende“ würde bedeuten, dass es noch beschlossen werden muss – das passt nicht zu „gilt seit Juli“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Bitte denken Sie an die noch bis Freitag ___ Berichte.",
+      "options": ["abzugebenden", "abgegebenen", "zu abgebenden"],
+      "answer": 0,
+      "explanation": "„noch bis Freitag“ = a deadline in the future → gerundive (= die Berichte, die bis Freitag abgegeben werden müssen). With the separable verb, „zu“ goes inside: „abzugebenden“.",
+      "explanationDe": "„noch bis Freitag“ = eine Frist in der Zukunft → Gerundiv (= die Berichte, die bis Freitag abgegeben werden müssen). Beim trennbaren Verb steht „zu“ in der Mitte: „abzugebenden“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mit den in der Anzeige ___ Leistungen bin ich leider nicht zufrieden.",
+      "options": ["versprochenen", "versprochene", "versprechenden"],
+      "answer": 0,
+      "explanation": "The services were promised in the ad (passive) → Partizip II. After „mit den“ (dative plural) the ending is „-en“: „versprochenen“. „versprechenden“ would mean the services themselves promise something.",
+      "explanationDe": "Die Leistungen wurden in der Anzeige versprochen (Passiv) → Partizip II. Nach „mit den“ (Dativ Plural) ist die Endung „-en“: „versprochenen“. „versprechenden“ würde bedeuten, dass die Leistungen selbst etwas versprechen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der vor zwei Stunden in Hamburg ___ Zug ist noch immer nicht in Berlin angekommen.",
+      "answers": ["abgefahrene"],
+      "hint": "(abfahren)",
+      "explanation": "„abfahren“ forms its Perfekt with sein, so Partizip II is active here: der Zug, der abgefahren ist → „der … abgefahrene Zug“ (masculine nominative after „der“ → „-e“).",
+      "explanationDe": "„abfahren“ bildet das Perfekt mit sein, deshalb ist das Partizip II hier aktiv: der Zug, der abgefahren ist → „der … abgefahrene Zug“ (maskulin, Nominativ nach „der“ → „-e“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ein nicht zu ___ Problem ist der Mangel an Fachkräften in der Pflege.",
+      "answers": ["unterschätzendes"],
+      "hint": "(unterschätzen)",
+      "explanation": "Gerundiv: zu + Partizip I (= ein Problem, das man nicht unterschätzen darf). „ein … Problem“ is neuter nominative → „unterschätzendes“.",
+      "explanationDe": "Gerundiv: zu + Partizip I (= ein Problem, das man nicht unterschätzen darf). „ein … Problem“ ist neutral, Nominativ → „unterschätzendes“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Viele der zum Vorstellungsgespräch ___ Bewerberinnen kamen aus dem Ausland.",
+      "answers": ["eingeladenen"],
+      "hint": "(einladen)",
+      "explanation": "The applicants were invited (passive) → Partizip II „eingeladen“. „der … Bewerberinnen“ is genitive plural → „-en“.",
+      "explanationDe": "Die Bewerberinnen wurden eingeladen (Passiv) → Partizip II „eingeladen“. „der … Bewerberinnen“ ist Genitiv Plural → „-en“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die seit Wochen ___ Tarifverhandlungen sollen morgen abgeschlossen werden.",
+      "answers": ["andauernden"],
+      "hint": "(andauern)",
+      "explanation": "The negotiations are still going on („seit Wochen“, not finished yet) → Partizip I „andauernd“ (= die seit Wochen andauern). Plural after „die“ → „-en“.",
+      "explanationDe": "Die Verhandlungen laufen noch („seit Wochen“, noch nicht abgeschlossen) → Partizip I „andauernd“ (= die seit Wochen andauern). Plural nach „die“ → „-en“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the relative clause into an extended participle attribute.",
+      "instructionDe": "Forme den Relativsatz in ein erweitertes Partizipialattribut um.",
+      "prompt": "Die Studie, die im Herbst von einem Kölner Forschungsinstitut veröffentlicht wurde, sorgt für Diskussionen.",
+      "answers": [
+        "Die im Herbst von einem Kölner Forschungsinstitut veröffentlichte Studie sorgt für Diskussionen.",
+        "Die von einem Kölner Forschungsinstitut im Herbst veröffentlichte Studie sorgt für Diskussionen."
+      ],
+      "explanation": "Passive relative clause → Partizip II. Delete „die“ and „wurde“, put the rest between the article and the participle, and add the ending: „die … veröffentlichte Studie“.",
+      "explanationDe": "Relativsatz im Passiv → Partizip II. Streich „die“ und „wurde“, stell den Rest zwischen Artikel und Partizip und ergänze die Endung: „die … veröffentlichte Studie“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the participle attribute into a relative clause.",
+      "instructionDe": "Forme das Partizipialattribut in einen Relativsatz um.",
+      "prompt": "Die seit Jahren verfallende Fabrik soll zu Wohnungen umgebaut werden.",
+      "answers": ["Die Fabrik, die seit Jahren verfällt, soll zu Wohnungen umgebaut werden."],
+      "explanation": "Partizip I = active present: „verfallende“ → „die seit Jahren verfällt“. The relative pronoun „die“ agrees with „die Fabrik“.",
+      "explanationDe": "Partizip I = Aktiv Präsens: „verfallende“ → „die seit Jahren verfällt“. Das Relativpronomen „die“ passt zu „die Fabrik“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the relative clause with a gerundive (zu + Partizip I).",
+      "instructionDe": "Ersetze den Relativsatz durch ein Gerundiv (zu + Partizip I).",
+      "prompt": "Die Fragen, die noch geklärt werden müssen, besprechen wir morgen.",
+      "answers": [
+        "Die noch zu klärenden Fragen besprechen wir morgen.",
+        "Wir besprechen die noch zu klärenden Fragen morgen.",
+        "Morgen besprechen wir die noch zu klärenden Fragen."
+      ],
+      "explanation": "„die … geklärt werden müssen“ = passive with müssen → zu + Partizip I: „die noch zu klärenden Fragen“ (plural after „die“ → „-en“).",
+      "explanationDe": "„die … geklärt werden müssen“ = Passiv mit müssen → zu + Partizip I: „die noch zu klärenden Fragen“ (Plural nach „die“ → „-en“)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Turn the participle attribute into a relative clause in the passive (Präteritum).",
+      "instructionDe": "Forme das Partizipialattribut in einen Relativsatz im Passiv (Präteritum) um.",
+      "prompt": "Die vom Hausmeister reparierte Heizung funktioniert schon wieder nicht.",
+      "answers": [
+        "Die Heizung, die vom Hausmeister repariert wurde, funktioniert schon wieder nicht.",
+        "Die Heizung, die von dem Hausmeister repariert wurde, funktioniert schon wieder nicht."
+      ],
+      "explanation": "Partizip II of „reparieren“ with „vom Hausmeister“ = passive: „die vom Hausmeister repariert wurde“. The conjugated verb „wurde“ goes to the end of the relative clause.",
+      "explanationDe": "Partizip II von „reparieren“ mit „vom Hausmeister“ = Passiv: „die vom Hausmeister repariert wurde“. Das konjugierte Verb „wurde“ steht am Ende des Relativsatzes."
+    },
+    {
+      "type": "order",
+      "words": ["verlegt", "Anwohnern", "Die", "werden.", "kritisierte", "soll", "von", "Baustelle", "vielen"],
+      "answers": ["Die von vielen Anwohnern kritisierte Baustelle soll verlegt werden."],
+      "explanation": "Article → extension („von vielen Anwohnern“) → participle with ending („kritisierte“) → noun („Baustelle“). Then the verb „soll“ in position 2 and „verlegt werden“ at the end.",
+      "explanationDe": "Artikel → Erweiterung („von vielen Anwohnern“) → Partizip mit Endung („kritisierte“) → Nomen („Baustelle“). Danach „soll“ auf Position 2 und „verlegt werden“ am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["erwartenden", "hat", "unterschätzt.", "Die", "Kosten", "zu", "Firma", "deutlich", "die"],
+      "answers": [
+        "Die Firma hat die zu erwartenden Kosten deutlich unterschätzt.",
+        "Die zu erwartenden Kosten hat die Firma deutlich unterschätzt."
+      ],
+      "explanation": "„die zu erwartenden Kosten“ is one noun phrase (= die Kosten, mit denen man rechnen muss): „zu“ + Partizip I with ending sits between the article and the noun.",
+      "explanationDe": "„die zu erwartenden Kosten“ ist eine Nominalgruppe (= die Kosten, mit denen man rechnen muss): „zu“ + Partizip I mit Endung steht zwischen Artikel und Nomen."
+    }
+  ],
+  "related": ["partizip-als-adjektiv", "relativsaetze", "adjektivdeklination", "passiv-b2", "passiversatz", "relativsaetze-b2", "nominalisierung", "adjektivdeklination-b2"]
+}

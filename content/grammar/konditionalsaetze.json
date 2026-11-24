@@ -1,0 +1,281 @@
+{
+  "id": "konditionalsaetze",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 22,
+  "title": "Bedingungen: falls, sofern, es sei denn, Konditionalsätze ohne „wenn“",
+  "titleEn": "Conditions: falls, sofern, es sei denn, conditional clauses without „wenn“",
+  "summary": "Go beyond wenn: falls for a possible case, sofern and vorausgesetzt for a restriction, es sei denn for an exception, the verb-first conditional („Sollten Sie …“) and conditions expressed as nouns (bei, im Falle, ohne).",
+  "summaryDe": "Mehr als wenn: falls für einen möglichen Fall, sofern und vorausgesetzt für eine Einschränkung, es sei denn für eine Ausnahme, der Konditionalsatz mit dem Verb am Anfang („Sollten Sie …“) und Bedingungen als Nomen (bei, im Falle, ohne).",
+  "examRelevance": ["schreiben", "sprachbausteine", "lesen", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Besides **wenn**, German has more precise ways to state a condition: **falls / im Fall(e), dass** (*in case*), **sofern / vorausgesetzt, (dass)** (*provided that*), **es sei denn** (*unless* = wenn … nicht) and the **verb-first conditional** without any connector („**Sollten** Sie Fragen haben, …“). In Nominalstil the condition becomes a noun with **bei, im Fall(e), ohne** or **mit**.",
+      "mdDe": "Neben **wenn** gibt es im Deutschen genauere Möglichkeiten, eine Bedingung auszudrücken: **falls / im Fall(e), dass** (für einen möglichen Fall), **sofern / vorausgesetzt, (dass)** (unter der Bedingung, dass), **es sei denn** (= wenn … nicht) und den **Konditionalsatz mit dem Verb am Anfang** ohne Konnektor („**Sollten** Sie Fragen haben, …“). Im Nominalstil wird die Bedingung zu einem Nomen mit **bei, im Fall(e), ohne** oder **mit**."
+    },
+    {
+      "type": "text",
+      "heading": "falls, sofern, vorausgesetzt: shades of „wenn“",
+      "headingDe": "falls, sofern, vorausgesetzt: Nuancen von „wenn“",
+      "md": "**wenn** is the all-rounder: real and unreal conditions, but also repeated time („**Wenn** ich nach Hause komme, …“). The other connectors are only conditional and more precise:\n\n- **falls / im Fall(e), dass / für den Fall, dass** – the situation may or may not happen; typical for precautions and alternatives: „**Falls** der Zug ausfällt, nehme ich den Fernbus.“ / „**Für den Fall, dass** Sie verhindert sind, sagen Sie bitte rechtzeitig ab.“\n- **sofern / soweit** – formal; the condition is a **restriction** (*only if, as long as*): „Die Kosten werden erstattet, **sofern** Sie die Rechnung innerhalb von 14 Tagen einreichen.“\n- **vorausgesetzt, (dass) / unter der Bedingung, dass** – the condition must be fulfilled first: „Wir können den Termin halten, **vorausgesetzt**, die Lieferung kommt pünktlich.“ Without **dass** the clause has **main-clause word order**; with **dass** the verb goes to the end.\n- **angenommen / gesetzt den Fall, (dass)** – a hypothesis you play through: „**Angenommen**, das Angebot wird abgelehnt – was machen wir dann?“",
+      "mdDe": "**wenn** ist der Allrounder: reale und irreale Bedingungen, aber auch wiederholte Zeit („**Wenn** ich nach Hause komme, …“). Die anderen Konnektoren sind nur konditional und genauer:\n\n- **falls / im Fall(e), dass / für den Fall, dass** – die Situation kann eintreten oder nicht; typisch für Vorsichtsmaßnahmen und Alternativen: „**Falls** der Zug ausfällt, nehme ich den Fernbus.“ / „**Für den Fall, dass** Sie verhindert sind, sagen Sie bitte rechtzeitig ab.“\n- **sofern / soweit** – formell; die Bedingung ist eine **Einschränkung** (*nur wenn, solange*): „Die Kosten werden erstattet, **sofern** Sie die Rechnung innerhalb von 14 Tagen einreichen.“\n- **vorausgesetzt, (dass) / unter der Bedingung, dass** – die Bedingung muss zuerst erfüllt sein: „Wir können den Termin halten, **vorausgesetzt**, die Lieferung kommt pünktlich.“ Ohne **dass** hat der Satz die **Wortstellung eines Hauptsatzes**; mit **dass** steht das Verb am Ende.\n- **angenommen / gesetzt den Fall, (dass)** – eine Hypothese, die man durchspielt: „**Angenommen**, das Angebot wird abgelehnt – was machen wir dann?“"
+    },
+    {
+      "type": "table",
+      "heading": "Conditional connectors at a glance",
+      "headingDe": "Konditionale Konnektoren im Überblick",
+      "columns": ["Connector", "Meaning", "Word order", "Example"],
+      "columnsDe": ["Konnektor", "Bedeutung", "Wortstellung", "Beispiel"],
+      "rows": [
+        ["wenn", "real or unreal condition; also time", "verb at the end", "Wenn das Wetter hält, grillen wir am Abend."],
+        ["falls / im Fall(e), dass", "in case – may or may not happen", "verb at the end", "Falls der Zug ausfällt, nehme ich den Fernbus."],
+        ["sofern / soweit", "provided that, as long as (formal)", "verb at the end", "Sofern die Unterlagen vollständig sind, wird der Antrag sofort bearbeitet."],
+        ["vorausgesetzt, (dass)", "on condition that", "with dass: verb at the end; without dass: main-clause order", "Ich komme mit, vorausgesetzt, du fährst."],
+        ["angenommen, (dass)", "supposing – a hypothesis", "like vorausgesetzt", "Angenommen, wir bekommen den Auftrag: Wer übernimmt ihn?"],
+        ["es sei denn, (dass)", "unless (= wenn … nicht)", "after the main clause; without dass: main-clause order", "Wir starten um acht, es sei denn, es schneit."],
+        ["außer wenn", "except if (= wenn … nicht)", "verb at the end", "Ich fahre mit dem Rad, außer wenn es regnet."],
+        ["verb first", "condition without a connector", "conjugated verb in position 1, then the main clause", "Regnet es, bleiben wir drinnen."]
+      ],
+      "rowsDe": [
+        ["wenn", "reale oder irreale Bedingung; auch Zeit", "Verb am Ende", "Wenn das Wetter hält, grillen wir am Abend."],
+        ["falls / im Fall(e), dass", "für den Fall – kann passieren oder nicht", "Verb am Ende", "Falls der Zug ausfällt, nehme ich den Fernbus."],
+        ["sofern / soweit", "unter der Bedingung, solange (formell)", "Verb am Ende", "Sofern die Unterlagen vollständig sind, wird der Antrag sofort bearbeitet."],
+        ["vorausgesetzt, (dass)", "unter der Bedingung, dass", "mit dass: Verb am Ende; ohne dass: Wortstellung wie im Hauptsatz", "Ich komme mit, vorausgesetzt, du fährst."],
+        ["angenommen, (dass)", "eine Hypothese", "wie vorausgesetzt", "Angenommen, wir bekommen den Auftrag: Wer übernimmt ihn?"],
+        ["es sei denn, (dass)", "Ausnahme (= wenn … nicht)", "nach dem Hauptsatz; ohne dass: Wortstellung wie im Hauptsatz", "Wir starten um acht, es sei denn, es schneit."],
+        ["außer wenn", "Ausnahme (= wenn … nicht)", "Verb am Ende", "Ich fahre mit dem Rad, außer wenn es regnet."],
+        ["Verb am Anfang", "Bedingung ohne Konnektor", "konjugiertes Verb auf Position 1, dann der Hauptsatz", "Regnet es, bleiben wir drinnen."]
+      ],
+      "note": "After a conditional clause the main clause can start with „dann“ or, in formal style, „so“: „Sollten Sie Fragen haben, so rufen Sie mich an.“ The verb still follows directly.",
+      "noteDe": "Nach einem Konditionalsatz kann der Hauptsatz mit „dann“ oder im formellen Stil mit „so“ beginnen: „Sollten Sie Fragen haben, so rufen Sie mich an.“ Das Verb folgt trotzdem direkt danach."
+    },
+    {
+      "type": "text",
+      "heading": "es sei denn – the German 'unless'",
+      "headingDe": "es sei denn – die Ausnahme",
+      "md": "**es sei denn** introduces an exception: the main clause is true **except** in this one case. It means the same as **wenn … nicht** – so the es-sei-denn-clause itself contains **no negation**:\n\n- „Das Spiel findet statt, **wenn** der Platz **nicht** gesperrt ist.“\n- = „Das Spiel findet statt, **es sei denn**, der Platz **ist** gesperrt.“\n\nThree rules:\n\n1. The clause always **follows** the main clause.\n2. Without **dass** it has **main-clause word order** (verb second): „…, es sei denn, der Platz **ist** gesperrt.“ With **dass** the verb goes to the end: „…, es sei denn, **dass** der Platz gesperrt **ist**.“\n3. Commas go before „es“ and after „denn“.\n\nRelated: **sonst / andernfalls** name the consequence if a condition is *not* met: „Melden Sie sich bis Freitag an, **andernfalls** verfällt Ihr Platz.“ (*andernfalls* is more formal than *sonst*.)",
+      "mdDe": "**es sei denn** leitet eine Ausnahme ein: Der Hauptsatz gilt **außer** in diesem einen Fall. Es bedeutet dasselbe wie **wenn … nicht** – deshalb enthält der Satz mit es sei denn selbst **keine Verneinung**:\n\n- „Das Spiel findet statt, **wenn** der Platz **nicht** gesperrt ist.“\n- = „Das Spiel findet statt, **es sei denn**, der Platz **ist** gesperrt.“\n\nDrei Regeln:\n\n1. Der Satz steht immer **nach** dem Hauptsatz.\n2. Ohne **dass** hat er die **Wortstellung eines Hauptsatzes** (Verb an zweiter Stelle): „…, es sei denn, der Platz **ist** gesperrt.“ Mit **dass** steht das Verb am Ende: „…, es sei denn, **dass** der Platz gesperrt **ist**.“\n3. Kommas stehen vor „es“ und nach „denn“.\n\nVerwandt: **sonst / andernfalls** nennen die Folge, wenn eine Bedingung *nicht* erfüllt ist: „Melden Sie sich bis Freitag an, **andernfalls** verfällt Ihr Platz.“ (*andernfalls* ist formeller als *sonst*.)"
+    },
+    {
+      "type": "text",
+      "heading": "Conditional clauses without „wenn“",
+      "headingDe": "Konditionalsätze ohne „wenn“",
+      "md": "In formal letters, reports and Lesen texts the conditional clause often starts with the **conjugated verb** – „wenn“ is dropped:\n\n- „**Wenn** die Nachfrage weiter steigt, …“ → „**Steigt** die Nachfrage weiter, (dann/so) stellt die Firma neue Leute ein.“\n- With **sollte(n)** (Konjunktiv II) the condition sounds polite and less likely – the classic sentence at the end of a formal e-mail: „**Sollten** Sie noch Fragen **haben**, stehe ich Ihnen gern zur Verfügung.“\n- Unreal conditions, also in the past: „**Hätte** ich früher von der Stelle **erfahren**, hätte ich mich sofort beworben.“ / „**Wäre** der Zug pünktlich **gewesen**, hätten wir den Anschluss erreicht.“\n\nThe verb-first clause practically always comes **first**. Don't confuse it with a yes/no question: the comma and the main clause after it (again starting with the verb!) show that it is a condition.",
+      "mdDe": "In formellen Briefen, Berichten und Lesetexten beginnt der Konditionalsatz oft mit dem **konjugierten Verb** – „wenn“ fällt weg:\n\n- „**Wenn** die Nachfrage weiter steigt, …“ → „**Steigt** die Nachfrage weiter, (dann/so) stellt die Firma neue Leute ein.“\n- Mit **sollte(n)** (Konjunktiv II) klingt die Bedingung höflich und weniger wahrscheinlich – der klassische Satz am Ende einer formellen E-Mail: „**Sollten** Sie noch Fragen **haben**, stehe ich Ihnen gern zur Verfügung.“\n- Irreale Bedingungen, auch in der Vergangenheit: „**Hätte** ich früher von der Stelle **erfahren**, hätte ich mich sofort beworben.“ / „**Wäre** der Zug pünktlich **gewesen**, hätten wir den Anschluss erreicht.“\n\nDer Satz mit dem Verb am Anfang steht praktisch immer **zuerst**. Verwechsle ihn nicht mit einer Ja/Nein-Frage: Das Komma und der folgende Hauptsatz (der wieder mit dem Verb beginnt!) zeigen, dass es eine Bedingung ist."
+    },
+    {
+      "type": "table",
+      "heading": "Conditions as nouns (Nominalstil)",
+      "headingDe": "Bedingungen als Nomen (Nominalstil)",
+      "columns": ["Preposition", "Nominalstil", "Verbalstil"],
+      "columnsDe": ["Präposition", "Nominalstil", "Verbalstil"],
+      "rows": [
+        ["bei + dative", "Bei schlechtem Wetter fällt das Konzert aus.", "Wenn das Wetter schlecht ist, fällt das Konzert aus."],
+        ["im Fall(e) + genitive", "Im Falle einer Verspätung informieren wir Sie per SMS.", "Falls es eine Verspätung gibt, informieren wir Sie per SMS."],
+        ["ohne + accusative", "Ohne gültigen Ausweis dürfen Sie das Gebäude nicht betreten.", "Wenn Sie keinen gültigen Ausweis haben, dürfen Sie das Gebäude nicht betreten."],
+        ["mit + dative", "Mit etwas Glück erreichen wir den Anschluss noch.", "Wenn wir etwas Glück haben, erreichen wir den Anschluss noch."]
+      ],
+      "rowsDe": [
+        ["bei + Dativ", "Bei schlechtem Wetter fällt das Konzert aus.", "Wenn das Wetter schlecht ist, fällt das Konzert aus."],
+        ["im Fall(e) + Genitiv", "Im Falle einer Verspätung informieren wir Sie per SMS.", "Falls es eine Verspätung gibt, informieren wir Sie per SMS."],
+        ["ohne + Akkusativ", "Ohne gültigen Ausweis dürfen Sie das Gebäude nicht betreten.", "Wenn Sie keinen gültigen Ausweis haben, dürfen Sie das Gebäude nicht betreten."],
+        ["mit + Dativ", "Mit etwas Glück erreichen wir den Anschluss noch.", "Wenn wir etwas Glück haben, erreichen wir den Anschluss noch."]
+      ],
+      "note": "Notices, instructions and contracts love this style: „Bei Rückfragen …“, „Im Brandfall Aufzug nicht benutzen“. In Lesen you have to turn it back into a wenn-clause in your head.",
+      "noteDe": "Aushänge, Anleitungen und Verträge lieben diesen Stil: „Bei Rückfragen …“, „Im Brandfall Aufzug nicht benutzen“. Im Lesen musst du ihn im Kopf wieder in einen wenn-Satz zurückverwandeln."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Falls** Sie am Seminar nicht teilnehmen **können**, geben Sie bitte bis Mittwoch Bescheid.", "en": "If you can't attend the seminar, please let us know by Wednesday." },
+        { "de": "Die Fahrtkosten werden übernommen, **sofern** die Reise vorher **genehmigt wurde**.", "en": "Travel costs are covered provided that the trip was approved in advance." },
+        { "de": "Ich unterschreibe den Vertrag, **vorausgesetzt**, die Probezeit **wird** auf drei Monate verkürzt.", "en": "I'll sign the contract on condition that the probation period is shortened to three months." },
+        { "de": "Wir treffen uns wie immer im Café Lindner, **es sei denn**, du **hast** eine bessere Idee.", "en": "We'll meet at Café Lindner as usual, unless you have a better idea." },
+        { "de": "**Sollte** sich an den Terminen etwas **ändern**, informieren wir Sie umgehend.", "en": "Should anything change about the dates, we will inform you immediately." },
+        { "de": "**Hätten** wir die Tickets früher **gebucht**, hätten wir viel Geld gespart.", "en": "If we had booked the tickets earlier, we would have saved a lot of money." },
+        { "de": "**Bei** Fragen zur Rechnung wenden Sie sich bitte an unsere Buchhaltung.", "en": "If you have any questions about the invoice, please contact our accounts department." },
+        { "de": "Bitte speichern Sie Ihre Daten regelmäßig, **andernfalls** können sie bei einem Absturz verloren gehen.", "en": "Please save your data regularly, otherwise it may be lost in a crash." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In the **Schreiben** e-mail (complaint, request, enquiry) conditions make your demands precise and polite: „**Falls** eine Reparatur nicht möglich ist, erwarte ich einen kostenlosen Ersatz.“ / „**Sofern** die Kosten übernommen werden, würde ich gern am Kurs teilnehmen.“ / „**Sollte** ich bis Ende des Monats keine Antwort erhalten, sehe ich mich gezwungen, weitere Schritte einzuleiten.“ A good last sentence: „**Sollten** Sie weitere Informationen benötigen, stehe ich Ihnen gern zur Verfügung.“\n\nIn **Sprachbausteine Teil 1** (items 21–30) look at what follows the gap: verb at the end → falls / sofern / wenn; verb in second position → es sei denn / vorausgesetzt; a participle or infinitive at the end but no conjugated verb → the gap itself is the verb (Hätte …, Sollte …). Then check the **logic**: does the clause name an exception (→ es sei denn) or a condition (→ falls, sofern)?",
+      "mdDe": "**In der Prüfung:** In der E-Mail im **Schreiben** (Beschwerde, Bitte, Anfrage) machen Bedingungen deine Forderungen genau und höflich: „**Falls** eine Reparatur nicht möglich ist, erwarte ich einen kostenlosen Ersatz.“ / „**Sofern** die Kosten übernommen werden, würde ich gern am Kurs teilnehmen.“ / „**Sollte** ich bis Ende des Monats keine Antwort erhalten, sehe ich mich gezwungen, weitere Schritte einzuleiten.“ Ein guter letzter Satz: „**Sollten** Sie weitere Informationen benötigen, stehe ich Ihnen gern zur Verfügung.“\n\nIn **Sprachbausteine Teil 1** (Aufgaben 21–30) schau, was nach der Lücke kommt: Verb am Ende → falls / sofern / wenn; Verb an zweiter Stelle → es sei denn / vorausgesetzt; ein Partizip oder Infinitiv am Ende, aber kein konjugiertes Verb → die Lücke selbst ist das Verb (Hätte …, Sollte …). Prüfe dann die **Logik**: Nennt der Satz eine Ausnahme (→ es sei denn) oder eine Bedingung (→ falls, sofern)?"
+    },
+    {
+      "type": "warning",
+      "md": "**Typical traps:**\n\n- **es sei denn + nicht** turns the meaning around: „…, es sei denn, es regnet **nicht**“ is almost never what you mean. Write „…, es sei denn, es regnet.“\n- **falls** is never temporal. For repeated situations (*whenever*) use **wenn**: „**Wenn** ich abends nach Hause komme, koche ich mir einen Tee.“\n- In the verb-first conditional use **sollte(n)**, not *soll(en)*: „**Sollten** Sie Fragen haben, …“.\n- After **vorausgesetzt** or **es sei denn** without „dass“ the verb is in **second** position – don't send it to the end.",
+      "mdDe": "**Typische Fallen:**\n\n- **es sei denn + nicht** dreht die Bedeutung um: „…, es sei denn, es regnet **nicht**“ ist fast nie das, was du meinst. Schreib „…, es sei denn, es regnet.“\n- **falls** ist nie temporal. Für wiederholte Situationen (*jedes Mal, wenn*) nimmst du **wenn**: „**Wenn** ich abends nach Hause komme, koche ich mir einen Tee.“\n- Im Konditionalsatz mit dem Verb am Anfang nimmst du **sollte(n)**, nicht *soll(en)*: „**Sollten** Sie Fragen haben, …“.\n- Nach **vorausgesetzt** oder **es sei denn** ohne „dass“ steht das Verb an **zweiter** Stelle – schick es nicht ans Ende."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wir grillen am Samstag im Garten, es sei denn, es regnet nicht.",
+      "right": "Wir grillen am Samstag im Garten, es sei denn, es regnet.",
+      "why": "„es sei denn“ already means „wenn … nicht“. An extra „nicht“ reverses the meaning: you would only grill if it rains.",
+      "whyDe": "„es sei denn“ bedeutet schon „wenn … nicht“. Ein zusätzliches „nicht“ dreht die Bedeutung um: Ihr würdet nur grillen, wenn es regnet."
+    },
+    {
+      "wrong": "Sollen Sie noch Fragen haben, rufen Sie mich bitte an.",
+      "right": "Sollten Sie noch Fragen haben, rufen Sie mich bitte an.",
+      "why": "The polite verb-first conditional uses the Konjunktiv II form „sollten“.",
+      "whyDe": "Der höfliche Konditionalsatz mit dem Verb am Anfang braucht die Konjunktiv-II-Form „sollten“."
+    },
+    {
+      "wrong": "Regnet es morgen, wir bleiben zu Hause.",
+      "right": "Regnet es morgen, bleiben wir zu Hause.",
+      "why": "The conditional clause is position 1, so the main clause continues with the verb („bleiben wir“) – or with „dann“ + verb.",
+      "whyDe": "Der Konditionalsatz ist Position 1, deshalb geht der Hauptsatz mit dem Verb weiter („bleiben wir“) – oder mit „dann“ + Verb."
+    },
+    {
+      "wrong": "Falls ich abends nach Hause komme, koche ich mir immer zuerst einen Tee.",
+      "right": "Wenn ich abends nach Hause komme, koche ich mir immer zuerst einen Tee.",
+      "why": "Coming home is a repeated, certain situation („immer“) → „wenn“. „falls“ is only for something that may or may not happen.",
+      "whyDe": "Nach Hause kommen ist eine wiederholte, sichere Situation („immer“) → „wenn“. „falls“ steht nur für etwas, das passieren kann oder nicht."
+    },
+    {
+      "wrong": "Ich komme mit, es sei denn, ich krank bin.",
+      "right": "Ich komme mit, es sei denn, ich bin krank.",
+      "why": "Without „dass“, the clause after „es sei denn“ has main-clause word order (verb second). With „dass“ the verb goes to the end: „es sei denn, dass ich krank bin“.",
+      "whyDe": "Ohne „dass“ hat der Satz nach „es sei denn“ die Wortstellung eines Hauptsatzes (Verb an zweiter Stelle). Mit „dass“ steht das Verb am Ende: „es sei denn, dass ich krank bin“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Das Straßenfest findet im Freien statt, ___, es gibt ein Gewitter.",
+      "options": ["vorausgesetzt", "es sei denn", "angenommen"],
+      "answer": 1,
+      "explanation": "A thunderstorm is the exception that would move the festival indoors → „es sei denn“ (= wenn es kein Gewitter gibt). „vorausgesetzt“ would make the thunderstorm a requirement for the festival, and „angenommen“ starts a hypothesis, not an exception.",
+      "explanationDe": "Ein Gewitter ist die Ausnahme, die das Fest nach drinnen verlegen würde → „es sei denn“ (= wenn es kein Gewitter gibt). Mit „vorausgesetzt“ wäre das Gewitter eine Voraussetzung für das Fest, und „angenommen“ leitet eine Hypothese ein, keine Ausnahme."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ Ihnen ein Fehler in der Rechnung auffällt, melden Sie sich bitte umgehend bei uns.",
+      "options": ["Sollte", "Es sei denn", "Falls"],
+      "answer": 2,
+      "explanation": "The conjugated verb „auffällt“ stands at the end → a subordinate clause with „Falls“. After „Sollte“ the verb would be an infinitive („Sollte Ihnen ein Fehler auffallen, …“), and „es sei denn“ cannot start a sentence.",
+      "explanationDe": "Das konjugierte Verb „auffällt“ steht am Ende → ein Nebensatz mit „Falls“. Nach „Sollte“ stünde der Infinitiv („Sollte Ihnen ein Fehler auffallen, …“), und mit „es sei denn“ kann kein Satz beginnen."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ ich früher von der Stelle erfahren, hätte ich mich sofort beworben.",
+      "options": ["Hätte", "Wenn", "Falls"],
+      "answer": 0,
+      "explanation": "The first clause has no conjugated verb yet – „erfahren“ is a participle. So the gap must be the auxiliary: „Hätte ich … erfahren“ = „Wenn ich … erfahren hätte“ (unreal past). With „Wenn“ or „Falls“ the verb „hätte“ would be missing at the end.",
+      "explanationDe": "Im ersten Satz fehlt noch das konjugierte Verb – „erfahren“ ist ein Partizip. Die Lücke muss also das Hilfsverb sein: „Hätte ich … erfahren“ = „Wenn ich … erfahren hätte“ (irreale Vergangenheit). Mit „Wenn“ oder „Falls“ würde am Ende das Verb „hätte“ fehlen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Bitte bestätigen Sie Ihre Teilnahme bis Freitag, ___ können wir Ihnen leider keinen Platz garantieren.",
+      "options": ["falls", "es sei denn", "andernfalls"],
+      "answer": 2,
+      "explanation": "The verb „können“ follows the gap directly, so you need an adverb in position 1: „andernfalls“ (= if you don't confirm). „falls“ would need the verb at the end, and after „es sei denn“ the subject would come first („es sei denn, wir …“) – the logic would not fit either.",
+      "explanationDe": "Das Verb „können“ folgt direkt nach der Lücke, du brauchst also ein Adverb auf Position 1: „andernfalls“ (= wenn Sie nicht bestätigen). Nach „falls“ müsste das Verb am Ende stehen, und nach „es sei denn“ käme zuerst das Subjekt („es sei denn, wir …“) – auch die Logik würde nicht passen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich nehme heute das Fahrrad, ___, es regnet in Strömen.",
+      "hint": "(unless – three words)",
+      "hintDe": "(Ausnahme – drei Wörter)",
+      "answers": ["es sei denn"],
+      "explanation": "Rain is the only exception → „es sei denn“. The clause after it has main-clause word order („es regnet“) and no „nicht“.",
+      "explanationDe": "Regen ist die einzige Ausnahme → „es sei denn“. Der Satz danach hat die Wortstellung eines Hauptsatzes („es regnet“) und kein „nicht“."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ den Fall, dass Sie die Reise krankheitsbedingt absagen müssen, empfehlen wir eine Reiserücktrittsversicherung.",
+      "hint": "(preposition)",
+      "hintDe": "(Präposition)",
+      "answers": ["Für"],
+      "explanation": "Fixed expression with the accusative: „für den Fall, dass …“ (= falls). Don't mix it up with „im Fall(e), dass …“, which has the dative article „im“.",
+      "explanationDe": "Feste Verbindung mit Akkusativ: „für den Fall, dass …“ (= falls). Verwechsle sie nicht mit „im Fall(e), dass …“ mit dem Dativartikel „im“."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ Brandes benutzen Sie bitte nicht den Aufzug.",
+      "hint": "(in the event of – three words incl. the article)",
+      "hintDe": "(= falls es brennt – drei Wörter mit Artikel)",
+      "answers": ["Im Falle eines", "Im Fall eines", "Im Falle des", "Im Fall des"],
+      "explanation": "„Brandes“ is genitive, so you need „im Fall(e)“ + genitive: „Im Falle eines Brandes“ (= falls es brennt). „Bei“ would need the dative („Bei einem Brand“).",
+      "explanationDe": "„Brandes“ steht im Genitiv, du brauchst also „im Fall(e)“ + Genitiv: „Im Falle eines Brandes“ (= falls es brennt). „Bei“ bräuchte den Dativ („Bei einem Brand“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wir liefern innerhalb von 48 Stunden, ___ die Ware vorrätig ist.",
+      "hint": "(provided that – one formal word)",
+      "hintDe": "(Einschränkung – ein formelles Wort)",
+      "answers": ["sofern", "soweit"],
+      "explanation": "The delivery promise only applies if the goods are in stock – a restriction in formal style → „sofern“. The verb „ist“ stands at the end.",
+      "explanationDe": "Das Lieferversprechen gilt nur, wenn die Ware vorrätig ist – eine Einschränkung im formellen Stil → „sofern“. Das Verb „ist“ steht am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["Ihnen", "haben,", "stehe", "Sollten", "Verfügung.", "noch", "ich", "zur", "Fragen", "gern", "Sie"],
+      "answers": ["Sollten Sie noch Fragen haben, stehe ich Ihnen gern zur Verfügung."],
+      "explanation": "The conditional clause starts with the conjugated verb „Sollten“ and ends with „haben“. It is position 1, so the main clause starts with the verb „stehe“.",
+      "explanationDe": "Der Konditionalsatz beginnt mit dem konjugierten Verb „Sollten“ und endet mit „haben“. Er ist Position 1, deshalb beginnt der Hauptsatz mit dem Verb „stehe“."
+    },
+    {
+      "type": "order",
+      "words": ["bekomme", "Projekt,", "Ich", "mehr", "vorausgesetzt,", "das", "Zeit.", "übernehme", "ich"],
+      "answers": ["Ich übernehme das Projekt, vorausgesetzt, ich bekomme mehr Zeit."],
+      "explanation": "Without „dass“, the clause after „vorausgesetzt“ keeps main-clause word order: subject „ich“ + verb „bekomme“.",
+      "explanationDe": "Ohne „dass“ behält der Satz nach „vorausgesetzt“ die Wortstellung eines Hauptsatzes: Subjekt „ich“ + Verb „bekomme“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence without „wenn“: start with the verb.",
+      "instructionDe": "Schreib den Satz ohne „wenn“ um: Beginne mit dem Verb.",
+      "prompt": "Wenn die Nachfrage weiter steigt, stellt die Firma im Herbst neue Leute ein.",
+      "answers": [
+        "Steigt die Nachfrage weiter, stellt die Firma im Herbst neue Leute ein.",
+        "Steigt die Nachfrage weiter, dann stellt die Firma im Herbst neue Leute ein.",
+        "Steigt die Nachfrage weiter, so stellt die Firma im Herbst neue Leute ein."
+      ],
+      "explanation": "Drop „wenn“ and move the conjugated verb „steigt“ to the front. The main clause still starts with its verb „stellt“ (optionally after „dann“ or „so“).",
+      "explanationDe": "Lass „wenn“ weg und stell das konjugierte Verb „steigt“ an den Anfang. Der Hauptsatz beginnt weiterhin mit seinem Verb „stellt“ (wenn du willst, nach „dann“ oder „so“)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite with „es sei denn“ (without „dass“).",
+      "instructionDe": "Schreib den Satz mit „es sei denn“ um (ohne „dass“).",
+      "prompt": "Ich fahre morgen mit dem Zug nach Graz, wenn die Lokführer nicht wieder streiken.",
+      "answers": [
+        "Ich fahre morgen mit dem Zug nach Graz, es sei denn, die Lokführer streiken wieder.",
+        "Ich fahre morgen mit dem Zug nach Graz, es sei denn, die Lokführer streiken erneut."
+      ],
+      "explanation": "„wenn … nicht“ becomes „es sei denn“, so „nicht“ disappears. Without „dass“ the verb „streiken“ stands in second position.",
+      "explanationDe": "Aus „wenn … nicht“ wird „es sei denn“, deshalb fällt „nicht“ weg. Ohne „dass“ steht das Verb „streiken“ an zweiter Stelle."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „Falls“ with „Sollte“.",
+      "instructionDe": "Ersetze „Falls“ durch „Sollte“.",
+      "prompt": "Falls die Lieferung beschädigt ankommt, schicken Sie uns bitte ein Foto.",
+      "answers": [
+        "Sollte die Lieferung beschädigt ankommen, schicken Sie uns bitte ein Foto.",
+        "Sollte die Lieferung beschädigt ankommen, so schicken Sie uns bitte ein Foto.",
+        "Sollte die Lieferung beschädigt ankommen, dann schicken Sie uns bitte ein Foto."
+      ],
+      "explanation": "„Sollte“ takes position 1 and the full verb goes to the end as an infinitive: „ankommen“ (not „ankommt“). The main clause starts with „schicken“.",
+      "explanationDe": "„Sollte“ steht auf Position 1, und das Vollverb steht als Infinitiv am Ende: „ankommen“ (nicht „ankommt“). Der Hauptsatz beginnt mit „schicken“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace the wenn-clause with „bei“ + noun.",
+      "instructionDe": "Ersetze den wenn-Satz durch „bei“ + Nomen.",
+      "prompt": "Wenn es regnet, findet die Stadtführung im Museum statt.",
+      "answers": [
+        "Bei Regen findet die Stadtführung im Museum statt.",
+        "Die Stadtführung findet bei Regen im Museum statt."
+      ],
+      "explanation": "„Wenn es regnet“ becomes „bei Regen“ (bei + dative, no article). If „Bei Regen“ is position 1, the verb „findet“ follows directly.",
+      "explanationDe": "Aus „Wenn es regnet“ wird „bei Regen“ (bei + Dativ, ohne Artikel). Wenn „Bei Regen“ auf Position 1 steht, folgt direkt das Verb „findet“."
+    }
+  ],
+  "related": ["nebensaetze-grundlagen", "konjunktiv-2", "modalsaetze", "adversative-saetze", "konjunktiv-2-vergangenheit", "nominalisierung", "satzgliedstellung", "praepositionen-b2"]
+}

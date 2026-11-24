@@ -1,0 +1,73 @@
+{
+  "id": "sprechen-3-09",
+  "examId": "telc-b2",
+  "type": "speaking-planning",
+  "title": "Ein Fest zum Kursende",
+  "topic": "bildung",
+  "difficulty": 1,
+  "situation": "Ihr B2-Kurs an der Sprachschule Wortwerk in Kassel endet in drei Wochen; die Prüfung findet eine Woche später statt. Am letzten Kurstag möchte die Gruppe zusammen mit ihrer Kursleiterin, Frau Liebrecht, ein kleines Abschlussfest feiern. Die Schule stellt den Kursraum zur Verfügung, für Essen, Getränke und ein Geschenk möchte aber niemand mehr als zehn Euro ausgeben. Sie sollen das Fest gemeinsam planen.",
+  "checklist": [
+    "Termin und Uhrzeit",
+    "Essen und Getränke",
+    "Kosten pro Person",
+    "Geschenk für die Kursleiterin",
+    "Programm für den Nachmittag",
+    "Wer wird eingeladen?",
+    "Wer übernimmt welche Aufgabe?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Fatou Diallo", "gender": "f", "age": "young", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Vuk Stanković", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Vuk, wir sollen ja das Abschlussfest für unseren Kurs planen. Ich fände es am schönsten, wenn wir am letzten Kurstag direkt nach dem Unterricht feiern würden, also am Freitag ab sechzehn Uhr." },
+    { "s": "B", "t": "Grundsätzlich gern, aber ich gebe zu bedenken, dass die Prüfung erst eine Woche später ist. Wäre es nicht entspannter, nach der Prüfung zu feiern, wenn der ganze Stress vorbei ist?" },
+    { "s": "A", "t": "Daran habe ich auch schon gedacht. Allerdings bekommen wir den Raum nur während der Kurszeit, und einige fangen gleich nach der Prüfung mit einem neuen Job an oder fahren in die Heimat." },
+    { "s": "B", "t": "Stimmt, Agata zieht ja sogar nach Hamburg. Dann bleiben wir beim letzten Kurstag, und nach der Prüfung können wir immer noch spontan etwas trinken gehen." },
+    { "s": "A", "t": "Einverstanden. Was das Essen angeht: Was hältst du davon, wenn jeder ein typisches Gericht aus seinem Heimatland mitbringt? Bei vierzehn Leuten hätten wir ein richtig internationales Buffet." },
+    { "s": "B", "t": "Die Idee gefällt mir, zumal wir dann von den zehn Euro fast nichts für das Essen brauchen. Wir sollten aber kleine Schilder neben die Gerichte stellen, auf denen steht, was drin ist, denn Tahir isst kein Schweinefleisch, und Noemí hat eine Nussallergie." },
+    { "s": "A", "t": "Gute Idee, die Schilder kann ich machen. Müssen wir eigentlich Pappteller kaufen, oder gibt es in der Schule Geschirr?" },
+    { "s": "B", "t": "In der Teeküche gibt es genug Teller und Gläser. Wir müssten hinterher nur alles spülen, aber das geht schnell, wenn alle mithelfen." },
+    { "s": "A", "t": "Umso besser, dann sparen wir Geld und Müll. Für die Getränke würde ich ungefähr vier Euro pro Person einplanen, also Saft, Wasser und ein paar Flaschen Sekt zum Anstoßen." },
+    { "s": "B", "t": "Beim Sekt bin ich mir nicht sicher, ob Alkohol in der Schule überhaupt erlaubt ist. Ich frage am Montag im Sekretariat nach, und falls nicht, nehmen wir eben alkoholfreien Sekt." },
+    { "s": "A", "t": "Prima. Dann bleiben sechs Euro pro Person für das Geschenk, das sind insgesamt über achtzig Euro. Hast du schon eine Idee, was wir Frau Liebrecht schenken könnten?" },
+    { "s": "B", "t": "Sie hat einmal erzählt, dass sie leidenschaftlich gern ins Theater geht. Wie wäre es mit einem Gutschein für das Theater?" },
+    { "s": "A", "t": "Ein Gutschein wäre praktisch, aber ein bisschen persönlicher dürfte es schon sein. Ich schlage vor, dass wir zusätzlich ein Erinnerungsbuch mit Fotos gestalten, in das jeder ein paar Sätze schreibt, natürlich auf Deutsch." },
+    { "s": "B", "t": "Wunderbar, dann sieht sie gleich, wie viel wir bei ihr gelernt haben. Ich habe viele Fotos vom Kursausflug im Mai, die könnte ich ausdrucken." },
+    { "s": "A", "t": "Super. Und sollten wir auch ein kleines Programm machen, damit wir nicht nur essen und reden?" },
+    { "s": "B", "t": "Ich dachte an ein Quiz über unseren Kurs, zum Beispiel: Welchen Satz hat Frau Liebrecht am häufigsten gesagt? Das wäre bestimmt lustig." },
+    { "s": "A", "t": "Ein Quiz finde ich klasse, solange es nicht zu lange dauert. Außerdem könnte jeder ein Lied aus seinem Land vorschlagen, und daraus machen wir eine Playlist für den Nachmittag." },
+    { "s": "B", "t": "Die Playlist übernehme ich gern, ich habe auch eine kleine Musikbox. Sollen wir eigentlich auch Partner und Kinder einladen?" },
+    { "s": "A", "t": "Ich würde eher nein sagen, denn der Raum ist nicht besonders groß, und es ist ja ein Fest für unsere Gruppe. Wer aber für seine Kinder keine Betreuung findet, kann sie natürlich mitbringen." },
+    { "s": "B", "t": "Das ist ein fairer Kompromiss. Dann fasse ich mal zusammen: Wir feiern am letzten Kurstag ab sechzehn Uhr im Kursraum, jeder bringt ein Gericht mit, und wir sammeln zehn Euro pro Person für Getränke und das Geschenk." },
+    { "s": "A", "t": "Genau. Ich sammle das Geld ein, schreibe alles in unsere Chatgruppe, mache die Schilder für das Buffet, kaufe die Getränke und besorge den Theatergutschein." },
+    { "s": "B", "t": "Und ich frage im Sekretariat wegen des Sekts nach, drucke die Fotos aus, bereite das Quiz vor und kümmere mich um die Musik. Das Erinnerungsbuch gestalten wir zusammen, ohne dass Frau Liebrecht etwas merkt." }
+  ],
+  "phrases": [
+    { "de": "Ich fände es am schönsten, wenn wir …", "en": "I'd like it best if we …" },
+    { "de": "Grundsätzlich gern, aber ich gebe zu bedenken, dass …", "en": "In principle yes, but I'd point out that …" },
+    { "de": "Wäre es nicht entspannter, …?", "en": "Wouldn't it be more relaxed to …?" },
+    { "de": "Was das Essen angeht, …", "en": "As far as the food is concerned, …" },
+    { "de": "Was hältst du davon, wenn …?", "en": "What do you think about (us) …?" },
+    { "de": "Die Idee gefällt mir, zumal …", "en": "I like the idea, especially since …" },
+    { "de": "Umso besser, dann …", "en": "All the better, then …" },
+    { "de": "…, solange es nicht zu lange dauert.", "en": "…, as long as it doesn't take too long." },
+    { "de": "Ich würde eher nein sagen, denn …", "en": "I'd rather say no, because …" },
+    { "de": "Das ist ein fairer Kompromiss.", "en": "That's a fair compromise." },
+    { "de": "Dann fasse ich mal zusammen: …", "en": "Let me sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "das Abschlussfest", "en": "end-of-course party" },
+    { "de": "die Kursleiterin", "en": "course instructor (female)" },
+    { "de": "etwas zur Verfügung stellen", "en": "to provide something, to make something available" },
+    { "de": "das Buffet", "en": "buffet" },
+    { "de": "die Nussallergie", "en": "nut allergy" },
+    { "de": "das Geschirr", "en": "dishes, crockery" },
+    { "de": "die Teeküche", "en": "kitchenette (at work or school)" },
+    { "de": "zum Anstoßen", "en": "for a toast" },
+    { "de": "alkoholfrei", "en": "non-alcoholic" },
+    { "de": "der Gutschein", "en": "voucher, gift card" },
+    { "de": "das Erinnerungsbuch", "en": "memory book" },
+    { "de": "die Betreuung", "en": "(child)care, supervision" }
+  ]
+}

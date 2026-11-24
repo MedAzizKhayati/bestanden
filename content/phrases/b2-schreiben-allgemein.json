@@ -1,0 +1,134 @@
+{
+  "id": "b2-schreiben-allgemein",
+  "level": "B2",
+  "order": 103,
+  "context": "schreiben",
+  "title": "Formelle E-Mails: Aufbau & Verknüpfung",
+  "titleEn": "Formal e-mails: structure & linking",
+  "description": "The building blocks of every B2 e-mail, whatever the task: a precise subject line, an introduction that names your reason, smooth transitions between the points, varied connectors, Nominalstil and a confident closing – plus phrases for applications. Criterion II (communicative design) rewards exactly this: there is no A without subject line, salutation and closing formula, and points that are merely listed without links are marked down.",
+  "descriptionDe": "Die Bausteine jeder B2-E-Mail, egal bei welcher Aufgabe: ein genauer Betreff, eine Einleitung mit deinem Anlass, gute Überleitungen zwischen den Punkten, abwechslungsreiche Konnektoren, Nominalstil und ein sicherer Schluss – dazu Wendungen für Bewerbungen. Genau das bewertet Kriterium II (Kommunikative Gestaltung): Ohne Betreff, Anrede und Grußformel gibt es kein A, und Punkte, die du nur aufzählst, ohne sie zu verbinden, kosten Punkte.",
+  "groups": [
+    {
+      "title": "Betreff und Anrede",
+      "titleEn": "Subject line and salutation",
+      "register": "formal",
+      "phrases": [
+        { "de": "Betreff: Reklamation – Bestellung Nr. 30581 vom 2. September", "en": "Subject: Complaint – order no. 30581 of 2 September", "note": "Topic + reference number: the reader knows at once what it is about.", "noteDe": "Thema + Nummer: Der Empfänger weiß sofort, worum es geht." },
+        { "de": "Betreff: Beschwerde über die Busreise nach Wien vom 4. bis 7. Juli", "en": "Subject: Complaint about the coach trip to Vienna from 4 to 7 July", "note": "Beschwerde über + accusative", "noteDe": "Beschwerde über + Akkusativ" },
+        { "de": "Betreff: Kochkurs „Mediterran genießen“ – Fragen zu Ablauf und Kosten", "en": "Subject: Cooking course „Mediterran genießen“ – questions about schedule and costs", "note": "No full sentence and no full stop in the subject line.", "noteDe": "Im Betreff kein ganzer Satz und kein Punkt am Ende." },
+        { "de": "Betreff: Bewerbung um ein Praktikum im Bereich Eventmanagement", "en": "Subject: Application for an internship in event management", "note": "„Bewerbung um“ + accusative; with a job title: „Bewerbung als …“", "noteDe": "„Bewerbung um“ + Akkusativ; mit Berufsbezeichnung: „Bewerbung als …“" },
+        { "de": "Sehr geehrte Frau Dr. Lehmann,", "en": "Dear Dr Lehmann,", "note": "Academic titles stay in the salutation: Frau Dr. …, Herr Prof. …", "noteDe": "Akademische Titel bleiben in der Anrede: Frau Dr. …, Herr Prof. …" },
+        { "de": "Sehr geehrtes Team der Stadtbibliothek,", "en": "Dear City Library team,", "note": "A modern alternative to „Damen und Herren“ – „geehrtes“ because it is „das Team“.", "noteDe": "Eine moderne Alternative zu „Damen und Herren“ – „geehrtes“, weil es „das Team“ heißt." },
+        { "de": "Sehr geehrte Frau Neumann, sehr geehrter Herr Kowalski,", "en": "Dear Ms Neumann, dear Mr Kowalski,", "note": "Two recipients: one line, separated by a comma; the second „sehr“ is lower case.", "noteDe": "Zwei Empfänger: in einer Zeile, mit Komma getrennt; das zweite „sehr“ schreibst du klein." }
+      ]
+    },
+    {
+      "title": "Einleitung: Anlass und Ziel nennen",
+      "titleEn": "Introduction: stating your reason and aim",
+      "register": "formal",
+      "phrases": [
+        { "de": "Anlass meines Schreibens ist Ihre Rechnung vom 14. Januar.", "en": "The reason for my writing is your invoice of 14 January.", "note": "der Anlass = reason, occasion – an opening in Nominalstil", "noteDe": "der Anlass = der Grund – ein Einstieg im Nominalstil" },
+        { "de": "Ich nehme Bezug auf Ihr Schreiben vom 3. Mai.", "en": "I refer to your letter of 3 May.", "note": "Bezug nehmen auf + accusative = sich beziehen auf", "noteDe": "Bezug nehmen auf + Akkusativ = sich beziehen auf" },
+        { "de": "Wie bereits telefonisch besprochen, sende ich Ihnen anbei die gewünschten Unterlagen.", "en": "As already discussed on the phone, please find enclosed the documents you asked for.", "note": "anbei = enclosed, attached", "noteDe": "anbei = im Anhang, dabei" },
+        { "de": "Mein Anliegen betrifft die Parksituation vor unserem Wohnhaus.", "en": "My concern relates to the parking situation outside our building.", "note": "etwas betreffen = to concern (+ accusative)", "noteDe": "etwas betreffen = mit etwas zu tun haben (+ Akkusativ)" },
+        { "de": "Gern komme ich auf Ihr Angebot vom vergangenen Monat zurück.", "en": "I would like to take you up on your offer from last month.", "note": "auf etwas zurückkommen = to take up, to come back to", "noteDe": "auf etwas (Akk.) zurückkommen = etwas wieder aufgreifen" },
+        { "de": "Im Folgenden möchte ich Ihnen meine Situation kurz schildern.", "en": "Below I would like to briefly describe my situation to you.", "note": "im Folgenden = in what follows; schildern = to describe", "noteDe": "im Folgenden = in den nächsten Abschnitten; schildern = beschreiben" },
+        { "de": "Bevor ich zu meinen Fragen komme, möchte ich mich kurz vorstellen.", "en": "Before I come to my questions, I would like to introduce myself briefly." }
+      ]
+    },
+    {
+      "title": "Von Punkt zu Punkt überleiten",
+      "titleEn": "Moving from one point to the next",
+      "register": "formal",
+      "phrases": [
+        { "de": "Was die Unterkunft betrifft, würde ich ein Zimmer mit Balkon bevorzugen.", "en": "As far as the accommodation is concerned, I would prefer a room with a balcony.", "note": "The whole „Was … betrifft“ clause is position 1, so the verb follows right after the comma.", "noteDe": "Der ganze „Was … betrifft“-Satz steht auf Position 1, deshalb folgt das Verb direkt nach dem Komma." },
+        { "de": "Hinsichtlich der Kosten hätte ich noch zwei Fragen.", "en": "With regard to the costs, I have two more questions.", "note": "hinsichtlich + genitive = with regard to", "noteDe": "hinsichtlich + Genitiv = was … betrifft" },
+        { "de": "Ein weiterer Punkt, der mir am Herzen liegt, ist die Sicherheit der Kinder.", "en": "Another point that is close to my heart is the children's safety.", "note": "jemandem am Herzen liegen = to matter a lot to someone", "noteDe": "jemandem am Herzen liegen = jemandem sehr wichtig sein" },
+        { "de": "Damit komme ich zu meiner zweiten Frage: …", "en": "This brings me to my second question: …", "note": "Signals clearly that a new point begins.", "noteDe": "Zeigt deutlich, dass ein neuer Punkt beginnt." },
+        { "de": "Hinzu kommt, dass der Kurs erst um 21 Uhr endet.", "en": "On top of that, the course does not finish until 9 p.m.", "note": "Hinzu kommt, dass … = in addition; verb at the end of the dass-clause", "noteDe": "Hinzu kommt, dass … = außerdem; Verb am Ende des dass-Satzes" },
+        { "de": "Abgesehen davon wäre mir ein Parkplatz in der Nähe wichtig.", "en": "Apart from that, a parking space nearby would be important to me.", "note": "abgesehen davon = apart from that; the verb follows immediately", "noteDe": "abgesehen davon = außerdem, unabhängig davon; das Verb folgt direkt danach" },
+        { "de": "Nicht zuletzt interessiert mich, ob man am Ende ein Zertifikat erhält.", "en": "Last but not least, I would like to know whether you receive a certificate at the end.", "note": "nicht zuletzt = last but not least", "noteDe": "nicht zuletzt = als letzter, aber wichtiger Punkt" },
+        { "de": "Abschließend möchte ich noch auf die Frage der Anreise eingehen.", "en": "Finally, I would like to address the question of how to get there.", "note": "abschließend = finally; eingehen auf + accusative = to address", "noteDe": "abschließend = zum Schluss; eingehen auf + Akkusativ = sich mit etwas beschäftigen" }
+      ]
+    },
+    {
+      "title": "B2-Konnektoren im Satz",
+      "titleEn": "B2 connectors in context",
+      "register": "neutral",
+      "phrases": [
+        { "de": "Zwar ist der Kurs nicht ganz billig, aber die kleinen Gruppen überzeugen mich.", "en": "Admittedly the course is not exactly cheap, but the small groups convince me.", "note": "zwar … aber = admittedly … but; after „Zwar“ the verb comes second", "noteDe": "zwar … aber = das stimmt, aber …; nach „Zwar“ steht das Verb auf Position 2" },
+        { "de": "Sowohl das Zimmer als auch das Bad waren schmutzig.", "en": "Both the room and the bathroom were dirty.", "note": "sowohl … als auch = both … and; the verb is plural", "noteDe": "sowohl … als auch = das eine und auch das andere; das Verb steht im Plural" },
+        { "de": "Weder auf meinen Anruf noch auf meine E-Mail haben Sie reagiert.", "en": "You have responded neither to my call nor to my e-mail.", "note": "weder … noch = neither … nor – no extra „nicht“!", "noteDe": "weder … noch = nicht das eine und nicht das andere – kein zusätzliches „nicht“!" },
+        { "de": "Je früher Sie mir antworten, desto besser kann ich planen.", "en": "The sooner you reply, the better I can plan.", "note": "je + verb at the end, desto + verb in second position", "noteDe": "je + Verb am Ende, desto + Verb auf Position 2" },
+        { "de": "Einerseits wäre ein Kurs am Abend praktisch, andererseits bin ich dann oft schon müde.", "en": "On the one hand an evening course would be practical, on the other hand I am often tired by then.", "note": "einerseits … andererseits – each is followed directly by the verb", "noteDe": "einerseits … andererseits – danach folgt jeweils direkt das Verb" },
+        { "de": "Ich habe die Rechnung pünktlich bezahlt; dennoch wurde mir eine Mahngebühr berechnet.", "en": "I paid the invoice on time; nevertheless I was charged a late-payment fee.", "note": "dennoch = trotzdem, but more formal; verb directly after it", "noteDe": "dennoch = trotzdem, aber formeller; das Verb folgt direkt danach" },
+        { "de": "Während im Prospekt von Zimmern mit Meerblick die Rede ist, blickten wir auf eine Baustelle.", "en": "Whereas the brochure talks about rooms with a sea view, we looked out onto a building site.", "note": "während = whereas (a contrast), not only „while“ (time)", "noteDe": "„während“ drückt hier einen Gegensatz aus, keine Zeit" },
+        { "de": "Der Zug hatte zwei Stunden Verspätung, sodass ich den Beginn des Seminars verpasste.", "en": "The train was two hours late, so I missed the start of the seminar.", "note": "sodass = with the result that; verb at the end", "noteDe": "sodass = mit der Folge, dass …; Verb am Ende" },
+        { "de": "Der Kurs wurde kurzfristig abgesagt, weshalb ich nun eine Alternative suche.", "en": "The course was cancelled at short notice, which is why I am now looking for an alternative.", "note": "„weshalb“ refers to the whole previous clause; verb at the end", "noteDe": "„weshalb“ bezieht sich auf den ganzen Satz davor; Verb am Ende" },
+        { "de": "Sofern noch Plätze frei sind, würde ich gern schon im März beginnen.", "en": "Provided there are still places available, I would like to start as early as March.", "note": "sofern = provided that; verb at the end", "noteDe": "sofern = unter der Bedingung, dass …; Verb am Ende" },
+        { "de": "Der Termin wurde verschoben, ohne dass man mich informiert hat.", "en": "The appointment was postponed without anyone informing me.", "note": "ohne dass + its own subject; „ohne … zu“ only works with the same subject", "noteDe": "ohne dass + eigenes Subjekt; „ohne … zu“ geht nur bei gleichem Subjekt" }
+      ]
+    },
+    {
+      "title": "Nominalstil-Wendungen",
+      "titleEn": "Phrases in Nominalstil",
+      "register": "formal",
+      "phrases": [
+        { "de": "Nach Erhalt der Unterlagen werde ich den Vertrag umgehend unterschreiben.", "en": "On receipt of the documents, I will sign the contract immediately.", "note": "nach Erhalt + genitive = nachdem ich … erhalten habe", "noteDe": "nach Erhalt + Genitiv = nachdem ich … erhalten habe" },
+        { "de": "Bei Rückfragen erreichen Sie mich jederzeit per E-Mail.", "en": "If you have any questions, you can reach me by e-mail at any time.", "note": "bei + noun replaces a clause with „falls“ or „wenn“", "noteDe": "bei + Nomen ersetzt einen Satz mit „falls“ oder „wenn“" },
+        { "de": "Aufgrund einer Knieverletzung kann ich derzeit keine Treppen steigen.", "en": "Owing to a knee injury, I cannot climb stairs at the moment.", "note": "aufgrund + genitive = Nominalstil for „weil …“", "noteDe": "aufgrund + Genitiv = Nominalstil statt „weil …“" },
+        { "de": "Trotz mehrfacher Nachfrage wurde der Mangel bis heute nicht behoben.", "en": "Despite repeated enquiries, the defect has still not been fixed.", "note": "trotz + genitive = Nominalstil for „obwohl …“", "noteDe": "trotz + Genitiv = Nominalstil statt „obwohl …“" },
+        { "de": "Zur Vorbereitung auf meine neue Stelle suche ich einen Intensivkurs.", "en": "To prepare for my new job, I am looking for an intensive course.", "note": "zur + noun = um … zu + infinitive", "noteDe": "zur + Nomen = um … zu + Infinitiv" },
+        { "de": "Im Falle einer Erkrankung möchte ich den Kurs kostenlos verschieben können.", "en": "In the event of illness, I would like to be able to postpone the course free of charge.", "note": "im Falle + genitive = falls …", "noteDe": "im Falle + Genitiv = falls …" },
+        { "de": "Infolge des Streiks fiel unser Rückflug ersatzlos aus.", "en": "As a result of the strike, our return flight was cancelled without a replacement.", "note": "infolge + genitive = as a result of", "noteDe": "infolge + Genitiv = als Folge von" },
+        { "de": "Gern würde ich Ihr Beratungsangebot in Anspruch nehmen.", "en": "I would like to make use of your advice service.", "note": "in Anspruch nehmen = to make use of (Nomen-Verb-Verbindung)", "noteDe": "in Anspruch nehmen = nutzen (Nomen-Verb-Verbindung)" },
+        { "de": "Vor Vertragsabschluss möchte ich noch einige Punkte klären.", "en": "Before signing the contract, I would like to clarify a few points.", "note": "vor + noun = Nominalstil for „bevor …“", "noteDe": "vor + Nomen = Nominalstil statt „bevor …“" }
+      ]
+    },
+    {
+      "title": "Einschränken und einräumen",
+      "titleEn": "Qualifying and conceding",
+      "register": "formal",
+      "phrases": [
+        { "de": "Es mag sein, dass die Bauarbeiten nicht vorhersehbar waren; allerdings hätten Sie Ihre Gäste informieren müssen.", "en": "It may be that the building work could not be foreseen; however, you should have informed your guests.", "note": "„hätten … informieren müssen“ = should have informed (Konjunktiv II past with a modal verb)", "noteDe": "„hätten … informieren müssen“ = Konjunktiv II der Vergangenheit mit Modalverb: Das wäre nötig gewesen." },
+        { "de": "Ich habe durchaus Verständnis dafür, dass in der Hauptsaison viel los ist, aber …", "en": "I do understand that things are busy in the high season, but …", "note": "Verständnis haben für + accusative; durchaus = certainly, quite", "noteDe": "Verständnis haben für + Akkusativ; durchaus = wirklich, ganz sicher" },
+        { "de": "Auch wenn ich mit dem Kurs insgesamt zufrieden war, möchte ich auf zwei Probleme hinweisen.", "en": "Even though I was satisfied with the course overall, I would like to point out two problems.", "note": "auch wenn = even though; hinweisen auf + accusative = to point out", "noteDe": "auch wenn = obwohl; hinweisen auf + Akkusativ = auf etwas aufmerksam machen" },
+        { "de": "Grundsätzlich gefällt mir die Wohnung sehr gut, nur die Heizung bereitet mir Sorgen.", "en": "On the whole I like the flat very much; only the heating worries me.", "note": "grundsätzlich = basically, in principle; Sorgen bereiten = to cause worry", "noteDe": "grundsätzlich = im Prinzip; Sorgen bereiten = Sorgen machen" },
+        { "de": "Im Großen und Ganzen war die Organisation gut, jedoch ließ die Verpflegung zu wünschen übrig.", "en": "By and large the organisation was good, but the food left something to be desired.", "note": "zu wünschen übrig lassen = to leave something to be desired; jedoch = aber (formal)", "noteDe": "zu wünschen übrig lassen = nicht gut genug sein; jedoch = aber (formell)" },
+        { "de": "Selbst wenn der Kurs etwas teurer wäre, würde ich mich dafür entscheiden.", "en": "Even if the course were a little more expensive, I would choose it.", "note": "selbst wenn = even if; here with Konjunktiv II", "noteDe": "selbst wenn = auch in dem Fall, dass …; hier mit Konjunktiv II" },
+        { "de": "Soweit ich weiß, ist die Anmeldefrist bereits abgelaufen.", "en": "As far as I know, the registration deadline has already passed.", "note": "soweit = as far as; verb at the end", "noteDe": "soweit = nach dem, was …; Verb am Ende" }
+      ]
+    },
+    {
+      "title": "Wendungen für die Bewerbung",
+      "titleEn": "Phrases for applications",
+      "register": "formal",
+      "phrases": [
+        { "de": "Hiermit bewerbe ich mich um die ausgeschriebene Stelle als Erzieherin.", "en": "I hereby apply for the advertised position as a nursery teacher.", "note": "eine Stelle ausschreiben = to advertise a job; sich bewerben um + accusative", "noteDe": "eine Stelle ausschreiben = eine Stelle öffentlich anbieten; sich bewerben um + Akkusativ" },
+        { "de": "Die Tätigkeit reizt mich besonders, weil ich gern mit Menschen aus verschiedenen Kulturen arbeite.", "en": "The job particularly appeals to me because I enjoy working with people from different cultures.", "note": "jemanden reizen = to appeal to someone", "noteDe": "jemanden reizen = für jemanden interessant sein" },
+        { "de": "Derzeit bin ich als Lagerist bei einer Spedition tätig.", "en": "I currently work as a warehouse clerk for a haulage company.", "note": "tätig sein als = to work as (formal)", "noteDe": "tätig sein als = arbeiten als (formell)" },
+        { "de": "Während meines Studiums konnte ich bereits erste Erfahrungen im Bereich Marketing sammeln.", "en": "During my studies I was already able to gain some initial experience in marketing.", "note": "Erfahrungen sammeln = to gain experience; während + genitive", "noteDe": "Erfahrungen sammeln = Erfahrungen machen; während + Genitiv" },
+        { "de": "Zu meinen Stärken zählen Zuverlässigkeit und Organisationstalent.", "en": "My strengths include reliability and a talent for organisation.", "note": "zählen zu + dative = to be among", "noteDe": "zählen zu + Dativ = zu einer Gruppe gehören" },
+        { "de": "Ich verfüge über sehr gute Englischkenntnisse und einen Führerschein der Klasse B.", "en": "I have very good English and a category B driving licence.", "note": "verfügen über + accusative = to have (formal)", "noteDe": "verfügen über + Akkusativ = haben (formell)" },
+        { "de": "Auch in hektischen Situationen behalte ich den Überblick.", "en": "I keep a clear head even in hectic situations.", "note": "den Überblick behalten = to stay on top of things", "noteDe": "den Überblick behalten = wissen, was wichtig ist, und nichts vergessen" },
+        { "de": "Die Stelle könnte ich frühestens zum 1. Oktober antreten.", "en": "I could start the job on 1 October at the earliest.", "note": "eine Stelle antreten = to take up a job", "noteDe": "eine Stelle antreten = mit einer neuen Arbeit beginnen" },
+        { "de": "Meinen Lebenslauf und meine Zeugnisse finden Sie im Anhang.", "en": "Please find my CV and references attached." },
+        { "de": "Über die Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.", "en": "I would be delighted to be invited to an interview.", "note": "The usual last sentence of an application.", "noteDe": "Der übliche Schlusssatz einer Bewerbung." }
+      ]
+    },
+    {
+      "title": "Schluss und Grußformel",
+      "titleEn": "Closing and sign-off",
+      "register": "formal",
+      "phrases": [
+        { "de": "Ich hoffe, Ihnen mit diesen Angaben weitergeholfen zu haben.", "en": "I hope this information has been helpful to you.", "note": "Perfect infinitive (weitergeholfen zu haben) – fits replies in which you give information.", "noteDe": "Infinitiv Perfekt (weitergeholfen zu haben) – passt, wenn du selbst Informationen gibst." },
+        { "de": "Mit Ihrem Einverständnis würde ich mich nächste Woche telefonisch bei Ihnen melden.", "en": "With your permission, I would call you next week.", "note": "das Einverständnis = consent, agreement", "noteDe": "das Einverständnis = die Zustimmung" },
+        { "de": "Ich würde es begrüßen, wenn wir in Kontakt blieben.", "en": "I would welcome it if we stayed in touch.", "note": "etwas begrüßen = to welcome something; „blieben“ = Konjunktiv II of bleiben", "noteDe": "etwas begrüßen = etwas gut finden; „blieben“ = Konjunktiv II von „bleiben“" },
+        { "de": "Ich freue mich auf die weitere Zusammenarbeit.", "en": "I look forward to working with you further.", "note": "For a reply to someone you already work with.", "noteDe": "Für eine Antwort an jemanden, mit dem du schon zusammenarbeitest." },
+        { "de": "Freundliche Grüße", "en": "Kind regards", "note": "A little shorter and more modern than „Mit freundlichen Grüßen“ – just as correct. No comma after it.", "noteDe": "Etwas kürzer und moderner als „Mit freundlichen Grüßen“ – genauso korrekt. Danach kein Komma." },
+        { "de": "Mit besten Grüßen", "en": "Best regards", "note": "Polite and a little warmer – good once you have already been in contact.", "noteDe": "Höflich und etwas herzlicher – gut, wenn du schon Kontakt mit der Person hattest." },
+        { "de": "Mit freundlichen Grüßen aus Leipzig", "en": "Kind regards from Leipzig", "note": "Adding your town sounds personal but stays formal.", "noteDe": "Mit deinem Wohnort klingt der Gruß persönlicher, bleibt aber formell." }
+      ]
+    }
+  ]
+}

@@ -54,7 +54,7 @@ export default async function ExamOverviewPage(props: PageProps<"/[locale]/[exam
           <div className="space-y-4">
             <div className="inline-flex items-center gap-2 rounded-full border bg-background/80 px-3 py-1 text-xs font-semibold">
               <span className="grid size-5 place-items-center rounded-full bg-primary text-[10px] text-primary-foreground">{exam.level}</span>
-              {exam.alias}
+              {exam.alias ?? m.cefr(exam.level)}
             </div>
             <h1 className="text-3xl font-semibold tracking-tight text-balance sm:text-4xl">{exam.name}</h1>
             <p className="max-w-xl text-pretty text-muted-foreground">{exam.description}</p>

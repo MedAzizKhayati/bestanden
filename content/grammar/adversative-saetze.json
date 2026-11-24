@@ -1,0 +1,260 @@
+{
+  "id": "adversative-saetze",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 21,
+  "title": "Gegensätze: während, wohingegen, (an)statt, im Gegensatz zu",
+  "titleEn": "Contrasts: während, wohingegen, (an)statt, im Gegensatz zu",
+  "summary": "Compare two different facts side by side: während and wohingegen start subordinate clauses, dagegen and hingegen are adverbs, im Gegensatz zu and anders als work with nouns – and (an)statt says that one thing replaces another.",
+  "summaryDe": "Zwei verschiedene Tatsachen nebeneinanderstellen: während und wohingegen leiten Nebensätze ein, dagegen und hingegen sind Adverbien, im Gegensatz zu und anders als stehen mit Nomen – und (an)statt sagt, dass eine Sache eine andere ersetzt.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "**Adversative** connectors put two **different facts side by side** – two people, places, groups or periods that differ. Nothing is unexpected (that would be concessive: obwohl, trotzdem). Subordinate clauses: **während, wohingegen** (verb at the end). Adverbs: **dagegen, hingegen, demgegenüber** (verb right after them in position 1). With nouns: **im Gegensatz zu / im Unterschied zu** + dative and **anders als**. **(an)statt** + genitive says that one thing **replaces** another.",
+      "mdDe": "**Adversative** Konnektoren stellen zwei **verschiedene Tatsachen nebeneinander** – zwei Personen, Orte, Gruppen oder Zeiträume, die sich unterscheiden. Nichts ist unerwartet (das wäre konzessiv: obwohl, trotzdem). Nebensätze: **während, wohingegen** (Verb am Ende). Adverbien: **dagegen, hingegen, demgegenüber** (auf Position 1 folgt direkt das Verb). Mit Nomen: **im Gegensatz zu / im Unterschied zu** + Dativ und **anders als**. **(an)statt** + Genitiv sagt, dass eine Sache eine andere **ersetzt**."
+    },
+    {
+      "type": "text",
+      "heading": "Contrast or concession?",
+      "headingDe": "Adversativ oder konzessiv?",
+      "md": "At B1 you learnt **obwohl / trotzdem** for an *unexpected* result (see „Gegensätze: obwohl, trotzdem, trotz“). Adversative sentences are different – they simply compare:\n\n- Adversative: „**Während** Lena gern kocht, bestellt ihr Mann lieber Essen.“ – two people, two habits.\n- Concessive: „**Obwohl** Lena gern kocht, bestellt sie heute Essen.“ – you would expect her to cook.\n\n**Quick test:** swap the two clauses. In an adversative sentence the meaning stays the same: „**Während** ihr Mann lieber Essen bestellt, kocht Lena gern.“ In a concessive sentence the swap produces nonsense. English *while* or *whereas* in a comparison is adversative – translate it with **während / wohingegen**, not with *obwohl*.",
+      "mdDe": "Auf B1-Niveau hast du **obwohl / trotzdem** für ein *unerwartetes* Ergebnis gelernt (siehe „Gegensätze: obwohl, trotzdem, trotz“). Adversative Sätze sind anders – sie vergleichen einfach:\n\n- Adversativ: „**Während** Lena gern kocht, bestellt ihr Mann lieber Essen.“ – zwei Personen, zwei Gewohnheiten.\n- Konzessiv: „**Obwohl** Lena gern kocht, bestellt sie heute Essen.“ – man erwartet, dass sie kocht.\n\n**Schneller Test:** Tausch die beiden Sätze. Bei einem adversativen Satz bleibt die Bedeutung gleich: „**Während** ihr Mann lieber Essen bestellt, kocht Lena gern.“ Bei einem konzessiven Satz entsteht Unsinn. Das englische *while* oder *whereas* in einem Vergleich ist adversativ – übersetze es mit **während / wohingegen**, nicht mit *obwohl*."
+    },
+    {
+      "type": "table",
+      "heading": "Contrast connectors at a glance",
+      "headingDe": "Gegensatz-Konnektoren im Überblick",
+      "columns": ["Connector", "Word type", "Word order / case", "Example"],
+      "columnsDe": ["Konnektor", "Wortart", "Wortstellung / Kasus", "Beispiel"],
+      "rows": [
+        ["während", "subordinating conjunction", "verb at the end; clause before or after the main clause", "Während die Mieten steigen, stagnieren die Löhne."],
+        ["wohingegen", "subordinating conjunction (formal)", "verb at the end; clause normally after the main clause", "Die Löhne stagnieren, wohingegen die Mieten steigen."],
+        ["dagegen / hingegen", "adverb", "position 1 (verb next), middle field or right after the first element", "Die Löhne stagnieren. Die Mieten dagegen steigen."],
+        ["demgegenüber", "adverb (written style)", "like dagegen", "Die Löhne stagnieren. Demgegenüber steigen die Mieten."],
+        ["im Gegensatz zu / im Unterschied zu", "preposition", "+ dative", "Im Gegensatz zu den Löhnen steigen die Mieten."],
+        ["anders als", "comparison", "the noun keeps the case of the word it is compared with", "Anders als die Löhne steigen die Mieten."],
+        ["(an)statt", "preposition", "+ genitive; one thing replaces another", "Statt einer Lohnerhöhung gab es einen Gutschein."]
+      ],
+      "rowsDe": [
+        ["während", "unterordnende Konjunktion", "Verb am Ende; Nebensatz vor oder nach dem Hauptsatz", "Während die Mieten steigen, stagnieren die Löhne."],
+        ["wohingegen", "unterordnende Konjunktion (formell)", "Verb am Ende; Nebensatz normalerweise nach dem Hauptsatz", "Die Löhne stagnieren, wohingegen die Mieten steigen."],
+        ["dagegen / hingegen", "Adverb", "Position 1 (dann das Verb), Mittelfeld oder direkt nach dem ersten Satzglied", "Die Löhne stagnieren. Die Mieten dagegen steigen."],
+        ["demgegenüber", "Adverb (Schriftsprache)", "wie dagegen", "Die Löhne stagnieren. Demgegenüber steigen die Mieten."],
+        ["im Gegensatz zu / im Unterschied zu", "Präposition", "+ Dativ", "Im Gegensatz zu den Löhnen steigen die Mieten."],
+        ["anders als", "Vergleich", "das Nomen hat denselben Kasus wie das Wort, mit dem es verglichen wird", "Anders als die Löhne steigen die Mieten."],
+        ["(an)statt", "Präposition", "+ Genitiv; eine Sache ersetzt eine andere", "Statt einer Lohnerhöhung gab es einen Gutschein."]
+      ],
+      "note": "In spoken German you often hear „statt“ with the dative („statt dem Auto“). In writing use the genitive („statt des Autos“); the dative is only standard when the genitive is not visible, e.g. in the plural without an article: „statt Büchern“.",
+      "noteDe": "In der gesprochenen Sprache hörst du „statt“ oft mit Dativ („statt dem Auto“). Schriftlich nimmst du den Genitiv („statt des Autos“); der Dativ ist nur dann korrekt, wenn man den Genitiv nicht erkennt, z. B. im Plural ohne Artikel: „statt Büchern“."
+    },
+    {
+      "type": "text",
+      "heading": "während: time or contrast?",
+      "headingDe": "während: Zeit oder Gegensatz?",
+      "md": "**während** has two meanings, and reading texts use both:\n\n- **Time** (*at the same time as*): „**Während** ich koche, deckt Paul den Tisch.“ – both actions happen simultaneously.\n- **Contrast** (*whereas*): „**Während** auf dem Land fast jeder Haushalt ein Auto besitzt, trifft das in Großstädten nur auf etwa die Hälfte zu.“ – two facts are compared; time plays no role.\n\n**Test:** if you can replace it with **wohingegen**, it is adversative; if you can replace it with **in der Zeit, in der**, it is temporal. And remember: the **preposition** „während“ + genitive („**während** des Studiums“) is always temporal.",
+      "mdDe": "**während** hat zwei Bedeutungen, und Lesetexte benutzen beide:\n\n- **Zeit** (*gleichzeitig*): „**Während** ich koche, deckt Paul den Tisch.“ – beide Handlungen passieren zur selben Zeit.\n- **Gegensatz** (*wohingegen*): „**Während** auf dem Land fast jeder Haushalt ein Auto besitzt, trifft das in Großstädten nur auf etwa die Hälfte zu.“ – zwei Tatsachen werden verglichen; die Zeit spielt keine Rolle.\n\n**Test:** Wenn du es durch **wohingegen** ersetzen kannst, ist es adversativ; wenn du es durch **in der Zeit, in der** ersetzen kannst, ist es temporal. Und denk daran: Die **Präposition** „während“ + Genitiv („**während** des Studiums“) ist immer temporal."
+    },
+    {
+      "type": "text",
+      "heading": "Where do dagegen and hingegen go?",
+      "headingDe": "Wo stehen dagegen und hingegen?",
+      "md": "The adverbs **dagegen, hingegen** and **demgegenüber** link two main clauses. They have three possible positions:\n\n1. **Position 1** – the verb follows directly: „Der Norden ist trocken. **Dagegen regnet** es im Süden viel.“\n2. **Middle field** – after the verb: „Im Süden regnet es **dagegen** viel.“\n3. **Right after the first element** – typical when you contrast people or things. The adverb does not count as a position, so the verb is still second: „Mein Bruder liest gern Krimis. **Ich dagegen lese** lieber Sachbücher.“\n\nIn Lesen Teil 2 these words are signposts: they often mark the switch to a second opinion or group – exactly the kind of detail the questions test.\n\nCareful: „dagegen“ is also a pronominal adverb meaning *against it*: „Viele Anwohner protestieren **dagegen**.“ The context tells you which meaning is meant.",
+      "mdDe": "Die Adverbien **dagegen, hingegen** und **demgegenüber** verbinden zwei Hauptsätze. Sie können an drei Stellen stehen:\n\n1. **Position 1** – das Verb folgt direkt: „Der Norden ist trocken. **Dagegen regnet** es im Süden viel.“\n2. **Mittelfeld** – nach dem Verb: „Im Süden regnet es **dagegen** viel.“\n3. **Direkt nach dem ersten Satzglied** – typisch, wenn du Personen oder Dinge gegenüberstellst. Das Adverb zählt nicht als Position, das Verb steht also weiter an zweiter Stelle: „Mein Bruder liest gern Krimis. **Ich dagegen lese** lieber Sachbücher.“\n\nIn Lesen Teil 2 sind diese Wörter Wegweiser: Oft markieren sie den Wechsel zu einer zweiten Meinung oder Gruppe – genau solche Details prüfen die Fragen.\n\nVorsicht: „dagegen“ ist auch ein Pronominaladverb (*gegen etwas*): „Viele Anwohner protestieren **dagegen**.“ Der Kontext zeigt dir, welche Bedeutung gemeint ist."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Während** ältere Menschen die Nachrichten vor allem im Fernsehen **verfolgen**, informieren sich Jugendliche fast nur über soziale Medien.", "en": "Whereas older people mainly follow the news on TV, young people get their information almost only from social media." },
+        { "de": "Im Erdgeschoss bleibt es auch im Sommer angenehm kühl, **wohingegen** die Temperaturen unter dem Dach oft auf über 30 Grad **steigen**.", "en": "On the ground floor it stays pleasantly cool even in summer, whereas under the roof temperatures often rise above 30 degrees." },
+        { "de": "Die erste Bewerberin hatte viel Berufserfahrung. Die zweite **dagegen** überzeugte durch ihre Ideen.", "en": "The first applicant had a lot of work experience. The second, on the other hand, impressed with her ideas." },
+        { "de": "Kleine Betriebe leiden besonders unter den hohen Energiepreisen. Große Konzerne **hingegen** können die Kosten leichter an ihre Kunden weitergeben.", "en": "Small businesses suffer most from the high energy prices. Large corporations, by contrast, can pass the costs on to their customers more easily." },
+        { "de": "**Im Gegensatz zu ihrem** Vorgänger hört die neue Teamleiterin wirklich zu.", "en": "Unlike her predecessor, the new team leader really listens." },
+        { "de": "**Anders als** viele **erwartet hatten**, ist die Zahl der Fahrgäste nach der Preiserhöhung gestiegen.", "en": "Contrary to what many had expected, the number of passengers rose after the price increase." },
+        { "de": "**Statt eines** neuen Parkhauses baut die Stadt nun eine Fahrradstation am Bahnhof.", "en": "Instead of a new multi-storey car park, the town is now building a bicycle station at the railway station." },
+        { "de": "Er hat sich nicht entschuldigt. **Stattdessen** hat er mir auch noch Vorwürfe gemacht.", "en": "He didn't apologise. Instead, he even blamed me." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** In Sprachbausteine Teil 1 (items 21–30) typical options are „während / obwohl / nachdem“ or „dagegen / trotzdem / deshalb“. Decide in two steps:\n\n1. **Logic:** Are two different facts compared (→ während, dagegen) or is a result unexpected (→ obwohl, trotzdem)?\n2. **Form:** verb at the end → während / wohingegen; verb right after the gap → dagegen / hingegen; a noun in the dative → im Gegensatz zu; a genitive → statt.\n\nIn **Sprechen** Teil 2 (discussion) and in **Schreiben** you can compare positions elegantly: „**Im Gegensatz zum** Autor bin ich der Meinung, dass …“, „**Während** in Deutschland vor allem …, ist es in meinem Heimatland üblich, dass …“, „Viele halten das für unnötig. Ich **hingegen** finde …“.",
+      "mdDe": "**In der Prüfung:** In Sprachbausteine Teil 1 (Aufgaben 21–30) sind „während / obwohl / nachdem“ oder „dagegen / trotzdem / deshalb“ typische Optionen. Entscheide in zwei Schritten:\n\n1. **Logik:** Werden zwei verschiedene Tatsachen verglichen (→ während, dagegen) oder ist ein Ergebnis unerwartet (→ obwohl, trotzdem)?\n2. **Form:** Verb am Ende → während / wohingegen; Verb direkt nach der Lücke → dagegen / hingegen; ein Nomen im Dativ → im Gegensatz zu; ein Genitiv → statt.\n\nIn **Sprechen** Teil 2 (Diskussion) und im **Schreiben** kannst du Positionen elegant vergleichen: „**Im Gegensatz zum** Autor bin ich der Meinung, dass …“, „**Während** in Deutschland vor allem …, ist es in meinem Heimatland üblich, dass …“, „Viele halten das für unnötig. Ich **hingegen** finde …“."
+    },
+    {
+      "type": "warning",
+      "md": "**Watch out:**\n\n- **im Gegensatz zu** + dative – never *im Gegensatz von* and never with the genitive: „im Gegensatz **zu meinem** Bruder“.\n- A **wohingegen**-clause normally follows the main clause. To start the sentence with the contrast, use **während**.\n- **statt** on its own is not an adverb. Between two main clauses use **stattdessen**: „Er rief nicht an. **Stattdessen** schickte er eine Nachricht.“\n- After a negation the contrast is expressed with **sondern**, not with *während* or *statt*: „Das ist **kein** Fehler, **sondern** Absicht.“",
+      "mdDe": "**Achtung:**\n\n- **im Gegensatz zu** + Dativ – nie *im Gegensatz von* und nie mit Genitiv: „im Gegensatz **zu meinem** Bruder“.\n- Ein **wohingegen**-Satz steht normalerweise nach dem Hauptsatz. Wenn du den Satz mit dem Gegensatz beginnen willst, nimm **während**.\n- **statt** allein ist kein Adverb. Zwischen zwei Hauptsätzen nimmst du **stattdessen**: „Er rief nicht an. **Stattdessen** schickte er eine Nachricht.“\n- Nach einer Verneinung drückst du den Gegensatz mit **sondern** aus, nicht mit *während* oder *statt*: „Das ist **kein** Fehler, **sondern** Absicht.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Im Gegensatz von meiner Schwester bin ich sehr ordentlich.",
+      "right": "Im Gegensatz zu meiner Schwester bin ich sehr ordentlich.",
+      "why": "The fixed expression is „im Gegensatz zu“ + dative.",
+      "whyDe": "Die feste Verbindung heißt „im Gegensatz zu“ + Dativ."
+    },
+    {
+      "wrong": "Obwohl mein Bruder Fußball liebt, interessiere ich mich überhaupt nicht für Sport.",
+      "right": "Während mein Bruder Fußball liebt, interessiere ich mich überhaupt nicht für Sport.",
+      "why": "Two different people are compared – nothing is unexpected → „während“. With „obwohl“, your brother's love of football would be a reason for you to like sport too.",
+      "whyDe": "Zwei verschiedene Personen werden verglichen – nichts ist unerwartet → „während“. Mit „obwohl“ wäre die Fußballliebe deines Bruders ein Grund dafür, dass auch du Sport magst."
+    },
+    {
+      "wrong": "Meine Kollegin arbeitet gern im Team. Dagegen ich arbeite lieber allein.",
+      "right": "Meine Kollegin arbeitet gern im Team. Ich dagegen arbeite lieber allein.",
+      "why": "„dagegen“ in position 1 needs the verb next („Dagegen arbeite ich …“). Or put it right after the subject: „Ich dagegen arbeite …“.",
+      "whyDe": "Nach „dagegen“ auf Position 1 kommt direkt das Verb („Dagegen arbeite ich …“). Oder du stellst es direkt hinter das Subjekt: „Ich dagegen arbeite …“."
+    },
+    {
+      "wrong": "Er hat nicht angerufen, statt hat er eine SMS geschickt.",
+      "right": "Er hat nicht angerufen, stattdessen hat er eine SMS geschickt.",
+      "why": "„statt“ is a preposition or works with „zu“ / „dass“. As an adverb between two main clauses you need „stattdessen“.",
+      "whyDe": "„statt“ ist eine Präposition oder steht mit „zu“ / „dass“. Als Adverb zwischen zwei Hauptsätzen brauchst du „stattdessen“."
+    },
+    {
+      "wrong": "Wohingegen die Mieten stark steigen, bleiben die Löhne fast gleich.",
+      "right": "Die Mieten steigen stark, wohingegen die Löhne fast gleich bleiben.",
+      "why": "A wohingegen-clause normally follows the main clause. If the contrast comes first, use „Während“.",
+      "whyDe": "Ein wohingegen-Satz steht normalerweise nach dem Hauptsatz. Wenn der Gegensatz am Anfang steht, nimm „Während“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "In kleineren Städten sind die Mieten in den letzten Jahren nur moderat gestiegen, ___ sie sich in manchen Metropolen fast verdoppelt haben.",
+      "options": ["obwohl", "wohingegen", "sodass"],
+      "answer": 1,
+      "explanation": "Two kinds of cities are compared and nothing is unexpected → „wohingegen“. „obwohl“ would present the moderate rise as surprising, and „sodass“ would make the doubling a result of it.",
+      "explanationDe": "Zwei Arten von Städten werden verglichen, und nichts ist unerwartet → „wohingegen“. Mit „obwohl“ wäre der moderate Anstieg überraschend, und mit „sodass“ wäre die Verdopplung seine Folge."
+    },
+    {
+      "type": "mc",
+      "prompt": "Mein Vater liest die Nachrichten nur noch auf dem Tablet. Meine Mutter ___ besteht auf ihrer gedruckten Tageszeitung.",
+      "options": ["hingegen", "trotzdem", "deshalb"],
+      "answer": 0,
+      "explanation": "Two people with different habits → contrast. Contrast words like „hingegen“ (or „dagegen“, „aber“) can stand right after the subject („Meine Mutter hingegen besteht …“) without changing the verb position. „trotzdem“ and „deshalb“ give the wrong logic and cannot stand there.",
+      "explanationDe": "Zwei Personen mit verschiedenen Gewohnheiten → Gegensatz. Gegensatz-Wörter wie „hingegen“ (oder „dagegen“, „aber“) können direkt nach dem Subjekt stehen („Meine Mutter hingegen besteht …“), ohne dass sich die Verbstellung ändert. „trotzdem“ und „deshalb“ haben die falsche Logik und können dort nicht stehen."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ Noras früherem Arbeitgeber bietet ihre neue Firma flexible Arbeitszeiten an.",
+      "options": ["Statt", "Während", "Im Gegensatz zu"],
+      "answer": 2,
+      "explanation": "Two employers are compared and „Noras früherem Arbeitgeber“ is dative → „Im Gegensatz zu“. „Statt“ would mean replacement and needs the genitive; the preposition „während“ is temporal and also takes the genitive.",
+      "explanationDe": "Zwei Arbeitgeber werden verglichen, und „Noras früherem Arbeitgeber“ steht im Dativ → „Im Gegensatz zu“. „Statt“ würde eine Ersetzung bedeuten und braucht den Genitiv; die Präposition „während“ ist temporal und steht auch mit Genitiv."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ des versprochenen Bonus bekamen die Beschäftigten am Jahresende nur einen Einkaufsgutschein.",
+      "options": ["Im Gegensatz zu", "Statt", "Anders als"],
+      "answer": 1,
+      "explanation": "The voucher replaced the bonus, and „des versprochenen Bonus“ is genitive → „Statt“. „Im Gegensatz zu“ would need the dative („zum versprochenen Bonus“), and „Anders als“ would keep the nominative here.",
+      "explanationDe": "Der Gutschein hat den Bonus ersetzt, und „des versprochenen Bonus“ steht im Genitiv → „Statt“. „Im Gegensatz zu“ bräuchte den Dativ („zum versprochenen Bonus“), und nach „Anders als“ stünde hier der Nominativ."
+    },
+    {
+      "type": "mc",
+      "prompt": "Auf dem Land fahren die meisten Jugendlichen mit dem Bus zur Schule, ___ in der Stadt viele mit dem Fahrrad kommen.",
+      "options": ["nachdem", "obwohl", "während"],
+      "answer": 2,
+      "explanation": "Two places are compared – „während“ here means *whereas*, not *at the same time*. „obwohl“ makes no sense (cycling in town is no obstacle to taking the bus in the country), and „nachdem“ describes a sequence in time.",
+      "explanationDe": "Zwei Orte werden verglichen – „während“ bedeutet hier *wohingegen*, nicht *gleichzeitig*. „obwohl“ ergibt keinen Sinn (das Radfahren in der Stadt ist kein Hindernis für den Bus auf dem Land), und „nachdem“ beschreibt eine zeitliche Reihenfolge."
+    },
+    {
+      "type": "gap",
+      "prompt": "Im Gegensatz ___ ihren Eltern ist Mira mit dem Smartphone aufgewachsen.",
+      "hint": "(preposition)",
+      "hintDe": "(Präposition)",
+      "answers": ["zu"],
+      "explanation": "Fixed expression: „im Gegensatz zu“ + dative („ihren Eltern“).",
+      "explanationDe": "Feste Verbindung: „im Gegensatz zu“ + Dativ („ihren Eltern“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Tagesschicht verläuft meistens ruhig. In der Nachtschicht ___ muss man ständig mit Notfällen rechnen.",
+      "hint": "(on the other hand)",
+      "hintDe": "(Gegensatz, Adverb)",
+      "answers": ["dagegen", "hingegen", "demgegenüber", "jedoch", "aber", "wiederum"],
+      "explanation": "Day shift and night shift are contrasted. The adverb stands right after the first element „In der Nachtschicht“ and the verb „muss“ stays second → „dagegen“ or „hingegen“.",
+      "explanationDe": "Tagschicht und Nachtschicht werden gegenübergestellt. Das Adverb steht direkt nach dem ersten Satzglied „In der Nachtschicht“, und das Verb „muss“ bleibt an zweiter Stelle → „dagegen“ oder „hingegen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Tim hat nach dem Abitur nicht wie geplant Medizin studiert. ___ hat er eine Ausbildung zum Notfallsanitäter gemacht.",
+      "hint": "(instead – one word)",
+      "hintDe": "(Alternative, ein Wort)",
+      "answers": ["Stattdessen", "Vielmehr"],
+      "explanation": "The training replaced the planned studies, and the verb „hat“ follows directly → the adverb „Stattdessen“ (after the negated sentence „Vielmehr“ also works). „Statt“ alone cannot stand in position 1 before a verb, and „sondern“ would be followed by the subject, not the verb.",
+      "explanationDe": "Die Ausbildung hat das geplante Studium ersetzt, und das Verb „hat“ folgt direkt → das Adverb „Stattdessen“ (nach dem verneinten Satz passt auch „Vielmehr“). „Statt“ allein kann nicht auf Position 1 vor einem Verb stehen, und nach „sondern“ käme das Subjekt, nicht das Verb."
+    },
+    {
+      "type": "order",
+      "words": ["die", "wohingegen", "sind.", "Nachfrage", "leicht", "gestiegen,", "Preise", "ist", "Die", "gesunken"],
+      "answers": [
+        "Die Nachfrage ist gestiegen, wohingegen die Preise leicht gesunken sind.",
+        "Die Nachfrage ist leicht gestiegen, wohingegen die Preise gesunken sind."
+      ],
+      "explanation": "The main clause comes first, the wohingegen-clause follows with the conjugated verb „sind“ at the end.",
+      "explanationDe": "Der Hauptsatz steht zuerst, der wohingegen-Satz folgt mit dem konjugierten Verb „sind“ am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["nie", "dagegen", "gelernt.", "Schwester", "ein", "hat", "Meine", "Instrument"],
+      "answers": [
+        "Meine Schwester dagegen hat nie ein Instrument gelernt.",
+        "Dagegen hat meine Schwester nie ein Instrument gelernt.",
+        "Meine Schwester hat dagegen nie ein Instrument gelernt."
+      ],
+      "explanation": "„dagegen“ can stand right after the subject (the verb „hat“ is still second), in position 1 (verb next) or in the middle field after the verb.",
+      "explanationDe": "„dagegen“ kann direkt nach dem Subjekt stehen (das Verb „hat“ bleibt an zweiter Stelle), auf Position 1 (dann direkt das Verb) oder im Mittelfeld nach dem Verb."
+    },
+    {
+      "type": "transform",
+      "instruction": "Combine the sentences with „während“ (contrast). Start with „Während“.",
+      "instructionDe": "Verbinde die Sätze mit „während“ (Gegensatz). Beginne mit „Während“.",
+      "prompt": "In der Stadt erledigen viele ihre Wege zu Fuß. Auf dem Land ist man fast immer auf das Auto angewiesen.",
+      "answers": [
+        "Während in der Stadt viele ihre Wege zu Fuß erledigen, ist man auf dem Land fast immer auf das Auto angewiesen.",
+        "Während viele in der Stadt ihre Wege zu Fuß erledigen, ist man auf dem Land fast immer auf das Auto angewiesen.",
+        "Während viele ihre Wege in der Stadt zu Fuß erledigen, ist man auf dem Land fast immer auf das Auto angewiesen."
+      ],
+      "explanation": "In the während-clause „erledigen“ goes to the end. The clause is position 1, so the main clause starts with the verb „ist“.",
+      "explanationDe": "Im während-Satz steht „erledigen“ am Ende. Der Nebensatz ist Position 1, deshalb beginnt der Hauptsatz mit dem Verb „ist“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „anders als“ with „im Gegensatz zu“.",
+      "instructionDe": "Ersetze „anders als“ durch „im Gegensatz zu“.",
+      "prompt": "Anders als ihr Bruder spricht Selin fließend Türkisch.",
+      "answers": [
+        "Im Gegensatz zu ihrem Bruder spricht Selin fließend Türkisch.",
+        "Selin spricht im Gegensatz zu ihrem Bruder fließend Türkisch."
+      ],
+      "explanation": "After „anders als“ the noun keeps the case of „Selin“ (nominative: „ihr Bruder“). „im Gegensatz zu“ requires the dative: „ihrem Bruder“.",
+      "explanationDe": "Nach „anders als“ hat das Nomen denselben Kasus wie „Selin“ (Nominativ: „ihr Bruder“). „im Gegensatz zu“ verlangt den Dativ: „ihrem Bruder“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite with „statt“ + genitive. Start with „Statt“.",
+      "instructionDe": "Schreib den Satz mit „statt“ + Genitiv um. Beginne mit „Statt“.",
+      "prompt": "Die Stadt baut keinen neuen Parkplatz, sondern einen Spielplatz.",
+      "answers": ["Statt eines neuen Parkplatzes baut die Stadt einen Spielplatz."],
+      "explanation": "„keinen neuen Parkplatz“ becomes the genitive „eines neuen Parkplatzes“ (adjective ending -en, noun ending -es). The prepositional phrase is position 1, so the verb „baut“ follows.",
+      "explanationDe": "Aus „keinen neuen Parkplatz“ wird der Genitiv „eines neuen Parkplatzes“ (Adjektivendung -en, Nomenendung -es). Die Präpositionalgruppe ist Position 1, deshalb folgt das Verb „baut“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Make two main clauses with „dagegen“. Keep „der Süden“ as the subject of the second sentence.",
+      "instructionDe": "Mach zwei Hauptsätze mit „dagegen“. „der Süden“ bleibt das Subjekt des zweiten Satzes.",
+      "prompt": "Während der Norden des Landes unter Trockenheit leidet, kämpft der Süden mit Überschwemmungen.",
+      "answers": [
+        "Der Norden des Landes leidet unter Trockenheit. Der Süden dagegen kämpft mit Überschwemmungen.",
+        "Der Norden des Landes leidet unter Trockenheit. Dagegen kämpft der Süden mit Überschwemmungen."
+      ],
+      "explanation": "Put „dagegen“ right after „Der Süden“ or in position 1 (then the verb „kämpft“ follows). Avoid „Der Süden kämpft dagegen …“ here – it could also mean *fights against it*.",
+      "explanationDe": "Stell „dagegen“ direkt nach „Der Süden“ oder auf Position 1 (dann folgt das Verb „kämpft“). Vermeide hier „Der Süden kämpft dagegen …“ – das könnte auch *kämpft gegen etwas* bedeuten."
+    }
+  ],
+  "related": ["konzessive-saetze", "konnektoren-hauptsatz", "temporale-nebensaetze", "verbindungsadverbien", "genitiv", "modalsaetze", "konditionalsaetze", "konzessive-saetze-b2", "zweiteilige-konnektoren-b2", "praepositionen-mit-genitiv"]
+}

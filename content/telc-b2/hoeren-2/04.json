@@ -1,0 +1,148 @@
+{
+  "id": "hoeren-2-04",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Mit dem Rufbus über die Dörfer",
+  "topic": "reisen",
+  "difficulty": 2,
+  "context": "Rundfunkinterview in der Sendung „Unterwegs im Nordwesten“ mit Uwe Janssen, der in Ostfriesland einen Rufbus fährt, im Studio",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "janssen", "name": "Herr Janssen", "gender": "m", "age": "adult", "role": "Rufbusfahrer" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Hallo und willkommen bei „Unterwegs im Nordwesten“! Wer auf dem Land wohnt und kein Auto hat, kennt das Problem: Der letzte Bus fährt am Nachmittag, wenn überhaupt." },
+    { "s": "mod", "t": "In einigen Gemeinden in Ostfriesland gibt es deshalb seit gut zwei Jahren einen Rufbus, den sogenannten Fehnflitzer. Einer der Fahrer sitzt heute bei mir im Studio: Uwe Janssen. Moin, Herr Janssen!" },
+    { "s": "janssen", "t": "Moin! Wobei ich gleich sagen muss, das hier ist für mich ein bisschen ungewohnt. Normalerweise rede ich ja mit meinen Fahrgästen und nicht mit einem Mikrofon." },
+    { "s": "mod", "t": "Erklären Sie uns doch erst mal, wie so ein Rufbus funktioniert." },
+    { "s": "janssen", "t": "Also, es gibt keinen festen Fahrplan und keine feste Strecke. Man bestellt den Bus per App oder übers Telefon, sagt, wo man einsteigen und wo man hinwill, und der Computer plant dann die Fahrt." },
+    { "s": "janssen", "t": "Früher gab's hier so ein Anrufsammeltaxi, da musste man spätestens am Vorabend anrufen. Beim Fehnflitzer reicht es, wenn man eine halbe Stunde vorher bucht, und meistens geht's sogar schneller." },
+    { "s": "mod", "t": "Und wer kein Smartphone hat?" },
+    { "s": "janssen", "t": "Der ruft einfach in der Zentrale in Aurich an. Da sitzt meistens die Tanja, und die trägt die Fahrt ins System ein, das ist überhaupt kein Problem." },
+    { "s": "mod", "t": "Wer fährt denn mit Ihnen? Ich stelle mir vor, das sind vor allem ältere Leute ohne Führerschein." },
+    { "s": "janssen", "t": "Das dachten wir am Anfang auch, und dafür war der Bus eigentlich auch gedacht. Aber unsere Statistik sagt was anderes: Mehr als die Hälfte unserer Fahrgäste sind Jugendliche zwischen vierzehn und neunzehn." },
+    { "s": "janssen", "t": "Die fahren zum Sportverein, zu Freunden oder abends nach Leer ins Kino. Die Älteren fahren eher vormittags, zum Arzt oder zum Einkaufen, und die Eltern sind natürlich heilfroh, dass sie nicht mehr jeden Abend Taxi spielen müssen." },
+    { "s": "mod", "t": "Sie sind ja nicht immer Busfahrer gewesen." },
+    { "s": "janssen", "t": "Nee, ich bin fünfundzwanzig Jahre Lastwagen gefahren, quer durch Europa, Spanien, Italien, Polen. Meistens war ich die ganze Woche unterwegs und kam nur am Wochenende nach Hause." },
+    { "s": "mod", "t": "Und dann wollten Sie mehr Zeit mit der Familie verbringen?" },
+    { "s": "janssen", "t": "Na ja, meine Frau freut sich natürlich, dass ich jetzt abends zu Hause bin, das will ich gar nicht kleinreden. Aber der eigentliche Grund war mein Rücken." },
+    { "s": "janssen", "t": "Nach zwei Bandscheibenvorfällen hat mein Arzt gesagt: Uwe, entweder du hörst auf, oder du sitzt bald im Rollstuhl." },
+    { "s": "janssen", "t": "Im Rufbus ist das was ganz anderes. Ich sitz nie länger als zwei Stunden am Stück, steig ständig aus, helf jemandem mit dem Rollator, und das tut mir richtig gut." },
+    { "s": "mod", "t": "Ein Kritikpunkt, den man öfter hört, sind die Umwege. Der Bus fährt ja nicht immer auf direktem Weg." },
+    { "s": "janssen", "t": "Ja, das stimmt. Der Computer sammelt Leute ein, die ungefähr in dieselbe Richtung wollen, und dann kann eine Fahrt, die mit dem Auto zehn Minuten dauert, auch mal fünfundzwanzig Minuten dauern." },
+    { "s": "janssen", "t": "Da gibt's schon mal Gemecker. Aber ich sag dann immer: Das ist ja gerade der Witz an der Sache. Je mehr Leute sich einen Bus teilen, desto günstiger wird es für alle und desto weniger Autos fahren rum." },
+    { "s": "mod", "t": "Sie fahren einen Elektrobus. Klappt das hier draußen auf dem Land?" },
+    { "s": "janssen", "t": "Im Sommer prima, da komm ich mit einer Ladung locker durch die ganze Schicht." },
+    { "s": "janssen", "t": "Im Winter, wenn es friert und ich die Heizung brauche, reicht der Akku aber nur bis zum frühen Nachmittag. Dann muss ich in der Mittagspause an die Ladesäule, ob ich will oder nicht." },
+    { "s": "mod", "t": "Gibt es Fahrgäste, die Ihnen besonders ans Herz gewachsen sind?" },
+    { "s": "janssen", "t": "Oh ja. Frau Gerdes zum Beispiel, die ist einundneunzig und fährt jeden Donnerstag zum Friseur nach Wiesmoor." },
+    { "s": "janssen", "t": "Die bringt mir jedes Mal eine Thermoskanne Tee mit, mit Kluntjes natürlich, und erzählt mir die neuesten Geschichten aus dem Dorf. Ich glaub, der Friseur ist für sie eher Nebensache." },
+    { "s": "janssen", "t": "Einmal hat sie sogar angerufen und gefragt, ob ich ihren Kater allein zum Tierarzt fahren kann. Das musste ich leider ablehnen, Tiere fahren bei uns nur mit Begleitung." },
+    { "s": "mod", "t": "Wie geht es denn mit dem Fehnflitzer weiter? Das war ja zunächst ein Modellprojekt." },
+    { "s": "janssen", "t": "Genau, das lief erst mal auf drei Jahre. Und eine Weile stand es ziemlich auf der Kippe, weil jede Fahrt den Landkreis natürlich mehr kostet als ein normaler Linienbus." },
+    { "s": "janssen", "t": "Im Oktober hat der Kreistag dann aber beschlossen, dass es weitergeht, erst mal für vier weitere Jahre. Da haben wir in der Zentrale ordentlich gefeiert." },
+    { "s": "mod", "t": "Das heißt, alles bleibt, wie es ist?" },
+    { "s": "janssen", "t": "Nicht ganz. Am Wochenende fahren wir ab Januar nur noch bis Mitternacht und nicht mehr bis zwei Uhr nachts. Darüber sind die Jugendlichen natürlich nicht gerade begeistert." },
+    { "s": "mod", "t": "Zum Schluss: Kann so ein Rufbus das Auto auf dem Land ersetzen?" },
+    { "s": "janssen", "t": "Ganz ehrlich? Für die meisten Familien hier nicht, da mach ich mir nichts vor. Die Wege sind zu weit, und mit drei Kindern und dem Wocheneinkauf nimmt man halt das Auto." },
+    { "s": "janssen", "t": "Aber den Zweitwagen, den können sich viele inzwischen sparen. Wir haben einige Stammkunden, die ihr zweites Auto tatsächlich verkauft haben, und das ist doch schon mal was, ne?" },
+    { "s": "mod", "t": "Herr Janssen, vielen Dank, dass Sie heute vom Steuer ins Studio gewechselt sind!" },
+    { "s": "janssen", "t": "Gern geschehen. Und wer mal mitfahren will: einfach anrufen. Ich bin der mit dem Bart." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Wer mit dem Fehnflitzer fahren will, muss die Fahrt spätestens am Vortag anmelden.",
+      "answer": false,
+      "explanation": "Booking the evening before was the rule for the old shared taxi („Früher … Anrufsammeltaxi“). For the new bus: „Beim Fehnflitzer reicht es, wenn man eine halbe Stunde vorher bucht“.",
+      "explanationDe": "Am Vorabend anrufen musste man beim alten Anrufsammeltaxi („Früher …“). Für den neuen Bus gilt: „Beim Fehnflitzer reicht es, wenn man eine halbe Stunde vorher bucht“.",
+      "evidence": "Beim Fehnflitzer reicht es, wenn man eine halbe Stunde vorher bucht"
+    },
+    {
+      "n": 2,
+      "text": "Fahrgäste ohne Smartphone können ihre Fahrt über eine Telefonzentrale buchen.",
+      "answer": true,
+      "explanation": "Without a smartphone you simply call: „Der ruft einfach in der Zentrale in Aurich an“, and the staff there enter the trip into the system.",
+      "explanationDe": "Ohne Smartphone ruft man einfach an: „Der ruft einfach in der Zentrale in Aurich an“, und dort wird die Fahrt ins System eingetragen.",
+      "evidence": "Der ruft einfach in der Zentrale in Aurich an."
+    },
+    {
+      "n": 3,
+      "text": "Die meisten Fahrgäste des Rufbusses sind ältere Menschen.",
+      "answer": false,
+      "explanation": "That was the expectation of the presenter and of the organisers („Das dachten wir am Anfang auch“). The statistics show: „Mehr als die Hälfte unserer Fahrgäste sind Jugendliche“.",
+      "explanationDe": "Das hat die Moderatorin vermutet, und die Organisatoren dachten es am Anfang auch. Die Statistik zeigt aber: „Mehr als die Hälfte unserer Fahrgäste sind Jugendliche“.",
+      "evidence": "Mehr als die Hälfte unserer Fahrgäste sind Jugendliche"
+    },
+    {
+      "n": 4,
+      "text": "Herr Janssen hat das Fernfahren vor allem seiner Familie zuliebe aufgegeben.",
+      "answer": false,
+      "explanation": "He admits that his wife is happy to have him home, but: „Aber der eigentliche Grund war mein Rücken“ – after two slipped discs his doctor told him to stop.",
+      "explanationDe": "Er gibt zu, dass sich seine Frau freut, aber: „Aber der eigentliche Grund war mein Rücken“ – nach zwei Bandscheibenvorfällen hat ihm sein Arzt geraten aufzuhören.",
+      "evidence": "Aber der eigentliche Grund war mein Rücken."
+    },
+    {
+      "n": 5,
+      "text": "Mit dem Rufbus ist man manchmal mehr als doppelt so lange unterwegs wie mit dem Auto.",
+      "answer": true,
+      "explanation": "Because the bus collects several passengers, a trip that takes ten minutes by car can „auch mal fünfundzwanzig Minuten dauern“ – that is two and a half times as long.",
+      "explanationDe": "Weil der Bus mehrere Fahrgäste einsammelt, kann eine Fahrt, die mit dem Auto zehn Minuten dauert, „auch mal fünfundzwanzig Minuten dauern“ – also zweieinhalbmal so lange.",
+      "evidence": "auch mal fünfundzwanzig Minuten dauern"
+    },
+    {
+      "n": 6,
+      "text": "In der kalten Jahreszeit muss Herr Janssen den Bus während seiner Schicht zwischendurch aufladen.",
+      "answer": true,
+      "explanation": "In summer one charge lasts the whole shift. In winter the battery only lasts until early afternoon: „Dann muss ich in der Mittagspause an die Ladesäule“.",
+      "explanationDe": "Im Sommer reicht eine Ladung für die ganze Schicht. Im Winter hält der Akku nur bis zum frühen Nachmittag: „Dann muss ich in der Mittagspause an die Ladesäule“.",
+      "evidence": "Dann muss ich in der Mittagspause an die Ladesäule"
+    },
+    {
+      "n": 7,
+      "text": "Herr Janssen vermutet, dass es Frau Gerdes gar nicht so sehr um den Friseurbesuch geht.",
+      "answer": true,
+      "explanation": "She brings tea and tells him the village news, and he says: „Ich glaub, der Friseur ist für sie eher Nebensache“ – the company matters more to her.",
+      "explanationDe": "Sie bringt Tee mit und erzählt die Neuigkeiten aus dem Dorf, und er sagt: „Ich glaub, der Friseur ist für sie eher Nebensache“ – die Gesellschaft ist ihr wichtiger.",
+      "evidence": "Ich glaub, der Friseur ist für sie eher Nebensache."
+    },
+    {
+      "n": 8,
+      "text": "Ob der Rufbus nach dem Modellprojekt weiterfährt, ist noch nicht entschieden.",
+      "answer": false,
+      "explanation": "Its future was uncertain for a while („stand es ziemlich auf der Kippe“), but „Im Oktober hat der Kreistag dann aber beschlossen, dass es weitergeht“ – for four more years.",
+      "explanationDe": "Eine Weile war die Zukunft unsicher („stand es ziemlich auf der Kippe“), aber „Im Oktober hat der Kreistag dann aber beschlossen, dass es weitergeht“ – für vier weitere Jahre.",
+      "evidence": "Im Oktober hat der Kreistag dann aber beschlossen, dass es weitergeht"
+    },
+    {
+      "n": 9,
+      "text": "Ab Januar ist der Rufbus am Wochenende nachts länger im Einsatz als bisher.",
+      "answer": false,
+      "explanation": "It is the other way round: from January it runs „nur noch bis Mitternacht und nicht mehr bis zwei Uhr nachts“ – that is why the teenagers are not happy.",
+      "explanationDe": "Es ist umgekehrt: Ab Januar fährt er „nur noch bis Mitternacht und nicht mehr bis zwei Uhr nachts“ – deshalb sind die Jugendlichen nicht begeistert.",
+      "evidence": "nur noch bis Mitternacht und nicht mehr bis zwei Uhr nachts"
+    },
+    {
+      "n": 10,
+      "text": "Herr Janssen meint, dass viele Haushalte dank des Rufbusses ohne zweites Auto auskommen.",
+      "answer": true,
+      "explanation": "Most families still need one car („Für die meisten Familien hier nicht“), but „den Zweitwagen, den können sich viele inzwischen sparen“ – some regular passengers have sold theirs.",
+      "explanationDe": "Ein Auto brauchen die meisten Familien weiterhin („Für die meisten Familien hier nicht“), aber „den Zweitwagen, den können sich viele inzwischen sparen“ – einige Stammkunden haben ihren verkauft.",
+      "evidence": "Aber den Zweitwagen, den können sich viele inzwischen sparen."
+    }
+  ],
+  "glossary": [
+    { "de": "der Rufbus", "en": "on-demand bus (booked by app or phone)" },
+    { "de": "das Anrufsammeltaxi", "en": "shared taxi that must be booked by phone" },
+    { "de": "heilfroh sein", "en": "to be extremely relieved" },
+    { "de": "etwas kleinreden", "en": "to play something down" },
+    { "de": "der Bandscheibenvorfall", "en": "slipped disc" },
+    { "de": "das Gemecker (ugs.)", "en": "grumbling, moaning" },
+    { "de": "der Witz an der Sache", "en": "the whole point of it" },
+    { "de": "die Ladesäule", "en": "charging station" },
+    { "de": "der Kluntje (ostfries.)", "en": "lump of rock sugar for East Frisian tea" },
+    { "de": "auf der Kippe stehen", "en": "to hang in the balance" },
+    { "de": "der Zweitwagen", "en": "second car" },
+    { "de": "der Stammkunde / die Stammkundin", "en": "regular customer" }
+  ]
+}

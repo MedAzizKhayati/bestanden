@@ -1,0 +1,116 @@
+{
+  "id": "hoeren-1-07",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Radio Seeland: Nachrichten am Abend",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "sprecher", "name": "Reto Gerber", "gender": "m", "age": "adult", "role": "Nachrichtensprecher" },
+    { "id": "sprecherin", "name": "Nadia Steiner", "gender": "f", "age": "adult", "role": "Nachrichtensprecherin" }
+  ],
+  "intro": [
+    { "s": "sprecher", "t": "Guten Abend, hier ist Radio Seeland mit den Nachrichten um achtzehn Uhr. Am Mikrofon: Reto Gerber und Nadia Steiner." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: Abstimmung über eine Velobrücke",
+      "script": [
+        { "s": "sprecher", "t": "Aarwilen: Die neue Velobrücke über die Aare kann gebaut werden. Die Stimmberechtigten haben dem Kredit von 7,8 Millionen Franken heute an der Urne zugestimmt – allerdings äußerst knapp, mit nur 43 Stimmen Unterschied." },
+        { "s": "sprecher", "t": "Der Gemeinderat hatte das Projekt vor allem mit der Sicherheit der Schulkinder begründet, die heute mit dem Velo durch den dichten Verkehr im Dorfzentrum fahren müssen." },
+        { "s": "sprecher", "t": "Die Gegner hielten die Brücke für zu teuer und hätten einen Velostreifen auf der bestehenden Straßenbrücke vorgezogen. Baubeginn ist im kommenden Frühling." }
+      ],
+      "statement": "Eine knappe Mehrheit der Abstimmenden in Aarwilen hat sich für den Bau der Velobrücke ausgesprochen.",
+      "answer": true,
+      "explanation": "The voters „haben dem Kredit … zugestimmt – allerdings äußerst knapp, mit nur 43 Stimmen Unterschied“. The majority was narrow, but it was a majority: the bridge will be built. The opponents' criticism of the cost is the trap.",
+      "explanationDe": "Die Stimmberechtigten „haben dem Kredit … zugestimmt – allerdings äußerst knapp, mit nur 43 Stimmen Unterschied“. Die Mehrheit war knapp, aber es war eine Mehrheit: Die Brücke wird gebaut. Die Kritik der Gegner an den Kosten ist die Falle.",
+      "evidence": "haben dem Kredit von 7,8 Millionen Franken heute an der Urne zugestimmt – allerdings äußerst knapp"
+    },
+    {
+      "n": 2,
+      "label": "Meldung: Geburtenabteilung im Regionalspital",
+      "script": [
+        { "s": "sprecherin", "t": "Seewil: Das Regionalspital schließt Ende Jahr seine Geburtenabteilung. Werdende Mütter aus der Region müssen künftig nach Biel oder Bern ausweichen." },
+        { "s": "sprecherin", "t": "Die Spitalleitung betont, der Entscheid sei nicht aus finanziellen Gründen gefallen. Es fehle vielmehr an Hebammen und Fachärztinnen, mehrere Stellen seien seit über einem Jahr unbesetzt." },
+        { "s": "sprecherin", "t": "Ein sicherer Betrieb rund um die Uhr sei deshalb nicht mehr gewährleistet. Ein Komitee aus der Bevölkerung hat bereits über 3.000 Unterschriften gegen die Schließung gesammelt." }
+      ],
+      "statement": "Das Spital in Seewil gibt seine Geburtenabteilung auf, weil nicht genug Fachpersonal zu finden ist.",
+      "answer": true,
+      "explanation": "The hospital says money was not the reason („nicht aus finanziellen Gründen“): „Es fehle vielmehr an Hebammen und Fachärztinnen“. The missing midwives and specialists are the „Fachpersonal“ in the statement.",
+      "explanationDe": "Laut Spital war Geld nicht der Grund („nicht aus finanziellen Gründen“): „Es fehle vielmehr an Hebammen und Fachärztinnen“. Die fehlenden Hebammen und Fachärztinnen sind das „Fachpersonal“ aus der Aussage.",
+      "evidence": "Es fehle vielmehr an Hebammen und Fachärztinnen"
+    },
+    {
+      "n": 3,
+      "label": "Meldung: Lehrstellen in der Uhrenindustrie",
+      "script": [
+        { "s": "sprecherin", "t": "Biel: Der Uhrenhersteller Montaval stellt in diesem Sommer so viele Lernende ein wie noch nie in seiner Geschichte – und das, obwohl die Exporte zurückgehen." },
+        { "s": "sprecherin", "t": "Insgesamt 36 junge Menschen beginnen eine Lehre, unter anderem als Uhrmacherin, Polymechaniker oder Kauffrau. Das sind fast doppelt so viele wie im Vorjahr." },
+        { "s": "sprecherin", "t": "Die Firmenleitung begründet den Schritt mit dem Fachkräftemangel: In den nächsten zehn Jahren werde rund ein Viertel der Belegschaft pensioniert." },
+        { "s": "sprecherin", "t": "Für das laufende Jahr rechnet Montaval wegen der schwächeren Nachfrage aus Asien mit einem Umsatzrückgang von rund acht Prozent." }
+      ],
+      "statement": "Weil die Exporte zurückgehen, bildet der Bieler Uhrenhersteller in diesem Jahr weniger Lernende aus.",
+      "answer": false,
+      "explanation": "The opposite is true: despite falling exports, Montaval „stellt in diesem Sommer so viele Lernende ein wie noch nie“ – almost twice as many as last year. The falling exports only affect its turnover.",
+      "explanationDe": "Das Gegenteil ist richtig: Trotz sinkender Exporte stellt Montaval „so viele Lernende ein wie noch nie“ – fast doppelt so viele wie im Vorjahr. Die sinkenden Exporte betreffen nur den Umsatz.",
+      "evidence": "stellt in diesem Sommer so viele Lernende ein wie noch nie in seiner Geschichte"
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Biber im Großen Moos",
+      "script": [
+        { "s": "sprecher", "t": "Seeland: Im Großen Moos sorgen Biber für Ärger bei den Gemüsebauern. Die Tiere haben an mehreren Bächen Dämme gebaut, einzelne Felder stehen unter Wasser, und es drohen Ernteausfälle." },
+        { "s": "sprecher", "t": "Der Kanton will die Dämme trotzdem nicht entfernen lassen. Stattdessen werden in einem Pilotprojekt Rohre durch die Dämme gelegt, über die das Wasser kontrolliert abfließen kann." },
+        { "s": "sprecher", "t": "Betroffene Betriebe erhalten zudem eine Entschädigung. Vor fünfzig Jahren galt der Biber in der Region als ausgestorben, heute leben hier wieder rund hundert Tiere." }
+      ],
+      "statement": "Um die Felder der Gemüsebauern zu schützen, lässt der Kanton die Dämme der Biber beseitigen.",
+      "answer": false,
+      "explanation": "„Der Kanton will die Dämme trotzdem nicht entfernen lassen.“ Instead, pipes are laid through the dams so that the water drains away in a controlled way, and the farmers receive compensation.",
+      "explanationDe": "„Der Kanton will die Dämme trotzdem nicht entfernen lassen.“ Stattdessen werden Rohre durch die Dämme gelegt, damit das Wasser kontrolliert abfließt, und die Bauern bekommen eine Entschädigung.",
+      "evidence": "Der Kanton will die Dämme trotzdem nicht entfernen lassen."
+    },
+    {
+      "n": 5,
+      "label": "Meldung: das Wetter",
+      "script": [
+        { "s": "sprecherin", "t": "Und nun das Wetter: Heute Abend bläst im Berner Oberland noch kräftiger Föhn mit Spitzen von über hundert Kilometern pro Stunde. Im Mittelland bleibt es mild und weitgehend trocken." },
+        { "s": "sprecherin", "t": "In der Nacht bricht der Föhn zusammen, und von Westen zieht eine Kaltfront mit Regen auf." },
+        { "s": "sprecherin", "t": "Morgen sinkt die Schneefallgrenze bis auf etwa 800 Meter, im Seeland werden nur noch sechs bis neun Grad erreicht. Am Wochenende wird es wieder freundlicher, bleibt aber deutlich kühler als heute." }
+      ],
+      "statement": "Der Föhn sorgt auch morgen im Seeland noch für mildes und trockenes Wetter.",
+      "answer": false,
+      "explanation": "The föhn ends tonight: „In der Nacht bricht der Föhn zusammen“, a cold front brings rain, and tomorrow it is only six to nine degrees, with snow down to about 800 metres. Mild and dry describes today, not tomorrow.",
+      "explanationDe": "Der Föhn ist heute Nacht vorbei: „In der Nacht bricht der Föhn zusammen“, eine Kaltfront bringt Regen, und morgen gibt es nur sechs bis neun Grad und Schnee bis auf etwa 800 Meter. Mild und trocken ist es nur heute.",
+      "evidence": "In der Nacht bricht der Föhn zusammen, und von Westen zieht eine Kaltfront mit Regen auf."
+    }
+  ],
+  "unscored": [
+    {
+      "after": 2,
+      "label": "Meldung: Bauarbeiten an der Bahnstrecke",
+      "script": [
+        { "s": "sprecher", "t": "Zwischen Seewil und Aarwilen verkehren ab Montag während drei Wochen keine Züge. Grund sind umfangreiche Arbeiten an Gleisen und Fahrleitungen." },
+        { "s": "sprecher", "t": "Die Bahn setzt Ersatzbusse ein; Reisende müssen mit einer bis zu zwanzig Minuten längeren Fahrzeit rechnen. Velos können in den Bussen nicht mitgenommen werden." },
+        { "s": "sprecher", "t": "Pendlerinnen und Pendlern wird empfohlen, wenn möglich eine frühere Verbindung zu wählen und vor der Abfahrt den Online-Fahrplan zu prüfen." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecher", "t": "Das waren die Nachrichten auf Radio Seeland." }
+  ],
+  "glossary": [
+    { "de": "das Velo", "en": "bicycle (Swiss)" },
+    { "de": "die Stimmberechtigten", "en": "people entitled to vote" },
+    { "de": "an der Urne zustimmen", "en": "to vote yes at the ballot box" },
+    { "de": "der Entscheid", "en": "decision (Swiss)" },
+    { "de": "das Spital", "en": "hospital (Swiss, Austrian)" },
+    { "de": "werdende Mütter", "en": "expectant mothers" },
+    { "de": "die Lernenden", "en": "apprentices (Swiss)" },
+    { "de": "pensioniert werden", "en": "to retire" },
+    { "de": "der Ernteausfall", "en": "crop loss" },
+    { "de": "die Entschädigung", "en": "compensation" },
+    { "de": "der Föhn", "en": "warm, dry wind from the Alps" },
+    { "de": "die Schneefallgrenze", "en": "snow line" }
+  ]
+}

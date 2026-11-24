@@ -32,7 +32,7 @@ export default async function SpeakingPartPage(props: PageProps<"/[locale]/[exam
   const { section, part } = requirePart(exam, "sprechen", partSlug);
   const ui = SECTION_UI.sprechen;
   const sets = getSetSummaries(exam.id, part.id).map((s) => ({ ...s, href: setHref(exam, part, s.number) }));
-  const bank = getPhraseBanks(locale).find((b) => b.context === part.id);
+  const bank = getPhraseBanks(locale).find((b) => b.context === part.id && b.level === exam.level);
 
   return (
     <PageContainer wide>

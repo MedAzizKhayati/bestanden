@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-05",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Vorsorge, Beratung und Selbsthilfe",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ihr Kollege möchte seinen Stress besser bewältigen, hat aber nur unregelmäßig und häufig erst spätabends Zeit.",
+      "answer": "c",
+      "explanation": "He needs flexible times. With „Atempause“ (c) you train „ganz nach Ihrem eigenen Rhythmus“, and the units can be used „jederzeit … – auch nachts oder unterwegs“. The course „Gelassen im Alltag“ (i) teaches similar skills, but at a fixed time: „dienstags von 19 bis 21 Uhr“.",
+      "explanationDe": "Er braucht flexible Zeiten. Mit „Atempause“ (c) trainierst du „ganz nach Ihrem eigenen Rhythmus“, und die Einheiten kann man „jederzeit … – auch nachts oder unterwegs“ abrufen. Der Kurs „Gelassen im Alltag“ (i) hat ähnliche Inhalte, aber einen festen Termin: „dienstags von 19 bis 21 Uhr“."
+    },
+    {
+      "n": 2,
+      "text": "Ihre Mutter möchte sich vor einer Rundreise durch Indien im nächsten Frühjahr über nötige Impfungen informieren.",
+      "answer": "e",
+      "explanation": "The Gesundheitsamt (e) advises „individuell zu Ihrem Reiseziel“ and gives the vaccinations „direkt vor Ort“; next spring leaves enough time for the recommended „mindestens sechs Wochen vor der Abreise“. Don't be put off by „privat abgerechnet“ – the situation says nothing about costs.",
+      "explanationDe": "Das Gesundheitsamt (e) berät „individuell zu Ihrem Reiseziel“ und impft „direkt vor Ort“. Bis zum nächsten Frühjahr ist genug Zeit für die empfohlenen „mindestens sechs Wochen vor der Abreise“. Dass die Kosten „privat abgerechnet“ werden, spielt keine Rolle – über Geld sagt die Situation nichts."
+    },
+    {
+      "n": 3,
+      "text": "Ihr Bruder und seine schwangere Frau möchten vor der Geburt lernen, wie man Säuglingen im Notfall hilft.",
+      "answer": "k",
+      "explanation": "„Erste Hilfe am Kind“ (k) is for „werdende Eltern“ and deals with „Notfälle bei Babys und Kleinkindern“. The rule „dass Säuglinge nicht mitgebracht werden können“ doesn't matter – the baby isn't born yet. „Rückbildung mit Baby“ (b) is a fitness course for mothers after the birth.",
+      "explanationDe": "„Erste Hilfe am Kind“ (k) ist für „werdende Eltern“ gedacht und behandelt „Notfälle bei Babys und Kleinkindern“. Dass „Säuglinge nicht mitgebracht werden können“, ist egal – das Baby ist ja noch nicht geboren. „Rückbildung mit Baby“ (b) ist ein Fitnesskurs für Mütter nach der Geburt."
+    },
+    {
+      "n": 4,
+      "text": "Ihre Tante pflegt ihren demenzkranken Ehemann und sucht eine Gesprächsgruppe, die sich vormittags trifft.",
+      "answer": "x",
+      "explanation": "The Gesprächskreis „Vergissmeinnicht“ (g) is exactly „Für Angehörige von Menschen mit Demenz“, but it meets „von 17 bis 19 Uhr“ – not in the morning. The other groups (f, j) are for young people with chronic illnesses and for people with tinnitus, so x.",
+      "explanationDe": "Der Gesprächskreis „Vergissmeinnicht“ (g) ist genau „Für Angehörige von Menschen mit Demenz“, trifft sich aber „von 17 bis 19 Uhr“ – also nicht vormittags. Die anderen Gruppen (f, j) sind für junge chronisch Kranke und für Menschen mit Tinnitus. Also x."
+    },
+    {
+      "n": 5,
+      "text": "Ihr Schwager leidet seit Monaten unter Ohrgeräuschen und möchte zu Hause regelmäßig dagegen trainieren.",
+      "answer": "h",
+      "explanation": "„Ohrwerk“ (h) is a „Digitale Therapie bei Tinnitus“, and its daily exercises „lassen sich bequem zu Hause erledigen“. The self-help group (j) is also about „dauerhafte Ohrgeräusche“, but it is a monthly meeting „im Nachbarschaftszentrum“, not training at home.",
+      "explanationDe": "„Ohrwerk“ (h) ist eine „Digitale Therapie bei Tinnitus“, und die täglichen Übungen „lassen sich bequem zu Hause erledigen“. In der Selbsthilfegruppe (j) geht es auch um „dauerhafte Ohrgeräusche“, aber das ist ein monatliches Treffen „im Nachbarschaftszentrum“, kein Training zu Hause."
+    },
+    {
+      "n": 6,
+      "text": "Eine Kollegin möchte Entspannung gemeinsam mit anderen vor Ort lernen und den Großteil der Kosten erstattet bekommen.",
+      "answer": "i",
+      "explanation": "„Gelassen im Alltag“ (i) takes place „in einer festen Gruppe“ at the Familienbildungsstätte, and health insurers refund „bis zu 80 Prozent der Gebühr“. „Atempause“ (c) is also paid for by many insurers, but you practise alone with an app.",
+      "explanationDe": "„Gelassen im Alltag“ (i) findet „in einer festen Gruppe“ in der Familienbildungsstätte statt, und die Kassen erstatten „bis zu 80 Prozent der Gebühr“. „Atempause“ (c) bezahlen zwar auch viele Kassen, aber dort übst du allein mit einer App."
+    },
+    {
+      "n": 7,
+      "text": "Ein Bekannter ohne Krankenversicherung hat seit Tagen hohes Fieber und möchte sich behandeln lassen, ohne seinen Namen anzugeben.",
+      "answer": "d",
+      "explanation": "The Medizinische Anlaufstelle (d) treats people without insurance „kostenlos und auf Wunsch anonym; Namen oder Ausweisdokumente werden nicht verlangt“, and „akute Erkrankungen“ such as a high fever are treated there. The Gesundheitsamt (e) needs no referral either, but it only offers travel advice and vaccinations.",
+      "explanationDe": "Die Medizinische Anlaufstelle (d) behandelt Menschen ohne Versicherung „kostenlos und auf Wunsch anonym; Namen oder Ausweisdokumente werden nicht verlangt“, und dort werden „akute Erkrankungen“ wie hohes Fieber behandelt. Das Gesundheitsamt (e) braucht auch keine Überweisung, bietet aber nur Reiseberatung und Impfungen an."
+    },
+    {
+      "n": 8,
+      "text": "Ihr Großvater möchte sein Gehör kostenlos überprüfen lassen, ohne vorher einen Termin vereinbaren zu müssen.",
+      "answer": "l",
+      "explanation": "In the Hörmobil (l) the test is „kostenlos, unverbindlich und ohne vorherige Anmeldung“. „Hörakustik Klangreich“ (a) also tests for free, but asks for a „vorherige Terminvereinbarung“.",
+      "explanationDe": "Im Hörmobil (l) ist der Hörtest „kostenlos, unverbindlich und ohne vorherige Anmeldung“. „Hörakustik Klangreich“ (a) testet auch kostenlos, bittet aber um „vorherige Terminvereinbarung“."
+    },
+    {
+      "n": 9,
+      "text": "Ihre Schwester hat vor acht Wochen entbunden und möchte gemeinsam mit ihrem Säugling an einem Fitnesskurs teilnehmen.",
+      "answer": "b",
+      "explanation": "„Rückbildung mit Baby“ (b) is a course for mothers after the birth, and „Ihr Baby ist dabei herzlich willkommen“; eight weeks after the birth she can still start („spätestens vier Monate nach der Entbindung“). „Erste Hilfe am Kind“ (k), on the other hand, says „dass Säuglinge nicht mitgebracht werden können“ – and it is not a fitness course.",
+      "explanationDe": "„Rückbildung mit Baby“ (b) ist ein Kurs für Mütter nach der Geburt, und „Ihr Baby ist dabei herzlich willkommen“; acht Wochen nach der Geburt kann sie noch anfangen („spätestens vier Monate nach der Entbindung“). Bei „Erste Hilfe am Kind“ (k) dagegen können „Säuglinge nicht mitgebracht werden“ – und das ist auch kein Fitnesskurs."
+    },
+    {
+      "n": 10,
+      "text": "Ihre Tochter studiert, hat eine rheumatische Erkrankung und möchte sich mit Betroffenen in ihrem Alter austauschen.",
+      "answer": "f",
+      "explanation": "„Jung und chronisch krank“ (f) is a group „für Menschen zwischen 18 und 35“ with illnesses „wie Rheuma“. The tinnitus group (j) welcomes „Betroffene jeden Alters“, but it is about hearing problems, not rheumatism.",
+      "explanationDe": "„Jung und chronisch krank“ (f) ist eine Gruppe „für Menschen zwischen 18 und 35“ mit Krankheiten „wie Rheuma“. Die Tinnitus-Gruppe (j) begrüßt zwar „Betroffene jeden Alters“, aber dort geht es um Probleme mit dem Hören, nicht um Rheuma."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Hörakustik Klangreich",
+      "subheading": "Ihr Meisterbetrieb in der Fußgängerzone",
+      "lines": [],
+      "text": "Gutes Hören bedeutet Lebensqualität – und je früher eine Hörminderung erkannt wird, desto besser lässt sie sich ausgleichen. In unserem Fachgeschäft bieten wir Ihnen einen ausführlichen Hörtest an, der für Sie selbstverständlich kostenlos ist. Da wir uns für jede Kundin und jeden Kunden mindestens eine Stunde Zeit nehmen, bitten wir um vorherige Terminvereinbarung. Auf Wunsch können Sie anschließend verschiedene Hörgeräte zwei Wochen lang unverbindlich im Alltag testen. Liegt eine ärztliche Verordnung vor, rechnen wir direkt mit Ihrer Krankenkasse ab. Für Menschen, die nicht mehr mobil sind, kommen wir nach Absprache auch ins Haus.",
+      "footer": "Königstraße 41 · Tel. 0911 2350718 · Montag bis Freitag 9–18 Uhr, Samstag 9–13 Uhr"
+    },
+    {
+      "key": "b",
+      "heading": "Rückbildung mit Baby",
+      "subheading": "Ein Kurs für Mütter in den ersten Monaten nach der Geburt",
+      "lines": [],
+      "text": "Schwangerschaft und Geburt verlangen dem Körper viel ab. In unserem Kurs stärken Sie gezielt Beckenboden, Bauch und Rücken und gewinnen Schritt für Schritt Ihre frühere Belastbarkeit zurück. Ihr Baby ist dabei herzlich willkommen: Es liegt auf einer Decke neben Ihnen und wird, wo es passt, in die Übungen einbezogen. Geleitet wird der Kurs von einer erfahrenen Hebamme. Die Krankenkasse übernimmt die Kosten vollständig, sofern Sie spätestens vier Monate nach der Entbindung beginnen und den Kurs vor dem Ende des neunten Lebensmonats Ihres Kindes abschließen. Wir treffen uns zehnmal, jeweils donnerstags um 10 Uhr.",
+      "footer": "Hebammenpraxis Morgenstern, Lessingstraße 8 · Tel. 0911 6603145"
+    },
+    {
+      "key": "c",
+      "heading": "Atempause",
+      "subheading": "Die App für mehr Ruhe – wann und wo Sie wollen",
+      "lines": [],
+      "text": "Nicht jeder kann sich jede Woche zur selben Zeit für einen Kurs freinehmen. Mit „Atempause“ trainieren Sie Entspannung ganz nach Ihrem eigenen Rhythmus: Zehn Einheiten von je 20 Minuten mit Videos, Audioübungen und einem persönlichen Stresstagebuch lassen sich jederzeit abrufen – auch nachts oder unterwegs. Das Programm wurde von Psychologinnen entwickelt und ist als Präventionskurs anerkannt. Für Versicherte vieler gesetzlicher Krankenkassen ist die Teilnahme deshalb kostenlos, alle anderen zahlen einmalig 69 Euro. Bitte beachten Sie: Die App ersetzt keine Psychotherapie. Bei ernsthaften seelischen Beschwerden wenden Sie sich bitte an Ihre Hausarztpraxis.",
+      "footer": "Für Android und iOS · www.atempause-app.de"
+    },
+    {
+      "key": "d",
+      "heading": "Medizinische Anlaufstelle am Westbahnhof",
+      "subheading": "Hilfe für Menschen ohne Krankenversicherung",
+      "lines": [],
+      "text": "Auch in Deutschland leben Menschen, die keinen ausreichenden Krankenversicherungsschutz haben – etwa nach einer gescheiterten Selbstständigkeit oder wegen eines ungeklärten Aufenthaltsstatus. In unserer Anlaufstelle behandeln ehrenamtlich tätige Ärztinnen und Ärzte akute Erkrankungen und leichte Verletzungen kostenlos und auf Wunsch anonym; Namen oder Ausweisdokumente werden nicht verlangt. Bei Bedarf stehen Dolmetscherinnen und Dolmetscher für mehrere Sprachen zur Verfügung. Außerdem unterstützen wir Sie dabei, wieder in eine Krankenversicherung aufgenommen zu werden. Zahnärztliche Behandlungen und Operationen können wir allerdings nicht anbieten.",
+      "footer": "Bahnhofstraße 60, Hinterhaus · Offene Sprechstunde montags und mittwochs 15–18 Uhr, ohne Termin"
+    },
+    {
+      "key": "e",
+      "heading": "Reisemedizinische Beratung im Gesundheitsamt",
+      "subheading": "Gut geschützt in die Ferne",
+      "lines": [],
+      "text": "Ob Gelbfieber, Tollwut oder Malaria – wer in tropische Länder reist, sollte sich rechtzeitig über gesundheitliche Risiken informieren. Unsere Ärztinnen und Ärzte beraten Sie individuell zu Ihrem Reiseziel, prüfen Ihren Impfpass und führen die notwendigen Impfungen direkt vor Ort durch. Da manche Impfstoffe mehrfach verabreicht werden müssen, empfehlen wir, den Termin mindestens sechs Wochen vor der Abreise zu vereinbaren. Beratung und Impfungen werden privat abgerechnet; viele Krankenkassen erstatten die Kosten jedoch im Nachhinein ganz oder teilweise. Eine Überweisung ist nicht erforderlich.",
+      "footer": "Burgstraße 4, Zimmer 210 · Sprechstunden montags und mittwochs 14–17 Uhr · Tel. 0911 2317450"
+    },
+    {
+      "key": "f",
+      "heading": "Jung und chronisch krank",
+      "subheading": "Selbsthilfegruppe für Menschen zwischen 18 und 35",
+      "lines": [],
+      "text": "Studium, Berufseinstieg, Partnerschaft – und gleichzeitig eine Krankheit, die nicht wieder verschwindet: Junge Erwachsene mit chronisch-entzündlichen Erkrankungen wie Rheuma, Morbus Crohn oder Multipler Sklerose haben oft ganz andere Fragen als ältere Patientinnen und Patienten. In unserer Gruppe tauschen wir uns darüber aus, wie man Ausbildung, Freizeit und Therapie unter einen Hut bekommt, und unternehmen auch gemeinsam etwas. Wir treffen uns alle zwei Wochen montags um 19 Uhr per Videokonferenz und einmal im Monat persönlich in einem Café in der Innenstadt. Neue Gesichter sind jederzeit willkommen – schreiben Sie uns einfach eine kurze Nachricht.",
+      "footer": "Kontakt über www.jung-und-chronisch.de"
+    },
+    {
+      "key": "g",
+      "heading": "Gesprächskreis „Vergissmeinnicht“",
+      "subheading": "Für Angehörige von Menschen mit Demenz",
+      "lines": [],
+      "text": "Wer einen demenzkranken Menschen begleitet, stößt oft an seine Grenzen – körperlich wie seelisch. In unserem Gesprächskreis treffen sich pflegende Angehörige, um Erfahrungen auszutauschen, sich gegenseitig Mut zu machen und praktische Tipps für den Alltag weiterzugeben. Begleitet werden die Treffen von einer Sozialpädagogin mit langjähriger Erfahrung in der Demenzberatung. Damit Sie in Ruhe teilnehmen können, werden Ihre erkrankten Angehörigen während der Gesprächsrunde im Nebenraum von geschulten Ehrenamtlichen betreut. Wir treffen uns an jedem zweiten Mittwoch im Monat von 17 bis 19 Uhr. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich.",
+      "footer": "Gemeindehaus der Markuskirche, Kirchplatz 2 · Informationen: Tel. 0911 5590237"
+    },
+    {
+      "key": "h",
+      "heading": "Ohrwerk",
+      "subheading": "Digitale Therapie bei Tinnitus",
+      "lines": [],
+      "text": "Pfeifen, Rauschen oder Brummen im Ohr, das einfach nicht aufhört? „Ohrwerk“ ist eine zugelassene digitale Gesundheitsanwendung, die auf Erkenntnissen der Verhaltenstherapie beruht. In einem zwölfwöchigen Programm lernen Sie, Ihre Aufmerksamkeit von den Geräuschen wegzulenken, gelassener mit Belastungen umzugehen und wieder besser zu schlafen. Die täglichen Übungen dauern etwa 15 Minuten und lassen sich bequem zu Hause erledigen. Ihre Ärztin oder Ihr Arzt kann Ihnen die App verschreiben; die Kosten übernimmt dann Ihre gesetzliche Krankenkasse vollständig. Mit dem Rezept erhalten Sie von Ihrer Kasse einen Code, mit dem Sie das Programm freischalten.",
+      "footer": "Informationen für Patienten und Ärzte: www.ohrwerk-app.de"
+    },
+    {
+      "key": "i",
+      "heading": "Gelassen im Alltag",
+      "subheading": "Achtsamkeitstraining in der Gruppe",
+      "lines": [],
+      "text": "Termindruck, ständige Erreichbarkeit, private Sorgen: Wer dauerhaft unter Anspannung steht, riskiert Schlafstörungen und Erschöpfung. In unserem achtwöchigen Kurs lernen Sie in einer festen Gruppe von höchstens zwölf Personen, Warnsignale frühzeitig zu erkennen und mit einfachen Atem- und Achtsamkeitsübungen gegenzusteuern. Der Kurs findet dienstags von 19 bis 21 Uhr in den Räumen der Familienbildungsstätte statt und kostet 240 Euro. Da er als Präventionskurs zertifiziert ist, erstatten die meisten gesetzlichen Krankenkassen bis zu 80 Prozent der Gebühr, sofern Sie an mindestens sechs der acht Termine teilgenommen haben.",
+      "footer": "Familienbildungsstätte, Am Wall 12 · Anmeldung: Tel. 0911 4402318"
+    },
+    {
+      "key": "j",
+      "heading": "Selbsthilfegruppe Tinnitus und Hörsturz",
+      "subheading": "Gemeinsam statt allein",
+      "lines": [],
+      "text": "Wer nach einem Hörsturz oder durch dauerhafte Ohrgeräusche belastet ist, fühlt sich von seiner Umgebung oft nicht verstanden. In unserer Gruppe kommen Betroffene jeden Alters zusammen, um offen über ihre Erfahrungen zu sprechen. Wir informieren über Behandlungsmöglichkeiten, laden regelmäßig Fachleute zu Vorträgen ein und probieren gemeinsam Entspannungsmethoden aus. Die Treffen finden am ersten Donnerstag jedes Monats um 18.30 Uhr im Nachbarschaftszentrum statt; ein ruhiger Raum mit guter Akustik ist selbstverständlich. Die Teilnahme ist kostenlos, Spenden sind willkommen. Neue Mitglieder melden sich bitte vorher kurz telefonisch bei unserer Gruppensprecherin.",
+      "footer": "Nachbarschaftszentrum Süd, Weidenweg 9 · Tel. 0911 7429016"
+    },
+    {
+      "key": "k",
+      "heading": "Erste Hilfe am Kind",
+      "subheading": "Richtig handeln, wenn es darauf ankommt",
+      "lines": [],
+      "text": "Ein verschlucktes Spielzeugteil, ein Sturz vom Wickeltisch, hohes Fieber mitten in der Nacht – Notfälle bei Babys und Kleinkindern verlaufen anders als bei Erwachsenen. In unserem eintägigen Kurs lernen werdende Eltern, Großeltern und alle, die Kinder betreuen, wie man Verletzungen versorgt, Fremdkörper aus den Atemwegen entfernt und ein Kind wiederbelebt. Geübt wird an speziellen Puppen in kleinen Gruppen. Die Kurse finden samstags von 9 bis 16 Uhr statt und kosten 55 Euro pro Person; Paare zahlen 95 Euro. Bitte haben Sie Verständnis dafür, dass Säuglinge nicht mitgebracht werden können.",
+      "footer": "Kursort: Rettungswache Süd, Hafenstraße 40 · Anmeldung: www.kindernotfall-kurse.de"
+    },
+    {
+      "key": "l",
+      "heading": "Das Hörmobil kommt",
+      "subheading": "Kostenloser Hörtest in Ihrem Stadtteil",
+      "lines": [],
+      "text": "Schwerhörigkeit entwickelt sich meist schleichend – viele Betroffene bemerken erst nach Jahren, dass sie Gesprächen kaum noch folgen können. Unser umgebauter Kleinbus macht regelmäßig Station auf Marktplätzen und vor Einkaufszentren. Dort können Sie Ihr Gehör in einer schallgedämmten Kabine innerhalb von 15 Minuten überprüfen lassen – kostenlos, unverbindlich und ohne vorherige Anmeldung. Das Ergebnis wird Ihnen sofort erklärt. Hörgeräte verkaufen wir nicht; bei auffälligen Werten empfehlen wir Ihnen, eine Hals-Nasen-Ohren-Praxis aufzusuchen. Den aktuellen Tourplan mit allen Haltestellen finden Sie auf unserer Website.",
+      "footer": "Eine Aktion der Initiative „Besser hören“ · www.hoermobil-tour.de"
+    }
+  ],
+  "glossary": [
+    { "de": "der Präventionskurs", "en": "course to prevent illness (often refunded by health insurers)" },
+    { "de": "erstatten", "en": "to reimburse, to refund" },
+    { "de": "die Achtsamkeit", "en": "mindfulness" },
+    { "de": "die digitale Gesundheitsanwendung", "en": "health app that a doctor can prescribe" },
+    { "de": "verabreichen", "en": "to administer (a vaccine, a medicine)" },
+    { "de": "die Überweisung", "en": "(doctor's) referral" },
+    { "de": "entbinden / die Entbindung", "en": "to give birth / childbirth" },
+    { "de": "der Säugling", "en": "infant, baby under one year" },
+    { "de": "die Rückbildung", "en": "postnatal recovery (of the body after giving birth)" },
+    { "de": "pflegende Angehörige", "en": "family carers" },
+    { "de": "der Hörsturz", "en": "sudden hearing loss" },
+    { "de": "schleichend", "en": "gradual, creeping" }
+  ]
+}

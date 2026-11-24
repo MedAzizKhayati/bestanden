@@ -1,0 +1,286 @@
+{
+  "id": "satzgliedstellung",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 28,
+  "title": "Satzgliedstellung im Mittelfeld",
+  "titleEn": "Word order in the middle field",
+  "summary": "How to arrange objects, pronouns, adverbials and nicht between the two parts of the sentence bracket – and what may follow the bracket in the Nachfeld.",
+  "summaryDe": "Wie du Objekte, Pronomen, Angaben und nicht zwischen den beiden Teilen der Satzklammer ordnest – und was nach der Klammer im Nachfeld stehen darf.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "The **Mittelfeld** (middle field) is everything between the two parts of the **sentence bracket**: the conjugated verb on the left (in a subordinate clause: the conjunction), the other verb parts on the right. Its default order:\n\n1. **Pronouns before nouns** – and with two pronouns **accusative before dative** (es ihm).\n2. **Two nouns: dative before accusative** (dem Kunden den Vertrag).\n3. Adverbials in the order **te – ka – mo – lo**; **known** information before **new**.\n4. At the very end: elements closely tied to the verb – directions, prepositional objects, predicatives, the noun of a Nomen-Verb-Verbindung.\n\n**nicht** negating the whole sentence comes as late as possible, but **before** these final elements and before the second verb part.",
+      "mdDe": "Das **Mittelfeld** ist alles zwischen den beiden Teilen der **Satzklammer**: links das konjugierte Verb (im Nebensatz: die Konjunktion), rechts die anderen Verbteile. Die Grundordnung:\n\n1. **Pronomen vor Nomen** – und bei zwei Pronomen **Akkusativ vor Dativ** (es ihm).\n2. **Zwei Nomen: Dativ vor Akkusativ** (dem Kunden den Vertrag).\n3. Angaben in der Reihenfolge **te – ka – mo – lo**; **Bekanntes** vor **Neuem**.\n4. Ganz am Ende: Elemente, die eng zum Verb gehören – Richtungsangaben, Präpositionalobjekte, Prädikative, das Nomen einer Nomen-Verb-Verbindung.\n\n**nicht** für die Negation des ganzen Satzes steht so spät wie möglich, aber **vor** diesen Elementen am Ende und vor dem zweiten Verbteil."
+    },
+    {
+      "type": "table",
+      "heading": "The fields of a German clause",
+      "headingDe": "Die Felder eines deutschen Satzes",
+      "columns": ["Vorfeld", "Left bracket", "Mittelfeld", "Right bracket", "Nachfeld"],
+      "columnsDe": ["Vorfeld", "Linke Klammer", "Mittelfeld", "Rechte Klammer", "Nachfeld"],
+      "rows": [
+        ["Gestern", "hat", "mir der Kollege den Bericht", "geschickt.", "–"],
+        ["Ich", "rufe", "Sie morgen gegen zehn Uhr", "an.", "–"],
+        ["Wir", "müssen", "die Präsentation noch einmal", "überarbeiten,", "bevor wir sie verschicken."],
+        ["Das Projekt", "hat", "deutlich länger", "gedauert", "als geplant."],
+        ["Er", "hat", "uns", "versprochen,", "pünktlich zu sein."],
+        ["–", "…, dass", "die Firma ihren Angestellten das Gehalt", "erhöht hat.", "–"]
+      ],
+      "note": "In a subordinate clause the conjunction (dass, weil, ob …) takes the place of the left bracket, and the whole verb forms the right bracket; the Mittelfeld follows the same rules in both clause types. The Vorfeld holds exactly one element – any element can go there to link the sentence to the one before or to stress it.",
+      "noteDe": "Im Nebensatz steht die Konjunktion (dass, weil, ob …) an der Stelle der linken Klammer, und das ganze Verb bildet die rechte Klammer; das Mittelfeld folgt in beiden Satzarten denselben Regeln. Im Vorfeld steht genau ein Satzglied – jedes Satzglied kann dort stehen, um an den Satz davor anzuknüpfen oder um es zu betonen."
+    },
+    {
+      "type": "text",
+      "heading": "Objects: pronouns, dative, accusative",
+      "headingDe": "Objekte: Pronomen, Dativ, Akkusativ",
+      "md": "Three rules decide the order of objects:\n\n1. **Two nouns → dative before accusative:** Die Bank hat **dem Kunden einen Kredit** gewährt.\n2. **Two pronouns → accusative before dative:** Ich habe **es ihr** gestern gegeben. – Kannst du **sie mir** schicken?\n3. **Pronoun + noun → pronoun first:** Ich schicke **Ihnen den Vertrag** morgen. – Ich schicke **ihn Ihrer Kollegin** morgen.\n\nUnstressed personal and reflexive pronouns move to the front of the Mittelfeld – they can even stand before a subject that is a noun: Gestern hat **mich** der Hausmeister angerufen. – Zum Glück hat **sich** der Fehler schnell aufgeklärt. A pronoun subject still comes first: Gestern hat **er mich** angerufen.\n\nRule 1 is a default, not a law. A noun that brings **new information** – often with an indefinite article – moves to the right, closer to the end: Ich habe **den Vertrag einer Anwältin** gezeigt. (The contract is known, the lawyer is new.)",
+      "mdDe": "Drei Regeln bestimmen die Reihenfolge der Objekte:\n\n1. **Zwei Nomen → Dativ vor Akkusativ:** Die Bank hat **dem Kunden einen Kredit** gewährt.\n2. **Zwei Pronomen → Akkusativ vor Dativ:** Ich habe **es ihr** gestern gegeben. – Kannst du **sie mir** schicken?\n3. **Pronomen + Nomen → Pronomen zuerst:** Ich schicke **Ihnen den Vertrag** morgen. – Ich schicke **ihn Ihrer Kollegin** morgen.\n\nUnbetonte Personal- und Reflexivpronomen rücken an den Anfang des Mittelfelds – sie können sogar vor einem Subjekt stehen, das ein Nomen ist: Gestern hat **mich** der Hausmeister angerufen. – Zum Glück hat **sich** der Fehler schnell aufgeklärt. Ist das Subjekt ein Pronomen, steht es trotzdem zuerst: Gestern hat **er mich** angerufen.\n\nRegel 1 ist eine Grundregel, kein Gesetz. Ein Nomen mit **neuer Information** – oft mit unbestimmtem Artikel – rückt nach rechts, näher ans Ende: Ich habe **den Vertrag einer Anwältin** gezeigt. (Der Vertrag ist bekannt, die Anwältin ist neu.)"
+    },
+    {
+      "type": "text",
+      "heading": "Adverbials and the end of the Mittelfeld",
+      "headingDe": "Angaben und das Ende des Mittelfelds",
+      "md": "Adverbials usually follow **te – ka – mo – lo** (temporal – causal – modal – local):\n\nWir sind **am Montag** **wegen des Streiks** **mit dem Fahrrad** **ins Büro** gefahren.\n\n- Noun objects that are **known** (definite article, names) often come before the adverbials, **new** ones after them: Ich habe **den Bericht** gestern im Zug gelesen. – Ich habe gestern im Zug **einen spannenden Bericht** gelesen.\n- The right end of the Mittelfeld belongs to what is closely tied to the verb: **directions** (nach Hause, ins Büro), **prepositional objects** (auf eine Antwort warten), **predicatives** (Sie ist seit Mai **Teamleiterin**.) and the noun of a **Nomen-Verb-Verbindung** (zur Verfügung stellen, in Anspruch nehmen, zur Sprache bringen).\n- To link a sentence to the one before, move an element into the **Vorfeld**: **Wegen des Streiks** sind wir am Montag mit dem Fahrrad ins Büro gefahren.",
+      "mdDe": "Angaben folgen meistens der Reihenfolge **te – ka – mo – lo** (temporal – kausal – modal – lokal):\n\nWir sind **am Montag** **wegen des Streiks** **mit dem Fahrrad** **ins Büro** gefahren.\n\n- **Bekannte** Objekte (mit bestimmtem Artikel, Namen) stehen oft vor den Angaben, **neue** danach: Ich habe **den Bericht** gestern im Zug gelesen. – Ich habe gestern im Zug **einen spannenden Bericht** gelesen.\n- Das rechte Ende des Mittelfelds gehört den Elementen, die eng zum Verb gehören: **Richtungsangaben** (nach Hause, ins Büro), **Präpositionalobjekte** (auf eine Antwort warten), **Prädikative** (Sie ist seit Mai **Teamleiterin**.) und das Nomen einer **Nomen-Verb-Verbindung** (zur Verfügung stellen, in Anspruch nehmen, zur Sprache bringen).\n- Um einen Satz mit dem Satz davor zu verbinden, stellst du ein Satzglied ins **Vorfeld**: **Wegen des Streiks** sind wir am Montag mit dem Fahrrad ins Büro gefahren."
+    },
+    {
+      "type": "table",
+      "heading": "Where does nicht go?",
+      "headingDe": "Wo steht nicht?",
+      "columns": ["nicht comes …", "Example"],
+      "columnsDe": ["nicht steht …", "Beispiel"],
+      "rows": [
+        ["after pronouns, definite objects and time adverbs", "Ich habe ihn gestern nicht gesehen."],
+        ["before the second verb part", "Wir können den Termin leider nicht einhalten."],
+        ["before a predicative", "Das Angebot ist nicht verbindlich."],
+        ["before directions", "Er ist heute nicht ins Büro gefahren."],
+        ["before prepositional objects", "Sie hat sich nicht um die Stelle beworben."],
+        ["before the noun of a Nomen-Verb-Verbindung", "Diese Daten stehen uns nicht zur Verfügung."],
+        ["before adverbs of manner", "Der Techniker hat nicht sorgfältig gearbeitet."],
+        ["directly before one element, for contrast (+ sondern)", "Wir fliegen nicht im Mai, sondern im Juni."]
+      ],
+      "rowsDe": [
+        ["nach Pronomen, Objekten mit bestimmtem Artikel und Zeitangaben", "Ich habe ihn gestern nicht gesehen."],
+        ["vor dem zweiten Verbteil", "Wir können den Termin leider nicht einhalten."],
+        ["vor einem Prädikativ", "Das Angebot ist nicht verbindlich."],
+        ["vor Richtungsangaben", "Er ist heute nicht ins Büro gefahren."],
+        ["vor Präpositionalobjekten", "Sie hat sich nicht um die Stelle beworben."],
+        ["vor dem Nomen einer Nomen-Verb-Verbindung", "Diese Daten stehen uns nicht zur Verfügung."],
+        ["vor Adverbien der Art und Weise", "Der Techniker hat nicht sorgfältig gearbeitet."],
+        ["direkt vor einem Satzglied, als Kontrast (+ sondern)", "Wir fliegen nicht im Mai, sondern im Juni."]
+      ],
+      "note": "Nouns with an indefinite article or without an article are negated with kein: Wir haben keine Zeit. If nicht stands directly before a definite object, it negates only that object, and the listener expects „sondern …“: Ich habe nicht den Bericht gelesen, sondern nur die Zusammenfassung.",
+      "noteDe": "Nomen mit unbestimmtem Artikel oder ohne Artikel verneinst du mit kein: Wir haben keine Zeit. Steht nicht direkt vor einem Objekt mit bestimmtem Artikel, verneint es nur dieses Objekt, und der Hörer erwartet „sondern …“: Ich habe nicht den Bericht gelesen, sondern nur die Zusammenfassung."
+    },
+    {
+      "type": "text",
+      "heading": "The Nachfeld: after the bracket",
+      "headingDe": "Das Nachfeld: nach der Klammer",
+      "md": "Almost everything stays **inside** the bracket. Only a few things typically follow it:\n\n- **subordinate clauses and infinitive clauses:** Er hat uns mitgeteilt, **dass er kündigt**. – Sie hat vergessen, **den Antrag zu unterschreiben**. Inside the bracket they sound clumsy or wrong: „Er hat uns, dass er kündigt, mitgeteilt.“\n- **relative clauses**, when only a short verb part follows: Ich habe gestern die Kollegin getroffen, **die nach Basel wechselt**.\n- **comparisons with als and wie:** Das Projekt hat länger gedauert **als geplant**. – Alles ist gelaufen **wie besprochen**.\n- In speech, a prepositional phrase is sometimes added after the bracket: Wir haben lange diskutiert **über die neuen Regeln**. In exam texts, keep it inside: Wir haben lange **über die neuen Regeln** diskutiert.\n\nA plain object never goes behind the bracket: „Ich habe gekauft ein Auto“ is wrong at every level.",
+      "mdDe": "Fast alles bleibt **innerhalb** der Klammer. Nur wenige Dinge stehen typischerweise danach:\n\n- **Nebensätze und Infinitivsätze:** Er hat uns mitgeteilt, **dass er kündigt**. – Sie hat vergessen, **den Antrag zu unterschreiben**. Innerhalb der Klammer klingen sie umständlich oder falsch: „Er hat uns, dass er kündigt, mitgeteilt.“\n- **Relativsätze**, wenn danach nur ein kurzer Verbteil kommt: Ich habe gestern die Kollegin getroffen, **die nach Basel wechselt**.\n- **Vergleiche mit als und wie:** Das Projekt hat länger gedauert **als geplant**. – Alles ist gelaufen **wie besprochen**.\n- In der gesprochenen Sprache hängt man manchmal eine Präpositionalgruppe hinter die Klammer: Wir haben lange diskutiert **über die neuen Regeln**. In Prüfungstexten lässt du sie drinnen: Wir haben lange **über die neuen Regeln** diskutiert.\n\nEin einfaches Objekt steht nie hinter der Klammer: „Ich habe gekauft ein Auto“ ist auf jedem Niveau falsch."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich schicke **Ihnen die Unterlagen** bis Freitag zu.", "en": "I'll send you the documents by Friday." },
+        { "de": "Haben Sie **sie ihm** schon gegeben?", "en": "Have you already given them to him?" },
+        { "de": "Gestern hat **sich** die Geschäftsführung zu den Vorwürfen geäußert.", "en": "Yesterday the management commented on the accusations." },
+        { "de": "Wir sind **am Montag wegen des Streiks mit dem Fahrrad ins Büro** gefahren.", "en": "On Monday we cycled to the office because of the strike." },
+        { "de": "Leider können wir Ihnen den Betrag **nicht erstatten**.", "en": "Unfortunately we cannot refund the amount to you." },
+        { "de": "Der Saal steht uns am Samstag **nicht zur Verfügung**.", "en": "The hall is not available to us on Saturday." },
+        { "de": "**Nicht** die Kosten, **sondern** die lange Bauzeit hat die Anwohner verärgert.", "en": "It wasn't the costs but the long construction period that annoyed the residents." },
+        { "de": "Die Stadt hat **den Auftrag einem kleinen Familienbetrieb** gegeben.", "en": "The city gave the contract to a small family business." },
+        { "de": "Die Sanierung hat länger gedauert, **als die Stadt angekündigt hatte**.", "en": "The renovation took longer than the city had announced." },
+        { "de": "Wir haben vereinbart, **die Ergebnisse erst nach der Sitzung zu veröffentlichen**.", "en": "We agreed to publish the results only after the meeting." }
+      ]
+    },
+    {
+      "type": "warning",
+      "md": "**Typical B2 traps:**\n\n- **Two pronouns:** „Kannst du mir es schicken?“ → „Kannst du **es mir** schicken?“ (accusative first). With a noun, the pronoun still comes first: „Kannst du **mir den Link** schicken?“\n- **nicht too early:** „Ich kann nicht Ihnen helfen“ → „Ich kann **Ihnen nicht** helfen.“ nicht in front of a pronoun or a definite object creates a contrast that needs „sondern“.\n- **Broken bracket:** „Wir haben geschickt allen Kunden das Angebot“ → „Wir haben allen Kunden das Angebot **geschickt**.“",
+      "mdDe": "**Typische Fallen auf B2:**\n\n- **Zwei Pronomen:** „Kannst du mir es schicken?“ → „Kannst du **es mir** schicken?“ (Akkusativ zuerst). Mit einem Nomen steht das Pronomen trotzdem vorne: „Kannst du **mir den Link** schicken?“\n- **nicht zu früh:** „Ich kann nicht Ihnen helfen“ → „Ich kann **Ihnen nicht** helfen.“ nicht vor einem Pronomen oder einem Objekt mit bestimmtem Artikel erzeugt einen Kontrast, der „sondern“ braucht.\n- **Kaputte Klammer:** „Wir haben geschickt allen Kunden das Angebot“ → „Wir haben allen Kunden das Angebot **geschickt**.“"
+    },
+    {
+      "type": "tip",
+      "md": "In **Sprachbausteine Teil 1**, the position of a gap tells you a lot: a gap right after the conjugated verb often wants a pronoun („Leider kann ich ___ den Termin nicht bestätigen“ → Ihnen), and a gap between the objects and the end of the bracket often wants „nicht“ or a particle. When options contain the same words in a different order („es ihm / ihm es“), apply the rules: pronouns first (accusative before dative), two nouns dative before accusative, nicht before the end of the bracket.\n\nIn **Schreiben**, the rating for communicative design rewards varied sentence openings: put a time, a reason or a connecting adverb into the Vorfeld („Aus diesem Grund …“, „Seit Mai …“, „Trotzdem …“) and move long dass-, infinitive or relative clauses into the Nachfeld, so that your reader isn't kept waiting for the verb. In **Sprechen**, a broken bracket („Ich habe gesehen gestern …“) sounds like A2 – keep the second verb part at the end.",
+      "mdDe": "In **Sprachbausteine Teil 1** verrät dir die Position der Lücke viel: Eine Lücke direkt nach dem konjugierten Verb verlangt oft ein Pronomen („Leider kann ich ___ den Termin nicht bestätigen“ → Ihnen), eine Lücke zwischen den Objekten und dem Ende der Klammer oft „nicht“ oder eine Partikel. Wenn die Optionen dieselben Wörter in anderer Reihenfolge enthalten („es ihm / ihm es“), wende die Regeln an: Pronomen zuerst (Akkusativ vor Dativ), zwei Nomen Dativ vor Akkusativ, nicht vor dem Ende der Klammer.\n\nIm **Schreiben** belohnt die Bewertung der kommunikativen Gestaltung abwechslungsreiche Satzanfänge: Stell eine Zeit, einen Grund oder ein verbindendes Adverb ins Vorfeld („Aus diesem Grund …“, „Seit Mai …“, „Trotzdem …“) und verschieb lange dass-, Infinitiv- oder Relativsätze ins Nachfeld, damit dein Leser nicht lange auf das Verb warten muss. Im **Sprechen** klingt eine kaputte Klammer („Ich habe gesehen gestern …“) nach A2 – lass den zweiten Verbteil am Ende."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Kannst du mir es bis morgen schicken?",
+      "right": "Kannst du es mir bis morgen schicken?",
+      "why": "With two pronouns, the accusative („es“) comes before the dative („mir“).",
+      "whyDe": "Bei zwei Pronomen steht der Akkusativ („es“) vor dem Dativ („mir“)."
+    },
+    {
+      "wrong": "Leider kann ich nicht Ihnen den Termin bestätigen.",
+      "right": "Leider kann ich Ihnen den Termin nicht bestätigen.",
+      "why": "To negate the whole sentence, „nicht“ comes after the pronoun and the definite object, directly before the infinitive. „nicht Ihnen“ would mean „not you, but someone else“.",
+      "whyDe": "Wenn du den ganzen Satz verneinst, steht „nicht“ nach dem Pronomen und dem Objekt mit bestimmtem Artikel, direkt vor dem Infinitiv. „nicht Ihnen“ hieße „nicht Ihnen, sondern jemand anderem“."
+    },
+    {
+      "wrong": "Wir haben das neue Angebot geschickt allen Kunden.",
+      "right": "Wir haben allen Kunden das neue Angebot geschickt.",
+      "why": "Objects stay inside the sentence bracket, before the participle. With two nouns, the dative („allen Kunden“) normally comes before the accusative.",
+      "whyDe": "Objekte bleiben innerhalb der Satzklammer, vor dem Partizip II. Bei zwei Nomen steht der Dativ („allen Kunden“) normalerweise vor dem Akkusativ."
+    },
+    {
+      "wrong": "Ich fahre nach Hamburg morgen wegen eines Vorstellungsgesprächs.",
+      "right": "Ich fahre morgen wegen eines Vorstellungsgesprächs nach Hamburg.",
+      "why": "te – ka – mo – lo: time („morgen“) and reason („wegen …“) come first; the direction („nach Hamburg“) is closely tied to „fahren“ and goes to the end.",
+      "whyDe": "te – ka – mo – lo: Zeit („morgen“) und Grund („wegen …“) kommen zuerst; die Richtung („nach Hamburg“) gehört eng zu „fahren“ und steht am Ende."
+    },
+    {
+      "wrong": "Die Stadt stellt den Vereinen die Halle zur Verfügung nicht.",
+      "right": "Die Stadt stellt den Vereinen die Halle nicht zur Verfügung.",
+      "why": "„zur Verfügung stellen“ is a Nomen-Verb-Verbindung. „nicht“ comes before its noun part, just as it comes before the second part of a verb.",
+      "whyDe": "„zur Verfügung stellen“ ist eine Nomen-Verb-Verbindung. „nicht“ steht vor ihrem Nomen-Teil – so wie vor dem zweiten Teil eines Verbs."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Hast du Frau Keller den Bericht schon geschickt? – Ja, ich habe ___ gestern geschickt.",
+      "options": ["ihr ihn", "ihn ihr", "ihn sie"],
+      "answer": 1,
+      "explanation": "Both objects are pronouns, so the accusative comes first: „ihn“ (den Bericht) before „ihr“ (Frau Keller). „ihn sie“ has the wrong case – „jemandem etwas schicken“ needs a dative person.",
+      "explanationDe": "Beide Objekte sind Pronomen, also steht der Akkusativ zuerst: „ihn“ (den Bericht) vor „ihr“ (Frau Keller). „ihn sie“ hat den falschen Kasus – „jemandem etwas schicken“ braucht die Person im Dativ."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Mieter haben lange gewartet. Der Hausverwalter hat ___ erst nach drei Monaten zurückgezahlt.",
+      "options": ["die Kaution ihnen", "die Kaution sie", "ihnen die Kaution"],
+      "answer": 2,
+      "explanation": "Pronoun + noun: the pronoun comes first – „ihnen die Kaution“. „sie“ is the wrong case: the tenants receive something, so they are in the dative („ihnen“).",
+      "explanationDe": "Pronomen + Nomen: Das Pronomen steht zuerst – „ihnen die Kaution“. „sie“ ist der falsche Kasus: Die Mieter bekommen etwas, deshalb stehen sie im Dativ („ihnen“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wegen der Bauarbeiten ___.",
+      "options": [
+        "steht die Turnhalle den Vereinen im Mai nicht zur Verfügung",
+        "steht nicht die Turnhalle den Vereinen im Mai zur Verfügung",
+        "steht die Turnhalle den Vereinen im Mai zur Verfügung nicht"
+      ],
+      "answer": 0,
+      "explanation": "The whole statement is negated, so „nicht“ follows the objects and the time and stands directly before „zur Verfügung“, the noun part of the Nomen-Verb-Verbindung. „nicht die Turnhalle“ would negate only the hall and need „sondern …“.",
+      "explanationDe": "Die ganze Aussage wird verneint, also steht „nicht“ nach den Objekten und der Zeitangabe, direkt vor „zur Verfügung“, dem Nomen-Teil der Nomen-Verb-Verbindung. „nicht die Turnhalle“ würde nur die Halle verneinen und bräuchte „sondern …“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Vermieter hat uns gestern ___.",
+      "options": [
+        "dass die Miete im Januar steigt, mitgeteilt",
+        "mitgeteilt die Erhöhung der Miete",
+        "mitgeteilt, dass die Miete im Januar steigt"
+      ],
+      "answer": 2,
+      "explanation": "A dass-clause normally stands in the Nachfeld, after the participle „mitgeteilt“. Inside the bracket it is clumsy, and a noun object („die Erhöhung …“) must never come after the participle.",
+      "explanationDe": "Ein dass-Satz steht normalerweise im Nachfeld, nach dem Partizip II „mitgeteilt“. Innerhalb der Klammer ist er umständlich, und ein Nomen als Objekt („die Erhöhung …“) darf nie nach dem Partizip stehen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Kannst du mir dein Ladekabel kurz leihen? – Klar, ich leihe ___ gern.",
+      "hint": "(two pronouns)",
+      "hintDe": "(zwei Pronomen)",
+      "answers": ["es dir"],
+      "explanation": "„das Ladekabel“ → „es“ (accusative), „du“ → „dir“ (dative). With two pronouns, the accusative comes first: „es dir“.",
+      "explanationDe": "„das Ladekabel“ → „es“ (Akkusativ), „du“ → „dir“ (Dativ). Bei zwei Pronomen steht der Akkusativ zuerst: „es dir“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Hast du den neuen Kolleginnen die Zahlen schon gezeigt? – Nein, ich zeige ___ erst morgen.",
+      "hint": "(two pronouns)",
+      "hintDe": "(zwei Pronomen)",
+      "answers": ["sie ihnen"],
+      "explanation": "„die Zahlen“ → „sie“ (accusative plural), „den neuen Kolleginnen“ → „ihnen“ (dative plural). Accusative before dative: „sie ihnen“.",
+      "explanationDe": "„die Zahlen“ → „sie“ (Akkusativ Plural), „den neuen Kolleginnen“ → „ihnen“ (Dativ Plural). Akkusativ vor Dativ: „sie ihnen“."
+    },
+    {
+      "type": "order",
+      "words": ["per", "Unterlagen", "zuschicken?", "mir", "Freitag", "Könnten", "Post", "die", "Sie", "bis"],
+      "answers": [
+        "Könnten Sie mir die Unterlagen bis Freitag per Post zuschicken?",
+        "Könnten Sie mir bis Freitag die Unterlagen per Post zuschicken?",
+        "Könnten Sie mir die Unterlagen per Post bis Freitag zuschicken?"
+      ],
+      "explanation": "Yes/no question: the verb „Könnten“ comes first, then the subject „Sie“ and the pronoun „mir“. Time („bis Freitag“) usually comes before manner („per Post“), and the infinitive „zuschicken“ closes the bracket.",
+      "explanationDe": "Ja/Nein-Frage: Das Verb „Könnten“ steht vorne, dann das Subjekt „Sie“ und das Pronomen „mir“. Die Zeit („bis Freitag“) steht meistens vor der Art und Weise („per Post“), und der Infinitiv „zuschicken“ schließt die Klammer."
+    },
+    {
+      "type": "order",
+      "words": ["uns", "erklärt.", "bis", "er", "nicht", "Leider", "es", "heute", "hat"],
+      "answers": [
+        "Leider hat er es uns bis heute nicht erklärt.",
+        "Er hat es uns leider bis heute nicht erklärt.",
+        "Bis heute hat er es uns leider nicht erklärt.",
+        "Er hat es uns bis heute leider nicht erklärt."
+      ],
+      "explanation": "The pronouns come straight after the verb: subject „er“, then accusative „es“, then dative „uns“. „nicht“ follows the time adverbial and stands directly before the participle „erklärt“.",
+      "explanationDe": "Die Pronomen stehen direkt nach dem Verb: Subjekt „er“, dann Akkusativ „es“, dann Dativ „uns“. „nicht“ folgt nach der Zeitangabe und steht direkt vor dem Partizip „erklärt“."
+    },
+    {
+      "type": "order",
+      "words": ["Fahrrad", "wegen", "gefahren.", "Wir", "ins", "am", "dem", "Streiks", "sind", "Büro", "des", "Montag", "mit"],
+      "answers": [
+        "Wir sind am Montag wegen des Streiks mit dem Fahrrad ins Büro gefahren.",
+        "Am Montag sind wir wegen des Streiks mit dem Fahrrad ins Büro gefahren.",
+        "Wegen des Streiks sind wir am Montag mit dem Fahrrad ins Büro gefahren.",
+        "Wir sind wegen des Streiks am Montag mit dem Fahrrad ins Büro gefahren."
+      ],
+      "explanation": "te – ka – mo – lo: „am Montag“ (when) – „wegen des Streiks“ (why) – „mit dem Fahrrad“ (how) – „ins Büro“ (where to). The direction stays at the end, just before „gefahren“.",
+      "explanationDe": "te – ka – mo – lo: „am Montag“ (wann) – „wegen des Streiks“ (warum) – „mit dem Fahrrad“ (wie) – „ins Büro“ (wohin). Die Richtung bleibt am Ende, direkt vor „gefahren“."
+    },
+    {
+      "type": "order",
+      "words": ["Stelle", "nicht", "Sie", "beworben.", "am", "um", "hat", "Ende", "die", "sich"],
+      "answers": ["Sie hat sich am Ende nicht um die Stelle beworben.", "Am Ende hat sie sich nicht um die Stelle beworben."],
+      "explanation": "„sich bewerben um“: the reflexive pronoun comes early, the prepositional object „um die Stelle“ late. „nicht“ stands before the prepositional object, not after it.",
+      "explanationDe": "„sich bewerben um“: Das Reflexivpronomen steht weit vorne, das Präpositionalobjekt „um die Stelle“ weit hinten. „nicht“ steht vor dem Präpositionalobjekt, nicht danach."
+    },
+    {
+      "type": "order",
+      "words": ["zu", "Freitag", "versprochen,", "Er", "schicken.", "die", "uns", "bis", "hat", "Ergebnisse"],
+      "answers": [
+        "Er hat uns versprochen, die Ergebnisse bis Freitag zu schicken.",
+        "Er hat uns versprochen, bis Freitag die Ergebnisse zu schicken.",
+        "Er hat versprochen, uns die Ergebnisse bis Freitag zu schicken.",
+        "Er hat versprochen, uns bis Freitag die Ergebnisse zu schicken."
+      ],
+      "explanation": "The bracket „hat … versprochen“ holds „uns“ (it can also open the infinitive clause: „versprochen, uns die Ergebnisse …“). The infinitive clause follows in the Nachfeld, after the comma, and ends with „zu schicken“.",
+      "explanationDe": "In der Klammer „hat … versprochen“ steht „uns“ (es kann auch den Infinitivsatz einleiten: „versprochen, uns die Ergebnisse …“). Der Infinitivsatz folgt im Nachfeld nach dem Komma und endet mit „zu schicken“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace both objects with pronouns.",
+      "instructionDe": "Ersetze beide Objekte durch Pronomen.",
+      "prompt": "Die Firma hat den Bewerberinnen die Unterlagen zurückgeschickt.",
+      "answers": ["Die Firma hat sie ihnen zurückgeschickt."],
+      "explanation": "„die Unterlagen“ → „sie“ (accusative), „den Bewerberinnen“ → „ihnen“ (dative). With two pronouns the accusative comes first, the opposite of the noun order.",
+      "explanationDe": "„die Unterlagen“ → „sie“ (Akkusativ), „den Bewerberinnen“ → „ihnen“ (Dativ). Bei zwei Pronomen steht der Akkusativ zuerst – umgekehrt wie bei zwei Nomen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Negate the whole sentence with „nicht“.",
+      "instructionDe": "Verneine den ganzen Satz mit „nicht“.",
+      "prompt": "Der Handwerker hat die Heizung gestern repariert.",
+      "answers": ["Der Handwerker hat die Heizung gestern nicht repariert."],
+      "explanation": "For whole-sentence negation, „nicht“ comes after the definite object and the time adverb, directly before the participle „repariert“.",
+      "explanationDe": "Bei der Negation des ganzen Satzes steht „nicht“ nach dem Objekt mit bestimmtem Artikel und nach der Zeitangabe, direkt vor dem Partizip „repariert“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Correct the information with „nicht …, sondern …“.",
+      "instructionDe": "Korrigiere die Information mit „nicht …, sondern …“.",
+      "prompt": "Die Konferenz beginnt im März. (richtig: im April)",
+      "answers": ["Die Konferenz beginnt nicht im März, sondern im April."],
+      "explanation": "Here only one element is wrong, so „nicht“ stands directly before it („nicht im März“) and „sondern“ adds the correct information.",
+      "explanationDe": "Hier ist nur ein Satzglied falsch. Deshalb steht „nicht“ direkt davor („nicht im März“), und „sondern“ ergänzt die richtige Information."
+    }
+  ],
+  "related": ["satzbau-hauptsatz", "negation", "pronomen", "nebensaetze-grundlagen", "nomen-verb-verbindungen-b2", "relativsaetze-b2", "infinitivsaetze-b2"]
+}

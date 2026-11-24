@@ -13,6 +13,7 @@ export const exam: Messages["exam"] = {
   overview: {
     metaTitle: (name) => `${name} – Aufbau, Bewertung und Bestehensgrenzen`,
     takeMock: "Modelltest machen",
+    cefr: (level) => `GER-Niveau ${level}`,
     practiseByPart: "Teile einzeln üben",
     facts: {
       total: (n) => `${n} Punkte`,

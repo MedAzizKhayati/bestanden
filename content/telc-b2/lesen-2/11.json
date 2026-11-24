@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-11",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Software in der Personalauswahl",
+  "topic": "arbeit",
+  "difficulty": 3,
+  "article": {
+    "headline": "Algorithmen entscheiden mit: Vorsortiert von der Maschine",
+    "lead": "Immer mehr Unternehmen lassen eingehende Bewerbungen zunächst von einer Software sichten. Befürworter versprechen schnellere und gerechtere Entscheidungen, Kritiker befürchten eine unsichtbare Benachteiligung. Eine Mannheimer Untersuchung liefert nun erstmals belastbare Zahlen.",
+    "paragraphs": [
+      "Nach Angaben der Mannheimer Forschungsstelle für Arbeit und Digitalisierung, die im vergangenen Jahr rund 650 Personalabteilungen befragt hat, setzen inzwischen 37 Prozent der Unternehmen in Deutschland bei der Vorauswahl von Bewerbungen auf algorithmische Unterstützung; unter Großunternehmen mit mehr als tausend Beschäftigten liegt der Anteil sogar bei über 60 Prozent. Überwiegend handelt es sich um Programme, die Lebensläufe nach festgelegten Kriterien auswerten und daraus eine Rangliste der Bewerbenden erstellen. Die automatisierte Analyse von Videointerviews ist dagegen bislang die Ausnahme.",
+      "Als wichtigstes Motiv für die Einführung nannten die befragten Personalverantwortlichen mit großem Abstand die Zeitersparnis angesichts stetig wachsender Bewerberzahlen. Lediglich ein Fünftel versprach sich von der Technik in erster Linie objektivere Entscheidungen. Einen Abbau von Stellen in den Personalabteilungen konnten die Forschenden dagegen nicht feststellen; die frei werdende Arbeitszeit fließe vielmehr in die intensivere Betreuung der eingeladenen Kandidatinnen und Kandidaten, heißt es in dem Bericht.",
+      "Welche Auswirkungen der Einsatz solcher Systeme auf die Chancengleichheit hat, untersuchte die Forschungsstelle zusätzlich in einem aufwendigen Experiment. Ein marktübliches Programm sowie eine Vergleichsgruppe erfahrener Personalfachleute bewerteten jeweils 2.000 fiktive Lebensläufe, die sich bei identischer Qualifikation lediglich in einzelnen Merkmalen unterschieden. Das Ergebnis ist ernüchternd: Die Software stufte Bewerbungen mit längeren Unterbrechungen im Werdegang systematisch herab – ein Nachteil, der überwiegend Frauen nach der Elternzeit traf, obwohl das Geschlecht selbst nachweislich nicht in die Bewertung einfloss. Die menschlichen Prüferinnen und Prüfer wiederum luden Bewerbende, deren Namen auf eine Zuwanderungsgeschichte hindeuteten, seltener zu einem Vorstellungsgespräch ein.",
+      "Für den Arbeitspsychologen Tobias Merkenthaler, der die Studie geleitet hat, liegt die Ursache keineswegs in einer bewussten Programmierung. Das untersuchte System sei mit den Einstellungsentscheidungen eines ganzen Jahrzehnts trainiert worden und habe auf diese Weise genau jene Muster übernommen, die die Personalauswahl in der Vergangenheit geprägt hätten. Daraus folge jedoch nicht, dass menschliche Entscheidungen gerechter seien. „Weder der Mensch noch die Maschine urteilt neutral“, so Merkenthaler. Entscheidend sei deshalb, beide regelmäßig und unabhängig auf Verzerrungen zu überprüfen.",
+      "Hinzu kommt ein Befund, der die vielfach beschworene menschliche Kontrolle relativiert. Zwar gaben rund 70 Prozent der Unternehmen an, die von der Software erstellte Rangliste werde vor jeder Absage von einer Fachkraft überprüft. Die Auswertung konkreter Auswahlverfahren zeigte jedoch, dass die Verantwortlichen nur in vier Prozent der Fälle eine Person einluden, die das Programm weit hinten eingeordnet hatte. Fachleute sprechen in diesem Zusammenhang von einem Automatisierungsbias, also der Neigung, maschinellen Empfehlungen selbst dann zu folgen, wenn eigene Zweifel durchaus angebracht wären.",
+      "Genau hier setzt die Kritik der Arbeitsrechtlerin Leonie Haberkorn an. Nach geltendem Datenschutzrecht dürfen Entscheidungen, die Menschen erheblich beeinträchtigen, grundsätzlich nicht ausschließlich automatisiert getroffen werden. Verkomme die vorgeschriebene Überprüfung jedoch zur bloßen Formalität, laufe dieser Schutz faktisch ins Leere. Erschwerend komme hinzu, dass abgelehnte Bewerbende in aller Regel nicht erführen, ob und in welchem Umfang eine Software an ihrer Absage beteiligt gewesen sei. Haberkorn fordert daher eine Auskunftspflicht der Arbeitgeber; ein generelles Verbot solcher Programme hält sie dagegen weder für realistisch noch für wünschenswert.",
+      "Die Forschungsstelle selbst plädiert für einen Mittelweg: Programme sollen die Vorauswahl unterstützen, dabei aber nachvollziehbar dokumentieren, nach welchen Kriterien sie sortieren. Ob sich die Hersteller darauf einlassen, bleibt abzuwarten – schließlich betrachten viele von ihnen die Funktionsweise ihrer Systeme als Geschäftsgeheimnis."
+    ],
+    "source": "Rhein-Neckar Wirtschaftsspiegel"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Die meisten befragten Unternehmen setzen Auswahlsoftware ein, …",
+      "options": [
+        { "key": "a", "text": "weil sie sich davon vorrangig gerechtere Personalentscheidungen erhoffen." },
+        { "key": "b", "text": "um angesichts zahlreicher Bewerbungen den Arbeitsaufwand zu verringern." },
+        { "key": "c", "text": "damit sie in ihren Personalabteilungen künftig Arbeitsplätze einsparen können." }
+      ],
+      "answer": "b",
+      "explanation": "The main motive is „mit großem Abstand die Zeitersparnis angesichts stetig wachsender Bewerberzahlen“, so (b). Fairer decisions were the main hope of only a minority: „Lediglich ein Fünftel“ (a). A cut in HR jobs „konnten die Forschenden dagegen nicht feststellen“ – the time saved goes into looking after candidates (c).",
+      "explanationDe": "Das wichtigste Motiv ist „mit großem Abstand die Zeitersparnis angesichts stetig wachsender Bewerberzahlen“, also (b). Gerechtere Entscheidungen erhoffte sich vor allem eine Minderheit: „Lediglich ein Fünftel“ (a). Einen Abbau von Stellen „konnten die Forschenden dagegen nicht feststellen“ – die gesparte Zeit geht in die Betreuung der Kandidaten (c).",
+      "evidence": "Als wichtigstes Motiv für die Einführung nannten die befragten Personalverantwortlichen mit großem Abstand die Zeitersparnis angesichts stetig wachsender Bewerberzahlen"
+    },
+    {
+      "n": 2,
+      "stem": "Im Experiment der Forschungsstelle wurden Lebensläufe von der Software schlechter bewertet, …",
+      "options": [
+        { "key": "a", "text": "wenn die Namen der Bewerbenden auf eine ausländische Herkunft schließen ließen." },
+        { "key": "b", "text": "wenn sie von Frauen stammten, und zwar unabhängig vom bisherigen Berufsweg." },
+        { "key": "c", "text": "wenn die berufliche Laufbahn über einen längeren Zeitraum unterbrochen worden war." }
+      ],
+      "answer": "c",
+      "explanation": "„Die Software stufte Bewerbungen mit längeren Unterbrechungen im Werdegang systematisch herab“ – gaps in the career led to lower ratings, so (c). Names pointing to a migration background were a problem with „Die menschlichen Prüferinnen und Prüfer“, not with the software (a). Gender itself „nachweislich nicht in die Bewertung einfloss“ – women were hit only because of career breaks (b).",
+      "explanationDe": "„Die Software stufte Bewerbungen mit längeren Unterbrechungen im Werdegang systematisch herab“ – Lücken im Lebenslauf führten zu schlechteren Bewertungen, also (c). Namen, die auf eine Zuwanderungsgeschichte hindeuten, waren ein Problem bei den menschlichen Prüfern, nicht bei der Software (a). Das Geschlecht selbst floss „nachweislich nicht in die Bewertung“ ein – Frauen waren nur wegen der Unterbrechungen benachteiligt (b).",
+      "evidence": "Die Software stufte Bewerbungen mit längeren Unterbrechungen im Werdegang systematisch herab"
+    },
+    {
+      "n": 3,
+      "stem": "Aus den Ergebnissen des Experiments zieht Tobias Merkenthaler den Schluss, dass …",
+      "options": [
+        { "key": "a", "text": "sowohl Programme als auch Menschen regelmäßig auf Benachteiligungen hin kontrolliert werden müssen." },
+        { "key": "b", "text": "Unternehmen bei der Vorauswahl besser wieder ausschließlich auf erfahrene Fachleute vertrauen sollten." },
+        { "key": "c", "text": "die Entwickler bestimmte Bewerbergruppen bei der Programmierung absichtlich benachteiligt haben." }
+      ],
+      "answer": "a",
+      "explanation": "„Entscheidend sei deshalb, beide regelmäßig und unabhängig auf Verzerrungen zu überprüfen“ – both humans and software must be checked, so (a). He says it does not follow „dass menschliche Entscheidungen gerechter seien“ – „Weder der Mensch noch die Maschine urteilt neutral“ (b). The cause lies „keineswegs in einer bewussten Programmierung“ but in old hiring data (c).",
+      "explanationDe": "„Entscheidend sei deshalb, beide regelmäßig und unabhängig auf Verzerrungen zu überprüfen“ – Menschen und Software müssen kontrolliert werden, also (a). Er sagt ausdrücklich, daraus folge nicht, „dass menschliche Entscheidungen gerechter seien“ – „Weder der Mensch noch die Maschine urteilt neutral“ (b). Die Ursache liegt „keineswegs in einer bewussten Programmierung“, sondern in alten Einstellungsdaten (c).",
+      "evidence": "Entscheidend sei deshalb, beide regelmäßig und unabhängig auf Verzerrungen zu überprüfen"
+    },
+    {
+      "n": 4,
+      "stem": "Hinsichtlich der Überprüfung durch Menschen zeigte die Untersuchung, dass …",
+      "options": [
+        { "key": "a", "text": "in der Mehrheit der Unternehmen überhaupt keine menschliche Kontrolle vorgesehen ist." },
+        { "key": "b", "text": "Personalverantwortliche nur äußerst selten von der Einschätzung des Programms abweichen." },
+        { "key": "c", "text": "etwa jede vierte schlecht eingestufte Person trotzdem zum Gespräch eingeladen wird." }
+      ],
+      "answer": "b",
+      "explanation": "Only „in vier Prozent der Fälle“ did recruiters invite someone the program had ranked low – they hardly ever deviate, so (b). About 70 % of companies say a person checks the ranking – a check is planned in most firms (a). It is four per cent, not one in four (c).",
+      "explanationDe": "Nur „in vier Prozent der Fälle“ luden die Verantwortlichen jemanden ein, den das Programm weit hinten eingeordnet hatte – sie weichen also kaum ab, also (b). Rund 70 Prozent der Unternehmen sagen, dass eine Fachkraft die Rangliste prüft – in den meisten Firmen ist eine Kontrolle vorgesehen (a). Es sind vier Prozent, nicht jede vierte Person (c).",
+      "evidence": "die Verantwortlichen nur in vier Prozent der Fälle eine Person einluden, die das Programm weit hinten eingeordnet hatte"
+    },
+    {
+      "n": 5,
+      "stem": "Die Arbeitsrechtlerin Leonie Haberkorn bemängelt unter anderem, dass …",
+      "options": [
+        { "key": "a", "text": "der Gesetzgeber den Einsatz solcher Programme bislang nicht grundsätzlich untersagt hat." },
+        { "key": "b", "text": "das Datenschutzrecht vollständig automatisierte Absagen ausdrücklich für zulässig erklärt." },
+        { "key": "c", "text": "der rechtlich vorgeschriebene Schutz durch menschliche Prüfung in der Praxis oft wirkungslos bleibt." }
+      ],
+      "answer": "c",
+      "explanation": "If the required check becomes a mere formality, „laufe dieser Schutz faktisch ins Leere“ – the legal protection does not work in practice, so (c). She considers a general ban „weder für realistisch noch für wünschenswert“ (a). The law says the opposite: such decisions „dürfen … grundsätzlich nicht ausschließlich automatisiert getroffen werden“ (b).",
+      "explanationDe": "Wenn die vorgeschriebene Prüfung nur noch eine Formalität ist, „laufe dieser Schutz faktisch ins Leere“ – der rechtliche Schutz funktioniert in der Praxis nicht, also (c). Ein generelles Verbot hält sie „weder für realistisch noch für wünschenswert“ (a). Das Recht sagt das Gegenteil: Solche Entscheidungen „dürfen … grundsätzlich nicht ausschließlich automatisiert getroffen werden“ (b).",
+      "evidence": "Verkomme die vorgeschriebene Überprüfung jedoch zur bloßen Formalität, laufe dieser Schutz faktisch ins Leere"
+    }
+  ],
+  "glossary": [
+    { "de": "sichten", "en": "to screen, to sift through" },
+    { "de": "belastbar (Zahlen, Daten)", "en": "reliable, robust (figures, data)" },
+    { "de": "die Zeitersparnis", "en": "time saving" },
+    { "de": "die Chancengleichheit", "en": "equal opportunities" },
+    { "de": "ernüchternd", "en": "sobering" },
+    { "de": "jemanden herabstufen", "en": "to downgrade someone" },
+    { "de": "die Zuwanderungsgeschichte", "en": "migration background" },
+    { "de": "die Verzerrung", "en": "bias, distortion" },
+    { "de": "etwas relativieren", "en": "to put something into perspective" },
+    { "de": "zur Formalität verkommen", "en": "to degenerate into a mere formality" },
+    { "de": "ins Leere laufen", "en": "to come to nothing, to be ineffective" },
+    { "de": "die Auskunftspflicht", "en": "duty to disclose information" }
+  ]
+}

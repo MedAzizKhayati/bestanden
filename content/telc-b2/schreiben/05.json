@@ -1,0 +1,57 @@
+{
+  "id": "schreiben-05",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Ein Haus für die goldene Hochzeit",
+  "topic": "freizeit",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Anfrage",
+  "situation": "Ihre Großeltern feiern im kommenden Sommer ihre goldene Hochzeit. Die ganze Familie möchte dazu ein Wochenende gemeinsam verbringen, und Sie übernehmen die Organisation. Im Internet haben Sie die folgende Anzeige gefunden. Schreiben Sie eine Anfrage an die Vermieter.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Gruppenhaus „Alte Mühle“ im Kinzigtal\nPlatz für große Feste mitten im Schwarzwald\n\nDie liebevoll renovierte Mühle aus dem 18. Jahrhundert bietet zwölf Schlafzimmer für bis zu 28 Gäste, eine voll ausgestattete Großküche und einen Festsaal für 40 Personen. Der große Garten mit Grillplatz und Spielwiese grenzt direkt an den Mühlbach. Zwei Zimmer im Erdgeschoss sind barrierefrei.\n\nAuf Wunsch vermitteln wir Ihnen Partner aus der Region für Catering, Musik und Dekoration.\n\nMietpreis: ab 1.450 Euro pro Wochenende (Freitag bis Sonntag), Bettwäsche und Endreinigung inklusive\n\nAnfragen an: Familie Kienzle · anfrage@altemuehle-kinzigtal.de"
+  },
+  "leitpunkte": [
+    "Stellen Sie weitere Fragen zur Ausstattung und zu den Regeln im Haus.",
+    "Beschreiben Sie, welchen Anlass Sie feiern und wer daran teilnimmt.",
+    "Erklären Sie, welche Unterstützung Sie bei der Organisation des Festes erwarten.",
+    "Erläutern Sie, welche besonderen Bedürfnisse einige Ihrer Gäste haben."
+  ],
+  "model": {
+    "subject": "Anfrage: Gruppenhaus für eine goldene Hochzeit vom 19. bis 21. Juni",
+    "text": "Sehr geehrte Familie Kienzle,\n\nim Internet bin ich auf Ihr Gruppenhaus „Alte Mühle“ gestoßen, das für unser Familienfest wie geschaffen zu sein scheint. Deshalb möchte ich anfragen, ob das Haus am Wochenende vom 19. bis 21. Juni noch frei ist.\n\nAnlass ist die goldene Hochzeit meiner Großeltern, die im Juni seit 50 Jahren verheiratet sind. Zu diesem Fest kommen Kinder, Enkel und Urenkel aus ganz Deutschland und der Schweiz zusammen. Insgesamt rechnen wir mit 26 Personen, darunter sechs Kinder unter zehn Jahren.\n\nBei der Planung müssen wir allerdings einiges berücksichtigen. Mein Großvater ist seit einer Hüftoperation auf einen Rollstuhl angewiesen und braucht daher eines der barrierefreien Zimmer. Könnten Sie mir bestätigen, dass auch der Festsaal und die Toiletten ohne Stufen zu erreichen sind? Außerdem leidet eine meiner Tanten an einer schweren Nussallergie, was bei der Auswahl des Essens unbedingt beachtet werden muss.\n\nBei der Organisation wären wir für Ihre Unterstützung sehr dankbar. Da die meisten Gäste von weit her anreisen, möchten wir uns am Festtag nicht selbst um das Essen kümmern. Würden Sie uns einen Cateringservice empfehlen, der sowohl ein festliches Abendessen als auch ein Frühstücksbuffet am Sonntag liefern kann? Hilfreich wäre auch der Kontakt zu einem Musiker, der am Festabend Tanzmusik spielen könnte.\n\nIch freue mich auf Ihre Antwort und ein unverbindliches Angebot.\n\nMit freundlichen Grüßen\nLukas Brenner"
+  },
+  "modelNotes": [
+    "The model covers point 2 (occasion and guests), point 4 (special needs) and point 3 (support with the organisation). Point 1 (equipment and house rules) is left out: the ad already describes the rooms in detail, and for a celebration with elderly guests and children the other three points matter more.",
+    "The order is logical: first the actual reason for writing (is the house free on that weekend?), then the occasion, the guests' needs and finally the request for help – from general to specific.",
+    "Special needs are developed, not just mentioned: wheelchair → barrier-free room → a question („Könnten Sie mir bestätigen, dass …?“); allergy → consequence for the food („was … beachtet werden muss“).",
+    "B2 structures: „auf etwas angewiesen sein“, „sowohl … als auch“, passive with a modal verb („beachtet werden muss“), a relative clause referring to a whole sentence („was …“), Konjunktiv II requests („Könnten Sie …“, „Würden Sie …“, „wären wir … dankbar“, „Hilfreich wäre …“) and „wie geschaffen zu sein scheint“."
+  ],
+  "modelNotesDe": [
+    "Das Modell behandelt Punkt 2 (Anlass und Gäste), Punkt 4 (besondere Bedürfnisse) und Punkt 3 (Unterstützung bei der Organisation). Punkt 1 (Ausstattung und Hausregeln) fehlt: Die Anzeige beschreibt die Räume schon genau, und für ein Fest mit älteren Gästen und Kindern sind die anderen drei Punkte wichtiger.",
+    "Die Reihenfolge ist logisch: zuerst der eigentliche Grund für die E-Mail (Ist das Haus an diesem Wochenende frei?), dann der Anlass, die Bedürfnisse der Gäste und zum Schluss die Bitte um Hilfe – vom Allgemeinen zum Besonderen.",
+    "Die besonderen Bedürfnisse werden ausgeführt und nicht nur erwähnt: Rollstuhl → barrierefreies Zimmer → eine Frage („Könnten Sie mir bestätigen, dass …?“); Allergie → Folge für das Essen („was … beachtet werden muss“).",
+    "B2-Strukturen: „auf etwas angewiesen sein“, „sowohl … als auch“, Passiv mit Modalverb („beachtet werden muss“), ein Relativsatz, der sich auf einen ganzen Satz bezieht („was …“), Bitten im Konjunktiv II („Könnten Sie …“, „Würden Sie …“, „wären wir … dankbar“, „Hilfreich wäre …“) und „wie geschaffen zu sein scheint“."
+  ],
+  "phrases": [
+    { "de": "…, das für unser Familienfest wie geschaffen zu sein scheint.", "en": "…, which seems to be made for our family celebration." },
+    { "de": "Ich möchte anfragen, ob das Haus vom … bis … noch frei ist.", "en": "I would like to enquire whether the house is still available from … to …" },
+    { "de": "Anlass ist …", "en": "The occasion is …" },
+    { "de": "Insgesamt rechnen wir mit … Personen, darunter …", "en": "In total we expect … people, including …" },
+    { "de": "Mein Großvater ist auf … angewiesen.", "en": "My grandfather depends on …" },
+    { "de": "Könnten Sie mir bestätigen, dass …?", "en": "Could you confirm that …?" },
+    { "de": "Bei der Organisation wären wir für Ihre Unterstützung sehr dankbar.", "en": "We would be very grateful for your support with the organisation." },
+    { "de": "Würden Sie uns einen …, der …, empfehlen?", "en": "Would you recommend a … who … to us?" },
+    { "de": "Ich freue mich auf Ihre Antwort und ein unverbindliches Angebot.", "en": "I look forward to your reply and a non-binding quote." }
+  ],
+  "glossary": [
+    { "de": "die goldene Hochzeit", "en": "golden wedding anniversary (50 years)" },
+    { "de": "die Urenkel (Pl.)", "en": "great-grandchildren" },
+    { "de": "barrierefrei", "en": "barrier-free, wheelchair-accessible" },
+    { "de": "auf etwas angewiesen sein", "en": "to depend on something" },
+    { "de": "die Endreinigung", "en": "final cleaning (after a rental)" },
+    { "de": "jemandem etwas vermitteln", "en": "to arrange something for someone, to put someone in touch with" },
+    { "de": "unverbindlich", "en": "non-binding" }
+  ]
+}

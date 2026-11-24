@@ -22,6 +22,8 @@ export interface ConversationProps {
   userName: string;
   /** Who opens the conversation. */
   partnerStarts: boolean;
+  /** telc B2 Teil 1: the topic the learner chose (index on the sheet). */
+  choice?: number;
   disabled?: boolean;
   turns: Turn[];
   onTurns: (turns: Turn[]) => void;
@@ -30,7 +32,7 @@ export interface ConversationProps {
 type Status = "idle" | "thinking" | "speaking" | "listening";
 
 /** Turn-based spoken conversation with the AI exam partner. */
-export function Conversation({ examId, partId, setNumber, partner, userName, partnerStarts, disabled, turns, onTurns }: ConversationProps) {
+export function Conversation({ examId, partId, setNumber, partner, userName, partnerStarts, choice, disabled, turns, onTurns }: ConversationProps) {
   const [status, setStatus] = useState<Status>("idle");
   const [streaming, setStreaming] = useState("");
   const [typed, setTyped] = useState("");
@@ -60,7 +62,7 @@ export function Conversation({ examId, partId, setNumber, partner, userName, par
       setError(null);
       setStreaming("");
       try {
-        const res = await aiFetch("/api/ai/partner", { examId, partId, setNumber, turns: history, locale });
+        const res = await aiFetch("/api/ai/partner", { examId, partId, setNumber, turns: history, locale, choice });
         if (!res.ok || !res.body) {
           // Show the server's message as it arrives; our own text only when there is none.
           const data = (await res.json().catch(() => ({}))) as { error?: string };
@@ -93,7 +95,7 @@ export function Conversation({ examId, partId, setNumber, partner, userName, par
         setStreaming("");
       }
     },
-    [examId, partId, setNumber, onTurns, voiceOn, partner, prefs, locale, fallbackError],
+    [examId, partId, setNumber, onTurns, voiceOn, partner, prefs, locale, fallbackError, choice],
   );
 
   useEffect(() => {

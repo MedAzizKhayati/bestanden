@@ -1,0 +1,109 @@
+{
+  "id": "hoeren-3-04",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Kultur, Kurse und Kundendienst",
+  "topic": "kultur",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "hotline", "gender": "f", "age": "young", "role": "Telefonansage" },
+    { "id": "kino", "gender": "m", "age": "adult", "role": "Programmkino Lichtspiel am Hafen" },
+    { "id": "wetter", "gender": "f", "age": "adult", "role": "Wettermoderatorin" },
+    { "id": "bad", "gender": "m", "age": "young", "role": "Bademeister" },
+    { "id": "vhs", "name": "Ingrid Hallmann", "gender": "f", "age": "senior", "role": "Volkshochschule" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Ansage einer Service-Hotline",
+      "context": "Sie hören die Ansage einer Service-Hotline.",
+      "script": [
+        { "s": "hotline", "t": "Herzlich willkommen bei Netzwerk Nord, Ihrem Anbieter für Internet und Telefon. Derzeit kommt es im Raum Lübeck zu einer größeren Störung, von der auch das Festnetz betroffen ist." },
+        { "s": "hotline", "t": "Unsere Technikerinnen und Techniker arbeiten mit Hochdruck an der Behebung. Wir gehen davon aus, dass alle Anschlüsse bis heute Abend gegen 21 Uhr wieder funktionieren; eine gesonderte Meldung ist daher nicht nötig." },
+        { "s": "hotline", "t": "Sollte Ihre Verbindung morgen früh noch immer gestört sein, starten Sie bitte zunächst Ihren Router neu und rufen Sie erst dann wieder an. Für alle anderen Anliegen drücken Sie bitte die Eins." }
+      ],
+      "statement": "Wer am nächsten Morgen noch keine Verbindung hat, soll zuerst sein Gerät neu starten und erst danach anrufen.",
+      "answer": true,
+      "explanation": "„Starten Sie bitte zunächst Ihren Router neu und rufen Sie erst dann wieder an“ – first restart the router, then call. Reporting the current fault is not necessary because it should be fixed by about 9 pm.",
+      "explanationDe": "„Starten Sie bitte zunächst Ihren Router neu und rufen Sie erst dann wieder an“ – zuerst den Router neu starten, dann anrufen. Die jetzige Störung musst du nicht melden, sie soll bis etwa 21 Uhr behoben sein.",
+      "evidence": "starten Sie bitte zunächst Ihren Router neu und rufen Sie erst dann wieder an"
+    },
+    {
+      "n": 2,
+      "label": "Telefonansage eines Kinos",
+      "context": "Sie hören die Telefonansage eines Kinos.",
+      "script": [
+        { "s": "kino", "t": "Hier ist das Programmkino Lichtspiel am Hafen mit unserem Programm von Donnerstag bis Mittwoch. Jeden Abend um 20 Uhr zeigen wir die französische Komödie „Ein Sommer in Arles“, am Wochenende zusätzlich um 17 Uhr." },
+        { "s": "kino", "t": "Am Montag ist wie immer Kinotag: Dann zahlen Sie für alle Vorstellungen nur 6 Euro statt 9 Euro 50 pro Karte." },
+        { "s": "kino", "t": "Am Dienstag zeigen wir den Film im Original mit deutschen Untertiteln." },
+        { "s": "kino", "t": "Für unsere Matinee am Sonntagvormittag, den Dokumentarfilm „Wasser für alle“, empfehlen wir dringend eine Reservierung, denn nach dem Film diskutiert die Regisseurin mit dem Publikum." }
+      ],
+      "statement": "Die Komödie „Ein Sommer in Arles“ wird am Montag in der Originalfassung mit Untertiteln gezeigt.",
+      "answer": false,
+      "explanation": "The original version with subtitles is shown „Am Dienstag“. Monday is only mentioned as the cheap „Kinotag“, so the day in the statement is wrong.",
+      "explanationDe": "Die Originalfassung mit Untertiteln läuft „Am Dienstag“. Der Montag ist nur der günstige „Kinotag“ – der Tag in der Aussage stimmt also nicht.",
+      "evidence": "Am Dienstag zeigen wir den Film im Original mit deutschen Untertiteln."
+    },
+    {
+      "n": 3,
+      "label": "Wetterbericht",
+      "context": "Sie hören den Wetterbericht im Radio.",
+      "script": [
+        { "s": "wetter", "t": "Das Wetter für die kommenden Tage: Am Mittwoch und Donnerstag bleibt es in ganz Bayern hochsommerlich heiß, mit Werten bis zu 33 Grad." },
+        { "s": "wetter", "t": "Ab Donnerstagmittag steigt in den Alpen allerdings das Gewitterrisiko deutlich an, örtlich sind auch Hagel und Sturmböen möglich. Wer an diesem Tag eine Bergtour plant, sollte deshalb früh aufbrechen und spätestens zur Mittagszeit wieder im Tal sein." },
+        { "s": "wetter", "t": "Am Freitag sorgt eine Kaltfront dann für spürbare Abkühlung: Im Flachland werden höchstens noch 24 Grad erreicht, in den Bergen fällt oberhalb von zweitausend Metern sogar Schnee." }
+      ],
+      "statement": "Bergwanderern wird empfohlen, ihre Tour am Donnerstag schon bis zum Mittag zu beenden.",
+      "answer": true,
+      "explanation": "Because thunderstorms are likely from Thursday midday, anyone planning a mountain tour „sollte deshalb früh aufbrechen und spätestens zur Mittagszeit wieder im Tal sein“. The snow above 2,000 metres is forecast for Friday, not Thursday.",
+      "explanationDe": "Wegen der Gewitter ab Donnerstagmittag heißt es: Wer eine Bergtour plant, „sollte deshalb früh aufbrechen und spätestens zur Mittagszeit wieder im Tal sein“. Der Schnee in den Bergen kommt erst am Freitag.",
+      "evidence": "Wer an diesem Tag eine Bergtour plant, sollte deshalb früh aufbrechen und spätestens zur Mittagszeit wieder im Tal sein."
+    },
+    {
+      "n": 4,
+      "label": "Durchsage im Hallenbad",
+      "context": "Sie hören eine Durchsage in einem Hallenbad.",
+      "script": [
+        { "s": "bad", "t": "Liebe Badegäste, aufgrund einer technischen Störung muss unser Sportbecken ab sofort gesperrt werden. Das Nichtschwimmerbecken und die Sauna bleiben selbstverständlich geöffnet." },
+        { "s": "bad", "t": "Gäste mit einer Tageskarte bekommen an der Kasse die Hälfte des Eintrittspreises zurück. Bitte bringen Sie dafür Ihr Armband mit." },
+        { "s": "bad", "t": "Inhaber einer Zehnerkarte erhalten statt einer Rückzahlung einen zusätzlichen Eintritt gutgeschrieben. Und der Aquafitness-Kurs um 18 Uhr findet wie geplant statt, allerdings im Nichtschwimmerbecken." }
+      ],
+      "statement": "Wer mit einer Zehnerkarte gekommen ist, bekommt an der Kasse die Hälfte des Eintrittspreises erstattet.",
+      "answer": false,
+      "explanation": "Half the price back is only for day tickets. Holders of a ten-visit card „erhalten statt einer Rückzahlung einen zusätzlichen Eintritt gutgeschrieben“ – an extra visit instead of money.",
+      "explanationDe": "Die Hälfte des Preises zurück gibt es nur mit Tageskarte. Mit Zehnerkarte bekommst du „statt einer Rückzahlung einen zusätzlichen Eintritt gutgeschrieben“ – also einen Besuch extra, aber kein Geld.",
+      "evidence": "Inhaber einer Zehnerkarte erhalten statt einer Rückzahlung einen zusätzlichen Eintritt gutgeschrieben."
+    },
+    {
+      "n": 5,
+      "label": "Nachricht von der Volkshochschule",
+      "context": "Sie hören eine Nachricht auf einer Mailbox.",
+      "script": [
+        { "s": "vhs", "t": "Hallo, Frau Petersen, hier spricht Ingrid Hallmann von der Volkshochschule. Es geht um den Fotokurs für Fortgeschrittene, für den Sie sich angemeldet haben." },
+        { "s": "vhs", "t": "Bisher haben sich leider nur vier Personen eingeschrieben, wir brauchen aber mindestens sechs. Deshalb verschieben wir den Kursbeginn um zwei Wochen, auf den zwölften März." },
+        { "s": "vhs", "t": "Falls Ihnen der neue Termin nicht passt, erstatten wir Ihnen die Gebühr von 85 Euro selbstverständlich zurück. Sie könnten aber auch ohne Aufpreis in den Abendkurs am Mittwoch wechseln, der schon nächste Woche beginnt." },
+        { "s": "vhs", "t": "Geben Sie mir bitte bis Freitag Bescheid, wofür Sie sich entscheiden." }
+      ],
+      "statement": "Frau Petersen kann ohne zusätzliche Kosten in einen anderen Kurs wechseln, der früher anfängt.",
+      "answer": true,
+      "explanation": "She could switch „ohne Aufpreis in den Abendkurs am Mittwoch …, der schon nächste Woche beginnt“ – at no extra cost, and it starts earlier than the postponed course on 12 March.",
+      "explanationDe": "Sie kann „ohne Aufpreis in den Abendkurs am Mittwoch …, der schon nächste Woche beginnt“, wechseln – also ohne Mehrkosten und früher als der verschobene Kurs am zwölften März.",
+      "evidence": "Sie könnten aber auch ohne Aufpreis in den Abendkurs am Mittwoch wechseln, der schon nächste Woche beginnt."
+    }
+  ],
+  "glossary": [
+    { "de": "mit Hochdruck", "en": "flat out, at full speed" },
+    { "de": "die Behebung", "en": "repair, fixing (of a fault)" },
+    { "de": "gestört sein", "en": "to be disrupted, not working" },
+    { "de": "der Untertitel", "en": "subtitle" },
+    { "de": "die Matinee", "en": "morning performance" },
+    { "de": "die Sturmböe", "en": "gale-force gust" },
+    { "de": "aufbrechen", "en": "to set off" },
+    { "de": "die Abkühlung", "en": "drop in temperature" },
+    { "de": "gutschreiben", "en": "to credit" },
+    { "de": "sich einschreiben", "en": "to enrol" },
+    { "de": "der Aufpreis", "en": "extra charge" },
+    { "de": "die Gebühr", "en": "fee" }
+  ]
+}

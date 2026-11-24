@@ -84,6 +84,12 @@ export const runner: Messages["runner"] = {
     noAd: "x – keine Anzeige passt",
     drawerTitle: (n) => `Anzeige für Situation ${n}`,
   },
+  infoTexts: {
+    noAdFits: "x (kein Text passt)",
+    noAdForSituation: (n) => `x – kein Text passt zu Situation ${n}`,
+    noAd: "x – kein Text passt",
+    drawerTitle: (n) => `Info-Text für Situation ${n}`,
+  },
 
   textMc: {
     showInText: "Im Text zeigen",
@@ -118,6 +124,10 @@ export const runner: Messages["runner"] = {
     transcriptHint: "Transkript – klick auf eine Zeile, um sie zu hören",
     playText: "Text abspielen",
     introTranscript: "Transkript der Einleitung",
+    playBulletin: "Nachrichten abspielen",
+    unscoredTranscript: "Meldung ohne Aufgabe",
+    unscoredHint: (position) =>
+      `Zur ${position}. Meldung der Sendung gab es keine Aussage – du musstest erkennen, dass sie zu keiner Aufgabe gehört.`,
     playAgain: "Nochmal abspielen",
     playConversation: "Gespräch abspielen",
     playsLeft: (left, total) => `noch ${left} von ${total} Wiedergaben`,

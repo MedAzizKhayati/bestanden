@@ -1,0 +1,99 @@
+{
+  "id": "sprechen-2-06",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Bezahlen ohne Bargeld?",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "theme": "Sollte das Bargeld abgeschafft werden?",
+  "article": {
+    "headline": "Nur noch mit Karte: Wiener Bäckereikette verbannt das Bargeld",
+    "lead": "Seit Anfang Oktober kann man in den 24 Filialen der Bäckerei Feldhofer nicht mehr bar bezahlen. Der Schritt sorgt für hitzige Diskussionen – und wirft eine grundsätzliche Frage auf.",
+    "paragraphs": [
+      "„Wir geben jedes Jahr rund 90.000 Euro dafür aus, dass Münzen gezählt, Tresore geleert und Scheine zur Bank gebracht werden“, begründet Geschäftsführer Leopold Feldhofer die Entscheidung. Hinzu kämen zwei Einbrüche im vergangenen Jahr, bei denen es die Täter auf die Tageseinnahmen abgesehen hätten. Seit der Umstellung gehe es an der Kassa außerdem deutlich schneller: Die durchschnittliche Wartezeit sei von vier auf knapp zwei Minuten gesunken.",
+      "Rückenwind erhält das Unternehmen von einer Erhebung des Salzburger Instituts für Zahlungsverkehr. Demnach bezahlen inzwischen 62 Prozent der unter 35-Jährigen selbst kleine Beträge am liebsten mit Karte oder Smartphone. Bei den über 65-Jährigen greifen dagegen noch drei Viertel bevorzugt zu Scheinen und Münzen.",
+      "Genau hier setzt die Kritik an. Seniorenverbände sprechen von Ausgrenzung: „Viele ältere Menschen haben kein Smartphone oder kommen mit den Kartenlesegeräten nicht zurecht“, sagt Hermine Strasser vom Seniorentreff Donaustadt. Auch wer kein eigenes Bankkonto besitze, sei auf Bargeld angewiesen. Datenschützer warnen wiederum vor dem „gläsernen Kunden“: Jede digitale Zahlung hinterlasse Spuren, die Banken und Konzerne auswerten könnten.",
+      "Dass die Abhängigkeit von der Technik Risiken birgt, zeigte sich erst im Juni, als eine Störung bei einem großen Zahlungsdienstleister Kartenzahlungen im ganzen Land stundenlang lahmlegte. Zahlreiche Kundinnen und Kunden standen damals ratlos an den Kassen.",
+      "Feldhofer gibt sich dennoch gelassen. Für Stammkunden ohne Karte gebe es eine Kundenkarte, die man einmal im Monat in der Zentrale bar aufladen könne. Ob andere Händler dem Beispiel folgen, bleibt abzuwarten. Ein Antrag, Geschäfte des täglichen Bedarfs zur Annahme von Bargeld zu verpflichten, soll im Frühjahr im Gemeinderat beraten werden."
+    ],
+    "source": "Wiener Stadtrundschau"
+  },
+  "ideas": {
+    "pro": [
+      "schnelleres Bezahlen und kürzere Warteschlangen",
+      "geringere Kosten für Händler (Zählen, Transport, Tresor)",
+      "weniger Einbrüche und Überfälle",
+      "Schwarzarbeit und Geldwäsche werden schwieriger",
+      "bequem: kein Kleingeld, alles mit dem Handy"
+    ],
+    "contra": [
+      "Ausgrenzung älterer Menschen ohne Smartphone",
+      "Menschen ohne Bankkonto sind ausgeschlossen",
+      "Verlust der Privatsphäre („gläserner Kunde“)",
+      "Abhängigkeit von der Technik bei Störungen",
+      "mit Bargeld hat man seine Ausgaben besser im Blick",
+      "Gebühren für Händler bei jeder Kartenzahlung"
+    ]
+  },
+  "questions": [
+    "Wie bezahlen Sie im Alltag am liebsten? Warum?",
+    "Welche Gruppen hätten Ihrer Meinung nach Nachteile, wenn es kein Bargeld mehr gäbe?",
+    "Halten Sie die Sorge um den Datenschutz für berechtigt?",
+    "Welche Rolle spielt Bargeld in Ihrem Heimatland?",
+    "Sollten Geschäfte selbst entscheiden dürfen, ob sie Bargeld annehmen?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Ivana Marić", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Kenji Watanabe", "gender": "m", "age": "adult", "role": "Teilnehmer B" }
+  ],
+  "model": [
+    { "s": "A", "t": "Gut, ich beginne. Der Artikel berichtet über eine Wiener Bäckereikette, die seit Oktober in ihren vierundzwanzig Filialen kein Bargeld mehr annimmt. Der Chef begründet das mit den hohen Kosten für das Zählen und den Transport des Geldes, außerdem habe es zwei Einbrüche gegeben." },
+    { "s": "A", "t": "Laut dem Artikel hat sich die Wartezeit an der Kasse seitdem mehr als halbiert. Seniorenverbände und Datenschützer warnen dagegen, dass ältere Menschen ausgegrenzt würden und dass jede digitale Zahlung Spuren hinterlasse." },
+    { "s": "B", "t": "Danke. Ich fand noch den Punkt mit der Störung im Juni interessant, als man im ganzen Land stundenlang nicht mit Karte zahlen konnte. Das zeigt meiner Meinung nach, wie abhängig wir schon von der Technik sind." },
+    { "s": "A", "t": "Das stimmt, aber so eine Störung kommt ja nur selten vor. Ich persönlich habe seit Jahren kaum noch Bargeld dabei und zahle sogar beim Bäcker mit dem Handy, weil das einfach schneller geht." },
+    { "s": "B", "t": "Für dich ist das praktisch, keine Frage. Aber denk mal an meine Großmutter: Sie ist über achtzig, hat kein Smartphone und zahlt seit Jahrzehnten alles bar. Für sie wäre eine Welt ohne Bargeld ein echtes Problem." },
+    { "s": "A", "t": "Da hast du natürlich recht. Aber die Bäckerei bietet ja eine Kundenkarte an, die man bar aufladen kann. So eine Lösung könnte man doch auch allgemein einführen." },
+    { "s": "B", "t": "Ehrlich gesagt finde ich das ziemlich umständlich. Meine Großmutter bräuchte dann für jeden Laden eine eigene Karte und müsste jedes Mal extra in die Zentrale fahren." },
+    { "s": "A", "t": "Okay, das ist ein Argument. Wie ist das eigentlich in Japan? Ich habe gehört, dass man dort noch sehr viel bar bezahlt." },
+    { "s": "B", "t": "Das war lange so. Inzwischen zahlen vor allem die Jüngeren mit dem Handy, aber in kleinen Restaurants braucht man manchmal immer noch Bargeld. Viele Menschen vertrauen Scheinen und Münzen einfach mehr, weil man sie anfassen kann." },
+    { "s": "A", "t": "Das kann ich nachvollziehen. Mit Bargeld hat man seine Ausgaben auch besser im Blick. Wenn ich mit dem Handy zahle, merke ich manchmal erst am Monatsende, wie viel ich eigentlich ausgegeben habe." },
+    { "s": "B", "t": "Siehst du, genau das meine ich. Und dann ist da noch der Datenschutz: Ich möchte nicht, dass meine Bank genau weiß, wann ich wo ein Bier trinke." },
+    { "s": "A", "t": "Na ja, ich glaube, das wird oft übertrieben. Meine Bank kennt sowieso schon fast alle meine Ausgaben, und bisher hatte ich deswegen keine Nachteile." },
+    { "s": "B", "t": "Bisher vielleicht nicht. Aber wer weiß, was in zehn Jahren mit diesen Daten passiert? Bargeld ist für mich auch ein Stück Freiheit." },
+    { "s": "A", "t": "Das sehe ich etwas anders, aber ich verstehe deinen Punkt. Einen großen Vorteil hat die Kartenzahlung allerdings für die Geschäfte: Sie sparen Kosten und werden seltener überfallen." },
+    { "s": "B", "t": "Ganz so einfach ist das nicht. Für jede Kartenzahlung müssen Händler Gebühren zahlen, und für kleine Läden kann das am Ende teurer sein als Bargeld." },
+    { "s": "A", "t": "Stimmt, daran habe ich gar nicht gedacht. Vielleicht wäre es fair, wenn diese Gebühren gesetzlich begrenzt würden." },
+    { "s": "B", "t": "Das fände ich auch sinnvoll. Und was meinst du: Sollten Geschäfte selbst entscheiden dürfen, ob sie Bargeld annehmen?" },
+    { "s": "A", "t": "Grundsätzlich ja, finde ich. Aber bei Dingen, die man zum Leben braucht, also im Supermarkt, in der Apotheke oder beim Arzt, müsste man immer auch bar zahlen können." },
+    { "s": "B", "t": "Das ist ein guter Kompromiss, und so etwas soll ja auch im Wiener Gemeinderat beraten werden. Bargeld ganz abzuschaffen, halte ich jedenfalls für den falschen Weg." },
+    { "s": "A", "t": "Da sind wir uns einig. Wahrscheinlich wird es noch lange beides geben, und jeder kann selbst wählen, was zu ihm passt." }
+  ],
+  "phrases": [
+    { "de": "Der Artikel berichtet über …", "en": "The article reports on …" },
+    { "de": "… begründet das mit …", "en": "… justifies this with …" },
+    { "de": "Laut dem Artikel …", "en": "According to the article …" },
+    { "de": "Ich fand noch den Punkt mit … interessant.", "en": "I also found the point about … interesting." },
+    { "de": "Das zeigt meiner Meinung nach, wie …", "en": "In my opinion, that shows how …" },
+    { "de": "Für dich ist das praktisch, keine Frage. Aber …", "en": "It's practical for you, no question. But …" },
+    { "de": "Okay, das ist ein Argument.", "en": "OK, that's a fair point." },
+    { "de": "Das kann ich nachvollziehen.", "en": "I can understand that." },
+    { "de": "Ich glaube, das wird oft übertrieben.", "en": "I think that's often exaggerated." },
+    { "de": "Das sehe ich etwas anders, aber ich verstehe deinen Punkt.", "en": "I see that a bit differently, but I understand your point." },
+    { "de": "Daran habe ich gar nicht gedacht.", "en": "I hadn't thought of that at all." },
+    { "de": "Da sind wir uns einig.", "en": "We agree on that." }
+  ],
+  "vocabulary": [
+    { "de": "das Bargeld", "en": "cash" },
+    { "de": "bar bezahlen", "en": "to pay in cash" },
+    { "de": "die Filiale", "en": "branch (of a shop or bank)" },
+    { "de": "die Kassa (österreichisch) / die Kasse", "en": "checkout, till" },
+    { "de": "das Kartenlesegerät", "en": "card reader" },
+    { "de": "der Zahlungsdienstleister", "en": "payment service provider" },
+    { "de": "die Ausgrenzung", "en": "exclusion" },
+    { "de": "auf etwas angewiesen sein", "en": "to depend on something" },
+    { "de": "der Datenschutz", "en": "data protection" },
+    { "de": "der gläserne Kunde", "en": "the “transparent” customer whose data is fully visible" },
+    { "de": "die Gebühr", "en": "fee" },
+    { "de": "etwas lahmlegen", "en": "to paralyse, to bring something to a standstill" }
+  ]
+}

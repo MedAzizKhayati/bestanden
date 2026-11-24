@@ -5,11 +5,11 @@ export const dashboard: Messages["dashboard"] = {
   daysUntilExam: (n) => (n === 1 ? "Noch 1 Tag bis zur Prüfung" : `Noch ${n} Tage bis zur Prüfung`),
   setExamDate: "Prüfungsdatum festlegen",
   hero: {
-    titleNew: "telc B1 bestehen – mit Plan.",
+    titleNew: (level) => `telc ${level} bestehen – mit Plan.`,
     titleStreak: (day) => `Tag ${day} – weiter so!`,
     titleBack: "Willkommen zurück!",
-    introNew: (sets) =>
-      `${sets} eigens erstellte Übungssätze mit echter Prüfungszeit, Hörübungen mit Audio, KI-Feedback zu deinem Schreiben und Sprechen und alle B1-Grammatikthemen.`,
+    introNew: (sets, level) =>
+      `${sets} eigens erstellte Übungssätze mit echter Prüfungszeit, Hörübungen mit Audio, KI-Feedback zu deinem Schreiben und Sprechen und alle ${level}-Grammatikthemen.`,
     introBack: "Das bringt dich jetzt am meisten weiter.",
   },
   next: {
@@ -32,7 +32,7 @@ export const dashboard: Messages["dashboard"] = {
   learn: {
     title: "Lernen & wiederholen",
     grammar: (topics) => `${topics} Themen mit Übungen – alles, was in den Sprachbausteinen vorkommt.`,
-    vocab: (words, inCards) => `${words} B1-Wörter · ${inCards} in deinen Karteikarten.`,
+    vocab: (words, inCards, level) => `${words} ${level}-Wörter · ${inCards} in deinen Karteikarten.`,
     phrasesTitle: "Redemittel",
     phrases: (n) => `${n} Wendungen für Schreiben und Sprechen.`,
     strategies: "So gehst du jeden Teil an – und so vermeidest du die typischen Fallen.",

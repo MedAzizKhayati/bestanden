@@ -1,0 +1,62 @@
+{
+  "id": "schreiben-24",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Ein Seminarhaus für die Klausurtagung",
+  "topic": "arbeit",
+  "difficulty": 3,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Sie arbeiten in der Marketingabteilung eines mittelständischen Unternehmens in Nürnberg. Ihre Abteilungsleiterin hat Sie gebeten, für eine zweitägige Klausurtagung im Frühjahr einen geeigneten Ort zu finden. Im Internet sind Sie auf das folgende Angebot gestoßen. Schreiben Sie eine E-Mail an das Seminarhaus und bitten Sie um Informationen.",
+  "stimulus": {
+    "kind": "ad",
+    "subject": "Seminarhaus Talblick – Tagen im Grünen",
+    "body": "Abseits vom Büroalltag entstehen die besten Ideen. Unser Seminarhaus im Fichtelgebirge, nur 90 Minuten von Nürnberg entfernt, bietet ideale Bedingungen für Klausurtagungen, Workshops und Teamtage.\n\n• Drei helle Seminarräume für 12 bis 50 Personen, ausgestattet mit Beamer, Whiteboard und Moderationsmaterial\n• 36 Einzelzimmer mit eigenem Bad\n• Tagungspauschale ab 145 € pro Person und Tag – inklusive Übernachtung, Vollpension und Kaffeepausen\n• Regionale Küche, vegetarische und vegane Gerichte auf Wunsch\n• Rahmenprogramm: Kanutour, Kochkurs oder Teamtraining mit unseren Trainern\n• Kostenloser Shuttle vom Bahnhof Marktredwitz\n\nAnfragen: Herr Benedikt Aumüller · tagung@seminarhaus-talblick.de · Tel. 09232 7710 40"
+  },
+  "leitpunkte": [
+    "Beschreiben Sie Ihr Unternehmen und den Anlass der Tagung.",
+    "Legen Sie dar, welche Anforderungen die Räume und die Technik erfüllen müssen.",
+    "Erläutern Sie, welche Wünsche Ihr Team in Bezug auf Verpflegung und Freizeitprogramm hat.",
+    "Stellen Sie weitere Fragen zu den Kosten und den Stornobedingungen."
+  ],
+  "model": {
+    "subject": "Anfrage: Klausurtagung für 22 Personen am 23. und 24. April",
+    "text": "Sehr geehrter Herr Aumüller,\n\nauf der Suche nach einem geeigneten Ort für die Klausurtagung unserer Abteilung bin ich auf Ihr Seminarhaus aufmerksam geworden. Bevor wir eine Entscheidung treffen, wäre ich Ihnen für einige Auskünfte sehr dankbar.\n\nUnser Unternehmen, die Kerberich Verpackungen GmbH, entwickelt nachhaltige Verpackungslösungen für den Lebensmittelhandel und beschäftigt rund 180 Mitarbeitende. Nachdem sich unsere Marketingabteilung im letzten Jahr personell stark vergrößert hat, soll im Rahmen der Tagung eine gemeinsame Strategie für die kommenden drei Jahre erarbeitet werden. Geplant ist die Tagung für den 23. und 24. April mit insgesamt 22 Teilnehmenden.\n\nWas die Räumlichkeiten betrifft, benötigen wir neben einem großen Plenarraum zwei kleinere Räume, da ein Großteil der Arbeit in Gruppen stattfinden wird. Darüber hinaus ist eine stabile Internetverbindung unverzichtbar, weil zwei Kolleginnen aus unserer Wiener Niederlassung per Videokonferenz zugeschaltet werden sollen. Wäre es möglich, die dafür erforderliche Kamera- und Mikrofontechnik bei Ihnen auszuleihen?\n\nAbschließend hätte ich noch einige Fragen: Ist die Nutzung aller drei Seminarräume in der Tagungspauschale enthalten, oder fallen dafür zusätzliche Kosten an? Außerdem wüsste ich gern, bis wann eine kostenfreie Stornierung möglich ist, falls sich die Zahl der Teilnehmenden noch verringern sollte.\n\nFür ein unverbindliches Angebot wäre ich Ihnen sehr verbunden.\n\nMit freundlichen Grüßen\nJohanna Brückner"
+  },
+  "modelNotes": [
+    "The model covers points 1 (company and reason for the retreat), 2 (rooms and technology) and 4 (costs and cancellation). Point 3 (food and leisure) is left out.",
+    "The information is selected for the reader: number of participants, dates and the need for three rooms are exactly what the seminar house needs to make an offer – and they refer to the ad („Drei helle Seminarräume“, „Tagungspauschale“).",
+    "Upper-B2 language: Nominalstil („auf der Suche nach einem geeigneten Ort“, „im Rahmen der Tagung“, „die Nutzung aller drei Seminarräume“), passive with a modal verb („soll … erarbeitet werden“, „zugeschaltet werden sollen“), Konjunktiv II for polite requests („wäre ich Ihnen … dankbar“, „Wäre es möglich, …“, „wüsste ich gern“).",
+    "Varied connectors and sentence openings: „Bevor“, „Nachdem“, „Was die Räumlichkeiten betrifft“, „neben“, „da“, „Darüber hinaus“, „falls … sollte“.",
+    "The closing formula „Für ein unverbindliches Angebot wäre ich Ihnen sehr verbunden“ is a typical, very polite business phrase."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt die Punkte 1 (Unternehmen und Anlass der Tagung), 2 (Räume und Technik) und 4 (Kosten und Stornierung). Punkt 3 (Verpflegung und Freizeit) fehlt.",
+    "Die Informationen sind für den Leser ausgewählt: Teilnehmerzahl, Termine und drei benötigte Räume sind genau das, was das Seminarhaus für ein Angebot braucht – und sie beziehen sich auf die Anzeige („Drei helle Seminarräume“, „Tagungspauschale“).",
+    "Sprache auf hohem B2-Niveau: Nominalstil („auf der Suche nach einem geeigneten Ort“, „im Rahmen der Tagung“, „die Nutzung aller drei Seminarräume“), Passiv mit Modalverb („soll … erarbeitet werden“, „zugeschaltet werden sollen“), Konjunktiv II für höfliche Bitten („wäre ich Ihnen … dankbar“, „Wäre es möglich, …“, „wüsste ich gern“).",
+    "Abwechslungsreiche Konnektoren und Satzanfänge: „Bevor“, „Nachdem“, „Was die Räumlichkeiten betrifft“, „neben“, „da“, „Darüber hinaus“, „falls … sollte“.",
+    "Die Schlussformel „Für ein unverbindliches Angebot wäre ich Ihnen sehr verbunden“ ist eine typische, sehr höfliche Wendung aus der Geschäftswelt."
+  ],
+  "phrases": [
+    { "de": "Auf der Suche nach … bin ich auf Ihr Haus aufmerksam geworden.", "en": "While looking for … I came across your venue." },
+    { "de": "Für einige Auskünfte wäre ich Ihnen sehr dankbar.", "en": "I would be very grateful for some information." },
+    { "de": "Im Rahmen der Tagung soll … erarbeitet werden.", "en": "During the retreat … is to be developed." },
+    { "de": "Geplant ist die Tagung für den … mit insgesamt … Teilnehmenden.", "en": "The retreat is planned for … with … participants in total." },
+    { "de": "Was die Räumlichkeiten betrifft, benötigen wir …", "en": "As far as the rooms are concerned, we need …" },
+    { "de": "… ist für uns unverzichtbar.", "en": "… is essential for us." },
+    { "de": "Wäre es möglich, … bei Ihnen auszuleihen?", "en": "Would it be possible to borrow … from you?" },
+    { "de": "Ist … in der Pauschale enthalten, oder fallen zusätzliche Kosten an?", "en": "Is … included in the flat rate, or are there additional costs?" },
+    { "de": "Bis wann ist eine kostenfreie Stornierung möglich?", "en": "Until when can we cancel free of charge?" },
+    { "de": "Für ein unverbindliches Angebot wäre ich Ihnen sehr verbunden.", "en": "I would be much obliged for a non-binding quote." }
+  ],
+  "glossary": [
+    { "de": "die Klausurtagung", "en": "(company) retreat, closed meeting" },
+    { "de": "die Tagungspauschale", "en": "all-inclusive conference rate" },
+    { "de": "das Rahmenprogramm", "en": "accompanying programme" },
+    { "de": "der Plenarraum", "en": "main meeting room (for the whole group)" },
+    { "de": "die Niederlassung", "en": "branch, office" },
+    { "de": "jemanden zuschalten", "en": "to connect someone (by video or phone)" },
+    { "de": "die Stornierung", "en": "cancellation" },
+    { "de": "unverbindlich", "en": "non-binding" }
+  ]
+}

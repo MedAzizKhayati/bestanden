@@ -1,0 +1,150 @@
+{
+  "id": "hoeren-2-02",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Ein Meister für alle Fälle",
+  "topic": "arbeit",
+  "difficulty": 1,
+  "context": "Rundfunkinterview in der Sendung „Zweite Halbzeit“ mit dem pensionierten Bäckermeister Herbert Kienzle, der ehrenamtlich Auszubildende begleitet",
+  "speakers": [
+    { "id": "mod", "name": "Moderatorin", "gender": "f", "age": "adult", "role": "Moderatorin" },
+    { "id": "kienzle", "name": "Herr Kienzle", "gender": "m", "age": "senior", "role": "Bäckermeister im Ruhestand" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Hallo und herzlich willkommen zu „Zweite Halbzeit“, der Sendung über Menschen, die im Ruhestand noch einmal etwas ganz Neues anfangen." },
+    { "s": "mod", "t": "Bei mir im Studio sitzt heute Herbert Kienzle. Er hat fast vierzig Jahre lang eine Bäckerei in Münsingen auf der Schwäbischen Alb geführt und begleitet heute ehrenamtlich junge Leute durch ihre Ausbildung. Grüß Gott, Herr Kienzle!" },
+    { "s": "kienzle", "t": "Grüß Gott, und danke für die Einladung. Ich muss gleich sagen, ich bin heute schon seit drei Uhr wach. Das kriegt man nach so vielen Jahren in der Backstube einfach nicht mehr raus." },
+    { "s": "mod", "t": "Fangen wir bei der Bäckerei an. Die gibt es ja noch, oder?" },
+    { "s": "kienzle", "t": "Die gibt's noch, ja, Gott sei Dank. Meine beiden Kinder wollten sie nicht: Die Tochter ist Lehrerin, und der Sohn macht irgendwas mit Computern in Stuttgart, so genau hab ich das nie verstanden." },
+    { "s": "kienzle", "t": "Übernommen hat sie dann der Marco, der hat vor zwanzig Jahren bei mir gelernt. Und ich muss zugeben, seine Brezeln sind inzwischen besser als meine." },
+    { "s": "mod", "t": "Und dann kam der Ruhestand. Wie war das für Sie?" },
+    { "s": "kienzle", "t": "Ehrlich gesagt, die ersten Wochen waren herrlich. Ausschlafen, also bis halb sechs, mit meiner Frau frühstücken, im Garten rumwerkeln." },
+    { "s": "kienzle", "t": "Aber nach zwei, drei Monaten bin ich ihr, sagen wir mal, ziemlich auf die Nerven gegangen. Eines Morgens hat sie mir dann einen Zeitungsartikel über die Lehrlingslotsen neben die Kaffeetasse gelegt, mit einem dicken roten Kreis drum herum." },
+    { "s": "mod", "t": "Was machen die Lehrlingslotsen genau?" },
+    { "s": "kienzle", "t": "Wir sind lauter Leute, die ihr Berufsleben hinter sich haben: Handwerksmeister, Ingenieure, eine ehemalige Personalchefin ist auch dabei." },
+    { "s": "kienzle", "t": "Und wir begleiten Jugendliche, die in der Ausbildung Schwierigkeiten haben und kurz davor sind, alles hinzuschmeißen." },
+    { "s": "mod", "t": "Also vor allem angehende Bäcker?" },
+    { "s": "kienzle", "t": "Nein, im Gegenteil. Ich hatte bisher genau einen einzigen Bäckerlehrling. Die anderen haben Automechaniker gelernt, Friseurin, Elektriker, einer sogar Zahntechniker – da hab ich am Anfang selber nur Bahnhof verstanden." },
+    { "s": "mod", "t": "Aber wie können Sie helfen, wenn Sie von dem Beruf gar nichts verstehen?" },
+    { "s": "kienzle", "t": "Das hab ich mich am Anfang auch gefragt. Aber es geht fast nie ums Fachliche. Die meisten Leute glauben ja, die Jungen hören auf, weil sie so früh aufstehen müssen, oder wegen des Geldes." },
+    { "s": "kienzle", "t": "Meiner Erfahrung nach ist es aber in neun von zehn Fällen Ärger im Betrieb. Dass sich einer nicht ernst genommen fühlt, dass keiner mit ihm redet, dass er nur den Hof kehren darf." },
+    { "s": "mod", "t": "Können Sie uns ein Beispiel erzählen?" },
+    { "s": "kienzle", "t": "Da war die Leonie, die hat Konditorin gelernt, ein riesiges Talent. Die hat mich im zweiten Lehrjahr angerufen und gesagt: Herr Kienzle, ich hör auf, morgen bring ich die Kündigung hin." },
+    { "s": "kienzle", "t": "Ihr Chef hatte sie vor der ganzen Mannschaft angeschrien, wegen einer Torte, die gar nicht sie verbockt hatte. Ich hab ihr ehrlich gesagt zuerst geraten, sich einen anderen Betrieb zu suchen." },
+    { "s": "kienzle", "t": "Aber dann haben wir uns zu dritt an einen Tisch gesetzt, der Chef, die Leonie und ich, und der Mann hat sich tatsächlich entschuldigt. Sie ist geblieben und hat letzten Sommer als Beste ihres Jahrgangs abgeschlossen." },
+    { "s": "mod", "t": "Wie oft sehen Sie die Jugendlichen denn?" },
+    { "s": "kienzle", "t": "Alle vierzehn Tage, meistens in einem Café oder bei mir in der Werkstatt im Garten. Am Telefon klappt das nicht, da sagen die Jungen immer: Passt schon, alles gut." },
+    { "s": "kienzle", "t": "Und wenn man ihnen dann gegenübersitzt, kommt nach zehn Minuten raus, dass gar nichts gut ist." },
+    { "s": "kienzle", "t": "Und dann gibt's natürlich noch die Berufsschule. Im Betrieb kommen die meisten ganz gut zurecht, aber Fachrechnen, Dreisatz, Prozentrechnung – da hängen viele." },
+    { "s": "kienzle", "t": "Das üben wir dann zusammen am Küchentisch, und meine Frau kocht Kaffee. Da hab ich selber auch wieder einiges gelernt, sag ich mal." },
+    { "s": "mod", "t": "Man hört ja oft, dass junge Leute heute nicht mehr richtig arbeiten wollen. Wie sehen Sie das?" },
+    { "s": "kienzle", "t": "Das halte ich, mit Verlaub, für Unsinn. Die schaffen genauso hart wie wir damals. Der Unterschied ist: Die wollen wissen, warum sie etwas machen." },
+    { "s": "kienzle", "t": "Wir haben halt gemacht, was der Meister gesagt hat, und nicht gefragt. Am Anfang hat mich die ewige Fragerei schon genervt, das geb ich zu. Heute finde ich, die haben eigentlich recht." },
+    { "s": "mod", "t": "Lernen Sie denn auch etwas von den jungen Leuten?" },
+    { "s": "kienzle", "t": "Oh ja! Unsere Enkel leben in Kanada, und früher haben wir nur einmal im Monat mit denen telefoniert, weil ich dachte, das ist so teuer." },
+    { "s": "kienzle", "t": "Dann hat mir der Kevin, ein angehender Elektriker, in einer Viertelstunde gezeigt, wie man mit dem Handy per Video telefoniert. Seitdem sehen wir die Kleinen jeden Sonntag beim Frühstück." },
+    { "s": "kienzle", "t": "Meine Frau sagt, das war das Beste, was die Lehrlingslotsen je für uns getan haben." },
+    { "s": "mod", "t": "Wie viele Jugendliche begleiten Sie im Moment?" },
+    { "s": "kienzle", "t": "Drei. Der Verein hat mich neulich gefragt, ob ich nicht noch zwei mehr nehmen könnte, es gibt ja eine lange Warteliste." },
+    { "s": "kienzle", "t": "Aber da hab ich Nein gesagt. Mehr als drei auf einmal, das wird oberflächlich, und dann kann ich's auch gleich lassen." },
+    { "s": "kienzle", "t": "Lieber sollen sich noch ein paar Rentner mehr melden, gell? Zeit haben wir ja alle genug." },
+    { "s": "mod", "t": "Herr Kienzle, vielen Dank für das Gespräch. Und vielleicht ruft ja nach dieser Sendung der eine oder andere Rentner bei den Lehrlingslotsen an." },
+    { "s": "kienzle", "t": "Das wär schön. Und keine Angst, man muss kein Bäcker sein. Ein bisschen Geduld und ein offenes Ohr, mehr braucht's eigentlich nicht." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Heute leitet ein früherer Auszubildender von Herrn Kienzle die Bäckerei.",
+      "answer": true,
+      "explanation": "His own children did not want the bakery. „Übernommen hat sie dann der Marco, der hat vor zwanzig Jahren bei mir gelernt“ – Marco was once his apprentice.",
+      "explanationDe": "Seine eigenen Kinder wollten die Bäckerei nicht. „Übernommen hat sie dann der Marco, der hat vor zwanzig Jahren bei mir gelernt“ – Marco war also früher sein Lehrling.",
+      "evidence": "Übernommen hat sie dann der Marco, der hat vor zwanzig Jahren bei mir gelernt."
+    },
+    {
+      "n": 2,
+      "text": "Auf die Idee mit dem Ehrenamt hat ihn seine Frau gebracht.",
+      "answer": true,
+      "explanation": "He was getting on his wife's nerves, so „hat sie mir dann einen Zeitungsartikel über die Lehrlingslotsen neben die Kaffeetasse gelegt“ – with a big red circle around it.",
+      "explanationDe": "Er ist seiner Frau auf die Nerven gegangen, deshalb „hat sie mir dann einen Zeitungsartikel über die Lehrlingslotsen neben die Kaffeetasse gelegt“ – mit einem dicken roten Kreis.",
+      "evidence": "hat sie mir dann einen Zeitungsartikel über die Lehrlingslotsen neben die Kaffeetasse gelegt"
+    },
+    {
+      "n": 3,
+      "text": "Herr Kienzle betreut hauptsächlich Jugendliche, die Bäcker werden wollen.",
+      "answer": false,
+      "explanation": "The presenter suggests this, but he says „Nein, im Gegenteil. Ich hatte bisher genau einen einzigen Bäckerlehrling“. The others learn completely different trades.",
+      "explanationDe": "Die Moderatorin vermutet das, aber er sagt: „Nein, im Gegenteil. Ich hatte bisher genau einen einzigen Bäckerlehrling“. Die anderen lernen ganz andere Berufe.",
+      "evidence": "Ich hatte bisher genau einen einzigen Bäckerlehrling."
+    },
+    {
+      "n": 4,
+      "text": "Nach Herrn Kienzles Erfahrung brechen die meisten Lehrlinge wegen der schlechten Bezahlung ab.",
+      "answer": false,
+      "explanation": "Money is what „die meisten Leute glauben“. His own experience is different: „in neun von zehn Fällen Ärger im Betrieb“ – problems at work, not the pay.",
+      "explanationDe": "Das Geld ist das, was „die meisten Leute glauben“. Seine eigene Erfahrung ist anders: „in neun von zehn Fällen Ärger im Betrieb“ – also Probleme im Betrieb, nicht die Bezahlung.",
+      "evidence": "in neun von zehn Fällen Ärger im Betrieb"
+    },
+    {
+      "n": 5,
+      "text": "Leonie hat auf Herrn Kienzles Rat hin den Ausbildungsbetrieb gewechselt.",
+      "answer": false,
+      "explanation": "He did first advise her to look for another company, but after the talk with her boss „Sie ist geblieben“ and finished as the best of her year.",
+      "explanationDe": "Er hat ihr zwar zuerst geraten, sich einen anderen Betrieb zu suchen, aber nach dem Gespräch mit dem Chef gilt: „Sie ist geblieben“ – und sie hat als Beste ihres Jahrgangs abgeschlossen.",
+      "evidence": "Sie ist geblieben und hat letzten Sommer als Beste ihres Jahrgangs abgeschlossen."
+    },
+    {
+      "n": 6,
+      "text": "Herr Kienzle spricht mit seinen Lehrlingen lieber persönlich als am Telefon.",
+      "answer": true,
+      "explanation": "„Am Telefon klappt das nicht“ – on the phone the young people just say everything is fine. Only face to face does it come out that nothing is fine.",
+      "explanationDe": "„Am Telefon klappt das nicht“ – am Telefon sagen die Jugendlichen nur, dass alles gut ist. Erst im persönlichen Gespräch kommt heraus, dass gar nichts gut ist.",
+      "evidence": "Am Telefon klappt das nicht"
+    },
+    {
+      "n": 7,
+      "text": "Vielen seiner Lehrlinge fällt die Berufsschule schwerer als die Arbeit im Betrieb.",
+      "answer": true,
+      "explanation": "„Im Betrieb kommen die meisten ganz gut zurecht“, but with maths at vocational school („Fachrechnen, Dreisatz, Prozentrechnung“) „da hängen viele“.",
+      "explanationDe": "„Im Betrieb kommen die meisten ganz gut zurecht“, aber beim Rechnen in der Berufsschule („Fachrechnen, Dreisatz, Prozentrechnung“) gilt: „da hängen viele“.",
+      "evidence": "Im Betrieb kommen die meisten ganz gut zurecht"
+    },
+    {
+      "n": 8,
+      "text": "Herr Kienzle meint, dass junge Leute heute weniger arbeiten wollen als früher.",
+      "answer": false,
+      "explanation": "He calls this idea „Unsinn“: „Die schaffen genauso hart wie wir damals.“ („schaffen“ is Swabian for „arbeiten“.) The only difference is that they want to know why.",
+      "explanationDe": "Diese Meinung nennt er „Unsinn“: „Die schaffen genauso hart wie wir damals.“ („schaffen“ heißt auf Schwäbisch „arbeiten“.) Der Unterschied ist nur, dass sie wissen wollen, warum.",
+      "evidence": "Das halte ich, mit Verlaub, für Unsinn."
+    },
+    {
+      "n": 9,
+      "text": "Dank eines Lehrlings kann Herr Kienzle seine Enkel jetzt regelmäßig auf dem Bildschirm sehen.",
+      "answer": true,
+      "explanation": "Kevin showed him „wie man mit dem Handy per Video telefoniert“, and since then they see the grandchildren in Canada every Sunday.",
+      "explanationDe": "Kevin hat ihm gezeigt, „wie man mit dem Handy per Video telefoniert“, und seitdem sehen sie die Enkel in Kanada jeden Sonntag.",
+      "evidence": "wie man mit dem Handy per Video telefoniert"
+    },
+    {
+      "n": 10,
+      "text": "Herr Kienzle wird bald zwei zusätzliche Jugendliche betreuen.",
+      "answer": false,
+      "explanation": "The association asked him to take two more, „Aber da hab ich Nein gesagt“ – more than three at once would be too superficial. A request is not a decision.",
+      "explanationDe": "Der Verein hat ihn gebeten, noch zwei mehr zu nehmen, „Aber da hab ich Nein gesagt“ – mehr als drei auf einmal wäre zu oberflächlich. Eine Bitte ist noch keine Entscheidung.",
+      "evidence": "Aber da hab ich Nein gesagt."
+    }
+  ],
+  "glossary": [
+    { "de": "der Ruhestand", "en": "retirement" },
+    { "de": "ehrenamtlich", "en": "voluntary, unpaid" },
+    { "de": "rumwerkeln (ugs.)", "en": "to potter about" },
+    { "de": "jemandem auf die Nerven gehen", "en": "to get on someone's nerves" },
+    { "de": "etwas hinschmeißen (ugs.)", "en": "to quit, to throw in the towel" },
+    { "de": "nur Bahnhof verstehen (ugs.)", "en": "not to understand a thing" },
+    { "de": "etwas verbocken (ugs.)", "en": "to mess something up" },
+    { "de": "der Jahrgang", "en": "year group (all who started in the same year)" },
+    { "de": "der Dreisatz", "en": "rule of three (maths)" },
+    { "de": "mit Verlaub", "en": "with respect, if I may say so" },
+    { "de": "schaffen (schwäb.)", "en": "to work" },
+    { "de": "oberflächlich", "en": "superficial" }
+  ]
+}

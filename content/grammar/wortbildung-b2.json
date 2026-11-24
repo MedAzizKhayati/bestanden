@@ -1,0 +1,301 @@
+{
+  "id": "wortbildung-b2",
+  "level": "B2",
+  "category": "wortschatz",
+  "order": 22,
+  "title": "Wortbildung für B2: Präfixverben, Suffixe, Komposita",
+  "titleEn": "Word formation for B2: prefix verbs, suffixes, compounds",
+  "summary": "Work out unknown words from their parts: what be-, ver-, ent-, zer-, miss- and er- do to a verb, when über-, unter-, um- and durch- are separable, what -tum, -nis, -haft or -sam add, and where the linking s goes in long compounds.",
+  "summaryDe": "Erschließe unbekannte Wörter aus ihren Teilen: was be-, ver-, ent-, zer-, miss- und er- mit einem Verb machen, wann über-, unter-, um- und durch- trennbar sind, was -tum, -nis, -haft oder -sam bedeuten und wo das Fugen-s in langen Komposita steht.",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "B2 texts are full of words you have never seen – but you know their parts. **Prefixes** change the meaning of a verb (be-, ver-, ent-, zer-, miss-, er- are never separated and take **no ge-** in the Partizip II). **Suffixes** decide the word class and often the gender (-ung, -heit, -keit, -schaft → *die*; -tum, -nis mostly *das*; -bar, -los, -haft, -sam → adjectives). In **compounds** the last part is the core. So take unknown words apart from the right: „Lebensmittel**verschwendung**“ = die Verschwendung von Lebensmitteln.",
+      "mdDe": "B2-Texte sind voll von Wörtern, die du noch nie gesehen hast – aber ihre Teile kennst du. **Präfixe** verändern die Bedeutung eines Verbs (be-, ver-, ent-, zer-, miss-, er- werden nie abgetrennt und haben im Partizip II **kein ge-**). **Suffixe** bestimmen die Wortart und oft das Genus (-ung, -heit, -keit, -schaft → *die*; -tum, -nis meistens *das*; -bar, -los, -haft, -sam → Adjektive). In **Komposita** ist der letzte Teil der Kern. Zerlege unbekannte Wörter deshalb von rechts: „Lebensmittel**verschwendung**“ = die Verschwendung von Lebensmitteln."
+    },
+    {
+      "type": "table",
+      "heading": "Inseparable prefixes: what they add",
+      "headingDe": "Untrennbare Präfixe: was sie hinzufügen",
+      "columns": ["Präfix", "Meaning", "Beispiele"],
+      "columnsDe": ["Präfix", "Bedeutung", "Beispiele"],
+      "rows": [
+        ["be-", "makes the verb transitive (accusative instead of a preposition); to provide with", "auf eine Frage antworten → eine Frage beantworten; über einen Plan sprechen → einen Plan besprechen; ein Dach begrünen"],
+        ["ver- (1)", "a mistake", "sich verhören, sich verrechnen, sich verfahren, zwei Termine verwechseln"],
+        ["ver- (2)", "change into a state (often from adjectives)", "einfach → vereinfachen, doppelt → verdoppeln, stark → verstärken, kurz → verkürzen"],
+        ["ver- (3)", "using up, ending, going away", "Strom verbrauchen, Geld verschwenden, die Rosen verblühen, verreisen"],
+        ["ent-", "removal, separation, the opposite", "entkalken, Müll entsorgen, belasten → entlasten, entschlüsseln, entkommen"],
+        ["zer-", "into pieces, destroyed", "zerbrechen, zerreißen, zerkratzen, zerkleinern, zerstören"],
+        ["miss-", "wrong, badly, the opposite", "missverstehen, missbrauchen, misstrauen, misslingen, missachten"],
+        ["er- (1)", "reaching a result through effort", "sich einen Platz erkämpfen, sich Wissen erarbeiten, eine Information erfragen"],
+        ["er- (2)", "making something (more) …", "neu → erneuern, leicht → erleichtern, möglich → ermöglichen, weit → erweitern"],
+        ["er- (3)", "ending in death", "ertrinken, ersticken, erfrieren"]
+      ],
+      "rowsDe": [
+        ["be-", "macht das Verb transitiv (Akkusativ statt Präposition); mit etwas versehen", "auf eine Frage antworten → eine Frage beantworten; über einen Plan sprechen → einen Plan besprechen; ein Dach begrünen"],
+        ["ver- (1)", "ein Fehler", "sich verhören, sich verrechnen, sich verfahren, zwei Termine verwechseln"],
+        ["ver- (2)", "Veränderung in einen Zustand (oft aus Adjektiven)", "einfach → vereinfachen, doppelt → verdoppeln, stark → verstärken, kurz → verkürzen"],
+        ["ver- (3)", "Verbrauch, Ende, Weggehen", "Strom verbrauchen, Geld verschwenden, die Rosen verblühen, verreisen"],
+        ["ent-", "Entfernen, Trennung, Gegenteil", "entkalken, Müll entsorgen, belasten → entlasten, entschlüsseln, entkommen"],
+        ["zer-", "in Stücke, kaputt", "zerbrechen, zerreißen, zerkratzen, zerkleinern, zerstören"],
+        ["miss-", "falsch, schlecht, Gegenteil", "missverstehen, missbrauchen, misstrauen, misslingen, missachten"],
+        ["er- (1)", "ein Ergebnis durch Anstrengung erreichen", "sich einen Platz erkämpfen, sich Wissen erarbeiten, eine Information erfragen"],
+        ["er- (2)", "etwas (mehr) … machen", "neu → erneuern, leicht → erleichtern, möglich → ermöglichen, weit → erweitern"],
+        ["er- (3)", "Ende mit Tod", "ertrinken, ersticken, erfrieren"]
+      ],
+      "note": "All of these prefixes are inseparable: the stress is on the stem, the Partizip II has no ge- (vereinfacht, entlastet, missverstanden, zerrissen) and „zu“ stands before the whole verb (zu beantworten, zu missachten).",
+      "noteDe": "Alle diese Präfixe sind untrennbar: Die Betonung liegt auf dem Stamm, das Partizip II hat kein ge- (vereinfacht, entlastet, missverstanden, zerrissen), und „zu“ steht vor dem ganzen Verb (zu beantworten, zu missachten)."
+    },
+    {
+      "type": "text",
+      "heading": "über-, unter-, um-, durch-: two verbs in one",
+      "headingDe": "über-, unter-, um-, durch-: zwei Verben in einem",
+      "md": "These prefixes can be **separable or inseparable** – and the meaning changes with them:\n\n- **Separable** (stress on the prefix): mostly the **literal, spatial** meaning. Partizip II with *-ge-*, „zu“ in the middle: „Die Fähre **setzt** uns ans andere Ufer **über**.“ – „hat uns **übergesetzt**“ – „um **überzusetzen**“.\n- **Inseparable** (stress on the stem): mostly a **figurative** meaning. Partizip II without *ge-*, „zu“ in front: „Sie **übersetzt** den Vertrag ins Englische.“ – „hat **übersetzt**“ – „um ihn **zu übersetzen**“.\n\nMore pairs you will meet in B2 texts:\n\n- **umgehen:** „Er **geht** gut mit Kritik **um**.“ (to deal with) ↔ „Die Firma **umgeht** das Verbot.“ (to get round, to avoid)\n- **umfahren:** „Er hat ein Verkehrsschild **umgefahren**.“ (knocked down) ↔ „Wir haben den Stau **umfahren**.“ (drove around)\n- **unterstellen:** „Wir **stellen** die Räder im Hof **unter**.“ (to keep under a roof) ↔ „Man **unterstellt** ihm böse Absichten.“ (to insinuate)\n- **durchschauen:** „Ich **schaue** die Unterlagen **durch**.“ (to look through) ↔ „Sie hat seinen Plan sofort **durchschaut**.“ (to see through)\n- **übergehen:** „Wir **gehen** zum nächsten Punkt **über**.“ (to move on) ↔ „Bei der Beförderung wurde sie **übergangen**.“ (to pass over, to ignore)\n\nIn a text, the Partizip II tells you which verb it is: *umgefahren* = knocked down, *umfahren* = driven around.",
+      "mdDe": "Diese Präfixe können **trennbar oder untrennbar** sein – und damit ändert sich die Bedeutung:\n\n- **Trennbar** (Betonung auf dem Präfix): meistens die **wörtliche, räumliche** Bedeutung. Partizip II mit *-ge-*, „zu“ in der Mitte: „Die Fähre **setzt** uns ans andere Ufer **über**.“ – „hat uns **übergesetzt**“ – „um **überzusetzen**“.\n- **Untrennbar** (Betonung auf dem Stamm): meistens eine **übertragene** Bedeutung. Partizip II ohne *ge-*, „zu“ davor: „Sie **übersetzt** den Vertrag ins Englische.“ – „hat **übersetzt**“ – „um ihn **zu übersetzen**“.\n\nWeitere Paare, die du in B2-Texten findest:\n\n- **umgehen:** „Er **geht** gut mit Kritik **um**.“ (= kommt gut damit zurecht) ↔ „Die Firma **umgeht** das Verbot.“ (= vermeidet es geschickt)\n- **umfahren:** „Er hat ein Verkehrsschild **umgefahren**.“ (= hat es beim Fahren umgestoßen) ↔ „Wir haben den Stau **umfahren**.“ (= sind um ihn herumgefahren)\n- **unterstellen:** „Wir **stellen** die Räder im Hof **unter**.“ (= stellen sie unter ein Dach) ↔ „Man **unterstellt** ihm böse Absichten.“ (= behauptet es ohne Beweis)\n- **durchschauen:** „Ich **schaue** die Unterlagen **durch**.“ (= sehe sie kurz an) ↔ „Sie hat seinen Plan sofort **durchschaut**.“ (= hat ihn erkannt)\n- **übergehen:** „Wir **gehen** zum nächsten Punkt **über**.“ (= wechseln zum nächsten Punkt) ↔ „Bei der Beförderung wurde sie **übergangen**.“ (= nicht berücksichtigt)\n\nIm Text verrät dir das Partizip II, welches Verb gemeint ist: *umgefahren* = umgestoßen, *umfahren* = um etwas herumgefahren."
+    },
+    {
+      "type": "table",
+      "heading": "Noun suffixes at B2",
+      "headingDe": "Nomen-Suffixe auf B2-Niveau",
+      "columns": ["Suffix", "Genus", "Meaning", "Beispiele"],
+      "columnsDe": ["Suffix", "Genus", "Bedeutung", "Beispiele"],
+      "rows": [
+        ["-ung", "die", "an action or its result (from verbs)", "verschwenden → die Verschwendung, entlasten → die Entlastung, ernähren → die Ernährung"],
+        ["-heit", "die", "a quality or state (from adjectives and participles)", "gelassen → die Gelassenheit, berühmt → die Berühmtheit, verlegen → die Verlegenheit"],
+        ["-keit / -igkeit", "die", "a quality (after -bar, -ig, -lich, -sam; -igkeit after some short adjectives)", "zuverlässig → die Zuverlässigkeit, ehrlich → die Ehrlichkeit, aufmerksam → die Aufmerksamkeit, genau → die Genauigkeit"],
+        ["-schaft", "die", "a group of people; a relationship; a state", "die Belegschaft, die Bürgerschaft, die Partnerschaft, bereit → die Bereitschaft"],
+        ["-nis", "das (some die)", "a result or state (mostly from verbs)", "verstehen → das Verständnis, hindern → das Hindernis, das Bedürfnis; die Erkenntnis, die Kenntnis"],
+        ["-tum", "das (der Irrtum, der Reichtum)", "a state; a whole group; a domain", "wachsen → das Wachstum, eigen → das Eigentum, das Brauchtum, sich irren → der Irrtum"]
+      ],
+      "rowsDe": [
+        ["-ung", "die", "eine Handlung oder ihr Ergebnis (aus Verben)", "verschwenden → die Verschwendung, entlasten → die Entlastung, ernähren → die Ernährung"],
+        ["-heit", "die", "eine Eigenschaft oder ein Zustand (aus Adjektiven und Partizipien)", "gelassen → die Gelassenheit, berühmt → die Berühmtheit, verlegen → die Verlegenheit"],
+        ["-keit / -igkeit", "die", "eine Eigenschaft (nach -bar, -ig, -lich, -sam; -igkeit nach manchen kurzen Adjektiven)", "zuverlässig → die Zuverlässigkeit, ehrlich → die Ehrlichkeit, aufmerksam → die Aufmerksamkeit, genau → die Genauigkeit"],
+        ["-schaft", "die", "eine Gruppe von Menschen; eine Beziehung; ein Zustand", "die Belegschaft, die Bürgerschaft, die Partnerschaft, bereit → die Bereitschaft"],
+        ["-nis", "das (einige die)", "ein Ergebnis oder Zustand (meist aus Verben)", "verstehen → das Verständnis, hindern → das Hindernis, das Bedürfnis; die Erkenntnis, die Kenntnis"],
+        ["-tum", "das (aber: der Irrtum, der Reichtum)", "ein Zustand; eine ganze Gruppe; ein Bereich", "wachsen → das Wachstum, eigen → das Eigentum, das Brauchtum, sich irren → der Irrtum"]
+      ],
+      "note": "The suffix decides the gender, not the stem: „der Bürger“ but „**die** Bürgerschaft“, „das Wachstum“ but „**der** Irrtum“ – learn the two masculine -tum nouns as exceptions.",
+      "noteDe": "Das Suffix bestimmt das Genus, nicht der Stamm: „der Bürger“, aber „**die** Bürgerschaft“, „das Wachstum“, aber „**der** Irrtum“ – lerne die beiden maskulinen Nomen auf -tum als Ausnahmen."
+    },
+    {
+      "type": "table",
+      "heading": "Adjective suffixes at B2",
+      "headingDe": "Adjektiv-Suffixe auf B2-Niveau",
+      "columns": ["Suffix", "Meaning", "Beispiele"],
+      "columnsDe": ["Suffix", "Bedeutung", "Beispiele"],
+      "rows": [
+        ["-bar", "can be done (passive meaning)", "vergleichbar, vorhersehbar, ersetzbar, unverzichtbar"],
+        ["-los", "without", "ergebnislos, rücksichtslos, ahnungslos, fristlos"],
+        ["-haft", "having this quality; like", "fehlerhaft (= with mistakes!), mangelhaft, vorbildhaft, zweifelhaft, glaubhaft"],
+        ["-sam", "tending to; having this effect", "sparsam, erholsam, wirksam, mühsam, aufmerksam"],
+        ["-lich", "with this quality; (from verbs) can be done; (colours, adjectives) slightly", "beruflich, ärgerlich, verzeihlich, rötlich, kränklich"],
+        ["-ig", "having, with; (with time words) lasting", "geduldig, eigenständig, dreistündig (= lasting three hours), mehrjährig"],
+        ["semi-suffixes", "-pflichtig (must), -bedürftig (needs), -fähig (can), -arm / -reich (little / a lot of)", "verschreibungspflichtig, renovierungsbedürftig, zahlungsfähig, kalorienarm, abwechslungsreich"]
+      ],
+      "rowsDe": [
+        ["-bar", "kann gemacht werden (passive Bedeutung)", "vergleichbar, vorhersehbar, ersetzbar, unverzichtbar"],
+        ["-los", "ohne", "ergebnislos, rücksichtslos, ahnungslos, fristlos"],
+        ["-haft", "mit dieser Eigenschaft; wie", "fehlerhaft (= mit Fehlern!), mangelhaft, vorbildhaft, zweifelhaft, glaubhaft"],
+        ["-sam", "mit dieser Neigung; mit dieser Wirkung", "sparsam, erholsam, wirksam, mühsam, aufmerksam"],
+        ["-lich", "mit dieser Eigenschaft; (aus Verben) kann gemacht werden; (bei Farben, Adjektiven) ein bisschen", "beruflich, ärgerlich, verzeihlich, rötlich, kränklich"],
+        ["-ig", "mit, habend; (bei Zeitwörtern) dauernd", "geduldig, eigenständig, dreistündig (= drei Stunden lang), mehrjährig"],
+        ["Halbsuffixe", "-pflichtig (muss), -bedürftig (braucht), -fähig (kann), -arm / -reich (wenig / viel)", "verschreibungspflichtig, renovierungsbedürftig, zahlungsfähig, kalorienarm, abwechslungsreich"]
+      ],
+      "note": "Watch the pairs: **-ig** = duration, **-lich** = repetition („eine **dreistündige** Prüfung“ = three hours long, „**dreistündlich**“ = every three hours); **-lich** is neutral, **-isch** often negative („**kindlich**“ = like a child, „**kindisch**“ = childish); **-haft** vs. **-frei** („**fehlerhaft**“ = has mistakes, „**fehlerfrei**“ = has none).",
+      "noteDe": "Achte auf die Paare: **-ig** = Dauer, **-lich** = Wiederholung („eine **dreistündige** Prüfung“ = drei Stunden lang, „**dreistündlich**“ = alle drei Stunden); **-lich** ist neutral, **-isch** oft negativ („**kindlich**“ = wie ein Kind, „**kindisch**“ = unreif, albern); **-haft** oder **-frei** („**fehlerhaft**“ = hat Fehler, „**fehlerfrei**“ = hat keine)."
+    },
+    {
+      "type": "text",
+      "heading": "Compounds: the linking s and long words",
+      "headingDe": "Komposita: das Fugen-s und lange Wörter",
+      "md": "**The linking s (Fugen-s).** After the noun suffixes **-ung, -heit, -keit, -schaft, -ion, -tät, -ling** and **-tum** there is always an *-s-* when another noun follows: „die Bewerbung**s**frist“, „die Sicherheit**s**kontrolle“, „die Gemeinschaft**s**praxis“, „der Information**s**stand“. Many other words take it too, without a clear rule – „die Arbeit**s**zeit“, „der Verkehr**s**unfall“, „das Leben**s**mittel“ – learn them as you meet them. Feminine nouns in **-e** usually drop the *-e* or add *-n*: „die Schule → der Schulweg“, „die Sprache → der Sprachkurs“, „die Sonne → die Sonne**n**energie“.\n\n**Taking long words apart.** Read from the **right**: the last part is the thing itself, everything before it describes it. Then turn the parts into a phrase with a preposition, a genitive or a verb:\n\n- „die Lebensmittel|verschwendung“ → die Verschwendung **von** Lebensmitteln\n- „die Wohnungsbau|genossenschaft“ → eine Genossenschaft, die Wohnungen **baut**\n- „der Fachkräfte|mangel“ → der Mangel **an** Fachkräften\n- „verschreibungs|pflichtig“ → man **muss** es sich vom Arzt verschreiben lassen\n\nIn Lesen this is often enough to understand a sentence without a dictionary – you don't need the exact English word, only the idea.",
+      "mdDe": "**Das Fugen-s.** Nach den Nomen-Suffixen **-ung, -heit, -keit, -schaft, -ion, -tät, -ling** und **-tum** steht immer ein *-s-*, wenn ein weiteres Nomen folgt: „die Bewerbung**s**frist“, „die Sicherheit**s**kontrolle“, „die Gemeinschaft**s**praxis“, „der Information**s**stand“. Viele andere Wörter haben es auch, ohne klare Regel – „die Arbeit**s**zeit“, „der Verkehr**s**unfall“, „das Leben**s**mittel“ – lerne sie, wenn du sie triffst. Feminine Nomen auf **-e** verlieren meistens das *-e* oder bekommen ein *-n*: „die Schule → der Schulweg“, „die Sprache → der Sprachkurs“, „die Sonne → die Sonne**n**energie“.\n\n**Lange Wörter zerlegen.** Lies von **rechts**: Der letzte Teil ist die Sache selbst, alles davor beschreibt sie. Dann machst du aus den Teilen eine Wortgruppe mit Präposition, Genitiv oder Verb:\n\n- „die Lebensmittel|verschwendung“ → die Verschwendung **von** Lebensmitteln\n- „die Wohnungsbau|genossenschaft“ → eine Genossenschaft, die Wohnungen **baut**\n- „der Fachkräfte|mangel“ → der Mangel **an** Fachkräften\n- „verschreibungs|pflichtig“ → man **muss** es sich vom Arzt verschreiben lassen\n\nIm Lesen reicht das oft, um einen Satz ohne Wörterbuch zu verstehen – du brauchst nicht die genaue Übersetzung, nur die Idee."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Ich habe mich bei der Durchsage **verhört** und bin in den falschen Zug gestiegen.", "en": "I misheard the announcement and got on the wrong train." },
+        { "de": "Die neue Regelung soll vor allem Familien mit kleinen Kindern **entlasten**.", "en": "The new rule is mainly meant to ease the burden on families with small children." },
+        { "de": "Das Paket kam völlig **zerdrückt** bei uns an.", "en": "The parcel arrived completely crushed." },
+        { "de": "Der Konzern hat jahrelang die Umweltauflagen **umgangen**.", "en": "For years the corporation got round the environmental regulations." },
+        { "de": "Viele Kundinnen und Kunden **misstrauen** Online-Bewertungen.", "en": "Many customers distrust online reviews." },
+        { "de": "Nach der stressigen Woche war das Wochenende auf dem Land sehr **erholsam**.", "en": "After the stressful week, the weekend in the country was very restful." },
+        { "de": "Die gelieferte Ware war **fehlerhaft**, deshalb haben wir sie zurückgeschickt.", "en": "The goods delivered were faulty, so we sent them back." },
+        { "de": "Für ein gesundes **Wachstum** braucht das Unternehmen mehr **Fachkräfte**.", "en": "For healthy growth the company needs more skilled workers." },
+        { "de": "Dieses Medikament ist **verschreibungspflichtig**.", "en": "This medicine is only available on prescription." },
+        { "de": "Die **Bewerbungsfrist** endet am 30. April.", "en": "The application deadline is 30 April." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:**\n\n- **Lesen:** don't stop at an unknown word. Split it (prefix – stem – suffix, or the parts of a compound) and guess from the parts and the context: „unverzichtbar“ = un + verzichten + bar = *you can't do without it*. That is usually enough to answer the item.\n- **Sprachbausteine Teil 2:** the word bank often contains words from the same family (*Verständnis / verständlich / verstanden*) or similar adjectives (*erholsam / erholt*, *fehlerhaft / fehlerfrei*). First decide which word class the gap needs (noun after an article, adjective before a noun or after *sein*, verb in position 2 or at the end), then the meaning.\n- **Schreiben and Sprechen:** precise derived words raise your vocabulary score: „Die Lieferung war **mangelhaft**.“ instead of „nicht gut“, „Das würde uns sehr **entlasten**.“ instead of „helfen“.",
+      "mdDe": "**In der Prüfung:**\n\n- **Lesen:** Bleib nicht an einem unbekannten Wort hängen. Zerlege es (Präfix – Stamm – Suffix oder die Teile eines Kompositums) und rate aus den Teilen und dem Kontext: „unverzichtbar“ = un + verzichten + bar = *man kann nicht darauf verzichten*. Das reicht meistens, um die Aufgabe zu lösen.\n- **Sprachbausteine Teil 2:** Im Kasten stehen oft Wörter aus derselben Familie (*Verständnis / verständlich / verstanden*) oder ähnliche Adjektive (*erholsam / erholt*, *fehlerhaft / fehlerfrei*). Entscheide zuerst, welche Wortart die Lücke braucht (Nomen nach einem Artikel, Adjektiv vor einem Nomen oder nach *sein*, Verb auf Position 2 oder am Ende), dann die Bedeutung.\n- **Schreiben und Sprechen:** Präzise abgeleitete Wörter verbessern deine Wortschatz-Bewertung: „Die Lieferung war **mangelhaft**.“ statt „nicht gut“, „Das würde uns sehr **entlasten**.“ statt „helfen“."
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **Same prefix, different verb:** „Er hat das Schild **umgefahren**.“ (knocked it down) ≠ „Er hat den Stau **umfahren**.“ (avoided it). Check the *ge-* in the Partizip II.\n- **be- verbs take no preposition:** „eine Frage beantworten“, „ein Thema besprechen“ – not „auf eine Frage beantworten“.\n- **-lich ≠ -isch / -ig:** *kindlich* (like a child) vs. *kindisch* (childish), *dreistündig* (three hours long) vs. *dreistündlich* (every three hours).\n- **Gender of -tum and -nis:** mostly *das* (das Wachstum, das Ergebnis), but **der** Irrtum, **der** Reichtum, **die** Erkenntnis, **die** Kenntnis.\n- **miss- has no ge-:** missverstanden, missbraucht – „missgeverstanden“ or „gemissbraucht“ are wrong.",
+      "mdDe": "**Typische Fallen:**\n\n- **Gleiches Präfix, anderes Verb:** „Er hat das Schild **umgefahren**.“ (= es ist umgefallen) ≠ „Er hat den Stau **umfahren**.“ (= er ist ihm ausgewichen). Achte auf das *ge-* im Partizip II.\n- **Verben mit be- haben keine Präposition:** „eine Frage beantworten“, „ein Thema besprechen“ – nicht „auf eine Frage beantworten“.\n- **-lich ≠ -isch / -ig:** *kindlich* (wie ein Kind) gegenüber *kindisch* (unreif, albern), *dreistündig* (drei Stunden lang) gegenüber *dreistündlich* (alle drei Stunden).\n- **Genus bei -tum und -nis:** meistens *das* (das Wachstum, das Ergebnis), aber **der** Irrtum, **der** Reichtum, **die** Erkenntnis, **die** Kenntnis.\n- **miss- hat kein ge-:** missverstanden, missbraucht – „missgeverstanden“ oder „gemissbraucht“ sind falsch."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Der Fährmann hat uns in zehn Minuten ans andere Ufer übersetzt.",
+      "right": "Der Fährmann hat uns in zehn Minuten ans andere Ufer übergesetzt.",
+      "why": "Taking people across the water is the literal, separable verb „übersetzen“ (stress on „über“), so the Partizip II is „übergesetzt“. „übersetzt“ (no ge-) means *translated*.",
+      "whyDe": "Menschen über das Wasser bringen ist das wörtliche, trennbare Verb „übersetzen“ (Betonung auf „über“), deshalb heißt das Partizip II „übergesetzt“. „übersetzt“ (ohne ge-) bedeutet: in eine andere Sprache übertragen."
+    },
+    {
+      "wrong": "Ich beantworte gern auf Ihre Fragen.",
+      "right": "Ich beantworte gern Ihre Fragen.",
+      "why": "„be-“ makes the verb transitive: „beantworten“ takes a direct accusative object. Say either „auf Ihre Fragen antworten“ or „Ihre Fragen beantworten“.",
+      "whyDe": "„be-“ macht das Verb transitiv: „beantworten“ hat ein direktes Akkusativobjekt. Sag entweder „auf Ihre Fragen antworten“ oder „Ihre Fragen beantworten“."
+    },
+    {
+      "wrong": "Das war ein großes Irrtum.",
+      "right": "Das war ein großer Irrtum.",
+      "why": "Most nouns in „-tum“ are neuter (das Wachstum, das Eigentum), but „der Irrtum“ and „der Reichtum“ are masculine.",
+      "whyDe": "Die meisten Nomen auf „-tum“ sind neutral (das Wachstum, das Eigentum), aber „der Irrtum“ und „der Reichtum“ sind maskulin."
+    },
+    {
+      "wrong": "Mein Bruder ist 30, aber manchmal benimmt er sich noch richtig kindlich.",
+      "right": "Mein Bruder ist 30, aber manchmal benimmt er sich noch richtig kindisch.",
+      "why": "„kindisch“ (with „-isch“) is negative: immature behaviour of an adult. „kindlich“ (with „-lich“) is neutral or positive – typical of a child, e.g. „kindliche Neugier“.",
+      "whyDe": "„kindisch“ (mit „-isch“) ist negativ: unreifes Verhalten eines Erwachsenen. „kindlich“ (mit „-lich“) ist neutral oder positiv – typisch für ein Kind, z. B. „kindliche Neugier“."
+    },
+    {
+      "wrong": "Am Sonntag haben wir eine dreistündliche Wanderung durch das Tal gemacht.",
+      "right": "Am Sonntag haben wir eine dreistündige Wanderung durch das Tal gemacht.",
+      "why": "With time words, „-ig“ means duration (three hours long) and „-lich“ means repetition (every three hours: „Die Tropfen werden dreistündlich gegeben.“).",
+      "whyDe": "Bei Zeitwörtern bedeutet „-ig“ die Dauer (drei Stunden lang) und „-lich“ die Wiederholung (alle drei Stunden: „Die Tropfen werden dreistündlich gegeben.“)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Entschuldigung, können Sie das noch einmal sagen? Ich glaube, ich habe mich ___.",
+      "options": ["verhört", "überhört", "erhört"],
+      "answer": 0,
+      "explanation": "„ver-“ can express a mistake: „sich verhören“ = to mishear (like „sich verrechnen“, „sich verfahren“). „überhören“ (not to hear, to ignore) and „erhören“ (to grant a wish) are not reflexive.",
+      "explanationDe": "„ver-“ kann einen Fehler ausdrücken: „sich verhören“ = etwas falsch hören (wie „sich verrechnen“, „sich verfahren“). „überhören“ (= nicht hören, ignorieren) und „erhören“ (= eine Bitte erfüllen) sind nicht reflexiv."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wütend hat er den Brief in kleine Stücke ___.",
+      "options": ["zerrissen", "verrissen", "entrissen"],
+      "answer": 0,
+      "explanation": "„zer-“ = into pieces: „zerreißen“ → „zerrissen“. „verreißen“ means to criticise harshly (a film, a book), and „entreißen“ = to snatch something from someone (+ dative).",
+      "explanationDe": "„zer-“ = in Stücke: „zerreißen“ → „zerrissen“. „verreißen“ bedeutet, etwas sehr negativ zu kritisieren (einen Film, ein Buch), und „entreißen“ = jemandem etwas mit Gewalt wegnehmen (+ Dativ)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wir haben den Stau auf der Autobahn weiträumig ___ und sind pünktlich angekommen.",
+      "options": ["umfahren", "umgefahren", "umzufahren"],
+      "answer": 0,
+      "explanation": "Driving around something is the inseparable verb „umfahren“ (stress on „fahren“) – Partizip II without ge-: „haben … umfahren“. „umgefahren“ is the separable verb (to knock something down), and „umzufahren“ is a zu-infinitive.",
+      "explanationDe": "Um etwas herumfahren ist das untrennbare Verb „umfahren“ (Betonung auf „fahren“) – Partizip II ohne ge-: „haben … umfahren“. „umgefahren“ gehört zum trennbaren Verb (= etwas umstoßen), und „umzufahren“ ist ein Infinitiv mit zu."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die neue Waschmaschine war ___: Schon beim ersten Waschgang lief Wasser aus.",
+      "options": ["mangelhaft", "fehlerfrei", "mangelnd"],
+      "answer": 0,
+      "explanation": "„-haft“ here means having the quality: „mangelhaft“ = defective, with faults. „fehlerfrei“ says the opposite, and „mangelnd“ (lacking) is only used before a noun („mangelnde Erfahrung“).",
+      "explanationDe": "„-haft“ bedeutet hier: mit dieser Eigenschaft – „mangelhaft“ = mit Mängeln, defekt. „fehlerfrei“ sagt das Gegenteil, und „mangelnd“ steht nur vor einem Nomen („mangelnde Erfahrung“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Nach dem Tod der Eltern ging die Wohnung in das ___ der beiden Kinder über.",
+      "options": ["Eigentum", "Eigenschaft", "Eigenheit"],
+      "answer": 0,
+      "explanation": "„das Eigentum“ = property, ownership (neuter, „-tum“) – it fits „in das“. „die Eigenschaft“ (characteristic) and „die Eigenheit“ (peculiarity) are feminine and mean something else.",
+      "explanationDe": "„das Eigentum“ = Besitz (neutral, „-tum“) – es passt zu „in das“. „die Eigenschaft“ (= ein Merkmal) und „die Eigenheit“ (= eine Besonderheit) sind feminin und bedeuten etwas anderes."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die neue Umgehungsstraße soll die Altstadt vom Durchgangsverkehr ___.",
+      "hint": "(opposite of „belasten“)",
+      "hintDe": "(Gegenteil von „belasten“)",
+      "answers": ["entlasten"],
+      "explanation": "„ent-“ often expresses removal or the opposite: „belasten“ (to burden) → „entlasten“ (to relieve). After the modal verb „soll“ the infinitive goes to the end.",
+      "explanationDe": "„ent-“ drückt oft das Entfernen oder das Gegenteil aus: „belasten“ → „entlasten“ (= eine Last wegnehmen). Nach dem Modalverb „soll“ steht der Infinitiv am Ende."
+    },
+    {
+      "type": "gap",
+      "prompt": "Seit der Einführung des Online-Formulars hat sich die Zahl der Anträge fast ___.",
+      "hint": "(ver- + doppelt)",
+      "answers": ["verdoppelt"],
+      "explanation": "„ver-“ + adjective = to make or become like that: doppelt → „verdoppeln“. The Partizip II has no ge-: „hat sich verdoppelt“.",
+      "explanationDe": "„ver-“ + Adjektiv = so machen oder so werden: doppelt → „verdoppeln“. Das Partizip II hat kein ge-: „hat sich verdoppelt“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die gesamte ___ des Krankenhauses wurde in einer Versammlung über die Umstrukturierung informiert.",
+      "hint": "(alle Beschäftigten; -schaft)",
+      "answers": ["Belegschaft", "Mitarbeiterschaft"],
+      "explanation": "„-schaft“ can name a group of people: „die Belegschaft“ = all the employees of a company or institution.",
+      "explanationDe": "„-schaft“ kann eine Gruppe von Menschen bezeichnen: „die Belegschaft“ = alle Beschäftigten einer Firma oder Einrichtung."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ich habe volles ___ für Ihre Situation, kann Ihnen aber leider keinen Rabatt geben.",
+      "hint": "(verstehen + -nis)",
+      "answers": ["Verständnis"],
+      "explanation": "„verstehen“ + „-nis“ → „das Verständnis“ (with ä). The ending of „volles“ shows that a neuter noun follows.",
+      "explanationDe": "„verstehen“ + „-nis“ → „das Verständnis“ (mit ä). Die Endung von „volles“ zeigt, dass ein neutrales Nomen folgt."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Verhandlungen blieben ___: Nach acht Stunden gab es noch immer keine Einigung.",
+      "hint": "(ohne Ergebnis)",
+      "answers": ["ergebnislos", "erfolglos"],
+      "explanation": "„-los“ = without: „ergebnislos“ = without a result. „-frei“ is used for unwanted things (fehlerfrei, alkoholfrei), so „ergebnisfrei“ doesn't exist.",
+      "explanationDe": "„-los“ = ohne: „ergebnislos“ = ohne Ergebnis. „-frei“ nimmt man für unerwünschte Dinge (fehlerfrei, alkoholfrei), deshalb gibt es „ergebnisfrei“ nicht."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „sprechen über“ with a verb with the prefix be-.",
+      "instructionDe": "Ersetze „sprechen über“ durch ein Verb mit dem Präfix be-.",
+      "prompt": "Die Kommission hat lange über den Vorschlag gesprochen.",
+      "answers": [
+        "Die Kommission hat den Vorschlag lange besprochen.",
+        "Die Kommission hat lange den Vorschlag besprochen."
+      ],
+      "explanation": "„be-“ turns „über etwas sprechen“ into „etwas besprechen“: the prepositional object becomes a direct accusative object („den Vorschlag“). Partizip II without ge-: „besprochen“.",
+      "explanationDe": "Mit „be-“ wird aus „über etwas sprechen“ „etwas besprechen“: Das Präpositionalobjekt wird zum direkten Akkusativobjekt („den Vorschlag“). Partizip II ohne ge-: „besprochen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Make one compound noun (with its article).",
+      "instructionDe": "Bilde ein Kompositum (mit Artikel).",
+      "prompt": "die Anleitung für die Bedienung",
+      "answers": ["die Bedienungsanleitung", "Bedienungsanleitung"],
+      "explanation": "The last part („Anleitung“) is the core and gives the gender: „die“. After „-ung“ you always need the linking s: „Bedienungs“ + „anleitung“.",
+      "explanationDe": "Der letzte Teil („Anleitung“) ist der Kern und bestimmt das Genus: „die“. Nach „-ung“ brauchst du immer das Fugen-s: „Bedienungs“ + „anleitung“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with an adjective in -bar.",
+      "instructionDe": "Schreib den Satz mit einem Adjektiv auf -bar um.",
+      "prompt": "Diese Entwicklung konnte niemand vorhersehen.",
+      "answers": [
+        "Diese Entwicklung war nicht vorhersehbar.",
+        "Diese Entwicklung war für niemanden vorhersehbar.",
+        "Diese Entwicklung war unvorhersehbar."
+      ],
+      "explanation": "„-bar“ has a passive meaning: „vorhersehbar“ = can be foreseen. „niemand konnte …“ becomes „nicht / für niemanden vorhersehbar“ or „unvorhersehbar“.",
+      "explanationDe": "„-bar“ hat eine passive Bedeutung: „vorhersehbar“ = kann vorhergesehen werden. Aus „niemand konnte …“ wird „nicht / für niemanden vorhersehbar“ oder „unvorhersehbar“."
+    },
+    {
+      "type": "order",
+      "words": ["seine", "Es", "durchschauen.", "nicht", "zu", "leicht,", "Absichten", "ist"],
+      "answers": ["Es ist nicht leicht, seine Absichten zu durchschauen."],
+      "explanation": "„durchschauen“ (= to see through someone's plans) is inseparable here, so „zu“ stands before the whole verb: „zu durchschauen“. The separable „durchschauen“ (= to look through papers) would give „durchzuschauen“.",
+      "explanationDe": "„durchschauen“ (= erkennen, was jemand vorhat) ist hier untrennbar, deshalb steht „zu“ vor dem ganzen Verb: „zu durchschauen“. Das trennbare „durchschauen“ (= Unterlagen kurz ansehen) hätte „durchzuschauen“."
+    }
+  ],
+  "related": ["wortbildung", "nominalisierung", "nomen-verb-verbindungen-b2", "passiversatz", "trennbare-verben", "partizipialattribute"]
+}

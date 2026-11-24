@@ -1,0 +1,118 @@
+{
+  "id": "hoeren-1-03",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Radio Rhein-Main: Nachrichten am Nachmittag",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "speakers": [
+    { "id": "sprecher", "gender": "m", "age": "adult", "role": "Nachrichtensprecher" },
+    { "id": "korrespondentin", "name": "Miriam Kessler", "gender": "f", "age": "adult", "role": "Korrespondentin" }
+  ],
+  "intro": [
+    { "s": "sprecher", "t": "Radio Rhein-Main, es ist 16 Uhr. Hier sind die Nachrichten." }
+  ],
+  "items": [
+    {
+      "n": 1,
+      "label": "Meldung: Stadt kauft leer stehendes Kaufhaus",
+      "script": [
+        { "s": "sprecher", "t": "Offenbach. Die Stadt übernimmt das seit drei Jahren leer stehende Kaufhaus in der Fußgängerzone." },
+        { "s": "sprecher", "t": "Die Stadtverordneten stimmten gestern Abend mit großer Mehrheit für den Kauf, nachdem sich ein privater Investor im Sommer überraschend aus dem Projekt zurückgezogen hatte." },
+        { "s": "sprecher", "t": "Statt Verkaufsflächen sollen in dem Gebäude nun eine Grundschule, eine Stadtteilbibliothek und rund 60 Wohnungen entstehen. Die Kosten für den Umbau werden auf knapp 90 Millionen Euro geschätzt." },
+        { "s": "sprecher", "t": "Das Land Hessen hat Fördermittel in Aussicht gestellt. Mit dem Baubeginn rechnet die Stadt allerdings frühestens in zwei Jahren." }
+      ],
+      "statement": "Ein privater Investor will das leer stehende Kaufhaus in Offenbach zu einer Schule mit Wohnungen umbauen.",
+      "answer": false,
+      "explanation": "The city is buying the building („Die Stadt übernimmt …“) because the private investor „sich im Sommer überraschend aus dem Projekt zurückgezogen hatte“. The school and the flats are correct, but the actor is wrong.",
+      "explanationDe": "Die Stadt kauft das Gebäude („Die Stadt übernimmt …“), weil sich der private Investor „im Sommer überraschend aus dem Projekt zurückgezogen hatte“. Schule und Wohnungen stimmen, aber wer umbaut, ist falsch.",
+      "evidence": "nachdem sich ein privater Investor im Sommer überraschend aus dem Projekt zurückgezogen hatte"
+    },
+    {
+      "n": 2,
+      "label": "Meldung: Kompromiss beim Stellenabbau in Hanau",
+      "script": [
+        { "s": "sprecher", "t": "Hanau. Beim Medizintechnikhersteller Vitronik ist der monatelange Streit um den geplanten Stellenabbau beigelegt. Aus Hanau berichtet Miriam Kessler." },
+        { "s": "korrespondentin", "t": "Statt der ursprünglich angekündigten 600 Stellen sollen am Standort nun rund 250 wegfallen – und zwar ohne betriebsbedingte Kündigungen." },
+        { "s": "korrespondentin", "t": "Ältere Beschäftigte können vorzeitig in den Ruhestand gehen, wer freiwillig ausscheidet, erhält eine Abfindung. Im Gegenzug verzichtet die Belegschaft im kommenden Jahr auf die bereits vereinbarte Lohnerhöhung." },
+        { "s": "korrespondentin", "t": "Der Betriebsrat spricht von einem schmerzhaften, aber fairen Kompromiss." }
+      ],
+      "statement": "Bei Vitronik werden weniger Stellen abgebaut als geplant, dafür bekommen die Beschäftigten vorerst keine Lohnerhöhung.",
+      "answer": true,
+      "explanation": "Instead of „600 Stellen“ only „rund 250“ jobs will go, and „Im Gegenzug verzichtet die Belegschaft im kommenden Jahr auf die bereits vereinbarte Lohnerhöhung“. Both parts of the statement describe the compromise.",
+      "explanationDe": "Statt „600 Stellen“ fallen nur „rund 250“ weg, und „Im Gegenzug verzichtet die Belegschaft im kommenden Jahr auf die bereits vereinbarte Lohnerhöhung“. Beide Teile der Aussage beschreiben den Kompromiss.",
+      "evidence": "Statt der ursprünglich angekündigten 600 Stellen sollen am Standort nun rund 250 wegfallen"
+    },
+    {
+      "n": 3,
+      "label": "Meldung: Umfrage zum Ehrenamt in Hessen",
+      "script": [
+        { "s": "sprecher", "t": "Wiesbaden. Das Ehrenamt in Hessen verändert sich. Das geht aus einer Umfrage hervor, für die im Auftrag der Landesregierung rund 3.000 Menschen befragt wurden." },
+        { "s": "sprecher", "t": "Zwar engagieren sich heute mehr Menschen freiwillig als noch vor fünf Jahren – besonders deutlich ist der Anstieg bei den unter Dreißigjährigen." },
+        { "s": "sprecher", "t": "Immer weniger Freiwillige wollen sich aber langfristig binden: Viele helfen lieber bei einzelnen Projekten mit, als ein Amt im Vereinsvorstand zu übernehmen. Vor allem kleine Sportvereine fänden deshalb kaum noch Vorsitzende, heißt es in dem Bericht." }
+      ],
+      "statement": "Laut der Umfrage engagieren sich in Hessen immer weniger Menschen ehrenamtlich, vor allem Jüngere.",
+      "answer": false,
+      "explanation": "The opposite is true: „Zwar engagieren sich heute mehr Menschen freiwillig als noch vor fünf Jahren“, with the biggest rise among the under-thirties. „Immer weniger“ in the report only refers to volunteers who want to commit long-term.",
+      "explanationDe": "Das Gegenteil stimmt: „Zwar engagieren sich heute mehr Menschen freiwillig als noch vor fünf Jahren“, am stärksten bei den unter Dreißigjährigen. „Immer weniger“ bezieht sich nur auf Freiwillige, die sich langfristig binden wollen.",
+      "evidence": "Zwar engagieren sich heute mehr Menschen freiwillig als noch vor fünf Jahren"
+    },
+    {
+      "n": 4,
+      "label": "Meldung: Studie zu Wildbienen in der Stadt",
+      "script": [
+        { "s": "sprecher", "t": "Darmstadt. In Frankfurt und Darmstadt leben mehr Wildbienenarten als auf den Feldern im Umland. Das ist das Ergebnis einer dreijährigen Untersuchung von Biologinnen und Biologen aus Darmstadt." },
+        { "s": "sprecher", "t": "In Parks, Kleingärten und auf begrünten Dächern zählten sie über 180 Arten, auf landwirtschaftlich genutzten Flächen dagegen nur etwa halb so viele." },
+        { "s": "sprecher", "t": "Die höheren Temperaturen in der Stadt spielten dabei kaum eine Rolle, erklärte die Leiterin der Studie. Entscheidend seien die Vielfalt an Blüten und der Umstand, dass in Gärten weit weniger Pflanzenschutzmittel eingesetzt würden als auf Äckern." }
+      ],
+      "statement": "Biologen haben in städtischen Grünflächen etwa doppelt so viele Wildbienenarten gezählt wie auf Äckern und Feldern.",
+      "answer": true,
+      "explanation": "In parks, allotments and on green roofs they counted „über 180 Arten“, on farmland „nur etwa halb so viele“ – so about twice as many species in the cities. The higher temperatures are mentioned only as something that „kaum eine Rolle“ played.",
+      "explanationDe": "In Parks, Kleingärten und auf Dächern zählten sie „über 180 Arten“, auf Feldern „nur etwa halb so viele“ – in der Stadt also etwa doppelt so viele. Die höheren Temperaturen spielten laut Studie „kaum eine Rolle“.",
+      "evidence": "auf landwirtschaftlich genutzten Flächen dagegen nur etwa halb so viele"
+    },
+    {
+      "n": 5,
+      "label": "Meldung: verschollenes Gemälde wiederentdeckt",
+      "script": [
+        { "s": "sprecher", "t": "Bad Homburg. Ein seit Jahrzehnten verschollenes Gemälde ist auf einem Dachboden in Bad Homburg wieder aufgetaucht." },
+        { "s": "sprecher", "t": "Fachleute eines Frankfurter Kunstmuseums haben bestätigt, dass die Taunuslandschaft von der Malerin Clara Wendland stammt, die das Bild im Jahr 1902 gemalt hat." },
+        { "s": "sprecher", "t": "Die Familie, auf deren Dachboden es lag, hatte zunächst überlegt, das Gemälde versteigern zu lassen. Nun hat sie sich jedoch entschieden, es dem Bad Homburger Stadtmuseum als Dauerleihgabe zu überlassen." },
+        { "s": "sprecher", "t": "Ab März soll das Bild dort zu sehen sein." }
+      ],
+      "statement": "Die Besitzer des wiederentdeckten Gemäldes haben beschlossen, es bei einer Auktion verkaufen zu lassen.",
+      "answer": false,
+      "explanation": "Selling it at auction was only their first idea („hatte zunächst überlegt, das Gemälde versteigern zu lassen“). „Nun hat sie sich jedoch entschieden“ to give it to the local museum on permanent loan („als Dauerleihgabe“). So the auction was only considered – it is not the decision.",
+      "explanationDe": "Eine Versteigerung war nur die erste Idee: „hatte zunächst überlegt, das Gemälde versteigern zu lassen“. „Nun hat sie sich jedoch entschieden“, das Bild dem Museum „als Dauerleihgabe“ zu geben. Die Auktion war also nur eine Überlegung, nicht die Entscheidung.",
+      "evidence": "Nun hat sie sich jedoch entschieden, es dem Bad Homburger Stadtmuseum als Dauerleihgabe zu überlassen."
+    }
+  ],
+  "unscored": [
+    {
+      "after": 3,
+      "label": "Meldung: Lebensmittelhilfe sucht Fahrer",
+      "script": [
+        { "s": "sprecher", "t": "Frankfurt. Die Lebensmittelhilfe Main-Tisch kann seit dieser Woche nur noch an drei statt an fünf Tagen Essen ausgeben." },
+        { "s": "sprecher", "t": "Es fehlen ehrenamtliche Fahrerinnen und Fahrer, die die Spenden morgens bei Supermärkten und Bäckereien abholen. Gleichzeitig ist die Zahl der Menschen, die auf die Hilfe angewiesen sind, im Vergleich zum Vorjahr um ein Viertel gestiegen." },
+        { "s": "sprecher", "t": "Der Verein bittet deshalb vor allem Rentnerinnen und Rentner, sich für ein paar Stunden pro Woche zu melden." }
+      ]
+    }
+  ],
+  "outro": [
+    { "s": "sprecher", "t": "Das waren die Nachrichten von Radio Rhein-Main." }
+  ],
+  "glossary": [
+    { "de": "leer stehend", "en": "empty, vacant (building)" },
+    { "de": "sich aus etwas zurückziehen", "en": "to withdraw from something" },
+    { "de": "etwas in Aussicht stellen", "en": "to hold out the prospect of something" },
+    { "de": "einen Streit beilegen", "en": "to settle a dispute" },
+    { "de": "die betriebsbedingte Kündigung", "en": "dismissal for business reasons, redundancy" },
+    { "de": "die Abfindung", "en": "severance pay" },
+    { "de": "die Belegschaft", "en": "workforce, staff" },
+    { "de": "sich binden", "en": "to commit oneself" },
+    { "de": "auf etwas angewiesen sein", "en": "to depend on something" },
+    { "de": "das Pflanzenschutzmittel", "en": "pesticide" },
+    { "de": "verschollen", "en": "missing, lost for a long time" },
+    { "de": "die Dauerleihgabe", "en": "permanent loan (to a museum)" }
+  ]
+}

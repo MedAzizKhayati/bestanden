@@ -1,0 +1,110 @@
+{
+  "id": "sprachbausteine-2-09",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Lärm in der Stadt und was er mit uns macht",
+  "topic": "gesundheit",
+  "difficulty": 2,
+  "textType": "article",
+  "text": "Wenn die Stadt nie zur Ruhe kommt: Wie Lärm uns krank macht\n\nHupende Autos, quietschende Straßenbahnen, Presslufthämmer vor dem Schlafzimmerfenster: Wer in einer Großstadt wohnt, erlebt nur selten echte Stille. Nach einer Erhebung des Kasseler Instituts für Umweltmedizin fühlt sich mehr als die Hälfte der Stadtbewohnerinnen und Stadtbewohner [[1]] Straßenverkehrslärm belästigt. Trotzdem wird Lärm als Gesundheitsrisiko bis heute erheblich unterschätzt. Im [[2]] zu Feinstaub oder Stickoxiden, über deren Gefahren regelmäßig berichtet wird, gilt er vielen lediglich als lästige Begleiterscheinung des Stadtlebens.\n\nDabei sind die Folgen gut erforscht. Menschen, die dauerhaft einem nächtlichen Schallpegel von mehr als 55 Dezibel [[3]] sind, haben ein deutlich erhöhtes Risiko für Bluthochdruck, Herzinfarkt und Schlaganfall. Der Grund dafür ist die vermehrte Ausschüttung von Stresshormonen: Der Körper reagiert auf Lärm mit erhöhter Alarmbereitschaft, [[4]] wenn wir schlafen und die Geräusche gar nicht bewusst wahrnehmen. Wer jahrelang an einer stark befahrenen Straße wohnt, [[5]] deshalb häufiger unter Schlafstörungen, Konzentrationsproblemen und chronischer Erschöpfung.\n\nViele Betroffene sind überzeugt, sie hätten sich längst an den Krach [[6]]. Untersuchungen zeigen jedoch, dass dies ein Trugschluss ist: Vertraute Geräusche empfindet man mit der Zeit [[7]] als weniger störend, die körperliche Stressreaktion bleibt aber unverändert bestehen. Hinzu kommt, dass sich längst nicht jeder einen Umzug in eine ruhigere Gegend leisten kann. Gerade Haushalte mit geringem Einkommen wohnen überdurchschnittlich häufig an Hauptverkehrsstraßen und nehmen die Belastung notgedrungen in [[8]], weil die Mieten dort niedriger sind.\n\nAn wirksamen Gegenmitteln mangelt es eigentlich nicht. Lärmmindernder Asphalt, Tempo 30 in der Nacht und Schallschutzfenster können spürbar [[9]] schaffen; auch begrünte Fassaden und Parks dämpfen Geräusche. Die Grazer Umweltmedizinerin Hanna Leutgeb fordert deshalb, den Lärmschutz bei jeder Stadtplanung von Anfang an zu berücksichtigen. [[10]] drohe eine Zunahme chronischer Erkrankungen, deren Behandlung das Gesundheitssystem auf Dauer Milliarden kosten werde.",
+  "words": [
+    { "key": "a", "text": "Abhilfe" },
+    { "key": "b", "text": "andernfalls" },
+    { "key": "c", "text": "Anspruch" },
+    { "key": "d", "text": "ausgesetzt" },
+    { "key": "e", "text": "betroffen" },
+    { "key": "f", "text": "durch" },
+    { "key": "g", "text": "Gegensatz" },
+    { "key": "h", "text": "gewohnt" },
+    { "key": "i", "text": "gewöhnt" },
+    { "key": "j", "text": "Kauf" },
+    { "key": "k", "text": "leidet" },
+    { "key": "l", "text": "selbst" },
+    { "key": "m", "text": "sobald" },
+    { "key": "n", "text": "über" },
+    { "key": "o", "text": "zwar" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "f",
+      "explanation": "„sich durch etwas belästigt fühlen“ (to feel disturbed by something) – „durch“ names the cause of the disturbance: „durch Straßenverkehrslärm belästigt“. „über“ is the trap: you complain „über Lärm“ (sich über etwas beschweren/ärgern), but „belästigt“ needs „durch“ (or „von“).",
+      "explanationDe": "„sich durch etwas belästigt fühlen“ – „durch“ nennt die Ursache der Störung: „durch Straßenverkehrslärm belästigt“. „über“ ist die Falle: Du beschwerst dich „über Lärm“ (sich über etwas beschweren/ärgern), aber „belästigt“ braucht „durch“ (oder „von“).",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 2,
+      "answer": "g",
+      "explanation": "„im Gegensatz zu“ (in contrast to) compares noise with fine dust, whose dangers are often in the news. Only „Gegensatz“ completes „Im … zu“; „Anspruch“ is also masculine, but „im Anspruch zu“ does not exist.",
+      "explanationDe": "„im Gegensatz zu“ vergleicht Lärm mit Feinstaub, über dessen Gefahren oft berichtet wird. Nur „Gegensatz“ ergänzt „Im … zu“; „Anspruch“ ist auch maskulin, aber „im Anspruch zu“ gibt es nicht.",
+      "grammar": "adversative-saetze"
+    },
+    {
+      "n": 3,
+      "answer": "d",
+      "explanation": "„einer Sache ausgesetzt sein“ (to be exposed to something) takes a dative object: „einem nächtlichen Schallpegel … ausgesetzt sind“. „betroffen“ is the trap – it is close in meaning, but it needs „von“ („von Lärm betroffen sein“), not a dative object. „gewohnt“ does not fit either: „etwas gewohnt sein“ takes the accusative („einen Schallpegel“).",
+      "explanationDe": "„einer Sache ausgesetzt sein“ verlangt ein Dativobjekt: „einem nächtlichen Schallpegel … ausgesetzt sind“. „betroffen“ ist die Falle – die Bedeutung ist ähnlich, aber es braucht „von“ („von Lärm betroffen sein“), kein Dativobjekt. Auch „gewohnt“ passt nicht: „etwas gewohnt sein“ steht mit Akkusativ („einen Schallpegel“)."
+    },
+    {
+      "n": 4,
+      "answer": "l",
+      "explanation": "„selbst wenn“ (even when) shows that the body reacts in a situation where you would not expect it – while we are asleep. „sobald“ is a conjunction itself and cannot stand in front of „wenn“; „zwar“ needs a following „aber“.",
+      "explanationDe": "„selbst wenn“ zeigt, dass der Körper auch in einer Situation reagiert, in der man es nicht erwartet – im Schlaf. „sobald“ ist selbst eine Konjunktion und kann nicht vor „wenn“ stehen; „zwar“ braucht ein „aber“ danach.",
+      "grammar": "konzessive-saetze-b2"
+    },
+    {
+      "n": 5,
+      "answer": "k",
+      "explanation": "„unter etwas leiden“ (to suffer from something) – „unter Schlafstörungen“ after the gap shows which verb is missing. After the clause „Wer …“ the main clause needs a finite verb in the singular, and only „leidet“ is one.",
+      "explanationDe": "„unter etwas leiden“ – „unter Schlafstörungen“ nach der Lücke zeigt, welches Verb fehlt. Nach dem Satz mit „Wer …“ braucht der Hauptsatz ein konjugiertes Verb im Singular, und nur „leidet“ ist eins.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 6,
+      "answer": "i",
+      "explanation": "„sich an etwas gewöhnen“ (to get used to something); the past participle completes „hätten sich … an den Krach gewöhnt“. „gewohnt“ is the trap: it is the participle of „wohnen“ or the adjective in „etwas gewohnt sein“ and is never used with „sich an“.",
+      "explanationDe": "„sich an etwas gewöhnen“; das Partizip ergänzt „hätten sich … an den Krach gewöhnt“. „gewohnt“ ist die Falle: Es ist das Partizip von „wohnen“ oder das Adjektiv in „etwas gewohnt sein“ und steht nie mit „sich an“.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 7,
+      "answer": "o",
+      "explanation": "„zwar … aber“ admits one point and then limits it: familiar sounds do feel less annoying, „aber“ the stress reaction stays. The „aber“ later in the sentence is the signal. „sobald“ would send the verb to the end and cannot stand in the middle of a main clause.",
+      "explanationDe": "„zwar … aber“ gibt einen Punkt zu und schränkt ihn dann ein: Vertraute Geräusche stören zwar weniger, „aber“ die Stressreaktion bleibt. Das „aber“ später im Satz ist das Signal. „sobald“ schickt das Verb ans Ende und kann nicht mitten im Hauptsatz stehen.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 8,
+      "answer": "j",
+      "explanation": "„etwas in Kauf nehmen“ (to accept a disadvantage, to put up with it) – low-income households accept the noise because the rent is cheaper. „Anspruch“ is the trap: „in Anspruch nehmen“ exists too, but means „to make use of“ (a service, help), which makes no sense with „die Belastung“.",
+      "explanationDe": "„etwas in Kauf nehmen“ heißt, einen Nachteil akzeptieren – Haushalte mit wenig Geld akzeptieren den Lärm, weil die Miete billiger ist. „Anspruch“ ist die Falle: „in Anspruch nehmen“ gibt es auch, es bedeutet aber „nutzen“ (eine Hilfe, einen Service) – das passt nicht zu „die Belastung“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 9,
+      "answer": "a",
+      "explanation": "„Abhilfe schaffen“ (to remedy a problem) is a fixed noun-verb combination: quiet asphalt, speed limits and soundproof windows help against noise. None of the other nouns („Anspruch“, „Kauf“, „Gegensatz“) combines with „schaffen“.",
+      "explanationDe": "„Abhilfe schaffen“ (= ein Problem lösen oder kleiner machen) ist eine feste Nomen-Verb-Verbindung: Leiser Asphalt, Tempo 30 und Schallschutzfenster helfen gegen Lärm. Keines der anderen Nomen („Anspruch“, „Kauf“, „Gegensatz“) passt zu „schaffen“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 10,
+      "answer": "b",
+      "explanation": "„andernfalls“ (otherwise) says what happens if the demand is not met: without noise protection, chronic diseases will increase. It stands in position 1, followed directly by the verb „drohe“. „sobald“ is a subordinating conjunction and would send the verb to the end.",
+      "explanationDe": "„andernfalls“ (= wenn nicht, sonst) sagt, was passiert, wenn man die Forderung nicht erfüllt: Ohne Lärmschutz nehmen chronische Krankheiten zu. Es steht auf Position 1, direkt danach kommt das Verb „drohe“. „sobald“ leitet einen Nebensatz ein und würde das Verb ans Ende schicken.",
+      "grammar": "konditionalsaetze"
+    }
+  ],
+  "glossary": [
+    { "de": "der Presslufthammer", "en": "jackhammer" },
+    { "de": "die Begleiterscheinung", "en": "side effect, accompanying phenomenon" },
+    { "de": "einer Sache ausgesetzt sein", "en": "to be exposed to something" },
+    { "de": "der Schallpegel", "en": "sound level" },
+    { "de": "die Ausschüttung (von Hormonen)", "en": "release (of hormones)" },
+    { "de": "der Trugschluss", "en": "fallacy, false conclusion" },
+    { "de": "etwas in Kauf nehmen", "en": "to accept something (a disadvantage), to put up with it" },
+    { "de": "notgedrungen", "en": "out of necessity" },
+    { "de": "Abhilfe schaffen", "en": "to remedy (a problem)" },
+    { "de": "dämpfen", "en": "to muffle, to reduce (noise)" }
+  ]
+}

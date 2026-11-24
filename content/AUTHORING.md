@@ -295,3 +295,146 @@ konjunktiv-2, passiv, reflexive-verben, verben-mit-praepositionen, trennbare-ver
 verben-mit-dativ, kasus-und-artikel, genitiv, n-deklination, pronomen, adjektivdeklination, komparation,
 partizip-als-adjektiv, adjektive-mit-praepositionen, praepositionen-mit-kasus, wechselpraepositionen,
 temporale-praepositionen, lokale-praepositionen, wortbildung, nomen-verb-verbindungen
+
+---
+
+## 8. telc Deutsch B2 (`content/telc-b2/…`)
+
+Everything in sections 1–6 applies, with these differences. The format follows telc Deutsch B2 (revised 2019 edition);
+`src/lib/exams/telc-b2.ts` holds the official structure. Files: `content/telc-b2/<partId>/NN.json`,
+`"id": "<partId>-NN"`, `"examId": "telc-b2"`.
+
+**Level.** B2: abstract and argumentative topics, Nominalstil in articles, Konjunktiv I/II, passive and its
+alternatives, extended participle attributes, two-part connectors, Nomen-Verb-Verbindungen. Reading and listening
+texts may occasionally go beyond B2 (put such words in the glossary); items, statements and options stay at B2.
+Topics follow the telc B2 catalogue: person, body & health, housing, places, daily life, food, education & learning,
+work & career, business & consumption, services, nature & environment, travel & transport, leisure & entertainment,
+media & ICT, society & state, relations with other people and cultures.
+
+**Difficulty.** Sets tagged 2/3 must reach the B2 targets in `src/lib/content/difficulty.ts` (measured on the official
+B2 Übungstest). Distribution per part: Lesen/Sprachbausteine (12 sets) → 2 × 1, 8 × 2, 2 × 3; Hören (10 sets) →
+2 × 1, 6 × 2, 2 × 3; Schreiben (24) → 4 × 1, 16 × 2, 4 × 3; Sprechen (16 each) → 2 × 1, 11 × 2, 3 × 3.
+
+**Traps at B2** are subtler than at B1: paraphrase instead of repeated words, statements that are true for a
+different group/time/place, a negation hidden in a subordinate clause („nicht etwa, weil …“), concessive turns
+(„zwar … aber“), quantity shifts („die meisten“ vs. „alle“), opinion vs. fact, plans vs. decisions. A false
+statement must contradict the text; „not mentioned“ is never the reason for „falsch“.
+
+### Lesen Teil 1 – `headline-matching`
+- Five press texts of **140–200 words** each (total 750–950), taken from **two topic areas** (e.g. three texts on
+  work and two on travel). Because texts share a topic, several headlines must look plausible for more than one
+  text; the correct one sums up the **whole** text, distractors fit a detail, the wrong group, a reversed relation
+  or an exaggeration. 10 headlines, newspaper style, 3–10 words.
+
+### Lesen Teil 2 – `text-mc`
+- One article of **500–620 words** (lead optional), Nominalstil, 5–8 paragraphs: a study, a social trend, a debate,
+  an economic or scientific development, a portrait with background. Five stems in text order. Options paraphrase
+  the text (avoid lifting its words); distractors use text words with a wrong relation, a wrong quantifier, the
+  opposite claim or a statement from a different source/person in the text.
+
+### Lesen Teil 3 – `ad-matching` with info texts
+- Ten **one-sentence** situations of 8–18 words about another person or you: „Ein Kollege möchte …“, „Ihre
+  Nachbarin sucht …“, „Sie müssen kurzfristig …“. Each hides one or two decisive conditions.
+- Twelve **info texts** (a–l): `heading` (name or title), optional `subheading`, and the body in **`text`** (one or
+  two paragraphs, **70–110 words**, info-brochure or website style; `lines` stays empty). Optional `footer`.
+  Total about 1,000 words.
+- Exactly 1–2 situations are `"x"` with a near-miss text that fails one condition. Several texts per sub-topic, so
+  that every situation needs careful reading.
+
+### Sprachbausteine Teil 1 – `gap-mc`
+- A personal or semi-formal letter/e-mail of **220–300 words**, ten gaps. B2 grammar: connectors (zwar, sondern,
+  sowohl, je … desto, indem, sodass, falls, sofern, es sei denn, anstatt), relative pronouns incl. dessen/deren/wo-
+  forms, prepositional adverbs (darauf/worauf), Konjunktiv II past, passive forms, Partizipien, reflexive and
+  indefinite pronouns, es, verb-preposition combinations – plus 2–3 lexical gaps (three similar words such as
+  „außerdem / eigentlich / überhaupt“ or „verbringen / unternehmen / verplanen“). Answers spread over a/b/c.
+
+### Sprachbausteine Teil 2 – `gap-wordbank`
+- A **newspaper or magazine article** (`"textType": "article"`) of **260–350 words**, no `stimulus`, a headline as
+  its first line followed by `\n\n`. 15 words in normal case: prepositions, connectors, adverbs, verbs, adjectives,
+  nouns. Gaps are decided by collocations, fixed prepositions, connectors and meaning. Five words are left over;
+  none may be a defensible second answer.
+
+### Hören – general
+- Every B2 text is heard **once**. Spoken style of real radio: news register in Teil 1, natural spontaneous speech
+  in Teil 2 (fillers like „also“, „na ja“, „sag ich mal“, self-corrections – never „äh“), announcements in Teil 3.
+- TTS rules from section 5 apply (no symbols, numbers spelt so that they are read correctly).
+
+#### Hören Teil 1 – `audio-short` news bulletin
+- `intro`: the news presenter opens the bulletin („Hier ist Radio Rheinwelle mit den Nachrichten. Berlin: …“ – the
+  first report may start in the intro line or in item 1).
+- **Six** reports of **55–95 words** each (30–45 seconds): five are `items` (n 1–5, in order), one is in
+  `unscored` with `after` = the number of items before it (e.g. `"after": 2` → between items 2 and 3). Topics:
+  politics, economy, society, science, culture, sport, accidents, weather. The last report may be the weather.
+  `outro`: „Das waren die Nachrichten.“ (one line). Speakers: one news presenter, optionally a second reader.
+- Statements (12–20 words) test the **core** of each report: who decided what, what changed, what was the result;
+  traps by paraphrase, wrong actor, wrong cause, reversed tendency. 2–3 true. `label` e.g. „Meldung: neue Mietregeln“.
+
+#### Hören Teil 2 – `audio-long` radio interview
+- A radio interview of **650–900 words** (2–3 speakers: presenter + guest; the guest may tell stories, digress and
+  use colloquial speech). `context` in German. Ten statements in order, paraphrased, 4–6 true. Include stretches
+  where nothing is tested, and opinions vs. facts.
+
+#### Hören Teil 3 – `audio-short` announcements
+- No intro. Five texts of **60–100 words** each: voicemail/service hotline, radio tip, traffic news, weather,
+  announcement at a station/airport/shop/museum, event announcement. Each item has **`context`** – one German
+  sentence the announcer reads before the text („Sie hören eine Nachricht auf einer Mailbox.“) – and a `label`.
+  The statement tests one functional detail (when, how, where, what you have to do, what it costs, who can come);
+  competing details in the text.
+
+### Schreiben – `writing-email` (B2)
+- Always `"register": "semiformal"` and a **`taskLabel`**: „Bitte um Informationen“, „Beschwerde“, „Anfrage“,
+  „Reklamation“, „Bewerbung“, „Bitte um Unterstützung“ … (aim for a balance of requests and complaints).
+- `situation`: 2–4 German sentences with the reason for writing and the task („… Schreiben Sie eine Beschwerde an
+  das Hotel.“). `stimulus`: an ad or info text of 60–130 words (`kind: "ad"`) in brochure/website style, with
+  concrete promises the candidate can refer to.
+- `leitpunkte`: four German imperatives as in the exam: „Legen Sie dar, …“, „Beschreiben Sie, …“, „Erläutern
+  Sie, …“, „Erklären Sie, was Sie … erwarten“, „Stellen Sie weitere Fragen zu …“. Candidates cover three of four.
+- `model.text`: **180–240 words** that would score A: subject, formal salutation, introduction with the reason for
+  writing, **three** of the four points (or two plus an own aspect), each developed in two or more sentences,
+  B2 structures (Konjunktiv II for requests, passive, Nominalstil where natural, two-part connectors), closing
+  sentence and „Mit freundlichen Grüßen“ + name. `modelNotes` say which three points the model covers and why.
+
+### Sprechen Teil 1 – `speaking-experience`
+- `topics`: **seven** topics as on the telc sheet, each a relative-clause title and cues in brackets style:
+  `{ "title": "Eine Reise, die Sie unternommen haben", "cues": "Ziel, Zeit, Land und Leute, Sehenswürdigkeiten usw." }`.
+  Vary the sheets across sets (a course you took, a job or internship, a celebration, a move, a decision, a person
+  who influenced you, a book/film/series, a concert/exhibition, a sports event, a project, a challenge you mastered,
+  a habit you changed …). Do not reuse the same seven across sets.
+- `modelTopics`: the indexes A and B chose. `structure`: 4–6 German outline steps for a 1½-minute talk.
+  `questions`: 6–10 follow-up questions a partner may ask (du-Form). `model`: A talks about topic A (8–10 lines,
+  ~1½ minutes, past tenses, evaluation), B asks 2–3 questions, A answers; then B talks about topic B, A asks, B
+  answers. Optional `P` (examiner) lines for transitions. `phrases`/`vocabulary`: Redemittel for narrating and
+  evaluating experiences, topic words.
+
+### Sprechen Teil 2 – `speaking-discussion`
+- `theme`: a controversial question („Sollte Homeoffice ein Recht für alle werden?“). `article`: a newspaper text of
+  **230–350 words** (headline, optional lead, 3–6 paragraphs, fictional `source`) presenting a study, a proposal or a
+  debate with arguments on both sides and concrete numbers/examples.
+- `ideas.pro`/`ideas.contra`: 4–6 arguments each. `questions`: 4–6 discussion prompts. `model`: A summarises the text
+  briefly (≤ 1 minute, reported speech: „Laut dem Artikel …“, „Die Autorin vertritt die Ansicht, dass …“), B adds an
+  aspect, then a real discussion – opinions with reasons and examples, counter-arguments, concessions („Da hast du
+  zwar recht, aber …“), suggestions, a short conclusion. 18–28 lines.
+
+### Sprechen Teil 3 – `speaking-planning` (B2)
+- `situation`: 2–4 sentences describing a project (a farewell party for a colleague, a city tour for exchange
+  students, a charity run, a conference day, a club anniversary, a trip for senior citizens …) as on the telc sheet –
+  without a checklist on the sheet. `checklist`: 5–7 aspects to think about (shown as preparation help, not as part of
+  the task sheet). `model`: proposals with reasons, objections, compromises, distributing tasks, final summary;
+  B2 language (Konjunktiv II, „Was hältst du davon, wenn …“, „Ich gebe zu bedenken, dass …“). 18–26 lines.
+
+### Learning content for B2
+- **Grammar** topics: `"level": "B2"`, `order` 20+ within their category so they follow the B1 topics. Ids below.
+- **Vocabulary** themes: ids start with `b2-` (word ids `b2-<theme>-<slug>`), `"level": "B2"`, `order` 101+. Words are
+  B2 (not in the B1 themes – check `content/vocabulary/*.json` before adding a common word).
+- **Redemittel**: `"level": "B2"`, ids start with `b2-`, contexts `schreiben`, `sprechen-1|2|3` (meaning the B2
+  parts) or `allgemein`.
+- **Lists**: `"level": "B2"`, ids start with `b2-`, entries that are not in the B1 list of the same kind.
+
+### B2 grammar topic ids (use for `grammar` references and file names)
+
+modalsaetze, adversative-saetze, konditionalsaetze, konsekutivsaetze-b2, konzessive-saetze-b2,
+zweiteilige-konnektoren-b2, relativsaetze-b2, irreale-vergleichssaetze, satzgliedstellung, infinitivsaetze-b2,
+korrelate, passiv-b2, passiversatz, konjunktiv-1, konjunktiv-2-vergangenheit, vermutungen,
+verben-mit-praepositionen-b2, nominalisierung, das-wort-es, partizipialattribute, adjektive-mit-praepositionen-b2,
+adjektivdeklination-b2, praepositionen-mit-genitiv, praepositionen-b2, nomen-verb-verbindungen-b2, modalpartikeln,
+wortbildung-b2, nomen-mit-praepositionen, textverweise

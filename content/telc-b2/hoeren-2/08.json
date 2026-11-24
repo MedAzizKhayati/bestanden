@@ -1,0 +1,152 @@
+{
+  "id": "hoeren-2-08",
+  "examId": "telc-b2",
+  "type": "audio-long",
+  "title": "Respekt an der Seitenlinie",
+  "topic": "sport",
+  "difficulty": 2,
+  "context": "Radiosendung „Sport am Sonntag“: Der Moderator spricht mit einer Schiedsrichterin aus dem Amateurfußball, die junge Schiedsrichter ausbildet",
+  "speakers": [
+    { "id": "mod", "name": "Moderator", "gender": "m", "age": "adult", "role": "Moderator" },
+    { "id": "wollenberg", "name": "Frau Brinkhaus", "gender": "f", "age": "adult", "role": "Schiedsrichterin" }
+  ],
+  "script": [
+    { "s": "mod", "t": "Und weiter geht's bei „Sport am Sonntag“. Jedes Wochenende werden in Deutschland zehntausende Amateurspiele angepfiffen – und ohne die Leute mit der Pfeife fände kein einziges davon statt." },
+    { "s": "mod", "t": "Eine von ihnen sitzt heute bei mir im Studio: Jana Brinkhaus pfeift in der Landesliga und bildet in ihrem Fußballkreis bei Hannover den Schiedsrichternachwuchs aus. Herzlich willkommen!" },
+    { "s": "wollenberg", "t": "Danke für die Einladung! Heute bin ich übrigens total entspannt – ausnahmsweise hab ich mal kein Spiel." },
+    { "s": "mod", "t": "Wie sind Sie denn überhaupt zum Pfeifen gekommen? Haben Sie selbst gespielt?" },
+    { "s": "wollenberg", "t": "Also, gespielt hab ich schon, im Mittelfeld, und zwar, sagen wir mal, mit mehr Einsatz als Talent. Mein Trainer hat dann irgendwann gemeint, ich rede auf dem Platz sowieso mehr als alle anderen – da könnte ich auch gleich pfeifen." },
+    { "s": "wollenberg", "t": "Das war eher als Witz gemeint, aber ich hab tatsächlich den Lehrgang gemacht. Mit fünfzehn – nein, Moment, sechzehn war ich schon, der Kurs war ja kurz nach meinem Geburtstag." },
+    { "s": "mod", "t": "Und Ihr erstes Spiel – wissen Sie das noch?" },
+    { "s": "wollenberg", "t": "Oh ja, das vergisst man nicht. D-Jugend, ein Sonntagmorgen im November, und es hat geregnet, als ob die Welt untergeht." },
+    { "s": "wollenberg", "t": "Nach zwanzig Minuten kam der Trainer der Gäste auf den Platz gerannt und hat mich angebrüllt – wegen eines Einwurfs! Ich hab mich nach dem Spiel in der Kabine eingeschlossen und nur noch geheult." },
+    { "s": "mod", "t": "Und trotzdem haben Sie weitergemacht." },
+    { "s": "wollenberg", "t": "Das hab ich meinem Vater zu verdanken. Der hat mich hingefahren und das ganze Spiel über im Auto gewartet, weil er mich nicht nervös machen wollte." },
+    { "s": "wollenberg", "t": "Auf der Heimfahrt hat er nur gesagt: Wer wegen eines Einwurfs so rumschreit, der hat ein Problem – nicht du." },
+    { "s": "mod", "t": "Man liest ja immer häufiger von Gewalt gegen Schiedsrichter. Ist es auf den Plätzen schlimmer geworden?" },
+    { "s": "wollenberg", "t": "Na ja, da muss man unterscheiden. Körperliche Angriffe sind zum Glück selten, auch wenn natürlich jeder einzelne Fall einer zu viel ist." },
+    { "s": "wollenberg", "t": "Was aber deutlich zugenommen hat, sind Beleidigungen. Und die kommen viel öfter von draußen als von den Spielern, also von Zuschauern – und bei Jugendspielen leider vor allem von Eltern." },
+    { "s": "mod", "t": "Von Eltern? Ausgerechnet bei Kindern?" },
+    { "s": "wollenberg", "t": "Gerade bei Kindern. Da steht dann ein Vater an der Linie, der seinen Sohn schon in der Nationalmannschaft sieht – und ich bin schuld, wenn's nicht klappt." },
+    { "s": "wollenberg", "t": "Deshalb haben wir in unserem Kreis vor zwei Jahren eine Regel eingeführt: Bei den jüngeren Mannschaften müssen die Eltern hinter einem Seil stehen, mindestens fünfzehn Meter vom Spielfeld entfernt." },
+    { "s": "mod", "t": "Und hält sich jemand daran?" },
+    { "s": "wollenberg", "t": "Meistens schon. Am Anfang gab's natürlich Proteste, aber inzwischen sagen sogar viele Eltern, dass es auf den Plätzen ruhiger geworden ist." },
+    { "s": "mod", "t": "Als Frau in der Landesliga sind Sie ja immer noch eine Ausnahme. Bekommen Sie das zu spüren?" },
+    { "s": "wollenberg", "t": "Weniger, als man vielleicht denkt. Die Spieler sind zu mir oft sogar höflicher als zu meinen männlichen Kollegen." },
+    { "s": "wollenberg", "t": "Von der Tribüne kommt schon mal ein blöder Spruch, so nach dem Motto, ich soll mich lieber um den Haushalt kümmern. Aber so was prallt inzwischen an mir ab, sag ich mal." },
+    { "s": "mod", "t": "Kommen wir zur Ausbildung. Viele Vereine klagen ja, dass es zu wenige Schiedsrichter gibt." },
+    { "s": "wollenberg", "t": "Das stimmt leider. Bei uns im Kreis haben wir knapp zweihundert aktive Leute, bräuchten aber an die dreihundert." },
+    { "s": "wollenberg", "t": "Dabei ist das Problem gar nicht, Leute für den Anfängerkurs zu finden – die Kurse sind eigentlich immer voll. Das Problem ist, sie zu halten. Früher hat ungefähr die Hälfte nach dem ersten Jahr wieder aufgehört." },
+    { "s": "mod", "t": "Die Hälfte! Was tun Sie dagegen?" },
+    { "s": "wollenberg", "t": "Wir haben ein Patenprogramm aufgebaut. Jeder Neuling bekommt einen Paten oder eine Patin, also jemanden mit viel Erfahrung, der bei den ersten fünf Spielen mitkommt und hinterher alles in Ruhe mit ihm bespricht." },
+    { "s": "wollenberg", "t": "Und zwar nicht nur die Fehler, das ist mir wichtig! Man muss den Neuen auch sagen, was gut war, sonst verlieren die schnell die Lust." },
+    { "s": "mod", "t": "Und? Zeigt das schon Wirkung?" },
+    { "s": "wollenberg", "t": "Also, ganz sicher kann man das noch nicht sagen, dafür läuft das Programm noch nicht lange genug. Aber von unserem letzten Kurs sind von zweiundzwanzig Leuten noch achtzehn dabei – ein richtig guter Wert." },
+    { "s": "mod", "t": "Immer wieder wird auch über Bodycams diskutiert, also kleine Kameras, die Schiedsrichter an der Brust tragen. Wäre das was für Sie?" },
+    { "s": "wollenberg", "t": "Da bin ich, ehrlich gesagt, hin- und hergerissen. In manchen Regionen wird das ja gerade getestet, und ich verstehe, dass man Beweise haben möchte, wenn etwas passiert." },
+    { "s": "wollenberg", "t": "Aber ich will nicht, dass sich jeder Sonntag auf dem Dorfsportplatz wie ein Polizeieinsatz anfühlt. Ich glaube, mit Gesprächen erreicht man am Ende mehr als mit Kameras." },
+    { "s": "mod", "t": "Mussten Sie selbst schon mal ein Spiel abbrechen?" },
+    { "s": "wollenberg", "t": "Ein einziges Mal, vor drei Jahren. Da ist nach einem Elfmeter ein Zuschauer aufs Feld gelaufen und hat einen Spieler zu Boden geschubst – nicht mich übrigens, das wird oft falsch erzählt." },
+    { "s": "wollenberg", "t": "Ich hab dann beide Mannschaften in die Kabinen geschickt und nicht wieder angepfiffen. Richtig war das, aber danach hab ich zwei Nächte kaum geschlafen." },
+    { "s": "mod", "t": "Zum Schluss: Was sagen Sie jungen Leuten, die überlegen, mit dem Pfeifen anzufangen?" },
+    { "s": "wollenberg", "t": "Dass man dabei unglaublich viel fürs Leben lernt. Man lernt, in Sekunden zu entscheiden und dann auch dazu zu stehen, wenn zweihundert Leute pfeifen." },
+    { "s": "wollenberg", "t": "Ich bin im Hauptberuf Grundschullehrerin, und ganz ehrlich: Nach einem Derby in der Landesliga bringt mich in der Klasse so schnell nichts mehr aus der Ruhe." },
+    { "s": "mod", "t": "Jana Brinkhaus, vielen Dank für das Gespräch – und am nächsten Wochenende ein faires Spiel!" },
+    { "s": "wollenberg", "t": "Danke schön! Und an alle Eltern da draußen: Bitte hinter dem Seil bleiben." }
+  ],
+  "statements": [
+    {
+      "n": 1,
+      "text": "Die Anregung, Schiedsrichterin zu werden, kam ursprünglich von ihrem Trainer.",
+      "answer": true,
+      "explanation": "„Mein Trainer hat dann irgendwann gemeint, … da könnte ich auch gleich pfeifen“ – the idea came from her coach. He meant it more as a joke („eher als Witz gemeint“), but she really did the course, so the statement is true.",
+      "explanationDe": "„Mein Trainer hat dann irgendwann gemeint, … da könnte ich auch gleich pfeifen“ – die Idee kam also von ihrem Trainer. Er hat es zwar „eher als Witz gemeint“, aber sie hat den Lehrgang wirklich gemacht. Die Aussage ist also richtig.",
+      "evidence": "Mein Trainer hat dann irgendwann gemeint, ich rede auf dem Platz sowieso mehr als alle anderen"
+    },
+    {
+      "n": 2,
+      "text": "Bei ihrem ersten Spiel hat ihr Vater vom Spielfeldrand aus zugeschaut.",
+      "answer": false,
+      "explanation": "Her father drove her there, but he did not watch: he waited „das ganze Spiel über im Auto“, because he did not want to make her nervous.",
+      "explanationDe": "Ihr Vater hat sie zwar hingefahren, aber nicht zugeschaut: Er hat „das ganze Spiel über im Auto gewartet“, weil er sie nicht nervös machen wollte.",
+      "evidence": "das ganze Spiel über im Auto gewartet, weil er mich nicht nervös machen wollte"
+    },
+    {
+      "n": 3,
+      "text": "Ihrer Erfahrung nach werden Schiedsrichter vor allem von Spielern beleidigt.",
+      "answer": false,
+      "explanation": "It is the other way round: insults „kommen viel öfter von draußen als von den Spielern“ – from spectators and, at youth games, mainly from parents.",
+      "explanationDe": "Es ist umgekehrt: Die Beleidigungen „kommen viel öfter von draußen als von den Spielern“ – also von Zuschauern und bei Jugendspielen vor allem von Eltern.",
+      "evidence": "Und die kommen viel öfter von draußen als von den Spielern"
+    },
+    {
+      "n": 4,
+      "text": "Mittlerweile bestätigen viele Eltern, dass die Abstandsregel für mehr Ruhe gesorgt hat.",
+      "answer": true,
+      "explanation": "„inzwischen sagen sogar viele Eltern, dass es auf den Plätzen ruhiger geworden ist“. The protests she mentions („Am Anfang gab's natürlich Proteste“) were only at the beginning.",
+      "explanationDe": "„inzwischen sagen sogar viele Eltern, dass es auf den Plätzen ruhiger geworden ist“. Die Proteste („Am Anfang gab's natürlich Proteste“) gab es nur am Anfang.",
+      "evidence": "inzwischen sagen sogar viele Eltern, dass es auf den Plätzen ruhiger geworden ist"
+    },
+    {
+      "n": 5,
+      "text": "Es ist schwer, genug Interessierte für die Anfängerkurse zu gewinnen.",
+      "answer": false,
+      "explanation": "Finding beginners is not the problem – „die Kurse sind eigentlich immer voll“. The real problem is keeping them („sie zu halten“).",
+      "explanationDe": "Anfänger zu finden ist nicht das Problem – „die Kurse sind eigentlich immer voll“. Das eigentliche Problem ist, die Leute „zu halten“.",
+      "evidence": "die Kurse sind eigentlich immer voll"
+    },
+    {
+      "n": 6,
+      "text": "Neulinge werden bei ihren ersten Einsätzen von einer erfahrenen Person begleitet.",
+      "answer": true,
+      "explanation": "Every newcomer gets a mentor, „jemanden mit viel Erfahrung, der bei den ersten fünf Spielen mitkommt“ and talks everything through afterwards.",
+      "explanationDe": "Jeder Neuling bekommt einen Paten, also „jemanden mit viel Erfahrung, der bei den ersten fünf Spielen mitkommt“ und danach alles mit ihm bespricht.",
+      "evidence": "der bei den ersten fünf Spielen mitkommt"
+    },
+    {
+      "n": 7,
+      "text": "Der Großteil des letzten Kurses ist bis heute als Schiedsrichter aktiv.",
+      "answer": true,
+      "explanation": "„von zweiundzwanzig Leuten noch achtzehn dabei“ – 18 of 22 still referee, so most of them. Do not be misled by „ungefähr die Hälfte … aufgehört“: that was before the mentoring programme („Früher“).",
+      "explanationDe": "„von zweiundzwanzig Leuten noch achtzehn dabei“ – 18 von 22 pfeifen noch, also der größte Teil. Lass dich nicht von „ungefähr die Hälfte … aufgehört“ täuschen: Das war „früher“, vor dem Patenprogramm.",
+      "evidence": "von zweiundzwanzig Leuten noch achtzehn dabei"
+    },
+    {
+      "n": 8,
+      "text": "Frau Brinkhaus spricht sich eindeutig für Kameras bei Schiedsrichtern aus.",
+      "answer": false,
+      "explanation": "She is undecided: „Da bin ich, ehrlich gesagt, hin- und hergerissen“. She understands the wish for evidence, but believes that talking achieves more than cameras.",
+      "explanationDe": "Sie ist unentschieden: „Da bin ich, ehrlich gesagt, hin- und hergerissen“. Sie versteht, dass man Beweise möchte, glaubt aber, dass man mit Gesprächen mehr erreicht als mit Kameras.",
+      "evidence": "Da bin ich, ehrlich gesagt, hin- und hergerissen."
+    },
+    {
+      "n": 9,
+      "text": "Bei dem abgebrochenen Spiel wurde sie selbst von einem Zuschauer gestoßen.",
+      "answer": false,
+      "explanation": "Wrong person: the spectator pushed a player to the ground – „nicht mich übrigens, das wird oft falsch erzählt“.",
+      "explanationDe": "Falsche Person: Der Zuschauer hat einen Spieler zu Boden geschubst – „nicht mich übrigens, das wird oft falsch erzählt“.",
+      "evidence": "nicht mich übrigens, das wird oft falsch erzählt"
+    },
+    {
+      "n": 10,
+      "text": "Nach eigener Aussage hilft ihr die Erfahrung als Schiedsrichterin auch in ihrem Beruf.",
+      "answer": true,
+      "explanation": "She is a primary school teacher, and „Nach einem Derby in der Landesliga bringt mich in der Klasse so schnell nichts mehr aus der Ruhe“ – refereeing helps her stay calm at work.",
+      "explanationDe": "Sie ist Grundschullehrerin, und „Nach einem Derby in der Landesliga bringt mich in der Klasse so schnell nichts mehr aus der Ruhe“ – das Pfeifen hilft ihr also, im Beruf ruhig zu bleiben.",
+      "evidence": "Nach einem Derby in der Landesliga bringt mich in der Klasse so schnell nichts mehr aus der Ruhe."
+    }
+  ],
+  "glossary": [
+    { "de": "der Schiedsrichter / die Schiedsrichterin", "en": "referee" },
+    { "de": "ein Spiel anpfeifen", "en": "to start a match (with the whistle)" },
+    { "de": "der Lehrgang", "en": "training course" },
+    { "de": "der Einwurf", "en": "throw-in" },
+    { "de": "jemanden anbrüllen", "en": "to yell at someone" },
+    { "de": "die Beleidigung", "en": "insult" },
+    { "de": "an jemandem abprallen", "en": "to bounce off someone, not to affect them" },
+    { "de": "der Neuling", "en": "newcomer, beginner" },
+    { "de": "hin- und hergerissen sein", "en": "to be torn, undecided" },
+    { "de": "ein Spiel abbrechen", "en": "to abandon a match" },
+    { "de": "jemanden aus der Ruhe bringen", "en": "to make someone lose their composure" }
+  ]
+}

@@ -19,7 +19,7 @@ import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Switch } from "@/components/ui/switch";
 import type { SectionId } from "@/lib/content/schemas";
-import { mistakeCard, scoreSet, type ScoredSet, type ScoreResult } from "@/lib/exam/scoring";
+import { mistakeCard, mistakeId, scoreSet, type ScoredSet, type ScoreResult } from "@/lib/exam/scoring";
 import { SECTION_UI } from "@/lib/exam/ui";
 import type { PartDefinition } from "@/lib/exams";
 import { useFocusMode } from "@/lib/hooks/use-focus-mode";
@@ -138,7 +138,7 @@ function Runner({ examId, sectionId, sectionName, part, set, setNumber, position
           context: "practice",
         },
         score.items.filter((i) => !i.ok).map((i) => mistakeCard(set, part, i.n, i.given, locale)),
-        score.items.filter((i) => i.ok).map((i) => `${set.id}:${i.n}`),
+        score.items.filter((i) => i.ok).map((i) => mistakeId(examId, set.id, i.n)),
       );
       setResult({ score, record });
       setPhase("review");

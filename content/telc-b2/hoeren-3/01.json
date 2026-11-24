@@ -1,0 +1,108 @@
+{
+  "id": "hoeren-3-01",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Unterwegs am Freitagnachmittag",
+  "topic": "reisen",
+  "difficulty": 1,
+  "speakers": [
+    { "id": "bahnhof", "gender": "f", "age": "adult", "role": "Lautsprecheransage" },
+    { "id": "werkstatt", "name": "Jens Kowalski", "gender": "m", "age": "senior", "role": "Autowerkstatt Brenner" },
+    { "id": "radio", "gender": "f", "age": "young", "role": "Radiomoderatorin" },
+    { "id": "verkehr", "gender": "m", "age": "adult", "role": "Radiosprecher" },
+    { "id": "kaufhaus", "gender": "m", "age": "young", "role": "Lautsprecheransage" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Durchsage am Bahnhof",
+      "context": "Sie hören eine Durchsage am Bahnhof.",
+      "script": [
+        { "s": "bahnhof", "t": "Achtung an Gleis 9: eine Information zum Intercity-Express um 16 Uhr 12 nach München über Stuttgart und Ulm." },
+        { "s": "bahnhof", "t": "Wegen einer Störung an einem Stellwerk endet dieser Zug heute bereits in Stuttgart." },
+        { "s": "bahnhof", "t": "Reisende nach Ulm und München steigen bitte in Stuttgart in den Intercity um 18 Uhr 10 von Gleis 14 um. Ihre Fahrkarten bleiben selbstverständlich gültig." },
+        { "s": "bahnhof", "t": "Bitte beachten Sie außerdem, dass der Zug heute in umgekehrter Wagenreihung hält: Die Wagen der ersten Klasse finden Sie im Abschnitt E, das Bordrestaurant befindet sich in der Zugmitte." }
+      ],
+      "statement": "Fahrgäste nach München müssen heute in Stuttgart in einen anderen Zug umsteigen.",
+      "answer": true,
+      "explanation": "The train „endet heute bereits in Stuttgart“, and „Reisende nach Ulm und München steigen bitte in Stuttgart in den Intercity um 18 Uhr 10 … um“. Gleis 9 and 16 Uhr 12 belong to the original train, not to the connection.",
+      "explanationDe": "Der Zug „endet heute bereits in Stuttgart“, und „Reisende nach Ulm und München steigen bitte in Stuttgart in den Intercity um 18 Uhr 10 … um“. Gleis 9 und 16 Uhr 12 gehören zum ursprünglichen Zug, nicht zum Anschluss.",
+      "evidence": "Reisende nach Ulm und München steigen bitte in Stuttgart in den Intercity um 18 Uhr 10 von Gleis 14 um."
+    },
+    {
+      "n": 2,
+      "label": "Nachricht von der Autowerkstatt",
+      "context": "Sie hören eine Nachricht auf einer Mailbox.",
+      "script": [
+        { "s": "werkstatt", "t": "Guten Tag, Frau Wendland, hier ist Jens Kowalski von der Autowerkstatt Brenner. Es geht um Ihren Wagen, den Sie heute Morgen zur Inspektion gebracht haben." },
+        { "s": "werkstatt", "t": "Dabei haben wir festgestellt, dass die vorderen Bremsbeläge ziemlich abgefahren sind. Für die Inspektion hatten wir Ihnen ja 180 Euro genannt – mit neuen Bremsbelägen kämen noch einmal etwa 120 Euro dazu." },
+        { "s": "werkstatt", "t": "Bevor wir die Beläge wechseln, brauchen wir aber Ihr Einverständnis. Wenn Sie uns bis morgen um zwölf Uhr zurückrufen, ist das Auto am Nachmittag fertig, sonst leider erst am Montag." }
+      ],
+      "statement": "Die Werkstatt erneuert die Bremsbeläge sofort, auch ohne vorherige Zustimmung von Frau Wendland.",
+      "answer": false,
+      "explanation": "„Bevor wir die Beläge wechseln, brauchen wir aber Ihr Einverständnis“ – the garage will only do the extra repair if Frau Wendland agrees. That is why she is asked to call back by twelve tomorrow.",
+      "explanationDe": "„Bevor wir die Beläge wechseln, brauchen wir aber Ihr Einverständnis“ – die Werkstatt macht die zusätzliche Reparatur nur, wenn Frau Wendland zustimmt. Deshalb soll sie bis morgen um zwölf zurückrufen.",
+      "evidence": "Bevor wir die Beläge wechseln, brauchen wir aber Ihr Einverständnis."
+    },
+    {
+      "n": 3,
+      "label": "Veranstaltungstipp im Radio",
+      "context": "Sie hören einen Veranstaltungstipp im Radio.",
+      "script": [
+        { "s": "radio", "t": "Und hier unser Tipp für laue Sommerabende: Ab Donnerstag zeigt das Freiluftkino im Lindenpark wieder jeden Abend einen Film." },
+        { "s": "radio", "t": "Einlass ist um 20 Uhr, der Film beginnt aber erst, wenn es dunkel ist, also meistens gegen halb zehn. Die Karten kosten 9 Euro, für Studierende 7 Euro." },
+        { "s": "radio", "t": "Stühle gibt es keine, bringen Sie also am besten eine Decke oder ein Kissen mit. Eigenes Essen ist erlaubt, Getränke müssen Sie allerdings an der Bar kaufen." },
+        { "s": "radio", "t": "Bei Gewitter fällt die Vorstellung aus, Ihre Karte gilt dann für einen anderen Abend." }
+      ],
+      "statement": "Im Freiluftkino darf man eigene Getränke mitbringen, Essen muss man aber vor Ort kaufen.",
+      "answer": false,
+      "explanation": "It is the other way round: „Eigenes Essen ist erlaubt, Getränke müssen Sie allerdings an der Bar kaufen.“ You may bring your own food, but drinks have to be bought at the bar.",
+      "explanationDe": "Es ist genau umgekehrt: „Eigenes Essen ist erlaubt, Getränke müssen Sie allerdings an der Bar kaufen.“ Essen darfst du mitbringen, Getränke musst du an der Bar kaufen.",
+      "evidence": "Eigenes Essen ist erlaubt, Getränke müssen Sie allerdings an der Bar kaufen."
+    },
+    {
+      "n": 4,
+      "label": "Verkehrsfunk",
+      "context": "Sie hören den Verkehrsfunk im Radio.",
+      "script": [
+        { "s": "verkehr", "t": "Und jetzt zum Verkehr. Auf der A 3 von Köln in Richtung Frankfurt staut es sich nach einem Unfall auf etwa acht Kilometern, die Polizei rechnet mit Behinderungen bis in den Abend." },
+        { "s": "verkehr", "t": "Wer nach Süden möchte, fährt am besten über die A 61 und Koblenz. Das ist zwar ein Umweg, spart nach unseren Informationen aber rund eine halbe Stunde." },
+        { "s": "verkehr", "t": "Gute Nachrichten dagegen aus der Gegenrichtung: Die Baustelle bei Siegburg ist abgebaut, dort rollt der Verkehr wieder auf allen Spuren." }
+      ],
+      "statement": "Wer nach Frankfurt fährt, kommt über eine längere Ausweichstrecke trotzdem schneller ans Ziel.",
+      "answer": true,
+      "explanation": "The route via the A 61 and Koblenz „ist zwar ein Umweg, spart … aber rund eine halbe Stunde“ – longer, but faster. The good news about all lanes being open again refers to the opposite direction near Siegburg.",
+      "explanationDe": "Die Strecke über die A 61 und Koblenz „ist zwar ein Umweg, spart … aber rund eine halbe Stunde“ – sie ist länger, aber schneller. Die gute Nachricht mit den freien Spuren betrifft die Gegenrichtung bei Siegburg.",
+      "evidence": "Das ist zwar ein Umweg, spart nach unseren Informationen aber rund eine halbe Stunde."
+    },
+    {
+      "n": 5,
+      "label": "Durchsage im Kaufhaus",
+      "context": "Sie hören eine Durchsage in einem Kaufhaus.",
+      "script": [
+        { "s": "kaufhaus", "t": "Liebe Kundinnen und Kunden, nur noch heute: In unserer Haushaltswarenabteilung im dritten Stock erhalten Sie auf Kaffeemaschinen 25 Prozent Rabatt." },
+        { "s": "kaufhaus", "t": "Ausgenommen sind lediglich die Vollautomaten der Marke Corvino, die bereits stark reduziert sind." },
+        { "s": "kaufhaus", "t": "Und noch ein wichtiger Hinweis: Wegen unserer Inventur schließt das Haus heute ausnahmsweise schon um 18 Uhr statt wie gewohnt um 20 Uhr. Im Restaurant im fünften Stock werden die letzten Bestellungen um halb sechs angenommen." }
+      ],
+      "statement": "Das Kaufhaus schließt heute zur gewohnten Zeit, nur das Restaurant macht früher zu.",
+      "answer": false,
+      "explanation": "Because of the stocktaking the whole store closes „heute ausnahmsweise schon um 18 Uhr statt wie gewohnt um 20 Uhr“. Half past five is only the time of the last orders in the restaurant.",
+      "explanationDe": "Wegen der Inventur schließt das ganze Kaufhaus „heute ausnahmsweise schon um 18 Uhr statt wie gewohnt um 20 Uhr“. Halb sechs ist nur die Zeit für die letzten Bestellungen im Restaurant.",
+      "evidence": "Wegen unserer Inventur schließt das Haus heute ausnahmsweise schon um 18 Uhr statt wie gewohnt um 20 Uhr."
+    }
+  ],
+  "glossary": [
+    { "de": "das Stellwerk", "en": "signal box" },
+    { "de": "die Wagenreihung", "en": "order of the carriages" },
+    { "de": "gültig", "en": "valid" },
+    { "de": "der Bremsbelag", "en": "brake pad" },
+    { "de": "abgefahren", "en": "worn (brakes, tyres)" },
+    { "de": "das Einverständnis", "en": "consent, agreement" },
+    { "de": "der Einlass", "en": "admission, doors open" },
+    { "de": "die Behinderung", "en": "(traffic) disruption" },
+    { "de": "der Umweg", "en": "detour" },
+    { "de": "ausgenommen sein", "en": "to be excluded" },
+    { "de": "die Inventur", "en": "stocktaking" }
+  ]
+}

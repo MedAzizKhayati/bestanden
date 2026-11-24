@@ -1,0 +1,276 @@
+{
+  "id": "praepositionen-b2",
+  "level": "B2",
+  "category": "praepositionen",
+  "order": 21,
+  "title": "Präpositionen für B2: dank, gemäß, laut, zufolge, entgegen, gegenüber",
+  "titleEn": "Prepositions for B2: dank, gemäß, laut, zufolge, entgegen, gegenüber",
+  "summary": "The dative prepositions of reports and formal texts – dank (a positive cause), laut and zufolge (according to a source), gemäß (in line with a rule), entgegen (contrary to), gegenüber (opposite, towards, compared with) – plus postpositions like entlang and zuliebe, and bis auf, samt and binnen.",
+  "summaryDe": "Die Präpositionen mit Dativ aus Berichten und formellen Texten – dank (ein positiver Grund), laut und zufolge (nach Angaben einer Quelle), gemäß (in Übereinstimmung mit einer Regel), entgegen (im Gegensatz zu), gegenüber (auf der anderen Seite, in Bezug auf, im Vergleich zu) – dazu nachgestellte Präpositionen wie entlang und zuliebe sowie bis auf, samt und binnen.",
+  "examRelevance": ["lesen", "sprachbausteine", "hoeren", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "These prepositions are typical of reports, news and formal letters. Most of them take the **dative**: „**dank der** Hilfe“, „**gemäß dem** Vertrag“, „**entgegen den** Erwartungen“ (dank and laut also take the genitive in formal writing). Several can or must stand **after** their noun: „dem Bericht **zufolge**“, „mir **gegenüber**“, „den Fluss **entlang**“. Each has a precise meaning: **dank** = thanks to (a positive cause), **laut / zufolge** = according to (a source), **gemäß** = in accordance with (a rule), **entgegen** = contrary to, **gegenüber** = opposite / towards / compared with.",
+      "mdDe": "Diese Präpositionen sind typisch für Berichte, Nachrichten und formelle Briefe. Die meisten verlangen den **Dativ**: „**dank der** Hilfe“, „**gemäß dem** Vertrag“, „**entgegen den** Erwartungen“ (dank und laut stehen in formellen Texten auch mit Genitiv). Einige können oder müssen **nach** ihrem Nomen stehen: „dem Bericht **zufolge**“, „mir **gegenüber**“, „den Fluss **entlang**“. Jede hat eine genaue Bedeutung: **dank** = Grund mit positivem Ergebnis, **laut / zufolge** = nach Angaben einer Quelle, **gemäß** = in Übereinstimmung mit einer Regel, **entgegen** = im Gegensatz zu, **gegenüber** = auf der anderen Seite / in Bezug auf / im Vergleich zu."
+    },
+    {
+      "type": "table",
+      "heading": "Meaning, case and position",
+      "headingDe": "Bedeutung, Kasus und Stellung",
+      "columns": ["Präposition", "Kasus", "English", "Beispiel"],
+      "columnsDe": ["Präposition", "Kasus", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["dank", "Dativ (auch Genitiv)", "thanks to (positive cause)", "**Dank der** schnellen Hilfe der Nachbarn wurde niemand verletzt."],
+        ["laut", "Dativ (auch Genitiv); ohne Artikel ohne Endung", "according to (a source)", "**Laut** Wetterbericht soll es morgen schneien."],
+        ["zufolge", "Dativ, nachgestellt", "according to (a source)", "**Einer neuen Studie zufolge** schlafen Jugendliche zu wenig."],
+        ["gemäß", "Dativ, vor- oder nachgestellt", "in accordance with (a rule, law, wish)", "**Gemäß der** Hausordnung ist Grillen auf dem Balkon verboten."],
+        ["entgegen", "Dativ, vor- oder nachgestellt", "contrary to", "**Entgegen allen** Erwartungen gewann der Außenseiter das Turnier."],
+        ["gegenüber", "Dativ; bei Pronomen nachgestellt", "opposite; towards; compared with", "Die Apotheke liegt **gegenüber dem** Rathaus."],
+        ["entlang", "nachgestellt: Akkusativ; vorangestellt: Genitiv", "along", "Wir radelten **den Fluss entlang**."],
+        ["bis auf", "Akkusativ", "except (for)", "**Bis auf einen** Spieler waren alle pünktlich."],
+        ["samt", "Dativ", "together with, including", "Die Wohnung wird **samt** Einbauküche vermietet."],
+        ["binnen", "Dativ (formell)", "within (formal)", "**Binnen einer** Woche waren alle Karten verkauft."],
+        ["zuliebe", "Dativ, nachgestellt", "for the sake of", "**Der Umwelt zuliebe** fährt sie mit dem Rad zur Arbeit."]
+      ],
+      "rowsDe": [
+        ["dank", "Dativ (auch Genitiv)", "Grund mit positivem Ergebnis", "**Dank der** schnellen Hilfe der Nachbarn wurde niemand verletzt."],
+        ["laut", "Dativ (auch Genitiv); ohne Artikel ohne Endung", "nach Angaben von (Quelle)", "**Laut** Wetterbericht soll es morgen schneien."],
+        ["zufolge", "Dativ, nachgestellt", "nach Angaben von (Quelle)", "**Einer neuen Studie zufolge** schlafen Jugendliche zu wenig."],
+        ["gemäß", "Dativ, vor- oder nachgestellt", "in Übereinstimmung mit (Regel, Gesetz, Wunsch)", "**Gemäß der** Hausordnung ist Grillen auf dem Balkon verboten."],
+        ["entgegen", "Dativ, vor- oder nachgestellt", "im Gegensatz zu", "**Entgegen allen** Erwartungen gewann der Außenseiter das Turnier."],
+        ["gegenüber", "Dativ; bei Pronomen nachgestellt", "auf der anderen Seite; in Bezug auf; im Vergleich zu", "Die Apotheke liegt **gegenüber dem** Rathaus."],
+        ["entlang", "nachgestellt: Akkusativ; vorangestellt: Genitiv", "parallel zu, an der Seite von", "Wir radelten **den Fluss entlang**."],
+        ["bis auf", "Akkusativ", "außer", "**Bis auf einen** Spieler waren alle pünktlich."],
+        ["samt", "Dativ", "zusammen mit, inklusive", "Die Wohnung wird **samt** Einbauküche vermietet."],
+        ["binnen", "Dativ (formell)", "innerhalb (formell)", "**Binnen einer** Woche waren alle Karten verkauft."],
+        ["zuliebe", "Dativ, nachgestellt", "jemandem zum Gefallen", "**Der Umwelt zuliebe** fährt sie mit dem Rad zur Arbeit."]
+      ],
+      "note": "„dank“ and „laut“ with the genitive („dank ihres Einsatzes“, „laut des Berichts“) are also correct in formal writing; with feminine nouns you cannot see the difference anyway („dank der Hilfe“). After „gemäß“ and „entgegen“ only the dative is standard.",
+      "noteDe": "„dank“ und „laut“ mit Genitiv („dank ihres Einsatzes“, „laut des Berichts“) sind in formellen Texten auch richtig; bei femininen Nomen sieht man den Unterschied sowieso nicht („dank der Hilfe“). Nach „gemäß“ und „entgegen“ ist nur der Dativ standardsprachlich."
+    },
+    {
+      "type": "text",
+      "heading": "According to whom? laut, zufolge, nach, gemäß",
+      "headingDe": "Nach wessen Angaben? laut, zufolge, nach, gemäß",
+      "md": "News and reports constantly say **where information comes from**:\n\n- **laut** is the most frequent: „**Laut** Polizei …“, „**laut einer** Umfrage …“, „**laut** Fahrplan“. A noun without an article gets no ending: „laut Vertrag“, „laut Bericht“.\n- **zufolge** means the same but always comes **after** the noun, which is in the dative: „**Einer Umfrage zufolge** …“, „**Den Behörden zufolge** …“.\n- **nach** in this sense: „**nach Angaben** der Polizei“, and after the noun in fixed phrases: „**meiner Meinung nach**“, „**allem Anschein nach**“.\n- **gemäß** means *in accordance with*: something is done the way a **rule, law, contract or wish** says: „**gemäß** Paragraf 4 des Mietvertrags“, „**Ihrem Wunsch gemäß**“. For a news source, German usually prefers laut or zufolge.\n\nIn Lesen and Hören this matters: „**Laut** Veranstalter war das Festival ausverkauft“ is the organiser's claim. Wrong options like to give a statement to the wrong source – the police instead of the organiser, the study instead of its critics.",
+      "mdDe": "Nachrichten und Berichte sagen ständig, **woher eine Information kommt**:\n\n- **laut** ist am häufigsten: „**Laut** Polizei …“, „**laut einer** Umfrage …“, „**laut** Fahrplan“. Ein Nomen ohne Artikel bekommt keine Endung: „laut Vertrag“, „laut Bericht“.\n- **zufolge** bedeutet dasselbe, steht aber immer **nach** dem Nomen, und das Nomen steht im Dativ: „**Einer Umfrage zufolge** …“, „**Den Behörden zufolge** …“.\n- **nach** in dieser Bedeutung: „**nach Angaben** der Polizei“ und nachgestellt in festen Ausdrücken: „**meiner Meinung nach**“, „**allem Anschein nach**“.\n- **gemäß** heißt *in Übereinstimmung mit*: Man macht etwas so, wie es eine **Regel, ein Gesetz, ein Vertrag oder ein Wunsch** sagt: „**gemäß** Paragraf 4 des Mietvertrags“, „**Ihrem Wunsch gemäß**“. Für eine Nachrichtenquelle nimmt man meistens laut oder zufolge.\n\nIn Lesen und Hören ist das wichtig: „**Laut** Veranstalter war das Festival ausverkauft“ ist die Aussage des Veranstalters. Falsche Antworten ordnen eine Aussage gern der falschen Quelle zu – der Polizei statt dem Veranstalter, der Studie statt ihren Kritikern."
+    },
+    {
+      "type": "text",
+      "heading": "gegenüber – two meanings",
+      "headingDe": "gegenüber – zwei Bedeutungen",
+      "md": "**1. Place – opposite:** „Die Bäckerei liegt **gegenüber dem** Bahnhof.“ or „… **dem Bahnhof gegenüber**.“ In everyday speech: „gegenüber **vom** Bahnhof“. Without a noun, it is an adverb: „Sie wohnt gleich **gegenüber**.“\n\n**2. Relation – towards, in relation to:** how someone behaves or feels towards a person or thing: „Er war **mir gegenüber** immer fair.“ – „Viele Ältere sind **neuen Technologien gegenüber** skeptisch.“ – „das Misstrauen **gegenüber den** Behörden“. In reports, the relation is often a **comparison**: „**Gegenüber dem** Vorjahr stieg die Zahl der Fahrgäste um acht Prozent.“ (= im Vergleich zum Vorjahr)\n\nWith a **personal pronoun**, gegenüber always comes **after** it: „**ihr gegenüber**“, „**uns gegenüber**“ – never „gegenüber ihr“. With nouns, both orders are possible.",
+      "mdDe": "**1. Ort – auf der anderen Seite:** „Die Bäckerei liegt **gegenüber dem** Bahnhof.“ oder „… **dem Bahnhof gegenüber**.“ Im Alltag sagt man auch: „gegenüber **vom** Bahnhof“. Ohne Nomen ist es ein Adverb: „Sie wohnt gleich **gegenüber**.“\n\n**2. Beziehung – in Bezug auf:** wie sich jemand zu einer Person oder Sache verhält oder was er dabei fühlt: „Er war **mir gegenüber** immer fair.“ – „Viele Ältere sind **neuen Technologien gegenüber** skeptisch.“ – „das Misstrauen **gegenüber den** Behörden“. In Berichten ist diese Beziehung oft ein **Vergleich**: „**Gegenüber dem** Vorjahr stieg die Zahl der Fahrgäste um acht Prozent.“ (= im Vergleich zum Vorjahr)\n\nMit einem **Personalpronomen** steht gegenüber immer **danach**: „**ihr gegenüber**“, „**uns gegenüber**“ – nie „gegenüber ihr“. Bei Nomen sind beide Stellungen möglich."
+    },
+    {
+      "type": "table",
+      "heading": "Prepositions after the noun",
+      "headingDe": "Präpositionen nach dem Nomen",
+      "columns": ["Präposition", "Stellung", "Beispiel"],
+      "rows": [
+        ["zufolge", "immer nachgestellt (+ Dativ)", "**dem Bericht zufolge**"],
+        ["zuliebe", "immer nachgestellt (+ Dativ)", "**den Kindern zuliebe**"],
+        ["gegenüber", "bei Pronomen nachgestellt, bei Nomen beides", "**mir gegenüber** · **gegenüber dem** Rathaus / **dem Rathaus gegenüber**"],
+        ["gemäß", "vor- oder nachgestellt (+ Dativ)", "**gemäß dem** Vertrag / **dem Vertrag gemäß**"],
+        ["entgegen", "vor- oder nachgestellt (+ Dativ)", "**entgegen der** Prognose / **der Prognose entgegen**"],
+        ["entlang", "nachgestellt + Akkusativ, vorangestellt + Genitiv", "**den Fluss entlang** / **entlang des** Flusses"],
+        ["nach", "in festen Ausdrücken nachgestellt", "**meiner Meinung nach**, **der Reihe nach**"]
+      ],
+      "note": "„entlang“ also appears together with „an“: „**am** Ufer **entlang**“ (an + dative). Before the noun, the dative is accepted too („entlang dem Fluss“), but the genitive is more common in writing.",
+      "noteDe": "„entlang“ kommt auch zusammen mit „an“ vor: „**am** Ufer **entlang**“ (an + Dativ). Vor dem Nomen ist auch der Dativ möglich („entlang dem Fluss“), aber in geschriebenen Texten ist der Genitiv häufiger."
+    },
+    {
+      "type": "text",
+      "heading": "dank, entgegen, bis auf, samt, binnen – watch the meaning",
+      "headingDe": "dank, entgegen, bis auf, samt, binnen – achte auf die Bedeutung",
+      "md": "- **dank** only goes with a **positive** result: „**Dank der** neuen Ampel gibt es weniger Unfälle.“ For a negative result use wegen or aufgrund: „**Wegen des** Glatteises gab es viele Unfälle.“ („Dank des Glatteises …“ sounds ironic.)\n- **entgegen**: things happen **differently** from what was expected, announced or advised: „**Entgegen der** Wettervorhersage blieb es trocken.“ – „Er ist **entgegen ärztlichem** Rat weitergelaufen.“\n- **bis auf** + accusative = **except**: „**Bis auf eine** Kollegin waren alle einverstanden.“ (= alle außer einer Kollegin). Careful: in „Der Saal war **bis auf den letzten Platz** besetzt.“ it means *completely, down to the last seat*.\n- **samt** + dative = together with, including: „ein Haus **samt** Garten“, „Er kam **samt seiner** ganzen Familie.“\n- **binnen** + dative = within, in official language: „**binnen einer** Woche“, „**binnen drei** Tagen“, „**binnen Kurzem**“.",
+      "mdDe": "- **dank** passt nur zu einem **positiven** Ergebnis: „**Dank der** neuen Ampel gibt es weniger Unfälle.“ Bei einem negativen Ergebnis nimmst du wegen oder aufgrund: „**Wegen des** Glatteises gab es viele Unfälle.“ („Dank des Glatteises …“ klingt ironisch.)\n- **entgegen**: Etwas passiert **anders**, als man erwartet, angekündigt oder geraten hat: „**Entgegen der** Wettervorhersage blieb es trocken.“ – „Er ist **entgegen ärztlichem** Rat weitergelaufen.“\n- **bis auf** + Akkusativ = **außer**: „**Bis auf eine** Kollegin waren alle einverstanden.“ (= alle außer einer Kollegin). Vorsicht: In „Der Saal war **bis auf den letzten Platz** besetzt.“ bedeutet es *ganz und gar, bis zum letzten Platz*.\n- **samt** + Dativ = zusammen mit, inklusive: „ein Haus **samt** Garten“, „Er kam **samt seiner** ganzen Familie.“\n- **binnen** + Dativ = innerhalb, in der Amtssprache: „**binnen einer** Woche“, „**binnen drei** Tagen“, „**binnen Kurzem**“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Dank der** Spenden vieler Bürgerinnen und Bürger konnte das Freibad gerettet werden.", "en": "Thanks to donations from many citizens, the open-air pool could be saved." },
+        { "de": "**Laut** Polizeibericht war der Fahrer deutlich zu schnell unterwegs.", "en": "According to the police report, the driver was going much too fast." },
+        { "de": "**Einer aktuellen Umfrage zufolge** arbeitet jeder Dritte regelmäßig im Homeoffice.", "en": "According to a recent survey, one in three people regularly works from home." },
+        { "de": "**Gemäß** Paragraf 3 des Vertrags ist die Miete bis zum dritten Werktag zu zahlen.", "en": "In accordance with section 3 of the contract, the rent must be paid by the third working day." },
+        { "de": "**Entgegen den** Prognosen ist die Arbeitslosigkeit im Herbst gesunken.", "en": "Contrary to the forecasts, unemployment fell in the autumn." },
+        { "de": "Die neue Chefin ist **uns gegenüber** sehr offen.", "en": "The new boss is very open towards us." },
+        { "de": "**Gegenüber dem** Vorjahr sind die Übernachtungszahlen um zwölf Prozent gestiegen.", "en": "Compared with the previous year, the number of overnight stays has risen by twelve per cent." },
+        { "de": "Am Wochenende sind wir **den Rhein entlang** bis nach Koblenz geradelt.", "en": "At the weekend we cycled along the Rhine as far as Koblenz." },
+        { "de": "**Bis auf** zwei Fragen war der Test ziemlich leicht.", "en": "Apart from two questions, the test was quite easy." },
+        { "de": "Bitte senden Sie das Formular **binnen** 14 Tagen **samt allen** Anlagen zurück.", "en": "Please return the form together with all attachments within 14 days." },
+        { "de": "**Den Kindern zuliebe** sind wir aufs Land gezogen.", "en": "We moved to the countryside for the children's sake." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**Lesen Teil 2 and Hören Teil 1:** „laut“, „zufolge“ and „nach Angaben“ tell you **whose** statement it is – wrong options often give it to the wrong person or present a claim as a fact. „entgegen“ marks a **surprise** (the opposite of what was expected), „gegenüber dem Vorjahr“ a **comparison** – check the direction: more or less? „bis auf“ is a quantity trap: „alle bis auf einen“ is not „alle“.\n\n**Sprachbausteine:** look at the end of the noun phrase – „dem Bericht ___“ needs a postposition such as „zufolge“, „uns ___“ needs „gegenüber“. Then check the case: these prepositions take the dative, „bis auf“ the accusative.\n\n**Schreiben:** useful in complaints and requests: „**Laut Ihrer** Anzeige …“, „**Entgegen Ihrer** Zusage …“, „**Gemäß unserer** Vereinbarung …“.",
+      "mdDe": "**Lesen Teil 2 und Hören Teil 1:** „laut“, „zufolge“ und „nach Angaben“ zeigen dir, **wessen** Aussage es ist – falsche Antworten schreiben sie oft der falschen Person zu oder machen aus einer Behauptung eine Tatsache. „entgegen“ markiert eine **Überraschung** (das Gegenteil der Erwartung), „gegenüber dem Vorjahr“ einen **Vergleich** – prüfe die Richtung: mehr oder weniger? „bis auf“ ist eine Mengenfalle: „alle bis auf einen“ ist nicht „alle“.\n\n**Sprachbausteine:** Schau auf das Ende der Nominalgruppe – „dem Bericht ___“ braucht eine nachgestellte Präposition wie „zufolge“, „uns ___“ braucht „gegenüber“. Dann prüfe den Kasus: Diese Präpositionen verlangen den Dativ, „bis auf“ den Akkusativ.\n\n**Schreiben:** nützlich in Beschwerden und Anfragen: „**Laut Ihrer** Anzeige …“, „**Entgegen Ihrer** Zusage …“, „**Gemäß unserer** Vereinbarung …“."
+    },
+    {
+      "type": "warning",
+      "md": "**Four traps:**\n\n1. **No genitive after gemäß and entgegen** in standard German: „**gemäß dem** Vertrag“, „**entgegen den** Erwartungen“ – not „gemäß des Vertrags“, „entgegen der Erwartungen“.\n2. **zufolge always after the noun:** „**dem Bericht zufolge**“ – not „zufolge dem Bericht“.\n3. **gegenüber after pronouns:** „**ihm gegenüber**“ – not „gegenüber ihm“.\n4. **dank only for good results:** „dank des Sturms“ sounds ironic – say „**wegen des** Sturms“.",
+      "mdDe": "**Vier Fallen:**\n\n1. **Kein Genitiv nach gemäß und entgegen** im Standarddeutschen: „**gemäß dem** Vertrag“, „**entgegen den** Erwartungen“ – nicht „gemäß des Vertrags“, „entgegen der Erwartungen“.\n2. **zufolge steht immer nach dem Nomen:** „**dem Bericht zufolge**“ – nicht „zufolge dem Bericht“.\n3. **gegenüber nach Pronomen:** „**ihm gegenüber**“ – nicht „gegenüber ihm“.\n4. **dank nur bei guten Ergebnissen:** „dank des Sturms“ klingt ironisch – sag „**wegen des** Sturms“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Er war gegenüber ihr immer sehr freundlich.",
+      "right": "Er war ihr gegenüber immer sehr freundlich.",
+      "why": "With a personal pronoun, „gegenüber“ always comes after it: „ihr gegenüber“, „mir gegenüber“.",
+      "whyDe": "Mit einem Personalpronomen steht „gegenüber“ immer danach: „ihr gegenüber“, „mir gegenüber“."
+    },
+    {
+      "wrong": "Entgegen der Erwartungen der Experten sind die Preise gesunken.",
+      "right": "Entgegen den Erwartungen der Experten sind die Preise gesunken.",
+      "why": "„entgegen“ takes the dative: „den Erwartungen“ (dative plural). „der Erwartungen“ is a genitive – very common, but not standard German.",
+      "whyDe": "„entgegen“ verlangt den Dativ: „den Erwartungen“ (Dativ Plural). „der Erwartungen“ ist Genitiv – sehr verbreitet, aber kein Standarddeutsch."
+    },
+    {
+      "wrong": "Zufolge dem neuen Bericht hat die Firma Verluste gemacht.",
+      "right": "Dem neuen Bericht zufolge hat die Firma Verluste gemacht.",
+      "why": "„zufolge“ with the dative always follows its noun: „dem Bericht zufolge“. If you want the preposition first, use „laut“: „Laut dem neuen Bericht …“.",
+      "whyDe": "„zufolge“ mit Dativ steht immer nach seinem Nomen: „dem Bericht zufolge“. Wenn die Präposition vorne stehen soll, nimm „laut“: „Laut dem neuen Bericht …“."
+    },
+    {
+      "wrong": "Dank des Sturms fiel in der ganzen Stadt der Strom aus.",
+      "right": "Wegen des Sturms fiel in der ganzen Stadt der Strom aus.",
+      "why": "„dank“ is only used for a positive result. A power cut is negative, so use „wegen“ or „aufgrund“.",
+      "whyDe": "„dank“ benutzt man nur bei einem positiven Ergebnis. Ein Stromausfall ist negativ, also nimm „wegen“ oder „aufgrund“."
+    },
+    {
+      "wrong": "Am Sonntag sind wir entlang den Fluss geradelt.",
+      "right": "Am Sonntag sind wir den Fluss entlang geradelt.",
+      "why": "With the accusative, „entlang“ follows the noun: „den Fluss entlang“. Before the noun it takes the genitive: „entlang des Flusses“.",
+      "whyDe": "Mit Akkusativ steht „entlang“ nach dem Nomen: „den Fluss entlang“. Vor dem Nomen steht der Genitiv: „entlang des Flusses“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Einer aktuellen Umfrage ___ wünschen sich 60 Prozent der Befragten mehr Radwege in der Innenstadt.",
+      "options": ["zufolge", "entgegen", "zuliebe"],
+      "answer": 0,
+      "explanation": "The survey is the source of the information → „Einer Umfrage zufolge“ (according to a survey). „entgegen“ would mean the result contradicts the survey, and „zuliebe“ (for someone's sake) makes no sense with a survey.",
+      "explanationDe": "Die Umfrage ist die Quelle der Information → „Einer Umfrage zufolge“. „entgegen“ würde bedeuten, dass das Ergebnis der Umfrage widerspricht, und „zuliebe“ (jemandem zum Gefallen) ergibt bei einer Umfrage keinen Sinn."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ der schnellen Reaktion des Busfahrers wurde bei dem Unfall niemand verletzt.",
+      "options": ["Dank", "Trotz", "Entgegen"],
+      "answer": 0,
+      "explanation": "The quick reaction led to a good result – nobody was hurt → „Dank“. „Trotz“ would suggest that the reaction made injuries more likely, and „Entgegen“ (contrary to) does not fit a reaction.",
+      "explanationDe": "Die schnelle Reaktion hat zu einem guten Ergebnis geführt – niemand wurde verletzt → „Dank“. „Trotz“ würde bedeuten, dass die Reaktion Verletzungen eher wahrscheinlich gemacht hat, und „Entgegen“ (im Gegensatz zu) passt nicht zu einer Reaktion."
+    },
+    {
+      "type": "mc",
+      "prompt": "Alle Fachleute hatten mit einem Rückgang gerechnet. ___ allen Prognosen ist die Zahl der Einwohner aber gestiegen.",
+      "options": ["Entgegen", "Gemäß", "Dank"],
+      "answer": 0,
+      "explanation": "The experts expected a decline, but the number rose – the opposite of the forecasts → „Entgegen allen Prognosen“. „Gemäß“ would mean the result matched the forecasts, which contradicts „aber“; forecasts cannot cause a rise, so „Dank“ is wrong too.",
+      "explanationDe": "Die Fachleute haben einen Rückgang erwartet, aber die Zahl ist gestiegen – das Gegenteil der Prognosen → „Entgegen allen Prognosen“. „Gemäß“ würde bedeuten, dass das Ergebnis zu den Prognosen passt; das widerspricht „aber“. Prognosen können keinen Anstieg verursachen, deshalb ist auch „Dank“ falsch."
+    },
+    {
+      "type": "mc",
+      "prompt": "Entgegen ___ Rat seiner Ärztin ist er den Marathon gelaufen.",
+      "options": ["dem", "des", "den"],
+      "answer": 0,
+      "explanation": "„entgegen“ takes the dative: „der Rat“ → „dem Rat“. „des“ would need the genitive noun „Rates“ and is not standard after „entgegen“ anyway; „den“ would be accusative.",
+      "explanationDe": "„entgegen“ verlangt den Dativ: „der Rat“ → „dem Rat“. „des“ bräuchte das Nomen im Genitiv („Rates“) und ist nach „entgegen“ sowieso kein Standard; „den“ wäre Akkusativ."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ dem Vorjahr ist die Zahl der Fahrgäste um acht Prozent gestiegen.",
+      "options": ["Gegenüber", "Entgegen", "Samt"],
+      "answer": 0,
+      "explanation": "An increase of eight per cent needs a point of comparison → „Gegenüber dem Vorjahr“ (compared with last year). „Entgegen dem Vorjahr“ makes no sense – nothing can happen contrary to a year – and „Samt“ means together with.",
+      "explanationDe": "Ein Anstieg um acht Prozent braucht einen Vergleichspunkt → „Gegenüber dem Vorjahr“ (im Vergleich zum Vorjahr). „Entgegen dem Vorjahr“ ergibt keinen Sinn – nichts passiert im Gegensatz zu einem Jahr –, und „Samt“ heißt „zusammen mit“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Bis auf Frau Kaya haben alle aus dem Team an der Schulung teilgenommen. Das heißt: ___",
+      "options": ["Frau Kaya war nicht bei der Schulung.", "Nur Frau Kaya war bei der Schulung.", "Frau Kaya hat die Schulung geleitet."],
+      "answer": 0,
+      "explanation": "„bis auf“ means except: everyone took part except Ms Kaya. The second option reverses the meaning, and nothing says that she ran the training.",
+      "explanationDe": "„bis auf“ heißt „außer“: Alle haben teilgenommen, nur Frau Kaya nicht. Die zweite Antwort dreht die Bedeutung um, und nichts sagt, dass sie die Schulung geleitet hat."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Ferienwohnung wird ___ Bettwäsche und Handtüchern vermietet – Sie müssen also nichts mitbringen.",
+      "options": ["samt", "bis auf", "entgegen"],
+      "answer": 0,
+      "explanation": "„Sie müssen also nichts mitbringen“ shows that bed linen and towels are included → „samt“ (together with) + dative „Handtüchern“. „bis auf“ would exclude them, and it would need the accusative „Handtücher“.",
+      "explanationDe": "„Sie müssen also nichts mitbringen“ zeigt: Bettwäsche und Handtücher sind dabei → „samt“ (zusammen mit) + Dativ „Handtüchern“. „bis auf“ würde sie ausschließen und bräuchte außerdem den Akkusativ „Handtücher“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ihrem Wunsch ___ haben wir Ihnen ein Zimmer mit Blick auf den See reserviert.",
+      "answers": ["gemäß", "entsprechend"],
+      "hint": "(in Übereinstimmung mit)",
+      "explanation": "„gemäß“ (in accordance with) can follow its dative noun: „Ihrem Wunsch gemäß“ = as you wished. „entsprechend“ works the same way. „laut“ and „dank“ cannot stand after the noun.",
+      "explanationDe": "„gemäß“ kann nach seinem Nomen im Dativ stehen: „Ihrem Wunsch gemäß“ = so, wie Sie es sich gewünscht haben. „entsprechend“ funktioniert genauso. „laut“ und „dank“ können nicht nach dem Nomen stehen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die neue Chefin ist ___ gegenüber sehr offen und hört sich unsere Ideen an.",
+      "answers": ["uns"],
+      "hint": "(wir)",
+      "explanation": "„gegenüber“ takes the dative and follows a personal pronoun: „uns gegenüber“ (towards us) – never „gegenüber uns“.",
+      "explanationDe": "„gegenüber“ verlangt den Dativ und steht nach einem Personalpronomen: „uns gegenüber“ – nie „gegenüber uns“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Entlang ___ Ufers wurden im Frühjahr neue Bänke aufgestellt.",
+      "answers": ["des"],
+      "hint": "(das)",
+      "explanation": "Before the noun, „entlang“ usually takes the genitive: „entlang des Ufers“ – the -s on „Ufers“ shows it. After the noun you would say „das Ufer entlang“ (accusative).",
+      "explanationDe": "Vor dem Nomen steht nach „entlang“ meistens der Genitiv: „entlang des Ufers“ – das -s bei „Ufers“ zeigt ihn. Nach dem Nomen würdest du „das Ufer entlang“ sagen (Akkusativ)."
+    },
+    {
+      "type": "gap",
+      "prompt": "Den Großeltern ___ feiern wir Weihnachten dieses Jahr nicht in Berlin, sondern bei ihnen auf dem Land.",
+      "answers": ["zuliebe"],
+      "hint": "(jemandem zum Gefallen)",
+      "explanation": "„zuliebe“ (for someone's sake) always follows its dative noun: „den Großeltern zuliebe“. The family changes its plans to please the grandparents.",
+      "explanationDe": "„zuliebe“ steht immer nach seinem Nomen im Dativ: „den Großeltern zuliebe“. Die Familie ändert ihre Pläne, um den Großeltern eine Freude zu machen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „zufolge“.",
+      "instructionDe": "Schreibe den Satz mit „zufolge“.",
+      "prompt": "Laut dem Wetterdienst wird es am Wochenende stürmisch.",
+      "answers": ["Dem Wetterdienst zufolge wird es am Wochenende stürmisch.", "Am Wochenende wird es dem Wetterdienst zufolge stürmisch."],
+      "explanation": "„zufolge“ follows the dative noun: „dem Wetterdienst zufolge“. The whole phrase fills position 1, so the verb „wird“ comes next.",
+      "explanationDe": "„zufolge“ steht nach dem Nomen im Dativ: „dem Wetterdienst zufolge“. Die ganze Gruppe steht auf Position 1, danach kommt das Verb „wird“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „gegenüber“ (comparison).",
+      "instructionDe": "Schreibe den Satz mit „gegenüber“ (Vergleich).",
+      "prompt": "Im Vergleich zum Vorjahr sind die Mieten um fünf Prozent gestiegen.",
+      "answers": [
+        "Gegenüber dem Vorjahr sind die Mieten um fünf Prozent gestiegen.",
+        "Die Mieten sind gegenüber dem Vorjahr um fünf Prozent gestiegen.",
+        "Dem Vorjahr gegenüber sind die Mieten um fünf Prozent gestiegen."
+      ],
+      "explanation": "„gegenüber“ can express a comparison: „gegenüber dem Vorjahr“ = im Vergleich zum Vorjahr. It takes the dative, so „zum“ (zu + dem) becomes „dem“.",
+      "explanationDe": "„gegenüber“ kann einen Vergleich ausdrücken: „gegenüber dem Vorjahr“ = im Vergleich zum Vorjahr. Es verlangt den Dativ, deshalb wird aus „zum“ (zu + dem) einfach „dem“."
+    },
+    {
+      "type": "order",
+      "words": ["hilfsbereit.", "uns", "Nachbarn", "an", "waren", "Die", "sehr", "gegenüber", "Anfang", "von"],
+      "answers": [
+        "Die Nachbarn waren uns gegenüber von Anfang an sehr hilfsbereit.",
+        "Uns gegenüber waren die Nachbarn von Anfang an sehr hilfsbereit.",
+        "Von Anfang an waren die Nachbarn uns gegenüber sehr hilfsbereit.",
+        "Die Nachbarn waren von Anfang an uns gegenüber sehr hilfsbereit."
+      ],
+      "explanation": "„uns gegenüber“ stays together, with the pronoun first. As always, the verb „waren“ is in position 2.",
+      "explanationDe": "„uns gegenüber“ bleibt zusammen, das Pronomen steht vorne. Wie immer steht das Verb „waren“ auf Position 2."
+    }
+  ],
+  "related": ["praepositionen-mit-genitiv", "praepositionen-mit-kasus", "lokale-praepositionen", "verben-mit-dativ", "pronomen", "konjunktiv-1", "nominalisierung"]
+}

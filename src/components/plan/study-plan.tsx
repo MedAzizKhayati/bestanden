@@ -8,7 +8,7 @@ import { useMemo, useState } from "react";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Skeleton } from "@/components/ui/skeleton";
 import { SECTION_UI } from "@/lib/exam/ui";
-import { DEFAULT_EXAM } from "@/lib/exams";
+import { useExam } from "@/lib/exams/use-exam";
 import { usePartStats } from "@/lib/hooks/use-stats";
 import { buildPlan, type PlanInventory, type PlanTask } from "@/lib/plan/build-plan";
 import { useHydrated } from "@/lib/store/hydration";
@@ -18,7 +18,12 @@ import { useSettings } from "@/lib/store/settings";
 import { useVocab } from "@/lib/store/vocab";
 import { cn } from "@/lib/utils";
 
-export function StudyPlan({ inventory, grammarCounts, vocabWords }: { inventory: PlanInventory; grammarCounts: Record<string, number>; vocabWords: Record<string, string[]> }) {
+/** Per exam slug: what the plan can schedule. */
+export type StudyPlanData = Record<string, { inventory: PlanInventory; grammarCounts: Record<string, number>; vocabWords: Record<string, string[]> }>;
+
+export function StudyPlan({ plans }: { plans: StudyPlanData }) {
+  const exam = useExam();
+  const { inventory, grammarCounts, vocabWords } = plans[exam.slug] ?? Object.values(plans)[0];
   const hydrated = useHydrated();
   const locale = useLocale();
   const t = useT();
@@ -31,7 +36,7 @@ export function StudyPlan({ inventory, grammarCounts, vocabWords }: { inventory:
   const grammar = useProgress((s) => s.grammar);
   const mockResults = useMock((s) => s.results);
   const cards = useVocab((s) => s.cards);
-  const { byPart } = usePartStats(DEFAULT_EXAM);
+  const { byPart } = usePartStats(exam);
   const [open, setOpen] = useState<number | null>(null);
   const [today] = useState(() => new Date());
 
@@ -44,7 +49,11 @@ export function StudyPlan({ inventory, grammarCounts, vocabWords }: { inventory:
   const done = (task: PlanTask) => {
     switch (task.kind) {
       case "set":
-        return attempts.some((a) => a.setId === task.refId) || writing.some((w) => w.setId === task.refId) || speaking.some((s) => s.setId === task.refId);
+        return (
+          attempts.some((a) => a.examId === exam.id && a.setId === task.refId) ||
+          writing.some((w) => w.examId === exam.id && w.setId === task.refId) ||
+          speaking.some((s) => s.examId === exam.id && s.setId === task.refId)
+        );
       case "grammar": {
         const r = grammar[task.refId]?.results;
         return !!r && Object.values(r).filter(Boolean).length / (grammarCounts[task.refId] || 1) >= 0.8;

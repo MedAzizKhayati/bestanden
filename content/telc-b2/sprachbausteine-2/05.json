@@ -1,0 +1,110 @@
+{
+  "id": "sprachbausteine-2-05",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Wie sich unser Einkaufen verändert",
+  "topic": "einkaufen",
+  "difficulty": 2,
+  "textType": "article",
+  "text": "Paketflut und leere Läden: Wie sich unser Einkaufen verändert\n\nOb Turnschuhe, Druckerpatronen oder Katzenfutter – immer mehr Menschen in Deutschland erledigen ihre Einkäufe bequem vom Sofa aus. Wie eine aktuelle Erhebung der Leipziger Forschungsstelle für Handel und Konsum zeigt, wird inzwischen rund jeder achte Euro im Einzelhandel online ausgegeben. [[1]] an den Werten von vor zehn Jahren hat sich dieser Anteil damit fast verdoppelt. Geschätzt werden vor allem die riesige Auswahl, die Lieferung bis an die Haustür und die Möglichkeit, Preise mit wenigen Klicks zu vergleichen.\n\nFür den stationären Handel hat diese Entwicklung spürbare Konsequenzen. Insbesondere kleine Fachgeschäfte können mit den Preisen der großen Plattformen kaum [[2]] halten. [[3]] stehen in zahlreichen Fußgängerzonen Ladenlokale leer, während die Paketdienste ihre Logistikzentren von Jahr zu Jahr vergrößern.\n\nDoch der Boom hat auch eine Kehrseite: die Rücksendungen. Gerade bei Kleidung bestellen viele Kundinnen und Kunden dieselbe Hose gleich in mehreren Größen und schicken die unpassenden Exemplare anschließend zurück. Die zusätzlichen Transporte belasten die Umwelt, und ein Teil der Retouren wird sogar vernichtet, weil Prüfung und Neuverpackung teurer wären als ein neues Produkt. Einige Händler bitten ihre Kundschaft für Rücksendungen inzwischen zur [[4]], die meisten schrecken jedoch [[5]] zurück. Auf den Komfort kostenloser Retouren möchte kaum jemand [[6]].\n\nDass der Laden um die Ecke dennoch nicht ausgedient hat, zeigt das Beispiel von Katharina Wendler. Die Inhaberin eines Haushaltswarengeschäfts in Würzburg setzt seit Jahren [[7]] persönliche Beratung und veranstaltet in ihren Verkaufsräumen regelmäßig Kochkurse. Wer möchte, kann Messer und Pfannen vor dem Kauf ausgiebig testen. „Für diesen Service sind viele sogar [[8]], etwas höhere Preise zu zahlen“, berichtet Wendler.\n\nFachleute halten solche Konzepte für zukunftsweisend. Erfolgreich seien vor allem Geschäfte, die das Einkaufen vor Ort geschickt mit digitalen Angeboten verbinden, etwa durch Online-Reservierungen mit Abholung am selben Tag. Hinzu kommt, dass Verbraucherinnen und Verbraucher zunehmend [[9]] auf Nachhaltigkeit und regionale Herkunft legen. Davon könnten gerade inhabergeführte Läden profitieren – [[10]], sie machen ihre Stärken auch im Netz sichtbar.",
+  "words": [
+    { "key": "a", "text": "auf" },
+    { "key": "b", "text": "bereit" },
+    { "key": "c", "text": "darauf" },
+    { "key": "d", "text": "davor" },
+    { "key": "e", "text": "folglich" },
+    { "key": "f", "text": "gemessen" },
+    { "key": "g", "text": "Kasse" },
+    { "key": "h", "text": "Rede" },
+    { "key": "i", "text": "Schritt" },
+    { "key": "j", "text": "trotzdem" },
+    { "key": "k", "text": "verglichen" },
+    { "key": "l", "text": "verlassen" },
+    { "key": "m", "text": "verzichten" },
+    { "key": "n", "text": "vorausgesetzt" },
+    { "key": "o", "text": "Wert" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "f",
+      "explanation": "„gemessen an etwas“ (measured against) names the basis of a comparison: compared with the figures of ten years ago, the share has almost doubled. „verglichen“ is the trap: it means the same, but it takes „mit“ („verglichen mit den Werten“), not „an“.",
+      "explanationDe": "„gemessen an etwas“ nennt die Basis eines Vergleichs: Im Vergleich zu den Werten von vor zehn Jahren hat sich der Anteil fast verdoppelt. „verglichen“ ist die Falle: Es bedeutet dasselbe, steht aber mit „mit“ („verglichen mit den Werten“), nicht mit „an“."
+    },
+    {
+      "n": 2,
+      "answer": "i",
+      "explanation": "„mit etwas Schritt halten“ (to keep up with something) is a fixed expression: small shops can hardly keep up with the prices of the big platforms. „Rede“ is the trap: „eine Rede halten“ means to give a speech, which makes no sense here.",
+      "explanationDe": "„mit etwas Schritt halten“ (= mithalten können) ist eine feste Wendung: Kleine Geschäfte können bei den Preisen der großen Plattformen kaum mithalten. „Rede“ ist die Falle: „eine Rede halten“ heißt, vor Publikum zu sprechen – das ergibt hier keinen Sinn.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 3,
+      "answer": "e",
+      "explanation": "„folglich“ (consequently) introduces a result: because small shops cannot keep up with online prices, many premises stand empty. „trotzdem“ is the trap: it would present the empty shops as a surprise, although they are the logical consequence.",
+      "explanationDe": "„folglich“ (= deshalb, als Ergebnis) leitet eine Folge ein: Weil kleine Geschäfte bei den Preisen nicht mithalten können, stehen viele Läden leer. „trotzdem“ ist die Falle: Dann wären die leeren Läden eine Überraschung – dabei sind sie die logische Folge.",
+      "grammar": "konsekutivsaetze-b2"
+    },
+    {
+      "n": 4,
+      "answer": "g",
+      "explanation": "„jemanden zur Kasse bitten“ (to make someone pay) is an idiom: some retailers now charge their customers for returns. „Rede“ is the trap: it belongs to „jemanden zur Rede stellen“ (to confront someone), which needs „stellen“ and means something else.",
+      "explanationDe": "„jemanden zur Kasse bitten“ (= jemanden bezahlen lassen) ist eine feste Wendung: Einige Händler verlangen für Rücksendungen jetzt Geld. „Rede“ ist die Falle: Es gehört zu „jemanden zur Rede stellen“ (= von jemandem eine Erklärung verlangen) – mit „stellen“ und mit anderer Bedeutung.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 5,
+      "answer": "d",
+      "explanation": "„vor etwas zurückschrecken“ (to shy away from something): when the thing is not repeated, „vor“ becomes „davor“ – most retailers shy away from charging for returns. „darauf“ is the trap: it belongs to verbs with „auf“ (verzichten, achten), not to „zurückschrecken“.",
+      "explanationDe": "„vor etwas zurückschrecken“ (= sich nicht trauen, etwas zu tun): Wird die Sache nicht wiederholt, wird „vor“ zu „davor“ – die meisten Händler verlangen kein Geld für Rücksendungen. „darauf“ ist die Falle: Es gehört zu Verben mit „auf“ (verzichten, achten), nicht zu „zurückschrecken“.",
+      "grammar": "korrelate"
+    },
+    {
+      "n": 6,
+      "answer": "m",
+      "explanation": "„auf etwas verzichten“ (to do without something): hardly anyone wants to give up free returns – which explains why retailers shy away from fees. „verlassen“ is the trap: „sich auf etwas verlassen“ (to rely on) needs „sich“ and means something else.",
+      "explanationDe": "„auf etwas verzichten“: Kaum jemand will kostenlose Rücksendungen aufgeben – deshalb scheuen die Händler die Gebühr. „verlassen“ ist die Falle: „sich auf etwas verlassen“ braucht „sich“ und bedeutet etwas anderes.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 7,
+      "answer": "a",
+      "explanation": "„auf etwas setzen“ (to rely on, to bet on something): Ms Wendler builds her business on personal advice. „darauf“ is the trap: a da-word replaces a noun or points to a dass-clause – it cannot stand directly before „persönliche Beratung“.",
+      "explanationDe": "„auf etwas setzen“ (= etwas als Strategie wählen und darauf vertrauen): Frau Wendler baut ihr Geschäft auf persönliche Beratung. „darauf“ ist die Falle: Ein da-Wort ersetzt ein Nomen oder zeigt auf einen dass-Satz – es kann nicht direkt vor „persönliche Beratung“ stehen.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 8,
+      "answer": "b",
+      "explanation": "„bereit sein, etwas zu tun“ (to be willing to do something): for this service many customers are willing to pay slightly higher prices. The comma and the infinitive „zu zahlen“ complete the expression; no noun or participle in the box fits after „sind viele sogar …“.",
+      "explanationDe": "„bereit sein, etwas zu tun“ (= etwas tun wollen): Für diesen Service zahlen viele gern etwas mehr. Komma und Infinitiv „zu zahlen“ ergänzen die Wendung; kein Nomen und kein Partizip aus dem Kasten passt nach „sind viele sogar …“."
+    },
+    {
+      "n": 9,
+      "answer": "o",
+      "explanation": "„Wert auf etwas legen“ (to attach importance to something) is a fixed noun-verb combination; „auf“ and „legen“ are already in the sentence. „Rede“ and „Kasse“ do not form an expression with „legen“.",
+      "explanationDe": "„Wert auf etwas legen“ (= etwas wichtig finden) ist eine feste Nomen-Verb-Verbindung; „auf“ und „legen“ stehen schon im Satz. „Rede“ und „Kasse“ bilden mit „legen“ keine Wendung.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 10,
+      "answer": "n",
+      "explanation": "„vorausgesetzt, …“ (provided that) introduces a condition and can be followed by main-clause word order („sie machen …“): small shops profit only if they make their strengths visible online. „trotzdem“ expresses a contrast and cannot introduce a condition.",
+      "explanationDe": "„vorausgesetzt, …“ nennt eine Bedingung; danach kann ein Hauptsatz folgen („sie machen …“): Kleine Läden profitieren nur, wenn sie ihre Stärken auch online zeigen. „trotzdem“ drückt einen Gegensatz aus und kann keine Bedingung einleiten.",
+      "grammar": "konditionalsaetze"
+    }
+  ],
+  "glossary": [
+    { "de": "die Erhebung", "en": "survey" },
+    { "de": "gemessen an", "en": "measured against, compared with" },
+    { "de": "der stationäre Handel", "en": "bricks-and-mortar retail" },
+    { "de": "mit etwas Schritt halten", "en": "to keep up with something" },
+    { "de": "die Kehrseite", "en": "downside" },
+    { "de": "die Retoure", "en": "returned goods" },
+    { "de": "jemanden zur Kasse bitten", "en": "to make someone pay" },
+    { "de": "vor etwas zurückschrecken", "en": "to shy away from something" },
+    { "de": "ausgedient haben", "en": "to have had its day" },
+    { "de": "Wert auf etwas legen", "en": "to attach importance to something" },
+    { "de": "inhabergeführt", "en": "owner-managed" }
+  ]
+}

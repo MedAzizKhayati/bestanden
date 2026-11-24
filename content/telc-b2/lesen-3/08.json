@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-08",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Wege in den Beruf",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ein Kollege will nach zwölf Jahren im Vertrieb in die Pflege wechseln und Arbeitgeber direkt kennenlernen.",
+      "answer": "e",
+      "explanation": "He wants to switch from sales to care and meet employers in person. At the Jobtag (e) more than 40 care employers present themselves and look „ausdrücklich auch Quereinsteigerinnen und Quereinsteiger aus anderen Branchen“. The Ausbildungsbörse (l) also presents „die Pflegefachfrau“, but it is for „Schülerinnen und Schüler der Klassen 8 bis 12 sowie ihre Eltern“.",
+      "explanationDe": "Er will vom Vertrieb in die Pflege wechseln und Arbeitgeber persönlich treffen. Beim Jobtag (e) stellen sich über 40 Arbeitgeber aus der Pflege vor und suchen „ausdrücklich auch Quereinsteigerinnen und Quereinsteiger aus anderen Branchen“. Die Ausbildungsbörse (l) zeigt zwar auch „die Pflegefachfrau“, ist aber für „Schülerinnen und Schüler der Klassen 8 bis 12 sowie ihre Eltern“."
+    },
+    {
+      "n": 2,
+      "text": "Ihre Schwester möchte nach drei Jahren Elternzeit wieder arbeiten und sucht dabei kostenlose Begleitung.",
+      "answer": "a",
+      "explanation": "After three years of parental leave she wants free support for her return to work. „Wiedereinstieg mit Plan“ (a) is for people who interrupted work for a family phase „mindestens ein Jahr lang“, and „entstehen Ihnen keinerlei Kosten“. The coaching in (f) is individual support too, but a session costs „160 Euro“ and it is aimed at managers.",
+      "explanationDe": "Nach drei Jahren Elternzeit sucht sie kostenlose Unterstützung für den Wiedereinstieg. „Wiedereinstieg mit Plan“ (a) ist für Menschen, die wegen einer Familienphase „mindestens ein Jahr lang“ nicht gearbeitet haben, und es „entstehen Ihnen keinerlei Kosten“. Das Coaching in (f) bietet zwar auch persönliche Begleitung, aber eine Sitzung kostet „160 Euro“, und es richtet sich an Führungskräfte."
+    },
+    {
+      "n": 3,
+      "text": "Ihre Mitbewohnerin studiert Informatik und sucht für das kommende Semester ein bezahltes Pflichtpraktikum.",
+      "answer": "c",
+      "explanation": "She is a student and needs a paid compulsory internship. Campus Plus (c) arranges „Pflichtpraktika“ for „Studierende, die an einer Hochschule eingeschrieben sind“, and all partner companies pay „eine angemessene Vergütung“. The IT-Karrieretag (b) is the trap: „Stellen für Studierende oder Praktikumsplätze werden hier nicht vergeben“.",
+      "explanationDe": "Sie studiert und braucht ein bezahltes Pflichtpraktikum. Campus Plus (c) vermittelt „Pflichtpraktika“ an „Studierende, die an einer Hochschule eingeschrieben sind“, und alle Partnerbetriebe zahlen „eine angemessene Vergütung“. Der IT-Karrieretag (b) ist die Falle: „Stellen für Studierende oder Praktikumsplätze werden hier nicht vergeben“."
+    },
+    {
+      "n": 4,
+      "text": "Ihr Cousin, ein erfahrener Programmierer, will Arbeitgeber aus seiner Branche persönlich treffen, hat aber nur werktags abends Zeit.",
+      "answer": "x",
+      "explanation": "The IT-Karrieretag (b) is exactly for experienced IT people, but it takes place „am zweiten Samstag im März von 10 bis 16 Uhr“ – not on a weekday evening. The Jobtag (e) runs on a Thursday until 19 Uhr, but only care employers take part. So no text fits: x.",
+      "explanationDe": "Der IT-Karrieretag (b) ist genau für erfahrene IT-Fachleute, findet aber „am zweiten Samstag im März von 10 bis 16 Uhr“ statt – nicht an einem Werktag am Abend. Der Jobtag (e) geht zwar an einem Donnerstag bis 19 Uhr, aber dort stellen sich nur Arbeitgeber aus der Pflege vor. Also passt kein Text: x."
+    },
+    {
+      "n": 5,
+      "text": "Ihr fünfzehnjähriger Neffe möchte in den Osterferien praktische Erfahrungen in einem Handwerksbetrieb sammeln.",
+      "answer": "g",
+      "explanation": "He is 15 and wants hands-on experience in a craft business during the Easter holidays. In (g) young people can work „während der Oster-, Sommer- oder Herbstferien eine Woche lang“ in a craft company; the offer is for pupils „zwischen 14 und 18 Jahren“. At the Ausbildungsbörse (l) you can try out activities at „Mitmachstationen“, but it is a one-day fair „an einem Freitag im September“.",
+      "explanationDe": "Er ist 15 und will in den Osterferien praktisch in einem Handwerksbetrieb arbeiten. Bei (g) kann man „während der Oster-, Sommer- oder Herbstferien eine Woche lang“ in einem Betrieb mitarbeiten; das Angebot ist für Jugendliche „zwischen 14 und 18 Jahren“. Bei der Ausbildungsbörse (l) gibt es zwar „Mitmachstationen“, aber sie ist eine Messe an einem Tag, und zwar „an einem Freitag im September“."
+    },
+    {
+      "n": 6,
+      "text": "Ein Kollege hat vor Kurzem die Leitung eines Teams übernommen und fühlt sich dieser Aufgabe noch nicht gewachsen.",
+      "answer": "f",
+      "explanation": "He has just become a team leader and feels overwhelmed. „Coaching Kompass“ (f) is about „Die erste Führungsposition“: you develop „Strategien für Ihre neue Rolle“ with a coach. The interview training (k) also works on how you come across, but it prepares you for job interviews, not for leading a team.",
+      "explanationDe": "Er leitet seit Kurzem ein Team und fühlt sich überfordert. Bei „Coaching Kompass“ (f) geht es um „Die erste Führungsposition“: Du entwickelst mit einem Coach „Strategien für Ihre neue Rolle“. Das Interviewtraining (k) arbeitet zwar auch an deiner Wirkung, bereitet aber auf Vorstellungsgespräche vor, nicht auf die Leitung eines Teams."
+    },
+    {
+      "n": 7,
+      "text": "Ein Bekannter aus Kolumbien möchte wissen, ob sein Ingenieurdiplom in Deutschland offiziell als gleichwertig gilt.",
+      "answer": "h",
+      "explanation": "He wants to know whether his foreign engineering degree is officially recognised. The Anerkennungsberatung (h) helps people who have „ein Studium abgeschlossen“ abroad with the question „ob dieser Abschluss offiziell anerkannt wird“ – and also in Spanish. The Bewerbungswerkstatt (d) only improves application documents.",
+      "explanationDe": "Er will wissen, ob sein ausländischer Ingenieurabschluss offiziell anerkannt wird. Die Anerkennungsberatung (h) hilft Menschen, die im Ausland „ein Studium abgeschlossen“ haben, bei der Frage, „ob dieser Abschluss offiziell anerkannt wird“ – auch auf Spanisch. Die Bewerbungswerkstatt (d) verbessert nur Bewerbungsunterlagen."
+    },
+    {
+      "n": 8,
+      "text": "Eine Freundin hat gerade ihre Ausbildung zur Köchin beendet und möchte nun Berufserfahrung im Ausland sammeln.",
+      "answer": "j",
+      "explanation": "She has just finished her vocational training and wants work experience abroad. „Programm Brückenschlag“ (j) arranges internships abroad „in Gastronomie, Handwerk, Handel und Pflege“ for people whose „Abschluss nicht länger als zwölf Monate zurückliegt“. Campus Plus (c) also has places „im europäischen Ausland“, but only for „Studierende“.",
+      "explanationDe": "Sie hat ihre Ausbildung gerade abgeschlossen und will im Ausland Erfahrung sammeln. „Programm Brückenschlag“ (j) vermittelt Praktika im Ausland „in Gastronomie, Handwerk, Handel und Pflege“ für Leute, deren „Abschluss nicht länger als zwölf Monate zurückliegt“. Campus Plus (c) hat zwar auch Plätze „im europäischen Ausland“, aber nur für „Studierende“."
+    },
+    {
+      "n": 9,
+      "text": "Ein Kollege will sich beruflich völlig neu orientieren und sucht dafür ein kostenloses Einzelcoaching.",
+      "answer": "x",
+      "explanation": "Three texts look tempting, but none fits. In (f) only „Ein unverbindliches Vorgespräch von 20 Minuten ist kostenlos“; (a) is free, but „ausschließlich“ for people returning after a family phase; the Gründungsbüro (i) is only for people with „eine konkrete Geschäftsidee“ and says „wir keine allgemeine Berufsberatung anbieten“. So x.",
+      "explanationDe": "Drei Texte sind verlockend, aber keiner passt. Bei (f) gilt nur: „Ein unverbindliches Vorgespräch von 20 Minuten ist kostenlos“; (a) ist kostenlos, aber „ausschließlich“ für Menschen nach einer Familienphase; das Gründungsbüro (i) setzt voraus, dass man „bereits eine konkrete Geschäftsidee“ hat, und schreibt, dass „wir keine allgemeine Berufsberatung anbieten“. Also x."
+    },
+    {
+      "n": 10,
+      "text": "Sie möchten vor Ihrem ersten Bewerbungsgespräch üben, wie Sie auf heikle Fragen gelassen reagieren.",
+      "answer": "k",
+      "explanation": "You want to practise reacting calmly to difficult questions in a job interview. The training in (k) simulates „realistische Vorstellungsgespräche“ and asks „Wie reagiere ich auf Stressfragen“. The Bewerbungswerkstatt (d) is the trap: „Das Vorstellungsgespräch selbst ist nicht Gegenstand dieses Workshops“.",
+      "explanationDe": "Du willst üben, im Vorstellungsgespräch ruhig auf schwierige Fragen zu reagieren. Das Training (k) simuliert „realistische Vorstellungsgespräche“ und fragt: „Wie reagiere ich auf Stressfragen“. Die Bewerbungswerkstatt (d) ist die Falle: „Das Vorstellungsgespräch selbst ist nicht Gegenstand dieses Workshops“."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Wiedereinstieg mit Plan",
+      "subheading": "Ein Programm für die Rückkehr ins Berufsleben",
+      "lines": [],
+      "text": "Nach Jahren der Kindererziehung oder der Pflege von Angehörigen fällt der Schritt zurück in den Beruf vielen schwer. Unser Programm richtet sich ausschließlich an Frauen und Männer, die ihre Erwerbstätigkeit wegen einer solchen Familienphase mindestens ein Jahr lang unterbrochen haben. In Gruppenworkshops frischen Sie Ihre digitalen Kenntnisse auf und erarbeiten ein aktuelles Bewerbungsprofil; begleitende Einzelgespräche mit einer Beraterin helfen Ihnen, realistische berufliche Ziele zu entwickeln. Die Treffen finden vormittags statt, sodass sie sich gut mit Kita- und Schulzeiten vereinbaren lassen. Da das Programm aus Landesmitteln finanziert wird, entstehen Ihnen keinerlei Kosten.",
+      "footer": "Beratungsstelle Neustart · Am Kanal 3, Leipzig-Lindenau · Tel. 0341 2248903"
+    },
+    {
+      "key": "b",
+      "heading": "IT-Karrieretag Leipzig",
+      "subheading": "Arbeitgeber treffen statt Anschreiben verschicken",
+      "lines": [],
+      "text": "Rund 60 Unternehmen aus Softwareentwicklung, Datenanalyse und IT-Sicherheit präsentieren sich einen Tag lang in der Halle am Hafen und suchen gezielt nach erfahrenen Fachkräften. Die Veranstaltung richtet sich an Berufstätige mit mindestens zwei Jahren Praxiserfahrung; Stellen für Studierende oder Praktikumsplätze werden hier nicht vergeben. Wer möchte, kann sich vorab für ein zehnminütiges Kennenlerngespräch mit Personalverantwortlichen anmelden. Zusätzlich prüfen Expertinnen und Experten kostenlos Ihre Unterlagen und geben Tipps für Gehaltsverhandlungen. Die Messe findet am zweiten Samstag im März von 10 bis 16 Uhr statt, der Eintritt ist frei.",
+      "footer": "Halle am Hafen · www.it-karrieretag-leipzig.de"
+    },
+    {
+      "key": "c",
+      "heading": "Campus Plus – Praktikumsbörse",
+      "subheading": "Für Studierende aller Fachrichtungen",
+      "lines": [],
+      "text": "Über unser Portal vermitteln wir Pflichtpraktika und freiwillige Praktika in mehr als 300 Unternehmen der Region, von der Softwarefirma bis zum Ingenieurbüro. Bewerben können sich ausschließlich Studierende, die an einer Hochschule eingeschrieben sind; Absolventinnen und Absolventen sind leider ausgeschlossen. Alle Partnerbetriebe verpflichten sich, ihren Praktikantinnen und Praktikanten eine angemessene Vergütung zu zahlen und eine feste Ansprechperson zur Verfügung zu stellen. Daneben vermitteln wir auch Plätze bei Kooperationspartnern im europäischen Ausland. Nach dem Praktikum erhalten Sie ein qualifiziertes Zeugnis, das Ihnen den späteren Berufseinstieg erleichtert. Die Nutzung der Börse ist kostenlos.",
+      "footer": "www.campusplus-praktikum.de"
+    },
+    {
+      "key": "d",
+      "heading": "Bewerbungswerkstatt Lindenau",
+      "subheading": "Überzeugende Unterlagen an einem Tag",
+      "lines": [],
+      "text": "Ein aussagekräftiges Anschreiben und ein übersichtlicher Lebenslauf sind nach wie vor die Eintrittskarte zum Vorstellungsgespräch. In unserem eintägigen Workshop überarbeiten Sie Ihre Unterlagen gemeinsam mit erfahrenen Personalfachleuten: Wie stelle ich Lücken im Lebenslauf dar? Welche Kenntnisse gehören wirklich in die Bewerbung? Wie gestalte ich ein ansprechendes Online-Profil? Bitte bringen Sie eine aktuelle Stellenanzeige sowie Ihre bisherigen Unterlagen mit. Das Vorstellungsgespräch selbst ist nicht Gegenstand dieses Workshops; dafür bieten wir ab April wieder einen eigenen Aufbaukurs an. Termine jeweils samstags von 9 bis 16 Uhr, Teilnahmegebühr 59 Euro, ermäßigt 35 Euro.",
+      "footer": "Bewerbungswerkstatt Lindenau · Merseburger Weg 12 · Tel. 0341 4870215"
+    },
+    {
+      "key": "e",
+      "heading": "Jobtag Pflege und Gesundheit",
+      "subheading": "Neue Wege in einen sicheren Beruf",
+      "lines": [],
+      "text": "Kliniken, Pflegeheime und ambulante Dienste suchen dringend Personal – nicht nur ausgebildete Fachkräfte, sondern ausdrücklich auch Quereinsteigerinnen und Quereinsteiger aus anderen Branchen. Beim Jobtag im Gewerbehof Plagwitz stellen sich mehr als 40 Arbeitgeber vor, beantworten Fragen zu Arbeitszeiten und Gehältern und führen auf Wunsch gleich erste Gespräche. Beraterinnen der Arbeitsagentur informieren außerdem darüber, unter welchen Voraussetzungen eine Umschulung finanziell gefördert wird. Wer noch unsicher ist, kann in einem Schnupperworkshop typische Pflegetätigkeiten ausprobieren. Der Jobtag findet an einem Donnerstag im Mai von 14 bis 19 Uhr statt; eine Anmeldung ist nicht erforderlich.",
+      "footer": "Gewerbehof Plagwitz, Halle 2 · www.jobtag-pflege-leipzig.de"
+    },
+    {
+      "key": "f",
+      "heading": "Coaching Kompass",
+      "subheading": "Begleitung für Fach- und Führungskräfte",
+      "lines": [],
+      "text": "Die erste Führungsposition bringt neue Erwartungen mit sich: Plötzlich sollen Sie Mitarbeitende motivieren, Konflikte moderieren und unpopuläre Entscheidungen vertreten. In vertraulichen Einzelsitzungen entwickeln Sie mit einem erfahrenen Coach Strategien für Ihre neue Rolle, reflektieren schwierige Gesprächssituationen und stärken Ihr Auftreten. Die Termine finden wahlweise in unseren Räumen in Gohlis oder per Videokonferenz statt, auf Wunsch auch in den Abendstunden. Eine Sitzung von 90 Minuten kostet 160 Euro; erfahrungsgemäß beteiligen sich viele Arbeitgeber an den Kosten, wenn Sie das Coaching im Rahmen der Personalentwicklung beantragen. Ein unverbindliches Vorgespräch von 20 Minuten ist kostenlos.",
+      "footer": "Coaching Kompass · Tel. 0341 9312077 · www.coaching-kompass-leipzig.de"
+    },
+    {
+      "key": "g",
+      "heading": "Schnupperwochen im Handwerk",
+      "subheading": "Eine Ferienaktion der Handwerksinitiative Westsachsen",
+      "lines": [],
+      "text": "Elektroniker, Tischlerin, Kfz-Mechatroniker oder Augenoptikerin – welcher Beruf passt zu mir? Wer das herausfinden möchte, kann während der Oster-, Sommer- oder Herbstferien eine Woche lang in einem unserer rund 150 Mitgliedsbetriebe mitarbeiten. Die Jugendlichen werden dabei von einer festen Ansprechperson betreut und übernehmen unter Anleitung erste einfache Aufgaben. Das Angebot richtet sich an Schülerinnen und Schüler zwischen 14 und 18 Jahren. Eine Vergütung ist nicht vorgesehen, dafür sind alle Teilnehmenden über die Initiative unfall- und haftpflichtversichert. Am Ende erhalten sie eine Bescheinigung, die sie ihren späteren Bewerbungen beilegen können.",
+      "footer": "Anmeldung bis vier Wochen vor Ferienbeginn: www.handwerk-westsachsen.de/schnuppern"
+    },
+    {
+      "key": "h",
+      "heading": "Anerkennungsberatung Leipzig",
+      "subheading": "Ihr Abschluss aus dem Ausland – was ist er hier wert?",
+      "lines": [],
+      "text": "Wer im Ausland einen Beruf erlernt oder ein Studium abgeschlossen hat, steht in Deutschland oft vor der Frage, ob dieser Abschluss offiziell anerkannt wird. Unsere Beraterinnen und Berater klären mit Ihnen, welche Stelle für Ihren Beruf zuständig ist, welche Dokumente Sie einreichen müssen und wie Sie fehlende Qualifikationen gegebenenfalls nachholen können. Bei reglementierten Berufen wie Ärztin oder Lehrer ist eine Anerkennung sogar Voraussetzung für die Berufsausübung. Die Beratung ist kostenlos und vertraulich und wird neben Deutsch auch auf Englisch, Spanisch, Arabisch und Russisch angeboten. Bitte vereinbaren Sie vorab telefonisch einen Termin.",
+      "footer": "Anerkennungsberatung Leipzig · Tel. 0341 5560418 (Mo.–Do. 9–15 Uhr)"
+    },
+    {
+      "key": "i",
+      "heading": "Gründungsbüro Leipzig-Ost",
+      "subheading": "Von der Idee zum eigenen Unternehmen",
+      "lines": [],
+      "text": "Sie tragen sich mit dem Gedanken, sich selbstständig zu machen, und haben bereits eine konkrete Geschäftsidee? Dann begleiten wir Sie auf dem Weg zur Gründung. In einem kostenlosen Erstgespräch prüfen wir gemeinsam, wie tragfähig Ihr Vorhaben ist. Anschließend unterstützen Sie unsere Fachleute bei der Erstellung des Businessplans, bei Finanzierungsfragen und bei der Suche nach geeigneten Fördermitteln. Abendseminare zu Steuern, Versicherungen und Marketing runden das Angebot ab. Bitte beachten Sie, dass wir keine allgemeine Berufsberatung anbieten: Wer erst herausfinden möchte, welche berufliche Richtung zu ihm passt, wendet sich besser an die Arbeitsagentur.",
+      "footer": "Gründungsbüro Leipzig-Ost · Rosenhofstraße 8 · www.gruenden-leipzig-ost.de"
+    },
+    {
+      "key": "j",
+      "heading": "Programm Brückenschlag",
+      "subheading": "Berufspraktika im europäischen Ausland",
+      "lines": [],
+      "text": "Sie haben Ihre Berufsausbildung erfolgreich abgeschlossen und möchten Ihre fachlichen und sprachlichen Kompetenzen im Ausland erweitern? Unser Programm vermittelt Praktika von drei bis sechs Monaten in Betrieben in Frankreich, Spanien, Irland und Österreich – in Gastronomie, Handwerk, Handel und Pflege. Ein Stipendium deckt die Kosten für Reise und Unterkunft sowie einen Teil der Lebenshaltungskosten. Vor der Ausreise besuchen alle Teilnehmenden einen vierwöchigen Sprachkurs. Bewerben können sich junge Fachkräfte, deren Abschluss nicht länger als zwölf Monate zurückliegt. Bewerbungsschluss für die Herbstrunde ist Ende Mai.",
+      "footer": "Programm Brückenschlag · www.brueckenschlag-praktikum.eu"
+    },
+    {
+      "key": "k",
+      "heading": "Interviewtraining mit Kamera",
+      "subheading": "Souverän ins Vorstellungsgespräch",
+      "lines": [],
+      "text": "Viele Bewerberinnen und Bewerber haben hervorragende Unterlagen, scheitern aber im persönlichen Gespräch an ihrer Nervosität oder an unerwarteten Fragen. In unserem Training simulieren wir mit Ihnen realistische Vorstellungsgespräche – auf Wunsch zugeschnitten auf eine konkrete Stelle. Die Gespräche werden auf Video aufgezeichnet und anschließend gemeinsam ausgewertet: Wie wirken Körpersprache und Stimme? Wie reagiere ich auf Stressfragen oder auf die Frage nach meinen Gehaltsvorstellungen? Das Einzeltraining dauert drei Stunden und kostet 140 Euro. Termine vergeben wir in der Regel innerhalb einer Woche, wahlweise in unserem Studio oder online.",
+      "footer": "Studio Auftritt · Lessinghof 5 · www.studio-auftritt.de"
+    },
+    {
+      "key": "l",
+      "heading": "Ausbildungsbörse Leipzig",
+      "subheading": "Über 80 Betriebe an einem Ort",
+      "lines": [],
+      "text": "Welche Ausbildung passt zu meinen Interessen, und welche Betriebe bilden in meiner Nähe aus? Antworten auf diese Fragen erhalten Schülerinnen und Schüler der Klassen 8 bis 12 sowie ihre Eltern bei der Ausbildungsbörse in der Stadthalle. Mehr als 80 Unternehmen und Berufsfachschulen stellen sich vor – vom Bankkaufmann über die Pflegefachfrau bis zum Zimmerer. Auszubildende berichten aus ihrem Alltag, und an Mitmachstationen lassen sich typische Tätigkeiten ausprobieren. In Vorträgen erfahren die Besucher zudem, wie ein duales Studium funktioniert. Die Börse findet an einem Freitag im September von 9 bis 15 Uhr statt; Schulklassen melden sich bitte vorher an.",
+      "footer": "Stadthalle, Großer Saal · Eintritt frei"
+    }
+  ],
+  "glossary": [
+    { "de": "der Quereinsteiger / die Quereinsteigerin", "en": "career changer (from another field)" },
+    { "de": "die Umschulung", "en": "retraining for a new occupation" },
+    { "de": "das Pflichtpraktikum", "en": "compulsory internship (part of a degree)" },
+    { "de": "die Vergütung", "en": "pay, remuneration" },
+    { "de": "die Elternzeit", "en": "parental leave" },
+    { "de": "die Erwerbstätigkeit", "en": "gainful employment, paid work" },
+    { "de": "die Personalentwicklung", "en": "staff development" },
+    { "de": "tragfähig", "en": "viable, sustainable" },
+    { "de": "sich mit dem Gedanken tragen, … zu …", "en": "to be considering doing something" },
+    { "de": "reglementiert", "en": "regulated (profession)" },
+    { "de": "die Stressfrage", "en": "deliberately awkward interview question" },
+    { "de": "gleichwertig", "en": "equivalent" }
+  ]
+}

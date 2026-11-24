@@ -1,0 +1,264 @@
+{
+  "id": "konzessive-saetze-b2",
+  "level": "B2",
+  "category": "satzbau",
+  "order": 24,
+  "title": "Einräumungen: wenn auch, selbst wenn, so … auch, dennoch, ungeachtet",
+  "titleEn": "Concessions at B2: wenn auch, selbst wenn, so … auch, dennoch, ungeachtet",
+  "summary": "Go beyond obwohl and trotzdem: admit a limitation with wenn auch, show that even a possible obstacle changes nothing with selbst wenn, say „no matter how“ with so … auch, and write formally with dennoch and ungeachtet.",
+  "summaryDe": "Mehr als obwohl und trotzdem: Mit wenn auch räumst du eine Einschränkung ein, mit selbst wenn zeigst du, dass sogar ein mögliches Hindernis nichts ändert, mit so … auch sagst du „egal wie“, und mit dennoch und ungeachtet schreibst du formell.",
+  "examRelevance": ["sprachbausteine", "schreiben", "sprechen", "lesen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "A concession admits an obstacle and says that it does **not** change the result. At B2 you choose: **obwohl / obgleich** for real facts, **auch wenn / selbst wenn** also for possible or imagined obstacles, **wenn auch** to admit a limitation in passing, **so / wie … auch** for „no matter how“, **dennoch / gleichwohl** as formal adverbs and **ungeachtet** (+ genitive) as a formal preposition.",
+      "mdDe": "Mit einer Einräumung (Konzession) nennst du ein Hindernis und sagst, dass es am Ergebnis **nichts** ändert. Auf B2-Niveau wählst du: **obwohl / obgleich** für echte Tatsachen, **auch wenn / selbst wenn** auch für mögliche oder nur gedachte Hindernisse, **wenn auch** für eine Einschränkung nebenbei, **so / wie … auch** für „egal wie“, **dennoch / gleichwohl** als formelle Adverbien und **ungeachtet** (+ Genitiv) als formelle Präposition."
+    },
+    {
+      "type": "text",
+      "heading": "Fact or possibility? obwohl vs. selbst wenn",
+      "headingDe": "Tatsache oder Möglichkeit? obwohl oder selbst wenn",
+      "md": "**obwohl** (formal: **obgleich**, **obschon**) always refers to something that is **true** (see „Gegensätze: obwohl, trotzdem, trotz“): „**Obwohl** die Kosten gestiegen **sind**, bleibt der Eintritt frei.“\n\n**selbst wenn / sogar wenn / auch wenn** can also refer to something that **might** happen or is only **imagined** – the result stays the same anyway. With an imagined obstacle, use Konjunktiv II in both clauses:\n\n- „**Selbst wenn** es morgen **regnet**, findet der Lauf statt.“ (Maybe it will rain.)\n- „**Selbst wenn** ich mehr Zeit **hätte**, **würde** ich nicht in den Verein eintreten.“ (I don't have more time.)\n\n*obwohl* is impossible in both sentences, because the rain and the extra time are not facts. *auch wenn* is the most neutral and works for facts too: „**Auch wenn** ich dich gut **verstehe**, kann ich dir nicht zustimmen.“ *selbst wenn* stresses that even this extreme case changes nothing.",
+      "mdDe": "**obwohl** (formell: **obgleich**, **obschon**) bezieht sich immer auf etwas, das **wirklich so ist** (siehe „Gegensätze: obwohl, trotzdem, trotz“): „**Obwohl** die Kosten gestiegen **sind**, bleibt der Eintritt frei.“\n\n**selbst wenn / sogar wenn / auch wenn** können sich auch auf etwas beziehen, das **vielleicht** passiert oder nur **gedacht** ist – das Ergebnis bleibt trotzdem gleich. Bei einem gedachten Hindernis steht in beiden Sätzen Konjunktiv II:\n\n- „**Selbst wenn** es morgen **regnet**, findet der Lauf statt.“ (Vielleicht regnet es.)\n- „**Selbst wenn** ich mehr Zeit **hätte**, **würde** ich nicht in den Verein eintreten.“ (Ich habe nicht mehr Zeit.)\n\n*obwohl* ist in beiden Sätzen unmöglich, weil der Regen und die zusätzliche Zeit keine Tatsachen sind. *auch wenn* ist am neutralsten und passt auch für Tatsachen: „**Auch wenn** ich dich gut **verstehe**, kann ich dir nicht zustimmen.“ *selbst wenn* betont, dass sogar dieser extreme Fall nichts ändert."
+    },
+    {
+      "type": "text",
+      "heading": "wenn auch: admitting a limitation",
+      "headingDe": "wenn auch: eine Einschränkung zugeben",
+      "md": "**wenn … auch** works like *obwohl* but sounds more elegant. In a full clause, *auch* moves into the clause, and the main clause often starts with **so** and contains **doch**: „**Wenn** das Gebäude **auch** alt **ist**, so ist es **doch** gut erhalten.“\n\nVery common at B2 is the **short form without a verb**, inserted after an adjective or added at the end: „Das ist eine gute, **wenn auch** teure Lösung.“ / „Der Plan funktioniert, **wenn auch** langsamer als erwartet.“\n\nOnly *wenn auch* can be shortened like this – *auch wenn* always needs a complete clause: „Der Plan funktioniert, **auch wenn** es langsamer **geht** als erwartet.“",
+      "mdDe": "**wenn … auch** funktioniert wie *obwohl*, klingt aber eleganter. In einem vollständigen Satz rückt *auch* in den Satz hinein, und der Hauptsatz beginnt oft mit **so** und enthält **doch**: „**Wenn** das Gebäude **auch** alt **ist**, so ist es **doch** gut erhalten.“\n\nSehr häufig ist auf B2-Niveau die **Kurzform ohne Verb**, eingeschoben nach einem Adjektiv oder am Ende angehängt: „Das ist eine gute, **wenn auch** teure Lösung.“ / „Der Plan funktioniert, **wenn auch** langsamer als erwartet.“\n\nNur *wenn auch* kann man so verkürzen – *auch wenn* braucht immer einen vollständigen Satz: „Der Plan funktioniert, **auch wenn** es langsamer **geht** als erwartet.“"
+    },
+    {
+      "type": "table",
+      "heading": "Concessive connectors at a glance",
+      "headingDe": "Konzessive Konnektoren im Überblick",
+      "columns": ["Connector", "Use", "Word order", "Example"],
+      "columnsDe": ["Konnektor", "Gebrauch", "Wortstellung", "Beispiel"],
+      "rows": [
+        ["obwohl / obgleich / obschon", "real fact (obgleich, obschon: formal)", "verb at the end", "Obgleich die Mehrheit zustimmte, wurde der Antrag vertagt."],
+        ["auch wenn / selbst wenn", "fact or possibility; selbst wenn = even in this extreme case", "verb at the end", "Selbst wenn wir den Zug verpassen, sind wir rechtzeitig da."],
+        ["wenn … auch / wenn auch", "admits a limitation; short form without a verb possible", "verb at the end; short form: no verb", "Die Lösung ist gut, wenn auch teuer."],
+        ["so + adj. … auch / wie … auch / was … auch", "no matter how / what", "verb at the end; the main clause usually starts with its own subject", "So schwer es auch ist, wir geben nicht auf."],
+        ["ob … oder (nicht)", "no matter whether", "verb at the end; the main clause usually starts with its own subject", "Ob du zustimmst oder nicht, die Entscheidung ist gefallen."],
+        ["dennoch / gleichwohl / nichtsdestotrotz", "adverb = trotzdem (formal)", "position 1 → verb next, or middle field", "Die Lage ist ernst. Dennoch besteht kein Grund zur Panik."],
+        ["ungeachtet + genitive", "preposition = trotz (formal)", "+ noun, no verb", "Ungeachtet der Proteste wurde der Park bebaut."],
+        ["bei aller / allem + dative", "despite all the …", "+ noun, no verb", "Bei aller Begeisterung sollten wir die Kosten nicht vergessen."]
+      ],
+      "rowsDe": [
+        ["obwohl / obgleich / obschon", "echte Tatsache (obgleich, obschon: formell)", "Verb am Ende", "Obgleich die Mehrheit zustimmte, wurde der Antrag vertagt."],
+        ["auch wenn / selbst wenn", "Tatsache oder Möglichkeit; selbst wenn = sogar in diesem extremen Fall", "Verb am Ende", "Selbst wenn wir den Zug verpassen, sind wir rechtzeitig da."],
+        ["wenn … auch / wenn auch", "räumt eine Einschränkung ein; Kurzform ohne Verb möglich", "Verb am Ende; Kurzform: kein Verb", "Die Lösung ist gut, wenn auch teuer."],
+        ["so + Adj. … auch / wie … auch / was … auch", "egal wie / egal was", "Verb am Ende; der Hauptsatz beginnt meist mit seinem eigenen Subjekt", "So schwer es auch ist, wir geben nicht auf."],
+        ["ob … oder (nicht)", "egal, ob", "Verb am Ende; der Hauptsatz beginnt meist mit seinem eigenen Subjekt", "Ob du zustimmst oder nicht, die Entscheidung ist gefallen."],
+        ["dennoch / gleichwohl / nichtsdestotrotz", "Adverb = trotzdem (formell)", "Position 1 → Verb direkt danach, oder Mittelfeld", "Die Lage ist ernst. Dennoch besteht kein Grund zur Panik."],
+        ["ungeachtet + Genitiv", "Präposition = trotz (formell)", "+ Nomen, kein Verb", "Ungeachtet der Proteste wurde der Park bebaut."],
+        ["bei aller / allem + Dativ", "trotz der ganzen …", "+ Nomen, kein Verb", "Bei aller Begeisterung sollten wir die Kosten nicht vergessen."]
+      ],
+      "note": "„ungeachtet dessen“ is a formal synonym of „dennoch“: „Die Zahlen sind schlecht. Ungeachtet dessen hält die Firma an ihren Plänen fest.“",
+      "noteDe": "„ungeachtet dessen“ ist ein formelles Synonym für „dennoch“: „Die Zahlen sind schlecht. Ungeachtet dessen hält die Firma an ihren Plänen fest.“"
+    },
+    {
+      "type": "text",
+      "heading": "No matter how: so … auch, wie … auch, ob … oder",
+      "headingDe": "Egal wie: so … auch, wie … auch, ob … oder",
+      "md": "To say that the **degree** of an obstacle doesn't matter, put **so** (or **wie**) + adjective/adverb at the beginning and **auch** inside the clause; the verb goes to the end: „**So** sehr ich mich **auch** **bemühe**, …“. The same pattern works with question words – **was** … auch (whatever), **wer** … auch (whoever), **wo** … auch (wherever) – and with **ob … oder**: „**Ob** es regnet **oder** nicht, …“\n\n**Special word order:** these clauses don't really fill position 1, so the main clause usually starts with its **own** subject: „**So** gründlich wir **auch** **suchten**, **wir fanden** den Fehler nicht.“ / „**Was** du **auch** **sagst**, **ich bleibe** bei meiner Meinung.“ The inverted form („…, fanden wir den Fehler nicht“) also occurs, but the version with the subject first is more typical.",
+      "mdDe": "Wenn du sagen willst, dass das **Ausmaß** eines Hindernisses egal ist, stellst du **so** (oder **wie**) + Adjektiv/Adverb an den Anfang und **auch** in den Satz; das Verb steht am Ende: „**So** sehr ich mich **auch** **bemühe**, …“. Dasselbe Muster funktioniert mit Fragewörtern – **was** … auch (egal was), **wer** … auch (egal wer), **wo** … auch (egal wo) – und mit **ob … oder**: „**Ob** es regnet **oder** nicht, …“\n\n**Besondere Wortstellung:** Diese Sätze besetzen nicht richtig die Position 1, deshalb beginnt der Hauptsatz meistens mit seinem **eigenen** Subjekt: „**So** gründlich wir **auch** **suchten**, **wir fanden** den Fehler nicht.“ / „**Was** du **auch** **sagst**, **ich bleibe** bei meiner Meinung.“ Die Form mit dem Verb zuerst („…, fanden wir den Fehler nicht“) kommt auch vor, aber die Variante mit dem Subjekt zuerst ist typischer."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "**Obgleich** die Firma Gewinne **macht**, sollen 200 Stellen wegfallen.", "en": "Although the company is making a profit, 200 jobs are to be cut." },
+        { "de": "**Selbst wenn** der Bus Verspätung **hat**, schaffen wir den Anschluss.", "en": "Even if the bus is late, we'll make the connection." },
+        { "de": "**Auch wenn** man mir das doppelte Gehalt **anbieten würde**, **würde** ich nicht nach Zürich ziehen.", "en": "Even if they offered me twice the salary, I wouldn't move to Zurich." },
+        { "de": "Die Reform ist ein Fortschritt, **wenn auch** ein kleiner.", "en": "The reform is progress, if only a small one." },
+        { "de": "**So** überzeugend seine Argumente **auch klingen**, mir fehlen die Belege.", "en": "However convincing his arguments sound, I'm missing the evidence." },
+        { "de": "**Wie** man es **auch dreht** und wendet, das Geld reicht nicht.", "en": "Whichever way you look at it, the money isn't enough." },
+        { "de": "Die Studie hat Schwächen. **Dennoch liefert** sie wichtige Hinweise.", "en": "The study has weaknesses. Nevertheless, it provides important clues." },
+        { "de": "**Ungeachtet der Warnungen** fuhren viele Urlauber in die Berge.", "en": "Regardless of the warnings, many holidaymakers drove into the mountains." },
+        { "de": "**Bei aller** Sympathie für dein Anliegen: So geht das nicht.", "en": "With all due sympathy for your concern: this isn't the way to do it." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:** A typical choice in **Sprachbausteine Teil 1** is „obwohl / selbst wenn / trotzdem“. Check three things: Is the verb at the end or right after the gap? Is it a fact or a possibility (Konjunktiv II, „sollte“)? Does a noun in the genitive follow (→ *ungeachtet / trotz*)? In **Sprachbausteine Teil 2**, *dennoch*, *ungeachtet* or *auch* may be in the word bank – *auch* is often the missing piece in „wenn … auch“ or „so … auch“.\n\nIn the **B2 e-mail**, a concession makes a complaint sound fair and convincing: „**Wenn** ich **auch** Verständnis für Personalengpässe **habe**, so erwarte ich doch eine rechtzeitige Information.“ In the **discussion (Sprechen Teil 2)**, concede first, then counter: „**Selbst wenn** das **stimmt**, löst es das Problem nicht.“ / „Das ist ein Argument, **wenn auch** kein besonders starkes.“",
+      "mdDe": "**In der Prüfung:** Eine typische Auswahl in **Sprachbausteine Teil 1** ist „obwohl / selbst wenn / trotzdem“. Prüfe drei Dinge: Steht das Verb am Ende oder direkt nach der Lücke? Ist es eine Tatsache oder eine Möglichkeit (Konjunktiv II, „sollte“)? Folgt ein Nomen im Genitiv (→ *ungeachtet / trotz*)? In **Sprachbausteine Teil 2** können *dennoch*, *ungeachtet* oder *auch* im Kasten stehen – *auch* ist oft das fehlende Stück in „wenn … auch“ oder „so … auch“.\n\nIn der **B2-E-Mail** wirkt eine Beschwerde mit einer Einräumung fair und überzeugend: „**Wenn** ich **auch** Verständnis für Personalengpässe **habe**, so erwarte ich doch eine rechtzeitige Information.“ In der **Diskussion (Sprechen Teil 2)** räumst du zuerst etwas ein und widersprichst dann: „**Selbst wenn** das **stimmt**, löst es das Problem nicht.“ / „Das ist ein Argument, **wenn auch** kein besonders starkes.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **obwohl only for facts.** „Obwohl ich im Lotto gewinnen würde, …“ is wrong – an imagined case needs **selbst wenn / auch wenn**: „**Selbst wenn** ich im Lotto **gewinnen würde**, würde ich weiterarbeiten.“\n- **The short form is only „wenn auch“.** „eine schöne, wenn auch kleine Wohnung“ – never „eine schöne, auch wenn kleine Wohnung“.\n- **ungeachtet + genitive** in written German: „ungeachtet **der** hohen Kosten“, not „ungeachtet den hohen Kosten“.\n- **dennoch is an adverb**, like *trotzdem*: „…, dennoch wir bleiben“ is wrong → „…, **dennoch bleiben wir**“.",
+      "mdDe": "**Typische Fallen:**\n\n- **obwohl nur für Tatsachen.** „Obwohl ich im Lotto gewinnen würde, …“ ist falsch – ein gedachter Fall braucht **selbst wenn / auch wenn**: „**Selbst wenn** ich im Lotto **gewinnen würde**, würde ich weiterarbeiten.“\n- **Die Kurzform gibt es nur mit „wenn auch“.** „eine schöne, wenn auch kleine Wohnung“ – nie „eine schöne, auch wenn kleine Wohnung“.\n- **ungeachtet + Genitiv** in der Schriftsprache: „ungeachtet **der** hohen Kosten“, nicht „ungeachtet den hohen Kosten“.\n- **dennoch ist ein Adverb**, wie *trotzdem*: „…, dennoch wir bleiben“ ist falsch → „…, **dennoch bleiben wir**“."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Obwohl ich mehr Geld hätte, würde ich keine größere Wohnung mieten.",
+      "right": "Selbst wenn ich mehr Geld hätte, würde ich keine größere Wohnung mieten.",
+      "why": "The speaker doesn't have more money – it is an imagined case (Konjunktiv II). „obwohl“ only introduces facts; use „selbst wenn“ or „auch wenn“.",
+      "whyDe": "Die Person hat nicht mehr Geld – es ist ein gedachter Fall (Konjunktiv II). „obwohl“ leitet nur Tatsachen ein; nimm „selbst wenn“ oder „auch wenn“."
+    },
+    {
+      "wrong": "Ungeachtet den Warnungen sind sie losgefahren.",
+      "right": "Ungeachtet der Warnungen sind sie losgefahren.",
+      "why": "„ungeachtet“ takes the genitive: „der Warnungen“.",
+      "whyDe": "„ungeachtet“ steht mit Genitiv: „der Warnungen“."
+    },
+    {
+      "wrong": "Die Lage ist schwierig, dennoch wir geben nicht auf.",
+      "right": "Die Lage ist schwierig, dennoch geben wir nicht auf.",
+      "why": "„dennoch“ is an adverb in position 1, so the verb follows directly and the subject comes after it.",
+      "whyDe": "„dennoch“ ist ein Adverb auf Position 1, deshalb folgt direkt das Verb, und das Subjekt kommt danach."
+    },
+    {
+      "wrong": "So oft ich habe es auch versucht, es hat nicht geklappt.",
+      "right": "So oft ich es auch versucht habe, es hat nicht geklappt.",
+      "why": "The „so … auch“ clause is a subordinate clause: the conjugated verb „habe“ goes to the end.",
+      "whyDe": "Der Satz mit „so … auch“ ist ein Nebensatz: Das konjugierte Verb „habe“ steht am Ende."
+    },
+    {
+      "wrong": "Das Konzept ist überzeugend, auch wenn etwas teuer.",
+      "right": "Das Konzept ist überzeugend, wenn auch etwas teuer.",
+      "why": "Without a verb, only the short form „wenn auch“ is possible. „auch wenn“ needs a full clause: „auch wenn es etwas teuer ist“.",
+      "whyDe": "Ohne Verb ist nur die Kurzform „wenn auch“ möglich. „auch wenn“ braucht einen vollständigen Satz: „auch wenn es etwas teuer ist“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "___ das Wetter am Sonntag schlecht sein sollte, findet der Stadtlauf wie geplant statt.",
+      "options": ["Obwohl", "Selbst wenn", "Trotzdem"],
+      "answer": 1,
+      "explanation": "„sein sollte“ shows a possibility, not a fact – so you need „Selbst wenn“. „Obwohl“ only introduces facts, and „Trotzdem“ is an adverb that can't send the verb to the end.",
+      "explanationDe": "„sein sollte“ zeigt eine Möglichkeit, keine Tatsache – deshalb brauchst du „Selbst wenn“. „Obwohl“ leitet nur Tatsachen ein, und „Trotzdem“ ist ein Adverb, nach dem das Verb nicht am Ende stehen kann."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Wohnung ist hell und ruhig, ___ etwas klein.",
+      "options": ["auch wenn", "wenn auch", "trotz"],
+      "answer": 1,
+      "explanation": "There is no verb after the gap, and only the short form „wenn auch“ works without a verb. „auch wenn“ needs a complete clause („auch wenn sie etwas klein ist“), and the preposition „trotz“ needs a noun in the genitive („trotz ihrer geringen Größe“).",
+      "explanationDe": "Nach der Lücke kommt kein Verb, und nur die Kurzform „wenn auch“ funktioniert ohne Verb. „auch wenn“ braucht einen vollständigen Satz („auch wenn sie etwas klein ist“), und nach der Präposition „trotz“ kommt ein Nomen im Genitiv („trotz ihrer geringen Größe“)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Alle Unterlagen waren vollständig. ___ wurde der Antrag abgelehnt.",
+      "options": ["Dennoch", "Ungeachtet", "Selbst wenn"],
+      "answer": 0,
+      "explanation": "The verb „wurde“ follows the gap directly, so you need an adverb in position 1: „Dennoch“ (= trotzdem). „Ungeachtet“ needs a noun in the genitive; after „Selbst wenn“ the verb would go to the end.",
+      "explanationDe": "Das Verb „wurde“ folgt direkt nach der Lücke, also brauchst du ein Adverb auf Position 1: „Dennoch“ (= trotzdem). „Ungeachtet“ braucht ein Nomen im Genitiv; nach „Selbst wenn“ müsste das Verb am Ende stehen."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ aller Kritik hält der Stadtrat an der Erhöhung der Parkgebühren fest.",
+      "options": ["Ungeachtet", "Dennoch", "Obgleich"],
+      "answer": 0,
+      "explanation": "„aller Kritik“ is a noun phrase in the genitive, and no verb follows it → the preposition „Ungeachtet“. „Dennoch“ would need the verb right after it, „Obgleich“ a clause with the verb at the end.",
+      "explanationDe": "„aller Kritik“ ist ein Nomen im Genitiv, und danach folgt kein Verb → die Präposition „Ungeachtet“. Nach „Dennoch“ müsste direkt das Verb folgen, „Obgleich“ bräuchte einen Nebensatz mit dem Verb am Ende."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wie sehr sie sich auch beeilte, ___.",
+      "options": ["sie erreichte den letzten Bus nicht mehr", "sie den letzten Bus nicht mehr erreichte", "dass sie den letzten Bus nicht mehr erreichte"],
+      "answer": 0,
+      "explanation": "After a „wie … auch“ clause comes a normal main clause, which usually starts with its own subject: „sie erreichte …“. Option (b) has the word order of a subordinate clause, and (c) adds a dass clause, so the sentence has no main clause.",
+      "explanationDe": "Nach einem Satz mit „wie … auch“ kommt ein normaler Hauptsatz, der meistens mit seinem eigenen Subjekt beginnt: „sie erreichte …“. Antwort (b) hat die Wortstellung eines Nebensatzes, und (c) ist ein dass-Satz – dann fehlt dem Satz der Hauptsatz."
+    },
+    {
+      "type": "mc",
+      "prompt": "___ man es auch dreht und wendet, die Rechnung geht nicht auf.",
+      "options": ["Obwohl", "Wie", "Selbst"],
+      "answer": 1,
+      "explanation": "„Wie … auch“ means „no matter how“: whichever way you look at it, the numbers don't add up. „Obwohl … auch“ is not a concessive pattern, and „Selbst“ can't start a clause without „wenn“.",
+      "explanationDe": "„Wie … auch“ bedeutet „egal wie“: Egal, wie man es betrachtet, die Rechnung stimmt nicht. „Obwohl … auch“ ist kein konzessives Muster, und „Selbst“ kann ohne „wenn“ keinen Satz einleiten."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ wenn alle Züge ausfallen sollten, findet die Konferenz statt – notfalls online.",
+      "hint": "(even if)",
+      "hintDe": "(sogar in diesem Fall)",
+      "answers": ["Selbst", "Auch", "Sogar"],
+      "explanation": "„sollten“ marks a possibility, so you need „Selbst wenn“ (also possible: „Auch wenn“, „Sogar wenn“). „Obwohl“ would not fit: the trains have not been cancelled.",
+      "explanationDe": "„sollten“ zeigt eine Möglichkeit, deshalb brauchst du „Selbst wenn“ (auch möglich: „Auch wenn“, „Sogar wenn“). „Obwohl“ passt nicht: Die Züge sind ja nicht ausgefallen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Der Kompromiss ist, ___ auch nicht perfekt, ein wichtiger erster Schritt.",
+      "answers": ["wenn"],
+      "explanation": "The inserted short form without a verb is „wenn auch“: the compromise isn't perfect, but it is an important first step.",
+      "explanationDe": "Die eingeschobene Kurzform ohne Verb heißt „wenn auch“: Der Kompromiss ist nicht perfekt, aber ein wichtiger erster Schritt."
+    },
+    {
+      "type": "gap",
+      "prompt": "___ der hohen Kosten hat die Gemeinde das alte Hallenbad saniert.",
+      "hint": "(preposition + genitive)",
+      "hintDe": "(Präposition + Genitiv)",
+      "answers": ["Ungeachtet", "Trotz"],
+      "explanation": "A noun phrase in the genitive follows („der hohen Kosten“), so you need a preposition: formal „Ungeachtet“ or „Trotz“.",
+      "explanationDe": "Danach kommt ein Nomen im Genitiv („der hohen Kosten“), also brauchst du eine Präposition: formell „Ungeachtet“ oder „Trotz“."
+    },
+    {
+      "type": "order",
+      "words": ["schätze,", "kann", "auch", "ich", "So", "länger", "Projekt", "nicht", "sehr", "mitarbeiten.", "das", "ich"],
+      "answers": [
+        "So sehr ich das Projekt auch schätze, ich kann nicht länger mitarbeiten.",
+        "So sehr ich das Projekt auch schätze, kann ich nicht länger mitarbeiten.",
+        "So sehr ich auch das Projekt schätze, ich kann nicht länger mitarbeiten.",
+        "So sehr ich auch das Projekt schätze, kann ich nicht länger mitarbeiten."
+      ],
+      "explanation": "„So sehr … auch“ starts the clause and „schätze“ goes to the end. The main clause usually keeps its own subject first („ich kann …“); „kann ich …“ is also possible.",
+      "explanationDe": "„So sehr … auch“ steht am Anfang, und „schätze“ steht am Ende. Der Hauptsatz beginnt meistens mit seinem eigenen Subjekt („ich kann …“); „kann ich …“ ist auch möglich."
+    },
+    {
+      "type": "order",
+      "words": ["Gefühlen.", "wenn", "das", "angenommen,", "mit", "Wir", "auch", "Angebot", "gemischten", "haben"],
+      "answers": [
+        "Wir haben das Angebot angenommen, wenn auch mit gemischten Gefühlen.",
+        "Das Angebot haben wir angenommen, wenn auch mit gemischten Gefühlen."
+      ],
+      "explanation": "The complete main clause comes first; „wenn auch“ then adds a limitation without a verb: „wenn auch mit gemischten Gefühlen“.",
+      "explanationDe": "Zuerst kommt der vollständige Hauptsatz; danach fügt „wenn auch“ eine Einschränkung ohne Verb hinzu: „wenn auch mit gemischten Gefühlen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "The speaker does not have the money. Rewrite with „selbst wenn“ and Konjunktiv II.",
+      "instructionDe": "Die Person hat das Geld nicht. Schreib den Satz mit „selbst wenn“ und Konjunktiv II um.",
+      "prompt": "Obwohl ich das Geld habe, kaufe ich mir kein neues Auto.",
+      "answers": [
+        "Selbst wenn ich das Geld hätte, würde ich mir kein neues Auto kaufen.",
+        "Selbst wenn ich das Geld hätte, kaufte ich mir kein neues Auto.",
+        "Ich würde mir kein neues Auto kaufen, selbst wenn ich das Geld hätte.",
+        "Ich kaufte mir kein neues Auto, selbst wenn ich das Geld hätte."
+      ],
+      "explanation": "An imagined case needs „selbst wenn“ and Konjunktiv II in both clauses: „hätte“ and „würde … kaufen“. „obwohl“ is only for facts.",
+      "explanationDe": "Ein gedachter Fall braucht „selbst wenn“ und Konjunktiv II in beiden Sätzen: „hätte“ und „würde … kaufen“. „obwohl“ steht nur bei Tatsachen."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite with „so … auch“.",
+      "instructionDe": "Schreib den Satz mit „so … auch“ um.",
+      "prompt": "Obwohl der Film sehr lang ist, wird er nie langweilig.",
+      "answers": [
+        "So lang der Film auch ist, er wird nie langweilig.",
+        "So lang der Film auch ist, wird er nie langweilig."
+      ],
+      "explanation": "„so“ + adjective starts the clause, „auch“ comes after the subject and „ist“ goes to the end. The main clause usually starts with its own subject: „er wird …“.",
+      "explanationDe": "„so“ + Adjektiv steht am Anfang, „auch“ kommt nach dem Subjekt, und „ist“ steht am Ende. Der Hauptsatz beginnt meistens mit seinem eigenen Subjekt: „er wird …“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite in formal written style with the preposition „ungeachtet“.",
+      "instructionDe": "Schreib den Satz im formellen Stil mit der Präposition „ungeachtet“ um.",
+      "prompt": "Obwohl es heftige Proteste gab, hielt die Regierung an der Reform fest.",
+      "answers": [
+        "Ungeachtet der heftigen Proteste hielt die Regierung an der Reform fest.",
+        "Die Regierung hielt ungeachtet der heftigen Proteste an der Reform fest.",
+        "Ungeachtet heftiger Proteste hielt die Regierung an der Reform fest.",
+        "Die Regierung hielt ungeachtet heftiger Proteste an der Reform fest."
+      ],
+      "explanation": "The obwohl clause becomes a noun phrase in the genitive: „ungeachtet der heftigen Proteste“. The main clause then starts with the verb „hielt“.",
+      "explanationDe": "Aus dem obwohl-Satz wird ein Nomen im Genitiv: „ungeachtet der heftigen Proteste“. Danach folgt im Hauptsatz direkt das Verb „hielt“."
+    }
+  ],
+  "related": ["konzessive-saetze", "zweiteilige-konnektoren-b2", "konditionalsaetze", "adversative-saetze", "konjunktiv-2", "verbindungsadverbien", "praepositionen-mit-genitiv", "konsekutivsaetze-b2"]
+}

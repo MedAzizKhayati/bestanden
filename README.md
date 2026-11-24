@@ -1,21 +1,25 @@
-# Bestanden – telc Deutsch B1 exam training
+# Bestanden – telc Deutsch B1 & B2 exam training
 
-A complete preparation platform for **telc Deutsch B1 (Zertifikat Deutsch)**, built with Next.js 16, Bun and the Claude API – with a full **German and English interface**. All practice material is original and follows the official exam format exactly (item counts, points, timing, play counts, rubrics).
+A complete preparation platform for **telc Deutsch B1 (Zertifikat Deutsch)** and **telc Deutsch B2**, built with Next.js 16, Bun and the Claude API – with a full **German and English interface**. All practice material is original and follows the official exam formats exactly (item counts, points, timing, play counts, rubrics).
 
-**Content:** 147 exam practice sets (12 × Lesen 1, 12 × Lesen 2, 10 × Lesen 3, 12 + 12 × Sprachbausteine, 10 × each Hören part, 24 writing tasks, 35 speaking tasks) and full mock exams composed from them – every answer key verified by an independent blind solve.
+**Content:**
+- **telc B1:** 147 exam practice sets (12 × Lesen 1, 12 × Lesen 2, 10 × Lesen 3, 12 + 12 × Sprachbausteine, 10 × each Hören part, 24 writing tasks, 35 speaking tasks) and 8 full mock exams.
+- **telc B2:** 162 exam practice sets (12 × each Lesen and Sprachbausteine part, 10 × each Hören part, 24 writing tasks, 16 × each speaking part) and 8 full mock exams with the Aufgabe A/B writing choice.
+- Every answer key of both exams verified by an independent blind solve.
 
 ## What's inside
 
 | Area | Features |
 | --- | --- |
-| **Exam practice** | Every part of the written and oral exam: Lesen 1–3, Sprachbausteine 1–2, Hören 1–3, Schreiben, Sprechen 1–3 – with the official instructions, item numbers and point weighting |
+| **Exam practice** | Every part of the written and oral exam: Lesen 1–3, Sprachbausteine 1–2, Hören 1–3, Schreiben, Sprechen 1–3 – with the official instructions, item numbers and point weighting. B2 adds its own formats: info texts in Lesen 3, a six-report news bulletin (one without a statement) in Hören 1, spoken contexts in Hören 3, everything heard once, a choice of two writing tasks (three of four points, ≥ 150 words), and the speaking parts „Über Erfahrungen sprechen“ (topic sheet with seven topics) and „Diskussion“ (newspaper article) |
+| **Two exams** | Switch between telc B1 and B2 in the sidebar or the welcome flow; dashboard, study plan, level check and the grammar/vocabulary/Redemittel filters follow the chosen exam |
 | **Timers** | Every exercise is timed with the recommended time. *Strict mode* (default) auto-submits at 0:00; the clock runs on wall time, so reloading, switching tabs or leaving the page never gives extra time. *Practice mode* records overtime instead |
 | **Hören with audio** | Real recordings first: a set can ship studio/voice-actor files, and `bun run audio:render` pre-renders every line with a natural neural voice for all users. Otherwise the user's own neural voice (OpenAI, ElevenLabs, Google Cloud – via their key, cached on the device) or the best voices of the device (novelty/robotic voices are never used; failing voices are replaced instead of skipped). *Exam simulation* reproduces the real recording: the announcer reads the instructions, then reading time, once/twice playback, pauses and marking time without pausing; *training mode* keeps the play limits but allows speed control. Sound check, clickable transcripts with the evidence highlighted |
 | **Schreiben** | 30-minute editor with umlaut toolbar, Redemittel inserter, Leitpunkte checklist and live checks (salutation, du/Sie consistency, sentences starting with „Ich“, connectors, length). AI correction scores the e-mail with the three official criteria (max. 45), marks every error in your text, and shows a corrected and an improved version |
 | **Sprechen** | Exam task sheets, preparation timer, notes, model dialogues (two voices), an **AI exam partner** you talk to by voice or keyboard, recording + live transcription, and AI feedback on the official criteria |
 | **Mock exams** | The full written exam in sequence (90 min Lesen + Sprachbausteine with free navigation, Hören without pause, 30 min Schreiben), scored out of 225 with the 135-point pass mark and a full answer review |
-| **Learning** | 40 grammar topics with tables, typical mistakes and 480 self-checking drills · 1 116 B1 words in 22 themes with articles, plurals, examples, pronunciation, spaced-repetition flashcards, quiz and der/die/das trainer · 434 Redemittel · 6 reference lists with 446 entries (verbs with prepositions, irregular verbs, connectors, …) with drills · strategy guides for all 12 parts |
-| **Onboarding & level check** | First visit: a short welcome flow (language, exam date, daily time) and a 20-minute **Einstufungstest** (grammar, vocabulary, reading, listening) with a level per skill (A2 → B2), exam readiness, the grammar topics to revise and a link to the study plan. A "first steps" checklist guides new users on the dashboard |
+| **Learning** | 69 grammar topics (A2 → B2, 29 of them B2: Konjunktiv I, Passiversatz, Partizipialattribute, Nominalstil, Modalpartikeln …) with tables, typical mistakes and 884 self-checking drills · 2 306 words in 44 themes (1 116 B1, 1 190 B2) with articles, plurals, examples, pronunciation, spaced-repetition flashcards, quiz and der/die/das trainer · 884 Redemittel (B1 and B2 banks) · 13 reference lists with 894 entries (verbs, nouns and adjectives with prepositions, irregular verbs, connectors, Nomen-Verb-Verbindungen, genitive prepositions …) with drills · strategy guides for every part of both exams |
+| **Onboarding & level check** | First visit: a short welcome flow (language, exam, exam date, daily time) and an **Einstufungstest** per exam (grammar, vocabulary, reading, listening) with a level per skill (B1 test: A2 → B2, B2 test: B1 → C1), exam readiness, the grammar topics to revise and a link to the study plan. A "first steps" checklist guides new users on the dashboard |
 | **Any AI provider** | Anthropic Claude, OpenAI, Google Gemini or any OpenAI-compatible server (OpenRouter, Mistral, Groq, Ollama, LM Studio). Server-side via env, or per user: choose provider, model and API key in the settings (stored only in the browser, overrides the server configuration), with a connection test |
 | **Two languages** | Complete German (`/de`) and English (`/en`) interface. The language is picked from the browser on the first visit and can be switched anywhere (header or settings); every explanation, grammar rule, strategy and the exam rubric exist in both languages, and AI feedback is written in the chosen language. Exam tasks themselves are always German |
 | **Progress** | Dashboard with the next best step, predicted written score, per-part statistics (incl. time discipline), mistake trainer with spaced repetition, auto-generated study plan up to your exam date, export/import of all data |
@@ -74,15 +78,16 @@ retried, falling back to sentence-by-sentence rendering. Cloud engines remain av
 
 | Command | Purpose |
 | --- | --- |
-| `bun dev` / `bun run build` / `bun start` | develop, build (static generation of all ~260 pages), serve |
+| `bun dev` / `bun run build` / `bun start` | develop, build (static generation of every page for both languages and both exams), serve |
 | `bun run typecheck` / `bun run lint` | TypeScript and ESLint (React Compiler rules) |
-| `bun test` | unit and integration tests (scoring of every set, i18n parity, content validity, AI providers against a mock server, voice selection, level check, study plan) |
-| `bun run audio:render -- [--engine qwen] [--only hoeren-2] [--dry-run] [--prune]` | pre-render natural audio for all spoken content (see Pre-rendered voices) |
+| `bun test` | unit and integration tests (scoring of every set of every exam, exam definitions, i18n parity, content validity, AI providers against a mock server, voice selection, level check, study plan, mock composition) |
+| `bun run audio:render -- [--engine qwen] [--exam telc-b2] [--only hoeren-2] [--dry-run] [--prune]` | pre-render natural audio for all spoken content (see Pre-rendered voices) |
 | `bun run content:validate [path]` | validate content against the schemas and consistency rules |
 | `bun run content:validate --i18n=de [path]` | additionally require the German version of every explanation |
 | `bun scripts/i18n/extract.ts <out.json> <paths>` / `bun scripts/i18n/apply.ts <files>` | collect English explanations that lack a German version / write translated worksheets back (keeps file formatting) |
-| `bun scripts/qa/blind.ts export <part> <dir>` | export sets without answers for blind review |
-| `bun scripts/qa/blind.ts compare <part> <answers.json>` | compare a reviewer's answers with the key |
+| `bun scripts/qa/blind.ts export <part> <dir> [examId]` | export sets without answers for blind review (default `telc-b1`) |
+| `bun scripts/qa/blind.ts compare <part> <answers.json> [examId]` | compare a reviewer's answers with the key |
+| `bun scripts/qa/difficulty.ts <part> [examId]` | text measures of every set next to the measured telc targets |
 
 ## Architecture
 
@@ -91,7 +96,9 @@ content/                     JSON content (validated with Zod)
   AUTHORING.md               rules for writing content – read before adding sets
   telc-b1/<partId>/NN.json   exam practice sets (lesen-1 … sprechen-3)
   telc-b1/strategies.json    strategy guides
-  grammar/  vocabulary/  phrases/  lists/
+  telc-b2/…                  the same for telc Deutsch B2
+  grammar/  vocabulary/  phrases/  lists/   shared learning content, each file tagged with its level (A2/B1/B2)
+  placement/<examId>.json    level check per exam (B1: A2/B1/B2 items, B2: B1/B2/C1 items)
 src/lib/content/             schemas, consistency checks, server-side loader
 src/lib/exams/               exam definitions: structure, timing, points, rubrics
 src/lib/exam/                scoring, mock-exam composition, section styling
@@ -110,16 +117,21 @@ src/app/[locale]/(app)/      routes – every page is statically generated for b
 Key decisions:
 
 - **Content is data.** Every task type has a schema; pages are generated from JSON at build time. Adding sets needs no code.
-- **One exam definition drives everything** – timers, scoring, answer-sheet numbering, rubrics and navigation all come from `src/lib/exams/telc-b1.ts`.
+- **One exam definition drives everything** – timers, scoring, answer-sheet numbering, rubrics, play counts, the writing rules and navigation all come from `src/lib/exams/<exam>.ts` (`telc-b1.ts`, `telc-b2.ts`).
+- **The learner's current exam.** The exam switcher (sidebar, welcome flow) stores `settings.examSlug`; the exam pages set it too. Dashboard, study plan, level check, grammar/vocabulary/Redemittel filters follow it. Pages outside `/[exam]` are static, so they render the data of every exam and pick in the browser.
+- **Set ids repeat across exams** (`lesen-1-01` exists for B1 and B2): attempts, writing and speaking records carry `examId`, and mistake cards use `mistakeId()` (B1 ids unchanged, other exams prefixed).
 - **Bilingual by construction.** UI strings live in typed dictionaries (the English file defines the shape, German must match it). Content keeps German twins of every English explanation (`explanation` → `explanationDe`); the loader picks the right one, so pages never ship both languages.
 - **Local-first.** No accounts are needed; all progress lives in the browser and can be exported. The stores are isolated so a sync backend can be added later.
 
-## Adding a level or exam (B2, C1, DTZ, …)
+## Adding a level or exam (C1, DTZ, …)
 
-1. Create `src/lib/exams/<exam>.ts` with its sections, parts, timing, points and rubrics (see `telc-b1.ts`), and add it to `EXAMS` in `src/lib/exams/index.ts` and to `EXAM_IDS` in `src/lib/content/schemas.ts`.
-2. Reuse the existing task types (`headline-matching`, `text-mc`, `ad-matching`, `gap-mc`, `gap-wordbank`, `audio-short`, `audio-long`, `writing-email`, `speaking-*`) where the format matches; add a schema + player for genuinely new formats.
-3. Add content under `content/<exam>/<partId>/` and run `bun run content:validate`.
-4. Remove the exam from `PLANNED_EXAMS` – it now appears in the exam switcher.
+telc B2 was added this way – use it as the worked example.
+
+1. Create `src/lib/exams/<exam>.ts` with its sections, parts, timing, points, play counts, writing rules (`writing: { minWords, cover, choice }`) and rubrics (see `telc-b1.ts` / `telc-b2.ts`) plus its German explanations (`<exam>.de.ts`, registered in `localize.ts`), and add it to `EXAMS` in `src/lib/exams/index.ts` and to `EXAM_IDS` in `src/lib/content/schemas.ts`.
+2. Reuse the existing task types (`headline-matching`, `text-mc`, `ad-matching`, `gap-mc`, `gap-wordbank`, `audio-short`, `audio-long`, `writing-email`, `speaking-*`) where the format matches; add a schema + player for genuinely new formats (B2 added `speaking-experience`, `speaking-discussion`, info texts in `ad-matching`, unscored reports and spoken contexts in `audio-short`).
+3. Add length/difficulty targets for the exam in `src/lib/content/difficulty.ts` and exam-specific rules in `checks.ts`, then content under `content/<exam>/<partId>/` (rules in `content/AUTHORING.md`) and run `bun run content:validate`.
+4. AI prompts are per level (`src/lib/ai/writing.ts`, `speaking.ts`), and the level check needs `content/placement/<examId>.json`.
+5. Remove the exam from `PLANNED_EXAMS` – it now appears in the exam switcher.
 
 ## Adding a UI language
 

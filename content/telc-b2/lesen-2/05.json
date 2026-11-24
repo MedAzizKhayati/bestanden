@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-05",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Stadtbäume gegen die Sommerhitze",
+  "topic": "umwelt",
+  "difficulty": 2,
+  "article": {
+    "headline": "Schatten mit Grenzen: Was Stadtbäume gegen die Hitze tatsächlich leisten",
+    "lead": "Bäume gelten als wirksamstes Mittel gegen überhitzte Innenstädte. Eine neue Untersuchung bestätigt diesen Ruf – zeigt aber auch, unter welchen Bedingungen die natürliche Klimaanlage versagt.",
+    "paragraphs": [
+      "Wer an einem Hochsommertag vom baumlosen Marktplatz in eine von alten Linden gesäumte Allee wechselt, spürt den Unterschied sofort. Wie groß er tatsächlich ist, hat das Mitteldeutsche Institut für Stadtklima in Halle während der vergangenen drei Sommer in Leipzig, Kassel und Würzburg systematisch untersucht. An über 200 Messpunkten erfassten die Forschenden neben der Lufttemperatur auch die Oberflächentemperatur von Asphalt und Fassaden sowie die sogenannte gefühlte Temperatur, in die Sonneneinstrahlung, Luftfeuchtigkeit und Wind einfließen. Das Ergebnis fiel deutlicher aus als ursprünglich angenommen: Unter dichten Baumkronen lag die gefühlte Temperatur am Nachmittag um bis zu zwölf Grad niedriger als auf vergleichbaren Flächen in der prallen Sonne, während sich die gemessene Lufttemperatur lediglich um zwei bis drei Grad unterschied.",
+      "Verantwortlich für die Abkühlung ist nach Angaben der Projektleiterin Katharina Wellenreuther das Zusammenspiel zweier Effekte. Zum einen verhindert das Blätterdach, dass sich Straßenbelag und Hauswände überhaupt erst aufheizen. Zum anderen geben Bäume über ihre Blätter beträchtliche Mengen Wasser ab, dessen Verdunstung der Umgebung Wärme entzieht. Gerade dieser zweite Effekt erweist sich jedoch als anfällig: Fehlt den Wurzeln über Wochen hinweg Wasser, schließen die Bäume zum Schutz vor dem Austrocknen die winzigen Spaltöffnungen ihrer Blätter, und ihre Kühlleistung bricht ein – ausgerechnet in jenen Hitzeperioden, in denen sie am dringendsten gebraucht würde.",
+      "Hinzu kommt der vielerorts bedenkliche Zustand der Bäume selbst. Eingezwängt zwischen Versorgungsleitungen, verdichtetem Boden und viel zu kleinen Baumscheiben erreichen Straßenbäume in deutschen Großstädten im Durchschnitt ein Alter von kaum 60 Jahren, während Artgenossen im Wald mehrere Jahrhunderte alt werden können. Muss ein geschädigter Altbaum gefällt werden, verweisen Stadtverwaltungen gern darauf, dass als Ersatz zwei oder drei Jungbäume gepflanzt würden. Wellenreuther hält diese Rechnung für irreführend, denn bis ein neu gesetzter Baum eine nennenswerte Krone ausgebildet habe, vergingen 20 bis 30 Jahre. „Der wirksamste Hitzeschutz in der Stadt ist deshalb nicht die Nachpflanzung, sondern der Erhalt alter Bäume“, betont sie.",
+      "Einen Ausweg sehen viele Fachleute im Konzept der sogenannten Schwammstadt. Dabei wird Regenwasser nicht mehr möglichst rasch in die Kanalisation abgeleitet, sondern in unterirdischen Speicherkörpern aus Schotter und Spezialsubstrat gesammelt, aus denen sich die Bäume auch während längerer Trockenphasen versorgen können. In einem Pilotprojekt im Leipziger Osten wurden auf diese Weise bislang 140 Bäume gepflanzt. Mit rund 25.000 Euro pro Standort kostet ein solcher Baum allerdings etwa achtmal so viel wie eine herkömmliche Pflanzung.",
+      "Am Geld scheitere die Umgestaltung der Straßen dennoch selten, meint Gerd Mallinckrodt, der das Umwelt- und Gartenamt der Stadt Kassel leitet. Weitaus schwerer wiege der Platzmangel im Untergrund, wo sich Strom-, Gas- und Telekommunikationsleitungen drängten, deren Verlegung häufig jahrelange Abstimmungen mit den Netzbetreibern erfordere. Widerstand komme zudem weniger von Anwohnerinnen und Anwohnern, die zusätzliche Bäume in aller Regel begrüßten, als von Geschäftsleuten, die um jeden wegfallenden Parkplatz kämpften.",
+      "Vor überzogenen Erwartungen an die Bäume selbst warnt allerdings der Darmstädter Stadtplaner Tobias Ehrenfeld. In engen, dicht bebauten Straßen könnten geschlossene Baumkronen nachts sogar wie ein Deckel wirken, unter dem sich die tagsüber gespeicherte Wärme staut, sodass die Abkühlung in den Wohnungen ausbleibt. Bäume seien daher ein unverzichtbarer, aber keineswegs ausreichender Baustein der Klimaanpassung. Ebenso wichtig seien helle Oberflächen, entsiegelte Innenhöfe und Frischluftschneisen, über die kühlere Luft aus dem Umland in die Innenstädte strömen könne.",
+      "Die Autorinnen und Autoren der Studie empfehlen den Kommunen, ihre begrenzten Mittel zunächst dort einzusetzen, wo sich besonders hitzeempfindliche Menschen aufhalten – in der Umgebung von Pflegeheimen, Kindertagesstätten und Krankenhäusern. Wichtiger als prestigeträchtige Neupflanzungen sei dabei die konsequente Pflege des vorhandenen Bestands, etwa durch regelmäßiges Wässern während sommerlicher Trockenperioden."
+    ],
+    "source": "Umwelt & Gesellschaft – Magazin für nachhaltige Stadtentwicklung"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Die Messungen des Instituts in Halle haben ergeben, dass Bäume …",
+      "options": [
+        { "key": "a", "text": "die Lufttemperatur in ihrem Schatten um bis zu zwölf Grad senken." },
+        { "key": "b", "text": "sich weit stärker darauf auswirken, wie heiß es sich anfühlt, als auf die messbare Lufttemperatur." },
+        { "key": "c", "text": "am Nachmittag weniger Abkühlung bewirken, als die Forschenden ursprünglich erwartet hatten." }
+      ],
+      "answer": "b",
+      "explanation": "The perceived temperature was up to twelve degrees lower, „während sich die gemessene Lufttemperatur lediglich um zwei bis drei Grad unterschied“ – trees change how hot it feels much more than the air temperature, so (b). The twelve degrees refer to the „gefühlte Temperatur“, not the air temperature (a). The result was „deutlicher … als ursprünglich angenommen“, i.e. stronger, not weaker (c).",
+      "explanationDe": "Die gefühlte Temperatur war bis zu zwölf Grad niedriger, „während sich die gemessene Lufttemperatur lediglich um zwei bis drei Grad unterschied“ – Bäume verändern das Hitzeempfinden viel stärker als die Lufttemperatur, also (b). Die zwölf Grad beziehen sich auf die „gefühlte Temperatur“, nicht auf die Lufttemperatur (a). Das Ergebnis fiel „deutlicher … als ursprünglich angenommen“ aus, also stärker und nicht schwächer (c).",
+      "evidence": "Unter dichten Baumkronen lag die gefühlte Temperatur am Nachmittag um bis zu zwölf Grad niedriger als auf vergleichbaren Flächen in der prallen Sonne, während sich die gemessene Lufttemperatur lediglich um zwei bis drei Grad unterschied"
+    },
+    {
+      "n": 2,
+      "stem": "Die Kühlleistung der Bäume lässt deutlich nach, wenn …",
+      "options": [
+        { "key": "a", "text": "ihre Kronen so dicht geworden sind, dass kaum noch Feuchtigkeit verdunsten kann." },
+        { "key": "b", "text": "sie in Hitzeperioden ihre Blätter abwerfen, um nicht auszutrocknen." },
+        { "key": "c", "text": "sie bei anhaltender Trockenheit beginnen, sparsamer mit Wasser umzugehen." }
+      ],
+      "answer": "c",
+      "explanation": "„Fehlt den Wurzeln über Wochen hinweg Wasser, schließen die Bäume … die winzigen Spaltöffnungen“ and „ihre Kühlleistung bricht ein“ – in a long drought trees save water, so (c). They close the pores of their leaves; the text does not say they drop them (b). Dense crowns are where the strongest cooling was measured („Unter dichten Baumkronen“), so (a) reverses the relation.",
+      "explanationDe": "„Fehlt den Wurzeln über Wochen hinweg Wasser, schließen die Bäume … die winzigen Spaltöffnungen“, und „ihre Kühlleistung bricht ein“ – bei langer Trockenheit sparen Bäume Wasser, also (c). Sie schließen die Öffnungen ihrer Blätter, sie werfen die Blätter aber nicht ab (b). Gerade „Unter dichten Baumkronen“ wurde die stärkste Abkühlung gemessen – (a) dreht den Zusammenhang um.",
+      "evidence": "Fehlt den Wurzeln über Wochen hinweg Wasser, schließen die Bäume zum Schutz vor dem Austrocknen die winzigen Spaltöffnungen ihrer Blätter, und ihre Kühlleistung bricht ein"
+    },
+    {
+      "n": 3,
+      "stem": "Katharina Wellenreuther hält es für wenig überzeugend, einen gefällten Altbaum durch mehrere Jungbäume zu ersetzen, weil …",
+      "options": [
+        { "key": "a", "text": "neu gepflanzte Bäume erst nach Jahrzehnten ähnlich viel Schatten spenden wie alte." },
+        { "key": "b", "text": "Straßenbäume bei guter Pflege ebenso alt werden können wie Bäume im Wald." },
+        { "key": "c", "text": "die meisten Nachpflanzungen bereits nach wenigen Jahren wieder absterben." }
+      ],
+      "answer": "a",
+      "explanation": "„bis ein neu gesetzter Baum eine nennenswerte Krone ausgebildet habe, vergingen 20 bis 30 Jahre“ – young trees need decades before they give real shade, so (a). Street trees reach „kaum 60 Jahren“, while only trees in the forest live for centuries (b). Nothing suggests that young trees die after a few years; the problem is the long time they need to grow (c).",
+      "explanationDe": "„bis ein neu gesetzter Baum eine nennenswerte Krone ausgebildet habe, vergingen 20 bis 30 Jahre“ – junge Bäume brauchen Jahrzehnte, bis sie richtig Schatten geben, also (a). Straßenbäume erreichen ein Alter von „kaum 60 Jahren“, nur Bäume im Wald erreichen mehrere Jahrhunderte (b). Dass junge Bäume nach wenigen Jahren sterben, steht nicht im Text; das Problem ist die lange Zeit, die sie zum Wachsen brauchen (c).",
+      "evidence": "bis ein neu gesetzter Baum eine nennenswerte Krone ausgebildet habe, vergingen 20 bis 30 Jahre"
+    },
+    {
+      "n": 4,
+      "stem": "Gerd Mallinckrodt zufolge wird die Umgestaltung von Straßen vor allem dadurch erschwert, dass …",
+      "options": [
+        { "key": "a", "text": "Bäume nach dem Schwammstadt-Prinzip ein Vielfaches herkömmlicher Pflanzungen kosten." },
+        { "key": "b", "text": "im Boden unter den Straßen kaum freier Raum bleibt, weil dort zahlreiche Leitungen verlaufen." },
+        { "key": "c", "text": "sich viele Anwohnerinnen und Anwohner gegen zusätzliche Bäume vor ihren Häusern wehren." }
+      ],
+      "answer": "b",
+      "explanation": "„Weitaus schwerer wiege der Platzmangel im Untergrund“, where power, gas and telecom lines are crowded – so (b). The high price is a fact from the previous paragraph, but Mallinckrodt says the project rarely fails „Am Geld“ (a). Residents usually welcome new trees; resistance comes from „Geschäftsleuten“ (c).",
+      "explanationDe": "„Weitaus schwerer wiege der Platzmangel im Untergrund“, wo sich viele Leitungen drängen – also (b). Der hohe Preis steht zwar im Absatz davor, aber Mallinckrodt sagt, die Umgestaltung scheitere selten „Am Geld“ (a). Die Anwohner begrüßen neue Bäume meistens; Widerstand kommt von „Geschäftsleuten“ (c).",
+      "evidence": "Weitaus schwerer wiege der Platzmangel im Untergrund"
+    },
+    {
+      "n": 5,
+      "stem": "Der Stadtplaner Tobias Ehrenfeld gibt zu bedenken, dass …",
+      "options": [
+        { "key": "a", "text": "dichte Baumkronen in schmalen Straßen verhindern können, dass es nachts abkühlt." },
+        { "key": "b", "text": "helle Oberflächen und Frischluftschneisen mehr gegen Hitze bewirken als Bäume." },
+        { "key": "c", "text": "Kommunen ihr Geld vorrangig in der Nähe von Pflegeheimen und Kitas einsetzen sollten." }
+      ],
+      "answer": "a",
+      "explanation": "In narrow streets closed crowns can work „wie ein Deckel“, „sodass die Abkühlung in den Wohnungen ausbleibt“ – so (a). He calls bright surfaces and fresh-air corridors „Ebenso wichtig“, not more effective than trees (b). Focusing on care homes and day-care centres is the recommendation of the study's authors, not Ehrenfeld's (c).",
+      "explanationDe": "In engen Straßen können geschlossene Baumkronen „wie ein Deckel“ wirken, „sodass die Abkühlung in den Wohnungen ausbleibt“ – also (a). Helle Oberflächen und Frischluftschneisen nennt er „Ebenso wichtig“, aber nicht wirksamer als Bäume (b). Pflegeheime und Kitas zuerst – das empfehlen die Autorinnen und Autoren der Studie, nicht Ehrenfeld (c).",
+      "evidence": "sodass die Abkühlung in den Wohnungen ausbleibt"
+    }
+  ],
+  "glossary": [
+    { "de": "die Baumkrone", "en": "crown (top) of a tree" },
+    { "de": "die gefühlte Temperatur", "en": "perceived temperature, 'feels like' temperature" },
+    { "de": "die Verdunstung", "en": "evaporation" },
+    { "de": "die Spaltöffnung", "en": "stoma (tiny pore in a leaf)" },
+    { "de": "einbrechen", "en": "to drop sharply, to collapse" },
+    { "de": "die Baumscheibe", "en": "unpaved patch of soil around a street tree" },
+    { "de": "fällen", "en": "to fell, to cut down (a tree)" },
+    { "de": "die Schwammstadt", "en": "sponge city (stores rainwater instead of draining it)" },
+    { "de": "der Widerstand", "en": "resistance, opposition" },
+    { "de": "sich stauen", "en": "to build up, to accumulate" },
+    { "de": "entsiegeln", "en": "to remove paving, to unseal (ground)" },
+    { "de": "die Frischluftschneise", "en": "fresh-air corridor" }
+  ]
+}

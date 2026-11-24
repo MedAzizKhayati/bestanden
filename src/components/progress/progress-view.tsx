@@ -9,7 +9,7 @@ import { PredictedScore } from "@/components/exam/predicted-score";
 import { formatPoints } from "@/components/exam/result-summary";
 import { Skeleton } from "@/components/ui/skeleton";
 import { SECTION_UI } from "@/lib/exam/ui";
-import { getPart, getSection, setHref } from "@/lib/exams";
+import { getExam, getPart, getSection, setHref } from "@/lib/exams";
 import { useExam } from "@/lib/exams/use-exam";
 import { useNow } from "@/lib/hooks/use-now";
 import { usePartStats, writingPoints } from "@/lib/hooks/use-stats";
@@ -128,15 +128,17 @@ export function ProgressView() {
           {recent.length ? (
             <ul className="divide-y text-sm">
               {recent.map((a) => {
-                const part = getPart(exam, a.partId);
-                const section = part ? getSection(exam, part.sectionId) : undefined;
+                // An attempt belongs to its own exam (B1 and B2 share part ids).
+                const aExam = getExam(a.examId) ?? exam;
+                const part = getPart(aExam, a.partId);
+                const section = part ? getSection(aExam, part.sectionId) : undefined;
                 const pct = a.maxPoints ? Math.round((a.points / a.maxPoints) * 100) : 0;
                 const number = a.setId.slice(a.partId.length + 1);
                 return (
                   <li key={a.id} className="flex items-center gap-3 py-2">
                     <span className={cn("w-12 text-right font-semibold tabular", pct >= 60 ? "text-success" : "text-destructive")}>{percent(pct)}</span>
-                    <Link href={part ? setHref(exam, part, number) : "#"} className="min-w-0 flex-1 truncate hover:underline">
-                      {section?.short} {section && part && section.parts.length > 1 ? t.common.teil(part.teil) : ""} · {t.common.setLabel(number)}
+                    <Link href={part ? setHref(aExam, part, number) : "#"} className="min-w-0 flex-1 truncate hover:underline">
+                      {aExam.level} · {section?.short} {section && part && section.parts.length > 1 ? t.common.teil(part.teil) : ""} · {t.common.setLabel(number)}
                     </Link>
                     <span className="shrink-0 text-xs text-muted-foreground tabular">
                       {formatPoints(a.points, locale)}/{a.maxPoints}
@@ -159,7 +161,10 @@ export function ProgressView() {
           <h2 className="mb-3 font-semibold">{tr.productive.title}</h2>
           {writing.length + speaking.length ? (
             <ul className="divide-y text-sm">
-              {[...writing.map((w) => ({ kind: "Schreiben", id: w.id, setId: w.setId, at: w.finishedAt, score: w.feedback || w.selfGrades ? `${writingPoints(w)}/45` : "–" })), ...speaking.map((s) => ({ kind: "Sprechen", id: s.id, setId: s.setId, at: s.createdAt, score: s.feedback ? `${s.feedback.total}/${s.feedback.maxPoints}` : "–" }))]
+              {[
+                ...writing.map((w) => ({ kind: "Schreiben", id: w.id, setId: `${getExam(w.examId)?.level ?? ""} · ${w.setId}`, at: w.finishedAt, score: w.feedback || w.selfGrades ? `${writingPoints(w)}/45` : "–" })),
+                ...speaking.map((s) => ({ kind: "Sprechen", id: s.id, setId: `${getExam(s.examId)?.level ?? ""} · ${s.setId}`, at: s.createdAt, score: s.feedback ? `${s.feedback.total}/${s.feedback.maxPoints}` : "–" })),
+              ]
                 .sort((a, b) => b.at - a.at)
                 .slice(0, 12)
                 .map((r) => (

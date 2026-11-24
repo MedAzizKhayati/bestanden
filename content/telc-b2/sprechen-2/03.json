@@ -1,0 +1,102 @@
+{
+  "id": "sprechen-2-03",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Handyverbot an Schulen",
+  "topic": "bildung",
+  "difficulty": 2,
+  "theme": "Sollten Smartphones an Schulen verboten werden?",
+  "article": {
+    "headline": "Handy aus, Pause an?",
+    "lead": "Ein Schuljahr lang mussten Schülerinnen und Schüler an zwölf Dortmunder Schulen ihre Smartphones morgens abgeben. Die Bilanz des Modellversuchs fällt gemischt aus.",
+    "paragraphs": [
+      "Kurz vor acht bildet sich am Eingang der Gesamtschule Nord eine Schlange: Wer das Gebäude betritt, legt sein Smartphone in ein abschließbares Fach und bekommt es erst nach dem Unterricht zurück. So lief es im vergangenen Schuljahr an zwölf Schulen der Stadt. Ziel des Versuchs war es, herauszufinden, ob ein striktes Handyverbot das Lernen und das Miteinander verbessert.",
+      "Eine Forschungsgruppe der Hochschule Westfalen-Mitte hat die Schulen begleitet und Schüler, Eltern sowie Lehrkräfte befragt. Das Ergebnis: In den Pausen bewegten sich die Kinder deutlich mehr – der Anteil derjenigen, die draußen spielten oder Sport trieben, stieg um 40 Prozent. Die Schulen meldeten zudem ein Drittel weniger Fälle von Cybermobbing, und zwei von drei Lehrkräften gaben an, ihre Klassen seien im Unterricht konzentrierter. Bei den Noten zeigte sich dagegen kaum ein Unterschied zu Schulen ohne Verbot.",
+      "„Die Pausen sind endlich wieder Pausen“, sagt Schulleiter Frank Wiegand. „Die Kinder reden miteinander, statt auf Bildschirme zu starren.“ Die Forschenden empfehlen, das Verbot an allen Schulen der Stadt bis zur zehnten Klasse einzuführen.",
+      "Doch es gibt auch Widerspruch. Schülersprecherin Lea Yılmaz, 17, hält die Regel für bevormundend: „Wir sollen lernen, verantwortungsvoll mit digitalen Medien umzugehen. Das lernt man nicht, indem man sie wegschließt.“ Viele Eltern sorgen sich außerdem, dass sie ihre Kinder im Notfall nicht erreichen können. Und manche Lehrkräfte klagen, das Einsammeln und Kontrollieren der Geräte koste jeden Morgen wertvolle Zeit.",
+      "Einen Mittelweg geht die Realschule am Westpark, die nicht am Versuch teilgenommen hat: Dort bleiben die Handys in der Tasche, dürfen aber genutzt werden, wenn die Lehrkraft es erlaubt – etwa für Recherchen oder Vokabel-Apps. Ob das Verbot verlängert wird, entscheidet der Schulausschuss im Februar."
+    ],
+    "source": "Revier-Rundschau, Lokales"
+  },
+  "ideas": {
+    "pro": [
+      "mehr Bewegung und echte Gespräche in den Pausen",
+      "bessere Konzentration im Unterricht",
+      "weniger Cybermobbing und heimliche Fotos in der Schule",
+      "eine klare Regel für alle, weniger Diskussionen im Unterricht",
+      "Schule als Schutzraum vor ständiger Erreichbarkeit",
+      "weniger Druck durch soziale Netzwerke während der Schulzeit"
+    ],
+    "contra": [
+      "Medienkompetenz lernt man nicht durch Verbote",
+      "Eltern können ihre Kinder im Notfall nicht erreichen",
+      "Smartphones sind auch Lernwerkzeuge (Recherche, Apps)",
+      "die Kontrolle kostet Lehrkräfte Zeit und Nerven",
+      "Probleme wie Cybermobbing verlagern sich nur nach Hause",
+      "kaum messbarer Effekt auf die Noten"
+    ]
+  },
+  "questions": [
+    "Welche Ergebnisse des Modellversuchs finden Sie besonders überraschend?",
+    "Wie gehen Schulen in Ihrem Heimatland mit Smartphones um?",
+    "Sollte ein Verbot für alle Altersstufen gelten oder nur für jüngere Schüler?",
+    "Wie können Jugendliche lernen, verantwortungsvoll mit digitalen Medien umzugehen?",
+    "Welche Rolle sollten Eltern bei diesem Thema spielen?",
+    "Wie war das in Ihrer eigenen Schulzeit?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Camille Laurent", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Dimitris Papadakis", "gender": "m", "age": "young", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüfer", "gender": "m", "age": "adult", "role": "Prüfer" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange mit einer kurzen Zusammenfassung an. Im Artikel wird über einen Modellversuch in Dortmund berichtet: An zwölf Schulen mussten die Schüler ein Jahr lang morgens ihre Handys abgeben und haben sie erst nach dem Unterricht zurückbekommen." },
+    { "s": "A", "t": "Laut der wissenschaftlichen Auswertung haben sich die Kinder in den Pausen deutlich mehr bewegt, und es gab ein Drittel weniger Fälle von Cybermobbing. Außerdem sagen zwei von drei Lehrkräften, dass die Klassen konzentrierter seien. Auf die Noten hatte das Verbot allerdings kaum Einfluss." },
+    { "s": "B", "t": "Genau, und ich finde, man muss auch die Gegenseite erwähnen. Eine Schülersprecherin meint, den verantwortungsvollen Umgang mit Medien lerne man nicht, indem man sie wegschließe. Und viele Eltern haben Angst, dass sie ihre Kinder im Notfall nicht erreichen." },
+    { "s": "A", "t": "Stimmt. Also, ich bin Mutter von zwei Kindern, und für mich ist das Ergebnis eindeutig: Die Kinder reden in den Pausen wieder miteinander. Das ist doch das Wichtigste." },
+    { "s": "B", "t": "Das ist sicher ein schöner Effekt. Aber ehrlich gesagt überzeugt mich ein Verbot nicht. Ich bin selbst noch nicht so lange aus der Schule, und wir haben das Handy ständig für die Schule gebraucht, zum Beispiel für Recherchen oder für Vokabel-Apps." },
+    { "s": "A", "t": "Dafür gibt es doch Tablets oder Computerräume. Das Problem ist nicht das Lernen, sondern dass die Kinder in jeder freien Minute in sozialen Netzwerken hängen. Wie war das an deiner Schule in Griechenland?" },
+    { "s": "B", "t": "Im Unterricht mussten wir das Handy ausschalten, aber in den Pausen durften wir es benutzen. Und ich muss zugeben, dass manche wirklich die ganze Pause nur auf ihr Display gestarrt haben. Wie ist das denn in Frankreich?" },
+    { "s": "A", "t": "In Frankreich sind Handys an Grundschulen und an den Mittelschulen, also ungefähr bis fünfzehn, schon seit einigen Jahren gesetzlich verboten. Meine Schwester ist dort Lehrerin, und sie sagt, dass das Verbot an ihrer Schule niemand mehr abschaffen möchte." },
+    { "s": "B", "t": "Das glaube ich. Trotzdem sehe ich ein Problem: Wenn man das Handy in der Schule wegschließt, verschiebt sich alles nur nach Hause. Cybermobbing passiert dann eben abends im Klassenchat." },
+    { "s": "A", "t": "Da hast du zwar recht, aber dann ist wenigstens die Schule ein geschützter Raum. Und für die Abende sind wir Eltern verantwortlich, nicht die Lehrer." },
+    { "s": "B", "t": "Gerade deshalb sollte die Schule den Umgang mit Medien beibringen. Viele Eltern wissen selbst nicht, was in diesen Apps passiert. Wenn die Schule das Thema einfach ausklammert, lernen die Jugendlichen es nirgends." },
+    { "s": "A", "t": "Das ist ein berechtigter Einwand. Aber Medienerziehung und ein Verbot schließen sich doch nicht aus. Man kann im Unterricht über soziale Netzwerke sprechen, ohne dass alle nebenbei Nachrichten schreiben." },
+    { "s": "B", "t": "Gut, das stimmt. Was mich aber noch stört, ist der Aufwand für die Lehrer. Im Artikel steht ja, dass das Einsammeln jeden Morgen wertvolle Zeit kostet." },
+    { "s": "A", "t": "Das ist eine Frage der Organisation. Mit Fächern am Eingang, wie an der Gesamtschule im Artikel, dauert das nur ein paar Minuten." },
+    { "s": "P", "t": "Sollte ein Verbot Ihrer Meinung nach für alle Altersstufen gelten?" },
+    { "s": "B", "t": "Für die jüngeren Schüler könnte ich mir das vorstellen, vielleicht bis zur siebten oder achten Klasse. Aber Siebzehnjährige sollten selbst entscheiden dürfen, sonst fühlen sie sich bevormundet, genau wie die Schülersprecherin im Artikel." },
+    { "s": "A", "t": "Bei den Älteren gebe ich dir recht, mit siebzehn muss man Verantwortung übernehmen. Was hältst du denn von dem Mittelweg der anderen Schule? Das Handy bleibt in der Tasche, darf aber im Unterricht genutzt werden, wenn die Lehrerin es erlaubt." },
+    { "s": "B", "t": "Das finde ich ziemlich vernünftig. Dann bleibt das Handy ein Werkzeug und wird nicht zur Ablenkung. Und für die Kleinen könnte man trotzdem eine strengere Regel haben." },
+    { "s": "A", "t": "Und im Notfall können Eltern immer noch im Sekretariat anrufen, so wie früher. Ich glaube, das würde vielen Eltern die Sorge nehmen." },
+    { "s": "B", "t": "Gut, dann sind wir uns im Großen und Ganzen einig: ein strenges Verbot für jüngere Schüler, mehr Freiheit für die Älteren und auf jeden Fall Medienerziehung im Unterricht." },
+    { "s": "A", "t": "Genau. Und wichtig wäre, dass Schüler und Eltern bei den Regeln mitreden dürfen. Dann werden sie auch eher akzeptiert." }
+  ],
+  "phrases": [
+    { "de": "Ich fange mit einer kurzen Zusammenfassung an.", "en": "I'll start with a short summary." },
+    { "de": "Im Artikel wird über … berichtet.", "en": "The article reports on …" },
+    { "de": "Laut der Auswertung …", "en": "According to the evaluation …" },
+    { "de": "Man muss auch die Gegenseite erwähnen.", "en": "You also have to mention the other side." },
+    { "de": "Für mich ist das Ergebnis eindeutig: …", "en": "For me, the result is clear: …" },
+    { "de": "Ehrlich gesagt überzeugt mich … nicht.", "en": "To be honest, … doesn't convince me." },
+    { "de": "Ich muss zugeben, dass …", "en": "I have to admit that …" },
+    { "de": "Das ist ein berechtigter Einwand.", "en": "That's a fair objection." },
+    { "de": "… und … schließen sich nicht aus.", "en": "… and … are not mutually exclusive." },
+    { "de": "Was mich aber noch stört, ist …", "en": "What still bothers me, though, is …" },
+    { "de": "Was hältst du von dem Mittelweg …?", "en": "What do you think of the middle way …?" },
+    { "de": "Im Großen und Ganzen sind wir uns einig.", "en": "By and large, we agree." }
+  ],
+  "vocabulary": [
+    { "de": "das Handyverbot", "en": "mobile phone ban" },
+    { "de": "der Modellversuch", "en": "pilot scheme" },
+    { "de": "das abschließbare Fach", "en": "lockable compartment" },
+    { "de": "das Cybermobbing", "en": "cyberbullying" },
+    { "de": "die Lehrkraft (die Lehrkräfte)", "en": "teacher (gender-neutral)" },
+    { "de": "die Schülersprecherin", "en": "student representative (female)" },
+    { "de": "bevormunden", "en": "to patronise, to treat like a child" },
+    { "de": "die Medienkompetenz", "en": "media literacy" },
+    { "de": "der Umgang mit (+ Dat.)", "en": "handling of, dealing with" },
+    { "de": "die Ablenkung", "en": "distraction" },
+    { "de": "etwas ausklammern", "en": "to leave something out, to ignore" }
+  ]
+}

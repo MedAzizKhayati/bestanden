@@ -13,7 +13,7 @@ import { GRAMMAR_CATEGORIES, TOPICS } from "./constants";
 /* Primitives                                                          */
 /* ------------------------------------------------------------------ */
 
-export const EXAM_IDS = ["telc-b1"] as const;
+export const EXAM_IDS = ["telc-b1", "telc-b2"] as const;
 export const ExamId = z.enum(EXAM_IDS);
 export type ExamId = z.infer<typeof ExamId>;
 
@@ -112,7 +112,10 @@ export const Ad = z.object({
   key: LetterL,
   heading: Text,
   subheading: z.string().trim().optional(),
-  lines: z.array(Text).min(1).max(8),
+  /** Classified-ad style: short lines (B1). An ad needs `lines` or `text` (checked in checks.ts). */
+  lines: z.array(Text).max(8).default([]),
+  /** Info-text style: one running paragraph, "\n" between paragraphs (telc B2 Lesen Teil 3). */
+  text: z.string().trim().optional(),
   footer: z.string().trim().optional(), // address / phone / web
 });
 export type Ad = z.infer<typeof Ad>;
@@ -217,11 +220,23 @@ export const AudioShortSet = SetBase.extend({
   speakers: z.array(Speaker).min(1),
   intro: z.array(Line).default([]), // e.g. radio presenter introducing a street survey (Teil 1)
   introRecording: Recording.optional(),
+  /**
+   * Recordings without a statement, played in sequence – telc B2 Hören Teil 1 is a news bulletin with six
+   * reports for five statements. `after` = number of scored items played before it (0 = before item 1).
+   */
+  unscored: z
+    .array(z.object({ after: z.number().int().min(0).max(5), label: z.string().trim().optional(), script: z.array(Line).min(1) }))
+    .max(2)
+    .default([]),
+  /** Closing lines after the last item, e.g. „Das waren die Nachrichten.“ */
+  outro: z.array(Line).default([]),
   items: z
     .array(
       z.object({
         n: z.number().int().min(1).max(5),
         label: z.string().trim().optional(), // revealed after submission, e.g. "Durchsage am Bahnhof"
+        /** Spoken by the announcer before the text (telc B2 Teil 3), e.g. „Sie hören eine Ansage im Radio.“ */
+        context: z.string().trim().optional(),
         script: z.array(Line).min(1),
         /** Real recording of this text; the script stays the transcript. */
         recording: Recording.optional(),
@@ -266,6 +281,8 @@ export type AudioLongSet = z.infer<typeof AudioLongSet>;
 export const WritingSet = SetBase.extend({
   type: z.literal("writing-email"),
   register: z.enum(["informal", "semiformal"]),
+  /** B2: the kind of task as printed above it, e.g. „Bitte um Informationen“, „Beschwerde“. */
+  taskLabel: z.string().trim().optional(),
   situation: Text, // German task framing, e.g. "Sie haben von Ihrer Freundin Lena folgende E-Mail erhalten:"
   stimulus: z.object({
     kind: z.enum(["email", "ad", "notice"]),
@@ -321,6 +338,43 @@ export const SpeakingTopicSet = SetBase.extend({
 });
 export type SpeakingTopicSet = z.infer<typeof SpeakingTopicSet>;
 
+/** telc B2 Sprechen Teil 1 – Über Erfahrungen sprechen: a sheet of seven topics, one chosen per candidate. */
+export const SpeakingExperienceSet = SetBase.extend({
+  type: z.literal("speaking-experience"),
+  /** „Eine Reise, die Sie unternommen haben“ + cues „Ziel, Zeit, Land und Leute, Sehenswürdigkeiten usw.“ */
+  topics: z.array(z.object({ title: Text, cues: Text })).length(7),
+  /** The topics the two candidates of the model dialogue talk about (indexes into `topics`). */
+  modelTopics: z.object({ A: z.number().int().min(0).max(6), B: z.number().int().min(0).max(6) }),
+  /** German outline for a 1½-minute talk („Einstieg: Thema nennen und sagen, warum …“). */
+  structure: z.array(Text).min(4),
+  /** Follow-up questions a partner can ask after a talk on these topics. */
+  questions: z.array(Text).min(6),
+  speakers: z.array(Speaker).min(2),
+  model: z.array(Line).min(14),
+  phrases: z.array(GlossaryEntry).min(6),
+  vocabulary: z.array(GlossaryEntry).min(5),
+});
+export type SpeakingExperienceSet = z.infer<typeof SpeakingExperienceSet>;
+
+/** telc B2 Sprechen Teil 2 – Diskussion about one newspaper article both candidates have read. */
+export const SpeakingDiscussionSet = SetBase.extend({
+  type: z.literal("speaking-discussion"),
+  theme: Text, // „Tempolimit auf Autobahnen?“
+  article: z.object({
+    headline: Text,
+    lead: z.string().trim().optional(),
+    paragraphs: z.array(Text).min(3).max(7),
+    source: z.string().trim().optional(),
+  }),
+  ideas: z.object({ pro: z.array(Text).min(4), contra: z.array(Text).min(4) }),
+  questions: z.array(Text).min(4), // discussion questions / examiner prompts
+  speakers: z.array(Speaker).min(2),
+  model: z.array(Line).min(16),
+  phrases: z.array(GlossaryEntry).min(6),
+  vocabulary: z.array(GlossaryEntry).min(5),
+});
+export type SpeakingDiscussionSet = z.infer<typeof SpeakingDiscussionSet>;
+
 /** Sprechen Teil 3 – Gemeinsam etwas planen. */
 export const SpeakingPlanningSet = SetBase.extend({
   type: z.literal("speaking-planning"),
@@ -349,6 +403,8 @@ export const ExamSet = z.discriminatedUnion("type", [
   SpeakingIntroSet,
   SpeakingTopicSet,
   SpeakingPlanningSet,
+  SpeakingExperienceSet,
+  SpeakingDiscussionSet,
 ]);
 export type ExamSet = z.infer<typeof ExamSet>;
 export type ExamSetType = ExamSet["type"];
@@ -524,6 +580,8 @@ export type VocabTheme = z.infer<typeof VocabTheme>;
 
 export const PhraseBank = z.object({
   id: Slug,
+  /** The exam level the bank is written for (B2 banks hold the additional, more advanced Redemittel). */
+  level: z.enum(["B1", "B2"]).default("B1"),
   order: z.number().int(),
   context: z.enum(["schreiben", "sprechen-1", "sprechen-2", "sprechen-3", "allgemein"]),
   title: Text,
@@ -547,7 +605,16 @@ export type PhraseBank = z.infer<typeof PhraseBank>;
 /* Reference lists                                                     */
 /* ------------------------------------------------------------------ */
 
-const ListBase = z.object({ id: Slug, order: z.number().int(), title: Text, titleEn: Text, description: Text, descriptionDe: De });
+const ListBase = z.object({
+  id: Slug,
+  /** The level the list is written for (B2 lists add to the B1 lists rather than repeating them). */
+  level: z.enum(["B1", "B2"]).default("B1"),
+  order: z.number().int(),
+  title: Text,
+  titleEn: Text,
+  description: Text,
+  descriptionDe: De,
+});
 
 export const VerbPrepositionList = ListBase.extend({
   kind: z.literal("verb-preposition"),
@@ -613,7 +680,8 @@ export type ReferenceList = z.infer<typeof ReferenceList>;
 /* Placement test (Einstufungstest)                                    */
 /* ------------------------------------------------------------------ */
 
-const PlacementLevel = z.enum(["A2", "B1", "B2"]);
+export const PLACEMENT_LEVELS = ["A2", "B1", "B2", "C1"] as const;
+const PlacementLevel = z.enum(PLACEMENT_LEVELS);
 
 /** Multiple choice. Grammar/vocabulary prompts contain "___" for the gap. */
 export const PlacementMcItem = z.object({

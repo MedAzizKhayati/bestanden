@@ -1,0 +1,59 @@
+{
+  "id": "schreiben-03",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Ein Schreibtisch im Coworking-Space",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Sie haben sich vor Kurzem selbstständig gemacht und suchen einen Arbeitsplatz außerhalb Ihrer Wohnung. In einem Stadtmagazin haben Sie die folgende Anzeige gelesen. Schreiben Sie eine E-Mail an den Coworking-Space und bitten Sie um weitere Informationen.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Werkbank 21 – Coworking in Leipzig-Plagwitz\n\nSchluss mit dem Küchentisch! In unserer umgebauten Fabrikhalle finden Selbstständige, Kreative und Start-ups alles, was sie für konzentriertes Arbeiten brauchen.\n\nFlex-Desk: freie Platzwahl, 12 Euro pro Tag oder 159 Euro im Monat\nFix-Desk: Ihr eigener Schreibtisch mit abschließbarem Rollcontainer, 239 Euro im Monat\n\nInklusive: Zugang rund um die Uhr per App, schnelles WLAN, Drucker und Scanner, Kaffee und Tee\nBesprechungsräume stundenweise buchbar – für Mitglieder zwei Stunden im Monat gratis\nRegelmäßige Netzwerkabende und Workshops\n\nProbetag kostenlos – einfach anmelden unter hallo@werkbank21-leipzig.de"
+  },
+  "leitpunkte": [
+    "Beschreiben Sie, welche Anforderungen Ihr Arbeitsplatz erfüllen muss.",
+    "Erläutern Sie, warum Ihnen der Austausch mit anderen Selbstständigen wichtig ist.",
+    "Legen Sie dar, in welcher beruflichen Situation Sie sich befinden.",
+    "Stellen Sie weitere Fragen zu den Vertragsbedingungen."
+  ],
+  "model": {
+    "subject": "Anfrage zu einem Fix-Desk ab Januar",
+    "text": "Sehr geehrte Damen und Herren,\n\ndurch Ihre Anzeige im Stadtmagazin bin ich auf die „Werkbank 21“ aufmerksam geworden. Da ich ab Januar einen festen Arbeitsplatz außerhalb meiner Wohnung suche, würde ich gern Näheres über Ihr Angebot erfahren.\n\nSeit dem Frühjahr bin ich als freiberufliche Übersetzerin für Englisch und Polnisch tätig und arbeite überwiegend für Verlage und Anwaltskanzleien. Bisher habe ich von zu Hause aus gearbeitet, doch in meiner kleinen Zweizimmerwohnung lassen sich Beruf und Privatleben kaum voneinander trennen.\n\nFür meine Tätigkeit brauche ich vor allem Ruhe. Deshalb käme für mich nur ein Fix-Desk infrage, und zwar möglichst in einem Bereich, in dem nicht telefoniert wird. Da ich häufig vertrauliche Verträge übersetze, muss ich außerdem sicherstellen, dass meine Unterlagen verschlossen aufbewahrt werden. Wäre es möglich, zusätzlich zum Rollcontainer einen abschließbaren Schrank zu mieten?\n\nZu den Vertragsbedingungen habe ich ebenfalls einige Fragen. Wie lange ist die Mindestlaufzeit, und mit welcher Frist kann gekündigt werden? Könnte ich in den Sommermonaten, in denen ich voraussichtlich weniger Aufträge habe, vorübergehend zum günstigeren Flex-Desk wechseln? Schließlich wüsste ich gern, ob ich Ihre Adresse als Geschäftsadresse angeben darf.\n\nÜber eine baldige Antwort würde ich mich sehr freuen. Gern würde ich auch einen Termin für Ihren kostenlosen Probetag vereinbaren.\n\nMit freundlichen Grüßen\nAgnieszka Wolff"
+  },
+  "modelNotes": [
+    "The model covers point 3 (professional situation), point 1 (requirements for the workplace) and point 4 (questions about the contract). Point 2 (exchange with other freelancers) is left out on purpose: the writer needs quiet, so networking is not her priority – stressing it would weaken her argument.",
+    "The introduction names the source (Stadtmagazin), the reason (a desk from January) and the purpose („würde ich gern Näheres … erfahren“) in just two sentences.",
+    "Requirements are justified, not just listed: „Da ich häufig vertrauliche Verträge übersetze, …“ explains why she needs a lockable cupboard.",
+    "The questions are varied – a direct question, a polite Konjunktiv II question („Könnte ich …?“) and an indirect question („wüsste ich gern, ob …“) – instead of a list of „Ich möchte wissen …“.",
+    "B2 structures: the passive alternative „lassen sich … trennen“, the impersonal passive „in dem nicht telefoniert wird“, Konjunktiv II („käme … infrage“, „Wäre es möglich“), „und zwar“ to specify and a relative clause with „in denen“."
+  ],
+  "modelNotesDe": [
+    "Das Modell behandelt Punkt 3 (berufliche Situation), Punkt 1 (Anforderungen an den Arbeitsplatz) und Punkt 4 (Fragen zum Vertrag). Punkt 2 (Austausch mit anderen Selbstständigen) fehlt mit Absicht: Die Schreiberin braucht Ruhe, Kontakte knüpfen ist für sie nicht wichtig – würde sie es betonen, wäre ihre Argumentation schwächer.",
+    "Die Einleitung nennt in nur zwei Sätzen die Quelle (Stadtmagazin), den Grund (ein Schreibtisch ab Januar) und das Ziel („würde ich gern Näheres … erfahren“).",
+    "Die Anforderungen werden begründet und nicht nur aufgezählt: „Da ich häufig vertrauliche Verträge übersetze, …“ erklärt, warum sie einen abschließbaren Schrank braucht.",
+    "Die Fragen sind abwechslungsreich – eine direkte Frage, eine höfliche Frage im Konjunktiv II („Könnte ich …?“) und eine indirekte Frage („wüsste ich gern, ob …“) – statt einer Reihe von „Ich möchte wissen …“.",
+    "B2-Strukturen: die Passiv-Alternative „lassen sich … trennen“, das unpersönliche Passiv „in dem nicht telefoniert wird“, Konjunktiv II („käme … infrage“, „Wäre es möglich“), „und zwar“ zur Präzisierung und ein Relativsatz mit „in denen“."
+  ],
+  "phrases": [
+    { "de": "Durch Ihre Anzeige bin ich auf … aufmerksam geworden.", "en": "Your ad drew my attention to …" },
+    { "de": "Ich würde gern Näheres über Ihr Angebot erfahren.", "en": "I would like to learn more about your offer." },
+    { "de": "Seit … bin ich als … tätig.", "en": "Since … I have been working as …" },
+    { "de": "Für mich käme nur … infrage, und zwar …", "en": "Only … would be an option for me, namely …" },
+    { "de": "Wäre es möglich, zusätzlich … zu mieten?", "en": "Would it be possible to rent … in addition?" },
+    { "de": "Mit welcher Frist kann gekündigt werden?", "en": "What is the notice period?" },
+    { "de": "Schließlich wüsste ich gern, ob …", "en": "Finally, I would like to know whether …" },
+    { "de": "Über eine baldige Antwort würde ich mich sehr freuen.", "en": "I would be very pleased to receive a reply soon." }
+  ],
+  "glossary": [
+    { "de": "sich selbstständig machen", "en": "to become self-employed" },
+    { "de": "freiberuflich tätig sein", "en": "to work freelance" },
+    { "de": "die Anwaltskanzlei", "en": "law firm" },
+    { "de": "der Rollcontainer", "en": "mobile drawer unit (under a desk)" },
+    { "de": "abschließbar", "en": "lockable" },
+    { "de": "vertraulich", "en": "confidential" },
+    { "de": "die Kündigungsfrist", "en": "notice period" },
+    { "de": "die Geschäftsadresse", "en": "business address" }
+  ]
+}

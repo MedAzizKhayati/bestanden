@@ -1,0 +1,60 @@
+{
+  "id": "schreiben-11",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Praktikum im Kinderbuchverlag",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Bewerbung",
+  "situation": "Sie interessieren sich schon lange für Bücher und möchten Erfahrungen in der Verlagsbranche sammeln. Auf einem Jobportal haben Sie folgende Anzeige gefunden. Schreiben Sie eine Bewerbung per E-Mail an den Verlag.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Ellerbrock Verlag Hamburg – Bücher für junge Leserinnen und Leser\n\nWir suchen ab 1. März für drei Monate eine Praktikantin oder einen Praktikanten im Bereich Lektorat und Marketing.\n\nIhre Aufgaben:\n• Manuskripte lesen und kurze Gutachten verfassen\n• unsere Social-Media-Kanäle mitbetreuen\n• die Präsentation unserer Neuerscheinungen auf der Leipziger Buchmesse vorbereiten\n\nIhr Profil:\n• Studium oder Ausbildung mit sprachlichem Schwerpunkt\n• sehr gute Deutschkenntnisse in Wort und Schrift\n• Begeisterung für Kinder- und Jugendliteratur\n\nWir bieten eine Vergütung von 700 Euro im Monat, ein kollegiales Team und Einblick in alle Abteilungen.\n\nBewerbungen bitte per E-Mail an Henrike Albers: praktikum@ellerbrock-verlag.de"
+  },
+  "leitpunkte": [
+    "Beschreiben Sie, welche Kenntnisse und Erfahrungen Sie für das Praktikum mitbringen.",
+    "Stellen Sie weitere Fragen zum Ablauf des Praktikums.",
+    "Legen Sie dar, warum Sie sich gerade für diesen Verlag interessieren.",
+    "Erläutern Sie, welche der genannten Aufgaben Sie besonders reizen und warum."
+  ],
+  "model": {
+    "subject": "Bewerbung um das Praktikum im Lektorat und Marketing ab 1. März",
+    "text": "Sehr geehrte Frau Albers,\n\nauf dem Jobportal „Medienstart“ bin ich auf Ihre Anzeige gestoßen und bewerbe mich hiermit um das dreimonatige Praktikum im Lektorat und Marketing.\n\nIhr Verlag ist mir schon seit meiner Kindheit vertraut: Damals habe ich Ihre Detektivreihe „Die Hafenbande“ regelrecht verschlungen, und heute lese ich die Bände meinem Neffen vor. Besonders schätze ich, dass in Ihren Büchern auch schwierige Themen wie Flucht oder Krankheit kindgerecht, aber ohne erhobenen Zeigefinger behandelt werden.\n\nZurzeit studiere ich im fünften Semester Germanistik und Medienwissenschaft an der Universität Bremen. In einem Seminar zur Jugendliteratur habe ich bereits mehrere Rezensionen verfasst, von denen zwei in unserer Studierendenzeitschrift veröffentlicht wurden. Außerdem betreue ich seit zwei Jahren ehrenamtlich den Instagram-Kanal einer Stadtteilbibliothek, dessen Followerzahl sich in dieser Zeit verdoppelt hat.\n\nAm meisten reizt mich die Vorbereitung der Leipziger Buchmesse. Da ich gern organisiere und den direkten Kontakt mit Leserinnen und Lesern schätze, könnte ich dort meine Stärken einbringen. Zugleich würde ich gern miterleben, wie ein Buch vom Manuskript bis zur Präsentation auf der Messe begleitet wird.\n\nÜber die Gelegenheit, mich Ihnen in einem persönlichen Gespräch vorzustellen, würde ich mich sehr freuen. Meinen Lebenslauf und meine Zeugnisse finden Sie im Anhang.\n\nMit freundlichen Grüßen\nElif Demir"
+  },
+  "modelNotes": [
+    "The model covers three points: why this publisher (paragraph 2), the writer's knowledge and experience (paragraph 3) and which task is especially appealing (paragraph 4). There are no extra questions – the fourth point is left out.",
+    "The e-mail is addressed to the contact person named in the ad („Sehr geehrte Frau Albers“) – in an application this is better than „Sehr geehrte Damen und Herren“.",
+    "The experience matches the profile in the ad point by point: a language-based degree, writing (reviews), social media (the library's Instagram channel) and enthusiasm for children's books.",
+    "B2 structures: passive („behandelt werden“, „veröffentlicht wurden“, „begleitet wird“), relative clauses with „von denen“ and „dessen“, a precise contrast („kindgerecht, aber ohne erhobenen Zeigefinger“) and Konjunktiv II („könnte“, „würde … freuen“).",
+    "A typical application ending: the request for an interview and a note on the attachments, followed by „Mit freundlichen Grüßen“."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: warum gerade dieser Verlag (2. Absatz), die Kenntnisse und Erfahrungen der Schreiberin (3. Absatz) und welche Aufgabe sie besonders reizt (4. Absatz). Weitere Fragen gibt es nicht – der vierte Punkt wird weggelassen.",
+    "Die E-Mail richtet sich an die Ansprechpartnerin aus der Anzeige („Sehr geehrte Frau Albers“) – in einer Bewerbung ist das besser als „Sehr geehrte Damen und Herren“.",
+    "Die Erfahrungen passen Punkt für Punkt zum Profil in der Anzeige: ein sprachliches Studium, Schreiben (Rezensionen), soziale Medien (der Instagram-Kanal der Bibliothek) und Begeisterung für Kinderbücher.",
+    "B2-Strukturen: Passiv („behandelt werden“, „veröffentlicht wurden“, „begleitet wird“), Relativsätze mit „von denen“ und „dessen“, ein genauer Gegensatz („kindgerecht, aber ohne erhobenen Zeigefinger“) und Konjunktiv II („könnte“, „würde … freuen“).",
+    "Ein typischer Schluss für eine Bewerbung: die Bitte um ein Vorstellungsgespräch und ein Hinweis auf die Anlagen, danach „Mit freundlichen Grüßen“."
+  ],
+  "phrases": [
+    { "de": "Hiermit bewerbe ich mich um das Praktikum im Bereich …", "en": "I am hereby applying for the internship in …" },
+    { "de": "Ihr Verlag ist mir schon seit … vertraut.", "en": "I have known your publishing house since …" },
+    { "de": "Besonders schätze ich, dass …", "en": "What I particularly appreciate is that …" },
+    { "de": "Zurzeit studiere ich im fünften Semester …", "en": "I am currently in my fifth semester of …" },
+    { "de": "Seit zwei Jahren betreue ich ehrenamtlich …", "en": "For two years I have been looking after … as a volunteer." },
+    { "de": "Am meisten reizt mich …", "en": "What appeals to me most is …" },
+    { "de": "Dort könnte ich meine Stärken einbringen.", "en": "There I could make use of my strengths." },
+    { "de": "Über die Gelegenheit, mich Ihnen persönlich vorzustellen, würde ich mich sehr freuen.", "en": "I would be very glad of the opportunity to introduce myself to you in person." },
+    { "de": "Meinen Lebenslauf finden Sie im Anhang.", "en": "Please find my CV attached." }
+  ],
+  "glossary": [
+    { "de": "das Lektorat", "en": "editorial department" },
+    { "de": "das Gutachten", "en": "(reader's) report, assessment" },
+    { "de": "die Neuerscheinung", "en": "new publication" },
+    { "de": "die Vergütung", "en": "pay, remuneration" },
+    { "de": "ein Buch verschlingen", "en": "to devour a book" },
+    { "de": "ohne erhobenen Zeigefinger", "en": "without moralising" },
+    { "de": "die Rezension", "en": "review" },
+    { "de": "ehrenamtlich", "en": "voluntary, unpaid" }
+  ]
+}

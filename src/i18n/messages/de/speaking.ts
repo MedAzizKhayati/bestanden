@@ -3,7 +3,7 @@ import type { Messages } from "../en";
 export const speaking: Messages["speaking"] = {
   meta: {
     title: "Sprechen – die mündliche Prüfung mit KI üben",
-    description: "Alle drei Teile der mündlichen Prüfung (telc B1) – mit Mustergesprächen, Redemitteln und einer KI, mit der du sprechen kannst.",
+    description: "Alle drei Teile der mündlichen telc-Prüfung – mit Mustergesprächen, Redemitteln und einer KI, mit der du sprechen kannst.",
     partTitle: (teil, name) => `Sprechen Teil ${teil} – ${name}`,
     setTitle: (teil, title) => `Sprechen Teil ${teil} · ${title}`,
   },
@@ -24,6 +24,7 @@ export const speaking: Messages["speaking"] = {
     practise: "Üben",
     scoringTitle: "So bewerten dich die Prüfenden",
     scoringText: "Jeder Teil wird in vier Kriterien mit A bis D bewertet. Teil 1 zählt halb so viel wie Teil 2 und Teil 3.",
+    scoringTextEqual: (points) => `Jeder Teil wird in vier Kriterien mit A bis D bewertet – alle drei Teile zählen gleich viel (je ${points} Punkte).`,
     criterion: "Kriterium",
     assessed: "Was bewertet wird",
   },
@@ -41,6 +42,9 @@ export const speaking: Messages["speaking"] = {
     notesHint: "Nur Stichwörter – in der Prüfung darfst du deine Notizen nicht vorlesen.",
     preparation: "Vorbereitung",
     prepText: (minutes) => `In der Prüfung hast du 20 Minuten für alle drei Teile. Hier: ${minutes} Min. für diesen Teil – Notizen sind erlaubt.`,
+    prepTextB2: (minutes) =>
+      `In der Prüfung bereitest du Teil 1 zu Hause vor und hast 20 Minuten für Teil 2 und 3. Hier: ${minutes} Min. für diesen Teil – Notizen sind erlaubt.`,
+    chooseFirst: "Wähle zuerst dein Thema auf dem Blatt.",
     startPrep: "Vorbereitung starten",
     readyStart: "Ich bin bereit – jetzt sprechen",
     startSpeaking: "Sprechen starten",
@@ -102,12 +106,44 @@ export const speaking: Messages["speaking"] = {
     ],
   },
 
+  selfCheckB2: {
+    "sprechen-1": [
+      "Ich habe mein Thema genannt und gesagt, warum ich es gewählt habe",
+      "Ich habe meine Erfahrung in einer klaren Reihenfolge erzählt (was, wann, wo, mit wem, was ist passiert)",
+      "Ich habe die Erfahrung bewertet – was sie mir bedeutet, was ich gelernt habe",
+      "Ich habe etwa 1½ Minuten gesprochen, ohne Notizen vorzulesen",
+      "Ich habe die Fragen meines Gegenübers mit Details beantwortet",
+      "Ich habe meinem Gegenüber mindestens zwei echte Anschlussfragen zu seinem Beitrag gestellt",
+    ],
+    "sprechen-2": [
+      "Ich habe die Hauptaussagen des Artikels kurz mit eigenen Worten zusammengefasst",
+      "Ich habe gesagt, welche Argumente ich überzeugend oder interessant finde – und warum",
+      "Ich habe meine eigene Meinung mit Gründen und einem Beispiel gesagt",
+      "Ich bin auf die Argumente meines Gegenübers eingegangen (teilweise zugestimmt, widersprochen, etwas eingeräumt)",
+      "Ich habe Fragen gestellt und die Diskussion in Gang gehalten",
+      "Ich habe einen Vorschlag oder einen Kompromiss gemacht",
+    ],
+    "sprechen-3": [
+      "Ich habe mehrere konkrete eigene Ideen eingebracht",
+      "Ich habe meine Vorschläge begründet",
+      "Ich habe auf die Vorschläge meines Gegenübers reagiert – angenommen, hinterfragt oder höflich abgelehnt und eine Alternative genannt",
+      "Wo wir unterschiedlicher Meinung waren, haben wir einen Kompromiss ausgehandelt",
+      "Wir haben vereinbart, wer sich um was kümmert",
+      "Wir haben den Plan am Ende zusammengefasst",
+    ],
+  },
+
   monologuePrompt: {
     intro:
       "Stell dich so vor, wie du dich deinem Gegenüber vorstellen würdest: Name, Herkunft, Wohnort, Familie, Deutsch, Beruf, Sprachen. Stell dann zwei Fragen, die du deinem Gegenüber stellen würdest.",
     topic: (name, theme) =>
       `Berichte deinem Gegenüber mit eigenen Worten, was ${name} meint. Sag dann, was du über „${theme}“ denkst und warum – mit einem Beispiel aus deinem Leben.`,
     planning: "Beginne die Planung: Mach zwei oder drei konkrete Vorschläge zu den Punkten auf der Liste und begründe jeden Vorschlag.",
+    experience: (topic) =>
+      `Sprich etwa 1½ Minuten über „${topic}“: Was ist passiert, wann und wo, wer war dabei, warum war es dir wichtig und wie siehst du es heute?`,
+    discussion: (theme) =>
+      `Äußere dich kurz zum Artikel über „${theme}“ (Hauptaussagen, was du interessant findest) und sag dann deine eigene Meinung mit Gründen und einem Beispiel.`,
+    planningB2: "Beginne die Planung: Bring zwei oder drei Ideen für das Projekt ein, begründe sie und schlag vor, wer sich um was kümmern könnte.",
   },
 
   ideas: {
@@ -117,6 +153,10 @@ export const speaking: Messages["speaking"] = {
     examinerQuestions: "Mögliche Fragen der Prüfenden",
     partnerQuestions: "Fragen an dein Gegenüber",
     taskPhrases: "Redemittel für diese Aufgabe",
+    structure: "So gliederst du deine 1½ Minuten",
+    followUp: "Fragen, die dein Gegenüber stellen kann",
+    aspects: "Aspekte zum Nachdenken",
+    aspectsNote: "Deine eigene Vorbereitung – auf dem Prüfungsblatt steht nur die Aufgabe.",
     vocabulary: "Wortschatz",
   },
 
@@ -200,6 +240,7 @@ export const speaking: Messages["speaking"] = {
 
   taskSheet: {
     partnerHidden: "Dein Gegenüber hat eine andere Meinung zu diesem Thema – du hörst sie im Gespräch.",
+    chooseTopic: "Wähle das Thema, über das du sprechen möchtest – in der Prüfung bereitest du es zu Hause vor.",
   },
 
   recognition: {

@@ -7,6 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useLocale, useT } from "@/i18n/client";
+import { useExam } from "@/lib/exams/use-exam";
 import { formatNumber } from "@/i18n/format";
 import type { WritingSet } from "@/lib/content/schemas";
 import type { WritingRubric } from "@/lib/exams";
@@ -84,6 +85,7 @@ export function WritingFeedbackView({
   const t = useT();
   const locale = useLocale();
   const f = t.writing.feedback;
+  const exam = useExam(task?.examId);
   const percent = Math.round((feedback.total / rubric.maxPoints) * 100);
   const [tab, setTab] = useState("annotated");
   return (
@@ -166,7 +168,7 @@ export function WritingFeedbackView({
                 <div className="reading text-[15.5px] whitespace-pre-wrap">{feedback.correctedText}</div>
               </TabsContent>
               <TabsContent value="improved">
-                <p className="mb-3 text-xs text-muted-foreground">{f.improvedHint}</p>
+                <p className="mb-3 text-xs text-muted-foreground">{f.improvedHint(exam.level)}</p>
                 <div className="reading text-[15.5px] whitespace-pre-wrap">{feedback.improvedText}</div>
               </TabsContent>
               {task && (
@@ -190,7 +192,10 @@ export function WritingFeedbackView({
 
         <div className="space-y-4">
           <div className="rounded-2xl border bg-card p-4">
-            <h3 className="mb-3 text-sm font-semibold">Leitpunkte</h3>
+            <h3 className="text-sm font-semibold">Leitpunkte</h3>
+            <p className="mb-3 text-xs text-muted-foreground">
+              {exam.sections.find((s) => s.id === "schreiben")?.parts[0].writing?.cover === "three" ? f.leitpunkteThree : f.leitpunkteAll}
+            </p>
             <ul className="space-y-2.5">
               {feedback.leitpunkte.map((l) => (
                 <li key={l.point} className="flex gap-2.5 text-sm">

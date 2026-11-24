@@ -13,7 +13,7 @@ export interface MockRun {
   listeningIndex: number; // 0..2 within Hören
   writingStartedAt?: number;
   answers: Record<string, Answers>; // partId → answers
-  writing: { subject: string; text: string };
+  writing: { subject: string; text: string; /** telc B2: the chosen task. */ choice?: "A" | "B" };
   strict: boolean;
 }
 
@@ -22,7 +22,7 @@ export interface MockResult {
   mockId: string;
   finishedAt: number;
   parts: Record<string, { points: number; maxPoints: number; correct: number; total: number }>;
-  writing?: { feedback?: WritingFeedback; selfPoints?: number; text: string; subject: string };
+  writing?: { feedback?: WritingFeedback; selfPoints?: number; text: string; subject: string; /** telc B2: Aufgabe B was chosen. */ choice?: "A" | "B" };
   writtenPoints: number; // incl. writing if available
 }
 

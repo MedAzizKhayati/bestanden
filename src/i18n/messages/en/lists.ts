@@ -6,6 +6,7 @@ export const lists = {
       "The reference lists that decide Sprachbausteine: verbs and adjectives with prepositions, irregular verbs, connectors and noun-verb collocations.",
     title: "Word lists",
     description: "Fixed combinations decide many gaps in Sprachbausteine Teil 2. Learn them as chunks – each list has a quick drill.",
+    levelTitle: (level: string): string => (level === "B2" ? "B2 – the next step (adds to the B1 lists)" : `${level} – the basics`),
   },
   /** /listen/[list] */
   list: {

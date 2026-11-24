@@ -24,7 +24,7 @@ function partLabel(m: MistakeCard, t: Messages) {
   if (!part || !section) return { label: m.partId, href: undefined, sectionId: undefined };
   const number = m.setId.slice(m.partId.length + 1);
   return {
-    label: `${section.short}${section.parts.length > 1 ? ` ${t.common.teil(part.teil)}` : ""}`,
+    label: `${exam.level} · ${section.short}${section.parts.length > 1 ? ` ${t.common.teil(part.teil)}` : ""}`,
     href: setHref(exam, part, number),
     sectionId: section.id,
     number,

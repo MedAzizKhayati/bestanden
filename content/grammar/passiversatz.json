@@ -1,0 +1,261 @@
+{
+  "id": "passiversatz",
+  "level": "B2",
+  "category": "verben",
+  "order": 21,
+  "title": "Passiversatz: man, sich lassen, sein + zu, -bar, bekommen",
+  "titleEn": "Alternatives to the passive: man, sich lassen, sein + zu, -bar, bekommen",
+  "summary": "Forms that replace the passive and often add „can“ or „must“: man, sich lassen + infinitive, sein + zu, adjectives in -bar/-lich, haben … zu and the passive with bekommen.",
+  "summaryDe": "Formen, die das Passiv ersetzen und oft „können“ oder „müssen“ mitbedeuten: man, sich lassen + Infinitiv, sein + zu, Adjektive auf -bar/-lich, haben … zu und das Passiv mit bekommen.",
+  "examRelevance": ["lesen", "sprachbausteine", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "Instead of a passive, German often uses **active-looking forms**. Most of them add a **modal meaning**: **können** (sich lassen, -bar, -lich, „nicht/kaum … zu“) or **müssen/sollen** (sein + zu, haben + zu). Das Problem **lässt sich lösen** = Das Problem **ist lösbar** = Das Problem **ist zu lösen** = Das Problem **kann gelöst werden**.",
+      "mdDe": "Statt eines Passivs benutzt man im Deutschen oft **Formen, die aktiv aussehen**. Die meisten haben zusätzlich eine **modale Bedeutung**: **können** (sich lassen, -bar, -lich, „nicht/kaum … zu“) oder **müssen/sollen** (sein + zu, haben + zu). Das Problem **lässt sich lösen** = Das Problem **ist lösbar** = Das Problem **ist zu lösen** = Das Problem **kann gelöst werden**."
+    },
+    {
+      "type": "table",
+      "heading": "Overview",
+      "headingDe": "Überblick",
+      "columns": ["Alternative", "Passive equivalent", "Example"],
+      "columnsDe": ["Passiversatz", "Entspricht im Passiv", "Beispiel"],
+      "rows": [
+        ["man + active verb", "passive without a modal meaning", "**Man** saniert die Schule. = Die Schule wird saniert."],
+        ["sich lassen + infinitive", "können + passive", "Der Fehler **lässt sich** leicht **beheben**. = … kann leicht behoben werden."],
+        ["sein + zu + infinitive", "müssen/sollen or können + passive", "Der Antrag **ist** bis Freitag **einzureichen**. = … muss eingereicht werden."],
+        ["adjective in -bar", "können + passive", "Das Wasser ist **trinkbar**. = … kann getrunken werden."],
+        ["adjective in -lich", "können + passive", "Das Gerät ist online **erhältlich**. = … kann online gekauft werden."],
+        ["haben + zu + infinitive (subject = person)", "müssen (active)", "Die Gäste **haben** den Ausweis **vorzuzeigen**. = … müssen den Ausweis vorzeigen."],
+        ["bekommen/kriegen + Partizip II", "passive with a dative person", "Ich **bekomme** das Paket **geliefert**. = Mir wird das Paket geliefert."]
+      ],
+      "rowsDe": [
+        ["man + Aktiv", "Passiv ohne modale Bedeutung", "**Man** saniert die Schule. = Die Schule wird saniert."],
+        ["sich lassen + Infinitiv", "können + Passiv", "Der Fehler **lässt sich** leicht **beheben**. = … kann leicht behoben werden."],
+        ["sein + zu + Infinitiv", "müssen/sollen oder können + Passiv", "Der Antrag **ist** bis Freitag **einzureichen**. = … muss eingereicht werden."],
+        ["Adjektiv auf -bar", "können + Passiv", "Das Wasser ist **trinkbar**. = … kann getrunken werden."],
+        ["Adjektiv auf -lich", "können + Passiv", "Das Gerät ist online **erhältlich**. = … kann online gekauft werden."],
+        ["haben + zu + Infinitiv (Subjekt = Person)", "müssen (Aktiv)", "Die Gäste **haben** den Ausweis **vorzuzeigen**. = … müssen den Ausweis vorzeigen."],
+        ["bekommen/kriegen + Partizip II", "Passiv mit Person im Dativ", "Ich **bekomme** das Paket **geliefert**. = Mir wird das Paket geliefert."]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "sein + zu: can or must?",
+      "headingDe": "sein + zu: können oder müssen?",
+      "md": "**sein + zu + infinitive** has the thing as its subject and a passive meaning. Whether it means *must* or *can* depends on the context:\n\n- **must/should** – rules, deadlines, official texts: Die Miete **ist** bis zum dritten Werktag **zu überweisen**. (= muss überwiesen werden) – Das Rauchen **ist** in allen Räumen **zu unterlassen**.\n- **can** – usually with **nicht, kaum, leicht, schwer, nur, gut**: Der Lärm **ist kaum zu ertragen**. (= kann kaum ertragen werden) – Die Folgen **sind** noch **nicht abzusehen**.\n\nWith separable verbs **zu** goes between prefix and stem: abzugeben, einzureichen, auszufüllen. In a subordinate clause „sein“ goes to the end: …, dass die Formulare vollständig **auszufüllen sind**.\n\n**bleiben + zu** works the same way: Es **bleibt abzuwarten**, ob das Projekt Erfolg hat. Also common: Damit **ist zu rechnen**. (= You have to expect that.)",
+      "mdDe": "**sein + zu + Infinitiv** hat die Sache als Subjekt und eine passivische Bedeutung. Ob es *müssen* oder *können* bedeutet, zeigt der Kontext:\n\n- **müssen/sollen** – Regeln, Fristen, offizielle Texte: Die Miete **ist** bis zum dritten Werktag **zu überweisen**. (= muss überwiesen werden) – Das Rauchen **ist** in allen Räumen **zu unterlassen**.\n- **können** – meistens mit **nicht, kaum, leicht, schwer, nur, gut**: Der Lärm **ist kaum zu ertragen**. (= kann kaum ertragen werden) – Die Folgen **sind** noch **nicht abzusehen**.\n\nBei trennbaren Verben steht **zu** zwischen Präfix und Verb: abzugeben, einzureichen, auszufüllen. Im Nebensatz steht „sein“ am Ende: …, dass die Formulare vollständig **auszufüllen sind**.\n\n**bleiben + zu** funktioniert genauso: Es **bleibt abzuwarten**, ob das Projekt Erfolg hat. Häufig ist auch: Damit **ist zu rechnen**. (= Das muss man erwarten.)"
+    },
+    {
+      "type": "text",
+      "heading": "sich lassen + infinitive",
+      "headingDe": "sich lassen + Infinitiv",
+      "md": "**sich lassen + infinitive** means *can be done*. lassen is conjugated, **sich** comes early in the clause and the infinitive goes to the end:\n\n- Das Fenster **lässt sich** nicht **öffnen**. (= kann nicht geöffnet werden)\n- Der Termin **ließ sich** leider nicht **verschieben**.\n- Ob die Daten zu retten sind, **lässt sich** noch nicht **sagen**.\n- Darüber **lässt sich streiten**. (= People can have different opinions about it.)\n\nIn the Perfekt there are two infinitives: Das Problem **hat sich** schnell **lösen lassen**. The Präteritum („ließ sich lösen“) is more common.\n\nDon't confuse it with B1 **lassen** (have something done): Ich **lasse** das Fenster **reparieren**. (A craftsman does it for me.) – Das Fenster **lässt sich reparieren**. (It is possible to repair it.)",
+      "mdDe": "**sich lassen + Infinitiv** bedeutet *kann gemacht werden*. lassen ist konjugiert, **sich** steht früh im Satz und der Infinitiv am Ende:\n\n- Das Fenster **lässt sich** nicht **öffnen**. (= kann nicht geöffnet werden)\n- Der Termin **ließ sich** leider nicht **verschieben**.\n- Ob die Daten zu retten sind, **lässt sich** noch nicht **sagen**.\n- Darüber **lässt sich streiten**. (= Man kann darüber verschiedener Meinung sein.)\n\nIm Perfekt stehen zwei Infinitive: Das Problem **hat sich** schnell **lösen lassen**. Häufiger ist das Präteritum („ließ sich lösen“).\n\nVerwechsle es nicht mit **lassen** aus B1 (etwas machen lassen): Ich **lasse** das Fenster **reparieren**. (Ein Handwerker macht es für mich.) – Das Fenster **lässt sich reparieren**. (Man kann es reparieren.)"
+    },
+    {
+      "type": "text",
+      "heading": "-bar, -lich, haben … zu and bekommen",
+      "headingDe": "-bar, -lich, haben … zu und bekommen",
+      "md": "- **Adjectives in -bar / -lich** come from verbs with an accusative object and mean *can be done*: machbar, bezahlbar, erreichbar, absehbar, nachvollziehbar; verständlich, erhältlich, unvermeidlich. With **un-** they mean *cannot*: unlösbar = kann nicht gelöst werden. Not every -lich adjective is passive – freundlich or ärgerlich are not.\n- **haben + zu + infinitive** has the **person** as its subject and means *must*. It sounds strict and official: Die Mieter **haben** die Hausordnung **zu beachten**. (= Die Mieter müssen sie beachten.) Compare: Die Hausordnung **ist zu beachten**. (subject = thing → sein + zu)\n- **bekommen + Partizip II** turns the **dative person** into the subject: Man hat **mir** die Kosten erstattet. → **Ich habe** die Kosten **erstattet bekommen**. This only works with verbs of giving and telling (schenken, schicken, liefern, erstatten, erklären, zeigen). **kriegen** is the colloquial version – fine in conversation, but write „bekommen“ in a letter.",
+      "mdDe": "- **Adjektive auf -bar / -lich** kommen von Verben mit Akkusativobjekt und bedeuten *kann gemacht werden*: machbar, bezahlbar, erreichbar, absehbar, nachvollziehbar; verständlich, erhältlich, unvermeidlich. Mit **un-** bedeuten sie *kann nicht*: unlösbar = kann nicht gelöst werden. Nicht jedes Adjektiv auf -lich ist passivisch – freundlich oder ärgerlich zum Beispiel nicht.\n- **haben + zu + Infinitiv** hat die **Person** als Subjekt und bedeutet *müssen*. Es klingt streng und offiziell: Die Mieter **haben** die Hausordnung **zu beachten**. (= Die Mieter müssen sie beachten.) Vergleiche: Die Hausordnung **ist zu beachten**. (Subjekt = Sache → sein + zu)\n- **bekommen + Partizip II** macht die **Person im Dativ** zum Subjekt: Man hat **mir** die Kosten erstattet. → **Ich habe** die Kosten **erstattet bekommen**. Das geht nur mit Verben des Gebens und Mitteilens (schenken, schicken, liefern, erstatten, erklären, zeigen). **kriegen** ist umgangssprachlich – beim Sprechen in Ordnung, im Brief schreibst du „bekommen“."
+    },
+    {
+      "type": "table",
+      "heading": "Useful adjectives in -bar and -lich",
+      "headingDe": "Nützliche Adjektive auf -bar und -lich",
+      "columns": ["Adjective", "= kann … werden", "Example"],
+      "columnsDe": ["Adjektiv", "= kann … werden", "Beispiel"],
+      "rows": [
+        ["machbar", "kann gemacht werden", "Der Zeitplan ist ehrgeizig, aber **machbar**."],
+        ["bezahlbar", "kann bezahlt werden", "In der Innenstadt gibt es kaum noch **bezahlbare** Wohnungen."],
+        ["erreichbar", "kann erreicht werden", "Die Praxis ist mit der Straßenbahn gut **erreichbar**."],
+        ["absehbar", "kann vorhergesehen werden", "Ein Ende der Bauarbeiten ist nicht **absehbar**."],
+        ["nachvollziehbar", "kann nachvollzogen werden", "Ihre Kritik ist durchaus **nachvollziehbar**."],
+        ["verständlich", "kann verstanden werden", "Die Anleitung ist leicht **verständlich** geschrieben."],
+        ["erhältlich", "kann gekauft werden", "Das Medikament ist nur in Apotheken **erhältlich**."],
+        ["unvermeidlich", "kann nicht vermieden werden", "Gewisse Verzögerungen sind leider **unvermeidlich**."]
+      ]
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Die Lieferzeit **lässt sich** leider nicht **verkürzen**.", "en": "Unfortunately, the delivery time cannot be shortened." },
+        { "de": "Anträge **sind** spätestens vier Wochen vor Kursbeginn **einzureichen**.", "en": "Applications must be submitted no later than four weeks before the course starts." },
+        { "de": "Die Schäden **sind** auf den ersten Blick **kaum zu erkennen**.", "en": "At first glance, the damage can hardly be seen." },
+        { "de": "Es **bleibt abzuwarten**, ob die Maßnahmen wirken.", "en": "It remains to be seen whether the measures will work." },
+        { "de": "Für junge Familien sind Wohnungen in der Stadt kaum noch **bezahlbar**.", "en": "For young families, flats in the city are hardly affordable any more." },
+        { "de": "Die neue Version ist ab sofort im Fachhandel **erhältlich**.", "en": "The new version is available in specialist shops from now on." },
+        { "de": "Besucher **haben** sich am Empfang **anzumelden**.", "en": "Visitors must sign in at reception." },
+        { "de": "Ich **habe** die Unterlagen per Post **zugeschickt bekommen**.", "en": "I was sent the documents by post." },
+        { "de": "Bei der Führung **bekamen** wir die alte Druckerei **gezeigt**.", "en": "During the tour we were shown the old printing works." },
+        { "de": "**Man** geht davon aus, dass die Preise weiter steigen.", "en": "It is assumed that prices will continue to rise." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**Lesen Teil 2:** articles use these forms all the time – „Die Folgen sind noch nicht absehbar.“ – „Es bleibt abzuwarten, ob …“ – „Der Rückgang lässt sich vor allem durch … erklären.“ Translate them in your head into können/müssen + passive: *can* or *must*? A typical trap turns „ist nicht zu vermeiden“ (cannot be avoided) into „muss nicht vermieden werden“ (does not have to be avoided).\n\n**Sprachbausteine Teil 1:** you may have to choose „lässt / ist / hat“: „Das Problem … sich lösen“ → lässt; „Die Gebühr … bar zu bezahlen“ → ist; „Die Teilnehmer … pünktlich zu erscheinen“ → haben. Or the position of zu: „abzugeben“, not „zu abgeben“.\n\n**Schreiben:** a polite request sounds elegant with sich lassen in the Konjunktiv II: „Ich wäre Ihnen dankbar, wenn sich das **einrichten ließe**.“ In a complaint, „Die Mängel sind umgehend zu beheben“ sounds very strict – „Ich bitte Sie, die Mängel umgehend zu beheben“ is friendlier.",
+      "mdDe": "**Lesen Teil 2:** Artikel benutzen diese Formen ständig – „Die Folgen sind noch nicht absehbar.“ – „Es bleibt abzuwarten, ob …“ – „Der Rückgang lässt sich vor allem durch … erklären.“ Übersetze sie im Kopf in können/müssen + Passiv: *können* oder *müssen*? Eine typische Falle macht aus „ist nicht zu vermeiden“ (kann nicht vermieden werden) die Aussage „muss nicht vermieden werden“.\n\n**Sprachbausteine Teil 1:** Du musst vielleicht zwischen „lässt / ist / hat“ wählen: „Das Problem … sich lösen“ → lässt; „Die Gebühr … bar zu bezahlen“ → ist; „Die Teilnehmer … pünktlich zu erscheinen“ → haben. Oder es geht um die Position von zu: „abzugeben“, nicht „zu abgeben“.\n\n**Schreiben:** Eine höfliche Bitte klingt mit sich lassen im Konjunktiv II elegant: „Ich wäre Ihnen dankbar, wenn sich das **einrichten ließe**.“ In einer Beschwerde klingt „Die Mängel sind umgehend zu beheben“ sehr streng – „Ich bitte Sie, die Mängel umgehend zu beheben“ ist freundlicher."
+    },
+    {
+      "type": "warning",
+      "md": "**Three classic traps:**\n\n1. **No „werden“** with sein + zu: Die Unterlagen **sind** bis Montag **abzugeben**. – not „abzugeben werden“.\n2. **sein + zu or haben + zu?** Is the subject a thing (→ sein) or a person who has to act (→ haben)? Die Formulare **sind** auszufüllen. – Die Bewerber **haben** die Formulare auszufüllen.\n3. **In the werden passive the receiver stays dative:** **Mir** wurden die Kosten erstattet – not „Ich wurde …“. Only with **bekommen** does the receiver become the subject: **Ich** habe die Kosten erstattet bekommen.",
+      "mdDe": "**Drei klassische Fallen:**\n\n1. **Kein „werden“** bei sein + zu: Die Unterlagen **sind** bis Montag **abzugeben**. – nicht „abzugeben werden“.\n2. **sein + zu oder haben + zu?** Ist das Subjekt eine Sache (→ sein) oder eine Person, die etwas tun muss (→ haben)? Die Formulare **sind** auszufüllen. – Die Bewerber **haben** die Formulare auszufüllen.\n3. **Im Passiv mit werden bleibt der Empfänger im Dativ:** **Mir** wurden die Kosten erstattet – nicht „Ich wurde …“. Nur mit **bekommen** wird der Empfänger zum Subjekt: **Ich** habe die Kosten erstattet bekommen."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Die Unterlagen sind bis Montag abzugeben werden.",
+      "right": "Die Unterlagen sind bis Montag abzugeben.",
+      "why": "sein + zu already has a passive meaning – there is no „werden“ at the end.",
+      "whyDe": "sein + zu hat schon eine passivische Bedeutung – am Ende steht kein „werden“."
+    },
+    {
+      "wrong": "Das Problem lässt leicht lösen.",
+      "right": "Das Problem lässt sich leicht lösen.",
+      "why": "With the meaning „can be done“, lassen always needs the reflexive pronoun „sich“.",
+      "whyDe": "In der Bedeutung „kann gemacht werden“ braucht lassen immer das Reflexivpronomen „sich“."
+    },
+    {
+      "wrong": "Die Formulare sind vollständig zu ausfüllen.",
+      "right": "Die Formulare sind vollständig auszufüllen.",
+      "why": "With separable verbs „zu“ goes between the prefix and the stem and is written as one word: „auszufüllen“.",
+      "whyDe": "Bei trennbaren Verben steht „zu“ zwischen Präfix und Verb, und man schreibt alles zusammen: „auszufüllen“."
+    },
+    {
+      "wrong": "Die Gäste sind die Hausordnung zu beachten.",
+      "right": "Die Gäste haben die Hausordnung zu beachten.",
+      "why": "The subject is the people who must act, and „die Hausordnung“ is their object → haben + zu (= müssen). sein + zu needs the thing as its subject: „Die Hausordnung ist zu beachten.“",
+      "whyDe": "Subjekt sind die Personen, die handeln müssen, und „die Hausordnung“ ist ihr Objekt → haben + zu (= müssen). Bei sein + zu ist die Sache das Subjekt: „Die Hausordnung ist zu beachten.“"
+    },
+    {
+      "wrong": "Ich wurde die Kosten erstattet.",
+      "right": "Mir wurden die Kosten erstattet. (Oder: Ich habe die Kosten erstattet bekommen.)",
+      "why": "„erstatten“ has a dative person (jemandem etwas erstatten). In the werden passive the dative stays and „die Kosten“ is the subject; only the bekommen passive makes the person the subject.",
+      "whyDe": "„erstatten“ hat eine Person im Dativ (jemandem etwas erstatten). Im Passiv mit werden bleibt der Dativ, und „die Kosten“ ist das Subjekt; nur das Passiv mit bekommen macht die Person zum Subjekt."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Der Fehler im Programm ___ sich leider nicht so einfach beheben.",
+      "options": ["lässt", "ist", "hat"],
+      "answer": 0,
+      "explanation": "„sich“ + infinitive at the end („beheben“) → „lässt sich beheben“ = kann behoben werden. „ist“ would need „zu beheben“ and no „sich“.",
+      "explanationDe": "„sich“ + Infinitiv am Ende („beheben“) → „lässt sich beheben“ = kann behoben werden. Mit „ist“ bräuchtest du „zu beheben“ und kein „sich“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Lärm von der Baustelle ist kaum noch ___.",
+      "options": ["auszuhalten", "aushalten", "zu aushalten"],
+      "answer": 0,
+      "explanation": "sein + zu + infinitive (= kann kaum ausgehalten werden). „aushalten“ is separable, so „zu“ goes inside: „auszuhalten“.",
+      "explanationDe": "sein + zu + Infinitiv (= kann kaum ausgehalten werden). „aushalten“ ist trennbar, deshalb steht „zu“ in der Mitte: „auszuhalten“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Ab sofort ___ alle Beschäftigten im Labor eine Schutzbrille zu tragen.",
+      "options": ["sind", "haben", "lassen"],
+      "answer": 1,
+      "explanation": "The subject is a group of people who must do something, and „eine Schutzbrille“ is their object → haben + zu (= müssen). „sind … zu tragen“ would need the glasses as the subject.",
+      "explanationDe": "Das Subjekt sind Personen, die etwas tun müssen, und „eine Schutzbrille“ ist ihr Objekt → haben + zu (= müssen). Bei „sind … zu tragen“ müsste die Brille das Subjekt sein."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Gebrauchsanleitung ist so kompliziert geschrieben, dass sie für Laien kaum ___ ist.",
+      "options": ["verständlich", "verstehend", "verstanden"],
+      "answer": 0,
+      "explanation": "„verständlich“ = kann verstanden werden – the possibility the sentence needs after „so kompliziert“. „verstanden“ describes a result, not a possibility, and „verstehend“ is active („understanding“).",
+      "explanationDe": "„verständlich“ = kann verstanden werden – genau die Möglichkeit, die der Satz nach „so kompliziert“ braucht. „verstanden“ beschreibt ein Ergebnis, keine Möglichkeit, und „verstehend“ ist aktiv (= jemand versteht)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Nach meiner Beschwerde ___ ich die Hälfte des Preises zurückerstattet.",
+      "options": ["wurde", "bekam", "ließ"],
+      "answer": 1,
+      "explanation": "„ich“ is the person who receives the money → bekommen passive: „bekam … zurückerstattet“. With „wurde“ the person would have to be dative („mir wurde …“), and „ließ“ needs an infinitive.",
+      "explanationDe": "„ich“ ist die Person, die das Geld bekommt → Passiv mit bekommen: „bekam … zurückerstattet“. Mit „wurde“ müsste die Person im Dativ stehen („mir wurde …“), und „ließ“ braucht einen Infinitiv."
+    },
+    {
+      "type": "gap",
+      "prompt": "Die Steuererklärung ist bis zum 31. Juli ___.",
+      "answers": ["abzugeben"],
+      "hint": "(abgeben)",
+      "explanation": "A deadline → sein + zu with the meaning „must“: „ist … abzugeben“ (= muss abgegeben werden). „zu“ goes inside the separable verb.",
+      "explanationDe": "Eine Frist → sein + zu mit der Bedeutung „müssen“: „ist … abzugeben“ (= muss abgegeben werden). „zu“ steht im trennbaren Verb."
+    },
+    {
+      "type": "gap",
+      "prompt": "Wie teuer das Projekt am Ende wird, ist im Moment noch nicht ___.",
+      "answers": ["absehbar"],
+      "hint": "(absehen, -bar)",
+      "explanation": "„absehbar“ = kann vorhergesehen werden. „nicht absehbar“ is a typical phrase in news texts: nobody can say yet.",
+      "explanationDe": "„absehbar“ = kann vorhergesehen werden. „nicht absehbar“ ist ein typischer Ausdruck in Nachrichtentexten: Das kann noch niemand sagen."
+    },
+    {
+      "type": "gap",
+      "prompt": "Ob die Daten noch zu retten sind, ___ sich im Moment nicht sagen.",
+      "answers": ["lässt"],
+      "hint": "(lassen)",
+      "explanation": "The ob clause is the subject (3rd person singular) → „lässt sich … sagen“ = kann gesagt werden.",
+      "explanationDe": "Der ob-Satz ist das Subjekt (3. Person Singular) → „lässt sich … sagen“ = kann gesagt werden."
+    },
+    {
+      "type": "gap",
+      "prompt": "Zum Geburtstag habe ich von meinen Kolleginnen einen Kochkurs ___ bekommen.",
+      "answers": ["geschenkt"],
+      "hint": "(schenken)",
+      "explanation": "bekommen passive: bekommen + Partizip II → „geschenkt bekommen“ (= Mir wurde ein Kochkurs geschenkt).",
+      "explanationDe": "Passiv mit bekommen: bekommen + Partizip II → „geschenkt bekommen“ (= Mir wurde ein Kochkurs geschenkt)."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „sich lassen“.",
+      "instructionDe": "Schreibe den Satz mit „sich lassen“.",
+      "prompt": "Das alte Gerät kann man leider nicht mehr reparieren.",
+      "answers": ["Das alte Gerät lässt sich leider nicht mehr reparieren.", "Leider lässt sich das alte Gerät nicht mehr reparieren."],
+      "explanation": "„kann man … reparieren“ = „lässt sich … reparieren“. The object „das alte Gerät“ becomes the subject; the infinitive stays at the end.",
+      "explanationDe": "„kann man … reparieren“ = „lässt sich … reparieren“. Das Objekt „das alte Gerät“ wird zum Subjekt; der Infinitiv bleibt am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „sein + zu“.",
+      "instructionDe": "Schreibe den Satz mit „sein + zu“.",
+      "prompt": "Die Rechnung muss innerhalb von 14 Tagen bezahlt werden.",
+      "answers": ["Die Rechnung ist innerhalb von 14 Tagen zu bezahlen.", "Innerhalb von 14 Tagen ist die Rechnung zu bezahlen."],
+      "explanation": "„muss … bezahlt werden“ = „ist … zu bezahlen“. No „werden“, and the infinitive with zu goes to the end.",
+      "explanationDe": "„muss … bezahlt werden“ = „ist … zu bezahlen“. Kein „werden“, und der Infinitiv mit zu steht am Ende."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „bekommen“. Keep the Präteritum.",
+      "instructionDe": "Schreibe den Satz mit „bekommen“. Behalte das Präteritum.",
+      "prompt": "Der Kundin wurde der Fehler genau erklärt.",
+      "answers": ["Die Kundin bekam den Fehler genau erklärt."],
+      "explanation": "The dative person „der Kundin“ becomes the subject „die Kundin“, and „der Fehler“ becomes the accusative object „den Fehler“: „bekam … erklärt“.",
+      "explanationDe": "Die Person im Dativ „der Kundin“ wird zum Subjekt „die Kundin“, und „der Fehler“ wird zum Akkusativobjekt „den Fehler“: „bekam … erklärt“."
+    },
+    {
+      "type": "order",
+      "words": ["mehr", "Klimawandels", "übersehen.", "Die", "nicht", "sind", "zu", "des", "Folgen"],
+      "answers": ["Die Folgen des Klimawandels sind nicht mehr zu übersehen."],
+      "explanation": "sein + zu with the meaning „can“: „sind nicht mehr zu übersehen“ = können nicht mehr übersehen werden. „zu“ + infinitive goes to the end.",
+      "explanationDe": "sein + zu mit der Bedeutung „können“: „sind nicht mehr zu übersehen“ = können nicht mehr übersehen werden. „zu“ + Infinitiv steht am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["lässt.", "nicht", "verschieben", "Ich", "der", "ob", "sicher,", "noch", "Termin", "bin", "sich"],
+      "answers": [
+        "Ich bin nicht sicher, ob sich der Termin noch verschieben lässt.",
+        "Ich bin nicht sicher, ob der Termin sich noch verschieben lässt.",
+        "Ich bin noch nicht sicher, ob sich der Termin verschieben lässt.",
+        "Ich bin noch nicht sicher, ob der Termin sich verschieben lässt."
+      ],
+      "explanation": "In the ob clause the conjugated verb „lässt“ goes to the very end, after the infinitive „verschieben“. „sich“ usually comes right after „ob“.",
+      "explanationDe": "Im ob-Satz steht das konjugierte Verb „lässt“ ganz am Ende, nach dem Infinitiv „verschieben“. „sich“ steht meistens direkt nach „ob“."
+    }
+  ],
+  "related": ["passiv-b2", "passiv", "lassen", "infinitiv-mit-zu", "wortbildung", "modalverben", "partizipialattribute", "infinitivsaetze-b2", "wortbildung-b2"]
+}

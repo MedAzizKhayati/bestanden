@@ -14,7 +14,7 @@ export function buildSearchIndex(locale: Locale): SearchEntry[] {
   const en = locale === "en";
   const entries: SearchEntry[] = [
     { group: g.pages, title: n.dashboard, href: "/", keywords: "Dashboard Übersicht Start" },
-    { group: g.pages, title: t.placement.title, subtitle: t.placement.lead, href: "/einstufung", keywords: "Einstufungstest Einstufung level check placement test Niveau" },
+    { group: g.pages, title: t.placement.title, subtitle: t.placement.metaDescription, href: "/einstufung", keywords: "Einstufungstest Einstufung level check placement test Niveau" },
     { group: g.pages, title: n.grammar, subtitle: n.search.grammar, href: "/grammatik", keywords: "Grammatik grammar" },
     { group: g.pages, title: n.vocabulary, subtitle: n.search.vocabulary, href: "/wortschatz", keywords: "Wortschatz Vokabeln vocabulary words" },
     { group: g.pages, title: n.phrases, subtitle: n.search.phrases, href: "/redemittel", keywords: "Redemittel phrases" },
@@ -29,26 +29,32 @@ export function buildSearchIndex(locale: Locale): SearchEntry[] {
     const exam = localizeExam(raw, locale);
     entries.push(
       { group: g.exam, title: n.search.examOverview(exam.name), subtitle: n.search.examOverviewSub, href: `/${exam.slug}` },
-      { group: g.exam, title: n.search.mocks, subtitle: n.search.mocksSub, href: `/${exam.slug}/modelltest`, keywords: "Modelltest mock exam" },
-      { group: g.exam, title: n.strategies, subtitle: n.search.strategiesSub, href: `/${exam.slug}/strategien`, keywords: "Strategien strategies Tipps tips" },
+      { group: g.exam, title: `${n.search.mocks} · ${exam.level}`, subtitle: n.search.mocksSub, href: `/${exam.slug}/modelltest`, keywords: `Modelltest mock exam ${exam.name}` },
+      {
+        group: g.exam,
+        title: `${n.strategies} · ${exam.level}`,
+        subtitle: n.search.strategiesSub,
+        href: `/${exam.slug}/strategien`,
+        keywords: `Strategien strategies Tipps tips ${exam.name}`,
+      },
     );
     for (const section of exam.sections) {
       entries.push({
         group: g.exam,
-        title: section.name,
+        title: `${section.name} · ${exam.level}`,
         subtitle: en ? section.nameEn : section.description,
         href: `/${exam.slug}/${section.id}`,
-        keywords: `${section.short} ${section.nameEn}`,
+        keywords: `${section.short} ${section.nameEn} ${exam.name}`,
       });
       for (const part of section.parts) {
-        const partLabel = section.parts.length > 1 ? `${section.short} Teil ${part.teil}` : section.short;
+        const partLabel = `${exam.level} · ${section.parts.length > 1 ? `${section.short} Teil ${part.teil}` : section.short}`;
         if (section.parts.length > 1)
           entries.push({
             group: g.exam,
             title: `${partLabel} – ${part.name}`,
             subtitle: en ? part.nameEn : undefined,
             href: partHref(exam, part),
-            keywords: part.nameEn,
+            keywords: `${part.nameEn} ${exam.name}`,
           });
         for (const s of getSetSummaries(exam.id, part.id))
           entries.push({ group: g.exercises, title: `${partLabel} · ${s.number} – ${s.title}`, href: setHref(exam, part, s.number) });
@@ -59,7 +65,7 @@ export function buildSearchIndex(locale: Locale): SearchEntry[] {
   for (const topic of getGrammarTopics(locale))
     entries.push({
       group: g.grammar,
-      title: topic.title,
+      title: `${topic.title} (${topic.level})`,
       subtitle: en ? topic.titleEn : undefined,
       href: `/grammatik/${topic.id}`,
       keywords: `${topic.titleEn} ${topic.summary}`,

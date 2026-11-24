@@ -1,0 +1,102 @@
+{
+  "id": "lesen-2-06",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Lesen im digitalen Zeitalter: Papier oder Bildschirm?",
+  "topic": "medien",
+  "difficulty": 2,
+  "article": {
+    "headline": "Papier oder Bildschirm: Warum das Medium beim Lesen doch eine Rolle spielt",
+    "lead": "Immer mehr Schulen ersetzen Bücher durch Tablets. Eine Bremer Untersuchung zeigt, dass beim Lesen am Bildschirm mehr verloren gehen kann als gedacht – allerdings nicht bei jedem Text.",
+    "paragraphs": [
+      "Ob Lehrbuch, Zeitung oder Fachartikel – gelesen wird heute überwiegend am Bildschirm. Zahlreiche Bundesländer statten ihre Schulen mit Tablets aus, gedruckte Lehrwerke verschwinden zunehmend aus den Klassenzimmern. Welche Folgen dieser Wandel für das Textverständnis hat, wollte das Zentrum für empirische Leseforschung in Bremen genauer wissen. Für eine der bislang umfangreichsten Untersuchungen dieser Art lasen rund 1.800 Schülerinnen und Schüler zwischen 14 und 17 Jahren identische Texte ohne Zeitvorgabe teils auf Papier, teils auf dem Tablet und beantworteten anschließend Verständnisfragen.",
+      "Bei kurzen erzählenden Texten konnten die Forschenden keinerlei Unterschied zwischen beiden Gruppen feststellen. Anders verhielt es sich bei längeren Sachtexten: Hier erzielten die Papierleser deutlich bessere Ergebnisse, und zwar vor allem bei Aufgaben, die eine Verknüpfung von Informationen aus unterschiedlichen Abschnitten erforderten. Bemerkenswert ist zudem ein zweiter Befund. Die Jugendlichen, die am Tablet gelesen hatten, schätzten ihr eigenes Verständnis höher ein als die Vergleichsgruppe – obwohl sie objektiv schlechter abschnitten.",
+      "Die Ursache liege nicht im Bildschirm selbst, betont die Studienleiterin Miriam Overkamp. Vielmehr übertrügen viele Menschen ihre Gewohnheiten aus sozialen Netzwerken auf jeden Text, den sie digital vor sich hätten: Sie überflögen Zeilen, sprängen zwischen Absätzen hin und her und gäben sich mit einem groben Eindruck zufrieden. Hinzu komme, dass beim Scrollen die räumliche Orientierung verloren gehe. „Wer ein Buch liest, erinnert sich oft, dass eine wichtige Stelle links unten auf der Seite stand. Diese mentale Landkarte fehlt am Bildschirm weitgehend“, erklärt Overkamp.",
+      "Überrascht hat das Forschungsteam ein weiteres Ergebnis. Entgegen der verbreiteten Annahme, die sogenannten Digital Natives hätten sich längst an das Lesen am Bildschirm angepasst, fiel der Rückstand ausgerechnet bei jenen Jugendlichen am größten aus, die in ihrer Freizeit täglich mehrere Stunden am Smartphone verbringen. Bei Teilnehmenden, die regelmäßig gedruckte Bücher lesen, war der Unterschied zwischen beiden Medien dagegen kaum messbar. Overkamp vermutet, dass die intensiven Smartphone-Nutzer die flüchtige Lesehaltung so stark verinnerlicht haben, dass sie diese auch bei anspruchsvollen Texten nicht mehr ohne Weiteres ablegen.",
+      "Vor voreiligen Schlussfolgerungen warnt allerdings der Medienpädagoge Jonas Pietsch. Eine Rückkehr zum gedruckten Schulbuch hält er weder für realistisch noch für wünschenswert, schließlich böten digitale Texte unbestreitbare Vorteile: Volltextsuche, Verlinkungen und eine anpassbare Schriftgröße, von der etwa Kinder mit Lese-Rechtschreib-Schwäche erheblich profitierten. Entscheidend sei vielmehr, Schülerinnen und Schülern ausdrücklich zu vermitteln, wie man auch am Bildschirm konzentriert liest – etwa durch bewusstes Verlangsamen, digitale Randnotizen oder das Zusammenfassen einzelner Abschnitte.",
+      "An der Gesamtschule Am Lindenhof in Osnabrück hat man aus solchen Erkenntnissen bereits praktische Konsequenzen gezogen. Längere literarische Texte und Prüfungsaufgaben werden dort seit einem Jahr wieder ausgedruckt, während Recherchen und Übungsaufgaben weiterhin auf dem Tablet stattfinden. „Wir haben die Geräte nicht abgeschafft, sondern ihnen eine klar umrissene Aufgabe zugewiesen“, sagt die Deutschlehrerin Sabine Kortekamp. Die Umstellung sei von den Klassen anfangs skeptisch aufgenommen worden, inzwischen schätzten jedoch viele die Möglichkeit, in ausgedruckten Texten Randbemerkungen zu machen und wichtige Passagen farbig zu markieren.",
+      "Auch Overkamp plädiert keineswegs für einen Abschied vom Bildschirm. Ihr Fazit lautet vielmehr: Nicht das Medium bestimme, wie viel wir verstehen, sondern die Art und Weise, wie wir lesen. Wer anspruchsvolle Texte wirklich erfassen wolle, müsse sich dafür Zeit nehmen – auf Papier ebenso wie auf dem Tablet."
+    ],
+    "source": "Bildung heute – Zeitschrift für Schule und Gesellschaft"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "In der Bremer Untersuchung schnitten die Jugendlichen, die auf Papier lasen, besser ab, …",
+      "options": [
+        { "key": "a", "text": "und zwar unabhängig davon, um welche Art von Text es sich handelte." },
+        { "key": "b", "text": "obwohl sie ihr eigenes Textverständnis deutlich höher einschätzten." },
+        { "key": "c", "text": "wenn sie Zusammenhänge zwischen verschiedenen Textteilen herstellen mussten." }
+      ],
+      "answer": "c",
+      "explanation": "The paper readers did better „vor allem bei Aufgaben, die eine Verknüpfung von Informationen aus unterschiedlichen Abschnitten erforderten“ – when they had to connect different parts of the text, so (c). With short narrative texts there was „keinerlei Unterschied“ (a). It was the tablet readers who rated their own understanding higher (b).",
+      "explanationDe": "Die Papierleser waren besser, „vor allem bei Aufgaben, die eine Verknüpfung von Informationen aus unterschiedlichen Abschnitten erforderten“ – also wenn sie verschiedene Textteile verbinden mussten (c). Bei kurzen erzählenden Texten gab es „keinerlei Unterschied“ (a). Ihr Verständnis höher eingeschätzt haben die Jugendlichen am Tablet, nicht die Papierleser (b).",
+      "evidence": "und zwar vor allem bei Aufgaben, die eine Verknüpfung von Informationen aus unterschiedlichen Abschnitten erforderten"
+    },
+    {
+      "n": 2,
+      "stem": "Die Studienleiterin Miriam Overkamp erklärt die Unterschiede unter anderem damit, dass …",
+      "options": [
+        { "key": "a", "text": "viele Menschen digitale Texte aus Gewohnheit nur oberflächlich erfassen." },
+        { "key": "b", "text": "das Licht des Bildschirms die Konzentration stärker beeinträchtigt als Papier." },
+        { "key": "c", "text": "die Teilnehmenden am Tablet unter größerem Zeitdruck arbeiten mussten." }
+      ],
+      "answer": "a",
+      "explanation": "People transfer „ihre Gewohnheiten aus sozialen Netzwerken auf jeden Text“: they skim lines and are content with „einem groben Eindruck“ – a superficial reading out of habit, so (a). Overkamp stresses that the cause is „nicht im Bildschirm selbst“ (b). All participants read the texts „ohne Zeitvorgabe“, so there was no time pressure (c).",
+      "explanationDe": "Viele übertragen „ihre Gewohnheiten aus sozialen Netzwerken auf jeden Text“: Sie überfliegen Zeilen und sind mit „einem groben Eindruck“ zufrieden – sie lesen also aus Gewohnheit oberflächlich (a). Overkamp betont, die Ursache liege „nicht im Bildschirm selbst“ (b). Alle haben „ohne Zeitvorgabe“ gelesen, es gab also keinen Zeitdruck (c).",
+      "evidence": "Vielmehr übertrügen viele Menschen ihre Gewohnheiten aus sozialen Netzwerken auf jeden Text, den sie digital vor sich hätten"
+    },
+    {
+      "n": 3,
+      "stem": "Unerwartet war für das Forschungsteam, dass …",
+      "options": [
+        { "key": "a", "text": "sich die meisten Jugendlichen inzwischen an das digitale Lesen gewöhnt haben." },
+        { "key": "b", "text": "ausgerechnet die eifrigsten Smartphone-Nutzer beim digitalen Lesen am stärksten zurücklagen." },
+        { "key": "c", "text": "regelmäßige Buchleser am Bildschirm einen besonders großen Rückstand aufwiesen." }
+      ],
+      "answer": "b",
+      "explanation": "The gap was biggest „ausgerechnet bei jenen Jugendlichen …, die in ihrer Freizeit täglich mehrere Stunden am Smartphone verbringen“ – so (b). The result contradicts the „verbreiteten Annahme“ that digital natives have long adapted to reading on screens (a). For regular book readers the difference was „kaum messbar“ (c).",
+      "explanationDe": "Der Rückstand war am größten „ausgerechnet bei jenen Jugendlichen …, die in ihrer Freizeit täglich mehrere Stunden am Smartphone verbringen“ – also (b). Das Ergebnis widerspricht gerade der „verbreiteten Annahme“, die Digital Natives hätten sich längst an das Lesen am Bildschirm angepasst (a). Bei regelmäßigen Buchlesern war der Unterschied „kaum messbar“ (c).",
+      "evidence": "fiel der Rückstand ausgerechnet bei jenen Jugendlichen am größten aus, die in ihrer Freizeit täglich mehrere Stunden am Smartphone verbringen"
+    },
+    {
+      "n": 4,
+      "stem": "Der Medienpädagoge Jonas Pietsch ist der Ansicht, dass …",
+      "options": [
+        { "key": "a", "text": "Schulen bei längeren Texten wieder auf gedruckte Bücher setzen sollten." },
+        { "key": "b", "text": "digitale Texte für Kinder mit Leseschwierigkeiten eher ungeeignet sind." },
+        { "key": "c", "text": "Jugendliche gezielt lernen sollten, auch am Bildschirm aufmerksam zu lesen." }
+      ],
+      "answer": "c",
+      "explanation": "„Entscheidend sei vielmehr, Schülerinnen und Schülern ausdrücklich zu vermitteln, wie man auch am Bildschirm konzentriert liest“ – so (c). He considers a return to the printed textbook „weder für realistisch noch für wünschenswert“; printing longer texts is what the school in Osnabrück does (a). According to him, children with dyslexia even benefit „erheblich“ from an adjustable font size (b).",
+      "explanationDe": "„Entscheidend sei vielmehr, Schülerinnen und Schülern ausdrücklich zu vermitteln, wie man auch am Bildschirm konzentriert liest“ – also (c). Eine Rückkehr zum gedruckten Schulbuch hält er „weder für realistisch noch für wünschenswert“; längere Texte ausdrucken – das macht die Schule in Osnabrück (a). Kinder mit Lese-Rechtschreib-Schwäche profitieren laut Pietsch sogar „erheblich“ von der anpassbaren Schriftgröße (b).",
+      "evidence": "Entscheidend sei vielmehr, Schülerinnen und Schülern ausdrücklich zu vermitteln, wie man auch am Bildschirm konzentriert liest"
+    },
+    {
+      "n": 5,
+      "stem": "An der Gesamtschule Am Lindenhof …",
+      "options": [
+        { "key": "a", "text": "hängt es von der Art der Aufgabe ab, ob auf Papier oder am Tablet gelesen wird." },
+        { "key": "b", "text": "werden die Tablets inzwischen nur noch für die Suche nach Informationen genutzt." },
+        { "key": "c", "text": "hat man die Tablets nach einjähriger Erprobung wieder abgeschafft." }
+      ],
+      "answer": "a",
+      "explanation": "Longer literary texts and exam tasks are printed, „während Recherchen und Übungsaufgaben weiterhin auf dem Tablet stattfinden“ – the type of task decides the medium, so (a). Tablets are used not only for research but also for exercises (b). The teacher says: „Wir haben die Geräte nicht abgeschafft“ (c).",
+      "explanationDe": "Längere literarische Texte und Prüfungsaufgaben werden ausgedruckt, „während Recherchen und Übungsaufgaben weiterhin auf dem Tablet stattfinden“ – die Art der Aufgabe entscheidet also über das Medium (a). Die Tablets werden nicht nur für Recherchen, sondern auch für Übungsaufgaben genutzt (b). Die Lehrerin sagt: „Wir haben die Geräte nicht abgeschafft“ (c).",
+      "evidence": "Längere literarische Texte und Prüfungsaufgaben werden dort seit einem Jahr wieder ausgedruckt, während Recherchen und Übungsaufgaben weiterhin auf dem Tablet stattfinden"
+    }
+  ],
+  "glossary": [
+    { "de": "der Sachtext", "en": "non-fiction / informational text" },
+    { "de": "die Verknüpfung", "en": "link, connection" },
+    { "de": "gut / schlecht abschneiden", "en": "to do well / badly (in a test)" },
+    { "de": "etwas einschätzen", "en": "to assess, to judge something" },
+    { "de": "überfliegen", "en": "to skim (a text)" },
+    { "de": "der Rückstand", "en": "gap, lag (behind others)" },
+    { "de": "voreilig", "en": "hasty, premature" },
+    { "de": "die Lese-Rechtschreib-Schwäche", "en": "dyslexia" },
+    { "de": "vermitteln", "en": "to teach, to convey" },
+    { "de": "Konsequenzen ziehen", "en": "to draw (practical) conclusions, to take action" },
+    { "de": "plädieren für", "en": "to argue for, to advocate" }
+  ]
+}

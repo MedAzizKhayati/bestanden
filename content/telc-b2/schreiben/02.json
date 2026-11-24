@@ -1,0 +1,57 @@
+{
+  "id": "schreiben-02",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Leere Versprechen im Fitnessstudio",
+  "topic": "sport",
+  "difficulty": 1,
+  "register": "semiformal",
+  "taskLabel": "Beschwerde",
+  "situation": "Sie haben sich vor zwei Monaten wegen der folgenden Anzeige im Fitnessstudio „Formkurve“ angemeldet. Inzwischen haben Sie festgestellt, dass das Studio viele seiner Versprechen nicht einhält. Schreiben Sie eine Beschwerde an die Studioleitung.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Formkurve Fitness – Ihr Studio in Hannover-List\n\nNEU ERÖFFNET! Trainieren Sie auf 1.800 Quadratmetern mit den modernsten Geräten.\n• täglich geöffnet von 6 bis 23 Uhr\n• über 60 Kurse pro Woche: Yoga, Pilates, Spinning, Rückenfit\n• persönlicher Trainingsplan und regelmäßige Betreuung durch ausgebildete Trainerinnen und Trainer\n• Sauna- und Wellnessbereich ohne Aufpreis\n• kostenlose Parkplätze direkt vor dem Haus\n\nNur 29,90 Euro im Monat – ohne Aufnahmegebühr! Mindestlaufzeit: 12 Monate\n\nFragen, Lob oder Kritik? Schreiben Sie uns: studioleitung@formkurve-hannover.de"
+  },
+  "leitpunkte": [
+    "Erklären Sie, was Sie jetzt von der Studioleitung erwarten.",
+    "Beschreiben Sie, welche Versprechen das Studio nicht einhält.",
+    "Legen Sie dar, wie das Personal bisher auf Ihre Hinweise reagiert hat.",
+    "Erläutern Sie, warum diese Leistungen für Sie besonders wichtig sind."
+  ],
+  "model": {
+    "subject": "Beschwerde über fehlende Leistungen – Mitgliedsnummer 20417",
+    "text": "Sehr geehrte Damen und Herren,\n\nseit Anfang September bin ich Mitglied in Ihrem Studio. Leider muss ich mich heute bei Ihnen beschweren, denn mehrere Leistungen, die in Ihrer Anzeige ausdrücklich versprochen werden, gibt es bis heute nicht.\n\nAnstelle der angekündigten 60 Kurse werden pro Woche höchstens 20 angeboten, und der Kurs „Rückenfit“ wurde vor drei Wochen ohne Begründung gestrichen. Außerdem ist die Sauna seit Mitte Oktober wegen Bauarbeiten geschlossen. Auch auf den persönlichen Trainingsplan warte ich noch immer: Der vereinbarte Termin wurde schon zweimal kurzfristig abgesagt.\n\nFür mich sind gerade diese Leistungen entscheidend. Ich habe nämlich auf Rat meiner Ärztin mit dem Training begonnen, um meine Rückenschmerzen in den Griff zu bekommen. Ohne Anleitung durch einen Trainer traue ich mich jedoch nicht an die Geräte, weil ich durch falsche Übungen alles noch schlimmer machen könnte. Der Rückenkurs war also der Hauptgrund für meine Anmeldung.\n\nIch erwarte daher, dass Sie mir innerhalb von zwei Wochen einen verbindlichen Termin für den Trainingsplan anbieten. Darüber hinaus halte ich es für angemessen, dass Sie mir den Beitrag für die Zeit ohne Sauna und Rückenkurs zur Hälfte erstatten. Sollte sich die Lage nicht bald verbessern, behalte ich mir vor, den Vertrag außerordentlich zu kündigen.\n\nIch hoffe auf eine schnelle Lösung.\n\nMit freundlichen Grüßen\nJonas Albrecht"
+  },
+  "modelNotes": [
+    "The model covers point 2 (which promises are broken), point 4 (why these services matter) and point 1 (what the writer expects) – in a logical order: problem → personal importance → demand. Point 3 is left out because the writer has not complained before; choose the points you really have something to say about instead of inventing a reaction.",
+    "Each complaint is concrete and checkable: numbers („Anstelle der angekündigten 60 Kurse … höchstens 20“), dates („seit Mitte Oktober“) and the cancelled appointment.",
+    "The tone is firm but polite: a clear demand with a deadline („innerhalb von zwei Wochen“), a proposal („halte ich es für angemessen, dass …“) and a consequence in conditional form („Sollte sich die Lage nicht bald verbessern, behalte ich mir vor, …“).",
+    "B2 structures: passive („versprochen werden“, „werden … angeboten“, „wurde … gestrichen“, „wurde … abgesagt“), Konjunktiv II („könnte“), varied connectors („denn“, „nämlich“, „jedoch“, „also“, „daher“, „darüber hinaus“) and the idiom „in den Griff bekommen“."
+  ],
+  "modelNotesDe": [
+    "Das Modell behandelt Punkt 2 (welche Versprechen nicht eingehalten werden), Punkt 4 (warum diese Leistungen wichtig sind) und Punkt 1 (was der Schreiber erwartet) – in einer logischen Reihenfolge: Problem → persönliche Bedeutung → Forderung. Punkt 3 fehlt, weil sich der Schreiber vorher noch nicht beschwert hat. Wähle die Punkte, zu denen du wirklich etwas sagen kannst, statt eine Reaktion zu erfinden.",
+    "Jede Beschwerde ist konkret und überprüfbar: Zahlen („Anstelle der angekündigten 60 Kurse … höchstens 20“), Zeitangaben („seit Mitte Oktober“) und der abgesagte Termin.",
+    "Der Ton ist bestimmt, aber höflich: eine klare Forderung mit Frist („innerhalb von zwei Wochen“), ein Vorschlag („halte ich es für angemessen, dass …“) und eine Konsequenz als Bedingung („Sollte sich die Lage nicht bald verbessern, behalte ich mir vor, …“).",
+    "B2-Strukturen: Passiv („versprochen werden“, „werden … angeboten“, „wurde … gestrichen“, „wurde … abgesagt“), Konjunktiv II („könnte“), abwechslungsreiche Konnektoren („denn“, „nämlich“, „jedoch“, „also“, „daher“, „darüber hinaus“) und die Wendung „in den Griff bekommen“."
+  ],
+  "phrases": [
+    { "de": "Leider muss ich mich heute bei Ihnen über … beschweren.", "en": "Unfortunately, I have to complain to you about … today." },
+    { "de": "Mehrere Leistungen, die in Ihrer Anzeige versprochen werden, gibt es bis heute nicht.", "en": "Several services that are promised in your ad still do not exist." },
+    { "de": "Anstelle der angekündigten … werden nur … angeboten.", "en": "Instead of the announced …, only … are offered." },
+    { "de": "Für mich sind gerade diese Leistungen entscheidend, weil …", "en": "These services in particular are crucial for me because …" },
+    { "de": "Ich erwarte daher, dass Sie mir innerhalb von … anbieten.", "en": "I therefore expect you to offer me … within …" },
+    { "de": "Ich halte es für angemessen, dass Sie mir … erstatten.", "en": "I consider it appropriate that you refund me …" },
+    { "de": "Sollte sich die Lage nicht bald verbessern, behalte ich mir vor, …", "en": "Should the situation not improve soon, I reserve the right to …" },
+    { "de": "Ich hoffe auf eine schnelle Lösung.", "en": "I hope for a quick solution." }
+  ],
+  "glossary": [
+    { "de": "die Mindestlaufzeit", "en": "minimum contract term" },
+    { "de": "die Aufnahmegebühr", "en": "joining fee" },
+    { "de": "ohne Aufpreis", "en": "at no extra charge" },
+    { "de": "etwas in den Griff bekommen", "en": "to get something under control" },
+    { "de": "sich (nicht) an etwas trauen", "en": "(not) to dare to use / try something" },
+    { "de": "einen Beitrag erstatten", "en": "to refund a fee" },
+    { "de": "sich etwas vorbehalten", "en": "to reserve (the right to) something" },
+    { "de": "einen Vertrag außerordentlich kündigen", "en": "to terminate a contract early for good cause" }
+  ]
+}

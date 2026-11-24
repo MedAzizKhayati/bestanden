@@ -1,0 +1,58 @@
+{
+  "id": "schreiben-12",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Geführte Radreise an der Donau",
+  "topic": "sport",
+  "difficulty": 2,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Sie planen für das kommende Jahr einen aktiven Urlaub mit dem Fahrrad. Im Internet sind Sie auf das Angebot eines Radreiseveranstalters gestoßen. Schreiben Sie eine E-Mail an den Veranstalter, um weitere Informationen zu erhalten.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Kette & Kurbel – geführte Radreisen\n\nDonauradweg Passau–Wien: 7 Tage, 330 Kilometer, unvergessliche Eindrücke\n\nRadeln Sie entspannt durch die Wachau, vorbei an Klöstern, Burgen und Weinbergen. Unsere erfahrenen Tourguides begleiten Gruppen von höchstens 14 Personen; die Tagesetappen liegen zwischen 35 und 65 Kilometern. Um Ihr Gepäck brauchen Sie sich nicht zu kümmern – wir bringen es von Hotel zu Hotel. Übernachtet wird in familiengeführten Gasthöfen mit Frühstück.\n\nPreis: 949 Euro pro Person im Doppelzimmer, Einzelzimmerzuschlag 210 Euro\nLeihräder: Trekkingrad 89 Euro, E-Bike 159 Euro pro Woche\nTermine: jeden Samstag von Mai bis September\n\nBeratung und Buchung: www.kette-kurbel-radreisen.de"
+  },
+  "leitpunkte": [
+    "Legen Sie dar, wie viel Erfahrung Sie mit längeren Radtouren haben.",
+    "Erklären Sie, was Sie von einer geführten Radreise erwarten.",
+    "Stellen Sie weitere Fragen zu Unterkunft und Gepäck.",
+    "Erläutern Sie, welche Leihräder Sie benötigen und warum."
+  ],
+  "model": {
+    "subject": "Radreise Passau–Wien im Juni: Fragen zu Leihrädern und Unterkunft",
+    "text": "Sehr geehrte Damen und Herren,\n\nmein Vater und ich möchten im kommenden Juni gemeinsam den Donauradweg entlangfahren, und Ihre geführte Tour hat uns auf Anhieb angesprochen. Bevor wir buchen, möchte ich jedoch noch einige Punkte klären.\n\nWas unsere Erfahrung betrifft, bin ich selbst eine geübte Radfahrerin: Im letzten Sommer habe ich zum Beispiel in einer Woche den Bodensee umrundet. Mein Vater ist zwar früher viel gefahren, hat aber seit einer Knieoperation im vergangenen Jahr nur kurze Strecken zurückgelegt.\n\nAus diesem Grund würden wir für ihn gern ein E-Bike mieten, während mir ein Trekkingrad genügt. Könnten Sie mir sagen, ob Ihre E-Bikes einen tiefen Einstieg haben? Das wäre für meinen Vater deutlich bequemer. Außerdem wüsste ich gern, ob unterwegs Ersatzakkus oder Lademöglichkeiten zur Verfügung stehen, da die längste Etappe immerhin 65 Kilometer lang ist.\n\nZur Unterkunft hätte ich ebenfalls zwei Fragen: Können wir zwei Einzelzimmer buchen, und wird der Zuschlag in diesem Fall für jeden von uns berechnet? Und wie viele Gepäckstücke pro Person werden von Hotel zu Hotel transportiert? Mein Vater benötigt nämlich ein spezielles Kissen, das recht viel Platz einnimmt.\n\nFür Ihre Antwort bedanke ich mich schon im Voraus.\n\nMit freundlichen Grüßen\nTheresa Vogt"
+  },
+  "modelNotes": [
+    "The model covers three points: experience with long bike tours (paragraph 2), the rental bikes needed and why (paragraph 3) and questions about accommodation and luggage (paragraph 4). The expectations of a guided tour are left out.",
+    "The points share one thread – travelling with the father: his knee operation (experience) explains the e-bike (rental bikes), and his special pillow explains the question about luggage. A thread like this makes the text coherent.",
+    "Every question builds on a detail of the ad: the 65-kilometre stages, the single-room supplement, the luggage service – and asks for something the ad leaves open.",
+    "B2 structures: „zwar … aber“, „während“ for a contrast, „Was … betrifft, …“, passive („wird … berechnet“, „werden … transportiert“), Nomen-Verb-Verbindungen („zur Verfügung stehen“, „Platz einnehmen“) and Konjunktiv II („würden … mieten“, „Könnten Sie …“, „wäre“, „wüsste“)."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: die Erfahrung mit längeren Radtouren (2. Absatz), die benötigten Leihräder mit Begründung (3. Absatz) und Fragen zu Unterkunft und Gepäck (4. Absatz). Die Erwartungen an eine geführte Reise werden weggelassen.",
+    "Die Punkte haben einen roten Faden – die Reise mit dem Vater: Seine Knieoperation (Erfahrung) erklärt das E-Bike (Leihräder), und sein spezielles Kissen erklärt die Frage zum Gepäck. So ein roter Faden macht den Text zusammenhängend.",
+    "Jede Frage knüpft an ein Detail der Anzeige an – die Etappen bis 65 Kilometer, den Einzelzimmerzuschlag, den Gepäcktransport – und fragt nach etwas, das die Anzeige offenlässt.",
+    "B2-Strukturen: „zwar … aber“, „während“ für einen Gegensatz, „Was … betrifft, …“, Passiv („wird … berechnet“, „werden … transportiert“), Nomen-Verb-Verbindungen („zur Verfügung stehen“, „Platz einnehmen“) und Konjunktiv II („würden … mieten“, „Könnten Sie …“, „wäre“, „wüsste“)."
+  ],
+  "phrases": [
+    { "de": "Ihre Tour hat uns auf Anhieb angesprochen.", "en": "Your tour appealed to us straight away." },
+    { "de": "Bevor wir buchen, möchte ich noch einige Punkte klären.", "en": "Before we book, I would like to clarify a few points." },
+    { "de": "Was unsere Erfahrung betrifft, …", "en": "As far as our experience is concerned, …" },
+    { "de": "Er ist zwar früher viel gefahren, hat aber …", "en": "He did cycle a lot in the past, but …" },
+    { "de": "Aus diesem Grund würden wir gern … mieten, während …", "en": "For this reason we would like to rent …, whereas …" },
+    { "de": "Könnten Sie mir sagen, ob …?", "en": "Could you tell me whether …?" },
+    { "de": "Ich wüsste gern, ob unterwegs … zur Verfügung stehen.", "en": "I would like to know whether … are available on the way." },
+    { "de": "Wird der Zuschlag für jeden von uns berechnet?", "en": "Is the supplement charged for each of us?" },
+    { "de": "Für Ihre Antwort bedanke ich mich schon im Voraus.", "en": "Thank you in advance for your reply." }
+  ],
+  "glossary": [
+    { "de": "die Tagesetappe", "en": "daily stage (of a tour)" },
+    { "de": "der Gasthof", "en": "inn, country hotel" },
+    { "de": "der Einzelzimmerzuschlag", "en": "single-room supplement" },
+    { "de": "das Leihrad", "en": "rental bike" },
+    { "de": "auf Anhieb", "en": "straight away, at first go" },
+    { "de": "eine Strecke zurücklegen", "en": "to cover a distance" },
+    { "de": "der tiefe Einstieg", "en": "step-through frame (of a bike)" },
+    { "de": "der Akku", "en": "rechargeable battery" }
+  ]
+}

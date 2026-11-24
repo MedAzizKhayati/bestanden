@@ -1,0 +1,58 @@
+{
+  "id": "schreiben-01",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Sprachreise nach Valencia",
+  "topic": "bildung",
+  "difficulty": 1,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Sie möchten im nächsten Sommer Ihre Spanischkenntnisse im Ausland verbessern. Im Internet haben Sie die folgende Anzeige gefunden. Bevor Sie sich anmelden, möchten Sie noch einiges klären. Schreiben Sie eine E-Mail an die Sprachreiseagentur.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Lingua Viva Sprachreisen\nSpanisch lernen, wo es gesprochen wird – in Valencia!\n\nIntensivkurs: 25 Unterrichtsstunden pro Woche in Kleingruppen mit höchstens acht Teilnehmenden, alle Niveaus von A1 bis C1. Zu Kursbeginn ermitteln wir Ihr Niveau mit einem Einstufungstest, am Ende erhalten Sie ein Zertifikat.\nUnterkunft: bei einer ausgewählten Gastfamilie mit Halbpension oder im modernen Studentenwohnheim, nur zehn Gehminuten vom Strand entfernt.\nFreizeitprogramm: Kochkurse, Flamenco, Ausflüge in die Umgebung.\nKursbeginn: jeden Montag von April bis Oktober, Dauer zwei bis acht Wochen.\nPreis: ab 690 Euro für zwei Wochen inklusive Unterkunft, Anreise individuell.\n\nPersönliche Beratung: Lingua Viva Sprachreisen, Freiburg im Breisgau\nberatung@linguaviva-sprachreisen.de"
+  },
+  "leitpunkte": [
+    "Erläutern Sie, welche Art von Unterkunft für Sie infrage kommt.",
+    "Erkundigen Sie sich nach Ermäßigungen und zusätzlichen Kosten.",
+    "Beschreiben Sie, warum Sie Ihre Spanischkenntnisse verbessern möchten.",
+    "Stellen Sie weitere Fragen zum Unterricht und zum Einstufungstest."
+  ],
+  "model": {
+    "subject": "Anfrage zum Intensivkurs Spanisch in Valencia",
+    "text": "Sehr geehrte Damen und Herren,\n\nauf Ihrer Website bin ich auf Ihre Sprachreisen nach Valencia gestoßen und interessiere mich für einen vierwöchigen Intensivkurs im kommenden Juli. Bevor ich mich verbindlich anmelde, hätte ich allerdings noch einige Fragen.\n\nZunächst möchte ich kurz erklären, warum mir der Kurs so wichtig ist. Ich arbeite als Exportkauffrau bei einem Hersteller von Landmaschinen, der seine Geschäfte in Spanien und Lateinamerika in den nächsten Jahren deutlich ausbauen will. Zwar habe ich in der Schule drei Jahre lang Spanisch gelernt, aber für Gespräche mit Kunden reichen meine Kenntnisse bei Weitem nicht aus.\n\nWas die Unterkunft betrifft, würde ich am liebsten bei einer Gastfamilie wohnen, weil ich so auch nach dem Unterricht möglichst viel Spanisch sprechen könnte. Da ich mich vegetarisch ernähre, wäre es mir wichtig, dass die Familie darauf Rücksicht nimmt. Ist das bei Ihnen grundsätzlich möglich?\n\nDarüber hinaus interessiert mich, wie der Unterricht aufgebaut ist. Werden in den 25 Stunden pro Woche nur Grammatik und Konversation behandelt, oder gibt es auch Einheiten zum Wirtschaftsspanisch? Außerdem würde ich gern wissen, ob der Einstufungstest schon vor der Anreise online abgelegt werden kann, damit ich vom ersten Tag an in der passenden Gruppe lerne.\n\nIch wäre Ihnen dankbar, wenn Sie mir bald antworten könnten, da ich meinen Urlaub bis Ende des Monats beantragen muss.\n\nMit freundlichen Grüßen\nKatharina Brehm"
+  },
+  "modelNotes": [
+    "The model covers three points in its own order: why the writer wants to improve her Spanish (point 3), the accommodation (point 1) and questions about the lessons and the placement test (point 4). Point 2 (discounts, extra costs) is left out – the ad already gives a price, and three well-developed points are worth more than four short ones.",
+    "Each point has its own paragraph with at least two sentences and opens with a signal: „Zunächst möchte ich kurz erklären …“, „Was die Unterkunft betrifft, …“, „Darüber hinaus interessiert mich …“.",
+    "The e-mail picks up concrete details of the ad (Gastfamilie, 25 Stunden, Einstufungstest) and adds personal ones (a job in export, a vegetarian diet) – this makes the position differentiated instead of general.",
+    "B2 structures: the two-part connector „zwar … aber“, Konjunktiv II for polite requests („hätte ich … noch einige Fragen“, „wäre es mir wichtig“, „Ich wäre Ihnen dankbar, wenn …“), questions in the passive („Werden … behandelt“, „abgelegt werden kann“) and „bei Weitem nicht“.",
+    "The closing sentence gives a reason for a quick reply (the holiday request), and the e-mail ends with „Mit freundlichen Grüßen“ and the full name."
+  ],
+  "modelNotesDe": [
+    "Das Modell behandelt drei Punkte in einer eigenen Reihenfolge: warum die Schreiberin ihr Spanisch verbessern will (Punkt 3), die Unterkunft (Punkt 1) und Fragen zum Unterricht und zum Einstufungstest (Punkt 4). Punkt 2 (Ermäßigungen, zusätzliche Kosten) fehlt – den Preis nennt die Anzeige schon, und drei gut ausgebaute Punkte bringen mehr als vier kurze.",
+    "Jeder Punkt hat einen eigenen Absatz mit mindestens zwei Sätzen und beginnt mit einem Signal: „Zunächst möchte ich kurz erklären …“, „Was die Unterkunft betrifft, …“, „Darüber hinaus interessiert mich …“.",
+    "Die E-Mail greift konkrete Details der Anzeige auf (Gastfamilie, 25 Stunden, Einstufungstest) und ergänzt persönliche Details (Beruf im Export, vegetarische Ernährung) – so wirkt die Position differenziert und nicht allgemein.",
+    "B2-Strukturen: der zweiteilige Konnektor „zwar … aber“, Konjunktiv II für höfliche Bitten („hätte ich … noch einige Fragen“, „wäre es mir wichtig“, „Ich wäre Ihnen dankbar, wenn …“), Fragen im Passiv („Werden … behandelt“, „abgelegt werden kann“) und „bei Weitem nicht“.",
+    "Der Schlusssatz nennt einen Grund für eine schnelle Antwort (den Urlaubsantrag), und die E-Mail endet mit „Mit freundlichen Grüßen“ und dem vollen Namen."
+  ],
+  "phrases": [
+    { "de": "Auf Ihrer Website bin ich auf … gestoßen.", "en": "I came across … on your website." },
+    { "de": "Bevor ich mich verbindlich anmelde, hätte ich noch einige Fragen.", "en": "Before I register for good, I would have a few more questions." },
+    { "de": "Zwar habe ich …, aber meine Kenntnisse reichen bei Weitem nicht aus.", "en": "I have …, but my knowledge is far from sufficient." },
+    { "de": "Was die Unterkunft betrifft, würde ich am liebsten …", "en": "As far as the accommodation is concerned, I would most like to …" },
+    { "de": "Wäre es möglich, dass …? / Ist das bei Ihnen grundsätzlich möglich?", "en": "Would it be possible that …? / Is that generally possible with you?" },
+    { "de": "Darüber hinaus interessiert mich, wie … aufgebaut ist.", "en": "Furthermore, I am interested in how … is structured." },
+    { "de": "Außerdem würde ich gern wissen, ob …", "en": "I would also like to know whether …" },
+    { "de": "Ich wäre Ihnen dankbar, wenn Sie mir bald antworten könnten.", "en": "I would be grateful if you could reply soon." }
+  ],
+  "glossary": [
+    { "de": "die Sprachreise", "en": "language trip (a language course abroad)" },
+    { "de": "der Einstufungstest", "en": "placement test" },
+    { "de": "die Gastfamilie", "en": "host family" },
+    { "de": "die Halbpension", "en": "half board (breakfast and dinner)" },
+    { "de": "sich verbindlich anmelden", "en": "to sign up bindingly" },
+    { "de": "sich vegetarisch ernähren", "en": "to eat a vegetarian diet" },
+    { "de": "auf etwas Rücksicht nehmen", "en": "to take something into account" }
+  ]
+}

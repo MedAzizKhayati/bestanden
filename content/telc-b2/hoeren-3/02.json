@@ -1,0 +1,108 @@
+{
+  "id": "hoeren-3-02",
+  "examId": "telc-b2",
+  "type": "audio-short",
+  "title": "Geschlossen, verlegt, verschoben",
+  "topic": "behoerden",
+  "difficulty": 1,
+  "speakers": [
+    { "id": "praxis", "gender": "f", "age": "adult", "role": "Praxisansage" },
+    { "id": "wetter", "gender": "m", "age": "adult", "role": "Wettermoderator" },
+    { "id": "museum", "gender": "f", "age": "senior", "role": "Lautsprecheransage" },
+    { "id": "amt", "gender": "m", "age": "young", "role": "Telefonansage" },
+    { "id": "theater", "gender": "f", "age": "young", "role": "Lautsprecheransage" }
+  ],
+  "intro": [],
+  "items": [
+    {
+      "n": 1,
+      "label": "Ansage einer Arztpraxis",
+      "context": "Sie hören die Ansage auf dem Anrufbeantworter einer Arztpraxis.",
+      "script": [
+        { "s": "praxis", "t": "Sie sind verbunden mit der Hausarztpraxis Doktor Lena Albers. Vom vierten bis zum fünfzehnten August bleibt unsere Praxis wegen Urlaubs geschlossen." },
+        { "s": "praxis", "t": "In dringenden Fällen wenden Sie sich bitte an unsere Vertretung, die Praxis Doktor Yilmaz in der Gartenstraße, gleich neben der Apotheke am Markt." },
+        { "s": "praxis", "t": "Wiederholungsrezepte, die Sie bis Freitag bestellen, liegen noch vor dem Urlaub zur Abholung bereit." },
+        { "s": "praxis", "t": "Wichtig: Wenn Sie Fieber haben, kommen Sie bitte nicht einfach in die Vertretungspraxis, sondern rufen Sie dort vorher an, damit man Ihnen einen gesonderten Termin geben kann." }
+      ],
+      "statement": "Patienten mit Fieber sollen während des Urlaubs ohne vorherigen Anruf direkt in die Vertretungspraxis gehen.",
+      "answer": false,
+      "explanation": "With a fever you should „nicht einfach in die Vertretungspraxis“ go, but „rufen Sie dort vorher an“ – call first so that you get a separate appointment. Going there without calling is exactly what patients are asked not to do.",
+      "explanationDe": "Mit Fieber sollst du „nicht einfach in die Vertretungspraxis“ gehen, sondern „rufen Sie dort vorher an“ – du musst also zuerst anrufen und bekommst dann einen eigenen Termin.",
+      "evidence": "Wenn Sie Fieber haben, kommen Sie bitte nicht einfach in die Vertretungspraxis, sondern rufen Sie dort vorher an"
+    },
+    {
+      "n": 2,
+      "label": "Wetterbericht",
+      "context": "Sie hören den Wetterbericht im Radio.",
+      "script": [
+        { "s": "wetter", "t": "Das Wetter für morgen, Samstag: Im Norden und Osten beginnt der Tag freundlich, im Laufe des Nachmittags ziehen aber von Westen her kräftige Schauer und Gewitter auf." },
+        { "s": "wetter", "t": "Im Süden bleibt es dagegen den ganzen Tag trocken und sonnig. Mit Höchstwerten um 29 Grad wird es dort der wärmste Tag der Woche." },
+        { "s": "wetter", "t": "Am Sonntag kühlt es dann überall deutlich ab: Die Temperaturen erreichen nur noch 18 bis 22 Grad, und auch im Süden muss man zeitweise mit Regen rechnen." }
+      ],
+      "statement": "Im Süden bleibt es am Samstag trocken, am Sonntag kann es aber auch dort regnen.",
+      "answer": true,
+      "explanation": "On Saturday the south stays „den ganzen Tag trocken und sonnig“, and for Sunday the forecast says „auch im Süden muss man zeitweise mit Regen rechnen“. The showers on Saturday afternoon concern the north and the east.",
+      "explanationDe": "Am Samstag bleibt es im Süden „den ganzen Tag trocken und sonnig“, und für Sonntag heißt es: „auch im Süden muss man zeitweise mit Regen rechnen“. Die Schauer am Samstagnachmittag betreffen den Norden und den Osten.",
+      "evidence": "auch im Süden muss man zeitweise mit Regen rechnen"
+    },
+    {
+      "n": 3,
+      "label": "Durchsage im Museum",
+      "context": "Sie hören eine Durchsage in einem Museum.",
+      "script": [
+        { "s": "museum", "t": "Sehr geehrte Besucherinnen und Besucher, wir möchten Sie auf unsere kostenlose Kurzführung durch die Sonderausstellung „Glas und Licht“ hinweisen." },
+        { "s": "museum", "t": "Sie beginnt in zehn Minuten im Foyer im Erdgeschoss und dauert etwa eine halbe Stunde. Eine Anmeldung ist nicht nötig." },
+        { "s": "museum", "t": "Bitte beachten Sie, dass in der Sonderausstellung nicht fotografiert werden darf. In unserer Dauerausstellung ist das Fotografieren ohne Blitz dagegen erlaubt." },
+        { "s": "museum", "t": "Das Museum schließt heute um 18 Uhr, die Kasse bereits um 17 Uhr." }
+      ],
+      "statement": "In der Dauerausstellung darf man fotografieren, solange man dabei keinen Blitz benutzt.",
+      "answer": true,
+      "explanation": "„In unserer Dauerausstellung ist das Fotografieren ohne Blitz dagegen erlaubt.“ The ban on photos only applies to the special exhibition „Glas und Licht“.",
+      "explanationDe": "„In unserer Dauerausstellung ist das Fotografieren ohne Blitz dagegen erlaubt.“ Das Fotoverbot gilt nur für die Sonderausstellung „Glas und Licht“.",
+      "evidence": "In unserer Dauerausstellung ist das Fotografieren ohne Blitz dagegen erlaubt."
+    },
+    {
+      "n": 4,
+      "label": "Telefonansage des Bürgeramts",
+      "context": "Sie hören die Telefonansage einer Behörde.",
+      "script": [
+        { "s": "amt", "t": "Willkommen beim Bürgeramt der Stadt Kassel. Wegen der Umstellung auf ein neues Computersystem bleiben alle Bürgerämter am kommenden Montag und Dienstag geschlossen." },
+        { "s": "amt", "t": "Termine, die für diese beiden Tage vereinbart wurden, werden leider nicht automatisch verschoben. Bitte buchen Sie über unsere Internetseite einen neuen Termin." },
+        { "s": "amt", "t": "Fertige Reisepässe und Personalausweise können Sie ausnahmsweise am Mittwoch bis 20 Uhr abholen, dafür brauchen Sie keinen Termin. Für alle anderen Anliegen bleiben Sie bitte in der Leitung." }
+      ],
+      "statement": "Wer am Montag einen Termin hatte, bekommt vom Bürgeramt automatisch einen neuen Termin zugeschickt.",
+      "answer": false,
+      "explanation": "Appointments on those two days „werden leider nicht automatisch verschoben“ – you have to book a new one on the website yourself. The only thing possible without an appointment is collecting finished passports and ID cards on Wednesday.",
+      "explanationDe": "Die Termine an diesen Tagen „werden leider nicht automatisch verschoben“ – du musst selbst im Internet einen neuen Termin buchen. Ohne Termin kannst du nur fertige Pässe und Ausweise am Mittwoch abholen.",
+      "evidence": "Termine, die für diese beiden Tage vereinbart wurden, werden leider nicht automatisch verschoben."
+    },
+    {
+      "n": 5,
+      "label": "Durchsage im Theater",
+      "context": "Sie hören eine Durchsage im Foyer eines Theaters.",
+      "script": [
+        { "s": "theater", "t": "Liebes Publikum, die heutige Vorstellung von „Die Nacht der Wünsche“ beginnt wegen einer technischen Probe etwa eine Viertelstunde später, also erst um Viertel vor acht." },
+        { "s": "theater", "t": "Die Saaltüren öffnen um halb acht. Mit einer Pause von zwanzig Minuten dauert die Vorstellung dann bis etwa halb elf." },
+        { "s": "theater", "t": "Für alle, die auf die letzte Straßenbahn angewiesen sind: Die Linie 4 wartet heute ausnahmsweise und fährt erst um 23 Uhr 10 statt um 22 Uhr 50 ab der Haltestelle Theaterplatz." }
+      ],
+      "statement": "Die letzte Straßenbahn nach der Vorstellung fährt heute später ab als an anderen Tagen.",
+      "answer": true,
+      "explanation": "„Die Linie 4 wartet heute ausnahmsweise und fährt erst um 23 Uhr 10 statt um 22 Uhr 50“ – the last tram leaves twenty minutes later than usual. Don't confuse this with the later start of the play.",
+      "explanationDe": "„Die Linie 4 wartet heute ausnahmsweise und fährt erst um 23 Uhr 10 statt um 22 Uhr 50“ – die letzte Bahn fährt also zwanzig Minuten später als sonst. Verwechsle das nicht mit dem späteren Beginn der Vorstellung.",
+      "evidence": "Die Linie 4 wartet heute ausnahmsweise und fährt erst um 23 Uhr 10 statt um 22 Uhr 50 ab der Haltestelle Theaterplatz."
+    }
+  ],
+  "glossary": [
+    { "de": "die Vertretung", "en": "stand-in (doctor), substitute" },
+    { "de": "das Wiederholungsrezept", "en": "repeat prescription" },
+    { "de": "gesondert", "en": "separate" },
+    { "de": "aufziehen (Gewitter)", "en": "to gather, to move in (storms)" },
+    { "de": "abkühlen", "en": "to cool down" },
+    { "de": "die Sonderausstellung", "en": "special exhibition" },
+    { "de": "die Dauerausstellung", "en": "permanent exhibition" },
+    { "de": "die Umstellung", "en": "changeover, switch" },
+    { "de": "das Anliegen", "en": "request, matter" },
+    { "de": "die Probe", "en": "rehearsal" },
+    { "de": "angewiesen sein auf", "en": "to depend on" }
+  ]
+}

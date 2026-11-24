@@ -1,0 +1,117 @@
+{
+  "id": "lesen-1-07",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Zwischen den Generationen",
+  "topic": "gesellschaft",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Immer weniger Menschen engagieren sich freiwillig" },
+    { "key": "b", "text": "Kein tiefer Graben: Jung und Alt denken ähnlicher als vermutet" },
+    { "key": "c", "text": "Gegen Einsamkeit: Forscher fordern mehr Seniorentreffs" },
+    { "key": "d", "text": "Einsam mit zwanzig: Junge Erwachsene stärker betroffen als Senioren" },
+    { "key": "e", "text": "Schüler helfen Senioren digital – und lernen selbst dazu" },
+    { "key": "f", "text": "Kaum Nachfrage: Leihgroßeltern-Projekt vor dem Aus" },
+    { "key": "g", "text": "Lieber Projekte als Posten: Das Ehrenamt verändert sich" },
+    { "key": "h", "text": "Streitthema Klima: Junge fordern mehr Einsatz als Ältere" },
+    { "key": "i", "text": "Pflicht für die Oberstufe: Schüler müssen Senioren unterrichten" },
+    { "key": "j", "text": "Großeltern auf Zeit gesucht: Familien stehen Schlange" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Einsamkeit gilt gemeinhin als ein Problem des Alters. Eine neue Untersuchung der Freiburger Forschungsgruppe „Lebenswelten“ zeichnet jedoch ein anderes Bild: Von den befragten 18- bis 29-Jährigen gaben 31 Prozent an, sich häufig oder sehr häufig einsam zu fühlen, bei den über 65-Jährigen waren es lediglich 17 Prozent. Für die Studie wurden rund 4.000 Menschen in ganz Deutschland befragt. Als mögliche Ursachen nennen die Forschenden häufige Umzüge während Ausbildung und Studium, befristete Arbeitsverträge sowie die Tatsache, dass viele Kontakte inzwischen überwiegend digital gepflegt werden. Ältere verfügten dagegen oft über gewachsene Netzwerke aus Nachbarschaft, Verein und Familie. Studienleiter Jonas Hellwig warnt allerdings davor, die Gruppen gegeneinander auszuspielen. Auch unter Hochbetagten, die ihren Partner oder ihre Partnerin verloren haben, sei Einsamkeit weit verbreitet. Er plädiert deshalb dafür, Angebote nicht länger nach Altersgruppen zu trennen, sondern Orte zu schaffen, an denen sich Jung und Alt ganz selbstverständlich begegnen. Als Beispiele nennt er Stadtteilcafés, offene Werkstätten und Gemeinschaftsgärten, die bislang vor allem in Großstädten zu finden seien.",
+      "answer": "d",
+      "explanation": "The study contradicts the cliché: 31 per cent of 18- to 29-year-olds often feel lonely, but „bei den über 65-Jährigen waren es lediglich 17 Prozent“, so (d). Headline (c) is a trap: the researcher wants places for young and old together – offers should „nicht länger nach Altersgruppen“ be separated.",
+      "explanationDe": "Die Studie widerspricht dem Klischee: 31 Prozent der 18- bis 29-Jährigen fühlen sich oft einsam, aber „bei den über 65-Jährigen waren es lediglich 17 Prozent“. Also passt (d). Überschrift (c) ist eine Falle: Der Forscher will Orte für Jung und Alt gemeinsam – Angebote sollen „nicht länger nach Altersgruppen“ getrennt werden.",
+      "evidence": [
+        "Von den befragten 18- bis 29-Jährigen gaben 31 Prozent an, sich häufig oder sehr häufig einsam zu fühlen, bei den über 65-Jährigen waren es lediglich 17 Prozent"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Seit acht Jahren vermittelt der Salzburger Verein „Omas und Opas von nebenan“ ehrenamtliche Seniorinnen und Senioren an Familien, deren eigene Großeltern weit entfernt wohnen oder nicht mehr leben. Die Leihgroßeltern holen die Kinder etwa vom Kindergarten ab, lesen ihnen vor oder begleiten sie auf den Spielplatz, in der Regel ein- bis zweimal pro Woche. Für die Eltern ist das Angebot kostenlos; der Verein übernimmt die Versicherung und organisiert regelmäßige Treffen zum Erfahrungsaustausch. An Interesse mangelt es nicht, das Problem liegt auf der anderen Seite: Derzeit stehen 140 Familien auf der Warteliste, aber nur 35 Leihgroßeltern sind aktiv. Viele Pensionisten seien heute selbst stark eingespannt, sagt Vereinsobfrau Herta Moosbrugger, etwa durch die Betreuung der eigenen Enkel, durch Reisen oder durch eine Teilzeitstelle. Mit einer Plakatkampagne will der Verein nun gezielt Menschen ansprechen, die gerade in Pension gegangen sind. Wer sich dafür interessiert, kann zunächst unverbindlich an einem Kennenlerntreffen teilnehmen und anschließend entscheiden, ob und wie oft er eine Familie unterstützen möchte.",
+      "answer": "j",
+      "explanation": "Many families want a stand-in grandparent – „140 Familien auf der Warteliste“ – but „nur 35 Leihgroßeltern sind aktiv“, so the club is looking for more, (j). Headline (f) reverses the problem: there is no lack of demand („An Interesse mangelt es nicht“), there is a lack of volunteers.",
+      "explanationDe": "Viele Familien wünschen sich Leihgroßeltern – „140 Familien auf der Warteliste“ –, aber „nur 35 Leihgroßeltern sind aktiv“. Der Verein sucht also neue, (j). Überschrift (f) dreht das Problem um: Nachfrage gibt es genug („An Interesse mangelt es nicht“), es fehlen die Ehrenamtlichen.",
+      "evidence": [
+        "Derzeit stehen 140 Familien auf der Warteliste, aber nur 35 Leihgroßeltern sind aktiv",
+        "Mit einer Plakatkampagne will der Verein nun gezielt Menschen ansprechen"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Die Jungen seien egoistisch, die Alten unbelehrbar: Solche Klischees halten sich hartnäckig. Eine Befragung des Luzerner Instituts für Gesellschaftsfragen unter 2.500 Personen zwischen 16 und 85 Jahren kommt nun zu einem anderen Ergebnis. Bei zentralen Werten wie Familie, Gerechtigkeit und Verlässlichkeit liegen die Generationen erstaunlich nah beieinander. Auch beim Klimaschutz, der häufig als Streitthema zwischen Jung und Alt dargestellt wird, fanden die Forschenden kaum Unterschiede: In allen Altersgruppen hält eine deutliche Mehrheit stärkere Anstrengungen für notwendig. Spürbar gehen die Meinungen dagegen beim Thema Arbeit auseinander. Während Ältere vor allem einen sicheren Arbeitsplatz schätzen, legen Jüngere größeren Wert auf flexible Arbeitszeiten und eine sinnvolle Tätigkeit. Dass der Eindruck eines tiefen Grabens dennoch so verbreitet ist, führt Studienleiterin Regula Imboden auch auf die Berichterstattung zurück. Medien rückten Konflikte nun einmal stärker in den Vordergrund als Gemeinsamkeiten, weil sich mit Streit mehr Aufmerksamkeit erzielen lasse. Wer mit Menschen anderer Generationen regelmäßig im Austausch stehe, schätze deren Ansichten übrigens deutlich realistischer ein.",
+      "answer": "b",
+      "explanation": "Against the clichés, the survey finds that the generations „liegen … erstaunlich nah beieinander“ on central values; the deep divide is mostly an impression („der Eindruck eines tiefen Grabens“), so (b). Headline (h) is a trap: on climate protection the researchers „fanden … kaum Unterschiede“.",
+      "explanationDe": "Gegen die Klischees zeigt die Befragung, dass die Generationen bei zentralen Werten „erstaunlich nah beieinander“ liegen; der tiefe Graben ist vor allem ein Eindruck („der Eindruck eines tiefen Grabens“). Also passt (b). Überschrift (h) ist eine Falle: Beim Klimaschutz fanden die Forschenden „kaum Unterschiede“.",
+      "evidence": [
+        "liegen die Generationen erstaunlich nah beieinander",
+        "Dass der Eindruck eines tiefen Grabens dennoch so verbreitet ist"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Engagiert sind die Menschen nach wie vor, nur eben anders als früher. Das geht aus einer Umfrage der Nürnberger Freiwilligenagentur unter mehr als 600 Vereinen und Initiativen hervor. Die Zahl der Ehrenamtlichen ist demnach in den vergangenen fünf Jahren weitgehend stabil geblieben. Gewandelt hat sich jedoch die Art, wie sich die Menschen einbringen: Statt sich über Jahre an ein Amt zu binden, helfen viele lieber bei einzelnen Vorhaben mit, etwa beim Aufbau eines Stadtteilfests oder bei einer Pflanzaktion im Park. Für die Vereine hat das spürbare Folgen. Fast drei Viertel von ihnen haben Schwierigkeiten, Posten im Vorstand zu besetzen; besonders schwer zu finden sind Kassenwarte und Schriftführerinnen. Die Agentur rät deshalb, Aufgaben auf mehrere Schultern zu verteilen und Ämter zeitlich zu begrenzen. Zudem hat sie eine Online-Börse eingerichtet, auf der Initiativen kurzfristige Einsätze anbieten können, die zwischen zwei Stunden und einem Wochenende dauern. Seit dem Start im Frühjahr wurden darüber bereits mehr als 1.200 Helferinnen und Helfer vermittelt.",
+      "answer": "g",
+      "explanation": "The number of volunteers is stable, but the way they help has changed: „Statt sich über Jahre an ein Amt zu binden, helfen viele lieber bei einzelnen Vorhaben mit“, so (g). Headline (a) contradicts the text: „Die Zahl der Ehrenamtlichen ist … weitgehend stabil geblieben“.",
+      "explanationDe": "Die Zahl der Ehrenamtlichen ist stabil, aber die Art des Engagements hat sich verändert: „Statt sich über Jahre an ein Amt zu binden, helfen viele lieber bei einzelnen Vorhaben mit“. Also passt (g). Überschrift (a) widerspricht dem Text: „Die Zahl der Ehrenamtlichen ist … weitgehend stabil geblieben“.",
+      "evidence": [
+        "Statt sich über Jahre an ein Amt zu binden, helfen viele lieber bei einzelnen Vorhaben mit",
+        "Fast drei Viertel von ihnen haben Schwierigkeiten, Posten im Vorstand zu besetzen"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Wie schicke ich meiner Enkelin ein Foto? Woran erkenne ich eine betrügerische Nachricht? Mit solchen Fragen kommen jeden Mittwochnachmittag ältere Menschen in die Bibliothek eines Gymnasiums im Wiener Bezirk Favoriten. Dort warten Schülerinnen und Schüler der Oberstufe, die freiwillig und in ihrer Freizeit bei Problemen mit Smartphone und Tablet helfen. Die Idee stammt von zwei Schülerinnen, die beobachtet hatten, wie mühsam sich ihre Großmutter durch Online-Formulare kämpfte. Was vor zwei Jahren mit einer Handvoll Freiwilliger begann, ist inzwischen zu einem festen Treffpunkt geworden: Rund 25 Jugendliche kümmern sich regelmäßig um bis zu 40 Besucherinnen und Besucher. Bemerkenswert sei, dass längst nicht nur die Älteren profitierten, sagt die betreuende Lehrerin Elisabeth Prohaska. Die Jugendlichen lernten, geduldig zu sein und komplizierte Dinge verständlich zu erklären, und oft entstünden Gespräche, die weit über Technik hinausgingen. Drei weitere Wiener Schulen haben bereits angekündigt, das Modell im kommenden Schuljahr zu übernehmen.",
+      "answer": "e",
+      "explanation": "Pupils help older people with smartphones and tablets, and „längst nicht nur die Älteren profitierten“ – the young people learn patience and how to explain things, so (e). Headline (i) is wrong: the pupils help „freiwillig und in ihrer Freizeit“, and the idea came from two pupils, not from the school.",
+      "explanationDe": "Schülerinnen und Schüler helfen älteren Menschen mit Smartphone und Tablet, und „längst nicht nur die Älteren profitierten“ – die Jugendlichen lernen Geduld und gutes Erklären. Also passt (e). Überschrift (i) ist falsch: Die Jugendlichen helfen „freiwillig und in ihrer Freizeit“, und die Idee kam von zwei Schülerinnen, nicht von der Schule.",
+      "evidence": [
+        "die freiwillig und in ihrer Freizeit bei Problemen mit Smartphone und Tablet helfen",
+        "Bemerkenswert sei, dass längst nicht nur die Älteren profitierten"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "a",
+      "why": "Text 4 says the opposite: „Die Zahl der Ehrenamtlichen ist demnach in den vergangenen fünf Jahren weitgehend stabil geblieben.“ Only long-term board posts are hard to fill.",
+      "whyDe": "Text 4 sagt das Gegenteil: „Die Zahl der Ehrenamtlichen ist demnach in den vergangenen fünf Jahren weitgehend stabil geblieben.“ Nur Posten im Vorstand sind schwer zu besetzen."
+    },
+    {
+      "key": "c",
+      "why": "The researcher in text 1 wants the opposite of special senior meeting points: offers should „nicht länger nach Altersgruppen“ be separated, so that young and old meet.",
+      "whyDe": "Der Forscher in Text 1 will das Gegenteil von eigenen Seniorentreffs: Angebote sollen „nicht länger nach Altersgruppen“ getrennt werden, damit sich Jung und Alt begegnen."
+    },
+    {
+      "key": "f",
+      "why": "In text 2 demand is high – „140 Familien auf der Warteliste“. The problem is the small number of active stand-in grandparents, and the club is advertising for more, not closing.",
+      "whyDe": "In Text 2 ist die Nachfrage groß – „140 Familien auf der Warteliste“. Das Problem ist die kleine Zahl aktiver Leihgroßeltern, und der Verein wirbt um neue, statt aufzuhören."
+    },
+    {
+      "key": "h",
+      "why": "Text 3 mentions climate protection as a supposed conflict, but the researchers „fanden … kaum Unterschiede“: a clear majority in all age groups wants more effort.",
+      "whyDe": "Text 3 nennt den Klimaschutz als angebliches Streitthema, aber die Forschenden „fanden … kaum Unterschiede“: In allen Altersgruppen will eine deutliche Mehrheit mehr Anstrengungen."
+    },
+    {
+      "key": "i",
+      "why": "In text 5 nothing is compulsory: the pupils help „freiwillig und in ihrer Freizeit“, and the project was started by two pupils.",
+      "whyDe": "In Text 5 ist nichts Pflicht: Die Jugendlichen helfen „freiwillig und in ihrer Freizeit“, und das Projekt haben zwei Schülerinnen gestartet."
+    }
+  ],
+  "glossary": [
+    { "de": "gemeinhin", "en": "commonly, generally" },
+    { "de": "befristet", "en": "fixed-term, temporary" },
+    { "de": "jdn./etw. gegeneinander ausspielen", "en": "to play sb/sth off against each other" },
+    { "de": "hochbetagt", "en": "very old" },
+    { "de": "für etw. plädieren", "en": "to argue / make the case for sth" },
+    { "de": "eingespannt sein", "en": "to be very busy, tied up" },
+    { "de": "die Obfrau / der Obmann (österr.)", "en": "chairwoman / chairman (of an association)" },
+    { "de": "unverbindlich", "en": "without obligation" },
+    { "de": "unbelehrbar", "en": "stubborn, unwilling to learn" },
+    { "de": "der Graben (fig.)", "en": "divide, gap" },
+    { "de": "sich einbringen", "en": "to get involved, to contribute" },
+    { "de": "der Kassenwart / die Kassenwartin", "en": "treasurer (of a club)" }
+  ]
+}

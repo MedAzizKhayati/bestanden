@@ -3,7 +3,7 @@ import type { Messages } from "../en";
 export const phrases: Messages["phrases"] = {
   metaTitle: "Redemittel für Schreiben und Sprechen",
   metaDescription:
-    "Fertige Redemittel für die E-Mails und die mündliche Prüfung bei telc B1 – geordnet nach Prüfungsteil und Funktion.",
+    "Fertige Redemittel für die E-Mails und die mündliche Prüfung bei telc B1 und B2 – geordnet nach Prüfungsteil und Funktion.",
   title: "Redemittel",
   description:
     "Abwechslungsreiche, passende Redemittel bringen in der Prüfung Punkte (Kriterium II beim Schreiben, Ausdrucksfähigkeit beim Sprechen). Lerne ein paar pro Funktion und nutze sie in jeder Übungsaufgabe.",
@@ -11,4 +11,5 @@ export const phrases: Messages["phrases"] = {
   searchPlaceholder: "Alle Redemittel durchsuchen – z. B. Vorschlag, Meinung, Entschuldigung",
   register: { informal: "du / informell", formal: "Sie / halbformell", neutral: "" },
   copyPhrase: "Redemittel kopieren",
+  level: (level) => `Für telc ${level}`,
 };

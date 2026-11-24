@@ -1,0 +1,58 @@
+{
+  "id": "schreiben-07",
+  "examId": "telc-b2",
+  "type": "writing-email",
+  "title": "Vegetarischer Kochkurs an der VHS",
+  "topic": "essen",
+  "difficulty": 1,
+  "register": "semiformal",
+  "taskLabel": "Bitte um Informationen",
+  "situation": "Sie kochen gern, möchten aber mehr Gerichte ohne Fleisch kennenlernen. Im Programmheft der Volkshochschule Hohenwald haben Sie folgende Kursbeschreibung gefunden. Bevor Sie sich anmelden, möchten Sie noch einige Dinge klären. Schreiben Sie eine E-Mail an die Volkshochschule.",
+  "stimulus": {
+    "kind": "ad",
+    "body": "Volkshochschule Hohenwald – Programm Frühjahr\n\nVegetarisch genießen: Küche aus aller Welt\nKurs 4.217 · sechs Abende, donnerstags 18:30–21:30 Uhr, ab 5. März\nLehrküche im Bildungszentrum, Gartenstraße 14\n\nOb indisches Linsencurry, persischer Kräuterreis oder italienische Antipasti: An jedem Abend bereiten Sie unter Anleitung unserer Köchin Selin Arslan drei Gerichte zu, die Sie anschließend gemeinsam genießen. Vorkenntnisse sind nicht erforderlich. Alle Rezepte erhalten Sie in einem Heft zum Mitnehmen.\n\nKursgebühr: 96 Euro zuzüglich Lebensmittelumlage (ca. 8 Euro pro Abend)\nHöchstens zwölf Teilnehmende – frühzeitige Anmeldung empfohlen!\n\nAnmeldung online unter www.vhs-hohenwald.de\nFragen an: kultur@vhs-hohenwald.de"
+  },
+  "leitpunkte": [
+    "Stellen Sie weitere Fragen zu den Kosten und zur Anmeldung.",
+    "Legen Sie dar, warum Sie sich für diesen Kurs interessieren.",
+    "Beschreiben Sie, welche Erfahrungen Sie bereits mit dem Kochen haben.",
+    "Erläutern Sie, worauf bei Ihrer Ernährung geachtet werden muss."
+  ],
+  "model": {
+    "subject": "Kurs 4.217 „Vegetarisch genießen“ – Fragen vor der Anmeldung",
+    "text": "Sehr geehrte Damen und Herren,\n\nin Ihrem Programmheft bin ich auf den Kurs „Vegetarisch genießen: Küche aus aller Welt“ gestoßen und würde mich gern anmelden. Vorher hätte ich jedoch noch einige Fragen.\n\nSeit einigen Monaten versuche ich, deutlich weniger Fleisch zu essen, weil mir sowohl meine Gesundheit als auch der Klimaschutz wichtig sind. Bisher koche ich aber fast immer dieselben Nudelgerichte, was auf Dauer ziemlich langweilig ist. Deshalb reizt mich vor allem die Idee, an jedem Abend Gerichte aus einem anderen Land kennenzulernen.\n\nEine Schwierigkeit gibt es allerdings: Da ich eine Laktoseintoleranz habe, vertrage ich keine Milchprodukte. Daher wüsste ich gern, ob bei einigen Rezepten auf Sahne oder Käse verzichtet werden kann. Mir ist natürlich klar, dass nicht jedes Gericht extra für mich angepasst werden kann. Wenn es hilft, bringe ich gern eigene Hafermilch oder veganen Käse mit.\n\nAußerdem ist mir nicht ganz klar, wie die Lebensmittelumlage bezahlt wird: Muss sie im Voraus überwiesen werden, oder wird sie an jedem Abend bar eingesammelt? Zudem würde ich gern wissen, ob eine Anmeldung auch telefonisch möglich ist, da ich mit Online-Formularen schon öfter Probleme hatte.\n\nÜber eine baldige Antwort würde ich mich sehr freuen, denn ich möchte mir unbedingt einen der zwölf Plätze sichern.\n\nMit freundlichen Grüßen\nTobias Wendt"
+  },
+  "modelNotes": [
+    "The model covers three points: why the course is interesting (paragraph 2), what has to be considered about the writer's diet (paragraph 3) and questions about costs and registration (paragraph 4). The point about cooking experience is only touched on – leaving one point out is allowed.",
+    "Each point is developed in two or more sentences with reasons and details. At B2, one sentence per point is not enough for the point to count.",
+    "The questions refer to concrete details of the ad (the „Lebensmittelumlage“, online registration, the twelve places), which shows the reader that the writer has read the text carefully.",
+    "B2 structures: the two-part connector „sowohl … als auch“, passive with and without a modal verb („verzichtet werden kann“, „überwiesen werden“, „bezahlt wird“) and Konjunktiv II for polite requests („hätte“, „wüsste“, „würde … freuen“).",
+    "A clear frame: a subject line with the course number, „Sehr geehrte Damen und Herren“, the reason for writing in the first sentence, a closing sentence with a reason and „Mit freundlichen Grüßen“."
+  ],
+  "modelNotesDe": [
+    "Der Mustertext behandelt drei Punkte: warum der Kurs interessant ist (2. Absatz), worauf bei der Ernährung des Schreibers geachtet werden muss (3. Absatz) und Fragen zu Kosten und Anmeldung (4. Absatz). Die Erfahrungen mit dem Kochen werden nur kurz erwähnt – einen Punkt darfst du weglassen.",
+    "Jeder Punkt wird in zwei oder mehr Sätzen mit Gründen und Details ausgeführt. Auf B2-Niveau reicht ein Satz pro Punkt nicht, damit der Punkt zählt.",
+    "Die Fragen beziehen sich auf konkrete Details der Anzeige (die „Lebensmittelumlage“, die Online-Anmeldung, die zwölf Plätze). So sieht der Leser, dass du den Text genau gelesen hast.",
+    "B2-Strukturen: der zweiteilige Konnektor „sowohl … als auch“, Passiv mit und ohne Modalverb („verzichtet werden kann“, „überwiesen werden“, „bezahlt wird“) und Konjunktiv II für höfliche Bitten („hätte“, „wüsste“, „würde … freuen“).",
+    "Ein klarer Rahmen: Betreff mit Kursnummer, „Sehr geehrte Damen und Herren“, der Grund des Schreibens im ersten Satz, ein Schlusssatz mit Begründung und „Mit freundlichen Grüßen“."
+  ],
+  "phrases": [
+    { "de": "In Ihrem Programmheft bin ich auf … gestoßen.", "en": "I came across … in your programme." },
+    { "de": "Vorher hätte ich jedoch noch einige Fragen.", "en": "Before that, however, I would have a few questions." },
+    { "de": "Mich reizt vor allem die Idee, … zu …", "en": "What appeals to me most is the idea of …" },
+    { "de": "Da ich eine Laktoseintoleranz habe, vertrage ich keine Milchprodukte.", "en": "As I am lactose intolerant, I can't tolerate dairy products." },
+    { "de": "Ich wüsste gern, ob bei einigen Rezepten auf … verzichtet werden kann.", "en": "I would like to know whether … could be left out of some recipes." },
+    { "de": "Mir ist natürlich klar, dass …", "en": "Of course I realise that …" },
+    { "de": "Muss die Gebühr im Voraus überwiesen werden?", "en": "Does the fee have to be transferred in advance?" },
+    { "de": "Über eine baldige Antwort würde ich mich sehr freuen.", "en": "I would be very glad to receive a reply soon." }
+  ],
+  "glossary": [
+    { "de": "die Lebensmittelumlage", "en": "share of the cost of the ingredients" },
+    { "de": "zuzüglich", "en": "plus, in addition to" },
+    { "de": "die Vorkenntnisse (Pl.)", "en": "previous knowledge" },
+    { "de": "die Lehrküche", "en": "teaching kitchen" },
+    { "de": "etwas (nicht) vertragen", "en": "to (not) tolerate something (food)" },
+    { "de": "auf etwas verzichten", "en": "to do without something" },
+    { "de": "sich einen Platz sichern", "en": "to secure a place" }
+  ]
+}

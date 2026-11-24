@@ -1,0 +1,110 @@
+{
+  "id": "sprachbausteine-2-01",
+  "examId": "telc-b2",
+  "type": "gap-wordbank",
+  "title": "Gemeinschaftsgärten in der Stadt",
+  "topic": "umwelt",
+  "difficulty": 1,
+  "textType": "article",
+  "text": "Tomaten statt Asphalt: Gemeinschaftsgärten verändern die Nachbarschaft\n\nWo vor drei Jahren noch ein verlassener Parkplatz lag, wachsen heute Tomaten, Bohnen und Sonnenblumen. Der Nachbarschaftsgarten „Grüne Lücke“ in Hannover-Linden ist einer von mehreren hundert Gemeinschaftsgärten, die in den vergangenen Jahren in deutschen Städten entstanden sind. Das Prinzip ist einfach: Ein Verein pachtet eine ungenutzte Fläche, die alle Interessierten gemeinsam bewirtschaften. Wer mitmachen möchte, braucht [[1]] Erfahrung noch eigenes Werkzeug.\n\n„Die meisten kommen zunächst nur aus Neugier vorbei“, erzählt Mitgründerin Selin Aydin. „Nach ein paar Wochen übernehmen viele dann selbst die [[2]] für ein eigenes Beet.“ Jeden Samstag treffen sich die rund vierzig Mitglieder, um die anstehenden Arbeiten zu verteilen. Die Ernte wird anschließend gerecht [[3]] allen aufgeteilt, die mitgeholfen haben. Was übrig bleibt, geht an die Lebensmittelausgabe im Stadtteil.\n\nDoch es geht [[4]] weit mehr als frisches Gemüse. Die Gärten gelten als Orte der Begegnung, an denen Menschen unterschiedlicher Herkunft und jeden Alters miteinander ins Gespräch kommen. [[5]] einer Befragung des Dachverbands der Hannoveraner Stadtgärten haben zwei Drittel der Mitglieder durch das Gärtnern neue Kontakte im eigenen Viertel [[6]].\n\nAuch für das Stadtklima sind die grünen Inseln von großer [[7]]. Pflanzen spenden Schatten, speichern Regenwasser und tragen [[8]] bei, dass sich die Innenstädte im Sommer weniger stark aufheizen. Zudem finden Bienen und andere Insekten hier Nahrung, die ihnen zwischen Beton und Asphalt fehlt.\n\nGanz ohne Konflikte geht es [[9]] nicht. Mal wird darüber gestritten, wer wann gießen muss, mal beschweren sich Anwohner über den Geruch des Komposts. Die größte Sorge ist jedoch eine andere: Viele Gärten dürfen ihre Flächen nur vorübergehend nutzen, [[10]] die Stadt dort später Wohnungen bauen will. Aydin wünscht sich deshalb, dass Gemeinschaftsgärten künftig fest in die Stadtplanung einbezogen werden. Denn ein Garten, der alle paar Jahre umziehen muss, kann kaum Wurzeln schlagen – im wörtlichen wie im übertragenen Sinn.",
+  "words": [
+    { "key": "a", "text": "allerdings" },
+    { "key": "b", "text": "Bedeutung" },
+    { "key": "c", "text": "darauf" },
+    { "key": "d", "text": "dazu" },
+    { "key": "e", "text": "entweder" },
+    { "key": "f", "text": "gehalten" },
+    { "key": "g", "text": "geknüpft" },
+    { "key": "h", "text": "laut" },
+    { "key": "i", "text": "obwohl" },
+    { "key": "j", "text": "trotz" },
+    { "key": "k", "text": "um" },
+    { "key": "l", "text": "unter" },
+    { "key": "m", "text": "Verantwortung" },
+    { "key": "n", "text": "weder" },
+    { "key": "o", "text": "weil" }
+  ],
+  "gaps": [
+    {
+      "n": 1,
+      "answer": "n",
+      "explanation": "„weder … noch“ (neither … nor) negates both things: you need no experience and no tools. „noch“ already follows the gap, so only „weder“ completes the pair. „entweder“ is the trap – it belongs with „oder“ and would mean that you need one of the two.",
+      "explanationDe": "„weder … noch“ verneint beide Teile: Man braucht keine Erfahrung und kein Werkzeug. Nach der Lücke steht schon „noch“, also passt nur „weder“. „entweder“ ist die Falle – es gehört zu „oder“ und würde bedeuten, dass man eins von beiden braucht.",
+      "grammar": "zweiteilige-konnektoren-b2"
+    },
+    {
+      "n": 2,
+      "answer": "m",
+      "explanation": "„die Verantwortung für etwas übernehmen“ (to take responsibility for something) is a fixed collocation; „für ein eigenes Beet“ confirms it. „Bedeutung“ makes no sense with „übernehmen“.",
+      "explanationDe": "„die Verantwortung für etwas übernehmen“ ist eine feste Verbindung; „für ein eigenes Beet“ bestätigt sie. „Bedeutung“ passt nicht zu „übernehmen“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 3,
+      "answer": "l",
+      "explanation": "„etwas unter allen aufteilen“ – you divide something among a group of people. „um“ or „laut“ cannot introduce the people who receive a share.",
+      "explanationDe": "„etwas unter allen aufteilen“ – man verteilt etwas an eine Gruppe von Menschen. „um“ oder „laut“ können die Menschen, die einen Teil bekommen, nicht einleiten."
+    },
+    {
+      "n": 4,
+      "answer": "k",
+      "explanation": "„es geht um etwas“ (it is about something) is a fixed expression: „Doch es geht um weit mehr als frisches Gemüse.“ With „darauf“ or „dazu“ the sentence makes no sense.",
+      "explanationDe": "„es geht um etwas“ ist eine feste Wendung: „Doch es geht um weit mehr als frisches Gemüse.“ Mit „darauf“ oder „dazu“ ergibt der Satz keinen Sinn.",
+      "grammar": "verben-mit-praepositionen-b2"
+    },
+    {
+      "n": 5,
+      "answer": "h",
+      "explanation": "„laut einer Befragung“ (according to a survey) names the source of the figure „zwei Drittel“. „trotz“ is also a preposition before a noun, but „despite a survey“ makes no sense here.",
+      "explanationDe": "„laut einer Befragung“ nennt die Quelle für die Zahl „zwei Drittel“. „trotz“ steht auch vor einem Nomen, aber „trotz einer Befragung“ ergibt hier keinen Sinn.",
+      "grammar": "praepositionen-mit-genitiv"
+    },
+    {
+      "n": 6,
+      "answer": "g",
+      "explanation": "„Kontakte knüpfen“ (to make contacts) is the typical collocation, and the Perfekt „haben … geknüpft“ needs the participle at the end. „gehalten“ is the trap: „Kontakt halten“ means staying in touch with people you already know, which contradicts „neue Kontakte“.",
+      "explanationDe": "„Kontakte knüpfen“ ist die typische Verbindung; das Perfekt „haben … geknüpft“ braucht das Partizip am Ende. „gehalten“ ist die Falle: „Kontakt halten“ heißt, mit Bekannten in Verbindung bleiben – das passt nicht zu „neue Kontakte“.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 7,
+      "answer": "b",
+      "explanation": "„von großer Bedeutung sein“ (to be very important) is a fixed expression; the ending of „großer“ needs a feminine noun. „Verantwortung“ is feminine too, but „von großer Verantwortung“ makes no sense for the city climate.",
+      "explanationDe": "„von großer Bedeutung sein“ (= sehr wichtig sein) ist eine feste Wendung; die Endung von „großer“ verlangt ein feminines Nomen. „Verantwortung“ ist auch feminin, ergibt hier aber keinen Sinn.",
+      "grammar": "nomen-verb-verbindungen-b2"
+    },
+    {
+      "n": 8,
+      "answer": "d",
+      "explanation": "„zu etwas beitragen“ – before a dass-clause the preposition becomes „dazu“: „tragen dazu bei, dass …“. „darauf“ is the trap: it belongs to verbs with „auf“ (achten darauf, hoffen darauf), not to „beitragen“.",
+      "explanationDe": "„zu etwas beitragen“ – vor einem dass-Satz steht „dazu“: „tragen dazu bei, dass …“. „darauf“ ist die Falle: Es gehört zu Verben mit „auf“ (achten darauf, hoffen darauf), nicht zu „beitragen“.",
+      "grammar": "korrelate"
+    },
+    {
+      "n": 9,
+      "answer": "a",
+      "explanation": "After a paragraph full of advantages, „allerdings“ (however) introduces a restriction: it does not work entirely without conflicts. Like „jedoch“, it can stand in the middle of the main clause. „obwohl“ and „weil“ introduce subordinate clauses and cannot stand there.",
+      "explanationDe": "Nach den vielen Vorteilen schränkt „allerdings“ ein: Ganz ohne Streit geht es nicht. Es steht wie „jedoch“ mitten im Hauptsatz. „obwohl“ und „weil“ leiten Nebensätze ein und können hier nicht stehen.",
+      "grammar": "adversative-saetze"
+    },
+    {
+      "n": 10,
+      "answer": "o",
+      "explanation": "The clause gives the reason why the gardens may use the land only temporarily: the city wants to build flats there later. „obwohl“ is the trap – it would express a contradiction, but the building plans are the cause, not a counter-argument.",
+      "explanationDe": "Der Nebensatz nennt den Grund, warum die Gärten die Flächen nur vorübergehend nutzen dürfen: Die Stadt will dort später Wohnungen bauen. „obwohl“ ist die Falle – es drückt einen Gegensatz aus, aber die Baupläne sind die Ursache, kein Gegenargument.",
+      "grammar": "kausale-konsekutive-saetze"
+    }
+  ],
+  "glossary": [
+    { "de": "eine Fläche pachten", "en": "to lease a plot of land" },
+    { "de": "bewirtschaften", "en": "to cultivate, to farm" },
+    { "de": "das Beet", "en": "(vegetable or flower) bed" },
+    { "de": "die Ernte", "en": "harvest" },
+    { "de": "Kontakte knüpfen", "en": "to make contacts" },
+    { "de": "von großer Bedeutung sein", "en": "to be of great importance" },
+    { "de": "zu etwas beitragen", "en": "to contribute to something" },
+    { "de": "sich aufheizen", "en": "to heat up" },
+    { "de": "vorübergehend", "en": "temporarily" },
+    { "de": "in etwas einbeziehen", "en": "to include in something" }
+  ]
+}

@@ -15,6 +15,14 @@ export function isScoredSet(set: ExamSet): set is ScoredSet {
   return !set.type.startsWith("writing") && !set.type.startsWith("speaking");
 }
 
+/**
+ * Id of a mistake card. Set ids repeat across exams ("lesen-1-01" exists for B1 and B2), so every exam but the
+ * first one prefixes its id – existing telc B1 cards keep their ids.
+ */
+export function mistakeId(examId: string, setId: string, n: number) {
+  return examId === "telc-b1" ? `${setId}:${n}` : `${examId}:${setId}:${n}`;
+}
+
 /** True/false answers are stored as "r" (richtig) / "f" (falsch). */
 export const tf = (b: boolean) => (b ? "r" : "f");
 
@@ -83,7 +91,7 @@ type CardDraft = Omit<MistakeCard, "createdAt" | "streak" | "due" | "resolved">;
  */
 export function mistakeCard(set: ScoredSet, part: PartDefinition, n: number, given: string | null, locale: Locale): CardDraft {
   const labels = getMessages(locale).common.cards;
-  const base = { id: `${set.id}:${n}`, examId: set.examId, partId: part.id, setId: set.id, n, given };
+  const base = { id: mistakeId(set.examId, set.id, n), examId: set.examId, partId: part.id, setId: set.id, n, given };
   const pick = <T extends { key: string }>(all: T[], correct: string, extra = 2): T[] => {
     const others = seededShuffle(
       all.filter((o) => o.key !== correct && o.key !== given),
@@ -123,17 +131,18 @@ export function mistakeCard(set: ScoredSet, part: PartDefinition, n: number, giv
       const s = set.situations.find((x) => x.n === n)!;
       const adText = (key: string) => {
         const ad = set.ads.find((a) => a.key === key);
-        return ad ? [ad.heading, ad.subheading, ...ad.lines, ad.footer].filter(Boolean).join(" · ") : "";
+        return ad ? [ad.heading, ad.subheading, ...ad.lines, ad.text, ad.footer].filter(Boolean).join(" · ") : "";
       };
       const keys = new Set([s.answer, given ?? ""].filter((k) => k && k !== "x"));
       const options = [...keys].sort().map((k) => ({ key: k, text: adText(k) }));
-      options.push({ key: "x", text: labels.noAdFits });
+      const info = set.ads.some((a) => a.text);
+      options.push({ key: "x", text: info ? labels.noTextFits : labels.noAdFits });
       return {
         ...base,
         prompt: s.text,
         options,
         correct: s.answer,
-        correctText: s.answer === "x" ? labels.noAdFitsShort : adText(s.answer),
+        correctText: s.answer === "x" ? (info ? labels.noTextFitsShort : labels.noAdFitsShort) : adText(s.answer),
         explanation: s.explanation,
       };
     }

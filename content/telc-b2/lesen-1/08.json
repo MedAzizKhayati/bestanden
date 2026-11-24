@@ -1,0 +1,116 @@
+{
+  "id": "lesen-1-08",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Forschung, Funde und Wildnis",
+  "topic": "umwelt",
+  "difficulty": 2,
+  "headlines": [
+    { "key": "a", "text": "Bagger stoßen auf Antike: Römerhaus verzögert Bauprojekt" },
+    { "key": "b", "text": "Entwarnung: Seltene Wildbienen nicht mehr gefährdet" },
+    { "key": "c", "text": "Rückzugsort Stadt: Mehr Bienenarten als auf dem Acker" },
+    { "key": "d", "text": "Alte Handschrift, neue Erkenntnisse: Bürger helfen der Klimaforschung" },
+    { "key": "e", "text": "Insektenzählung: Kaum Unterschiede zwischen Stadt und Land" },
+    { "key": "f", "text": "Ruhe im Schnee: Schutzzonen für Wildtiere werden respektiert" },
+    { "key": "g", "text": "Software entziffert historische Wetteraufzeichnungen" },
+    { "key": "h", "text": "Dunkle Straßen locken Einbrecher an" },
+    { "key": "i", "text": "Römisches Wohnhaus soll für Besucher erhalten bleiben" },
+    { "key": "j", "text": "Licht aus, Falter da: Nachtabschaltung hilft Insekten" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Wer Wildbienen beobachten möchte, muss nicht unbedingt aufs Land fahren. Bei einer zweijährigen Untersuchung der Hannoverschen Arbeitsgemeinschaft Stadtnatur wurden auf innerstädtischen Brachflächen, in Kleingärten und auf begrünten Dächern insgesamt 186 Wildbienenarten nachgewiesen. Auf den intensiv bewirtschafteten Äckern im Umland zählten die Forschenden dagegen nur 74 Arten. Die Erklärung liegt vor allem im Nahrungsangebot: Während auf dem Land oft eine einzige Feldfrucht bis zum Horizont reicht, blüht in Gärten und Parks vom Frühjahr bis in den Herbst hinein stets irgendetwas. Hinzu kommt, dass in Städten kaum Pflanzenschutzmittel eingesetzt werden. Einen Grund zur Entwarnung sieht die Biologin Katrin Oldenburg in den Ergebnissen jedoch nicht. Gerade seltene Arten seien auf ungestörte Flächen angewiesen, die bei jeder neuen Bebauung verloren gingen; mehrere von ihnen stünden weiterhin auf der Roten Liste. Sie empfiehlt den Kommunen daher, Brachflächen nicht vorschnell zu versiegeln, und Gartenbesitzern, auf exotische Zierpflanzen zugunsten heimischer Blumen zu verzichten. Schon ein kleines Beet mit Wildkräutern könne einen spürbaren Unterschied machen.",
+      "answer": "c",
+      "explanation": "In the city the researchers found „186 Wildbienenarten“, on the farmland around it „nur 74 Arten“ – the city is a refuge for wild bees, so (c). Headline (b) is a trap: the biologist sees „Einen Grund zur Entwarnung … jedoch nicht“, and several rare species are still on the Red List.",
+      "explanationDe": "In der Stadt fanden die Forschenden „186 Wildbienenarten“, auf den Äckern im Umland „nur 74 Arten“ – die Stadt ist also ein Rückzugsort, (c). Überschrift (b) ist eine Falle: Die Biologin sieht „Einen Grund zur Entwarnung … jedoch nicht“, und mehrere seltene Arten stehen weiterhin auf der Roten Liste.",
+      "evidence": [
+        "insgesamt 186 Wildbienenarten nachgewiesen",
+        "Auf den intensiv bewirtschafteten Äckern im Umland zählten die Forschenden dagegen nur 74 Arten"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Mehr als 60 Jahre lang hat ein Pfarrer in der Eifel jeden Morgen und jeden Abend Temperatur, Luftdruck und Wetter in seine Tagebücher eingetragen – in einer verschnörkelten Handschrift, an der selbst moderne Texterkennungsprogramme scheitern. Das Bonner Forschungsprojekt „Wetterzeugen“ setzt deshalb auf menschliche Hilfe. Auf einer Internetplattform können Freiwillige Seite für Seite abtippen, was der Geistliche zwischen 1781 und 1843 notiert hat. Rund 3.200 Menschen haben sich bislang beteiligt, darunter viele Rentnerinnen und Rentner, aber auch ganze Schulklassen. Jede Seite wird von mindestens drei Personen unabhängig voneinander übertragen, damit Lesefehler auffallen. Für die Klimaforschung sind solche Aufzeichnungen äußerst wertvoll, denn regelmäßige Messreihen gibt es in vielen Regionen erst seit etwa 1880. Mit den Daten des Pfarrers lässt sich nachvollziehen, wie häufig es damals zu Hitzewellen, Spätfrösten oder Starkregen kam. Projektleiter Matthias Krüsken hofft, auf diese Weise auch weitere private Wetterbücher aufzuspüren, die bislang unbeachtet in Archiven oder auf Dachböden liegen.",
+      "answer": "d",
+      "explanation": "Volunteers type up a pastor's old handwritten weather notes („Freiwillige … abtippen“), which are „äußerst wertvoll“ for climate research, so (d). Headline (g) says the opposite: the handwriting is one „an der selbst moderne Texterkennungsprogramme scheitern“ – that is why people are needed.",
+      "explanationDe": "Freiwillige tippen die alten handschriftlichen Wetternotizen eines Pfarrers ab („Freiwillige … abtippen“), und diese sind für die Klimaforschung „äußerst wertvoll“. Also passt (d). Überschrift (g) sagt das Gegenteil: Es ist eine Handschrift, „an der selbst moderne Texterkennungsprogramme scheitern“ – deshalb braucht man Menschen.",
+      "evidence": [
+        "Auf einer Internetplattform können Freiwillige Seite für Seite abtippen",
+        "Für die Klimaforschung sind solche Aufzeichnungen äußerst wertvoll"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Seit zwei Jahren werden in drei Gemeinden des Bregenzerwalds die Straßenlaternen zwischen Mitternacht und fünf Uhr früh abgeschaltet. Ursprünglich wollten die Gemeinden damit vor allem Stromkosten sparen, inzwischen interessiert sich jedoch auch die Wissenschaft für den Versuch. Fachleute eines Innsbrucker Instituts für Ökologie haben in den nachts dunklen Ortschaften sowie in vergleichbaren, weiterhin beleuchteten Nachbargemeinden nachtaktive Insekten gezählt. Das Ergebnis ist eindeutig: Wo die Lampen aus waren, fanden die Forschenden im Schnitt fast doppelt so viele Nachtfalter. Künstliches Licht lockt die Tiere an; sie umkreisen die Lampen bis zur Erschöpfung und fehlen anschließend als Bestäuber und als Nahrung für Fledermäuse. Die Befürchtung, dunkle Straßen könnten Einbrecher anziehen, hat sich nicht bestätigt, denn die Polizei verzeichnete keinen Anstieg. Völlige Finsternis herrscht trotzdem nicht: An Kreuzungen und Bushaltestellen brennt weiterhin ein gedämpftes, warmes Licht. Zwei weitere Gemeinden der Region wollen sich dem Versuch im kommenden Jahr anschließen.",
+      "answer": "j",
+      "explanation": "Where the street lights were switched off at night, researchers found „fast doppelt so viele Nachtfalter“, so (j). Headline (h) picks up a fear mentioned in the text, but it „hat sich nicht bestätigt“ – the police recorded no increase.",
+      "explanationDe": "Wo die Straßenlaternen nachts aus waren, fanden die Forschenden „fast doppelt so viele Nachtfalter“. Also passt (j). Überschrift (h) greift eine Befürchtung aus dem Text auf, aber sie „hat sich nicht bestätigt“ – die Polizei verzeichnete keinen Anstieg.",
+      "evidence": [
+        "Wo die Lampen aus waren, fanden die Forschenden im Schnitt fast doppelt so viele Nachtfalter"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Eigentlich sollte die neue Tiefgarage in der Welser Innenstadt bereits im kommenden Herbst eröffnet werden. Doch als Bagger im Frühjahr die ersten Meter Erdreich abtrugen, stießen sie auf Mauerreste, Keramikscherben und mehrere Münzen. Wie sich herausstellte, handelt es sich um Teile eines römischen Wohnhauses aus dem zweiten Jahrhundert, das zur antiken Stadt Ovilava gehörte. Seitdem untersucht ein Grabungsteam unter der Leitung der Archäologin Petra Aigner das Gelände Schicht für Schicht. Besonders aufschlussreich ist eine gut erhaltene Fußbodenheizung, die darauf hindeutet, dass hier wohlhabende Bürger lebten. Die Fundstücke sollen nach ihrer Restaurierung im Stadtmuseum ausgestellt werden. Für den Bauherrn bedeutet die Grabung eine Verzögerung von voraussichtlich acht Monaten; auf das Projekt verzichten will er aber nicht. Die Mauern selbst lassen sich ohnehin nicht an Ort und Stelle erhalten: Sie werden genau vermessen, fotografiert und anschließend abgetragen, bevor die Bauarbeiten weitergehen. Eine Informationstafel an der Einfahrt der Garage soll später an das Haus erinnern.",
+      "answer": "a",
+      "explanation": "Diggers found the remains of „eines römischen Wohnhauses“, and the excavation means „eine Verzögerung von voraussichtlich acht Monaten“ for the car park, so (a). Headline (i) is a trap: only the finds go to the museum; the walls „lassen sich ohnehin nicht an Ort und Stelle erhalten“.",
+      "explanationDe": "Bagger sind auf die Reste „eines römischen Wohnhauses“ gestoßen, und die Grabung bedeutet für die Tiefgarage „eine Verzögerung von voraussichtlich acht Monaten“. Also passt (a). Überschrift (i) ist eine Falle: Nur die Fundstücke kommen ins Museum; die Mauern „lassen sich ohnehin nicht an Ort und Stelle erhalten“.",
+      "evidence": [
+        "Teile eines römischen Wohnhauses aus dem zweiten Jahrhundert",
+        "eine Verzögerung von voraussichtlich acht Monaten"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Für Gämsen, Steinböcke und Birkhühner ist der Winter eine Zeit des Mangels. Um Energie zu sparen, bewegen sie sich so wenig wie möglich. Werden sie von Skitourengängern oder Schneeschuhwanderern aufgeschreckt, kann eine Flucht durch den tiefen Schnee sie lebenswichtige Reserven kosten. Der Kanton Graubünden hat deshalb in den vergangenen Jahren zahlreiche Wildruhezonen ausgewiesen, die zwischen Dezember und April nicht oder nur auf markierten Routen betreten werden dürfen. Eine Auswertung der Wildhut im Unterengadin zeigt nun, dass sich die allermeisten Wintersportler an diese Regeln halten: Bei Kontrollen und auf den Bildern von Wildkameras wurden nur in wenigen Fällen Personen abseits der erlaubten Wege festgestellt. In den Schutzgebieten halten sich zudem deutlich mehr Tiere auf als vor deren Einrichtung. Schwierigkeiten bereiten nach Angaben der Wildhüter vor allem Gäste, die sich auf Tourenportale im Internet verlassen, auf denen die Zonen nicht eingezeichnet sind. Der Kanton arbeitet deshalb mit den Anbietern zusammen, damit die Schutzgebiete dort künftig automatisch angezeigt werden.",
+      "answer": "f",
+      "explanation": "An evaluation shows that „die allermeisten Wintersportler“ keep to the rules of the wildlife rest zones, so (f); in addition, „deutlich mehr Tiere“ now stay in the protected areas. The headline sums up the result of the evaluation, which is the core of the text.",
+      "explanationDe": "Eine Auswertung zeigt, dass sich „die allermeisten Wintersportler“ an die Regeln der Wildruhezonen halten. Also passt (f); außerdem halten sich in den Schutzgebieten jetzt „deutlich mehr Tiere“ auf. Die Überschrift fasst das Ergebnis der Auswertung zusammen – und das ist der Kern des Textes.",
+      "evidence": [
+        "dass sich die allermeisten Wintersportler an diese Regeln halten"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "b",
+      "why": "Text 1 explicitly rejects an all-clear: the biologist sees „Einen Grund zur Entwarnung … jedoch nicht“, because rare species lose undisturbed areas and are still on the Red List.",
+      "whyDe": "Text 1 lehnt eine Entwarnung ausdrücklich ab: Die Biologin sieht „Einen Grund zur Entwarnung … jedoch nicht“, weil seltene Arten ungestörte Flächen verlieren und weiterhin auf der Roten Liste stehen."
+    },
+    {
+      "key": "e",
+      "why": "Insects are counted in texts 1 and 3, and both find clear differences: in text 1 the city has „186 Wildbienenarten“, the farmland „nur 74 Arten“; in text 3 dark villages have „fast doppelt so viele Nachtfalter“.",
+      "whyDe": "Insekten werden in Text 1 und Text 3 gezählt, und beide Male gibt es deutliche Unterschiede: In Text 1 hat die Stadt „186 Wildbienenarten“, das Ackerland „nur 74 Arten“; in Text 3 gibt es in dunklen Dörfern „fast doppelt so viele Nachtfalter“."
+    },
+    {
+      "key": "g",
+      "why": "Text 2 says the opposite: the pastor's handwriting is so ornate that „selbst moderne Texterkennungsprogramme scheitern“, so volunteers type it up.",
+      "whyDe": "Text 2 sagt das Gegenteil: Die Handschrift des Pfarrers ist so verschnörkelt, dass „selbst moderne Texterkennungsprogramme scheitern“; deshalb tippen Freiwillige sie ab."
+    },
+    {
+      "key": "h",
+      "why": "Text 3 mentions this fear, but it „hat sich nicht bestätigt“: the police recorded no increase in burglaries.",
+      "whyDe": "Text 3 erwähnt diese Befürchtung, aber sie „hat sich nicht bestätigt“: Die Polizei verzeichnete keinen Anstieg."
+    },
+    {
+      "key": "i",
+      "why": "In text 4 only the finds are shown in the museum; the walls themselves are measured, photographed and then removed („abgetragen“), and only an information board will remind people of the house.",
+      "whyDe": "In Text 4 kommen nur die Fundstücke ins Museum; die Mauern selbst werden vermessen, fotografiert und dann „abgetragen“, und nur eine Informationstafel soll an das Haus erinnern."
+    }
+  ],
+  "glossary": [
+    { "de": "die Brachfläche", "en": "unused, overgrown plot of land" },
+    { "de": "etw. nachweisen", "en": "to detect, prove the presence of sth" },
+    { "de": "intensiv bewirtschaftet", "en": "intensively farmed" },
+    { "de": "die Entwarnung", "en": "all-clear" },
+    { "de": "Flächen versiegeln", "en": "to seal land (cover it with concrete or asphalt)" },
+    { "de": "verschnörkelt", "en": "ornate, full of flourishes (handwriting)" },
+    { "de": "einen Text übertragen", "en": "to transcribe a text" },
+    { "de": "etw. aufspüren", "en": "to track down sth" },
+    { "de": "der Bestäuber", "en": "pollinator" },
+    { "de": "aufschlussreich", "en": "revealing, informative" },
+    { "de": "etw. abtragen", "en": "to remove, dismantle sth (layer by layer)" },
+    { "de": "jdn. aufschrecken", "en": "to startle sb" }
+  ]
+}

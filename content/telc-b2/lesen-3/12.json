@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-12",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Hilfe rund um Technik und Daten",
+  "topic": "technik",
+  "difficulty": 3,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ein Fotograf, dessen Speicherkarte beschädigt ist, braucht seine Aufnahmen spätestens übermorgen zurück.",
+      "answer": "e",
+      "explanation": "Datenrettung Lindner (e) also recovers data when „die Speicherkarte Ihrer Kamera ist beschädigt“, and with the express service the data are back „innerhalb von 48 Stunden“ – the normal „fünf bis sieben Werktage“ would be too slow. The Handyklinik (d) works fast too, but it replaces smartphone parts and does not recover data.",
+      "explanationDe": "Datenrettung Lindner (e) hilft auch, wenn „die Speicherkarte Ihrer Kamera ist beschädigt“, und mit dem Expressdienst sind sie „innerhalb von 48 Stunden“ zurück – die normalen „fünf bis sieben Werktage“ wären zu langsam. Die Handyklinik (d) ist auch schnell, tauscht aber Teile von Smartphones aus und rettet keine Daten."
+    },
+    {
+      "n": 2,
+      "text": "Ihr Großvater, der sich gerade ein Smartphone gekauft hat, möchte dessen Bedienung gemeinsam mit Gleichaltrigen lernen.",
+      "answer": "a",
+      "explanation": "Learning together with people of his age: the Smartphone-Treff (a) teaches „Menschen ab 60 Jahren in kleinen Gruppen“ how to use their smartphone. The Digitalsprechstunde (k) also explains smartphones, but volunteers help people one by one – it is not a course for a group of seniors.",
+      "explanationDe": "Er will zusammen mit Gleichaltrigen lernen: Der Smartphone-Treff (a) bringt „Menschen ab 60 Jahren in kleinen Gruppen“ bei, ihr Smartphone zu bedienen. Die Digitalsprechstunde (k) erklärt auch Smartphones, aber dort helfen Ehrenamtliche einzelnen Personen – das ist kein Kurs für eine Gruppe von Senioren."
+    },
+    {
+      "n": 3,
+      "text": "Ihre Nachbarin sucht für ihren sechzehnjährigen Sohn einen Programmierkurs, der samstags stattfindet.",
+      "answer": "x",
+      "explanation": "The Code-Werkstatt (b) is on Saturdays („jeden Samstag von 10 bis 13 Uhr“), but only for „Kinder und Jugendliche zwischen zehn und vierzehn Jahren“ – the son is sixteen. The Excel course (c) takes place on weekdays and is not a programming course. So x.",
+      "explanationDe": "Die Code-Werkstatt (b) findet zwar samstags statt („jeden Samstag von 10 bis 13 Uhr“), aber nur für „Kinder und Jugendliche zwischen zehn und vierzehn Jahren“ – der Sohn ist sechzehn. Der Excel-Kurs (c) ist werktags und kein Programmierkurs. Also x."
+    },
+    {
+      "n": 4,
+      "text": "Ihr Nachbar hat aus Versehen online einen teuren Vertrag abgeschlossen und möchte sich juristisch beraten lassen.",
+      "answer": "g",
+      "explanation": "At „Digital & Recht“ (g) lawyers deal with people who have „versehentlich ein Abo abgeschlossen“ and explain „wie Sie aus einem Vertrag wieder herauskommen“. The data protection authority (h) gives „keine individuelle Rechtsberatung“ and sends contract disputes to „eine Verbraucherberatung“.",
+      "explanationDe": "Bei „Digital & Recht“ (g) helfen Juristinnen und Juristen Menschen, die „versehentlich ein Abo abgeschlossen“ haben, und erklären, „wie Sie aus einem Vertrag wieder herauskommen“. Die Datenschutzbehörde (h) leistet „keine individuelle Rechtsberatung“ und schickt dich bei Streit um Verträge an „eine Verbraucherberatung“."
+    },
+    {
+      "n": 5,
+      "text": "Ihre Tante schafft es nicht, ihr neues TV-Gerät ans Heimnetz anzuschließen, und braucht jemanden, der vorbeikommt.",
+      "answer": "j",
+      "explanation": "The Technik-Engel (j) come „zu Ihnen nach Hause“ and help with problems like „Der neue Fernseher findet das WLAN nicht“. NetzWerk IT-Service (l) also sends a technician „vor Ort“, but only to companies: „Privatkunden können wir leider nicht betreuen.“",
+      "explanationDe": "Die Technik-Engel (j) kommen „zu Ihnen nach Hause“ und helfen bei Problemen wie „Der neue Fernseher findet das WLAN nicht“. Auch NetzWerk IT-Service (l) schickt einen Techniker „vor Ort“, aber nur zu Firmen: „Privatkunden können wir leider nicht betreuen.“"
+    },
+    {
+      "n": 6,
+      "text": "Eine Kollegin möchte das zersprungene Display ihres Handys ersetzen lassen und das Gerät gleich wieder mitnehmen.",
+      "answer": "d",
+      "explanation": "The Handyklinik (d) deals with a „Gesprungenes Display“ and replaces the part „innerhalb von 60 Minuten“, so you can wait in the shop. ReTech (f) also deals with smartphones, but it buys and sells used devices and does not repair them.",
+      "explanationDe": "Die Handyklinik (d) hilft bei „Gesprungenes Display oder schwacher Akku“ und tauscht die Teile „innerhalb von 60 Minuten“ aus – du kannst im Laden warten. ReTech (f) hat auch mit Smartphones zu tun, kauft und verkauft aber gebrauchte Geräte und repariert nicht."
+    },
+    {
+      "n": 7,
+      "text": "Eine Bekannte will kostenlos melden, dass ihr Fitnessstudio ihre Daten unerlaubt an Werbefirmen weitergibt.",
+      "answer": "h",
+      "explanation": "If a company passes on your data „ohne Ihre Einwilligung“, you can complain to the authority (h) „kostenlos und ganz einfach über das Online-Formular“. „Digital & Recht“ (g) also deals with data, but it only helps you ask companies for information, and its advice costs „20 Euro“.",
+      "explanationDe": "Wenn ein Unternehmen deine Daten „ohne Ihre Einwilligung“ übermittelt, kannst du dich bei der Behörde (h) beschweren – „kostenlos und ganz einfach über das Online-Formular“. „Digital & Recht“ (g) hat auch mit Daten zu tun, hilft aber nur bei Auskunftsanfragen, und die Beratung kostet „20 Euro“."
+    },
+    {
+      "n": 8,
+      "text": "Ihr Vater möchte sich kostenlos zeigen lassen, wie er Überweisungen auf seinem Tablet erledigt.",
+      "answer": "x",
+      "explanation": "The Digitalsprechstunde (k) is free and helps with tablets, but „Aus Sicherheitsgründen helfen wir allerdings nicht beim Online-Banking“. The Smartphone-Treff (a) has a course on „Bankgeschäfte erledigen“, but it costs „ebenfalls 48 Euro“. So x.",
+      "explanationDe": "Die Digitalsprechstunde (k) ist kostenlos und hilft bei Tablets, aber „Aus Sicherheitsgründen helfen wir allerdings nicht beim Online-Banking“. Der Smartphone-Treff (a) hat einen Kurs zum Thema „Bankgeschäfte erledigen“, der aber „ebenfalls 48 Euro“ kostet. Also x."
+    },
+    {
+      "n": 9,
+      "text": "Ihre Schwester möchte ihren drei Jahre alten Laptop verkaufen und sicher sein, dass alle Daten gelöscht werden.",
+      "answer": "f",
+      "explanation": "ReTech (f) buys devices „sofern es nicht älter als sechs Jahre ist“ – three years is fine – and deletes „sämtliche Daten nach einem zertifizierten Verfahren“. Datenrettung Lindner (e) also deals with data, but it rescues lost data and does not buy devices.",
+      "explanationDe": "ReTech (f) kauft Geräte, „sofern es nicht älter als sechs Jahre ist“ – drei Jahre sind also kein Problem – und löscht „sämtliche Daten nach einem zertifizierten Verfahren“. Datenrettung Lindner (e) hat auch mit Daten zu tun, rettet aber verlorene Daten und kauft keine Geräte."
+    },
+    {
+      "n": 10,
+      "text": "Ein Kollege möchte für einen einwöchigen Excel-Kurs die bezahlte Freistellung nutzen, die ihm gesetzlich zusteht.",
+      "answer": "c",
+      "explanation": "The legal right to paid leave for training is „Bildungsurlaub“: the five-day course (c) „ist als Bildungsurlaub anerkannt“, so employees can be released „bei vollem Gehalt“. The Smartphone-Treff (a) is also a course, but about smartphones and for people over 60.",
+      "explanationDe": "Die bezahlte Freistellung für Weiterbildung heißt „Bildungsurlaub“: Der fünftägige Kurs (c) „ist als Bildungsurlaub anerkannt“, man wird also „bei vollem Gehalt“ freigestellt. Der Smartphone-Treff (a) ist auch ein Kurs, aber über Smartphones und für Menschen ab 60."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Smartphone-Treff 60 plus",
+      "subheading": "Bildungswerk Mainufer",
+      "lines": [],
+      "text": "Fotos an die Enkel schicken, Nachrichten schreiben, den Busfahrplan abrufen: In unseren Kursen lernen Menschen ab 60 Jahren in kleinen Gruppen von höchstens acht Personen Schritt für Schritt, ihr Smartphone sicher zu bedienen. Geduldige Kursleiterinnen und Kursleiter erklären alles in Ruhe und ohne Fachchinesisch. Ein Kurs umfasst vier Vormittage zu je zwei Stunden und kostet 48 Euro. Bitte bringen Sie Ihr eigenes, aufgeladenes Gerät mit; Android- und iPhone-Nutzer lernen in getrennten Gruppen. Wer bereits Grundkenntnisse hat, kann anschließend unseren Aufbaukurs „Sicher bezahlen und Bankgeschäfte erledigen“ besuchen, der ebenfalls 48 Euro kostet.",
+      "footer": "Bildungswerk Mainufer, Uferweg 14, Frankfurt · Tel. 069 4428190"
+    },
+    {
+      "key": "b",
+      "heading": "Code-Werkstatt im Jugendhaus Ost",
+      "subheading": "Programmieren lernen mit Spaß",
+      "lines": [],
+      "text": "Eigene Spiele entwickeln, kleine Roboter steuern oder eine Website gestalten: In der Code-Werkstatt entdecken Kinder und Jugendliche zwischen zehn und vierzehn Jahren, wie viel Spaß Programmieren macht. Vorkenntnisse sind nicht nötig, Laptops stellen wir zur Verfügung. Die Werkstatt findet jeden Samstag von 10 bis 13 Uhr statt und wird von Informatikstudierenden betreut, die sich ehrenamtlich engagieren. Die Teilnahme ist kostenlos, eine Anmeldung über unsere Website aber erforderlich. Da die Plätze begrenzt sind, werden Kinder, die schon einmal teilgenommen haben, erst berücksichtigt, wenn noch Plätze frei sind.",
+      "footer": "Jugendhaus Ost, Am Ostpark 9 · www.code-werkstatt-ost.de"
+    },
+    {
+      "key": "c",
+      "heading": "Kompaktkurs Tabellenkalkulation",
+      "subheading": "Bildungszentrum Rhein-Main",
+      "lines": [],
+      "text": "Formeln, Pivot-Tabellen, Diagramme: In nur fünf Tagen machen wir Sie fit für den professionellen Umgang mit Excel im Büroalltag. Der Kurs findet montags bis freitags jeweils von 8.30 bis 16 Uhr statt und ist als Bildungsurlaub anerkannt – Arbeitnehmerinnen und Arbeitnehmer haben also Anspruch darauf, für die Teilnahme bei vollem Gehalt freigestellt zu werden. Grundkenntnisse am Computer werden vorausgesetzt. Die Gebühr von 390 Euro übernimmt in vielen Fällen der Arbeitgeber; zum Abschluss erhalten Sie ein Zertifikat. Wer nicht vor Ort sein kann, nimmt live per Video teil. Die nächsten Termine finden Sie auf unserer Website.",
+      "footer": "www.bildungszentrum-rhein-main.de/excel"
+    },
+    {
+      "key": "d",
+      "heading": "Handyklinik Sachsenhausen",
+      "subheading": "Reparatur, während Sie warten",
+      "lines": [],
+      "text": "Gesprungenes Display oder schwacher Akku? Für die meisten Smartphone-Modelle haben wir Ersatzteile auf Lager und tauschen sie innerhalb von 60 Minuten aus – Sie können also bei einem Kaffee in unserem Laden warten oder das Gerät nach einem kurzen Einkauf wieder abholen. Auf jede Reparatur geben wir sechs Monate Garantie. Anders sieht es bei Wasserschäden aus: Hier muss das Gerät erst mehrere Tage trocknen, bevor wir feststellen können, ob sich eine Reparatur lohnt. Ihre Daten bleiben bei uns in der Regel auf dem Gerät; wir empfehlen dennoch, vorher eine Sicherung anzulegen. Eine Terminvereinbarung ist nicht nötig.",
+      "footer": "Brückenweg 31, Frankfurt-Sachsenhausen · Mo.–Sa. 10–19 Uhr"
+    },
+    {
+      "key": "e",
+      "heading": "Datenrettung Lindner",
+      "subheading": "Wenn alles verloren scheint",
+      "lines": [],
+      "text": "Ihre Festplatte macht seltsame Geräusche, der USB-Stick wird nicht mehr erkannt oder die Speicherkarte Ihrer Kamera ist beschädigt? In unserem Labor stellen wir verlorene Daten in über 90 Prozent der Fälle wieder her. Die Diagnose ist kostenlos, und Sie zahlen nur, wenn die Rettung gelingt. Im Normalfall dauert die Bearbeitung fünf bis sieben Werktage; wer es eilig hat, kann gegen einen Aufpreis von 50 Prozent unseren Expressdienst wählen, bei dem die Daten innerhalb von 48 Stunden zurück sind. Defekte Smartphones nehmen wir nicht an, da hierfür spezielle Geräte nötig sind, über die wir nicht verfügen.",
+      "footer": "Tel. 069 7730215 · www.datenrettung-lindner.de"
+    },
+    {
+      "key": "f",
+      "heading": "ReTech",
+      "subheading": "Geprüfte Gebrauchtgeräte – An- und Verkauf",
+      "lines": [],
+      "text": "Bei uns finden Sie generalüberholte Laptops, Tablets und Smartphones, die bis zu 40 Prozent günstiger sind als Neugeräte – mit zwölf Monaten Garantie. Sie möchten ein altes Gerät loswerden? Dann kaufen wir es Ihnen ab, sofern es nicht älter als sechs Jahre ist, und zahlen den vereinbarten Preis sofort aus. Bevor ein Gerät weiterverkauft wird, löschen wir sämtliche Daten nach einem zertifizierten Verfahren; auf Wunsch erhalten Sie darüber eine schriftliche Bestätigung. Ältere Geräte nehmen wir kostenlos zurück und sorgen dafür, dass sie fachgerecht recycelt werden. Eine Bewertung Ihres Geräts erhalten Sie vorab online in wenigen Minuten.",
+      "footer": "Hanauer Landstraße 160 · www.retech-frankfurt.de"
+    },
+    {
+      "key": "g",
+      "heading": "Verbraucherberatung „Digital & Recht“",
+      "subheading": "Hilfe bei Ärger im Netz",
+      "lines": [],
+      "text": "Sie haben im Internet versehentlich ein Abo abgeschlossen, bei einem Fake-Shop bestellt oder bekommen Rechnungen für Leistungen, die Sie nie bestellt haben? Unsere Juristinnen und Juristen prüfen Ihren Fall und erklären Ihnen, welche Rechte Sie haben und wie Sie aus einem Vertrag wieder herauskommen. Außerdem helfen wir Ihnen, von Unternehmen Auskunft darüber zu verlangen, welche Daten sie über Sie gespeichert haben. Eine telefonische Beratung von bis zu 30 Minuten kostet 20 Euro, Musterbriefe auf unserer Website sind kostenlos. Bitte beachten Sie, dass wir Sie nicht vor Gericht vertreten können; dafür benötigen Sie eine Anwältin oder einen Anwalt.",
+      "footer": "Tel. 069 2041188 (Mo.–Fr. 9–17 Uhr) · www.digital-und-recht.de"
+    },
+    {
+      "key": "h",
+      "heading": "Ihre Daten – Ihr Recht",
+      "subheading": "Informationen der Datenschutz-Aufsichtsbehörde",
+      "lines": [],
+      "text": "Sie haben den Verdacht, dass ein Unternehmen, ein Verein oder eine Behörde Ihre persönlichen Daten ohne Ihre Einwilligung an Dritte übermittelt oder unzureichend schützt? Dann können Sie sich bei uns beschweren – kostenlos und ganz einfach über das Online-Formular auf unserer Website. Wir prüfen jeden Hinweis, fordern bei Bedarf Stellungnahmen an und können bei Verstößen Bußgelder verhängen. Über das Ergebnis informieren wir Sie schriftlich. Bitte haben Sie Verständnis dafür, dass wir keine individuelle Rechtsberatung leisten und Sie nicht bei Schadensersatzforderungen unterstützen können. Bei Streitigkeiten über Verträge, Lieferungen oder Rechnungen wenden Sie sich bitte an eine Verbraucherberatung.",
+      "footer": "Beschwerdeformular und Kontakt auf unserer Website"
+    },
+    {
+      "key": "i",
+      "heading": "Elternabend „Sicher im Netz“",
+      "subheading": "Medienpädagogik für Familien",
+      "lines": [],
+      "text": "Ab wann ist ein eigenes Smartphone sinnvoll? Wie stelle ich Apps so ein, dass mein Kind geschützt ist? Und was tun bei Mobbing im Klassenchat? Unsere Medienpädagoginnen und -pädagogen beantworten an Informationsabenden die Fragen von Eltern, deren Kinder zwischen acht und vierzehn Jahre alt sind. Öffentliche Termine finden jeden ersten Mittwoch im Monat in der Stadtbücherei statt; die Teilnahme ist kostenlos. Schulen und Kitas können uns außerdem für einen eigenen Elternabend buchen – in diesem Fall stellen wir eine Pauschale von 150 Euro in Rechnung. Workshops für Kinder und Jugendliche selbst bieten wir derzeit leider nicht an.",
+      "footer": "Medienzentrum Frankfurt-Ost · Tel. 069 5583020"
+    },
+    {
+      "key": "j",
+      "heading": "Technik-Engel",
+      "subheading": "IT-Hilfe bei Ihnen zu Hause",
+      "lines": [],
+      "text": "Der neue Fernseher findet das WLAN nicht, der Drucker streikt oder der neue Laptop muss eingerichtet werden? Unsere geschulten Technikhelferinnen und -helfer kommen zu Ihnen nach Hause und lösen das Problem – geduldig und verständlich. In der Regel erhalten Sie innerhalb von drei Werktagen einen Termin, auch abends oder samstags. Wir berechnen 49 Euro pro Stunde, die Anfahrt im Stadtgebiet ist inklusive; Seniorinnen und Senioren ab 70 Jahren erhalten zehn Prozent Rabatt. Unser Angebot richtet sich ausschließlich an Privathaushalte; Firmenkunden verweisen wir an unsere Partnerunternehmen. Reparaturen an der Hardware führen wir nicht durch.",
+      "footer": "Tel. 069 9918844 · www.technik-engel-ffm.de"
+    },
+    {
+      "key": "k",
+      "heading": "Digitalsprechstunde in der Stadtbücherei",
+      "subheading": "Ehrenamtliche helfen bei Technikfragen",
+      "lines": [],
+      "text": "Wie verschicke ich ein Foto per E-Mail? Wie führe ich ein Videotelefonat mit der Familie? Bei solchen und ähnlichen Fragen rund um Smartphone, Tablet und Laptop helfen Ihnen unsere ehrenamtlichen Digitallotsen – kostenlos und ohne Anmeldung. Die Sprechstunde findet jeden Donnerstag von 15 bis 18 Uhr im Lesecafé der Stadtbücherei statt; bringen Sie einfach Ihr aufgeladenes Gerät mit. Aus Sicherheitsgründen helfen wir allerdings nicht beim Online-Banking und geben keine Passwörter für Sie ein. Auch Reparaturen sind nicht möglich. Wenn viel los ist, kann es zu Wartezeiten kommen – wir bitten Sie in diesem Fall um etwas Geduld.",
+      "footer": "Stadtbücherei, Lesecafé im 1. Stock"
+    },
+    {
+      "key": "l",
+      "heading": "NetzWerk IT-Service",
+      "subheading": "Ihr IT-Partner für kleine Unternehmen",
+      "lines": [],
+      "text": "Ob Arztpraxis, Handwerksbetrieb oder Architekturbüro: Wir betreuen kleine und mittlere Unternehmen in der Region rund um ihre IT. Mit einem Wartungsvertrag ab 89 Euro im Monat überwachen wir Ihre Systeme, spielen Sicherheitsupdates ein und sichern Ihre Daten täglich auf Servern in Deutschland. Bei Störungen hilft unser Support-Team per Fernwartung rund um die Uhr; lässt sich ein Problem nicht aus der Ferne lösen, ist ein Techniker in der Regel innerhalb von vier Stunden bei Ihnen vor Ort. Außerdem schulen wir Ihre Beschäftigten im sicheren Umgang mit E-Mails und Passwörtern. Privatkunden können wir leider nicht betreuen.",
+      "footer": "Tel. 069 3367700 · www.netzwerk-itservice.de"
+    }
+  ],
+  "glossary": [
+    { "de": "das Fachchinesisch", "en": "jargon, technical gobbledygook" },
+    { "de": "der Bildungsurlaub", "en": "paid leave for further training" },
+    { "de": "jdn. freistellen", "en": "to release someone from work" },
+    { "de": "die Sicherung", "en": "backup" },
+    { "de": "der Aufpreis", "en": "surcharge, extra charge" },
+    { "de": "generalüberholt", "en": "refurbished" },
+    { "de": "die Einwilligung", "en": "consent" },
+    { "de": "das Bußgeld", "en": "fine (penalty)" },
+    { "de": "der Schadensersatz", "en": "compensation for damages" },
+    { "de": "die Pauschale", "en": "flat fee" },
+    { "de": "die Fernwartung", "en": "remote maintenance" },
+    { "de": "ein Problem aus der Ferne lösen", "en": "to solve a problem remotely" }
+  ]
+}

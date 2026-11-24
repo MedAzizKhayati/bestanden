@@ -5,12 +5,13 @@ export const vocab: Messages["vocab"] = {
   plural: (plural) => `Plural: die ${plural}`,
   noPlural: "kein Plural",
   index: {
-    metaTitle: "B1-Wortschatz – Themen, Karteikarten und der/die/das",
+    metaTitle: "B1- und B2-Wortschatz – Themen, Karteikarten und der/die/das",
     metaDescription:
-      "Die B1-Wörter, die du für telc brauchst, nach Themen geordnet – mit Aussprache, Beispielsätzen und Karteikarten, die du in klugen Abständen wiederholst.",
+      "Die B1- und B2-Wörter, die du für telc brauchst, nach Themen geordnet – mit Aussprache, Beispielsätzen und Karteikarten, die du in klugen Abständen wiederholst.",
     title: "Wortschatz",
     description:
-      "Die Wörter, die bei telc B1 in Texten, Hörtexten und Aufgaben immer wieder vorkommen. Jedes Nomen mit Artikel und Plural, jedes Verb mit seinen Formen – dazu ein Beispielsatz und die Aussprache.",
+      "Die Wörter, die bei telc B1 und B2 in Texten, Hörtexten und Aufgaben immer wieder vorkommen. Jedes Nomen mit Artikel und Plural, jedes Verb mit seinen Formen – dazu ein Beispielsatz und die Aussprache.",
+    levelWords: (level) => `${level}-Wortschatz`,
     themes: (n) => (n === 1 ? "1 Thema" : `${n} Themen`),
     masculine: "maskulin",
     feminine: "feminin",

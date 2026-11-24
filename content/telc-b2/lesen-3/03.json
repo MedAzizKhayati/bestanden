@@ -1,0 +1,192 @@
+{
+  "id": "lesen-3-03",
+  "examId": "telc-b2",
+  "type": "ad-matching",
+  "title": "Reiseangebote und Unterkünfte",
+  "topic": "reisen",
+  "difficulty": 2,
+  "situations": [
+    {
+      "n": 1,
+      "text": "Ein Kollege möchte ohne Reisegruppe an der Donau entlangradeln und sein Gepäck transportieren lassen.",
+      "answer": "i",
+      "explanation": "Two conditions: no tour group and luggage transport. The individual trip (i) is for people who cycle „lieber allein, zu zweit oder mit Freunden statt in einer großen Gruppe“, and the organiser makes sure „dass Ihr Gepäck jeden Morgen zum nächsten Hotel gebracht wird“. Text (a) has the same route and luggage service, but it is „eine feste Gruppe von höchstens 16 Radlerinnen und Radlern“ with a tour guide.",
+      "explanationDe": "Zwei Bedingungen: keine Reisegruppe und Gepäcktransport. Die Individualreise (i) ist für Leute, die „lieber allein, zu zweit oder mit Freunden statt in einer großen Gruppe“ radeln, und der Veranstalter sorgt dafür, „dass Ihr Gepäck jeden Morgen zum nächsten Hotel gebracht wird“. Text (a) hat dieselbe Strecke und auch Gepäcktransport, aber dort gibt es „eine feste Gruppe von höchstens 16 Radlerinnen und Radlern“ und eine Reiseleiterin."
+    },
+    {
+      "n": 2,
+      "text": "Ihre Tante möchte spontan schon am kommenden Wochenende mit dem Nachtzug nach Wien aufbrechen.",
+      "answer": "x",
+      "explanation": "The night-train package (e) is the only offer with a night train to Vienna, but the booking must arrive „spätestens 21 Tage vor dem gewünschten Reisetermin“ – next weekend is far too soon. The Danube trips (a, i) also end in Vienna, but by bike. So x.",
+      "explanationDe": "Das Nachtzug-Paket (e) ist das einzige Angebot mit Nachtzug nach Wien, aber die Buchung muss „spätestens 21 Tage vor dem gewünschten Reisetermin“ eingehen – das kommende Wochenende ist viel zu kurzfristig. Die Donaureisen (a, i) enden zwar auch in Wien, aber mit dem Rad. Also x."
+    },
+    {
+      "n": 3,
+      "text": "Ihre Eltern planen im Juli einen einwöchigen Aufenthalt auf einer Ostseeinsel und möchten ihren Hund mitnehmen.",
+      "answer": "g",
+      "explanation": "The holiday flats on Usedom (g) welcome dogs („Vierbeiner sind ausdrücklich willkommen“), and in July they rent „ausschließlich wochenweise, also mindestens sieben Nächte“ – a week is exactly right. The guest house on Rügen (c) is an island too, but it says it can take „keine Haustiere“.",
+      "explanationDe": "Die Ferienwohnungen auf Usedom (g) nehmen Hunde auf („Vierbeiner sind ausdrücklich willkommen“), und im Juli vermieten sie „ausschließlich wochenweise, also mindestens sieben Nächte“ – eine Woche passt also genau. Die Pension auf Rügen (c) liegt auch auf einer Insel, kann aber „keine Haustiere aufnehmen“."
+    },
+    {
+      "n": 4,
+      "text": "Ihre Kollegin sucht jemanden, der während ihrer Reise die Katzen in ihrer Wohnung versorgt.",
+      "answer": "b",
+      "explanation": "The cats should be cared for at home. The house-sitting service (b) feeds „Ihre Katzen, Kaninchen oder Vögel“ in your flat, so the animals stay „in ihrer vertrauten Umgebung“. The Pfotenhof (j) takes „ausschließlich Hunde“, and only at its farm.",
+      "explanationDe": "Die Katzen sollen zu Hause versorgt werden. Der Haus- und Tiersitter-Service (b) füttert „Ihre Katzen, Kaninchen oder Vögel“ in der Wohnung, die Tiere bleiben also „in ihrer vertrauten Umgebung“. Der Pfotenhof (j) nimmt „ausschließlich Hunde“ auf, und zwar auf seinem Hof."
+    },
+    {
+      "n": 5,
+      "text": "Ihr Vater ist auf einen Rollstuhl angewiesen, möchte aber unbedingt einmal Urlaub in den Bergen machen.",
+      "answer": "d",
+      "explanation": "Hotel Alpenrose (d) was „vollständig barrierefrei umgebaut“, everything can be used „mit dem Rollstuhl“, and even the cable car goes up „stufenlos“. The hut in Tyrol (h) is „ausschließlich zu Fuß erreichbar“, and the hut tour (l) requires „Trittsicherheit“.",
+      "explanationDe": "Das Hotel Alpenrose (d) wurde „vollständig barrierefrei umgebaut“, alles lässt sich „mit dem Rollstuhl“ nutzen, und sogar die Kabinenbahn fährt „stufenlos“ nach oben. Die Hütte in Tirol (h) ist „ausschließlich zu Fuß erreichbar“, und die Hüttentour (l) verlangt „Trittsicherheit“."
+    },
+    {
+      "n": 6,
+      "text": "Eine Lehrerin sucht für eine Klassenfahrt nach Hamburg eine Unterkunft, die auch Ausflüge organisiert.",
+      "answer": "f",
+      "explanation": "The youth guest house in Hamburg (f) is for „Schulklassen und Jugendgruppen“: „Auf Wunsch stellen wir das komplette Programm für Ihren Aufenthalt zusammen“, e.g. a harbour tour. The family hotel (k) also has a programme for children, but it is on Föhr and only for families.",
+      "explanationDe": "Das Jugendgästehaus in Hamburg (f) ist für „Schulklassen und Jugendgruppen“ da: „Auf Wunsch stellen wir das komplette Programm für Ihren Aufenthalt zusammen“ – zum Beispiel eine Hafenrundfahrt. Das Familienhotel (k) hat auch ein Kinderprogramm, liegt aber auf Föhr und ist nur für Familien."
+    },
+    {
+      "n": 7,
+      "text": "Eine Freundin möchte Ende Oktober einige Nächte auf einer Hütte im Hochgebirge verbringen.",
+      "answer": "x",
+      "explanation": "The date is the problem. The hut in Tyrol (h) is open „von Mitte Juni bis Ende September“, and the hut tour in Graubünden (l) ends „Mitte September, da die Hütten danach schließen“. Hotel Alpenrose (d) is „ganzjährig geöffnet“, but it is a hotel in a village, not a hut. So x.",
+      "explanationDe": "Das Problem ist der Termin. Die Hütte in Tirol (h) ist „von Mitte Juni bis Ende September“ geöffnet, und die Hüttentour in Graubünden (l) endet „Mitte September, da die Hütten danach schließen“. Das Hotel Alpenrose (d) ist zwar „ganzjährig geöffnet“, aber ein Hotel im Ort und keine Hütte. Also x."
+    },
+    {
+      "n": 8,
+      "text": "Ein Bekannter möchte im August allein ein verlängertes Wochenende auf einer Insel verbringen.",
+      "answer": "c",
+      "explanation": "A long weekend in high season, alone: Pension Seeschwalbe on Rügen (c) can be booked „bereits ab einer Nacht, auch in der Hochsaison“. Usedom (g) rents only „wochenweise“ in July and August, and the hotel on Föhr (k) accepts „ausschließlich Familien mit Kindern“.",
+      "explanationDe": "Ein verlängertes Wochenende in der Hochsaison, allein: Die Pension Seeschwalbe auf Rügen (c) kann man „bereits ab einer Nacht, auch in der Hochsaison“ buchen. Usedom (g) vermietet im Juli und August nur „wochenweise“, und das Hotel auf Föhr (k) nimmt „ausschließlich Familien mit Kindern“ auf."
+    },
+    {
+      "n": 9,
+      "text": "Ihr Nachbar braucht während seines Urlaubs eine Unterbringung für seinen Hund, besitzt aber kein Auto.",
+      "answer": "j",
+      "explanation": "He has no car. The Pfotenhof (j) has a „Hol- und Bringdienst“ that collects the dog at home. The house-sitting service (b) would come to him, but it explains „dass wir Hunde nicht betreuen können“.",
+      "explanationDe": "Er hat kein Auto. Der Pfotenhof (j) hat einen „Hol- und Bringdienst“, der den Hund zu Hause abholt. Der Service (b) käme zwar zu ihm nach Hause, schreibt aber, „dass wir Hunde nicht betreuen können“."
+    },
+    {
+      "n": 10,
+      "text": "Ein Freund möchte im Sommer eine mehrtägige Wanderung mit Hüttenübernachtungen unter professioneller Führung unternehmen.",
+      "answer": "l",
+      "explanation": "A walk of several days, nights in huts and a professional guide: the tour in Graubünden (l) offers „Sechs Tage, fünf Hütten“ with „einem staatlich geprüften Bergführer“ between July and September. The hut in Tyrol (h) is a single hut, and tours start there „auf eigene Verantwortung – Bergführer vermitteln wir nicht“.",
+      "explanationDe": "Mehrere Tage, Übernachtungen auf Hütten und eine professionelle Führung: Die Tour in Graubünden (l) bietet „Sechs Tage, fünf Hütten“, und zwar mit „einem staatlich geprüften Bergführer“ zwischen Juli und September. Die Tiroler Hütte (h) ist nur eine einzelne Hütte, und Touren macht man dort „auf eigene Verantwortung – Bergführer vermitteln wir nicht“."
+    }
+  ],
+  "ads": [
+    {
+      "key": "a",
+      "heading": "Donau-Radeln in der Gruppe",
+      "subheading": "Von Passau nach Wien mit Reiseleitung",
+      "lines": [],
+      "text": "Acht Tage, rund 330 Kilometer, eine feste Gruppe von höchstens 16 Radlerinnen und Radlern: Auf dieser Reise begleitet Sie unsere erfahrene Reiseleiterin vom Start in Passau bis zur Ankunft in Wien. Sie kümmert sich um die Streckenführung, legt Pausen an den schönsten Aussichtspunkten ein und erzählt Wissenswertes über Klöster, Burgen und die Weinbaugebiete der Wachau. Ihr Gepäck wird täglich von Hotel zu Hotel transportiert, sodass Sie nur einen leichten Tagesrucksack tragen. Die Reisetermine stehen fest: jeweils sonntags zwischen Mai und September. Leistungen: sieben Übernachtungen mit Frühstück, Begleitfahrzeug, Leihrad auf Wunsch. Preis ab 1.090 Euro pro Person im Doppelzimmer.",
+      "footer": "Donauland Reisen · www.donauland-reisen.de"
+    },
+    {
+      "key": "b",
+      "heading": "Zuhause gut versorgt",
+      "subheading": "Haus- und Tiersitting während Ihres Urlaubs",
+      "lines": [],
+      "text": "Während Sie verreist sind, schauen unsere geschulten und versicherten Mitarbeiterinnen und Mitarbeiter ein- bis zweimal täglich in Ihrer Wohnung nach dem Rechten. Sie füttern Ihre Katzen, Kaninchen oder Vögel, reinigen Katzentoilette und Käfige, gießen die Pflanzen, leeren den Briefkasten und lüften regelmäßig. Ihre Tiere bleiben so in ihrer vertrauten Umgebung, was ihnen erfahrungsgemäß viel Stress erspart. Nach jedem Besuch erhalten Sie auf Wunsch ein Foto aufs Handy. Bitte haben Sie Verständnis dafür, dass wir Hunde nicht betreuen können, da diese mehrmals täglich ausgeführt werden müssen. Vor dem ersten Einsatz lernen wir Sie und Ihre Tiere bei einem kostenlosen Kennenlerntermin kennen.",
+      "footer": "Tel. 0221 7740392 · www.zuhause-gut-versorgt.de"
+    },
+    {
+      "key": "c",
+      "heading": "Pension Seeschwalbe",
+      "subheading": "Ruhige Zimmer auf Rügen, Deutschlands größter Insel",
+      "lines": [],
+      "text": "Unsere familiengeführte Pension liegt nur 300 Meter vom Strand entfernt, inmitten eines alten Kapitänsdorfes. Die zwölf Zimmer sind hell und gemütlich eingerichtet; viele verfügen über einen Balkon mit Blick auf den Bodden. Morgens erwartet Sie ein reichhaltiges Frühstücksbuffet mit regionalen Produkten, frischem Fisch und selbst gemachter Marmelade. Ob Kurzurlaub oder längerer Aufenthalt: Bei uns können Sie das ganze Jahr über bereits ab einer Nacht buchen, auch in der Hochsaison. Fahrräder stellen wir unseren Gästen kostenlos zur Verfügung. Bitte beachten Sie, dass wir aus Rücksicht auf Allergiker keine Haustiere aufnehmen können. Einzelzimmer ab 65 Euro, Doppelzimmer ab 98 Euro pro Nacht.",
+      "footer": "Tel. 038305 54219 · www.seeschwalbe-ruegen.de"
+    },
+    {
+      "key": "d",
+      "heading": "Hotel Alpenrose",
+      "subheading": "Barrierefreier Bergurlaub im Allgäu",
+      "lines": [],
+      "text": "Urlaub in den Bergen – auch für Gäste mit eingeschränkter Mobilität. Unser Hotel im Ortskern von Oberwaldbach wurde vollständig barrierefrei umgebaut: Alle Etagen sind per Aufzug erreichbar, die Zimmer verfügen über breite Türen und bodengleiche Duschen, und auch Restaurant, Sauna und Terrasse lassen sich problemlos mit dem Rollstuhl befahren. Die nahe gelegene Kabinenbahn bringt Sie stufenlos auf 1.600 Meter Höhe, wo ein asphaltierter Panoramaweg auf Sie wartet. Auf Wunsch vermitteln wir einen Pflegedienst oder leihen Ihnen Hilfsmittel wie Duschstühle. Das Hotel ist ganzjährig geöffnet. Halbpension ab 92 Euro pro Person und Nacht.",
+      "footer": "www.alpenrose-oberwaldbach.de"
+    },
+    {
+      "key": "e",
+      "heading": "Mit dem Nachtzug nach Wien",
+      "subheading": "Städtereise ohne Stress",
+      "lines": [],
+      "text": "Abends einsteigen, ausgeschlafen ankommen: Unser Paket verbindet die Fahrt im Schlafwagen ab München, Köln oder Hamburg mit zwei Übernachtungen in einem zentral gelegenen Viersternehotel. Inklusive sind außerdem eine 72-Stunden-Karte für alle öffentlichen Verkehrsmittel sowie ein Gutschein für Kaffee und Kuchen in einem traditionellen Wiener Kaffeehaus. Gegen Aufpreis reservieren wir Ihnen Karten für die Oper oder ein Konzert. Da die Plätze im Schlafwagen begrenzt sind, muss die Buchung spätestens 21 Tage vor dem gewünschten Reisetermin bei uns eingehen. Abfahrt ganzjährig donnerstags oder freitags. Preis ab 389 Euro pro Person im Doppelabteil.",
+      "footer": "Schienenreisen Mertens · Tel. 089 41128730"
+    },
+    {
+      "key": "f",
+      "heading": "Jugendgästehaus Elbblick",
+      "subheading": "Klassenfahrten nach Hamburg – alles aus einer Hand",
+      "lines": [],
+      "text": "Unser Haus in Altona bietet Schulklassen und Jugendgruppen 220 Betten in Mehrbettzimmern, eigene Zimmer für Lehrkräfte sowie Vollverpflegung. Was uns von anderen Unterkünften unterscheidet: Auf Wunsch stellen wir das komplette Programm für Ihren Aufenthalt zusammen und übernehmen sämtliche Buchungen. Zur Auswahl stehen unter anderem eine Hafenrundfahrt, eine Führung durch die Speicherstadt, ein Workshop in einem Medienhaus und ein Besuch im Planetarium. Begleitet wird die Gruppe dabei von unseren pädagogisch geschulten Teamerinnen und Teamern. Ab zehn Personen gilt der Gruppenpreis von 39 Euro pro Person und Nacht inklusive Vollpension; Lehrkräfte übernachten kostenlos.",
+      "footer": "Elbchaussee 140, 22763 Hamburg · www.elbblick-jugendgaestehaus.de"
+    },
+    {
+      "key": "g",
+      "heading": "Ferienwohnungen Dünenblick",
+      "subheading": "Auf der Insel Usedom – mit Hund willkommen",
+      "lines": [],
+      "text": "Unsere sechs Ferienwohnungen für zwei bis fünf Personen liegen in einer ruhigen Seitenstraße, keine fünf Gehminuten vom feinen Sandstrand entfernt. Jede Wohnung verfügt über eine voll ausgestattete Küche, eine Terrasse und einen eingezäunten Garten. Vierbeiner sind ausdrücklich willkommen: Für eine Gebühr von 8 Euro pro Nacht stellen wir Näpfe, Decke und Handtücher bereit, und der Hundestrand liegt ganz in der Nähe. Frühstück bieten wir nicht an, doch der Bäcker liefert morgens frische Brötchen an die Tür. Bitte beachten Sie: In den Monaten Juli und August vermieten wir ausschließlich wochenweise, also mindestens sieben Nächte; in der übrigen Zeit ist ein Aufenthalt ab drei Nächten möglich.",
+      "footer": "Strandallee 23a, 17459 Koserow · www.duenenblick-usedom.de"
+    },
+    {
+      "key": "h",
+      "heading": "Berghütte am Kreuzjoch",
+      "subheading": "Übernachten auf 2.240 Metern in Tirol",
+      "lines": [],
+      "text": "Wer bei uns übernachtet, erlebt die Berge, wie sie ursprünglich sind: ohne Straße, ohne Lärm, mit einem Sternenhimmel, den man im Tal nie zu sehen bekommt. Die Hütte ist ausschließlich zu Fuß erreichbar; der Aufstieg vom Parkplatz dauert etwa zweieinhalb Stunden. Wir bieten 40 Schlafplätze im Matratzenlager sowie vier Zweibettzimmer, dazu Halbpension mit Tiroler Spezialitäten. Geöffnet ist die Hütte von Mitte Juni bis Ende September; in dieser Zeit ist eine Reservierung unbedingt erforderlich. Von hier aus starten zahlreiche Gipfeltouren, die Sie allerdings auf eigene Verantwortung unternehmen – Bergführer vermitteln wir nicht.",
+      "footer": "Reservierung: huette@kreuzjoch-tirol.at"
+    },
+    {
+      "key": "i",
+      "heading": "Donau-Radweg auf eigene Faust",
+      "subheading": "Von Passau nach Wien in Ihrem Tempo",
+      "lines": [],
+      "text": "Sie radeln lieber allein, zu zweit oder mit Freunden statt in einer großen Gruppe? Dann ist diese Individualreise genau das Richtige für Sie. Den Starttermin wählen Sie zwischen April und Oktober selbst, und auch das Tempo bestimmen Sie: Wer möchte, verlängert die Reise um Ruhetage. Wir reservieren Ihre Unterkünfte entlang der Strecke, stellen Ihnen ausführliche Karten und eine Navigations-App zur Verfügung und sorgen dafür, dass Ihr Gepäck jeden Morgen zum nächsten Hotel gebracht wird. Bei Pannen erreichen Sie unsere Servicehotline rund um die Uhr. Leihräder und E-Bikes können gegen Aufpreis gebucht werden. Acht Tage ab 790 Euro pro Person.",
+      "footer": "Radreisen Stromab · www.stromab-radreisen.de"
+    },
+    {
+      "key": "j",
+      "heading": "Hundepension Pfotenhof",
+      "subheading": "Urlaub für Ihren Vierbeiner",
+      "lines": [],
+      "text": "Auf unserem Hof am Stadtrand leben Ihre Hunde während Ihrer Abwesenheit in kleinen, nach Charakter zusammengestellten Gruppen. Ein großes eingezäuntes Freigelände, tägliche Spaziergänge und beheizte Schlafräume sorgen dafür, dass sich alle Vierbeiner wohlfühlen. Wir nehmen ausschließlich Hunde auf; für Katzen und Kleintiere fehlen uns leider die passenden Räumlichkeiten. Sie haben kein Auto oder wenig Zeit? Unser Hol- und Bringdienst holt Ihren Hund im Stadtgebiet zu Hause ab und bringt ihn nach Ihrer Rückkehr wieder zurück. Voraussetzung für die Aufnahme sind ein gültiger Impfpass und ein kurzes Probewohnen. Die Unterbringung kostet ab 28 Euro pro Tag.",
+      "footer": "Am Feldrain 6 · Tel. 0221 9305581"
+    },
+    {
+      "key": "k",
+      "heading": "Familienhotel Strandgut",
+      "subheading": "Ferien auf der Nordseeinsel Föhr",
+      "lines": [],
+      "text": "Während die Kinder im Kinderclub basteln, Krebse fangen oder Sandburgen bauen, genießen die Eltern die Ruhe im Wellnessbereich oder einen Spaziergang am Wattenmeer. Unser Haus ist ganz auf Familien ausgerichtet: Es gibt Familienzimmer mit getrenntem Schlafbereich, ein Hallenbad mit Kinderbecken, einen großen Spielplatz und eine Babysitter-Vermittlung für den Abend. Um diesem Konzept treu zu bleiben, nehmen wir ausschließlich Familien mit Kindern unter 16 Jahren auf. Aufenthalte sind ganzjährig bereits ab zwei Nächten möglich. Die Fähre ab Dagebüll ist im Preis nicht enthalten. Vollpension für zwei Erwachsene und ein Kind ab 289 Euro pro Nacht.",
+      "footer": "www.strandgut-foehr.de"
+    },
+    {
+      "key": "l",
+      "heading": "Graubünden von Hütte zu Hütte",
+      "subheading": "Geführte Hochgebirgswanderung in der Schweiz",
+      "lines": [],
+      "text": "Sechs Tage, fünf Hütten, unvergessliche Ausblicke auf Gletscher und Bergseen: Auf dieser Tour wandern Sie in einer kleinen Gruppe von höchstens acht Personen mit einem staatlich geprüften Bergführer durch die Bündner Alpen. Er kennt die Wege genau, behält die Wetterlage im Blick und passt die Etappen bei Bedarf an. Täglich sind Sie fünf bis sieben Stunden unterwegs; Trittsicherheit, Schwindelfreiheit und eine gute Kondition sind deshalb unerlässlich. Übernachtet wird in Mehrbettzimmern der Berghütten, Halbpension inklusive. Die Touren finden zwischen Anfang Juli und Mitte September statt, da die Hütten danach schließen. Preis: 1.180 Franken pro Person.",
+      "footer": "Alpinschule Piz Grisch · www.piz-grisch.ch"
+    }
+  ],
+  "glossary": [
+    { "de": "auf eigene Faust", "en": "on one's own, without a group" },
+    { "de": "der Bodden", "en": "shallow coastal lagoon on the Baltic Sea" },
+    { "de": "bodengleich", "en": "level with the floor (e.g. a shower without a step)" },
+    { "de": "stufenlos", "en": "step-free" },
+    { "de": "der Vierbeiner", "en": "four-legged friend (here: dog)" },
+    { "de": "wochenweise", "en": "by the week" },
+    { "de": "die Hochsaison", "en": "peak season" },
+    { "de": "das Matratzenlager", "en": "dormitory with mattresses (in a mountain hut)" },
+    { "de": "auf eigene Verantwortung", "en": "at your own risk" },
+    { "de": "die Trittsicherheit", "en": "sure-footedness" },
+    { "de": "der Hol- und Bringdienst", "en": "pick-up and drop-off service" },
+    { "de": "der Aufpreis", "en": "extra charge" }
+  ]
+}

@@ -8,6 +8,7 @@ import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 import { useLocale, useT } from "@/i18n/client";
 import { formatNumber } from "@/i18n/format";
 import { GRAMMAR_CATEGORIES, type GrammarCategoryKey as GrammarCategory } from "@/lib/content/constants";
+import { useExam } from "@/lib/exams/use-exam";
 import { useHydrated } from "@/lib/store/hydration";
 import { useProgress } from "@/lib/store/progress";
 import { cn } from "@/lib/utils";
@@ -36,7 +37,10 @@ export function TopicIndex({ topics }: { topics: TopicCard[] }) {
   const locale = useLocale();
   const hydrated = useHydrated();
   const grammar = useProgress((s) => s.grammar);
-  const [level, setLevel] = useState<"all" | "A2" | "B1">("all");
+  const exam = useExam();
+  const [chosenLevel, setLevel] = useState<"all" | "A2" | "B1" | "B2" | null>(null);
+  // B2 learners start with the B2 topics; everyone can switch to the other levels.
+  const level = chosenLevel ?? (exam.level === "B2" ? "B2" : "all");
 
   const mastery = useMemo(() => {
     const m: Record<string, number> = {};
@@ -60,6 +64,7 @@ export function TopicIndex({ topics }: { topics: TopicCard[] }) {
           <ToggleGroupItem value="all">{t.common.all}</ToggleGroupItem>
           <ToggleGroupItem value="A2">{t.grammar.index.levelA2}</ToggleGroupItem>
           <ToggleGroupItem value="B1">{t.grammar.index.levelB1}</ToggleGroupItem>
+          <ToggleGroupItem value="B2">{t.grammar.index.levelB2}</ToggleGroupItem>
         </ToggleGroup>
       </div>
 
@@ -83,7 +88,10 @@ export function TopicIndex({ topics }: { topics: TopicCard[] }) {
                         <div className="leading-snug font-semibold">{topic.title}</div>
                         {locale === "en" && <div className="text-sm text-muted-foreground">{topic.titleEn}</div>}
                       </div>
-                      <Badge variant={topic.level === "B1" ? "default" : "secondary"} className="shrink-0">
+                      <Badge
+                        variant={topic.level === "A2" ? "secondary" : "default"}
+                        className={cn("shrink-0", topic.level === "B2" && "bg-gold text-white")}
+                      >
                         {topic.level}
                       </Badge>
                     </div>

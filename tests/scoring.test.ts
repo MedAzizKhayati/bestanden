@@ -1,17 +1,21 @@
 import { describe, expect, test } from "bun:test";
 import { readdirSync, readFileSync } from "node:fs";
 import type { ExamSet } from "@/lib/content/schemas";
-import { answerKey, isScoredSet, mistakeCard, officialNumber, scoreSet, verdict } from "@/lib/exam/scoring";
+import { existsSync } from "node:fs";
+import { answerKey, isScoredSet, mistakeCard, mistakeId, officialNumber, scoreSet, verdict } from "@/lib/exam/scoring";
+import { EXAMS } from "@/lib/exams";
 import { allParts, gradeFor, telcB1Exam } from "./helpers";
 
 const exam = telcB1Exam();
 
 describe("scoring every practice set", () => {
-  for (const part of allParts(exam).filter((p) => p.items > 0)) {
-    const dir = `content/telc-b1/${part.id}`;
+  for (const anyExam of EXAMS)
+  for (const part of allParts(anyExam).filter((p) => p.items > 0)) {
+    const dir = `content/${anyExam.id}/${part.id}`;
+    if (!existsSync(dir)) continue;
     for (const file of readdirSync(dir).filter((f) => f.endsWith(".json"))) {
       const set = JSON.parse(readFileSync(`${dir}/${file}`, "utf8")) as ExamSet;
-      test(`${part.id}/${file}: full marks for the key, zero for no answers`, () => {
+      test(`${anyExam.id}/${part.id}/${file}: full marks for the key, zero for no answers`, () => {
         expect(isScoredSet(set)).toBe(true);
         if (!isScoredSet(set)) return;
         const key = answerKey(set);
@@ -27,6 +31,7 @@ describe("scoring every practice set", () => {
           const card = mistakeCard(set, part, n, null, locale);
           expect(card.correct).toBe(key[n]);
           expect(card.correctText.length).toBeGreaterThan(0);
+          expect(card.id).toBe(mistakeId(anyExam.id, set.id, n));
         }
       });
     }

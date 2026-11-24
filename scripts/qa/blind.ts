@@ -2,8 +2,10 @@
 /**
  * Blind-solve QA for exam sets.
  *
- *   bun scripts/qa/blind.ts export <partId> <outDir>    # writes sets WITHOUT answers/explanations
- *   bun scripts/qa/blind.ts compare <partId> <answers.json>
+ *   bun scripts/qa/blind.ts export <partId> <outDir> [examId]    # writes sets WITHOUT answers/explanations
+ *   bun scripts/qa/blind.ts compare <partId> <answers.json> [examId]
+ *
+ * examId defaults to telc-b1 (e.g. telc-b2).
  *
  * answers.json: { "<setId>": { "<n>": "<answer>" } } — letters for matching/MC,
  * "r"/"f" for richtig/falsch. compare prints every disagreement with the key.
@@ -15,13 +17,13 @@ import { ExamSet } from "../../src/lib/content/schemas";
 import { answerKey, isScoredSet } from "../../src/lib/exam/scoring";
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "../..");
-const [cmd, partId, target] = process.argv.slice(2);
+const [cmd, partId, target, examId = "telc-b1"] = process.argv.slice(2);
 if (!cmd || !partId || !target) {
-  console.error("usage: blind.ts export|compare <partId> <outDir|answers.json>");
+  console.error("usage: blind.ts export|compare <partId> <outDir|answers.json> [examId]");
   process.exit(1);
 }
 
-const dir = join(ROOT, "content", "telc-b1", partId);
+const dir = join(ROOT, "content", examId, partId);
 const files = readdirSync(dir).filter((f) => f.endsWith(".json")).sort();
 const sets = files.map((f) => ExamSet.parse(JSON.parse(readFileSync(join(dir, f), "utf8"))));
 

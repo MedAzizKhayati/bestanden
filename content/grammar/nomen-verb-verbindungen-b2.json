@@ -1,0 +1,301 @@
+{
+  "id": "nomen-verb-verbindungen-b2",
+  "level": "B2",
+  "category": "wortschatz",
+  "order": 20,
+  "title": "Nomen-Verb-Verbindungen für B2",
+  "titleEn": "Noun-verb collocations for B2 (Funktionsverbgefüge)",
+  "summary": "Formal texts are full of Funktionsverbgefüge like „Kritik üben“, „in Kauf nehmen“ or „zum Ausdruck bringen“. Learn the most frequent ones, the active/passive pairs (zur Diskussion stellen ↔ stehen) and how to use them in a formal letter without sounding stiff.",
+  "summaryDe": "Formelle Texte sind voll von Funktionsverbgefügen wie „Kritik üben“, „in Kauf nehmen“ oder „zum Ausdruck bringen“. Hier lernst du die häufigsten, die Paare mit aktiver und passiver Bedeutung (zur Diskussion stellen ↔ stehen) und wie du sie im formellen Brief verwendest, ohne steif zu klingen.",
+  "examRelevance": ["sprachbausteine", "lesen", "schreiben", "sprechen"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "A **Funktionsverbgefüge** is a fixed combination of a noun and a verb that has lost most of its own meaning: in „**Kritik üben**“ nobody practises anything – it simply means *kritisieren*. The **noun carries the meaning**, the verb only adds grammar and a nuance. Many B2 combinations have a **fixed preposition and no article**: „**in Kauf** nehmen“, „**zum Ausdruck** bringen“, „**in Anspruch** nehmen“. Verb, preposition and article are fixed – learn the whole chunk.",
+      "mdDe": "Ein **Funktionsverbgefüge** ist eine feste Verbindung aus einem Nomen und einem Verb, das seine eigene Bedeutung fast verloren hat: Bei „**Kritik üben**“ übt niemand etwas – es bedeutet einfach *kritisieren*. Das **Nomen trägt die Bedeutung**, das Verb liefert nur die Grammatik und eine Nuance. Viele B2-Verbindungen haben eine **feste Präposition und keinen Artikel**: „**in Kauf** nehmen“, „**zum Ausdruck** bringen“, „**in Anspruch** nehmen“. Verb, Präposition und Artikel sind fest – lerne den ganzen Ausdruck."
+    },
+    {
+      "type": "text",
+      "heading": "From B1 to B2",
+      "headingDe": "Von B1 zu B2",
+      "md": "At B1 you learnt the everyday ones: „eine Entscheidung treffen“, „Bescheid geben“, „Rücksicht nehmen“, „zur Verfügung stehen“, „infrage kommen“ (see „Nomen-Verb-Verbindungen“). Articles, official letters and reports use a more formal set – for three reasons:\n\n- **Register:** „Die Mieter **übten Kritik** an der Erhöhung.“ sounds more neutral and written than „Die Mieter haben die Erhöhung kritisiert.“\n- **Precision:** many have no simple equivalent. „**in Kauf nehmen**“ = to accept a disadvantage because you want something else; „**in Anspruch nehmen**“ = to use a service, someone's help or a certain amount of time.\n- **Perspective:** the verb shows *who* is active. With *stellen / bringen / setzen* someone makes something happen; with *stehen / kommen / finden* it simply happens or is the case – a typical way to avoid the passive.\n\nMany familiar nouns also have B2 partners: you **treffen** not only a decision but also **Vorkehrungen** (precautions) and **eine Vereinbarung**; besides „infrage kommen“ (to be an option) there is „etwas **infrage stellen**“ (to question, to doubt).",
+      "mdDe": "Auf B1-Niveau hast du die alltäglichen gelernt: „eine Entscheidung treffen“, „Bescheid geben“, „Rücksicht nehmen“, „zur Verfügung stehen“, „infrage kommen“ (siehe „Nomen-Verb-Verbindungen“). Zeitungsartikel, offizielle Briefe und Berichte verwenden eine formellere Gruppe – aus drei Gründen:\n\n- **Register:** „Die Mieter **übten Kritik** an der Erhöhung.“ klingt neutraler und schriftlicher als „Die Mieter haben die Erhöhung kritisiert.“\n- **Genauigkeit:** Für viele gibt es kein einfaches Verb. „**in Kauf nehmen**“ = einen Nachteil akzeptieren, weil man etwas anderes will; „**in Anspruch nehmen**“ = einen Service, die Hilfe von jemandem oder eine bestimmte Zeit nutzen bzw. brauchen.\n- **Perspektive:** Das Verb zeigt, *wer* aktiv ist. Mit *stellen / bringen / setzen* bewirkt jemand etwas; mit *stehen / kommen / finden* geschieht es einfach oder ist der Fall – eine typische Möglichkeit, das Passiv zu vermeiden.\n\nViele bekannte Nomen haben auch B2-Partner: Du **triffst** nicht nur eine Entscheidung, sondern auch **Vorkehrungen** und **eine Vereinbarung**; neben „infrage kommen“ (= eine Möglichkeit sein) gibt es „etwas **infrage stellen**“ (= bezweifeln)."
+    },
+    {
+      "type": "table",
+      "heading": "Important Funktionsverbgefüge for B2",
+      "headingDe": "Wichtige Funktionsverbgefüge für B2",
+      "columns": ["Verbindung", "Meaning", "Beispiel"],
+      "columnsDe": ["Verbindung", "Bedeutung", "Beispiel"],
+      "rows": [
+        ["Kritik üben an + Dat", "to criticise (= kritisieren)", "Der Rechnungshof übte scharfe Kritik an den Ausgaben der Stadt."],
+        ["etwas in Kauf nehmen", "to accept a disadvantage knowingly", "Für die ruhige Lage nehmen wir einen längeren Arbeitsweg in Kauf."],
+        ["etwas in Anspruch nehmen", "to make use of (a service, help); to take (time)", "Die Reparatur wird etwa zwei Wochen in Anspruch nehmen."],
+        ["etwas zum Ausdruck bringen", "to express (= ausdrücken)", "In ihrer Rede brachte die Bürgermeisterin ihren Dank zum Ausdruck."],
+        ["etwas zur Sprache bringen", "to raise a topic (= ansprechen)", "Ich möchte in der Sitzung noch die Parkplatzsituation zur Sprache bringen."],
+        ["etwas in Betracht ziehen", "to consider (= erwägen)", "Wir ziehen in Betracht, die Filiale zu verlegen."],
+        ["etwas infrage stellen (also: in Frage)", "to question, to doubt (= bezweifeln)", "Die neue Studie stellt frühere Ergebnisse infrage."],
+        ["Maßnahmen ergreifen / treffen", "to take measures", "Die Gemeinde hat Maßnahmen gegen den Lärm ergriffen."],
+        ["Bezug nehmen auf + Akk", "to refer to (= sich beziehen auf)", "Ich nehme Bezug auf Ihr Schreiben vom 3. März."],
+        ["etwas zur Kenntnis nehmen", "to take note of", "Wir haben Ihre Beschwerde zur Kenntnis genommen."],
+        ["Einfluss nehmen auf + Akk", "to influence (= beeinflussen)", "Die Eltern wollen stärker Einfluss auf den Speiseplan der Kita nehmen."],
+        ["einen Beitrag leisten zu + Dat", "to contribute (= beitragen)", "Jeder kann einen Beitrag zum Klimaschutz leisten."],
+        ["Vorkehrungen treffen", "to take precautions, to make arrangements", "Vor dem Sturm wurden alle nötigen Vorkehrungen getroffen."],
+        ["Gebrauch machen von + Dat", "to make use of (= nutzen)", "Bisher haben nur wenige Kunden von dem Angebot Gebrauch gemacht."],
+        ["Druck ausüben auf + Akk", "to put pressure on", "Die Gewerkschaft übt Druck auf die Arbeitgeber aus."],
+        ["Konsequenzen ziehen aus + Dat", "to draw consequences, to act on a result", "Aus dem Unfall hat die Firma Konsequenzen gezogen."],
+        ["in Kraft treten", "to come into force", "Die neue Hausordnung tritt am 1. Juli in Kraft."],
+        ["Anwendung finden", "to be applied (= angewendet werden)", "Die Regel findet nur bei neuen Verträgen Anwendung."],
+        ["auf Kritik / Widerstand stoßen", "to meet with criticism / resistance", "Der Plan stieß bei den Anwohnern auf Widerstand."],
+        ["etwas unter Beweis stellen", "to prove, to demonstrate (= beweisen)", "Im Praktikum konnte sie ihr Organisationstalent unter Beweis stellen."],
+        ["zu dem Schluss kommen", "to conclude", "Die Gutachter kamen zu dem Schluss, dass das Gebäude sicher ist."],
+        ["Anspruch haben auf + Akk", "to be entitled to", "Bei mehr als einer Stunde Verspätung haben Sie Anspruch auf eine Entschädigung."]
+      ],
+      "rowsDe": [
+        ["Kritik üben an + Dat", "kritisieren", "Der Rechnungshof übte scharfe Kritik an den Ausgaben der Stadt."],
+        ["etwas in Kauf nehmen", "einen Nachteil bewusst akzeptieren", "Für die ruhige Lage nehmen wir einen längeren Arbeitsweg in Kauf."],
+        ["etwas in Anspruch nehmen", "nutzen (einen Service, Hilfe); (Zeit) brauchen, dauern", "Die Reparatur wird etwa zwei Wochen in Anspruch nehmen."],
+        ["etwas zum Ausdruck bringen", "ausdrücken", "In ihrer Rede brachte die Bürgermeisterin ihren Dank zum Ausdruck."],
+        ["etwas zur Sprache bringen", "ansprechen, zum Thema machen", "Ich möchte in der Sitzung noch die Parkplatzsituation zur Sprache bringen."],
+        ["etwas in Betracht ziehen", "erwägen, als Möglichkeit prüfen", "Wir ziehen in Betracht, die Filiale zu verlegen."],
+        ["etwas infrage stellen (auch: in Frage)", "bezweifeln, kritisch prüfen", "Die neue Studie stellt frühere Ergebnisse infrage."],
+        ["Maßnahmen ergreifen / treffen", "handeln, etwas gegen ein Problem tun", "Die Gemeinde hat Maßnahmen gegen den Lärm ergriffen."],
+        ["Bezug nehmen auf + Akk", "sich beziehen auf", "Ich nehme Bezug auf Ihr Schreiben vom 3. März."],
+        ["etwas zur Kenntnis nehmen", "etwas registrieren, von etwas wissen", "Wir haben Ihre Beschwerde zur Kenntnis genommen."],
+        ["Einfluss nehmen auf + Akk", "beeinflussen", "Die Eltern wollen stärker Einfluss auf den Speiseplan der Kita nehmen."],
+        ["einen Beitrag leisten zu + Dat", "beitragen", "Jeder kann einen Beitrag zum Klimaschutz leisten."],
+        ["Vorkehrungen treffen", "sich vorbereiten, Schutz organisieren", "Vor dem Sturm wurden alle nötigen Vorkehrungen getroffen."],
+        ["Gebrauch machen von + Dat", "nutzen", "Bisher haben nur wenige Kunden von dem Angebot Gebrauch gemacht."],
+        ["Druck ausüben auf + Akk", "jemanden unter Druck setzen", "Die Gewerkschaft übt Druck auf die Arbeitgeber aus."],
+        ["Konsequenzen ziehen aus + Dat", "aus einem Ereignis lernen und danach handeln", "Aus dem Unfall hat die Firma Konsequenzen gezogen."],
+        ["in Kraft treten", "gültig werden", "Die neue Hausordnung tritt am 1. Juli in Kraft."],
+        ["Anwendung finden", "angewendet werden", "Die Regel findet nur bei neuen Verträgen Anwendung."],
+        ["auf Kritik / Widerstand stoßen", "kritisiert / abgelehnt werden", "Der Plan stieß bei den Anwohnern auf Widerstand."],
+        ["etwas unter Beweis stellen", "beweisen, zeigen", "Im Praktikum konnte sie ihr Organisationstalent unter Beweis stellen."],
+        ["zu dem Schluss kommen", "schlussfolgern, feststellen", "Die Gutachter kamen zu dem Schluss, dass das Gebäude sicher ist."],
+        ["Anspruch haben auf + Akk", "ein Recht haben auf", "Bei mehr als einer Stunde Verspätung haben Sie Anspruch auf eine Entschädigung."]
+      ],
+      "note": "In official texts these combinations often appear in the passive: „Es wurden **Maßnahmen ergriffen**.“ / „Ihr Hinweis wurde **zur Kenntnis genommen**.“ The noun stays, only the verb changes its form.",
+      "noteDe": "In offiziellen Texten stehen diese Verbindungen oft im Passiv: „Es wurden **Maßnahmen ergriffen**.“ / „Ihr Hinweis wurde **zur Kenntnis genommen**.“ Das Nomen bleibt, nur das Verb ändert seine Form."
+    },
+    {
+      "type": "text",
+      "heading": "Active or passive? stellen or stehen",
+      "headingDe": "Aktiv oder passiv? stellen oder stehen",
+      "md": "Many Funktionsverbgefüge come in **pairs**. You know the model from B1: „Die Firma **stellt** uns einen Laptop **zur Verfügung**.“ (someone provides it) ↔ „Der Laptop **steht** uns **zur Verfügung**.“ (it is available).\n\n- **stellen / bringen / setzen** = someone **causes** something. There is an actor and usually an accusative object: „Der Vorstand **stellt** den Plan **zur Diskussion**.“\n- **stehen / kommen / geraten / treten** = something **is** in a state or **gets** into it. There is no actor – the thing itself is the subject: „Der Plan **steht zur Diskussion**.“ / „Das Thema **kam** erst am Ende **zur Sprache**.“\n\nA third group has a **passive meaning** with an active-looking verb: **finden, stoßen auf, erfahren**. „Der Vorschlag **fand** breite **Zustimmung**.“ = Viele stimmten dem Vorschlag zu. „Das Projekt **stieß auf Kritik**.“ = Das Projekt wurde kritisiert. These are elegant ways to avoid „wurde“ in every sentence.",
+      "mdDe": "Viele Funktionsverbgefüge gibt es als **Paar**. Das Muster kennst du von B1: „Die Firma **stellt** uns einen Laptop **zur Verfügung**.“ (jemand gibt ihn uns) ↔ „Der Laptop **steht** uns **zur Verfügung**.“ (er ist verfügbar).\n\n- **stellen / bringen / setzen** = jemand **bewirkt** etwas. Es gibt einen Handelnden und meistens ein Akkusativobjekt: „Der Vorstand **stellt** den Plan **zur Diskussion**.“\n- **stehen / kommen / geraten / treten** = etwas **ist** in einem Zustand oder **kommt** hinein. Es gibt keinen Handelnden – die Sache selbst ist das Subjekt: „Der Plan **steht zur Diskussion**.“ / „Das Thema **kam** erst am Ende **zur Sprache**.“\n\nEine dritte Gruppe hat eine **passive Bedeutung**, obwohl das Verb aktiv aussieht: **finden, stoßen auf, erfahren**. „Der Vorschlag **fand** breite **Zustimmung**.“ = Viele stimmten dem Vorschlag zu. „Das Projekt **stieß auf Kritik**.“ = Das Projekt wurde kritisiert. So vermeidest du elegant „wurde“ in jedem Satz."
+    },
+    {
+      "type": "table",
+      "heading": "Pairs: someone causes it – it happens",
+      "headingDe": "Paare: jemand bewirkt es – es geschieht",
+      "columns": ["Active: someone causes it", "State / process: it happens", "Beispiel"],
+      "columnsDe": ["Aktiv: jemand bewirkt es", "Zustand / Vorgang: es geschieht", "Beispiel"],
+      "rows": [
+        ["etwas zur Diskussion stellen", "zur Diskussion stehen", "Die Leitung stellt den Plan zur Diskussion. → Der Plan steht zur Diskussion."],
+        ["etwas zur Sprache bringen", "zur Sprache kommen", "Sie brachte das Problem zur Sprache. → Das Problem kam zur Sprache."],
+        ["etwas in Gang bringen / setzen", "in Gang kommen", "Die Stadt brachte das Projekt in Gang. → Das Projekt kam in Gang."],
+        ["jemanden unter Druck setzen", "unter Druck stehen / geraten", "Die Konkurrenz setzt die Firma unter Druck. → Die Firma gerät unter Druck."],
+        ["etwas in Kraft setzen", "in Kraft treten / sein", "Die Regierung setzt die Verordnung in Kraft. → Die Verordnung tritt in Kraft."],
+        ["etwas zum Abschluss bringen", "zum Abschluss kommen", "Wir bringen die Verhandlungen zum Abschluss. → Die Verhandlungen kommen zum Abschluss."],
+        ["etwas zur Auswahl stellen", "zur Auswahl stehen", "Man stellt drei Entwürfe zur Auswahl. → Drei Entwürfe stehen zur Auswahl."],
+        ["sich mit jemandem in Verbindung setzen", "mit jemandem in Verbindung stehen", "Bitte setzen Sie sich mit uns in Verbindung. → Wir stehen mit dem Hersteller in Verbindung."]
+      ],
+      "note": "Ask yourself: Is there someone who does it, with an object? → stellen / bringen / setzen. Does it just happen or exist? → stehen / kommen / geraten / treten.",
+      "noteDe": "Frag dich: Gibt es jemanden, der es tut, mit einem Objekt? → stellen / bringen / setzen. Geschieht oder besteht es einfach? → stehen / kommen / geraten / treten."
+    },
+    {
+      "type": "text",
+      "heading": "In a formal letter (Schreiben)",
+      "headingDe": "Im formellen Brief (Schreiben)",
+      "md": "In the B2 e-mail (complaint, request) a few Funktionsverbgefüge make your text sound formal and precise:\n\n- **Opening:** „Hiermit **nehme ich Bezug auf** Ihre Anzeige vom 12. Mai.“ / „Im März **habe ich** Ihre Beratung **in Anspruch genommen**.“\n- **Complaining:** „Ich möchte meine Unzufriedenheit deutlich **zum Ausdruck bringen**.“ / „Einen Aufpreis von 40 Euro **nehme ich nicht in Kauf**.“\n- **Demanding:** „Ich bitte Sie, umgehend geeignete **Maßnahmen zu ergreifen**.“ / „Laut Ihren Geschäftsbedingungen **habe ich Anspruch auf** eine Erstattung.“\n- **Suggesting:** „Als Alternative **käme** für mich auch ein Gutschein **in Betracht**.“\n- **Closing:** „Für Rückfragen **stehe** ich Ihnen gern **zur Verfügung**.“\n\nUse two or three per letter and mix them with simple verbs – a letter made only of Funktionsverbgefüge sounds like a legal document.",
+      "mdDe": "In der B2-E-Mail (Beschwerde, Anfrage) machen ein paar Funktionsverbgefüge deinen Text formell und präzise:\n\n- **Einleitung:** „Hiermit **nehme ich Bezug auf** Ihre Anzeige vom 12. Mai.“ / „Im März **habe ich** Ihre Beratung **in Anspruch genommen**.“\n- **Sich beschweren:** „Ich möchte meine Unzufriedenheit deutlich **zum Ausdruck bringen**.“ / „Einen Aufpreis von 40 Euro **nehme ich nicht in Kauf**.“\n- **Etwas fordern:** „Ich bitte Sie, umgehend geeignete **Maßnahmen zu ergreifen**.“ / „Laut Ihren Geschäftsbedingungen **habe ich Anspruch auf** eine Erstattung.“\n- **Etwas vorschlagen:** „Als Alternative **käme** für mich auch ein Gutschein **in Betracht**.“\n- **Schluss:** „Für Rückfragen **stehe** ich Ihnen gern **zur Verfügung**.“\n\nNimm zwei oder drei pro Brief und mische sie mit einfachen Verben – ein Brief nur aus Funktionsverbgefügen klingt wie ein juristisches Dokument."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Die Opposition **übte** heftige **Kritik an** den Sparplänen der Regierung.", "en": "The opposition sharply criticised the government's austerity plans." },
+        { "de": "Viele Pendler **nehmen** lange Fahrzeiten **in Kauf**, um im Grünen zu wohnen.", "en": "Many commuters accept long journeys in order to live in the countryside." },
+        { "de": "Die Renovierung wird voraussichtlich drei Monate **in Anspruch nehmen**.", "en": "The renovation is expected to take three months." },
+        { "de": "Die Ergebnisse der Umfrage **stellen** das bisherige Konzept **infrage**.", "en": "The survey results call the current concept into question." },
+        { "de": "Nach dem Hochwasser **ergriff** die Gemeinde sofort **Maßnahmen** zum Schutz der Uferstraßen.", "en": "After the flood the municipality immediately took measures to protect the riverside roads." },
+        { "de": "Die neue Regelung **findet** ab Januar auch bei Teilzeitverträgen **Anwendung**.", "en": "From January the new rule also applies to part-time contracts." },
+        { "de": "Der Vorschlag, die Stadtteilbibliothek zu schließen, **stieß auf** breiten **Widerstand**.", "en": "The proposal to close the local library met with widespread resistance." },
+        { "de": "In der Versammlung **kam** auch der Lärm auf der Baustelle **zur Sprache**.", "en": "The noise from the building site was also raised at the meeting." },
+        { "de": "Die Kommission **kam zu dem Schluss**, dass weitere Untersuchungen nötig sind.", "en": "The commission concluded that further investigations are necessary." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**In the exam:**\n\n- **Sprachbausteine Teil 2:** often the noun is in the text and the verb is missing („Kritik ___“ → *üben*), or the other way round („in ___ nehmen“ → *Kauf / Anspruch*). The preposition helps: „**an** den Plänen“ points to *Kritik üben*, „**auf** Widerstand“ to *stoßen*. In **Teil 1**, three verbs like *stellen / stehen / kommen* test the active/passive pair.\n- **Lesen and Hören:** options paraphrase the text: „Der Plan stieß auf Ablehnung.“ ↔ „Viele lehnten den Plan ab.“ / „Die Regel tritt im Mai in Kraft.“ ↔ „Ab Mai gilt die Regel.“ Recognise the simple verb behind the chunk.\n- **Sprechen Teil 2 and 3:** „Ich möchte noch einen Punkt **zur Sprache bringen**.“ / „Wir sollten auch **in Betracht ziehen**, dass …“ / „Das **kommt** für mich **nicht in Betracht**.“",
+      "mdDe": "**In der Prüfung:**\n\n- **Sprachbausteine Teil 2:** Oft steht das Nomen im Text und das Verb fehlt („Kritik ___“ → *üben*), oder umgekehrt („in ___ nehmen“ → *Kauf / Anspruch*). Die Präposition hilft: „**an** den Plänen“ zeigt auf *Kritik üben*, „**auf** Widerstand“ auf *stoßen*. In **Teil 1** testen drei Verben wie *stellen / stehen / kommen* das Paar aus aktiver und passiver Bedeutung.\n- **Lesen und Hören:** Die Antworten formulieren den Text um: „Der Plan stieß auf Ablehnung.“ ↔ „Viele lehnten den Plan ab.“ / „Die Regel tritt im Mai in Kraft.“ ↔ „Ab Mai gilt die Regel.“ Erkenne das einfache Verb hinter dem Ausdruck.\n- **Sprechen Teil 2 und 3:** „Ich möchte noch einen Punkt **zur Sprache bringen**.“ / „Wir sollten auch **in Betracht ziehen**, dass …“ / „Das **kommt** für mich **nicht in Betracht**.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Classic traps:**\n\n- **Preposition and article are fixed:** „**in** Kauf nehmen“ (not „in den Kauf“), „**zum** Ausdruck bringen“ (not „zu Ausdruck“), „Kritik üben **an** + Dat“ (not „über“), „Einfluss nehmen **auf** + Akk“.\n- **infrage stellen ≠ infrage kommen:** „Die Studie **stellt** die Methode **infrage**.“ (= doubts it) vs. „Diese Methode **kommt** für uns nicht **infrage**.“ (= is not an option).\n- **Negation:** a noun **without** an article is negated with **kein**: „Die Firma hat **keinen** Einfluss genommen.“ / „Er übte **keine** Kritik.“ A combination with a **preposition** is negated with **nicht**, which stands before the prepositional phrase: „Das kommt **nicht** in Betracht.“ / „Sie brachte ihre Enttäuschung **nicht** zum Ausdruck.“\n- **Don't swap stellen and stehen:** „Der Plan stellt zur Diskussion“ is wrong – a plan can't put itself up for discussion → „Der Plan **steht** zur Diskussion.“",
+      "mdDe": "**Typische Fallen:**\n\n- **Präposition und Artikel sind fest:** „**in** Kauf nehmen“ (nicht „in den Kauf“), „**zum** Ausdruck bringen“ (nicht „zu Ausdruck“), „Kritik üben **an** + Dat“ (nicht „über“), „Einfluss nehmen **auf** + Akk“.\n- **infrage stellen ≠ infrage kommen:** „Die Studie **stellt** die Methode **infrage**.“ (= bezweifelt sie) gegenüber „Diese Methode **kommt** für uns nicht **infrage**.“ (= ist keine Möglichkeit).\n- **Negation:** Ein Nomen **ohne** Artikel verneinst du mit **kein**: „Die Firma hat **keinen** Einfluss genommen.“ / „Er übte **keine** Kritik.“ Eine Verbindung mit **Präposition** verneinst du mit **nicht**, und zwar vor der Präpositionalgruppe: „Das kommt **nicht** in Betracht.“ / „Sie brachte ihre Enttäuschung **nicht** zum Ausdruck.“\n- **Verwechsle stellen und stehen nicht:** „Der Plan stellt zur Diskussion“ ist falsch – ein Plan kann sich nicht selbst zur Diskussion stellen → „Der Plan **steht** zur Diskussion.“"
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Der Betriebsrat hat Kritik über die neuen Schichtzeiten geübt.",
+      "right": "Der Betriebsrat hat Kritik an den neuen Schichtzeiten geübt.",
+      "why": "„Kritik üben“ always takes „an“ + dative. „Kritik über“ is a translation from English (*criticism about*) and is wrong here.",
+      "whyDe": "„Kritik üben“ steht immer mit „an“ + Dativ. „Kritik über“ ist aus dem Englischen übersetzt und hier falsch."
+    },
+    {
+      "wrong": "Die Stadt muss endlich Maßnahmen machen.",
+      "right": "Die Stadt muss endlich Maßnahmen ergreifen.",
+      "why": "The fixed verbs with „Maßnahmen“ are „ergreifen“ or „treffen“. „machen“ doesn't combine with this noun.",
+      "whyDe": "Die festen Verben zu „Maßnahmen“ sind „ergreifen“ oder „treffen“. „machen“ passt nicht zu diesem Nomen."
+    },
+    {
+      "wrong": "Das neue Schichtmodell stellt morgen in der Betriebsversammlung zur Diskussion.",
+      "right": "Das neue Schichtmodell steht morgen in der Betriebsversammlung zur Diskussion.",
+      "why": "The model doesn't do anything itself, so you need the state verb „stehen“. „zur Diskussion stellen“ needs a person who acts and an object: „Die Leitung stellt das Modell zur Diskussion.“",
+      "whyDe": "Das Modell tut selbst nichts, deshalb brauchst du das Zustandsverb „stehen“. „zur Diskussion stellen“ braucht eine handelnde Person und ein Objekt: „Die Leitung stellt das Modell zur Diskussion.“"
+    },
+    {
+      "wrong": "Für die günstige Miete nehmen wir den langen Arbeitsweg in den Kauf.",
+      "right": "Für die günstige Miete nehmen wir den langen Arbeitsweg in Kauf.",
+      "why": "„in Kauf nehmen“ has no article – the prepositional phrase is fixed.",
+      "whyDe": "„in Kauf nehmen“ hat keinen Artikel – die Präpositionalgruppe ist fest."
+    },
+    {
+      "wrong": "Die Eltern haben nicht Einfluss auf die Entscheidung genommen.",
+      "right": "Die Eltern haben keinen Einfluss auf die Entscheidung genommen.",
+      "why": "In this combination „Einfluss“ has no article, so it is negated with „kein“ – like „keine Kritik üben“. „nicht“ is for combinations with a preposition: „nicht in Betracht ziehen“.",
+      "whyDe": "In dieser Verbindung hat „Einfluss“ keinen Artikel, deshalb verneinst du mit „kein“ – wie bei „keine Kritik üben“. „nicht“ nimmst du bei Verbindungen mit Präposition: „nicht in Betracht ziehen“."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Die Verbraucherzentrale hat scharfe Kritik ___ den neuen Gebühren der Bank geübt.",
+      "options": ["an", "über", "gegen"],
+      "answer": 0,
+      "explanation": "„Kritik üben“ is always followed by „an“ + dative: „an den neuen Gebühren“. „über“ and „gegen“ are typical mistakes influenced by other languages.",
+      "explanationDe": "Nach „Kritik üben“ steht immer „an“ + Dativ: „an den neuen Gebühren“. „über“ und „gegen“ sind typische Fehler, die aus anderen Sprachen kommen."
+    },
+    {
+      "type": "mc",
+      "prompt": "Wer mitten in der Altstadt wohnen möchte, muss einen gewissen Lärm in Kauf ___.",
+      "options": ["nehmen", "geben", "bringen"],
+      "answer": 0,
+      "explanation": "„in Kauf nehmen“ = to accept a disadvantage knowingly. Neither „geben“ nor „bringen“ combines with „in Kauf“.",
+      "explanationDe": "„in Kauf nehmen“ = einen Nachteil bewusst akzeptieren. Weder „geben“ noch „bringen“ passt zu „in Kauf“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Geschäftsleitung ___ den neuen Schichtplan nächste Woche zur Diskussion.",
+      "options": ["stellt", "steht", "kommt"],
+      "answer": 0,
+      "explanation": "There is an actor („die Geschäftsleitung“) and an object („den neuen Schichtplan“), so you need the active verb „stellen“. „steht“ and „kommt“ have no object: „Der Plan steht zur Diskussion.“",
+      "explanationDe": "Es gibt einen Handelnden („die Geschäftsleitung“) und ein Objekt („den neuen Schichtplan“), also brauchst du das aktive Verb „stellen“. „steht“ und „kommt“ haben kein Objekt: „Der Plan steht zur Diskussion.“"
+    },
+    {
+      "type": "mc",
+      "prompt": "Die neue Parkordnung ___ am 1. Januar in Kraft.",
+      "options": ["tritt", "kommt", "setzt"],
+      "answer": 0,
+      "explanation": "A law or rule „tritt in Kraft“ (= becomes valid). „in Kraft setzen“ needs an actor and an object („Die Stadt setzt die Ordnung in Kraft.“), and „in Kraft kommen“ doesn't exist.",
+      "explanationDe": "Ein Gesetz oder eine Regel „tritt in Kraft“ (= wird gültig). „in Kraft setzen“ braucht einen Handelnden und ein Objekt („Die Stadt setzt die Ordnung in Kraft.“), und „in Kraft kommen“ gibt es nicht."
+    },
+    {
+      "type": "mc",
+      "prompt": "Für die Leitung des Projekts ziehen wir auch Bewerberinnen ohne Hochschulabschluss in ___.",
+      "options": ["Betracht", "Frage", "Kauf"],
+      "answer": 0,
+      "explanation": "„in Betracht ziehen“ = to consider. „infrage“ combines with „kommen“ or „stellen“, not with „ziehen“, and „in Kauf“ goes with „nehmen“.",
+      "explanationDe": "„in Betracht ziehen“ = erwägen, als Möglichkeit prüfen. „infrage“ steht mit „kommen“ oder „stellen“, nicht mit „ziehen“, und „in Kauf“ gehört zu „nehmen“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Plan, die Buslinie einzustellen, ist bei den Anwohnern auf heftigen Widerstand ___.",
+      "options": ["gestoßen", "gefunden", "gekommen"],
+      "answer": 0,
+      "explanation": "„auf Widerstand / Kritik stoßen“ = to meet with resistance – with „sein“ in the Perfekt („ist … gestoßen“). „finden“ takes no „auf“ and needs „haben“ („hat Zustimmung gefunden“), and „kommen“ doesn't combine with „auf Widerstand“.",
+      "explanationDe": "„auf Widerstand / Kritik stoßen“ = abgelehnt bzw. kritisiert werden – im Perfekt mit „sein“ („ist … gestoßen“). „finden“ steht ohne „auf“ und mit „haben“ („hat Zustimmung gefunden“), und „kommen“ passt nicht zu „auf Widerstand“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Bitte setzen Sie sich bis Freitag mit unserer Buchhaltung in ___.",
+      "hint": "(= Kontakt aufnehmen)",
+      "answers": ["Verbindung", "Kontakt"],
+      "explanation": "„sich mit jemandem in Verbindung setzen“ = to get in touch with someone. The state is „mit jemandem in Verbindung stehen“: you are already in contact.",
+      "explanationDe": "„sich mit jemandem in Verbindung setzen“ = Kontakt aufnehmen. Der Zustand heißt „mit jemandem in Verbindung stehen“: Man hat schon Kontakt."
+    },
+    {
+      "type": "gap",
+      "prompt": "Nach dem Datenleck hat die Firma Konsequenzen ___ und ihr Sicherheitskonzept überarbeitet.",
+      "hint": "(Perfekt)",
+      "answers": ["gezogen"],
+      "explanation": "„Konsequenzen ziehen“ = to act on what has happened. The Partizip II of „ziehen“ is „gezogen“.",
+      "explanationDe": "„Konsequenzen ziehen“ = aus einem Ereignis lernen und danach handeln. Das Partizip II von „ziehen“ heißt „gezogen“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Für das neue Rathaus ___ drei Entwürfe zur Auswahl; die Bürgerinnen und Bürger können bis Ende Mai online abstimmen.",
+      "hint": "(Präsens)",
+      "answers": ["stehen"],
+      "explanation": "The designs themselves are the subject and nobody acts on them in this sentence, so you need the state verb: „zur Auswahl stehen“ (plural: „stehen“).",
+      "explanationDe": "Die Entwürfe selbst sind das Subjekt, und in diesem Satz handelt niemand mit ihnen, also brauchst du das Zustandsverb: „zur Auswahl stehen“ (Plural: „stehen“)."
+    },
+    {
+      "type": "gap",
+      "prompt": "In seiner E-Mail hat der Kunde deutlich zum ___ gebracht, dass er mit der Reparatur nicht zufrieden ist.",
+      "answers": ["Ausdruck"],
+      "explanation": "„etwas zum Ausdruck bringen“ = to express something. The preposition is „zum“ (zu + dem), and the noun is „Ausdruck“.",
+      "explanationDe": "„etwas zum Ausdruck bringen“ = etwas ausdrücken. Die Präposition ist „zum“ (zu + dem), das Nomen heißt „Ausdruck“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „kritisieren“ with „Kritik üben an“.",
+      "instructionDe": "Ersetze „kritisieren“ durch „Kritik üben an“.",
+      "prompt": "Der Mieterverein hat die Pläne des Vermieters scharf kritisiert.",
+      "answers": [
+        "Der Mieterverein hat scharfe Kritik an den Plänen des Vermieters geübt.",
+        "Der Mieterverein hat an den Plänen des Vermieters scharfe Kritik geübt."
+      ],
+      "explanation": "The accusative object of „kritisieren“ becomes „an“ + dative („an den Plänen“), and the adverb „scharf“ becomes an adjective before the noun: „scharfe Kritik“.",
+      "explanationDe": "Das Akkusativobjekt von „kritisieren“ wird zu „an“ + Dativ („an den Plänen“), und aus dem Adverb „scharf“ wird ein Adjektiv vor dem Nomen: „scharfe Kritik“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Replace „erwägen“ with „in Betracht ziehen“.",
+      "instructionDe": "Ersetze „erwägen“ durch „in Betracht ziehen“.",
+      "prompt": "Die Firma erwägt, eine Filiale in Linz zu eröffnen.",
+      "answers": [
+        "Die Firma zieht in Betracht, eine Filiale in Linz zu eröffnen.",
+        "Die Firma zieht die Eröffnung einer Filiale in Linz in Betracht."
+      ],
+      "explanation": "„erwägen“ = „in Betracht ziehen“. You can keep the infinitive clause, or turn it into a noun phrase: „die Eröffnung einer Filiale in Betracht ziehen“.",
+      "explanationDe": "„erwägen“ = „in Betracht ziehen“. Du kannst den Infinitivsatz behalten oder eine Nominalgruppe daraus machen: „die Eröffnung einer Filiale in Betracht ziehen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence with „zur Sprache kommen“ so that „das Problem“ is the subject.",
+      "instructionDe": "Schreib den Satz mit „zur Sprache kommen“ um, sodass „das Problem“ das Subjekt ist.",
+      "prompt": "Die Abteilungsleiterin brachte das Problem in der Sitzung zur Sprache.",
+      "answers": [
+        "Das Problem kam in der Sitzung zur Sprache.",
+        "In der Sitzung kam das Problem zur Sprache."
+      ],
+      "explanation": "„zur Sprache bringen“ (someone raises a topic) ↔ „zur Sprache kommen“ (a topic is raised). The actor disappears and „das Problem“ becomes the subject; the tense stays Präteritum: „kam“.",
+      "explanationDe": "„zur Sprache bringen“ (jemand spricht ein Thema an) ↔ „zur Sprache kommen“ (ein Thema wird angesprochen). Der Handelnde verschwindet, und „das Problem“ wird zum Subjekt; die Zeitform bleibt Präteritum: „kam“."
+    },
+    {
+      "type": "order",
+      "words": ["nicht", "Meine", "genommen.", "Kenntnis", "bisher", "Beschwerde", "zur", "wurde"],
+      "answers": [
+        "Meine Beschwerde wurde bisher nicht zur Kenntnis genommen.",
+        "Bisher wurde meine Beschwerde nicht zur Kenntnis genommen."
+      ],
+      "explanation": "A passive sentence: „wurde“ in position 2, „genommen“ at the end. „zur Kenntnis nehmen“ has a preposition, so it is negated with „nicht“, which stands directly before „zur Kenntnis“.",
+      "explanationDe": "Ein Passivsatz: „wurde“ auf Position 2, „genommen“ am Ende. „zur Kenntnis nehmen“ hat eine Präposition, deshalb verneinst du mit „nicht“, und das steht direkt vor „zur Kenntnis“."
+    }
+  ],
+  "related": ["nomen-verb-verbindungen", "verben-mit-praepositionen-b2", "nominalisierung", "passiversatz", "passiv-b2", "wortbildung-b2", "nomen-mit-praepositionen", "negation"]
+}

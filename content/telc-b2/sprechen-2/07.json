@@ -1,0 +1,99 @@
+{
+  "id": "sprechen-2-07",
+  "examId": "telc-b2",
+  "type": "speaking-discussion",
+  "title": "Freitags frei für alle?",
+  "topic": "arbeit",
+  "difficulty": 2,
+  "theme": "Sollte die Vier-Tage-Woche zum Normalfall werden?",
+  "article": {
+    "headline": "Vier Tage arbeiten, fünf Tage Lohn – ein Modell mit Zukunft?",
+    "lead": "Ein Jahr lang haben 38 Betriebe in Norddeutschland die Vier-Tage-Woche bei vollem Gehalt erprobt. Die Bilanz fällt überwiegend positiv aus, doch längst nicht alle sind überzeugt.",
+    "paragraphs": [
+      "Die Ergebnisse, die das Bremer Institut für Arbeit und Zeit am Montag vorgestellt hat, klingen verlockend: In den teilnehmenden Unternehmen – darunter Handwerksbetriebe, eine Softwarefirma und mehrere Arztpraxen – ging die Zahl der Krankheitstage um durchschnittlich 22 Prozent zurück. Die Produktivität blieb nach Angaben der Betriebe stabil oder stieg sogar leicht an. Von den 38 Firmen wollen 31 das Modell nach Projektende beibehalten.",
+      "„Unsere Leute sind ausgeruhter und konzentrierter“, berichtet Anja Reimers, Inhaberin einer Tischlerei in Oldenburg. Überflüssige Besprechungen seien gestrichen, Abläufe vereinfacht worden. Vor allem aber habe sie seit der Umstellung keine Mühe mehr, offene Stellen zu besetzen: Auf ihre letzte Ausschreibung hätten sich innerhalb von zwei Wochen elf Personen beworben – früher sei oft keine einzige Bewerbung eingegangen.",
+      "Skeptisch äußert sich dagegen der Wirtschaftsverband Unterweser. Angesichts des Fachkräftemangels könne sich die Wirtschaft weniger Arbeit schlicht nicht leisten, so Verbandssprecher Holger Brinkmann. Zudem lasse sich das Modell kaum auf alle Branchen übertragen: In Krankenhäusern, in der Pflege oder im Einzelhandel falle die Arbeit schließlich trotzdem an – ohne zusätzliches Personal sei das nicht zu bewältigen.",
+      "Auch unter den Beschäftigten gibt es kritische Stimmen. Fast jeder Dritte gab in der Befragung an, die verbleibenden vier Arbeitstage als deutlich dichter und stressiger zu empfinden. „Von Montag bis Donnerstag hetze ich von Termin zu Termin, und den freien Freitag brauche ich dann vor allem zum Erholen“, erzählt eine Steuerberaterin aus Bremen.",
+      "Die Forscherinnen und Forscher empfehlen deshalb, die Arbeitszeit nicht einfach zu verdichten, sondern Arbeitsprozesse gezielt zu überprüfen. Eine gesetzliche Regelung für alle halten sie zum jetzigen Zeitpunkt für verfrüht."
+    ],
+    "source": "Hansestädter Abendpost"
+  },
+  "ideas": {
+    "pro": [
+      "weniger Krankheitstage und mehr Erholung",
+      "gleiche Produktivität durch effizientere Abläufe",
+      "Betriebe werden attraktiver für Fachkräfte",
+      "mehr Zeit für Familie, Ehrenamt und Hobbys",
+      "weniger Pendelverkehr"
+    ],
+    "contra": [
+      "die Arbeit wird an vier Tagen dichter und stressiger",
+      "in Pflege, Krankenhäusern und Handel kaum umsetzbar",
+      "verschärft den Fachkräftemangel",
+      "höhere Kosten, wenn zusätzliches Personal nötig ist",
+      "Kunden erwarten, dass Firmen an fünf Tagen erreichbar sind",
+      "nur bestimmte Berufsgruppen profitieren"
+    ]
+  },
+  "questions": [
+    "Würden Sie selbst gern nur vier Tage pro Woche arbeiten? Warum oder warum nicht?",
+    "In welchen Berufen ist eine Vier-Tage-Woche Ihrer Meinung nach kaum möglich?",
+    "Wie könnten Betriebe verhindern, dass die Arbeit an vier Tagen zu stressig wird?",
+    "Wie viele Stunden arbeiten die Menschen in Ihrem Heimatland normalerweise?",
+    "Sollte der Staat die Vier-Tage-Woche gesetzlich regeln?"
+  ],
+  "speakers": [
+    { "id": "A", "name": "Aylin Demir", "gender": "f", "age": "adult", "role": "Teilnehmerin A" },
+    { "id": "B", "name": "Mateus Ferreira", "gender": "m", "age": "adult", "role": "Teilnehmer B" },
+    { "id": "P", "name": "Prüferin", "gender": "f", "age": "adult", "role": "Prüferin" }
+  ],
+  "model": [
+    { "s": "A", "t": "Ich fange mal an. Laut dem Artikel haben achtunddreißig Betriebe in Norddeutschland ein Jahr lang die Vier-Tage-Woche bei vollem Lohn getestet. Das Ergebnis war überwiegend positiv: Es gab deutlich weniger Krankheitstage, und die Produktivität ist gleich geblieben oder sogar leicht gestiegen." },
+    { "s": "A", "t": "Die Inhaberin einer Tischlerei berichtet zum Beispiel, dass ihre Mitarbeiter ausgeruhter seien und dass sie viel leichter neue Leute finde. Ein Wirtschaftsverband ist dagegen skeptisch, weil sich die Wirtschaft in Zeiten des Fachkräftemangels weniger Arbeit nicht leisten könne." },
+    { "s": "B", "t": "Danke. Ich möchte noch ergänzen, dass auch viele Beschäftigte nicht ganz zufrieden waren. Fast jeder Dritte hat gesagt, dass die Arbeit an den vier Tagen viel stressiger geworden sei." },
+    { "s": "A", "t": "Ja, das hat mich auch überrascht. Trotzdem fände ich die Vier-Tage-Woche für mich persönlich super. Ich arbeite in einem Büro, und ehrlich gesagt sind viele Besprechungen bei uns völlig überflüssig." },
+    { "s": "B", "t": "Im Büro mag das funktionieren. Aber ich bin Krankenpfleger, und bei uns geht das einfach nicht: Die Patienten brauchen auch am Freitag Pflege, und wir haben jetzt schon zu wenig Personal." },
+    { "s": "A", "t": "Das ist natürlich ein wichtiger Punkt. Aber gerade deshalb könnte die Vier-Tage-Woche doch helfen. Wenn der Beruf attraktiver wird, bewerben sich vielleicht wieder mehr Leute, so wie bei der Tischlerei im Artikel." },
+    { "s": "B", "t": "Das bezweifle ich. Eine Tischlerei kann am Freitag einfach zumachen, ein Krankenhaus nicht. Da bräuchte man sofort zusätzliches Personal, und das gibt es auf dem Arbeitsmarkt gar nicht." },
+    { "s": "A", "t": "Da hast du zwar recht, aber man könnte doch mit Schichtplänen arbeiten. Es müssten ja nicht alle am selben Tag frei haben." },
+    { "s": "B", "t": "Theoretisch schon. Hast du selbst eigentlich schon einmal weniger gearbeitet, zum Beispiel in Teilzeit?" },
+    { "s": "A", "t": "Ja, nach der Geburt meiner Tochter habe ich zwei Jahre lang nur vier Tage gearbeitet, allerdings auch für weniger Geld. In dieser Zeit war ich viel entspannter und an den Arbeitstagen trotzdem richtig produktiv." },
+    { "s": "B", "t": "Das glaube ich dir. Aber das war ja Teilzeit mit weniger Gehalt. Bei vollem Lohn muss der Betrieb die gleiche Arbeit in weniger Zeit schaffen, und genau da entsteht der Stress, von dem im Artikel die Rede ist." },
+    { "s": "A", "t": "Nicht unbedingt. Die Forscher empfehlen ja, die Arbeitsabläufe zu überprüfen, statt einfach alles zu verdichten. In meiner Firma könnten wir bestimmt zwei, drei Stunden pro Woche allein durch kürzere Meetings sparen." },
+    { "s": "B", "t": "Kann sein. Ich fürchte nur, dass am Ende vor allem Büroberufe profitieren, während Pflegekräfte oder Verkäuferinnen leer ausgehen. Das fände ich ungerecht." },
+    { "s": "P", "t": "Sollte der Staat die Vier-Tage-Woche Ihrer Meinung nach gesetzlich regeln?" },
+    { "s": "A", "t": "Ich würde sagen, nein, zumindest nicht für alle. Jede Branche ist anders, deshalb sollten die Betriebe und die Gewerkschaften das selbst aushandeln." },
+    { "s": "B", "t": "Da stimme ich dir zu. Aber für Berufe wie meinen könnte der Staat wenigstens helfen, zum Beispiel mit Geld für zusätzliches Personal, damit die Arbeitszeit auch dort sinken kann." },
+    { "s": "A", "t": "Das klingt vernünftig. Vielleicht wäre ein Kompromiss, dass man zuerst weitere Pilotprojekte in ganz verschiedenen Branchen durchführt, auch in Krankenhäusern." },
+    { "s": "B", "t": "Ja, das fände ich gut, dann sieht man, wo es wirklich funktioniert und wo nicht. Und ehrlich gesagt hätte ich auch nichts gegen ein langes Wochenende jede Woche." },
+    { "s": "A", "t": "Also, zusammengefasst: Für viele Büros ist die Vier-Tage-Woche eine echte Chance, aber eine Lösung für alle Berufe ist sie noch nicht." }
+  ],
+  "phrases": [
+    { "de": "Laut dem Artikel haben …", "en": "According to the article, …" },
+    { "de": "Das Ergebnis war überwiegend positiv.", "en": "The result was mostly positive." },
+    { "de": "Ich möchte noch ergänzen, dass …", "en": "I'd like to add that …" },
+    { "de": "Im Büro mag das funktionieren, aber …", "en": "That may work in an office, but …" },
+    { "de": "Das bezweifle ich.", "en": "I doubt that." },
+    { "de": "Theoretisch schon.", "en": "In theory, yes." },
+    { "de": "Nicht unbedingt.", "en": "Not necessarily." },
+    { "de": "Ich fürchte nur, dass …", "en": "My only worry is that …" },
+    { "de": "Da stimme ich dir zu.", "en": "I agree with you there." },
+    { "de": "Das klingt vernünftig.", "en": "That sounds reasonable." },
+    { "de": "Vielleicht wäre ein Kompromiss, dass …", "en": "Perhaps a compromise would be that …" },
+    { "de": "Also, zusammengefasst: …", "en": "So, to sum up: …" }
+  ],
+  "vocabulary": [
+    { "de": "die Vier-Tage-Woche", "en": "four-day (working) week" },
+    { "de": "bei vollem Lohn", "en": "on full pay" },
+    { "de": "der Krankheitstag", "en": "sick day" },
+    { "de": "die Produktivität", "en": "productivity" },
+    { "de": "der Fachkräftemangel", "en": "shortage of skilled workers" },
+    { "de": "die Arbeit verdichten", "en": "to pack more work into less time" },
+    { "de": "eine Stelle besetzen", "en": "to fill a position" },
+    { "de": "die Branche", "en": "sector, industry" },
+    { "de": "der Schichtplan", "en": "shift schedule" },
+    { "de": "die Gewerkschaft", "en": "trade union" },
+    { "de": "etwas aushandeln", "en": "to negotiate something" },
+    { "de": "leer ausgehen", "en": "to come away empty-handed" }
+  ]
+}

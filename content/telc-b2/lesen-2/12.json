@@ -1,0 +1,103 @@
+{
+  "id": "lesen-2-12",
+  "examId": "telc-b2",
+  "type": "text-mc",
+  "title": "Städte gegen Overtourism",
+  "topic": "reisen",
+  "difficulty": 3,
+  "article": {
+    "headline": "Wenn Touristen zur Last werden",
+    "lead": "Tagesgebühren, Zeitfenster, Obergrenzen für Ferienwohnungen: Europas beliebteste Reiseziele erproben immer neue Instrumente gegen den Massenandrang. Eine vergleichende Untersuchung zeigt, welche davon tatsächlich Wirkung entfalten.",
+    "paragraphs": [
+      "Überfüllte Gassen, steigende Mieten, Wohnungen, die dauerhaft an Feriengäste vermietet werden: Die Klagen der Bewohnerinnen und Bewohner touristisch stark frequentierter Städte ähneln sich von Lissabon bis Salzburg. Unter dem Schlagwort „Overtourism“ wird dabei weniger eine bestimmte Besucherzahl verstanden als vielmehr ein Zustand, in dem die Belastung durch den Fremdenverkehr die Lebensqualität der Einheimischen spürbar beeinträchtigt.",
+      "Das Alpenländische Institut für Destinationsforschung in Innsbruck hat die Gegenmaßnahmen von 28 europäischen Städten über einen Zeitraum von sechs Jahren ausgewertet. Besonders ernüchternd fällt die Bilanz der Eintrittsgebühren für Tagesgäste aus: Zwar bescherten sie den Kommunen zusätzliche Einnahmen in Millionenhöhe, die Zahl der Tagesbesucher ging jedoch in keiner der untersuchten Städte nennenswert zurück. Bei Beträgen zwischen 5 und 10 Euro falle die Gebühr im Reisebudget schlicht kaum ins Gewicht, heißt es in der Studie. Deutlich wirksamer erwiesen sich Beschränkungen der Kurzzeitvermietung: In zwei Dritteln der Städte, die entsprechende Regeln konsequent durchsetzten, kehrten Wohnungen in beträchtlicher Zahl auf den regulären Mietmarkt zurück.",
+      "Für den Tourismusforscher Konrad Leitgeb, der die Untersuchung geleitet hat, ist dieser Befund wenig überraschend. Die Überlastung entstehe in den meisten Fällen nicht durch die Gesamtzahl der Gäste, sondern durch deren Ballung auf wenige Straßenzüge und wenige Stunden des Tages. In manchen Altstädten drängten sich vier Fünftel aller Besucher auf weniger als einem Zehntel der Stadtfläche, und zwar überwiegend zur Mittagszeit. Statt die Zahl der Reisenden zu begrenzen, plädiert Leitgeb deshalb für eine gezielte Lenkung der Besucherströme, etwa durch Zeitfenster für die bekanntesten Sehenswürdigkeiten, digitale Auslastungsanzeigen oder die Bewerbung weniger bekannter Stadtteile.",
+      "Doch auch die Lenkung hat ihre Schattenseiten. In drei der sieben Städte, die gezielt mit bislang wenig besuchten Vierteln geworben hatten, stiegen dort die Mieten anschließend überdurchschnittlich stark, ohne dass die Altstadt spürbar entlastet worden wäre. Entsprechend skeptisch reagieren viele Anwohnerinitiativen auf derartige Vorhaben. „Wir möchten nicht die nächste Kulisse für Erinnerungsfotos werden“, sagt Miriam Hollaender, Sprecherin einer Initiative in einem der betroffenen Viertel.",
+      "Dass schon vergleichsweise einfache Maßnahmen Wirkung zeigen können, belegt dagegen das Beispiel der Gemeinde Pfahlhofen am See. In dem Ort mit rund 2.800 Einwohnern hielten an Sommertagen bis zu 60 Reisebusse, deren Fahrgäste sich meist kaum zwei Stunden aufhielten. Seit zwei Jahren müssen Busunternehmen ihre Ankunft vorab anmelden und ein festes Zeitfenster buchen. Die Zahl der Busse ging daraufhin um etwa ein Drittel zurück; da viele Gäste nun mit Bahn oder Auto anreisen, blieb die Gesamtzahl der Besucher allerdings nahezu unverändert. Entscheidend ist für Bürgermeisterin Regina Aufhauser etwas anderes: Der Andrang verteile sich inzwischen gleichmäßiger über den Tag, und das mittägliche Gedränge an der Uferpromenade gehöre weitgehend der Vergangenheit an.",
+      "Als besonders aufschlussreich bezeichnet Leitgeb einen weiteren Befund. Ob die Bevölkerung den Tourismus als Belastung empfindet, hängt demnach weniger von der Zahl der Gäste ab als von zwei anderen Faktoren: dem Gefühl, an Entscheidungen beteiligt zu werden, und dem erkennbaren Nutzen für den eigenen Alltag. In Städten, in denen die Einnahmen aus Gebühren und Abgaben sichtbar in lokale Projekte flossen, etwa in die Sanierung eines Hallenbads oder den Ausbau des Nahverkehrs, war die Zustimmung zum Tourismus selbst bei steigenden Besucherzahlen deutlich höher.",
+      "Ein Patentrezept gegen die Überlastung gibt es nach Einschätzung der Forschenden nicht. Leitgeb warnt zudem davor, Reisende pauschal als Störfaktor darzustellen, da viele Altstädte ohne die Einnahmen aus dem Tourismus wirtschaftlich kaum überlebensfähig wären. Erfolgreich seien vielmehr jene Städte, die mehrere Instrumente miteinander kombinierten und ihre Bevölkerung frühzeitig in die Planung einbezogen."
+    ],
+    "source": "Fernweh & Alltag – Magazin für Reisen und Gesellschaft"
+  },
+  "questions": [
+    {
+      "n": 1,
+      "stem": "Die Eintrittsgebühren für Tagesgäste haben laut der Innsbrucker Untersuchung …",
+      "options": [
+        { "key": "a", "text": "in den meisten untersuchten Städten zu einem deutlichen Rückgang der Tagesbesucher geführt." },
+        { "key": "b", "text": "den Kommunen zwar Geld eingebracht, den Besucherandrang aber kaum verringert." },
+        { "key": "c", "text": "dazu beigetragen, dass Ferienwohnungen wieder als reguläre Mietwohnungen angeboten werden." }
+      ],
+      "answer": "b",
+      "explanation": "The fees brought „zusätzliche Einnahmen in Millionenhöhe“, but „die Zahl der Tagesbesucher ging jedoch in keiner der untersuchten Städte nennenswert zurück“, so (b). There was no significant drop in any city, let alone in most (a). Flats returning to the rental market are the effect of „Beschränkungen der Kurzzeitvermietung“, not of the fees (c).",
+      "explanationDe": "Die Gebühren brachten „zusätzliche Einnahmen in Millionenhöhe“, aber „die Zahl der Tagesbesucher ging jedoch in keiner der untersuchten Städte nennenswert zurück“, also (b). In keiner Stadt gab es einen deutlichen Rückgang, also auch nicht in den meisten (a). Dass Wohnungen auf den Mietmarkt zurückkehrten, ist eine Folge der „Beschränkungen der Kurzzeitvermietung“, nicht der Gebühren (c).",
+      "evidence": "die Zahl der Tagesbesucher ging jedoch in keiner der untersuchten Städte nennenswert zurück"
+    },
+    {
+      "n": 2,
+      "stem": "Konrad Leitgeb führt die Überlastung vieler Altstädte vor allem darauf zurück, dass …",
+      "options": [
+        { "key": "a", "text": "sich die Besucherinnen und Besucher räumlich und zeitlich stark konzentrieren." },
+        { "key": "b", "text": "die Gesamtzahl der Reisenden in den vergangenen Jahren erheblich gestiegen ist." },
+        { "key": "c", "text": "die Gebühren für Tagesgäste zu niedrig angesetzt sind, um abschreckend zu wirken." }
+      ],
+      "answer": "a",
+      "explanation": "The overload arises „nicht durch die Gesamtzahl der Gäste, sondern durch deren Ballung auf wenige Straßenzüge und wenige Stunden des Tages“ – a concentration in space and time, so (a). Leitgeb explicitly rejects the total number of visitors as the cause (b). Low fees explain why the fees have no effect, not why old towns are overloaded (c).",
+      "explanationDe": "Die Überlastung entsteht „nicht durch die Gesamtzahl der Gäste, sondern durch deren Ballung auf wenige Straßenzüge und wenige Stunden des Tages“ – die Besucher konzentrieren sich an wenigen Orten und zu wenigen Zeiten, also (a). Die Gesamtzahl der Gäste nennt Leitgeb ausdrücklich nicht als Ursache (b). Die niedrigen Gebühren erklären nur, warum die Gebühren nicht wirken, nicht die Überlastung der Altstädte (c).",
+      "evidence": "Die Überlastung entstehe in den meisten Fällen nicht durch die Gesamtzahl der Gäste, sondern durch deren Ballung auf wenige Straßenzüge und wenige Stunden des Tages"
+    },
+    {
+      "n": 3,
+      "stem": "Die Werbung für bislang wenig besuchte Viertel hatte in einigen Städten zur Folge, dass …",
+      "options": [
+        { "key": "a", "text": "die historischen Altstädte von den Besuchermassen merklich entlastet wurden." },
+        { "key": "b", "text": "sich die Bewohner dieser Viertel mehrheitlich für weitere Werbemaßnahmen aussprachen." },
+        { "key": "c", "text": "die Mieten in diesen Vierteln stärker anstiegen als im Durchschnitt der Stadt." }
+      ],
+      "answer": "c",
+      "explanation": "In three of seven cities „stiegen dort die Mieten anschließend überdurchschnittlich stark“ – rents rose more than average, so (c). This happened „ohne dass die Altstadt spürbar entlastet worden wäre“ – the old towns were not relieved (a). Residents’ initiatives react „skeptisch“ to such plans (b).",
+      "explanationDe": "In drei von sieben Städten „stiegen dort die Mieten anschließend überdurchschnittlich stark“ – die Mieten stiegen stärker als im Durchschnitt, also (c). Das passierte, „ohne dass die Altstadt spürbar entlastet worden wäre“ – die Altstädte wurden nicht entlastet (a). Die Anwohnerinitiativen reagieren „skeptisch“ auf solche Pläne (b).",
+      "evidence": "stiegen dort die Mieten anschließend überdurchschnittlich stark, ohne dass die Altstadt spürbar entlastet worden wäre"
+    },
+    {
+      "n": 4,
+      "stem": "Die Anmeldepflicht für Reisebusse in Pfahlhofen am See hat bewirkt, dass …",
+      "options": [
+        { "key": "a", "text": "sich die Gäste inzwischen besser auf die verschiedenen Tageszeiten verteilen." },
+        { "key": "b", "text": "insgesamt erheblich weniger Tagesgäste in die Gemeinde kommen als zuvor." },
+        { "key": "c", "text": "sich die Anzahl der ankommenden Busse um zwei Drittel verringert hat." }
+      ],
+      "answer": "a",
+      "explanation": "The mayor says „Der Andrang verteile sich inzwischen gleichmäßiger über den Tag“, so (a). Because many visitors now come by train or car, „blieb die Gesamtzahl der Besucher allerdings nahezu unverändert“ (b). The number of buses fell by „etwa ein Drittel“, not by two thirds (c).",
+      "explanationDe": "Die Bürgermeisterin sagt: „Der Andrang verteile sich inzwischen gleichmäßiger über den Tag“, also (a). Weil viele jetzt mit Bahn oder Auto kommen, „blieb die Gesamtzahl der Besucher allerdings nahezu unverändert“ (b). Die Zahl der Busse ging um „etwa ein Drittel“ zurück, nicht um zwei Drittel (c).",
+      "evidence": "Der Andrang verteile sich inzwischen gleichmäßiger über den Tag"
+    },
+    {
+      "n": 5,
+      "stem": "Ob Einheimische den Tourismus als Belastung empfinden, hängt laut Studie vor allem davon ab, …",
+      "options": [
+        { "key": "a", "text": "wie stark die Zahl der Gäste in den letzten Jahren angewachsen ist." },
+        { "key": "b", "text": "ob sie mitbestimmen können und spürbar von den Einnahmen profitieren." },
+        { "key": "c", "text": "ob die Stadt auf Gebühren und Abgaben für Besucher vollständig verzichtet." }
+      ],
+      "answer": "b",
+      "explanation": "Acceptance depends on „zwei anderen Faktoren“: „dem Gefühl, an Entscheidungen beteiligt zu werden, und dem erkennbaren Nutzen für den eigenen Alltag“, so (b). It depends „weniger von der Zahl der Gäste“ – approval was higher „selbst bei steigenden Besucherzahlen“ (a). Fees are not the problem: where their revenue went into local projects, approval was „deutlich höher“ (c).",
+      "explanationDe": "Laut Studie kommt es auf zwei andere Faktoren an: „dem Gefühl, an Entscheidungen beteiligt zu werden, und dem erkennbaren Nutzen für den eigenen Alltag“, also (b). Es hängt „weniger von der Zahl der Gäste“ ab – die Zustimmung war „selbst bei steigenden Besucherzahlen“ höher (a). Gebühren sind nicht das Problem: Wo das Geld in lokale Projekte floss, war die Zustimmung „deutlich höher“ (c).",
+      "evidence": "dem Gefühl, an Entscheidungen beteiligt zu werden, und dem erkennbaren Nutzen für den eigenen Alltag"
+    }
+  ],
+  "glossary": [
+    { "de": "frequentiert", "en": "visited, busy (of a place)" },
+    { "de": "das Schlagwort", "en": "buzzword, catchphrase" },
+    { "de": "jemandem etwas bescheren", "en": "to bring someone something" },
+    { "de": "nennenswert", "en": "significant, worth mentioning" },
+    { "de": "die Kurzzeitvermietung", "en": "short-term letting" },
+    { "de": "die Ballung", "en": "concentration, clustering" },
+    { "de": "die Besucherströme lenken", "en": "to steer visitor flows" },
+    { "de": "die Auslastung", "en": "occupancy, capacity use" },
+    { "de": "die Schattenseite", "en": "downside, dark side" },
+    { "de": "die Kulisse", "en": "backdrop, scenery" },
+    { "de": "aufschlussreich", "en": "revealing, informative" },
+    { "de": "das Patentrezept", "en": "magic formula, cure-all" }
+  ]
+}

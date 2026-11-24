@@ -1,0 +1,259 @@
+{
+  "id": "passiv-b2",
+  "level": "B2",
+  "category": "verben",
+  "order": 20,
+  "title": "Passiv für B2: Zustandspassiv, alle Zeiten, Modalverben",
+  "titleEn": "Passive for B2: state passive, all tenses, modal verbs",
+  "summary": "Beyond werden + participle: the state passive with sein, the Perfekt and Plusquamperfekt with „worden“, modal verbs in the passive up to „hätte … werden müssen“, the passive without a subject, and von vs. durch.",
+  "summaryDe": "Mehr als werden + Partizip II: das Zustandspassiv mit sein, Perfekt und Plusquamperfekt mit „worden“, Modalverben im Passiv bis zu „hätte … werden müssen“, das Passiv ohne Subjekt und von oder durch.",
+  "examRelevance": ["lesen", "sprachbausteine", "hoeren", "schreiben"],
+  "blocks": [
+    {
+      "type": "rule",
+      "md": "German has **two passives**. The **Vorgangspassiv** (werden + Partizip II) describes an action or a process: Die Straße **wird gesperrt**. (Someone is closing it.) The **Zustandspassiv** (sein + Partizip II) describes the **result** of that action, the state afterwards: Die Straße **ist gesperrt**. (It is closed now.) The basics of the werden passive are in the B1 topic „Das Passiv“.",
+      "mdDe": "Im Deutschen gibt es **zwei Passivformen**. Das **Vorgangspassiv** (werden + Partizip II) beschreibt eine Handlung oder einen Prozess: Die Straße **wird gesperrt**. (Jemand sperrt sie gerade.) Das **Zustandspassiv** (sein + Partizip II) beschreibt das **Ergebnis** dieser Handlung, also den Zustand danach: Die Straße **ist gesperrt**. (Sie ist jetzt zu.) Die Grundlagen zum Passiv mit werden findest du im B1-Thema „Das Passiv“."
+    },
+    {
+      "type": "text",
+      "heading": "Vorgangspassiv or Zustandspassiv?",
+      "headingDe": "Vorgangspassiv oder Zustandspassiv?",
+      "md": "Think of the Zustandspassiv as the **result** of a finished Vorgangspassiv:\n\n- Die Tickets **werden** gerade **verkauft**. → Jetzt **sind** alle Tickets **verkauft**.\n- Der Antrag **ist genehmigt worden**. (The action happened.) → Der Antrag **ist genehmigt**. (That is the situation now.)\n\nTypical signals for the Zustandspassiv are **seit**, **schon/bereits**, **noch immer**, **jetzt** and **bis …** with a deadline: Das Museum **ist seit** Montag wieder **geöffnet**. – Bis Freitag **muss** alles **erledigt sein**.\n\nThe Zustandspassiv only works with verbs whose action leaves a **visible result**: öffnen, schließen, sperren, reparieren, renovieren, verletzen, beschädigen, ausbuchen, genehmigen, erledigen. Verbs like loben, besuchen, helfen or singen leave no lasting state, so only the werden passive is possible with them.",
+      "mdDe": "Stell dir das Zustandspassiv als **Ergebnis** eines abgeschlossenen Vorgangspassivs vor:\n\n- Die Tickets **werden** gerade **verkauft**. → Jetzt **sind** alle Tickets **verkauft**.\n- Der Antrag **ist genehmigt worden**. (Die Handlung ist passiert.) → Der Antrag **ist genehmigt**. (So ist die Situation jetzt.)\n\nTypische Signale für das Zustandspassiv sind **seit**, **schon/bereits**, **noch immer**, **jetzt** und **bis …** mit einer Frist: Das Museum **ist seit** Montag wieder **geöffnet**. – Bis Freitag **muss** alles **erledigt sein**.\n\nDas Zustandspassiv funktioniert nur mit Verben, deren Handlung ein **sichtbares Ergebnis** hat: öffnen, schließen, sperren, reparieren, renovieren, verletzen, beschädigen, ausbuchen, genehmigen, erledigen. Verben wie loben, besuchen, helfen oder singen hinterlassen keinen bleibenden Zustand – bei ihnen geht nur das Passiv mit werden."
+    },
+    {
+      "type": "table",
+      "heading": "All tenses at a glance",
+      "headingDe": "Alle Zeitformen auf einen Blick",
+      "columns": ["Tense", "Vorgangspassiv (werden)", "Zustandspassiv (sein)"],
+      "columnsDe": ["Zeitform", "Vorgangspassiv (werden)", "Zustandspassiv (sein)"],
+      "rows": [
+        ["Präsens", "Der Antrag **wird** geprüft.", "Der Antrag **ist** geprüft."],
+        ["Präteritum", "Der Antrag **wurde** geprüft.", "Der Antrag **war** geprüft."],
+        ["Perfekt", "Der Antrag **ist** geprüft **worden**.", "Der Antrag **ist** geprüft **gewesen**."],
+        ["Plusquamperfekt", "Der Antrag **war** geprüft **worden**.", "Der Antrag **war** geprüft **gewesen**."],
+        ["Futur I", "Der Antrag **wird** geprüft **werden**.", "Der Antrag **wird** geprüft **sein**."],
+        ["Konjunktiv II", "Der Antrag **würde** geprüft (**werden**).", "Der Antrag **wäre** geprüft."],
+        ["Konjunktiv II Vergangenheit", "Der Antrag **wäre** geprüft **worden**.", "Der Antrag **wäre** geprüft **gewesen**."]
+      ],
+      "note": "Both passives form the Perfekt and Plusquamperfekt with sein: ist/war … worden (werden passive) and ist/war … gewesen (sein passive). The forms with „gewesen“ are rare – people use the Präteritum „war geprüft“ instead. In the Futur I, „werden“ appears twice: wird geprüft werden.",
+      "noteDe": "Beide Passivformen bilden Perfekt und Plusquamperfekt mit sein: ist/war … worden (Vorgangspassiv) und ist/war … gewesen (Zustandspassiv). Die Formen mit „gewesen“ sind selten – man nimmt lieber das Präteritum „war geprüft“. Im Futur I steht „werden“ zweimal: wird geprüft werden."
+    },
+    {
+      "type": "table",
+      "heading": "Passive with a modal verb – all forms",
+      "headingDe": "Passiv mit Modalverb – alle Formen",
+      "columns": ["Form", "Main clause", "Subordinate clause"],
+      "columnsDe": ["Form", "Hauptsatz", "Nebensatz"],
+      "rows": [
+        ["Präsens", "Die Brücke **muss** saniert **werden**.", "…, weil die Brücke saniert **werden muss**."],
+        ["Präteritum", "Die Brücke **musste** saniert **werden**.", "…, weil die Brücke saniert **werden musste**."],
+        ["Perfekt", "Die Brücke **hat** saniert **werden müssen**.", "…, weil die Brücke **hat** saniert **werden müssen**."],
+        ["Konjunktiv II", "Die Brücke **müsste** saniert **werden**.", "…, weil die Brücke saniert **werden müsste**."],
+        ["Konjunktiv II past (it did not happen)", "Die Brücke **hätte** saniert **werden müssen**.", "…, weil die Brücke **hätte** saniert **werden müssen**."],
+        ["state passive", "Die Brücke **muss** bis Mai saniert **sein**.", "…, weil die Brücke bis Mai saniert **sein muss**."],
+        ["assumption about the past", "Die Brücke **muss** schon saniert **worden sein**.", "…, weil die Brücke schon saniert **worden sein muss**."]
+      ],
+      "rowsDe": [
+        ["Präsens", "Die Brücke **muss** saniert **werden**.", "…, weil die Brücke saniert **werden muss**."],
+        ["Präteritum", "Die Brücke **musste** saniert **werden**.", "…, weil die Brücke saniert **werden musste**."],
+        ["Perfekt", "Die Brücke **hat** saniert **werden müssen**.", "…, weil die Brücke **hat** saniert **werden müssen**."],
+        ["Konjunktiv II", "Die Brücke **müsste** saniert **werden**.", "…, weil die Brücke saniert **werden müsste**."],
+        ["Konjunktiv II Vergangenheit (ist nicht passiert)", "Die Brücke **hätte** saniert **werden müssen**.", "…, weil die Brücke **hätte** saniert **werden müssen**."],
+        ["Zustandspassiv", "Die Brücke **muss** bis Mai saniert **sein**.", "…, weil die Brücke bis Mai saniert **sein muss**."],
+        ["Vermutung über die Vergangenheit", "Die Brücke **muss** schon saniert **worden sein**.", "…, weil die Brücke schon saniert **worden sein muss**."]
+      ],
+      "note": "With three verbs at the end (saniert werden müssen), the modal verb stays in the infinitive – müssen, not gemusst – and in a subordinate clause hat/hätte goes in front of the whole verb group. In everyday writing the Präteritum („musste saniert werden“) is preferred to the Perfekt.",
+      "noteDe": "Mit drei Verben am Ende (saniert werden müssen) bleibt das Modalverb im Infinitiv – müssen, nicht gemusst –, und im Nebensatz steht hat/hätte vor der ganzen Verbgruppe. Im Alltag schreibt man lieber das Präteritum („musste saniert werden“) als das Perfekt."
+    },
+    {
+      "type": "text",
+      "heading": "Passive without a subject",
+      "headingDe": "Passiv ohne Subjekt",
+      "md": "Verbs **without an accusative object** (arbeiten, tanzen, streiken, feiern, helfen, danken, einbrechen) can also form a passive. The sentence then has **no subject**, and werden is always in the **3rd person singular**:\n\n- Am Sonntag **wird** in den meisten Geschäften nicht **gearbeitet**.\n- In der Nacht **ist** bei uns **eingebrochen worden**.\n\nIf nothing else stands in position 1, **es** fills it – but only there: **Es** wurde bis Mitternacht gefeiert. → Bis Mitternacht **wurde** gefeiert. (no „es“)\n\nA **dative** stays a dative: Man hat **den Verletzten** sofort geholfen. → **Den Verletzten** wurde sofort **geholfen**. The same applies to verbs with a dative and an accusative: **Mir wurde** ein neuer Termin **angeboten**. – **Uns wurde mitgeteilt**, dass … The subject here is the thing („ein neuer Termin“) or the dass clause, never the person.",
+      "mdDe": "Auch Verben **ohne Akkusativobjekt** (arbeiten, tanzen, streiken, feiern, helfen, danken, einbrechen) können ein Passiv bilden. Der Satz hat dann **kein Subjekt**, und werden steht immer in der **3. Person Singular**:\n\n- Am Sonntag **wird** in den meisten Geschäften nicht **gearbeitet**.\n- In der Nacht **ist** bei uns **eingebrochen worden**.\n\nWenn nichts anderes auf Position 1 steht, füllt **es** diese Stelle – aber nur dort: **Es** wurde bis Mitternacht gefeiert. → Bis Mitternacht **wurde** gefeiert. (kein „es“)\n\nEin **Dativ** bleibt Dativ: Man hat **den Verletzten** sofort geholfen. → **Den Verletzten** wurde sofort **geholfen**. Das gilt auch für Verben mit Dativ und Akkusativ: **Mir wurde** ein neuer Termin **angeboten**. – **Uns wurde mitgeteilt**, dass … Subjekt ist hier die Sache („ein neuer Termin“) oder der dass-Satz, nie die Person."
+    },
+    {
+      "type": "text",
+      "heading": "von, durch or mit?",
+      "headingDe": "von, durch oder mit?",
+      "md": "- **von + dative** names the **agent** – the person, group or institution that acts: Das Gesetz wurde **vom** Bundestag beschlossen. Die Ausstellung wird **von** einer jungen Kuratorin geleitet.\n- **durch + accusative** names the **cause**, the **means** or an **intermediary** – often an event or a process: Der Stromausfall wurde **durch** einen Blitzeinschlag ausgelöst. Die Firma wurde **durch** einen Anwalt vertreten. It is very common with nouns made from verbs: Die Luftqualität wurde **durch** den Ausbau der Radwege verbessert.\n- **mit + dative** names the **tool** somebody uses: Die Tür wurde **mit** einem Ersatzschlüssel geöffnet.\n\nWith natural events both are possible (vom Sturm / durch den Sturm zerstört). In the exam the **case** often decides: „von **dem**/**einem** …“ but „durch **den**/**einen** …“.",
+      "mdDe": "- **von + Dativ** nennt den **Handelnden** – die Person, Gruppe oder Institution, die etwas tut: Das Gesetz wurde **vom** Bundestag beschlossen. Die Ausstellung wird **von** einer jungen Kuratorin geleitet.\n- **durch + Akkusativ** nennt die **Ursache**, das **Mittel** oder einen **Vermittler** – oft ein Ereignis oder einen Prozess: Der Stromausfall wurde **durch** einen Blitzeinschlag ausgelöst. Die Firma wurde **durch** einen Anwalt vertreten. Sehr häufig steht es mit Nomen, die aus Verben gebildet sind: Die Luftqualität wurde **durch** den Ausbau der Radwege verbessert.\n- **mit + Dativ** nennt das **Werkzeug**, das jemand benutzt: Die Tür wurde **mit** einem Ersatzschlüssel geöffnet.\n\nBei Naturereignissen geht beides (vom Sturm / durch den Sturm zerstört). In der Prüfung entscheidet oft der **Kasus**: „von **dem**/**einem** …“, aber „durch **den**/**einen** …“."
+    },
+    {
+      "type": "examples",
+      "heading": "Examples",
+      "headingDe": "Beispiele",
+      "items": [
+        { "de": "Das Hotel **ist** über Ostern komplett **ausgebucht**.", "en": "The hotel is fully booked over Easter." },
+        { "de": "Als die Feuerwehr kam, **waren** alle Gäste bereits **evakuiert worden**.", "en": "When the fire brigade arrived, all the guests had already been evacuated." },
+        { "de": "Die neue Stadtbahnlinie **wird** voraussichtlich erst 2031 **fertiggestellt werden**.", "en": "The new light rail line will probably not be completed until 2031." },
+        { "de": "Die Kosten **hätten** viel früher **offengelegt werden müssen**.", "en": "The costs should have been disclosed much earlier." },
+        { "de": "Die Daten **müssen** bei dem Angriff **kopiert worden sein**.", "en": "The data must have been copied during the attack." },
+        { "de": "Am Sonntag **wird** in den meisten Geschäften nicht **gearbeitet**.", "en": "On Sundays, nobody works in most shops." },
+        { "de": "**Uns wurde versichert**, dass die Lieferung pünktlich ankommt.", "en": "We were assured that the delivery would arrive on time." },
+        { "de": "Die Altstadt **wurde durch** das Hochwasser schwer **beschädigt**.", "en": "The old town was badly damaged by the flood." },
+        { "de": "Das Gesetz **wurde vom** Bundestag mit großer Mehrheit **verabschiedet**.", "en": "The law was passed by the Bundestag with a large majority." },
+        { "de": "**Wäre** das Problem rechtzeitig **erkannt worden**, **hätte** es **gelöst werden können**.", "en": "If the problem had been recognised in time, it could have been solved." }
+      ]
+    },
+    {
+      "type": "tip",
+      "md": "**Lesen Teil 2 and Hören Teil 1:** articles and news are full of passives: „Bei dem Unfall wurden drei Menschen verletzt.“ – „Es wird davon ausgegangen, dass …“ – „Die Autobahn musste gesperrt werden.“ The agent is often missing or hidden behind **von**/**durch**. Always ask *who* did what – wrong options like to swap the actors.\n\n**Sprachbausteine Teil 1:** typical options are „ist / wird / war“ (state or action? which tense?), „worden / geworden / werden“ and „hätte / wäre / würde“ before „… werden müssen“. Look at the end of the clause first: „worden“ → a form of sein; „werden müssen“ → hat/hätte.\n\n**Schreiben:** the passive makes a complaint precise and polite: „Mir wurde zugesichert, dass …“ – „Das Zimmer war bei unserer Ankunft nicht gereinigt.“ – „Darauf hätte ich vorher hingewiesen werden müssen.“",
+      "mdDe": "**Lesen Teil 2 und Hören Teil 1:** Artikel und Nachrichten sind voller Passivsätze: „Bei dem Unfall wurden drei Menschen verletzt.“ – „Es wird davon ausgegangen, dass …“ – „Die Autobahn musste gesperrt werden.“ Der Handelnde fehlt oft oder steckt hinter **von**/**durch**. Frag dich immer, *wer* was gemacht hat – falsche Antworten vertauschen gern die Personen.\n\n**Sprachbausteine Teil 1:** Typische Optionen sind „ist / wird / war“ (Zustand oder Vorgang? welche Zeit?), „worden / geworden / werden“ und „hätte / wäre / würde“ vor „… werden müssen“. Schau zuerst auf das Satzende: „worden“ → eine Form von sein; „werden müssen“ → hat/hätte.\n\n**Schreiben:** Mit dem Passiv klingt eine Beschwerde genau und höflich: „Mir wurde zugesichert, dass …“ – „Das Zimmer war bei unserer Ankunft nicht gereinigt.“ – „Darauf hätte ich vorher hingewiesen werden müssen.“"
+    },
+    {
+      "type": "warning",
+      "md": "**Three pairs that learners often mix up:**\n\n1. Das Geschäft **ist geöffnet**. (It is open now.) – Das Geschäft **ist geöffnet worden**. (Someone opened it – the action is reported.) With **seit** you need the state: Das Bad ist **seit** Mai **geschlossen**.\n2. Die Daten **hätten gelöscht werden müssen**. (They should have been deleted, but they weren't.) – Die Daten **müssen gelöscht worden sein**. (I assume they were deleted.)\n3. **worden** is the passive participle, **geworden** only means *became*: Er ist operiert **worden**. – Er ist Chirurg **geworden**.",
+      "mdDe": "**Drei Paare, die oft verwechselt werden:**\n\n1. Das Geschäft **ist geöffnet**. (Es ist jetzt offen.) – Das Geschäft **ist geöffnet worden**. (Jemand hat es geöffnet – die Handlung wird berichtet.) Mit **seit** brauchst du den Zustand: Das Bad ist **seit** Mai **geschlossen**.\n2. Die Daten **hätten gelöscht werden müssen**. (Man hätte sie löschen müssen, hat es aber nicht getan.) – Die Daten **müssen gelöscht worden sein**. (Ich vermute, dass sie gelöscht wurden.)\n3. **worden** ist das Partizip im Passiv, **geworden** heißt nur *etwas werden, sich verändern*: Er ist operiert **worden**. – Er ist Chirurg **geworden**."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Die Mitarbeiter wurden mitgeteilt, dass die Kantine schließt.",
+      "right": "Den Mitarbeitern wurde mitgeteilt, dass die Kantine schließt.",
+      "why": "„mitteilen“ takes a dative person (jemandem etwas mitteilen). In the passive the dative stays dative, the subject is the dass clause, so werden is singular: „Den Mitarbeitern wurde …“.",
+      "whyDe": "„mitteilen“ hat eine Person im Dativ (jemandem etwas mitteilen). Im Passiv bleibt der Dativ Dativ, Subjekt ist der dass-Satz, deshalb steht werden im Singular: „Den Mitarbeitern wurde …“."
+    },
+    {
+      "wrong": "Das Formular hätte unterschrieben werden gemusst.",
+      "right": "Das Formular hätte unterschrieben werden müssen.",
+      "why": "When a modal verb stands next to another infinitive, its participle is replaced by the infinitive: „hätte … werden müssen“, never „gemusst“.",
+      "whyDe": "Steht ein Modalverb neben einem anderen Infinitiv, nimmt man statt des Partizips den Infinitiv: „hätte … werden müssen“, nie „gemusst“."
+    },
+    {
+      "wrong": "Ich glaube, dass die Brücke saniert werden hat müssen.",
+      "right": "Ich glaube, dass die Brücke hat saniert werden müssen. (Besser: …, dass die Brücke saniert werden musste.)",
+      "why": "In a subordinate clause with three verbs at the end, „hat/hätte“ comes in front of the whole verb group. The Präteritum „saniert werden musste“ avoids the problem and sounds more natural.",
+      "whyDe": "Im Nebensatz mit drei Verben am Ende steht „hat/hätte“ vor der ganzen Verbgruppe. Mit dem Präteritum „saniert werden musste“ umgehst du das Problem, und es klingt natürlicher."
+    },
+    {
+      "wrong": "Die Bibliothek ist seit Montag wieder geöffnet worden.",
+      "right": "Die Bibliothek ist seit Montag wieder geöffnet.",
+      "why": "„seit Montag“ describes a state that continues until now, so you need the Zustandspassiv „ist geöffnet“. „ist geöffnet worden“ reports a single finished action.",
+      "whyDe": "„seit Montag“ beschreibt einen Zustand, der bis jetzt andauert. Deshalb brauchst du das Zustandspassiv „ist geöffnet“. „ist geöffnet worden“ berichtet von einer einzelnen, abgeschlossenen Handlung."
+    },
+    {
+      "wrong": "Gestern wurde es im Saal bis Mitternacht getanzt.",
+      "right": "Gestern wurde im Saal bis Mitternacht getanzt.",
+      "why": "In a passive without a subject, „es“ only fills position 1. As soon as another element („Gestern“) is in position 1, „es“ disappears.",
+      "whyDe": "Im Passiv ohne Subjekt füllt „es“ nur die Position 1. Sobald ein anderes Satzglied („Gestern“) auf Position 1 steht, fällt „es“ weg."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Das Hallenbad ___ seit dem 1. Oktober wegen Bauarbeiten geschlossen.",
+      "options": ["ist", "wurde", "würde"],
+      "answer": 0,
+      "explanation": "„seit dem 1. Oktober“ describes a state that continues until today → Zustandspassiv „ist geschlossen“. „wurde geschlossen“ would be a single action in the past and does not go with „seit“.",
+      "explanationDe": "„seit dem 1. Oktober“ beschreibt einen Zustand, der bis heute andauert → Zustandspassiv „ist geschlossen“. „wurde geschlossen“ wäre eine einzelne Handlung in der Vergangenheit und passt nicht zu „seit“."
+    },
+    {
+      "type": "mc",
+      "prompt": "Als die Firma ihr Angebot zurückzog, ___ der Vertrag zum Glück noch nicht unterschrieben worden.",
+      "options": ["ist", "war", "wurde"],
+      "answer": 1,
+      "explanation": "The sentence looks back from one past event („zurückzog“) to an earlier time → Plusquamperfekt passive „war … unterschrieben worden“. „wurde … worden“ is impossible, and „ist“ does not fit a story told in the past.",
+      "explanationDe": "Der Satz schaut von einem Ereignis in der Vergangenheit („zurückzog“) auf eine noch frühere Zeit → Passiv Plusquamperfekt „war … unterschrieben worden“. „wurde … worden“ gibt es nicht, und „ist“ passt nicht zu einer Erzählung in der Vergangenheit."
+    },
+    {
+      "type": "mc",
+      "prompt": "Die Brücke ist in einem schlechten Zustand. Eigentlich ___ sie schon vor Jahren saniert werden müssen, aber passiert ist nichts.",
+      "options": ["hätte", "hat", "wäre", "würde"],
+      "answer": 0,
+      "explanation": "„aber passiert ist nichts“ shows that the action did not happen → Konjunktiv II past: „hätte … saniert werden müssen“. Modal verbs form their perfect tenses with haben, so „wäre“ is wrong; „hat“ would mean it really had to be done.",
+      "explanationDe": "„aber passiert ist nichts“ zeigt: Die Handlung hat nicht stattgefunden → Konjunktiv II der Vergangenheit: „hätte … saniert werden müssen“. Modalverben bilden das Perfekt mit haben, deshalb ist „wäre“ falsch; „hat“ würde bedeuten, dass es wirklich gemacht werden musste."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Stromausfall in der Altstadt wurde ___ einen Blitzeinschlag ausgelöst.",
+      "options": ["von", "durch", "mit"],
+      "answer": 1,
+      "explanation": "A lightning strike is the cause, not a person acting → „durch“. The accusative „einen Blitzeinschlag“ also rules out „von“ and „mit“, which both take the dative.",
+      "explanationDe": "Ein Blitzeinschlag ist die Ursache, keine handelnde Person → „durch“. Auch der Akkusativ „einen Blitzeinschlag“ schließt „von“ und „mit“ aus – beide brauchen den Dativ."
+    },
+    {
+      "type": "mc",
+      "prompt": "Der Schmuck ist weg und das Fenster ist kaputt – in der Nacht muss bei uns eingebrochen ___ sein.",
+      "options": ["worden", "werden", "geworden"],
+      "answer": 0,
+      "explanation": "An assumption about the past in the passive: modal verb + participle + „worden sein“ → „muss … eingebrochen worden sein“. „geworden“ is only used for „become“.",
+      "explanationDe": "Eine Vermutung über die Vergangenheit im Passiv: Modalverb + Partizip II + „worden sein“ → „muss … eingebrochen worden sein“. „geworden“ benutzt man nur im Sinn von „etwas werden“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Den Teilnehmenden ___ schon vor Kursbeginn mitgeteilt, dass sich der Raum geändert hat.",
+      "answers": ["wurde"],
+      "hint": "(werden, Präteritum)",
+      "explanation": "„Den Teilnehmenden“ is a dative, not the subject. The subject is the dass clause, so werden stays singular: „wurde … mitgeteilt“ – not „wurden“.",
+      "explanationDe": "„Den Teilnehmenden“ ist Dativ, nicht Subjekt. Subjekt ist der dass-Satz, deshalb bleibt werden im Singular: „wurde … mitgeteilt“ – nicht „wurden“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Nach dem Sieg ___ in der ganzen Stadt bis spät in die Nacht gefeiert.",
+      "answers": ["wurde"],
+      "hint": "(werden, Präteritum)",
+      "explanation": "A passive without a subject: werden is in the 3rd person singular, and there is no „es“ because „Nach dem Sieg“ is in position 1.",
+      "explanationDe": "Ein Passiv ohne Subjekt: werden steht in der 3. Person Singular, und es gibt kein „es“, weil „Nach dem Sieg“ auf Position 1 steht."
+    },
+    {
+      "type": "gap",
+      "prompt": "Als die Feuerwehr eintraf, ___ das Gebäude schon vollständig geräumt worden.",
+      "answers": ["war"],
+      "hint": "(sein, Präteritum)",
+      "explanation": "The clearing happened before the fire brigade arrived → Plusquamperfekt passive: „war … geräumt worden“.",
+      "explanationDe": "Das Gebäude wurde geräumt, bevor die Feuerwehr kam → Passiv Plusquamperfekt: „war … geräumt worden“."
+    },
+    {
+      "type": "gap",
+      "prompt": "Das Restaurant ist am Samstag leider schon komplett ___.",
+      "answers": ["ausgebucht"],
+      "hint": "(ausbuchen)",
+      "explanation": "Zustandspassiv: „ist“ + participle describes the result – all tables are booked. The participle of the separable verb is „ausgebucht“.",
+      "explanationDe": "Zustandspassiv: „ist“ + Partizip II beschreibt das Ergebnis – alle Tische sind reserviert. Das Partizip des trennbaren Verbs heißt „ausgebucht“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the passive. Keep the Konjunktiv II past and leave out „man“.",
+      "instructionDe": "Schreibe den Satz im Passiv. Behalte den Konjunktiv II der Vergangenheit und lass „man“ weg.",
+      "prompt": "Man hätte die Anwohner früher informieren müssen.",
+      "answers": ["Die Anwohner hätten früher informiert werden müssen.", "Früher hätten die Anwohner informiert werden müssen."],
+      "explanation": "„die Anwohner“ becomes the subject, so „hätten“ is plural. At the end: participle + „werden“ + modal infinitive → „informiert werden müssen“.",
+      "explanationDe": "„die Anwohner“ wird zum Subjekt, deshalb steht „hätten“ im Plural. Am Ende: Partizip II + „werden“ + Modalverb im Infinitiv → „informiert werden müssen“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the passive (Plusquamperfekt). Leave out „man“.",
+      "instructionDe": "Schreibe den Satz im Passiv (Plusquamperfekt). Lass „man“ weg.",
+      "prompt": "Man hatte die Straße schon vor dem Unwetter gesperrt.",
+      "answers": ["Die Straße war schon vor dem Unwetter gesperrt worden.", "Schon vor dem Unwetter war die Straße gesperrt worden."],
+      "explanation": "Plusquamperfekt passive = „war“ + participle + „worden“: „war … gesperrt worden“.",
+      "explanationDe": "Passiv Plusquamperfekt = „war“ + Partizip II + „worden“: „war … gesperrt worden“."
+    },
+    {
+      "type": "transform",
+      "instruction": "Rewrite as a passive without a subject. Start with „In vielen Betrieben“ and leave out the people.",
+      "instructionDe": "Schreibe ein Passiv ohne Subjekt. Beginne mit „In vielen Betrieben“ und lass die Personen weg.",
+      "prompt": "In vielen Betrieben streiken die Beschäftigten seit Montag.",
+      "answers": ["In vielen Betrieben wird seit Montag gestreikt."],
+      "explanation": "„streiken“ has no accusative object, so the passive has no subject: „wird … gestreikt“ (3rd person singular). No „es“, because position 1 is taken.",
+      "explanationDe": "„streiken“ hat kein Akkusativobjekt, deshalb hat das Passiv kein Subjekt: „wird … gestreikt“ (3. Person Singular). Kein „es“, weil Position 1 schon besetzt ist."
+    },
+    {
+      "type": "order",
+      "words": ["müssen.", "dass", "Brücke", "Die", "hätte", "meinen,", "längst", "werden", "Experten", "die", "gesperrt"],
+      "answers": ["Die Experten meinen, dass die Brücke längst hätte gesperrt werden müssen."],
+      "explanation": "Subordinate clause with three verbs at the end: „hätte“ comes in front of the verb group „gesperrt werden müssen“, not at the very end.",
+      "explanationDe": "Nebensatz mit drei Verben am Ende: „hätte“ steht vor der Verbgruppe „gesperrt werden müssen“, nicht ganz am Ende."
+    },
+    {
+      "type": "order",
+      "words": ["sein.", "Räume", "zur", "renoviert", "Bis", "alle", "fertig", "Eröffnung", "müssen"],
+      "answers": ["Bis zur Eröffnung müssen alle Räume fertig renoviert sein.", "Alle Räume müssen bis zur Eröffnung fertig renoviert sein."],
+      "explanation": "Zustandspassiv with a modal verb: „müssen“ in position 2, participle + „sein“ at the end. The rooms must be in this state by the opening.",
+      "explanationDe": "Zustandspassiv mit Modalverb: „müssen“ auf Position 2, Partizip II + „sein“ am Ende. Die Räume müssen bis zur Eröffnung in diesem Zustand sein."
+    }
+  ],
+  "related": ["passiv", "passiversatz", "partizipialattribute", "modalverben", "plusquamperfekt", "konjunktiv-2", "konjunktiv-2-vergangenheit", "vermutungen", "nominalisierung"]
+}

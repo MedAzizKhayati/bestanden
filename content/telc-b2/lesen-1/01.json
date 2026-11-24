@@ -1,0 +1,118 @@
+{
+  "id": "lesen-1-01",
+  "examId": "telc-b2",
+  "type": "headline-matching",
+  "title": "Zwischen Büro und Urlaub",
+  "topic": "arbeit",
+  "difficulty": 1,
+  "headlines": [
+    { "key": "a", "text": "Gratis zum Wanderweg: Urlauber sollen das Auto stehen lassen" },
+    { "key": "b", "text": "Umfrage: Mehr Geld ist der häufigste Grund für einen Jobwechsel" },
+    { "key": "c", "text": "Ferienjob mit Zukunft: Handwerk wirbt um Nachwuchs" },
+    { "key": "d", "text": "Jeder dritte Lehrling bricht seine Ausbildung ab" },
+    { "key": "e", "text": "Wegen Staus: Bergstraßen am Wochenende für Autos gesperrt" },
+    { "key": "f", "text": "Beliebt, aber umständlich: Mit dem Zug in den Urlaub" },
+    { "key": "g", "text": "Wenn Beschäftigte kündigen, liegt es oft an der Führung" },
+    { "key": "h", "text": "Mehr Urlaubstage sollen neue Fachkräfte anlocken" },
+    { "key": "i", "text": "Mit dem Laptop ans Meer: Firma erlaubt Arbeit im Ausland" },
+    { "key": "j", "text": "Bahnfahren ins Ausland jetzt billiger als Fliegen" }
+  ],
+  "texts": [
+    {
+      "n": 1,
+      "text": "Wer seinen Arbeitsplatz wechselt, tut das häufig nicht wegen des Geldes. Zu diesem Ergebnis kommt eine Befragung des Linzer Instituts für Arbeitsforschung, an der rund 2.400 Beschäftigte aus ganz Österreich teilgenommen haben. Von denjenigen, die in den vergangenen zwei Jahren selbst gekündigt hatten, nannten 46 Prozent als Hauptgrund ein schlechtes Verhältnis zur direkten Führungskraft. Fehlende Anerkennung und unklare Zuständigkeiten folgten auf Platz zwei. Ein höheres Gehalt bei einem anderen Arbeitgeber landete erst auf dem dritten Rang. Auffällig ist außerdem: Wer mit seiner Chefin oder seinem Chef mindestens einmal im Quartal ein ausführliches Feedbackgespräch führt, denkt deutlich seltener über einen Wechsel nach. In vielen Betrieben finden solche Gespräche allerdings höchstens einmal im Jahr statt, und das oft unter Zeitdruck. Studienleiterin Sabine Haider rät Unternehmen deshalb, mehr Geld in die Schulung ihrer Führungskräfte zu investieren. „Eine Gehaltserhöhung kann Unzufriedenheit eine Zeit lang überdecken, aber sie löst das eigentliche Problem nicht“, sagt sie.",
+      "answer": "g",
+      "explanation": "Most people who quit name „ein schlechtes Verhältnis zur direkten Führungskraft“ as the main reason, and the researcher wants companies to train their managers – the whole text is about leadership, so (g). Headline (b) is the trap: a higher salary elsewhere came only „auf dem dritten Rang“.",
+      "explanationDe": "Die meisten, die gekündigt haben, nennen als Hauptgrund „ein schlechtes Verhältnis zur direkten Führungskraft“, und die Studienleiterin rät, Führungskräfte besser zu schulen – im ganzen Text geht es um die Führung, also passt (g). Überschrift (b) ist die Falle: Ein höheres Gehalt landete nur „auf dem dritten Rang“.",
+      "evidence": [
+        "nannten 46 Prozent als Hauptgrund ein schlechtes Verhältnis zur direkten Führungskraft",
+        "Ein höheres Gehalt bei einem anderen Arbeitgeber landete erst auf dem dritten Rang"
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Wie gewinnt man Jugendliche für eine Lehre im Handwerk? In der Region St. Gallen setzen rund 40 Betriebe – von der Schreinerei bis zum Sanitärgeschäft – auf ein ungewöhnliches Angebot: In den Sommerferien können Schülerinnen und Schüler ab 14 Jahren eine Woche lang in bis zu drei verschiedenen Werkstätten mitarbeiten. Anders als bei einer gewöhnlichen Schnupperlehre erhalten sie dafür einen kleinen Lohn. Die Jugendlichen lernen dabei nicht nur Werkzeuge und Materialien kennen, sondern auch den Arbeitsalltag mit frühem Beginn und festen Pausen. Organisiert wird die Aktion vom Gewerbeverband „Handwerk Ost“, der damit dem wachsenden Mangel an Lernenden begegnen will. Im vergangenen Jahr nahmen 60 Jugendliche teil; etwa ein Drittel von ihnen hat inzwischen einen Lehrvertrag bei einem der beteiligten Betriebe unterschrieben. „Viele merken erst an der Hobelbank, dass ihnen praktische Arbeit liegt“, erzählt Schreinermeister Urs Keller, der selbst zwei Teilnehmer als Lernende übernommen hat. In diesem Sommer machen erstmals auch Betriebe aus dem Appenzellerland mit.",
+      "answer": "c",
+      "explanation": "Craft businesses offer pupils a paid week of work „in den Sommerferien“ to fight „dem wachsenden Mangel an Lernenden“ – a holiday job meant to win apprentices, so (c). Headline (d) twists a number: „etwa ein Drittel“ of the participants later signed an apprenticeship contract; nobody drops out.",
+      "explanationDe": "Handwerksbetriebe bieten Jugendlichen „in den Sommerferien“ eine bezahlte Arbeitswoche an, um „dem wachsenden Mangel an Lernenden“ zu begegnen – ein Ferienjob, der Nachwuchs bringen soll, also passt (c). Überschrift (d) verdreht eine Zahl: „etwa ein Drittel“ der Teilnehmenden hat später einen Lehrvertrag unterschrieben; von einem Abbruch ist keine Rede.",
+      "evidence": [
+        "In den Sommerferien können Schülerinnen und Schüler ab 14 Jahren eine Woche lang in bis zu drei verschiedenen Werkstätten mitarbeiten",
+        "dem wachsenden Mangel an Lernenden begegnen will"
+      ]
+    },
+    {
+      "n": 3,
+      "text": "Arbeiten, wo andere Urlaub machen: Beim Münchner Softwarehersteller Brennwerk dürfen die rund 300 Beschäftigten seit diesem Jahr bis zu 25 Arbeitstage jährlich in einem anderen EU-Land verbringen. Zusätzliche freie Tage sind damit ausdrücklich nicht verbunden. Wer am Strand von Valencia oder in einer Ferienwohnung in Südtirol sitzt, muss während der Kernarbeitszeit erreichbar sein und seine Aufgaben wie gewohnt erledigen. Außerdem gilt das Angebot erst nach der Probezeit und nur, wenn das eigene Team zustimmt; zudem muss eine sichere Internetverbindung vorhanden sein. Die Vorbereitung hat die Personalabteilung fast ein Jahr gekostet, denn Fragen zu Steuern und Sozialversicherung mussten für jedes Land einzeln geklärt werden. Personalchefin Miriam Vogt ist trotzdem zufrieden: Seit das Modell in den Stellenanzeigen erwähnt wird, gehen spürbar mehr Bewerbungen ein. Rund ein Viertel der Belegschaft hat das Angebot bereits genutzt. Der Betriebsrat begrüßt das Modell, warnt aber davor, dass die Grenze zwischen Arbeit und Freizeit am Urlaubsort leicht verschwimmen könnte.",
+      "answer": "i",
+      "explanation": "Employees may spend „bis zu 25 Arbeitstage jährlich in einem anderen EU-Land“ – for example on the beach in Valencia – while working as usual, so (i). Headline (h) is tempting because the model attracts more applicants, but the text says „Zusätzliche freie Tage sind damit ausdrücklich nicht verbunden“.",
+      "explanationDe": "Die Beschäftigten dürfen „bis zu 25 Arbeitstage jährlich in einem anderen EU-Land“ verbringen – zum Beispiel am Strand von Valencia – und arbeiten dort ganz normal, also passt (i). Überschrift (h) ist verlockend, weil das Modell mehr Bewerbungen bringt, aber im Text steht: „Zusätzliche freie Tage sind damit ausdrücklich nicht verbunden“.",
+      "evidence": [
+        "bis zu 25 Arbeitstage jährlich in einem anderen EU-Land verbringen",
+        "Zusätzliche freie Tage sind damit ausdrücklich nicht verbunden"
+      ]
+    },
+    {
+      "n": 4,
+      "text": "Die Ferienregion Steinbergland in der Obersteiermark will den Ausflugsverkehr in den Griff bekommen. An sonnigen Sommerwochenenden sind die Parkplätze an den beliebtesten Wanderwegen bisher schon am frühen Vormittag überfüllt, und auf den schmalen Bergstraßen bilden sich lange Staus. Im vergangenen Sommer zählte die Polizei an manchen Tagen mehr als 2.000 Fahrzeuge auf der einzigen Zufahrtsstraße ins Tal. Ab Juni erhalten deshalb alle Gäste, die mindestens eine Nacht in der Region verbringen, eine Gästekarte, mit der sie die Regionalbusse und den neuen Wanderbus kostenlos nutzen können. Der Wanderbus fährt im Stundentakt zu sechs Ausgangspunkten für Bergtouren, das eigene Fahrzeug kann während des Aufenthalts bei der Unterkunft bleiben. Finanziert wird das Angebot über eine Erhöhung der Ortstaxe um 80 Cent pro Übernachtung. Einige Hoteliers hatten zunächst befürchtet, damit Gäste abzuschrecken, haben dem Modell aber schließlich zugestimmt. Einheimische zahlen weiterhin den regulären Fahrpreis. Ein Fahrverbot für Autos ist nach Angaben des Tourismusverbands nicht geplant.",
+      "answer": "a",
+      "explanation": "Because the car parks are „überfüllt“, overnight guests get a card to use the buses „kostenlos“, including a hiking bus to the trailheads – the region wants holidaymakers to leave the car, so (a). Headline (e) exaggerates: there are traffic jams, but „Ein Fahrverbot für Autos ist … nicht geplant“.",
+      "explanationDe": "Weil die Parkplätze „überfüllt“ sind, bekommen Übernachtungsgäste eine Karte, mit der sie die Busse „kostenlos“ nutzen können, auch einen Wanderbus zu den Bergtouren – die Region möchte, dass Urlauber das Auto stehen lassen, also passt (a). Überschrift (e) übertreibt: Es gibt Staus, aber „Ein Fahrverbot für Autos ist … nicht geplant“.",
+      "evidence": [
+        "eine Gästekarte, mit der sie die Regionalbusse und den neuen Wanderbus kostenlos nutzen können",
+        "Ein Fahrverbot für Autos ist nach Angaben des Tourismusverbands nicht geplant"
+      ]
+    },
+    {
+      "n": 5,
+      "text": "Immer mehr Deutsche möchten mit der Bahn in den Urlaub fahren. Laut einer Umfrage des Hamburger Reiseportals „Fernweh-Kompass“ unter 3.000 Erwachsenen will in diesem Jahr gut jeder Dritte mindestens eine Reise ins europäische Ausland mit dem Zug unternehmen; vor zwei Jahren war es nur etwa jeder Fünfte. Als Gründe nennen die Befragten vor allem den Klimaschutz und die Möglichkeit, unterwegs zu lesen oder zu arbeiten. Besonders gefragt sind Ziele in Italien, Frankreich und Österreich, die sich in weniger als zehn Stunden erreichen lassen. Doch zwischen Wunsch und Wirklichkeit steht oft die Buchung: Fast 60 Prozent klagen, dass grenzüberschreitende Verbindungen schwer zu finden und die Preise kaum vergleichbar seien. Wer etwa von Köln nach Barcelona fahren will, muss häufig mehrere Fahrkarten bei verschiedenen Bahngesellschaften kaufen. Zudem sind die Tickets nach Ansicht vieler Befragter teurer als ein Flug. Das Portal fordert deshalb eine gemeinsame europäische Buchungsplattform, auf der man alle Verbindungen mit einem einzigen Ticket buchen kann.",
+      "answer": "f",
+      "explanation": "Train holidays are becoming more popular („gut jeder Dritte“ instead of „jeder Fünfte“), but booking is a problem („schwer zu finden“, „mehrere Fahrkarten“) – popular but complicated, so (f). Headline (j) says the opposite of the text: many think the tickets are „teurer als ein Flug“.",
+      "explanationDe": "Urlaub mit dem Zug wird beliebter („gut jeder Dritte“ statt „jeder Fünfte“), aber die Buchung ist ein Problem („schwer zu finden“, „mehrere Fahrkarten“) – beliebt, aber umständlich, also passt (f). Überschrift (j) sagt das Gegenteil: Nach Ansicht vieler Befragter sind die Tickets „teurer als ein Flug“.",
+      "evidence": [
+        "will in diesem Jahr gut jeder Dritte mindestens eine Reise ins europäische Ausland mit dem Zug unternehmen",
+        "Doch zwischen Wunsch und Wirklichkeit steht oft die Buchung"
+      ]
+    }
+  ],
+  "distractors": [
+    {
+      "key": "b",
+      "why": "Text 1 is a survey about why people change jobs, but money is not the main reason: a higher salary came only third, after a bad relationship with the manager.",
+      "whyDe": "Text 1 ist eine Umfrage zum Jobwechsel, aber Geld ist nicht der wichtigste Grund: Ein höheres Gehalt kam erst auf Platz drei, nach einem schlechten Verhältnis zur Führungskraft."
+    },
+    {
+      "key": "d",
+      "why": "The fraction in text 2 is used in the opposite sense: about a third of the young participants later signed an apprenticeship contract. The text says nothing about apprentices dropping out.",
+      "whyDe": "Der Bruch in Text 2 bedeutet etwas ganz anderes: Etwa ein Drittel der Jugendlichen hat später einen Lehrvertrag unterschrieben. Vom Abbruch einer Ausbildung spricht der Text nicht."
+    },
+    {
+      "key": "e",
+      "why": "Text 4 mentions traffic jams on mountain roads, but the region answers with free buses; the tourist board says explicitly that no ban on cars is planned.",
+      "whyDe": "Text 4 erwähnt Staus auf den Bergstraßen, aber die Region reagiert mit kostenlosen Bussen; der Tourismusverband sagt ausdrücklich, dass kein Fahrverbot geplant ist."
+    },
+    {
+      "key": "h",
+      "why": "Text 3 is about attracting applicants, but with work abroad, not with holidays: „Zusätzliche freie Tage sind damit ausdrücklich nicht verbunden“. The craft businesses in text 2 offer paid work, not holidays either.",
+      "whyDe": "In Text 3 geht es zwar darum, mehr Bewerbungen zu bekommen, aber durch Arbeit im Ausland, nicht durch Urlaub: „Zusätzliche freie Tage sind damit ausdrücklich nicht verbunden“. Auch die Handwerksbetriebe in Text 2 bieten bezahlte Arbeit an, keinen Urlaub."
+    },
+    {
+      "key": "j",
+      "why": "Text 5 is about train holidays abroad, but many respondents find the tickets more expensive than a flight, not cheaper.",
+      "whyDe": "Text 5 handelt von Bahnreisen ins Ausland, aber nach Ansicht vieler Befragter sind die Tickets teurer als ein Flug, nicht billiger."
+    }
+  ],
+  "glossary": [
+    { "de": "die Führungskraft", "en": "manager, person in a leadership role" },
+    { "de": "die Anerkennung", "en": "recognition, appreciation" },
+    { "de": "die Zuständigkeit", "en": "(area of) responsibility" },
+    { "de": "der Nachwuchs", "en": "new generation (of workers), young talent" },
+    { "de": "die Schnupperlehre (CH)", "en": "short trial placement in a company" },
+    { "de": "die Lernenden (CH)", "en": "apprentices" },
+    { "de": "die Probezeit", "en": "probation period" },
+    { "de": "die Belegschaft", "en": "workforce, staff" },
+    { "de": "die Kernarbeitszeit", "en": "core working hours" },
+    { "de": "die Ortstaxe (AT)", "en": "local tourist tax" },
+    { "de": "überfüllt", "en": "overcrowded" },
+    { "de": "grenzüberschreitend", "en": "cross-border" }
+  ]
+}

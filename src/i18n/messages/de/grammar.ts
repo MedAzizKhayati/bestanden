@@ -4,15 +4,16 @@ export const grammar: Messages["grammar"] = {
   topics: (n) => (n === 1 ? "1 Thema" : `${n} Themen`),
   drills: (n) => (n === 1 ? "1 Übung" : `${n} Übungen`),
   index: {
-    metaTitle: "Grammatik für telc B1",
+    metaTitle: "Grammatik für telc B1 und B2",
     metaDescription:
-      "Alle Grammatikthemen, die du für telc B1 brauchst – mit Erklärungen, Tabellen, typischen Fehlern und interaktiven Übungen.",
+      "Alle Grammatikthemen, die du für telc B1 und B2 brauchst – mit Erklärungen, Tabellen, typischen Fehlern und interaktiven Übungen.",
     title: "Grammatik",
     description:
       "Alles, was in den Sprachbausteinen geprüft wird – und was dir beim Schreiben und Sprechen mehr Punkte bringt. Kurze, einfache Erklärungen, echte deutsche Beispiele, typische Fallen und Übungen, die sich selbst korrigieren.",
     masteredOf: (total) => `von ${total} Themen gemeistert (≥ 80 % der Übungen)`,
     levelA2: "A2-Auffrischung",
     levelB1: "B1-Kernthemen",
+    levelB2: "B2",
   },
   topic: {
     metaFallback: "Grammatik",
